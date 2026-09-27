@@ -40,6 +40,15 @@ def card_files(outdir):
     return files
 
 
+def write_srt(cues, path):
+    """문장 단위 자막 파일. 유튜브에 한국어 자막 트랙으로 올리면 시청자가 자동 번역으로 볼 수 있다."""
+    def ts(t):
+        ms = int(round(t * 1000))
+        return "%02d:%02d:%02d,%03d" % (ms // 3600000, ms // 60000 % 60, ms // 1000 % 60, ms % 1000)
+    Path(path).write_text("".join("%d\n%s --> %s\n%s\n\n" % (i + 1, ts(a), ts(b), text.strip())
+                                  for i, (a, b, text) in enumerate(cues)), encoding="utf-8")
+
+
 def render(spec):
     from video import assemble, captions, kenburns, tts
     from video.tts import Word
@@ -55,10 +64,12 @@ def render(spec):
     work.mkdir(parents=True, exist_ok=True)
 
     clips, wavs, words, cursor = [], [], [], 0.0
+    cues = []   # 유튜브 자막 트랙(SRT)용 — 문장 단위 (시작, 끝, 문장)
     last = len(segs) - 1
     for i, seg in enumerate(segs):
         wav = work / ("seg_%02d.wav" % i)
         res = tts.synthesize_tight(seg["text"], VOICE, wav, rate=RATE)
+        cues.append((cursor, cursor + res.duration, seg["text"]))
         wavs.append(wav)
         words.append([Word(w.text, w.start + cursor, w.end + cursor) for w in res.words])
         cursor += res.duration
@@ -78,6 +89,7 @@ def render(spec):
     )
     final = outdir / "video.mp4"
     assemble.mux_final(video, voice, ass, final, fonts_dir=FONTS)
+    write_srt(cues, outdir / "captions.srt")
     print("VIDEO %s (%.1fs, %d문장)" % (final, cursor, len(segs)))
     return final
 

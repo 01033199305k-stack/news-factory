@@ -175,6 +175,13 @@ class YouTube(Platform):
     무료 한도는 하루 약 6건 — 다 쓰면 그 건은 건너뛴다. 심사 전 앱의 업로드는 유튜브가 비공개로 잠근다."""
     name, token_env = "youtube", "YOUTUBE_REFRESH_TOKEN"
     PRIVACY = os.environ.get("YOUTUBE_PRIVACY", "public")
+    # 시청자 언어 설정에 맞춰 보이는 제목·설명 (업로드에 같이 실려서 한도를 더 안 쓴다)
+    LANGS = {"en": "English", "ja": "Japanese", "es": "Spanish",
+             "zh-Hant": "Traditional Chinese (Taiwan)", "vi": "Vietnamese", "id": "Indonesian"}
+    TRANSLATE_SYSTEM = """You translate a Korean breaking-news Short's title and description.
+Translate faithfully. Do not add, drop, round or convert any number, name or fact.
+Keep outlet names (BBC, CNN ...) as they are. Keep "[속보]"/"[정리]" as "[Breaking]"/"[Roundup]"
+in the target language. Unconfirmed items must stay unconfirmed. Plain text, no hashtags."""
 
     def access(self):
         if not self._uid:  # _uid 자리에 액세스 토큰을 캐시한다
@@ -207,6 +214,58 @@ class YouTube(Platform):
         with urllib.request.urlopen(req, timeout=120) as r:
             return r.read()
 
+    def localizations(self, title, text):
+        """Gemini(무료)로 번역. 원문에 없는 숫자가 들어간 언어는 뺀다. 실패하면 번역 없이 올린다."""
+        if not os.environ.get("GEMINI_API_KEY"):
+            return {}
+        import re
+        from news_watch import gemini_json
+        schema = {"type": "object", "properties": {"items": {"type": "array", "items": {
+            "type": "object", "properties": {"lang": {"type": "string", "enum": list(self.LANGS)},
+                                             "title": {"type": "string"},
+                                             "description": {"type": "string"}},
+            "required": ["lang", "title", "description"]}}}, "required": ["items"]}
+        user = "Languages: %s\n\nTITLE:\n%s\n\nDESCRIPTION:\n%s" % (
+            ", ".join("%s (%s)" % kv for kv in self.LANGS.items()), title, text)
+        try:
+            items = gemini_json(self.TRANSLATE_SYSTEM, user, schema)["items"]
+        except Exception as ex:
+            print("YOUTUBE 번역 건너뜀:", ex)
+            return {}
+        nums = lambda t: set(re.findall(r"\d+(?:[.,]\d+)?", t))
+        allowed = nums(title + " " + text)
+        out = {}
+        for it in items:
+            bad = nums(it["title"] + " " + it["description"]) - allowed
+            if it["lang"] in self.LANGS and not bad and it["title"].strip():
+                out[it["lang"]] = {"title": it["title"].replace("<", "").replace(">", "")[:90] + " #Shorts",
+                                   "description": it["description"][:4900]}
+            else:
+                print("YOUTUBE 번역 제외", it.get("lang"), "원문에 없는 숫자:", sorted(bad))
+        return out
+
+    def add_captions(self, vid, item):
+        """한국어 자막 트랙 (400 한도). 시청자는 자막 → 자동 번역으로 다른 언어를 고른다."""
+        srt = os.path.join(ROOT, "output", item["slug"], "captions.srt")
+        if not os.path.exists(srt):
+            print("YOUTUBE 자막 파일 없음 — 건너뜀")
+            return
+        boundary = "nf%d" % int(time.time())
+        meta = json.dumps({"snippet": {"videoId": vid, "language": "ko", "name": "한국어"}})
+        with open(srt, "rb") as fp:
+            body = (("--%s\r\nContent-Type: application/json; charset=UTF-8\r\n\r\n%s\r\n"
+                     "--%s\r\nContent-Type: application/x-subrip\r\n\r\n")
+                    % (boundary, meta, boundary)).encode() + fp.read() + ("\r\n--%s--" % boundary).encode()
+        req = urllib.request.Request(
+            "https://www.googleapis.com/upload/youtube/v3/captions?part=snippet&uploadType=multipart",
+            data=body, method="POST", headers={"Authorization": "Bearer " + self.access(),
+                                               "Content-Type": "multipart/related; boundary=" + boundary})
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                print("YOUTUBE 자막 올림", json.loads(r.read()).get("id"))
+        except urllib.error.HTTPError as ex:  # 자막이 안 돼도 영상은 이미 올라갔다
+            print("YOUTUBE 자막 실패 %d %s" % (ex.code, ex.read()[:200]))
+
     def post(self, item):
         if not item.get("video"):
             raise Skip("영상 없음")
@@ -219,12 +278,14 @@ class YouTube(Platform):
                         "defaultLanguage": "ko", "defaultAudioLanguage": "ko"},
             "status": {"privacyStatus": self.PRIVACY, "selfDeclaredMadeForKids": False},
         }
+        meta["localizations"] = self.localizations(meta["snippet"]["title"][:-len(" #Shorts")],
+                                                   item["text"])
         video = self.video_bytes(item)
         auth = {"Authorization": "Bearer " + self.access()}
         try:
             req = urllib.request.Request(
                 "https://www.googleapis.com/upload/youtube/v3/videos"
-                "?uploadType=resumable&part=snippet,status",
+                "?uploadType=resumable&part=snippet,status,localizations",
                 data=json.dumps(meta).encode(), method="POST", headers=dict(auth, **{
                     "Content-Type": "application/json; charset=UTF-8",
                     "X-Upload-Content-Type": "video/mp4",
@@ -244,6 +305,7 @@ class YouTube(Platform):
             except (ValueError, KeyError):
                 body = body[:300]
             raise RuntimeError("upload → %d: %s" % (ex.code, body))
+        self.add_captions(vid, item)
         return vid, "https://youtube.com/shorts/" + vid
 
 

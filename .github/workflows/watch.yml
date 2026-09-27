@@ -122,6 +122,8 @@ jobs:
       - name: 유튜브 쇼츠 게시
         if: steps.q.outputs.n != '0'
         continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}   # 제목·설명 번역 (무료)
         run: python post.py --only youtube
 
       # 카드·영상은 보관소에만 두고 저장소에는 기록(state·specs)만 남긴다 — 저장소가 불어나지 않게
