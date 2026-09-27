@@ -6,7 +6,7 @@
   "triggers": { "crons": ["* * * * *"] },
   "vars": { "GH_REPO": "01033199305k-stack/news-factory" },
   "kv_namespaces": [
-    { "binding": "SEEN", "id": "KV_ID_PLACEHOLDER" }
+    { "binding": "SEEN", "id": "014edaab946a42c0ad60565a693c8b2c" }
   ],
   "observability": { "enabled": true }
   // 시크릿 GH_DISPATCH_TOKEN 은 Cloudflare 대시보드에서 넣는다 (코드·저장소에 두지 않음)
