@@ -1,0 +1,119 @@
+{
+  "slug": "2026-09-27-news-south-africa-mass-shootings",
+  "topic": "남아공 총기 난사 최소 27명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.27 18:42 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxPVUFtM201Ull1RWd0aXk5dEZnSk4wdmpXRkUzYXBxWE51N0N6dUJNYXY0WUtQMTFXXzRLUjlJWWhLRjA2MWdya1E4S1hraGU5dFlyUWsxeVJ4RHZPU2xISmI4NUpkam1id2pUVVZieGZpQ25Eclh3SDFUeGhyalVfWUNFbXpIRmp1RndoekVrSEFKOGpyX0dOeXhhb18",
+    "related": [
+      [
+        "At least 27 dead after two mass shootings in South Africa, police say",
+        "The Guardian"
+      ],
+      [
+        "Two mass shootings in South Africa leave 27 dead",
+        "BBC"
+      ],
+      [
+        "South African police hunt killers after 27 gunned down in two separate shootings",
+        "Reuters"
+      ],
+      [
+        "At least 27 people killed in two shootings in South African townships",
+        "Al Jazeera"
+      ],
+      [
+        "At least 17 dead in mass shooting at bar in South Africa, police say",
+        "The Independent"
+      ]
+    ],
+    "event_key": "south-africa-mass-shootings"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "남아공 총기 난사\n최소 [[27명 사망]]",
+      "sub": "남아프리카공화국에서 발생한 두 건의 총격 사건으로 최소 27명이 숨졌습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 27명"
+        }
+      ],
+      "alt": "남아공 총기 난사 최소 27명 사망",
+      "map": {
+        "lat": -28.8166236,
+        "lon": 24.991639,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "남아프리카공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "남아프리카공화국\n남아프리카공화국",
+      "map": {
+        "lat": -28.8166236,
+        "lon": 24.991639,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "South Africa"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "두 건의 총격 사건",
+          "d": "남아프리카공화국 내 두 곳에서 총기 난사 사건이 각각 발생했습니다. (BBC·로이터)"
+        },
+        {
+          "t": "최소 27명 숨져",
+          "d": "경찰에 따르면 이번 연쇄 총격으로 최소 27명이 목숨을 잃었습니다. (더 가디언·알자지라)"
+        },
+        {
+          "t": "경찰 용의자 추적 중",
+          "d": "남아프리카공화국 경찰이 총격을 가한 용의자들을 추적하고 있습니다. (로이터)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "남아프리카공화국 내 두 곳에서 총기 난사 발생 (BBC·로이터)",
+        "최소 27명 사망 (더 가디언·BBC·로이터·알자지라)"
+      ],
+      "unconfirmed": [
+        "더 인디펜던트는 바(bar) 총격으로 17명이 숨졌다고 보도하는 등 세부 사망자 수 집계 일부 상이",
+        "범행 동기 및 용의자 신원 미확인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "The Independent",
+        "2026.09.27 20:29 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 남아프리카공화국에서 발생한 두 건의 총격 사건으로 최소 27명이 사망했습니다. 남아프리카공화국 경찰에 따르면 서로 다른 두 곳의 지역에서 총기 난사 사건이 발생해 최소 27명이 숨졌습니다. 경찰은 총격을 저지르고 도주한 용의자들을 추적하고 있습니다. 범행 동기나 피해자들의 상세한 신원은 아직 확인되지 않았습니다. 출처: 더 가디언·BBC·로이터·알자지라 보도 종합",
+    "hashtags": []
+  }
+}

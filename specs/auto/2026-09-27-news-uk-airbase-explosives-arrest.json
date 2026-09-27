@@ -1,0 +1,119 @@
+{
+  "slug": "2026-09-27-news-uk-airbase-explosives-arrest",
+  "topic": "영국 미군기지 인근 폭발물 혐의 수명 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.27 18:29 KST",
+  "source": "BBC·CBS News·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxNaERBSHFQbHFPOTkxVzZvSmJlWkI1VmlMaGxQS2RvMGdhU2FXOXpfMHIyYmFMM3FFdGdTQ0Q2aEFFeFNVaks3VEQ4bDl6aFI5OXd5ZmRZeERldFBxQV96N1JzaHFsRUx2ZEVuSlUzZmtHRTdmcnhDS1d4ZHZsbFVmRE0yY083aDRHUjdSblBtTQ",
+    "related": [
+      [
+        "Several men arrested, bomb disposal team deployed near air base used by U.S. forces in England",
+        "CBS News"
+      ],
+      [
+        "UK counter-terror police investigate after several arrested near base used by US forces",
+        "CNN"
+      ],
+      [
+        "Multiple arrests on suspicion of explosives offenses near U.K. base used by U.S. forces",
+        "WBUR"
+      ],
+      [
+        "RAF Fairford: Men held in major incident near air base as homes evacuated",
+        "BBC"
+      ],
+      [
+        "Explosives arrests made in ‘major incident’ near RAF Fairford",
+        "Financial Times"
+      ]
+    ],
+    "event_key": "uk-airbase-explosives-arrest"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 미군기지 인근\n[[폭발물 혐의]] 수명 체포",
+      "sub": "영국 미군 사용 공군기지 근처에서 폭발물 혐의로 여러 명이 체포되었습니다.",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "여러 명"
+        }
+      ],
+      "alt": "영국 미군기지 인근 폭발물 혐의 수명 체포",
+      "map": {
+        "lat": 51.6851429,
+        "lon": -1.7864746,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n글로스터셔 페어포드",
+      "map": {
+        "lat": 51.6851429,
+        "lon": -1.7864746,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "RAF Fairford, England"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "폭발물 혐의 체포",
+          "d": "미군이 사용하는 영국의 RAF 페어포드 공군기지 인근에서 폭발물 관련 혐의로 남성 여러 명이 체포되었습니다. (BBC·CNN)"
+        },
+        {
+          "t": "대테러 경찰 수사",
+          "d": "영국 대테러 경찰이 현장에서 즉시 수사에 착수했습니다. (CNN)"
+        },
+        {
+          "t": "인근 지역 주민 대피",
+          "d": "안전을 위해 기지 인근 주택가에 대피령이 내려졌고 폭발물 처리반이 배치되었습니다. (BBC)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국 RAF 페어포드 기지 인근에서 폭발물 혐의로 남성 여러 명 체포 (BBC·CNN)",
+        "대테러 경찰 수사 착수 및 폭발물 처리반 배치 (CNN·CBS)",
+        "인근 주민 대피령 발령 (BBC)"
+      ],
+      "unconfirmed": [
+        "구체적인 용의자들의 신원 및 범행 동기 미확인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CBS News",
+        "CNN",
+        "Financial Times",
+        "WBUR",
+        "2026.09.27 20:29 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국의 미군 사용 공군기지 인근에서 폭발물 혐의로 여러 명이 체포되었습니다. 영국 글로스터셔의 RAF 페어포드 기지 인근에서 폭발물 관련 혐의로 남성 여러 명이 체포되어 대테러 경찰이 수사에 착수했습니다. 안전 조치로 인근 주민들에게 대피령이 내려졌으며 현장에는 폭발물 처리반이 배치되었습니다. 구체적인 용의자들의 신원이나 동기는 아직 확인되지 않았습니다. 출처: BBC·CNN·CBS News 보도 종합",
+    "hashtags": []
+  }
+}
