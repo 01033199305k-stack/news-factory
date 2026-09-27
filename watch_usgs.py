@@ -294,7 +294,8 @@ def make_draft(ev, queue=False):
     if queue:
         item = {"slug": spec["slug"], "event_ms": ev["properties"]["time"],
                 "images": [name for name, _ in made],
-                "text": spec["caption"]["threads"], "topic_tag": "지진"}
+                "text": spec["caption"]["threads"], "topic_tag": "지진",
+                "hashtags": spec["caption"].get("hashtags", [])}
         target = REVIEW if spec["needs_review"] else QUEUE
         q = read_json(target, [])
         q.append(item)

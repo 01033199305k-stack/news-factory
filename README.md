@@ -9,12 +9,13 @@ GitHub Actions `.github/workflows/watch.yml` 이 5분마다:
 
 1. `watch_usgs.py --queue` — 새 지진이면 카드 생성 → `state/queue.json` 에 게시 대기
 2. 카드 커밋·푸시 → 그 커밋의 raw 이미지 주소로
-3. `post_threads.py` — 스레드에 캐러셀 게시 → `state/posted.json` 에 기록
+3. `post.py` — 스레드·인스타그램에 캐러셀 게시 (토큰 있는 곳만) → `state/posted.json` 에 기록
 
 | 시크릿 (Settings → Secrets → Actions) | 내용 |
 |---|---|
 | `THREADS_USER_ID` | (선택) 스레드 사용자 ID. 없으면 토큰으로 조회한다 |
 | `THREADS_ACCESS_TOKEN` | 스레드 장기 토큰 (60일) |
+| `INSTAGRAM_ACCESS_TOKEN` | 인스타그램 API(인스타그램 로그인) 장기 토큰. 프로페셔널 계정 필요. 없으면 인스타는 건너뜀 |
 | `GH_PAT` | 토큰 자동 갱신용. 이 저장소만, 권한 `Secrets: Read and write` 의 fine-grained 토큰 |
 | `GEMINI_API_KEY` | 사건·사고 판정·정리용. Google AI Studio 무료 키 (카드 등록 없음) |
 | `ANTHROPIC_API_KEY` | (선택, 유료) Gemini 대신 Claude 로 판정. `GEMINI_API_KEY` 가 있으면 Gemini 가 우선 |

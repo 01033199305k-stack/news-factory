@@ -54,12 +54,13 @@ jobs:
           fi
           echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
-      - name: 스레드 게시
+      - name: 스레드·인스타 게시
         env:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
           IMAGE_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ steps.commit.outputs.sha }}
-        run: python post_threads.py
+        run: python post.py
 
       - name: 게시 기록 커밋
         if: always()

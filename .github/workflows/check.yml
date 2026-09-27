@@ -56,6 +56,35 @@ jobs:
           print("게시 권한          : 확인됨 (오늘 %s / %s건 사용)" % (d.get("quota_usage"), (d.get("config") or {}).get("quota_total")))
           EOF
 
+      - name: 인스타 토큰 확인
+        env:
+          TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+        run: |
+          python - <<'EOF'
+          import json, os, sys, urllib.error, urllib.parse, urllib.request
+          tok = os.environ["TOKEN"]
+          if not tok:
+              print("INSTAGRAM_ACCESS_TOKEN: 없음 — 인스타 게시는 꺼진 상태"); sys.exit(0)
+          def get(path, **q):
+              q["access_token"] = tok
+              url = "https://graph.instagram.com/%s?%s" % (path, urllib.parse.urlencode(q))
+              try:
+                  with urllib.request.urlopen(url, timeout=30) as r:
+                      return json.loads(r.read())
+              except urllib.error.HTTPError as ex:
+                  try:
+                      msg = json.loads(ex.read())["error"]["message"]
+                  except Exception:
+                      msg = "HTTP %d" % ex.code
+                  print("오류:", msg); sys.exit(1)
+          me = get("me", fields="user_id,username,account_type")
+          print("연결된 인스타 계정 : @%s (%s)" % (me.get("username"), me.get("account_type")))
+          uid = me.get("user_id") or me.get("id")
+          lim = get("%s/content_publishing_limit" % uid, fields="quota_usage,config")
+          d = (lim.get("data") or [{}])[0]
+          print("게시 권한          : 확인됨 (오늘 %s / %s건 사용)" % (d.get("quota_usage"), (d.get("config") or {}).get("quota_total")))
+          EOF
+
       - name: Gemini 판정 시험 (게시 안 함)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

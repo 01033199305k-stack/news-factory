@@ -23,4 +23,18 @@ jobs:
           if [ -z "$NEW" ]; then echo "::error::토큰 갱신 실패"; exit 1; fi
           echo "::add-mask::$NEW"
           gh secret set THREADS_ACCESS_TOKEN --body "$NEW" --repo "${{ github.repository }}"
-          echo "갱신 완료"
+          echo "스레드 갱신 완료"
+
+      - name: 인스타 토큰 갱신
+        env:
+          TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "INSTAGRAM_ACCESS_TOKEN 없음 — 건너뜀"; exit 0; fi
+          if [ -z "$GH_TOKEN" ]; then echo "::error::GH_PAT 없음 — 토큰을 자동 갱신할 수 없습니다"; exit 1; fi
+          NEW=$(curl -sf "https://graph.instagram.com/refresh_access_token?grant_type=ig_refresh_token&access_token=$TOKEN" \
+                | python3 -c "import sys,json; print(json.load(sys.stdin)['access_token'])")
+          if [ -z "$NEW" ]; then echo "::error::인스타 토큰 갱신 실패"; exit 1; fi
+          echo "::add-mask::$NEW"
+          gh secret set INSTAGRAM_ACCESS_TOKEN --body "$NEW" --repo "${{ github.repository }}"
+          echo "인스타 갱신 완료"

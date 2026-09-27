@@ -458,7 +458,10 @@ def shoot(chrome, html_path, png_path, work, idx, timeout=30):
         from PIL import Image
         im = Image.open(png_path)
         if im.size != (W, H):
-            im.resize((W, H), Image.LANCZOS).save(png_path)
+            im = im.resize((W, H), Image.LANCZOS)
+            im.save(png_path)
+        # 인스타그램 API 는 JPEG 만 받는다 — 같은 이름의 .jpg 를 옆에 둔다
+        im.convert("RGB").save(png_path[:-4] + ".jpg", quality=92, optimize=True)
     except ImportError:
         pass
 

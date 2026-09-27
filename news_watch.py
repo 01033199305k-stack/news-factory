@@ -10,7 +10,7 @@
 1. 구글 뉴스 RSS — 기사마다 같은 사건을 보도한 다른 매체 목록이 붙어 온다
 2. 자동 게시 조건: 최근 MAX_AGE_H 안 + 서로 다른 매체 MIN_SOURCES 곳 이상 + 사건·사고 키워드
 3. Claude 가 헤드라인들만 보고 판정·정리 (기사 원문을 옮기지 않는다, 외부 지식으로 채우지 않는다)
-4. 카드 렌더링 → state/queue.json → post_threads.py 가 게시
+4. 카드 렌더링 → state/queue.json → post.py 가 스레드·인스타에 게시
 
 지진은 watch_usgs.py 가 USGS 원자료로 따로 처리하므로 여기서는 건너뛴다.
 """
@@ -441,7 +441,9 @@ def run(queue=False, dry=False):
             q = read_json(QUEUE, [])
             q.append({"slug": spec["slug"], "event_ms": int(c["pub"].timestamp() * 1000),
                       "images": [n for n, _ in cards], "text": spec["caption"]["threads"],
-                      "topic_tag": "해외사건사고"})
+                      "topic_tag": "해외사건사고",
+                      "hashtags": ["해외사건사고", ev["category"].replace("·", ""),
+                                   ev["country_ko"].replace(" ", "")]})
             write_json(QUEUE, q)
         made += 1
 
