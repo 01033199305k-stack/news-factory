@@ -13,7 +13,7 @@ GitHub Actions `.github/workflows/watch.yml` 이 5분마다:
 
 | 시크릿 (Settings → Secrets → Actions) | 내용 |
 |---|---|
-| `THREADS_USER_ID` | 스레드 사용자 ID |
+| `THREADS_USER_ID` | (선택) 스레드 사용자 ID. 없으면 토큰으로 조회한다 |
 | `THREADS_ACCESS_TOKEN` | 스레드 장기 토큰 (60일) |
 | `GH_PAT` | 토큰 자동 갱신용. 이 저장소만, 권한 `Secrets: Read and write` 의 fine-grained 토큰 |
 

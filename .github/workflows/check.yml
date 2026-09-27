@@ -28,10 +28,10 @@ jobs:
           python - <<'EOF'
           import json, os, sys, urllib.error, urllib.parse, urllib.request
           uid, tok = os.environ["THREADS_USER_ID"], os.environ["THREADS_ACCESS_TOKEN"]
-          print("THREADS_USER_ID     :", "있음" if uid else "없음")
           print("THREADS_ACCESS_TOKEN:", "있음" if tok else "없음")
+          print("THREADS_USER_ID     :", "있음" if uid else "없음 (선택 — 토큰으로 자동 조회)")
           print("GH_PAT (자동 갱신)   :", "있음" if os.environ["GH_PAT"] else "없음 — 60일마다 토큰 수동 교체 필요")
-          if not (uid and tok):
+          if not tok:
               sys.exit(1)
           def get(path, **q):
               q["access_token"] = tok
@@ -48,12 +48,12 @@ jobs:
                   sys.exit(1)
           me = get("me", fields="id,username")
           print("연결된 계정        : @%s" % me.get("username"))
-          print("USER_ID 일치       :", "예" if me.get("id") == uid else "아니오 — THREADS_USER_ID 를 %s 로 바꾸세요" % me.get("id"))
-          lim = get("%s/threads_publishing_limit" % uid, fields="quota_usage,config")
+          if uid and me.get("id") != uid:
+              print("USER_ID 불일치 — THREADS_USER_ID 시크릿을 지우거나 %s 로 바꾸세요" % me.get("id"))
+              sys.exit(1)
+          lim = get("%s/threads_publishing_limit" % me["id"], fields="quota_usage,config")
           d = (lim.get("data") or [{}])[0]
           print("게시 권한          : 확인됨 (오늘 %s / %s건 사용)" % (d.get("quota_usage"), (d.get("config") or {}).get("quota_total")))
-          if me.get("id") != uid:
-              sys.exit(1)
           EOF
 
       - name: 렌더링 확인

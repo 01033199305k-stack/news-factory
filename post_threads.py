@@ -29,7 +29,7 @@ POST_MAX_AGE_H = 6
 MAX_ATTEMPTS = 3
 MAX_CHARS = 500
 
-USER_ID = os.environ.get("THREADS_USER_ID", "")
+USER_ID = os.environ.get("THREADS_USER_ID", "")  # 비어 있으면 토큰으로 조회
 TOKEN = os.environ.get("THREADS_ACCESS_TOKEN", "")
 IMAGE_BASE = os.environ.get("IMAGE_BASE", "").rstrip("/")
 
@@ -101,13 +101,16 @@ def post_carousel(item):
 
 
 def main():
+    global USER_ID
     queue = read_json(QUEUE, [])
     if not queue:
         print("대기열 비어 있음")
         return 0
-    if not (USER_ID and TOKEN):
-        print("THREADS_USER_ID / THREADS_ACCESS_TOKEN 없음 — 게시 건너뜀 (대기 %d건)" % len(queue))
+    if not TOKEN:
+        print("THREADS_ACCESS_TOKEN 없음 — 게시 건너뜀 (대기 %d건)" % len(queue))
         return 0
+    if not USER_ID:  # 사용자 ID 는 토큰으로 조회할 수 있어서 시크릿이 없어도 된다
+        USER_ID = api("GET", "me", fields="id")["id"]
     if not IMAGE_BASE:
         print("IMAGE_BASE 없음 — 이미지 주소를 만들 수 없어 게시 건너뜀")
         return 1
