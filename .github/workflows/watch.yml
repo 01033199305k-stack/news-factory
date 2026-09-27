@@ -1,0 +1,70 @@
+# 5분마다 USGS 를 확인하고, 새 속보가 있으면 카드를 만들어 스레드에 올린다.
+# 컴퓨터가 꺼져 있어도 GitHub 서버에서 돈다.
+name: watch
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # GitHub 정책상 최소 5분. 혼잡할 땐 몇 분씩 늦게 돈다
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install --quiet pillow
+
+      - name: 감시
+        run: |
+          cp state/review.json /tmp/review_before.json 2>/dev/null || echo "[]" > /tmp/review_before.json
+          python watch_usgs.py --queue
+
+      - name: 카드 커밋
+        id: commit
+        run: |
+          git config user.name "news-factory-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A state specs output
+          if ! git diff --cached --quiet; then
+            git commit -m "draft: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+            sleep 10   # raw.githubusercontent.com 에 반영될 시간
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: 스레드 게시
+        env:
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          IMAGE_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ steps.commit.outputs.sha }}
+        run: python post_threads.py
+
+      - name: 게시 기록 커밋
+        if: always()
+        run: |
+          git add -A state
+          if ! git diff --cached --quiet; then
+            git commit -m "post log: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      # 지명 사전에 없는 지역이라 자동 게시를 멈춘 초안이 이번에 새로 생겼으면 실패 처리 → GitHub 가 메일로 알려준다
+      - name: 검토 필요 알림
+        run: |
+          if ! cmp -s /tmp/review_before.json state/review.json 2>/dev/null && [ -f state/review.json ]; then
+            echo "::error::지명 번역 확인이 필요한 초안이 생겼습니다. state/review.json 을 확인하세요."
+            exit 1
+          fi
