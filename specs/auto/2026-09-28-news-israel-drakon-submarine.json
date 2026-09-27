@@ -1,0 +1,156 @@
+{
+  "slug": "2026-09-28-news-israel-drakon-submarine",
+  "topic": "이스라엘 해군력 강화 신형 잠수함 도착",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 02:09 KST",
+  "source": "AD HOC NEWS·The Jerusalem Post·The Times of Israel 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxPd3dIWGZ4RVZEOVdPanhsa3F0cmowQXhYRHJ6SHkzS19MU0RwTVh6Wk5GZ3JLNDVrTkZLSTJRclk4d2N0SVRMM3VDazIyRFp5MkJJaU13QkU3M2JRaFg1VC1udk1mSlVLdmItbUZ3V1J0RjRlZmF1aUJ1YkpvWjdIOVJtM3hYMC1wdGV6bURpaDhOQzVxXzItWG9kQVpZeFYwTjlVWllBLVRWZ0lw0gGyAUFVX3lxTE5obU1LeFNsZ09mYXhsbHlWZFBGZ3NaTVUyMDNMclgwbnJ6QnBjM19Jd1Uwa29yZmw5U1BHWFZuOFFWNWNPT3FlRmlvNVJtQkhFZjRDemxGZEh0T3BKeEVKV3plTHdhVE9hRkw4eTQ4VWd5a0dQYXVLM2hRRS0yMWlFbVlUTHRJak9va2ZlcldjcTFPdFJRWkkwTE9FeDdCWG16ejdlRGFMUG8xeHYyZ0tBVUE",
+    "related": [
+      [
+        "Israel’s newest, largest submarine arrives, deepening Navy’s stealth capabilities",
+        "The Times of Israel"
+      ],
+      [
+        "Israel’s Drakon submarine: Inside the Navy’s newest underwater weapon",
+        "The Jerusalem Post"
+      ],
+      [
+        "3,000-ton warning to Iran and Turkey: Inside INS Drakon, Israel’s newest and most advanced submarine",
+        "Ynetnews"
+      ],
+      [
+        "Special Arutz Sheva interview: Operating at sea - in ways one can only imagine",
+        "israelnationalnews.com"
+      ],
+      [
+        "TKMS Closes Israel's Dolphin Line as India, Canada and Abu Dhabi Deals Take Shape",
+        "AD HOC NEWS"
+      ]
+    ],
+    "event_key": "israel-drakon-submarine"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이스라엘 해군력 [[강화]]\n신형 잠수함 도착",
+      "sub": "이스라엘 해군의 신형 대형 잠수함이 도착함.",
+      "chips": [
+        {
+          "k": "함정",
+          "v": "신형 잠수함"
+        }
+      ],
+      "alt": "이스라엘 해군력 강화 신형 잠수함 도착",
+      "map": {
+        "lat": 30.8124247,
+        "lon": 34.8594762,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘",
+      "map": {
+        "lat": 30.8124247,
+        "lon": 34.8594762,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "이스라엘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "신형 잠수함 인도",
+          "d": "이스라엘의 가장 최신이자 가장 큰 잠수함이 도착했다고 매체들이 보도했다 (The Times of Israel)"
+        },
+        {
+          "t": "은밀 작전 능력",
+          "d": "이번 잠수함 도입으로 해군의 스텔스 작전 능력이 깊어졌다고 전했다 (The Times of Israel)"
+        },
+        {
+          "t": "주요 외신 보도",
+          "d": "이스라엘 해군의 최신 수중 무기로 평가받고 있다 (The Jerusalem Post·Ynetnews)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이스라엘의 신형 잠수함 도착",
+        "해군 스텔스 능력 강화"
+      ],
+      "unconfirmed": [
+        "세부 전략적 배치 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AD HOC NEWS",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "Ynetnews",
+        "israelnationalnews.com",
+        "2026.09.28 04:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이스라엘의 가장 최신이자 가장 큰 잠수함이 도착해 해군의 은밀 작전 능력이 깊어졌다고 외신들이 전했습니다. 출처: The Times of Israel·The Jerusalem Post·Ynetnews 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 뉴스 정리입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이스라엘 해군의 신형 대형 잠수함이 도착함.",
+      "card": "cover"
+    },
+    {
+      "text": "AD HOC NEWS, The Jerusalem Post, The Times of Israel 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이스라엘의 가장 최신이자 가장 큰 잠수함이 도착했다고 매체들이 보도했다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 잠수함 도입으로 해군의 스텔스 작전 능력이 깊어졌다고 전했다.",
+      "card": "points"
+    },
+    {
+      "text": "이스라엘 해군의 최신 수중 무기로 평가받고 있다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것은, 이스라엘의 신형 잠수함 도착, 해군 스텔스 능력 강화입니다.",
+      "card": "check"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 세부 전략적 배치 상황입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

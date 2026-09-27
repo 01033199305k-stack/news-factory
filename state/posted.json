@@ -238,5 +238,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790521336
+  },
+  {
+    "slug": "2026-09-28-news-israel-drakon-submarine",
+    "event_ms": 1790536213109,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 이스라엘의 가장 최신이자 가장 큰 잠수함이 도착해 해군의 은밀 작전 능력이 깊어졌다고 외신들이 전했습니다. 출처: The Times of Israel·The Jerusalem Post·Ynetnews 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이스라엘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18150868639557320",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DdzVHqMGP_o",
+        "kind": "carousel",
+        "at": 1790536267
+      },
+      "instagram": {
+        "id": "18015006920966646",
+        "permalink": "https://www.instagram.com/reel/DdzVap9jKFx/",
+        "kind": "reel",
+        "at": 1790536442
+      },
+      "youtube": {
+        "id": "K1E0f2_S_TA",
+        "permalink": "https://youtube.com/shorts/K1E0f2_S_TA",
+        "kind": "shorts",
+        "at": 1790536537
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790536547
   }
 ]
