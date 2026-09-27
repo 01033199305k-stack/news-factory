@@ -28,6 +28,17 @@ GitHub 예약 실행은 제때 돌지 않아서(사실상 1시간) 1시간 백�
 | `GEMINI_API_KEY` | 사건·사고 판정·정리용. Google AI Studio 무료 키 (카드 등록 없음) |
 | `ANTHROPIC_API_KEY` | (선택, 유료) Gemini 대신 Claude 로 판정. `GEMINI_API_KEY` 가 있으면 Gemini 가 우선 |
 
+### 숏폼 (45초, 인스타 릴스)
+
+- 게시할 때마다 `make_video.py` 가 카드로 1080×1920 영상을 만든다. 여자 아나운서(edge-tts `ko-KR-SunHiNeural`),
+  단어 강조 자막, 카드는 80%로 줄여 위로 올리고 아래를 자막 자리로 쓴다 (`video/` = shorts-factory 에서 이식)
+- 원고는 `narration.py` — **카드에 이미 들어간 확인된 문장만** 이어 붙인다. AI 가 새로 쓰지 않는다
+- 순서: 카드 → 스레드 캐러셀 게시 → 영상 렌더링(클라우드 약 1~2분) → 인스타 **릴스** (영상이 실패하면 카드 캐러셀)
+- 카드 JPEG·영상은 저장소에 커밋하지 않고 감시기의 `/media` 보관소(KV, 3일 뒤 자동 삭제)에 올린다.
+  업로드 인증은 GitHub Actions OIDC — 이 저장소 main 에서 돈 작업만 올릴 수 있다
+- edge-tts 는 상업적 사용권이 없는 회색지대 — 수익화 전에 Piper(MIT) 나 Azure 유료로 바꾼다
+- 유튜브 쇼츠·틱톡 자동 업로드는 아직 없다 (두 API 모두 심사 전 앱은 비공개로만 올라간다)
+
 ### 사건·사고 (`news_watch.py`)
 
 - 구글 뉴스 RSS 는 기사마다 같은 사건을 보도한 다른 매체 목록을 붙여 준다
