@@ -25,12 +25,20 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install --quiet pillow
+      - run: pip install --quiet pillow anthropic
 
-      - name: 감시
+      - name: 지진 감시 (USGS)
+        continue-on-error: true
         run: |
           cp state/review.json /tmp/review_before.json 2>/dev/null || echo "[]" > /tmp/review_before.json
           python watch_usgs.py --queue
+
+      # 여러 해외 매체가 동시에 보도한 사건·사고만. Claude 가 헤드라인으로 판정·정리한다
+      - name: 사건·사고 감시 (뉴스)
+        continue-on-error: true   # 여기서 실패해도 지진 속보 게시는 계속
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python news_watch.py --queue
 
       - name: 카드 커밋
         id: commit
