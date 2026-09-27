@@ -93,3 +93,4 @@ jobs:
           pip install --quiet pillow
           python make_cards.py specs/sample-newcaledonia-m66.json
           python -c "from PIL import Image; import glob; fs=sorted(glob.glob('output/2026-09-26-newcaledonia-m66/*.png')); print([Image.open(f).size for f in fs])"
+# rerun: gemini retry
