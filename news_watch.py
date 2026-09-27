@@ -448,10 +448,12 @@ def build_spec(c, ev, badge="breaking"):
         city = kind in ("city", "town", "village", "suburb", "municipality", "county")
         cover["map"] = {"lat": lat, "lon": lon, "zoom": 2.2 if city else 1.0, "h": 400,
                         "label": ev["country_ko"] or "발생 지역"}
-        cards.append({"type": "map", "eyebrow": "어디서",
-                      "title": "%s\n%s" % (ev["country_ko"], ev["place_ko"] or ev["country_ko"]),
+        country, place = ev["country_ko"], ev["place_ko"]
+        # 도시를 모르면 나라 이름만 (예전엔 "남아프리카공화국\n남아프리카공화국"처럼 두 번 찍혔다)
+        where = country if not place or place == country else "%s\n%s" % (country, place)
+        cards.append({"type": "map", "eyebrow": "어디서", "title": where,
                       "map": {"lat": lat, "lon": lon, "zoom": 0.6, "h": 700, "ring": 18,
-                              "label": ev["place_query"]},
+                              "label": place or country},
                       "alt": "발생 위치 지도"})
     cards.append({"type": "points", "title": "핵심 정리", "items": ev["points"][:3],
                   "alt": "핵심 정리"})
