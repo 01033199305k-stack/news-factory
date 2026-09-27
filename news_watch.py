@@ -440,7 +440,7 @@ def build_spec(c, ev, badge="breaking"):
     t_kst = c["pub"].astimezone(KST)
     now_kst = datetime.now(KST).strftime("%Y.%m.%d %H:%M KST")
     srcs = c["sources"]
-    src_line = "%s 등 %d개 매체 보도 종합" % ("·".join(srcs[:3]), len(srcs))
+    src_line = "%s 등 %d개 매체 보도 종합" % ("·".join(narration.clean_outlets(srcs)[:3]), len(srcs))
     geo = geocode(ev["place_query"])
 
     cover = {"type": "cover", "badge": badge, "title": ev["headline_ko"],

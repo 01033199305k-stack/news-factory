@@ -33,9 +33,36 @@ OUTLET_KO = {
 }
 
 
+_JUNK = re.compile(r"(news from|^latest|^breaking|live updates|msn|google|^videos?$)", re.I)
+_DOMAINS = {"foxnews.com": "Fox News", "nytimes.com": "The New York Times", "cnn.com": "CNN",
+            "bbc.com": "BBC", "bbc.co.uk": "BBC", "reuters.com": "Reuters", "apnews.com": "AP News",
+            "theguardian.com": "The Guardian", "aljazeera.com": "Al Jazeera", "nbcnews.com": "NBC News",
+            "cbsnews.com": "CBS News", "abcnews.go.com": "ABC News", "washingtonpost.com": "The Washington Post",
+            "yahoo.com": "Yahoo News", "news.yahoo.com": "Yahoo News", "Yahoo": "Yahoo News"}
+
+
+def norm_outlet(s):
+    """"ABC News - Breaking News, Latest News and Videos" → "ABC News", "foxnews.com" → "Fox News"."""
+    s = re.split(r"\s+[-|–—:]\s+", (s or "").strip())[0].strip()
+    s = _DOMAINS.get(s.lower().removeprefix("www."), _DOMAINS.get(s, s))
+    return s
+
+
+def clean_outlets(srcs):
+    """보도 매체 이름을 다듬고 매체 이름이 아닌 것(예: "Latest news from Azerbaijan")은 뺀다.
+    잘 알려진 매체를 앞에 둔다."""
+    good = []
+    for x in srcs:
+        n = norm_outlet(x)
+        if n and len(n) <= 26 and not _JUNK.search(n) and n not in good:
+            good.append(n)
+    known = [n for n in good if n in OUTLET_KO]
+    return known + [n for n in good if n not in OUTLET_KO]
+
+
 def outlets(srcs, n=3):
     names = []
-    for s in srcs:
+    for s in clean_outlets(srcs):
         k = OUTLET_KO.get(s, s)
         if k not in names:
             names.append(k)
@@ -93,14 +120,24 @@ def for_news(ev, srcs, badge="breaking", has_map=False):
     # "확인된 것은, A, B입니다" 틀에 넣어 자연스러운 짧은 항목만 읽는다. 긴 문장은 화면 카드로만
     conf = [strip_src(x) for x in ev["confirmed"][:3] if 0 < len(strip_src(x)) <= 30]
     unc = [_unconfirmed(x) for x in ev["unconfirmed"][:2] if 0 < len(_unconfirmed(x)) <= 24]
-    if conf or unc:
-        add(CHECK_INTRO, "check")
     if conf:
         add("확인된 것은, %s입니다." % ", ".join(conf), "check")
     if unc:
         add("아직 확인되지 않은 것은, %s입니다." % ", ".join(unc), "check")
     add(OUTRO, "outro")
     return trim(segs)
+
+
+def refresh(segs, srcs):
+    """예전에 저장된 원고 손질: 확인 소개 문장을 빼고, 매체 문장을 다듬은 이름으로 다시 쓴다."""
+    out = []
+    for s in segs:
+        if s["text"] == CHECK_INTRO:
+            continue
+        if re.search(r"등 \d+개 매체가 이 소식을 전했습니다\.$", s["text"]) and srcs:
+            s = dict(s, text="%s 등 %d개 매체가 이 소식을 전했습니다." % (outlets(srcs), len(srcs)))
+        out.append(s)
+    return out
 
 
 def from_cards(spec):

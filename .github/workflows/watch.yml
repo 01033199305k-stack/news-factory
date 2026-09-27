@@ -44,7 +44,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install --quiet pillow anthropic edge-tts
+      - run: pip install --quiet pillow anthropic edge-tts playwright   # playwright: 모션 영상 촬영 (크롬은 러너에 있는 것)
 
       # 대시보드에서 받은 스레드 토큰이 1시간짜리 단기 토큰이면 60일짜리로 바꿔 시크릿에 다시 넣는다.
       # 이미 장기 토큰이면 교환이 거절되고 아무 일도 안 일어난다. (THREADS_APP_SECRET·GH_PAT 필요)

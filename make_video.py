@@ -6,7 +6,7 @@
     python make_video.py --queue                  # 게시 대기열에서 영상이 아직 없는 항목 전부
 
 - 나레이션 원고는 spec["narration"] (없으면 카드 문구로 만든다 — narration.py)
-- 화면은 make_cards 가 그린 카드 PNG. 없으면 spec 으로 다시 그린다
+- 화면은 motion.py 가 그리는 세로 모션 그래픽 (장면·자막 모두 HTML → 크롬 프레임 촬영)
 - 영상 모듈(video/)은 shorts-factory/pipeline 에서 가져왔다. 필요한 것: ffmpeg, edge-tts
 """
 import json
@@ -24,7 +24,7 @@ SPECDIR = ROOT / "specs" / "auto"
 FONTS = ROOT / "vendor" / "fonts"
 
 VOICE = "ko-KR-SunHiNeural"   # 여자 아나운서
-RATE = "+0%"                  # 뉴스는 또박또박
+RATE = "+8%"                  # 또박또박하되 늘어지지 않게 (+0% 은 55초까지 늘어났다)
 TRANSITION = 0.25
 CARD_FIT, CARD_LIFT, ZOOM, BG = 0.8, 320, 1.06, "#0B0E14"   # 카드 아래(y≈1180~1370)가 자막 자리
 BRAND = {"accent": "#FF3B30", "ink": "#0B0E14", "handle": "@jigeum.segye"}
@@ -49,48 +49,45 @@ def write_srt(cues, path):
                                   for i, (a, b, text) in enumerate(cues)), encoding="utf-8")
 
 
+GAP = 0.16   # 문장 사이 숨 — 붙여 읽으면 기계 같다
+
+
 def render(spec):
-    from video import assemble, captions, kenburns, tts
+    """나레이션 → 모션 그래픽(motion.py) → mp4. 화면 요소는 문장이 시작하는 순간 들어온다."""
+    import subprocess
+
+    import motion
+    from video import assemble, tts
     from video.tts import Word
 
     outdir = ROOT / "output" / spec["slug"]
-    files = card_files(outdir)
-    if "cover" not in files:  # 클라우드 다음 실행 등으로 카드가 없으면 다시 그린다
-        make_cards.render(json.loads(json.dumps(spec)))
-        files = card_files(outdir)
+    outdir.mkdir(parents=True, exist_ok=True)
+    srcs = [x for c in spec["cards"] if c["type"] == "outro"
+            for x in c.get("sources", []) if not x.endswith("기준")]
+    segs = narration.refresh(spec.get("narration") or narration.from_cards(spec), srcs)
+    work = Path(make_cards.work_dir())   # 영문 경로 — 크롬이 한글 경로에서 실패한다
 
-    segs = spec.get("narration") or narration.from_cards(spec)
-    work = outdir / "_video"
-    work.mkdir(parents=True, exist_ok=True)
-
-    clips, wavs, words, cursor = [], [], [], 0.0
-    cues = []   # 유튜브 자막 트랙(SRT)용 — 문장 단위 (시작, 끝, 문장)
-    last = len(segs) - 1
+    wavs, words, times, cursor = [], [], [], 0.0
     for i, seg in enumerate(segs):
-        wav = work / ("seg_%02d.wav" % i)
-        res = tts.synthesize_tight(seg["text"], VOICE, wav, rate=RATE)
-        cues.append((cursor, cursor + res.duration, seg["text"]))
-        wavs.append(wav)
+        raw = work / ("seg_%02d.wav" % i)
+        res = tts.synthesize_tight(seg["text"], VOICE, raw, rate=RATE)
+        wav = work / ("pad_%02d.wav" % i)
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(raw),
+                        "-af", "apad=pad_dur=%.2f" % GAP, str(wav)], check=True)
+        times.append((round(cursor, 3), round(cursor + res.duration, 3)))
         words.append([Word(w.text, w.start + cursor, w.end + cursor) for w in res.words])
-        cursor += res.duration
-        clip = work / ("clip_%02d.mp4" % i)
-        card = files.get(seg["card"]) or files["cover"]
-        kenburns.make_clip(card, clip, res.duration + (TRANSITION if i < last else 0.0),
-                           zoom="in" if i % 2 == 0 else "out", zoom_target=ZOOM,
-                           fit=CARD_FIT, lift=CARD_LIFT, bg_color=BG)
-        clips.append(clip)
+        wavs.append(wav)
+        cursor += res.duration + GAP
+    total = cursor + motion.TAIL
 
-    video = assemble.concat_videos(clips, work / "video.mp4", transition=TRANSITION)
     voice = assemble.concat_audio(wavs, work / "narration.wav")
-    ass = captions.build_ass(
-        words, work / "captions.ass", cta_text=CTA, handle=BRAND["handle"],
-        total_duration=cursor, brand_accent=BRAND["accent"], brand_ink=BRAND["ink"],
-        font="Black Han Sans", fontsize=72, max_words=3,
-    )
+    page = work / "motion.html"
+    page.write_text(motion.build_html(spec, segs, times, words, total), encoding="utf-8")
+    silent = motion.capture(page, work / "silent.mp4", total)
     final = outdir / "video.mp4"
-    assemble.mux_final(video, voice, ass, final, fonts_dir=FONTS)
-    write_srt(cues, outdir / "captions.srt")
-    print("VIDEO %s (%.1fs, %d문장)" % (final, cursor, len(segs)))
+    motion.mux(silent, voice, final, total)
+    write_srt([(a, b, s["text"]) for (a, b), s in zip(times, segs)], outdir / "captions.srt")
+    print("VIDEO %s (%.1fs, %d문장)" % (final, total, len(segs)))
     return final
 
 
