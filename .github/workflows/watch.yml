@@ -38,6 +38,26 @@ jobs:
 
       - run: pip install --quiet pillow anthropic edge-tts
 
+      # 대시보드에서 받은 스레드 토큰이 1시간짜리 단기 토큰이면 60일짜리로 바꿔 시크릿에 다시 넣는다.
+      # 이미 장기 토큰이면 교환이 거절되고 아무 일도 안 일어난다. (THREADS_APP_SECRET·GH_PAT 필요)
+      - name: 스레드 토큰 장기 교환 (필요할 때만)
+        continue-on-error: true
+        env:
+          TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          APP_SECRET: ${{ secrets.THREADS_APP_SECRET }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$TOKEN" ] || [ -z "$APP_SECRET" ] || [ -z "$GH_TOKEN" ]; then exit 0; fi
+          NEW=$(curl -s "https://graph.threads.net/access_token?grant_type=th_exchange_token&client_secret=$APP_SECRET&access_token=$TOKEN" \
+                | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))" 2>/dev/null)
+          if [ -n "$NEW" ] && [ "$NEW" != "$TOKEN" ]; then
+            echo "::add-mask::$NEW"
+            gh secret set THREADS_ACCESS_TOKEN --body "$NEW" --repo "$GITHUB_REPOSITORY"
+            echo "스레드 토큰을 60일짜리로 바꿔 저장했습니다 (다음 실행부터 적용)"
+          else
+            echo "교환할 필요 없음 (이미 장기 토큰이거나 토큰이 만료됨)"
+          fi
+
       - name: 지진 감시 (USGS)
         continue-on-error: true
         run: |
