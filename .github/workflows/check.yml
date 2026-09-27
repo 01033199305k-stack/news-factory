@@ -23,6 +23,24 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: 스레드 토큰 장기 교환 (필요할 때만)
+        env:
+          TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          APP_SECRET: ${{ secrets.THREADS_APP_SECRET }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          if [ -z "$APP_SECRET" ]; then echo "THREADS_APP_SECRET 없음 — 교환 생략"; exit 0; fi
+          RES=$(curl -s "https://graph.threads.net/access_token?grant_type=th_exchange_token&client_secret=$APP_SECRET&access_token=$TOKEN")
+          NEW=$(echo "$RES" | python3 -c "import sys,json; print(json.load(sys.stdin).get('access_token',''))" 2>/dev/null)
+          DAYS=$(echo "$RES" | python3 -c "import sys,json; print(int(json.load(sys.stdin).get('expires_in',0))//86400)" 2>/dev/null)
+          if [ -n "$NEW" ] && [ "$NEW" != "$TOKEN" ]; then
+            echo "::add-mask::$NEW"
+            gh secret set THREADS_ACCESS_TOKEN --body "$NEW" --repo "$GITHUB_REPOSITORY"
+            echo "스레드 토큰을 장기 토큰(${DAYS}일)으로 바꿔 저장했습니다"
+          else
+            echo "교환 안 함: $(echo "$RES" | python3 -c "import sys,json; print(json.load(sys.stdin).get('error',{}).get('message','이미 장기 토큰'))" 2>/dev/null)"
+          fi
+
       - name: 토큰 확인
         env:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
