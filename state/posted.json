@@ -288,5 +288,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790536547
+  },
+  {
+    "slug": "2026-09-28-news-us-georgia-macon-park-shooting",
+    "event_ms": 1790539535000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 미국 조지아주 메이컨의 한 공원에서 총격이 발생해 십대 11명이 다쳤습니다 (WMAZ·CBS News·41NBC News). 부상자 가운데 2명은 위중한 상태로 전해졌습니다 (WGXA·41NBC News). 용의자의 신원과 범행 동기 등 구체적인 경위는 아직 확인되지 않았습니다.\n\n출처: WGXA·WMAZ·CBS News·41NBC News·WSB-TV 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18148640518543621",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DdzjdllAcgG",
+        "kind": "carousel",
+        "at": 1790543790
+      },
+      "instagram": {
+        "id": "18096031883544563",
+        "permalink": "https://www.instagram.com/reel/Ddzj3Apm8Ve/",
+        "kind": "reel",
+        "at": 1790544017
+      },
+      "youtube": {
+        "id": "PmZbllh46cE",
+        "permalink": "https://youtube.com/shorts/PmZbllh46cE",
+        "kind": "shorts",
+        "at": 1790544123
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790544133
   }
 ]

@@ -1,0 +1,162 @@
+{
+  "slug": "2026-09-28-news-us-georgia-macon-park-shooting",
+  "topic": "미 조지아 공원서 총격 십대 11명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 05:05 KST",
+  "source": "CBS News·41NBC News·WGXA 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMioAFBVV95cUxOLUFnTTVqRGI4TXNnbGRNZEQ3TVRtbmdkY2xQS0dZWk1MWWctSlllOGoxMHEzUHZGLXVJYUtKMnI5eGhyTzNzaWxpSTBIYzd2dlM2UmxST1Y5amMxUkhwV19PSkxseDIteHotRnoyQ0lTUHhyWjRSYi1NNWo3UWdQc1JvRldBaXZtV3IxekgzYXhzU3ltVFhCVTRZTFlMSmt3",
+    "related": [
+      [
+        "Sheriff’s office: 11 wounded at Macon park; two teens in critical condition",
+        "WGXA"
+      ],
+      [
+        "Mass shooting at Macon's Carolyn Crayton Park leaves 11 teens injured, Bibb County Sheriff's Office says",
+        "WMAZ"
+      ],
+      [
+        "Georgia park mass shooting wounds 11 teens at birthday party",
+        "CBS News"
+      ],
+      [
+        "11 teens shot at downtown Macon park, 2 in critical condition",
+        "41NBC News"
+      ],
+      [
+        "11 wounded in mass shooting at Georgia park",
+        "WSB-TV"
+      ]
+    ],
+    "event_key": "us-georgia-macon-park-shooting"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 조지아 공원서 총격\n십대 [[11명]] 부상",
+      "sub": "미국 조지아주 공원 생일 파티서 총격 발생해 11명 부상",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "11명"
+        },
+        {
+          "k": "위중",
+          "v": "2명"
+        }
+      ],
+      "alt": "미 조지아 공원서 총격 십대 11명 부상",
+      "map": {
+        "lat": 32.8406946,
+        "lon": -83.6324022,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n조지아주 메이컨",
+      "map": {
+        "lat": 32.8406946,
+        "lon": -83.6324022,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "조지아주 메이컨"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공원서 총기 난사",
+          "d": "미국 조지아주 메이컨의 공원에서 총격이 발생했습니다 (WMAZ·CBS News·WSB-TV)."
+        },
+        {
+          "t": "십대 11명 부상",
+          "d": "십대 청소년 11명이 총에 맞아 다쳤습니다 (WMAZ·CBS News·41NBC News)."
+        },
+        {
+          "t": "2명 중태",
+          "d": "부상자 가운데 2명은 위중한 상태입니다 (WGXA·41NBC News)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 조지아주 메이컨 공원에서 총격 발생 (WMAZ·CBS News·WSB-TV)",
+        "부상 11명 (WGXA·WMAZ·CBS News·41NBC News·WSB-TV)",
+        "부상자 중 2명 위중 (WGXA·41NBC News)"
+      ],
+      "unconfirmed": [
+        "용의자 신원 및 구체적 범행 경위",
+        "사망자 발생 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "41NBC News",
+        "CBS News",
+        "WGXA",
+        "WMAZ",
+        "WSB-TV",
+        "2026.09.28 06:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 조지아주 메이컨의 한 공원에서 총격이 발생해 십대 11명이 다쳤습니다 (WMAZ·CBS News·41NBC News). 부상자 가운데 2명은 위중한 상태로 전해졌습니다 (WGXA·41NBC News). 용의자의 신원과 범행 동기 등 구체적인 경위는 아직 확인되지 않았습니다.\n\n출처: WGXA·WMAZ·CBS News·41NBC News·WSB-TV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 속보입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 조지아주 공원 생일 파티서 총격 발생해 11명 부상.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS, 41NBC News, WGXA 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "미국 조지아주 메이컨의 공원에서 총격이 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "십대 청소년 11명이 총에 맞아 다쳤습니다.",
+      "card": "points"
+    },
+    {
+      "text": "부상자 가운데 2명은 위중한 상태입니다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것은, 미국 조지아주 메이컨 공원에서 총격 발생, 부상 11명, 부상자 중 2명 위중입니다.",
+      "card": "check"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 용의자 신원 및 구체적 범행 경위, 사망자 발생 여부입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
