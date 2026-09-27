@@ -1,6 +1,6 @@
 # news-factory
 
-"지금 세계" 계정(스레드·인스타 @jigeum.segye)의 속보 카드뉴스 공장.
+"지금 세계" 계정(스레드·인스타 @jigeum.segye, 유튜브 @jigeum_segye)의 속보 카드뉴스 공장.
 1080×1350 (4:5) PNG + 게시용 문구(caption.md)를 만든다.
 
 ## 0. 클라우드 자동 운영 (컴퓨터 꺼져 있어도 돔)
@@ -18,6 +18,7 @@ GitHub 예약 실행은 제때 돌지 않아서(사실상 1시간) 1시간 백�
 1. `watch_usgs.py --queue` — 새 지진이면 카드 생성 → `state/queue.json` 에 게시 대기
 2. 카드 커밋·푸시 → 그 커밋의 raw 이미지 주소로
 3. `post.py` — 스레드·인스타그램에 캐러셀 게시 (토큰 있는 곳만) → `state/posted.json` 에 기록
+4. `post_youtube.py` — 인스타 릴스로 나간 숏폼을 유튜브 쇼츠로 (변수 `YOUTUBE_UPLOAD=on` 일 때만) → `done.youtube` 에 기록
 
 | 시크릿 (Settings → Secrets → Actions) | 내용 |
 |---|---|
@@ -27,8 +28,15 @@ GitHub 예약 실행은 제때 돌지 않아서(사실상 1시간) 1시간 백�
 | `GH_PAT` | 토큰 자동 갱신용. 이 저장소만, 권한 `Secrets: Read and write` 의 fine-grained 토큰 |
 | `GEMINI_API_KEY` | 사건·사고 판정·정리용. Google AI Studio 무료 키 (카드 등록 없음) |
 | `ANTHROPIC_API_KEY` | (선택, 유료) Gemini 대신 Claude 로 판정. `GEMINI_API_KEY` 가 있으면 Gemini 가 우선 |
+| `YOUTUBE_CLIENT_ID` · `YOUTUBE_CLIENT_SECRET` | 유튜브 쇼츠용. 구글 클라우드 프로젝트 `news-factory`(youu-509915)의 OAuth 클라이언트 `news-factory-uploader`(데스크톱). 동의 화면은 **프로덕션** 상태여야 토큰이 7일 뒤 안 끊긴다 |
+| `YOUTUBE_REFRESH_TOKEN` | '지금 세계' 채널(@jigeum_segye)로 허용한 리프레시 토큰. 끊기면 `python yt_auth.py <클라이언트 ID> <보안 비밀번호>` 로 다시 발급 |
 
-### 숏폼 (45초, 인스타 릴스)
+| 변수 (Settings → Secrets and variables → Actions → Variables) | 내용 |
+|---|---|
+| `YOUTUBE_UPLOAD` | `on` 이면 유튜브 쇼츠 업로드. **구글 API 심사 통과 전에는 켜지 않는다** (아래 숏폼 참고) |
+| `YOUTUBE_PRIVACY` | (선택) 기본 `public`. `unlisted`·`private` 도 된다 |
+
+### 숏폼 (45초, 인스타 릴스 · 유튜브 쇼츠)
 
 - 게시할 때마다 `make_video.py` 가 카드로 1080×1920 영상을 만든다. 여자 아나운서(edge-tts `ko-KR-SunHiNeural`),
   단어 강조 자막, 카드는 80%로 줄여 위로 올리고 아래를 자막 자리로 쓴다 (`video/` = shorts-factory 에서 이식)
@@ -37,7 +45,11 @@ GitHub 예약 실행은 제때 돌지 않아서(사실상 1시간) 1시간 백�
 - 카드 JPEG·영상은 저장소에 커밋하지 않고 감시기의 `/media` 보관소(KV, 3일 뒤 자동 삭제)에 올린다.
   업로드 인증은 GitHub Actions OIDC — 이 저장소 main 에서 돈 작업만 올릴 수 있다
 - edge-tts 는 상업적 사용권이 없는 회색지대 — 수익화 전에 Piper(MIT) 나 Azure 유료로 바꾼다
-- 유튜브 쇼츠·틱톡 자동 업로드는 아직 없다 (두 API 모두 심사 전 앱은 비공개로만 올라간다)
+- 유튜브 쇼츠: `post_youtube.py` 가 인스타 릴스 뒤에 같은 영상을 쇼츠로 올린다. 제목 = 본문 첫 문장, 설명 = 본문 + 해시태그, 카테고리 뉴스.
+  구글 정책상 **API 심사(audit)를 안 받은 프로젝트가 올린 영상은 비공개로 잠긴다** → 심사 신청
+  (https://support.google.com/youtube/contact/yt_api_form) 후 통과 메일을 받으면 변수 `YOUTUBE_UPLOAD` 를 `on` 으로.
+  시험 업로드는 check 워크플로를 `youtube_slug` 입력으로 수동 실행 (비공개로 올라감). 개인정보처리방침은 `PRIVACY.md` (OAuth 동의 화면에 연결)
+- 틱톡 자동 업로드는 아직 없다 (심사 전 앱은 비공개로만 올라간다)
 
 ### 사건·사고 (`news_watch.py`)
 
