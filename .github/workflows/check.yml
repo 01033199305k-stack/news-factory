@@ -56,6 +56,38 @@ jobs:
           print("게시 권한          : 확인됨 (오늘 %s / %s건 사용)" % (d.get("quota_usage"), (d.get("config") or {}).get("quota_total")))
           EOF
 
+      - name: Gemini 판정 시험 (게시 안 함)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python - <<'EOF'
+          import json, os, sys
+          from datetime import datetime, timezone
+          import news_watch as n
+          if not os.environ.get("GEMINI_API_KEY"):
+              print("GEMINI_API_KEY 없음"); sys.exit(1)
+          # 2026-09-27 실제 구글 뉴스 묶음 (헤드라인·매체만)
+          c = {"id": "sample", "title": "sample", "pub": datetime(2026, 9, 27, 8, 0, tzinfo=timezone.utc),
+               "sources": ["Al Jazeera", "BBC", "CBS News", "Reuters", "kare11.com"],
+               "related": [
+                   ("At least 27 people killed in 2 mass shootings in South Africa's Johannesburg, Capetown", "CBS News"),
+                   ("South Africa police hunt suspects after 27 killed in two separate shootings", "Reuters"),
+                   ("Two mass shootings in South Africa leave 27 dead", "BBC"),
+                   ("At least 27 people killed in two shootings in South African townships", "Al Jazeera"),
+                   ("Two separate mass shootings in different townships in South Africa leave at least 27 people dead", "kare11.com")]}
+          evs = n.judge([c], [])
+          ev = evs[0]
+          print("판정      :", ev["decision"], ev["skip_reason"])
+          print("제목      :", ev["headline_ko"].replace("\n", " / "))
+          print("요약      :", ev["sub_ko"])
+          print("칩        :", ev["chips"])
+          print("확인됨    :", ev["confirmed"])
+          print("미확인    :", ev["unconfirmed"])
+          print("본문      :\n" + ev["caption_ko"])
+          ok, bad = n.numbers_ok(ev, c)
+          print("숫자 검증 :", "통과" if ok else "거부 %s" % bad)
+          EOF
+
       - name: 렌더링 확인
         run: |
           pip install --quiet pillow
