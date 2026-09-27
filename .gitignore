@@ -3,3 +3,5 @@ __pycache__/
 .env
 output/*/_html/
 brand/avatar.html
+worker/node_modules/
+worker/.wrangler/

@@ -1,10 +1,11 @@
-# 5분마다 USGS 를 확인하고, 새 속보가 있으면 카드를 만들어 스레드에 올린다.
-# 컴퓨터가 꺼져 있어도 GitHub 서버에서 돈다.
+# 새 속보가 있으면 카드를 만들어 스레드·인스타에 올린다.
+# 주로 Cloudflare 감시기(worker/)가 1분마다 보다가 새 후보가 생기면 workflow_dispatch 로 깨운다.
+# 아래 schedule 은 감시기가 멈췄을 때를 위한 백업이다 (GitHub 예약 실행은 제때 안 돈다).
 name: watch
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # GitHub 정책상 최소 5분. 혼잡할 땐 몇 분씩 늦게 돈다
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:

@@ -1,0 +1,13 @@
+{
+  // news-factory 감시기 — 1분마다 새 속보 후보를 보고 GitHub Actions 를 깨운다
+  "name": "news-factory-watch",
+  "main": "src/index.js",
+  "compatibility_date": "2026-09-01",
+  "triggers": { "crons": ["* * * * *"] },
+  "vars": { "GH_REPO": "01033199305k-stack/news-factory" },
+  "kv_namespaces": [
+    { "binding": "SEEN", "id": "KV_ID_PLACEHOLDER" }
+  ],
+  "observability": { "enabled": true }
+  // 시크릿 GH_DISPATCH_TOKEN 은 Cloudflare 대시보드에서 넣는다 (코드·저장소에 두지 않음)
+}
