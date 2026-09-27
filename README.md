@@ -5,7 +5,15 @@
 
 ## 0. 클라우드 자동 운영 (컴퓨터 꺼져 있어도 돔)
 
-GitHub Actions `.github/workflows/watch.yml` 이 5분마다:
+**감시**는 Cloudflare Workers `worker/` (news-factory-watch)가 1분마다 한다. USGS·구글 뉴스에서
+게시 기준을 넘는 새 후보가 생기면 GitHub Actions `watch.yml` 을 workflow_dispatch 로 깨운다.
+GitHub 예약 실행은 제때 돌지 않아서(사실상 1시간) 1시간 백업으로만 둔다.
+
+- 상태 확인: https://news-factory-watch.alsgur3319.workers.dev/ (지금 후보·마지막으로 깨운 기록, 깨우지는 않음)
+- 배포: `cd worker && npx wrangler deploy` / 시크릿 `GH_DISPATCH_TOKEN` (Actions: Read and write) 은 대시보드에서
+- 기준을 바꿀 땐 `worker/src/index.js` 와 `watch_usgs.py`·`news_watch.py` 를 같이 바꾼다
+
+깨워진 `watch.yml` 이 하는 일:
 
 1. `watch_usgs.py --queue` — 새 지진이면 카드 생성 → `state/queue.json` 에 게시 대기
 2. 카드 커밋·푸시 → 그 커밋의 raw 이미지 주소로
