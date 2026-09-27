@@ -18,9 +18,9 @@
     ],
     "done": {},
     "attempts": {
-      "threads": 1,
-      "instagram": 1
+      "threads": 2,
+      "instagram": 2
     },
-    "video": "video.mp4"
+    "video": null
   }
 ]
