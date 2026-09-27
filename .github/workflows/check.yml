@@ -1,0 +1,63 @@
+# 점검용. 토큰이 맞게 들어갔는지(연결된 계정 이름만 출력)와
+# 클라우드에서 카드 렌더링이 되는지 확인한다. 아무것도 게시하지 않는다.
+name: check
+
+on:
+  push:
+    paths:
+      - ".github/workflows/check.yml"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 토큰 확인
+        env:
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          python - <<'EOF'
+          import json, os, sys, urllib.error, urllib.parse, urllib.request
+          uid, tok = os.environ["THREADS_USER_ID"], os.environ["THREADS_ACCESS_TOKEN"]
+          print("THREADS_USER_ID     :", "있음" if uid else "없음")
+          print("THREADS_ACCESS_TOKEN:", "있음" if tok else "없음")
+          print("GH_PAT (자동 갱신)   :", "있음" if os.environ["GH_PAT"] else "없음 — 60일마다 토큰 수동 교체 필요")
+          if not (uid and tok):
+              sys.exit(1)
+          def get(path, **q):
+              q["access_token"] = tok
+              url = "https://graph.threads.net/v1.0/%s?%s" % (path, urllib.parse.urlencode(q))
+              try:
+                  with urllib.request.urlopen(url, timeout=30) as r:
+                      return json.loads(r.read())
+              except urllib.error.HTTPError as ex:
+                  try:
+                      msg = json.loads(ex.read())["error"]["message"]
+                  except Exception:
+                      msg = "HTTP %d" % ex.code
+                  print("오류:", msg)
+                  sys.exit(1)
+          me = get("me", fields="id,username")
+          print("연결된 계정        : @%s" % me.get("username"))
+          print("USER_ID 일치       :", "예" if me.get("id") == uid else "아니오 — THREADS_USER_ID 를 %s 로 바꾸세요" % me.get("id"))
+          lim = get("%s/threads_publishing_limit" % uid, fields="quota_usage,config")
+          d = (lim.get("data") or [{}])[0]
+          print("게시 권한          : 확인됨 (오늘 %s / %s건 사용)" % (d.get("quota_usage"), (d.get("config") or {}).get("quota_total")))
+          if me.get("id") != uid:
+              sys.exit(1)
+          EOF
+
+      - name: 렌더링 확인
+        run: |
+          pip install --quiet pillow
+          python make_cards.py specs/sample-newcaledonia-m66.json
+          python -c "from PIL import Image; import glob; fs=sorted(glob.glob('output/2026-09-26-newcaledonia-m66/*.png')); print([Image.open(f).size for f in fs])"
