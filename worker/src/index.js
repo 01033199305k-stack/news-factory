@@ -7,10 +7,15 @@
 // 바인딩: KV SEEN, 변수 GH_REPO, 시크릿 GH_DISPATCH_TOKEN (Actions: Read and write)
 
 const USGS_FEED = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_day.geojson";
+// news_watch.py 의 FEEDS 와 같게 유지한다 (4개 파싱에 CPU 약 0.6ms)
 const NEWS_FEEDS = [
   "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
   "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+  "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-GB&gl=GB&ceid=GB:en",
+  "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-IN&gl=IN&ceid=IN:en",
 ];
+// 매시 이 분(UTC)에 GitHub 을 깨워 '정시 정리'를 확인시킨다 (1시간 동안 게시가 없으면 1건)
+const FILL_MINUTE = 5;
 
 const MIN_MAG_WORLD = 6.0;
 const MIN_MAG_NEAR = 5.0;
@@ -98,7 +103,9 @@ async function newsCandidates() {
   return [...out.values()];
 }
 
-async function dispatch(env) {
+async function dispatch(env, inputs = {}) {
+  const body = { ref: "main" };
+  if (Object.keys(inputs).length) body.inputs = inputs;
   const res = await fetch(
     `https://api.github.com/repos/${env.GH_REPO}/actions/workflows/watch.yml/dispatches`, {
       method: "POST",
@@ -108,12 +115,12 @@ async function dispatch(env) {
         "X-GitHub-Api-Version": "2022-11-28",
         "User-Agent": "news-factory-watcher",
       },
-      body: JSON.stringify({ ref: "main" }),
+      body: JSON.stringify(body),
     });
   if (res.status !== 204) throw new Error("dispatch " + res.status + " " + (await res.text()).slice(0, 200));
 }
 
-async function check(env, { dryRun = false } = {}) {
+async function check(env, { dryRun = false, hourly = false } = {}) {
   // 토큰이 처음 들어왔을 때 한 번만 GitHub 을 깨워서 연결을 확인한다 (속보가 없어도 확인 가능하게)
   if (!dryRun && env.GH_DISPATCH_TOKEN && !(await env.SEEN.get("selftest"))) {
     await dispatch(env);
@@ -127,19 +134,23 @@ async function check(env, { dryRun = false } = {}) {
   const cands = [...quakes, ...news];
   const seen = new Set((await env.SEEN.get(SEEN_KEY, "json")) || []);
   const fresh = cands.filter((c) => !seen.has(c.id));
-  if (dryRun || fresh.length === 0) return { candidates: cands, fresh, dispatched: false };
+  if (dryRun || (fresh.length === 0 && !hourly)) return { candidates: cands, fresh, dispatched: false };
 
-  await dispatch(env);
-  for (const c of fresh) seen.add(c.id);
-  await env.SEEN.put(SEEN_KEY, JSON.stringify([...seen].slice(-SEEN_MAX)));
-  await env.SEEN.put(LAST_KEY, JSON.stringify({ at: new Date().toISOString(), fresh }));
-  console.log("dispatched for", fresh.map((c) => c.title));
+  // 정시에는 새 후보가 없어도 깨운다 — 속보 확인 + 정시 정리를 한 번에 한다
+  await dispatch(env, hourly ? { fill: "true" } : {});
+  if (fresh.length) {
+    for (const c of fresh) seen.add(c.id);
+    await env.SEEN.put(SEEN_KEY, JSON.stringify([...seen].slice(-SEEN_MAX)));
+    await env.SEEN.put(LAST_KEY, JSON.stringify({ at: new Date().toISOString(), hourly, fresh }));
+  }
+  console.log("dispatched", hourly ? "(hourly)" : "", fresh.map((c) => c.title));
   return { candidates: cands, fresh, dispatched: true };
 }
 
 export default {
   async scheduled(event, env, ctx) {
-    ctx.waitUntil(check(env));
+    const hourly = new Date(event.scheduledTime).getUTCMinutes() === FILL_MINUTE;
+    ctx.waitUntil(check(env, { hourly }));
   },
 
   // 확인용: 브라우저로 열면 지금 걸리는 후보와 마지막 기록을 보여준다 (GitHub 은 깨우지 않음)

@@ -1,5 +1,6 @@
 # 새 속보가 있으면 카드를 만들어 스레드·인스타에 올린다.
-# 주로 Cloudflare 감시기(worker/)가 1분마다 보다가 새 후보가 생기면 workflow_dispatch 로 깨운다.
+# 주로 Cloudflare 감시기(worker/)가 1분마다 보다가 새 후보가 생기면 workflow_dispatch 로 깨우고,
+# 매시 5분(UTC)에는 fill=true 로 깨워 '정시 정리'(시간당 최소 1건)를 확인시킨다.
 # 아래 schedule 은 감시기가 멈췄을 때를 위한 백업이다 (GitHub 예약 실행은 제때 안 돈다).
 name: watch
 
@@ -7,6 +8,11 @@ on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+    inputs:
+      fill:
+        description: "1시간 동안 게시가 없으면 주요 뉴스 1건을 [정리]로 올린다"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -34,13 +40,15 @@ jobs:
           cp state/review.json /tmp/review_before.json 2>/dev/null || echo "[]" > /tmp/review_before.json
           python watch_usgs.py --queue
 
-      # 여러 해외 매체가 동시에 보도한 사건·사고만. Claude 가 헤드라인으로 판정·정리한다
+      # 속보: 여러 해외 매체가 동시에 보도한 사건·사고. 정시(감시기가 fill 로 깨움, 또는 백업 예약)에는
+      # 1시간 동안 게시가 없었으면 주요 뉴스 1건을 [정리]로 올린다
       - name: 사건·사고 감시 (뉴스)
         continue-on-error: true   # 여기서 실패해도 지진 속보 게시는 계속
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}         # 무료 구간 (우선)
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # 유료, 선택
-        run: python news_watch.py --queue
+          FILL: ${{ (github.event_name == 'schedule' || github.event.inputs.fill == 'true') && '--fill' || '' }}
+        run: python news_watch.py --queue $FILL
 
       - name: 카드 커밋
         id: commit
@@ -50,6 +58,7 @@ jobs:
           git add -A state specs output
           if ! git diff --cached --quiet; then
             git commit -m "draft: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase -q   # 그사이 코드가 올라왔어도 기록이 밀리지 않게
             git push
             sleep 10   # raw.githubusercontent.com 에 반영될 시간
           fi
@@ -69,6 +78,7 @@ jobs:
           git add -A state
           if ! git diff --cached --quiet; then
             git commit -m "post log: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase -q
             git push
           fi
 
