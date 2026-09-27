@@ -114,6 +114,12 @@ async function dispatch(env) {
 }
 
 async function check(env, { dryRun = false } = {}) {
+  // 토큰이 처음 들어왔을 때 한 번만 GitHub 을 깨워서 연결을 확인한다 (속보가 없어도 확인 가능하게)
+  if (!dryRun && env.GH_DISPATCH_TOKEN && !(await env.SEEN.get("selftest"))) {
+    await dispatch(env);
+    await env.SEEN.put("selftest", new Date().toISOString());
+    console.log("selftest dispatched");
+  }
   const [quakes, news] = await Promise.all([
     quakeCandidates().catch((e) => { console.log("usgs fail", e.message); return []; }),
     newsCandidates().catch((e) => { console.log("news fail", e.message); return []; }),
@@ -140,7 +146,9 @@ export default {
   async fetch(request, env) {
     const r = await check(env, { dryRun: true });
     const last = await env.SEEN.get(LAST_KEY, "json");
-    return Response.json({ now: new Date().toISOString(), ...r, last }, {
+    const selftest = await env.SEEN.get("selftest");
+    return Response.json({ now: new Date().toISOString(), token: !!env.GH_DISPATCH_TOKEN,
+                           selftest, ...r, last }, {
       headers: { "Cache-Control": "no-store" },
     });
   },
