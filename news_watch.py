@@ -233,6 +233,8 @@ def judge(cands, recent):
         messages=[{"role": "user", "content": user}],
         output_config={"format": {"type": "json_schema", "schema": SCHEMA}},
     )
+    u = resp.usage  # 비용 추적용 (Actions 로그에 남는다)
+    print("USAGE model=%s in=%s out=%s" % (resp.model, u.input_tokens, u.output_tokens))
     if resp.stop_reason == "refusal":
         raise RuntimeError("Claude refused: %s" % (resp.stop_details,))
     text = next(b.text for b in resp.content if b.type == "text")
