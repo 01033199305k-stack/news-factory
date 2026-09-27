@@ -24,13 +24,21 @@ concurrency:
 
 env:
   MEDIA_BASE: https://news-factory-watch.alsgur3319.workers.dev/media
+  # post.py 는 토큰이 보이는 플랫폼을 모두 끝내야 항목을 닫는다 — 그래서 모든 게시 단계가 유튜브 토큰을 봐야 한다
+  YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+  YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+  YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
 
 jobs:
   watch:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
+      # workflow_dispatch 는 '깨운 순간'의 커밋을 체크아웃한다. 앞 실행이 끝나길 기다린 실행이 그 커밋을 쓰면
+      # 앞 실행이 올린 기록을 못 보고 같은 뉴스를 다시 올린다 (2026-09-27 네팔·태국 중복 게시) → 항상 최신 main
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-python@v5
         with:
@@ -110,6 +118,12 @@ jobs:
           python upload_media.py
           python post.py --only instagram
 
+      # 유튜브 쇼츠는 인스타와 같은 영상. 무료 한도(하루 약 6건)를 넘으면 그 건은 건너뛴다
+      - name: 유튜브 쇼츠 게시
+        if: steps.q.outputs.n != '0'
+        continue-on-error: true
+        run: python post.py --only youtube
+
       # 카드·영상은 보관소에만 두고 저장소에는 기록(state·specs)만 남긴다 — 저장소가 불어나지 않게
       - name: 기록 커밋
         if: always()
@@ -119,8 +133,12 @@ jobs:
           git add -A state specs
           if ! git diff --cached --quiet; then
             git commit -m "run: $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase -q
-            git push
+            # 실행은 한 번에 하나라 보통 충돌이 없지만, 밀려나면 몇 번 다시 시도한다
+            for i in 1 2 3; do
+              git pull --rebase -q && git push && exit 0
+              git rebase --abort 2>/dev/null; sleep 5
+            done
+            exit 1
           fi
 
       # 지명 사전에 없는 지역이라 자동 게시를 멈춘 초안이 이번에 새로 생겼으면 실패 처리 → GitHub 가 메일로 알려준다

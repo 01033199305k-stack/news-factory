@@ -1,11 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-게시 대기열(state/queue.json)을 스레드·인스타그램에 올린다.
+게시 대기열(state/queue.json)을 스레드·인스타그램·유튜브에 올린다.
 
-    MEDIA_BASE=https://news-factory-watch.alsgur3319.workers.dev/media python post.py [--only threads|instagram]
+    MEDIA_BASE=https://news-factory-watch.alsgur3319.workers.dev/media python post.py [--only threads|instagram|youtube]
 
 - 스레드: 카드 캐러셀 (JPEG)
 - 인스타그램: 숏폼 영상이 있으면 릴스, 없으면 카드 캐러셀 (JPEG)
+- 유튜브: 숏폼 영상이 있을 때만 쇼츠 (없거나 하루 한도를 다 쓰면 건너뜀)
 - 이미지·영상은 upload_media.py 가 먼저 미디어 보관소에 올려 둔다 (두 API 모두 공개 URL 로만 받는다)
 - --only: 그 플랫폼만 올린다. 스레드는 카드가 나오자마자, 인스타는 영상이 나온 뒤에 올리려고 나눴다
 - 토큰이 있는 플랫폼에만 올리고, 올린 결과를 item["done"] 에 적어서 다시 올리지 않는다
@@ -164,6 +165,88 @@ class Instagram(Platform):
         return mid, self.api("GET", mid, fields="permalink").get("permalink", "")
 
 
+class Skip(Exception):
+    """이 플랫폼에는 올리지 않고 넘어간다 (실패로 세지 않음)."""
+
+
+class YouTube(Platform):
+    """YouTube Data API v3 — 숏폼 영상만 쇼츠로 올린다. 영상이 없으면 건너뛴다.
+    인증은 refresh token (YOUTUBE_CLIENT_ID·YOUTUBE_CLIENT_SECRET·YOUTUBE_REFRESH_TOKEN).
+    무료 한도는 하루 약 6건 — 다 쓰면 그 건은 건너뛴다. 심사 전 앱의 업로드는 유튜브가 비공개로 잠근다."""
+    name, token_env = "youtube", "YOUTUBE_REFRESH_TOKEN"
+    PRIVACY = os.environ.get("YOUTUBE_PRIVACY", "public")
+
+    def access(self):
+        if not self._uid:  # _uid 자리에 액세스 토큰을 캐시한다
+            data = urllib.parse.urlencode({
+                "client_id": os.environ["YOUTUBE_CLIENT_ID"],
+                "client_secret": os.environ["YOUTUBE_CLIENT_SECRET"],
+                "refresh_token": self.token, "grant_type": "refresh_token"}).encode()
+            try:
+                with urllib.request.urlopen("https://oauth2.googleapis.com/token", data=data,
+                                            timeout=30) as r:
+                    self._uid = json.loads(r.read())["access_token"]
+            except urllib.error.HTTPError as ex:
+                raise RuntimeError("token refresh → %d %s" % (ex.code, ex.read()[:200]))
+        return self._uid
+
+    def title(self, item):
+        spec = read_json(os.path.join(ROOT, "specs", "auto", item["slug"] + ".json"), {})
+        head = item["text"].split("]")[0] + "] " if item["text"].startswith("[") else ""
+        topic = spec.get("topic") or item["text"][len(head):].split(".")[0]
+        t = (head + topic).replace("<", "").replace(">", "")
+        return t[:90] + " #Shorts"
+
+    def video_bytes(self, item):
+        local = os.path.join(ROOT, "output", item["slug"], item["video"])
+        if os.path.exists(local):
+            with open(local, "rb") as fp:
+                return fp.read()
+        req = urllib.request.Request(media_url(item, item["video"]),
+                                     headers={"User-Agent": "news-factory-uploader/1.0"})
+        with urllib.request.urlopen(req, timeout=120) as r:
+            return r.read()
+
+    def post(self, item):
+        if not item.get("video"):
+            raise Skip("영상 없음")
+        tags = list(dict.fromkeys(DEFAULT_TAGS + item.get("hashtags", [])))
+        meta = {
+            "snippet": {"title": self.title(item),
+                        "description": (item["text"] + "\n\n" +
+                                        " ".join("#" + t.replace(" ", "") for t in tags))[:4900],
+                        "tags": tags, "categoryId": "25",   # 뉴스·정치
+                        "defaultLanguage": "ko", "defaultAudioLanguage": "ko"},
+            "status": {"privacyStatus": self.PRIVACY, "selfDeclaredMadeForKids": False},
+        }
+        video = self.video_bytes(item)
+        auth = {"Authorization": "Bearer " + self.access()}
+        try:
+            req = urllib.request.Request(
+                "https://www.googleapis.com/upload/youtube/v3/videos"
+                "?uploadType=resumable&part=snippet,status",
+                data=json.dumps(meta).encode(), method="POST", headers=dict(auth, **{
+                    "Content-Type": "application/json; charset=UTF-8",
+                    "X-Upload-Content-Type": "video/mp4",
+                    "X-Upload-Content-Length": str(len(video))}))
+            with urllib.request.urlopen(req, timeout=60) as r:
+                loc = r.headers["Location"]
+            req = urllib.request.Request(loc, data=video, method="PUT",
+                                         headers=dict(auth, **{"Content-Type": "video/mp4"}))
+            with urllib.request.urlopen(req, timeout=600) as r:
+                vid = json.loads(r.read())["id"]
+        except urllib.error.HTTPError as ex:
+            body = ex.read().decode(errors="replace")
+            if "quotaExceeded" in body or "uploadLimitExceeded" in body:
+                raise Skip("하루 업로드 한도 초과")
+            try:
+                body = json.loads(body)["error"]["message"]
+            except (ValueError, KeyError):
+                body = body[:300]
+            raise RuntimeError("upload → %d: %s" % (ex.code, body))
+        return vid, "https://youtube.com/shorts/" + vid
+
+
 def main():
     args = sys.argv[1:]
     only = args[args.index("--only") + 1] if "--only" in args else None
@@ -171,7 +254,7 @@ def main():
     if not queue:
         print("대기열 비어 있음")
         return 0
-    active = [p for p in (Threads(), Instagram()) if p.token]
+    active = [p for p in (Threads(), Instagram(), YouTube()) if p.token]
     if not active:
         print("게시 토큰 없음 — 건너뜀 (대기 %d건)" % len(queue))
         return 0
@@ -197,10 +280,14 @@ def main():
         for p in todo:
             try:
                 mid, link = p.post(item)
-                kind = "reel" if (p.name == "instagram" and item.get("video")) else "carousel"
+                kind = ("shorts" if p.name == "youtube" else
+                        "reel" if (p.name == "instagram" and item.get("video")) else "carousel")
                 done[p.name] = {"id": mid, "permalink": link, "kind": kind, "at": int(time.time())}
                 print("POSTED", p.name, kind, item["slug"], link)
                 time.sleep(10)
+            except Skip as ex:
+                done[p.name] = {"skipped": str(ex), "at": int(time.time())}
+                print("SKIP", p.name, item["slug"], ex)
             except Exception as ex:
                 tries[p.name] = tries.get(p.name, 0) + 1
                 print("FAIL", p.name, item["slug"], "attempt", tries[p.name], ex)
