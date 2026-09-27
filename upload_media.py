@@ -39,7 +39,9 @@ def oidc_token():
 def put(key, path, token):
     data = Path(path).read_bytes()
     req = urllib.request.Request("%s/%s" % (MEDIA_BASE, key), data=data, method="PUT", headers={
-        "Authorization": "Bearer " + token, "Content-Type": TYPES[Path(path).suffix]})
+        "Authorization": "Bearer " + token, "Content-Type": TYPES[Path(path).suffix],
+        # 파이썬 기본 User-Agent 는 Cloudflare 가 봇으로 보고 403(error 1010)으로 막는다
+        "User-Agent": "news-factory-uploader/1.0 (+https://github.com/01033199305k-stack/news-factory)"})
     try:
         with urllib.request.urlopen(req, timeout=120) as r:
             return r.status
@@ -84,7 +86,8 @@ def main():
         if not path.exists():
             print("MISSING", item["slug"], name)
             if name == item.get("video"):
-                item["video"] = None  # 영상이 없으면 인스타는 카드 캐러셀로 올린다
+                # 이전 실행에서 만든 영상은 서버에 남지 않는다 — 표시를 지워 make_video 가 다시 만들게 한다
+                item.pop("video", None)
             continue
         try:
             put("%s/%s" % (item["slug"], name), path, token)
