@@ -16,11 +16,23 @@
       "재난",
       "미국"
     ],
-    "done": {},
+    "done": {
+      "threads": {
+        "failed": "GET me → 400: Error validating access token: Session has expired on Sunday, 27-Sep-26 05:00:00 PDT. The current time is Sunday, 27-Sep-26 06:26:07 PDT.",
+        "at": 1790515567
+      }
+    },
     "attempts": {
-      "threads": 2,
+      "threads": 3,
       "instagram": 2
     },
-    "video": null
+    "video": null,
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg"
+    ]
   }
 ]
