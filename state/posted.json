@@ -108,5 +108,49 @@
     ],
     "status": "done",
     "at": 1790516233
+  },
+  {
+    "slug": "2026-09-27-news-thailand-bangkok-flood-disaster",
+    "event_ms": 1790513948000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 태국 방콕에서 폭우로 홍수가 발생해 재난이 선포되었습니다.\n\n방콕의 50개 구가 홍수 재난 지역으로 선포되었으며(글로벌타임스·가디언), 태국은 홍수로 인해 공무원 대상 이틀간의 휴무를 선포했습니다(로이터·더힌두). 폭우로 인해 교통이 방해받고(인디언익스프레스) 수천 명의 주민이 대피소로 이동했습니다(가디언). 정확한 인명 피해 규모는 아직 알려지지 않았습니다.\n\n출처: 로이터·가디언·더힌두·인디언익스프레스·글로벌타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "태국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18010895570977180",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Ddy0kZ3lrZt",
+        "kind": "carousel",
+        "at": 1790519204
+      },
+      "instagram": {
+        "id": "18152925781520417",
+        "permalink": "https://www.instagram.com/reel/Ddy025Yk09a/",
+        "kind": "reel",
+        "at": 1790519393
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790519403
   }
 ]

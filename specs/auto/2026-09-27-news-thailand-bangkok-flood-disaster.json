@@ -1,0 +1,161 @@
+{
+  "slug": "2026-09-27-news-thailand-bangkok-flood-disaster",
+  "topic": "태국 방콕 홍수 재난 선포 공무원 이틀간 휴무",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.27 21:59 KST",
+  "source": "Global Times·Reuters·indianexpress.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM",
+    "related": [
+      [
+        "Thailand declares two-day civil service holiday due to floods",
+        "Reuters"
+      ],
+      [
+        "‘Our house was under water’: Bangkok floods force thousands into shelters as disaster declared",
+        "theguardian.com"
+      ],
+      [
+        "Thailand declares two-day civil service holiday amid floods, could affect court ruling",
+        "thehindu.com"
+      ],
+      [
+        "In Pictures: Heavy rain triggers flooding and disrupts traffic in Bangkok",
+        "indianexpress.com"
+      ],
+      [
+        "All 50 Bangkok districts declared flood disaster areas",
+        "Global Times"
+      ]
+    ],
+    "event_key": "thailand-bangkok-flood-disaster"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "태국 방콕 [[홍수 재난]] 선포\n공무원 이틀간 휴무",
+      "sub": "방콕 50개 구 홍수 재난지역 선포… 공무원 이틀간 휴무",
+      "chips": [
+        {
+          "k": "재난 선포",
+          "v": "방콕 50개 구"
+        }
+      ],
+      "alt": "태국 방콕 홍수 재난 선포 공무원 이틀간 휴무",
+      "map": {
+        "lat": 13.7524938,
+        "lon": 100.4935089,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "태국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "태국\n방콕",
+      "map": {
+        "lat": 13.7524938,
+        "lon": 100.4935089,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "방콕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "방콕 50개 구 재난 선포",
+          "d": "방콕 50개 전 지역이 홍수 재난 지역으로 선포됐습니다 (글로벌타임스·가디언)."
+        },
+        {
+          "t": "공무원 이틀 휴무",
+          "d": "태국은 홍수로 인해 이틀간의 공무원 휴무를 선포했습니다 (로이터·더힌두)."
+        },
+        {
+          "t": "교통 혼잡과 대피",
+          "d": "폭우로 교통이 방해받고 수천 명이 대피소로 이동했습니다 (인디언익스프레스·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "방콕 50개 구 홍수 재난 지역 선포 (글로벌타임스·가디언)",
+        "태국, 홍수로 공무원 이틀간 휴무 선포 (로이터·더힌두)",
+        "폭우로 인한 교통 방해 및 주민 대피 (인디언익스프레스·가디언)"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Global Times",
+        "Reuters",
+        "indianexpress.com",
+        "theguardian.com",
+        "thehindu.com",
+        "2026.09.27 23:25 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 태국 방콕에서 폭우로 홍수가 발생해 재난이 선포되었습니다.\n\n방콕의 50개 구가 홍수 재난 지역으로 선포되었으며(글로벌타임스·가디언), 태국은 홍수로 인해 공무원 대상 이틀간의 휴무를 선포했습니다(로이터·더힌두). 폭우로 인해 교통이 방해받고(인디언익스프레스) 수천 명의 주민이 대피소로 이동했습니다(가디언). 정확한 인명 피해 규모는 아직 알려지지 않았습니다.\n\n출처: 로이터·가디언·더힌두·인디언익스프레스·글로벌타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 속보입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "방콕 50개 구 홍수 재난지역 선포… 공무원 이틀간 휴무.",
+      "card": "cover"
+    },
+    {
+      "text": "Global Times, 로이터, indianexpress.com 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "방콕 50개 전 지역이 홍수 재난 지역으로 선포됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "태국은 홍수로 인해 이틀간의 공무원 휴무를 선포했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폭우로 교통이 방해받고 수천 명이 대피소로 이동했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "지금까지 확인된 것과 아직 확인되지 않은 것을 나눠 보겠습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것은, 방콕 50개 구 홍수 재난 지역 선포, 태국, 홍수로 공무원 이틀간 휴무 선포, 폭우로 인한 교통 방해 및 주민 대피입니다.",
+      "card": "check"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 정확한 인명 피해 규모입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
