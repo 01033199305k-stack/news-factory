@@ -338,5 +338,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790544133
+  },
+  {
+    "slug": "2026-09-28-news-finland-sweden-russia-jets-intercept",
+    "event_ms": 1790550875672,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 핀란드와 스웨덴 전투기가 러시아 군용기를 공동 요격 및 식별했습니다.\n\n양국 전투기가 러시아 군용기에 대응해 출격했습니다. 구체적인 군용기 기종과 편대 규모는 공식 발표되지 않았습니다.\n\n출처: 로이터·키이우인디펜던트·유로뉴스·폭스뉴스·노르딕디펜스섹터 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "핀란드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18072210965756400",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DdzxF01D6ns",
+        "kind": "carousel",
+        "at": 1790550934
+      },
+      "instagram": {
+        "id": "18195832504383395",
+        "permalink": "https://www.instagram.com/reel/Ddzxab_jL2y/",
+        "kind": "reel",
+        "at": 1790551120
+      },
+      "youtube": {
+        "id": "KBLCvynxFmY",
+        "permalink": "https://youtube.com/shorts/KBLCvynxFmY",
+        "kind": "shorts",
+        "at": 1790551213
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790551223
   }
 ]
