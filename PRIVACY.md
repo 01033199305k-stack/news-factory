@@ -10,7 +10,8 @@ news-factory 는 "지금 세계" 채널 운영자가 자기 채널(스레드·�
 **수집하는 정보**
 - 이용자 개인정보를 수집하지 않습니다.
 - YouTube API 서비스는 운영자 본인의 YouTube 채널에 운영자가 만든 동영상을 업로드하는 데에만 씁니다
-  (범위: `youtube.upload`, 연결된 채널 확인용 `youtube.readonly`).
+  (범위: 동영상 업로드 `youtube.upload`, 그 동영상에 한국어 자막 트랙을 올리는 `youtube.force-ssl`,
+  연결된 채널 확인용 `youtube.readonly`).
 
 **보관**
 - OAuth 클라이언트 정보와 리프레시 토큰은 GitHub Actions 의 암호화된 시크릿에만 보관합니다.
@@ -39,7 +40,8 @@ to publish the operator's own world-news card images and short videos to the ope
 **Information we collect**
 - We do not collect personal information from anyone.
 - YouTube API Services are used only to upload videos created by the operator to the operator's own YouTube channel
-  (scopes: `youtube.upload`, and `youtube.readonly` to confirm the connected channel).
+  (scopes: `youtube.upload` for the upload, `youtube.force-ssl` only to add a Korean caption track to that same video,
+  and `youtube.readonly` to confirm the connected channel).
 
 **Storage**
 - The OAuth client credentials and refresh token are stored only as encrypted GitHub Actions secrets.
