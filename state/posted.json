@@ -152,5 +152,91 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790519403
+  },
+  {
+    "slug": "2026-09-27-news-greece-athens-building-explosion",
+    "event_ms": 1790512360000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 아테네 아크로폴리스 인근 플라카 지구에서 건물이 폭발해 붕괴하는 사고가 발생했습니다. 이 사고로 미국인 관광객 4명을 포함해 모두 6명이 숨졌습니다. 폭발 원인은 아직 확인되지 않았습니다. 출처: 폭스뉴스·ABC·BBC·뉴욕타임스·CBS 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "그리스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18024888503876201",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Ddy3vpJG_vJ",
+        "kind": "carousel",
+        "at": 1790520863
+      },
+      "instagram": {
+        "id": "18027541544885128",
+        "permalink": "https://www.instagram.com/reel/Ddy4YuqjyJ5/",
+        "kind": "reel",
+        "at": 1790521240
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790521250
+  },
+  {
+    "slug": "2026-09-27-news-nepal-himlung-avalanche",
+    "event_ms": 1790512617000,
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 네팔 히말라야의 힘룽 베이스캠프에서 눈사태가 발생해 등반객들이 실종되었습니다. 현지 기상 악화가 이어지는 가운데, 구체적인 피해 규모는 매체별 집계 차이가 있습니다. 실종자 수는 매체에 따라 최소 6명에서 최대 14명으로 전해졌으며 일부 사망자 보도도 있으나 정확한 인명 피해는 아직 확인되지 않았습니다. 출처: BBC·CNN·explorersweb·야후 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "네팔"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18097588946412047",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Ddy30AMGwka",
+        "kind": "carousel",
+        "at": 1790520904
+      },
+      "instagram": {
+        "id": "18109857799888929",
+        "permalink": "https://www.instagram.com/reel/Ddy4jF_Df59/",
+        "kind": "reel",
+        "at": 1790521326
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790521336
   }
 ]

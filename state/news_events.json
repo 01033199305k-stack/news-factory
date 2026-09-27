@@ -26,5 +26,21 @@
     "cluster": "CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM",
     "badge": "breaking",
     "at": 1790519151.2484045
+  },
+  {
+    "event_key": "greece-athens-building-explosion",
+    "topic": "아테네 건물 폭발 관광객 등 6명 사망",
+    "slug": "2026-09-27-news-greece-athens-building-explosion",
+    "cluster": "CBMitgFBVV95cUxOc1VyQmc1ejZvR19GbjlPc1I4YWROSFA4TWRSbEZTNkRtWEQyNVJhSE5qUjFyd21zWkdtXzVqN05LYnVKaDNqUWNxZHloSW9tM1Q4YTA4dlQyb203ZklHU29pb1hmRTRtQVJ6N2ljTTlBbmdLbm9GcVNrZWZrZ3FkaE45QWdrNVVzbVBRVUE0a2s0c0pxUDhDLUlvX2pGTEIwVUJtVXdHZzZaUVo0a0xseFN6THprZ9IBuwFBVV95cUxPQk1QV192bDJoV3N2cXAxWURDZDQwMUUtUmM5enc0M0Vmd25BNWVUSzFOQVRiQUV1UnhfanFIZjVuNFdTdlJWVE05MHpST2k0emhJYmF6aXljaVgwazY4ZEoyamZQWW1yR2I0NDhld0hNckZiUEJmeU5IYnhsTlVrNzZKYjFraS1hUFJaWmZEcjVZOHc4blJOMGE5Z2l5SWxDZmdkVmFOVkUxTGtrZTY5Sy03R3oxZjZGaVFj",
+    "badge": "breaking",
+    "at": 1790520731.295448
+  },
+  {
+    "event_key": "nepal-himlung-avalanche",
+    "topic": "히말라야 눈사태 등반객 실종 발생",
+    "slug": "2026-09-27-news-nepal-himlung-avalanche",
+    "cluster": "CBMiW0FVX3lxTE5oWW9BZEpRcFB4aTYzUnltYU9waE9VT05TQmRSaHpYSnJrZ0JUNV83YzFRSU5FTXI3RXZISGpuUzVMOF9vYlVZUXExclRFSm1BclZsVzZ1cWNIQ0E",
+    "badge": "breaking",
+    "at": 1790520811.2099922
   }
 ]

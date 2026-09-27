@@ -1,0 +1,134 @@
+{
+  "slug": "2026-09-27-news-nepal-himlung-avalanche",
+  "topic": "히말라야 눈사태 등반객 실종 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.27 21:36 KST",
+  "source": "BBC·CNN·Latest news from Azerbaijan 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE5oWW9BZEpRcFB4aTYzUnltYU9waE9VT05TQmRSaHpYSnJrZ0JUNV83YzFRSU5FTXI3RXZISGpuUzVMOF9vYlVZUXExclRFSm1BclZsVzZ1cWNIQ0E",
+    "related": [
+      [
+        "Nepal: Ten climbers missing after avalanche hits Himalayan base camp",
+        "BBC"
+      ],
+      [
+        "Six missing in avalanche as severe weather batters Nepal",
+        "CNN"
+      ],
+      [
+        "Fourteen Missing As Avalanche Hits Himlung Base Camp",
+        "explorersweb.com"
+      ],
+      [
+        "Two dead, 14 missing in Nepal avalanche",
+        "Yahoo"
+      ],
+      [
+        "India, Nepal floods and landslides leave 19 dead, 10 missing",
+        "Latest news from Azerbaijan"
+      ]
+    ],
+    "event_key": "nepal-himlung-avalanche"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "히말라야 눈사태\n[[등반객 실종 발생]]",
+      "sub": "네팔 힘룽 베이스캠프서 눈사태 발생",
+      "chips": [],
+      "alt": "히말라야 눈사태 등반객 실종 발생"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "베이스캠프 눈사태 습격",
+          "d": "네팔 히말라야 힘룽 베이스캠프 등에 눈사태가 발생했다고 외신들이 보도했습니다."
+        },
+        {
+          "t": "등반객 실종 발생",
+          "d": "눈사태로 등반객들이 실종되었으며 매체별 집계에 차이가 있습니다."
+        },
+        {
+          "t": "기상 악화 피해",
+          "d": "네팔 및 인도 일대에 악천후와 홍수, 산사태가 발생해 인명 피해가 잇따르고 있습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "네팔 히말라야 힘룽 베이스캠프에서 눈사태 발생 (explorersweb)",
+        "악천후 및 홍수·산사태로 네팔 및 인도 지역 피해 발생 (CNN 등)"
+      ],
+      "unconfirmed": [
+        "정확한 실종자 및 사망자 수 (BBC는 10명 실종, CNN은 6명 실종, explorersweb은 14명 실종, 야후는 2명 사망·14명 실종 보도)"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Latest news from Azerbaijan",
+        "Yahoo",
+        "explorersweb.com",
+        "2026.09.27 23:53 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 네팔 히말라야의 힘룽 베이스캠프에서 눈사태가 발생해 등반객들이 실종되었습니다. 현지 기상 악화가 이어지는 가운데, 구체적인 피해 규모는 매체별 집계 차이가 있습니다. 실종자 수는 매체에 따라 최소 6명에서 최대 14명으로 전해졌으며 일부 사망자 보도도 있으나 정확한 인명 피해는 아직 확인되지 않았습니다. 출처: BBC·CNN·explorersweb·야후 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 속보입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "네팔 힘룽 베이스캠프서 눈사태 발생.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC, CNN, Latest news from Azerbaijan 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "네팔 히말라야 힘룽 베이스캠프 등에 눈사태가 발생했다고 외신들이 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "눈사태로 등반객들이 실종되었으며 매체별 집계에 차이가 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "네팔 및 인도 일대에 악천후와 홍수, 산사태가 발생해 인명 피해가 잇따르고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "지금까지 확인된 것과 아직 확인되지 않은 것을 나눠 보겠습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것은, 네팔 히말라야 힘룽 베이스캠프에서 눈사태 발생, 악천후 및 홍수·산사태로 네팔 및 인도 지역 피해 발생입니다.",
+      "card": "check"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 정확한 실종자 및 사망자 수입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
