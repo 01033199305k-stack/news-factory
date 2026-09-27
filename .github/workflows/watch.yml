@@ -1,4 +1,4 @@
-# 새 속보가 있으면 카드를 만들어 스레드·인스타에 올린다.
+# 새 속보가 있으면 카드를 만들어 스레드에 올리고, 45초 숏폼을 만들어 인스타 릴스로 올린다.
 # 주로 Cloudflare 감시기(worker/)가 1분마다 보다가 새 후보가 생기면 workflow_dispatch 로 깨우고,
 # 매시 5분(UTC)에는 fill=true 로 깨워 '정시 정리'(시간당 최소 1건)를 확인시킨다.
 # 아래 schedule 은 감시기가 멈췄을 때를 위한 백업이다 (GitHub 예약 실행은 제때 안 돈다).
@@ -16,15 +16,19 @@ on:
 
 permissions:
   contents: write
+  id-token: write   # 미디어 보관소(감시기) 업로드 인증 — 따로 넣을 비밀값 없음
 
 concurrency:
   group: watch
   cancel-in-progress: false
 
+env:
+  MEDIA_BASE: https://news-factory-watch.alsgur3319.workers.dev/media
+
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - uses: actions/checkout@v4
 
@@ -32,7 +36,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - run: pip install --quiet pillow anthropic
+      - run: pip install --quiet pillow anthropic edge-tts
 
       - name: 지진 감시 (USGS)
         continue-on-error: true
@@ -50,34 +54,48 @@ jobs:
           FILL: ${{ (github.event_name == 'schedule' || github.event.inputs.fill == 'true') && '--fill' || '' }}
         run: python news_watch.py --queue $FILL
 
-      - name: 카드 커밋
-        id: commit
+      - name: 대기열 확인
+        id: q
         run: |
-          git config user.name "news-factory-bot"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A state specs output
-          if ! git diff --cached --quiet; then
-            git commit -m "draft: $(date -u +%Y-%m-%dT%H:%MZ)"
-            git pull --rebase -q   # 그사이 코드가 올라왔어도 기록이 밀리지 않게
-            git push
-            sleep 10   # raw.githubusercontent.com 에 반영될 시간
-          fi
-          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          python -c "import json,os; q=json.load(open('state/queue.json')) if os.path.exists('state/queue.json') else []; print('n=%d' % len(q)); print('video=%d' % sum(1 for i in q if 'video' not in i))" >> "$GITHUB_OUTPUT"
 
-      - name: 스레드·인스타 게시
+      # 스레드는 카드가 나오자마자 — 영상 렌더링을 기다리지 않는다
+      - name: 카드 올리기 + 스레드 게시
+        if: steps.q.outputs.n != '0'
         env:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
-          IMAGE_BASE: https://raw.githubusercontent.com/${{ github.repository }}/${{ steps.commit.outputs.sha }}
-        run: python post.py
+        run: |
+          python upload_media.py
+          python post.py --only threads
 
-      - name: 게시 기록 커밋
+      - name: 숏폼 영상 만들기 (45초, 여자 아나운서)
+        if: steps.q.outputs.video != '0'
+        continue-on-error: true   # 영상이 실패하면 인스타는 카드 캐러셀로 간다
+        run: |
+          command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
+          python make_video.py --queue
+
+      - name: 영상 올리기 + 인스타 릴스 게시
+        if: steps.q.outputs.n != '0'
+        env:
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+        run: |
+          python upload_media.py
+          python post.py --only instagram
+
+      # 카드·영상은 보관소에만 두고 저장소에는 기록(state·specs)만 남긴다 — 저장소가 불어나지 않게
+      - name: 기록 커밋
         if: always()
         run: |
-          git add -A state
+          git config user.name "news-factory-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A state specs
           if ! git diff --cached --quiet; then
-            git commit -m "post log: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git commit -m "run: $(date -u +%Y-%m-%dT%H:%MZ)"
             git pull --rebase -q
             git push
           fi

@@ -6,7 +6,9 @@
   "triggers": { "crons": ["* * * * *"] },
   "vars": { "GH_REPO": "01033199305k-stack/news-factory" },
   "kv_namespaces": [
-    { "binding": "SEEN", "id": "014edaab946a42c0ad60565a693c8b2c" }
+    { "binding": "SEEN", "id": "014edaab946a42c0ad60565a693c8b2c" },
+    // 카드 JPEG·숏폼 mp4 임시 보관 (3일 뒤 자동 삭제)
+    { "binding": "MEDIA", "id": "1df1ad6e42a9468f99f3e2e233d4b181" }
   ],
   "observability": { "enabled": true }
   // 시크릿 GH_DISPATCH_TOKEN 은 Cloudflare 대시보드에서 넣는다 (코드·저장소에 두지 않음)

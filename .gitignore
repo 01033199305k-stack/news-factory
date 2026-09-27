@@ -1,7 +1,13 @@
 __pycache__/
 *.pyc
 .env
-output/*/_html/
 brand/avatar.html
 worker/node_modules/
 worker/.wrangler/
+
+# 카드·영상은 미디어 보관소(감시기 KV)로만 보낸다 — 저장소에는 점검용 샘플만 둔다
+output/*
+!output/2026-09-26-newcaledonia-m66/
+output/*/_html/
+output/*/_video/
+output/*/video.mp4

@@ -29,6 +29,7 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 
 import make_cards
+import narration
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SEEN = os.path.join(ROOT, "state", "news_seen.json")
@@ -478,6 +479,8 @@ def build_spec(c, ev, badge="breaking"):
         "news": {"id": c["id"], "related": c["related"], "event_key": ev["event_key"]},
         "cards": cards,
         "caption": {"threads": caption[:490], "hashtags": []},
+        # 숏폼 원고 — 카드에 들어간 확인된 문장만 이어 붙인다 (narration.py)
+        "narration": narration.for_news(ev, srcs, badge, has_map=bool(geo)),
     }
 
 

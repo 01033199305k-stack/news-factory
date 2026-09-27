@@ -8,10 +8,14 @@ on:
       - ".github/workflows/check.yml"
   workflow_dispatch:
 
+permissions:
+  contents: read
+  id-token: write   # 미디어 보관소 업로드 시험
+
 jobs:
   check:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
 
@@ -125,4 +129,50 @@ jobs:
           pip install --quiet pillow
           python make_cards.py specs/sample-newcaledonia-m66.json
           python -c "from PIL import Image; import glob; fs=sorted(glob.glob('output/2026-09-26-newcaledonia-m66/*.png')); print([Image.open(f).size for f in fs])"
-# rerun: verify pass
+
+      # 숏폼: 클라우드에서 렌더링 → 미디어 보관소 업로드 → 인스타가 릴스로 받아들이는지
+      # (릴스 컨테이너만 만들고 media_publish 는 부르지 않는다 — 게시되지 않고 24시간 뒤 사라진다)
+      - name: 숏폼 파이프라인 시험 (게시 안 함)
+        env:
+          MEDIA_BASE: https://news-factory-watch.alsgur3319.workers.dev/media
+          TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+        run: |
+          command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
+          pip install --quiet edge-tts
+          python make_video.py specs/sample-newcaledonia-m66.json
+          ffprobe -v error -show_entries format=duration:stream=codec_name,width,height,sample_rate -of compact output/2026-09-26-newcaledonia-m66/video.mp4
+          python - <<'EOF'
+          import json, os, time, urllib.error, urllib.parse, urllib.request
+          import upload_media as u
+          key = "_check/%s.mp4" % os.environ["GITHUB_RUN_ID"]
+          print("업로드   :", u.put(key, "output/2026-09-26-newcaledonia-m66/video.mp4", u.oidc_token()))
+          time.sleep(20)
+          url = os.environ["MEDIA_BASE"] + "/" + key
+          with urllib.request.urlopen(urllib.request.Request(url, method="HEAD")) as r:
+              print("보관소   :", r.status, r.headers["Content-Type"], r.headers["Content-Length"], "bytes")
+          t = os.environ.get("TOKEN")
+          if not t:
+              raise SystemExit("INSTAGRAM_ACCESS_TOKEN 없음 — 릴스 시험 생략")
+          def ig(method, path, **p):
+              p["access_token"] = t
+              data = urllib.parse.urlencode(p).encode() if method == "POST" else None
+              q = "" if data else "?" + urllib.parse.urlencode(p)
+              try:
+                  with urllib.request.urlopen(urllib.request.Request(
+                          "https://graph.instagram.com/" + path + q, data=data, method=method), timeout=60) as r:
+                      return json.loads(r.read())
+              except urllib.error.HTTPError as ex:
+                  raise SystemExit("인스타 오류: %s" % json.loads(ex.read()).get("error", {}).get("message"))
+          me = ig("GET", "me", fields="user_id")
+          c = ig("POST", "%s/media" % (me.get("user_id") or me["id"]), media_type="REELS",
+                 video_url=url, caption="check")["id"]
+          st = {}
+          for _ in range(40):
+              st = ig("GET", c, fields="status_code,status")
+              if st.get("status_code") in ("FINISHED", "ERROR", "EXPIRED"):
+                  break
+              time.sleep(6)
+          print("인스타 릴스:", st.get("status_code"), st.get("status", ""), "(게시 안 함)")
+          if st.get("status_code") != "FINISHED":
+              raise SystemExit(1)
+          EOF

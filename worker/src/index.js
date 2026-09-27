@@ -35,6 +35,92 @@ const INCIDENT = new RegExp(
   "arrest\\w*|manhunt|lockdown|incident)\\b", "i");
 const QUAKE = /\b(earthquake|quake|tremor|magnitude)\b/i;
 
+// ── 미디어 보관소 ─────────────────────────────────
+// 카드 JPEG·숏폼 mp4 를 인스타·스레드가 가져갈 동안만 KV(MEDIA)에 둔다. 저장소가 불어나지 않게.
+// 올리기(PUT)는 GitHub Actions OIDC 토큰으로만 — 이 저장소 main 브랜치에서 돈 작업만 받는다.
+const MEDIA_TTL = 3 * 24 * 3600;
+const OIDC_ISS = "https://token.actions.githubusercontent.com";
+const OIDC_AUD = "news-factory-media";
+const MEDIA_TYPES = { mp4: "video/mp4", jpg: "image/jpeg", jpeg: "image/jpeg", png: "image/png" };
+const MEDIA_MAX = 24 * 1024 * 1024;   // KV 값은 25MiB 까지
+
+function b64urlBytes(s) {
+  s = s.replace(/-/g, "+").replace(/_/g, "/");
+  while (s.length % 4) s += "=";
+  const bin = atob(s);
+  const out = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i++) out[i] = bin.charCodeAt(i);
+  return out;
+}
+
+async function verifyOidc(auth, env) {
+  const token = (auth || "").replace(/^Bearer\s+/i, "");
+  const parts = token.split(".");
+  if (parts.length !== 3) return false;
+  const [h, p, s] = parts;
+  let header, claims;
+  try {
+    header = JSON.parse(new TextDecoder().decode(b64urlBytes(h)));
+    claims = JSON.parse(new TextDecoder().decode(b64urlBytes(p)));
+  } catch (e) {
+    return false;
+  }
+  const now = Date.now() / 1000;
+  const aud = Array.isArray(claims.aud) ? claims.aud : [claims.aud];
+  if (claims.iss !== OIDC_ISS || !aud.includes(OIDC_AUD)) return false;
+  if (claims.repository !== env.GH_REPO || claims.ref !== "refs/heads/main") return false;
+  if (!(claims.exp > now) || (claims.nbf && claims.nbf > now + 60)) return false;
+  if (header.alg !== "RS256") return false;
+  const jwks = await (await fetch(OIDC_ISS + "/.well-known/jwks", { cf: { cacheTtl: 3600 } })).json();
+  const jwk = (jwks.keys || []).find((k) => k.kid === header.kid);
+  if (!jwk) return false;
+  const key = await crypto.subtle.importKey(
+    "jwk", { kty: jwk.kty, n: jwk.n, e: jwk.e, alg: "RS256", ext: true },
+    { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" }, false, ["verify"]);
+  return crypto.subtle.verify("RSASSA-PKCS1-v1_5", key, b64urlBytes(s),
+    new TextEncoder().encode(h + "." + p));
+}
+
+async function media(request, env, key) {
+  if (!/^[\w.-]+\/[\w.-]+\.(mp4|jpe?g|png)$/.test(key)) return new Response("bad key", { status: 400 });
+  const type = MEDIA_TYPES[key.split(".").pop()];
+
+  if (request.method === "PUT") {
+    if (!(await verifyOidc(request.headers.get("Authorization"), env))) {
+      return new Response("forbidden", { status: 403 });
+    }
+    const body = await request.arrayBuffer();
+    if (body.byteLength > MEDIA_MAX) return new Response("too large", { status: 413 });
+    await env.MEDIA.put(key, body, { expirationTtl: MEDIA_TTL });
+    return new Response("stored " + body.byteLength, { status: 201 });
+  }
+
+  if (request.method !== "GET" && request.method !== "HEAD") {
+    return new Response("method not allowed", { status: 405 });
+  }
+  const buf = await env.MEDIA.get(key, "arrayBuffer");
+  if (!buf) return new Response("not found", { status: 404 });
+  const size = buf.byteLength;
+  const headers = { "Content-Type": type, "Accept-Ranges": "bytes", "Cache-Control": "public, max-age=3600" };
+  // 영상 플레이어·수집기가 부분 요청(Range)을 보내면 그 구간만 준다
+  const m = (request.headers.get("Range") || "").match(/^bytes=(\d*)-(\d*)$/);
+  if (m && (m[1] || m[2])) {
+    let start = m[1] ? parseInt(m[1], 10) : Math.max(0, size - parseInt(m[2], 10));
+    let end = m[1] && m[2] ? Math.min(parseInt(m[2], 10), size - 1) : size - 1;
+    if (start > end || start >= size) {
+      return new Response(null, { status: 416, headers: { "Content-Range": `bytes */${size}` } });
+    }
+    const part = buf.slice(start, end + 1);
+    return new Response(request.method === "HEAD" ? null : part, {
+      status: 206,
+      headers: { ...headers, "Content-Range": `bytes ${start}-${end}/${size}`, "Content-Length": String(part.byteLength) },
+    });
+  }
+  return new Response(request.method === "HEAD" ? null : buf, {
+    headers: { ...headers, "Content-Length": String(size) },
+  });
+}
+
 const SEEN_KEY = "seen";      // 이미 GitHub 을 깨운 후보 ID 목록
 const LAST_KEY = "last";      // 마지막으로 깨운 기록 (확인용)
 const SEEN_MAX = 800;
@@ -153,8 +239,10 @@ export default {
     ctx.waitUntil(check(env, { hourly }));
   },
 
-  // 확인용: 브라우저로 열면 지금 걸리는 후보와 마지막 기록을 보여준다 (GitHub 은 깨우지 않음)
+  // /media/<slug>/<파일> → 미디어 보관소. 그 밖의 주소는 확인용 상태 (GitHub 은 깨우지 않음)
   async fetch(request, env) {
+    const path = new URL(request.url).pathname;
+    if (path.startsWith("/media/")) return media(request, env, decodeURIComponent(path.slice(7)));
     const r = await check(env, { dryRun: true });
     const last = await env.SEEN.get(LAST_KEY, "json");
     const selftest = await env.SEEN.get("selftest");

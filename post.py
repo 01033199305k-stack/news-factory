@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-게시 대기열(state/queue.json)의 카드뉴스를 스레드·인스타그램에 캐러셀로 올린다.
+게시 대기열(state/queue.json)을 스레드·인스타그램에 올린다.
 
-    IMAGE_BASE=https://raw.githubusercontent.com/<owner>/<repo>/<sha> python post.py
+    MEDIA_BASE=https://news-factory-watch.alsgur3319.workers.dev/media python post.py [--only threads|instagram]
 
-두 API 모두 이미지를 공개 URL 로만 받는다. 그래서 GitHub Actions 가 카드를 먼저 커밋·푸시하고,
-그 커밋의 raw 주소를 IMAGE_BASE 로 넘긴다.
-
-- 토큰이 있는 플랫폼에만 올린다 (THREADS_ACCESS_TOKEN / INSTAGRAM_ACCESS_TOKEN)
-- 플랫폼별로 올린 결과를 item["done"] 에 적어서, 한쪽이 실패해도 다른 쪽을 다시 올리지 않는다
+- 스레드: 카드 캐러셀 (JPEG)
+- 인스타그램: 숏폼 영상이 있으면 릴스, 없으면 카드 캐러셀 (JPEG)
+- 이미지·영상은 upload_media.py 가 먼저 미디어 보관소에 올려 둔다 (두 API 모두 공개 URL 로만 받는다)
+- --only: 그 플랫폼만 올린다. 스레드는 카드가 나오자마자, 인스타는 영상이 나온 뒤에 올리려고 나눴다
+- 토큰이 있는 플랫폼에만 올리고, 올린 결과를 item["done"] 에 적어서 다시 올리지 않는다
 - 발생 후 POST_MAX_AGE_H 시간이 지난 건은 '속보'로 늦었으니 올리지 않고 expired 로 뺀다
 - 한 플랫폼에서 3번 연속 실패하면 그 플랫폼은 포기하고 exit 1 → GitHub 가 실패 메일을 보낸다
 """
@@ -26,7 +26,7 @@ LOG = os.path.join(ROOT, "state", "posted.json")
 
 POST_MAX_AGE_H = 6
 MAX_ATTEMPTS = 3
-IMAGE_BASE = os.environ.get("IMAGE_BASE", "").rstrip("/")
+MEDIA_BASE = os.environ.get("MEDIA_BASE", "").rstrip("/")
 DEFAULT_TAGS = ["지금세계", "속보", "해외뉴스", "세계뉴스"]
 
 
@@ -42,6 +42,14 @@ def write_json(path, data):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8") as fp:
         json.dump(data, fp, ensure_ascii=False, indent=2)
+
+
+def media_url(item, name):
+    return "%s/%s/%s" % (MEDIA_BASE, item["slug"], urllib.parse.quote(name))
+
+
+def card_urls(item):
+    return [media_url(item, n[:-4] + ".jpg") for n in item["images"]]
 
 
 class Platform:
@@ -73,10 +81,6 @@ class Platform:
                 body = body[:300]
             raise RuntimeError("%s %s → %s: %s" % (method, path, ex.code, body))
 
-    def image_urls(self, item, ext):
-        return ["%s/output/%s/%s" % (IMAGE_BASE, item["slug"], n[:-4] + ext)
-                for n in item["images"]]
-
 
 class Threads(Platform):
     name, host, token_env = "threads", "https://graph.threads.net/v1.0", "THREADS_ACCESS_TOKEN"
@@ -101,7 +105,7 @@ class Threads(Platform):
         uid = self.uid()
         kids = [self.api("POST", "%s/threads" % uid, media_type="IMAGE", image_url=u,
                          is_carousel_item="true")["id"]
-                for u in self.image_urls(item, ".png")[:20]]
+                for u in card_urls(item)[:20]]
         for k in kids:
             self.wait(k)
         text = item["text"] if len(item["text"]) <= 500 else item["text"][:499] + "…"
@@ -115,7 +119,7 @@ class Threads(Platform):
 
 
 class Instagram(Platform):
-    """Instagram API (인스타그램 로그인). 프로페셔널 계정 필요, 이미지는 JPEG 만, 캐러셀 10장까지."""
+    """Instagram API (인스타그램 로그인). 프로페셔널 계정 필요. 이미지는 JPEG, 캐러셀 10장까지."""
     name, host, token_env = "instagram", "https://graph.instagram.com", "INSTAGRAM_ACCESS_TOKEN"
 
     def uid(self):
@@ -124,34 +128,45 @@ class Instagram(Platform):
             self._uid = me.get("user_id") or me["id"]
         return self._uid
 
-    def wait(self, cid, timeout=180):
+    def wait(self, cid, timeout=300):
         end = time.time() + timeout
         while time.time() < end:
-            st = self.api("GET", cid, fields="status_code").get("status_code")
+            st = self.api("GET", cid, fields="status_code,status").get("status_code")
             if st in ("FINISHED", "PUBLISHED"):
                 return
             if st in ("ERROR", "EXPIRED"):
-                raise RuntimeError("container %s: %s" % (cid, st))
-            time.sleep(5)
+                detail = self.api("GET", cid, fields="status").get("status", "")
+                raise RuntimeError("container %s: %s %s" % (cid, st, detail))
+            time.sleep(6)
         raise RuntimeError("container %s not ready in %ds" % (cid, timeout))
+
+    def caption(self, item):
+        tags = " ".join("#" + t.replace(" ", "").lstrip("#")
+                        for t in dict.fromkeys(DEFAULT_TAGS + item.get("hashtags", [])))
+        return (item["text"] + "\n\n" + tags)[:2200]
 
     def post(self, item):
         uid = self.uid()
-        kids = [self.api("POST", "%s/media" % uid, image_url=u, is_carousel_item="true")["id"]
-                for u in self.image_urls(item, ".jpg")[:10]]
-        for k in kids:
-            self.wait(k)
-        tags = " ".join("#" + t.replace(" ", "").lstrip("#")
-                        for t in dict.fromkeys(DEFAULT_TAGS + item.get("hashtags", [])))
-        caption = (item["text"] + "\n\n" + tags)[:2200]
-        parent = self.api("POST", "%s/media" % uid, media_type="CAROUSEL",
-                          children=",".join(kids), caption=caption)["id"]
+        if item.get("video"):
+            # 숏폼 영상 → 릴스 (피드에도 보이게)
+            parent = self.api("POST", "%s/media" % uid, media_type="REELS",
+                              video_url=media_url(item, item["video"]), caption=self.caption(item),
+                              share_to_feed="true", thumb_offset="1500")["id"]
+        else:
+            kids = [self.api("POST", "%s/media" % uid, image_url=u, is_carousel_item="true")["id"]
+                    for u in card_urls(item)[:10]]
+            for k in kids:
+                self.wait(k)
+            parent = self.api("POST", "%s/media" % uid, media_type="CAROUSEL",
+                              children=",".join(kids), caption=self.caption(item))["id"]
         self.wait(parent)
         mid = self.api("POST", "%s/media_publish" % uid, creation_id=parent)["id"]
         return mid, self.api("GET", mid, fields="permalink").get("permalink", "")
 
 
 def main():
+    args = sys.argv[1:]
+    only = args[args.index("--only") + 1] if "--only" in args else None
     queue = read_json(QUEUE, [])
     if not queue:
         print("대기열 비어 있음")
@@ -160,10 +175,11 @@ def main():
     if not active:
         print("게시 토큰 없음 — 건너뜀 (대기 %d건)" % len(queue))
         return 0
-    if not IMAGE_BASE:
-        print("IMAGE_BASE 없음 — 이미지 주소를 만들 수 없어 게시 건너뜀")
+    if not MEDIA_BASE:
+        print("MEDIA_BASE 없음 — 이미지 주소를 만들 수 없어 게시 건너뜀")
         return 1
-    print("게시 대상:", ", ".join(p.name for p in active))
+    targets = [p for p in active if only in (None, p.name)]
+    print("게시 대상:", ", ".join(p.name for p in targets) or "(없음)")
 
     log = read_json(LOG, [])
     failed = False
@@ -172,7 +188,7 @@ def main():
         done = item.setdefault("done", {})
         tries = item["attempts"] = (item["attempts"] if isinstance(item.get("attempts"), dict)
                                     else {})
-        todo = [p for p in active if p.name not in done]
+        todo = [p for p in targets if p.name not in done]
         age_h = (time.time() * 1000 - item["event_ms"]) / 3.6e6
         if todo and age_h > POST_MAX_AGE_H:
             print("EXPIRED", item["slug"], [p.name for p in todo], "(%.1f시간 지남)" % age_h)
@@ -181,9 +197,10 @@ def main():
         for p in todo:
             try:
                 mid, link = p.post(item)
-                done[p.name] = {"id": mid, "permalink": link, "at": int(time.time())}
-                print("POSTED", p.name, item["slug"], link)
-                time.sleep(15)
+                kind = "reel" if (p.name == "instagram" and item.get("video")) else "carousel"
+                done[p.name] = {"id": mid, "permalink": link, "kind": kind, "at": int(time.time())}
+                print("POSTED", p.name, kind, item["slug"], link)
+                time.sleep(10)
             except Exception as ex:
                 tries[p.name] = tries.get(p.name, 0) + 1
                 print("FAIL", p.name, item["slug"], "attempt", tries[p.name], ex)

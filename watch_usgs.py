@@ -19,6 +19,7 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 
 import make_cards
+import narration
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 STATE = os.path.join(ROOT, "state", "usgs_seen.json")
@@ -221,6 +222,25 @@ def build_spec(ev):
         lines.append("• 이후 규모 4 이상 여진 %d회" % len(after))
     lines += ["• 현지 피해 집계는 아직 없음", "", "출처: USGS %s" % ev["id"]]
 
+    # 숏폼 원고 — 전부 USGS 수치로만 채운다
+    km_s = format(int(round(seoul_km, -1)), ",")
+    nar = [
+        {"text": narration.INTRO["breaking"], "card": "cover"},
+        {"text": "%s 인근에서 규모 %s의 지진이 발생했습니다." % (country, mag_s), "card": "cover"},
+        {"text": "진앙은 %s, 깊이는 %d킬로미터입니다." % (where, round(depth)), "card": "cover"},
+        {"text": "서울에서 약 %s킬로미터 떨어진 곳입니다." % km_s, "card": "map"},
+    ]
+    if after:
+        nar.append({"text": "이후 규모 4 이상의 여진이 %d차례 이어졌습니다." % len(after), "card": "fact"})
+    nar.append({"text": narration.CHECK_INTRO, "card": "check"})
+    nar.append({"text": ("미국 지질조사국의 피해 추정 등급은 %s, %s입니다." % alert) if alert
+                else "미국 지질조사국의 피해 추정은 아직 나오지 않았습니다.", "card": "check"})
+    nar.append({"text": "쓰나미 경보 여부는 각국 경보센터의 발표를 확인해야 합니다."
+                if p.get("tsunami") == 1 else "미국 지질조사국 자료에는 쓰나미 표시가 없습니다.",
+                "card": "check"})
+    nar.append({"text": "현지 당국의 피해 집계는 아직 나오지 않았습니다.", "card": "check"})
+    nar.append({"text": narration.OUTRO, "card": "outro"})
+
     slug = "%s-usgs-%s" % (fmt_kst(p["time"], "%Y-%m-%d"), ev["id"])
     return {
         "slug": slug,
@@ -232,6 +252,7 @@ def build_spec(ev):
         "cards": cards,
         "caption": {"threads": "\n".join(lines),
                     "hashtags": ["지진", country.replace(" ", ""), "세계뉴스", "속보", "해외뉴스"]},
+        "narration": nar,
     }
 
 
