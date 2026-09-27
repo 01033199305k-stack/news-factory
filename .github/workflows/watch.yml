@@ -37,7 +37,8 @@ jobs:
       - name: 사건·사고 감시 (뉴스)
         continue-on-error: true   # 여기서 실패해도 지진 속보 게시는 계속
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}         # 무료 구간 (우선)
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # 유료, 선택
         run: python news_watch.py --queue
 
       - name: 카드 커밋

@@ -20,6 +20,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -45,7 +46,9 @@ MIN_SOURCES = 3        # 서로 다른 매체 3곳 이상이 보도해야 자동
 MAX_AGE_H = 3          # 첫 보도 후 3시간 안의 것만 '속보'
 MAX_POSTS_PER_RUN = 2
 MAX_POSTS_PER_DAY = 15  # 스팸 판정 방지
-MODEL = "claude-opus-5"
+MODEL = "claude-opus-5"                 # ANTHROPIC_API_KEY 가 있을 때 (유료)
+GEMINI_MODELS = [m for m in (os.environ.get("GEMINI_MODEL"),   # GEMINI_API_KEY 가 있으면 우선 (무료 구간)
+                             "gemini-3.8-flash", "gemini-3.5-flash", "gemini-2.5-flash") if m]
 
 KST = timezone(timedelta(hours=9))
 
@@ -212,9 +215,6 @@ def candidates(items, seen):
 
 # ── 2. 판정·정리 (Claude) ────────────────────────
 def judge(cands, recent):
-    import anthropic
-
-    client = anthropic.Anthropic()
     blocks = []
     for i, c in enumerate(cands):
         lines = "\n".join("  - %s — %s" % (h, s) for h, s in c["related"])
@@ -224,6 +224,15 @@ def judge(cands, recent):
     user = ("최근 48시간 게시 목록:\n%s\n\n판정할 기사 묶음:\n\n%s"
             % (recent_txt, "\n\n".join(blocks)))
 
+    if os.environ.get("GEMINI_API_KEY"):
+        return judge_gemini(user)
+    return judge_claude(user)
+
+
+def judge_claude(user):
+    import anthropic
+
+    client = anthropic.Anthropic()
     resp = client.beta.messages.create(
         model=MODEL,
         max_tokens=16000,
@@ -239,6 +248,69 @@ def judge(cands, recent):
         raise RuntimeError("Claude refused: %s" % (resp.stop_details,))
     text = next(b.text for b in resp.content if b.type == "text")
     return json.loads(text)["events"]
+
+
+def _gemini_schema(s):
+    """generateContent 의 responseSchema 는 OpenAPI 부분집합이라 additionalProperties 를 뺀다."""
+    if isinstance(s, dict):
+        return {k: _gemini_schema(v) for k, v in s.items() if k != "additionalProperties"}
+    if isinstance(s, list):
+        return [_gemini_schema(v) for v in s]
+    return s
+
+
+def judge_gemini(user):
+    """Gemini API 무료 구간. 모델이 없거나 바뀌었으면 다음 후보로 넘어간다."""
+    body = json.dumps({
+        "systemInstruction": {"parts": [{"text": SYSTEM}]},
+        "contents": [{"role": "user", "parts": [{"text": user}]}],
+        "generationConfig": {"responseMimeType": "application/json",
+                             "responseSchema": _gemini_schema(SCHEMA)},
+    }).encode()
+    last = None
+    for model in GEMINI_MODELS:
+        url = "https://generativelanguage.googleapis.com/v1beta/models/%s:generateContent" % model
+        req = urllib.request.Request(url, data=body, method="POST", headers={
+            "Content-Type": "application/json",
+            "x-goog-api-key": os.environ["GEMINI_API_KEY"]})
+        try:
+            with urllib.request.urlopen(req, timeout=120) as r:
+                d = json.loads(r.read())
+        except urllib.error.HTTPError as ex:
+            last = "%s → HTTP %d" % (model, ex.code)
+            print("GEMINI", last)
+            if ex.code in (404, 400):
+                continue          # 모델 이름이 없어졌으면 다음 후보
+            raise RuntimeError(last)  # 429(무료 한도) 등은 이번 실행을 건너뛴다
+        u = d.get("usageMetadata", {})
+        print("USAGE model=%s in=%s out=%s" % (model, u.get("promptTokenCount"),
+                                               u.get("candidatesTokenCount")))
+        parts = d["candidates"][0]["content"]["parts"]
+        text = "".join(p.get("text", "") for p in parts if not p.get("thought"))
+        return json.loads(text)["events"]
+    raise RuntimeError("사용 가능한 Gemini 모델 없음 (%s)" % last)
+
+
+# 영어 숫자 단어 → 숫자 (헤드라인의 "Four tourists" 도 검증에 쓰도록)
+_WORDNUM = {w: i for i, w in enumerate(
+    "zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen "
+    "fifteen sixteen seventeen eighteen nineteen twenty".split())}
+_WORDNUM.update({"thirty": 30, "forty": 40, "fifty": 50, "hundred": 100, "dozens": 24, "dozen": 12})
+
+
+def numbers_ok(ev, c):
+    """카드와 본문에 나오는 숫자가 전부 헤드라인에 있는지 확인한다.
+    모델이 숫자를 지어내거나 잘못 옮기면 게시하지 않는다 (무료 모델 안전장치)."""
+    src = " ".join(h for h, _ in c["related"]).lower().replace(",", "")
+    allowed = {int(x) for x in re.findall(r"\d+", src)}
+    allowed |= {n for w, n in _WORDNUM.items() if re.search(r"\b%s\b" % w, src)}
+    allowed |= set(range(0, 4))  # "1명", "2건", "3곳" 같은 서술용 작은 수
+    out = " ".join([ev["headline_ko"], ev["sub_ko"], ev["caption_ko"]]
+                   + ["%s %s" % (x["k"], x["v"]) for x in ev["chips"]]
+                   + ["%s %s" % (x["t"], x["d"]) for x in ev["points"]]
+                   + ev["confirmed"]).replace(",", "")
+    bad = sorted({int(x) for x in re.findall(r"\d+", out)} - allowed)
+    return (not bad), bad
 
 
 # ── 3. 카드 ──────────────────────────────────────
@@ -316,8 +388,8 @@ def run(queue=False, dry=False):
         print("  -", len(c["sources"]), "곳 |", c["title"][:90])
     if dry or not cands:
         return
-    if not os.environ.get("ANTHROPIC_API_KEY"):
-        print("ANTHROPIC_API_KEY 없음 — 판정 건너뜀 (다음 실행 때 다시 본다)")
+    if not (os.environ.get("GEMINI_API_KEY") or os.environ.get("ANTHROPIC_API_KEY")):
+        print("GEMINI_API_KEY / ANTHROPIC_API_KEY 없음 — 판정 건너뜀 (다음 실행 때 다시 본다)")
         return
 
     recent = [e for e in events if e.get("at", 0) > time.time() - 48 * 3600]
@@ -331,6 +403,10 @@ def run(queue=False, dry=False):
         seen.add(c["id"])
         if ev["decision"] != "post":
             print("SKIP", c["title"][:70], "—", ev["skip_reason"])
+            continue
+        ok, bad = numbers_ok(ev, c)
+        if not ok:
+            print("REJECT (헤드라인에 없는 숫자 %s)" % bad, c["title"][:70])
             continue
         if made >= MAX_POSTS_PER_RUN or posted_today(events) >= MAX_POSTS_PER_DAY:
             print("LIMIT", c["title"][:70])

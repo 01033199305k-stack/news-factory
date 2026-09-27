@@ -16,14 +16,16 @@ GitHub Actions `.github/workflows/watch.yml` 이 5분마다:
 | `THREADS_USER_ID` | (선택) 스레드 사용자 ID. 없으면 토큰으로 조회한다 |
 | `THREADS_ACCESS_TOKEN` | 스레드 장기 토큰 (60일) |
 | `GH_PAT` | 토큰 자동 갱신용. 이 저장소만, 권한 `Secrets: Read and write` 의 fine-grained 토큰 |
-| `ANTHROPIC_API_KEY` | 사건·사고 판정·정리용 Claude API 키 (없으면 지진만 돈다) |
+| `GEMINI_API_KEY` | 사건·사고 판정·정리용. Google AI Studio 무료 키 (카드 등록 없음) |
+| `ANTHROPIC_API_KEY` | (선택, 유료) Gemini 대신 Claude 로 판정. `GEMINI_API_KEY` 가 있으면 Gemini 가 우선 |
 
 ### 사건·사고 (`news_watch.py`)
 
 - 구글 뉴스 RSS 는 기사마다 같은 사건을 보도한 다른 매체 목록을 붙여 준다
 - 자동 게시 조건: 첫 보도 3시간 안 + **서로 다른 매체 3곳 이상** + 사건·사고 키워드
-- Claude(`claude-opus-5`)가 헤드라인만 보고 판정한다. 배경지식으로 빈칸을 채우지 않고,
+- Gemini(무료) 또는 Claude 가 헤드라인만 보고 판정한다. 배경지식으로 빈칸을 채우지 않고,
   숫자엔 보도 매체를 붙이고, 매체마다 다른 숫자는 "아직 확인 안 됨"으로 보낸다
+- **숫자 검증**: 카드·본문의 숫자가 헤드라인에 하나라도 없으면 게시하지 않는다 (`numbers_ok`)
 - 정치·경제·스포츠·연예, 교전 당사자 한쪽 주장뿐인 전쟁 보도, 지진은 제외
 - 한 번에 2건, 하루 15건까지 (스팸 판정 방지)
 - `python news_watch.py --dry` 로 지금 걸리는 후보를 볼 수 있다 (Claude 호출 없음)
