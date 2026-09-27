@@ -270,18 +270,30 @@ def judge_gemini(user):
     last = None
     for model in GEMINI_MODELS:
         url = "https://generativelanguage.googleapis.com/v1beta/models/%s:generateContent" % model
-        req = urllib.request.Request(url, data=body, method="POST", headers={
-            "Content-Type": "application/json",
-            "x-goog-api-key": os.environ["GEMINI_API_KEY"]})
-        try:
-            with urllib.request.urlopen(req, timeout=120) as r:
-                d = json.loads(r.read())
-        except urllib.error.HTTPError as ex:
-            last = "%s → HTTP %d" % (model, ex.code)
-            print("GEMINI", last)
-            if ex.code in (404, 400):
-                continue          # 모델 이름이 없어졌으면 다음 후보
-            raise RuntimeError(last)  # 429(무료 한도) 등은 이번 실행을 건너뛴다
+        d = None
+        for attempt in range(2):
+            req = urllib.request.Request(url, data=body, method="POST", headers={
+                "Content-Type": "application/json",
+                "x-goog-api-key": os.environ["GEMINI_API_KEY"]})
+            try:
+                with urllib.request.urlopen(req, timeout=120) as r:
+                    d = json.loads(r.read())
+                break
+            except urllib.error.HTTPError as ex:
+                try:
+                    msg = json.loads(ex.read())["error"]["message"][:160]
+                except Exception:
+                    msg = ""
+                last = "%s → HTTP %d %s" % (model, ex.code, msg)
+                print("GEMINI", last)
+                if ex.code in (401, 403):
+                    raise RuntimeError(last)  # 키 문제는 다른 모델로 가도 같다
+                if ex.code in (429, 500, 503, 504) and attempt == 0:
+                    time.sleep(8)             # 무료 구간은 자주 붐빈다 — 한 번 더
+                    continue
+                break                         # 404(모델 없음)·계속 붐빔 → 다음 모델
+        if d is None:
+            continue
         u = d.get("usageMetadata", {})
         print("USAGE model=%s in=%s out=%s" % (model, u.get("promptTokenCount"),
                                                u.get("candidatesTokenCount")))
