@@ -57,8 +57,11 @@ FILL_SEEN = os.path.join(ROOT, "state", "news_fill_seen.json")
 POSTED = os.path.join(ROOT, "state", "posted.json")
 
 MODEL = "claude-opus-5"                 # ANTHROPIC_API_KEY 가 있을 때 (유료)
-GEMINI_MODELS = [m for m in (os.environ.get("GEMINI_MODEL"),   # GEMINI_API_KEY 가 있으면 우선 (무료 구간)
-                             "gemini-3.8-flash", "gemini-3.5-flash", "gemini-2.5-flash") if m]
+# GEMINI_API_KEY 가 있으면 우선 (무료 구간). 무료는 자주 과부하(503)라 여러 모델로 돌아간다.
+# 2.5 계열은 2026-09 기준 신규 사용자에게 안 열린다(404) — 무료 구간 목록: ai.google.dev/gemini-api/docs/pricing
+GEMINI_MODELS = [m for m in (os.environ.get("GEMINI_MODEL"),
+                             "gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.6-flash",
+                             "gemini-3.5-flash", "gemini-3.5-flash-lite", "gemini-3.1-flash-lite") if m]
 
 KST = timezone(timedelta(hours=9))
 
@@ -311,7 +314,7 @@ def gemini_json(system, user, schema):
     for model in GEMINI_MODELS:
         url = "https://generativelanguage.googleapis.com/v1beta/models/%s:generateContent" % model
         d = None
-        for attempt in range(2):
+        for attempt in range(3):
             req = urllib.request.Request(url, data=body, method="POST", headers={
                 "Content-Type": "application/json",
                 "x-goog-api-key": os.environ["GEMINI_API_KEY"]})
@@ -328,8 +331,8 @@ def gemini_json(system, user, schema):
                 print("GEMINI", last)
                 if ex.code in (401, 403):
                     raise RuntimeError(last)  # 키 문제는 다른 모델로 가도 같다
-                if ex.code in (429, 500, 503, 504) and attempt == 0:
-                    time.sleep(8)             # 무료 구간은 자주 붐빈다 — 한 번 더
+                if ex.code in (429, 500, 503, 504) and attempt < 2:
+                    time.sleep((8, 20)[attempt])  # 무료 구간은 자주 붐빈다 — 조금 쉬었다 다시
                     continue
                 break                         # 404(모델 없음)·계속 붐빔 → 다음 모델
         if d is None:
@@ -613,9 +616,11 @@ def fill(items, events, queue, dry):
         age_h = (now - c["pub"]).total_seconds() / 3600
         incident = ev["category"] not in ("국제", "경제·과학")
         badge = "breaking" if incident and age_h <= MAX_AGE_H else "brief"
-        ok, _ = publish(c, ev, events, queue, badge)
+        ok, why = publish(c, ev, events, queue, badge)
         if ok:
             break  # 정리는 1건만
+        if why == "retry":
+            fseen.discard(c["id"])  # 팩트체크를 못 했을 뿐이면 다음 정리 때 다시 본다
     write_json(FILL_SEEN, sorted(fseen)[-3000:])
 
 
