@@ -103,9 +103,12 @@ jobs:
                    ("South Africa police hunt suspects after 27 killed in two separate shootings", "Reuters"),
                    ("Two mass shootings in South Africa leave 27 dead", "BBC"),
                    ("At least 27 people killed in two shootings in South African townships", "Al Jazeera"),
-                   ("Two separate mass shootings in different townships in South Africa leave at least 27 people dead", "kare11.com")]}
+                   ("Two separate mass shootings in different townships in South Africa leave at least 27 people dead", "kare11.com"),
+                   ("South African police hunt killers after 27 gunned down in two separate shootings", "Reuters")]}
           evs = n.judge([c], [])
           ev = evs[0]
+          print("팩트체크 전 본문:", ev["caption_ko"])
+          ev = n.verify(ev, c)
           print("판정      :", ev["decision"], ev["skip_reason"])
           print("제목      :", ev["headline_ko"].replace("\n", " / "))
           print("요약      :", ev["sub_ko"])
@@ -122,4 +125,4 @@ jobs:
           pip install --quiet pillow
           python make_cards.py specs/sample-newcaledonia-m66.json
           python -c "from PIL import Image; import glob; fs=sorted(glob.glob('output/2026-09-26-newcaledonia-m66/*.png')); print([Image.open(f).size for f in fs])"
-# rerun: instagram token
+# rerun: verify pass
