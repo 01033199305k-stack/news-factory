@@ -3,6 +3,27 @@
 "지금 세계" 계정(스레드 @shopping._seller)의 속보 카드뉴스 공장.
 1080×1350 (4:5) PNG + 게시용 문구(caption.md)를 만든다.
 
+## 0. 클라우드 자동 운영 (컴퓨터 꺼져 있어도 돔)
+
+GitHub Actions `.github/workflows/watch.yml` 이 5분마다:
+
+1. `watch_usgs.py --queue` — 새 지진이면 카드 생성 → `state/queue.json` 에 게시 대기
+2. 카드 커밋·푸시 → 그 커밋의 raw 이미지 주소로
+3. `post_threads.py` — 스레드에 캐러셀 게시 → `state/posted.json` 에 기록
+
+| 시크릿 (Settings → Secrets → Actions) | 내용 |
+|---|---|
+| `THREADS_USER_ID` | 스레드 사용자 ID |
+| `THREADS_ACCESS_TOKEN` | 스레드 장기 토큰 (60일) |
+| `GH_PAT` | 토큰 자동 갱신용. 이 저장소만, 권한 `Secrets: Read and write` 의 fine-grained 토큰 |
+
+- 토큰이 없으면 카드만 만들고 게시는 건너뛴다 (실패 아님)
+- 발생 6시간이 지난 건은 속보로 늦어서 안 올린다 (`expired`)
+- 지명 사전에 없는 지역은 자동 게시하지 않고 `state/review.json` 에 두고 워크플로를 실패시킨다 → GitHub 가 메일로 알린다
+- `refresh-token.yml` 이 매주 토큰을 갱신한다
+- 이미지를 raw 주소로 넘기기 때문에 저장소는 **공개**여야 한다 (공개 저장소는 Actions 무료 무제한)
+- GitHub 크론은 혼잡할 때 5~15분 늦게 돌 수 있다
+
 ## 1. 자동 감시 (지진)
 
 ```bash
