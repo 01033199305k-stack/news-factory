@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "slug": "2026-09-27-news-us-noreaster-storm-emergency",
+    "event_ms": 1790505314000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 미국 북동부와 동부 해안에 강력한 폭풍우(노리스터)가 강타했습니다.\n\n강풍과 폭우로 해안가 침수 피해가 발생하고 있으며, 뉴욕주와 뉴저지주는 비상사태를 선포했습니다.\n\n구체적인 인명 및 재산 피해 규모는 아직 확인되지 않았습니다.\n\n출처: NYT·CNN·BBC·NPR 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "done": {},
+    "attempts": {
+      "threads": 1,
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]

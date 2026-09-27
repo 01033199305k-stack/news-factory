@@ -1,0 +1,161 @@
+{
+  "slug": "2026-09-27-news-us-noreaster-storm-emergency",
+  "topic": "미 동부 강력한 폭풍우 해안 침수·비상사태",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.27 19:35 KST",
+  "source": "BBC·NPR·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA",
+    "related": [
+      [
+        "Nor’easter Live Updates: Heavy Winds and Rain Cause Coastal Flooding in Northeast",
+        "The New York Times"
+      ],
+      [
+        "Live updates: Powerful Nor’easter digs in on the East Coast",
+        "cnn.com"
+      ],
+      [
+        "Nor'easter will slam Northeast, NYC, Boston through weekend",
+        "The Weather Channel"
+      ],
+      [
+        "Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency",
+        "BBC"
+      ],
+      [
+        "Report from New York on the Nor'Easter storm lashing the U.S. East Coast",
+        "NPR"
+      ]
+    ],
+    "event_key": "us-noreaster-storm-emergency"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 동부 강력한 [[폭풍우]]\n해안 침수·비상사태",
+      "sub": "노리스터 폭풍으로 미 북동부 침수 및 비상사태 선포",
+      "chips": [
+        {
+          "k": "선포",
+          "v": "비상사태"
+        }
+      ],
+      "alt": "미 동부 강력한 폭풍우 해안 침수·비상사태",
+      "map": {
+        "lat": 45.0157576,
+        "lon": -93.2512895,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n북동부",
+      "map": {
+        "lat": 45.0157576,
+        "lon": -93.2512895,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "북동부"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "강력한 노리스터 강타",
+          "d": "미국 동부 해안에 강풍과 폭우를 동반한 강력한 노리스터 폭풍이 닥쳤습니다 (CNN·NYT)."
+        },
+        {
+          "t": "해안 지역 침수",
+          "d": "북동부 해안가를 중심으로 강풍과 폭우로 인한 침수가 발생하고 있습니다 (NYT·BBC)."
+        },
+        {
+          "t": "비상사태 선포",
+          "d": "폭풍 영향으로 뉴욕과 뉴저지주가 비상사태를 선포했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 북동부 및 동부 해안에 노리스터 폭풍 강타 (CNN·NYT·BBC)",
+        "강풍과 폭우로 인한 해안 지역 침수 발생 (NYT·BBC)",
+        "뉴욕 및 뉴저지주 비상사태 선포 (BBC)"
+      ],
+      "unconfirmed": [
+        "정확한 인명 및 재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "NPR",
+        "The New York Times",
+        "The Weather Channel",
+        "cnn.com",
+        "2026.09.27 22:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 북동부와 동부 해안에 강력한 폭풍우(노리스터)가 강타했습니다.\n\n강풍과 폭우로 해안가 침수 피해가 발생하고 있으며, 뉴욕주와 뉴저지주는 비상사태를 선포했습니다.\n\n구체적인 인명 및 재산 피해 규모는 아직 확인되지 않았습니다.\n\n출처: NYT·CNN·BBC·NPR 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 속보입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "노리스터 폭풍으로 미 북동부 침수 및 비상사태 선포.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC, NPR, 뉴욕타임스 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "미국 동부 해안에 강풍과 폭우를 동반한 강력한 노리스터 폭풍이 닥쳤습니다.",
+      "card": "points"
+    },
+    {
+      "text": "북동부 해안가를 중심으로 강풍과 폭우로 인한 침수가 발생하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폭풍 영향으로 뉴욕과 뉴저지주가 비상사태를 선포했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "지금까지 확인된 것과 아직 확인되지 않은 것을 나눠 보겠습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것은, 미국 북동부 및 동부 해안에 노리스터 폭풍 강타, 강풍과 폭우로 인한 해안 지역 침수 발생, 뉴욕 및 뉴저지주 비상사태 선포입니다.",
+      "card": "check"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 정확한 인명 및 재산 피해 규모입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
