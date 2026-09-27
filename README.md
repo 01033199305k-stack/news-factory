@@ -3,6 +3,9 @@
 "지금 세계" 계정(스레드·인스타 @jigeum.segye, 유튜브 @jigeum_segye)의 속보 카드뉴스 공장.
 1080×1350 (4:5) PNG + 게시용 문구(caption.md)를 만든다.
 
+- 유튜브: [지금 세계 @jigeum_segye](https://www.youtube.com/@jigeum_segye) · 스레드: [@jigeum.segye](https://www.threads.com/@jigeum.segye) · 인스타그램: [@jigeum.segye](https://www.instagram.com/jigeum.segye/)
+- [개인정보처리방침 (Privacy Policy)](PRIVACY.md) · [서비스 약관 (Terms of Service)](TERMS.md) · 이 도구는 YouTube API 서비스를 사용합니다 (YouTube API Services)
+
 ## 0. 클라우드 자동 운영 (컴퓨터 꺼져 있어도 돔)
 
 **감시**는 Cloudflare Workers `worker/` (news-factory-watch)가 1분마다 한다. USGS·구글 뉴스에서
