@@ -1034,5 +1034,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790620427
+  },
+  {
+    "slug": "2026-09-29-news-spacex-starship-orbital-flight-test",
+    "event_ms": 1790629982486,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 스페이스X의 대형 우주선 스타십이 첫 궤도 비행 시험을 마쳤습니다. 텍사스에서 발사된 스타십은 비행 과정에서 스타링크 위성 26기를 배치했으며, 약 3시간의 비행 끝에 태평양에 착수했습니다. 출처: NPR·폭스 비즈니스·스페이스플라이트나우·야후 파이낸스·ABC13 휴스턴 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18247240474312085",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd2H-L3FPxy",
+        "kind": "carousel",
+        "at": 1790630032
+      },
+      "instagram": {
+        "id": "18101789585288728",
+        "permalink": "https://www.instagram.com/reel/Dd2IPP6FExT/",
+        "kind": "reel",
+        "at": 1790630189
+      },
+      "youtube": {
+        "id": "6mtdWxtxwAk",
+        "permalink": "https://youtube.com/shorts/6mtdWxtxwAk",
+        "kind": "shorts",
+        "at": 1790630350
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790630360
   }
 ]

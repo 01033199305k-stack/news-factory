@@ -1,0 +1,145 @@
+{
+  "slug": "2026-09-29-news-spacex-starship-orbital-flight-test",
+  "topic": "스페이스X 스타십, 첫 궤도 비행",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 05:32 KST",
+  "source": "NPR·ABC13 Houston·Fox Business 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikwFBVV95cUxQV2tOX3hqcjgtWDYwbllnSXM3RF9HZFNwczdjZlE3Q1NhZnRfZmVQTG9VOEV1Y3BlR0YtdFpmX3hwYjVCYUNBaTRXV3RwYk1YcE5mTzlmR3FuVlUyNmlWMk9ZV0lSZi1LVzQ5QWRydWluZk4yMUFQVDNVLTd2b18yNWxqZmluWVo5RC1rSm10eGFYWEE",
+    "related": [
+      [
+        "SpaceX’s Starship launches on first orbital mission from Texas",
+        "NPR"
+      ],
+      [
+        "SpaceX launches Starship into orbit for first time ever but cuts mission short",
+        "Fox Business"
+      ],
+      [
+        "Starship returns to Earth; rocket splashes down north of Hawaii after three-hour flight",
+        "spaceflightnow.com"
+      ],
+      [
+        "SpaceX Starship test reaches Earth orbit, 26 Starlink satellites deployed",
+        "Yahoo Finance"
+      ],
+      [
+        "Starship, world's most powerful spacecraft, splashes down in the Pacific after 1st orbital flight test",
+        "ABC13 Houston"
+      ]
+    ],
+    "event_key": "spacex-starship-orbital-flight-test"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "스페이스X [[스타십]],\n첫 궤도 비행",
+      "sub": "세계 최대 우주선 스타십이 첫 궤도 비행 시험을 마쳤습니다.",
+      "chips": [
+        {
+          "k": "비행",
+          "v": "첫 궤도"
+        },
+        {
+          "k": "위성",
+          "v": "스타링크 26기"
+        }
+      ],
+      "alt": "스페이스X 스타십, 첫 궤도 비행",
+      "map": {
+        "lat": 31.2638905,
+        "lon": -98.5456116,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n텍사스",
+      "map": {
+        "lat": 31.2638905,
+        "lon": -98.5456116,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "텍사스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "첫 궤도 비행",
+          "d": "스페이스X의 스타십이 텍사스에서 첫 궤도 임무를 위해 발사됐다고 NPR 등이 보도했습니다."
+        },
+        {
+          "t": "위성 배포",
+          "d": "26기의 스타링크 위성이 배치됐다고 야후 파이낸스가 전했습니다."
+        },
+        {
+          "t": "태평양 착수",
+          "d": "약 3시간의 비행 끝에 스타십이 태평양(하와이 북쪽 해역)에 착수했다고 스페이스플라이트나우 등이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스페이스X 스타십 텍사스에서 첫 궤도 발사 (NPR 등)",
+        "스타링크 위성 26기 배치 (야후 파이낸스)",
+        "약 3시간 비행 후 태평양 착수 (스페이스플라이트나우 등)"
+      ],
+      "unconfirmed": [
+        "상세한 기체 상태 조사 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC13 Houston",
+        "Fox Business",
+        "NPR",
+        "Yahoo Finance",
+        "spaceflightnow.com",
+        "2026.09.29 06:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 스페이스X의 대형 우주선 스타십이 첫 궤도 비행 시험을 마쳤습니다. 텍사스에서 발사된 스타십은 비행 과정에서 스타링크 위성 26기를 배치했으며, 약 3시간의 비행 끝에 태평양에 착수했습니다. 출처: NPR·폭스 비즈니스·스페이스플라이트나우·야후 파이낸스·ABC13 휴스턴 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페이스X의 대형 우주선 스타십이 첫 궤도 비행 시험을 진행했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "텍사스에서 발사된 스타십은 비행 중 스타링크 위성 26기를 배치했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "약 3시간의 비행 끝에 스타십이 태평양에 착수했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "상세한 분석 결과는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

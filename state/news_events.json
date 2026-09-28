@@ -170,5 +170,13 @@
     "cluster": "CBMiW0FVX3lxTE16RG9hNW1OZ0wzUDRUdGJ1T1dZdmkxd0lrUUN6Rm1uaC04YWJfQkxPUTNiWXNFTTlqZ212OE83ZjRwbTdlWW85UXNFbGVZTTFmVnIzVWk4UTJTalU",
     "badge": "breaking",
     "at": 1790620080.8485026
+  },
+  {
+    "event_key": "spacex-starship-orbital-flight-test",
+    "topic": "스페이스X 스타십, 첫 궤도 비행",
+    "slug": "2026-09-29-news-spacex-starship-orbital-flight-test",
+    "cluster": "CBMikwFBVV95cUxQV2tOX3hqcjgtWDYwbllnSXM3RF9HZFNwczdjZlE3Q1NhZnRfZmVQTG9VOEV1Y3BlR0YtdFpmX3hwYjVCYUNBaTRXV3RwYk1YcE5mTzlmR3FuVlUyNmlWMk9ZV0lSZi1LVzQ5QWRydWluZk4yMUFQVDNVLTd2b18yNWxqZmluWVo5RC1rSm10eGFYWEE",
+    "badge": "brief",
+    "at": 1790629982.48667
   }
 ]
