@@ -984,5 +984,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790618834
+  },
+  {
+    "slug": "2026-09-29-news-south-africa-women-bodies-found",
+    "event_ms": 1790614566000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 남아프리카공화국에서 여성 시신이 발견됐습니다. 당국은 연이은 살인 사건과 관련해 수사를 벌이고 있습니다. 잇따른 여성 살해 사건으로 경각심이 커지고 있습니다. 정확한 사망 원인과 용의자 신원은 아직 확인되지 않았습니다. 출처: BBC·AP통신·알자지라·아프리카뉴스·NBC뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "남아프리카공화국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18112087841585053",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd11E6RFAmc",
+        "kind": "carousel",
+        "at": 1790620130
+      },
+      "instagram": {
+        "id": "18112233094862396",
+        "permalink": "https://www.instagram.com/reel/Dd11VS6AcCt/",
+        "kind": "reel",
+        "at": 1790620280
+      },
+      "youtube": {
+        "id": "y4Jn0JFvfJg",
+        "permalink": "https://youtube.com/shorts/y4Jn0JFvfJg",
+        "kind": "shorts",
+        "at": 1790620417
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790620427
   }
 ]

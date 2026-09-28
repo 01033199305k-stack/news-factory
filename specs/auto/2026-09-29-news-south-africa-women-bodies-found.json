@@ -1,0 +1,141 @@
+{
+  "slug": "2026-09-29-news-south-africa-women-bodies-found",
+  "topic": "남아프리카공화국서 여성 시신 발견",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 01:56 KST",
+  "source": "AP News·Al Jazeera·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE16RG9hNW1OZ0wzUDRUdGJ1T1dZdmkxd0lrUUN6Rm1uaC04YWJfQkxPUTNiWXNFTTlqZ212OE83ZjRwbTdlWW85UXNFbGVZTTFmVnIzVWk4UTJTalU",
+    "related": [
+      [
+        "Ekurhuleni killings: What we know after bodies of 12 women found in South Africa",
+        "BBC"
+      ],
+      [
+        "11th woman’s body in South Africa as authorities investigate recent spate of killings",
+        "AP News"
+      ],
+      [
+        "South African police discover body of 11th woman near Johannesburg",
+        "Al Jazeera"
+      ],
+      [
+        "South Africa: 11th woman found dead as killings raise alarm",
+        "africanews.com"
+      ],
+      [
+        "Body of 10th woman found in South Africa as probe into killings continues",
+        "NBC News"
+      ]
+    ],
+    "event_key": "south-africa-women-bodies-found"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "남아프리카공화국서\n여성 시신 발견",
+      "sub": "남아프리카공화국에서 여성 시신이 발견돼 경찰이 수사에 나섰습니다.",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "남아프리카공화국"
+        }
+      ],
+      "alt": "남아프리카공화국서 여성 시신 발견",
+      "map": {
+        "lat": -26.205,
+        "lon": 28.049722,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "남아프리카공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "남아프리카공화국\n요하네스버그",
+      "map": {
+        "lat": -26.205,
+        "lon": 28.049722,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "요하네스버그"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "여성 시신 발견",
+          "d": "남아프리카공화국에서 여성 시신이 발견됐습니다 (BBC·AP통신·알자지라)."
+        },
+        {
+          "t": "당국 수사 착수",
+          "d": "당국이 연이은 살인 사건과 관련해 수사를 벌이고 있습니다 (AP통신·NBC뉴스)."
+        },
+        {
+          "t": "사회적 우려",
+          "d": "잇따른 여성 살해 사건으로 경각심이 커지고 있습니다 (아프리카뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "남아프리카공화국서 여성 시신 발견 (BBC·AP통신·알자지라 등)",
+        "당국이 관련 사건 수사 착수 (AP통신·NBC뉴스)"
+      ],
+      "unconfirmed": [
+        "정확한 사망 원인 및 용의자 신원",
+        "추가 피해자 존재 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "BBC",
+        "NBC News",
+        "africanews.com",
+        "2026.09.29 03:27 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 남아프리카공화국에서 여성 시신이 발견됐습니다. 당국은 연이은 살인 사건과 관련해 수사를 벌이고 있습니다. 잇따른 여성 살해 사건으로 경각심이 커지고 있습니다. 정확한 사망 원인과 용의자 신원은 아직 확인되지 않았습니다. 출처: BBC·AP통신·알자지라·아프리카뉴스·NBC뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "남아프리카공화국에서 여성 시신이 발견됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "당국이 연이은 살인 사건과 관련해 수사에 나섰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "잇따른 여성 살해 사건으로 경각심이 커지고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망 원인과 용의자는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
