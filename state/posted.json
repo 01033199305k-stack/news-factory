@@ -588,5 +588,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790583703
+  },
+  {
+    "slug": "2026-09-28-news-nepal-floods-landslides-september",
+    "event_ms": 1790595866000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 네팔 폭우로 홍수와 산사태가 발생해 사망 21명, 실종 5명 발생했습니다. 강물이 위험 수위를 넘어섰습니다. 출처: NDTV·더힌두·텔레그래프인디아·레디프·더타임스오브인디아 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "네팔"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18116894234515623",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd1KrHbIC-h",
+        "kind": "carousel",
+        "at": 1790597902
+      },
+      "instagram": {
+        "id": "18133668652734024",
+        "permalink": "https://www.instagram.com/reel/Dd1LAhGDRzz/",
+        "kind": "reel",
+        "at": 1790598094
+      },
+      "youtube": {
+        "id": "AozejGwg5RY",
+        "permalink": "https://youtube.com/shorts/AozejGwg5RY",
+        "kind": "shorts",
+        "at": 1790598203
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790598213
   }
 ]

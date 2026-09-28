@@ -1,0 +1,161 @@
+{
+  "slug": "2026-09-28-news-nepal-floods-landslides-september",
+  "topic": "네팔 폭우로 홍수·산사태 발생 사망 21명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 20:44 KST",
+  "source": "NDTV·The Times of India·Rediff 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixAFBVV95cUxPbWlfNXk0cVNGTFktaF80akNVejJRX1pMMUJKdWpPRDdIOS1sZ1lkbzRsY0dLSFBGVENLU2pZZ3NoSF9IQ25JR2NhMTdTbHRnZElBbkpKYUpjZG1FMzZwN3B6aF80RUhPcFdGZlEtT2xRNzc3ellTd0RmdEZDaHMxS2VvUm50OFlFUkZnVkVwOHNUZnRmMG51TUpPa1lBUmZsbDJWTG5EeEYyMXM3c1lSTjBKcFhDVXlaZmFEaUFkRk9mcGs50gHMAUFVX3lxTE1UUVFvaVNMenhYTUxnc19CSU1tMEJFQkhOLURTc1JvUFVqZW96MGk5WEpnaGlKUHlpcW01TDhOODNXVDI2T3k5dUZxVUFWMEp3WjFBTWVMYllKNndyV2wzd3VKSVJVV2tmc0xUTldQdlo1X0pLQXJOZFFjSDFCQjBFZmdrVGE4N3VIRlAzWHZMaUd5R09ZWWRtcEh0elh0MXU2Z0s0d2VxcE5Wa09IczY4UGtPd0tFdnY0SXBUNzFTRVRSV0ZVcUZGNnVqcg",
+    "related": [
+      [
+        "On Camera, Part Of Nepal Mountain Melts Into River In Seconds Amid Landslides",
+        "NDTV"
+      ],
+      [
+        "Relentless rainfall triggers floods, landslips across Nepal",
+        "thehindu.com"
+      ],
+      [
+        "Fresh floods and landslides kill 21 in Nepal as rivers cross danger level",
+        "Telegraph India"
+      ],
+      [
+        "21 dead in Nepal after storm fury triggers floods",
+        "Rediff"
+      ],
+      [
+        "Nepal battered by severe rain: 21 dead, 5 missing as floods, landslides worsen",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "nepal-floods-landslides-september"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "네팔 폭우로 홍수·산사태 발생\n[[사망 21명]]",
+      "sub": "네팔 폭우로 홍수와 산사태가 발생했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "21명"
+        },
+        {
+          "k": "실종",
+          "v": "5명"
+        }
+      ],
+      "alt": "네팔 폭우로 홍수·산사태 발생 사망 21명",
+      "map": {
+        "lat": 28.3780464,
+        "lon": 83.9999901,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "네팔"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네팔",
+      "map": {
+        "lat": 28.3780464,
+        "lon": 83.9999901,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "네팔"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망 21명",
+          "d": "폭우와 산사태로 21명이 사망했습니다."
+        },
+        {
+          "t": "실종 5명",
+          "d": "실종 5명이 발생했습니다."
+        },
+        {
+          "t": "홍수 피해",
+          "d": "강물이 위험 수위를 넘어섰습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 21명",
+        "실종 5명",
+        "강물 위험 수위 초과"
+      ],
+      "unconfirmed": [
+        "정확한 재산 피해 규모 및 추가 실종자 수"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "NDTV",
+        "Rediff",
+        "Telegraph India",
+        "The Times of India",
+        "thehindu.com",
+        "2026.09.28 21:17 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 네팔 폭우로 홍수와 산사태가 발생해 사망 21명, 실종 5명 발생했습니다. 강물이 위험 수위를 넘어섰습니다. 출처: NDTV·더힌두·텔레그래프인디아·레디프·더타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 속보입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "네팔 폭우로 홍수와 산사태가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NDTV, 타임스오브인디아, Rediff 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "폭우와 산사태로 21명이 사망했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실종 5명이 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "강물이 위험 수위를 넘어섰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것은, 사망 21명, 실종 5명, 강물 위험 수위 초과입니다.",
+      "card": "check"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 정확한 재산 피해 규모 및 추가 실종자 수입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
