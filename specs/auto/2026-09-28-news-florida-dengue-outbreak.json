@@ -1,0 +1,136 @@
+{
+  "slug": "2026-09-28-news-florida-dengue-outbreak",
+  "topic": "美 플로리다주 뎅기열 확산 비상사태 선포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 23:19 KST",
+  "source": "The Washington Post·Bay News 9·FOX 13 Tampa Bay 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxNazJreW85RWp3U1RBQ0t6UGFSODB3WTJmUWhPa1dnOEVodl9tSndUaDMyLVRRVXNJeG90blVnd3FfTHpRN25VTlM1cmRiQ0pBYUpscUt1WlFtV3dOdTBBR3YwSUhNcXk4NjlYdjRvMlJtamgzUndPTF9EWGRlRVNvTVlZRWJJU04zcmFhRVl4M0RjajN1MEM2LWlZVTFzc21xWmk3eG50b1JmV28",
+    "related": [
+      [
+        "Florida officials warn of ‘wildly unusual’ disease outbreak, declare state of emergency",
+        "New York Post"
+      ],
+      [
+        "Florida counties declare emergency over ‘wildly unusual’ dengue outbreak",
+        "The Washington Post"
+      ],
+      [
+        "Dengue across Tampa Bay: How to prevent infection as cases rise",
+        "wtsp.com"
+      ],
+      [
+        "Hills­borough, Pinellas, Pasco counties issue local state of emergency in response to dengue fever",
+        "Bay News 9"
+      ],
+      [
+        "States of Emergency issued over dengue fever",
+        "FOX 13 Tampa Bay"
+      ]
+    ],
+    "event_key": "florida-dengue-outbreak"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "美 플로리다주 [[뎅기열]] 확산\n비상사태 선포",
+      "sub": "플로리다 카운티들, 이례적 뎅기열 환자 급증에 비상사태",
+      "chips": [],
+      "alt": "美 플로리다주 뎅기열 확산 비상사태 선포",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다주",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "비상사태 선포",
+          "d": "미국 플로리다주의 카운티들이 뎅기열 확산으로 비상사태를 선포했습니다."
+        },
+        {
+          "t": "이례적 확산",
+          "d": "현지 당국은 이번 뎅기열 확산세가 이례적이라고 밝혔습니다."
+        },
+        {
+          "t": "감염 예방 당부",
+          "d": "당국은 예방을 당부했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 플로리다주 비상사태 선포",
+        "뎅기열 확산에 따른 조치"
+      ],
+      "unconfirmed": [
+        "구체적인 누적 감염자 수",
+        "발병 정확한 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bay News 9",
+        "FOX 13 Tampa Bay",
+        "New York Post",
+        "The Washington Post",
+        "wtsp.com",
+        "2026.09.29 00:23 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 플로리다주에서 뎅기열 확산으로 비상사태가 선포됐습니다. 카운티 당국은 최근 발생한 뎅기열 확산세가 이례적이라고 밝혔습니다. 정확한 누적 감염자 수와 구체적인 발생 원인은 아직 알려지지 않았습니다. 출처: 뉴욕포스트·워싱턴포스트·WTSP·베이뉴스9·폭스13 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 플로리다주의 카운티들이 뎅기열 확산으로 비상사태를 선포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 당국은 이번 확산세가 이례적이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "당국은 감염 예방을 당부하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 감염 규모와 발생 원인은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

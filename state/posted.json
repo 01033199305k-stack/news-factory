@@ -784,5 +784,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790606515
+  },
+  {
+    "slug": "2026-09-28-news-florida-dengue-outbreak",
+    "event_ms": 1790605140000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 미국 플로리다주에서 뎅기열 확산으로 비상사태가 선포됐습니다. 카운티 당국은 최근 발생한 뎅기열 확산세가 이례적이라고 밝혔습니다. 정확한 누적 감염자 수와 구체적인 발생 원인은 아직 알려지지 않았습니다. 출처: 뉴욕포스트·워싱턴포스트·WTSP·베이뉴스9·폭스13 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18634525609063466",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd1f_wQm4ga",
+        "kind": "carousel",
+        "at": 1790609079
+      },
+      "instagram": {
+        "id": "18390563239166405",
+        "permalink": "https://www.instagram.com/reel/Dd1gPp5DtxK/",
+        "kind": "reel",
+        "at": 1790609226
+      },
+      "youtube": {
+        "id": "xS3zDB0L7bE",
+        "permalink": "https://youtube.com/shorts/xS3zDB0L7bE",
+        "kind": "shorts",
+        "at": 1790609398
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790609408
   }
 ]
