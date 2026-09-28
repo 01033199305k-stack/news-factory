@@ -738,5 +738,51 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790605160
+  },
+  {
+    "slug": "2026-09-28-news-english-channel-crossing-deaths",
+    "event_ms": 1790597212000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 영국으로 향하던 보트에서 압사 사고가 발생해 3명이 숨졌습니다. 외신 보도에 따르면 보트에는 105명이 탑승한 상태였으며, 인파가 밀집하는 과정에서 어린이 1명과 여성 2명이 숨진 것으로 전해졌습니다.\n\n출처: BBC·AP·SCMP·AL.com·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "영국/프랑스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "instagram": {
+        "id": "17949535488053360",
+        "permalink": "https://www.instagram.com/reel/Dd1avVLCfr5/",
+        "kind": "reel",
+        "at": 1790606342
+      },
+      "youtube": {
+        "id": "j9Muh6dSeRI",
+        "permalink": "https://youtube.com/shorts/j9Muh6dSeRI",
+        "kind": "shorts",
+        "at": 1790606505
+      }
+    },
+    "attempts": {
+      "threads": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790606515
   }
 ]

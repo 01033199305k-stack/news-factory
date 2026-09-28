@@ -1,0 +1,137 @@
+{
+  "slug": "2026-09-28-news-english-channel-crossing-deaths",
+  "topic": "영국 해협 건너던 보트서 3명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 21:06 KST",
+  "source": "AP News·Al Jazeera·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBZLXJaVGU4V0pWaGdGc0tRM1Z3N0stNmRaLUcwYlJpN2o2NE11WUJlcWI2QXJ3ZWhBMUNDdGFkSWFLZTB4NFBiTWxjRHQ2MEhXRThhNG0yVkFQWHM",
+    "related": [
+      [
+        "Three dead, including child, in Channel crossing attempt",
+        "bbc.com"
+      ],
+      [
+        "A child and 2 women killed in an apparent stampede during Channel crossing attempt",
+        "AP News"
+      ],
+      [
+        "Child, 2 women ‘crushed to death’ as 105 people on 1 boat try to reach UK",
+        "South China Morning Post"
+      ],
+      [
+        "Child, 2 women killed in English Channel crossing stampede",
+        "AL.com"
+      ],
+      [
+        "Child among three killed off French coast in Channel crossing attempt",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "english-channel-crossing-deaths"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 해협 건너던 보트서\n3명 사망",
+      "sub": "영국으로 향하던 보트에서 어린이와 여성 3명이 숨졌습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "3명"
+        }
+      ],
+      "alt": "영국 해협 건너던 보트서 3명 사망",
+      "map": {
+        "lat": 49.9892202,
+        "lon": -2.2384698,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "영국/프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국/프랑스\n영국 해협",
+      "map": {
+        "lat": 49.9892202,
+        "lon": -2.2384698,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "영국 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 3명 발생",
+          "d": "영국 해협을 건너려던 보트에서 어린이 1명과 여성 2명이 숨졌습니다."
+        },
+        {
+          "t": "사고 경위",
+          "d": "보트 위에서 인파가 몰리며 압사 사고가 발생한 것으로 전해졌습니다."
+        },
+        {
+          "t": "탑승 인원",
+          "d": "사고 당시 해당 보트에는 총 105명이 탑승하고 있었습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국 해협을 건너려던 보트에서 어린이 1명과 여성 2명, 총 3명 사망",
+        "보트에 총 105명 탑승",
+        "인파가 몰리며 발생한 압사 사고"
+      ],
+      "unconfirmed": [
+        "추가 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AL.com",
+        "AP News",
+        "Al Jazeera",
+        "South China Morning Post",
+        "bbc.com",
+        "2026.09.28 23:35 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국으로 향하던 보트에서 압사 사고가 발생해 3명이 숨졌습니다. 외신 보도에 따르면 보트에는 105명이 탑승한 상태였으며, 인파가 밀집하는 과정에서 어린이 1명과 여성 2명이 숨진 것으로 전해졌습니다.\n\n출처: BBC·AP·SCMP·AL.com·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 해협을 건너려던 보트에서 압사 사고가 발생해 3명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 보트에 탑승했던 어린이 1명과 여성 2명이 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사고 당시 해당 보트에는 105명이 타고 있었으며, 인파가 몰리면서 사고가 난 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
