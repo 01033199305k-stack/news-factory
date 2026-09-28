@@ -884,5 +884,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790610703
+  },
+  {
+    "slug": "2026-09-29-news-russia-strike-kyiv-science-academy",
+    "event_ms": 1790613660000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 러시아의 공습이 우크라이나 키이우의 국립과학아카데미와 병원을 강타해 최소 1명이 사망했습니다. 외신에 따르면 이번 공격으로 과학 아카데미 건물 등에 화재가 발생했습니다. 폴란드는 우크라이나 서부 지역을 향한 러시아의 공습에 대응해 군용기를 긴급 출격시켰습니다. 정확한 피해 규모는 아직 확인되지 않았습니다.\n출처: 가디언·텔레그래프·파이낸셜타임스·인디펜던트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17934102855400384",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd1sBONmgJk",
+        "kind": "carousel",
+        "at": 1790615382
+      },
+      "instagram": {
+        "id": "18130532416770996",
+        "permalink": "https://www.instagram.com/reel/Dd1sWt1jyRN/",
+        "kind": "reel",
+        "at": 1790615596
+      },
+      "youtube": {
+        "id": "aF7Y6XboC1M",
+        "permalink": "https://youtube.com/shorts/aF7Y6XboC1M",
+        "kind": "shorts",
+        "at": 1790615846
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790615856
   }
 ]

@@ -1,0 +1,140 @@
+{
+  "slug": "2026-09-29-news-russia-strike-kyiv-science-academy",
+  "topic": "러시아 공습으로 키이우 과학 아카데미 피격 최소 1명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 01:41 KST",
+  "source": "Financial Times·The Guardian·The Independent 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxNQXlEc0NVNnBQc3ZwOVhQZVhDdU1ZbXE3LWZIcEVFRkVJRDZ1QzlBRzBCMVZUcXlUNXlGS0NlSnRJYUVWQTZyMnJRTW9oejBVN2JzdUtKNTFpa3JjQ3ZjaFVjOVFaRFFrN0hWa29GalhvUE5pOWN0MldpWnFncEVDRlQ2d3RKc3hkVUxQWU9GdmMtYURWeEtLQ3hCa3JSZw",
+    "related": [
+      [
+        "Russian strike on Kyiv’s science academy kills at least one in latest daytime attack",
+        "The Guardian"
+      ],
+      [
+        "Poland scrambles military aircraft in response to Russian strikes on western Ukraine – as it happened",
+        "The Guardian"
+      ],
+      [
+        "Russia attacks scientists in strikes on Kyiv",
+        "The Telegraph"
+      ],
+      [
+        "Russian drones hit Kyiv science academy and hospital",
+        "Financial Times"
+      ],
+      [
+        "Ukraine-Russia war latest: National Academy of Sciences on fire after fresh daytime strikes hit Kyiv",
+        "The Independent"
+      ]
+    ],
+    "event_key": "russia-strike-kyiv-science-academy"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 공습으로 키이우 과학 아카데미 피격\n최소 1명 사망",
+      "sub": "러시아의 공습으로 키이우 과학 아카데미가 타격받아 최소 1명이 숨졌습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명 이상"
+        }
+      ],
+      "alt": "러시아 공습으로 키이우 과학 아카데미 피격 최소 1명 사망",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "키이우 공습 피격",
+          "d": "러시아의 공습이 우크라이나 키이우의 국립과학아카데미와 병원을 강타했습니다 (가디언·파이낸셜타임스·인디펜던트)."
+        },
+        {
+          "t": "인명 피해",
+          "d": "이번 공격으로 최소 1명이 사망한 것으로 전해졌습니다 (가디언)."
+        },
+        {
+          "t": "주변국 대응",
+          "d": "폴란드는 우크라이나 서부 지역을 향한 러시아의 공습에 대응해 군용기를 긴급 출격시켰습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아의 공습으로 우크라이나 키이우 국립과학아카데미와 병원 피격 (가디언·파이낸셜타임스·인디펜던트)",
+        "최소 1명 사망 (가디언)",
+        "폴란드 군용기 긴급 출격 (가디언)"
+      ],
+      "unconfirmed": [
+        "정확한 총사상자 규모와 추가 피해 상황은 아직 조사 중입니다."
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Financial Times",
+        "The Guardian",
+        "The Independent",
+        "The Telegraph",
+        "2026.09.29 02:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아의 공습이 우크라이나 키이우의 국립과학아카데미와 병원을 강타해 최소 1명이 사망했습니다. 외신에 따르면 이번 공격으로 과학 아카데미 건물 등에 화재가 발생했습니다. 폴란드는 우크라이나 서부 지역을 향한 러시아의 공습에 대응해 군용기를 긴급 출격시켰습니다. 정확한 피해 규모는 아직 확인되지 않았습니다.\n출처: 가디언·텔레그래프·파이낸셜타임스·인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 키이우의 과학 아카데미가 러시아의 공습을 받아 피격됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 이번 공격으로 최소 1명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폴란드는 서부 지역 공습 대응에 나서 군용기를 긴급 출격시켰습니다.",
+      "card": "map"
+    },
+    {
+      "text": "정확한 사상자 규모와 피해 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
