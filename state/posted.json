@@ -538,5 +538,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790576152
+  },
+  {
+    "slug": "2026-09-28-news-spacex-starship-orbital-flight",
+    "event_ms": 1790583195646,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 스페이스X가 대형 로켓 '스타십'의 사상 첫 궤도 비행 시험 발사를 준비하고 있다고 주요 외신들이 보도했습니다. 이번 비행은 역대 구축된 로켓 중 가장 강력한 기체로 진행되는 가장 위험한 시험 무대가 될 전망입니다. 첫 스타링크 V3 위성들을 궤도에 투입하는 임무도 함께 진행될 예정입니다. 발사 성공 여부 등 세부 사항은 아직 확인 안 됨. 출처: CNBC·뉴욕타임스·CNN·스페이스플라이트나우 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17911630467498284",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd0uuwulrRd",
+        "kind": "carousel",
+        "at": 1790583250
+      },
+      "instagram": {
+        "id": "17894929251610932",
+        "permalink": "https://www.instagram.com/reel/Dd0vKb5gEB8/",
+        "kind": "reel",
+        "at": 1790583495
+      },
+      "youtube": {
+        "id": "DyOgUsicST4",
+        "permalink": "https://youtube.com/shorts/DyOgUsicST4",
+        "kind": "shorts",
+        "at": 1790583693
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790583703
   }
 ]

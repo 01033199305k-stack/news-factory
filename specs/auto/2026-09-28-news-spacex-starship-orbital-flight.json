@@ -1,0 +1,155 @@
+{
+  "slug": "2026-09-28-news-spacex-starship-orbital-flight",
+  "topic": "스페이스X 스타십 첫 궤도 비행",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 13:01 KST",
+  "source": "CNN·The New York Times·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiogFBVV95cUxPc2RkMkI4ZlBkTUhDYWZkZVBWa0M1c2JVZ2NMS1FuMkhqa3RjSERxMi1XWXNLUkNJZTNJaUMzZ2hJbWtGV19ES1RJazJ2YlVLTGpGQnpEcFFPaENXeUdyUVZZUlJkT1hJUWVISjhHQW5wb0JueUR3QjJoS3dXS3lBeUktQTAzLWN6TGd6VjVIem9EZ1IwekdLaUtHNFJtNHhkclHSAacBQVVfeXFMTy1yTXk1Qk0wcEZ2QnhELWJQOVZtaEZFUHozUFd6TnNqNjFmNTVaNW1qRk41Yi1GeW8tZXhXMnlhZjVUQWFsSzJPZEVvNUtONjQxVTlsRkItbUI3aHVtVUtsdl9QbWJxSWxKd3FYcGhNR3Fkb3JtZTFxNXpRaGlHRTJZdGlwbE5CNzF5bkZmbjcxSlN5LUNqNVJYZ1Fvc3NhUzNaN1U3cWs",
+    "related": [
+      [
+        "SpaceX prepares to send Starship rocket to orbit for first time",
+        "CNBC"
+      ],
+      [
+        "SpaceX’s Starship Is Set to Make Its First Orbital Flight",
+        "The New York Times"
+      ],
+      [
+        "Live coverage: SpaceX to launch first Starlink V3 satellites to orbit on Starship",
+        "Spaceflight Now"
+      ],
+      [
+        "The most powerful rocket ever built is on the verge of its biggest — and riskiest — test yet",
+        "CNN"
+      ],
+      [
+        "SpaceX's Starship megarocket launching to orbit for 1st time ever on Sept. 28: Watch it live",
+        "Space"
+      ]
+    ],
+    "event_key": "spacex-starship-orbital-flight"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "스페이스X 스타십\n[[첫 궤도 비행]]",
+      "sub": "역대 최강 로켓 첫 궤도 시험 발사 준비",
+      "chips": [
+        {
+          "k": "발사",
+          "v": "첫 궤도"
+        }
+      ],
+      "alt": "스페이스X 스타십 첫 궤도 비행",
+      "map": {
+        "lat": 32.2178521,
+        "lon": -96.0370219,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n텍사스",
+      "map": {
+        "lat": 32.2178521,
+        "lon": -96.0370219,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "텍사스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "첫 궤도 비행",
+          "d": "스페이스X의 대형 로켓 스타십이 역사상 처음으로 궤도 비행 시험을 준비 중이라고 CNBC·뉴욕타임스 등이 보도했다."
+        },
+        {
+          "t": "스타링크 V3",
+          "d": "이번 비행에서 첫 스타링크 V3 위성들을 궤도에 발사할 예정이라고 스페이스플라이트나우가 전했다."
+        },
+        {
+          "t": "역대 최강 로켓",
+          "d": "CNN 등 주요 매체들은 이번 시험 발사가 지금까지 건조된 로켓 중 가장 강력하고 위험한 도달점이 될 것이라고 보도했다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스페이스X 스타십 첫 궤도 비행 시험 (CNBC·뉴욕타임스·CNN)"
+      ],
+      "unconfirmed": [
+        "발사 성공 여부 및 세부 기상 조건"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "CNN",
+        "Space",
+        "Spaceflight Now",
+        "The New York Times",
+        "2026.09.28 17:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 스페이스X가 대형 로켓 '스타십'의 사상 첫 궤도 비행 시험 발사를 준비하고 있다고 주요 외신들이 보도했습니다. 이번 비행은 역대 구축된 로켓 중 가장 강력한 기체로 진행되는 가장 위험한 시험 무대가 될 전망입니다. 첫 스타링크 V3 위성들을 궤도에 투입하는 임무도 함께 진행될 예정입니다. 발사 성공 여부 등 세부 사항은 아직 확인 안 됨. 출처: CNBC·뉴욕타임스·CNN·스페이스플라이트나우 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 뉴스 정리입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "역대 최강 로켓 첫 궤도 시험 발사 준비.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN, 뉴욕타임스, CNBC 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "스페이스X의 대형 로켓 스타십이 역사상 처음으로 궤도 비행 시험을 준비 중이라고 CNBC·뉴욕타임스 등이 보도했다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 비행에서 첫 스타링크 V3 위성들을 궤도에 발사할 예정이라고 스페이스플라이트나우가 전했다.",
+      "card": "points"
+    },
+    {
+      "text": "CNN 등 주요 매체들은 이번 시험 발사가 지금까지 건조된 로켓 중 가장 강력하고 위험한 도달점이 될 것이라고 보도했다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것은, 스페이스X 스타십 첫 궤도 비행 시험입니다.",
+      "card": "check"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 발사 성공 여부 및 세부 기상 조건입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
