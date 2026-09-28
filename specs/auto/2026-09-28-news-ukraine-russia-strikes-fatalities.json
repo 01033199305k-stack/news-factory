@@ -1,0 +1,147 @@
+{
+  "slug": "2026-09-28-news-ukraine-russia-strikes-fatalities",
+  "topic": "러 공습·양측 교전 최소 5명 이상 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 07:30 KST",
+  "source": "Reuters·The Hindu·Al Jazeera 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxOUVF1UXZ0clUzdWpxRktGWjFjUGsxajFzZFp4eVNrNlctejhTQWZxRDFuYXd6SnA0bWhrVnVaTjZRLXJMR2VxUkdweVdiZ2FJaWpzUjVfZFhBVWgzTUx2emVTSVdwYko3Yy1WOU16bWVyZmw0OHpKQzZpX1JWa2tsOXRKYUl3ekVlUzE1MEh4eU9UWktidi1Cd1pfRkN2VmZ6QTFxMDRxblR3NkxYMHhjN1NaQQ",
+    "related": [
+      [
+        "Russian drones kill two in market outside Kyiv, three others in different regions, officials say",
+        "Reuters"
+      ],
+      [
+        "Strikes kill 6 in Ukraine, 1 in Russia after Moscow rejects German calls to de-escalate",
+        "The Hindu"
+      ],
+      [
+        "At least 10 people killed in Russian and Ukrainian attacks",
+        "aljazeera.com"
+      ],
+      [
+        "Russian attacks kills three in Ukrainian cities, strikes hit Kyiv districts, officials say",
+        "ThePrint"
+      ],
+      [
+        "Russian strikes on Ukraine kill 5, including in Kyiv",
+        "Arab News"
+      ]
+    ],
+    "event_key": "ukraine-russia-strikes-fatalities"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러 공습·양측 교전\n최소 [[5명 이상]] 사망",
+      "sub": "우크라이나와 러시아에서 상호 공격으로 인명 피해가 발생했습니다.",
+      "chips": [],
+      "alt": "러 공습·양측 교전 최소 5명 이상 사망",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "우크라이나 공습 피해",
+          "d": "러시아의 공습으로 키이우 등 우크라이나 여러 지역에서 사망자가 발생했습니다. (로이터·아랍뉴스)"
+        },
+        {
+          "t": "양측 상호 공격",
+          "d": "우크라이나와 러시아 양측의 공격으로 인한 사망자도 보고됐습니다. (알자지라·더힌두)"
+        },
+        {
+          "t": "매체별 집계 차이",
+          "d": "보도 매체에 따라 집계된 사망자 수는 5명에서 10명 이상으로 차이가 있습니다. (외신 종합)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아의 우크라이나 공습 및 양측 상호 공격으로 사망자 발생 (외신 종합)"
+      ],
+      "unconfirmed": [
+        "사망자 수 매체별 집계 차이 있음 (5~10명 이상)",
+        "정확한 피해 규모 및 경위 조사 중"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Arab News",
+        "Reuters",
+        "The Hindu",
+        "ThePrint",
+        "aljazeera.com",
+        "2026.09.28 10:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 우크라이나와 러시아에서 공습 및 상호 공격으로 사망자가 발생했습니다.\n\n외신 보도에 따르면 러시아의 공습으로 우크라이나 키이우 등에서 인명 피해가 보고됐습니다. 양측의 공격으로 인한 사망자도 함께 집계되고 있습니다.\n\n다만 매체별로 보도된 사망자 수는 5명에서 10명 이상으로 차이가 있으며, 정확한 피해 규모는 아직 확인되지 않았습니다.\n\n출처: 로이터·더힌두·알자지라·아랍뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 뉴스 정리입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "우크라이나와 러시아에서 상호 공격으로 인명 피해가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터, 더힌두, 알자지라 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "러시아의 공습으로 키이우 등 우크라이나 여러 지역에서 사망자가 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나와 러시아 양측의 공격으로 인한 사망자도 보고됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "보도 매체에 따라 집계된 사망자 수는 5명에서 10명 이상으로 차이가 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 사망자 수 매체별 집계 차이 있음, 정확한 피해 규모 및 경위 조사 중입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

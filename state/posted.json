@@ -388,5 +388,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790551223
+  },
+  {
+    "slug": "2026-09-28-news-ukraine-russia-strikes-fatalities",
+    "event_ms": 1790557737666,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 우크라이나와 러시아에서 공습 및 상호 공격으로 사망자가 발생했습니다.\n\n외신 보도에 따르면 러시아의 공습으로 우크라이나 키이우 등에서 인명 피해가 보고됐습니다. 양측의 공격으로 인한 사망자도 함께 집계되고 있습니다.\n\n다만 매체별로 보도된 사망자 수는 5명에서 10명 이상으로 차이가 있으며, 정확한 피해 규모는 아직 확인되지 않았습니다.\n\n출처: 로이터·더힌두·알자지라·아랍뉴스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18133492384737548",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Ddz-LUrkbSE",
+        "kind": "carousel",
+        "at": 1790557795
+      },
+      "instagram": {
+        "id": "18152078341467106",
+        "permalink": "https://www.instagram.com/reel/Ddz-jCNDOC1/",
+        "kind": "reel",
+        "at": 1790558011
+      },
+      "youtube": {
+        "id": "iy-wr4X3ZR8",
+        "permalink": "https://youtube.com/shorts/iy-wr4X3ZR8",
+        "kind": "shorts",
+        "at": 1790558158
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790558168
   }
 ]
