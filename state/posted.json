@@ -438,5 +438,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790558168
+  },
+  {
+    "slug": "2026-09-28-news-us-iran-ceasefire-rejected",
+    "event_ms": 1790568756249,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 도널드 트럼프 미국 대통령이 이란의 새로운 휴전 제안을 거절했습니다. 호르무즈 해협 봉쇄가 이어지며 국제 유가 불안이 지속되는 가운데, 이란은 전쟁에 완전히 대비하고 있다고 밝혔습니다.\\n\\n출처: 월스트리트저널·알자지라·타임스오브인디아 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18118002668318374",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd0TLzyFRA7",
+        "kind": "carousel",
+        "at": 1790568807
+      },
+      "instagram": {
+        "id": "18091685942660878",
+        "permalink": "https://www.instagram.com/reel/Dd0Tnk2jqva/",
+        "kind": "reel",
+        "at": 1790569057
+      },
+      "youtube": {
+        "id": "lvbGIEPhVNY",
+        "permalink": "https://youtube.com/shorts/lvbGIEPhVNY",
+        "kind": "shorts",
+        "at": 1790569186
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790569196
   }
 ]

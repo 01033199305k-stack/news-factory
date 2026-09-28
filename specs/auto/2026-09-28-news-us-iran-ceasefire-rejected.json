@@ -1,0 +1,157 @@
+{
+  "slug": "2026-09-28-news-us-iran-ceasefire-rejected",
+  "topic": "트럼프, 이란 휴전안 거절\\n전면전 긴장 고조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 11:14 KST",
+  "source": "Al Jazeera·NDTV·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxOVnV3N3NCRjFTNUdJSktYbnNrdUZqVEMwTS1KZU5MVTRUakpwajVZU21IdHd4ei1UdmZ5UG8yS210dVFQdWVIeFAtSlNQMGN1emhSMDM3SDdFalQ4NUpWaXNlVERWbUE0TXBRMHZHRlJLaEJDeVBET2UyclVScjJBYWl1NjNxVlBMX3piN0pVUERHUkFTd3JsUDZnR01kYlZibnJEM0pQeVk4Q0pvMWRzZjd30gG6AUFVX3lxTE1DRGhIVlRHUlFpbldXdXVlcWVwMTlvWk5uX2F4VkRoMndHT3k3dlY3TVQtVjlycGNMWExyNnFPaHBMR3E4dG9DOC1Rc3RKSlZmTHNScUk3WjduUW5DLUJvTThWanNyakJzZXZ5bktidUtna0c5dGNzUWlqTjVWcVBQamZvaFJ1VHc3TzB0TFRWV285RkRuNlk2RHc5WXVFUHNoQWxvdGtQSXByOU1TZnczdWdHdW8tNVJ3dw",
+    "related": [
+      [
+        "US Diplomat Reveals Why Trump Rejected Iran's New Truce Plan",
+        "NDTV"
+      ],
+      [
+        "Iran war live: Tehran says it’s fully prepared for war amid Hormuz tensions",
+        "Al Jazeera"
+      ],
+      [
+        "Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms",
+        "WSJ"
+      ],
+      [
+        "Seven months into Hormuz shutdown: Oil remains elevated as Trump rejects Iran proposal",
+        "The Times of India"
+      ],
+      [
+        "Aragchi says Iran is 'fully prepared' for 'doomsday war'; as Trump vows to win",
+        "Firstpost"
+      ]
+    ],
+    "event_key": "us-iran-ceasefire-rejected"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "트럼프, 이란 [[휴전안 거절]]\\n전면전 긴장 고조",
+      "sub": "트럼프가 이란의 새 제안을 거절하며 호르무즈 긴장이 커졌습니다.",
+      "chips": [
+        {
+          "k": "정세",
+          "v": "휴전 거절"
+        }
+      ],
+      "alt": "트럼프, 이란 휴전안 거절\\n전면전 긴장 고조",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "트럼프, 휴전 거절",
+          "d": "도널드 트럼프 미국 대통령이 이란의 새로운 휴전 제안을 거절했습니다."
+        },
+        {
+          "t": "이란, 전쟁 완벽 대비",
+          "d": "이란은 호르무즈 긴장 속에서 전쟁에 완전히 대비하고 있다고 밝혔습니다."
+        },
+        {
+          "t": "국제 유가 불안 지속",
+          "d": "호르무즈 봉쇄 상황에서 트럼프 대통령의 휴전 거절로 유가 고공행진이 지속됩니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "도널드 트럼프 미국 대통령이 이란의 새 휴전 제안을 거절함 (WSJ·NDTV)",
+        "이란은 전쟁에 완전히 대비하고 있다고 밝힘 (알자지라·퍼스트포스트)",
+        "호르무즈 해협 봉쇄 속에 국제 유가 강세가 지속됨 (타임스오브인디아)"
+      ],
+      "unconfirmed": [
+        "미국 중간선거 이후 추가 공습 재개 전망 (WSJ)"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Firstpost",
+        "NDTV",
+        "The Times of India",
+        "WSJ",
+        "2026.09.28 13:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 도널드 트럼프 미국 대통령이 이란의 새로운 휴전 제안을 거절했습니다. 호르무즈 해협 봉쇄가 이어지며 국제 유가 불안이 지속되는 가운데, 이란은 전쟁에 완전히 대비하고 있다고 밝혔습니다.\\n\\n출처: 월스트리트저널·알자지라·타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 뉴스 정리입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "트럼프가 이란의 새 제안을 거절하며 호르무즈 긴장이 커졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라, NDTV, 타임스오브인디아 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "도널드 트럼프 미국 대통령이 이란의 새로운 휴전 제안을 거절했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란은 호르무즈 긴장 속에서 전쟁에 완전히 대비하고 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "호르무즈 봉쇄 상황에서 트럼프 대통령의 휴전 거절로 유가 고공행진이 지속됩니다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것은, 이란은 전쟁에 완전히 대비하고 있다고 밝힘, 호르무즈 해협 봉쇄 속에 국제 유가 강세가 지속됨입니다.",
+      "card": "check"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 미국 중간선거 이후 추가 공습 재개 전망입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
