@@ -1,0 +1,141 @@
+{
+  "slug": "2026-09-28-news-ukraine-russia-strikes-september-2026",
+  "topic": "러시아 드론 공격으로 우크라이나 내 8명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 22:26 KST",
+  "source": "AP News·CBS News·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxOazQ5UWJIVnlyMkh2TjNmaW9vRnZCNHBSc0NtZGVuYlpxOE9KN2ZJRjdVQWdvRFdVcVRYSGVSdGtOZnQwM05GZTJHUmdkNDRfS2VoQk1oLU9Ha0ZjZkt2cDItdHh1Q0llTGhHd29zUmdpQXYwdmpZbmpqWXJzUUhIRVF5ZTBjMnpfVHRSVW05UVo",
+    "related": [
+      [
+        "Russian strikes on Ukraine kill at least 7, including woman at Kyiv's National Academy of Sciences",
+        "CBS News"
+      ],
+      [
+        "Staff killed and wounded in Russian strike on Kyiv’s science academy",
+        "The Guardian"
+      ],
+      [
+        "Russian drones kill two in market outside Kyiv, three others in different regions, officials say",
+        "Reuters"
+      ],
+      [
+        "Strikes kill 8 in Ukraine, 1 in Russia after Moscow rejects German calls to de-escalate",
+        "AP News"
+      ],
+      [
+        "Russian drones hit Kyiv science academy and hospital",
+        "Financial Times"
+      ]
+    ],
+    "event_key": "ukraine-russia-strikes-september-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 드론 공격으로\n우크라이나 내 8명 사망",
+      "sub": "러시아군 드론이 키이우 과학 아카데미와 시장 등을 타격했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "8명"
+        }
+      ],
+      "alt": "러시아 드론 공격으로 우크라이나 내 8명 사망",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "시설 타격",
+          "d": "키이우 과학 아카데미와 병원, 시장 등이 러시아 드론 공격을 받았습니다."
+        },
+        {
+          "t": "인명 피해",
+          "d": "이번 공격으로 우크라이나에서 최소 7~8명이 사망했습니다."
+        },
+        {
+          "t": "사상자 발생",
+          "d": "우크라이나 내 여러 지역에서 민간인 피해가 발생했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 드론이 우크라이나 키이우 과학 아카데미 등을 타격함",
+        "우크라이나에서 최소 8명 사망(AP 기준)"
+      ],
+      "unconfirmed": [
+        "매체별 집계 차이 있음 (7~8명)",
+        "공격의 구체적인 의도나 추가 피해 규모 조사 중"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBS News",
+        "Financial Times",
+        "Reuters",
+        "The Guardian",
+        "2026.09.29 00:44 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아군 드론이 우크라이나 곳곳을 공습해 다수의 민간인 사상자가 발생했습니다. 키이우 과학 아카데미와 인근 병원, 시장 등이 타격을 입었으며, 이 공격으로 우크라이나 내에서 최소 8명이 숨졌다고 외신들이 보도했습니다. 출처: CBS 뉴스·가디언·로이터·AP·파이낸셜타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아군의 드론 공습으로 우크라이나에서 최소 8명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "키이우의 과학 아카데미와 병원, 시장 등이 공격받았습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 공격으로 과학 아카데미 직원 등을 포함해 사상자가 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공습에 따른 구체적인 추가 피해 규모는 아직 확인되지 않고 있습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

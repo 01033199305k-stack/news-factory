@@ -834,5 +834,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790609408
+  },
+  {
+    "slug": "2026-09-28-news-ukraine-russia-strikes-september-2026",
+    "event_ms": 1790601962000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 러시아군 드론이 우크라이나 곳곳을 공습해 다수의 민간인 사상자가 발생했습니다. 키이우 과학 아카데미와 인근 병원, 시장 등이 타격을 입었으며, 이 공격으로 우크라이나 내에서 최소 8명이 숨졌다고 외신들이 보도했습니다. 출처: CBS 뉴스·가디언·로이터·AP·파이낸셜타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18099780944531490",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd1idInFGui",
+        "kind": "carousel",
+        "at": 1790610366
+      },
+      "instagram": {
+        "id": "18111427061519277",
+        "permalink": "https://www.instagram.com/reel/Dd1iujUDwY2/",
+        "kind": "reel",
+        "at": 1790610527
+      },
+      "youtube": {
+        "id": "-T-Udrl1zQo",
+        "permalink": "https://youtube.com/shorts/-T-Udrl1zQo",
+        "kind": "shorts",
+        "at": 1790610693
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790610703
   }
 ]
