@@ -638,5 +638,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790598213
+  },
+  {
+    "slug": "2026-09-28-news-mexico-hurricane-polo",
+    "event_ms": 1790593549000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 멕시코 태평양 연안으로 허리케인 폴로가 접근하고 있습니다. 바하칼리포르니아 지역 등을 향해 북상 중이며 멕시코에서 하와이까지 홍수 위협이 제기되었습니다. 구체적인 피해 상황은 아직 확인되지 않았습니다. 출처: BBC·가디언·뉴욕타임스·인디펜던트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "멕시코"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18110542577234149",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd1MDpcGzvz",
+        "kind": "carousel",
+        "at": 1790598622
+      },
+      "instagram": {
+        "id": "18089036744666790",
+        "permalink": "https://www.instagram.com/reel/Dd1MaP8AtGZ/",
+        "kind": "reel",
+        "at": 1790598851
+      },
+      "youtube": {
+        "id": "OqdijyNEJgA",
+        "permalink": "https://youtube.com/shorts/OqdijyNEJgA",
+        "kind": "shorts",
+        "at": 1790599118
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790599128
   }
 ]

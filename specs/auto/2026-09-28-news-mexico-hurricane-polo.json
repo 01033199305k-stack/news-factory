@@ -1,0 +1,157 @@
+{
+  "slug": "2026-09-28-news-mexico-hurricane-polo",
+  "topic": "멕시코 태평양 연안 허리케인 폴로 접근 카테고리 5등급 강력한 폭풍 북상 중",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 20:05 KST",
+  "source": "The Guardian·The Independent·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE8zUlFqOTNsWm9QWHdKc1FXdG5URGRHOHRjWlpDeUhhTU85NktyMmxhaktHdVM4RkZNemZxb0dDYmdYLThpZU9JWlFaSnhJNU9IdXEtNW0wT2x5Vl9vZkE",
+    "related": [
+      [
+        "Mexico's Pacific coast braces for Hurricane Polo",
+        "bbc.co.uk"
+      ],
+      [
+        "Hurricane Polo barrels towards Baja California region of Mexico",
+        "The Guardian"
+      ],
+      [
+        "Hurricane Polo Updates: Category 5 Storm Churns Off Mexico",
+        "The New York Times"
+      ],
+      [
+        "Hurricane onslaught threatens catastrophic flooding from Mexico to Hawaii",
+        "The Independent"
+      ],
+      [
+        "Watch: Hurricane Polo Sends Gigantic Waves to Cabo San Lucas Arch",
+        "SURFER Magazine"
+      ]
+    ],
+    "event_key": "mexico-hurricane-polo"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "멕시코 태평양 연안 [[허리케인 폴로]] 접근\n카테고리 5등급 강력한 폭풍 북상 중",
+      "sub": "멕시코 태평양 연안으로 허리케인 폴로가 접근 중이다.",
+      "chips": [
+        {
+          "k": "등급",
+          "v": "카테고리 5"
+        }
+      ],
+      "alt": "멕시코 태평양 연안 허리케인 폴로 접근 카테고리 5등급 강력한 폭풍 북상 중",
+      "map": {
+        "lat": 30.0338923,
+        "lon": -115.1425107,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "멕시코"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "멕시코\n바하칼리포르니아",
+      "map": {
+        "lat": 30.0338923,
+        "lon": -115.1425107,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바하칼리포르니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "허리케인 북상",
+          "d": "멕시코 태평양 연안과 바하칼리포르니아 지역으로 허리케인 폴로가 접근하고 있다고 보도됐다."
+        },
+        {
+          "t": "폭풍 등급",
+          "d": "뉴욕타임스는 카테고리 5등급 폭풍이 멕시코 해상에서 이동 중이라고 보도했다."
+        },
+        {
+          "t": "침수 경고",
+          "d": "인디펜던트는 멕시코부터 하와이까지 홍수 위협이 있다고 전했다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "멕시코 태평양 연안 및 바하칼리포르니아 지역으로 허리케인 폴로 접근",
+        "카테고리 5등급 폭풍 (뉴욕타임스)",
+        "멕시코에서 하와이까지 홍수 위협 (인디펜던트)"
+      ],
+      "unconfirmed": [
+        "구체적인 피해 규모와 상륙 시점은 아직 확인 안 됨"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "SURFER Magazine",
+        "The Guardian",
+        "The Independent",
+        "The New York Times",
+        "bbc.co.uk",
+        "2026.09.28 21:28 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 멕시코 태평양 연안으로 허리케인 폴로가 접근하고 있습니다. 바하칼리포르니아 지역 등을 향해 북상 중이며 멕시코에서 하와이까지 홍수 위협이 제기되었습니다. 구체적인 피해 상황은 아직 확인되지 않았습니다. 출처: BBC·가디언·뉴욕타임스·인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 속보입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "멕시코 태평양 연안으로 허리케인 폴로가 접근 중이다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언, 인디펜던트, 뉴욕타임스 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "멕시코 태평양 연안과 바하칼리포르니아 지역으로 허리케인 폴로가 접근하고 있다고 보도됐다.",
+      "card": "points"
+    },
+    {
+      "text": "뉴욕타임스는 카테고리 5등급 폭풍이 멕시코 해상에서 이동 중이라고 보도했다.",
+      "card": "points"
+    },
+    {
+      "text": "인디펜던트는 멕시코부터 하와이까지 홍수 위협이 있다고 전했다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것은, 카테고리 5등급 폭풍, 멕시코에서 하와이까지 홍수 위협입니다.",
+      "card": "check"
+    },
+    {
+      "text": "아직 확인되지 않은 것은, 구체적인 피해 규모와 상륙 시점은입니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
