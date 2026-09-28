@@ -49,7 +49,14 @@ def write_srt(cues, path):
                                   for i, (a, b, text) in enumerate(cues)), encoding="utf-8")
 
 
-GAP = 0.16   # 문장 사이 숨 — 붙여 읽으면 기계 같다
+# 문장 사이 쉼. 전부 같은 길이면 메트로놈처럼 기계적으로 들린다 — 같은 화면 안에서는 짧게,
+# 화면이 바뀔 때는 숨 한 번(전환 효과음과 J컷이 이 틈에 들어간다), 첫 문장 뒤는 핵심이 남게 한 박자
+GAP_IN, GAP_CUT, GAP_HOOK = 0.18, 0.40, 0.30
+
+
+def _cut(a, b):
+    """a 다음에 b 를 읽을 때 화면이 바뀌는지 (motion.scenes_for 와 같은 기준: 핵심 정리는 문장마다 새 화면)."""
+    return b["card"] != a["card"] or a["card"] == "points"
 
 
 def render(spec):
@@ -62,30 +69,31 @@ def render(spec):
 
     outdir = ROOT / "output" / spec["slug"]
     outdir.mkdir(parents=True, exist_ok=True)
-    srcs = [x for c in spec["cards"] if c["type"] == "outro"
-            for x in c.get("sources", []) if not x.endswith("기준")]
-    segs = narration.refresh(spec.get("narration") or narration.from_cards(spec), srcs)
+    segs = narration.for_video(spec)
     work = Path(make_cards.work_dir())   # 영문 경로 — 크롬이 한글 경로에서 실패한다
 
     wavs, words, times, cursor = [], [], [], 0.0
     for i, seg in enumerate(segs):
         raw = work / ("seg_%02d.wav" % i)
         res = tts.synthesize_tight(seg["text"], VOICE, raw, rate=RATE)
+        nxt = segs[i + 1] if i + 1 < len(segs) else None
+        gap = 0.0 if nxt is None else GAP_CUT if _cut(seg, nxt) else GAP_HOOK if i == 0 else GAP_IN
         wav = work / ("pad_%02d.wav" % i)
         subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(raw),
-                        "-af", "apad=pad_dur=%.2f" % GAP, str(wav)], check=True)
+                        "-af", "apad=pad_dur=%.2f" % gap, str(wav)], check=True)
         times.append((round(cursor, 3), round(cursor + res.duration, 3)))
         words.append([Word(w.text, w.start + cursor, w.end + cursor) for w in res.words])
         wavs.append(wav)
-        cursor += res.duration + GAP
+        cursor += res.duration + gap
     total = cursor + motion.TAIL
 
     voice = assemble.concat_audio(wavs, work / "narration.wav")
     page = work / "motion.html"
-    page.write_text(motion.build_html(spec, segs, times, words, total), encoding="utf-8")
+    html, cuts = motion.build_html(spec, segs, times, words, total)
+    page.write_text(html, encoding="utf-8")
     silent = motion.capture(page, work / "silent.mp4", total)
     final = outdir / "video.mp4"
-    motion.mux(silent, voice, final, total)
+    motion.mux(silent, voice, final, total, cuts)
     write_srt([(a, b, s["text"]) for (a, b), s in zip(times, segs)], outdir / "captions.srt")
     print("VIDEO %s (%.1fs, %d문장)" % (final, total, len(segs)))
     return final

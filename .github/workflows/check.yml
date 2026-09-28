@@ -138,6 +138,10 @@ jobs:
           print("확인됨    :", ev["confirmed"])
           print("미확인    :", ev["unconfirmed"])
           print("본문      :\n" + ev["caption_ko"])
+          import narration
+          print("영상 원고 :")
+          for s in narration.for_news(ev, c["sources"], "breaking", has_map=True):
+              print("   [%s] %s" % (s["card"], s["text"]))
           ok, bad = n.numbers_ok(ev, c)
           print("숫자 검증 :", "통과" if ok else "거부 %s" % bad)
           EOF

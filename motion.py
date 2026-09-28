@@ -29,6 +29,22 @@ VENDOR = ROOT / "vendor"
 W, H, FPS = 1080, 1920, 30
 ENTER = 0.45          # 장면이 들어오는 시간
 TAIL = 0.6            # 마지막 나레이션 뒤 여유
+LEAD = 0.28           # 화면이 목소리보다 먼저 바뀐다 (J컷). 목소리가 먼저 나오고 화면이 따라오면 늦게 느껴진다
+PUSH = 0.03           # 장면마다 아주 천천히 다가간다 — 긴 문장에서도 화면이 멈춰 보이지 않게
+
+# 소리. 목소리만 있고 문장 사이가 완전히 비면 뚝뚝 끊겨 들린다 → 잔잔한 배경음 + 장면 전환 효과음.
+# 음원 파일 없이 ffmpeg 수식으로 만든다 (저작권 걱정 없음, 공개 저장소에 음원을 둘 필요도 없음)
+# 배경음: 열린 5도(라·미) 패드 + 100BPM 낮은 맥박 + 엇박 초침
+BED = ("0.030*sin(2*PI*110*t)*(0.7+0.3*sin(2*PI*0.20*t))"
+       "+0.022*sin(2*PI*164.81*t)*(0.7+0.3*sin(2*PI*0.17*t+1.3))"
+       "+0.018*sin(2*PI*220*t)*(0.7+0.3*sin(2*PI*0.23*t+2.1))"
+       "+0.010*sin(2*PI*329.63*t)*(0.7+0.3*sin(2*PI*0.13*t+0.7))"
+       "+0.16*sin(2*PI*52*t)*(1-exp(-300*mod(t,0.6)))*exp(-14*mod(t,0.6))"
+       "+0.018*(2*random(1)-1)*exp(-150*mod(t+0.3,0.6))")
+BOOM = "0.55*sin(2*PI*46*t)*exp(-4.5*t)*(1-exp(-400*t))"   # 첫 화면의 낮은 울림
+# 크기는 목소리(edge-tts 약 -17 LUFS) 기준: 배경음은 목소리보다 약 13dB 아래(말할 땐 더 내려간다),
+# 효과음은 들릴 듯 말 듯. 2026-09-28 측정: 배경음 -36 LUFS(-4dB 일 때)는 거의 안 들려서 올렸다
+BED_DB, WHOOSH_DB, BOOM_DB = 1.0, -8.0, -9.0
 
 
 def esc(s):
@@ -67,8 +83,9 @@ def scenes_for(spec, segs, times):
         elif card == "points":
             it = pts[k] if k < len(pts) else {"t": "", "d": s["text"]}
             it = it if isinstance(it, dict) else {"t": it}
+            # 화면 글도 목소리와 같은 "~습니다" 체로 (예전 카드의 "~보도됐다." 가 반말처럼 보인다)
             scene("point", i, idx=k + 1, total=min(3, len(pts)) or 1, t=it.get("t", ""),
-                  d=it.get("d", ""))
+                  d=narration.polite(it.get("d", "")))
             k += 1
         elif card == "check":
             scene("check", i)
@@ -76,6 +93,9 @@ def scenes_for(spec, segs, times):
             scene("outro", i)
         else:
             scene("cover", i)
+    # J컷: 둘째 장면부터 목소리보다 LEAD 초 먼저 들어온다 (장면 안 글자는 여전히 목소리에 맞춰 나온다)
+    for s in out[1:]:
+        s["start"] = max(0.0, s["start"] - LEAD)
     # 장면 사이 빈틈 없이: 다음 장면 시작까지 늘린다
     for a, b in zip(out, out[1:]):
         a["end"] = b["start"]
@@ -135,7 +155,7 @@ em{font-style:normal;color:var(--acc)}
 #logo i{width:20px;height:20px;border-radius:50%;background:var(--acc)}
 #clock{font-size:30px;font-weight:650;color:var(--mut);font-variant-numeric:tabular-nums}
 /* 장면 */
-.sc{position:absolute;left:0;top:0;width:1080px;height:1920px;opacity:0}
+.sc{position:absolute;left:0;top:0;width:1080px;height:1920px;opacity:0;transform-origin:50% 42%}
 .pad{position:absolute;left:72px;right:110px;top:300px;height:960px;display:flex;flex-direction:column;justify-content:center}
 .pad.fixed{height:auto;display:block}
 .pad > .in{transform-origin:0 50%}
@@ -219,7 +239,8 @@ window.render = function (t) {
     let op = eo(pin) * (last ? 1 : 1 - eo(pout));
     if (t < s.start - 0.01 || (!last && t > s.end + 0.35)) op = 0;
     el.style.opacity = op;
-    el.style.transform = `translateX(${(1 - eo(pin)) * 80 + (last ? 0 : eo(pout) * -80)}px)`;
+    const prog = C((t - s.start) / Math.max(1, s.end - s.start));
+    el.style.transform = `translateX(${(1 - eo(pin)) * 80 + (last ? 0 : eo(pout) * -80)}px) scale(${1 + D.push * prog})`;
     el.style.visibility = op > 0.001 ? 'visible' : 'hidden';
     if (s.kind === 'map' && op > 0) mapTick(el, t, s);
   });
@@ -315,20 +336,25 @@ def scene_html(i, s, spec, cover, cards):
     def at(j, d=0.0):  # j 번째 문장이 시작할 때 (+d 초)
         return st[min(j, len(st) - 1)] + d
 
+    def vis(d=0.0):    # 장면이 들어오기 시작할 때 (+d 초) — J컷이라 목소리보다 조금 먼저
+        return s["start"] + d
+
     if k == "cover":
         b = cover.get("badge", "breaking")
         lines = str(cover.get("title", spec.get("topic", ""))).split("\n")
         h1 = "".join('<span class="ln" data-in="%.3f" data-fx="up">%s</span>'
                      % (at(0, 0.25 + 0.14 * n), esc(l)) for n, l in enumerate(lines))
         srcs = narration.clean_outlets(s.get("outlets") or [])
+        # 보도 매체는 읽지 않고 화면에만 — 제목이 자리 잡은 뒤 조용히 들어온다
+        t0 = at(1, 0.4) if len(st) > 1 else at(0, 1.6)
         chips = "".join('<div class="chip" data-in="%.3f" data-fx="pop">%s</div>'
-                        % (at(2, 0.1 * n), esc(x)) for n, x in enumerate(srcs[:3]))
+                        % (t0 + 0.1 * n, esc(x)) for n, x in enumerate(srcs[:3]))
         more = len(s.get("outlets") or [])
         if more:
             chips += ('<div class="chip n" data-in="%.3f" data-fx="pop">%d개 매체 보도</div>'
-                      % (at(2, 0.1 * min(3, len(srcs))), more))
+                      % (t0 + 0.1 * min(3, len(srcs)), more))
         out = ('<div class="out"><div class="k" data-in="%.3f" data-fx="fade">보도</div>%s</div>'
-               % (at(2), chips)) if len(st) > 2 else ""
+               % (t0, chips)) if chips else ""
         return ('<div class="pad"><div class="badge" data-in="%.3f" data-fx="pop"><b></b>%s</div>'
                 '<h1 class="%s">%s</h1><div class="bar" data-in="%.3f" data-fx="wipe"></div>'
                 '<div class="sub" data-in="%.3f" data-fx="up">%s</div>%s</div>'
@@ -340,40 +366,41 @@ def scene_html(i, s, spec, cover, cards):
         return ('<div class="pad fixed"><div class="eye" data-in="%.3f" data-fx="left">어디서</div>'
                 '<h1 class="s" style="margin-top:20px" data-in="%.3f" data-fx="up">%s</h1></div>'
                 '<div class="mapbox" data-scene="%d"><div class="tag"><span>●</span>%s</div></div>'
-                % (at(0, 0.1), at(0, 0.2), esc(m.get("title", "")), i, esc(m["map"].get("label", ""))))
+                % (vis(0.05), vis(0.18), esc(m.get("title", "")), i, esc(m["map"].get("label", ""))))
     if k == "point":
         return ('<div class="pad"><div class="eye" data-in="%.3f" data-fx="left">핵심 정리</div>'
                 '<div class="num" style="margin-top:30px" data-in="%.3f" data-fx="pop">%02d</div>'
                 '<div class="of" data-in="%.3f" data-fx="fade">%d / %d</div>'
                 '<div class="pt" data-in="%.3f" data-fx="up">%s</div>'
                 '<div class="pd" data-in="%.3f" data-fx="up">%s</div></div>'
-                % (at(0, 0.05), at(0, 0.15), s["idx"], at(0, 0.3), s["idx"], s["total"],
-                   at(0, 0.35), esc(s["t"]), at(0, 0.8), esc(s["d"])))
+                % (vis(0.02), vis(0.10), s["idx"], vis(0.2), s["idx"], s["total"],
+                   vis(0.25), esc(s["t"]), at(0, 0.15), esc(s["d"])))
     if k == "check":
         ck = cards.get("check", {})
         conf, unc = ck.get("confirmed", [])[:3], ck.get("unconfirmed", [])[:2]
         tags = s.get("tags", [])
-        j_ok = next((j for j, x in enumerate(tags) if x.startswith("확인된 것은")), 0)
-        j_no = next((j for j, x in enumerate(tags) if x.startswith("아직 확인되지")), j_ok)
+        # 예전 원고("아직 확인되지 않은 것은, ~")면 그 문장에서, 아니면 이 장면 첫 문장에서 '아직 모르는 것'을 올린다
+        j_no = next((j for j, x in enumerate(tags) if x.startswith("아직 확인되지")), 0)
 
-        def lis(rows, j):
-            return "".join('<li data-in="%.3f" data-fx="up">%s</li>' % (at(j, 0.3 + 0.35 * n), esc(r))
+        def lis(rows, t0):
+            return "".join('<li data-in="%.3f" data-fx="up">%s</li>' % (t0 + 0.3 + 0.3 * n, esc(r))
                            for n, r in enumerate(rows))
+        # 확인된 것은 장면과 함께 깔고(이미 말한 사실이라 다시 읽지 않는다), 아직 모르는 것은 말하는 순간에
         ok = ('<div class="box ok" data-in="%.3f" data-fx="up"><h3>✓ 확인된 것</h3><ul>%s</ul></div>'
-              % (at(j_ok, 0.05), lis(conf, j_ok))) if conf else ""
+              % (vis(0.2), lis(conf, vis(0.2)))) if conf else ""
         no = ('<div class="box no" data-in="%.3f" data-fx="up"><h3>? 아직 확인 안 됨</h3><ul>%s</ul></div>'
-              % (at(j_no, 0.05), lis(unc, j_no))) if unc else ""
+              % (at(j_no, 0.05), lis(unc, at(j_no, 0.05)))) if unc else ""
         return ('<div class="pad"><div class="eye" data-in="%.3f" data-fx="left">팩트 체크</div>'
                 '<h1 class="s" style="margin-top:16px;font-size:74px" data-in="%.3f" data-fx="up">'
                 '확인된 것과<br><em>아직 모르는 것</em></h1>%s%s</div>'
-                % (at(0, 0.05), at(0, 0.15), ok, no))
+                % (vis(0.02), vis(0.12), ok, no))
     if k == "outro":
         srcs = narration.clean_outlets(s.get("outlets") or [])
         return ('<div class="pad fixed" style="top:330px"><div class="big-logo" data-in="%.3f" data-fx="pop"><i></i>지금 세계</div></div>'
                 '<div class="cta" data-in="%.3f" data-fx="up">세계 사건·사고,<br>확인된 것만 가장 빠르게'
                 '<small>팔로우하고 먼저 받아보세요 · @jigeum.segye</small></div>'
                 '<div class="srcs" data-in="%.3f" data-fx="fade">출처 · %s</div>'
-                % (at(0, 0.05), at(0, 0.45), at(0, 0.8), esc(" · ".join(srcs[:5]))))
+                % (vis(0.05), vis(0.3), vis(0.55), esc(" · ".join(srcs[:5]))))
     return ""
 
 
@@ -386,7 +413,7 @@ def build_html(spec, segs, times, seg_words, total):
     for i, s in enumerate(scenes):
         bodies.append('<div class="sc" id="s%d">%s</div>' % (i, scene_html(i, s, spec, cover, cards)))
     data = {"scenes": [{k: s.get(k) for k in ("kind", "start", "end", "map")} for s in scenes],
-            "caps": phrases(seg_words, times), "total": total}
+            "caps": phrases(seg_words, times), "total": total, "push": PUSH}
     uses_map = any(s["kind"] == "map" for s in scenes)
     libs = ""
     if uses_map:
@@ -395,11 +422,12 @@ def build_html(spec, segs, times, seg_words, total):
     css = CSS.replace("FONT", make_cards.file_url(str(VENDOR / "PretendardVariable.woff2")))
     clock = esc(spec.get("time", ""))
     bars = "".join("<div><i></i></div>" for _ in scenes)
-    return ('<!doctype html><html lang="ko"><head><meta charset="utf-8"><style>%s</style></head><body>'
+    html = ('<!doctype html><html lang="ko"><head><meta charset="utf-8"><style>%s</style></head><body>'
             '<div id="bg"></div><div id="grid"></div>%s'
             '<div id="bars">%s</div><div id="hd"><div id="logo"><i></i>지금 세계</div><div id="clock">%s</div></div>'
             '<div id="cap"></div>%s<script>window.DATA=%s;</script><script>%s</script></body></html>'
             % (css, "".join(bodies), bars, clock, libs, json.dumps(data, ensure_ascii=False), JS))
+    return html, [s["start"] for s in scenes[1:]]   # 장면이 바뀌는 시각 — 전환 효과음 자리
 
 
 # ────────────────────────────────────────────── 촬영
@@ -430,10 +458,31 @@ def capture(html_path, out_mp4, total):
     return out_mp4
 
 
-def mux(video, voice, out, total):
+def mux(video, voice, out, total, cuts=()):
+    """목소리 + 잔잔한 배경음(목소리가 나오면 자동으로 작아진다) + 장면 전환 효과음 + 첫 화면 울림."""
+    T = "%.3f" % total
+    steps = ["[1:a]aresample=48000,apad,atrim=0:%s,asplit=2[vo][key]" % T,
+             "aevalsrc=exprs='%s':s=48000:d=%s,highpass=f=35,lowpass=f=4500,volume=%.1fdB[bed0]"
+             % (BED, T, BED_DB),
+             # 목소리가 나오면 배경음이 물러났다가, 문장 사이 틈에 다시 차오른다
+             "[bed0][key]sidechaincompress=threshold=0.015:ratio=8:attack=25:release=250[bed]",
+             "aevalsrc=exprs='%s':s=48000:d=1.4,volume=%.1fdB[boom]" % (BOOM, BOOM_DB)]
+    mix = ["[vo]", "[bed]", "[boom]"]
+    cuts = [c for c in cuts if 0.3 < c < total - 0.3]
+    if cuts:
+        # 쉭 소리가 가장 커지는 순간(0.22초)이 장면이 미끄러져 들어오는 한가운데에 오게
+        steps.append("anoisesrc=c=pink:a=0.5:d=0.5:r=48000,highpass=f=400,lowpass=f=6000,"
+                     "afade=t=in:st=0:d=0.22:curve=qsin,afade=t=out:st=0.22:d=0.28:curve=qsin,"
+                     "volume=%.1fdB,asplit=%d%s" % (WHOOSH_DB, len(cuts),
+                                                   "".join("[w%d]" % n for n in range(len(cuts)))))
+        for n, c in enumerate(cuts):
+            steps.append("[w%d]adelay=%d:all=1[x%d]" % (n, max(0, int((c - 0.12) * 1000)), n))
+            mix.append("[x%d]" % n)
+    steps.append("%samix=inputs=%d:duration=first:normalize=0,"
+                 "loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[a]" % ("".join(mix), len(mix)))
     subprocess.run(
         ["ffmpeg", "-y", "-loglevel", "error", "-i", str(video), "-i", str(voice),
-         "-filter_complex", "[1:a]apad,atrim=0:%.3f,loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[a]" % total,
+         "-filter_complex", ";".join(steps),
          "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
-         "-movflags", "+faststart", "-t", "%.3f" % total, str(out)], check=True)
+         "-movflags", "+faststart", "-t", T, str(out)], check=True)
     return out
