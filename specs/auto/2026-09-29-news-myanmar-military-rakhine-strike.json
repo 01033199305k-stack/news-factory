@@ -1,0 +1,140 @@
+{
+  "slug": "2026-09-29-news-myanmar-military-rakhine-strike",
+  "topic": "미얀마군 공습 시장 주변 33명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 04:37 KST",
+  "source": "Al Jazeera·India Today·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimgFBVV95cUxNQ2VKLXZUQlpCelJoUV9mQ0R5ckUwREFUZ1dsTVRveDFMRnFBY2tTdVlaQmppbGdrS3J0cE9IdkxEa0xJeF8ta3ZBRXpOWXE5S2p5TF84a3R4MVphb1dmWi1HNVdTNmZmcTBOOUQzbDQxU3ZLOGk0bWotaEpHbG5kZXpOa1ZOeXVia2swdkN1M3oyOUZHdFVlRFVR0gGfAUFVX3lxTE9LUmNGMWc4bFJuYkhYaDdZXzkwWDhGYXNfY0FWc25JX3FweW5xMnNQdTFJNnFrYlhpUUZINXVEc1RfSnExYmowd01tZWoxTXMzSFNiTmwwZ19jZVE3YVUxcnN4QkVOUWI2WGNWd0h3Q083dGt5M2Rfc21aUDdNLWxtRUtpaG5fYTl4bklKaGJuYUdjVlF3ZDROSV9YYkJ5cw",
+    "related": [
+      [
+        "Myanmar army air strike kills dozens in Rakhine state",
+        "Al Jazeera"
+      ],
+      [
+        "Airstrike near market in Myanmar’s Rakhine state kills 33 people",
+        "The Hindu"
+      ],
+      [
+        "33 killed, 36 injured after Myanmar military airstrike in war-torn Rakhine",
+        "India Today"
+      ],
+      [
+        "Two Teenagers and Three Women Among Eight Injured in Airstrike on Sun Ye Village, Anjanapura Township",
+        "narinjara.com"
+      ],
+      [
+        "At least 33 people killed in western Myanmar airstrike, rebel group and aid worker say",
+        "TradingView"
+      ]
+    ],
+    "event_key": "myanmar-military-rakhine-strike"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미얀마군 공습\n시장 주변 [[33명 사망]]",
+      "sub": "미얀마 군부 공습으로 라카인주서 최소 33명 사망",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 33명"
+        }
+      ],
+      "alt": "미얀마군 공습 시장 주변 33명 사망",
+      "map": {
+        "lat": 16.3785576,
+        "lon": 97.662483,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미얀마"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미얀마\n라카인주",
+      "map": {
+        "lat": 16.3785576,
+        "lon": 97.662483,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "라카인주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미얀마 군부 공습",
+          "d": "미얀마 군부가 라카인주의 한 시장 인근을 공습했습니다."
+        },
+        {
+          "t": "최소 33명 사망",
+          "d": "이번 공습으로 최소 33명이 숨졌다고 보도되었습니다."
+        },
+        {
+          "t": "부상 발생",
+          "d": "이번 공습으로 부상자가 발생했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미얀마 군부의 라카인주 공습",
+        "최소 33명 사망"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수는 보도마다 다름"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "India Today",
+        "The Hindu",
+        "TradingView",
+        "narinjara.com",
+        "2026.09.29 08:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미얀마 군부가 라카인주를 공습해 최소 33명이 숨졌습니다.\n\n미얀마 군부의 공습이 라카인주의 한 시장 인근을 타격했습니다. 이번 공습으로 최소 33명이 사망하고 부상자가 발생했습니다. 부상자 수는 보도마다 일부 엇갈리고 있습니다.\n\n출처: 알자지라·더 힌두·인디아 투데이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미얀마 군부가 라카인주를 공습해 최소 33명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 군부의 공습이 시장 인근을 타격했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 공습으로 최소 33명이 사망한 것으로 알려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 수와 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
