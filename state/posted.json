@@ -934,5 +934,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790615856
+  },
+  {
+    "slug": "2026-09-29-news-alderney-woman-body-found",
+    "event_ms": 1790613113000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 영국 올더니 섬 물가에서 여성의 시신이 발견되었습니다. 경찰은 살인 혐의로 남성 1명을 체포해 조사를 벌이고 있으며, 용의자는 건니지로 이송됐습니다. 출처: ITV News·BBC·Bailiwick Express·Island FM 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "영국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17915537466265288",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd1x-VeGFnf",
+        "kind": "carousel",
+        "at": 1790618504
+      },
+      "instagram": {
+        "id": "17981146926087082",
+        "permalink": "https://www.instagram.com/reel/Dd1yOgBFc21/",
+        "kind": "reel",
+        "at": 1790618656
+      },
+      "youtube": {
+        "id": "Dicc1bgG7jI",
+        "permalink": "https://youtube.com/shorts/Dicc1bgG7jI",
+        "kind": "shorts",
+        "at": 1790618824
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790618834
   }
 ]

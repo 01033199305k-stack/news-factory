@@ -1,0 +1,144 @@
+{
+  "slug": "2026-09-29-news-alderney-woman-body-found",
+  "topic": "올더니서 여성 시신 발견 살인 용의자 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 01:31 KST",
+  "source": "BBC·Bailiwick Express·ITVX 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxOdVZaaTQ1Yldrc3RDN0ZyZ184OTFfLVdMYXgzYk1BakdGb2hqOC05WHZkSjFzZ2otUHIxSzd2MUNyS1Z3eGk0RTlHYlY4TUdnVXpzQ2hBUjliRl9lQV9EbllwX3BoSEIwVnJZa0ZKN3RvMmpKQk1JSU5hbWt0TURCWm5XeTBUZFVnelBmOFlUWGdSWUhveENheUhXajlWRXkwMk9oTjhIeWE",
+    "related": [
+      [
+        "Man arrested on suspicion of murder in Alderney as woman found dead in water | ITV News",
+        "ITVX"
+      ],
+      [
+        "Alderney murder suspect taken to Guernsey for questioning",
+        "BBC"
+      ],
+      [
+        "Man arrested for murder after body found in Alderney",
+        "BBC"
+      ],
+      [
+        "Suspected Alderney murder: \"I was woken up in the middle of the night by emergency services\"",
+        "Bailiwick Express"
+      ],
+      [
+        "Suspected murder in Alderney",
+        "Island FM"
+      ]
+    ],
+    "event_key": "alderney-woman-body-found"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "올더니서 여성 시신 발견\n살인 용의자 체포",
+      "sub": "영국 올더니 섬에서 여성 시신이 발견됐습니다.",
+      "chips": [
+        {
+          "k": "발견",
+          "v": "여성 시신"
+        },
+        {
+          "k": "조치",
+          "v": "용의자 체포"
+        }
+      ],
+      "alt": "올더니서 여성 시신 발견 살인 용의자 체포",
+      "map": {
+        "lat": 49.7168911,
+        "lon": -2.1971694,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n올더니",
+      "map": {
+        "lat": 49.7168911,
+        "lon": -2.1971694,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "올더니"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "여성 시신 발견",
+          "d": "영국 올더니 섬 물가에서 여성의 시신이 발견됐습니다."
+        },
+        {
+          "t": "용의자 체포",
+          "d": "살인 혐의로 남성 1명이 체포됐습니다."
+        },
+        {
+          "t": "건니지 이송",
+          "d": "용의자는 조사를 위해 건니지로 이송됐습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국 올더니 섬 물가에서 여성 시신 발견 (ITV News·BBC)",
+        "살인 혐의 남성 1명 체포 (ITV News·BBC)",
+        "용의자 건니지로 이송 (BBC)"
+      ],
+      "unconfirmed": [
+        "구체적 사건 경위 미확정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bailiwick Express",
+        "ITVX",
+        "Island FM",
+        "2026.09.29 03:00 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국 올더니 섬 물가에서 여성의 시신이 발견되었습니다. 경찰은 살인 혐의로 남성 1명을 체포해 조사를 벌이고 있으며, 용의자는 건니지로 이송됐습니다. 출처: ITV News·BBC·Bailiwick Express·Island FM 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 올더니 섬의 물가에서 여성의 시신이 발견됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경찰은 살인 혐의로 남성 1명을 체포했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "체포된 용의자는 조사를 위해 건니지로 이송됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "자세한 내용은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
