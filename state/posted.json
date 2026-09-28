@@ -688,5 +688,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790599128
+  },
+  {
+    "slug": "2026-09-28-news-nepal-baglung-landslides",
+    "event_ms": 1790594760000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 네팔 바글룽 지역에서 산사태가 발생해 가옥이 매몰되고 인명 피해가 잇따랐습니다. 인도 타임스 오브 인디아와 힌두스탄 타임스 등은 이번 산사태로 최소 10명이 사망했다고 전했습니다. 산비탈이 무너지며 가옥을 덮쳤고, 지역 내 교통 연결망도 차단되었습니다. 실종자 1명에 대한 수색 작업이 진행 중이며, 현수교 유실 등 추가적인 피해 상황이 확인되고 있습니다. 출처: 타임스 오브 인디아·힌두스탄 타임스·네팔뉴스·리퍼블리카·세토파티 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "네팔"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17943357069360632",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd1X3LXG9Ot",
+        "kind": "carousel",
+        "at": 1790604814
+      },
+      "instagram": {
+        "id": "18432220972195036",
+        "permalink": "https://www.instagram.com/reel/Dd1YIwrD8g2/",
+        "kind": "reel",
+        "at": 1790604977
+      },
+      "youtube": {
+        "id": "invU0mQVvQw",
+        "permalink": "https://youtube.com/shorts/invU0mQVvQw",
+        "kind": "shorts",
+        "at": 1790605150
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790605160
   }
 ]

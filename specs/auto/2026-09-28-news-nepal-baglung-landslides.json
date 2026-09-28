@@ -1,0 +1,141 @@
+{
+  "slug": "2026-09-28-news-nepal-baglung-landslides",
+  "topic": "네팔 바글룽 산사태 10명 사망 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 20:26 KST",
+  "source": "Hindustan Times·The Times of India·Nepalnews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi9gFBVV95cUxPSjA3My0ycEcyOHRRcEdJTEd0enlrTkpWUTVxNlZ6bm8wX0VTMlZhNWV4dnliblhnSW9EbF9rSVpDa2E0dURPQWt5U1ZDSUtUek5TelUtOXZlYVM4aFlYQWRUdFQzMm5abjRkZnNZdjgyUVFqMG9xMkZMTTkzUjVYZTFDV045bEdlODJYUktxR3lheEtFNjZpMTcyX1hndnEzQzI1OVpuUWo4WmJnQmNzQlN6UVR3cVpiRlhXdVBhUnQza2IzU2RFalNPZkpoLWhfWXJNV1JBbTlJckNYeDdWdEMwNmI1U1F2MzVFSDlqXzNwZW1QbUE",
+    "related": [
+      [
+        "Watch: Nepal hillside collapses in seconds, sweeps away houses in Baglung; 10 killed",
+        "The Times of India"
+      ],
+      [
+        "Landslides bury homes in Nepal’s Baglung, 10 killed and one missing",
+        "Hindustan Times"
+      ],
+      [
+        "Landslides and floods sever transport links in Baglung",
+        "Nepalnews.com"
+      ],
+      [
+        "Four persons buried in landslide",
+        "myrepublica.nagariknetwork.com"
+      ],
+      [
+        "Landslides block Mid-hill Highway, Sani Bheri flood sweeps away suspension bridge in Rukum East",
+        "en.setopati.com"
+      ]
+    ],
+    "event_key": "nepal-baglung-landslides"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "네팔 바글룽 산사태\n[[10명]] 사망 발생",
+      "sub": "산비탈 무너지며 가옥 매몰 및 인명 피해 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "10명"
+        }
+      ],
+      "alt": "네팔 바글룽 산사태 10명 사망 발생",
+      "map": {
+        "lat": 28.3562467,
+        "lon": 83.1426241,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "네팔"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네팔\n바글룽",
+      "map": {
+        "lat": 28.3562467,
+        "lon": 83.1426241,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바글룽"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "산사태 피해",
+          "d": "네팔 바글룽 지역에서 산비탈이 붕괴하며 가옥이 매몰되었습니다."
+        },
+        {
+          "t": "인명 피해",
+          "d": "현지 매체들은 최소 10명이 사망했다고 보도했습니다."
+        },
+        {
+          "t": "기반시설 파손",
+          "d": "산사태와 홍수로 인해 교통 연결망과 현수교가 유실되었습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "네팔 바글룽 지역 산사태 발생",
+        "사망자 10명 (타임스 오브 인디아, 힌두스탄 타임스)"
+      ],
+      "unconfirmed": [
+        "실종자 1명 (힌두스탄 타임스)",
+        "추가 인명 피해 여부 조사 중"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Hindustan Times",
+        "Nepalnews.com",
+        "The Times of India",
+        "en.setopati.com",
+        "myrepublica.nagariknetwork.com",
+        "2026.09.28 23:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 네팔 바글룽 지역에서 산사태가 발생해 가옥이 매몰되고 인명 피해가 잇따랐습니다. 인도 타임스 오브 인디아와 힌두스탄 타임스 등은 이번 산사태로 최소 10명이 사망했다고 전했습니다. 산비탈이 무너지며 가옥을 덮쳤고, 지역 내 교통 연결망도 차단되었습니다. 실종자 1명에 대한 수색 작업이 진행 중이며, 현수교 유실 등 추가적인 피해 상황이 확인되고 있습니다. 출처: 타임스 오브 인디아·힌두스탄 타임스·네팔뉴스·리퍼블리카·세토파티 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "네팔 바글룽에서 산사태가 발생해 가옥이 매몰되는 사고가 일어났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 매체들은 이번 재난으로 최소 10명이 숨졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "산사태와 홍수로 인해 교통 연결망과 현수교가 유실되었습니다.",
+      "card": "map"
+    },
+    {
+      "text": "현재 1명이 실종된 상태로 추가 인명 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
