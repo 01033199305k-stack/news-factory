@@ -1,0 +1,140 @@
+{
+  "slug": "2026-09-28-news-korea-ukraine-pow-dispute",
+  "topic": "우크라이나에 사과 요구",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.28 12:49 KST",
+  "source": "AP News·Al Jazeera·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixAFBVV95cUxPMHlVZ1pJa2tIQ0IwdjdldEdtWWQ0QmdMN0R4YzYtOXFFU21jRTNnWGNIa1RZeG5JUlJ6WGhfZnJxLUhnX2pKNXl5a0pQWjVIVXJ3WU5ZMmRDMUp4Vm5ka2RpNWt2TG94cUpGVnEtWXJXV2Q1ejBVZVM0X3FvNXpuZ0tlekQ5UzZOWVZ0SUhublVOcERjYmVrc2taM3BWb2Z0d3ZrajFONTFraTFDaDZOX1JUd29wcmt5cUgxZ0ROM3BjQURY",
+    "related": [
+      [
+        "Seoul demands apology after Kyiv reveals transfer of North Korean POWs",
+        "Euronews.com"
+      ],
+      [
+        "South Korea demands apology from Ukraine over disclosure of North Korean POW transfer",
+        "CNN"
+      ],
+      [
+        "Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea",
+        "AP News"
+      ],
+      [
+        "S Korea demands Ukraine apology over disclosure of N Korea’s POW transfer",
+        "Al Jazeera"
+      ],
+      [
+        "South Korea demands apology from Ukraine over North Korean POW disclosure",
+        "reuters.com"
+      ]
+    ],
+    "event_key": "korea-ukraine-pow-dispute"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라이나에\n[[사과 요구]]",
+      "sub": "북한군 포로 이송 사실 공개에 한국 정부 사과 요구",
+      "chips": [
+        {
+          "k": "포로 수",
+          "v": "2명 (AP)"
+        }
+      ],
+      "alt": "우크라이나에 사과 요구",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "우크라이나에 사과 요구",
+          "d": "한국 정부가 북한군 포로 이송 사실을 공개한 우크라이나에 사과를 요구했습니다. (로이터·CNN)"
+        },
+        {
+          "t": "북한군 포로 2명 이송",
+          "d": "볼로디미르 젤렌스키 우크라이나 대통령은 북한군 포로 2명을 한국으로 보냈다고 밝혔습니다. (AP)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "한국 정부가 우크라이나 측에 북한군 포로 이송 사실을 공개한 것에 대해 사과를 요구함 (로이터·CNN·알자지라)",
+        "젤렌스키 우크라이나 대통령이 북한군 포로 2명을 한국으로 보냈다고 밝힘 (AP)"
+      ],
+      "unconfirmed": [
+        "후속 공식 발표"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "CNN",
+        "Euronews.com",
+        "reuters.com",
+        "2026.09.28 15:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 대한민국 정부가 우크라이나 정부에 북한군 포로 이송 사실을 공개한 것과 관련해 사과를 요구했습니다.\n\n외신 보도에 따르면 볼로디미르 젤렌스키 우크라이나 대통령은 북한군 포로 2명을 한국으로 보냈다고 밝혔습니다. 이에 대해 한국 정부는 이송 사실을 공개한 우크라이나 측에 사과를 요구했습니다.\n\n출처: AP·로이터·CNN·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지금 세계, 해외 뉴스 정리입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "북한군 포로 이송 사실 공개에 한국 정부 사과 요구.",
+      "card": "cover"
+    },
+    {
+      "text": "AP, 알자지라, CNN 등 5개 매체가 이 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "한국 정부가 북한군 포로 이송 사실을 공개한 우크라이나에 사과를 요구했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "볼로디미르 젤렌스키 우크라이나 대통령은 북한군 포로 2명을 한국으로 보냈다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "세계의 사건 사고, 확인된 것만 가장 빠르게. 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

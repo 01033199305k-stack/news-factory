@@ -488,5 +488,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790569196
+  },
+  {
+    "slug": "2026-09-28-news-korea-ukraine-pow-dispute",
+    "event_ms": 1790575790498,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 대한민국 정부가 우크라이나 정부에 북한군 포로 이송 사실을 공개한 것과 관련해 사과를 요구했습니다.\n\n외신 보도에 따르면 볼로디미르 젤렌스키 우크라이나 대통령은 북한군 포로 2명을 한국으로 보냈다고 밝혔습니다. 이에 대해 한국 정부는 이송 사실을 공개한 우크라이나 측에 사과를 요구했습니다.\n\n출처: AP·로이터·CNN·알자지라 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18176293555447003",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd0gmS5lpBi",
+        "kind": "carousel",
+        "at": 1790575840
+      },
+      "instagram": {
+        "id": "18101414945032926",
+        "permalink": "https://www.instagram.com/reel/Dd0g4YHitwP/",
+        "kind": "reel",
+        "at": 1790576013
+      },
+      "youtube": {
+        "id": "PHHuHwvAHfM",
+        "permalink": "https://youtube.com/shorts/PHHuHwvAHfM",
+        "kind": "shorts",
+        "at": 1790576142
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790576152
   }
 ]
