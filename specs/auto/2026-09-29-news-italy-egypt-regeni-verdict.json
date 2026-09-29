@@ -1,0 +1,141 @@
+{
+  "slug": "2026-09-29-news-italy-egypt-regeni-verdict",
+  "topic": "이탈리아 법원, 이집트 요원 '학생 납치' 유죄 선고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 05:22 KST",
+  "source": "AP News·Al Jazeera·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxPRDFzV1IzRUxOOHl4R3NXR2swanNDTnhtRkZBeUtrYUtjVzhZUHVmQ3lOLWE3V1JSOTU2NnpDRTN4U3NjMVJLRHZjdEdwZ1p3MzZuZVBZdjc5aXlOTWpLOGJzWnR1cmV6V25kcnV3dTVQcXhSZDBVNzVpX3pkeHFzb3hFNnZtOTdtQmlnVl83OA",
+    "related": [
+      [
+        "3 Egyptian Officials Convicted of Kidnapping Slain Italian Student",
+        "The New York Times"
+      ],
+      [
+        "Italian court convicts three Egyptian agents for kidnap of Giulio Regeni",
+        "Al Jazeera"
+      ],
+      [
+        "Rome court sentences 3 Egyptian security officials to 10 years over Giulio Regeni's abduction",
+        "AP News"
+      ],
+      [
+        "Italian court convicts three Egyptians in absentia for kidnap of slain student Regeni",
+        "Reuters"
+      ],
+      [
+        "The Egyptian spies, the Cambridge student and the vicious Italian kidnapping: verdict in Giulio Regeni case",
+        "The Independent"
+      ]
+    ],
+    "event_key": "italy-egypt-regeni-verdict"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이탈리아 법원, 이집트 요원\n'학생 납치' 유죄 선고",
+      "sub": "이탈리아 학생 납치 혐의 이집트 관리 3명에 유죄 선고",
+      "chips": [
+        {
+          "k": "유죄 피고인",
+          "v": "3명"
+        }
+      ],
+      "alt": "이탈리아 법원, 이집트 요원 '학생 납치' 유죄 선고",
+      "map": {
+        "lat": 41.8933203,
+        "lon": 12.4829321,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이탈리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이탈리아\n로마",
+      "map": {
+        "lat": 41.8933203,
+        "lon": 12.4829321,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "로마"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이집트 관리 3명 유죄",
+          "d": "이탈리아 법원이 학생 납치 혐의로 이집트 보안 관리 3명에게 유죄를 선고했습니다 (AP·알자지라·로이터·NYT)."
+        },
+        {
+          "t": "궐석 재판 진행",
+          "d": "이번 판결은 피고인들이 참석하지 않은 궐석 재판으로 진행됐습니다 (로이터)."
+        },
+        {
+          "t": "징역 10년 선고 보도",
+          "d": "AP 통신은 로마 법원이 피고인들에게 징역 10년형을 선고했다고 전했습니다 (AP)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이탈리아 법원의 이집트 보안 관리 3명 유죄 판결 (AP·알자지라·로이터·NYT)",
+        "학생 납치 혐의 인정 (AP·알자지라·로이터·NYT)",
+        "피고인 부재 상태의 궐석 재판 진행 (로이터)"
+      ],
+      "unconfirmed": [
+        "형량 10년 선고 여부 (AP 보도, 타 매체 미명시)"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "Reuters",
+        "The Independent",
+        "The New York Times",
+        "2026.09.29 10:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이탈리아 법원이 학생 줄리오 레제니를 납치한 혐의로 이집트 보안 관리 3명에게 유죄를 선고했습니다.\n\n이번 재판은 피고인들이 참석하지 않은 궐석 재판으로 진행됐습니다 (로이터). AP 통신은 로마 법원이 피고인들에게 징역 10년형을 선고했다고 전했습니다 (AP).\n\n출처: 로이터·AP·알자지라·NYT·인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이탈리아 법원이 학생 납치 혐의로 이집트 관리 3명에게 유죄를 선고했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로마 법원은 피고인들이 참석하지 않은 상태에서 궐석 재판을 진행했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "AP 통신은 이들에게 징역 10년형이 선고됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이집트 측의 구체적인 반응은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

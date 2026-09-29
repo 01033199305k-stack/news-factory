@@ -1134,5 +1134,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790637554
+  },
+  {
+    "slug": "2026-09-29-news-italy-egypt-regeni-verdict",
+    "event_ms": 1790644406335,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 이탈리아 법원이 학생 줄리오 레제니를 납치한 혐의로 이집트 보안 관리 3명에게 유죄를 선고했습니다.\n\n이번 재판은 피고인들이 참석하지 않은 궐석 재판으로 진행됐습니다 (로이터). AP 통신은 로마 법원이 피고인들에게 징역 10년형을 선고했다고 전했습니다 (AP).\n\n출처: 로이터·AP·알자지라·NYT·인디펜던트 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이탈리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18039917402833227",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd2jfWWnaC4",
+        "kind": "carousel",
+        "at": 1790644464
+      },
+      "instagram": {
+        "id": "17918217801449860",
+        "permalink": "https://www.instagram.com/reel/Dd2j4YBAfxQ/",
+        "kind": "reel",
+        "at": 1790644688
+      },
+      "youtube": {
+        "id": "Z_66X-dN89E",
+        "permalink": "https://youtube.com/shorts/Z_66X-dN89E",
+        "kind": "shorts",
+        "at": 1790644818
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790644828
   }
 ]
