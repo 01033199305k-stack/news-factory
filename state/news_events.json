@@ -315,5 +315,15 @@
     "at": 1790692131.6580396,
     "country": "러시아",
     "category": "사고"
+  },
+  {
+    "event_key": "fbi-jobs-portal-hack-arrest",
+    "topic": "네덜란드 경찰, FBI 채용 포털 해킹 혐의로 샤이니헌터스 용의자 체포",
+    "slug": "2026-09-30-news-fbi-jobs-portal-hack-arrest",
+    "cluster": "CBMiXkFVX3lxTE9ZVk9fa0l5WXFmWTR3aGJ3UHNweE9sWFZsN2NmRjRXcVVhbTBoVDhITjJsSU1HUEVudWxjMXpaUGM0d1NadHBIQzR4WXFuQVNndFBjV2Ria1dYMFE1WHc",
+    "badge": "breaking",
+    "at": 1790701757.0837,
+    "country": "네덜란드",
+    "category": "기타 사건"
   }
 ]

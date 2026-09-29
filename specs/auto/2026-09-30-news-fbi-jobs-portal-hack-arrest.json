@@ -1,0 +1,134 @@
+{
+  "slug": "2026-09-30-news-fbi-jobs-portal-hack-arrest",
+  "topic": "네덜란드 경찰, FBI 채용 포털 해킹 혐의로 샤이니헌터스 용의자 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 00:02 KST",
+  "source": "BBC·Politico·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE9ZVk9fa0l5WXFmWTR3aGJ3UHNweE9sWFZsN2NmRjRXcVVhbTBoVDhITjJsSU1HUEVudWxjMXpaUGM0d1NadHBIQzR4WXFuQVNndFBjV2Ria1dYMFE1WHc",
+    "related": [
+      [
+        "ShinyHunters: Dutch police arrest suspected member of group that claimed FBI hack",
+        "BBC"
+      ],
+      [
+        "Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees",
+        "The New York Times"
+      ],
+      [
+        "FBI Hackers Say They Won’t Publish Massive Trove of FBI Employee Data",
+        "404 Media"
+      ],
+      [
+        "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+        "Krebs on Security"
+      ],
+      [
+        "Social Security numbers, birth dates compromised in ‘major’ hack of FBI jobs portal",
+        "Politico"
+      ]
+    ],
+    "event_key": "fbi-jobs-portal-hack-arrest"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "네덜란드 경찰, FBI 채용 포털 해킹 혐의로\n샤이니헌터스 용의자 체포",
+      "sub": "직원 개인정보 유출 우려 확산",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "용의자 1명"
+        }
+      ],
+      "alt": "네덜란드 경찰, FBI 채용 포털 해킹 혐의로 샤이니헌터스 용의자 체포",
+      "map": {
+        "lat": 52.3730796,
+        "lon": 4.8924534,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "네덜란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네덜란드\n암스테르담",
+      "video_only": true,
+      "map": {
+        "lat": 52.3730796,
+        "lon": 4.8924534,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "암스테르담"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "개인정보 유출",
+          "d": "해킹된 채용 포털을 통해 사회보장번호와 생년월일 등이 유출됐습니다 (Politico)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "네덜란드 경찰 용의자 체포",
+        "FBI 채용 포털 해킹 발생"
+      ],
+      "unconfirmed": [
+        "유출된 데이터의 최종 공개 여부",
+        "추가 공범 존재 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "404 Media",
+        "BBC",
+        "Krebs on Security",
+        "Politico",
+        "The New York Times",
+        "2026.09.30 02:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 네덜란드 경찰, FBI 채용 포털 해킹 혐의 용의자 체포\n\n· 해킹된 채용 포털을 통해 사회보장번호와 생년월일 등이 유출됐습니다 (Politico)\n· 샤이니헌터스 조직원으로 의심되는 인물이 붙잡혔습니다 (BBC·Krebs on Security)\n\n출처: BBC·The New York Times·Politico 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "네덜란드 경찰이 FBI 채용 포털을 해킹한 혐의를 받는 용의자를 체포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 해킹으로 직원들의 사회보장번호와 생년월일 등이 유출됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "체포된 인물은 샤이니헌터스 조직원으로 지목됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "대규모 유출 데이터가 실제로 공개될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
