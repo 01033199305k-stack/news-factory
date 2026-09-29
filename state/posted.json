@@ -1322,5 +1322,55 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790662573
+  },
+  {
+    "slug": "2026-09-29-news-australia-rba-rate-hike-september",
+    "event_ms": 1790669445470,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 호주 중앙은행이 기준금리를 인상하며 15년 만의 최고치로 올렸습니다.\n\n외신 보도에 따르면 호주의 기준금리는 이번 인상으로 15년 만에 가장 높은 수준을 기록하게 됐습니다. 호주 중앙은행은 중동 전쟁과 인공지능(AI) 분야의 붐을 지목했습니다. 또한 향후 추가 금리 인상 가능성도 완전히 배제하지 않았습니다.\n\n출처: CNBC·알자지라·ABC 뉴스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "호주"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18087733973689288",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd3TPqkG7rW",
+        "kind": "carousel",
+        "at": 1790669503
+      },
+      "instagram": {
+        "id": "18159970342495776",
+        "permalink": "https://www.instagram.com/reel/Dd3TgaKjgPU/",
+        "kind": "reel",
+        "at": 1790669658
+      },
+      "youtube": {
+        "id": "aEqrLC4SSAo",
+        "permalink": "https://youtube.com/shorts/aEqrLC4SSAo",
+        "kind": "shorts",
+        "at": 1790669846
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790669856
   }
 ]

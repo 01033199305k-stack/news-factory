@@ -1,0 +1,140 @@
+{
+  "slug": "2026-09-29-news-australia-rba-rate-hike-september",
+  "topic": "호주, 기준금리 인상 단행 15년 만에 최고치 도달",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 15:04 KST",
+  "source": "Al Jazeera·ABC News & Headlines·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivwFBVV95cUxQUEpMUGVtUXlxZGtWNWtrdDNFai0tdHBpenJDS05VV25sc3UwV1AyckgwdENlMzNFV0RxUzdGenRVbm5KR0dvVENPUEVQZ1QzVFJjd1pac3d1Y2JJWHI2RWZtbXpwbHpWTHY1ajM0VkZ2dHEtV2FjeGNwUDBsLWNjV0RTSlVvTWlmTk5pcmNHNWcyY1o3YVNaZUw4Qng0N3Ixam9vNnhuTnpMVlRlZkkwTGtYOTdUWHE5OWlPcjUzdw",
+    "related": [
+      [
+        "Bullock Speech: RBA Governor speaks on policy outlook after the expected interest rate hike",
+        "FXStreet"
+      ],
+      [
+        "Australia says more hikes not off the table after raising rates to 15-year high",
+        "CNBC"
+      ],
+      [
+        "Live: RBA hikes rates, pointing to Middle East war and AI boom",
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      [
+        "Why today's interest rate hike is different and will hit almost everyone",
+        "Yahoo Finance Australia"
+      ],
+      [
+        "Australia raises interest rates to 15-year high",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "australia-rba-rate-hike-september"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "호주, 기준금리 인상 단행\n15년 만에 최고치 도달",
+      "sub": "호주 중앙은행, 기준금리 15년 만의 최고치로 인상",
+      "chips": [
+        {
+          "k": "기준금리",
+          "v": "15년 만의 최고치"
+        }
+      ],
+      "alt": "호주, 기준금리 인상 단행 15년 만에 최고치 도달",
+      "map": {
+        "lat": -35.2975906,
+        "lon": 149.1012676,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "호주"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "호주\n캔버라",
+      "map": {
+        "lat": -35.2975906,
+        "lon": 149.1012676,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캔버라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "15년 만의 최고치",
+          "d": "호주 중앙은행이 기준금리를 인상하여 15년 만에 가장 높은 수준으로 올렸습니다. (CNBC·알자지라)"
+        },
+        {
+          "t": "추가 인상 가능성",
+          "d": "향후 추가적인 금리 인상 가능성도 열어두었습니다. (CNBC)"
+        },
+        {
+          "t": "중동 전쟁·AI 영향",
+          "d": "이번 금리 인상에서 중동 전쟁과 인공지능 분야의 붐이 지목됐습니다. (ABC 뉴스)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호주 중앙은행의 기준금리 인상",
+        "기준금리가 15년 만에 최고 수준에 도달함"
+      ],
+      "unconfirmed": [
+        "향후 추가 금리 인상의 구체적인 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "Al Jazeera",
+        "CNBC",
+        "FXStreet",
+        "Yahoo Finance Australia",
+        "2026.09.29 17:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 호주 중앙은행이 기준금리를 인상하며 15년 만의 최고치로 올렸습니다.\n\n외신 보도에 따르면 호주의 기준금리는 이번 인상으로 15년 만에 가장 높은 수준을 기록하게 됐습니다. 호주 중앙은행은 중동 전쟁과 인공지능(AI) 분야의 붐을 지목했습니다. 또한 향후 추가 금리 인상 가능성도 완전히 배제하지 않았습니다.\n\n출처: CNBC·알자지라·ABC 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호주 중앙은행이 기준금리를 인상해 15년 만의 최고치로 올렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 추가 금리 인상 가능성도 배제하지 않았다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "호주 중앙은행은 중동 전쟁과 인공지능 분야의 붐 등을 지목했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 추가 금리 인상 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
