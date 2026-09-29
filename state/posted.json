@@ -1760,5 +1760,54 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790703541
+  },
+  {
+    "slug": "2026-09-30-news-morocco-first-female-prime-minister",
+    "event_ms": 1790702050000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 모로코, 역사상 첫 여성 총리로 파티마 자흐라 엘 만수리 임명\n\n· 모로코 국왕이 마라케시 시장을 국가 첫 여성 총리로 임명했습니다 (BBC·워싱턴 포스트)\n· 정당이 선거에서 승리한 뒤 총리 임명이 이뤄졌습니다 (타임즈 오브 이스라엘)\n\n모로코의 이번 여성 총리 임명에 대해 어떻게 보십니까?\n\n출처: BBC·The Washington Post·The Times of Israel·Bloomberg.com 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "모로코"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18641572405044565",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd4XdCJGIyt",
+        "kind": "carousel",
+        "at": 1790705265
+      },
+      "instagram": {
+        "id": "18106142173958235",
+        "permalink": "https://www.instagram.com/reel/Dd4XubuG9kK/",
+        "kind": "reel",
+        "at": 1790705425
+      },
+      "youtube": {
+        "id": "Ai9efEbEt_s",
+        "permalink": "https://youtube.com/shorts/Ai9efEbEt_s",
+        "kind": "shorts",
+        "at": 1790705480
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790705490
   }
 ]
