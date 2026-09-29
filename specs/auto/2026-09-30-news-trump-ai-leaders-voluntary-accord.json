@@ -1,0 +1,138 @@
+{
+  "slug": "2026-09-30-news-trump-ai-leaders-voluntary-accord",
+  "topic": "백악관 인공지능 자율 규제 합의 트럼프와 빅테크 도덕적 구속력 서명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 04:37 KST",
+  "source": "AP News·Axios·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8gFBVV95cUxPVGM1M0Q3OVg3TlR0QllZQkhiZHAzOWxaOFF6Z0JkTU1EbWFrUEFMYlhHajR3NkdjZEVDOFBMeVAzc09aalJJTVViUDNPWFJOMDY4VENuVlh0bGVBSXJ0MnZUZUtJSjVVRHdzUmFnSWNlZXI2T01JV3lWc3lfYmhDNXlFRWV6S2pTUDEzUWJEbnlzQUt1WTNkRzdoc2NGb0hPZ0sxcTA0N1BscGxIVDhhTFc5RDd2LVZQcWZ6U1g0OVpDZ2NqTi1YbmZnd2QyQ2FDNG9sSk5CR2lBSDNFN0pvdXFtT096UjMyVnU3X2Y3WXpGZw",
+    "related": [
+      [
+        "Trump gathers with AI leaders and floats ‘self-regulation’ as the way to deal with the technology’s dangers",
+        "finance.yahoo.com"
+      ],
+      [
+        "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+        "CNBC"
+      ],
+      [
+        "Trump, top AI leaders agree to voluntary \"accord\" on ​AI ​standards",
+        "Axios"
+      ],
+      [
+        "Top AI executives sign commitment to ‘self-police’ after meeting at White House",
+        "CNN"
+      ],
+      [
+        "Live updates: Trump and AI leaders sign a voluntary agreement for reviews of their tech",
+        "AP News"
+      ]
+    ],
+    "event_key": "trump-ai-leaders-voluntary-accord"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "백악관 인공지능 자율 규제 합의\n트럼프와 빅테크 [[도덕적 구속력]] 서명",
+      "sub": "기술 위험 대응 위한 자발적 협약 체결",
+      "chips": [
+        {
+          "k": "주체",
+          "v": "미국 대통령 및 AI 기업"
+        }
+      ],
+      "alt": "백악관 인공지능 자율 규제 합의 트럼프와 빅테크 도덕적 구속력 서명",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "자율 규제 합의",
+          "d": "미국 대통령과 주요 인공지능 최고경영자들은 기술 위험에 대응하기 위한 자발적 협약에 서명했습니다 (AP·CNBC)."
+        },
+        {
+          "t": "도덕적 구속력",
+          "d": "서명된 합의안은 도덕적 구속력을 가지며 기술 표준 검토를 포함하고 있습니다 (CNBC·Axios)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "백악관 AI 회동",
+        "자발적 기준 합의"
+      ],
+      "unconfirmed": [
+        "구체적인 법적 강제 수단",
+        "향후 이행 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Axios",
+        "CNBC",
+        "CNN",
+        "finance.yahoo.com",
+        "2026.09.30 06:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 백악관에서 인공지능 위험 대응을 위한 자발적 규제 합의가 체결됐습니다\n\n· 미국 대통령과 주요 인공지능 최고경영자들은 기술 검토를 위한 자발적 협약에 서명했습니다 (AP)\n· 서명된 합의안은 도덕적 구속력을 지니는 것으로 전해졌습니다 (CNBC)\n· 백악관에서 기술 기업들의 자체적인 기준 마련을 논의했습니다 (CNN)\n\n인공지능 규제 방식을 두고 자율 규제에 무게가 실리는 가운데, 실효성에 대한 의견을 어떻게 보십니까?\n\n출처: AP·CNBC·Axios 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 백악관에서 인공지능 위험에 대응하기 위한 자발적 규제 합의가 체결됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "회동에서 주요 AI 기업 최고경영자들은 기술 검토 기준에 서명했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 합의가 도덕적 구속력을 가지는 자발적 협약이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 법적 강제 수단은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

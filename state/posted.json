@@ -1809,5 +1809,54 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790705490
+  },
+  {
+    "slug": "2026-09-30-news-trump-ai-leaders-voluntary-accord",
+    "event_ms": 1790716075511,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 백악관에서 인공지능 위험 대응을 위한 자발적 규제 합의가 체결됐습니다\n\n· 미국 대통령과 주요 인공지능 최고경영자들은 기술 검토를 위한 자발적 협약에 서명했습니다 (AP)\n· 서명된 합의안은 도덕적 구속력을 지니는 것으로 전해졌습니다 (CNBC)\n· 백악관에서 기술 기업들의 자체적인 기준 마련을 논의했습니다 (CNN)\n\n인공지능 규제 방식을 두고 자율 규제에 무게가 실리는 가운데, 실효성에 대한 의견을 어떻게 보십니까?\n\n출처: AP·CNBC·Axios 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18101227898569397",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd4sLXuj6Os",
+        "kind": "carousel",
+        "at": 1790716130
+      },
+      "instagram": {
+        "id": "18112431374111497",
+        "permalink": "https://www.instagram.com/reel/Dd4seSojc7a/",
+        "kind": "reel",
+        "at": 1790716297
+      },
+      "youtube": {
+        "id": "R9K-NIE-jfY",
+        "permalink": "https://youtube.com/shorts/R9K-NIE-jfY",
+        "kind": "shorts",
+        "at": 1790716314
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790716324
   }
 ]
