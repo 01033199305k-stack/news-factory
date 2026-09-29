@@ -1,0 +1,139 @@
+{
+  "slug": "2026-09-29-news-slovakia-school-knife-attack",
+  "topic": "슬로바키아 초등학교서 흉기 난동 교사 사망 및 부상 2명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 18:35 KST",
+  "source": "Anadolu Ajansı·Around Prague·Euronews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxQRWZlc1N4TnN5UU9iZ0pPZnl6R1kyclYyOFNwQ2YyZmVRTGVqMTh0amtHU25iTzk0NWZuYlJfTVlvNkNKU2hpNnh4a2MyVF9wSHJHcnNMU1JScHlJTnpnVHcxaVJnb1JRY0xhNmVvMHI5Yzh0V3dlRV9aMUNZTWNkc0pzRkNnOHRkVUxsQXViTQ",
+    "related": [
+      [
+        "Student ‘stabs teacher to death’ in classroom rampage & child fights for life",
+        "thesun.co.uk"
+      ],
+      [
+        "Slovakia school attack leaves one dead and two injured, emergency workers say",
+        "Euronews.com"
+      ],
+      [
+        "Knife attack at Slovak school leaves 1 dead, 2 injured",
+        "Anadolu Ajansı"
+      ],
+      [
+        "Slovak eighth-grader attacks teachers, one woman killed",
+        "Around Prague"
+      ],
+      [
+        "A pupil fatally stabs a teacher at an elementary school in Slovakia, injuring 2 others",
+        "The Tribune-Democrat"
+      ]
+    ],
+    "event_key": "slovakia-school-knife-attack"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "슬로바키아 초등학교서 흉기 난동\n교사 사망 및 [[부상 2명]]",
+      "sub": "Euronews, The Sun 등에 따르면 슬로바키아의 한 초등학교 교실에서 학생이 휘두른 흉기에 교사가 숨졌습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "2명"
+        }
+      ],
+      "alt": "슬로바키아 초등학교서 흉기 난동 교사 사망 및 부상 2명",
+      "map": {
+        "lat": 48.7411522,
+        "lon": 19.4528646,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "슬로바키아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "슬로바키아",
+      "video_only": true,
+      "map": {
+        "lat": 48.7411522,
+        "lon": 19.4528646,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "슬로바키아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 발생 장소",
+          "d": "슬로바키아의 한 초등학교 교실에서 학생이 교사 등을 상대로 흉기를 휘둘렀습니다 (유로뉴스·아나돌루 통신)"
+        },
+        {
+          "t": "피해 규모",
+          "d": "이번 사건으로 교사 1명이 숨졌고 2명이 다쳤습니다 (유로뉴스·더 선)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "초등학교 교실 흉기 난동",
+        "교사 1명 사망",
+        "2명 부상"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "범행 동기 및 정확한 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Anadolu Ajansı",
+        "Around Prague",
+        "Euronews.com",
+        "The Tribune-Democrat",
+        "thesun.co.uk",
+        "2026.09.29 21:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 슬로바키아 초등학교서 흉기 난동 교사 사망 및 부상 2명\n\n· 슬로바키아의 한 초등학교 교실에서 학생이 교사 등을 상대로 흉기를 휘둘렀습니다 (유로뉴스·아나돌루 통신)\n· 이번 사건으로 교사 1명이 숨졌고 2명이 다쳤습니다 (유로뉴스·더 선)\n\n출처: 유로뉴스·아나돌루 통신·더 선 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "슬로바키아의 한 초등학교 교실에서 학생이 흉기를 휘둘러 교사 1명이 숨지고 2명이 다쳤다고 유로뉴스가 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "부상자들이 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

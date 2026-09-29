@@ -265,5 +265,25 @@
     "at": 1790679976.1201453,
     "country": "아랍에미리트",
     "category": "국제"
+  },
+  {
+    "event_key": "israel-gaza-hamas-commander-killed",
+    "topic": "이스라엘군, 가자시티 공습으로 하마스 북가자 사령관 사살",
+    "slug": "2026-09-29-news-israel-gaza-hamas-commander-killed",
+    "cluster": "CBMiXEFVX3lxTFBUR05pLUh1OGtYSm9LNmZHcExRRGUwUW9tZm1VZVlWRU1BTDhyelVjMHJvQzFEMFVJbXUyamQzbDJQNk5NWWhoc2kxNU8zSWRGa3dGOHYtUUdjQjZO",
+    "badge": "breaking",
+    "at": 1790683336.256428,
+    "country": "팔레스타인",
+    "category": "국제"
+  },
+  {
+    "event_key": "slovakia-school-knife-attack",
+    "topic": "슬로바키아 초등학교서 흉기 난동 교사 사망 및 부상 2명",
+    "slug": "2026-09-29-news-slovakia-school-knife-attack",
+    "cluster": "CBMijwFBVV95cUxQRWZlc1N4TnN5UU9iZ0pPZnl6R1kyclYyOFNwQ2YyZmVRTGVqMTh0amtHU25iTzk0NWZuYlJfTVlvNkNKU2hpNnh4a2MyVF9wSHJHcnNMU1JScHlJTnpnVHcxaVJnb1JRY0xhNmVvMHI5Yzh0V3dlRV9aMUNZTWNkc0pzRkNnOHRkVUxsQXViTQ",
+    "badge": "breaking",
+    "at": 1790683384.6804035,
+    "country": "슬로바키아",
+    "category": "총격·테러"
   }
 ]

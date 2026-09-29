@@ -1,0 +1,130 @@
+{
+  "slug": "2026-09-29-news-israel-gaza-hamas-commander-killed",
+  "topic": "이스라엘군, 가자시티 공습으로 하마스 북가자 사령관 사살",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 18:02 KST",
+  "source": "Al Jazeera·Israel National News·The Jerusalem Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXEFVX3lxTFBUR05pLUh1OGtYSm9LNmZHcExRRGUwUW9tZm1VZVlWRU1BTDhyelVjMHJvQzFEMFVJbXUyamQzbDJQNk5NWWhoc2kxNU8zSWRGa3dGOHYtUUdjQjZO",
+    "related": [
+      [
+        "Hamas official's arrest in Gaza gave Israel intelligence surge to kill top terrorists - exclusive",
+        "The Jerusalem Post"
+      ],
+      [
+        "Hamas northern Gaza commander killed in strike after surviving assassination attempt in May",
+        "Ynetnews"
+      ],
+      [
+        "IDF kills commander of Hamas’s North Gaza Brigade in Gaza City airstrike",
+        "The Times of Israel"
+      ],
+      [
+        "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
+        "Al Jazeera"
+      ],
+      [
+        "'Rot in hell': Liri Albag reacts to captor's elimination",
+        "Israel National News"
+      ]
+    ],
+    "event_key": "israel-gaza-hamas-commander-killed"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘군, 가자시티 공습으로\n하마스 북가자 사령관 사살",
+      "sub": "이스라엘 매체 등은 이번 공습으로 하마스 주요 지휘관이 사망했다고 보도했습니다",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "공습"
+        }
+      ],
+      "alt": "이스라엘군, 가자시티 공습으로 하마스 북가자 사령관 사살",
+      "map": {
+        "lat": 29.2696663,
+        "lon": 91.2419862,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자시티",
+      "video_only": true,
+      "map": {
+        "lat": 29.2696663,
+        "lon": 91.2419862,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자시티"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "하마스 지휘관 사망",
+          "d": "이스라엘군은 가자시티 공습을 통해 하마스 북가자 사령관을 제거했습니다 (타임즈 오브 이스라엘·알자지라)"
+        },
+        {
+          "t": "정보 획득 배경",
+          "d": "가자지구에서 체포된 하마스 관계자의 진술이 군사 작전의 정보 확보로 이어졌다고 외신은 전했습니다 (예루살렘 포스트)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "가자시티 공습",
+        "하마스 사령관 사망"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 민간인 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Israel National News",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "Ynetnews",
+        "2026.09.29 21:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군, 가자시티 공습으로 하마스 북가자 사령관 사살\n\n· 이스라엘군은 가자시티 공습을 통해 하마스 북가자 사령관을 제거했습니다 (타임즈 오브 이스라엘·알자지라)\n· 가자지구에서 체포된 하마스 관계자의 진술이 군사 작전의 정보 확보로 이어졌다고 외신은 전했습니다 (예루살렘 포스트)\n\n이스라엘과 하마스 간의 군사적 충돌이 격화되는 상황에 대해 어떻게 생각하십니까?\n출처: 타임즈 오브 이스라엘·알자지라·예루살렘 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군은 가자시티를 공습해 하마스 북가자 사령관을 사살했다고 타임즈 오브 이스라엘 등이 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 가자지구에서 체포된 하마스 관계자의 진술이 군사 작전의 정보 확보로 이어졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

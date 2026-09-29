@@ -1421,5 +1421,52 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790680192
+  },
+  {
+    "slug": "2026-09-29-news-slovakia-school-knife-attack",
+    "event_ms": 1790674500000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 슬로바키아 초등학교서 흉기 난동 교사 사망 및 부상 2명\n\n· 슬로바키아의 한 초등학교 교실에서 학생이 교사 등을 상대로 흉기를 휘둘렀습니다 (유로뉴스·아나돌루 통신)\n· 이번 사건으로 교사 1명이 숨졌고 2명이 다쳤습니다 (유로뉴스·더 선)\n\n출처: 유로뉴스·아나돌루 통신·더 선 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "슬로바키아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17906804241558774",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd3t2DakcL0",
+        "kind": "carousel",
+        "at": 1790683451
+      },
+      "instagram": {
+        "id": "18167152729478679",
+        "permalink": "https://www.instagram.com/reel/Dd3uNVqFfDG/",
+        "kind": "reel",
+        "at": 1790683658
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1790683687
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790683687
   }
 ]

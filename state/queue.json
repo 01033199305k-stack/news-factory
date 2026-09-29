@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "slug": "2026-09-29-news-israel-gaza-hamas-commander-killed",
+    "event_ms": 1790672535000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘군, 가자시티 공습으로 하마스 북가자 사령관 사살\n\n· 이스라엘군은 가자시티 공습을 통해 하마스 북가자 사령관을 제거했습니다 (타임즈 오브 이스라엘·알자지라)\n· 가자지구에서 체포된 하마스 관계자의 진술이 군사 작전의 정보 확보로 이어졌다고 외신은 전했습니다 (예루살렘 포스트)\n\n이스라엘과 하마스 간의 군사적 충돌이 격화되는 상황에 대해 어떻게 생각하십니까?\n출처: 타임즈 오브 이스라엘·알자지라·예루살렘 포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "instagram": {
+        "id": "17926720707184022",
+        "permalink": "https://www.instagram.com/reel/Dd3uIBljTTj/",
+        "kind": "reel",
+        "at": 1790683615
+      },
+      "youtube": {
+        "id": "sO-c4T5AB8Q",
+        "permalink": "https://youtube.com/shorts/sO-c4T5AB8Q",
+        "kind": "shorts",
+        "at": 1790683677
+      }
+    },
+    "attempts": {
+      "threads": 1
+    },
+    "video": "video.mp4"
+  }
+]
