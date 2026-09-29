@@ -375,5 +375,15 @@
     "at": 1790723206.9866836,
     "country": "푸에르토리코",
     "category": "사고"
+  },
+  {
+    "event_key": "six-flags-x2-rollercoaster-closure",
+    "topic": "식스 플래그스 롤러코스터 영구 폐쇄 결정",
+    "slug": "2026-09-30-news-six-flags-x2-rollercoaster-closure",
+    "cluster": "CBMiXkFVX3lxTFBrS3VLYTU1UjNvT1ZTeHJxWjNQdjI3YVE4QVktakxiTjNoNlpjeEZEVGtpOXpycFZ1azZRYWVIY2VaTDE1VVZjS3JDNHRNME81cnFTNEpwaTA4MHc1MEE",
+    "badge": "breaking",
+    "at": 1790725716.2288072,
+    "country": "미국",
+    "category": "사고"
   }
 ]

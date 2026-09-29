@@ -1,0 +1,134 @@
+{
+  "slug": "2026-09-30-news-six-flags-x2-rollercoaster-closure",
+  "topic": "식스 플래그스 롤러코스터 영구 폐쇄 결정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 07:33 KST",
+  "source": "BBC·The Guardian·ABC7 Los Angeles 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBrS3VLYTU1UjNvT1ZTeHJxWjNQdjI3YVE4QVktakxiTjNoNlpjeEZEVGtpOXpycFZ1azZRYWVIY2VaTDE1VVZjS3JDNHRNME81cnFTNEpwaTA4MHc1MEE",
+    "related": [
+      [
+        "Six Flags shuts down X2 rollercoaster after hundreds allege brain injuries",
+        "BBC"
+      ],
+      [
+        "Six Flags to close world-famous roller coaster after CNN investigation exposed years of injuries and deaths",
+        "edition.cnn.com"
+      ],
+      [
+        "3 new lawsuits allege X2 roller coaster at Six Flags Magic Mountain caused major brain injuries",
+        "ABC7 Los Angeles"
+      ],
+      [
+        "Six Flags Magic Mountain sued over alleged ‘catastrophic brain damage’ from X2 rollercoaster",
+        "The Guardian"
+      ],
+      [
+        "Six Flags permanently shuts down X2 rollercoaster after claims of brain injuries",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "six-flags-x2-rollercoaster-closure"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "식스 플래그스 롤러코스터\n[[영구 폐쇄]] 결정",
+      "sub": "뇌 손상 등 부상 제기 소송 이어져",
+      "chips": [
+        {
+          "k": "놀이기구",
+          "v": "X2"
+        }
+      ],
+      "alt": "식스 플래그스 롤러코스터 영구 폐쇄 결정",
+      "map": {
+        "lat": 34.4131941,
+        "lon": -118.559849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아",
+      "video_only": true,
+      "map": {
+        "lat": 34.4131941,
+        "lon": -118.559849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "뇌 손상 주장",
+          "d": "수백 명의 이용객이 뇌 손상 등 부상을 입었다고 주장했습니다 (BBC)"
+        },
+        {
+          "t": "추가 소송",
+          "d": "최근 3건의 소송이 추가로 제기됐습니다 (ABC7 Los Angeles)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "식스 플래그스 매직 마운틴",
+        "X2 롤러코스터 영구 폐쇄",
+        "이용객 부상 소송 제기"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 부상자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 Los Angeles",
+        "BBC",
+        "The Guardian",
+        "edition.cnn.com",
+        "2026.09.30 08:48 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 식스 플래그스 유명 롤러코스터 X2가 영구 폐쇄됐습니다\n\n· 수백 명의 이용객이 뇌 손상 등 부상을 입었다고 주장했습니다 (BBC)\n· 관련 소송이 이어지며 놀이기구가 완전히 멈춰 섰습니다 (가디언)\n\n출처: BBC·CNN·ABC7·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "식스 플래그스 놀이공원의 유명 롤러코스터 X2가 영구 폐쇄됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 수백 명의 이용객이 뇌 손상 등 심각한 부상을 입었다고 주장했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "잇따른 소송과 조사 끝에 놀이기구 운행이 전면 중단됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
