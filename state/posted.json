@@ -1230,5 +1230,51 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790651783
+  },
+  {
+    "slug": "2026-09-29-news-ukraine-russia-drone-strikes-september-2026",
+    "event_ms": 1790653417000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 러시아의 드론 공습으로 우크라이나 키이우의 과학 아카데미와 주거지 등이 타격을 입었습니다. AP 통신은 이번 공격으로 7명이 사망했다고 보도했습니다. 로이터와 ABC뉴스 등은 지역에 따라 사상자 수가 다르게 집계되고 있다고 전했습니다. 정확한 피해 규모와 상황은 계속 확인되고 있습니다. 출처: 알자지라·뉴욕타임스·AP뉴스·ABC뉴스·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "instagram": {
+        "id": "18349567324284489",
+        "permalink": "https://www.instagram.com/reel/Dd28RYmjMj9/",
+        "kind": "reel",
+        "at": 1790657476
+      },
+      "youtube": {
+        "id": "G9T0-C_aSNc",
+        "permalink": "https://youtube.com/shorts/G9T0-C_aSNc",
+        "kind": "shorts",
+        "at": 1790657606
+      }
+    },
+    "attempts": {
+      "threads": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790657616
   }
 ]

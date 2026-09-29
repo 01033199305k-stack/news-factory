@@ -1,0 +1,141 @@
+{
+  "slug": "2026-09-29-news-ukraine-russia-drone-strikes-september-2026",
+  "topic": "우크라이나 공습 러시아 드론 공격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 12:43 KST",
+  "source": "ABC News·AP News·Al Jazeera 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo",
+    "related": [
+      [
+        "Russia pounds Ukraine’s Kyiv after deadly strike on Academy of Sciences",
+        "Al Jazeera"
+      ],
+      [
+        "Russian Drone Strikes Ukraine’s Science Academy, Causing Fire in City Center",
+        "The New York Times"
+      ],
+      [
+        "Russian drones hammer apartments, offices and a cultural landmark in Ukraine, killing 7",
+        "AP News"
+      ],
+      [
+        "Strikes kill 6 in Ukraine after Moscow rejects German calls to de-escalate",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Russian drones kill two in market outside Kyiv, three others in different regions, officials say",
+        "Reuters"
+      ]
+    ],
+    "event_key": "ukraine-russia-drone-strikes-september-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 공습\n[[러시아 드론]] 공격",
+      "sub": "러시아 드론 공습으로 우크라이나에서 사상자 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "7명 (AP)"
+        }
+      ],
+      "alt": "우크라이나 공습 러시아 드론 공격",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "과학 아카데미 피격",
+          "d": "알자지라 등은 키이우의 과학 아카데미가 러시아의 공습을 받았다고 전했습니다."
+        },
+        {
+          "t": "주거지 및 시장 피해",
+          "d": "아파트와 시장 등이 공격을 받아 사망자가 발생했습니다."
+        },
+        {
+          "t": "사상자 규모 확인",
+          "d": "매체별 집계 차이가 있습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 드론의 우크라이나 공습 발생 (AP·로이터·알자지라·뉴욕타임스·ABC뉴스)",
+        "키이우 과학 아카데미 피격 (알자지라·뉴욕타임스)",
+        "사망자 7명 (AP 통신)"
+      ],
+      "unconfirmed": [
+        "전체 사상자 및 지역별 피해 규모 매체별 집계 차이 있음"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "Al Jazeera",
+        "Reuters",
+        "The New York Times",
+        "2026.09.29 13:48 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아의 드론 공습으로 우크라이나 키이우의 과학 아카데미와 주거지 등이 타격을 입었습니다. AP 통신은 이번 공격으로 7명이 사망했다고 보도했습니다. 로이터와 ABC뉴스 등은 지역에 따라 사상자 수가 다르게 집계되고 있다고 전했습니다. 정확한 피해 규모와 상황은 계속 확인되고 있습니다. 출처: 알자지라·뉴욕타임스·AP뉴스·ABC뉴스·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아의 드론 공습이 우크라이나를 타격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "키이우의 과학 아카데미와 주거지 등이 공격을 받았습니다.",
+      "card": "map"
+    },
+    {
+      "text": "AP 통신은 이번 공격으로 7명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 전체 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
