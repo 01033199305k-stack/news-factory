@@ -3,13 +3,15 @@
     "event_key": "uk-airbase-explosives-arrest",
     "topic": "영국 미군기지 인근 폭발물 혐의 수명 체포",
     "slug": "2026-09-27-news-uk-airbase-explosives-arrest",
-    "at": 1790508565.5994918
+    "at": 1790508565.5994918,
+    "country": "영국"
   },
   {
     "event_key": "south-africa-mass-shootings",
     "topic": "남아공 총기 난사 최소 27명 사망",
     "slug": "2026-09-27-news-south-africa-mass-shootings",
-    "at": 1790508577.7256496
+    "at": 1790508577.7256496,
+    "country": "남아프리카공화국"
   },
   {
     "event_key": "us-noreaster-storm-emergency",
@@ -17,7 +19,8 @@
     "slug": "2026-09-27-news-us-noreaster-storm-emergency",
     "cluster": "CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA",
     "badge": "breaking",
-    "at": 1790514869.0198963
+    "at": 1790514869.0198963,
+    "country": "미국"
   },
   {
     "event_key": "thailand-bangkok-flood-disaster",
@@ -25,7 +28,8 @@
     "slug": "2026-09-27-news-thailand-bangkok-flood-disaster",
     "cluster": "CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM",
     "badge": "breaking",
-    "at": 1790519151.2484045
+    "at": 1790519151.2484045,
+    "country": "태국"
   },
   {
     "event_key": "greece-athens-building-explosion",
@@ -33,7 +37,8 @@
     "slug": "2026-09-27-news-greece-athens-building-explosion",
     "cluster": "CBMitgFBVV95cUxOc1VyQmc1ejZvR19GbjlPc1I4YWROSFA4TWRSbEZTNkRtWEQyNVJhSE5qUjFyd21zWkdtXzVqN05LYnVKaDNqUWNxZHloSW9tM1Q4YTA4dlQyb203ZklHU29pb1hmRTRtQVJ6N2ljTTlBbmdLbm9GcVNrZWZrZ3FkaE45QWdrNVVzbVBRVUE0a2s0c0pxUDhDLUlvX2pGTEIwVUJtVXdHZzZaUVo0a0xseFN6THprZ9IBuwFBVV95cUxPQk1QV192bDJoV3N2cXAxWURDZDQwMUUtUmM5enc0M0Vmd25BNWVUSzFOQVRiQUV1UnhfanFIZjVuNFdTdlJWVE05MHpST2k0emhJYmF6aXljaVgwazY4ZEoyamZQWW1yR2I0NDhld0hNckZiUEJmeU5IYnhsTlVrNzZKYjFraS1hUFJaWmZEcjVZOHc4blJOMGE5Z2l5SWxDZmdkVmFOVkUxTGtrZTY5Sy03R3oxZjZGaVFj",
     "badge": "breaking",
-    "at": 1790520731.295448
+    "at": 1790520731.295448,
+    "country": "그리스"
   },
   {
     "event_key": "nepal-himlung-avalanche",
@@ -41,7 +46,8 @@
     "slug": "2026-09-27-news-nepal-himlung-avalanche",
     "cluster": "CBMiW0FVX3lxTE5oWW9BZEpRcFB4aTYzUnltYU9waE9VT05TQmRSaHpYSnJrZ0JUNV83YzFRSU5FTXI3RXZISGpuUzVMOF9vYlVZUXExclRFSm1BclZsVzZ1cWNIQ0E",
     "badge": "breaking",
-    "at": 1790520811.2099922
+    "at": 1790520811.2099922,
+    "country": "네팔"
   },
   {
     "event_key": "israel-drakon-submarine",
@@ -49,7 +55,8 @@
     "slug": "2026-09-28-news-israel-drakon-submarine",
     "cluster": "CBMirAFBVV95cUxPd3dIWGZ4RVZEOVdPanhsa3F0cmowQXhYRHJ6SHkzS19MU0RwTVh6Wk5GZ3JLNDVrTkZLSTJRclk4d2N0SVRMM3VDazIyRFp5MkJJaU13QkU3M2JRaFg1VC1udk1mSlVLdmItbUZ3V1J0RjRlZmF1aUJ1YkpvWjdIOVJtM3hYMC1wdGV6bURpaDhOQzVxXzItWG9kQVpZeFYwTjlVWllBLVRWZ0lw0gGyAUFVX3lxTE5obU1LeFNsZ09mYXhsbHlWZFBGZ3NaTVUyMDNMclgwbnJ6QnBjM19Jd1Uwa29yZmw5U1BHWFZuOFFWNWNPT3FlRmlvNVJtQkhFZjRDemxGZEh0T3BKeEVKV3plTHdhVE9hRkw4eTQ4VWd5a0dQYXVLM2hRRS0yMWlFbVlUTHRJak9va2ZlcldjcTFPdFJRWkkwTE9FeDdCWG16ejdlRGFMUG8xeHYyZ0tBVUE",
     "badge": "brief",
-    "at": 1790536213.1090307
+    "at": 1790536213.1090307,
+    "country": "이스라엘"
   },
   {
     "event_key": "us-georgia-macon-park-shooting",
@@ -57,7 +64,8 @@
     "slug": "2026-09-28-news-us-georgia-macon-park-shooting",
     "cluster": "CBMioAFBVV95cUxOLUFnTTVqRGI4TXNnbGRNZEQ3TVRtbmdkY2xQS0dZWk1MWWctSlllOGoxMHEzUHZGLXVJYUtKMnI5eGhyTzNzaWxpSTBIYzd2dlM2UmxST1Y5amMxUkhwV19PSkxseDIteHotRnoyQ0lTUHhyWjRSYi1NNWo3UWdQc1JvRldBaXZtV3IxekgzYXhzU3ltVFhCVTRZTFlMSmt3",
     "badge": "breaking",
-    "at": 1790543725.300108
+    "at": 1790543725.300108,
+    "country": "미국"
   },
   {
     "event_key": "finland-sweden-russia-jets-intercept",
@@ -65,7 +73,8 @@
     "slug": "2026-09-28-news-finland-sweden-russia-jets-intercept",
     "cluster": "CBMiqAFBVV95cUxOZ3kycy0yZXNQNC1uMUFhMjh3dDRHNTIzRUZ1MlpjNjZxMU5jUWpKaUVvdGVCa1pIZnFIb2hBODEwdWxEU0U4LWFscWJSX1J6bmFQT0x1YTIzRGJTcnJKdTUxcG9nQ2c0amg0ckYtd1pIZDRWY2hVcTAwVlRLSjQ4YXhRbGlYVlRDVS1LTHlBZkhWZk4zNDBLZ0RBM19wWjJ2bEdpdngyS3bSAa4BQVVfeXFMTzdzY2lHUHFDSHFGcFNDczl2QjlyMmFucnVaa3RlUGVmLVBvQUtKV3pNNERxdEIzQkdBZ01fSGZ1UmNvSEFXdS16dHJsem5xTnlQVWRPWWlCV3ROMFlQREViWk1qQWhZdWJtOTcxaVFlUjJ2WUt3aFJvenBDME10UzlEbU1XQUI2N1RpRy1ZZVAySnB0eTJUNU1DOE54Zmt1ZEFsbUQxZzBWZE1VMnZn",
     "badge": "brief",
-    "at": 1790550875.6723547
+    "at": 1790550875.6723547,
+    "country": "핀란드"
   },
   {
     "event_key": "ukraine-russia-strikes-fatalities",
@@ -73,7 +82,8 @@
     "slug": "2026-09-28-news-ukraine-russia-strikes-fatalities",
     "cluster": "CBMiswFBVV95cUxOUVF1UXZ0clUzdWpxRktGWjFjUGsxajFzZFp4eVNrNlctejhTQWZxRDFuYXd6SnA0bWhrVnVaTjZRLXJMR2VxUkdweVdiZ2FJaWpzUjVfZFhBVWgzTUx2emVTSVdwYko3Yy1WOU16bWVyZmw0OHpKQzZpX1JWa2tsOXRKYUl3ekVlUzE1MEh4eU9UWktidi1Cd1pfRkN2VmZ6QTFxMDRxblR3NkxYMHhjN1NaQQ",
     "badge": "brief",
-    "at": 1790557737.6664617
+    "at": 1790557737.6664617,
+    "country": "우크라이나"
   },
   {
     "event_key": "us-iran-ceasefire-rejected",
@@ -81,7 +91,8 @@
     "slug": "2026-09-28-news-us-iran-ceasefire-rejected",
     "cluster": "CBMisgFBVV95cUxOVnV3N3NCRjFTNUdJSktYbnNrdUZqVEMwTS1KZU5MVTRUakpwajVZU21IdHd4ei1UdmZ5UG8yS210dVFQdWVIeFAtSlNQMGN1emhSMDM3SDdFalQ4NUpWaXNlVERWbUE0TXBRMHZHRlJLaEJDeVBET2UyclVScjJBYWl1NjNxVlBMX3piN0pVUERHUkFTd3JsUDZnR01kYlZibnJEM0pQeVk4Q0pvMWRzZjd30gG6AUFVX3lxTE1DRGhIVlRHUlFpbldXdXVlcWVwMTlvWk5uX2F4VkRoMndHT3k3dlY3TVQtVjlycGNMWExyNnFPaHBMR3E4dG9DOC1Rc3RKSlZmTHNScUk3WjduUW5DLUJvTThWanNyakJzZXZ5bktidUtna0c5dGNzUWlqTjVWcVBQamZvaFJ1VHc3TzB0TFRWV285RkRuNlk2RHc5WXVFUHNoQWxvdGtQSXByOU1TZnczdWdHdW8tNVJ3dw",
     "badge": "brief",
-    "at": 1790568756.2490828
+    "at": 1790568756.2490828,
+    "country": "이란"
   },
   {
     "event_key": "korea-ukraine-pow-dispute",
@@ -89,7 +100,8 @@
     "slug": "2026-09-28-news-korea-ukraine-pow-dispute",
     "cluster": "CBMixAFBVV95cUxPMHlVZ1pJa2tIQ0IwdjdldEdtWWQ0QmdMN0R4YzYtOXFFU21jRTNnWGNIa1RZeG5JUlJ6WGhfZnJxLUhnX2pKNXl5a0pQWjVIVXJ3WU5ZMmRDMUp4Vm5ka2RpNWt2TG94cUpGVnEtWXJXV2Q1ejBVZVM0X3FvNXpuZ0tlekQ5UzZOWVZ0SUhublVOcERjYmVrc2taM3BWb2Z0d3ZrajFONTFraTFDaDZOX1JUd29wcmt5cUgxZ0ROM3BjQURY",
     "badge": "brief",
-    "at": 1790575790.498786
+    "at": 1790575790.498786,
+    "country": "우크라이나"
   },
   {
     "event_key": "spacex-starship-orbital-flight",
@@ -97,7 +109,8 @@
     "slug": "2026-09-28-news-spacex-starship-orbital-flight",
     "cluster": "CBMiogFBVV95cUxPc2RkMkI4ZlBkTUhDYWZkZVBWa0M1c2JVZ2NMS1FuMkhqa3RjSERxMi1XWXNLUkNJZTNJaUMzZ2hJbWtGV19ES1RJazJ2YlVLTGpGQnpEcFFPaENXeUdyUVZZUlJkT1hJUWVISjhHQW5wb0JueUR3QjJoS3dXS3lBeUktQTAzLWN6TGd6VjVIem9EZ1IwekdLaUtHNFJtNHhkclHSAacBQVVfeXFMTy1yTXk1Qk0wcEZ2QnhELWJQOVZtaEZFUHozUFd6TnNqNjFmNTVaNW1qRk41Yi1GeW8tZXhXMnlhZjVUQWFsSzJPZEVvNUtONjQxVTlsRkItbUI3aHVtVUtsdl9QbWJxSWxKd3FYcGhNR3Fkb3JtZTFxNXpRaGlHRTJZdGlwbE5CNzF5bkZmbjcxSlN5LUNqNVJYZ1Fvc3NhUzNaN1U3cWs",
     "badge": "brief",
-    "at": 1790583195.6464212
+    "at": 1790583195.6464212,
+    "country": "미국"
   },
   {
     "event_key": "nepal-floods-landslides-september",
@@ -105,7 +118,8 @@
     "slug": "2026-09-28-news-nepal-floods-landslides-september",
     "cluster": "CBMixAFBVV95cUxPbWlfNXk0cVNGTFktaF80akNVejJRX1pMMUJKdWpPRDdIOS1sZ1lkbzRsY0dLSFBGVENLU2pZZ3NoSF9IQ25JR2NhMTdTbHRnZElBbkpKYUpjZG1FMzZwN3B6aF80RUhPcFdGZlEtT2xRNzc3ellTd0RmdEZDaHMxS2VvUm50OFlFUkZnVkVwOHNUZnRmMG51TUpPa1lBUmZsbDJWTG5EeEYyMXM3c1lSTjBKcFhDVXlaZmFEaUFkRk9mcGs50gHMAUFVX3lxTE1UUVFvaVNMenhYTUxnc19CSU1tMEJFQkhOLURTc1JvUFVqZW96MGk5WEpnaGlKUHlpcW01TDhOODNXVDI2T3k5dUZxVUFWMEp3WjFBTWVMYllKNndyV2wzd3VKSVJVV2tmc0xUTldQdlo1X0pLQXJOZFFjSDFCQjBFZmdrVGE4N3VIRlAzWHZMaUd5R09ZWWRtcEh0elh0MXU2Z0s0d2VxcE5Wa09IczY4UGtPd0tFdnY0SXBUNzFTRVRSV0ZVcUZGNnVqcg",
     "badge": "breaking",
-    "at": 1790597843.2503524
+    "at": 1790597843.2503524,
+    "country": "네팔"
   },
   {
     "event_key": "mexico-hurricane-polo",
@@ -113,7 +127,8 @@
     "slug": "2026-09-28-news-mexico-hurricane-polo",
     "cluster": "CBMiXkFVX3lxTE8zUlFqOTNsWm9QWHdKc1FXdG5URGRHOHRjWlpDeUhhTU85NktyMmxhaktHdVM4RkZNemZxb0dDYmdYLThpZU9JWlFaSnhJNU9IdXEtNW0wT2x5Vl9vZkE",
     "badge": "breaking",
-    "at": 1790598569.2879353
+    "at": 1790598569.2879353,
+    "country": "멕시코"
   },
   {
     "event_key": "nepal-baglung-landslides",
@@ -121,7 +136,8 @@
     "slug": "2026-09-28-news-nepal-baglung-landslides",
     "cluster": "CBMi9gFBVV95cUxPSjA3My0ycEcyOHRRcEdJTEd0enlrTkpWUTVxNlZ6bm8wX0VTMlZhNWV4dnliblhnSW9EbF9rSVpDa2E0dURPQWt5U1ZDSUtUek5TelUtOXZlYVM4aFlYQWRUdFQzMm5abjRkZnNZdjgyUVFqMG9xMkZMTTkzUjVYZTFDV045bEdlODJYUktxR3lheEtFNjZpMTcyX1hndnEzQzI1OVpuUWo4WmJnQmNzQlN6UVR3cVpiRlhXdVBhUnQza2IzU2RFalNPZkpoLWhfWXJNV1JBbTlJckNYeDdWdEMwNmI1U1F2MzVFSDlqXzNwZW1QbUE",
     "badge": "breaking",
-    "at": 1790604758.070644
+    "at": 1790604758.070644,
+    "country": "네팔"
   },
   {
     "event_key": "english-channel-crossing-deaths",
@@ -129,7 +145,8 @@
     "slug": "2026-09-28-news-english-channel-crossing-deaths",
     "cluster": "CBMiW0FVX3lxTFBZLXJaVGU4V0pWaGdGc0tRM1Z3N0stNmRaLUcwYlJpN2o2NE11WUJlcWI2QXJ3ZWhBMUNDdGFkSWFLZTB4NFBiTWxjRHQ2MEhXRThhNG0yVkFQWHM",
     "badge": "breaking",
-    "at": 1790606182.0561666
+    "at": 1790606182.0561666,
+    "country": "영국/프랑스"
   },
   {
     "event_key": "florida-dengue-outbreak",
@@ -137,7 +154,8 @@
     "slug": "2026-09-28-news-florida-dengue-outbreak",
     "cluster": "CBMiqwFBVV95cUxNazJreW85RWp3U1RBQ0t6UGFSODB3WTJmUWhPa1dnOEVodl9tSndUaDMyLVRRVXNJeG90blVnd3FfTHpRN25VTlM1cmRiQ0pBYUpscUt1WlFtV3dOdTBBR3YwSUhNcXk4NjlYdjRvMlJtamgzUndPTF9EWGRlRVNvTVlZRWJJU04zcmFhRVl4M0RjajN1MEM2LWlZVTFzc21xWmk3eG50b1JmV28",
     "badge": "breaking",
-    "at": 1790609026.189258
+    "at": 1790609026.189258,
+    "country": "미국"
   },
   {
     "event_key": "ukraine-russia-strikes-september-2026",
@@ -145,7 +163,8 @@
     "slug": "2026-09-28-news-ukraine-russia-strikes-september-2026",
     "cluster": "CBMikAFBVV95cUxOazQ5UWJIVnlyMkh2TjNmaW9vRnZCNHBSc0NtZGVuYlpxOE9KN2ZJRjdVQWdvRFdVcVRYSGVSdGtOZnQwM05GZTJHUmdkNDRfS2VoQk1oLU9Ha0ZjZkt2cDItdHh1Q0llTGhHd29zUmdpQXYwdmpZbmpqWXJzUUhIRVF5ZTBjMnpfVHRSVW05UVo",
     "badge": "breaking",
-    "at": 1790610317.139799
+    "at": 1790610317.139799,
+    "country": "우크라이나"
   },
   {
     "event_key": "russia-strike-kyiv-science-academy",
@@ -153,7 +172,8 @@
     "slug": "2026-09-29-news-russia-strike-kyiv-science-academy",
     "cluster": "CBMingFBVV95cUxNQXlEc0NVNnBQc3ZwOVhQZVhDdU1ZbXE3LWZIcEVFRkVJRDZ1QzlBRzBCMVZUcXlUNXlGS0NlSnRJYUVWQTZyMnJRTW9oejBVN2JzdUtKNTFpa3JjQ3ZjaFVjOVFaRFFrN0hWa29GalhvUE5pOWN0MldpWnFncEVDRlQ2d3RKc3hkVUxQWU9GdmMtYURWeEtLQ3hCa3JSZw",
     "badge": "breaking",
-    "at": 1790615326.9555779
+    "at": 1790615326.9555779,
+    "country": "우크라이나"
   },
   {
     "event_key": "alderney-woman-body-found",
@@ -161,7 +181,8 @@
     "slug": "2026-09-29-news-alderney-woman-body-found",
     "cluster": "CBMiqAFBVV95cUxOdVZaaTQ1Yldrc3RDN0ZyZ184OTFfLVdMYXgzYk1BakdGb2hqOC05WHZkSjFzZ2otUHIxSzd2MUNyS1Z3eGk0RTlHYlY4TUdnVXpzQ2hBUjliRl9lQV9EbllwX3BoSEIwVnJZa0ZKN3RvMmpKQk1JSU5hbWt0TURCWm5XeTBUZFVnelBmOFlUWGdSWUhveENheUhXajlWRXkwMk9oTjhIeWE",
     "badge": "breaking",
-    "at": 1790618443.495229
+    "at": 1790618443.495229,
+    "country": "영국"
   },
   {
     "event_key": "south-africa-women-bodies-found",
@@ -169,7 +190,8 @@
     "slug": "2026-09-29-news-south-africa-women-bodies-found",
     "cluster": "CBMiW0FVX3lxTE16RG9hNW1OZ0wzUDRUdGJ1T1dZdmkxd0lrUUN6Rm1uaC04YWJfQkxPUTNiWXNFTTlqZ212OE83ZjRwbTdlWW85UXNFbGVZTTFmVnIzVWk4UTJTalU",
     "badge": "breaking",
-    "at": 1790620080.8485026
+    "at": 1790620080.8485026,
+    "country": "남아프리카공화국"
   },
   {
     "event_key": "spacex-starship-orbital-flight-test",
@@ -177,7 +199,8 @@
     "slug": "2026-09-29-news-spacex-starship-orbital-flight-test",
     "cluster": "CBMikwFBVV95cUxQV2tOX3hqcjgtWDYwbllnSXM3RF9HZFNwczdjZlE3Q1NhZnRfZmVQTG9VOEV1Y3BlR0YtdFpmX3hwYjVCYUNBaTRXV3RwYk1YcE5mTzlmR3FuVlUyNmlWMk9ZV0lSZi1LVzQ5QWRydWluZk4yMUFQVDNVLTd2b18yNWxqZmluWVo5RC1rSm10eGFYWEE",
     "badge": "brief",
-    "at": 1790629982.48667
+    "at": 1790629982.48667,
+    "country": "미국"
   },
   {
     "event_key": "myanmar-military-rakhine-strike",
@@ -185,7 +208,8 @@
     "slug": "2026-09-29-news-myanmar-military-rakhine-strike",
     "cluster": "CBMimgFBVV95cUxNQ2VKLXZUQlpCelJoUV9mQ0R5ckUwREFUZ1dsTVRveDFMRnFBY2tTdVlaQmppbGdrS3J0cE9IdkxEa0xJeF8ta3ZBRXpOWXE5S2p5TF84a3R4MVphb1dmWi1HNVdTNmZmcTBOOUQzbDQxU3ZLOGk0bWotaEpHbG5kZXpOa1ZOeXVia2swdkN1M3oyOUZHdFVlRFVR0gGfAUFVX3lxTE9LUmNGMWc4bFJuYkhYaDdZXzkwWDhGYXNfY0FWc25JX3FweW5xMnNQdTFJNnFrYlhpUUZINXVEc1RfSnExYmowd01tZWoxTXMzSFNiTmwwZ19jZVE3YVUxcnN4QkVOUWI2WGNWd0h3Q083dGt5M2Rfc21aUDdNLWxtRUtpaG5fYTl4bklKaGJuYUdjVlF3ZDROSV9YYkJ5cw",
     "badge": "brief",
-    "at": 1790637185.3098042
+    "at": 1790637185.3098042,
+    "country": "미얀마"
   },
   {
     "event_key": "italy-egypt-regeni-verdict",
@@ -193,7 +217,8 @@
     "slug": "2026-09-29-news-italy-egypt-regeni-verdict",
     "cluster": "CBMijwFBVV95cUxPRDFzV1IzRUxOOHl4R3NXR2swanNDTnhtRkZBeUtrYUtjVzhZUHVmQ3lOLWE3V1JSOTU2NnpDRTN4U3NjMVJLRHZjdEdwZ1p3MzZuZVBZdjc5aXlOTWpLOGJzWnR1cmV6V25kcnV3dTVQcXhSZDBVNzVpX3pkeHFzb3hFNnZtOTdtQmlnVl83OA",
     "badge": "brief",
-    "at": 1790644406.3356514
+    "at": 1790644406.3356514,
+    "country": "이탈리아"
   },
   {
     "event_key": "openai-safety-model-cancellation",
@@ -201,7 +226,8 @@
     "slug": "2026-09-29-news-openai-safety-model-cancellation",
     "cluster": "CBMiXkFVX3lxTFBoUlV2OXF6UjM4MGkxYVd6aEl3MS1lMjRaNS1mZmE2Sl9CR0VKcUs0YndBOThyeThZc0pYdFdPNmlNWmdrRlhRbVdBX21TamdMelBlcWIyWnZqQWo2aWc",
     "badge": "brief",
-    "at": 1790651576.8797255
+    "at": 1790651576.8797255,
+    "country": "미국"
   },
   {
     "event_key": "ukraine-russia-drone-strikes-september-2026",
@@ -209,7 +235,8 @@
     "slug": "2026-09-29-news-ukraine-russia-drone-strikes-september-2026",
     "cluster": "CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo",
     "badge": "breaking",
-    "at": 1790657303.7127633
+    "at": 1790657303.7127633,
+    "country": "우크라이나"
   },
   {
     "event_key": "uk-airbase-terror-plot",
@@ -217,7 +244,8 @@
     "slug": "2026-09-29-news-uk-airbase-terror-plot",
     "cluster": "CBMinwFBVV95cUxPZFlBWXJMQUx0QTdSNGw0RzhuX09HZWhrTFVRNjB5ODJIWmwwUFJQeWJOVnFySFpycFN1VHB3T2pDN2RxT0gwQkRXVjN4T2RYVXAzV0dCVnRxTW1KdFQ4U2ZYUGg4Y0I0Vk9iaUxsVlhLYjgwLUhGZHFJbDhPRjJTSHpubWRLWElDZnR0Z0w4R242UlBOWm42RGpSeWNGcmc",
     "badge": "breaking",
-    "at": 1790662237.2072723
+    "at": 1790662237.2072723,
+    "country": "영국"
   },
   {
     "event_key": "australia-rba-rate-hike-september",
@@ -225,6 +253,7 @@
     "slug": "2026-09-29-news-australia-rba-rate-hike-september",
     "cluster": "CBMivwFBVV95cUxQUEpMUGVtUXlxZGtWNWtrdDNFai0tdHBpenJDS05VV25sc3UwV1AyckgwdENlMzNFV0RxUzdGenRVbm5KR0dvVENPUEVQZ1QzVFJjd1pac3d1Y2JJWHI2RWZtbXpwbHpWTHY1ajM0VkZ2dHEtV2FjeGNwUDBsLWNjV0RTSlVvTWlmTk5pcmNHNWcyY1o3YVNaZUw4Qng0N3Ixam9vNnhuTnpMVlRlZkkwTGtYOTdUWHE5OWlPcjUzdw",
     "badge": "brief",
-    "at": 1790669445.470737
+    "at": 1790669445.470737,
+    "country": "호주"
   }
 ]
