@@ -365,5 +365,15 @@
     "at": 1790716993.1961305,
     "country": "아일랜드",
     "category": "사고"
+  },
+  {
+    "event_key": "puerto-rico-boat-capsizes",
+    "topic": "푸에르토리코 인근서 보트 전복 사망 3명·실종자 수색",
+    "slug": "2026-09-30-news-puerto-rico-boat-capsizes",
+    "cluster": "CBMid0FVX3lxTE50cmx1XzJ6UzhhbE5WV3g1aG5CWWNKYzZfSUYxMkpHa21ySHlhb0xZeFFKcXhLcEt4Z3JFQmVlZTVwTUtEZ0lvalhxOXZITFppUnhyM3hIbzh6aXdEcGNOdGd2VWhhbDdXNjB3V0IxdXB1bGpUR0NN",
+    "badge": "brief",
+    "at": 1790723206.9866836,
+    "country": "푸에르토리코",
+    "category": "사고"
   }
 ]

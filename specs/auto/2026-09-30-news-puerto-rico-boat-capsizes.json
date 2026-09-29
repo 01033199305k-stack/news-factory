@@ -1,0 +1,148 @@
+{
+  "slug": "2026-09-30-news-puerto-rico-boat-capsizes",
+  "topic": "푸에르토리코 인근서 보트 전복 사망 3명·실종자 수색",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 03:07 KST",
+  "source": "ABC News·AP News·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE50cmx1XzJ6UzhhbE5WV3g1aG5CWWNKYzZfSUYxMkpHa21ySHlhb0xZeFFKcXhLcEt4Z3JFQmVlZTVwTUtEZ0lvalhxOXZITFppUnhyM3hIbzh6aXdEcGNOdGd2VWhhbDdXNjB3V0IxdXB1bGpUR0NN",
+    "related": [
+      [
+        "Coast Guard Searches for Passengers From Capsized Boat Near Puerto Rico",
+        "The New York Times"
+      ],
+      [
+        "3 dead, 10 missing after makeshift vessel capsizes near Puerto Rican island: USCG",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "40 people rescued and several missing after boat capsizes in waters west of Puerto Rico",
+        "Yahoo"
+      ],
+      [
+        "Coast Guard rescues 40 after machete fight breaks out on boat",
+        "ABC7 WWSB"
+      ],
+      [
+        "More survivors and victims found after boat carrying 62 capsizes near Puerto Rico",
+        "AP News"
+      ]
+    ],
+    "event_key": "puerto-rico-boat-capsizes"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "푸에르토리코 인근서 보트 전복\n[[사망 3명]]·실종자 수색",
+      "sub": "보트 전복 사고로 40명 구조",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "3명"
+        },
+        {
+          "k": "실종",
+          "v": "10명"
+        },
+        {
+          "k": "구조",
+          "v": "40명"
+        }
+      ],
+      "alt": "푸에르토리코 인근서 보트 전복 사망 3명·실종자 수색",
+      "map": {
+        "lat": 18.2247706,
+        "lon": -66.4858295,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "푸에르토리코"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "푸에르토리코\n푸에르토리코 인근 해역",
+      "video_only": true,
+      "map": {
+        "lat": 18.2247706,
+        "lon": -66.4858295,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "푸에르토리코 인근 해역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망·실종 발생",
+          "d": "미국 해경은 인근 해역에서 보트 전복으로 3명이 숨지고 10명이 실종됐다고 밝혔습니다 (ABC뉴스)."
+        },
+        {
+          "t": "구조 작업",
+          "d": "사고 해역에서 40명이 구조됐으며 수색 작업이 이어지고 있습니다 (야후뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "보트 전복 사고 발생",
+        "사망 3명 및 구조 40명",
+        "실종자 수색 진행 중"
+      ],
+      "unconfirmed": [
+        "정확한 실종자 수",
+        "한국인 피해 여부",
+        "사고 상세 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "ABC7 WWSB",
+        "AP News",
+        "The New York Times",
+        "Yahoo",
+        "2026.09.30 08:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 푸에르토리코 인근 해역서 보트 전복\n\n· 미국 해경은 보트가 전복돼 3명이 숨지고 10명이 실종됐다고 밝혔습니다 (ABC뉴스)\n· 사고 해역에서 40명이 구조됐으며 수색 작업이 진행되고 있습니다 (야후뉴스)\n\n한국인 피해 여부는 아직 확인되지 않았습니다.\n\n출처: ABC뉴스·야후뉴스·AP통신·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "푸에르토리코 인근 해역에서 보트가 전복되는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "ABC 뉴스는 이번 사고로 3명이 숨지고 10명이 실종됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해경은 사고 해역에서 40명을 구조하고 실종자 수색을 이어가고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부와 정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
