@@ -1372,5 +1372,54 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790669856
+  },
+  {
+    "slug": "2026-09-29-news-netanyahu-uae-visit-september-2026",
+    "event_ms": 1790679976120,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 네타냐후 이스라엘 총리, 아부다비 비공개 방문해 아랍에미리트 지도자와 회동 (AP·알자지라)\n\n· 사우디아라비아와 요르단, 모로코 대표단도 회의에 참석했습니다 (i24NEWS)\n· 네타냐후 총리는 아랍에미리트 지도자에게 경고 보도에 대한 부인을 요청했습니다 (Middle East Eye)\n\n중동 외교 지형에 어떤 변화를 가져올 것으로 보십니까?\n\n출처: AP통신·알자지라·뉴욕타임스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "아랍에미리트"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119461861947650",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd3nUD7FFmW",
+        "kind": "carousel",
+        "at": 1790680021
+      },
+      "instagram": {
+        "id": "18074956256453180",
+        "permalink": "https://www.instagram.com/reel/Dd3njDmEaMV/",
+        "kind": "reel",
+        "at": 1790680165
+      },
+      "youtube": {
+        "id": "1WRD1KWUM3I",
+        "permalink": "https://youtube.com/shorts/1WRD1KWUM3I",
+        "kind": "shorts",
+        "at": 1790680182
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790680192
   }
 ]

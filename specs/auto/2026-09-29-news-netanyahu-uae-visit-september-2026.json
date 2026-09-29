@@ -1,0 +1,143 @@
+{
+  "slug": "2026-09-29-news-netanyahu-uae-visit-september-2026",
+  "topic": "이스라엘 총리, 아부다비 비공개 방문 아랍에미리트 지도자와 회동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 17:52 KST",
+  "source": "Al Jazeera·AP News·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirwFBVV95cUxOMF9lY1AwcnVnQzNGMjBiZ3djaXVzaXVJSm5FUHRrZExVRVNMbF9qeVZkVVhGdkMxU0FLb0ZnLXB0VHhYeDhxUGxkLXVnelVNMHVFX0tMcTFCQVQ1Y0VQUEZfU210SDNkVndPWlVMSnNxbm1ZUFNZQ1hyU01xbTd2aGVaSVM3WmdRZHBwTjF3M2tXN01kcV9WWGJtWVBwX3hLaEQ5ZzhLdVZiVlBfN3pF",
+    "related": [
+      [
+        "Netanyahu asked UAE leader to publicly deny 7 October 2023 warning to Israel: Report",
+        "middleeasteye.net"
+      ],
+      [
+        "Netanyahu meets Emirati leader in a secret weekend trip to Abu Dhabi, and other Mideast developments",
+        "apnews.com"
+      ],
+      [
+        "UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi",
+        "Al Jazeera"
+      ],
+      [
+        "Netanyahu Visits Emirati Leader After Reports on Warning About Hamas Attack",
+        "nytimes.com"
+      ],
+      [
+        "Netanyahu–Mohammed bin Zayed meeting: Representatives from Saudi Arabia, Jordan and Morocco attend",
+        "i24NEWS"
+      ]
+    ],
+    "event_key": "netanyahu-uae-visit-september-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이스라엘 총리, 아부다비 비공개 방문\n아랍에미리트 지도자와 [[회동]]",
+      "sub": "사우디·요르단·모로코 대표단도 회의에 참석했습니다.",
+      "chips": [
+        {
+          "k": "방문",
+          "v": "비공개 회동"
+        }
+      ],
+      "alt": "이스라엘 총리, 아부다비 비공개 방문 아랍에미리트 지도자와 회동",
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n아부다비",
+      "video_only": true,
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아부다비"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "아랍에미리트 방문",
+          "d": "네타냐후 이스라엘 총리가 아부다비를 방문했다고 AP통신 등이 보도했습니다."
+        },
+        {
+          "t": "참석 국가",
+          "d": "사우디아라비아와 요르단, 모로코 대표단도 자리에 함께했습니다."
+        },
+        {
+          "t": "요청 사항",
+          "d": "네타냐후 총리는 아랍에미리트 지도자에게 경고 보도에 대한 부인을 요청한 것으로 전해졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "네타냐후 총리의 아부다비 방문",
+        "아랍에미리트 지도자 회동",
+        "주변국 대표단 참석"
+      ],
+      "unconfirmed": [
+        "회동의 구체적인 합의 내용",
+        "추가 외교 후속 조치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "apnews.com",
+        "i24NEWS",
+        "middleeasteye.net",
+        "nytimes.com",
+        "2026.09.29 20:05 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 네타냐후 이스라엘 총리, 아부다비 비공개 방문해 아랍에미리트 지도자와 회동 (AP·알자지라)\n\n· 사우디아라비아와 요르단, 모로코 대표단도 회의에 참석했습니다 (i24NEWS)\n· 네타냐후 총리는 아랍에미리트 지도자에게 경고 보도에 대한 부인을 요청했습니다 (Middle East Eye)\n\n중동 외교 지형에 어떤 변화를 가져올 것으로 보십니까?\n\n출처: AP통신·알자지라·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "네타냐후 이스라엘 총리가 아부다비를 비공개로 방문했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 총리가 아랍에미리트 지도자와 회동했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 회동에는 사우디아라비아와 요르단, 모로코 대표단도 함께 참석했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 회의 결과는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
