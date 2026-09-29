@@ -1276,5 +1276,51 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790657616
+  },
+  {
+    "slug": "2026-09-29-news-uk-airbase-terror-plot",
+    "event_ms": 1790659575000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 미군이 주둔하는 영국 페어퍼드 공군기지에서 테러 음모 혐의로 체포됐던 용의자 5명이 보석으로 석방됐습니다. 구체적인 범행 동기와 음모의 실체는 아직 조사 중입니다.\n\n출처: BBC·WSJ·NYT 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "영국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "instagram": {
+        "id": "17896222548607434",
+        "permalink": "https://www.instagram.com/reel/Dd3FuHbCtxw/",
+        "kind": "reel",
+        "at": 1790662433
+      },
+      "youtube": {
+        "id": "19XbC7EICUg",
+        "permalink": "https://youtube.com/shorts/19XbC7EICUg",
+        "kind": "shorts",
+        "at": 1790662563
+      }
+    },
+    "attempts": {
+      "threads": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790662573
   }
 ]

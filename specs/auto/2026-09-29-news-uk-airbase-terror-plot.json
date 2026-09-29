@@ -1,0 +1,140 @@
+{
+  "slug": "2026-09-29-news-uk-airbase-terror-plot",
+  "topic": "영국 미군기지 테러 음모 혐의 용의자 5명 보석 석방",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 14:26 KST",
+  "source": "BBC·Sky News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinwFBVV95cUxPZFlBWXJMQUx0QTdSNGw0RzhuX09HZWhrTFVRNjB5ODJIWmwwUFJQeWJOVnFySFpycFN1VHB3T2pDN2RxT0gwQkRXVjN4T2RYVXAzV0dCVnRxTW1KdFQ4U2ZYUGg4Y0I0Vk9iaUxsVlhLYjgwLUhGZHFJbDhPRjJTSHpubWRLWElDZnR0Z0w4R242UlBOWm42RGpSeWNGcmc",
+    "related": [
+      [
+        "RAF Fairford latest: 'Foreign actor' involved in alleged terror plot and many 'disturbed' by suspects' release, says Rubio",
+        "Sky News"
+      ],
+      [
+        "Tuesday briefing: Inside the suspected bomb plot at RAF Fairford",
+        "The Guardian"
+      ],
+      [
+        "U.K. Releases Suspects in Terror Plot at Base Hosting U.S. Forces",
+        "WSJ"
+      ],
+      [
+        "RAF Fairford suspects released on bail, head of counter-terror police says",
+        "BBC"
+      ],
+      [
+        "Police to Release 5 Men on Bail After Possible Terror Plot at U.K. Air Base",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "uk-airbase-terror-plot"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 미군기지 테러 음모 혐의\n[[용의자 5명]] 보석 석방",
+      "sub": "영국 경찰, 미군 주둔 페어퍼드 공군기지 테러 혐의 체포자 석방",
+      "chips": [
+        {
+          "k": "체포자",
+          "v": "5명"
+        },
+        {
+          "k": "조치",
+          "v": "보석 석방"
+        }
+      ],
+      "alt": "영국 미군기지 테러 음모 혐의 용의자 5명 보석 석방",
+      "map": {
+        "lat": 51.7107733,
+        "lon": -1.782001,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n페어퍼드",
+      "map": {
+        "lat": 51.7107733,
+        "lon": -1.782001,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "페어퍼드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대상 기지",
+          "d": "미군이 주둔하는 영국 페어퍼드 공군기지에서 테러 음모 혐의가 있었다고 외신이 전했습니다."
+        },
+        {
+          "t": "경찰 조치",
+          "d": "영국 대테러 경찰은 체포된 용의자 5명을 보석으로 석방했다고 밝혔습니다."
+        },
+        {
+          "t": "수사 상황",
+          "d": "외국 세력이 연루됐는지 여부 등이 언급되었습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미군 주둔 영국 페어퍼드 공군기지 테러 음모 혐의",
+        "체포된 용의자 5명 보석 석방 (BBC·WSJ·NYT)"
+      ],
+      "unconfirmed": [
+        "외국 세력 연루 여부 및 구체적인 범행 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Sky News",
+        "The Guardian",
+        "The New York Times",
+        "WSJ",
+        "2026.09.29 15:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미군이 주둔하는 영국 페어퍼드 공군기지에서 테러 음모 혐의로 체포됐던 용의자 5명이 보석으로 석방됐습니다. 구체적인 범행 동기와 음모의 실체는 아직 조사 중입니다.\n\n출처: BBC·WSJ·NYT 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미군이 주둔하는 영국 페어퍼드 공군기지에서 테러 음모 혐의로 체포된 용의자 5명이 보석으로 풀려났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "영국 대테러 경찰은 이들을 석방했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "외국 세력이 연루됐는지 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
