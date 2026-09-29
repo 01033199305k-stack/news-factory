@@ -75,6 +75,15 @@ INCIDENT = re.compile(
     r"volcan\w*|eruption|avalanche|stampede|missing|rescue\w*|evacuat\w*|emergency|"
     r"arrest\w*|manhunt|lockdown|incident)\b", re.I)
 QUAKE = re.compile(r"\b(earthquake|quake|tremor|magnitude)\b", re.I)
+# 정치·외교·경제의 '결정된 일' 1차 필터 (발언·전망이 아니라 발표·결과). 넓게 잡고 최종 판정은 AI 가 한다.
+# 2026-09-29 조회수: 유튜브에서 국제정세 쇼츠는 중앙값 499회, 사건·사고는 1~4회 → 국제 소식도 속보로 받는다
+POLICY = re.compile(
+    r"\b(tariff\w*|sanction\w*|ceasefire|truce|peace (deal|accord|agreement)|invad\w*|invasion|"
+    r"air ?strike\w*|missile\w*|coup|martial law|impeach\w*|resign\w*|ousted|"
+    r"elected|wins? (the )?(election|vote|presidency|runoff)|election results?|president-elect|"
+    r"interest rates?|rate (cut|hike)s?|(cuts|raises|holds) rates|federal reserve|central bank|"
+    r"recession|shutdown|default\w*|stocks? (plunge|plummet|tumble|crash|soar|surge)\w*|sell-?off|"
+    r"north korea\w*|south korea\w*|kim jong un|korean)\b", re.I)
 
 _INTRO = """당신은 한국어 속보 카드뉴스 계정 '지금 세계'의 데스크다.
 입력은 구글 뉴스가 묶어 준 해외 기사 묶음이다. 각 묶음에는 헤드라인과 매체 이름만 있다.
@@ -84,14 +93,27 @@ _INTRO = """당신은 한국어 속보 카드뉴스 계정 '지금 세계'의 �
 
 _BREAKING = """
 게시(post) 조건 — 전부 만족해야 한다
-- 갑자기 일어난 사건·사고다: 사고(항공·철도·선박·차량), 폭발, 화재, 총격, 흉기 난동, 테러, 인질, 붕괴, 산사태, 홍수·태풍 등 재난, 대규모 인명 피해, 실종·구조
-- 새로 일어난 일이다. 재판, 추모, 분석, 몇 주 지난 사건의 후속 보도는 skip
+- 아래 (가) 또는 (나)에 해당한다
+  (가) 갑자기 일어난 사건·사고: 사고(항공·철도·선박·차량), 폭발, 화재, 총격, 흉기 난동, 테러, 인질, 붕괴, 산사태,
+      홍수·태풍 등 재난, 대규모 인명 피해, 실종·구조
+  (나) 국제 정치·외교·경제에서 실제로 결정되거나 일어난 일: 공습·미사일 발사·침공 같은 군사 행동, 휴전·평화 협정 체결,
+      정상·총리의 사임·탄핵·선거 결과 확정, 쿠데타·계엄, 관세·제재의 공식 발표, 중앙은행 기준금리 결정,
+      주요국 증시 폭락·폭등(헤드라인에 지수나 등락률이 있을 때), 북한의 미사일 발사·핵 관련 행동
+      발언·경고·위협·전망·검토·준비·협상 진행 중·여론조사·유세는 (나)가 아니다 ("~할 수도", "~를 경고", "~를 준비" 는 skip)
+- 새로 일어난 일이다. 재판·판결, 추모, 분석, 몇 주 지난 일의 후속 보도는 skip
 - 국제 뉴스로 전할 만한 규모다. 관광객 한 명의 사고·사망처럼 작은 개인 사고는 skip
   (단, 한국인이 관련됐다고 헤드라인에 나오면 규모와 상관없이 post)
-- 핵심 사실(무엇이, 어디서, 피해 규모)이 서로 다른 매체 2곳 이상의 헤드라인에서 일치한다
-- 최근 게시 목록에 같은 사건이 없다 (같은 사건이면 skip, 이유 "duplicate")
+- 한 나라 안의 개별 범죄(살인, 시신 발견, 납치, 체포·석방)는 한국인이 관련됐거나, 미국·일본·중국에서 일어났거나,
+  사망 10명 이상일 때만 post. 그 밖의 나라의 개별 범죄는 skip (한국 독자 반응이 거의 없다)
+- 핵심 사실(무엇이, 어디서, 규모·결과)이 서로 다른 매체 2곳 이상의 헤드라인에서 일치한다
+- 최근 게시 목록에 같은 사건이 없다. 같은 나라에서 이어지는 같은 사건의 후속 보도(추가 공격, 사망자 수 갱신,
+  용의자 체포·석방, 발사 전·후 등)도 같은 사건이다 → skip, 이유 "duplicate"
 
-skip 대상: 정치·외교 발언, 선거, 경제, 스포츠, 연예, 교전 당사자 한쪽의 주장뿐인 전쟁 보도, 지진(별도 처리), 단일 매체만 전하는 내용
+category: 사건·사고는 사고/폭발·화재/총격·테러/재난/기타 사건, (나)의 정치·외교·군사(전쟁 중 공습 포함)는 "국제",
+경제·증시·과학은 "경제·과학"
+
+skip 대상: 한국 국내 정치(한국 정당·국회·선거 공방), 한 나라 안의 정당 싸움·정치인 발언, 스포츠, 연예,
+교전 당사자 한쪽의 주장뿐인 전쟁 보도, 지진(별도 처리), 단일 매체만 전하는 내용
 """
 
 _FILL = """
@@ -99,31 +121,53 @@ _FILL = """
 한국 독자에게 가장 중요한 해외 소식 딱 1건만 post 로 고르고 나머지는 전부 skip 으로 판정한다.
 
 고를 수 있는 것 (서로 다른 매체 2곳 이상이 같은 사실을 전할 때만)
+- 국제 정치·외교·군사의 큰 진전 (공격·휴전·협상 결과·정상 교체·관세·제재 발표 등).
+  교전 당사자의 주장은 "~측은 ...라고 밝혔습니다"로 출처를 밝혀 쓴다
+- 세계 경제·증시·기술의 큰 뉴스 (금리 결정, 증시 급변, 대형 기업 발표 등)
 - 사건·사고·재난 (시간이 조금 지난 것도 괜찮다)
-- 국제 분쟁·외교의 큰 진전 (공격·휴전·협상 결과 등). 교전 당사자의 주장은 "~측은 ...라고 밝혔다"로 출처를 밝혀 쓴다
-- 세계 경제·과학·기술의 큰 뉴스
 
-고르지 않는 것: 연예, 스포츠, 의견·칼럼·해설, 생활 정보, 한 나라 안의 정치 공방(선거 유세·정당 싸움),
-교전 당사자 한쪽 주장뿐인 내용, 지진(별도 처리), 최근 게시 목록과 같은 사건
+우선순위: 한국·한국인·북한이 헤드라인에 나오는 것 > 미국·중국·일본·러시아 정부의 결정이나 군사 행동
+> 전쟁·분쟁의 새 국면 > 미국에서 일어난 큰 사건 > 그 밖의 대형 사건·사고. 보도한 매체가 많을수록 우선
+
+고르지 않는 것: 연예, 스포츠, 의견·칼럼·해설, 생활 정보, 한국 국내 정치, 한 나라 안의 정치 공방(선거 유세·정당 싸움),
+교전 당사자 한쪽 주장뿐인 내용, 지진(별도 처리), 재판·판결, 미국·일본·중국 밖의 개별 범죄,
+최근 게시 목록과 같은 사건(같은 나라에서 이어지는 후속 보도 포함)
 적당한 게 하나도 없으면 전부 skip 해도 된다. 억지로 고르지 않는다.
 """
 
 _RULES = """
 쓰기 규칙 — 사실 왜곡은 절대 안 된다
 - 헤드라인에 있는 사실만 쓴다. 당신이 알고 있는 배경지식으로 빈칸을 채우지 않는다
-- 숫자(사망·부상·실종)는 반드시 보도한 매체를 괄호로 붙인다. 예: "사망 6명 (AP·알자지라)"
+- 숫자(사망·부상·실종·세율·금리 등)는 반드시 보도한 매체를 괄호로 붙인다. 예: "사망 6명 (AP·알자지라)"
 - 매체마다 숫자가 다르면 confirmed 에 쓰지 말고 unconfirmed 에 "사망자 수 보도 엇갈림 (4~6명)" 처럼 쓴다
 - 원인·용의자·동기는 매체 2곳 이상이 같은 말을 할 때만 confirmed, 아니면 unconfirmed ("원인 조사 중" 등)
+- 정치·외교는 누가 했는지 주체를 밝힌다 ("미국 정부는 ~를 발표했습니다", "~측은 ~라고 밝혔습니다").
+  어느 편도 들지 않고 평가하지 않는다
 - 헤드라인을 그대로 번역해 붙이지 말고, 사실을 뽑아 새로 쓴다
-- 선정적인 표현, 추측, 감정 표현 금지. 담담한 속보체
-- headline_ko: 두 줄, 줄마다 14자 안팎, 줄바꿈은 \\n. 강조할 숫자나 핵심어 하나를 [[ ]] 로 감싼다
-- sub_ko: 한 줄 요약 (40자 이내)
-- points: 핵심 3개. t 는 20자 이내, d 는 출처를 포함한 한 문장
+- 선정적인 표현, 추측, 감정 표현 금지. 담담하되 짧고 힘 있게
+
+같은 말 되풀이 금지 — 카드를 넘길 때마다 새 정보가 나와야 한다
+- headline_ko: 가장 센 사실 하나. 두 줄, 줄마다 14자 안팎, 줄바꿈은 \\n. 강조할 숫자나 핵심어 하나를 [[ ]] 로 감싼다
+- sub_ko: 제목에 없는 두 번째 사실 한 줄 (40자 이내). 제목을 풀어 쓰지 않는다
+- points: 제목·sub_ko 에 없는 사실만, 서로 겹치지 않게 최대 3개. t 는 20자 이내, d 는 출처를 포함한 한 문장.
+  헤드라인에 새 사실이 부족하면 1~2개만 써도 된다 (채우려고 지어내지 않는다)
+- confirmed: 공식 확인된 핵심을 짧은 명사구로 (항목당 25자 이내). points 문장을 그대로 옮기지 않는다
+- unconfirmed: 아직 모르는 것 (원인, 정확한 피해 규모, 후속 조치 등). 인명 피해가 난 사건·사고인데
+  헤드라인에 한국인 언급이 없으면 "한국인 피해 여부" 를 넣는다
 - chips: 최대 3개. 예 {"k":"사망","v":"6명"} — 매체 2곳 이상이 일치할 때만 숫자 칩을 쓴다
-- caption_ko: 스레드 본문. "[속보] " 로 시작, 450자 이내, 마지막 줄은 "출처: 매체1·매체2·매체3 보도 종합"
-  본문은 confirmed 에 적은 사실과 "아직 확인 안 됨" 표시만으로 쓴다. 헤드라인에 없는 동작·경위·묘사
+
+caption_ko: 스레드 본문, 450자 이내. 아래 형식을 지킨다 (스레드는 첫 줄과 댓글이 노출을 가른다)
+  첫 줄: "[속보] " + 가장 센 사실 한 문장 (40자 이내, 숫자가 있으면 앞쪽에). 첫 줄만 보고도 더 읽고 싶게
+  (빈 줄)
+  "· " 로 시작하는 줄 2~4개: 줄마다 첫 줄에 없는 새 사실 하나 + (매체)
+  (빈 줄)
+  한국 관련 줄: 헤드라인에 한국·한국인·북한이 나올 때만 "🇰🇷 " 로 시작해 한 줄. 없으면 이 줄을 아예 쓰지 않는다
+  질문 줄: 정치·외교·경제 소식일 때만, 독자 의견을 묻는 중립적인 질문 한 줄 (새 사실·숫자 없이, 한쪽으로 유도하지 않게).
+          인명 피해가 난 사건·사고에는 쓰지 않는다
+  마지막 줄: "출처: 매체1·매체2·매체3 보도 종합"
+  본문은 confirmed·points 에 적은 사실과 "아직 확인 안 됨" 표시만으로 쓴다. 헤드라인에 없는 동작·경위·묘사
   (예: "도주한", "경위를 조사 중", "현장은 아수라장")를 덧붙이지 않는다. 짧아도 괜찮다
-- place_query: 지도 검색용 영어 지명 ("Athens, Greece"). 모르면 나라 이름만
+- place_query: 지도 검색용 영어 지명 ("Athens, Greece"). 모르면 나라 이름만. 여러 나라가 얽힌 정치·경제 소식은 결정한 쪽 나라
 - country_ko / place_ko: 한국어 나라 이름 / 한국어 도시·지역 이름 ("그리스" / "아테네")
 - 말투: 문장으로 끝나는 곳(points 의 d, caption_ko, narration_ko)은 전부 "~습니다" 체로 쓴다.
   "~했다", "~이다", "~보도됐다" 같은 한다체를 섞지 않는다. 제목·sub_ko·칩·confirmed·unconfirmed 는 명사형으로
@@ -261,7 +305,7 @@ def candidates(items, seen):
         if len(sources) < MIN_SOURCES:
             continue
         text = " ".join(h for h, _ in it["related"])
-        if not INCIDENT.search(text) or QUAKE.search(text):
+        if not (INCIDENT.search(text) or POLICY.search(text)) or QUAKE.search(text):
             continue
         it["sources"] = sorted(sources)
         out.append(it)
@@ -275,7 +319,10 @@ def judge(cands, recent, system=SYSTEM):
         lines = "\n".join("  - %s — %s" % (h, s) for h, s in c["related"])
         blocks.append("[candidate_id: c%d] 첫 보도 %s UTC, 매체 %d곳\n%s"
                       % (i, c["pub"].strftime("%Y-%m-%d %H:%M"), len(c["sources"]), lines))
-    recent_txt = "\n".join("- %s: %s" % (e["event_key"], e["topic"]) for e in recent) or "(없음)"
+    now = time.time()
+    recent_txt = "\n".join("- %s: %s (%s, %d시간 전)" % (e["event_key"], e["topic"], e.get("country") or "?",
+                                                      (now - e.get("at", now)) // 3600)
+                           for e in recent) or "(없음)"
     user = ("최근 48시간 게시 목록:\n%s\n\n판정할 기사 묶음:\n\n%s"
             % (recent_txt, "\n\n".join(blocks)))
 
@@ -370,12 +417,15 @@ VERIFY_SYSTEM = """당신은 팩트체커다. 해외 기사 헤드라인 목록�
 - 지워야 하는 것: 헤드라인에 없는 지명(주·도·도시 이름 추가 포함), 동작("도주한"), 시점·태도("즉시", "현장에서"),
   경위·원인·묘사, 배경지식. 사실이더라도 헤드라인에 없으면 지운다
 - 새 정보를 더하지 않는다. 문장을 지워서 짧아지는 건 괜찮다
-- unconfirmed 는 "아직 알려지지 않은 것"(범행 동기, 부상자 수 등)을 적는 칸이라 헤드라인에 없어도 지우지 않는다.
+- unconfirmed 는 "아직 알려지지 않은 것"(범행 동기, 부상자 수, 한국인 피해 여부 등)을 적는 칸이라 헤드라인에 없어도 지우지 않는다.
   다만 그 안에서 사실을 단정하는 문장이면 고친다
 - 매체마다 숫자가 달라도 서로 다른 대상일 수 있다(예: 사건 두 건 중 한 건의 숫자). 확실하지 않으면
   "보도 엇갈림"이라고 단정하지 말고 "매체별 집계 차이 있음" 정도로만 쓴다
 - 숫자 옆 매체 표기는 실제로 그 숫자를 쓴 매체만 남긴다
-- 형식은 원래 문구와 같게 유지한다 (caption_ko 첫머리의 [속보]/[정리] 표시와 마지막 줄 "출처: ... 보도 종합")
+- 형식은 원래 문구와 같게 유지한다 (caption_ko 첫머리의 [속보]/[정리] 표시, "· " 줄, 마지막 줄 "출처: ... 보도 종합")
+- caption_ko 의 질문 줄(물음표로 끝나는 독자 질문)은 사실 주장이 아니라서 지우지 않는다.
+  다만 질문 안에 헤드라인에 없는 사실·숫자가 있거나 한쪽으로 유도하면 고친다
+- "🇰🇷" 로 시작하는 줄은 헤드라인에 한국·한국인·북한 관련 내용이 없으면 통째로 지운다
 - narration_ko(영상 원고)도 같은 기준으로 고친다. 근거 없는 표현은 지우고, 문장 전체가 근거 없으면 그 문장을 뺀다.
   card 값은 그대로 둔다. 말투는 "~습니다" 체를 유지한다
 - problems 에는 지운 표현과 이유를 적는다. 고칠 게 없으면 빈 배열
@@ -477,7 +527,8 @@ def build_spec(c, ev, badge="breaking"):
         country, place = ev["country_ko"], ev["place_ko"]
         # 도시를 모르면 나라 이름만 (예전엔 "남아프리카공화국\n남아프리카공화국"처럼 두 번 찍혔다)
         where = country if not place or place == country else "%s\n%s" % (country, place)
-        cards.append({"type": "map", "eyebrow": "어디서", "title": where,
+        # 지도 카드는 영상에서만 쓴다 — 캐러셀에선 표지 지도와 겹쳐서 넘길 이유를 하나 줄였다
+        cards.append({"type": "map", "eyebrow": "어디서", "title": where, "video_only": True,
                       "map": {"lat": lat, "lon": lon, "zoom": 0.6, "h": 700, "ring": 18,
                               "label": place or country},
                       "alt": "발생 위치 지도"})
@@ -516,6 +567,50 @@ def posted_today(events):
     return sum(1 for e in events if e.get("at", 0) > cut)
 
 
+# 같은 사건 거르기 — AI 판정이 놓친 후속 보도를 코드로 한 번 더 막는다.
+# 2026-09-28~29 우크라이나 공습이 28시간 동안 4번, 네팔 산사태·스타십·남아공이 2번씩 올라갔다
+# (같은 소식이 반복되면 팔로워가 숨기고, 유튜브 조회도 1~2회에 그쳤다)
+DUP_WINDOW_H = 36
+# 나라 이름은 비교에서 뺀다 — 같은 나라의 다른 사건이 나라 이름만으로 묶이지 않게.
+# (그 사건 자기 나라는 place_query 에서 따로 뺀다. 여기 적은 건 상대국으로 자주 같이 나오는 나라)
+_STOP = set("""news the a an of in on at to and or for with after over near new first latest
+    us usa uk south north east west united states kingdom africa america russia ukraine china israel iran
+    january february march april may june july august september october november december
+    killed kills kill dead death deaths dies die injured injures fatalities toll says""".split())
+
+
+def _tokens(key):
+    words = re.split(r"[^a-z0-9]+", (key or "").lower())
+    return {w[:-1] if len(w) > 3 and w.endswith("s") and not w.endswith("ss") else w
+            for w in words if len(w) > 1 and not w.isdigit() and w not in _STOP}
+
+
+def _country(s):
+    return (s or "").replace(" ", "")
+
+
+def same_story(ev, events):
+    """같은 나라에서 핵심어(지명·대상·사건 종류)가 하나라도 겹치는 게시가 DUP_WINDOW_H 안에 있으면 그 기록."""
+    cut = time.time() - DUP_WINDOW_H * 3600
+    home = _tokens((ev.get("place_query") or "").split(",")[-1])   # "Kathmandu, Nepal" → nepal
+    mine, country = _tokens(ev.get("event_key")) - home, _country(ev.get("country_ko"))
+    for e in reversed(events):
+        if e.get("at", 0) < cut or not country or e.get("country") != country:
+            continue
+        if mine & _tokens(e.get("event_key")):
+            return e
+    return None
+
+
+def backfill(events):
+    """나라를 적기 전(2026-09-29 이전) 기록은 게시 기록의 해시태그(분류·나라)로 채운다."""
+    meta = {p.get("slug"): p.get("hashtags") or [] for p in read_json(POSTED, [])}
+    for e in events:
+        tags = meta.get(e.get("slug"), [])
+        if "country" not in e and len(tags) > 2:
+            e["country"] = _country(tags[2])
+
+
 def publish(c, ev, events, queue, badge="breaking"):
     """판정된 1건을 팩트체크 → 숫자 검증 → 카드 → 대기열. 올렸으면 True.
     False 와 함께 이유를 돌려준다: "retry"(다음에 다시), "reject"(버림)."""
@@ -535,12 +630,13 @@ def publish(c, ev, events, queue, badge="breaking"):
         return False, "reject"
     print("DRAFT", badge, spec["topic"])
     events.append({"event_key": ev["event_key"], "topic": spec["topic"], "slug": spec["slug"],
-                   "cluster": c["id"], "badge": badge, "at": time.time()})
+                   "cluster": c["id"], "badge": badge, "at": time.time(),
+                   "country": _country(ev["country_ko"]), "category": ev["category"]})
     if queue:
         q = read_json(QUEUE, [])
         # 정리는 기사 자체가 몇 시간 지났을 수 있어서, 게시 만료 기준을 '지금'으로 잡는다
         fresh_ms = int((c["pub"].timestamp() if badge == "breaking" else time.time()) * 1000)
-        q.append({"slug": spec["slug"], "event_ms": fresh_ms,
+        q.append({"slug": spec["slug"], "event_ms": fresh_ms, "category": ev["category"],
                   "images": [n for n, _ in cards], "text": spec["caption"]["threads"],
                   "topic_tag": "해외사건사고" if badge == "breaking" else "세계뉴스",
                   "hashtags": ["해외사건사고" if badge == "breaking" else "세계뉴스",
@@ -576,6 +672,10 @@ def breaking(items, seen, events, queue, dry):
         seen.add(c["id"])
         if ev["decision"] != "post":
             print("SKIP", c["title"][:70], "—", ev["skip_reason"])
+            continue
+        dup = same_story(ev, events)
+        if dup:
+            print("DUP", c["title"][:70], "—", dup.get("event_key"))
             continue
         if made >= MAX_POSTS_PER_RUN or posted_today(events) >= MAX_POSTS_PER_DAY:
             print("LIMIT", c["title"][:70])
@@ -636,6 +736,10 @@ def fill(items, events, queue, dry):
         c = by_id.get(ev["candidate_id"])
         if not c or ev["decision"] != "post":
             continue
+        dup = same_story(ev, events)
+        if dup:
+            print("DUP", c["title"][:70], "—", dup.get("event_key"))
+            continue
         age_h = (now - c["pub"]).total_seconds() / 3600
         incident = ev["category"] not in ("국제", "경제·과학")
         badge = "breaking" if incident and age_h <= MAX_AGE_H else "brief"
@@ -650,6 +754,7 @@ def fill(items, events, queue, dry):
 def run(queue=False, dry=False, do_fill=False):
     seen = set(read_json(SEEN, []))
     events = read_json(EVENTS, [])
+    backfill(events)
     items = collect()
     print("기사 묶음 %d개" % len(items))
     breaking(items, seen, events, queue, dry)

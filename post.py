@@ -15,6 +15,7 @@
 """
 import json
 import os
+import re
 import sys
 import time
 import urllib.error
@@ -180,9 +181,12 @@ class Skip(Exception):
 class YouTube(Platform):
     """YouTube Data API v3 — 숏폼 영상만 쇼츠로 올린다. 영상이 없으면 건너뛴다.
     인증은 refresh token (YOUTUBE_CLIENT_ID·YOUTUBE_CLIENT_SECRET·YOUTUBE_REFRESH_TOKEN).
-    무료 한도는 하루 약 6건 — 다 쓰면 그 건은 건너뛴다. 심사 전 앱의 업로드는 유튜브가 비공개로 잠근다."""
+    무료 한도는 하루 약 6건 — 다 쓰면 그 건은 건너뛴다. (2026-09-29 확인: 업로드는 공개로 올라가 조회수가 쌓인다)
+    한도가 적어서 조회가 나오는 소식에만 쓴다: 2026-09-27~29 쇼츠 23편 중 국제(정치·외교·전쟁)는 중앙값 499회,
+    사건·사고·재난은 1~4회였다. 분류가 없는 항목(지진)과 한국 관련 소식은 그대로 올린다."""
     name, token_env = "youtube", "YOUTUBE_REFRESH_TOKEN"
     PRIVACY = os.environ.get("YOUTUBE_PRIVACY", "public")
+    CATEGORIES = ("국제", "경제·과학")
     # 시청자 언어 설정에 맞춰 보이는 제목·설명 (업로드에 같이 실려서 한도를 더 안 쓴다)
     LANGS = {"en": "English", "ja": "Japanese", "es": "Spanish",
              "zh-Hant": "Traditional Chinese (Taiwan)", "vi": "Vietnamese", "id": "Indonesian"}
@@ -277,6 +281,9 @@ in the target language. Unconfirmed items must stay unconfirmed. Plain text, no 
     def post(self, item):
         if not item.get("video"):
             raise Skip("영상 없음")
+        cat = item.get("category")
+        if cat and cat not in self.CATEGORIES and not re.search(r"한국|북한", item.get("text", "")):
+            raise Skip("유튜브는 국제·경제 소식만 (%s)" % cat)
         tags = list(dict.fromkeys(DEFAULT_TAGS + item.get("hashtags", [])))
         meta = {
             "snippet": {"title": self.title(item),

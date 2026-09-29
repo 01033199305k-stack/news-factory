@@ -112,9 +112,10 @@ h1.xs{font-size:64px;letter-spacing:-1.6px;line-height:1.24}
 h2{font-weight:800;font-size:62px;letter-spacing:-1.8px;line-height:1.22}
 .sub{font-size:36px;line-height:1.5;color:var(--muted);font-weight:500}
 
+/* safe: 넘치면 위(헤더 쪽)로 삐져나가지 않고 아래로 — 그다음 FIT_JS 가 제목을 줄인다 */
 .body{flex:1;min-height:0;display:flex;flex-direction:column;
-  justify-content:center;gap:34px}
-.top{justify-content:center;padding-bottom:40px}
+  justify-content:safe center;gap:34px}
+.top{justify-content:safe center;padding-bottom:40px}
 
 /* ── 칩 ── */
 .chips{display:flex;flex-wrap:wrap;gap:14px}
@@ -401,6 +402,12 @@ BUILDERS = {
 }
 
 
+# 제목이 길어 본문이 넘치면(2026-09-28 핀란드 카드: 4줄 제목이 배지를 로고 위로 밀어 올렸다) 제목 글자를 줄인다
+FIT_JS = ("document.fonts.ready.then(function(){var b=document.querySelector('.body'),"
+          "h=b&&b.querySelector('h1');if(!h)return;var s=parseFloat(getComputedStyle(h).fontSize);"
+          "while(b.scrollHeight>b.clientHeight+1&&s>56){s-=4;h.style.fontSize=s+'px';}});")
+
+
 def page(inner, scripts, theme):
     t = THEMES.get(theme, THEMES["night"])
     tvars = ";".join("--%s:%s" % (k, v) for k, v in t.items())
@@ -410,6 +417,7 @@ def page(inner, scripts, theme):
         libs = "".join('<script src="%s"></script>' % file_url(os.path.join(VENDOR, f))
                        for f in ("d3.min.js", "topojson-client.min.js", "world.js"))
         libs += "<script>%s</script>" % "".join(scripts)
+    libs += "<script>%s</script>" % FIT_JS
     return ('<!doctype html><html lang="ko"><head><meta charset="utf-8">'
             '<style>:root{%s}%s</style></head><body>%s%s</body></html>'
             % (tvars, css, inner, libs))
@@ -494,7 +502,7 @@ def render(spec):
                 os.remove(os.path.join(outdir, f))
     os.makedirs(htmldir, exist_ok=True)
 
-    cards = spec["cards"]
+    cards = [c for c in spec["cards"] if not c.get("video_only")]   # 영상 전용 장면은 이미지로 안 만든다
     n = len(cards)
     chrome = find_chrome()
     work = work_dir()

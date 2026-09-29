@@ -173,6 +173,8 @@ h1 .ln{display:block}
 .chip{background:var(--panel);border:2px solid var(--line);border-radius:16px;padding:16px 26px;
   font-size:40px;font-weight:800}
 .chip.n{background:var(--acc);border-color:var(--acc)}
+.chip span{color:var(--mut);font-weight:700;margin-right:14px}
+.out .note{width:100%;font-size:32px;font-weight:700;color:var(--mut);margin-top:6px}
 .eye{font-size:40px;font-weight:800;color:var(--acc);letter-spacing:1px}
 .mapbox{position:absolute;left:60px;right:60px;top:560px;height:700px;border-radius:36px;overflow:hidden;
   background:#0E1422;border:2px solid var(--line)}
@@ -235,9 +237,11 @@ window.render = function (t) {
   document.querySelector('#logo i').style.opacity = .55 + .45 * Math.abs(Math.cos(t * 2.2));
   scenes.forEach((el, i) => {
     const s = D.scenes[i], last = i === scenes.length - 1;
-    const pin = (t - s.start) / 0.42, pout = (t - s.end) / 0.32;
+    // 첫 장면은 0초부터 다 보인다 — 피드에서 넘기기 전 첫 프레임이 빈 화면이면 바로 넘어간다
+    // (2026-09-29 인스타 릴스 평균 시청 2~5초, 예전 첫 프레임은 제목 없는 검은 화면이었다)
+    const pin = i === 0 ? 1 : (t - s.start) / 0.42, pout = (t - s.end) / 0.32;
     let op = eo(pin) * (last ? 1 : 1 - eo(pout));
-    if (t < s.start - 0.01 || (!last && t > s.end + 0.35)) op = 0;
+    if ((i > 0 && t < s.start - 0.01) || (!last && t > s.end + 0.35)) op = 0;
     el.style.opacity = op;
     const prog = C((t - s.start) / Math.max(1, s.end - s.start));
     el.style.transform = `translateX(${(1 - eo(pin)) * 80 + (last ? 0 : eo(pout) * -80)}px) scale(${1 + D.push * prog})`;
@@ -329,6 +333,33 @@ def _title_cls(title):
     return "" if n <= 8 else "m" if n <= 10 else "s"
 
 
+def _video_lines(title, width=8):
+    """영상 표지 제목은 줄을 짧게 끊어 글자를 키운다. 카드용 두 줄 제목(줄마다 14자 안팎)을 그대로 쓰면
+    84px 까지 작아져 화면 아래 절반이 비었다. 4줄을 넘으면 원래 줄바꿈을 쓴다. [[강조]]가 줄을 넘으면 줄마다 닫는다."""
+    out = []
+    for line in str(title).split("\n"):
+        cur = ""
+        for w in line.split(" "):
+            cand = (cur + " " + w).strip()
+            if cur and len(plain(cand)) > width:
+                out.append(cur)
+                cur = w
+            else:
+                cur = cand
+        if cur:
+            out.append(cur)
+    if len(out) > 4:
+        return str(title).split("\n")
+    fixed, carry = [], False
+    for l in out:
+        if carry:
+            l = "[[" + l
+        opened = l.count("[[") > l.count("]]")
+        fixed.append(l + "]]" if opened else l)
+        carry = opened
+    return fixed
+
+
 def scene_html(i, s, spec, cover, cards):
     k = s["kind"]
     st = s["steps"]
@@ -341,25 +372,36 @@ def scene_html(i, s, spec, cover, cards):
 
     if k == "cover":
         b = cover.get("badge", "breaking")
-        lines = str(cover.get("title", spec.get("topic", ""))).split("\n")
-        h1 = "".join('<span class="ln" data-in="%.3f" data-fx="up">%s</span>'
-                     % (at(0, 0.25 + 0.14 * n), esc(l)) for n, l in enumerate(lines))
+        lines = _video_lines(cover.get("title", spec.get("topic", "")))
+        # 배지·제목은 첫 프레임부터 떠 있다 (data-in 이 음수 = 이미 들어온 상태)
+        h1 = "".join('<span class="ln" data-in="-1" data-fx="up">%s</span>' % esc(l) for l in lines)
         srcs = narration.clean_outlets(s.get("outlets") or [])
-        # 보도 매체는 읽지 않고 화면에만 — 제목이 자리 잡은 뒤 조용히 들어온다
-        t0 = at(1, 0.4) if len(st) > 1 else at(0, 1.6)
-        chips = "".join('<div class="chip" data-in="%.3f" data-fx="pop">%s</div>'
-                        % (t0 + 0.1 * n, esc(x)) for n, x in enumerate(srcs[:3]))
         more = len(s.get("outlets") or [])
-        if more:
-            chips += ('<div class="chip n" data-in="%.3f" data-fx="pop">%d개 매체 보도</div>'
-                      % (t0 + 0.1 * min(3, len(srcs)), more))
-        out = ('<div class="out"><div class="k" data-in="%.3f" data-fx="fade">보도</div>%s</div>'
-               % (t0, chips)) if chips else ""
-        return ('<div class="pad"><div class="badge" data-in="%.3f" data-fx="pop"><b></b>%s</div>'
+        nums = (cover.get("chips") or [])[:3]
+        if nums:
+            # 숫자 칩(사망 6명 등)이 있으면 매체 이름보다 먼저 — 멈춰서 볼 이유가 된다. 매체는 한 줄로 작게
+            t0 = at(0, 1.1)
+            chips = "".join('<div class="chip" data-in="%.3f" data-fx="pop"><span>%s</span>%s</div>'
+                            % (t0 + 0.12 * n, esc(x.get("k", "")), esc(x.get("v", "")))
+                            for n, x in enumerate(nums))
+            note = ('<div class="note" data-in="%.3f" data-fx="fade">%s 등 %d개 매체 보도</div>'
+                    % (t0 + 0.5, esc("·".join(srcs[:2])), more)) if srcs else ""
+            out = '<div class="out">%s%s</div>' % (chips, note)
+        else:
+            # 보도 매체는 읽지 않고 화면에만 — 제목이 자리 잡은 뒤 조용히 들어온다
+            t0 = at(1, 0.4) if len(st) > 1 else at(0, 1.6)
+            chips = "".join('<div class="chip" data-in="%.3f" data-fx="pop">%s</div>'
+                            % (t0 + 0.1 * n, esc(x)) for n, x in enumerate(srcs[:3]))
+            if more:
+                chips += ('<div class="chip n" data-in="%.3f" data-fx="pop">%d개 매체 보도</div>'
+                          % (t0 + 0.1 * min(3, len(srcs)), more))
+            out = ('<div class="out"><div class="k" data-in="%.3f" data-fx="fade">보도</div>%s</div>'
+                   % (t0, chips)) if chips else ""
+        return ('<div class="pad"><div class="badge" data-in="-1" data-fx="pop"><b></b>%s</div>'
                 '<h1 class="%s">%s</h1><div class="bar" data-in="%.3f" data-fx="wipe"></div>'
                 '<div class="sub" data-in="%.3f" data-fx="up">%s</div>%s</div>'
-                % (at(0), esc(make_cards.BADGES.get(b, "속보")), _title_cls(cover.get("title", "")), h1,
-                   at(0, 0.7), at(1) if len(st) > 1 else at(0, 0.9), esc(cover.get("sub", "")), out))
+                % (esc(make_cards.BADGES.get(b, "속보")), _title_cls("\n".join(lines)), h1,
+                   at(0, 0.5), at(1) if len(st) > 1 else at(0, 0.9), esc(cover.get("sub", "")), out))
     if k == "map":
         m = cards["map"]
         s["map"] = {"lat": m["map"]["lat"], "lon": m["map"]["lon"], "zoom": m["map"].get("zoom", 0.6)}
