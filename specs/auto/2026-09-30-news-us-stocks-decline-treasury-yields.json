@@ -1,0 +1,142 @@
+{
+  "slug": "2026-09-30-news-us-stocks-decline-treasury-yields",
+  "topic": "미국 증시 하락세 국채 금리 상승 여파",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 01:22 KST",
+  "source": "WSJ·Investopedia·The Detroit News 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxQbW9sYnZxSzNHQmhBeTZEdWo5UW8yWjJwV1Z4cFh2T2d2U0xVRWlpY2FUaVUtUlVfRmtSQmV5bE53NFAxd042VkJ2SVpUVFhJTUNnMGpfMmlWcnl3Zkh1akplaWtXYW44OTZhZk02Y0JtekxCWVZFS19Rckw1RjFOWE5BTk5nZXZTRU9fTWl1Z0I",
+    "related": [
+      [
+        "Stock Market Today: Major Indexes Decline as Treasury Yields Rise Further; Oil Prices Slip",
+        "Investopedia"
+      ],
+      [
+        "Stock market today: Dow, S&P 500, Nasdaq slip as oil retreats, Anthropic and OpenAI fuel AI jitters",
+        "Yahoo Finance"
+      ],
+      [
+        "S&P 500 flat as higher bond yields counter tech optimism",
+        "The Detroit News"
+      ],
+      [
+        "U.S. Stocks Slide as Treasury Selloff Deepens",
+        "WSJ"
+      ],
+      [
+        "Markets News, Sept. 28, 2026: Nasdaq, AI Stocks Fall to Start Week; Treasury Yields Jump",
+        "Investopedia"
+      ]
+    ],
+    "event_key": "us-stocks-decline-treasury-yields"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 증시 하락세\n국채 금리 상승 여파",
+      "sub": "기술주 약세와 국채 매도세 심화",
+      "chips": [
+        {
+          "k": "시장",
+          "v": "하락세"
+        },
+        {
+          "k": "국채",
+          "v": "금리 상승"
+        }
+      ],
+      "alt": "미국 증시 하락세 국채 금리 상승 여파",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지수 하락",
+          "d": "다우존스와 S&P 500, 나스닥 등 주요 지수가 하락했습니다 (야후파이낸스·WSJ)."
+        },
+        {
+          "t": "국채 금리",
+          "d": "미국 국채 금리가 추가로 상승했습니다 (인베스토피디아·WSJ)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 주요 증시 하락",
+        "국채 금리 상승",
+        "석유 가격 하락"
+      ],
+      "unconfirmed": [
+        "증시 하락세 지속 여부",
+        "향후 통화 정책 변화"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Investopedia",
+        "The Detroit News",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.09.30 02:33 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 증시 하락세, 국채 금리 상승 여파 (WSJ·야후파이낸스)\n\n· 다우존스와 S&P 500, 나스닥 등 주요 지수가 하락했습니다 (야후파이낸스·WSJ)\n· 미국 국채 금리가 추가로 상승했습니다 (인베스토피디아·WSJ)\n· 유가는 하락했습니다 (인베스토피디아)\n\n출처: WSJ·인베스토피디아·야후파이낸스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 주요 증시가 국채 금리 상승 여파로 하락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "WSJ은 다우존스와 S&P 500, 나스닥 등 주요 지수가 내림세를 보였다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "국채 매도세가 심화되면서 국채 금리가 추가로 상승했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "석유 가격은 하락했습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

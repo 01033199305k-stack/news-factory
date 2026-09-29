@@ -325,5 +325,15 @@
     "at": 1790701757.0837,
     "country": "네덜란드",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "us-stocks-decline-treasury-yields",
+    "topic": "미국 증시 하락세 국채 금리 상승 여파",
+    "slug": "2026-09-30-news-us-stocks-decline-treasury-yields",
+    "cluster": "CBMikAFBVV95cUxQbW9sYnZxSzNHQmhBeTZEdWo5UW8yWjJwV1Z4cFh2T2d2U0xVRWlpY2FUaVUtUlVfRmtSQmV5bE53NFAxd042VkJ2SVpUVFhJTUNnMGpfMmlWcnl3Zkh1akplaWtXYW44OTZhZk02Y0JtekxCWVZFS19Rckw1RjFOWE5BTk5nZXZTRU9fTWl1Z0I",
+    "badge": "breaking",
+    "at": 1790703251.5688837,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
