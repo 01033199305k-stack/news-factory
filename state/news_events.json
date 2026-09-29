@@ -305,5 +305,15 @@
     "at": 1790690845.1084416,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "russia-amur-military-aircraft-crash",
+    "topic": "러시아 아무르주서 군용기 추락 사망 6명 발생",
+    "slug": "2026-09-29-news-russia-amur-military-aircraft-crash",
+    "cluster": "CBMi3wFBVV95cUxNbFE4UnZ3UjBVZGxmTFBuZ0tZU2I0T2dlaXQzcVBPV1JIa3RQa2VuSlJ0UUljUUduVXI1bU04dnVWNy1SRjNsUmpkdWFQajk5TDhUOExxMjg4ekJwODVrNTMzVjRMSGhLU29nMFVSUFMxcWNvZEsxajlUemY2aGFBQUhCamZvenkyZHYtYWVYVDhPSDU1UVZvRV9oNU05Vk9xNE5QWUFlanlCWDlEbGROTHBfSDZSMmgwdW5tOU5jT1BDQzItdHpnRm02Y0lydGhsQllHQ0Z0UEFpUUVxVTBR",
+    "badge": "breaking",
+    "at": 1790692131.6580396,
+    "country": "러시아",
+    "category": "사고"
   }
 ]

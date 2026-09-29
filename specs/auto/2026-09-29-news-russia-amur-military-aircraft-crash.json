@@ -1,0 +1,136 @@
+{
+  "slug": "2026-09-29-news-russia-amur-military-aircraft-crash",
+  "topic": "러시아 아무르주서 군용기 추락 사망 6명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 22:21 KST",
+  "source": "India Today·UA.NEWS·Межа. Новини України. 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi3wFBVV95cUxNbFE4UnZ3UjBVZGxmTFBuZ0tZU2I0T2dlaXQzcVBPV1JIa3RQa2VuSlJ0UUljUUduVXI1bU04dnVWNy1SRjNsUmpkdWFQajk5TDhUOExxMjg4ekJwODVrNTMzVjRMSGhLU29nMFVSUFMxcWNvZEsxajlUemY2aGFBQUhCamZvenkyZHYtYWVYVDhPSDU1UVZvRV9oNU05Vk9xNE5QWUFlanlCWDlEbGROTHBfSDZSMmgwdW5tOU5jT1BDQzItdHpnRm02Y0lydGhsQllHQ0Z0UEFpUUVxVTBR",
+    "related": [
+      [
+        "Military aircraft crashes in Russia due to 'fuel explosion'; 6 dead",
+        "timesofindia.indiatimes.com"
+      ],
+      [
+        "Six dead after Russian military aircraft crashes in Amur region, news agency cites defence ministry",
+        "India Today"
+      ],
+      [
+        "Video: A Tu-95MS strategic bomber crashed in Russia",
+        "UA.NEWS"
+      ],
+      [
+        "Six Dead in Russian Military Aircraft Crash in Amur Region",
+        "Global Banking & Finance Review"
+      ],
+      [
+        "Telegram Channels Report Six Dead After Military Plane Crashes in Russia’s Amur Region",
+        "Межа. Новини України."
+      ]
+    ],
+    "event_key": "russia-amur-military-aircraft-crash"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 아무르주서 군용기 추락\n[[사망 6명]] 발생",
+      "sub": "연료 폭발 원인으로 군용기 추락",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "6명"
+        }
+      ],
+      "alt": "러시아 아무르주서 군용기 추락 사망 6명 발생",
+      "map": {
+        "lat": 52.8032368,
+        "lon": 128.437295,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n아무르주",
+      "video_only": true,
+      "map": {
+        "lat": 52.8032368,
+        "lon": 128.437295,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아무르주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "추락 기종",
+          "d": "Tu-95MS 전략폭격기가 추락했다고 전했습니다 (UA.NEWS)"
+        },
+        {
+          "t": "국방부 발표",
+          "d": "러시아 국방부가 사고를 확인했다고 전했습니다 (India Today)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 6명 (타임즈오브인디아·인디아투데이 등)",
+        "러시아 아무르주",
+        "군용기 추락 사고"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인",
+        "추가 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Global Banking & Finance Review",
+        "India Today",
+        "UA.NEWS",
+        "timesofindia.indiatimes.com",
+        "Межа. Новини України.",
+        "2026.09.29 23:28 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 아무르주서 군용기 추락 사망 6명 발생\n\n· 연료 폭발로 인해 군용기가 추락했다고 전했습니다 (타임즈오브인디아)\n· 사고 기종은 Tu-95MS 전략폭격기라고 전했습니다 (UA.NEWS)\n· 러시아 국방부가 관련 사실을 발표했습니다 (인디아투데이)\n\n출처: 타임즈오브인디아·인디아투데이·UA.NEWS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 아무르주에서 군용기가 추락해 6명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "타임즈오브인디아 등은 연료 폭발이 원인이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추락한 기종은 Tu-95MS 전략폭격기라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

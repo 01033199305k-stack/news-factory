@@ -1617,5 +1617,52 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790691220
+  },
+  {
+    "slug": "2026-09-29-news-russia-amur-military-aircraft-crash",
+    "event_ms": 1790688060000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아 아무르주서 군용기 추락 사망 6명 발생\n\n· 연료 폭발로 인해 군용기가 추락했다고 전했습니다 (타임즈오브인디아)\n· 사고 기종은 Tu-95MS 전략폭격기라고 전했습니다 (UA.NEWS)\n· 러시아 국방부가 관련 사실을 발표했습니다 (인디아투데이)\n\n출처: 타임즈오브인디아·인디아투데이·UA.NEWS 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18102127097017258",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd3-gKmnLde",
+        "kind": "carousel",
+        "at": 1790692182
+      },
+      "instagram": {
+        "id": "18114776362817859",
+        "permalink": "https://www.instagram.com/reel/Dd3-tzMkr1y/",
+        "kind": "reel",
+        "at": 1790692313
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1790692323
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790692323
   }
 ]
