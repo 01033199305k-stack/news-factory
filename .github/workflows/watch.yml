@@ -124,6 +124,10 @@ jobs:
         continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}   # 제목·설명 번역 (무료)
+          # 게시 토큰이 없으면 그 플랫폼은 끝난 걸로 보고 대기열에서 빼 버린다 — 스레드 재시도가 사라지지 않게 같이 넘긴다
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
         run: python post.py --only youtube
 
       # 카드·영상은 보관소에만 두고 저장소에는 기록(state·specs)만 남긴다 — 저장소가 불어나지 않게

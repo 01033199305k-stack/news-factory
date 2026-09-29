@@ -115,7 +115,15 @@ class Threads(Platform):
             params["topic_tag"] = item["topic_tag"]
         parent = self.api("POST", "%s/threads" % uid, **params)["id"]
         self.wait(parent)
-        mid = self.api("POST", "%s/threads_publish" % uid, creation_id=parent)["id"]
+        # 방금 FINISHED 된 컨테이너도 게시가 "does not exist"·500 으로 잠깐 거절될 때가 있다 — 잠시 뒤 다시
+        for n in range(3):
+            try:
+                mid = self.api("POST", "%s/threads_publish" % uid, creation_id=parent)["id"]
+                break
+            except RuntimeError:
+                if n == 2:
+                    raise
+                time.sleep(15)
         return mid, self.api("GET", mid, fields="permalink").get("permalink", "")
 
 
