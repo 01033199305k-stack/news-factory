@@ -395,10 +395,16 @@ def gemini_json(system, user, schema):
                 print("GEMINI", last)
                 if ex.code in (401, 403):
                     raise RuntimeError(last)  # 키 문제는 다른 모델로 가도 같다
-                if ex.code in (429, 500, 503, 504) and attempt < 2:
+                # 할당량 소진(429 "exceeded your current quota")은 기다려도 안 풀린다 → 바로 다음 모델
+                if ex.code in (429, 500, 503, 504) and attempt < 2 and "quota" not in msg:
                     time.sleep((8, 20)[attempt])  # 무료 구간은 자주 붐빈다 — 조금 쉬었다 다시
                     continue
-                break                         # 404(모델 없음)·계속 붐빔 → 다음 모델
+                break                         # 404(모델 없음)·할당량·계속 붐빔 → 다음 모델
+            except (TimeoutError, urllib.error.URLError, ConnectionError) as ex:
+                # 응답이 안 오면 예전엔 예외가 그대로 올라가 그 실행의 게시가 통째로 빠졌다 (2026-09-29 check)
+                last = "%s → %s" % (model, type(ex).__name__)
+                print("GEMINI", last)
+                break                         # 이미 오래 기다렸다 → 다음 모델
         if d is None:
             continue
         u = d.get("usageMetadata", {})
