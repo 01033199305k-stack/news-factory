@@ -170,7 +170,9 @@ jobs:
           print("업로드   :", u.put(key, "output/2026-09-26-newcaledonia-m66/video.mp4", u.oidc_token()))
           time.sleep(20)
           url = os.environ["MEDIA_BASE"] + "/" + key
-          with urllib.request.urlopen(urllib.request.Request(url, method="HEAD")) as r:
+          # 파이썬 기본 User-Agent 는 workers.dev 가 403 으로 막는다 (2026-09-29 확인)
+          with urllib.request.urlopen(urllib.request.Request(
+                  url, method="HEAD", headers={"User-Agent": "news-factory-check"})) as r:
               print("보관소   :", r.status, r.headers["Content-Type"], r.headers["Content-Length"], "bytes")
           t = os.environ.get("TOKEN")
           if not t:
