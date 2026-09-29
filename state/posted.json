@@ -1858,5 +1858,52 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790716324
+  },
+  {
+    "slug": "2026-09-30-news-offaly-workplace-accident-2026",
+    "event_ms": 1790711274000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 아일랜드 사업장서 사고 발생... 아버지와 딸 사망\n\n· 사망한 이들은 49세 아버지와 24세 딸로 확인됐습니다 (더 미러·디 아이리시 타임즈)\n· 아일랜드의 한 사업장에서 사고가 일어났습니다 (미들랜즈 103)\n\n출처: 더 미러·디 아이리시 타임즈·미들랜즈 103 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "아일랜드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18373934329242472",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd4t696FDhN",
+        "kind": "carousel",
+        "at": 1790717043
+      },
+      "instagram": {
+        "id": "17983080113895703",
+        "permalink": "https://www.instagram.com/reel/Dd4uIq2jwCm/",
+        "kind": "reel",
+        "at": 1790717171
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1790717182
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790717182
   }
 ]
