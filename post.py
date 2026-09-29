@@ -345,6 +345,8 @@ def main():
     failed = False
     remaining = []
     for item in queue:
+        # 마지막 방어선: 글자 그대로의 '\n'(역슬래시+n)이 본문에 남아 있으면 진짜 줄바꿈으로 (news_watch.fix_newlines 와 같은 일)
+        item["text"] = item.get("text", "").replace("\\n", "\n")
         done = item.setdefault("done", {})
         tries = item["attempts"] = (item["attempts"] if isinstance(item.get("attempts"), dict)
                                     else {})

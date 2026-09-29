@@ -329,11 +329,23 @@ def judge(cands, recent, system=SYSTEM):
     return llm_json(system, user, SCHEMA)["events"]
 
 
+def fix_newlines(o):
+    """모델이 줄바꿈을 글자 그대로 '\\n'(역슬래시+n)으로 쓸 때가 있다 — 진짜 줄바꿈으로 바꾼다.
+    (2026-09-28 이란 휴전 건: 스레드·인스타 본문, 유튜브 설명, 카드 제목에 '\\n' 이 그대로 찍혀 나갔다)"""
+    if isinstance(o, str):
+        return o.replace("\\n", "\n")
+    if isinstance(o, list):
+        return [fix_newlines(x) for x in o]
+    if isinstance(o, dict):
+        return {k: fix_newlines(v) for k, v in o.items()}
+    return o
+
+
 def llm_json(system, user, schema):
     """GEMINI_API_KEY 가 있으면 Gemini(무료), 없으면 Claude. 스키마에 맞는 JSON 을 돌려준다."""
     if os.environ.get("GEMINI_API_KEY"):
-        return gemini_json(system, user, schema)
-    return claude_json(system, user, schema)
+        return fix_newlines(gemini_json(system, user, schema))
+    return fix_newlines(claude_json(system, user, schema))
 
 
 def claude_json(system, user, schema):
