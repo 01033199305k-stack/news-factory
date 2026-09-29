@@ -1,0 +1,138 @@
+{
+  "slug": "2026-09-29-news-iran-us-trump-dispute",
+  "topic": "이란 혁명수비대, 트럼프를 향해 대거짓말쟁이라고 비난했습니다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 21:44 KST",
+  "source": "Al Jazeera·The Times of India·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi5gFBVV95cUxQSHZ0dDFRaFRHT2NJY29nY2hWV0ZCS1JNekt2dWxXX3FwMTNibDZDNlA1MTF2WERtTDRCMmtCcF9pbjkwTmJtbWxxUUt4cHdxR2ZwenNXU0Q1cGhmVDZJQ3NoNVF6TFIxa0dyanpEYlZxQmVxZXJPLVN3NVB5SVl3VHhIdkZqSDlDdFgxcXJPRWNYaUZ3UkhaQUZLNVgzWS1CUUp0MjNSaUtQTl9KT2xvOHRoLVBfeTBzeXlQVnBqVFM5RjAxcnJkTU13NDZBQUtIeEZ6ZDlGNEo1ZnA4ZGF6OU9Pa3hjUdIB7AFBVV95cUxPa2gzRjRSb0FHNTQ0eHktSkRxQVZIWXg1ODk0bmpCZ0J4ZDMyLWJYQnNCR0czLTQyV2VXcVRxdzBZUEd3V3FTR215Mkl6Y0tRV1pwY3ByQmRaY01SMDQ1UHppQ2FtYWpvbWltNzJ5d0FweWtaYU5lVkpHMFpsd3czaHZ4NG5qS2dzZGJaS3kwOUxhYTZXNjhqbEZ2cWtkZzlndDhzWlhpNlk0ekVzRkRyN1VXTTVrZkhpU2tXNGtYMVB2dlppdy1JVnNaZnVvbl8xaXM2WklBWTIwLTVEOXV4T081RjN3cXhVeW43NQ",
+    "related": [
+      [
+        "US-Iran War Live Updates: Iran’s Revolutionary Guards call US President Trump a ‘big liar’",
+        "The Indian Express"
+      ],
+      [
+        "Iran war live: IRGC tells American people that US must end its ‘war crimes’",
+        "Al Jazeera"
+      ],
+      [
+        "Iran's Revolutionary Guards woo US voters with open letter",
+        "reuters.com"
+      ],
+      [
+        "‘Iran not after nuclear weapons’: Iranian Guard Corps spokesperson denies US claim; calls Trump ‘a big liar’",
+        "hindustantimes.com"
+      ],
+      [
+        "US Iran War Live Updates: ''Declare failure & leave the region'; Iran calls Trump 'big liar', issues warning",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "iran-us-trump-dispute"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이란 혁명수비대, 트럼프를 향해\n[[대거짓말쟁이]]라고 비난했습니다",
+      "sub": "미국 대중을 향해 전쟁 범죄 중단을 촉구했습니다.",
+      "chips": [
+        {
+          "k": "주체",
+          "v": "이란 혁명수비대"
+        }
+      ],
+      "alt": "이란 혁명수비대, 트럼프를 향해 대거짓말쟁이라고 비난했습니다",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공개 서한",
+          "d": "이란 혁명수비대는 미국 유권자들을 향해 공개 서한을 보냈다고 로이터 등이 전했습니다."
+        },
+        {
+          "t": "핵무기 관련",
+          "d": "이란 측은 핵무기를 추구하지 않는다는 입장을 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 혁명수비대의 트럼프 비난",
+        "미국 유권자 대상 공개 서한 발송"
+      ],
+      "unconfirmed": [
+        "미국 정부의 공식 반응",
+        "향후 양국 간 군사적 긴장 고조 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "The Indian Express",
+        "The Times of India",
+        "hindustantimes.com",
+        "reuters.com",
+        "2026.09.29 23:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이란 혁명수비대가 트럼프 미국 대통령을 대거짓말쟁이라고 비난했습니다\n\n· 이란 혁명수비대는 미국 유권자들에게 공개 서한을 보냈다고 전했습니다 (로이터)\n· 이란 측은 미국이 전쟁 범죄를 끝내야 한다고 주장했습니다 (알자지라)\n· 이란 측은 핵무기를 추구하지 않는다고 밝혔습니다 (힌두스탄 타임스)\n\n미국과 이란의 갈등이 격화되는 가운데, 양국 관계의 향방에 대해 어떻게 생각하십니까?\n출처: 인디언 익스프레스·알자지라·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란 혁명수비대가 트럼프 미국 대통령을 대거짓말쟁이라고 비난했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 이란 혁명수비대가 미국 유권자들을 향해 공개 서한을 보냈다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란 측은 미국이 전쟁 범죄를 끝내야 한다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 정부의 공식적인 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
