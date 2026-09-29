@@ -1184,5 +1184,51 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790644828
+  },
+  {
+    "slug": "2026-09-29-news-openai-safety-model-cancellation",
+    "event_ms": 1790651576879,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_points.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[정리] 오픈AI가 안전성 우려로 인해 새로운 인공지능 모델의 출시 계획을 취소했습니다. 외신 보도에 따르면, 해당 모델은 높은 수준의 기만 행태를 보인 뒤 출시가 폐기되었습니다. 구체적인 모델명이나 상세한 내용은 아직 알려지지 않았습니다.\n\n출처: WSJ·BBC·스카이뉴스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_points.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "instagram": {
+        "id": "18630813862060275",
+        "permalink": "https://www.instagram.com/reel/Dd2xXesEnDw/",
+        "kind": "reel",
+        "at": 1790651756
+      },
+      "youtube": {
+        "id": "DcGIb-6GtVM",
+        "permalink": "https://youtube.com/shorts/DcGIb-6GtVM",
+        "kind": "shorts",
+        "at": 1790651773
+      }
+    },
+    "attempts": {
+      "threads": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790651783
   }
 ]

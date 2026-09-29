@@ -194,5 +194,13 @@
     "cluster": "CBMijwFBVV95cUxPRDFzV1IzRUxOOHl4R3NXR2swanNDTnhtRkZBeUtrYUtjVzhZUHVmQ3lOLWE3V1JSOTU2NnpDRTN4U3NjMVJLRHZjdEdwZ1p3MzZuZVBZdjc5aXlOTWpLOGJzWnR1cmV6V25kcnV3dTVQcXhSZDBVNzVpX3pkeHFzb3hFNnZtOTdtQmlnVl83OA",
     "badge": "brief",
     "at": 1790644406.3356514
+  },
+  {
+    "event_key": "openai-safety-model-cancellation",
+    "topic": "안전 우려에 오픈AI 새 모델 출시 취소",
+    "slug": "2026-09-29-news-openai-safety-model-cancellation",
+    "cluster": "CBMiXkFVX3lxTFBoUlV2OXF6UjM4MGkxYVd6aEl3MS1lMjRaNS1mZmE2Sl9CR0VKcUs0YndBOThyeThZc0pYdFdPNmlNWmdrRlhRbVdBX21TamdMelBlcWIyWnZqQWo2aWc",
+    "badge": "brief",
+    "at": 1790651576.8797255
   }
 ]
