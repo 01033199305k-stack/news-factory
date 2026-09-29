@@ -1,0 +1,142 @@
+{
+  "slug": "2026-09-29-news-estonia-blames-russia-arson",
+  "topic": "에스토니아, 러시아 방화 배후로 지목",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.29 20:23 KST",
+  "source": "AP News·Politico·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuAFBVV95cUxONVBUbWk1a0dSTS00YmN5Q3hVRUtsSEtnVDBpVVBiWWlBaC1Oak12RHhMOEVuM1VsTTlQRU5UU1ZVMzFBQmVOWWcycWk1TTlTdzBaTDV5OXpPVVA2alNiZnpNU2FHc0xrWlktXzVzazNESW9jQmJidmdZbHdYZ18zWjNmMzJmSEJHRGp0S1pFcFppYVF6VU01WERzSGdiamNFbGFGRjdLWGpmUXluRndXVERlZGo1YmZk",
+    "related": [
+      [
+        "Ukraine war latest: Nato member announces suspected Russian attack",
+        "The Independent"
+      ],
+      [
+        "‘We will not be intimidated,’ says Estonian PM after attributing recent arson attack to Russia - Europe live",
+        "The Guardian"
+      ],
+      [
+        "Estonia blames Russia for arson attack on defense company",
+        "Politico"
+      ],
+      [
+        "NATO, EU allies rally to Estonia after 'sabotage' blamed on Russia",
+        "Yahoo"
+      ],
+      [
+        "Estonia blames Russia for arson attack on defense company that provides vehicles to Ukraine",
+        "AP News"
+      ]
+    ],
+    "event_key": "estonia-blames-russia-arson"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "에스토니아, 러시아\n[[방화 배후]]로 지목",
+      "sub": "우크라이나 지원 차량 공급 방산업체 방화 공격 (AP)",
+      "chips": [
+        {
+          "k": "사건",
+          "v": "방화 공격"
+        },
+        {
+          "k": "배후 지목",
+          "v": "러시아"
+        }
+      ],
+      "alt": "에스토니아, 러시아 방화 배후로 지목",
+      "map": {
+        "lat": 59.437242,
+        "lon": 24.7572693,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "에스토니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "에스토니아\n탈린",
+      "video_only": true,
+      "map": {
+        "lat": 59.437242,
+        "lon": 24.7572693,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "탈린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "우크라이나 지원 기업",
+          "d": "방화 공격을 받은 곳은 우크라이나에 차량을 공급하는 에스토니아 방위 산업체입니다 (AP)."
+        },
+        {
+          "t": "에스토니아 총리 선언",
+          "d": "에스토니아 총리는 최근의 방화 공격을 러시아 소행으로 지목한 뒤 겁먹지 않겠다고 밝혔습니다 (가디언)."
+        },
+        {
+          "t": "NATO·EU 연대 지지",
+          "d": "나토와 유럽연합 동맹국들은 에스토니아를 지지하며 결집했습니다 (야후)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에스토니아 방산업체 방화 사건",
+        "러시아를 사보타주 배후로 지목"
+      ],
+      "unconfirmed": [
+        "러시아 정부의 공식 입장",
+        "구체적인 시설 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Politico",
+        "The Guardian",
+        "The Independent",
+        "Yahoo",
+        "2026.09.29 21:35 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 에스토니아 \"방화 사건 배후는 러시아\" 지목\n\n· 에스토니아가 방위 산업체 방화 공격의 배후로 러시아를 지목했습니다 (폴리티코).\n· 방화 피해를 입은 기업은 우크라이나에 차량을 제공하는 곳입니다 (AP).\n· 나토(NATO)와 유럽연합(EU) 동맹국들은 러시아 소행으로 지목된 사보타주 이후 에스토니아를 지지하며 결집했습니다 (야후).\n\n러시아 소행으로 의심되는 사보타주 공격에 대해 동맹국들은 어떻게 대응해야 할까요?\n\n출처: 가디언·폴리티코·AP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "에스토니아가 방위 산업체 방화 공격의 배후로 러시아를 지목했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "피해를 입은 기업은 우크라이나에 차량을 제공하는 곳입니다.",
+      "card": "map"
+    },
+    {
+      "text": "구체적인 피해 규모와 러시아 측의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

@@ -1519,5 +1519,54 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790683752
+  },
+  {
+    "slug": "2026-09-29-news-estonia-blames-russia-arson",
+    "event_ms": 1790680996000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 에스토니아 \"방화 사건 배후는 러시아\" 지목\n\n· 에스토니아가 방위 산업체 방화 공격의 배후로 러시아를 지목했습니다 (폴리티코).\n· 방화 피해를 입은 기업은 우크라이나에 차량을 제공하는 곳입니다 (AP).\n· 나토(NATO)와 유럽연합(EU) 동맹국들은 러시아 소행으로 지목된 사보타주 이후 에스토니아를 지지하며 결집했습니다 (야후).\n\n러시아 소행으로 의심되는 사보타주 공격에 대해 동맹국들은 어떻게 대응해야 할까요?\n\n출처: 가디언·폴리티코·AP 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "에스토니아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18115715362961335",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd3xnBSG-bC",
+        "kind": "carousel",
+        "at": 1790685422
+      },
+      "instagram": {
+        "id": "18108985379047952",
+        "permalink": "https://www.instagram.com/reel/Dd3x7oKjXlh/",
+        "kind": "reel",
+        "at": 1790685613
+      },
+      "youtube": {
+        "id": "GOjmPOjtiQs",
+        "permalink": "https://youtube.com/shorts/GOjmPOjtiQs",
+        "kind": "shorts",
+        "at": 1790685652
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790685662
   }
 ]
