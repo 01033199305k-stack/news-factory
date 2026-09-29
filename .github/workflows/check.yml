@@ -160,7 +160,7 @@ jobs:
           TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
         run: |
           command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
-          pip install --quiet edge-tts
+          pip install --quiet edge-tts playwright   # playwright: 모션 영상 촬영 (watch.yml 과 같게, 크롬은 러너에 있는 것)
           python make_video.py specs/sample-newcaledonia-m66.json
           ffprobe -v error -show_entries format=duration:stream=codec_name,width,height,sample_rate -of compact output/2026-09-26-newcaledonia-m66/video.mp4
           python - <<'EOF'
