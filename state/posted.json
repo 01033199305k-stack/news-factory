@@ -1954,5 +1954,54 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790723430
+  },
+  {
+    "slug": "2026-09-30-news-six-flags-x2-rollercoaster-closure",
+    "event_ms": 1790721193000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 식스 플래그스 유명 롤러코스터 X2가 영구 폐쇄됐습니다\n\n· 수백 명의 이용객이 뇌 손상 등 부상을 입었다고 주장했습니다 (BBC)\n· 관련 소송이 이어지며 놀이기구가 완전히 멈춰 섰습니다 (가디언)\n\n출처: BBC·CNN·ABC7·가디언 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "instagram": {
+        "id": "18123121565294436",
+        "permalink": "https://www.instagram.com/reel/Dd4-vMUiOxs/",
+        "kind": "reel",
+        "at": 1790725883
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1790725893
+      },
+      "threads": {
+        "id": "18446345053126038",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd4_Xw3D8L3",
+        "kind": "carousel",
+        "at": 1790726191
+      }
+    },
+    "attempts": {
+      "threads": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790726201
   }
 ]
