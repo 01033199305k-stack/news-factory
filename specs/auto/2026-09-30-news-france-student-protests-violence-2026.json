@@ -1,0 +1,140 @@
+{
+  "slug": "2026-09-30-news-france-student-protests-violence-2026",
+  "topic": "프랑스 고교생 시위 격화 충돌로 수십 명 부상·체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 22:35 KST",
+  "source": "Al Jazeera·NDTV·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxPWC1DM3ZDVTh2Y3hyMDdYWlo2OVNaUW43dWJGZ1NmQ3JZLXVLNHJkWEhHNGdsMHdfamRMbUV3Y2M1S2J5YjJsNkNpeHR4d2NJTGd0azJnZlc3cVAxUGQyRm04WmI5MjJoOTVzMkZYc2s1NkZGM1BTWGNXSkFlaTM3TjFYeWRJNGpyNUlJOFlRT1pvZzFBSWVZU3lab2RTd1dIYkkxRw",
+    "related": [
+      [
+        "Injuries and arrests as high school students keep up blockade of French schools",
+        "Reuters"
+      ],
+      [
+        "Hundreds detained as student protests across France turn violent",
+        "The Guardian"
+      ],
+      [
+        "What’s behind French student protests that turned violent?",
+        "Al Jazeera"
+      ],
+      [
+        "Gen Alpha In France Protest School Timings, Staff Shortage, Hot Classrooms",
+        "NDTV"
+      ],
+      [
+        "Dozens injured in French student protests over school resources",
+        "The Hindu"
+      ]
+    ],
+    "event_key": "france-student-protests-violence-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스 고교생 [[시위 격화]]\n충돌로 수십 명 부상·체포",
+      "sub": "학교 환경과 수업 시간에 반발하는 시위가 폭력 사태로 번졌습니다",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "수십 명"
+        }
+      ],
+      "alt": "프랑스 고교생 시위 격화 충돌로 수십 명 부상·체포",
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "시위 배경",
+          "d": "학생들은 학교 시설 부족과 교사 부족, 수업 시간에 반발하며 봉쇄 시위를 벌였습니다 (가디언·NDTV)"
+        },
+        {
+          "t": "당국 대응",
+          "d": "프랑스 전역에서 시위가 과격 양상을 띠면서 수백 명이 구금됐습니다 (로이터·가디언)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "고교생 봉쇄 시위 격화",
+        "수십 명 부상 및 수백 명 구금",
+        "학교 환경 및 시설 문제 반발"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 및 구금자 최종 집계",
+        "한국인 피해 여부",
+        "향후 추가 시위 확산 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "NDTV",
+        "Reuters",
+        "The Guardian",
+        "The Hindu",
+        "2026.09.30 23:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 고교생 시위 격화로 충돌 발생해 수십 명 부상\n\n· 학교 시설 부족과 교사 부족, 수업 시간에 반발하며 시위가 확산했습니다 (가디언·NDTV)\n· 프랑스 전역에서 시위가 폭력 양상을 띠면서 수백 명이 구금됐습니다 (로이터·가디언)\n\n출처: 로이터·가디언·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스에서 고등학교 환경에 반발하는 학생 시위가 격화되면서 충돌이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 프랑스 전역에서 시위 도중 수십 명이 다치고 수백 명이 구금됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "학생들은 학교 시설과 교사 부족, 수업 시간에 항의하며 학교 봉쇄를 이어가고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 규모와 추가 충돌 가능성은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

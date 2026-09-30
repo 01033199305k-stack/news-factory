@@ -495,5 +495,15 @@
     "at": 1790773671.4638858,
     "country": "태국",
     "category": "재난"
+  },
+  {
+    "event_key": "france-student-protests-violence-2026",
+    "topic": "프랑스 고교생 시위 격화 충돌로 수십 명 부상·체포",
+    "slug": "2026-09-30-news-france-student-protests-violence-2026",
+    "cluster": "CBMipAFBVV95cUxPWC1DM3ZDVTh2Y3hyMDdYWlo2OVNaUW43dWJGZ1NmQ3JZLXVLNHJkWEhHNGdsMHdfamRMbUV3Y2M1S2J5YjJsNkNpeHR4d2NJTGd0azJnZlc3cVAxUGQyRm04WmI5MjJoOTVzMkZYc2s1NkZGM1BTWGNXSkFlaTM3TjFYeWRJNGpyNUlJOFlRT1pvZzFBSWVZU3lab2RTd1dIYkkxRw",
+    "badge": "breaking",
+    "at": 1790777429.1311905,
+    "country": "프랑스",
+    "category": "기타 사건"
   }
 ]
