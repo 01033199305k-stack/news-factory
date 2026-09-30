@@ -1,0 +1,140 @@
+{
+  "slug": "2026-09-30-news-nepal-floods-landslides-september-2026",
+  "topic": "네팔 폭우로 홍수·산사태 발생 사망 21~27명 기록",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 14:18 KST",
+  "source": "The Indian Express·ThePrint·newsonair.gov.in 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxNdVROTDNXSnJDWnM4WC1CQmN4TTM2SWpXZFd4OUVPLWZZc0lVMDJuM2hBenV1RkFySFFvUkptbHJOakNfVWpCaExaSEdVNUJNOG9HS29NTWNIQTctaTBUYnhXVEVkQkFVeW5uOVBmcnVOQm05Umt0dkRicXhvUFROTzVzdmgtSFV4dnZQTTZ4RXhwTm42SGg1T3htX3hTYW9qUUZlSUxLT2h5ZVdTVS1JZWdRNmMzTkZ3ZEtMetIBwwFBVV95cUxQZzFlWmRLTmxlT0dpbWJUaHF3MjVENFZsaFZDWUlCOWdVVng5Snd6d1c3OHBvZGpCY0RhaFFpMGtOcGsxSjhaVjZKalh4UlUzZ193RzI4UUMyX3NIM2Jkejl4TXRERmhVQTVzejVhTnR3YjdIcDZHQnU4dHNxOG9IWi16aVNhZTdsNmpoNUdkMVc0ek9ORkg2RlQ4QVV6UW50SkdkNlRXUFpJRUNXWjUwRDJmdURMUFZ4bUJrbXRQaVBpT3c",
+    "related": [
+      [
+        "Mountain collapses into river in Nepal, terrifying video captures chaos",
+        "The Indian Express"
+      ],
+      [
+        "27 killed across Nepal as heavy rainfall continues for five days, flood threat in Bihar districts",
+        "telegraphindia.com"
+      ],
+      [
+        "Watch: Government building collapses into river as heavy rains trigger fresh landslide in Nepal",
+        "timesofindia.indiatimes.com"
+      ],
+      [
+        "27 killed across Nepal due to rain-induced disasters in last few days: Authorities",
+        "ThePrint"
+      ],
+      [
+        "Torrential rain, floods and landslides claim 21 lives in Nepal | Akashvani News",
+        "newsonair.gov.in"
+      ]
+    ],
+    "event_key": "nepal-floods-landslides-september-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "네팔 폭우로 홍수·산사태 발생\n사망 [[21~27명]] 기록",
+      "sub": "5일간 지속된 폭우로 건물과 산악 지대가 무너졌습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "21~27명"
+        }
+      ],
+      "alt": "네팔 폭우로 홍수·산사태 발생 사망 21~27명 기록",
+      "map": {
+        "lat": 28.3780464,
+        "lon": 83.9999901,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "네팔"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네팔",
+      "video_only": true,
+      "map": {
+        "lat": 28.3780464,
+        "lon": 83.9999901,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "네팔"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "건물 붕괴",
+          "d": "폭우와 산사태로 인해 정부 건물 등이 강으로 무너져 내렸습니다."
+        },
+        {
+          "t": "확산 위험",
+          "d": "인도 비하르 지역까지 홍수 위협이 이어지고 있습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 21~27명 (매체별 집계 차이)",
+        "5일간 지속된 폭우",
+        "산사태 및 건물 붕괴"
+      ],
+      "unconfirmed": [
+        "실종자 규모",
+        "한국인 피해 여부",
+        "정확한 재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "The Indian Express",
+        "ThePrint",
+        "newsonair.gov.in",
+        "telegraphindia.com",
+        "timesofindia.indiatimes.com",
+        "2026.09.30 15:20 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 네팔 폭우로 홍수·산사태 발생, 사망 21~27명 기록\n\n· 5일간 이어진 폭우로 산사태와 건물 붕괴가 발생했습니다 (테레그래프인디아·타임스오브인디아)\n· 인도 비하르 지역까지 홍수 위협이 이어지고 있습니다 (테레그래프인디아)\n\n출처: ThePrint·더인디언익스프레스·타임스오브인디아·테레그래프인디아·뉴즈온에어 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "네팔에서 닷새 동안 이어진 폭우로 홍수와 산사태가 발생해 21명에서 27명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "정부 건물 등이 강으로 무너져 내렸습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인도 비하르 지역까지 홍수 위협이 이어지고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "정확한 실종자 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
