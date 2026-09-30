@@ -1,0 +1,134 @@
+{
+  "slug": "2026-09-30-news-china-eu-tariffs-warning",
+  "topic": "중국, EU 규제 움직임에 보복 경고 공식화",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 11:31 KST",
+  "source": "Bloomberg.com·Reuters·South China Morning Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxOV0thUjNyWmRBQUo4YlpfYS14dlJuSndzZUxxTGhzZFlYVFhPWkRSSjVSV3RHX29yeDlqclU1TzU2bWFPVVNkaHdadXc3NVQ5WUJ1RzZIc25RcWtUN3I3Z0VKcGVUX1FEdWpiOHJJMW9PTjVPYjhSM3FHNy0tazBsa21vaXhITWfSAYwBQVVfeXFMTmdKWnpPSnZHaUoyUXJMVndJSDR1d3BHeGhaaFRFamI5a2hnTDJXeTFveFRBeHlnRUtLeHlDa0NiN2ZsTEtFV0J5VWRWSnljajN1U3hveHFHVTBSbVdual9oY3l6REl3MkRZNmFNUXN4a1V0RVZrNVdFazVpU3BqMW8zNFZlRU1UV0lRV2M",
+    "related": [
+      [
+        "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+        "cnbc.com"
+      ],
+      [
+        "China vows response if EU introduces moves targeting Chinese trade",
+        "Reuters"
+      ],
+      [
+        "China Warns Broad EU Tariffs Could Disrupt Trade Negotiations",
+        "Bloomberg.com"
+      ],
+      [
+        "Beijing, Berlin hold video call amid reported plan to shut China out of EU",
+        "South China Morning Post"
+      ],
+      [
+        "CPIFA News",
+        "cpifa.org"
+      ]
+    ],
+    "event_key": "china-eu-tariffs-warning"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "중국, EU 규제 움직임에\n[[보복 경고]] 공식화",
+      "sub": "무역 협상 파행 우려 고조",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "유럽연합"
+        }
+      ],
+      "alt": "중국, EU 규제 움직임에 보복 경고 공식화",
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n베이징",
+      "video_only": true,
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베이징"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "보복 방침",
+          "d": "중국 정부는 유럽연합이 중국 기업을 겨냥한 조치를 도입할 경우 대응에 나설 것이라고 밝혔습니다 (CNBC·로이터)."
+        },
+        {
+          "t": "무역 협상",
+          "d": "광범위한 관세가 양측의 무역 협상을 방해할 수 있다고 블룸버그통신은 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "중국 정부의 보복 경고",
+        "유럽연합의 중국 기업 규제 움직임"
+      ],
+      "unconfirmed": [
+        "구체적인 보복 조치 내용",
+        "향후 무역 협상 재개 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Reuters",
+        "South China Morning Post",
+        "cnbc.com",
+        "cpifa.org",
+        "2026.09.30 13:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 중국 정부, 유럽연합의 중국 기업 규제 움직임에 보복을 경고했습니다.\n\n· 중국 측은 유럽연합이 무역 제재를 도입할 경우 대응에 나설 것이라고 밝혔습니다 (CNBC·로이터)\n· 광범위한 관세 조치가 양측의 무역 협상을 방해할 수 있다는 우려가 나옵니다 (블룸버그)\n\n유럽연합의 중국 기업 제재 움직임 속에서 양측의 무역 갈등이 해소될 수 있다고 보십니까?\n출처: CNBC·로이터·블룸버그통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국 정부는 유럽연합이 중국 기업을 겨냥한 규제를 도입할 경우 보복에 나서겠다고 경고했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "베이징 당국은 광범위한 관세가 양측의 무역 협상에 차질을 빚게 할 수 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 보복 조치의 내용이나 향후 협상 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

@@ -405,5 +405,15 @@
     "at": 1790733970.3685486,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "china-eu-tariffs-warning",
+    "topic": "중국, EU 규제 움직임에 보복 경고 공식화",
+    "slug": "2026-09-30-news-china-eu-tariffs-warning",
+    "cluster": "CBMihwFBVV95cUxOV0thUjNyWmRBQUo4YlpfYS14dlJuSndzZUxxTGhzZFlYVFhPWkRSSjVSV3RHX29yeDlqclU1TzU2bWFPVVNkaHdadXc3NVQ5WUJ1RzZIc25RcWtUN3I3Z0VKcGVUX1FEdWpiOHJJMW9PTjVPYjhSM3FHNy0tazBsa21vaXhITWfSAYwBQVVfeXFMTmdKWnpPSnZHaUoyUXJMVndJSDR1d3BHeGhaaFRFamI5a2hnTDJXeTFveFRBeHlnRUtLeHlDa0NiN2ZsTEtFV0J5VWRWSnljajN1U3hveHFHVTBSbVdual9oY3l6REl3MkRZNmFNUXN4a1V0RVZrNVdFazVpU3BqMW8zNFZlRU1UV0lRV2M",
+    "badge": "brief",
+    "at": 1790741493.3487973,
+    "country": "중국",
+    "category": "국제"
   }
 ]
