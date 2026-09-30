@@ -2344,5 +2344,99 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790753092
+  },
+  {
+    "slug": "2026-09-30-news-dubai-tel-aviv-flight-diverted",
+    "event_ms": 1790750907000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 텔아비브행 여객기 사우디아라비아 공항에 착륙했습니다\n\n· 텔아비브로 향하던 여객기가 조종사의 비상 신호 발송 후 회항했습니다 (CNN)\n· 해당 여객기는 사우디아라비아 공항에 착륙했으며 납치 상황은 아닌 것으로 확인됐습니다 (로이터·타임스오브이스라엘)\n\n출처: CNN·CBS뉴스·로이터·제루살렘포스트·타임스오브이스라엘 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18093274220169335",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd548hCGxI6",
+        "kind": "carousel",
+        "at": 1790756374
+      },
+      "instagram": {
+        "id": "18012313847967072",
+        "permalink": "https://www.instagram.com/reel/Dd55gohDt8G/",
+        "kind": "reel",
+        "at": 1790756696
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1790756752
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790756752
+  },
+  {
+    "slug": "2026-09-30-news-somali-pirates-tanker-crew-killed",
+    "event_ms": 1790750495000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 소말리아 해적에게 피랍된 유조선에서 선원 5명이 살해됐습니다\n\n· 소말리아 보안군이 피랍 유조선을 구출하는 과정에서 선원 5명이 해적에게 살해당한 것으로 확인됐습니다 (알자지라·로이터)\n· 해당 선박에는 파키스탄 국적의 선원들이 타고 있었습니다 (던)\n\n출처: BBC·알자지라·던·익스프레스트리뷴·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "소말리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18079974686368095",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd55Ayjm4CH",
+        "kind": "carousel",
+        "at": 1790756411
+      },
+      "instagram": {
+        "id": "18165416497469332",
+        "permalink": "https://www.instagram.com/reel/Dd55mgfAWtY/",
+        "kind": "reel",
+        "at": 1790756742
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1790756752
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790756752
   }
 ]

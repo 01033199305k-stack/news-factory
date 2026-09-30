@@ -455,5 +455,25 @@
     "at": 1790752280.4249303,
     "country": "이스라엘",
     "category": "사고"
+  },
+  {
+    "event_key": "dubai-tel-aviv-flight-diverted",
+    "topic": "텔아비브행 여객기 사우디로 회항",
+    "slug": "2026-09-30-news-dubai-tel-aviv-flight-diverted",
+    "cluster": "CBMiggFBVV95cUxQZkc0YVVpSUc0aWExWkZxTThEZGQ4RXZhajdfUUwwMmRSN2lzcDlla3M2VVg2R3ZiUG1USi13c3BXYmlYLVhEQzZBZTE2am9pcGtQb1ZUTG1fYUdnU0kzeXRXM2NSUEdlRW9QSmN0ajhYd1BaandWVEVIQlBUUWpOcmxR",
+    "badge": "breaking",
+    "at": 1790756163.2289355,
+    "country": "사우디아라비아",
+    "category": "사고"
+  },
+  {
+    "event_key": "somali-pirates-tanker-crew-killed",
+    "topic": "소말리아 해적 피랍 유조선서 선원 사망 5명 발생",
+    "slug": "2026-09-30-news-somali-pirates-tanker-crew-killed",
+    "cluster": "CBMiXkFVX3lxTE53X1dIb3lORk5GQ1VFZ2NlVC1YWG8xd1ZVd3hDZDMyQjhDSUZoczJSWV9zZHVCeGdSN3pseWp5RzhxRXNQdFVlX09vdkVrdFlHalh1eUFJc3J0OEx5ZkE",
+    "badge": "breaking",
+    "at": 1790756327.4782536,
+    "country": "소말리아",
+    "category": "사고"
   }
 ]

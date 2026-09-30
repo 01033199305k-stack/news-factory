@@ -1,0 +1,143 @@
+{
+  "slug": "2026-09-30-news-somali-pirates-tanker-crew-killed",
+  "topic": "소말리아 해적 피랍 유조선서 선원 사망 5명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 15:41 KST",
+  "source": "Al Jazeera·Reuters·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE53X1dIb3lORk5GQ1VFZ2NlVC1YWG8xd1ZVd3hDZDMyQjhDSUZoczJSWV9zZHVCeGdSN3pseWp5RzhxRXNQdFVlX09vdkVrdFlHalh1eUFJc3J0OEx5ZkE",
+    "related": [
+      [
+        "Somali pirates killed tanker crew before rescue, Puntland official tells BBC",
+        "bbc.co.uk"
+      ],
+      [
+        "Somali pirates killed five crew members on hijacked tanker, officials say",
+        "Al Jazeera"
+      ],
+      [
+        "Somali forces recover oil tanker carrying Pakistani crewmen over 5 months after hijacking by pirates",
+        "Dawn"
+      ],
+      [
+        "Somali pirates kill three Pakistanis during rescue operation",
+        "The Express Tribune"
+      ],
+      [
+        "Somali pirates killed 5 crew members of hijacked tanker before rescue mission, Puntland says",
+        "Reuters"
+      ]
+    ],
+    "event_key": "somali-pirates-tanker-crew-killed"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "소말리아 해적 피랍 유조선서\n선원 [[사망 5명]] 발생",
+      "sub": "구조 작전 전 해적들이 선원 살해",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "5명"
+        }
+      ],
+      "alt": "소말리아 해적 피랍 유조선서 선원 사망 5명 발생",
+      "map": {
+        "lat": 9.7412337,
+        "lon": 50.0482311,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "소말리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "소말리아\n푼틀랜드",
+      "video_only": true,
+      "map": {
+        "lat": 9.7412337,
+        "lon": 50.0482311,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "푼틀랜드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "선원 사망",
+          "d": "소말리아 해적에게 피랍되었던 유조선에서 구조 작전이 벌어지기 전 선원 5명이 살해당했습니다 (알자지라·로이터)."
+        },
+        {
+          "t": "선원 국적",
+          "d": "선박에는 파키스탄 국적의 선원들이 탑승하고 있었습니다 (던·익스프레스트리뷴)."
+        },
+        {
+          "t": "보안군 작전",
+          "d": "소말리아 보안군은 피랍 5개월여 만에 유조선을 확보했습니다 (던)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "선원 5명 사망",
+        "유조선 구출 작전 진행",
+        "파키스탄 국적 선원 탑승"
+      ],
+      "unconfirmed": [
+        "정확한 사망자 수 매체별 집계 차이 있음 (3명~5명)",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Dawn",
+        "Reuters",
+        "The Express Tribune",
+        "bbc.co.uk",
+        "2026.09.30 17:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 소말리아 해적에게 피랍된 유조선에서 선원 5명이 살해됐습니다\n\n· 소말리아 보안군이 피랍 유조선을 구출하는 과정에서 선원 5명이 해적에게 살해당한 것으로 확인됐습니다 (알자지라·로이터)\n· 해당 선박에는 파키스탄 국적의 선원들이 타고 있었습니다 (던)\n\n출처: BBC·알자지라·던·익스프레스트리뷴·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "소말리아 해적에게 피랍되었던 유조선에서 선원들이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라 방송은 구조 작전이 벌어지기 전 해적들이 선원 5명을 살해했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "선박에는 파키스탄 국적의 선원들이 타고 있었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망자 수는 매체별 집계에 차이가 있습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

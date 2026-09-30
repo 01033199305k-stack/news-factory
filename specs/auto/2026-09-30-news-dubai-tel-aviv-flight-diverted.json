@@ -1,0 +1,144 @@
+{
+  "slug": "2026-09-30-news-dubai-tel-aviv-flight-diverted",
+  "topic": "텔아비브행 여객기 사우디로 회항",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 15:48 KST",
+  "source": "CBS News·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxQZkc0YVVpSUc0aWExWkZxTThEZGQ4RXZhajdfUUwwMmRSN2lzcDlla3M2VVg2R3ZiUG1USi13c3BXYmlYLVhEQzZBZTE2am9pcGtQb1ZUTG1fYUdnU0kzeXRXM2NSUEdlRW9QSmN0ajhYd1BaandWVEVIQlBUUWpOcmxR",
+    "related": [
+      [
+        "Flight to Israel diverted after pilot broadcasts emergency signal, sources",
+        "CNN"
+      ],
+      [
+        "Flight to Tel Aviv broadcasts emergency alert, diverts to Saudi Arabia after reported feud between pilots",
+        "CBS News"
+      ],
+      [
+        "Israel-bound flight diverted to Saudi Arabia after brawl between pilots, Israeli official says",
+        "Reuters"
+      ],
+      [
+        "Flydubai aircraft activates hijack-related code en route to Tel Aviv",
+        "jpost.com"
+      ],
+      [
+        "Hijacking ruled out as flydubai flight to Tel Aviv lands at Saudi airport",
+        "The Times of Israel"
+      ]
+    ],
+    "event_key": "dubai-tel-aviv-flight-diverted"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "텔아비브행 여객기\n사우디로 [[회항]]",
+      "sub": "조종사 간 다툼으로 긴급 상황 발생",
+      "chips": [
+        {
+          "k": "착륙 장소",
+          "v": "사우디아라비아"
+        }
+      ],
+      "alt": "텔아비브행 여객기 사우디로 회항",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "비상 신호 발령",
+          "d": "텔아비브로 향하던 여객기가 조종사의 비상 신호 발송 후 회항했습니다 (CNN)."
+        },
+        {
+          "t": "사우디 착륙",
+          "d": "해당 여객기는 사우디아라비아 공항에 착륙했습니다 (타임스오브이스라엘)."
+        },
+        {
+          "t": "납치 배제",
+          "d": "납치 가능성은 배제된 것으로 알려졌습니다 (타임스오브이스라엘)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디아라비아 공항 착륙",
+        "조종사 간 다툼 발생",
+        "납치 가능성 배제"
+      ],
+      "unconfirmed": [
+        "조종사 간 다툼의 정확한 원인",
+        "탑승객 인명 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "CNN",
+        "Reuters",
+        "The Times of Israel",
+        "jpost.com",
+        "2026.09.30 17:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 텔아비브행 여객기 사우디아라비아 공항에 착륙했습니다\n\n· 텔아비브로 향하던 여객기가 조종사의 비상 신호 발송 후 회항했습니다 (CNN)\n· 해당 여객기는 사우디아라비아 공항에 착륙했으며 납치 상황은 아닌 것으로 확인됐습니다 (로이터·타임스오브이스라엘)\n\n출처: CNN·CBS뉴스·로이터·제루살렘포스트·타임스오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "텔아비브로 향하던 여객기가 사우디아라비아 공항에 착륙했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 조종사들 사이의 다툼으로 여객기가 사우디아라비아로 회항했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "납치 가능성은 배제된 것으로 알려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 다툼의 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
