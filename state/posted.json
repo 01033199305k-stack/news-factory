@@ -2581,5 +2581,52 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790777741
+  },
+  {
+    "slug": "2026-09-30-news-hormuz-strait-tanker-attacks-2026",
+    "event_ms": 1790777874000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 호르무즈 해협서 선박 3척이 피격되어 화재가 발생했습니다\n\n· 원유 및 액화천연가스 유조선 등이 미확인 발사체에 맞았습니다 (힌두스탄 타임스)\n· 미·이란 휴전 협상이 결렬된 가운데 공격이 발생했습니다 (로이드 리스트)\n· 이란 혁명수비대 측은 인근 해역의 소음이 경고사격에 의한 것이라고 밝혔습니다 (이란와이어)\n\n출처: 힌두스탄 타임스·로이드 리스트·이란와이어 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18122446699709681",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd6vDDKESjW",
+        "kind": "carousel",
+        "at": 1790784748
+      },
+      "instagram": {
+        "id": "18111410741034742",
+        "permalink": "https://www.instagram.com/reel/Dd6vVcVAZOG/",
+        "kind": "reel",
+        "at": 1790784911
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1790784921
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790784921
   }
 ]

@@ -505,5 +505,15 @@
     "at": 1790777429.1311905,
     "country": "프랑스",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "hormuz-strait-tanker-attacks-2026",
+    "topic": "호르무즈 해협서 선박 피격 유조선 등 화재 발생",
+    "slug": "2026-09-30-news-hormuz-strait-tanker-attacks-2026",
+    "cluster": "CBMiqgFBVV95cUxOa3l3VEtndDhhQ3U0OHliWTQ0S1NpMkF5QXJRd0MzR0VwYnFFaDBBdmtOMFJ6NjRSYkx1eUNHbUNOSEM5cXZxX1JBc2N4LWVPNDZET1JsNU5kdWJxSTh2MTg3UWROR2tiT3hudUhfRXJadmh5R3dSZWNIc3JkMlg5djlIZ0dOVTRpZEYzODJHX1hrRUdTcUNPdUFDUU41Q2ZXNmowRUZYTDE0UQ",
+    "badge": "breaking",
+    "at": 1790784688.1074317,
+    "country": "이란",
+    "category": "사고"
   }
 ]
