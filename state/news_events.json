@@ -485,5 +485,15 @@
     "at": 1790764192.4402428,
     "country": "이라크",
     "category": "국제"
+  },
+  {
+    "event_key": "thailand-bangkok-floods",
+    "topic": "태국 홍수로 최소 23명 사망",
+    "slug": "2026-09-30-news-thailand-bangkok-floods",
+    "cluster": "CBMirgFBVV95cUxNTTZiTnpqTVRUR3hEYkpybmV6QTh3RkVDOGQzUHpINloyTnJ2dTh2cUF0Qjd4Y1hsZXRybGhwZTVuc1R4SzVCNmVGYThKclhXZ0JRVUxUWTJnazZQc09YMzlxd1JRZFdDelFYU2V0U1JuR3ZZNjdKcTh1MGdWUnI1SGNRZGJ0THFVMVpicndVVTRpVGRBVGZnUm1ER2Jhb0x5SmZLd1NLV0dvcTJ6SUE",
+    "badge": "breaking",
+    "at": 1790773671.4638858,
+    "country": "태국",
+    "category": "재난"
   }
 ]

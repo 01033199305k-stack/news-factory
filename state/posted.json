@@ -2487,5 +2487,52 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790764452
+  },
+  {
+    "slug": "2026-09-30-news-thailand-bangkok-floods",
+    "event_ms": 1790767580000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 태국 홍수로 최소 23명 사망\n\n· 태국 방콕이 홍수 이후 재난 지역으로 선포되었습니다 (가디언)\n· 공항 혼란 속에 가방들이 방치되는 등 혼란이 빚어졌습니다 (뉴스닷컴오스트레일리아)\n· 타이항공은 홍수 여파로 화물 접수를 중단했습니다 (방콕 포스트)\n\n출처: 로이터·가디언·방콕 포스트·뉴스닷컴오스트레일리아 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "태국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18126423766641334",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd6aBcIlQ2G",
+        "kind": "carousel",
+        "at": 1790773719
+      },
+      "instagram": {
+        "id": "17923238223429800",
+        "permalink": "https://www.instagram.com/reel/Dd6aUedDpqK/",
+        "kind": "reel",
+        "at": 1790773892
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1790773902
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790773902
   }
 ]

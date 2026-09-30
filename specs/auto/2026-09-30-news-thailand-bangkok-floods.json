@@ -1,0 +1,144 @@
+{
+  "slug": "2026-09-30-news-thailand-bangkok-floods",
+  "topic": "태국 홍수로 최소 23명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 20:26 KST",
+  "source": "Reuters·The Guardian·Bangkok Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxNTTZiTnpqTVRUR3hEYkpybmV6QTh3RkVDOGQzUHpINloyTnJ2dTh2cUF0Qjd4Y1hsZXRybGhwZTVuc1R4SzVCNmVGYThKclhXZ0JRVUxUWTJnazZQc09YMzlxd1JRZFdDelFYU2V0U1JuR3ZZNjdKcTh1MGdWUnI1SGNRZGJ0THFVMVpicndVVTRpVGRBVGZnUm1ER2Jhb0x5SmZLd1NLV0dvcTJ6SUE",
+    "related": [
+      [
+        "Thai Airways suspends cargo intake amid flood disruption",
+        "Bangkok Post"
+      ],
+      [
+        "Bangkok declared a ‘disaster zone’ after flooding, as rainstorms shift direction",
+        "The Guardian"
+      ],
+      [
+        "Rows of bags abandoned amid airport chaos",
+        "News.com.au"
+      ],
+      [
+        "At least 23 dead in Thailand floods, Bangkok airport in chaos",
+        "Reuters"
+      ],
+      [
+        "Is it Safe to Travel to Bangkok? Latest Travel Advice After Flash Flooding In Thailand",
+        "Time Out Worldwide"
+      ]
+    ],
+    "event_key": "thailand-bangkok-floods"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "태국 [[홍수]]로\n[[최소 23명 사망]]",
+      "sub": "방콕이 재난 지역으로 선포되고 공항이 혼란에 빠졌습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 23명"
+        }
+      ],
+      "alt": "태국 홍수로 최소 23명 사망",
+      "map": {
+        "lat": 13.7524938,
+        "lon": 100.4935089,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "태국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "태국\n방콕",
+      "video_only": true,
+      "map": {
+        "lat": 13.7524938,
+        "lon": 100.4935089,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "방콕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "재난 지역 선포",
+          "d": "태국 방콕이 홍수 이후 재난 지역으로 선포되었습니다 (가디언)."
+        },
+        {
+          "t": "공항 혼란",
+          "d": "공항 혼란 속에 가방들이 방치되는 등 혼란이 빚어졌습니다 (뉴스닷컴오스트레일리아)."
+        },
+        {
+          "t": "화물 운송 중단",
+          "d": "타이항공은 홍수 여파로 화물 접수를 중단했습니다 (방콕 포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "태국 홍수로 최소 23명 사망 (로이터)",
+        "방콕 재난 지역 선포 (가디언)",
+        "공항 혼란 및 화물 접수 중단"
+      ],
+      "unconfirmed": [
+        "정확한 재산 피해 규모",
+        "추가 기상 악화 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bangkok Post",
+        "News.com.au",
+        "Reuters",
+        "The Guardian",
+        "Time Out Worldwide",
+        "2026.09.30 22:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 태국 홍수로 최소 23명 사망\n\n· 태국 방콕이 홍수 이후 재난 지역으로 선포되었습니다 (가디언)\n· 공항 혼란 속에 가방들이 방치되는 등 혼란이 빚어졌습니다 (뉴스닷컴오스트레일리아)\n· 타이항공은 홍수 여파로 화물 접수를 중단했습니다 (방콕 포스트)\n\n출처: 로이터·가디언·방콕 포스트·뉴스닷컴오스트레일리아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "태국 홍수로 최소 23명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "방콕은 재난 지역으로 선포되었으며 공항이 혼란에 빠졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "타이항공은 홍수 여파로 화물 접수를 중단했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 재산 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
