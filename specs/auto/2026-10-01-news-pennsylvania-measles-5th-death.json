@@ -1,0 +1,130 @@
+{
+  "slug": "2026-10-01-news-pennsylvania-measles-5th-death",
+  "topic": "미국 펜실베이니아주서 홍역 확산 다섯 번째 사망자 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 05:34 KST",
+  "source": "NBC News·The Guardian·6abc Philadelphia 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxQUTc0eTFLaFc0VjAzdWxZTVV3YXZkRUx1bFRhRHI3akhkUVh2cnhhQlJod3Y5QU1yenhVOVhpY1VWLWItcXRUVHJ0RFlKaVhCeVdXemVoYW9iV3NnS1ZLRUk1MEtXZlZiWnExaVhJTFBpMXh4S2VhWk9LOTVNV1Z6ZFdIdVV1R1JDOThkOXM5MGZ4S2lVNWdzOVY4eTJqRWh4Tjd0dEd3dTNIQlow",
+    "related": [
+      [
+        "Pennsylvania reports 5th measles-related death in the state",
+        "NBC News"
+      ],
+      [
+        "5th measles-related death reported in Pennsylvania",
+        "6abc Philadelphia"
+      ],
+      [
+        "Pennsylvania reports fifth measles-related death of the year amid outbreak",
+        "The Guardian"
+      ],
+      [
+        "Fifth Pennsylvania resident dies after contracting measles",
+        "Pittsburgh Post-Gazette"
+      ],
+      [
+        "CDC updates measles count, now includes 2 deaths",
+        "The Hill"
+      ]
+    ],
+    "event_key": "pennsylvania-measles-5th-death"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 펜실베이니아주서 [[홍역]] 확산\n다섯 번째 사망자 발생",
+      "sub": "올해 확산세 속 다섯 번째 사망자 보고",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "5명"
+        }
+      ],
+      "alt": "미국 펜실베이니아주서 홍역 확산 다섯 번째 사망자 발생",
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n펜실베이니아주",
+      "video_only": true,
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "펜실베이니아주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "확산세 지속",
+          "d": "미국 펜실베이니아주에서 홍역으로 인한 다섯 번째 사망자가 보고됐습니다 (NBC 뉴스·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "홍역 확산으로 인한 사망자 5명 (NBC 뉴스·가디언)",
+        "펜실베이니아주 발생"
+      ],
+      "unconfirmed": [
+        "정확한 추가 감염 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "6abc Philadelphia",
+        "NBC News",
+        "Pittsburgh Post-Gazette",
+        "The Guardian",
+        "The Hill",
+        "2026.10.01 06:35 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 펜실베이니아주서 홍역 확산으로 다섯 번째 사망자 발생\n\n· 펜실베이니아주에서 홍역 관련 사망자 5명 공식 보고 (NBC 뉴스·가디언)\n· 올해 이어지는 홍역 확산세 속 다섯 번째 사망자 보고 (가디언)\n\n출처: NBC 뉴스·6abc 필라델피아·가디언·피츠버그 포스트가제트·더 힐 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펜실베이니아주에서 홍역 확산으로 다섯 번째 사망자가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언은 올해 이어지는 확산세 속에서 홍역 관련 사망자가 5명으로 늘었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 추가 감염 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

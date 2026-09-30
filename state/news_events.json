@@ -565,5 +565,15 @@
     "at": 1790801639.643536,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "pennsylvania-measles-5th-death",
+    "topic": "미국 펜실베이니아주서 홍역 확산 다섯 번째 사망자 발생",
+    "slug": "2026-10-01-news-pennsylvania-measles-5th-death",
+    "cluster": "CBMirAFBVV95cUxQUTc0eTFLaFc0VjAzdWxZTVV3YXZkRUx1bFRhRHI3akhkUVh2cnhhQlJod3Y5QU1yenhVOVhpY1VWLWItcXRUVHJ0RFlKaVhCeVdXemVoYW9iV3NnS1ZLRUk1MEtXZlZiWnExaVhJTFBpMXh4S2VhWk9LOTVNV1Z6ZFdIdVV1R1JDOThkOXM5MGZ4S2lVNWdzOVY4eTJqRWh4Tjd0dEd3dTNIQlow",
+    "badge": "breaking",
+    "at": 1790804119.8699474,
+    "country": "미국",
+    "category": "사고"
   }
 ]

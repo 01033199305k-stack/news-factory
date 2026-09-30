@@ -2869,5 +2869,52 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790801881
+  },
+  {
+    "slug": "2026-10-01-news-pennsylvania-measles-5th-death",
+    "event_ms": 1790800460000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 펜실베이니아주서 홍역 확산으로 다섯 번째 사망자 발생\n\n· 펜실베이니아주에서 홍역 관련 사망자 5명 공식 보고 (NBC 뉴스·가디언)\n· 올해 이어지는 홍역 확산세 속 다섯 번째 사망자 보고 (가디언)\n\n출처: NBC 뉴스·6abc 필라델피아·가디언·피츠버그 포스트가제트·더 힐 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18111820427591167",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd7UGJ-Fj8q",
+        "kind": "carousel",
+        "at": 1790804167
+      },
+      "instagram": {
+        "id": "18134140213677020",
+        "permalink": "https://www.instagram.com/reel/Dd7UV5eGB1m/",
+        "kind": "reel",
+        "at": 1790804312
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1790804323
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790804323
   }
 ]
