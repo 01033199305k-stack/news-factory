@@ -1,0 +1,130 @@
+{
+  "slug": "2026-09-30-news-texas-ice-shooting-venezuelan",
+  "topic": "텍사스서 ICE 요원이 쏜 총에 맞은 베네수엘라 남성, 기소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 08:23 KST",
+  "source": "NBC News·The New York Times·KUT 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiugFBVV95cUxNRnJ0VUJ1cVNYTWh2bkdVWmJSSXFncUdKOGRwTkdBNC1SbElfLWM4SXNuSHNpVm1TMFdHN3Njb2pyUEw1cTFJY2xLa3dsVy1JRDB1dHRSR3BNLVA0UHQya1BOT2YxR3gzbHBaMW9aUExFdGRtckJmRnU2ZlR0UUg1d0hPbHJ6NzFpTm9TbEtHU1hWZTZQWTh5ak1PWUloMmR1VE1na0RsemxwZzJtSTVsTDBKWnhucmotX1E",
+    "related": [
+      [
+        "Venezuelan man shot and wounded by ICE agent in Texas is charged with assaulting an officer",
+        "NBC News"
+      ],
+      [
+        "Man shot by ICE in Austin is charged with assaulting and resisting an officer",
+        "KUT"
+      ],
+      [
+        "Protections for federal officers make local prosecutions rare",
+        "KXAN Austin"
+      ],
+      [
+        "Man Shot by ICE Agent in Austin Is Charged With Assault",
+        "The New York Times"
+      ],
+      [
+        "Federal prosecutors charge Venezuelan man shot in his car by ICE agent in Texas with assaulting an officer",
+        "PBS"
+      ]
+    ],
+    "event_key": "texas-ice-shooting-venezuelan"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "텍사스서 ICE 요원이 쏜 총에 맞은 베네수엘라 남성, 기소",
+      "sub": "연방 요원 폭행 및 저항 혐의 적용",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "1명"
+        }
+      ],
+      "alt": "텍사스서 ICE 요원이 쏜 총에 맞은 베네수엘라 남성, 기소",
+      "map": {
+        "lat": 30.2711286,
+        "lon": -97.7436995,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오스틴",
+      "video_only": true,
+      "map": {
+        "lat": 30.2711286,
+        "lon": -97.7436995,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오스틴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기소 내용",
+          "d": "연방 검찰은 차량 내에서 요원에게 총상을 입은 남성을 공무집행방해 등 혐의로 기소했습니다 (NBC뉴스·뉴욕타임스·PBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "베네수엘라 국적 남성 부상",
+        "공무집행방해 혐의 기소"
+      ],
+      "unconfirmed": [
+        "정확한 부상 상태",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KUT",
+        "KXAN Austin",
+        "NBC News",
+        "PBS",
+        "The New York Times",
+        "2026.09.30 11:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 텍사스주에서 이민세관단속국(ICE) 요원이 쏜 총에 맞은 베네수엘라 남성이 기소됐습니다\n\n· 연방 검찰은 차량 내에서 요원에게 총상을 입은 남성에게 공무집행방해 혐의를 적용했습니다 (NBC뉴스·뉴욕타임스·PBS)\n\n출처: NBC뉴스·KUT·KXAN 오스틴·뉴욕타임스·PBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 텍사스주 오스틴에서 이민세관단속국 요원이 쏜 총에 맞은 베네수엘라 남성이 기소됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "연방 검찰은 차량 안에서 요원에게 총상을 입은 남성에게 공무집행방해 혐의를 적용했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상 상태는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

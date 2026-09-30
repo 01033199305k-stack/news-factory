@@ -2052,5 +2052,52 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790730838
+  },
+  {
+    "slug": "2026-09-30-news-texas-ice-shooting-venezuelan",
+    "event_ms": 1790724203000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 텍사스주에서 이민세관단속국(ICE) 요원이 쏜 총에 맞은 베네수엘라 남성이 기소됐습니다\n\n· 연방 검찰은 차량 내에서 요원에게 총상을 입은 남성에게 공무집행방해 혐의를 적용했습니다 (NBC뉴스·뉴욕타임스·PBS)\n\n출처: NBC뉴스·KUT·KXAN 오스틴·뉴욕타임스·PBS 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18488407660106276",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd5OTsumvYE",
+        "kind": "carousel",
+        "at": 1790734023
+      },
+      "instagram": {
+        "id": "18283027351292325",
+        "permalink": "https://www.instagram.com/reel/Dd5OichEd-i/",
+        "kind": "reel",
+        "at": 1790734162
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1790734172
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790734172
   }
 ]
