@@ -1,0 +1,138 @@
+{
+  "slug": "2026-09-30-news-dmz-landmine-blast-september-2026",
+  "topic": "비무장지대 지뢰 폭발로 한국군 3명 부상 유엔사 \"정전협정 위반\" 규정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 12:38 KST",
+  "source": "ABC News·AP News·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9Ja0ozcmlNVDVud3JPQzI1VUZYUmxaa181ZUdaSzRLVVZueFE0SGR1em5BSmtaclNELVRJenU0NnU4bTFtS2gyVVlWMHlwZnRta0RpUUV4dVM2QTA",
+    "related": [
+      [
+        "S Korea demands apology from Pyongyang over landmine blast",
+        "BBC"
+      ],
+      [
+        "North Korea calls DMZ mine blast a 'farce' as UN Command says armistice breach occurred",
+        "Reuters"
+      ],
+      [
+        "North Korea denies planting mines that injured 3 South Korean soldiers, accuses Seoul of conspiracy",
+        "AP News"
+      ],
+      [
+        "South Korea says border blasts that injured 3 officers was likely caused by North Korean mines",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "North Korean landmine blasts in DMZ a 'violation of armistice,' Seoul says",
+        "Euronews.com"
+      ]
+    ],
+    "event_key": "dmz-landmine-blast-september-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "비무장지대 지뢰 폭발로 [[한국군 3명 부상]]\n유엔사 \"정전협정 위반\" 규정",
+      "sub": "북한은 지뢰 매설 부인하며 음모론 주장",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "3명"
+        },
+        {
+          "k": "관련국",
+          "v": "남북한·유엔사"
+        }
+      ],
+      "alt": "비무장지대 지뢰 폭발로 한국군 3명 부상 유엔사 \"정전협정 위반\" 규정",
+      "map": {
+        "lat": 38.3072977,
+        "lon": 127.2302394,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n비무장지대",
+      "video_only": true,
+      "map": {
+        "lat": 38.3072977,
+        "lon": 127.2302394,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "비무장지대"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유엔사 조사",
+          "d": "유엔군사령부는 이번 DMZ 지뢰 폭발이 정전협정 위반이라고 밝혔습니다 (로이터)."
+        },
+        {
+          "t": "북한 입장",
+          "d": "북한은 지뢰 폭발이 조작된 것이라며 매설 혐의를 전면 부인했습니다 (AP·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "한국군 장병 3명 부상 (BBC·ABC News)",
+        "유엔사의 정전협정 위반 판정 (로이터·유로뉴스)"
+      ],
+      "unconfirmed": [
+        "북한의 지뢰 매설 경위와 배후",
+        "추가 군사적 긴장 고조 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "BBC",
+        "Euronews.com",
+        "Reuters",
+        "2026.09.30 13:39 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 비무장지대 지뢰 폭발로 한국군 3명 부상\n\n· 유엔군사령부는 이번 비무장지대 지뢰 폭발 사건이 정전협정 위반이라고 밝혔습니다 (로이터·유로뉴스)\n· 북한은 지뢰를 매설한 적이 없다며 관련 혐의를 부인하고 서울의 음모라고 주장했습니다 (AP·로이터)\n\n🇰🇷 한국은 북한에 사과를 요구했습니다\n\n출처: BBC·로이터·AP News·ABC News·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "비무장지대에서 발생한 지뢰 폭발로 한국군 3명이 다쳤다고 ABC 뉴스가 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유엔군사령부는 이번 폭발이 정전협정 위반이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "반면 북한은 지뢰를 매설하지 않았다고 부인했습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
