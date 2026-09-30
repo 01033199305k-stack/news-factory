@@ -575,5 +575,15 @@
     "at": 1790804119.8699474,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "canada-bc-mall-crash-2026",
+    "topic": "캐나다 쇼핑몰 앞 차량 돌진 보행자 2명 사망·2명 부상",
+    "slug": "2026-10-01-news-canada-bc-mall-crash-2026",
+    "cluster": "CBMiW0FVX3lxTE9YMVQxYTI2aTh1cUtRSWhET0xNRS1oVzJPRUhubGEwczRUZzJWcWFJbUN1RU9Sc2dNa0x6d29CSjI1NlJJaC1iQ2NxRUtrVUNfTXNNcmh6c2NIX3c",
+    "badge": "breaking",
+    "at": 1790805362.4274921,
+    "country": "캐나다",
+    "category": "사고"
   }
 ]
