@@ -1,0 +1,131 @@
+{
+  "slug": "2026-09-30-news-us-senate-blocks-israel-westbank-resolution",
+  "topic": "미 상원 이스라엘 인권 보고서안 부결",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 09:20 KST",
+  "source": "Politico·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi1AFBVV95cUxPMUIweEtER2hUdHZHd050bjhRdzlzN3JWb0pLaXdlQ1U5NmxEdjZNSDNVUUQybG5ZQko1bFUxYjFLQXg4RUxjcEVfSVpOckkxUFdnNVR1eXZVendxME01ZzhZMG1FTE10d1VVWUpvc2tBMDI4elFyUWtYdTlEUEFRRWhVWjRLaWRDRFZoMkhFME8yYUFmV3ZFQ0x1QjFkd3VlZk9jSTBjVWhnRkR3OWhlSzRrb2NqX3h3b2tfVE5tU3RLTUEzNWFCWmVNTDc0SWtFc3NyTw",
+    "related": [
+      [
+        "Republicans sink measure to spotlight Israeli violence in the West Bank",
+        "Politico"
+      ],
+      [
+        "US Senate blocks resolution demanding accountability over Israeli violence in West Bank",
+        "The Guardian"
+      ],
+      [
+        "U.S. Senate Narrowly Rejects Bill Demanding Report on Israeli Rights Violations in West Bank",
+        "Haaretz"
+      ],
+      [
+        "Senate Democrats force vote on Israel’s human rights practices in West Bank",
+        "wfla.com"
+      ],
+      [
+        "US Senate blocks measure demanding report on rights violations in West Bank",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us-senate-blocks-israel-westbank-resolution"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 상원 이스라엘\n[[인권 보고서안]] 부결",
+      "sub": "서안지구 내 인권 침해 조사 요구 결의안 차단",
+      "chips": [],
+      "alt": "미 상원 이스라엘 인권 보고서안 부결",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "상원 표결서 부결",
+          "d": "미국 상원이 서안지구 내 이스라엘의 인권 침해 보고서를 요구하는 결의안을 부결했습니다 (로이터·가디언)."
+        },
+        {
+          "t": "민주당 결의안 추진",
+          "d": "미 상원 민주당 의원들이 이스라엘의 인권 실태 조사를 촉구하며 표결을 강행했습니다 (폴리티코)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 상원 결의안 부결"
+      ],
+      "unconfirmed": [
+        "향후 추가 입법 추진 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Haaretz",
+        "Politico",
+        "Reuters",
+        "The Guardian",
+        "wfla.com",
+        "2026.09.30 10:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 상원이 이스라엘의 서안지구 인권 침해 조사 결의안을 부결했습니다.\n\n· 미 상원은 서안지구 내 이스라엘의 인권 실태 보고서를 요구하는 안건을 부결 처리했습니다 (로이터)\n· 상원 민주당이 이스라엘의 인권 침해 책임과 실태 조사를 촉구하며 표결에 붙였습니다 (가디언·폴리티코)\n\n미국 정부의 이스라엘 정책과 인권 조사 방침에 대해 어떻게 생각하십니까?\n\n출처: 로이터·가디언·폴리티코 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 상원이 서안지구 내 이스라엘의 인권 침해 조사 결의안을 부결했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "상원 민주당 의원들이 이스라엘의 인권 실태 조사를 요구하며 표결을 추진했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터 통신은 관련 안건이 부결됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "표결 이후 추가적인 입법 추진 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

@@ -385,5 +385,15 @@
     "at": 1790725716.2288072,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "us-senate-blocks-israel-westbank-resolution",
+    "topic": "미 상원 이스라엘 인권 보고서안 부결",
+    "slug": "2026-09-30-news-us-senate-blocks-israel-westbank-resolution",
+    "cluster": "CBMi1AFBVV95cUxPMUIweEtER2hUdHZHd050bjhRdzlzN3JWb0pLaXdlQ1U5NmxEdjZNSDNVUUQybG5ZQko1bFUxYjFLQXg4RUxjcEVfSVpOckkxUFdnNVR1eXZVendxME01ZzhZMG1FTE10d1VVWUpvc2tBMDI4elFyUWtYdTlEUEFRRWhVWjRLaWRDRFZoMkhFME8yYUFmV3ZFQ0x1QjFkd3VlZk9jSTBjVWhnRkR3OWhlSzRrb2NqX3h3b2tfVE5tU3RLTUEzNWFCWmVNTDc0SWtFc3NyTw",
+    "badge": "breaking",
+    "at": 1790730607.838271,
+    "country": "미국",
+    "category": "국제"
   }
 ]
