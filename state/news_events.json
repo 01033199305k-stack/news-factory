@@ -535,5 +535,15 @@
     "at": 1790788118.9118433,
     "country": "에티오피아",
     "category": "국제"
+  },
+  {
+    "event_key": "poland-live-tv-accident-2026",
+    "topic": "폴란드서 뉴스 생방송 도중 14세 소녀 차량에 치여",
+    "slug": "2026-10-01-news-poland-live-tv-accident-2026",
+    "cluster": "CBMihAFBVV95cUxQN1gxMk1XN2JQem54Z3FORDd4ZnBVbGc0eWlpUE45cDE0LS0yNVVIbGlabnZxTE1MbkQ1SWR0UVhaS1ZKb1V6U25oVUJBNmY2cmtmdVFPY1JYUkRxVUhMWW1SX3lXRFQwTG5ZOFh0R2pWWFpoaUViYUU4M1poZ0s1VVk4WWvSAYoBQVVfeXFMUEdXb0ZMYkZVdngyWFZPUmV1cmZELWhIVC02OE1BMWJCZUFuNkthYjZLOC0zdTZRaXdJR01OSF9vUm56bm95SXFTLV9IV2lBbHpLMUhIaGlBMEtIYWtWSVpIeVN2YUtuZEd5dl9PaW1IZGRFY2NwY254SzFkaFlKdVMxZ0NCSUhkTlJn",
+    "badge": "breaking",
+    "at": 1790793418.1116462,
+    "country": "폴란드",
+    "category": "사고"
   }
 ]

@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-01-news-poland-live-tv-accident-2026",
+  "topic": "폴란드서 뉴스 생방송 도중 14세 소녀 차량에 치여",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 00:43 KST",
+  "source": "AOL.com·Israel National News·New York Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxQN1gxMk1XN2JQem54Z3FORDd4ZnBVbGc0eWlpUE45cDE0LS0yNVVIbGlabnZxTE1MbkQ1SWR0UVhaS1ZKb1V6U25oVUJBNmY2cmtmdVFPY1JYUkRxVUhMWW1SX3lXRFQwTG5ZOFh0R2pWWFpoaUViYUU4M1poZ0s1VVk4WWvSAYoBQVVfeXFMUEdXb0ZMYkZVdngyWFZPUmV1cmZELWhIVC02OE1BMWJCZUFuNkthYjZLOC0zdTZRaXdJR01OSF9vUm56bm95SXFTLV9IV2lBbHpLMUhIaGlBMEtIYWtWSVpIeVN2YUtuZEd5dl9PaW1IZGRFY2NwY254SzFkaFlKdVMxZ0NCSUhkTlJn",
+    "related": [
+      [
+        "Horrifying moment girl, 14, hit by car on live TV as journalist reports on death of another child in Poland",
+        "The Mirror"
+      ],
+      [
+        "Teen scooter rider struck by driver during live news broadcast of another car crash, wild video shows",
+        "New York Post"
+      ],
+      [
+        "Reporters came to cover an accident, witnessed another accident",
+        "Israel National News"
+      ],
+      [
+        "Disturbing moment girl, 14, is brutally mowed down by car caught on live TV",
+        "AOL.com"
+      ],
+      [
+        "Teen E-Bike Rider Hit by Car During Live News Report About Another Crash",
+        "Wide Open Country"
+      ]
+    ],
+    "event_key": "poland-live-tv-accident-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "폴란드서 뉴스 생방송 도중\n[[14세 소녀]] 차량에 치여",
+      "sub": "교통사고 현장 보도 중 또 다른 사고 발생",
+      "chips": [
+        {
+          "k": "부상자",
+          "v": "14세 소녀"
+        }
+      ],
+      "alt": "폴란드서 뉴스 생방송 도중 14세 소녀 차량에 치여",
+      "map": {
+        "lat": 52.215933,
+        "lon": 19.134422,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "폴란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "폴란드",
+      "video_only": true,
+      "map": {
+        "lat": 52.215933,
+        "lon": 19.134422,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "폴란드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "방송 중 사고",
+          "d": "폴란드에서 기자들이 어린이 교통사고 사망 소식을 생방송으로 전하던 중 다른 차량이 14세 소녀를 들이받는 사고가 발생했습니다 (The Mirror)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "14세 소녀 차량에 피격 (The Mirror)",
+        "생방송 보도 중 발생한 사고 (New York Post)"
+      ],
+      "unconfirmed": [
+        "피해 소녀의 정확한 부상 상태",
+        "운전자 과실 여부 및 사고 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.com",
+        "Israel National News",
+        "New York Post",
+        "The Mirror",
+        "Wide Open Country",
+        "2026.10.01 03:36 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 폴란드서 어린이 교통사고 뉴스 생방송 도중 14세 소녀가 차량에 치이는 사고가 발생했습니다\n\n· 기자들이 사고 소식을 전하던 현장에서 또 다른 교통사고가 생방송 화면에 잡혔습니다 (The Mirror)\n· 14세 소녀가 차량에 치이는 모습이 방송을 통해 그대로 노출됐습니다 (New York Post)\n\n출처: The Mirror·New York Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "폴란드에서 교통사고 소식을 전하는 생방송 뉴스 도중 14세 소녀가 차량에 치이는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미러는 기자들이 이전 사고를 보도하는 현장에서 또 다른 차량 사고가 일어났다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "피해 소녀의 정확한 부상 상태와 사고 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

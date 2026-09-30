@@ -2726,5 +2726,52 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790788984
+  },
+  {
+    "slug": "2026-10-01-news-poland-live-tv-accident-2026",
+    "event_ms": 1790782980000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 폴란드서 어린이 교통사고 뉴스 생방송 도중 14세 소녀가 차량에 치이는 사고가 발생했습니다\n\n· 기자들이 사고 소식을 전하던 현장에서 또 다른 교통사고가 생방송 화면에 잡혔습니다 (The Mirror)\n· 14세 소녀가 차량에 치이는 모습이 방송을 통해 그대로 노출됐습니다 (New York Post)\n\n출처: The Mirror·New York Post 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "폴란드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18008933075973030",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd6_saLCemw",
+        "kind": "carousel",
+        "at": 1790793470
+      },
+      "instagram": {
+        "id": "18464755162137520",
+        "permalink": "https://www.instagram.com/reel/Dd6_8YvFbSl/",
+        "kind": "reel",
+        "at": 1790793620
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1790793630
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790793630
   }
 ]
