@@ -545,5 +545,15 @@
     "at": 1790793418.1116462,
     "country": "폴란드",
     "category": "사고"
+  },
+  {
+    "event_key": "russia-ukraine-energy-grid-strikes-september-2026",
+    "topic": "러시아, 우크라이나 전력망 공습 사망 7명 발생",
+    "slug": "2026-10-01-news-russia-ukraine-energy-grid-strikes-september-2026",
+    "cluster": "CBMitgFBVV95cUxOOUJYOFJjVEFrbW9LNnY1V0ZZOWxPVEhBRm9mcW16RnZIX0stUTRWMXpybThGUF9EMVZ1eTBQelpVbkM4NGtyRzlzVzJyZ21CX3UxR1lIVThTU1RUMEF3WFdheW1jTTNXWExLcHExUmJrTDVEQ3Q3SWdUckRicHEzajlnSFMxRTlReUl0LXU3TjdJRlp0S3ljc2ZUQ3FsRldiOFBsZEZ3Y2ZfeEhKY2hjajZrN1h6dw",
+    "badge": "breaking",
+    "at": 1790798583.0098429,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

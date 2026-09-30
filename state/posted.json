@@ -2773,5 +2773,54 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790793630
+  },
+  {
+    "slug": "2026-10-01-news-russia-ukraine-energy-grid-strikes-september-2026",
+    "event_ms": 1790792405000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아, 우크라이나 전력망 공습으로 사망 7명 발생\n\n· 볼로디미르 젤렌스키 대통령은 미사일과 드론이 전력망을 겨냥했다고 밝혔습니다 (KSL.com)\n· 우크라이나 전력망 운영사는 키이우 등에 긴급 단전 조치를 내렸습니다 (Reuters·France 24)\n· 이번 공격은 봄 이후 에너지 기반 시설을 겨냥한 최대 규모 공격이라고 전해졌습니다 (BBC)\n\n출처: Reuters·BBC·France 24·Українська правда·KSL.com 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18068423183774385",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd7JiviHSxh",
+        "kind": "carousel",
+        "at": 1790798634
+      },
+      "instagram": {
+        "id": "18123097084925162",
+        "permalink": "https://www.instagram.com/reel/Dd7Jzz4GNn0/",
+        "kind": "reel",
+        "at": 1790798791
+      },
+      "youtube": {
+        "id": "JSKpS8KaSxI",
+        "permalink": "https://youtube.com/shorts/JSKpS8KaSxI",
+        "kind": "shorts",
+        "at": 1790798809
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790798819
   }
 ]

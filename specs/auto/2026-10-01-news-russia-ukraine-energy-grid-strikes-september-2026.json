@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-01-news-russia-ukraine-energy-grid-strikes-september-2026",
+  "topic": "러시아, 우크라이나 전력망 공습 사망 7명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 03:20 KST",
+  "source": "BBC·France 24·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxOOUJYOFJjVEFrbW9LNnY1V0ZZOWxPVEhBRm9mcW16RnZIX0stUTRWMXpybThGUF9EMVZ1eTBQelpVbkM4NGtyRzlzVzJyZ21CX3UxR1lIVThTU1RUMEF3WFdheW1jTTNXWExLcHExUmJrTDVEQ3Q3SWdUckRicHEzajlnSFMxRTlReUl0LXU3TjdJRlp0S3ljc2ZUQ3FsRldiOFBsZEZ3Y2ZfeEhKY2hjajZrN1h6dw",
+    "related": [
+      [
+        "Russia attacks Ukrainian energy grid, forcing power cuts as winter looms",
+        "Reuters"
+      ],
+      [
+        "Russia launches largest attack on Ukraine energy infrastructure since spring",
+        "BBC"
+      ],
+      [
+        "Live: Ukraine’s grid operator orders emergency power cuts in Kyiv after Russian strikes",
+        "France 24"
+      ],
+      [
+        "Emergency power outages introduced in Kyiv for first time this season",
+        "Українська правда"
+      ],
+      [
+        "Russia pounds Ukraine with missiles and drones; killing 7, targeting power grid, Zelenskyy says",
+        "KSL.com"
+      ]
+    ],
+    "event_key": "russia-ukraine-energy-grid-strikes-september-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아, 우크라이나 전력망 공습\n사망 [[7명]] 발생",
+      "sub": "볼로디미르 젤렌스키 우크라이나 대통령이 미사일과 드론 공격으로 인명 피해가 발생했다고 밝혔습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "7명"
+        },
+        {
+          "k": "대상",
+          "v": "전력망"
+        }
+      ],
+      "alt": "러시아, 우크라이나 전력망 공습 사망 7명 발생",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "긴급 단전",
+          "d": "우크라이나 전력망 운영사는 키이우 등에 긴급 단전 조치를 내렸다고 밝혔습니다 (Reuters·France 24)."
+        },
+        {
+          "t": "공격 규모",
+          "d": "이번 공습은 봄 이후 에너지 기반 시설을 겨냥한 최대 규모 공격이라고 BBC는 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 7명 (KSL.com)",
+        "에너지 기반 시설 공습 (BBC·Reuters)",
+        "키이우 긴급 단전 (France 24·Українська правда)"
+      ],
+      "unconfirmed": [
+        "정확한 피해 시설 복구 소요 시간",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "France 24",
+        "KSL.com",
+        "Reuters",
+        "Українська правда",
+        "2026.10.01 05:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아, 우크라이나 전력망 공습으로 사망 7명 발생\n\n· 볼로디미르 젤렌스키 대통령은 미사일과 드론이 전력망을 겨냥했다고 밝혔습니다 (KSL.com)\n· 우크라이나 전력망 운영사는 키이우 등에 긴급 단전 조치를 내렸습니다 (Reuters·France 24)\n· 이번 공격은 봄 이후 에너지 기반 시설을 겨냥한 최대 규모 공격이라고 전해졌습니다 (BBC)\n\n출처: Reuters·BBC·France 24·Українська правда·KSL.com 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아가 우크라이나 전력망을 공습해 7명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "우크라이나 키이우 등지에는 긴급 단전 조치가 내려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "BBC는 이번 공격이 봄 이후 에너지 기반 시설을 노린 가장 큰 규모라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 복구 소요 시간은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
