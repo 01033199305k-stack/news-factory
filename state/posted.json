@@ -2099,5 +2099,56 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790734172
+  },
+  {
+    "slug": "2026-09-30-news-china-eu-tariffs-warning",
+    "event_ms": 1790741493348,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 중국 정부, 유럽연합의 중국 기업 규제 움직임에 보복을 경고했습니다.\n\n· 중국 측은 유럽연합이 무역 제재를 도입할 경우 대응에 나설 것이라고 밝혔습니다 (CNBC·로이터)\n· 광범위한 관세 조치가 양측의 무역 협상을 방해할 수 있다는 우려가 나옵니다 (블룸버그)\n\n유럽연합의 중국 기업 제재 움직임 속에서 양측의 무역 갈등이 해소될 수 있다고 보십니까?\n출처: CNBC·로이터·블룸버그통신 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "instagram": {
+        "id": "18144297658565412",
+        "permalink": "https://www.instagram.com/reel/Dd5c2--Citu/",
+        "kind": "reel",
+        "at": 1790741676
+      },
+      "youtube": {
+        "id": "UUu57ldwDF8",
+        "permalink": "https://youtube.com/shorts/UUu57ldwDF8",
+        "kind": "shorts",
+        "at": 1790741739
+      },
+      "threads": {
+        "id": "18122319871709670",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd5dJ3XEXR2",
+        "kind": "carousel",
+        "at": 1790741810
+      }
+    },
+    "attempts": {
+      "threads": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790741820
   }
 ]
