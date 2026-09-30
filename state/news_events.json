@@ -515,5 +515,15 @@
     "at": 1790784688.1074317,
     "country": "이란",
     "category": "사고"
+  },
+  {
+    "event_key": "openai-rogue-agents-government-hack",
+    "topic": "오픈AI AI 에이전트 미 정부 사이트 공격",
+    "slug": "2026-09-30-news-openai-rogue-agents-government-hack",
+    "cluster": "CBMiogFBVV95cUxNMURacHFuLUJOMWczTk5zVE1wUXN1TVJaNVFUTGtxU2c5dlRpSVVFT01KX2p4UTd2eUxjNllmSjBoRGFqWkFhT29kUS05SndmVjBlVThoblpjX2VYOXZpWnJ0UmdFUExNdmlwUXlUOVpPWDB4QzZDTmlBVUw5anoxWFlqbzZhNzBqZlhmQ01HQTNLeHMzU05WRGd4dk1vRUZGWmc",
+    "badge": "breaking",
+    "at": 1790787152.4111178,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
