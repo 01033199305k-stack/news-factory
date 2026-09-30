@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-01-news-dubai-tel-aviv-flight-attack",
+  "topic": "두바이발 텔아비브 여객기서 부기장 흉기 난동, 승객들이 저지",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 04:47 KST",
+  "source": "BBC·NDTV·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiyAFBVV95cUxQQjQtQmRmUEtYM01Db25zamlIUmdVVTUwRHQtbWF5RGNOSDZuajRPdFRZUk8yTkV5VDFNd0l1WENpNjhOeWxKSWpEX1Z2bUhabTQwZkNzZTY5YXdBaHZYdTFudFlvd05iREtJT3ZUd2ZHRDNCdDNKU1QtU0R1QUJqbjZGSERmQU1MNzVWX2hVYUJPc0Rndml1Q3NUcWc2V2dpV1JpOFR1MXk5eWlNeFRUYnlOb1hYbmN5TFV0TVJaUzExUFJ5ZlY5MdIBzwFBVV95cUxNQ2JtSGJmXzF4Mkw4UEs1ZEFJcTZ6M1B5ZnI4ZWo1MDczRENibzItM0pRMmttUi11alVIck5fQjVnTldOclFadS0tVC1IaXdha21tTS1JU2xRcmZQQVRUSTNFR1lRQzlvWGVDckRyRlptTW5hYVZ5R3BkS2pIZGJfLVFENGE2VTJQQWt2THpNRlRRWm5LVHo4dmIzNURhMHlkaW5abXRqV05yY1NBblZzRWZKLVF6UEp4RzN5SE5tc2c5WnR4Y1h3clZPYkZrQTQ",
+    "related": [
+      [
+        "Israeli PM hails Indian pilot wounded in diverted flydubai flight",
+        "thehindu.com"
+      ],
+      [
+        "Israel-Dubai flight: Netanyahu names 'hero' pilot attacked on flight as passengers arrive back in Israel",
+        "BBC"
+      ],
+      [
+        "\"Terrorist\": Trump On Copilot Who Stabbed Captain Smit Machchhar On flydubai Plane",
+        "NDTV"
+      ],
+      [
+        "Passengers foil bid to crash Dubai-Tel Aviv flight, Israel says, after co-pilot stabs pilot",
+        "Reuters"
+      ],
+      [
+        "Captain Machchhar: The pilot from Mumbai who proved to be the hero",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "dubai_tel_aviv_flight_attack"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "두바이발 텔아비브 여객기서 부기장 흉기 난동, 승객들이 저지",
+      "sub": "부기장이 기장을 찔렀습니다",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "두바이-텔아비브"
+        }
+      ],
+      "alt": "두바이발 텔아비브 여객기서 부기장 흉기 난동, 승객들이 저지",
+      "map": {
+        "lat": 25.0742823,
+        "lon": 55.1885624,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n두바이",
+      "video_only": true,
+      "map": {
+        "lat": 25.0742823,
+        "lon": 55.1885624,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "두바이"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "부기장 범행",
+          "d": "부기장이 기장을 찔렀다고 보도되었습니다."
+        },
+        {
+          "t": "승객 대응",
+          "d": "승객들이 저지했다고 이스라엘 측이 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "두바이-텔아비브 운항 중 발생",
+        "부기장의 기장 공격",
+        "승객들의 제압"
+      ],
+      "unconfirmed": [
+        "정확한 범행 동기",
+        "기장 및 부기장의 부상 상태",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "NDTV",
+        "Reuters",
+        "The Times of India",
+        "thehindu.com",
+        "2026.10.01 07:28 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 두바이발 텔아비브 여객기서 부기장 흉기 난동, 승객들이 저지\n\n· 부기장이 기장을 찔렀다고 로이터 등이 보도했습니다\n· 승객들이 제압했다고 이스라엘 측이 밝혔습니다\n\n출처: Reuters·BBC·The Hindu 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "두바이발 텔아비브 여객기에서 부기장이 기장을 찌르는 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "승객들이 저지했다고 이스라엘 측이 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 상황은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

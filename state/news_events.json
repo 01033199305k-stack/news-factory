@@ -585,5 +585,15 @@
     "at": 1790805362.4274921,
     "country": "캐나다",
     "category": "사고"
+  },
+  {
+    "event_key": "dubai_tel_aviv_flight_attack",
+    "topic": "두바이발 텔아비브 여객기서 부기장 흉기 난동, 승객들이 저지",
+    "slug": "2026-10-01-news-dubai-tel-aviv-flight-attack",
+    "cluster": "CBMiyAFBVV95cUxQQjQtQmRmUEtYM01Db25zamlIUmdVVTUwRHQtbWF5RGNOSDZuajRPdFRZUk8yTkV5VDFNd0l1WENpNjhOeWxKSWpEX1Z2bUhabTQwZkNzZTY5YXdBaHZYdTFudFlvd05iREtJT3ZUd2ZHRDNCdDNKU1QtU0R1QUJqbjZGSERmQU1MNzVWX2hVYUJPc0Rndml1Q3NUcWc2V2dpV1JpOFR1MXk5eWlNeFRUYnlOb1hYbmN5TFV0TVJaUzExUFJ5ZlY5MdIBzwFBVV95cUxNQ2JtSGJmXzF4Mkw4UEs1ZEFJcTZ6M1B5ZnI4ZWo1MDczRENibzItM0pRMmttUi11alVIck5fQjVnTldOclFadS0tVC1IaXdha21tTS1JU2xRcmZQQVRUSTNFR1lRQzlvWGVDckRyRlptTW5hYVZ5R3BkS2pIZGJfLVFENGE2VTJQQWt2THpNRlRRWm5LVHo4dmIzNURhMHlkaW5abXRqV05yY1NBblZzRWZKLVF6UEp4RzN5SE5tc2c5WnR4Y1h3clZPYkZrQTQ",
+    "badge": "breaking",
+    "at": 1790807301.2660367,
+    "country": "아랍에미리트",
+    "category": "사고"
   }
 ]
