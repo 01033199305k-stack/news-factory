@@ -435,5 +435,25 @@
     "at": 1790749217.605807,
     "country": "네팔",
     "category": "재난"
+  },
+  {
+    "event_key": "south-korea-ukraine-pow-dispute",
+    "topic": "한국 정부, 북한군 포로 이송 비밀 유지 위반 우크라이나에 사과 요구",
+    "slug": "2026-09-30-news-south-korea-ukraine-pow-dispute",
+    "cluster": "CBMiqgFBVV95cUxQS3hEMTkwX1B4dDU3R0VObHJnSTlOcTRITVM3MmVUZHdSYVppTk1vUWhIaHZ3Wnd2S3N1U19ha3JXdHZISHUwLXVhLXZSUEdGN2tNeEhIX2xwNS1jalNlLThVODlUWm9Ba1hHdVpvZ3VsWXFFeHV0b0lBTHB5TWNyM3NCWTZhcXlVbWNselZlaUN2eVpQRlpWZXBPQ3RHV19ueVNBSHhYa1YwQQ",
+    "badge": "breaking",
+    "at": 1790752148.0391815,
+    "country": "대한민국",
+    "category": "국제"
+  },
+  {
+    "event_key": "dubai-tel-aviv-flight-hijack-scare",
+    "topic": "두바이발 텔아비브행 여객기 납치 우려 비상 신호 발령 후 회항",
+    "slug": "2026-09-30-news-dubai-tel-aviv-flight-hijack-scare",
+    "cluster": "CBMiVEFVX3lxTE40OEhwLUdFTTh4VDlkMW5MajlSemp5MTBuczlRblBScWM0ZWxSNU9tWW1kZzZIc3dtaFhMaTFSVHVnVjhnZ1UwTUxOT1FnSTlWejFjTw",
+    "badge": "breaking",
+    "at": 1790752280.4249303,
+    "country": "이스라엘",
+    "category": "사고"
   }
 ]

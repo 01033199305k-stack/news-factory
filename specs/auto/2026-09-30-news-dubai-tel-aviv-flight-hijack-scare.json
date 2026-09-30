@@ -1,0 +1,133 @@
+{
+  "slug": "2026-09-30-news-dubai-tel-aviv-flight-hijack-scare",
+  "topic": "두바이발 텔아비브행 여객기 납치 우려 비상 신호 발령 후 회항",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 15:34 KST",
+  "source": "CNN·The Jerusalem Post·The Times of Israel 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVEFVX3lxTE40OEhwLUdFTTh4VDlkMW5MajlSemp5MTBuczlRblBScWM0ZWxSNU9tWW1kZzZIc3dtaFhMaTFSVHVnVjhnZ1UwTUxOT1FnSTlWejFjTw",
+    "related": [
+      [
+        "Preliminary: Flight from Dubai to Tel Aviv reported hijacking concern, Air Force jets scrambled",
+        "ynetnews.com"
+      ],
+      [
+        "Flydubai flight to Tel Aviv expected to land in Saudi Arabia within minutes",
+        "The Times of Israel"
+      ],
+      [
+        "Flydubai aircraft activates hijack-related code en route to Tel Aviv",
+        "The Jerusalem Post"
+      ],
+      [
+        "Dubai-Tel Aviv flight reports suspected hijacking; Israeli fighter jets scrambled",
+        "ynetnews.com"
+      ],
+      [
+        "Flight to Israel diverted after pilot broadcasts emergency signal, sources",
+        "cnn.com"
+      ]
+    ],
+    "event_key": "dubai-tel-aviv-flight-hijack-scare"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "두바이발 텔아비브행 여객기 [[납치 우려]]\n비상 신호 발령 후 회항",
+      "sub": "조종사의 비상 신호 발령 후 이스라엘 공군 전투기가 출격했으며, 해당 항공기는 사우디아라비아에 착륙할 예정입니다.",
+      "chips": [],
+      "alt": "두바이발 텔아비브행 여객기 납치 우려 비상 신호 발령 후 회항",
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n텔아비브",
+      "video_only": true,
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "텔아비브"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "비상 신호 발령",
+          "d": "플라이두바이 여객기가 납치 관련 비상 코드를 활성화했습니다 (예루살렘 포스트)."
+        },
+        {
+          "t": "전투기 출격",
+          "d": "이스라엘 공군 전투기들이 긴급 출격했습니다 (예트뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "두바이발 텔아비브행 여객기 비상 신호",
+        "사우디아라비아 착륙 예정",
+        "이스라엘 전투기 출격"
+      ],
+      "unconfirmed": [
+        "정확한 납치 시도 여부 및 기내 상황",
+        "한국인 탑승 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "cnn.com",
+        "ynetnews.com",
+        "2026.09.30 16:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 두바이발 텔아비브행 여객기 [[납치 우려]] 비상 신호 발령 후 회항\n\n· 플라이두바이 소속 항공기가 텔아비브로 향하던 중 납치 관련 비상 코드를 작동했습니다 (예루살렘 포스트)\n· 이스라엘 공군 전투기들이 긴급 출격했습니다 (예트뉴스)\n· 해당 항공기는 사우디아라비아에 착륙할 예정입니다 (타임스 오브 이스라엘)\n\n한국인 피해 여부는 아직 확인되지 않았습니다.\n\n출처: CNN·예루살렘 포스트·예트뉴스·타임스 오브 이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "두바이를 떠나 텔아비브로 향하던 플라이두바이 여객기에서 납치 우려 상황이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "조종사가 납치 관련 비상 신호 코드를 활성화했고, 이스라엘 공군 전투기들이 출격했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "해당 항공기는 사우디아라비아에 곧 착륙할 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 기내 위협 상황과 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
