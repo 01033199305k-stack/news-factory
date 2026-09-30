@@ -595,5 +595,15 @@
     "at": 1790807301.2660367,
     "country": "아랍에미리트",
     "category": "사고"
+  },
+  {
+    "event_key": "athens-building-explosion-september-2026",
+    "topic": "아테네 아크로폴리스 인근 건물 폭발 관광객 등 6명 사망",
+    "slug": "2026-10-01-news-athens-building-explosion-september-2026",
+    "cluster": "CBMiggFBVV95cUxQOVhVZk5NOEhqaXhEMDkydXkxRDY3S3h1dFBIMHdaaFZBRVhVZW84cTdvYmx2ZTJmY2lWVU84RW1vVW1Kc0pUNVZWUFlnNkJ3NElXUU4wd0d6WVd4SzZhYVphdDZNbWlJblQ1ZFN1WXpDMjJIbjQ3TXBXcDZlUDdvdzdn",
+    "badge": "breaking",
+    "at": 1790809460.8187687,
+    "country": "그리스",
+    "category": "폭발·화재"
   }
 ]

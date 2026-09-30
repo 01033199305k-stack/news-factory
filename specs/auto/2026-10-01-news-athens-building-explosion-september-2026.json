@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-01-news-athens-building-explosion-september-2026",
+  "topic": "아테네 아크로폴리스 인근 건물 폭발 관광객 등 6명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 07:02 KST",
+  "source": "BBC·CBS News·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxQOVhVZk5NOEhqaXhEMDkydXkxRDY3S3h1dFBIMHdaaFZBRVhVZW84cTdvYmx2ZTJmY2lWVU84RW1vVW1Kc0pUNVZWUFlnNkJ3NElXUU4wd0d6WVd4SzZhYVphdDZNbWlJblQ1ZFN1WXpDMjJIbjQ3TXBXcDZlUDdvdzdn",
+    "related": [
+      [
+        "Ian Alexander Kirkpatrick, formerly of Huntington, and his wife, Florida Hoxha, among 4 Americans killed in Greece explosion",
+        "Newsday"
+      ],
+      [
+        "4 American tourists dead after building explosion and collapse in Athens",
+        "CBS News"
+      ],
+      [
+        "Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis",
+        "foxnews.com"
+      ],
+      [
+        "Athens explosion: Six dead in blast near Acropolis in Plaka district",
+        "BBC"
+      ],
+      [
+        "Six Dead After Explosion in Athens Tourist District",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "athens-building-explosion-september-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "아테네 아크로폴리스 인근 건물 [[폭발]]\n관광객 등 [[6명]] 사망",
+      "sub": "플라카 지역 건물 폭발",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "6명 (BBC·폭스뉴스)"
+        },
+        {
+          "k": "부상",
+          "v": "조사 중"
+        }
+      ],
+      "alt": "아테네 아크로폴리스 인근 건물 폭발 관광객 등 6명 사망",
+      "map": {
+        "lat": 37.9755648,
+        "lon": 23.7348324,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "그리스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "그리스\n아테네",
+      "video_only": true,
+      "map": {
+        "lat": 37.9755648,
+        "lon": 23.7348324,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아테네"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미국인 관광객",
+          "d": "사망자 중에는 미국인 관광객이 포함됐습니다."
+        },
+        {
+          "t": "아크로폴리스 인근",
+          "d": "폭발은 아테네 아크로폴리스 인근 플라카 지역에서 일어났습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "그리스 아테네 플라카 지역",
+        "건물 폭발",
+        "사망 6명 (BBC·폭스뉴스)",
+        "미국인 관광객 4명 사망 (CBS·뉴스데이)"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 규모",
+        "폭발 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CBS News",
+        "Newsday",
+        "The New York Times",
+        "foxnews.com",
+        "2026.10.01 08:04 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 그리스 아테네 아크로폴리스 인근 건물 폭발로 6명 사망\n\n· 사망자 중에는 미국인 관광객 4명이 포함됐습니다 (CBS·뉴스데이)\n· 사고는 플라카 지역의 건물 폭발로 발생했습니다 (BBC·뉴욕타임스)\n\n출처: BBC·폭스뉴스·CBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "그리스 아테네 플라카 지역에서 건물이 폭발했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신 등은 이번 사고로 6명이 숨졌다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "사망자 중에는 미국인 관광객 4명이 포함된 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 폭발 원인은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
