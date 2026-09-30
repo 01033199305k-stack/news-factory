@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-01-news-ethiopia-tigray-fighting-alamata",
+  "topic": "에티오피아 티그라이 교전 격화 알라마타서 민간인 52명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 00:04 KST",
+  "source": "Reuters·The Economist·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1DMzhTeTMyMHl1QVFpYmlORzg4MDUtSWNWY3lXY0taV21QQy1OMTUyTVJXMWJCUDVUc1BGMDBFdE1zd2lvSDNDbGtabEFPaGZrSVRIWkN0eEY2N2M",
+    "related": [
+      [
+        "Ethiopia fighting escalates in Tigray killing 52 civilians in Alamata, medic tells the BBC",
+        "bbc.com"
+      ],
+      [
+        "Ethiopian pro-government forces claim capture of strategic Tigray town",
+        "Reuters"
+      ],
+      [
+        "Analysing Africa newsletter: The war everyone saw coming",
+        "The Economist"
+      ],
+      [
+        "Pope appeals for dialogue in Tigray region",
+        "Vatican News"
+      ],
+      [
+        "The Sudan connection: Could fighting centered on Tigray draw Ethiopia into a proxy war?",
+        "DW.com"
+      ]
+    ],
+    "event_key": "ethiopia-tigray-fighting-alamata"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "에티오피아 티그라이 교전 격화\n알라마타서 민간인 52명 사망",
+      "sub": "친정부 군부대는 전략적 티그라이 도시 장악 주장",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "52명"
+        }
+      ],
+      "alt": "에티오피아 티그라이 교전 격화 알라마타서 민간인 52명 사망",
+      "map": {
+        "lat": 12.4175995,
+        "lon": 39.5603233,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "에티오피아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "에티오피아\n알라마타",
+      "video_only": true,
+      "map": {
+        "lat": 12.4175995,
+        "lon": 39.5603233,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "알라마타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "도시 장악 주장",
+          "d": "에티오피아 친정부 군부대는 전략적 티그라이 도시를 장악했다고 주장했습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "티그라이 지역 알라마타 교전 발생",
+        "민간인 52명 사망 (BBC)"
+      ],
+      "unconfirmed": [
+        "정확한 충돌 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "DW.com",
+        "Reuters",
+        "The Economist",
+        "Vatican News",
+        "bbc.com",
+        "2026.10.01 02:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 에티오피아 티그라이 교전 격화 알라마타서 민간인 52명 사망\n\n· 에티오피아 티그라이 지역 알라마타 교전으로 민간인 52명이 숨졌습니다 (BBC)\n· 에티오피아 친정부 군부대는 전략적 티그라이 도시를 장악했다고 주장했습니다 (로이터)\n\n에티오피아의 무력 충돌이 격화되는 상황에서 이번 사태가 주변국으로 확산할 가능성에 대해 어떻게 보십니까?\n\n출처: BBC·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "에티오피아 티그라이 지역의 교전이 격화되면서 알라마타에서 민간인이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "52명이 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "에티오피아 친정부 군부대는 전략적 티그라이 도시를 장악했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 충돌 경위와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

@@ -525,5 +525,15 @@
     "at": 1790787152.4111178,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "ethiopia-tigray-fighting-alamata",
+    "topic": "에티오피아 티그라이 교전 격화 알라마타서 민간인 52명 사망",
+    "slug": "2026-10-01-news-ethiopia-tigray-fighting-alamata",
+    "cluster": "CBMiW0FVX3lxTE1DMzhTeTMyMHl1QVFpYmlORzg4MDUtSWNWY3lXY0taV21QQy1OMTUyTVJXMWJCUDVUc1BGMDBFdE1zd2lvSDNDbGtabEFPaGZrSVRIWkN0eEY2N2M",
+    "badge": "breaking",
+    "at": 1790788118.9118433,
+    "country": "에티오피아",
+    "category": "국제"
   }
 ]
