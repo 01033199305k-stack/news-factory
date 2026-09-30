@@ -1,0 +1,138 @@
+{
+  "slug": "2026-09-30-news-us-forces-withdraw-iraq-2026",
+  "topic": "미군, 이라크서 철수 23년 만에 군사 임무 종료",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.09.30 18:24 KST",
+  "source": "Fox News·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz",
+    "related": [
+      [
+        "US forces exit Iraq, emboldening Iran's proxies and Islamic State",
+        "Reuters"
+      ],
+      [
+        "American Forces Withdraw From Iraq 23 Years After Invading",
+        "The New York Times"
+      ],
+      [
+        "US faces another major Middle East troop withdrawal, but threat remains",
+        "Fox News"
+      ],
+      [
+        "US withdraws forces from bases in Iraq on Tuesday, raising fears of vacuum for terror groups | LIVE BLOG",
+        "i24NEWS"
+      ],
+      [
+        "Statement by Chief Pentagon Spokesman Sean Parnell on the Conclusion of the U.S. Military Mission in Iraq",
+        "U.S. Department of War (.gov)"
+      ]
+    ],
+    "event_key": "us-forces-withdraw-iraq-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미군, 이라크서 [[철수]]\n23년 만에 군사 임무 종료",
+      "sub": "미 국방부의 이라크 내 군사 임무 종료 발표",
+      "chips": [
+        {
+          "k": "미군 철수",
+          "v": "23년 만"
+        }
+      ],
+      "alt": "미군, 이라크서 철수 23년 만에 군사 임무 종료",
+      "map": {
+        "lat": 33.3061701,
+        "lon": 44.3872213,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이라크"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이라크\n바그다드",
+      "video_only": true,
+      "map": {
+        "lat": 33.3061701,
+        "lon": 44.3872213,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바그다드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "23년 만의 철수",
+          "d": "미국이 이라크 침공 23년 만에 철수했다고 전해졌습니다."
+        },
+        {
+          "t": "미 국방부 공식 발표",
+          "d": "미 국방부는 이라크 내 미군의 군사 임무가 종료되었다고 발표했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미군 이라크 철수",
+        "23년 만에 군사 임무 종료"
+      ],
+      "unconfirmed": [
+        "향후 지역 안보 영향",
+        "잔류 인력 및 후속 조치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Fox News",
+        "Reuters",
+        "The New York Times",
+        "U.S. Department of War (.gov)",
+        "i24NEWS",
+        "2026.09.30 19:29 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미군이 23년 만에 이라크에서 철수했습니다.\n\n· 미 국방부는 이라크 내 군사 임무가 종료되었다고 밝혔습니다 (미 국방부)\n· 침공 23년 만에 이라크에서 철수가 이뤄졌다고 전해졌습니다 (뉴욕타임스·로이터)\n\n이번 미군 철수가 중동 정세에 어떤 영향을 미칠 것으로 보시나요?\n\n출처: 로이터·뉴욕타임스·미 국방부 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 23년 만에 이라크에서 철수했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미 국방부는 이라크 내 미군 군사 임무가 종료됐다고 발표했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "뉴욕타임스는 미군이 이라크에서 철수했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 철수가 중동 안보에 미칠 구체적 영향은 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

@@ -475,5 +475,15 @@
     "at": 1790756327.4782536,
     "country": "소말리아",
     "category": "사고"
+  },
+  {
+    "event_key": "us-forces-withdraw-iraq-2026",
+    "topic": "미군, 이라크서 철수 23년 만에 군사 임무 종료",
+    "slug": "2026-09-30-news-us-forces-withdraw-iraq-2026",
+    "cluster": "CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz",
+    "badge": "breaking",
+    "at": 1790764192.4402428,
+    "country": "이라크",
+    "category": "국제"
   }
 ]
