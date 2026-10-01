@@ -4034,5 +4034,61 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790878107
+  },
+  {
+    "slug": "2026-10-02-usgs-us6000tyw6",
+    "event_ms": 1790875040097,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 일본 인근 규모 5.1 지진\n\n한국 시각 10월 02일 02시 17분, 일본 Miyako에서 동북동쪽 108km. 깊이 35km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000tyw6",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "일본",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18131849419708365",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd9eIP7G7Te",
+        "kind": "carousel",
+        "at": 1790876535
+      },
+      "instagram": {
+        "id": "18122387989898056",
+        "permalink": "https://www.instagram.com/reel/Dd9gsGBAmw6/",
+        "kind": "reel",
+        "at": 1790877903
+      },
+      "youtube": {
+        "id": "AChPUUptv1Y",
+        "permalink": "https://youtube.com/shorts/AChPUUptv1Y",
+        "kind": "shorts",
+        "at": 1790877919
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6abea5af35c4044eb8fbca34): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1790879263
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790879263
   }
 ]
