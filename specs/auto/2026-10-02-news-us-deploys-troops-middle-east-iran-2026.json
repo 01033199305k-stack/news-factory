@@ -1,0 +1,151 @@
+{
+  "slug": "2026-10-02-news-us-deploys-troops-middle-east-iran-2026",
+  "topic": "미국, 중동에 항모 3척·병력 최대 1만 명 추가 파견",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 06:05 KST",
+  "source": "AP News·Al Jazeera·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxOckFTRUE2OTVNM0pFODdHczJMbXBQaDRYVnByTWp4TTZESUtlNDlVN0NZVmRYbTB4MkdCM3pNN18zZnNzMXpnd0J1aUxzVmZwTm9pZVlkY0hPWWxXMFNpai1GU2haZW1sTUhfVkhKTzN2akZzb2pBLUphUW1kOGZnLXBUcU4",
+    "related": [
+      [
+        "US deploys thousands of troops to Middle East as Donald Trump weighs strikes on Iran",
+        "Financial Times"
+      ],
+      [
+        "Iran war live: US deploys strike group to Middle East, Houthi drones foiled",
+        "Al Jazeera"
+      ],
+      [
+        "Brent oil jumps more than 4% as U.S. reportedly sends third aircraft carrier to Middle East",
+        "CNBC"
+      ],
+      [
+        "U.S. Sending Third Aircraft Carrier, Up to 10,000 More Troops, to Middle East",
+        "WSJ"
+      ],
+      [
+        "Third aircraft carrier and thousands of troops head to Mideast as Trump weighs new Iran strikes",
+        "AP News"
+      ]
+    ],
+    "event_key": "us-deploys-troops-middle-east-iran-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국, 중동에 항모 3척·병력 최대 1만 명 추가 파견",
+      "sub": "이란 타격 검토 속 중동 긴장 급고조",
+      "chips": [
+        {
+          "k": "병력",
+          "v": "최대 1만 명"
+        },
+        {
+          "k": "항공모함",
+          "v": "3척"
+        },
+        {
+          "k": "유가",
+          "v": "4% 이상 급등"
+        }
+      ],
+      "alt": "미국, 중동에 항모 3척·병력 최대 1만 명 추가 파견",
+      "map": {
+        "lat": 39.3014159,
+        "lon": -76.5888477,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n중동",
+      "video_only": true,
+      "map": {
+        "lat": 39.3014159,
+        "lon": -76.5888477,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "중동"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "병력 파견",
+          "d": "미국이 이란 타격을 검토하는 가운데 수천 명에서 최대 1만 명의 병력을 중동에 추가로 배치한다고 외신들이 보도했습니다."
+        },
+        {
+          "t": "항공모함 전개",
+          "d": "이번 조치로 중동 지역에 세 번째 항공모함이 전개된다고 외신들이 전했습니다."
+        },
+        {
+          "t": "경제 영향",
+          "d": "중동 긴장 고조 여파로 브렌트유 가격이 4% 이상 뛰어올랐다고 CNBC가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국의 중동 병력 추가 파견",
+        "항공모함 3척 중동 전개",
+        "브렌트유 4% 이상 상승"
+      ],
+      "unconfirmed": [
+        "미국의 대이란 실제 타격 여부",
+        "추가 파견 병력의 정확한 규모와 배치 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "CNBC",
+        "Financial Times",
+        "WSJ",
+        "2026.10.02 08:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국, 중동에 항모 3척·병력 최대 1만 명 추가 파견\n\n· 이란 타격을 검토하는 가운데 미군이 중동 지역에 병력을 추가로 배치한다고 외신들이 보도했습니다.\n· 이번 파견으로 중동에 세 번째 항공모함이 전개된다고 외신들이 전했습니다.\n· 중동 긴장 고조 여파로 브렌트유 가격이 4% 이상 급등했다고 CNBC가 보도했습니다.\n\n미국의 추가 군사적 조치가 중동 정세와 글로벌 경제에 미칠 영향에 대해 어떻게 보십니까?\n\n출처: 파이낸셜타임스·월스트리트저널·AP통신·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 이란 타격을 검토하며 중동에 항공모함과 병력을 추가로 파견했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 최대 1만 명의 병력과 세 번째 항공모함이 중동으로 향하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이 소식에 브렌트유 가격이 4% 이상 급등했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국의 실제 군사 행동 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

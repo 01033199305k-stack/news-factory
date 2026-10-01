@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-10-02-news-us-deploys-troops-middle-east-iran-2026",
+    "event_ms": 1790896266992,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국, 중동에 항모 3척·병력 최대 1만 명 추가 파견\n\n· 이란 타격을 검토하는 가운데 미군이 중동 지역에 병력을 추가로 배치한다고 외신들이 보도했습니다.\n· 이번 파견으로 중동에 세 번째 항공모함이 전개된다고 외신들이 전했습니다.\n· 중동 긴장 고조 여파로 브렌트유 가격이 4% 이상 급등했다고 CNBC가 보도했습니다.\n\n미국의 추가 군사적 조치가 중동 정세와 글로벌 경제에 미칠 영향에 대해 어떻게 보십니까?\n\n출처: 파이낸셜타임스·월스트리트저널·AP통신·CNBC 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17995326114009559",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd-D20AlBcM",
+        "kind": "carousel",
+        "at": 1790896312
+      },
+      "instagram": {
+        "id": "18165827761477769",
+        "permalink": "https://www.instagram.com/reel/Dd-EJAllDDo/",
+        "kind": "reel",
+        "at": 1790896481
+      },
+      "youtube": {
+        "skipped": "하루 업로드 한도 초과",
+        "at": 1790896524
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
