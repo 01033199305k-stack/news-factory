@@ -24,10 +24,13 @@ concurrency:
 
 env:
   MEDIA_BASE: https://news-factory-watch.alsgur3319.workers.dev/media
-  # post.py 는 토큰이 보이는 플랫폼을 모두 끝내야 항목을 닫는다 — 그래서 모든 게시 단계가 유튜브 토큰을 봐야 한다
+  # post.py 는 토큰이 보이는 플랫폼을 모두 끝내야 항목을 닫는다 — 그래서 모든 게시 단계가 유튜브·틱톡 토큰을 봐야 한다
   YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
   YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
   YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+  # 틱톡은 Buffer(무료 플랜) API 로 올린다. 키가 없으면 틱톡은 건너뛴다. 채널 ID 는 비밀이 아니라 여기 둔다
+  BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+  BUFFER_TIKTOK_CHANNEL_ID: 6abd474aea19ca0bde360a50
 
 jobs:
   watch:
@@ -129,6 +132,17 @@ jobs:
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
         run: python post.py --only youtube
+
+      # 틱톡도 같은 영상. Buffer 가 틱톡에 올리는 데 1~2분 걸려서 건당 2~3분 기다린다. 하루 한도를 넘으면 그 건은 건너뛴다
+      - name: 틱톡 게시 (Buffer)
+        if: steps.q.outputs.n != '0'
+        continue-on-error: true
+        env:
+          # 게시 토큰이 없으면 그 플랫폼은 끝난 걸로 보고 대기열에서 빼 버린다 — 스레드·인스타 재시도가 사라지지 않게 같이 넘긴다
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+        run: python post.py --only tiktok
 
       # 카드·영상은 보관소에만 두고 저장소에는 기록(state·specs)만 남긴다 — 저장소가 불어나지 않게
       - name: 기록 커밋
