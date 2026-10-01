@@ -1,52 +1,5 @@
 [
   {
-    "slug": "2026-10-02-news-pentagon-autowarcom-elon-musk",
-    "event_ms": 1790873845000,
-    "category": "국제",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 미국 펜타곤, 자율무기사령부 신설 및 일론 머스크 참여 발표\n\n· 펜타곤이 인공지능과 드론 역량을 확장하기 위해 오토워컴을 신설했습니다 (로이터)\n· 일론 머스크와 팔머 러키 등이 펜타곤의 전쟁 연구를 공동 이끌 예정입니다 (유로뉴스·CNBC)\n\n새로운 군사 조직 신설에 대해 어떻게 생각하시나요?\n출처: 유로뉴스·가디언·로이터·CNN·CNBC 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "국제",
-      "미국"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18117788944841827",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd9o9AGFIqX",
-        "kind": "carousel",
-        "at": 1790882209
-      },
-      "instagram": {
-        "id": "17948757198321843",
-        "permalink": "https://www.instagram.com/reel/Dd9rF-djbhu/",
-        "kind": "reel",
-        "at": 1790883350
-      },
-      "youtube": {
-        "skipped": "하루 업로드 한도 초과",
-        "at": 1790883407
-      }
-    },
-    "attempts": {
-      "tiktok": 2
-    },
-    "video": "video.mp4"
-  },
-  {
     "slug": "2026-10-02-news-ukraine-fp7-missile-combat",
     "event_ms": 1790875841000,
     "category": "국제",
@@ -89,7 +42,7 @@
       }
     },
     "attempts": {
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   },
@@ -136,7 +89,7 @@
       }
     },
     "attempts": {
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   }
