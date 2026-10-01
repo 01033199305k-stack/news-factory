@@ -725,5 +725,15 @@
     "at": 1790861354.4377134,
     "country": "스위스",
     "category": "재난"
+  },
+  {
+    "event_key": "ethiopia-addis-ababa-explosions",
+    "topic": "에티오피아 수도서 폭발 드론 운항 금지 조치 내려져",
+    "slug": "2026-10-01-news-ethiopia-addis-ababa-explosions",
+    "cluster": "CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM",
+    "badge": "breaking",
+    "at": 1790863402.858941,
+    "country": "에티오피아",
+    "category": "폭발·화재"
   }
 ]

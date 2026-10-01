@@ -1,0 +1,133 @@
+{
+  "slug": "2026-10-01-news-ethiopia-addis-ababa-explosions",
+  "topic": "에티오피아 수도서 폭발 드론 운항 금지 조치 내려져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 20:25 KST",
+  "source": "AP News·BBC·Bloomberg.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM",
+    "related": [
+      [
+        "Explosions heard in Ethiopia's capital after drone flights banned",
+        "BBC"
+      ],
+      [
+        "Explosions heard in Ethiopia's capital as war waged in north",
+        "Reuters"
+      ],
+      [
+        "Blasts reported in Ethiopian capital hours after government banned drone flights",
+        "AP News"
+      ],
+      [
+        "Two Blasts Heard in Ethiopian Capital as Drone Flights Suspended",
+        "Bloomberg.com"
+      ],
+      [
+        "Ethiopian opposition claims drone attacks in Addis Ababa after explosions",
+        "The Jerusalem Post"
+      ]
+    ],
+    "event_key": "ethiopia-addis-ababa-explosions"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "에티오피아 수도서 폭발\n드론 운항 금지 조치 내려져",
+      "sub": "북부 지역 전쟁 지속 속 수도서 폭발음 발생",
+      "chips": [],
+      "alt": "에티오피아 수도서 폭발 드론 운항 금지 조치 내려져",
+      "map": {
+        "lat": 9.0358119,
+        "lon": 38.7524315,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "에티오피아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "에티오피아\n아디스아바바",
+      "video_only": true,
+      "map": {
+        "lat": 9.0358119,
+        "lon": 38.7524315,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아디스아바바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "드론 금지",
+          "d": "에티오피아 정부가 드론 운항을 금지했습니다 (AP)."
+        },
+        {
+          "t": "야권 주장",
+          "d": "에티오피아 야권은 수도에서 드론 공격이 일어났다고 주장했습니다 (제루살렘 포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에티오피아 수도 폭발",
+        "드론 운항 금지 조치 시행"
+      ],
+      "unconfirmed": [
+        "폭발 원인과 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "Bloomberg.com",
+        "Reuters",
+        "The Jerusalem Post",
+        "2026.10.01 23:03 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 에티오피아 수도서 폭발, 드론 운항 금지 조치 내려져\n\n· 에티오피아 수도에서 폭발음이 들렸습니다 (BBC·로이터)\n· 정부가 드론 운항을 금지한 지 수 시간 만에 폭발이 발생했습니다 (AP)\n· 야권은 수도에서 드론 공격이 있었다고 주장했습니다 (제루살렘 포스트)\n\n출처: BBC·로이터·AP News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "에티오피아 수도에서 폭발이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신들은 정부가 드론 운항을 금지한 지 수 시간 만에 폭발음이 들렸다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "야권은 수도에서 드론 공격이 있었다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 폭발 원인과 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

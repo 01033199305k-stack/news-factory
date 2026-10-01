@@ -3763,5 +3763,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790861766
+  },
+  {
+    "slug": "2026-10-01-news-ethiopia-addis-ababa-explosions",
+    "event_ms": 1790853903000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 에티오피아 수도서 폭발, 드론 운항 금지 조치 내려져\n\n· 에티오피아 수도에서 폭발음이 들렸습니다 (BBC·로이터)\n· 정부가 드론 운항을 금지한 지 수 시간 만에 폭발이 발생했습니다 (AP)\n· 야권은 수도에서 드론 공격이 있었다고 주장했습니다 (제루살렘 포스트)\n\n출처: BBC·로이터·AP News 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "에티오피아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18105911684573295",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd9FLpWoMWY",
+        "kind": "carousel",
+        "at": 1790863458
+      },
+      "instagram": {
+        "id": "18175642783452104",
+        "permalink": "https://www.instagram.com/reel/Dd9F6_8jxMI/",
+        "kind": "reel",
+        "at": 1790863862
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1790863872
+      },
+      "tiktok": {
+        "id": "6abe6a01a1257d1a53a3c100",
+        "permalink": "",
+        "kind": "video",
+        "at": 1790864073
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790864083
   }
 ]
