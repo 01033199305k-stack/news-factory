@@ -805,5 +805,25 @@
     "at": 1790883584.0258672,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "ethiopia-eritrea-diplomatic-ties-severed",
+    "topic": "에티오피아·에리트레아 외교 관계 전면 단절",
+    "slug": "2026-10-02-news-ethiopia-eritrea-diplomatic-ties-severed",
+    "cluster": "CBMitwFBVV95cUxPejNSZnA0b0E3bmZKTW13MXl1Uk9LMERtVE1YWVdDc1JmNVViUGRqRjIzRzBkLU4xd3BwdWdMWFo4SXk0MWdLRmk0NG1FS3YzQ1NkbjFkb0tUTWhqaTh6REFxVzRSMXRESGRYcDV3NWJfMXhUeGFHam1sYzJOVi1hUVVtbV9yRUxtN0JuSjBaX0NwVE9HcGMwNnJBcW8xN0sxSDktWFBycU1QZjA0WjlfcDh0UG9RdW8",
+    "badge": "breaking",
+    "at": 1790886395.2779498,
+    "country": "에티오피아",
+    "category": "국제"
+  },
+  {
+    "event_key": "us-sanctions-iran-auto-rail",
+    "topic": "미국, 이란 자동차·철도 신규 경제 제재 단행",
+    "slug": "2026-10-02-news-us-sanctions-iran-auto-rail",
+    "cluster": "CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM",
+    "badge": "breaking",
+    "at": 1790886408.7357616,
+    "country": "미국",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-02-news-us-sanctions-iran-auto-rail",
+  "topic": "미국, 이란 자동차·철도 신규 경제 제재 단행",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 02:53 KST",
+  "source": "Al Jazeera·Bloomberg.com·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM",
+    "related": [
+      [
+        "US sanctions target Iran's auto, rail sectors after blockade chokes shipping lanes",
+        "reuters.com"
+      ],
+      [
+        "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
+        "CNBC"
+      ],
+      [
+        "US sanctions Iran's largest automakers, major rail and manufacturing companies",
+        "The New Indian Express"
+      ],
+      [
+        "US Further Targets Iran-Linked Russian A7 Financial Network",
+        "Bloomberg.com"
+      ],
+      [
+        "US sanctions 10 entities for allegedly supporting Iran’s military",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "us-sanctions-iran-auto-rail"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 이란 자동차·철도\n[[신규 경제 제재 단행]]",
+      "sub": "러시아 금융망 등 10개 기관을 포함한 제재를 단행했습니다.",
+      "chips": [
+        {
+          "k": "제재 대상",
+          "v": "10개 기관"
+        }
+      ],
+      "alt": "미국, 이란 자동차·철도 신규 경제 제재 단행",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "제조업 및 철도 타깃",
+          "d": "미국이 이란의 자동차 제조업체들과 주요 철도 기업들을 제재 대상에 올렸습니다."
+        },
+        {
+          "t": "지원 네트워크 차단",
+          "d": "이란 군을 지원한 혐의를 받는 10개 기관이 제재 대상에 포함되었습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 자동차·철도 제조업체 제재",
+        "군 지원 연루 10개 기관 제재"
+      ],
+      "unconfirmed": [
+        "제재에 따른 이란 측 대응 조치 여부",
+        "현지 우리 기업 영향 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "CNBC",
+        "The New Indian Express",
+        "reuters.com",
+        "2026.10.02 05:26 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 정부가 이란의 자동차 및 철도 분야에 신규 제재를 단행했습니다.\n\n· 미국이 이란 최대 자동차 제조업체와 주요 철도 기업들을 제재했습니다 (The New Indian Express)\n· 이란 군을 지원한 혐의로 10개 기관이 제재 대상에 포함되었습니다 (알자지라)\n· 이번 조치는 이란 관련 러시아 금융망 등을 대상으로 합니다 (블룸버그)\n\n질문 줄: 미국의 이번 추가 제재가 이란에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·CNBC·알자지라·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 이란의 자동차와 철도 분야에 신규 제재를 단행했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국은 이란의 최대 제조업체들을 제재 대상에 올렸습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라는 이란 군을 지원한 10개 기관이 제재 대상에 포함되었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "제재에 따른 이란 측의 구체적인 반응은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "slug": "2026-10-02-news-ethiopia-eritrea-diplomatic-ties-severed",
+  "topic": "에티오피아·에리트레아 외교 관계 전면 단절",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 04:21 KST",
+  "source": "AP News·Reuters·Yahoo News 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxPejNSZnA0b0E3bmZKTW13MXl1Uk9LMERtVE1YWVdDc1JmNVViUGRqRjIzRzBkLU4xd3BwdWdMWFo4SXk0MWdLRmk0NG1FS3YzQ1NkbjFkb0tUTWhqaTh6REFxVzRSMXRESGRYcDV3NWJfMXhUeGFHam1sYzJOVi1hUVVtbV9yRUxtN0JuSjBaX0NwVE9HcGMwNnJBcW8xN0sxSDktWFBycU1QZjA0WjlfcDh0UG9RdW8",
+    "related": [
+      [
+        "Ethiopia orders closure of embassy in Eritrea after blasts heard in Addis Ababa",
+        "Reuters"
+      ],
+      [
+        "Eritrea says it is severing all diplomatic ties with Ethiopia",
+        "Reuters"
+      ],
+      [
+        "Ethiopia expels 10 Eritrean diplomats tensions between neighbors escalate",
+        "AP News"
+      ],
+      [
+        "Ethiopia and Eritrea break diplomatic ties over conflict",
+        "Yahoo"
+      ],
+      [
+        "Habasha ta ba da umarnin rufe ofishin jakadancinta a Eritrea bayan fashewar abubuwa a Addis Ababa",
+        "dw.com"
+      ]
+    ],
+    "event_key": "ethiopia-eritrea-diplomatic-ties-severed"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "에티오피아·에리트레아\n[[외교 관계 전면 단절]]",
+      "sub": "에티오피아가 대사관 폐쇄와 함께 외교관 10명 추방을 명령했습니다.",
+      "chips": [
+        {
+          "k": "추방",
+          "v": "외교관 10명"
+        }
+      ],
+      "alt": "에티오피아·에리트레아 외교 관계 전면 단절",
+      "map": {
+        "lat": 9.0358119,
+        "lon": 38.7524315,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "에티오피아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "에티오피아\n아디스아바바",
+      "video_only": true,
+      "map": {
+        "lat": 9.0358119,
+        "lon": 38.7524315,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아디스아바바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대사관 폐쇄 명령",
+          "d": "에티오피아 정부가 대사관 폐쇄를 명령했습니다."
+        },
+        {
+          "t": "외교관 10명 추방",
+          "d": "에티오피아가 에리트레아 외교관 10명을 추방했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "양국 외교 관계 전면 단절",
+        "에티오피아의 에리트레아 외교관 추방"
+      ],
+      "unconfirmed": [
+        "양국 간 추가 군사 충돌 여부",
+        "현지 교민 안전 확보 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Reuters",
+        "Yahoo",
+        "dw.com",
+        "2026.10.02 05:26 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 에티오피아와 에리트레아가 외교 관계를 전면 단절했습니다.\n\n· 에티오피아가 대사관 폐쇄를 명령했습니다 (로이터)\n· 에티오피아가 에리트레아 외교관 10명을 추방했습니다 (AP)\n· 에리트레아도 에티오피아와의 모든 외교 관계를 끊는다고 밝혔습니다 (로이터)\n\n질문 줄: 양국의 외교 관계 단절이 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·AP·DW 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "에티오피아와 에리트레아가 외교 관계를 전면 단절했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "에티오피아 정부는 대사관 폐쇄와 함께 에리트레아 외교관 10명을 추방했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "단절 이후 양국 간 군사적 충돌 가능성은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
