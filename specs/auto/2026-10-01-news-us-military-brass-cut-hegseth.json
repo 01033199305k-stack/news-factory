@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-01-news-us-military-brass-cut-hegseth",
+  "topic": "미국 전쟁부 장관, 미군 장성 20% 감축 계획 공식 확인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 10:06 KST",
+  "source": "The Guardian·The New York Times·dw.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxOdzB5NTliRE5TN0pPRE10WjF1RVRBNXFza1FCYWZKMEFnUEdwSi00WVZVbE5qY3B6d3dYUGpHcjk4ZVFpenR3NVphX0dtLS02N3MzNW1vZ2g2SldTMjVHSTFRNFl0b1NlS1RELXEyaVVSR09YSC0tZFg1N2VwZXZWS3lsRFdfdw",
+    "related": [
+      [
+        "Hegseth confirms plan to cut 20% of US top military brass and rails at ‘beardos, weirdos and wimps’",
+        "The Guardian"
+      ],
+      [
+        "In Speech, Hegseth Targets Diversity, Transgender People, Reporters and Iran",
+        "The New York Times"
+      ],
+      [
+        "Pete Hegseth says he cut number of generals, admirals in US military by 20%, calling it 'accountability'",
+        "dw.com"
+      ],
+      [
+        "Hegseth vows to shrink the Pentagon — and then announces plans to grow it",
+        "politico.com"
+      ],
+      [
+        "Secretary Hegseth Announces Six Major Initiatives at Quantico Speech",
+        "U.S. Department of War (.gov)"
+      ]
+    ],
+    "event_key": "us-military-brass-cut-hegseth"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 전쟁부 장관, [[미군 장성]]\n20% 감축 계획 공식 확인",
+      "sub": "다양성 정책 등을 비판하며 군 개혁안을 발표했습니다.",
+      "chips": [
+        {
+          "k": "장성 감축",
+          "v": "20%"
+        }
+      ],
+      "alt": "미국 전쟁부 장관, 미군 장성 20% 감축 계획 공식 확인",
+      "map": {
+        "lat": 38.5218802,
+        "lon": -77.2911023,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n퀀티코",
+      "video_only": true,
+      "map": {
+        "lat": 38.5218802,
+        "lon": -77.2911023,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "퀀티코"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대상 축소",
+          "d": "미국 전쟁부 장관은 미군 고위 장성 20%를 감축하겠다고 밝혔습니다 (더 가디언·dw.com)."
+        },
+        {
+          "t": "주요 발언",
+          "d": "장관은 군 내 다양성 및 트랜스젠더 정책 등을 강하게 비판했습니다 (뉴욕 타임스)."
+        },
+        {
+          "t": "조직 개편",
+          "d": "펜타곤 조직을 축소하겠다는 방침을 밝혔습니다 (폴리티코)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미군 고위 장성 20% 감축",
+        "펜타곤 조직 개편 추진"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "구체적인 감축 대상 명단"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "The Guardian",
+        "The New York Times",
+        "U.S. Department of War (.gov)",
+        "dw.com",
+        "politico.com",
+        "2026.10.01 11:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미군 고위 장성 20% 감축 [[20% 감축]] 계획을 미국 정부가 공식 확인했습니다.\n\n· 미국 전쟁부 장관은 군 내 다양성 및 관련 정책들을 비판하며 책임을 강조했습니다 (뉴욕 타임스·더 가디언)\n· 펜타곤 조직을 축소하고 군사 개혁을 추진하겠다고 밝혔습니다 (폴리티코)\n\n미국의 대규모 군 고위직 개편이 한반도 안보 환경에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 더 가디언·뉴욕 타임스·폴리티코 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부는 미군 고위 장성의 20퍼센트를 감축하겠다고 공식 발표했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 전쟁부 장관은 퀀티코 연설에서 군 내 다양성 정책을 강하게 비판했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 조치는 군의 책임성을 높이고 펜타곤 조직을 축소하기 위한 개혁의 일환이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 장성 감축 대상 명단은 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

@@ -3057,5 +3057,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790809671
+  },
+  {
+    "slug": "2026-10-01-news-us-military-brass-cut-hegseth",
+    "event_ms": 1790820700774,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미군 고위 장성 20% 감축 [[20% 감축]] 계획을 미국 정부가 공식 확인했습니다.\n\n· 미국 전쟁부 장관은 군 내 다양성 및 관련 정책들을 비판하며 책임을 강조했습니다 (뉴욕 타임스·더 가디언)\n· 펜타곤 조직을 축소하고 군사 개혁을 추진하겠다고 밝혔습니다 (폴리티코)\n\n미국의 대규모 군 고위직 개편이 한반도 안보 환경에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 더 가디언·뉴욕 타임스·폴리티코 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18124550027484545",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd7zundmpw7",
+        "kind": "carousel",
+        "at": 1790820750
+      },
+      "instagram": {
+        "id": "18032612831901644",
+        "permalink": "https://www.instagram.com/reel/Dd70A32Fccg/",
+        "kind": "reel",
+        "at": 1790820918
+      },
+      "youtube": {
+        "id": "J6G0nbKl_xA",
+        "permalink": "https://youtube.com/shorts/J6G0nbKl_xA",
+        "kind": "shorts",
+        "at": 1790820936
+      },
+      "tiktok": {
+        "id": "7691517440672484629",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7691517440672484629",
+        "kind": "video",
+        "at": 1790821067
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790821077
   }
 ]
