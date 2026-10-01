@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-01-news-zimbabwe-helicopter-crash-2026",
+  "topic": "짐바브웨서 헬기 추락 탑승자 전원 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 15:26 KST",
+  "source": "BBC·Arab News·Business Today Kenya 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1BaWx2U2c5cGhFVHM5NU1KdXpma3JuaURpRVZmMlItMnJ6aEpaVVZkaF94Rmo2M3VXNDQ5dFR1WmRuNG9qaDNzMWM2cTZwR29oR2NkcFhPbmJJSlU",
+    "related": [
+      [
+        "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+        "BBC"
+      ],
+      [
+        "Zimbabwe helicopter crash kills six, government spokesperson says",
+        "ThePrint"
+      ],
+      [
+        "Zimbabwe confirms fatal helicopter crash, 7 aboard killed: Report",
+        "The Economic Times"
+      ],
+      [
+        "Helicopter with 6 aboard crashes in Zimbabwe with no survivors, officials say",
+        "Arab News"
+      ],
+      [
+        "From School Dropout to Businessman: How Zimbabwe’s Wicknell Chivayo Built His Empire",
+        "Business Today Kenya"
+      ]
+    ],
+    "event_key": "zimbabwe-helicopter-crash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "짐바브웨서 [[헬기 추락]]\n탑승자 전원 사망",
+      "sub": "대부호 치바요 부부 등 최소 6명 숨져",
+      "chips": [
+        {
+          "k": "사고",
+          "v": "헬기 추락"
+        },
+        {
+          "k": "사망",
+          "v": "6~7명"
+        }
+      ],
+      "alt": "짐바브웨서 헬기 추락 탑승자 전원 사망",
+      "map": {
+        "lat": -18.4554963,
+        "lon": 29.7468414,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "짐바브웨"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "짐바브웨",
+      "video_only": true,
+      "map": {
+        "lat": -18.4554963,
+        "lon": 29.7468414,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "짐바브웨"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대부호 부부 사망",
+          "d": "유명 사업가 위크넬 치바요 부부가 이번 사고로 숨졌습니다 (BBC)."
+        },
+        {
+          "t": "사망자 수 보도 차이",
+          "d": "탑승자 사망 규모는 매체에 따라 6명 또는 7명으로 전해졌습니다 (더프린트·에코노믹타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "짐바브웨 헬기 추락 사고",
+        "탑승자 전원 사망"
+      ],
+      "unconfirmed": [
+        "매체별 사망자 수 집계 차이 (6~7명)",
+        "추락 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Arab News",
+        "BBC",
+        "Business Today Kenya",
+        "The Economic Times",
+        "ThePrint",
+        "2026.10.01 16:41 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 짐바브웨서 헬기 추락 사고로 최소 6명 사망\n\n· 짐바브웨에서 헬리콥터가 추락해 탑승자 전원이 숨졌습니다 (아랍뉴스)\n· 유명 사업가 위크넬 치바요 부부가 숨진 것으로 전해졌습니다 (BBC)\n· 사망자 수는 매체에 따라 6명 또는 7명으로 보고됐습니다 (더프린트·에코노믹타임스)\n\n출처: BBC·더프린트·에코노믹타임스·아랍뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "짐바브웨에서 헬리콥터가 추락해 탑승자 전원이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 유명 사업가 위크넬 치바요 부부가 숨졌다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "전체 사망자 수는 매체에 따라 6명 또는 7명으로 집계에 차이가 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 추락 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

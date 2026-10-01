@@ -645,5 +645,15 @@
     "at": 1790838484.1147106,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "zimbabwe-helicopter-crash-2026",
+    "topic": "짐바브웨서 헬기 추락 탑승자 전원 사망",
+    "slug": "2026-10-01-news-zimbabwe-helicopter-crash-2026",
+    "cluster": "CBMiW0FVX3lxTE1BaWx2U2c5cGhFVHM5NU1KdXpma3JuaURpRVZmMlItMnJ6aEpaVVZkaF94Rmo2M3VXNDQ5dFR1WmRuNG9qaDNzMWM2cTZwR29oR2NkcFhPbmJJSlU",
+    "badge": "breaking",
+    "at": 1790840531.077293,
+    "country": "짐바브웨",
+    "category": "사고"
   }
 ]
