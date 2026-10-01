@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-02-news-pentagon-autowarcom-elon-musk",
+  "topic": "미국 펜타곤, 자율무기사령부 신설 일론 머스크 등 참여 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 01:57 KST",
+  "source": "Reuters·The Guardian·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxOU1hfUWh4NEdFX1RiZ2dpZDZpRXl0Q0ZpT012eEEySGJpOWdOQkU3Z3hwdk1hZ0NKOGc0R1U2ckE0X0R3bGpfSFUzVDczalV0bFBYaHJiTXVGdjFjS1FUbHdRSU5ReFhZZjd3dENWREN5THUycE9kdVBIMXA1dFk4NWExQWx3OWt3T1Jxa0F0U2gtVlV4SGZUUVVBVGFlUUFkN0VsdTRvWjlDY1k",
+    "related": [
+      [
+        "Elon Musk returns to Trump administration to co-lead Pentagon war study",
+        "euronews.com"
+      ],
+      [
+        "Hegseth puts the future of warfare in the hands of major Maga donors",
+        "The Guardian"
+      ],
+      [
+        "Pentagon creates 'Autowarcom' to expand AI and drone capabilities",
+        "Reuters"
+      ],
+      [
+        "Hegseth announces new autonomous weapons command while repeating attacks on ‘woke’ culture during speech to troops",
+        "cnn.com"
+      ],
+      [
+        "Elon Musk, Palmer Luckey and Newt Gingrich to help Pentagon with warfare initiative, Hegseth says",
+        "CNBC"
+      ]
+    ],
+    "event_key": "pentagon-autowarcom-elon-musk"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 펜타곤, 자율무기사령부 신설\n[[일론 머스크]] 등 참여 발표",
+      "sub": "장관이 인공지능과 드론 역량을 확장을 위한 새로운 조직을 공개했습니다",
+      "chips": [
+        {
+          "k": "조직",
+          "v": "자율무기사령부"
+        },
+        {
+          "k": "참여자",
+          "v": "일론 머스크"
+        }
+      ],
+      "alt": "미국 펜타곤, 자율무기사령부 신설 일론 머스크 등 참여 발표",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "자율무기사령부 창설",
+          "d": "펜타곤이 인공지능과 드론 역량을 확장하기 위해 오토워컴을 신설했습니다 (로이터)"
+        },
+        {
+          "t": "민간 전문가 참여",
+          "d": "일론 머스크와 팔머 러키 등이 펜타곤의 전쟁 연구를 공동 이끌 예정입니다 (유로뉴스·CNBC)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "펜타곤 자율무기사령부 오토워컴 신설",
+        "일론 머스크 등 민간 전문가 공동 참여"
+      ],
+      "unconfirmed": [
+        "구체적인 예산 및 세부 운영 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "Reuters",
+        "The Guardian",
+        "cnn.com",
+        "euronews.com",
+        "2026.10.02 04:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 펜타곤, 자율무기사령부 신설 및 일론 머스크 참여 발표\n\n· 펜타곤이 인공지능과 드론 역량을 확장하기 위해 오토워컴을 신설했습니다 (로이터)\n· 일론 머스크와 팔머 러키 등이 펜타곤의 전쟁 연구를 공동 이끌 예정입니다 (유로뉴스·CNBC)\n\n새로운 군사 조직 신설에 대해 어떻게 생각하시나요?\n출처: 유로뉴스·가디언·로이터·CNN·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펜타곤이 인공지능과 드론 역량을 확장하기 위해 자율무기사령부를 신설했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "일론 머스크 등 민간 전문가들이 전쟁 연구를 공동으로 이끌 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 세부 계획은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
