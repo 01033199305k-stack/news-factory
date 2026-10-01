@@ -705,5 +705,15 @@
     "at": 1790859157.5249655,
     "country": "캐나다",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "ukraine-strikes-samara-oil-refinery",
+    "topic": "우크라이나 군 러시아 정유소 공습",
+    "slug": "2026-10-01-news-ukraine-strikes-samara-oil-refinery",
+    "cluster": "CBMivwFBVV95cUxORkxvU0xfTTNLQVhHaUplU2pkdFRieHMwNl9rYzFhbFVtNGVNeUVKUEtSazIzTzAxN2paMFRsTXNrRHAzdUxZLXVKLVh5U2ZLZ3VhZV83eVcwYnJyRW94a3AzVHNSSmFXV25WU004R2tmN0xoNUZBWEpxd0c2ZEtpMEVpeFRjV19UNHJTeGRycUNlM24xY0RjbU1GZ1R4ZnloOUxoODk1TlowaDNmN0FfMF9zZGlHV25ibTRmQzBpUQ",
+    "badge": "breaking",
+    "at": 1790860530.39707,
+    "country": "러시아",
+    "category": "국제"
   }
 ]

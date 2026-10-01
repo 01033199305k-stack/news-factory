@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-01-news-ukraine-strikes-samara-oil-refinery",
+  "topic": "우크라이나 군 러시아 정유소 공습",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 22:00 KST",
+  "source": "The Guardian·The Independent·The Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivwFBVV95cUxORkxvU0xfTTNLQVhHaUplU2pkdFRieHMwNl9rYzFhbFVtNGVNeUVKUEtSazIzTzAxN2paMFRsTXNrRHAzdUxZLXVKLVh5U2ZLZ3VhZV83eVcwYnJyRW94a3AzVHNSSmFXV25WU004R2tmN0xoNUZBWEpxd0c2ZEtpMEVpeFRjV19UNHJTeGRycUNlM24xY0RjbU1GZ1R4ZnloOUxoODk1TlowaDNmN0FfMF9zZGlHV25ibTRmQzBpUQ",
+    "related": [
+      [
+        "Ukraine-Russia war latest: Kyiv strikes major oil facility as Zelensky posts video of bombing raid",
+        "The Independent"
+      ],
+      [
+        "Ukraine strikes oil facility in Russia’s Samara region despite pressure from Trump – Europe live",
+        "The Guardian"
+      ],
+      [
+        "Ukraine Confirms Total Destruction of Russia’s Rubikon Drone Storage Near Volnovakha",
+        "UNITED24 Media"
+      ],
+      [
+        "Ukraine strikes Russian oil refinery despite Trump’s call for ceasefire",
+        "The Telegraph"
+      ],
+      [
+        "Ukraine’s military strikes Russian UAV depot, command-and-observation post",
+        "ukrinform.net"
+      ]
+    ],
+    "event_key": "ukraine-strikes-samara-oil-refinery"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 군\n[[러시아 정유소 공습]]",
+      "sub": "트럼프 압박 속 감행",
+      "chips": [
+        {
+          "k": "공습",
+          "v": "정유시설"
+        }
+      ],
+      "alt": "우크라이나 군 러시아 정유소 공습",
+      "map": {
+        "lat": 53.1956255,
+        "lon": 50.1014927,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n사마라",
+      "video_only": true,
+      "map": {
+        "lat": 53.1956255,
+        "lon": 50.1014927,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "사마라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "러시아 사마라 타격",
+          "d": "우크라이나 군이 러시아 사마라 지역의 석유 시설을 공습했습니다."
+        },
+        {
+          "t": "트럼프 휴전 요구 속 공습",
+          "d": "이번 공습은 트럼프의 휴전 촉구에도 불구하고 강행되었습니다."
+        },
+        {
+          "t": "드론 저장소 파괴",
+          "d": "우크라이나 측은 볼노바하 인근의 러시아 무인기 저장시설도 파괴했다고 발표했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사마라 정유시설 공습",
+        "볼노바하 드론 저장소 파괴"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "러시아 측의 보복 공격 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "The Guardian",
+        "The Independent",
+        "The Telegraph",
+        "UNITED24 Media",
+        "ukrinform.net",
+        "2026.10.01 22:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나, 트럼프 압박 속 러시아 정유시설 공습\n\n· 우크라이나 군이 러시아 사마라 지역의 석유 시설을 공습했습니다 (가디언·텔레그래프)\n· 이번 공습은 트럼프의 휴전 촉구 속에 강행되었습니다 (텔레그래프)\n· 우크라이나 측은 러시아 무인기 저장소도 파괴했다고 밝혔습니다 (유나이티드24)\n\n출처: 가디언·텔레그래프·유나이티드24 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 군이 러시아 사마라 지역의 주요 정유시설을 공습했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 트럼프의 휴전 요구 속에서도 이번 공습이 강행됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나 군은 볼노바하 인근의 러시아 무인기 저장시설도 파괴했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공습으로 인한 정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
