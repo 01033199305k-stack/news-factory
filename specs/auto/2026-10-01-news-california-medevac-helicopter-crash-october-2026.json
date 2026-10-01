@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-01-news-california-medevac-helicopter-crash-october-2026",
+  "topic": "미국 캘리포니아 해상서 의료용 헬기 추락 2명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 19:00 KST",
+  "source": "Yahoo News·Daily Express·KTLA 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijAFBVV95cUxNLWw0TGdYVVo3aWhJdVFja1BRR2ZSZjRyNGxfajVoWVo0ckxFZ1dBTUl5WTg3YTVsaVJYN3NFTk8yUk9ESFFYclRNOUVFSEZCclVMQmQ3Rko4N3VSNW5ENVBrcXFnMmdrcFIxMGxkWkxISG1IeUQ1YXIyemhWclBrSV92bjhSN2VnU1hRetIBkgFBVV95cUxQZGxqYkRoaWxQdFZHTV9BS2VETGZTdGxJQXJzLWR4X0dZOEtYUTVOSkpEZjdpNTJweFI2M1Y5bVMxNjZpOUpOU0NObFpMUXhOMC1KSWVmWXJyMUsyVG9Cc1ZjUVZIeU1ZUEpvRXZkSXlQblBseFBVdkgzNk9xVjBpMkU0XzNEWE02b1pRV1d0dXBMdw",
+    "related": [
+      [
+        "Tragedy as two people killed after medical helicopter crashes into the ocean",
+        "Daily Express"
+      ],
+      [
+        "2 dead, 1 missing, 2 hospitalized after medevac chopper crash off Catalina Island",
+        "KTLA"
+      ],
+      [
+        "Two dead and one missing after medical helicopter plunges into Pacific",
+        "independent.co.uk"
+      ],
+      [
+        "Two Killed, Two Injured in Helicopter Crash in California, USA",
+        "وكالة الأنباء السعودية"
+      ],
+      [
+        "Helicopter goes down in ocean off Catalina Island with 5 on board",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "california-medevac-helicopter-crash-october-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 캘리포니아 해상서\n의료용 헬기 추락 [[2명 사망]]",
+      "sub": "탑승자 5명이 탄 헬기가 태평양 바다로 추락했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        },
+        {
+          "k": "실종",
+          "v": "1명"
+        }
+      ],
+      "alt": "미국 캘리포니아 해상서 의료용 헬기 추락 2명 사망",
+      "map": {
+        "lat": 33.3889038,
+        "lon": -118.4239288,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n카탈리나섬",
+      "video_only": true,
+      "map": {
+        "lat": 33.3889038,
+        "lon": -118.4239288,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카탈리나섬"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "탑승 인원",
+          "d": "사고 헬기에는 총 5명이 타고 있었습니다 (야후)."
+        },
+        {
+          "t": "구조 및 부상",
+          "d": "2명이 병원으로 옮겨졌습니다 (KTLA·사우디아라비아 국영통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 2명 (KTLA·인디펜던트·데일리 익스프레스)",
+        "실종 1명 (KTLA·인디펜던트)",
+        "부상 2명 (KTLA·사우디아라비아 국영통신)"
+      ],
+      "unconfirmed": [
+        "추락 원인",
+        "실종자 수색 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daily Express",
+        "KTLA",
+        "Yahoo",
+        "independent.co.uk",
+        "وكالة الأنباء السعودية",
+        "2026.10.01 20:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 캘리포니아 해상서 의료용 헬기 추락해 2명 사망\n\n· 헬기에는 총 5명이 타고 있었으며 2명이 병원으로 옮겨졌습니다 (야후·KTLA)\n· 사고로 2명이 숨지고 1명이 실종된 상태입니다 (KTLA·인디펜던트)\n\n출처: KTLA·데일리 익스프레스·인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아 해상에서 의료용 헬기가 추락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 이번 사고로 2명이 숨지고 1명이 실종됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "헬기에는 총 5명이 탑승하고 있었으며 부상자 2명은 병원으로 옮겨졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 추락 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
