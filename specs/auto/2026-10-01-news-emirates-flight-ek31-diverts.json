@@ -1,0 +1,133 @@
+{
+  "slug": "2026-10-01-news-emirates-flight-ek31-diverts",
+  "topic": "두바이발 런던행 에미레이트 여객기 비상 사태 선언 후 프랑크푸르트 회항",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 22:59 KST",
+  "source": "AOL.com·Khaleej Times·The Sunday Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuAFBVV95cUxNdWhkZDFrS2F6WkJnMDhNYUJ0S1FkTUcwMGdsZFM2cXNZbmkzWnJIcXQtYUo4YUdBRXJ0Q0lIYk9CMkxjUFp5blJYMXpOTzBneURvaUF4SDR4eFRyT2hveS1zUmRIendteDlJQ1BDaDc3Q01pNDdqOHlqb1V0andoVm1lLXNoX1NETHRVT096TGZ0NDJIUUlMbVhRbVNRcWh2c2lLRU04UDRmU195ZXh0b1JWcEwyVEdZ",
+    "related": [
+      [
+        "Emirates A380 flight EK31 to London is declaring an emergency and diverting",
+        "airlive.net"
+      ],
+      [
+        "Emirates Dubai-London flight diverted to Frankfurt after passenger medical emergency",
+        "Khaleej Times"
+      ],
+      [
+        "Horror as Emirates flight from Dubai to London declares mid-air emergency",
+        "AOL.com"
+      ],
+      [
+        "Emirates flight EK31 declares emergency and diverts to Frankfurt",
+        "cedarnews.net"
+      ],
+      [
+        "Emirates A380 Emergency Today: Dubai-London Flight EK31 Suddenly Diverts to Frankfurt After 7700 Alert at 40,000 Feet, Moves to Remote Parking Stand – Just One Day After Flydubai Mid-Air Incident",
+        "The Sunday Guardian"
+      ]
+    ],
+    "event_key": "emirates-flight-ek31-diverts"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "두바이발 런던행 에미레이트 여객기\n비상 사태 선언 후 프랑크푸르트 회항",
+      "sub": "비상 사태 선언 후 프랑크푸르트 회항",
+      "chips": [
+        {
+          "k": "항공편",
+          "v": "EK31"
+        }
+      ],
+      "alt": "두바이발 런던행 에미레이트 여객기 비상 사태 선언 후 프랑크푸르트 회항",
+      "map": {
+        "lat": 50.1106444,
+        "lon": 8.6820917,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n프랑크푸르트",
+      "video_only": true,
+      "map": {
+        "lat": 50.1106444,
+        "lon": 8.6820917,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "프랑크푸르트"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "긴급 회항",
+          "d": "두바이를 출발해 런던으로 향하던 에미레이트 항공 EK31편이 비상 사태를 선언했습니다"
+        },
+        {
+          "t": "착륙지",
+          "d": "해당 여객기는 프랑크푸르트로 회항했습니다"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에미레이트 항공 EK31편 비상 사태 선언",
+        "프랑크푸르트 회항"
+      ],
+      "unconfirmed": [
+        "정확한 비상 사태 발생 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.com",
+        "Khaleej Times",
+        "The Sunday Guardian",
+        "airlive.net",
+        "cedarnews.net",
+        "2026.10.02 01:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 두바이발 런던행 에미레이트 여객기 비상 사태 선언 후 프랑크푸르트 회항\n\n· 두바이를 출발해 런던으로 향하던 에미레이트 항공 EK31편이 비상 사태를 선언했습니다\n· 해당 여객기는 프랑크푸르트로 회항했습니다\n\n출처: airlive.net·Khaleej Times·AOL.com·cedarnews.net·The Sunday Guardian 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "두바이를 떠나 런던으로 향하던 에미레이트 항공 EK31편이 비상 사태를 선언했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "여객기는 프랑크푸르트 공항으로 회항했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "비상 사태가 발생한 정확한 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

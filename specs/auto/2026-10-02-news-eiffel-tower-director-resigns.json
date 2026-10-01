@@ -1,0 +1,132 @@
+{
+  "slug": "2026-10-02-news-eiffel-tower-director-resigns",
+  "topic": "에펠탑 책임자 사임 발표 여성 직원 배제 논란 여파",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 00:25 KST",
+  "source": "CNN·NDTV·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxNVUV2V2o0YUFCR1lKQlF0NnJPRmdCeG9ocVMzVUppckRzaFJBNXlMNjY4MkxDZDgzQUxaZnpRM0VORWtwX1V2eVRDRW8wTVMtTFpQdTFGLXRicVdCcWVCaXAzUHhFbnJVY1ZDRUU0azhpUkQ1XzlrWnlOMV9HZjZ2U0xpLU5iNkxWMU9lNXdYc25WWnFUeERPZUM0MG0xWVdxQmhCRmQyNlpnWlFCeGM4NGIwMjLSAbwBQVVfeXFMT1R3dXhOb3p5WTdlWGMtM1A4RkdKalJYejAyYU1rTmUxVERkOFBLMkZSdU45V2FSbVZKaXJLTmQ3V3dIN0hhbnlxNjAxSmM4d0FtMmxVc2FlUUFFZVU2dzZVMzNPUHE3a0t3ZnFhdEdOR3llVGZLdDdLTWFwdUhnR0tsbi1lUjJQalJLTkRFS20zSHpmMVRiMVpaeVZNNnl2aV9PbngyUml3dTRMZGJzTm5UZWk5bWxmR0NwRHQ",
+    "related": [
+      [
+        "Hindu Group BAPS Didn't Ask For Eiffel Women Employees To Be Removed: Probe",
+        "NDTV"
+      ],
+      [
+        "Eiffel Tower chief to step down after exclusion of female staff during Hindu delegation visit",
+        "CNN"
+      ],
+      [
+        "The spiritual cronyism of Narendra Modi and the BAPS",
+        "The Caravan"
+      ],
+      [
+        "Eiffel Tower director announces departure after row over sidelining of female staff",
+        "Euronews.com"
+      ],
+      [
+        "Eiffel Tower Chief Resigns After Female Staff Moved for Hindu Group’s Visit",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "eiffel-tower-director-resigns"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "에펠탑 책임자 사임 발표\n[[여성 직원]] 배제 논란 여파",
+      "sub": "힌두교 단체 방문 당시 발생한 조치에 책임",
+      "chips": [],
+      "alt": "에펠탑 책임자 사임 발표 여성 직원 배제 논란 여파",
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사임 발표",
+          "d": "에펠탑 국장의 사임이 발표됐습니다 (Euronews.com)"
+        },
+        {
+          "t": "배제 논란",
+          "d": "힌두교 대표단 방문 당시 여성 직원들이 근무에서 배제된 일이 논란이 됐습니다 (CNN)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에펠탑 책임자 사임",
+        "힌두교 단체 방문 관련 여성 직원 이동 조치 논란"
+      ],
+      "unconfirmed": [
+        "후임자 선임 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Euronews.com",
+        "NDTV",
+        "The Caravan",
+        "The New York Times",
+        "2026.10.02 01:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 에펠탑 책임자 사임 발표 여성 직원 배제 논란 여파\n\n· 에펠탑 국장의 사임이 발표됐습니다 (Euronews.com)\n· 힌두교 대표단 방문 당시 여성 직원들이 근무에서 배제된 일이 논란이 됐습니다 (CNN)\n\n출처: NDTV·CNN·The Caravan·Euronews.com·The New York Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "에펠탑 책임자가 사임을 발표했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN은 힌두교 단체의 방문 당시 여성 직원들을 배제한 일에 대한 책임이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "에펠탑 운영을 둘러싼 이번 논란으로 국장이 결국 물러나게 됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "후임 인선 계획은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

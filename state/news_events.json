@@ -735,5 +735,25 @@
     "at": 1790863402.858941,
     "country": "에티오피아",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "emirates-flight-ek31-diverts",
+    "topic": "두바이발 런던행 에미레이트 여객기 비상 사태 선언 후 프랑크푸르트 회항",
+    "slug": "2026-10-01-news-emirates-flight-ek31-diverts",
+    "cluster": "CBMiuAFBVV95cUxNdWhkZDFrS2F6WkJnMDhNYUJ0S1FkTUcwMGdsZFM2cXNZbmkzWnJIcXQtYUo4YUdBRXJ0Q0lIYk9CMkxjUFp5blJYMXpOTzBneURvaUF4SDR4eFRyT2hveS1zUmRIendteDlJQ1BDaDc3Q01pNDdqOHlqb1V0andoVm1lLXNoX1NETHRVT096TGZ0NDJIUUlMbVhRbVNRcWh2c2lLRU04UDRmU195ZXh0b1JWcEwyVEdZ",
+    "badge": "breaking",
+    "at": 1790870548.9516306,
+    "country": "독일",
+    "category": "사고"
+  },
+  {
+    "event_key": "eiffel-tower-director-resigns",
+    "topic": "에펠탑 책임자 사임 발표 여성 직원 배제 논란 여파",
+    "slug": "2026-10-02-news-eiffel-tower-director-resigns",
+    "cluster": "CBMitAFBVV95cUxNVUV2V2o0YUFCR1lKQlF0NnJPRmdCeG9ocVMzVUppckRzaFJBNXlMNjY4MkxDZDgzQUxaZnpRM0VORWtwX1V2eVRDRW8wTVMtTFpQdTFGLXRicVdCcWVCaXAzUHhFbnJVY1ZDRUU0azhpUkQ1XzlrWnlOMV9HZjZ2U0xpLU5iNkxWMU9lNXdYc25WWnFUeERPZUM0MG0xWVdxQmhCRmQyNlpnWlFCeGM4NGIwMjLSAbwBQVVfeXFMT1R3dXhOb3p5WTdlWGMtM1A4RkdKalJYejAyYU1rTmUxVERkOFBLMkZSdU45V2FSbVZKaXJLTmQ3V3dIN0hhbnlxNjAxSmM4d0FtMmxVc2FlUUFFZVU2dzZVMzNPUHE3a0t3ZnFhdEdOR3llVGZLdDdLTWFwdUhnR0tsbi1lUjJQalJLTkRFS20zSHpmMVRiMVpaeVZNNnl2aV9PbngyUml3dTRMZGJzTm5UZWk5bWxmR0NwRHQ",
+    "badge": "breaking",
+    "at": 1790870561.7707002,
+    "country": "프랑스",
+    "category": "국제"
   }
 ]
