@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-01-news-us-treasury-yield-24-year-high",
+  "topic": "미국 10년물 국채금리 24년 만에 최고치",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 18:14 KST",
+  "source": "Bloomberg.com·Reuters·WSJ 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxQVS1ZRW5MZml2WVJMcVIzTHFaeXVkdlllV3paRnNqbnFsYU1UX2V5ZzUtblhaMlFSNUJqRzI4QkdPQlJGR1lFZjEtd0tYZk16MUt5eFRmd294UGFKN0dvQ01YeS1WUlh0cDRIMHRvdUx3NXdZNG1jb1pUbzVKVUJVQ2ZWaHM2SGc",
+    "related": [
+      [
+        "Stock Market Today: Global Bond Selloff Deepens — Live Updates",
+        "WSJ"
+      ],
+      [
+        "Stock Market News, Sept. 30, 2026: 10-Year Treasury Yield Rises to New 24-Year High",
+        "WSJ"
+      ],
+      [
+        "Global bonds gripped by fiscal worries, US 10-year yield hits 24-year high",
+        "Reuters"
+      ],
+      [
+        "Asian Stocks Eye Rough Start After US Reversal: Markets Wrap",
+        "Bloomberg.com"
+      ],
+      [
+        "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace",
+        "cnbc.com"
+      ]
+    ],
+    "event_key": "us-treasury-yield-24-year-high"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 10년물 국채금리\n[[24년 만에 최고치]]",
+      "sub": "글로벌 채권 매도세 속에 2002년 이후 최고 수준을 기록했습니다.",
+      "chips": [
+        {
+          "k": "국채 금리",
+          "v": "24년래 최고"
+        },
+        {
+          "k": "기준 연도",
+          "v": "2002년"
+        }
+      ],
+      "alt": "미국 10년물 국채금리 24년 만에 최고치",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "24년 만의 최고치",
+          "d": "미국 10년물 국채 금리가 2002년 이후 가장 높은 수준으로 치솟았습니다 (WSJ·CNBC)."
+        },
+        {
+          "t": "글로벌 채권 투매",
+          "d": "재정 적자 우려가 커지면서 전 세계적으로 채권 매도세가 깊어지고 있습니다 (로이터)."
+        },
+        {
+          "t": "아시아 증시 타격",
+          "d": "미국 뉴욕 증시의 하락 반전 영향으로 아시아 증시도 약세로 출발할 전망입니다 (블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 10년물 국채 금리 폭등",
+        "글로벌 채권 매도세 심화"
+      ],
+      "unconfirmed": [
+        "금리 추가 상승 여부",
+        "한국 금융시장 영향 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Reuters",
+        "WSJ",
+        "cnbc.com",
+        "2026.10.01 19:30 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 10년물 국채 금리가 24년 만에 최고치로 폭등했습니다.\n\n· 미국 10년물 국채 금리가 2002년 이후 가장 높은 수준을 기록했습니다 (WSJ·CNBC)\n· 재정 우려가 확산되면서 글로벌 채권 시장의 매도세가 한층 심화됐습니다 (로이터)\n· 뉴욕 증시가 하락 반전하면서 아시아 증시도 타격을 입을 전망입니다 (블룸버그)\n\n글로벌 채권 금리 급등세가 전 세계 금융 시장에 어떤 충격을 줄 것으로 보십니까?\n출처: WSJ·로이터·CNBC·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 10년물 국채 금리가 24년 만에 최고치로 치솟았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 미국의 국채 금리가 2002년 이후 가장 높은 수준을 기록했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "재정 우려가 확산되면서 글로벌 채권 시장의 매도세가 더욱 깊어지고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "뉴욕 증시의 하락 영향으로 아시아 증시도 약세로 출발할 전망입니다.",
+      "card": "points"
+    },
+    {
+      "text": "글로벌 채권 금리의 추가 상승 여부는 아직 불확실합니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

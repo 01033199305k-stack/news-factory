@@ -665,5 +665,15 @@
     "at": 1790845967.3495684,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "us-treasury-yield-24-year-high",
+    "topic": "미국 10년물 국채금리 24년 만에 최고치",
+    "slug": "2026-10-01-news-us-treasury-yield-24-year-high",
+    "cluster": "CBMihwFBVV95cUxQVS1ZRW5MZml2WVJMcVIzTHFaeXVkdlllV3paRnNqbnFsYU1UX2V5ZzUtblhaMlFSNUJqRzI4QkdPQlJGR1lFZjEtd0tYZk16MUt5eFRmd294UGFKN0dvQ01YeS1WUlh0cDRIMHRvdUx3NXdZNG1jb1pUbzVKVUJVQ2ZWaHM2SGc",
+    "badge": "breaking",
+    "at": 1790850663.9966571,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

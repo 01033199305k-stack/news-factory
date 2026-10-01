@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-01-news-us-treasury-yield-24-year-high",
+    "event_ms": 1790846040000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 10년물 국채 금리가 24년 만에 최고치로 폭등했습니다.\n\n· 미국 10년물 국채 금리가 2002년 이후 가장 높은 수준을 기록했습니다 (WSJ·CNBC)\n· 재정 우려가 확산되면서 글로벌 채권 시장의 매도세가 한층 심화됐습니다 (로이터)\n· 뉴욕 증시가 하락 반전하면서 아시아 증시도 타격을 입을 전망입니다 (블룸버그)\n\n글로벌 채권 금리 급등세가 전 세계 금융 시장에 어떤 충격을 줄 것으로 보십니까?\n출처: WSJ·로이터·CNBC·블룸버그 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "instagram": {
+        "id": "17960089584235011",
+        "permalink": "https://www.instagram.com/reel/Dd8tG9piSF5/",
+        "kind": "reel",
+        "at": 1790850859
+      },
+      "youtube": {
+        "id": "orEh71jSQAE",
+        "permalink": "https://youtube.com/shorts/orEh71jSQAE",
+        "kind": "shorts",
+        "at": 1790850902
+      },
+      "tiktok": {
+        "id": "7691645989744037121",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7691645989744037121",
+        "kind": "video",
+        "at": 1790851033
+      }
+    },
+    "attempts": {
+      "threads": 1
+    },
+    "video": "video.mp4"
+  }
+]
