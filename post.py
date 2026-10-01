@@ -1,12 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-게시 대기열(state/queue.json)을 스레드·인스타그램·유튜브에 올린다.
+게시 대기열(state/queue.json)을 스레드·인스타그램·유튜브·틱톡에 올린다.
 
-    MEDIA_BASE=https://news-factory-watch.alsgur3319.workers.dev/media python post.py [--only threads|instagram|youtube]
+    MEDIA_BASE=https://news-factory-watch.alsgur3319.workers.dev/media python post.py [--only threads|instagram|youtube|tiktok]
 
 - 스레드: 카드 캐러셀 (JPEG)
 - 인스타그램: 숏폼 영상이 있으면 릴스, 없으면 카드 캐러셀 (JPEG)
 - 유튜브: 숏폼 영상이 있을 때만 쇼츠 (없거나 하루 한도를 다 쓰면 건너뜀)
+- 틱톡: 숏폼 영상이 있을 때만, Buffer(무료 플랜) API 로 (틱톡 자체 API 는 심사 전이면 '나만 보기'로만 올라간다)
 - 이미지·영상은 upload_media.py 가 먼저 미디어 보관소에 올려 둔다 (두 API 모두 공개 URL 로만 받는다)
 - --only: 그 플랫폼만 올린다. 스레드는 카드가 나오자마자, 인스타는 영상이 나온 뒤에 올리려고 나눴다
 - 토큰이 있는 플랫폼에만 올리고, 올린 결과를 item["done"] 에 적어서 다시 올리지 않는다
@@ -324,6 +325,94 @@ in the target language. Unconfirmed items must stay unconfirmed. Plain text, no 
         return vid, "https://youtube.com/shorts/" + vid
 
 
+class TikTok(Platform):
+    """틱톡 — Buffer(무료 플랜) API 로 올린다. 숏폼 영상이 있을 때만 (인스타 릴스·유튜브 쇼츠와 같은 video.mp4).
+    틱톡 자체 Content Posting API 는 심사 전이면 '나만 보기'로만 올라가고, 심사도 '내 계정에 올리는 도구'는
+    받아 주지 않는다. Buffer 는 틱톡 심사를 통과한 앱이라 공개로 올라간다 (2026-10-01 첫 게시로 확인).
+    - 영상은 미디어 보관소 주소를 넘기면 Buffer 가 가져간다 (보관소는 3일 보관)
+    - 무료 플랜 API 한도: 24시간 250회·30일 3,000회 → 건당 2~4회만 쓰게 상태 확인을 띄엄띄엄 한다
+    - 하루 게시 한도(Buffer 기준 틱톡 25건, 틱톡 자체로는 보통 15건 안팎)에 걸리면 그 건은 건너뛴다
+    - 해시태그는 틱톡에 5개까지만 받는다
+    키: BUFFER_API_KEY (Buffer → Settings → API 의 개인 키, 2027-10-01 만료).
+    채널: BUFFER_TIKTOK_CHANNEL_ID (없으면 API 로 찾는다)"""
+    name, host, token_env = "tiktok", "https://api.buffer.com", "BUFFER_API_KEY"
+    AI_LABEL = os.environ.get("TIKTOK_AI_LABEL", "") == "1"   # 틱톡 'AI 생성 콘텐츠' 표시 (기본 끔)
+    CREATE = """mutation($input: CreatePostInput!) { createPost(input: $input) {
+        __typename ... on PostActionSuccess { post { id status externalLink } }
+        ... on MutationError { message } } }"""
+    STATUS = """query($id: PostId!) { post(input: { id: $id }) {
+        status externalLink error { message } } }"""
+    LIMIT = re.compile(r"limit|too.?many|spam|한도", re.I)
+
+    def gql(self, query, variables=None):
+        req = urllib.request.Request(self.host, method="POST", data=json.dumps(
+            {"query": query, "variables": variables or {}}).encode(), headers={
+            "Content-Type": "application/json", "Authorization": "Bearer " + self.token,
+            # 파이썬 기본 User-Agent 는 Cloudflare 가 봇으로 막을 수 있다
+            "User-Agent": "news-factory/1.0 (+https://github.com/01033199305k-stack/news-factory)"})
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                body = json.loads(r.read().decode())
+        except urllib.error.HTTPError as ex:  # 키가 섞여 나오지 않게 응답 본문만 남긴다
+            raise RuntimeError("buffer → %d: %s" % (ex.code, ex.read().decode(errors="replace")[:300]))
+        if body.get("errors"):
+            raise RuntimeError("buffer: " + "; ".join(e.get("message", "") for e in body["errors"])[:300])
+        return body["data"]
+
+    def channel(self):
+        if not self._uid:  # _uid 자리에 Buffer 의 틱톡 채널 ID 를 캐시한다
+            self._uid = os.environ.get("BUFFER_TIKTOK_CHANNEL_ID", "")
+        if not self._uid:
+            org = self.gql("query { account { organizations { id } } }")["account"]["organizations"][0]["id"]
+            chans = self.gql("query { channels(input: { organizationId: %s }) { id service isDisconnected } }"
+                             % json.dumps(org))["channels"]
+            tk = [c for c in chans if c["service"] == "tiktok" and not c.get("isDisconnected")]
+            if not tk:
+                raise RuntimeError("Buffer 에 연결된 틱톡 채널이 없음 (끊겼으면 Buffer 에서 다시 연결)")
+            self._uid = tk[0]["id"]
+        return self._uid
+
+    def caption(self, item):
+        tags = [t.replace(" ", "").replace("·", "").lstrip("#")
+                for t in DEFAULT_TAGS[:2] + item.get("hashtags", []) + DEFAULT_TAGS[2:]]
+        tags = list(dict.fromkeys(t for t in tags if t))[:5]
+        return (item["text"] + "\n\n" + " ".join("#" + t for t in tags))[:2200]
+
+    def post(self, item):
+        if not item.get("video"):
+            raise Skip("영상 없음")
+        res = self.gql(self.CREATE, {"input": {
+            "channelId": self.channel(), "text": self.caption(item),
+            "schedulingType": "automatic", "mode": "shareNow", "source": "news-factory",
+            "assets": [{"video": {"url": media_url(item, item["video"]),
+                                  "metadata": {"thumbnailOffset": 1500}}}],
+            "metadata": {"tiktok": {"isAiGenerated": self.AI_LABEL}}}})["createPost"]
+        if res.get("__typename") != "PostActionSuccess":
+            msg = res.get("message", "") or str(res)
+            if self.LIMIT.search(msg):
+                raise Skip("하루 게시 한도: " + msg[:150])
+            raise RuntimeError("createPost: " + msg[:300])
+        pid = res["post"]["id"]
+        # 틱톡이 영상을 받아 처리하는 데 1~2분 걸린다 (첫 게시 106초). API 한도 때문에 띄엄띄엄 본다.
+        # 끝까지 못 봐도 Buffer 가 마저 올리므로 '올림'으로 적는다 — 다시 올리면 중복 게시가 된다
+        link = ""
+        for wait in (110, 40, 40):
+            time.sleep(wait)
+            st = self.gql(self.STATUS, {"id": pid})["post"]
+            if st["status"] == "sent":
+                link = st.get("externalLink") or ""
+                break
+            if st["status"] == "error":
+                msg = (st.get("error") or {}).get("message", "") or "알 수 없는 오류"
+                if self.LIMIT.search(msg):
+                    raise Skip("틱톡 하루 한도: " + msg[:150])
+                raise RuntimeError("틱톡 게시 실패 (Buffer %s): %s" % (pid, msg[:300]))
+        else:
+            print("TIKTOK 아직 처리 중 — Buffer 가 마저 올린다", pid)
+        vid = link.rstrip("/").rsplit("/", 1)[-1] if "/video/" in link else pid
+        return vid, link
+
+
 def main():
     args = sys.argv[1:]
     only = args[args.index("--only") + 1] if "--only" in args else None
@@ -331,7 +420,7 @@ def main():
     if not queue:
         print("대기열 비어 있음")
         return 0
-    active = [p for p in (Threads(), Instagram(), YouTube()) if p.token]
+    active = [p for p in (Threads(), Instagram(), YouTube(), TikTok()) if p.token]
     if not active:
         print("게시 토큰 없음 — 건너뜀 (대기 %d건)" % len(queue))
         return 0
@@ -359,7 +448,7 @@ def main():
         for p in todo:
             try:
                 mid, link = p.post(item)
-                kind = ("shorts" if p.name == "youtube" else
+                kind = ("shorts" if p.name == "youtube" else "video" if p.name == "tiktok" else
                         "reel" if (p.name == "instagram" and item.get("video")) else "carousel")
                 done[p.name] = {"id": mid, "permalink": link, "kind": kind, "at": int(time.time())}
                 print("POSTED", p.name, kind, item["slug"], link)

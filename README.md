@@ -1,9 +1,9 @@
 # news-factory
 
-"지금 세계" 계정(스레드·인스타 @jigeum.segye, 유튜브 @jigeum_segye)의 속보 카드뉴스 공장.
+"지금 세계" 계정(스레드·인스타·틱톡 @jigeum.segye, 유튜브 @jigeum_segye)의 속보 카드뉴스 공장.
 1080×1350 (4:5) PNG + 게시용 문구(caption.md)를 만든다.
 
-- 유튜브: [지금 세계 @jigeum_segye](https://www.youtube.com/@jigeum_segye) · 스레드: [@jigeum.segye](https://www.threads.com/@jigeum.segye) · 인스타그램: [@jigeum.segye](https://www.instagram.com/jigeum.segye/)
+- 유튜브: [지금 세계 @jigeum_segye](https://www.youtube.com/@jigeum_segye) · 스레드: [@jigeum.segye](https://www.threads.com/@jigeum.segye) · 인스타그램: [@jigeum.segye](https://www.instagram.com/jigeum.segye/) · 틱톡: [@jigeum.segye](https://www.tiktok.com/@jigeum.segye)
 - [개인정보처리방침 (Privacy Policy)](PRIVACY.md) · [서비스 약관 (Terms of Service)](TERMS.md) · 이 도구는 YouTube API 서비스를 사용합니다 (YouTube API Services)
 
 ## 0. 클라우드 자동 운영 (컴퓨터 꺼져 있어도 돔)
@@ -22,6 +22,7 @@ GitHub 예약 실행은 제때 돌지 않아서(사실상 1시간) 1시간 백�
 2. 카드 커밋·푸시 → 그 커밋의 raw 이미지 주소로
 3. `post.py` — 스레드·인스타그램에 캐러셀 게시 (토큰 있는 곳만) → `state/posted.json` 에 기록
 4. `post.py --only youtube` — 인스타와 같은 숏폼을 유튜브 쇼츠로 (`YOUTUBE_*` 시크릿이 있을 때만)
+5. `post.py --only tiktok` — 같은 숏폼을 틱톡에 (Buffer 무료 플랜 API, `BUFFER_API_KEY` 시크릿이 있을 때만)
 
 | 시크릿 (Settings → Secrets → Actions) | 내용 |
 |---|---|
@@ -32,9 +33,10 @@ GitHub 예약 실행은 제때 돌지 않아서(사실상 1시간) 1시간 백�
 | `GEMINI_API_KEY` | 사건·사고 판정·정리용. Google AI Studio 무료 키 (카드 등록 없음) |
 | `ANTHROPIC_API_KEY` | (선택, 유료) Gemini 대신 Claude 로 판정. `GEMINI_API_KEY` 가 있으면 Gemini 가 우선 |
 | `YOUTUBE_CLIENT_ID` · `YOUTUBE_CLIENT_SECRET` | 유튜브 쇼츠용. 구글 클라우드 프로젝트 `news-factory`(youu-509915)의 OAuth 클라이언트 `news-factory-uploader`(데스크톱). 동의 화면은 **프로덕션** 상태여야 토큰이 7일 뒤 안 끊긴다 |
+| `BUFFER_API_KEY` | 틱톡용. Buffer 무료 계정(01033199305k@gmail.com) → Settings → API 의 개인 키 `news-factory tiktok` (권한 account:read·posts:read·posts:write·insights:read). **2027-10-01 만료** — 그 전에 새 키로 바꾼다. 틱톡 채널 ID 는 watch.yml 의 `BUFFER_TIKTOK_CHANNEL_ID` |
 | `YOUTUBE_REFRESH_TOKEN` | '지금 세계' 채널(@jigeum_segye)로 허용한 리프레시 토큰. 끊기면 `python yt_auth.py <클라이언트 ID> <보안 비밀번호>` 로 다시 발급 |
 
-### 숏폼 (45초, 인스타 릴스 · 유튜브 쇼츠)
+### 숏폼 (45초, 인스타 릴스 · 유튜브 쇼츠 · 틱톡)
 
 - 게시할 때마다 `make_video.py` 가 카드로 1080×1920 영상을 만든다. 여자 아나운서(edge-tts `ko-KR-SunHiNeural`),
   단어 강조 자막, 카드는 80%로 줄여 위로 올리고 아래를 자막 자리로 쓴다 (`video/` = shorts-factory 에서 이식)
@@ -52,7 +54,10 @@ GitHub 예약 실행은 제때 돌지 않아서(사실상 1시간) 1시간 백�
 - 영상 첫 프레임부터 배지·제목이 다 보인다 (예전엔 0.5초 동안 빈 화면 → 인스타 평균 시청 2~5초).
   제목은 한 줄 8자 안팎으로 끊어 크게, 숫자 칩(사망 6명 등)을 매체 이름보다 먼저 보여 준다
 - 반응 확인: `insights` 워크플로(수동 실행)가 플랫폼별 조회·좋아요·댓글을 로그에 표로 찍는다
-- 틱톡 자동 업로드는 아직 없다 (심사 전 앱은 비공개로만 올라간다)
+- 틱톡: `post.py` 의 TikTok 이 같은 영상을 **Buffer(무료 플랜) API** 로 올린다. 틱톡 자체 Content Posting API 는
+  심사 전이면 '나만 보기'로만 올라가고, 심사도 '내 계정에 올리는 도구'는 받아 주지 않아서 틱톡 심사를 통과한 Buffer 를 거친다.
+  무료 플랜 한도: API 요청 24시간 250회·30일 3,000회(건당 2~4회), 틱톡 하루 25건(Buffer 기준), 해시태그 5개.
+  게시에 1~2분 걸린다 (2026-10-01 첫 게시 106초). 한도에 걸린 건은 건너뛴다. 'AI 생성' 표시는 `TIKTOK_AI_LABEL=1` 로 켠다
 
 ### 사건·사고 (`news_watch.py`)
 
