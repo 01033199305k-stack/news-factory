@@ -1,0 +1,133 @@
+{
+  "slug": "2026-10-01-news-pakistan-airstrikes-afghanistan-october-2026",
+  "topic": "파키스탄, 아프간 공습 인명 피해 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 13:38 KST",
+  "source": "Al Jazeera·NDTV·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxPbmRRVHF2dW9BcElUaFo3SEZlX0hvSHlUaHpWNTIzdzd5LXhTems2V1VnWjk5SFdIZV8xajNKZnBDbmhDYm84RVlkbUF1cEhmenZvMmtsZEFlUDl5Rmw2TTF3SWI1NWxUeEs2clh1VVJ2Y25FT1Vqb0x3emZGVGd2SDFuQ0c5aS0tYUo1bXBTdk1pWThWVXFvN1RteEptZ3NSQ3RocDhkMGVWMXc0enfSAbMBQVVfeXFMTmFOeW1ZYjR2RkJPSUJUdFdESjZqdVR1VlRCVjVTMFdYNjhLRUY5SjFhZFNldGx5YTlXcGJlMEdVY0RCWXl6RDg0Sks0aHo3Ukt6dU9xWHNMTl9yNl9yZmNPWE4zUm1nenAtWHEyUm1zbVJTbUg5YmpKRFlSYXV3aURPZU9MdUE2ZmozeElaMzJRcGxjd0lTeHdkakRFcVpKMVVZay1xTWVPSm1XRjNaX014VU0",
+    "related": [
+      [
+        "Pakistan says 22 fighters killed in air attacks on Afghanistan hideouts",
+        "Al Jazeera"
+      ],
+      [
+        "Afghanistan Says Deadly Pakistani Strikes Killed 9 Civilians",
+        "NDTV"
+      ],
+      [
+        "9 killed, 11 injured in Pakistani airstrikes in Afghanistan’s Helmand",
+        "The Times of India"
+      ],
+      [
+        "Pakistan says 22 \"terrorists\" killed and weapons seized in raids on Afghanistan.",
+        "Arab News"
+      ],
+      [
+        "Pakistani airstrikes on Afghanistan kills four",
+        "The Economic Times"
+      ]
+    ],
+    "event_key": "pakistan-airstrikes-afghanistan-october-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파키스탄, 아프간 [[공습]]\n인명 피해 발생",
+      "sub": "파키스탄 '22명 사망' 주장 속 아프간 '민간인 9명 사망'",
+      "chips": [],
+      "alt": "파키스탄, 아프간 공습 인명 피해 발생",
+      "map": {
+        "lat": 31.0,
+        "lon": 64.0,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "아프가니스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아프가니스탄\n헬만드",
+      "video_only": true,
+      "map": {
+        "lat": 31.0,
+        "lon": 64.0,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "헬만드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "파키스탄 공습 발표",
+          "d": "파키스탄 측은 아프가니스탄 내 은신처를 공습해 22명이 사망하고 무기를 압수했다고 발표했습니다 (알자지라·아랍뉴스)."
+        },
+        {
+          "t": "아프간 민간인 피해 발표",
+          "d": "아프가니스탄 측은 민간인 9명이 숨졌다고 밝혔으며, 헬만드 공습으로 9명이 숨지고 11명이 다쳤다는 보도도 있었습니다 (NDTV·타임스오브인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "파키스탄의 아프가니스탄 공습"
+      ],
+      "unconfirmed": [
+        "매체별 집계 차이 있음 (4~22명)",
+        "민간인 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Arab News",
+        "NDTV",
+        "The Economic Times",
+        "The Times of India",
+        "2026.10.01 15:04 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파키스탄이 아프가니스탄을 공습했습니다.\n\n· 파키스탄 측은 은신처를 공습해 22명이 사망했다고 발표했습니다 (알자지라·아랍뉴스).\n· 아프가니스탄 측은 민간인 9명이 숨졌다고 밝혔으며, 헬만드 공습으로 9명이 숨지고 11명이 다쳤다는 보도도 있었습니다 (NDTV·타임스오브인디아).\n\n파키스탄의 이번 공습에 대해 어떻게 생각하십니까?\n출처: 알자지라·아랍뉴스·NDTV·타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파키스탄이 아프가니스탄을 공습했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파키스탄 측은 은신처 공습으로 22명이 사망했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "아프가니스탄 측은 민간인 9명이 숨졌다고 밝혔으며, 헬만드에서 9명이 숨지고 11명이 다쳤다는 보도도 있었습니다.",
+      "card": "map"
+    },
+    {
+      "text": "매체별로 보도된 인명 피해 규모에는 차이가 있습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
