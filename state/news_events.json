@@ -715,5 +715,15 @@
     "at": 1790860530.39707,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "swiss-glaciers-melt-2026",
+    "topic": "스위스 빙하, 5년간 20% 소실 기록적 폭염 속 얼음 급감",
+    "slug": "2026-10-01-news-swiss-glaciers-melt-2026",
+    "cluster": "CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs",
+    "badge": "breaking",
+    "at": 1790861354.4377134,
+    "country": "스위스",
+    "category": "재난"
   }
 ]

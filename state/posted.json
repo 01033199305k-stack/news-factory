@@ -3710,5 +3710,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790861035
+  },
+  {
+    "slug": "2026-10-01-news-swiss-glaciers-melt-2026",
+    "event_ms": 1790855400000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스위스 빙하, 5년 만에 20% 소실… 기록적 폭염에 얼음 급감\n\n· 기록적인 폭염 속에서 빙하가 소실됐습니다 (스카이 뉴스)\n· 해빙으로 인해 식수 공급이 위협받고 있습니다 (BBC)\n\n출처: 가디언·BBC·스카이 뉴스·워싱턴 포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "스위스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18003994892793519",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd9BRUvGzpG",
+        "kind": "carousel",
+        "at": 1790861406
+      },
+      "instagram": {
+        "id": "17993254961841387",
+        "permalink": "https://www.instagram.com/reel/Dd9BgSiCLY7/",
+        "kind": "reel",
+        "at": 1790861544
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1790861554
+      },
+      "tiktok": {
+        "id": "6abe60f3a39e324a5b77ee24",
+        "permalink": "",
+        "kind": "video",
+        "at": 1790861756
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790861766
   }
 ]

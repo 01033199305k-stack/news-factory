@@ -1,0 +1,133 @@
+{
+  "slug": "2026-10-01-news-swiss-glaciers-melt-2026",
+  "topic": "스위스 빙하, 5년간 20% 소실 기록적 폭염 속 얼음 급감",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 20:50 KST",
+  "source": "BBC·Sky News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs",
+    "related": [
+      [
+        "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
+        "The Guardian"
+      ],
+      [
+        "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+        "BBC"
+      ],
+      [
+        "'Devastating year' as Swiss glaciers shed 5% of ice amid record-breaking heatwaves",
+        "Sky News"
+      ],
+      [
+        "Swiss glaciers suffer 'catastrophic' melt in 2026",
+        "rte.ie"
+      ],
+      [
+        "Switzerland’s glaciers are losing an astonishing amount of ice. See the meltdown.",
+        "The Washington Post"
+      ]
+    ],
+    "event_key": "swiss-glaciers-melt-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스위스 빙하, 5년간 20% 소실 기록적 폭염 속 얼음 급감",
+      "sub": "스위스 빙하가 5년 만에 전체의 20%를 잃었습니다",
+      "chips": [
+        {
+          "k": "손실량",
+          "v": "20% (가디언)"
+        }
+      ],
+      "alt": "스위스 빙하, 5년간 20% 소실 기록적 폭염 속 얼음 급감",
+      "map": {
+        "lat": 46.7985624,
+        "lon": 8.2319736,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "스위스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스위스",
+      "video_only": true,
+      "map": {
+        "lat": 46.7985624,
+        "lon": 8.2319736,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "스위스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "얼음 손실",
+          "d": "스위스 빙하가 기록적인 폭염 속에서 얼음을 잃었습니다 (스카이 뉴스·워싱턴 포스트)."
+        },
+        {
+          "t": "식수 위협",
+          "d": "이러한 급격한 빙하 해빙은 식수 공급을 위협하고 있습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "5년간 빙하 20% 소실",
+        "얼음 감소"
+      ],
+      "unconfirmed": [
+        "정확한 향후 경제적 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Sky News",
+        "The Guardian",
+        "The Washington Post",
+        "rte.ie",
+        "2026.10.01 22:29 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스위스 빙하, 5년 만에 20% 소실… 기록적 폭염에 얼음 급감\n\n· 기록적인 폭염 속에서 빙하가 소실됐습니다 (스카이 뉴스)\n· 해빙으로 인해 식수 공급이 위협받고 있습니다 (BBC)\n\n출처: 가디언·BBC·스카이 뉴스·워싱턴 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스위스 빙하가 지난 5년 동안 전체의 20%를 잃었다고 외신이 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "기록적인 폭염이 이어지면서 얼음이 사라지고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "외신들은 이러한 해빙이 식수 공급을 위협하고 있다고 전했습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
