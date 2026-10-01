@@ -615,5 +615,15 @@
     "at": 1790820700.7741914,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "japan-permanent-residency-fee",
+    "topic": "일본, 영주권 수수료 20배 인상 이민 기준 대폭 강화",
+    "slug": "2026-10-01-news-japan-permanent-residency-fee",
+    "cluster": "CBMiW0FVX3lxTFBXUHdHb2kyQkloYlhrZkd2Y05GU1dBa0RpQ1k5bl9FVmFJbDdHaWZBZzl3Zi1yeTU2eDIxbGk5SnFTM0FjNVFCVS16TG1lY2ZjX2dhQW5XSDZZVDA",
+    "badge": "brief",
+    "at": 1790831183.7641063,
+    "country": "일본",
+    "category": "국제"
   }
 ]

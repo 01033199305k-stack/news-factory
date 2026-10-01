@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-01-news-japan-permanent-residency-fee",
+  "topic": "일본, 영주권 수수료 20배 인상 이민 기준 대폭 강화",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 11:57 KST",
+  "source": "Bloomberg.com·The New York Times·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBXUHdHb2kyQkloYlhrZkd2Y05GU1dBa0RpQ1k5bl9FVmFJbDdHaWZBZzl3Zi1yeTU2eDIxbGk5SnFTM0FjNVFCVS16TG1lY2ZjX2dhQW5XSDZZVDA",
+    "related": [
+      [
+        "Japan raises permanent residency fees for foreign nationals by twenty-fold",
+        "bbc.com"
+      ],
+      [
+        "Japan officially overhauls permanent residency rules",
+        "The Japan Times"
+      ],
+      [
+        "Japan Raises Residency Fees 2,000 Percent Amid ‘Anxiety’ Over Foreigners",
+        "The New York Times"
+      ],
+      [
+        "Japan’s Takaichi Touts Sweeping Changes in Immigration Rules",
+        "Bloomberg.com"
+      ],
+      [
+        "Japan toughens guidelines for granting permanent residency",
+        "Japan Wire by Kyodo News"
+      ]
+    ],
+    "event_key": "japan-permanent-residency-fee"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "일본, 영주권 수수료 20배 인상\n이민 [[기준 대폭 강화]]",
+      "sub": "외국인 증가에 따른 불안감 반영해 심사 지침도 엄격화",
+      "chips": [
+        {
+          "k": "수수료",
+          "v": "20배 인상"
+        },
+        {
+          "k": "인상률",
+          "v": "2000%"
+        }
+      ],
+      "alt": "일본, 영주권 수수료 20배 인상 이민 기준 대폭 강화",
+      "map": {
+        "lat": 35.6768601,
+        "lon": 139.7638947,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "일본"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "일본\n도쿄",
+      "video_only": true,
+      "map": {
+        "lat": 35.6768601,
+        "lon": 139.7638947,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "도쿄"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수수료 인상",
+          "d": "일본 정부는 외국인 영주권 신청 수수료를 20배 높였습니다 (BBC)."
+        },
+        {
+          "t": "심사 기준",
+          "d": "외국인 증가에 따른 불안감을 해소하기 위해 영주 허가 지침을 더욱 까다롭게 개편했습니다 (뉴욕타임스·교도통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영주권 신청 수수료 20배 인상",
+        "영주 허가 심사 지침 강화",
+        "외국인 증가에 따른 조치"
+      ],
+      "unconfirmed": [
+        "한국인 지원자 구체적 영향 여부",
+        "세부 심사 항목별 배점 기준"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Japan Wire by Kyodo News",
+        "The Japan Times",
+        "The New York Times",
+        "bbc.com",
+        "2026.10.01 14:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 일본 정부가 외국인 영주권 신청 수수료를 20배 인상하고 심사 기준을 대폭 강화했습니다.\n\n· 영주권 수수료를 20배 높이는 개편안을 공식화했습니다 (BBC)\n· 외국인 증가에 대한 우려를 반영해 영주 허가 지침을 한층 엄격하게 적용합니다 (뉴욕타임스·교도통신)\n\n일본의 영주권 규제 강화 조치에 대해 어떻게 생각하십니까?\n\n출처: BBC·뉴욕타임스·교도통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "일본 정부가 외국인 영주권 신청 수수료를 20배로 대폭 인상했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외국인 증가에 따른 불안감을 해소하기 위해 영주 허가 지침도 함께 강화됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 조치가 향후 외국인 영주권 취득에 어떤 영향을 미칠지 관심이 모아지고 있습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

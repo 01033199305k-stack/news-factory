@@ -3112,5 +3112,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790821077
+  },
+  {
+    "slug": "2026-10-01-news-japan-permanent-residency-fee",
+    "event_ms": 1790831183764,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 일본 정부가 외국인 영주권 신청 수수료를 20배 인상하고 심사 기준을 대폭 강화했습니다.\n\n· 영주권 수수료를 20배 높이는 개편안을 공식화했습니다 (BBC)\n· 외국인 증가에 대한 우려를 반영해 영주 허가 지침을 한층 엄격하게 적용합니다 (뉴욕타임스·교도통신)\n\n일본의 영주권 규제 강화 조치에 대해 어떻게 생각하십니까?\n\n출처: BBC·뉴욕타임스·교도통신 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "일본"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18128325052859612",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd8Ht7OlhOu",
+        "kind": "carousel",
+        "at": 1790831236
+      },
+      "instagram": {
+        "id": "18117403105969948",
+        "permalink": "https://www.instagram.com/reel/Dd8H-P7FNXA/",
+        "kind": "reel",
+        "at": 1790831379
+      },
+      "youtube": {
+        "id": "Za_GGeNEx4g",
+        "permalink": "https://youtube.com/shorts/Za_GGeNEx4g",
+        "kind": "shorts",
+        "at": 1790831409
+      },
+      "tiktok": {
+        "id": "7691562403351350529",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7691562403351350529",
+        "kind": "video",
+        "at": 1790831541
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790831551
   }
 ]
