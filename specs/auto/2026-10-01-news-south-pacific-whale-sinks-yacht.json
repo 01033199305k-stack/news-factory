@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-01-news-south-pacific-whale-sinks-yacht",
+  "topic": "남태평양서 고래가 요트 침몰 선원 4명 생존 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 20:14 KST",
+  "source": "CBS News·The Times·NZDF 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikwFBVV95cUxPdUNmc3FEWlVidzZMaFZxVkpaRDA2d0JyeEl4UG9uMXl3ZFRNamU5MzE2d0E5YmVvMmRaN3FHTzRhb0tLNGI2QWczX0N6ckpPc1dlRFRxVXFEYUV2d1h5a0xOMHh0SlBpTEM4dGg3N21JUjZrX3FobHozZjJIT2NiczZsb2tsLWpUZVNNalMwQVBodVE",
+    "related": [
+      [
+        "Whale sinks yacht in South Pacific, sailors rescued alive 18 hours later",
+        "CBS News"
+      ],
+      [
+        "Sailors survive real-life Moby Dick as whale sends yacht to the deep",
+        "The Times"
+      ],
+      [
+        "‘Huge’ Sperm Whale Sinks Yacht, Leaving 4 Sailors Stranded at Sea for 17 Hours",
+        "People.com"
+      ],
+      [
+        "RNZAF P-8A crew finds four sailors after yacht hits whale",
+        "NZDF"
+      ],
+      [
+        "Crew of Australian Boat Rescued by Boxship After Hitting a Whale",
+        "The Maritime Executive"
+      ]
+    ],
+    "event_key": "south-pacific-whale-sinks-yacht"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "남태평양서 고래가 요트 침몰\n선원 4명 생존 구조",
+      "sub": "표류 끝에 상선과 군용기에 의해 전원 구출",
+      "chips": [
+        {
+          "k": "표류 시간",
+          "v": "17~18시간"
+        },
+        {
+          "k": "구조 인원",
+          "v": "4명"
+        }
+      ],
+      "alt": "남태평양서 고래가 요트 침몰 선원 4명 생존 구조",
+      "map": {
+        "lat": 7.0654996,
+        "lon": 125.5133981,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "남태평양"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "남태평양",
+      "video_only": true,
+      "map": {
+        "lat": 7.0654996,
+        "lon": 125.5133981,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "남태평양"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 경위",
+          "d": "고래와 충돌하면서 요트가 가라앉았다고 시비에스뉴스와 피플 등이 전했습니다."
+        },
+        {
+          "t": "구조 과정",
+          "d": "뉴질랜드 군용기가 표류하던 호주 보트 선원들을 발견했고 상선 등에 의해 구조되었습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "고래와 충돌로 요트 침몰",
+        "선원 4명 구조",
+        "17~18시간 표류"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "고래의 상태 및 정확한 충돌 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "NZDF",
+        "People.com",
+        "The Maritime Executive",
+        "The Times",
+        "2026.10.01 21:51 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 남태평양에서 고래와 충돌한 요트가 침몰해 선원 4명이 구조됐습니다\n\n· 고래가 요트를 들이받아 깊은 바다로 가라앉았다고 피플 등이 전했습니다\n· 사고 후 선원들은 바다 위에서 17시간에서 18시간 동안 표류했습니다\n· 뉴질랜드 군용기가 선원들을 발견했고 상선에 의해 전원 무사히 구출되었습니다\n\n출처: CBS뉴스·더 타임스·피플 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "남태평양에서 고래와 충돌한 요트가 침몰해 선원 4명이 구조됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "피플 등은 선원들이 바다 위에서 17시간 이상 표류했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "뉴질랜드 군용기가 선원들을 발견하고 상선이 이들을 모두 구출했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

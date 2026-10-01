@@ -685,5 +685,25 @@
     "at": 1790852869.4259195,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "south-pacific-whale-sinks-yacht",
+    "topic": "남태평양서 고래가 요트 침몰 선원 4명 생존 구조",
+    "slug": "2026-10-01-news-south-pacific-whale-sinks-yacht",
+    "cluster": "CBMikwFBVV95cUxPdUNmc3FEWlVidzZMaFZxVkpaRDA2d0JyeEl4UG9uMXl3ZFRNamU5MzE2d0E5YmVvMmRaN3FHTzRhb0tLNGI2QWczX0N6ckpPc1dlRFRxVXFEYUV2d1h5a0xOMHh0SlBpTEM4dGg3N21JUjZrX3FobHozZjJIT2NiczZsb2tsLWpUZVNNalMwQVBodVE",
+    "badge": "breaking",
+    "at": 1790859126.0036194,
+    "country": "남태평양",
+    "category": "사고"
+  },
+  {
+    "event_key": "canada-truck-driver-sentenced",
+    "topic": "캐나다 연쇄 추돌 사고로 2명 숨지게 한 트럭 운전자 징역 6년 선고",
+    "slug": "2026-10-01-news-canada-truck-driver-sentenced",
+    "cluster": "CBMilgJBVV95cUxQeUNhNHMxLTdNTU9ZQ0VCSkpDQzhVbUdsTThNV2VHWm8xeW9WVnVteUpzdmU3U1d0TGY2N3RpLWZRdmxBeXZ2S0pTd0l3VVVncnhtRzdxeXYzMjd5amhMdThyS1RjclZQczJVZ25CSFQ2Q2dHdVlNNzNkcWhuYmhWSFJZc1hQZmcxM0NpUW1oVEVNUV9ZZmJQNXlNYWllT1RIbElVS2h3N2F3M3RwX2t1eU9PUXhVWEVCdGlaaUlLZmdlWXI3aFZ3Wl95UXlxLU14WTZNdlV0U0EyRVZzY1JIUWxaU0NNZXZGTEVXenFOVDZ2S3NxZXJWenpNRnk3WEh6VEJPbHBaRXV4TzE2TVpfb1ZibnRtQQ",
+    "badge": "breaking",
+    "at": 1790859157.5249655,
+    "country": "캐나다",
+    "category": "기타 사건"
   }
 ]
