@@ -1,0 +1,152 @@
+{
+  "slug": "2026-10-01-news-us-tennessee-failed-execution-christa-pike",
+  "topic": "미국서 200년 만의 여성 사형 집행 실패",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 14:19 KST",
+  "source": "Al Jazeera·The Hindu·AP News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuwFBVV95cUxPVEdLc21RWFJZQmFxT3EyZTN5eHZad0dVN1N6ZXBScjN0cVZ6X2tqSWFZT2QzUHBKNlY5QTFGcURqVDZXM0xlSElJOVluYnRlMkNlSzNnamVfS0hNcHFsN3JPbjFKWFVGRUV6Q3J2el9tM29heTBJOE5KLXFYaHNjeS1VT2J6aXVMOEhvUkxFQzB2enRrOG1CbURrd3FmVjlObEQtNG1SUlp4RnVZWHJqc0ZZdTB5dmx3c1ZB0gHCAUFVX3lxTE1DVTZhWkh0dXRXeHpBZDA4blRkRDFhLTBmeU1zRDJhTnNTemM3SXZTZXZ0eEprMVVkUFpVY0tjVjBfcUxPMER6S1JEQmVBTUVWN295X3JXRnQ2QlFKY2laX1lNSmRlNlpvUENja3EzVmY3a3h0WUZVdXMwc3lzRDBTSkI3d25ubDQyY25HYjJnWnlQTlNJSDNlZy00UjFUSXR0LVlPZ2RETzlzc2hUUXNtZWo0UC1KcVlwbmZQWGxDNzZn",
+    "related": [
+      [
+        "Execution of woman in U.S. reportedly fails, death row convict taken to hospital",
+        "The Hindu"
+      ],
+      [
+        "Tennessee is set to execute a woman for the first time in 200 years",
+        "apnews.com"
+      ],
+      [
+        "Tennessee woman on death row taken to hospital after surviving two lethal injections",
+        "theguardian.com"
+      ],
+      [
+        "Christa Pike’s execution by lethal injection fails in Tennessee",
+        "Al Jazeera"
+      ],
+      [
+        "Gov. Lee orders review after botched Christa Pike execution: Updates",
+        "The Tennessean"
+      ]
+    ],
+    "event_key": "us-tennessee-failed-execution-christa-pike"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국서 200년 만의\n여성 [[사형 집행 실패]]",
+      "sub": "독극물 주사 두 차례 실패 후 병원 이송, 주지사 집행 중단 지시",
+      "chips": [
+        {
+          "k": "사형수",
+          "v": "크리스타 파이크"
+        },
+        {
+          "k": "조치",
+          "v": "집행 일시 중단"
+        }
+      ],
+      "alt": "미국서 200년 만의 여성 사형 집행 실패",
+      "map": {
+        "lat": 36.1622767,
+        "lon": -86.7742984,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n테네시주 내슈빌",
+      "video_only": true,
+      "map": {
+        "lat": 36.1622767,
+        "lon": -86.7742984,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테네시주 내슈빌"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "독극물 주사 실패",
+          "d": "미국 테네시주에서 사형수 크리스타 파이크에 대한 독극물 주사 집행이 두 차례 실패했다고 가디언이 보도했습니다."
+        },
+        {
+          "t": "사형수 병원 이송",
+          "d": "집행이 실패한 뒤 파이크는 생존한 채로 병원으로 이송되었다고 AP 통신이 전했습니다."
+        },
+        {
+          "t": "주지사 조사 지시",
+          "d": "빌 리 테네시 주지사는 사형 집행을 중단하고 경위에 대한 조사를 지시했다고 테네시안이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "독극물 주사 집행 실패",
+        "사형수 생존 및 병원 이송",
+        "테네시 주지사 집행 중단 지시"
+      ],
+      "unconfirmed": [
+        "구체적인 집행 실패 원인",
+        "사형수의 현재 상태",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "The Hindu",
+        "The Tennessean",
+        "apnews.com",
+        "theguardian.com",
+        "2026.10.01 16:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국서 200년 만의 여성 사형 집행 실패\n\n· 사형수 크리스타 파이크에 대한 독극물 주사 집행이 두 차례 실패했습니다 (가디언)\n· 파이크는 생존한 상태로 병원으로 이송되었습니다 (AP)\n· 빌 리 테네시 주지사는 사형 집행을 중단하고 조사를 지시했습니다 (테네시안)\n\n출처: AP·가디언·테네시안 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 테네시주에서 여성 사형수에 대한 사형 집행이 실패했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "주사 집행이 두 차례 실패했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "사형수가 생존해 병원으로 이송되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "테네시 주지사는 사형 집행을 중단하고 조사를 지시했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 집행 실패 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
