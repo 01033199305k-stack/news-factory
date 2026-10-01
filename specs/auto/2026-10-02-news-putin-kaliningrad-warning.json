@@ -1,0 +1,128 @@
+{
+  "slug": "2026-10-02-news-putin-kaliningrad-warning",
+  "topic": "푸틴 러시아 대통령, 칼리닌그라드 방어 위해 모든 무기 동원 경고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 03:09 KST",
+  "source": "BBC·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1oUjQ0YnE3SUFhQklYdG5Hc3ZyQW1SSzVja09RMXJma001YjZ0VF9VcU1FS3hXNzRsdUZBa0hmRDhWdWJ1ZThkY0U5YloyRy16LUlFYXRzbmVCVEloWGc",
+    "related": [
+      [
+        "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+        "BBC"
+      ],
+      [
+        "Putin says ‘all weapons at disposal’ if there’s an attack on Russia – as it happened",
+        "The Guardian"
+      ],
+      [
+        "Russia makes extreme threats against Nato countries over Kaliningrad",
+        "Financial Times"
+      ],
+      [
+        "Escalating nuclear threats and a Brexit rethink",
+        "Euronews.com"
+      ],
+      [
+        "Why Russia's Kaliningrad is a potential flashpoint with NATO",
+        "Reuters"
+      ]
+    ],
+    "event_key": "putin-kaliningrad-warning"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "푸틴 러시아 대통령, 칼리닌그라드 방어 위해 모든 무기 동원 경고",
+      "sub": "서방 향해 고강도 위협 발언",
+      "chips": [],
+      "alt": "푸틴 러시아 대통령, 칼리닌그라드 방어 위해 모든 무기 동원 경고",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "모든 무기 사용 경고",
+          "d": "푸틴 대통령은 칼리닌그라드에 대한 공격이 발생할 경우 가용한 모든 무기를 사용할 준비가 돼 있다고 경고했습니다 (BBC·가디언)."
+        },
+        {
+          "t": "나토와의 긴장 고조",
+          "d": "러시아는 칼리닌그라드를 두고 나토 국가들을 상대로 위협을 가하고 있습니다 (로이터·파이낸셜 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "푸틴 러시아 대통령의 칼리닌그라드 관련 경고",
+        "가용한 모든 무기 동원 가능성 언급"
+      ],
+      "unconfirmed": [
+        "서방 측의 구체적인 군사적 대응 조치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Euronews.com",
+        "Financial Times",
+        "Reuters",
+        "The Guardian",
+        "2026.10.02 04:39 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 푸틴 러시아 대통령, 칼리닌그라드 방어 위해 모든 무기 동원 경고\n\n· 러시아는 칼리닌그라드에 대한 공격이 있을 시 가용한 모든 무기를 사용하겠다고 경고했습니다 (BBC·가디언)\n· 나토 국가들과 칼리닌그라드를 둘러싼 잠재적 충돌 가능성이 제기되었습니다 (로이터·파이낸셜 타임스)\n\n출처: BBC·가디언·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 푸틴 대통령은 칼리닌그라드에 대한 공격이 발생하면 모든 무기를 동원해 방어하겠다고 경고했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 일은 나토 국가들과 칼리닌그라드 간의 잠재적 충돌 위험 속에서 벌어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "서방 측의 구체적인 대응은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

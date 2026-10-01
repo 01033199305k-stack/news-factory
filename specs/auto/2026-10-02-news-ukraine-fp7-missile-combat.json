@@ -1,0 +1,133 @@
+{
+  "slug": "2026-10-02-news-ukraine-fp7-missile-combat",
+  "topic": "우크라이나, 실전서 FP-7 탄도미사일 첫 사용 공식 확인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 02:30 KST",
+  "source": "Reuters·WSJ·Kyiv Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi2wFBVV95cUxObkJyb2N6RXY0YjRPVTVPTDd4OFVicGhMdWRkN3dGWFZRNEF5UHZCb25YY2hMQnJWdkYtYVFsSHRKU0MyUXpQaXVxS3dwdXdCMUpFdVVlaVhYbzV4NjRZbGF6RjVnM3Fwb2dJSVVIQTBmMGl4bjZRYUpLdEZDRzBaZElaSEZ4OGZQenZEQy1xbmN2aEhXVFRoRVJqNGNRd3oyRlg2QnFwT2IybE9CT0dIa3YwN1Y0bVlDdUVpdUFrSllCWDlFeFY0YWNJbDNxdG8yajM2UHJRRHFUdTA",
+    "related": [
+      [
+        "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskiy says",
+        "Reuters"
+      ],
+      [
+        "Zelensky shows first combat use of Ukraine's FP-7 tactical ballistic missile",
+        "Ukrinform"
+      ],
+      [
+        "Ukraine Fires Hard-to-Stop Ballistic Missile for First time",
+        "WSJ"
+      ],
+      [
+        "Ukraine’s 200-Km FP-7 Ballistic Missile Used in Combat for First Time, Zelensky Says",
+        "Kyiv Post"
+      ],
+      [
+        "Fire Point Says Its 850-Km FP-9 Ballistic Missile Is Entering the Final Stretch",
+        "UNITED24 Media"
+      ]
+    ],
+    "event_key": "ukraine-fp7-missile-combat"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나, 실전서 FP-7 탄도미사일\n첫 사용 공식 확인",
+      "sub": "젤렌스키 대통령이 발표",
+      "chips": [
+        {
+          "k": "사거리",
+          "v": "200km"
+        }
+      ],
+      "alt": "우크라이나, 실전서 FP-7 탄도미사일 첫 사용 공식 확인",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "실전 첫 투입",
+          "d": "우크라이나는 FP-7 전술 탄도미사일을 처음으로 실전에서 사용했다고 발표했습니다 (로이터·키이우 포스트)."
+        },
+        {
+          "t": "미사일 사거리",
+          "d": "해당 미사일의 사거리는 200km에 달합니다 (키이우 포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나의 FP-7 미사일 첫 실전 사용",
+        "젤렌스키 대통령 직접 발표"
+      ],
+      "unconfirmed": [
+        "구체적인 타격 목표물 및 피해 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "Reuters",
+        "UNITED24 Media",
+        "Ukrinform",
+        "WSJ",
+        "2026.10.02 04:39 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나, 실전서 FP-7 탄도미사일 첫 사용 공식 확인\n\n· 우크라이나가 사거리 200km의 FP-7 전술 탄도미사일을 실전에서 처음으로 사용했습니다 (로이터·키이우 포스트)\n· 젤렌스키 대통령이 직접 전력 사용 사실을 공개했습니다 (우크라인포름)\n\n출처: 로이터·우크라인포름·키이우 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 사거리 200km의 FP-7 전술 탄도미사일을 실전에서 처음으로 사용했다고 로이터 통신이 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "젤렌스키 대통령은 이 미사일을 전투에 최초로 투입했다고 직접 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 타격 목표와 피해 상황은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

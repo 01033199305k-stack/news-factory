@@ -785,5 +785,25 @@
     "at": 1790882160.869381,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine-fp7-missile-combat",
+    "topic": "우크라이나, 실전서 FP-7 탄도미사일 첫 사용 공식 확인",
+    "slug": "2026-10-02-news-ukraine-fp7-missile-combat",
+    "cluster": "CBMi2wFBVV95cUxObkJyb2N6RXY0YjRPVTVPTDd4OFVicGhMdWRkN3dGWFZRNEF5UHZCb25YY2hMQnJWdkYtYVFsSHRKU0MyUXpQaXVxS3dwdXdCMUpFdVVlaVhYbzV4NjRZbGF6RjVnM3Fwb2dJSVVIQTBmMGl4bjZRYUpLdEZDRzBaZElaSEZ4OGZQenZEQy1xbmN2aEhXVFRoRVJqNGNRd3oyRlg2QnFwT2IybE9CT0dIa3YwN1Y0bVlDdUVpdUFrSllCWDlFeFY0YWNJbDNxdG8yajM2UHJRRHFUdTA",
+    "badge": "breaking",
+    "at": 1790883570.7425241,
+    "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "putin-kaliningrad-warning",
+    "topic": "푸틴 러시아 대통령, 칼리닌그라드 방어 위해 모든 무기 동원 경고",
+    "slug": "2026-10-02-news-putin-kaliningrad-warning",
+    "cluster": "CBMiXkFVX3lxTE1oUjQ0YnE3SUFhQklYdG5Hc3ZyQW1SSzVja09RMXJma001YjZ0VF9VcU1FS3hXNzRsdUZBa0hmRDhWdWJ1ZThkY0U5YloyRy16LUlFYXRzbmVCVEloWGc",
+    "badge": "breaking",
+    "at": 1790883584.0258672,
+    "country": "러시아",
+    "category": "국제"
   }
 ]
