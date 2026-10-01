@@ -755,5 +755,25 @@
     "at": 1790870561.7707002,
     "country": "프랑스",
     "category": "국제"
+  },
+  {
+    "event_key": "raf-fairford-arrest",
+    "topic": "영국 공군기지 보안 사건 이중 국적자 체포",
+    "slug": "2026-10-02-news-raf-fairford-arrest",
+    "cluster": "CBMiW0FVX3lxTE5ZTmxHQ3phYnZ3M01jeTF1S09wYzUxLWt2VzctMjFOMkNOZmN5cnhkRjNHQWxxaUIyYTh5dThnNnJJQ2d4LTRfb19zZTJQbk9LUTR4RUJ3c2RsQzQ",
+    "badge": "breaking",
+    "at": 1790875220.6397688,
+    "country": "영국",
+    "category": "총격·테러"
+  },
+  {
+    "event_key": "south-korea-alaska-investment",
+    "topic": "한국 정부, 미국의 알래스카 투자 주장 반박",
+    "slug": "2026-10-02-news-south-korea-alaska-investment",
+    "cluster": "CBMiqwFBVV95cUxNc3gwTDFHbEJncUlrNURRbmZFeklZVWNWZ1VjcFNSVXFjcEVMeTBIODBoWl93VzJSOGp3eUN3X2VRQWcwOGRxN1NSeUtrU0ltZjcxRTBFMDBhZVl1d21QTkJiVjktc09MTzlYVFJTVGRaY0lBOFFzUjZSQkF1M3VfUmxZS3JFYVZpOWxzdFpVQW5tZHB0LWZDT3owNGpjSl9rcjlFbXc5dnhveU0",
+    "badge": "breaking",
+    "at": 1790875233.3782752,
+    "country": "대한민국",
+    "category": "국제"
   }
 ]

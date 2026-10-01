@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-02-news-raf-fairford-arrest",
+  "topic": "영국 공군기지 보안 사건 이중 국적자 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 01:43 KST",
+  "source": "Al Jazeera·BBC·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE5ZTmxHQ3phYnZ3M01jeTF1S09wYzUxLWt2VzctMjFOMkNOZmN5cnhkRjNHQWxxaUIyYTh5dThnNnJJQ2d4LTRfb19zZTJQbk9LUTR4RUJ3c2RsQzQ",
+    "related": [
+      [
+        "Dual UK-Iranian national arrested over RAF Fairford incident, police say",
+        "BBC"
+      ],
+      [
+        "Dual UK-Iranian national arrested over RAF Fairford incident, counter terror police say",
+        "news.sky.com"
+      ],
+      [
+        "British police arrest UK-Iranian national over airbase incident",
+        "Al Jazeera"
+      ],
+      [
+        "Dual UK-Iranian national arrested over security incident at US-run air base in England",
+        "click2houston.com"
+      ],
+      [
+        "British Iranian man arrested over alleged RAF Fairford bomb plot",
+        "The Independent"
+      ]
+    ],
+    "event_key": "raf-fairford-arrest"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 공군기지 보안 사건\n이중 국적자 체포",
+      "sub": "영국 경찰, 영·이란 국적 남성 체포",
+      "chips": [
+        {
+          "k": "국적",
+          "v": "영국·이란"
+        },
+        {
+          "k": "대상",
+          "v": "공군기지"
+        }
+      ],
+      "alt": "영국 공군기지 보안 사건 이중 국적자 체포",
+      "map": {
+        "lat": 51.7107733,
+        "lon": -1.782001,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n페어퍼드",
+      "video_only": true,
+      "map": {
+        "lat": 51.7107733,
+        "lon": -1.782001,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "페어퍼드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대테러 경찰 수사",
+          "d": "대테러 경찰이 이번 사건과 관련해 용의자를 체포했습니다 (BBC·스카이뉴스)."
+        },
+        {
+          "t": "미국 운영 기지",
+          "d": "사건이 발생한 곳은 영국 내 미군이 운영하는 공군기지입니다 (클릭2휴스턴)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영·이중국적 남성 체포",
+        "영국 공군기지 보안 사건",
+        "대테러 경찰 수사"
+      ],
+      "unconfirmed": [
+        "구체적인 범행 계획 내용",
+        "공범 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "The Independent",
+        "click2houston.com",
+        "news.sky.com",
+        "2026.10.02 02:20 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국 공군기지 보안 사건으로 영·이란 이중국적 남성이 체포됐습니다\n\n· 대테러 경찰이 이번 사건과 관련해 용의자를 체포했습니다 (BBC·스카이뉴스)\n· 사건이 발생한 곳은 영국 내 미군이 운영하는 공군기지입니다 (클릭2휴스턴)\n\n출처: BBC·스카이뉴스·알자지라·인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 공군기지 보안 사건으로 이중국적 남성이 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "대테러 경찰은 영국과 이란 국적을 가진 남성을 붙잡았다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사건이 발생한 곳은 영국 내 미군이 운영하는 공군기지입니다.",
+      "card": "map"
+    },
+    {
+      "text": "구체적인 범행 계획은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

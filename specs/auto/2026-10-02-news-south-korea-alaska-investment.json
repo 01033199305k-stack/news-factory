@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-02-news-south-korea-alaska-investment",
+  "topic": "한국 정부, 미국의 알래스카 투자 주장 반박",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 00:13 KST",
+  "source": "Bloomberg.com·Politico·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxNc3gwTDFHbEJncUlrNURRbmZFeklZVWNWZ1VjcFNSVXFjcEVMeTBIODBoWl93VzJSOGp3eUN3X2VRQWcwOGRxN1NSeUtrU0ltZjcxRTBFMDBhZVl1d21QTkJiVjktc09MTzlYVFJTVGRaY0lBOFFzUjZSQkF1M3VfUmxZS3JFYVZpOWxzdFpVQW5tZHB0LWZDT3owNGpjSl9rcjlFbXc5dnhveU0",
+    "related": [
+      [
+        "South Korea Contests U.S. Claims of New $50 Billion Alaska Investment",
+        "WSJ"
+      ],
+      [
+        "South Korean President Lee pushes back on Alaska LNG project after Trump touts Seoul's participation",
+        "CNBC"
+      ],
+      [
+        "Korea to Trump: We aren’t funding your Alaska pipeline, yet",
+        "Politico"
+      ],
+      [
+        "Trump's $54 Billion Election Pitch for Alaska LNG Is Its Undoing",
+        "Bloomberg.com"
+      ],
+      [
+        "Trump unveils $200 billion South Korean investment in US; Seoul hedges on Alaska pipeline",
+        "Reuters"
+      ]
+    ],
+    "event_key": "south-korea-alaska-investment"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "한국 정부, 미국의\n[[알래스카]] 투자 주장 반박",
+      "sub": "트럼프의 대규모 투자 발표에 한국 측 선 긋기",
+      "chips": [
+        {
+          "k": "주제",
+          "v": "알래스카 LNG"
+        },
+        {
+          "k": "대상",
+          "v": "투자금 발표"
+        }
+      ],
+      "alt": "한국 정부, 미국의 알래스카 투자 주장 반박",
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울",
+      "video_only": true,
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "트럼프 발표",
+          "d": "트럼프 미 대통령은 한국의 대미 투자 규모를 언급했습니다 (로이터)."
+        },
+        {
+          "t": "한국 입장",
+          "d": "한국 대통령실은 알래스카 프로젝트 참여 주장에 거리를 두었습니다 (CNBC·폴리티코)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "한국 정부의 알래스카 투자 주장 반박",
+        "미국의 대규모 투자 발표"
+      ],
+      "unconfirmed": [
+        "향후 에너지 협상 결과",
+        "실제 투자 규모 확정 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "Politico",
+        "Reuters",
+        "WSJ",
+        "2026.10.02 02:20 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 한국 정부가 미국의 알래스카 투자 관련 발표에 대해 반박했습니다\n\n· 트럼프 미 대통령은 한국의 참여를 언급하며 투자 계획을 밝혔습니다 (CNBC·로이터)\n· 한국 대통령실은 알래스카 LNG 프로젝트와 관련해 선을 긋는 입장을 보였습니다 (CNBC·폴리티코)\n\n🇰🇷 한국 정부가 관련 사안에 대해 공식 입장을 밝혔습니다\n미국의 이번 투자 발표와 한국 측의 반박이 양국 관계에 어떤 영향을 미칠 것으로 보십니까?\n출처: WSJ·CNBC·폴리티코·블룸버그·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "한국 정부가 미국의 알래스카 투자 관련 발표에 대해 반박하고 나섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 트럼프 미국 대통령이 한국의 참여를 강조하며 투자 계획을 밝혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국 대통령실은 알래스카 가스관 프로젝트 참여 주장에 거리를 두었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 투자 규모와 최종 협상 결과는 아직 확정되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
