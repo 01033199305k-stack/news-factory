@@ -15,7 +15,36 @@
       "해외사건사고",
       "총격테러",
       "영국"
-    ]
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17890192770682775",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd9b9SXmupn",
+        "kind": "carousel",
+        "at": 1790875392
+      },
+      "instagram": {
+        "id": "18125444035872096",
+        "permalink": "https://www.instagram.com/reel/Dd9ceihFUJA/",
+        "kind": "reel",
+        "at": 1790875687
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1790875737
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
   },
   {
     "slug": "2026-10-02-news-south-korea-alaska-investment",
@@ -33,6 +62,37 @@
       "해외사건사고",
       "국제",
       "대한민국"
-    ]
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18029700011886843",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd9cBdwGlzC",
+        "kind": "carousel",
+        "at": 1790875430
+      },
+      "instagram": {
+        "id": "18140293756720872",
+        "permalink": "https://www.instagram.com/reel/Dd9cjiWDTx6/",
+        "kind": "reel",
+        "at": 1790875727
+      },
+      "youtube": {
+        "id": "_kE7A2SS7U4",
+        "permalink": "https://youtube.com/shorts/_kE7A2SS7U4",
+        "kind": "shorts",
+        "at": 1790875745
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
   }
 ]
