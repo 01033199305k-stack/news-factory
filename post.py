@@ -436,6 +436,10 @@ def main():
     for item in queue:
         # 마지막 방어선: 글자 그대로의 '\n'(역슬래시+n)이 본문에 남아 있으면 진짜 줄바꿈으로 (news_watch.fix_newlines 와 같은 일)
         item["text"] = item.get("text", "").replace("\\n", "\n")
+        # 카드 제목용 강조 표시 [[ ]] 가 본문에 새어 나올 때가 있다 (2026-09-30~10-01 65건 중 3건, 모든 플랫폼에 그대로 나갔다).
+        # "20% 감축 [[20% 감축]]"처럼 바로 앞 말을 되풀이한 건 하나만 남기고, 나머지는 괄호만 뗀다
+        item["text"] = re.sub(r"\[\[(.+?)\]\]", r"\1",
+                              re.sub(r"([^\[\]\n]{1,30}?)\s*\[\[\1\]\]", r"\1", item["text"]))
         done = item.setdefault("done", {})
         tries = item["attempts"] = (item["attempts"] if isinstance(item.get("attempts"), dict)
                                     else {})
