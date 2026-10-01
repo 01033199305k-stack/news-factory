@@ -655,5 +655,15 @@
     "at": 1790840531.077293,
     "country": "짐바브웨",
     "category": "사고"
+  },
+  {
+    "event_key": "us-iran-ceasefire-counterproposal-october-2026",
+    "topic": "미국이 건넨 7일 휴전 역제안 검토",
+    "slug": "2026-10-01-news-us-iran-ceasefire-counterproposal-october-2026",
+    "cluster": "CBMiiwFBVV95cUxOaXNwVUhFZkZrZmxLRFd1QVZwZFFWVjFLcEgxWmNJWnJCMlNnOExuY3BsdWlLaG9HYzF1VjJKYnB6eHlfU1NLZWlUcWhDMmpCVFI1eGczV19kR3kycThHd0ducEtLejdicmJXanhmWWFUcWRJeVVDb28xUlRmTWxPSWRwbXBfRU1uSW1N",
+    "badge": "brief",
+    "at": 1790845967.3495684,
+    "country": "이란",
+    "category": "국제"
   }
 ]

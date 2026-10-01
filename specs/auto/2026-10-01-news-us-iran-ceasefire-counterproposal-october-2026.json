@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-01-news-us-iran-ceasefire-counterproposal-october-2026",
+  "topic": "미국이 건넨 7일 휴전 역제안 검토",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.01 16:21 KST",
+  "source": "AP News·CBS News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiwFBVV95cUxOaXNwVUhFZkZrZmxLRFd1QVZwZFFWVjFLcEgxWmNJWnJCMlNnOExuY3BsdWlLaG9HYzF1VjJKYnB6eHlfU1NLZWlUcWhDMmpCVFI1eGczV19kR3kycThHd0ducEtLejdicmJXanhmWWFUcWRJeVVDb28xUlRmTWxPSWRwbXBfRU1uSW1N",
+    "related": [
+      [
+        "Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump",
+        "CBS News"
+      ],
+      [
+        "Iran indicates it’s received an official US response to its latest offer on ending the war",
+        "AP News"
+      ],
+      [
+        "Iran Considers US Counterproposal on Ceasefire, Hormuz Reopening",
+        "Yahoo"
+      ],
+      [
+        "U.S., Iran hold separate mediator talks as Mideast oil exports hit war-time high",
+        "cnbc.com"
+      ],
+      [
+        "Iran receives US feedback on seven-day trust-building plan",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us-iran-ceasefire-counterproposal-october-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국이 건넨\n[[7일 휴전]] 역제안 검토",
+      "sub": "이란 정부, 미국 측 공식 피드백 수령 확인",
+      "chips": [],
+      "alt": "미국이 건넨 7일 휴전 역제안 검토",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미국 공식 답변 수령",
+          "d": "이란 측은 당초 도널드 트럼프 미국 대통령이 거부했던 7일 신뢰 구축 휴전안에 대해 미국의 공식 답변을 받았다고 밝혔습니다. (CBS·AP·로이터)"
+        },
+        {
+          "t": "호르무즈 해협 논의",
+          "d": "이번 역제안에는 임시 휴전과 함께 호르무즈 해협의 재개방 문제도 포함되어 조율 중인 것으로 알려졌습니다. (야후)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국의 역제안 수령",
+        "7일 휴전 및 해협 개방 논의"
+      ],
+      "unconfirmed": [
+        "최종 합의 성사 여부",
+        "구체적인 역제안 조건"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBS News",
+        "Reuters",
+        "Yahoo",
+        "cnbc.com",
+        "2026.10.01 18:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이란, 미국이 보낸 '7일 휴전' 역제안 검토 착수\n\n· 이란 정부는 도널드 트럼프 미국 대통령이 거부했던 7일 신뢰 구축 휴전안에 대해 미국의 공식 역제안을 받았다고 밝혔습니다. (CBS·AP·로이터)\n· 이번 제안에는 휴전뿐만 아니라 호르무즈 해협의 재개방 문제도 함께 포함되어 조율 중인 것으로 전해졌습니다. (야후)\n\n미국과 이란의 중동 휴전 협상은 과연 타결될 수 있을까요?\n\n출처: CBS·AP·로이터·야후 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 미국으로부터 7일 임시 휴전 역제안을 받았다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 이란이 미국의 공식 답변을 검토 중이라고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "기존 휴전안을 거부했던 미국 측이 새로운 대안을 제시한 것입니다.",
+      "card": "points"
+    },
+    {
+      "text": "여기에는 호르무즈 해협을 다시 개방하는 방안도 포함되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "양측이 실제 합의에 이를지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
