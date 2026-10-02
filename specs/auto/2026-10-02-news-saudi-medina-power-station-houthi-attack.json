@@ -1,0 +1,147 @@
+{
+  "slug": "2026-10-02-news-saudi-medina-power-station-houthi-attack",
+  "topic": "사우디 메디나 발전소 후티 반군 공격 받아",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 08:32 KST",
+  "source": "Bloomberg.com·Reuters·Al Jazeera 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxPZnZXZzBwRDQtUGJYZWxuelowY3BQM2prQm43eC0yOTVELWRadi1GRmJWcXAtOU9RXzlrX3ctd3ZmckFmVEtNLXhtQzRhRDNSWkJyc1djUGJ0NFhPUTZPbDR6OVd4QTBlUDh6bEhqUlZEanMzUlRpOVdKeUtyVnRVaHJPT0ZCQy1jcEZwc05aZ0dPY2l3VF9fVmJCZ3BHNGIxUXppQUNlMGlGV1I1SUhPMXYyMHo",
+    "related": [
+      [
+        "Saudi-led coalition says Houthis attacked power station in Medina",
+        "Reuters"
+      ],
+      [
+        "Saudi-led coalition says power station attacked in Medina, blames Houthis",
+        "aljazeera.com"
+      ],
+      [
+        "Saudi coalition blames Yemen's Houthis for Medina power station attack, says grid unaffected",
+        "telegraphindia.com"
+      ],
+      [
+        "Houthis target Madinah power station supplying Prophet's Mosque, coalition says",
+        "Arab News"
+      ],
+      [
+        "Houthis Fired at Holy City of Madinah, Saudi-Led Coalition Says",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "saudi-medina-power-station-houthi-attack"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[사우디 메디나 발전소]]\n후티 반군 공격 받아",
+      "sub": "사우디 주도 연합군 발표… 전력망 피해는 없어",
+      "chips": [
+        {
+          "k": "피격 장소",
+          "v": "메디나 발전소"
+        },
+        {
+          "k": "지목 대상",
+          "v": "예멘 후티 반군"
+        }
+      ],
+      "alt": "사우디 메디나 발전소 후티 반군 공격 받아",
+      "map": {
+        "lat": 24.471153,
+        "lon": 39.6111216,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n메디나",
+      "video_only": true,
+      "map": {
+        "lat": 24.471153,
+        "lon": 39.6111216,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "메디나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "예멘 후티 소행 지목",
+          "d": "사우디 주도 연합군은 이번 발전소 공격의 배후로 예멘 후티 반군을 지목했습니다 (로이터·알자지라)."
+        },
+        {
+          "t": "전력망 정상 가동",
+          "d": "연합군 측은 공격에도 불구하고 전력망에는 영향이 없다고 밝혔습니다 (텔레그래프 인디아)."
+        },
+        {
+          "t": "성지 공급 시설",
+          "d": "해당 발전소는 이슬람 성지 예언자의 모스크에 전력을 공급하는 시설로 알려졌습니다 (아랍뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 메디나 발전소 피격",
+        "사우디 연합군의 후티 배후 지목",
+        "전력망 정상 작동 발표"
+      ],
+      "unconfirmed": [
+        "후티 반군의 공식 입장",
+        "정확한 타격 수단 및 세부 피해"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Arab News",
+        "Bloomberg.com",
+        "Reuters",
+        "aljazeera.com",
+        "telegraphindia.com",
+        "2026.10.02 09:52 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 메디나 발전소 피격, 연합군 \"후티 반군 소행\"\n\n· 사우디 주도 연합군은 메디나 발전소가 예멘 후티 반군의 공격을 받았다고 발표했습니다 (로이터·알자지라)\n· 공격에도 불구하고 전력망은 영향을 받지 않았다고 밝혔습니다 (텔레그래프 인디아)\n· 피격된 시설은 성지 예언자의 모스크에 전력을 공급하는 곳입니다 (아랍뉴스)\n\n이번 사태가 중동 안보에 어떤 영향을 미칠 것으로 보시나요?\n출처: 로이터·알자지라·텔레그래프 인디아·아랍뉴스·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아 메디나의 발전소가 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디 주도 연합군은 예멘 후티 반군이 성지 모스크 공급 시설을 노렸다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "연합군은 공격에도 전력망에 차질은 없었다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 피해 규모와 공격 수단은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

@@ -845,5 +845,15 @@
     "at": 1790899680.465073,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "saudi-medina-power-station-houthi-attack",
+    "topic": "사우디 메디나 발전소 후티 반군 공격 받아",
+    "slug": "2026-10-02-news-saudi-medina-power-station-houthi-attack",
+    "cluster": "CBMitAFBVV95cUxPZnZXZzBwRDQtUGJYZWxuelowY3BQM2prQm43eC0yOTVELWRadi1GRmJWcXAtOU9RXzlrX3ctd3ZmckFmVEtNLXhtQzRhRDNSWkJyc1djUGJ0NFhPUTZPbDR6OVd4QTBlUDh6bEhqUlZEanMzUlRpOVdKeUtyVnRVaHJPT0ZCQy1jcEZwc05aZ0dPY2l3VF9fVmJCZ3BHNGIxUXppQUNlMGlGV1I1SUhPMXYyMHo",
+    "badge": "breaking",
+    "at": 1790902355.9606035,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]
