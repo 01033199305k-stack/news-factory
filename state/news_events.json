@@ -965,5 +965,15 @@
     "at": 1790969070.672616,
     "country": "스페인",
     "category": "재난"
+  },
+  {
+    "event_key": "c2",
+    "topic": "미국과 동맹국들, 디젤 및 원유 비축유 최대 1억 배럴 방출 합의",
+    "slug": "2026-10-03-news-c2",
+    "cluster": "CBMikgFBVV95cUxObmhlRXNIUGtuVXo5aWcyUVJQdk5sakdqb0JzWUZKUTdGTUxhQ0hwcTFBcHl3bW0xUEJ5TE9jcWlxclBrbThEaHFDRHlCb0c3eklaVVJYRE43c2k3T2h1RklEVXBERElZY3dVcFNOamJQcGpCX21naDRGOFVDVkg2R2xTS2Rpay1zUjJId1JVQ0NhQQ",
+    "badge": "brief",
+    "at": 1790975450.3275359,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

@@ -5115,5 +5115,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790969451
+  },
+  {
+    "slug": "2026-10-03-news-c2",
+    "event_ms": 1790975450327,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국과 동맹국들이 디젤 및 원유 비축유를 최대 1억 배럴 방출하기로 합의했습니다\n\n· G7 국가들이 디젤 및 원유 비축유 방출에 동참합니다 (NBC 뉴스)\n· 미국 정부는 디젤 수출을 금지하지 않는다고 밝혔습니다 (The Hill)\n· 전문가들은 이번 유럽의 비축유 방출이 미국 내 가격에 큰 영향을 주지 않을 것이라고 전했습니다 (뉴욕 포스트)\n\n미국과 동맹국들의 비축유 방출 조치가 에너지 가격에 실질적인 도움이 될 것으로 보십니까?\n\n출처: NBC 뉴스·The Hill·뉴욕 포스트 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18011974676992330",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeAa5VHAZOj",
+        "kind": "carousel",
+        "at": 1790975505
+      },
+      "instagram": {
+        "id": "18118248226962561",
+        "permalink": "https://www.instagram.com/reel/DeAbNZDjVxS/",
+        "kind": "reel",
+        "at": 1790975685
+      },
+      "youtube": {
+        "id": "z4qNJF9x-yE",
+        "permalink": "https://youtube.com/shorts/z4qNJF9x-yE",
+        "kind": "shorts",
+        "at": 1790975702
+      },
+      "tiktok": {
+        "id": "7692182122240511252",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692182122240511252",
+        "kind": "video",
+        "at": 1790975834
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790975844
   }
 ]

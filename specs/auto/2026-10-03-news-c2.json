@@ -1,0 +1,147 @@
+{
+  "slug": "2026-10-03-news-c2",
+  "topic": "미국과 동맹국들, 디젤 및 원유 비축유 최대 1억 배럴 방출 합의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 05:07 KST",
+  "source": "CNN·NBC News·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxObmhlRXNIUGtuVXo5aWcyUVJQdk5sakdqb0JzWUZKUTdGTUxhQ0hwcTFBcHl3bW0xUEJ5TE9jcWlxclBrbThEaHFDRHlCb0c3eklaVVJYRE43c2k3T2h1RklEVXBERElZY3dVcFNOamJQcGpCX21naDRGOFVDVkg2R2xTS2Rpay1zUjJId1JVQ0NhQQ",
+    "related": [
+      [
+        "G7 countries to release up to 100 million barrels of diesel and crude oil reserves",
+        "NBC News"
+      ],
+      [
+        "U.S. and Allies Agree to Release Diesel Reserves as Prices Soar",
+        "The New York Times"
+      ],
+      [
+        "Trump says US won’t ban diesel exports",
+        "The Hill"
+      ],
+      [
+        "Europe bows to US pressure to release diesel reserves ahead of midterm elections",
+        "CNN"
+      ],
+      [
+        "Europe diesel release won’t have much impact on US prices, experts say: ‘At most a few pennies’",
+        "New York Post"
+      ]
+    ],
+    "event_key": "c2"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국과 동맹국들, [[디젤 및 원유 비축유]] 최대 1억 배럴 방출 합의",
+      "sub": "",
+      "chips": [
+        {
+          "k": "방출 규모",
+          "v": "최대 1억 배럴"
+        },
+        {
+          "k": "참여 국가",
+          "v": "G7 국가"
+        }
+      ],
+      "alt": "미국과 동맹국들, 디젤 및 원유 비축유 최대 1억 배럴 방출 합의",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "비축유 방출",
+          "d": "G7 국가들이 디젤 및 원유 비축유를 최대 1억 배럴까지 방출하기로 합의했습니다 (NBC 뉴스)."
+        },
+        {
+          "t": "미국 수출 입장",
+          "d": "미국 정부는 디젤 수출을 금지하지 않을 것이라고 밝혔습니다 (The Hill)."
+        },
+        {
+          "t": "시장 영향",
+          "d": "전문가들은 유럽의 비축유 방출이 미국 내 가격에 미치는 영향은 미미할 것이라고 전했습니다 (뉴욕 포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "디젤 및 원유 비축유 최대 1억 배럴 방출",
+        "G7 국가들의 합의",
+        "미국의 디젤 수출 금지 미실시"
+      ],
+      "unconfirmed": [
+        "소비자 가격 안정화 여부",
+        "추가 비축유 방출 계획 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "NBC News",
+        "New York Post",
+        "The Hill",
+        "The New York Times",
+        "2026.10.03 06:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국과 동맹국들이 디젤 및 원유 비축유를 최대 1억 배럴 방출하기로 합의했습니다\n\n· G7 국가들이 디젤 및 원유 비축유 방출에 동참합니다 (NBC 뉴스)\n· 미국 정부는 디젤 수출을 금지하지 않는다고 밝혔습니다 (The Hill)\n· 전문가들은 이번 유럽의 비축유 방출이 미국 내 가격에 큰 영향을 주지 않을 것이라고 전했습니다 (뉴욕 포스트)\n\n미국과 동맹국들의 비축유 방출 조치가 에너지 가격에 실질적인 도움이 될 것으로 보십니까?\n\n출처: NBC 뉴스·The Hill·뉴욕 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국과 동맹국들이 디젤 및 원유 비축유를 최대 1억 배럴 방출하기로 합의했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC 뉴스는 G7 국가들이 이 같은 조치를 시행한다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 정부는 디젤 수출을 금지하지 않을 것이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "전문가들은 유럽의 비축유 방출이 미국 내 가격에 미치는 영향이 미미할 것이라고 분석했습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
