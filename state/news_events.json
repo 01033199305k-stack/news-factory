@@ -975,5 +975,15 @@
     "at": 1790975450.3275359,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "texas-border-wall-blocked",
+    "topic": "미 연방법원, 텍사스주 국경 장벽 건설 공사 일시 중단 명령",
+    "slug": "2026-10-03-news-texas-border-wall-blocked",
+    "cluster": "CBMieEFVX3lxTE1PNjhmdkU4S2g1XzgzbC1lLV9GQlB2RW9vQTk1d3RpMXpvM2xnN0dqQ2tRbzU2c0ZiUFNfMUlYbTZfYWlIYWMtOUtZY3JxeGg1VlRjSEIxNng2eTEwNTFfcGxMOTRvbUpVenoxeGJYc2xjTFNnNlhidQ",
+    "badge": "breaking",
+    "at": 1790982497.9750054,
+    "country": "미국",
+    "category": "국제"
   }
 ]

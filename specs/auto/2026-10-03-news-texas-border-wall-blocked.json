@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-03-news-texas-border-wall-blocked",
+  "topic": "미 연방법원, 텍사스주 국경 장벽 건설 공사 일시 중단 명령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 05:32 KST",
+  "source": "CNN·The Guardian·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMieEFVX3lxTE1PNjhmdkU4S2g1XzgzbC1lLV9GQlB2RW9vQTk1d3RpMXpvM2xnN0dqQ2tRbzU2c0ZiUFNfMUlYbTZfYWlIYWMtOUtZY3JxeGg1VlRjSEIxNng2eTEwNTFfcGxMOTRvbUpVenoxeGJYc2xjTFNnNlhidQ",
+    "related": [
+      [
+        "Judge Blocks Border Wall Construction in Big Bend in Texas",
+        "The New York Times"
+      ],
+      [
+        "Federal court temporarily blocks Trump administration border wall in Texas’ Big Bend region",
+        "CNN"
+      ],
+      [
+        "A small Texas town stopped Trump’s border wall construction – for now",
+        "The Guardian"
+      ],
+      [
+        "Court Grants Emergency Injunction to Block Big Bend Border Construction",
+        "Center for Biological Diversity"
+      ],
+      [
+        "Federal judge weighs temporary halt to Big Bend border barrier work at El Paso hearing",
+        "KFOX"
+      ]
+    ],
+    "event_key": "texas-border-wall-blocked"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 연방법원, 텍사스주 국경 장벽\n건설 공사 일시 중단 명령",
+      "sub": "텍사스 소도시 및 생물다양성센터 등 건설 저지",
+      "chips": [],
+      "alt": "미 연방법원, 텍사스주 국경 장벽 건설 공사 일시 중단 명령",
+      "map": {
+        "lat": 29.5199108,
+        "lon": -98.6861826,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n텍사스주 빅벤",
+      "video_only": true,
+      "map": {
+        "lat": 29.5199108,
+        "lon": -98.6861826,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "텍사스주 빅벤"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "법원 결정",
+          "d": "미 연방법원은 텍사스주 빅벤 지역의 국경 장벽 건설을 임시로 차단했습니다 (뉴욕타임스·CNN)."
+        },
+        {
+          "t": "소송 및 저지",
+          "d": "법원이 긴급 가처분 신청을 인용했으며 (Center for Biological Diversity), 텍사스의 한 소도시도 장벽 건설을 일시 중단시켰습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "텍사스주 국경 장벽 건설 중단",
+        "미 연방법원 가처분 신청 인용"
+      ],
+      "unconfirmed": [
+        "본안 소송 최종 판결 일정",
+        "정부 측의 향후 법적 대응 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Center for Biological Diversity",
+        "KFOX",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.03 08:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 연방법원, 텍사스주 국경 장벽 건설 공사 일시 중단 명령\n\n· 미 연방법원은 텍사스주 빅벤 지역의 국경 장벽 건설을 임시로 차단했습니다 (뉴욕타임스·CNN)\n· 법원이 긴급 가처분 신청을 인용했으며 (Center for Biological Diversity), 텍사스 소도시도 장벽 건설을 일시 중단시켰습니다 (가디언)\n\n미국 정부의 국경 정책에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 뉴욕타임스·CNN·가디언·Center for Biological Diversity 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 연방법원이 텍사스주 빅벤 지역의 국경 장벽 건설 공사에 일시 중단 명령을 내렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "법원이 긴급 가처분을 인용하고 텍사스 소도시가 저지에 나서면서 장벽 건설이 일시 중단되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최종 재판 일정과 정부의 대응 방향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

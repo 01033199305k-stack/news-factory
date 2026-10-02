@@ -5170,5 +5170,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790975844
+  },
+  {
+    "slug": "2026-10-03-news-texas-border-wall-blocked",
+    "event_ms": 1790973171000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 연방법원, 텍사스주 국경 장벽 건설 공사 일시 중단 명령\n\n· 미 연방법원은 텍사스주 빅벤 지역의 국경 장벽 건설을 임시로 차단했습니다 (뉴욕타임스·CNN)\n· 법원이 긴급 가처분 신청을 인용했으며 (Center for Biological Diversity), 텍사스 소도시도 장벽 건설을 일시 중단시켰습니다 (가디언)\n\n미국 정부의 국경 정책에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 뉴욕타임스·CNN·가디언·Center for Biological Diversity 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18176575414446566",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeAoVgvj8BS",
+        "kind": "carousel",
+        "at": 1790982551
+      },
+      "instagram": {
+        "id": "18113595037987976",
+        "permalink": "https://www.instagram.com/reel/DeAoqxcDEzK/",
+        "kind": "reel",
+        "at": 1790982739
+      },
+      "youtube": {
+        "id": "FMSC9c50zzQ",
+        "permalink": "https://youtube.com/shorts/FMSC9c50zzQ",
+        "kind": "shorts",
+        "at": 1790982851
+      },
+      "tiktok": {
+        "id": "7692212557385403654",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692212557385403654",
+        "kind": "video",
+        "at": 1790982982
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790982992
   }
 ]
