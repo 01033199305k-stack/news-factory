@@ -4567,5 +4567,62 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790910288
+  },
+  {
+    "slug": "2026-10-02-news-boeing-engineers-union-approve-contract-2026",
+    "event_ms": 1790914280991,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 보잉 기술직 노조, 새 근로 계약 가결로 파업 모면\n\n· 보잉의 엔지니어들이 새 계약안을 승인했습니다 (WSJ).\n· 이번 계약 가결로 우려됐던 파업 위기를 피하게 됐습니다 (로이터·CNBC).\n\n이번 합의에 대해 어떻게 생각하십니까?\n출처: WSJ·로이터·CNBC 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18133524640656002",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd-mN_8lcNV",
+        "kind": "carousel",
+        "at": 1790914332
+      },
+      "instagram": {
+        "id": "18090491888480788",
+        "permalink": "https://www.instagram.com/reel/Dd-mfitFYvz/",
+        "kind": "reel",
+        "at": 1790914494
+      },
+      "youtube": {
+        "id": "78dwSX7A-oU",
+        "permalink": "https://youtube.com/shorts/78dwSX7A-oU",
+        "kind": "shorts",
+        "at": 1790914520
+      },
+      "tiktok": {
+        "id": "7691948270901300500",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7691948270901300500",
+        "kind": "video",
+        "at": 1790921381
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790921391
   }
 ]
