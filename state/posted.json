@@ -4679,5 +4679,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790929449
+  },
+  {
+    "slug": "2026-10-02-news-malaysia-deports-myanmar-refugees",
+    "event_ms": 1790928900000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 말레이시아, 미얀마로 난민 강제 송환 개시\n\n· 말레이시아가 수천 명에 달하는 미얀마 난민들의 송환을 시작했습니다 (BBC)\n· 유엔 난민기구는 우려를 표명했고, 유엔 전문가는 송환 중단을 촉구했습니다 (디플로맷·OHCHR)\n\n출처: BBC·알자지라·디플로맷·OHCHR 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "말레이시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18029247659885910",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd_PYIAll1O",
+        "kind": "carousel",
+        "at": 1790935910
+      },
+      "instagram": {
+        "id": "18113113571109641",
+        "permalink": "https://www.instagram.com/reel/Dd_PnJID50M/",
+        "kind": "reel",
+        "at": 1790936050
+      },
+      "youtube": {
+        "id": "kCv0Fb31Lck",
+        "permalink": "https://youtube.com/shorts/kCv0Fb31Lck",
+        "kind": "shorts",
+        "at": 1790936114
+      },
+      "tiktok": {
+        "id": "7692012090244074772",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692012090244074772",
+        "kind": "video",
+        "at": 1790936245
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790936255
   }
 ]

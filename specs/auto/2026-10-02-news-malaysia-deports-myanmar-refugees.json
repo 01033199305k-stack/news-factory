@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-02-news-malaysia-deports-myanmar-refugees",
+  "topic": "말레이시아, 미얀마로 난민 강제 송환 개시",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 17:15 KST",
+  "source": "Al Jazeera·BBC·The Diplomat 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxPQ0JmdnQzUFJyMXpRejd1NmduNGV0Tl9qRnlxRzdLYy1ZU25qR3ExT21pMjJUVE16Z1daN3BaTGdPMUUwTjhQUkwyaklVT2JuVHlQV0FoeVg5M2c4TDFIRzlkRFdKZmVpdHpfQ0ZyalduYm14QV8wektXUk1pXzhjYVBxS19OejRLT0o1NXJCdkJUQTY1TlQ3ZDFpNEZWSEN3bUcxR2JmaHpXc1lOSTZXdE1hMUXSAboBQVVfeXFMTnNpVDJRSFdrQUszSVM1bVZIaHljODJ0WnA5MEc3Z1FvY2NMMWtNV3JVUGNqXzNFS3NPTjROWlY0Mi1Kc2U4NE9OQXJKSkE3NDVralVOTjFkd2hkMWhHOEVpS0JFSnZ1NmR2WjN1aXdPbmZTRjRCeExUNVBxU1AxNlpVTW5fekZXbFVBbjlwNW4xbWJFS2ZSeHJKUTBjUzZ4NEthbldwQWFYUEU3N21RS3NUaU1JZVBlTHpB",
+    "related": [
+      [
+        "‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation",
+        "Al Jazeera"
+      ],
+      [
+        "UN Refugee Agency Expresses Concerns About Malaysia’s Deportation of Asylum Seekers to Myanmar",
+        "The Diplomat – Asia-Pacific Current Affairs Magazine"
+      ],
+      [
+        "Newshour | Malaysia starts sending thousands of refugees back to Myanmar",
+        "BBC"
+      ],
+      [
+        "UN expert urges Malaysian Government to stop repatriation of Myanmar nationals, deplores Myanmar military’s latest airstrikes targeting civilians",
+        "ohchr"
+      ],
+      [
+        "Malaysia: Please DO NOT Expel Rohingya",
+        "justiceforall.org"
+      ]
+    ],
+    "event_key": "malaysia-deports-myanmar-refugees"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "말레이시아, 미얀마로\n[[난민 강제 송환]] 개시",
+      "sub": "유엔 난민기구와 인권단체들 강한 우려 표명",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "미얀마 난민"
+        }
+      ],
+      "alt": "말레이시아, 미얀마로 난민 강제 송환 개시",
+      "map": {
+        "lat": 3.1516964,
+        "lon": 101.6942371,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "말레이시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "말레이시아\n쿠알라룸푸르",
+      "video_only": true,
+      "map": {
+        "lat": 3.1516964,
+        "lon": 101.6942371,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "쿠알라룸푸르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "송환 개시",
+          "d": "말레이시아가 수천 명에 달하는 미얀마 난민들의 송환을 시작했습니다 (BBC)."
+        },
+        {
+          "t": "유엔 입장",
+          "d": "유엔 난민기구는 우려를 표명하고 유엔 전문가는 송환 중단을 촉구했습니다 (디플로맷·OHCHR)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "말레이시아의 미얀마 난민 송환 개시",
+        "유엔 난민기구 및 전문가의 우려 및 중단 촉구"
+      ],
+      "unconfirmed": [
+        "정확한 송환 인원 규모",
+        "말레이시아 정부의 추가 입장"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "The Diplomat – Asia-Pacific Current Affairs Magazine",
+        "justiceforall.org",
+        "ohchr",
+        "2026.10.02 19:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 말레이시아, 미얀마로 난민 강제 송환 개시\n\n· 말레이시아가 수천 명에 달하는 미얀마 난민들의 송환을 시작했습니다 (BBC)\n· 유엔 난민기구는 우려를 표명했고, 유엔 전문가는 송환 중단을 촉구했습니다 (디플로맷·OHCHR)\n\n출처: BBC·알자지라·디플로맷·OHCHR 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "말레이시아가 미얀마 난민들의 강제 송환을 시작했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유엔 난민기구와 전문가는 이에 대해 우려를 표명하며 송환 중단을 촉구했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 송환 규모와 추가 조치는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
