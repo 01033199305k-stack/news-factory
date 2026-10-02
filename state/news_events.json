@@ -985,5 +985,15 @@
     "at": 1790982497.9750054,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "hawaii-holei-sea-arch-collapse",
+    "topic": "하와이 500년 명물 호레이 시 아치 붕괴",
+    "slug": "2026-10-03-news-hawaii-holei-sea-arch-collapse",
+    "cluster": "CBMiW0FVX3lxTE1vQnE3NVFENU9GcFhoOUZYUXRXRk1qUHJ4RHdmQi1vSlRvVWlMak90MGdRUklfZXNLSXpiczlMbW5uaTBDamZGOG5QTjhmRE1WaXZrUE9wSkVaNlk",
+    "badge": "breaking",
+    "at": 1790985075.8680415,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-03-news-hawaii-holei-sea-arch-collapse",
+  "topic": "하와이 500년 명물 호레이 시 아치 붕괴",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 06:00 KST",
+  "source": "BBC·CNN·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1vQnE3NVFENU9GcFhoOUZYUXRXRk1qUHJ4RHdmQi1vSlRvVWlMak90MGdRUklfZXNLSXpiczlMbW5uaTBDamZGOG5QTjhmRE1WaXZrUE9wSkVaNlk",
+    "related": [
+      [
+        "Hawaii's iconic 500-year-old Hōlei Sea Arch has collapsed into the sea",
+        "BBC"
+      ],
+      [
+        "Hawaii’s famed Hōlei Sea Arch has collapsed",
+        "CNN"
+      ],
+      [
+        "Hawaii’s centuries-old sea arch collapses into Pacific after series of rough storms",
+        "The Guardian"
+      ],
+      [
+        "The Holei Sea Arch, a Centuries-Old Hawaii Wonder, Crumbles Into the Pacific",
+        "The New York Times"
+      ],
+      [
+        "Hōlei Sea Arch Collapses in Hawaiʻi Volcanoes National Park",
+        "National Park Service (.gov)"
+      ]
+    ],
+    "event_key": "hawaii-holei-sea-arch-collapse"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "하와이 500년 명물\n호레이 시 아치 붕괴",
+      "sub": "태평양 바다로 붕괴",
+      "chips": [
+        {
+          "k": "역사",
+          "v": "500년"
+        }
+      ],
+      "alt": "하와이 500년 명물 호레이 시 아치 붕괴",
+      "map": {
+        "lat": 19.2608312,
+        "lon": -155.3578662,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n하와이",
+      "video_only": true,
+      "map": {
+        "lat": 19.2608312,
+        "lon": -155.3578662,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "하와이"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "자연 명물 붕괴",
+          "d": "하와이 화산국립공원의 호레이 시 아치가 붕괴했습니다 (BBC)."
+        },
+        {
+          "t": "폭풍우 영향",
+          "d": "최근 이 지역을 덮친 폭풍우의 영향인 것으로 전해졌습니다 (더가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호레이 시 아치 붕괴 (BBC)",
+        "폭풍우 영향 (더가디언)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "관광객 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "National Park Service (.gov)",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.03 08:50 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 하와이의 500년 된 자연 명물인 '호레이 시 아치'가 바다로 무너져 내렸습니다.\n\n· 하와이 화산국립공원의 바위 아치가 붕괴했습니다 (BBC)\n· 최근 이 지역에 불어닥친 폭풍우가 원인인 것으로 보입니다 (더가디언)\n\n출처: BBC·CNN·더가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "하와이의 500년 된 유명 자연 명물인 호레이 시 아치가 바다로 무너져 내렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "하와이 화산국립공원의 바위 아치가 붕괴했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "더가디언은 최근 이 지역을 덮친 폭풍우가 원인인 것으로 보인다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "관광객 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
