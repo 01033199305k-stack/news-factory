@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-02-news-france-student-protests",
+  "topic": "프랑스 전역 학생 시위 격화 도심 곳곳 화재와 최루탄",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 23:41 KST",
+  "source": "BBC·Financial Times·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxOOE11M0pBUlYzbHZKa0NrTnMzd3JPX3pGM3c0Q1hCVkxXOEdzN01VODdHb0ltYzU0dlZJZ3lWTlY0TnY4b3JLTlNRTng2VGFGdzVQZy1OVjdnSkxEZWZxVHpMLTJBdXF1UFVZSllSdEE3cjhJNl82WGNlNXJIT2JRSkpGV1hFeGxNRTY3N1NIWU5WaHZIUWlNZVhuMWpmWFJPTERyQmpTRTc",
+    "related": [
+      [
+        "Tear gas and fires on French streets as student protests turn violent",
+        "news.sky.com"
+      ],
+      [
+        "Riot police clash with students as education protests rage in France",
+        "BBC"
+      ],
+      [
+        "French schools burn as student unrest spreads",
+        "Financial Times"
+      ],
+      [
+        "I have spent decades covering France’s riots – I’ve never seen carnage like this",
+        "The Independent"
+      ],
+      [
+        "There’s revolution in the air as lycée protests engulf France",
+        "thetimes.com"
+      ]
+    ],
+    "event_key": "france_student_protests"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스 전역 학생 시위 격화\n도심 곳곳 화재와 최루탄",
+      "sub": "학생 시위 격화로 충돌 발생",
+      "chips": [
+        {
+          "k": "시위",
+          "v": "격화"
+        }
+      ],
+      "alt": "프랑스 전역 학생 시위 격화 도심 곳곳 화재와 최루탄",
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "경찰 충돌",
+          "d": "진압 경찰과 시위대가 충돌하며 최루탄이 사용됐다고 스카이뉴스가 전했습니다."
+        },
+        {
+          "t": "시설 피해",
+          "d": "학교 시설 등에 불이 붙으며 폭력적인 양상으로 번졌다고 파이낸셜타임스가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "프랑스 학생 시위 격화",
+        "진압 경찰과 충돌",
+        "도심 화재 발생"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 및 체포자 규모",
+        "한국인 피해 여부",
+        "향후 시위 확산 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Financial Times",
+        "The Independent",
+        "news.sky.com",
+        "thetimes.com",
+        "2026.10.03 02:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 전역 학생 시위 격화…도심 곳곳 화재와 최루탄\n\n· 진압 경찰과 시위대가 충돌하며 최루탄이 사용됐습니다 (스카이뉴스)\n· 학교 시설 등에 불이 붙으며 폭력적인 양상으로 번졌습니다 (파이낸셜타임스)\n\n출처: news.sky.com·BBC·Financial Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 전역에서 학생 시위가 격화되면서 도심 곳곳에서 화재와 충돌이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "진압 경찰이 투입되어 최루탄을 사용하며 시위대와 충돌했다고 스카이뉴스가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "학교 시설 등이 불타는 등 폭력적인 양상으로 번졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

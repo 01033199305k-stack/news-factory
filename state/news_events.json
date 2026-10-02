@@ -945,5 +945,15 @@
     "at": 1790957554.978764,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "france_student_protests",
+    "topic": "프랑스 전역 학생 시위 격화 도심 곳곳 화재와 최루탄",
+    "slug": "2026-10-02-news-france-student-protests",
+    "cluster": "CBMiqAFBVV95cUxOOE11M0pBUlYzbHZKa0NrTnMzd3JPX3pGM3c0Q1hCVkxXOEdzN01VODdHb0ltYzU0dlZJZ3lWTlY0TnY4b3JLTlNRTng2VGFGdzVQZy1OVjdnSkxEZWZxVHpMLTJBdXF1UFVZSllSdEE3cjhJNl82WGNlNXJIT2JRSkpGV1hFeGxNRTY3N1NIWU5WaHZIUWlNZVhuMWpmWFJPTERyQmpTRTc",
+    "badge": "breaking",
+    "at": 1790961091.8948355,
+    "country": "프랑스",
+    "category": "기타 사건"
   }
 ]
