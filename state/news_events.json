@@ -915,5 +915,15 @@
     "at": 1790949625.8546646,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "us-stock-market-jobs-report-rally",
+    "topic": "미국 고용 둔화 발표에 뉴욕증시 상승",
+    "slug": "2026-10-02-news-us-stock-market-jobs-report-rally",
+    "cluster": "CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw",
+    "badge": "breaking",
+    "at": 1790953703.5512612,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-02-news-us-stock-market-jobs-report-rally",
+  "topic": "미국 고용 둔화 발표에 뉴욕증시 상승",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 22:03 KST",
+  "source": "Reuters·Business Insider·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw",
+    "related": [
+      [
+        "Dow jumps 400 points after weak jobs data sends yields tumbling: Live updates",
+        "CNBC"
+      ],
+      [
+        "Goodbye, rate hike: Why stocks are soaring after a dismal jobs report",
+        "Business Insider"
+      ],
+      [
+        "Jobs Report Today: Dow Opens Higher, Yields Fall as Hiring Softens — Live Updates",
+        "wsj.com"
+      ],
+      [
+        "Stock market today: Dow, S&P 500, Nasdaq jump as traders pare Fed rate-hike bets after September jobs miss",
+        "Yahoo Finance"
+      ],
+      [
+        "SNAPSHOT Wall St opens higher as softer payrolls data, lower yields lift sentiment",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us-stock-market-jobs-report-rally"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 고용 둔화 발표에 [[뉴욕증시]] 상승",
+      "sub": "국채 금리 하락하며 금리 인상 우려 완화",
+      "chips": [
+        {
+          "k": "다우지수",
+          "v": "400p 이상 상승"
+        }
+      ],
+      "alt": "미국 고용 둔화 발표에 뉴욕증시 상승",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "시장 반응",
+          "d": "부진한 고용 보고서 발표 후 국채 금리가 하락하면서 연방준비제도 금리 인상 베팅이 줄어들었습니다 (CNBC·Yahoo Finance)."
+        },
+        {
+          "t": "증시 현황",
+          "d": "다우존스 산업평균지수가 400포인트 올랐고 S&P 500과 나스닥도 상승했습니다 (CNBC·wsj.com·Yahoo Finance)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 부진한 고용 지표 발표",
+        "국채 금리 하락 및 연준 금리 인상 베팅 축소",
+        "다우지수 400포인트 상승"
+      ],
+      "unconfirmed": [
+        "향후 연방준비제도 기준금리 결정 방향",
+        "증시 상승세의 지속 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Business Insider",
+        "CNBC",
+        "Reuters",
+        "Yahoo Finance",
+        "wsj.com",
+        "2026.10.03 00:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 고용 둔화 발표에 [[뉴욕증시]] 상승\n\n· 부진한 고용 지표가 발표된 후 국채 금리가 하락하며 연방준비제도의 금리 인상 전망이 줄어들었습니다 (CNBC·wsj.com).\n· 다우존스 지수가 400포인트 상승하고 S&P 500과 나스닥도 올랐습니다 (CNBC·Yahoo Finance).\n\n출처: CNBC·wsj.com·Yahoo Finance 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국의 부진한 고용 지표가 발표되면서 뉴욕증시가 상승했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 고용 지표가 약화되면서 국채 금리가 하락하고 연준의 금리 인상 베팅이 줄어들었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이로 인해 다우존스 지수가 400포인트 상승했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 연방준비제도의 금리 정책 방향은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
