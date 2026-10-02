@@ -42,6 +42,53 @@
       }
     },
     "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-02-news-nike-revenue-miss-layoffs",
+    "event_ms": 1790891219000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 나이키, 매출 부진 여파로 구조조정과 감원 계획 발표\n\n· 1분기 매출이 시장 예상치를 밑돌며 주가가 13년 만에 최저치로 하락 (CNBC·월스트리트저널)\n· 기업 구조조정의 일환으로 일자리 감축을 진행할 예정 (야후 파이낸스)\n· 올해 연간 매출이 감소할 것으로 전망됨 (월스트리트저널)\n\n의류·유통 기업들의 실적 부진에 대해 어떻게 생각하십니까?\n\n출처: CNBC·월스트리트저널·야후 파이낸스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18148534303508925",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd-KYJKmM-6",
+        "kind": "carousel",
+        "at": 1790899731
+      },
+      "instagram": {
+        "id": "18052443572658903",
+        "permalink": "https://www.instagram.com/reel/Dd-Kr1UDq1z/",
+        "kind": "reel",
+        "at": 1790899910
+      },
+      "youtube": {
+        "skipped": "하루 업로드 한도 초과",
+        "at": 1790899965
+      }
+    },
+    "attempts": {
       "tiktok": 1
     },
     "video": "video.mp4"

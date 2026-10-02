@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-02-news-nike-revenue-miss-layoffs",
+  "topic": "나이키, 매출 부진에 구조조정 및 감원 발표 주가 13년 만에 최저치로 하락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 06:46 KST",
+  "source": "WSJ·OregonLive.com·Yahoo Finance 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgFBVV95cUxPYXRicUlOb3RzalpFbGZoQXFjQ2w4d282UDBQWkdJNEVEdGdNaExNemx3TWZjdmtOcEk2SnEzRFZyd0l0eHdwbUJBY1pYcHV1NkVqbHpPa0pvMlFtbDlKdjl5eTFHeTlpMlpUbFAxeENYOWNJZjdycC1tVVRyYmEwLWtaSEZ2LXN3ZkgyTmtkSmxucGlKcjRUMDYwVmxSekFvbkVyem5jZDdoenR0VVBUeERIUFBsbWlWSEo0dEx3",
+    "related": [
+      [
+        "Nike stock sinks as revenue misses estimates, expects to cut jobs",
+        "Yahoo Finance"
+      ],
+      [
+        "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
+        "cnbc.com"
+      ],
+      [
+        "Nike stock sinks as revenue misses estimates",
+        "Yahoo Finance"
+      ],
+      [
+        "Nike Projects Sales Decline This Year After Lower First-Quarter Revenue",
+        "WSJ"
+      ],
+      [
+        "Nike announces new restructuring, layoffs. Stock dips to lowest level in 13 years",
+        "OregonLive.com"
+      ]
+    ],
+    "event_key": "nike-revenue-miss-layoffs"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "나이키, 매출 부진에 구조조정 및 감원 발표\n주가 13년 만에 최저치로 하락",
+      "sub": "1분기 매출 예상치 하회하며 연간 매출 감소 전망",
+      "chips": [
+        {
+          "k": "주가",
+          "v": "13년래 최저"
+        }
+      ],
+      "alt": "나이키, 매출 부진에 구조조정 및 감원 발표 주가 13년 만에 최저치로 하락",
+      "map": {
+        "lat": 45.4871723,
+        "lon": -122.80378,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n비버턴",
+      "video_only": true,
+      "map": {
+        "lat": 45.4871723,
+        "lon": -122.80378,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "비버턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "실적 부진",
+          "d": "나이키는 1분기 매출이 시장 예상치를 밑돌았다고 밝혔습니다 (월스트리트저널·CNBC)."
+        },
+        {
+          "t": "감원 계획",
+          "d": "기업 구조조정의 일환으로 일자리 감축을 진행한다고 전했습니다 (야후 파이낸스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "1분기 매출 예상치 하회",
+        "구조조정 및 인력 감원 계획",
+        "주가 13년 만에 최저치 기록"
+      ],
+      "unconfirmed": [
+        "정확한 감원 규모",
+        "향후 실적 회복 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "OregonLive.com",
+        "WSJ",
+        "Yahoo Finance",
+        "cnbc.com",
+        "2026.10.02 09:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 나이키, 매출 부진 여파로 구조조정과 감원 계획 발표\n\n· 1분기 매출이 시장 예상치를 밑돌며 주가가 13년 만에 최저치로 하락 (CNBC·월스트리트저널)\n· 기업 구조조정의 일환으로 일자리 감축을 진행할 예정 (야후 파이낸스)\n· 올해 연간 매출이 감소할 것으로 전망됨 (월스트리트저널)\n\n의류·유통 기업들의 실적 부진에 대해 어떻게 생각하십니까?\n\n출처: CNBC·월스트리트저널·야후 파이낸스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "나이키가 1분기 매출 부진 여파로 구조조정과 감원 계획을 발표했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "나이키는 올해 연간 매출이 감소할 것으로 전망했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "월스트리트저널 등 외신은 이번 실적 충격으로 주가가 13년 만에 최저치로 떨어졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 감원 규모와 구조조정 세부 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
