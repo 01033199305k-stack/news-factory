@@ -5060,5 +5060,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790961667
+  },
+  {
+    "slug": "2026-10-03-news-spain-torrential-rain-flooding",
+    "event_ms": 1790969070672,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 스페인 동부 지역이 폭우와 홍수 대비에 나섰습니다\n\n· 스페인 5개 지역에 폭우와 폭풍으로 인한 황색 경보가 발령됐습니다 (Sur in English)\n· 카탈루냐 남부 지역에는 250mm가 넘는 집중 호우가 쏟아졌습니다 (Catalan News)\n\n한국인 피해 여부는 아직 확인되지 않았습니다.\n\n출처: The Guardian·Sur in English·Catalan News 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "재난",
+      "스페인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18070149938766347",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeAOuUqj4us",
+        "kind": "carousel",
+        "at": 1790969123
+      },
+      "instagram": {
+        "id": "18131642095826947",
+        "permalink": "https://www.instagram.com/reel/DeAO-0wHYyI/",
+        "kind": "reel",
+        "at": 1790969276
+      },
+      "youtube": {
+        "id": "QPx52RO0cro",
+        "permalink": "https://youtube.com/shorts/QPx52RO0cro",
+        "kind": "shorts",
+        "at": 1790969309
+      },
+      "tiktok": {
+        "id": "7692154641320054036",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692154641320054036",
+        "kind": "video",
+        "at": 1790969441
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790969451
   }
 ]

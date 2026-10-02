@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-03-news-spain-torrential-rain-flooding",
+  "topic": "스페인 동부 지역 폭우 및 홍수 대비",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 01:16 KST",
+  "source": "The Guardian·Catalan News (in English)·Diari ARA 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwAFBVV95cUxNaS1CZ25TYk0yZnZJTTRRZGdCVVMtZXVMMGRrUTE2V3hMRDhGU183eGJVZFNQTS02Ull1c1Q3c0RsdldZaFJSNnBQVHhQcEcteFhFUUl5QndTLV80cW1sdWVaMlJCaGp1VW1nSzdDUlZDWlc2Ui1VUkVFYUttOFdMMGdnNWNJWXA1N3N3VkY4di1jUWFiOFR2WWp2bUw1UEhONmxUN2VtQXJ0TGxwbVdpWE5aWmVvVmNsOV9JcVRGd0w",
+    "related": [
+      [
+        "Eastern Spain braces for torrential rain and flooding",
+        "The Guardian"
+      ],
+      [
+        "Five Spanish regions under amber alert for heavy rain and storms",
+        "Sur in English"
+      ],
+      [
+        "Mallorca warned of high flash flood risk as heavy rain hits Balearics",
+        "Majorca Daily Bulletin"
+      ],
+      [
+        "Busy weekend with new rains",
+        "Diari ARA"
+      ],
+      [
+        "Torrential rain dumps more than 250mm in southern Catalonia",
+        "Catalan News (in English)"
+      ]
+    ],
+    "event_key": "spain-torrential-rain-flooding"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "스페인 동부 지역\n[[폭우 및 홍수]] 대비",
+      "sub": "여러 지역에 호우 주의보 발령",
+      "chips": [
+        {
+          "k": "강수량",
+          "v": "250mm 이상"
+        },
+        {
+          "k": "경보",
+          "v": "황색 경보"
+        }
+      ],
+      "alt": "스페인 동부 지역 폭우 및 홍수 대비",
+      "map": {
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n발렌시아",
+      "video_only": true,
+      "map": {
+        "lat": 39.4697065,
+        "lon": -0.3763353,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "발렌시아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기상 특보",
+          "d": "스페인 5개 지역에 폭우와 폭풍으로 인한 황색 경보가 내려졌습니다 (Sur in English)"
+        },
+        {
+          "t": "집중 호우",
+          "d": "카탈루냐 남부 지역에는 250mm가 넘는 폭우가 쏟아졌습니다 (Catalan News)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스페인 동부 지역 폭우 대비",
+        "5개 지역 황색 경보 발령",
+        "카탈루냐 남부 250mm 이상 강수"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모 및 인명 피해 여부",
+        "한국인 피해 여부",
+        "기상 악화 지속 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Catalan News (in English)",
+        "Diari ARA",
+        "Majorca Daily Bulletin",
+        "Sur in English",
+        "The Guardian",
+        "2026.10.03 04:24 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 스페인 동부 지역이 폭우와 홍수 대비에 나섰습니다\n\n· 스페인 5개 지역에 폭우와 폭풍으로 인한 황색 경보가 발령됐습니다 (Sur in English)\n· 카탈루냐 남부 지역에는 250mm가 넘는 집중 호우가 쏟아졌습니다 (Catalan News)\n\n한국인 피해 여부는 아직 확인되지 않았습니다.\n\n출처: The Guardian·Sur in English·Catalan News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인 동부 지역이 폭우와 홍수 대비에 나섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언 등 외신은 5개 지역에 황색 경보가 발령됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "카탈루냐 남부에는 250mm가 넘는 비가 쏟아졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

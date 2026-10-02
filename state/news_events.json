@@ -955,5 +955,15 @@
     "at": 1790961091.8948355,
     "country": "프랑스",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "spain-torrential-rain-flooding",
+    "topic": "스페인 동부 지역 폭우 및 홍수 대비",
+    "slug": "2026-10-03-news-spain-torrential-rain-flooding",
+    "cluster": "CBMiwAFBVV95cUxNaS1CZ25TYk0yZnZJTTRRZGdCVVMtZXVMMGRrUTE2V3hMRDhGU183eGJVZFNQTS02Ull1c1Q3c0RsdldZaFJSNnBQVHhQcEcteFhFUUl5QndTLV80cW1sdWVaMlJCaGp1VW1nSzdDUlZDWlc2Ui1VUkVFYUttOFdMMGdnNWNJWXA1N3N3VkY4di1jUWFiOFR2WWp2bUw1UEhONmxUN2VtQXJ0TGxwbVdpWE5aWmVvVmNsOV9JcVRGd0w",
+    "badge": "brief",
+    "at": 1790969070.672616,
+    "country": "스페인",
+    "category": "재난"
   }
 ]
