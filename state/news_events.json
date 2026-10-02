@@ -855,5 +855,15 @@
     "at": 1790902355.9606035,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "us_energy_department_employee_houthi_arrest",
+    "topic": "미 에너지부 직원, 후티 반군 지원 혐의로 체포",
+    "slug": "2026-10-02-news-us-energy-department-employee-houthi-arrest",
+    "cluster": "CBMi8AFBVV95cUxQbml5Z0t6OHVCN1NOVVl5dDBRbXVUNDlEdVhDQlF5VlUwQUd5Y3VmTGNSR1EzaXpKRWFVOFh4NG8zWUtXdEFuSXNRU09zM0I0YlRXaU9PUmJkNnBpQVdxOUxfNUktT0k0cGN3OWcySUdfcjJPQmY2Q2trU0xqcHc2TG4yNm9XaVUyRXVtYUxrNldvZ2loMS1kc3cyYTlCblV1Y2hVVC1zekJOMjIza3BJajBaYzh1MUVyWFhrcEpDSjF6NzV4cW5wbnJiMUdEQ05wU2xUeUR2Z012eVJhZkx5TjBnYkx3RDJ6R1VEanhOUTg",
+    "badge": "breaking",
+    "at": 1790909915.174198,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

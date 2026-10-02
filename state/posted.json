@@ -4514,5 +4514,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790907029
+  },
+  {
+    "slug": "2026-10-02-news-us-energy-department-employee-houthi-arrest",
+    "event_ms": 1790900340000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 에너지부 직원, 후티 반군 지원 혐의로 체포\n\n· 예멘 후티 반군에 드론과 폭발물 지원 등 물질적 도움을 준 혐의를 받고 있습니다 (인도 타임스·Lynnwood Times)\n· 유죄 판결 시 최대 징역 20년형에 처해질 수 있습니다 (TriYakNews.com)\n\n출처: 인도 타임스·TriYakNews.com·Lynnwood Times 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18120472288940411",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd-d5y2G_4v",
+        "kind": "carousel",
+        "at": 1790909973
+      },
+      "instagram": {
+        "id": "18119731120943306",
+        "permalink": "https://www.instagram.com/reel/Dd-eNfhjPff/",
+        "kind": "reel",
+        "at": 1790910146
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1790910156
+      },
+      "tiktok": {
+        "id": "7691900529710026004",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7691900529710026004",
+        "kind": "video",
+        "at": 1790910278
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790910288
   }
 ]

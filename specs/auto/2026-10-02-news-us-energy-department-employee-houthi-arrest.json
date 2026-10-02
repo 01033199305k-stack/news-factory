@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-02-news-us-energy-department-employee-houthi-arrest",
+  "topic": "미 에너지부 직원, 후티 반군 지원 혐의로 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 09:19 KST",
+  "source": "The Times of India·Lynnwood Times·TriYakNews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8AFBVV95cUxQbml5Z0t6OHVCN1NOVVl5dDBRbXVUNDlEdVhDQlF5VlUwQUd5Y3VmTGNSR1EzaXpKRWFVOFh4NG8zWUtXdEFuSXNRU09zM0I0YlRXaU9PUmJkNnBpQVdxOUxfNUktT0k0cGN3OWcySUdfcjJPQmY2Q2trU0xqcHc2TG4yNm9XaVUyRXVtYUxrNldvZ2loMS1kc3cyYTlCblV1Y2hVVC1zekJOMjIza3BJajBaYzh1MUVyWFhrcEpDSjF6NzV4cW5wbnJiMUdEQ05wU2xUeUR2Z012eVJhZkx5TjBnYkx3RDJ6R1VEanhOUTg",
+    "related": [
+      [
+        "US energy department engineer held for alleged Houthi links, drone and explosives support",
+        "The Times of India"
+      ],
+      [
+        "DOE employee could face 20 years for aiding Houthis in Yemen",
+        "TriYakNews.com"
+      ],
+      [
+        "Washington resident Ashton Ellaboudy charged with providing material support Houthi terrorists",
+        "Lynnwood Times"
+      ],
+      [
+        "US arrests Energy Dept. employee for alleged Houthi support",
+        "Breakingthenews.net"
+      ],
+      [
+        "US Energy Department employee detained over suspected Houthi support",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "us_energy_department_employee_houthi_arrest"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 에너지부 직원, 후티 반군 지원 혐의로 체포",
+      "sub": "드론 및 폭발물 관련 지원 의혹",
+      "chips": [
+        {
+          "k": "체포 인원",
+          "v": "1명"
+        }
+      ],
+      "alt": "미 에너지부 직원, 후티 반군 지원 혐의로 체포",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "혐의 내용",
+          "d": "예멘 후티 반군에 드론과 폭발물 지원 등 물질적 도움을 준 혐의를 받고 있습니다 (인도 타임스·Lynnwood Times)."
+        },
+        {
+          "t": "법적 처벌",
+          "d": "유죄 판결 시 최대 징역 20년형에 처해질 수 있습니다 (TriYakNews.com)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 에너지부 엔지니어 체포",
+        "후티 반군 지원 혐의"
+      ],
+      "unconfirmed": [
+        "구체적인 범행 공모 경위",
+        "추가 연루자 존재 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Breakingthenews.net",
+        "Lynnwood Times",
+        "The Times of India",
+        "TriYakNews.com",
+        "UA.NEWS",
+        "2026.10.02 11:58 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 에너지부 직원, 후티 반군 지원 혐의로 체포\n\n· 예멘 후티 반군에 드론과 폭발물 지원 등 물질적 도움을 준 혐의를 받고 있습니다 (인도 타임스·Lynnwood Times)\n· 유죄 판결 시 최대 징역 20년형에 처해질 수 있습니다 (TriYakNews.com)\n\n출처: 인도 타임스·TriYakNews.com·Lynnwood Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 에너지부 소속 엔지니어가 후티 반군을 지원한 혐의로 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인도 타임스와 현지 매체들은 이 직원이 드론과 폭발물 관련 지원을 제공한 혐의를 받고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "유죄가 인정될 경우 최대 징역 20년형에 처해질 수 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 경위나 공모자 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
