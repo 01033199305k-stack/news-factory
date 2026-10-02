@@ -4624,5 +4624,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790921391
+  },
+  {
+    "slug": "2026-10-02-news-south-korea-ukraine-pow-row",
+    "event_ms": 1790928880205,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 한국 정부, 북한군 포로 이송 갈등 관련 우크라이나에 사과 요구 후 추가 조치 경고\n\n· 우크라이나의 북한군 포로 이송을 두고 양국 간 갈등이 고조되고 있습니다 (알자지라·로이터)\n· 이 대통령은 우크라이나 측의 사과를 요구하며 거부 시 추가 조치에 나서겠다고 밝혔습니다 (BBC·CNBC)\n\n🇰🇷 한국 정부는 우크라이나가 사과하지 않을 경우 추가 조치를 취하겠다고 경고했습니다\n\n우크라이나와 북한군 포로 이송을 둘러싼 갈등에 대해 어떻게 생각하시나요?\n출처: 알자지라·BBC·CNBC·로이터·유로뉴스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17936173065128024",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd_CEm2m7EA",
+        "kind": "carousel",
+        "at": 1790928936
+      },
+      "instagram": {
+        "id": "18142341136561397",
+        "permalink": "https://www.instagram.com/reel/Dd_CYWaERf3/",
+        "kind": "reel",
+        "at": 1790929113
+      },
+      "youtube": {
+        "id": "iDVJLfIRFOY",
+        "permalink": "https://youtube.com/shorts/iDVJLfIRFOY",
+        "kind": "shorts",
+        "at": 1790929307
+      },
+      "tiktok": {
+        "id": "7691982868456754453",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7691982868456754453",
+        "kind": "video",
+        "at": 1790929439
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790929449
   }
 ]

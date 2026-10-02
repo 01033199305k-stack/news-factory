@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-02-news-south-korea-ukraine-pow-row",
+  "topic": "우크라이나 포로 이송 갈등 대한민국 대통령 경고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 11:56 KST",
+  "source": "BBC·Reuters·Al Jazeera 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxOSzlaTTRDV1JLbWlwX2lrb0dzVGVDN0FuLXdlYTRKc1A3cmt5dVpKNTQ5RU4wSENJTzVrMGp4U1BiS0wtTFMzczY5Sll0dk5CRUR5T3AxMERQNDE0MjBUZXlEWDdSRHRSYnl6bkxQcm1jSEJkZlVqM2k2aEVMODNYTWw0LXFYZkFlaTRLQ1ZHVDN3MWwxdnpCX0hfaGNtZThPZmhCNtIBqgFBVV95cUxOUnZDXzlFN1ZmcHlqenFaX0dUUExNQ0xkM3FRXzNTUFN0eXo2NTJDZHpuVjVzTTJOU3BiYzNGNm45d1NmeDNHNXJBZDlYeWFCOXQ0VU9PX0s3eFB2MHo0N2swd1NfbXRZdjVHalVveENGUXB5eGhKWlJiV2VjWnR3N0xVdHYyYjQzbkVmX2Jsb1NlNElrbDFXMUNSRXNpVXlnQ3g2aFBTZVNxdw",
+    "related": [
+      [
+        "Row between Ukraine, South Korea mounts over North Korean POWs",
+        "aljazeera.com"
+      ],
+      [
+        "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "BBC"
+      ],
+      [
+        "South Korean President Lee warns of 'measures' against Ukraine over prisoner row, demands apology",
+        "CNBC"
+      ],
+      [
+        "South Korea's Lee threatens action against Ukraine over transfer of North Koreans",
+        "Reuters"
+      ],
+      [
+        "Seoul warns of 'further measures' if Kyiv refuses public apology",
+        "Euronews.com"
+      ]
+    ],
+    "event_key": "south-korea-ukraine-pow-row"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라이나 포로 이송 갈등\n[[대한민국 대통령]] 경고",
+      "sub": "한국 정부는 사과가 없으면 추가 조치에 나서겠다고 밝혔습니다",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "북한군 포로"
+        }
+      ],
+      "alt": "우크라이나 포로 이송 갈등 대한민국 대통령 경고",
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울",
+      "video_only": true,
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공개 사과 요구",
+          "d": "한국 정부는 우크라이나 측에 사과를 요구했습니다 (CNBC·유로뉴스)."
+        },
+        {
+          "t": "추가 조치 시사",
+          "d": "이 대통령은 우크라이나가 사과하지 않을 경우 추가 조치를 취하겠다고 경고했습니다 (BBC·CNBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "북한군 포로 이송 관련 갈등 발생",
+        "한국 정부의 사과 요구",
+        "우크라이나 측 사과 거부 시 추가 조치 경고"
+      ],
+      "unconfirmed": [
+        "한국 정부의 구체적인 추가 조치 내용"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNBC",
+        "Euronews.com",
+        "Reuters",
+        "aljazeera.com",
+        "2026.10.02 17:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 한국 정부, 북한군 포로 이송 갈등 관련 우크라이나에 사과 요구 후 추가 조치 경고\n\n· 우크라이나의 북한군 포로 이송을 두고 양국 간 갈등이 고조되고 있습니다 (알자지라·로이터)\n· 이 대통령은 우크라이나 측의 사과를 요구하며 거부 시 추가 조치에 나서겠다고 밝혔습니다 (BBC·CNBC)\n\n🇰🇷 한국 정부는 우크라이나가 사과하지 않을 경우 추가 조치를 취하겠다고 경고했습니다\n\n우크라이나와 북한군 포로 이송을 둘러싼 갈등에 대해 어떻게 생각하시나요?\n출처: 알자지라·BBC·CNBC·로이터·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "대한민국 정부는 우크라이나와 북한군 포로 문제를 두고 갈등을 빚고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 한국 정부가 우크라이나 측에 공식 사과를 요구했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이 대통령은 우크라이나가 사과하지 않을 경우 추가적인 조치를 취하겠다고 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국 정부의 구체적인 추가 조치 내용은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
