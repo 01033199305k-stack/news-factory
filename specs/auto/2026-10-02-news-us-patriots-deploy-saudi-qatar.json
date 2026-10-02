@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-02-news-us-patriots-deploy-saudi-qatar",
+  "topic": "미국, 사우디·카타르에 패트리어트 추가 배치 중동 에너지 시설 보호",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 23:30 KST",
+  "source": "Axios·Crude Oil Prices Today·TRT World 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgFBVV95cUxNSUtuejdkcnZhTGIyb1hTbmJjbjJUWnpvTTQ5ZlhQdjZSQlNYWGd0cWxEbWROREpVaklOQkdOV3JpT0hmaENLNkF0eU43M1lOdXNlcENmdjRQRHlWLTRkdkRFN1c1VUtSUUZKMFl6bUpMQVc3YkZuUDZVYjJJTmxUZVJHb005TzM3NjVHRUJlcy1rc3BCOHZtbm5salVZekxCQk1OdnVEVXZRajVrMERreVdZN2RRNVpySkhrNVdn0gHDAUFVX3lxTE9DODZGYUJPc0hFd0pYdlEtTGx6b0xXQWtRalJZbEFPUzJsNUt5bUZWcEdfb05DYTVmMHNRMlR0bnRmSVNfQXl1aXNaLVptS0FQM01zb2tPWUhJLUJfVHdVNHVZYkFqaTdIVXJUTGJaYndrMFZ5VkJnT0JEaWJUVEdlRE55NWdtd05fSVlIVXQwR0phc09QTHdyNk1RQjZRdDZHTHJYZ205SWphaUtNMllEc05oQVhGcndHS3o3aXNueDZlRQ",
+    "related": [
+      [
+        "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
+        "Crude Oil Prices Today | OilPrice.com"
+      ],
+      [
+        "Scoop: U.S. sent more Patriots to protect Saudi, Qatari energy sites",
+        "Axios"
+      ],
+      [
+        "US deploys two more Patriot batteries to Saudi Arabia and Qatar to defend energy sites -- report",
+        "The Times of Israel"
+      ],
+      [
+        "Gulf oil infrastructure at risk as US rushes Patriot missiles to Saudi Arabia, Qatar amid Iran tensions",
+        "timesofindia.indiatimes.com"
+      ],
+      [
+        "US sends additional Patriot batteries to Saudi, Qatar to protect energy sites: report",
+        "TRT World"
+      ]
+    ],
+    "event_key": "us-patriots-deploy-saudi-qatar"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 사우디·카타르에 [[패트리어트]] 추가 배치\n중동 에너지 시설 보호",
+      "sub": "이란 긴장 고조 속 방공망 강화 조치",
+      "chips": [
+        {
+          "k": "배치",
+          "v": "패트리어트 포대 추가 (Axios)"
+        }
+      ],
+      "alt": "미국, 사우디·카타르에 패트리어트 추가 배치 중동 에너지 시설 보호",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리아디",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리아디"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "보호 대상",
+          "d": "사우디아라비아와 카타르의 에너지 시설 방어 (Axios·타임스오브이스라엘)."
+        },
+        {
+          "t": "배경",
+          "d": "이란과의 긴장이 고조되는 가운데 걸프 지역 에너지 인프라 관련 조치 (타임스오브인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국의 사우디 및 카타르 패트리어트 포대 추가 배치",
+        "에너지 시설 방어 목적",
+        "이란 긴장 고조 대응"
+      ],
+      "unconfirmed": [
+        "추가 병력 파견 규모 및 구체적 배치 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Axios",
+        "Crude Oil Prices Today | OilPrice.com",
+        "TRT World",
+        "The Times of Israel",
+        "timesofindia.indiatimes.com",
+        "2026.10.03 01:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국, 사우디·카타르에 [[패트리어트]] 추가 배치\n\n· 미국이 사우디아라비아와 카타르의 에너지 시설을 방어하기 위해 패트리어트 포대를 추가로 보냈습니다 (Axios·타임스오브이스라엘)\n· 이란과의 긴장 속 걸프 지역 에너지 인프라 관련 조치입니다 (타임스오브인디아)\n\n미국이 중동 내 에너지 거점에 방공망을 강화한 이번 조치가 향후 지역 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: 오일프라이스닷컴·Axios·타임스오브이스라엘·타임스오브인디아·TRT월드 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 사우디아라비아와 카타르에 패트리어트 방공 포대를 추가로 배치했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "Axios는 이란과의 긴장 속에서 에너지 시설을 보호하기 위한 조치라고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 추가 병력 투입 규모는 아직 공식 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

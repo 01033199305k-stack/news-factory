@@ -4899,5 +4899,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790954180
+  },
+  {
+    "slug": "2026-10-02-news-congo-ebola-outbreak-deaths-4000",
+    "event_ms": 1790947020000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 콩고 에볼라 사망자 4000명 돌파\n\n· 에볼라 사망자가 4000명을 넘어섰으며 (AP·CBS), 기록상 가장 빠른 확산세를 보이고 있습니다 (CBS)\n· 에볼라 치료 센터가 불에 타 소실되었습니다 (AP 통신)\n· 에볼라 감염 사례가 8000건을 넘어선 가운데 당국이 통제에 난항을 겪고 있으며 (알자지라), 수천 명의 주민들이 캠프를 탈출해 확산 우려가 커지고 있습니다 (로이터)\n\n출처: AP·CBS·로이터·알자지라·ABC뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "콩고민주공화국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17875959441572634",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd_4w8unJ3K",
+        "kind": "carousel",
+        "at": 1790957606
+      },
+      "instagram": {
+        "id": "18096636446396782",
+        "permalink": "https://www.instagram.com/reel/Dd_5O-AjXWl/",
+        "kind": "reel",
+        "at": 1790957874
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1790957950
+      },
+      "tiktok": {
+        "id": "7692105897060912385",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692105897060912385",
+        "kind": "video",
+        "at": 1790958088
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790958098
+  },
+  {
+    "slug": "2026-10-02-news-us-patriots-deploy-saudi-qatar",
+    "event_ms": 1790951400000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국, 사우디·카타르에 패트리어트 추가 배치\n\n· 미국이 사우디아라비아와 카타르의 에너지 시설을 방어하기 위해 패트리어트 포대를 추가로 보냈습니다 (Axios·타임스오브이스라엘)\n· 이란과의 긴장 속 걸프 지역 에너지 인프라 관련 조치입니다 (타임스오브인디아)\n\n미국이 중동 내 에너지 거점에 방공망을 강화한 이번 조치가 향후 지역 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: 오일프라이스닷컴·Axios·타임스오브이스라엘·타임스오브인디아·TRT월드 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18086162603700787",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dd_40_hHOrD",
+        "kind": "carousel",
+        "at": 1790957642
+      },
+      "instagram": {
+        "id": "17950129911328327",
+        "permalink": "https://www.instagram.com/reel/Dd_5XJ_jDV_/",
+        "kind": "reel",
+        "at": 1790957940
+      },
+      "youtube": {
+        "id": "kIQkXc7G1vE",
+        "permalink": "https://youtube.com/shorts/kIQkXc7G1vE",
+        "kind": "shorts",
+        "at": 1790957957
+      },
+      "tiktok": {
+        "id": "7692106468971269397",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692106468971269397",
+        "kind": "video",
+        "at": 1790958219
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790958229
   }
 ]

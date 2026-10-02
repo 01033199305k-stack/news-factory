@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-02-news-congo-ebola-outbreak-deaths-4000",
+  "topic": "콩고 에볼라 사망자 4000명 돌파 치료센터 소실·통제 난항",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 22:17 KST",
+  "source": "ABC News·AP News·CBS News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxNR1VBSzQ3aTR1RkVYN2ZCOFBNdnhSQmVIYU1PZWdLNlo5VGxVWU1zS2ZMSXBFOEptUTFiQW4xREZDRUVNbGwzeEtpcFBRckJZdkRUV0s0d2ZNQnZEY0VfbG53QVF5Y2FFZmZmcDRiRENqaVFmdG1LNE9UcUlvOEtzRzRHYS1lbE9pdnZVdVJTSQ",
+    "related": [
+      [
+        "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
+        "AP News"
+      ],
+      [
+        "Ebola death toll in Congo tops 4,000 in fastest-growing outbreak of the disease on record",
+        "CBS News"
+      ],
+      [
+        "Thousands flee Congo Ebola-hit camp, stoking concerns about disease spread",
+        "reuters.com"
+      ],
+      [
+        "Ebola cases surpass 8,000 as DRC struggles to control outbreak",
+        "aljazeera.com"
+      ],
+      [
+        "Congo's Ebola outbreak has recorded over 4,000 deaths as authorities struggle to contain the virus",
+        "ABC News - Breaking News, Latest News and Videos"
+      ]
+    ],
+    "event_key": "congo-ebola-outbreak-deaths-4000"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "콩고 에볼라 사망자 [[4000명]] 돌파\n치료센터 소실·통제 난항",
+      "sub": "감염 사례 8000건 넘어선 기록상 가장 빠른 확산세",
+      "chips": [
+        {
+          "k": "사망자",
+          "v": "4000명 이상 (AP·CBS)"
+        },
+        {
+          "k": "감염 사례",
+          "v": "8000건 이상 (알자지라)"
+        }
+      ],
+      "alt": "콩고 에볼라 사망자 4000명 돌파 치료센터 소실·통제 난항",
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "콩고민주공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "콩고민주공화국",
+      "video_only": true,
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "콩고민주공화국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "치료센터 소실",
+          "d": "에볼라 치료 센터가 불에 타 소실되었습니다 (AP 통신)."
+        },
+        {
+          "t": "주민 탈출",
+          "d": "확산 우려 속에 수천 명의 주민들이 캠프를 탈출하고 있습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에볼라 사망자 4000명 초과",
+        "에볼라 감염 사례 8000건 돌파",
+        "치료센터 소실 및 주민 탈출"
+      ],
+      "unconfirmed": [
+        "바이러스 확산의 최종 통제 시점",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "CBS News",
+        "aljazeera.com",
+        "reuters.com",
+        "2026.10.03 01:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 콩고 에볼라 사망자 [[4000명]] 돌파\n\n· 에볼라 사망자가 4000명을 넘어섰으며 (AP·CBS), 기록상 가장 빠른 확산세를 보이고 있습니다 (CBS)\n· 에볼라 치료 센터가 불에 타 소실되었습니다 (AP 통신)\n· 에볼라 감염 사례가 8000건을 넘어선 가운데 당국이 통제에 난항을 겪고 있으며 (알자지라), 수천 명의 주민들이 캠프를 탈출해 확산 우려가 커지고 있습니다 (로이터)\n\n출처: AP·CBS·로이터·알자지라·ABC뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "콩고민주공화국에서 에볼라 사망자가 4000명을 넘어섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS 뉴스는 이번 유행이 기록상 가장 빠른 속도로 번지고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "에볼라 감염 사례는 8000건을 돌파했으며, 당국이 통제에 난항을 겪는 가운데 치료 센터가 불에 탔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
