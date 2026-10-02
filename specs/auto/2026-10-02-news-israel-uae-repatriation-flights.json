@@ -1,0 +1,132 @@
+{
+  "slug": "2026-10-02-news-israel-uae-repatriation-flights",
+  "topic": "이스라엘, 아랍에미리트 체류객 귀환을 위한 구조 항공편 운항",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 21:39 KST",
+  "source": "AP News·The New York Times·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigAJBVV95cUxONUtQZE9uVjlvQnhURktvZFNkNjJPX084UVpuMFJWMTVpYnotLVhHWXVnT1JLY3RFMm1CdVU4N0xzMm94VERoWjM4c1RtQy1QXzBRWXJLa3BIOXJjNWV3ZHdBWVY3QThOajRLUFBpYlVlWHZnMzhGY0htVXVDM1d1bXdnTlVkZXRmY09mWnUzUmxXbi1Ibk04aGlPWXVOeGY5c282LUdrbVNSS25FbnlWQVJWTGFQRnJ0cVQ5ZkxUeUNSLTdyc3l2RlhfNzNibGJDaTIzTHFRVzlGalFRZTlhcTU0S2tJX25HN3d6ZF9BQzRPdzRvVk5DWkozRW1PYWJj0gGHAkFVX3lxTE5qTXU2ZnZ6OC11N0tXTVc1OVczZGotYWV1Y1dmOEJOb3MyZjNnb0pZNVRmWUJNWGZKY2lBM3BZUXJoWnV5dG5lSndlSzdaTjFkSEhzN3ZlZi1GU20xYTJZekJpNWlOd0MtZ2labWZGQmtXcmVSVW81aDFJVnlwdWZGcUlCUzNuWm1XSzFXUlA4SXUtWXdyalo5ck5RblYwR185RFdnZy1hWEZ5MGpvdlRmWUNfR3dzV1RtSm9STnFqSGxWZjkyYnJRYUZ5YkNfU1k2MzlqZEt6T2JJek5qc2tOYVpsOHNNZnFleHpjV3FHYy03Q0RiNVBNNV9yMzJ4dUZjWDhnZm1J",
+    "related": [
+      [
+        "Flydubai Incident LIVE Updates: After Flydubai scare, Israel to launch repatriation flights for stranded passengers",
+        "The Indian Express"
+      ],
+      [
+        "Airlines Set to Bring Israelis Back From U.A.E. After FlyDubai Cockpit Attack",
+        "The New York Times"
+      ],
+      [
+        "Arkia, Israir indicate UAE rescue flights are a go after El Al scraps its Friday repatriations",
+        "The Times of Israel"
+      ],
+      [
+        "Israel to start repatriation flights for passengers stranded in UAE following FlyDubai attack",
+        "AP News"
+      ],
+      [
+        "Thousands stranded in UAE as Israeli rescue flights cancelled over landing clearance",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "israel-uae-repatriation-flights"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘, 아랍에미리트 체류객\n귀환을 위한 [[구조 항공편]] 운항",
+      "sub": "여객기 조종사 피습 사건 후속 조치",
+      "chips": [],
+      "alt": "이스라엘, 아랍에미리트 체류객 귀환을 위한 구조 항공편 운항",
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n텔아비브",
+      "video_only": true,
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "텔아비브"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "운항 계획 변경",
+          "d": "엘알 항공이 금요일 귀환편을 취소한 가운데 아르키아와 이스라에어 등이 아랍에미리트 구조 비행을 진행한다고 타임스 오브 이스라엘이 보도했습니다."
+        },
+        {
+          "t": "현지 상황",
+          "d": "착륙 허가 문제 등으로 아랍에미리트 현지에 수천 명의 승객이 발이 묶였다고 타임스 오브 인디아가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이스라엘의 아랍에미리트 체류객 구조 항공편 운항 개시 (AP·뉴욕타임스)",
+        "현지에 수천 명 승객 체류 (타임스 오브 인디아)"
+      ],
+      "unconfirmed": [
+        "모든 체류 승객의 정확한 귀국 완료 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "The Indian Express",
+        "The New York Times",
+        "The Times of India",
+        "The Times of Israel",
+        "2026.10.02 22:59 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘, 아랍에미리트 체류객 귀환 위한 구조 항공편 운항 개시 (AP·뉴욕타임스)\n\n· 아르키아 및 이스라에어 등의 UAE 구조 비행 진행 (타임스 오브 이스라엘)\n· 착륙 허가 문제로 현지에 수천 명 승객 체류 (타임스 오브 인디아)\n\n출처: AP·뉴욕타임스·타임스 오브 인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘이 아랍에미리트에 발이 묶인 승객들을 태워 오기 위해 구조 항공편 운항을 시작했다고 에이피 통신이 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "아르키아와 이스라에어 항공사가 UAE 구조 비행을 진행합니다.",
+      "card": "points"
+    },
+    {
+      "text": "착륙 허가 문제로 현지에는 수천 명의 승객이 체류하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "모든 체류 승객의 정확한 귀국 완료 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

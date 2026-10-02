@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-02-news-mecca-defense-alliance-meeting",
+  "topic": "메카 방위 동맹 회의 개최 사우디 왕세자 안보 수호 강조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.02 22:03 KST",
+  "source": "Al Jazeera·The Times of India·Arab Center Washington DC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiwJBVV95cUxQX1EtU1R5ZncyV01hOEw5bTZYZ0NqUmNhZFkxSS0xMEk3bmk5RVM3bHdWa3BhUWg1TEVRR2kxTW5ORVNVVGhkYnBiMlhwMTk2ZTlIZjZYbHlDRXVsUXhHVkNpLWM5dlkxZ0p3Ym1nS3JTdnhic2ttV29RQnhGRS1kd3AwV21hWTF4RzViYlRBSWZpQ2dTTDV0RGpHYy1jOHdIZWQtY2V5U0lYeS1KZEt3UGhmSnJmTUZvX1pGX0pKTFJITDYtU3VRWnlYcVFtN095SjVNa3BRdFdrN21GUUthc1c0TERiOTI1a284WlI2RmRFYUcya0t4dHMwRUJLSk94RTNXRnBaSk9rcnc",
+    "related": [
+      [
+        "'Will discuss political engagement with Houthis': Pakistan reveals agenda of emergency Mecca pact meet",
+        "The Times of India"
+      ],
+      [
+        "Saudi Arabia not to compromise on security as Houthis choose ‘chaos’: MBS",
+        "Al Jazeera"
+      ],
+      [
+        "PAKISTAN FOREIGN MINISTER: WON'T BE POSSIBLE TO ENTERTAIN NEW REQUESTS TO JOIN UNTIL PACT IS FULLY OPERATIONAL, WHICH CAN TAKE UPTO A YEAR",
+        "news.cgtn.com"
+      ],
+      [
+        "Makkah Defence Alliance aims to 'bolster regional stability', says Saudi crown prince",
+        "Dawn"
+      ],
+      [
+        "How Smaller GCC States Are Navigating the Mecca Defense Agreement",
+        "Arab Center Washington DC"
+      ]
+    ],
+    "event_key": "mecca-defense-alliance-meeting"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "메카 방위 동맹 회의 개최\n사우디 왕세자 [[안보 수호]] 강조",
+      "sub": "파키스탄 외무장관 동맹 가입 입장 표명",
+      "chips": [],
+      "alt": "메카 방위 동맹 회의 개최 사우디 왕세자 안보 수호 강조",
+      "map": {
+        "lat": 21.420847,
+        "lon": 39.826869,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n메카",
+      "video_only": true,
+      "map": {
+        "lat": 21.420847,
+        "lon": 39.826869,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "메카"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사우디 입장",
+          "d": "사우디아라비아는 후티가 '혼란'을 선택한 가운데 안보와 타협하지 않겠다고 무함마드 빈 살만 왕세자가 밝혔습니다."
+        },
+        {
+          "t": "파키스탄 입장",
+          "d": "파키스탄 외무장관은 협정이 완전히 가동될 때까지(최대 1년 소요 가능) 신규 가입 요청을 받기 어렵다고 전했습니다."
+        },
+        {
+          "t": "회의 의제",
+          "d": "이번 긴급 메카 협정 회의에서는 후티와의 정치적 관여에 대해 논의할 예정이라고 타임스 오브 인디아가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "메카 방위 동맹 회의 개최 (타임스 오브 인디아)",
+        "사우디 왕세자의 안보 수호 의지 표명 (알자지라)"
+      ],
+      "unconfirmed": [
+        "메카 방위 동맹의 향후 구체적인 대응 조치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Arab Center Washington DC",
+        "Dawn",
+        "The Times of India",
+        "news.cgtn.com",
+        "2026.10.02 23:00 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 메카 방위 동맹 회의 개최, 사우디 왕세자 안보 수호 강조 (알자지라)\n\n· 후티가 '혼란'을 선택한 데 대해 안보 타협 불가 방침 천명 (알자지라)\n· 파키스탄 외무장관, 협정 완전 가동 전까지 신규 가입 수용 어려움 표명 (CGTN)\n\n출처: 알자지라·타임스 오브 인디아·CGTN 보도 종합\n\n대한민국 독자 여러분, 중동 지역의 안보 동맹 재편과 방위 협력 강화 움직임에 대해 어떻게 보십니까?",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아 메카에서 열릴 긴급 협정 회의의 의제를 파키스탄이 공개했다고 타임스 오브 인디아 등이 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "무함마드 빈 살만 사우디 왕세자는 후티가 혼란을 선택한 상황에서 안보와 타협하지 않겠다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "파키스탄 외무장관은 협정이 완전히 가동되기까지 최대 1년이 걸릴 수 있어 신규 가입 요청을 받기 어렵다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "협정의 구체적인 향후 대응 조치는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
