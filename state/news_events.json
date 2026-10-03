@@ -1085,5 +1085,15 @@
     "at": 1791028280.7561815,
     "country": "스페인",
     "category": "사고"
+  },
+  {
+    "event_key": "us-russia-ukraine-lukoil-deal",
+    "topic": "우크라 협상에 수십억달러 석유딜",
+    "slug": "2026-10-03-news-us-russia-ukraine-lukoil-deal",
+    "cluster": "CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhqX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM",
+    "badge": "brief",
+    "at": 1791036750.007852,
+    "country": "미국",
+    "category": "국제"
   }
 ]

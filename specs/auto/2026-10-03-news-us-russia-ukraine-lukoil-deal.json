@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-03-news-us-russia-ukraine-lukoil-deal",
+  "topic": "우크라 협상에 수십억달러 석유딜",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 19:30 KST",
+  "source": "Reuters·The New York Times·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhqX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM",
+    "related": [
+      [
+        "US-Russia talks on Ukraine involve multi-billion dollar oil deal, NYT reports",
+        "Reuters"
+      ],
+      [
+        "U.S.-Russia Talks on Ukraine Now Involve an Oil Deal Tied to Trump Allies",
+        "The New York Times"
+      ],
+      [
+        "Trump’s Ukraine peace talks with Russia expand to multibillion-dollar Lukoil deal: Report",
+        "Firstpost"
+      ],
+      [
+        "US-Russia talks on Ukraine now involve multi-billion dollar oil deal tied to Trump & his allies",
+        "The Times of India"
+      ],
+      [
+        "The sale of Lukoil's foreign assets has been included in Russia-U.S. talks on Ukraine",
+        "1News.az"
+      ]
+    ],
+    "event_key": "us-russia-ukraine-lukoil-deal"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라 협상에\n[[수십억달러 석유딜]]",
+      "sub": "미·러 대화에 러시아 루크오일 자산 매각 연계",
+      "chips": [
+        {
+          "k": "규모",
+          "v": "수십억 달러"
+        }
+      ],
+      "alt": "우크라 협상에 수십억달러 석유딜",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "트럼프 측근 연루",
+          "d": "이번 석유 거래는 트럼프 측근들과 연관되어 있다고 뉴욕타임스가 보도했습니다."
+        },
+        {
+          "t": "루크오일 자산 매각",
+          "d": "양국의 우크라이나 관련 협상에는 러시아 석유기업 루크오일의 해외 자산 매각이 포함되어 있습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미·러 우크라이나 협상 진행",
+        "석유기업 자산 매각 연계"
+      ],
+      "unconfirmed": [
+        "최종 협상 타결 여부",
+        "우크라이나 정부의 공식 입장",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "1News.az",
+        "Firstpost",
+        "Reuters",
+        "The New York Times",
+        "The Times of India",
+        "2026.10.03 23:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미·러 우크라이나 협상에 수십억 달러 규모 석유 딜 연계\n\n· 미국과 러시아의 우크라이나 관련 협상에 러시아 석유기업 루크오일의 자산 매각이 포함되었다고 뉴욕타임스가 보도했습니다. (로이터)\n· 이번 석유 거래는 트럼프 측근들과 연관되어 있는 것으로 전해졌습니다. (NYT)\n· 루크오일의 해외 자산 매각 방안이 우크라이나 평화 협상으로 확대되었습니다. (퍼스트포스트)\n\n미국과 러시아의 석유 거래가 우크라이나 전쟁 종식의 실마리가 될 수 있을까요?\n\n출처: 로이터·뉴욕타임스·퍼스트포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 평화 협상에 수십억 달러 규모 석유 거래가 연계되었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스는 양국 협상에 러시아 석유기업 루크오일의 해외 자산 매각이 포함되었다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 거래는 트럼프 측근들과 연관되어 있는 것으로 알려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 협상 타결 여부와 우크라이나 정부의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
