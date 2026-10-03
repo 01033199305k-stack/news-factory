@@ -1025,5 +1025,15 @@
     "at": 1790998408.6182244,
     "country": "태국",
     "category": "재난"
+  },
+  {
+    "event_key": "openai-fires-safety-researchers-info-leak",
+    "topic": "오픈AI, 연구원 3명 해고 사내 기밀 유출 혐의",
+    "slug": "2026-10-03-news-openai-fires-safety-researchers-info-leak",
+    "cluster": "CBMikgFBVV95cUxPN20tZjFiX1d5WEdVanJFQWoxNEdpalhTNzJPb3Rlc0tPOERjVW00cS01YkxudVI1LXNHQnBhVUJ2aDhSdFJKTm96eF9wZ2JVVDF0N2NibE9oRFdhQUg1ZEIxejNsUV9kalRvR1ZRaFg1UThCN1p2YVFxNjlxa0dZRWpTdGVONkYyZnNmTWJpc2c3UQ",
+    "badge": "brief",
+    "at": 1791005249.8897736,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

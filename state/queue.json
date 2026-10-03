@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-03-news-openai-fires-safety-researchers-info-leak",
+    "event_ms": 1791005249889,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 오픈AI가 기밀 유출 혐의로 연구원 3명을 해고했습니다.\n\n· 민감한 내부 기밀 정보를 부적절하게 다룬 혐의로 안전 연구원 3명을 해고했습니다 (블룸버그·폭스 비즈니스).\n· 안전팀을 이끌던 데이비드 로빈슨 리더도 사임 의사를 밝혔습니다 (비즈니스 인사이더).\n· 민감한 정보 취급 부주의 및 사내 정보 공유 혐의가 적용되었습니다 (BBC·WSJ).\n\n인공지능 기업의 내부 보안과 안전성 관리를 어떻게 보십니까?\n\n출처: 블룸버그·WSJ·비즈니스 인사이더·BBC·폭스 비즈니스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18105028739365751",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeBTui9kW-i",
+        "kind": "carousel",
+        "at": 1791005302
+      },
+      "instagram": {
+        "id": "18344624335285795",
+        "permalink": "https://www.instagram.com/reel/DeBT_x_CJAw/",
+        "kind": "reel",
+        "at": 1791005464
+      },
+      "youtube": {
+        "id": "u4Y09ifNejc",
+        "permalink": "https://youtube.com/shorts/u4Y09ifNejc",
+        "kind": "shorts",
+        "at": 1791005481
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

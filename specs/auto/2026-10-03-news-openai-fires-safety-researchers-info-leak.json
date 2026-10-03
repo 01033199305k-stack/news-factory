@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-03-news-openai-fires-safety-researchers-info-leak",
+  "topic": "오픈AI, 연구원 3명 해고 사내 기밀 유출 혐의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 08:15 KST",
+  "source": "Bloomberg.com·WSJ·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxPN20tZjFiX1d5WEdVanJFQWoxNEdpalhTNzJPb3Rlc0tPOERjVW00cS01YkxudVI1LXNHQnBhVUJ2aDhSdFJKTm96eF9wZ2JVVDF0N2NibE9oRFdhQUg1ZEIxejNsUV9kalRvR1ZRaFg1UThCN1p2YVFxNjlxa0dZRWpTdGVONkYyZnNmTWJpc2c3UQ",
+    "related": [
+      [
+        "OpenAI safety leader David Robinson resigns as the team's upheaval mounts",
+        "Business Insider"
+      ],
+      [
+        "OpenAI fires workers for 'mishandling sensitive information'",
+        "bbc.com"
+      ],
+      [
+        "The Morning Risk Report: OpenAI Fires Researchers After Alleged Information-Sharing",
+        "WSJ"
+      ],
+      [
+        "OpenAI Parts Ways With 3 Workers Over Mishandling Information",
+        "Bloomberg.com"
+      ],
+      [
+        "OpenAI fires 3 safety researchers accused of sharing confidential company information: report",
+        "Fox Business"
+      ]
+    ],
+    "event_key": "openai-fires-safety-researchers-info-leak"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "오픈AI, [[연구원 3명 해고]]\n사내 기밀 유출 혐의",
+      "sub": "안전팀 이끌던 리더도 사임하며 내홍 격화",
+      "chips": [
+        {
+          "k": "해고",
+          "v": "3명"
+        }
+      ],
+      "alt": "오픈AI, 연구원 3명 해고 사내 기밀 유출 혐의",
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n샌프란시스코",
+      "video_only": true,
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "샌프란시스코"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "정보 유출 혐의 조사",
+          "d": "오픈AI는 민감한 사내 기밀 정보를 부적절하게 공유한 혐의로 안전 연구원 3명을 해고했다고 블룸버그와 폭스 비즈니스 등이 전했습니다."
+        },
+        {
+          "t": "안전 리더 사임",
+          "d": "안전팀을 이끌어 온 데이비드 로빈슨 리더도 자리에서 물러났다고 비즈니스 인사이더가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "오픈AI 직원 3명 해고 조치",
+        "안전 리더 데이비드 로빈슨 사임"
+      ],
+      "unconfirmed": [
+        "유출된 기밀 정보의 구체적 내용",
+        "향후 안전팀 조직 개편 방향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Business Insider",
+        "Fox Business",
+        "WSJ",
+        "bbc.com",
+        "2026.10.03 14:27 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 오픈AI가 기밀 유출 혐의로 연구원 3명을 해고했습니다.\n\n· 민감한 내부 기밀 정보를 부적절하게 다룬 혐의로 안전 연구원 3명을 해고했습니다 (블룸버그·폭스 비즈니스).\n· 안전팀을 이끌던 데이비드 로빈슨 리더도 사임 의사를 밝혔습니다 (비즈니스 인사이더).\n· 민감한 정보 취급 부주의 및 사내 정보 공유 혐의가 적용되었습니다 (BBC·WSJ).\n\n인공지능 기업의 내부 보안과 안전성 관리를 어떻게 보십니까?\n\n출처: 블룸버그·WSJ·비즈니스 인사이더·BBC·폭스 비즈니스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "오픈AI가 민감한 사내 기밀을 다룬 안전 연구원 3명을 해고했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "안전팀의 데이비드 로빈슨 리더도 사임했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "블룸버그와 WSJ는 회사 내부 정보를 부적절하게 공유한 혐의라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "유출된 기밀의 세부 내용은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
