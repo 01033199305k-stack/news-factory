@@ -1125,5 +1125,15 @@
     "at": 1791051077.4823806,
     "country": "러시아",
     "category": "재난"
+  },
+  {
+    "event_key": "spain_housing_protests",
+    "topic": "스페인 주택난 분노 폭발 마드리드서 수십만 명 시위",
+    "slug": "2026-10-04-news-spain-housing-protests",
+    "cluster": "CBMiywFBVV95cUxNU04yZFFzZEF3dGl3ellPdlU0VjVRcnZ0OFI4ejRBS1BuVnlwYjlXTHNPX2tfSU91R3BpZnZoWk9JTGxkMHplTlNTZEl0RWRQMkt2MjZ2LWlES3hUWTFVdTVINVBRSVJ1MldvR1NLX1FHcWNYYmQ2MXpCWGxxSkhKSDlBMk1peUFIVzEzWFBDUTRyWjB0VjktNDcwTWtXTk96VWtWSk5OODdUYUVOSmczUlpmeEIzdUVJOFJkc3FHakJGVUpWY1gzeU5rWQ",
+    "badge": "brief",
+    "at": 1791058091.4375958,
+    "country": "스페인",
+    "category": "국제"
   }
 ]

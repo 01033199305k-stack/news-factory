@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-04-news-spain-housing-protests",
+  "topic": "스페인 주택난 분노 폭발 마드리드서 수십만 명 시위",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.04 04:18 KST",
+  "source": "Al Jazeera·BBC·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiywFBVV95cUxNU04yZFFzZEF3dGl3ellPdlU0VjVRcnZ0OFI4ejRBS1BuVnlwYjlXTHNPX2tfSU91R3BpZnZoWk9JTGxkMHplTlNTZEl0RWRQMkt2MjZ2LWlES3hUWTFVdTVINVBRSVJ1MldvR1NLX1FHcWNYYmQ2MXpCWGxxSkhKSDlBMk1peUFIVzEzWFBDUTRyWjB0VjktNDcwTWtXTk96VWtWSk5OODdUYUVOSmczUlpmeEIzdUVJOFJkc3FHakJGVUpWY1gzeU5rWQ",
+    "related": [
+      [
+        "Tens of thousands protest against Spain's housing crisis following eviction of 87-year-old woman",
+        "Sky News"
+      ],
+      [
+        "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+        "BBC"
+      ],
+      [
+        "Tens of thousands protest in Spain after failed housing reforms",
+        "Al Jazeera"
+      ],
+      [
+        "The right and wrong lessons to learn from Spain’s housing crisis",
+        "Financial Times"
+      ],
+      [
+        "Nearly 500,000 people protest in Madrid over Spain's housing crisis",
+        "Euronews.com"
+      ]
+    ],
+    "event_key": "spain_housing_protests"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "스페인 주택난 분노 폭발\n마드리드서 [[수십만 명]] 시위",
+      "sub": "주택 개혁 실패와 87세 여성 퇴거가 원인이 됐습니다",
+      "chips": [
+        {
+          "k": "시위 규모",
+          "v": "수십만 명 (Euronews)"
+        },
+        {
+          "k": "원인",
+          "v": "주택 개혁 실패"
+        }
+      ],
+      "alt": "스페인 주택난 분노 폭발 마드리드서 수십만 명 시위",
+      "map": {
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n마드리드",
+      "video_only": true,
+      "map": {
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마드리드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "시위 발생",
+          "d": "스페인 마드리드 등에서 주택 위기에 항의하는 대규모 시위가 벌어졌습니다 (Euronews·BBC)."
+        },
+        {
+          "t": "배경",
+          "d": "87세 여성의 퇴거와 주택 개혁 실패가 원인으로 작용했습니다 (Sky News·Al Jazeera)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "마드리드 및 스페인 내 대규모 시위",
+        "주택 개혁 실패 및 87세 여성 퇴거",
+        "수만~수십만 명 규모 참여 (매체별 집계 차이 있음)"
+      ],
+      "unconfirmed": [
+        "정부의 후속 주택 안정화 대책",
+        "추가 시위 확산 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Euronews.com",
+        "Financial Times",
+        "Sky News",
+        "2026.10.04 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 스페인 주택난에 분노한 수만에서 수십만 명의 시민이 거리로 나왔습니다\n\n· 마드리드 등 스페인 곳곳에서 주택 위기에 항의하는 대규모 시위가 벌어졌습니다 (Euronews·BBC)\n· 87세 여성의 퇴거와 주택 개혁 실패가 시위를 촉발했습니다 (Sky News·Al Jazeera)\n\n스페인 정부의 주택 정책에 대해 어떻게 생각하십니까?\n\n출처: Euronews·BBC·Al Jazeera·Sky News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인에서 주택난에 항의하는 대규모 시위가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 마드리드 등지에서 수만 명에서 많게는 수십만 명의 시민이 거리로 나왔다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "주택 개혁 실패와 87세 여성의 퇴거가 시위의 원인이 됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정부의 구체적인 후속 대책은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

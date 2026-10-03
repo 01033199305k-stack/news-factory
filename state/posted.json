@@ -5983,5 +5983,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791051431
+  },
+  {
+    "slug": "2026-10-04-news-spain-housing-protests",
+    "event_ms": 1791058091437,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 스페인 주택난에 분노한 수만에서 수십만 명의 시민이 거리로 나왔습니다\n\n· 마드리드 등 스페인 곳곳에서 주택 위기에 항의하는 대규모 시위가 벌어졌습니다 (Euronews·BBC)\n· 87세 여성의 퇴거와 주택 개혁 실패가 시위를 촉발했습니다 (Sky News·Al Jazeera)\n\n스페인 정부의 주택 정책에 대해 어떻게 생각하십니까?\n\n출처: Euronews·BBC·Al Jazeera·Sky News 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "스페인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18108910982185106",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeC4hTMgW-z",
+        "kind": "carousel",
+        "at": 1791058142
+      },
+      "instagram": {
+        "id": "18129224242759657",
+        "permalink": "https://www.instagram.com/reel/DeC4x46kuU6/",
+        "kind": "reel",
+        "at": 1791058298
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791058309
+      },
+      "tiktok": {
+        "id": "7692536618992864513",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692536618992864513",
+        "kind": "video",
+        "at": 1791058430
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791058440
   }
 ]
