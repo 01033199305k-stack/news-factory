@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-03-news-lithuania-vilnius-airport-air-alert-nato",
+  "topic": "리투아니아 공항 상공에 미확인 비행체로 폐쇄",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 17:54 KST",
+  "source": "The Independent·AOL.com·LRT 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiugFBVV95cUxOdVY3dE5KcDNhZndxZnJvWTN6Sl9hQVU4cTBBRE00WFUxS2FYc2dHeEtRUG9INlJOOGxHOHIzTEktNFNab3U0ZmtyYVJuazZIU3BkQWdxdkZ4cEJkR3pYZ082NW5kblRQQjdpclI1NjFzb184XzVBUzlOYUxZYUZNTTI3aGdMZE1mWUJCb0JNM1JXWWRoZzZsRnQwYkZDeTFUNnF5b0tjWEh1ZkVwUFJ6UXk3LU1PSzZESVE",
+    "related": [
+      [
+        "Ukraine latest: Zelensky warns Putin is abandoning rules as Russia strikes key bridge",
+        "The Independent"
+      ],
+      [
+        "NATO fighter jets scrambled amid huge attack as people warned 'find a safe place'",
+        "AOL.com"
+      ],
+      [
+        "Lithuania’s authorities issue all-clear following earlier air alert",
+        "LRT"
+      ],
+      [
+        "Vilnius Airport in Lithuania closed over unidentified object in the sky — RMF24",
+        "UA.NEWS"
+      ],
+      [
+        "Nato jets scramble as suspected drone from forces Vilnius Airport to close",
+        "lbc.co.uk"
+      ]
+    ],
+    "event_key": "lithuania-vilnius-airport-air-alert-nato"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "리투아니아 공항 상공에\n[[미확인 비행체]]로 폐쇄",
+      "sub": "나토 전투기 출격 뒤 경보 해제",
+      "chips": [
+        {
+          "k": "공항",
+          "v": "폐쇄"
+        }
+      ],
+      "alt": "리투아니아 공항 상공에 미확인 비행체로 폐쇄",
+      "map": {
+        "lat": 54.6870458,
+        "lon": 25.2829111,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "리투아니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "리투아니아\n빌뉴스",
+      "video_only": true,
+      "map": {
+        "lat": 54.6870458,
+        "lon": 25.2829111,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "빌뉴스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "빌뉴스 공항 폐쇄",
+          "d": "리투아니아 빌뉴스 공항 상공의 미확인 비행체로 인해 공항이 폐쇄됐습니다 (UA.NEWS)."
+        },
+        {
+          "t": "나토 전투기 출격",
+          "d": "드론 의심 비행체로 빌뉴스 공항이 폐쇄되며 나토 전투기가 출격했습니다 (LBC)."
+        },
+        {
+          "t": "공중 경보 발령 후 해제",
+          "d": "리투아니아 당국은 앞선 공중 경보에 이어 경보 해제를 발표했습니다 (LRT)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "빌뉴스 공항 폐쇄",
+        "나토 전투기 출격",
+        "리투아니아 공중 경보 해제 발표"
+      ],
+      "unconfirmed": [
+        "미확인 비행체의 정확한 기종 및 출처",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.com",
+        "LRT",
+        "The Independent",
+        "UA.NEWS",
+        "lbc.co.uk",
+        "2026.10.03 18:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 리투아니아 빌뉴스 공항이 상공의 미확인 비행체로 인해 폐쇄됐습니다.\n\n· 빌뉴스 공항 상공에 미확인 물체가 나타나 공항이 폐쇄됐습니다 (UA.NEWS).\n· 드론 의심 물체로 공항이 폐쇄되며 나토 전투기가 출격했습니다 (LBC).\n· 리투아니아 당국은 앞선 공중 경보에 대해 해제를 발표했습니다 (LRT).\n\n동유럽 상공의 긴장 고조에 대해 어떻게 생각하십니까?\n\n출처: LRT·UA.NEWS·LBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "리투아니아 빌뉴스 공항 상공에 미확인 비행체가 나타나 공항이 폐쇄됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "드론으로 의심되는 비행체로 인해 빌뉴스 공항이 폐쇄됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "나토 전투기가 출격한 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "리투아니아 당국은 앞서 발령된 공중 경보를 해제했습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

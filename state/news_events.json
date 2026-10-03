@@ -1055,5 +1055,15 @@
     "at": 1791011333.5000625,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "lithuania-vilnius-airport-air-alert-nato",
+    "topic": "리투아니아 공항 상공에 미확인 비행체로 폐쇄",
+    "slug": "2026-10-03-news-lithuania-vilnius-airport-air-alert-nato",
+    "cluster": "CBMiugFBVV95cUxOdVY3dE5KcDNhZndxZnJvWTN6Sl9hQVU4cTBBRE00WFUxS2FYc2dHeEtRUG9INlJOOGxHOHIzTEktNFNab3U0ZmtyYVJuazZIU3BkQWdxdkZ4cEJkR3pYZ082NW5kblRQQjdpclI1NjFzb184XzVBUzlOYUxZYUZNTTI3aGdMZE1mWUJCb0JNM1JXWWRoZzZsRnQwYkZDeTFUNnF5b0tjWEh1ZkVwUFJ6UXk3LU1PSzZESVE",
+    "badge": "breaking",
+    "at": 1791018472.2684143,
+    "country": "리투아니아",
+    "category": "국제"
   }
 ]

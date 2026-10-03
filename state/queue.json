@@ -1,7 +1,7 @@
 [
   {
-    "slug": "2026-10-03-news-russia-strikes-kyiv-bridge-2026",
-    "event_ms": 1791008002000,
+    "slug": "2026-10-03-news-lithuania-vilnius-airport-air-alert-nato",
+    "event_ms": 1791017666000,
     "category": "국제",
     "images": [
       "01_cover.png",
@@ -9,12 +9,12 @@
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 러시아가 우크라이나 수도 키이우의 주요 다리를 공습했습니다.\n\n· 러시아군이 키이우 내 두 번째 주요 다리를 공격했습니다. (BBC)\n· 키이우 시장은 공습으로 도시가 파괴되고 있다고 경고했으며 폭격으로 교통이 마비됐습니다. (BBC·프랑스24)\n\n러시아의 이번 공습이 우크라이나 전쟁 향방에 어떤 영향을 미칠 것으로 보시나요?\n출처: BBC·가디언·프랑스24·스카이뉴스 보도 종합",
+    "text": "[속보] 리투아니아 빌뉴스 공항이 상공의 미확인 비행체로 인해 폐쇄됐습니다.\n\n· 빌뉴스 공항 상공에 미확인 물체가 나타나 공항이 폐쇄됐습니다 (UA.NEWS).\n· 드론 의심 물체로 공항이 폐쇄되며 나토 전투기가 출격했습니다 (LBC).\n· 리투아니아 당국은 앞선 공중 경보에 대해 해제를 발표했습니다 (LRT).\n\n동유럽 상공의 긴장 고조에 대해 어떻게 생각하십니까?\n\n출처: LRT·UA.NEWS·LBC 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
       "국제",
-      "우크라이나"
+      "리투아니아"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,26 +25,26 @@
     ],
     "done": {
       "threads": {
-        "id": "17995694832037384",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeBfUuznEzA",
+        "id": "18121024739293068",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeBs8RdlXQs",
         "kind": "carousel",
-        "at": 1791011380
+        "at": 1791018520
       },
       "instagram": {
-        "id": "18114841493091061",
-        "permalink": "https://www.instagram.com/reel/DeBfmfDiK5d/",
+        "id": "18129509527805384",
+        "permalink": "https://www.instagram.com/reel/DeBtMg-DB_p/",
         "kind": "reel",
-        "at": 1791011544
+        "at": 1791018671
       },
       "youtube": {
-        "id": "V4xNuiRhRAY",
-        "permalink": "https://youtube.com/shorts/V4xNuiRhRAY",
+        "id": "DV64WNigoo8",
+        "permalink": "https://youtube.com/shorts/DV64WNigoo8",
         "kind": "shorts",
-        "at": 1791011661
+        "at": 1791018691
       }
     },
     "attempts": {
-      "tiktok": 2
+      "tiktok": 1
     },
     "video": "video.mp4"
   }
