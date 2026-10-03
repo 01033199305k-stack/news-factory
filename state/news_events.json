@@ -1065,5 +1065,25 @@
     "at": 1791018472.2684143,
     "country": "리투아니아",
     "category": "국제"
+  },
+  {
+    "event_key": "australia-newcastle-car-crowd-crash",
+    "topic": "호주서 관중 향해 차량 돌진 10명 부상",
+    "slug": "2026-10-03-news-australia-newcastle-car-crowd-crash",
+    "cluster": "CBMi8gFBVV95cUxOUF9jQ1BXMFRnTDh0WFFVZ2ZfdHFjZF9JOXA1S21zWkxJLUZlbTRfQkhnMUg4bVNCdjF5cTFxSVAyemZLNkZBcUFEMXlaMzFMWDRxRkdBQWlYUHN2WmZaMEZ0YklqNXpJS0ZqR2lnRktfUW9BMHljZTN2YWpGdHV1c0EwenFYUE8tcmo4TC02UG93YXAwYTJybldadjlGTkszNmNVN2llUS03RGlEdTUydDVIOGFUV25pd2tjQ3NaOE1FX05URTkwTmRQaXIwVzdsYlpLN2NwRDlnUy1vZlU3VHZ5STM5NU1oZzJrNDBwOHBYUQ",
+    "badge": "breaking",
+    "at": 1791028247.0419562,
+    "country": "호주",
+    "category": "사고"
+  },
+  {
+    "event_key": "spain-rioja-bar-collapse",
+    "topic": "스페인 관광지 주점 건물 붕괴 10여 명 부상",
+    "slug": "2026-10-03-news-spain-rioja-bar-collapse",
+    "cluster": "CBMiiAFBVV95cUxOUnM2MGZsdlkyNWttWGt6R1BSOUN4ZG9lNWxVMzloRkI2c2JUWC1DUmlxZUNhbEFkTmtqQVN4YUx5TDZWNVZNeU9BUWRJZi1ueklkNGNrZDRkbGVycnhPU0hsV0lQTUlIcHlSTDc5ZVVieGxvaFlQY1FSOWlINFp5TjY2T3AxSnBw0gGOAUFVX3lxTE5neFlWcW9adkQ2ck9JZkl1UTE1Vl96YWdRNFZaNFBaYlRUcldtUXljdG9vY09VTUF6MkdzNG5fWWl0UloyMHFyb3FrNjlEbFlQck5URU5jNXo3RkE2SmlQSlZDbERmdmpuNkFMN043Z3prSzBLaHVvZFhxVVlSZGNaMTdRMkdGb3pkNk94Q2c",
+    "badge": "breaking",
+    "at": 1791028280.7561815,
+    "country": "스페인",
+    "category": "사고"
   }
 ]

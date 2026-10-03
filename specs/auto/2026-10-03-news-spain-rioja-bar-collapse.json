@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-03-news-spain-rioja-bar-collapse",
+  "topic": "스페인 관광지 주점 건물 붕괴 10여 명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 18:05 KST",
+  "source": "Daily Express·Euro Weekly News·Metro.co.uk 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiAFBVV95cUxOUnM2MGZsdlkyNWttWGt6R1BSOUN4ZG9lNWxVMzloRkI2c2JUWC1DUmlxZUNhbEFkTmtqQVN4YUx5TDZWNVZNeU9BUWRJZi1ueklkNGNrZDRkbGVycnhPU0hsV0lQTUlIcHlSTDc5ZVVieGxvaFlQY1FSOWlINFp5TjY2T3AxSnBw0gGOAUFVX3lxTE5neFlWcW9adkQ2ck9JZkl1UTE1Vl96YWdRNFZaNFBaYlRUcldtUXljdG9vY09VTUF6MkdzNG5fWWl0UloyMHFyb3FrNjlEbFlQck5URU5jNXo3RkE2SmlQSlZDbERmdmpuNkFMN043Z3prSzBLaHVvZFhxVVlSZGNaMTdRMkdGb3pkNk94Q2c",
+    "related": [
+      [
+        "Horror as bar collapses in Spanish holiday hotspot as dozens trapped in rubble",
+        "Daily Express"
+      ],
+      [
+        "12 injured and dozens more trapped after Spanish tourist bar collapses",
+        "Metro.co.uk"
+      ],
+      [
+        "Bar collapse traps customers in Rioja region",
+        "Euro Weekly News"
+      ],
+      [
+        "A bar collapsed in Spain: people were trapped under the rubble, more than 10 injured",
+        "Українські Національні Новини (УНН)"
+      ],
+      [
+        "Eleven hurt after bar collapses in Spain",
+        "TradingView"
+      ]
+    ],
+    "event_key": "spain-rioja-bar-collapse"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페인 관광지 [[주점 건물 붕괴]]\n10여 명 부상",
+      "sub": "리오하 지역 건물 잔해 아래 다수 매몰",
+      "chips": [],
+      "alt": "스페인 관광지 주점 건물 붕괴 10여 명 부상",
+      "map": {
+        "lat": 42.2814642,
+        "lon": -2.482805,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n리오하",
+      "video_only": true,
+      "map": {
+        "lat": 42.2814642,
+        "lon": -2.482805,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리오하"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "다수 매몰 상태",
+          "d": "메트로 등 외신은 잔해 아래 수십 명이 갇혀 있다고 전했습니다."
+        },
+        {
+          "t": "휴양지서 발생",
+          "d": "스페인 리오하 지역의 주점에서 사고가 났다고 외신들이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스페인 리오하 주점 건물 붕괴",
+        "잔해 아래 다수 매몰"
+      ],
+      "unconfirmed": [
+        "부상자 수 매체별 집계 차이 있음 (11~12명)",
+        "붕괴 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daily Express",
+        "Euro Weekly News",
+        "Metro.co.uk",
+        "TradingView",
+        "Українські Національні Новини (УНН)",
+        "2026.10.03 20:51 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페인 관광지 주점 건물이 무너져 10여 명이 다쳤습니다.\n\n· 스페인 리오하 지역 주점에서 붕괴 사고가 났습니다 (유로 위클리 뉴스)\n· 건물 잔해 아래 수십 명이 갇혔습니다 (메트로)\n\n출처: 메트로·유로 위클리 뉴스·트레이딩뷰 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인 리오하 지역의 한 주점 건물이 무너지는 사고가 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신들은 이 사고로 11명에서 12명이 다쳤다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "건물 잔해 아래 수십 명이 갇혀 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 붕괴 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

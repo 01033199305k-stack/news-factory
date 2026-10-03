@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-03-news-australia-newcastle-car-crowd-crash",
+  "topic": "호주서 관중 향해 차량 돌진 10명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 18:50 KST",
+  "source": "The Guardian·Reuters·ITVX 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8gFBVV95cUxOUF9jQ1BXMFRnTDh0WFFVZ2ZfdHFjZF9JOXA1S21zWkxJLUZlbTRfQkhnMUg4bVNCdjF5cTFxSVAyemZLNkZBcUFEMXlaMzFMWDRxRkdBQWlYUHN2WmZaMEZ0YklqNXpJS0ZqR2lnRktfUW9BMHljZTN2YWpGdHV1c0EwenFYUE8tcmo4TC02UG93YXAwYTJybldadjlGTkszNmNVN2llUS03RGlEdTUydDVIOGFUV25pd2tjQ3NaOE1FX05URTkwTmRQaXIwVzdsYlpLN2NwRDlnUy1vZlU3VHZ5STM5NU1oZzJrNDBwOHBYUQ",
+    "related": [
+      [
+        "Newcastle Knights CEO extends support to victims after car drives into crowd of NRL fans leaving 10 injured",
+        "Sky Sports"
+      ],
+      [
+        "Ten injured as car hits crowd in Australia in 'horrible incident'",
+        "news.sky.com"
+      ],
+      [
+        "Ten injured after car drives into crowd of rugby fans in Australia | ITV News",
+        "ITVX"
+      ],
+      [
+        "Ten injured in Australia as car crashes into crowd north of Sydney",
+        "reuters.com"
+      ],
+      [
+        "Five-year-old girl in critical condition after car hits crowd in Newcastle",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "australia-newcastle-car-crowd-crash"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호주서 관중 향해 [[차량 돌진]]\n10명 부상",
+      "sub": "럭비 팬 군중 차량 덮쳐",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "10명"
+        }
+      ],
+      "alt": "호주서 관중 향해 차량 돌진 10명 부상",
+      "map": {
+        "lat": -32.9192953,
+        "lon": 151.7795348,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "호주"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "호주\n뉴캐슬",
+      "video_only": true,
+      "map": {
+        "lat": -32.9192953,
+        "lon": 151.7795348,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴캐슬"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "5세 여아 중태",
+          "d": "가디언은 부상자 중 5세 여아가 중태에 빠졌다고 전했습니다."
+        },
+        {
+          "t": "럭비 팬 군중 돌진",
+          "d": "스카이 스포츠는 럭비 팬 군중 속으로 차량이 돌진했다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호주 뉴캐슬서 차량 돌진 사고",
+        "10명 부상 (로이터·스카이뉴스)"
+      ],
+      "unconfirmed": [
+        "사고 원인 및 고의성 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ITVX",
+        "Sky Sports",
+        "The Guardian",
+        "news.sky.com",
+        "reuters.com",
+        "2026.10.03 20:50 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호주 뉴캐슬서 차량 돌진으로 10명이 다쳤습니다.\n\n· 럭비 팬 군중 속으로 차량이 돌진했습니다 (스카이 스포츠)\n· 부상자 가운데 5세 여아가 중태에 빠졌습니다 (가디언)\n\n출처: 로이터·스카이뉴스·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호주 뉴캐슬에서 차량이 관중 속으로 돌진하는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 이 사고로 10명이 다쳤다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "가디언은 부상자 가운데 5세 여아가 중태에 빠졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인과 운전자의 고의성 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
