@@ -188,6 +188,11 @@ class YouTube(Platform):
     name, token_env = "youtube", "YOUTUBE_REFRESH_TOKEN"
     PRIVACY = os.environ.get("YOUTUBE_PRIVACY", "public")
     CATEGORIES = ("국제", "경제·과학")
+    # 2026-10-03 쇼츠 20편: 한국·미국·이란·중동 소식은 760~1,170회, 에펠탑·보잉 노조·말레이시아·리투아니아·
+    # 미 국채는 150~280회. 한도(하루 약 6건)를 주요국이 걸린 소식에 쓴다. 지진(분류 없음)은 그대로 올린다
+    MAJOR = re.compile(r"한국|북한|미국|미군|트럼프|백악관|국방부|중국|시진핑|일본|이란|이스라엘|하마스|헤즈볼라|"
+                       r"후티|사우디|러시아|푸틴|우크라이나|나토|NATO|증시|나스닥|다우|S&P|오픈AI|OpenAI|엔비디아|"
+                       r"애플|테슬라|구글|머스크")
     # 시청자 언어 설정에 맞춰 보이는 제목·설명 (업로드에 같이 실려서 한도를 더 안 쓴다)
     LANGS = {"en": "English", "ja": "Japanese", "es": "Spanish",
              "zh-Hant": "Traditional Chinese (Taiwan)", "vi": "Vietnamese", "id": "Indonesian"}
@@ -285,6 +290,8 @@ in the target language. Unconfirmed items must stay unconfirmed. Plain text, no 
         cat = item.get("category")
         if cat and cat not in self.CATEGORIES and not re.search(r"한국|북한", item.get("text", "")):
             raise Skip("유튜브는 국제·경제 소식만 (%s)" % cat)
+        if cat and not self.MAJOR.search(item.get("text", "")):
+            raise Skip("유튜브는 한국·주요국 관련 소식만")
         tags = list(dict.fromkeys(DEFAULT_TAGS + item.get("hashtags", [])))
         meta = {
             "snippet": {"title": self.title(item),

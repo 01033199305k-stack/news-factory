@@ -118,7 +118,11 @@ def phrases(seg_words, times, max_chars=14):
                 cur = []
             cur.append(w)
         if cur:
-            out.append(cur)
+            # 문장 끝에 한 단어("전했습니다", "세계였습니다")만 따로 뜨면 뜻 없는 조각이 된다 → 앞 구절에 붙인다
+            if out and len(cur) == 1 and out[-1][0] in words and sum(len(x.text) for x in out[-1] + cur) <= max_chars + 8:
+                out[-1].extend(cur)
+            else:
+                out.append(cur)
     res = []
     for i, ph in enumerate(out):
         nxt = out[i + 1][0].start if i + 1 < len(out) else ph[-1].end + 0.4

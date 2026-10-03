@@ -231,7 +231,8 @@ def for_news(ev, srcs=(), badge="breaking", has_map=False):
         _add(segs, {"text": spoken(x.get("text")), "card": card})
     if len(segs) < 2:   # 원고가 없거나 팩트체크에서 거의 다 지워졌으면 카드 문장으로
         segs = _from_cards(ev, has_map)
-    segs.append({"text": OUTRO, "card": "outro"})
+    # 끝인사(OUTRO)는 읽지 않는다 — 2026-10-03 쇼츠 20편 확인: 마지막 3~4초 채널 홍보 카드에서 이탈.
+    # '아직 모르는 것'으로 끝나야 다시 보기(반복 재생)로 이어진다. 채널 이름은 화면 상단에 늘 떠 있다
     return trim(segs)
 
 
@@ -245,8 +246,8 @@ def refresh(segs, srcs=()):
             continue
         if re.search(r"등 \d+개 매체가 이 소식을 전했습니다\.$", t) or t.startswith("확인된 것은,"):
             continue
-        if t == OLD_OUTRO:
-            t = OUTRO
+        if t in (OLD_OUTRO, OUTRO):
+            continue
         m = re.match(r"아직 확인되지 않은 것은, (.+)입니다\.$", t)
         if m:   # 예전 틀 "아직 확인되지 않은 것은, 상륙 시점은입니다." 같은 깨진 문장 고치기
             u = _unconfirmed(m.group(1))
