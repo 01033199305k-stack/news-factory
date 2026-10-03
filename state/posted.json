@@ -5278,5 +5278,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1790985423
+  },
+  {
+    "slug": "2026-10-03-news-flydubai-cockpit-attack-2026",
+    "event_ms": 1790982015000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 비행 중인 여객기 조종석에서 부조종사가 조종사를 흉기로 찌르는 사건이 발생했습니다.\n\n· 부조종사가 조종석에서 조종사를 흉기로 공격하는 사건이 벌어졌습니다 (BBC).\n· 피습된 조종사는 인도 총리와의 통화에서 다른 이들이 죽게 내버려두지 않겠다고 전했습니다 (BBC, 알자지라).\n· 해당 인물은 극단주의 의혹으로 오만 당국으로부터 비행 금지를 당했던 것으로 전해졌습니다 (이스라엘타임스).\n\n출처: BBC·알자지라·이스라엘타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "아랍에미리트"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18201242443327612",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeA2HsimiKO",
+        "kind": "carousel",
+        "at": 1790989773
+      },
+      "instagram": {
+        "id": "18351221029268614",
+        "permalink": "https://www.instagram.com/reel/DeA2lp6AqJG/",
+        "kind": "reel",
+        "at": 1790990047
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1790990099
+      },
+      "tiktok": {
+        "id": "6ac057196b1c05e151e8b86f",
+        "permalink": "",
+        "kind": "video",
+        "at": 1790990305
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1790990315
   }
 ]

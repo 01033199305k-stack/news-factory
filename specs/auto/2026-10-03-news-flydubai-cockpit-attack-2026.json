@@ -1,0 +1,146 @@
+{
+  "slug": "2026-10-03-news-flydubai-cockpit-attack-2026",
+  "topic": "여객기 비행 중 조종석 흉기 난동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 08:00 KST",
+  "source": "BBC·The Guardian·The Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxPZWdMMzVDeC0wdGJuMFBVRzUtbkVpRUVESFVvVEpSZGtwdnUzeXRZbmVCdzJLdEkySHNxZERXbkNSN2dpSjhVcVJfMHNXc0hncjI2UUt0a05ORFVQcDc5YWFPRm1NTkVwMC1ZWDFydkxsaU9OdlNLazI5WHdkM2U0cURyZ2tXYUF0VGFYRFdOUHpmdG02MmFKT1FVc0E4cVdaZGp1Y1AtaFl5WkxCM0HSAbMBQVVfeXFMTUV0ZzctbWItWWFROVVMVnNvM2pqWVY0T3FhVXluSkZsc0lGQWV3ZnlxVFk5TThzZDAyOGZQcDBrbUtLUXBOR2JlRmkzdlZWcjI5bjNCZWpXTlhFQXdoVDkwbmZweDJpbXk2QXhncEFFbndYeUNxZzZVTjJZbWhVQjVKdnQ0Mm05M0o2aGlocHFaSmRMekdNcFkxX0l4ZDh1UjFUUVZYTmoyQks4WVVqUmZUSUk",
+    "related": [
+      [
+        "Flydubai pilot recounts cockpit stabbing in call with Indian PM Modi",
+        "aljazeera.com"
+      ],
+      [
+        "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
+        "BBC"
+      ],
+      [
+        "Oman reportedly banned flydubai terrorist from flying due to suspected extremism",
+        "The Times of Israel"
+      ],
+      [
+        "Suicide by plane or terrorism? Speculation over motive in flight 1073 attack",
+        "The Guardian"
+      ],
+      [
+        "Israel investigates why dozens of Omani pilots could fly into country",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "flydubai-cockpit-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "여객기 비행 중\n[[조종석 흉기 난동]]",
+      "sub": "부조종사가 조종사 습격해 사건 발생 (BBC)",
+      "chips": [
+        {
+          "k": "사건",
+          "v": "기내 피습"
+        }
+      ],
+      "alt": "여객기 비행 중 조종석 흉기 난동",
+      "map": {
+        "lat": 25.0742823,
+        "lon": 55.1885624,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n두바이",
+      "video_only": true,
+      "map": {
+        "lat": 25.0742823,
+        "lon": 55.1885624,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "두바이"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "부조종사의 조종사 피습",
+          "d": "조종석에서 부조종사가 조종사를 흉기로 찌르는 사건이 발생했습니다 (BBC)."
+        },
+        {
+          "t": "조종사의 대처 상황",
+          "d": "피습당한 조종사는 인도 모디 총리와의 통화에서 다른 이들이 죽게 내버려두지 않겠다고 밝혔습니다 (BBC, 알자지라)."
+        },
+        {
+          "t": "극단주의 성향 의혹",
+          "d": "오만 당국이 극단주의 의혹으로 해당 인물의 비행을 금지했다고 전해졌습니다 (이스라엘타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "기내 조종석 피습 발생 (BBC)",
+        "조종사 생존 및 대처 (BBC)"
+      ],
+      "unconfirmed": [
+        "정확한 범행 동기 (가디언)",
+        "한국인 승객 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "The Guardian",
+        "The Telegraph",
+        "The Times of Israel",
+        "aljazeera.com",
+        "2026.10.03 10:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 비행 중인 여객기 조종석에서 부조종사가 조종사를 흉기로 찌르는 사건이 발생했습니다.\n\n· 부조종사가 조종석에서 조종사를 흉기로 공격하는 사건이 벌어졌습니다 (BBC).\n· 피습된 조종사는 인도 총리와의 통화에서 다른 이들이 죽게 내버려두지 않겠다고 전했습니다 (BBC, 알자지라).\n· 해당 인물은 극단주의 의혹으로 오만 당국으로부터 비행 금지를 당했던 것으로 전해졌습니다 (이스라엘타임스).\n\n출처: BBC·알자지라·이스라엘타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "여객기 조종석에서 비행 중 피습 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "부조종사가 조종사를 흉기로 찌르는 사건이 벌어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "BBC는 조종사가 인도 총리와 통화하며 상황을 전했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "극단주의 성향으로 비행 금지 처분을 받았다는 보도가 나왔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 동기는 아직 밝혀지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

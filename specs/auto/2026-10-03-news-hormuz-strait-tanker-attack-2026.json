@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-03-news-hormuz-strait-tanker-attack-2026",
+  "topic": "호르무즈 해협서 유조선 피격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 08:46 KST",
+  "source": "Bloomberg.com·Reuters·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi_wFBVV95cUxQQTg3dW1UM1lja0JWd1NqUVdMaldQeHVLOGN2aW9nMG9CUG8xUmRHZ19ISnFhRDZwX2YtZ0tJMVN1U0N1aWl0eTV0eG5MZUJoMVZZeTVnOVIwZFQzaUtIbzYtQl83VDZCbDk5OHZkMW1NVmY2dFBZMFp1aG56d2NaZ2tfRkZXMXVhekMya3R6NEJKalRaVHRhN3kyb1U3azRNUm1GQks4VzExQTg3RDdPeXJQcF9hNlduTFM4WWpGUEJ3cm8tQ2wxX2pLV1V2LWRqaVktWmdycGFNMEpvNElxbjE2d1E2TU9IZUNSODIyeXMxY3pKenpjT3R5eEplcGc",
+    "related": [
+      [
+        "5 Indian seafarers safely rescued after Kuwait-flagged tanker struck by projectile in Strait of Hormuz",
+        "The Times of India"
+      ],
+      [
+        "No Lights, No Radio: Getting Oil Through Hormuz Is a Risky Job",
+        "Bloomberg.com"
+      ],
+      [
+        "Three oil tankers hit by projectiles in Hormuz strait on Tuesday, Marisks says",
+        "Reuters"
+      ],
+      [
+        "Crude oil tanker hit by unknown projectile off Oman — UK maritime agency",
+        "The Times of Israel"
+      ],
+      [
+        "Tanker struck by projectile in Strait of Hormuz",
+        "Investing.com India"
+      ]
+    ],
+    "event_key": "hormuz-strait-tanker-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈 해협서\n유조선 피격",
+      "sub": "쿠웨이트 국적선 등 유조선 3척 피격 (로이터)",
+      "chips": [
+        {
+          "k": "피격",
+          "v": "유조선 3척"
+        }
+      ],
+      "alt": "호르무즈 해협서 유조선 피격",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "오만"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "오만\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유조선 3척 피격 보도",
+          "d": "로이터 통신은 호르무즈 해협에서 유조선 3척이 발사체에 맞았다고 전했습니다."
+        },
+        {
+          "t": "인도인 선원 5명 구조",
+          "d": "피격된 쿠웨이트 국적 유조선에 타고 있던 인도인 선원 5명은 무사히 구조되었습니다 (타임스오브인디아)."
+        },
+        {
+          "t": "글로벌 공급망 우려",
+          "d": "블룸버그는 호르무즈 해협을 통한 원유 운송이 위험한 임무라고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유조선 발사체 피격 (로이터)",
+        "선원 5명 구조 (타임스오브인디아)"
+      ],
+      "unconfirmed": [
+        "공격 주체와 발사체 정보",
+        "한국인 선원 탑승 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Investing.com India",
+        "Reuters",
+        "The Times of India",
+        "The Times of Israel",
+        "2026.10.03 10:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협에서 유조선이 발사체에 피격당했습니다.\n\n· 로이터 통신은 호르무즈 해협에서 유조선 3척이 발사체 공격을 받았다고 보도했습니다 (로이터).\n· 피격된 쿠웨이트 유조선에 탑승해 있던 인도인 선원 5명은 무사히 구조됐습니다 (타임스오브인디아).\n· 블룸버그는 호르무즈 해협을 통한 원유 운송이 위험한 작업이라고 보도했습니다 (블룸버그).\n\n출처: 로이터·타임스오브인디아·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 유조선이 발사체에 피격당했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 유조선 3척이 공격을 받았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "쿠웨이트 유조선에 타고 있던 인도인 선원 5명은 무사히 구조됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

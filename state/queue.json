@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-10-03-news-hormuz-strait-tanker-attack-2026",
+    "event_ms": 1790984760000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 호르무즈 해협에서 유조선이 발사체에 피격당했습니다.\n\n· 로이터 통신은 호르무즈 해협에서 유조선 3척이 발사체 공격을 받았다고 보도했습니다 (로이터).\n· 피격된 쿠웨이트 유조선에 탑승해 있던 인도인 선원 5명은 무사히 구조됐습니다 (타임스오브인디아).\n· 블룸버그는 호르무즈 해협을 통한 원유 운송이 위험한 작업이라고 보도했습니다 (블룸버그).\n\n출처: 로이터·타임스오브인디아·블룸버그 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "오만"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18012983813959980",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeA2Lmdmnpg",
+        "kind": "carousel",
+        "at": 1790989809
+      },
+      "instagram": {
+        "id": "18435988741195362",
+        "permalink": "https://www.instagram.com/reel/DeA2rtjgUTr/",
+        "kind": "reel",
+        "at": 1790990089
+      },
+      "youtube": {
+        "skipped": "하루 업로드 한도 초과",
+        "at": 1790990103
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

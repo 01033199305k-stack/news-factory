@@ -995,5 +995,25 @@
     "at": 1790985075.8680415,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "flydubai-cockpit-attack-2026",
+    "topic": "여객기 비행 중 조종석 흉기 난동",
+    "slug": "2026-10-03-news-flydubai-cockpit-attack-2026",
+    "cluster": "CBMirgFBVV95cUxPZWdMMzVDeC0wdGJuMFBVRzUtbkVpRUVESFVvVEpSZGtwdnUzeXRZbmVCdzJLdEkySHNxZERXbkNSN2dpSjhVcVJfMHNXc0hncjI2UUt0a05ORFVQcDc5YWFPRm1NTkVwMC1ZWDFydkxsaU9OdlNLazI5WHdkM2U0cURyZ2tXYUF0VGFYRFdOUHpmdG02MmFKT1FVc0E4cVdaZGp1Y1AtaFl5WkxCM0HSAbMBQVVfeXFMTUV0ZzctbWItWWFROVVMVnNvM2pqWVY0T3FhVXluSkZsc0lGQWV3ZnlxVFk5TThzZDAyOGZQcDBrbUtLUXBOR2JlRmkzdlZWcjI5bjNCZWpXTlhFQXdoVDkwbmZweDJpbXk2QXhncEFFbndYeUNxZzZVTjJZbWhVQjVKdnQ0Mm05M0o2aGlocHFaSmRMekdNcFkxX0l4ZDh1UjFUUVZYTmoyQks4WVVqUmZUSUk",
+    "badge": "breaking",
+    "at": 1790989697.2125323,
+    "country": "아랍에미리트",
+    "category": "기타 사건"
+  },
+  {
+    "event_key": "hormuz-strait-tanker-attack-2026",
+    "topic": "호르무즈 해협서 유조선 피격",
+    "slug": "2026-10-03-news-hormuz-strait-tanker-attack-2026",
+    "cluster": "CBMi_wFBVV95cUxQQTg3dW1UM1lja0JWd1NqUVdMaldQeHVLOGN2aW9nMG9CUG8xUmRHZ19ISnFhRDZwX2YtZ0tJMVN1U0N1aWl0eTV0eG5MZUJoMVZZeTVnOVIwZFQzaUtIbzYtQl83VDZCbDk5OHZkMW1NVmY2dFBZMFp1aG56d2NaZ2tfRkZXMXVhekMya3R6NEJKalRaVHRhN3kyb1U3azRNUm1GQks4VzExQTg3RDdPeXJQcF9hNlduTFM4WWpGUEJ3cm8tQ2wxX2pLV1V2LWRqaVktWmdycGFNMEpvNElxbjE2d1E2TU9IZUNSODIyeXMxY3pKenpjT3R5eEplcGc",
+    "badge": "breaking",
+    "at": 1790989721.5602539,
+    "country": "오만",
+    "category": "국제"
   }
 ]
