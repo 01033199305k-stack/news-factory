@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-10-03-news-thailand-bangkok-floods-thai-airways-ceo",
+    "event_ms": 1790992800000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 방콕 홍수 혼란으로 타이항공 이사회가 CEO를 해임했습니다.\n\n· 홍수로 방콕 거리가 침수되며 한계에 도달했습니다 (가디언)\n· 수하물 수취 구역이 변경되고 타이항공의 보상이 약속되었습니다 (방콕포스트)\n· 아직 한국인 피해 여부는 확인되지 않았습니다\n\n출처: 로이터·가디언·방콕포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "태국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18081653456371683",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeBGq_blbi9",
+        "kind": "carousel",
+        "at": 1790998456
+      },
+      "instagram": {
+        "id": "18117948899057975",
+        "permalink": "https://www.instagram.com/reel/DeBG96Zkp2J/",
+        "kind": "reel",
+        "at": 1790998642
+      },
+      "youtube": {
+        "skipped": "하루 업로드 한도 초과",
+        "at": 1790998686
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

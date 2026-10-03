@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-03-news-thailand-bangkok-floods-thai-airways-ceo",
+  "topic": "태국 방콕 홍수 사태 타이항공 CEO 해임",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 11:00 KST",
+  "source": "Reuters·The Guardian·Bangkok Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMioAFBVV95cUxQb1dIZGlVa204ZDcxcHZyWVhlUEVKZHZGQ0wwWGpJMkhYWTdEMGMzZEJxcHJDV0JnbERCc0tXQU1Id3dzUGgtOHlkYnM1Zk43MGdMeml4QmducDRNWmV3SXpPMFdZSC1iNGdOUzIwUXZiZUFZZTdrbkkwVW81Z2RYQjk3T3I0bVhZM2Y3T180N0dzTm9sNFozb056NThIRkVy",
+    "related": [
+      [
+        "Bangkok at breaking point as floods turn streets into stagnant lakes",
+        "The Guardian"
+      ],
+      [
+        "Thai Airways chief says he was fired by board after Bangkok flood chaos",
+        "Reuters"
+      ],
+      [
+        "Searching For A Job? This Airline Just Fired Its CEO",
+        "Simple Flying"
+      ],
+      [
+        "Baggage claims to be moved to new location, THAI compensation pledged",
+        "Bangkok Post"
+      ],
+      [
+        "Worried about the Bangkok floods? Here’s what it’s actually like to visit right now",
+        "Time Out Worldwide"
+      ]
+    ],
+    "event_key": "thailand-bangkok-floods-thai-airways-ceo"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "태국 방콕 홍수 사태\n[[타이항공 CEO 해임]]",
+      "sub": "수하물 수취 구역 위치 변경 및 타이항공 보상 약속",
+      "chips": [
+        {
+          "k": "기상",
+          "v": "방콕 홍수"
+        },
+        {
+          "k": "조치",
+          "v": "CEO 해임"
+        }
+      ],
+      "alt": "태국 방콕 홍수 사태 타이항공 CEO 해임",
+      "map": {
+        "lat": 13.7524938,
+        "lon": 100.4935089,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "태국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "태국\n방콕",
+      "video_only": true,
+      "map": {
+        "lat": 13.7524938,
+        "lon": 100.4935089,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "방콕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "홍수 혼란으로 CEO 해임",
+          "d": "방콕 홍수 혼란 이후 타이항공 이사회가 최고경영자를 해임했습니다 (로이터·심플플라잉)."
+        },
+        {
+          "t": "수하물 장소 변경 및 보상",
+          "d": "수하물 수취 구역이 새로운 위치로 변경되고 타이항공의 보상이 약속되었습니다 (방콕포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "방콕 홍수로 인한 거리 침수 및 한계 도달 (가디언)",
+        "타이항공 CEO 해임 결정 (로이터)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "구체적인 재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bangkok Post",
+        "Reuters",
+        "Simple Flying",
+        "The Guardian",
+        "Time Out Worldwide",
+        "2026.10.03 12:33 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 방콕 홍수 혼란으로 타이항공 이사회가 CEO를 해임했습니다.\n\n· 홍수로 방콕 거리가 침수되며 한계에 도달했습니다 (가디언)\n· 수하물 수취 구역이 변경되고 타이항공의 보상이 약속되었습니다 (방콕포스트)\n· 아직 한국인 피해 여부는 확인되지 않았습니다\n\n출처: 로이터·가디언·방콕포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "태국 방콕에 내린 홍수로 거리가 침수되고 방콕이 한계에 도달했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 방콕 홍수 혼란 이후 타이항공 이사회가 CEO를 해임했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "방콕포스트는 수하물 수취 구역이 변경되고 타이항공의 보상이 약속되었다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

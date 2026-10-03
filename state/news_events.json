@@ -1015,5 +1015,15 @@
     "at": 1790989721.5602539,
     "country": "오만",
     "category": "국제"
+  },
+  {
+    "event_key": "thailand-bangkok-floods-thai-airways-ceo",
+    "topic": "태국 방콕 홍수 사태 타이항공 CEO 해임",
+    "slug": "2026-10-03-news-thailand-bangkok-floods-thai-airways-ceo",
+    "cluster": "CBMioAFBVV95cUxQb1dIZGlVa204ZDcxcHZyWVhlUEVKZHZGQ0wwWGpJMkhYWTdEMGMzZEJxcHJDV0JnbERCc0tXQU1Id3dzUGgtOHlkYnM1Zk43MGdMeml4QmducDRNWmV3SXpPMFdZSC1iNGdOUzIwUXZiZUFZZTdrbkkwVW81Z2RYQjk3T3I0bVhZM2Y3T180N0dzTm9sNFozb056NThIRkVy",
+    "badge": "breaking",
+    "at": 1790998408.6182244,
+    "country": "태국",
+    "category": "재난"
   }
 ]
