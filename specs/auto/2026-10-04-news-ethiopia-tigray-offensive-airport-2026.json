@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-04-news-ethiopia-tigray-offensive-airport-2026",
+  "topic": "에티오피아 정부군 티그라이 공항 탈환",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.04 01:08 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMisAFBVV95cUxNdGZ5bWFYN2pFNUN5TDZ3bm1mQWdPcVlXMWFrS29DNXNRTHZTWEk3S2w1bmdxLTUyLTQtdVFqbXVCZXo3U25RMlhYUzMxUjQ5UXRkdEJuZU5DUFpWUHFuVVV6NlhkeGNSUElmWXFra2tCVE9vUHFOWjBuNHh6amwwbnRpdVFRTjVSWFZkQnFtODU3WHUxbTMyMjNxbl94dU1hdXdSY1BwcDdjbWVzZ09FdtIBtgFBVV95cUxPdzBaTzNWVVUxdXAwUEZvMnVnMzhyc1VKbVp4dHZ1ME9zVDNBNlktemV4bVEtR0ZwS2wybXJuWC10bkNoNldfNURYb0owTHpDU3NsRWRvRHNkUkp2QVhiR3pBLVdpaDNXTTFRSFFEMnhmdHN5TjJuaHFKdWcxNkJUNTB0THUyZ2JkOUxBN3VZTzFiSXpTSTBVUzBqc19zaGNxUEpNZXpTRnJWRHZpSzdUX1hzRjBJdw",
+    "related": [
+      [
+        "Ethiopian gov’t forces advance in Tigray as rebels retreat: What to know",
+        "Al Jazeera"
+      ],
+      [
+        "Ethiopia government forces retake airport in Tigray's capital, sources say",
+        "Reuters"
+      ],
+      [
+        "Explosions heard in Ethiopia's capital after drone flights banned",
+        "BBC"
+      ],
+      [
+        "War has returned to Tigray. This time it may not stay in Ethiopia",
+        "Chatham House"
+      ],
+      [
+        "How the fighting in Ethiopia spread beyond Tigray, in maps and charts",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "ethiopia-tigray-offensive-airport-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "에티오피아 정부군\n[[티그라이 공항 탈환]]",
+      "sub": "반군 후퇴 속 진격·수도서 폭발음 발생",
+      "chips": [],
+      "alt": "에티오피아 정부군 티그라이 공항 탈환",
+      "map": {
+        "lat": 13.881273,
+        "lon": 39.127495,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "에티오피아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "에티오피아\n티그라이",
+      "video_only": true,
+      "map": {
+        "lat": 13.881273,
+        "lon": 39.127495,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "티그라이"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "정부군 진격과 반군 후퇴",
+          "d": "알자지라는 반군이 후퇴하는 가운데 에티오피아 정부군이 티그라이 지역으로 진격을 이어가고 있다고 전했습니다."
+        },
+        {
+          "t": "수도 상공 통제와 폭음",
+          "d": "BBC는 드론 비행 금지 조치가 내려진 뒤 수도에서 폭음이 청취됐다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에티오피아 정부군의 티그라이 진격",
+        "드론 비행 금지 후 수도 폭음 발생"
+      ],
+      "unconfirmed": [
+        "티그라이 공항 장악 공식 발표 여부",
+        "교전에 따른 사상자 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Chatham House",
+        "Reuters",
+        "2026.10.04 02:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 에티오피아 정부군이 티그라이 지역으로 진격해 주도 공항을 탈환했습니다.\n\n· 로이터 통신은 소식통을 인용해 정부군이 티그라이 주도 공항을 되찾았다고 보도했습니다.\n· 알자지라는 반군이 후퇴하는 가운데 정부군이 진격 중이라고 전했습니다.\n· BBC는 드론 비행이 금지된 후 수도에서 폭발음이 들렸다고 밝혔습니다.\n\n에티오피아 내전의 재점화가 인접국 안보와 역내 정세에 어떤 파장을 부를지 주목됩니다.\n출처: 로이터·알자지라·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "에티오피아 정부군이 티그라이 공항을 탈환했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 소식통을 인용해 정부군이 공항을 되찾았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "알자지라는 반군이 후퇴하는 가운데 정부군이 진격하고 있다고 보도했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "양측의 구체적인 피해 규모와 공항 장악 여부는 아직 공식 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

@@ -1105,5 +1105,15 @@
     "at": 1791040191.2671525,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "ethiopia-tigray-offensive-airport-2026",
+    "topic": "에티오피아 정부군 티그라이 공항 탈환",
+    "slug": "2026-10-04-news-ethiopia-tigray-offensive-airport-2026",
+    "cluster": "CBMisAFBVV95cUxNdGZ5bWFYN2pFNUN5TDZ3bm1mQWdPcVlXMWFrS29DNXNRTHZTWEk3S2w1bmdxLTUyLTQtdVFqbXVCZXo3U25RMlhYUzMxUjQ5UXRkdEJuZU5DUFpWUHFuVVV6NlhkeGNSUElmWXFra2tCVE9vUHFOWjBuNHh6amwwbnRpdVFRTjVSWFZkQnFtODU3WHUxbTMyMjNxbl94dU1hdXdSY1BwcDdjbWVzZ09FdtIBtgFBVV95cUxPdzBaTzNWVVUxdXAwUEZvMnVnMzhyc1VKbVp4dHZ1ME9zVDNBNlktemV4bVEtR0ZwS2wybXJuWC10bkNoNldfNURYb0owTHpDU3NsRWRvRHNkUkp2QVhiR3pBLVdpaDNXTTFRSFFEMnhmdHN5TjJuaHFKdWcxNkJUNTB0THUyZ2JkOUxBN3VZTzFiSXpTSTBVUzBqc19zaGNxUEpNZXpTRnJWRHZpSzdUX1hzRjBJdw",
+    "badge": "breaking",
+    "at": 1791047292.6600761,
+    "country": "에티오피아",
+    "category": "국제"
   }
 ]
