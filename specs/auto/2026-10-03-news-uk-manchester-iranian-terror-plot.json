@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-03-news-uk-manchester-iranian-terror-plot",
+  "topic": "영국서 유대인 공동체 겨냥 테러 모의 이란인 2명 기소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 13:00 KST",
+  "source": "Al Jazeera·BBC·CBS News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxPbFF0LXF6M0dyQWhlbm1MY2lES2RiTjB5V2poQjNyVENmdVhERTB1ZGFwekFsNFpwU0YwaFF1RWtUOHV0Z1hhTkJPeUNsQjRLMnFsNU5yVlFjNG9UWXJUaDRZMzlaMGVITmJzU2tILU8xOG1uUU1SY3lDOW5pdmpZX2psMFFkSEJ5cVJyX0M5RE5SRVhNNFFtemtNaFEzdXpqd2NGX19ob29iaGNJVTJ3UUdn0gG3AUFVX3lxTE00MXNqeGk4LTB4R3FHQm4tS01ldThXRzRwRC1wUTIzbFlJeXJlVGcxV0FuUVpEOF9hRG9YVVpnd2E3X19pbEN5Z1pOSGxmMmd1dXA1TE80dTh1YjdiUTloMFJPNXZPVElyVHlMWHdiRV9sd014YmZVc1dKdFdCRkpFNE1mMENrZnN3QzEtdTlhRTd2RjBvV2RxSWJGcThDM2NMbFcycnpZNmZfckVXMHdBNFY1RC1KYw",
+    "related": [
+      [
+        "Two Iranians charged over alleged plot targeting Jewish community in UK",
+        "Al Jazeera"
+      ],
+      [
+        "Two Iranian men charged over alleged terror plot targeting Manchester’s Jewish community",
+        "The Guardian"
+      ],
+      [
+        "Two men charged with terrorism offences in Manchester",
+        "BBC"
+      ],
+      [
+        "U.K. police accuse 2 Iranian men of planning terror attack on Manchester's Jewish community",
+        "CBS News"
+      ],
+      [
+        "UK charges 2 Iranian men over alleged Yom Kippur terror plot in Manchester",
+        "CNN"
+      ]
+    ],
+    "event_key": "uk-manchester-iranian-terror-plot"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국서 유대인 공동체 겨냥\n[[테러 모의]] 이란인 2명 기소",
+      "sub": "맨체스터서 욤 키푸르 노린 테러 계획 적발",
+      "chips": [
+        {
+          "k": "용의자",
+          "v": "이란인 2명"
+        },
+        {
+          "k": "장소",
+          "v": "맨체스터"
+        }
+      ],
+      "alt": "영국서 유대인 공동체 겨냥 테러 모의 이란인 2명 기소",
+      "map": {
+        "lat": 53.4424618,
+        "lon": -2.2324547,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n맨체스터",
+      "video_only": true,
+      "map": {
+        "lat": 53.4424618,
+        "lon": -2.2324547,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "맨체스터"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대상",
+          "d": "영국 맨체스터의 유대인 공동체와 욤 키푸르 행사가 테러 표적이었다고 경찰은 밝혔습니다 (가디언·CBS·CNN)."
+        },
+        {
+          "t": "혐의",
+          "d": "이란 국적 남성 2명이 테러 모의 혐의로 정식 기소됐습니다 (가디언·BBC·CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란인 남성 2명 기소",
+        "맨체스터 유대인 공동체 표적",
+        "테러 모의 혐의 적용"
+      ],
+      "unconfirmed": [
+        "구체적인 테러 실행 계획 및 배후",
+        "추가 공범 존재 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CBS News",
+        "CNN",
+        "The Guardian",
+        "2026.10.03 15:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국서 유대인 공동체 겨냥 테러 모의 이란인 2명 기소\n\n· 영국 경찰은 맨체스터의 유대인 공동체를 노린 테러 공격을 모의한 혐의로 이란 국적 남성 2명을 기소했습니다 (가디언·CBS)\n· 용의자들이 노린 대상에는 유대인의 대속죄일인 욤 키푸르 기간의 행사도 포함됐습니다 (CNN)\n\n출처: 알자지라·가디언·BBC·CBS·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 경찰은 맨체스터의 유대인 공동체를 노린 테러를 모의한 혐의로 이란인 남성 2명을 기소했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 용의자들이 유대인 대속죄일 행사를 표적으로 삼아 테러를 계획했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 배후와 추가 공범 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}
