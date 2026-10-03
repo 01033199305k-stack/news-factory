@@ -5824,5 +5824,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791037207
+  },
+  {
+    "slug": "2026-10-03-news-bermuda-boston-medical-plane-missing-2026",
+    "event_ms": 1791039017000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 버뮤다발 의료 항공기 난터켓 해상서 실종\n\n· 탑승자 6명을 태운 의료기가 미국 보스턴으로 향하던 중 연락이 두절됐습니다 (NYT·WBUR).\n· 미국 해안경비대가 난터켓 인근 해상에서 수색 작전을 펼치고 있습니다 (NBC·WCVB).\n\n출처: NBC·NYT·WBUR·WJAR·WCVB 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18097778810351340",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeCWX1sG989",
+        "kind": "carousel",
+        "at": 1791040253
+      },
+      "instagram": {
+        "id": "18094184378400314",
+        "permalink": "https://www.instagram.com/reel/DeCWqpfiqkA/",
+        "kind": "reel",
+        "at": 1791040419
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1791040429
+      },
+      "tiktok": {
+        "id": "6ac11bae3bfd38430fe63e8c",
+        "permalink": "",
+        "kind": "video",
+        "at": 1791040630
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791040640
   }
 ]

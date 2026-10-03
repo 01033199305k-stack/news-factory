@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-03-news-bermuda-boston-medical-plane-missing-2026",
+  "topic": "버뮤다발 항공기 해상서 실종",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 23:50 KST",
+  "source": "The New York Times·NBC News·WBUR 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxPaEZEZ0RZVkV1UkxGbkdkd2hxQ2FQVWpYSmRiU3FVdE1DTjBzWHFUT2xhSHV2TElXRlhLZUN3MEVWMlNqRnlXeTFLc0wzM3NHdFN2M0JMT0twclZXdVBuRmlROFNYT3h0U1lOWXYzamFvV1p5ZUxsV2kwZXR5ekFlZW1zWFUzRGlWakI3MDloOGQzVldJYUYwMVMwbUM3enpTTzB0VVlYTXFSZw",
+    "related": [
+      [
+        "Coast Guard searching off Nantucket for missing jet heading from Bermuda to Boston",
+        "nbcnews.com"
+      ],
+      [
+        "Medical Plane Goes Missing on Flight From Bermuda to Boston",
+        "The New York Times"
+      ],
+      [
+        "Coast Guard searching for plane with 6 aboard that lost contact on trip from Bermuda to Boston",
+        "WBUR"
+      ],
+      [
+        "Coast Guard searching off Nantucket for aircraft with 6 people on board",
+        "WJAR"
+      ],
+      [
+        "Coast Guard searches for missing plane off Nantucket",
+        "WCVB"
+      ]
+    ],
+    "event_key": "bermuda-boston-medical-plane-missing-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "버뮤다발 항공기\n[[해상서 실종]]",
+      "sub": "탑승자 6명… 미 해안경비대 수색",
+      "chips": [
+        {
+          "k": "탑승 인원",
+          "v": "6명"
+        }
+      ],
+      "alt": "버뮤다발 항공기 해상서 실종",
+      "map": {
+        "lat": 41.2844408,
+        "lon": -70.09842,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n난터켓",
+      "video_only": true,
+      "map": {
+        "lat": 41.2844408,
+        "lon": -70.09842,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "난터켓"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "보스턴행 의료기",
+          "d": "버뮤다에서 출발해 미국 보스턴으로 향하던 의료기가 연락이 두절되었습니다 (NYT·WBUR)."
+        },
+        {
+          "t": "난터켓 인근 수색",
+          "d": "미국 해안경비대가 난터켓 인근 해상에서 수색 작전을 진행하고 있습니다 (NBC·WCVB)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "버뮤다발 항공기 실종",
+        "탑승자 6명 확인"
+      ],
+      "unconfirmed": [
+        "실종 원인 및 탑승자 생사",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "The New York Times",
+        "WBUR",
+        "WCVB",
+        "WJAR",
+        "nbcnews.com",
+        "2026.10.04 00:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 버뮤다발 의료 항공기 난터켓 해상서 실종\n\n· 탑승자 6명을 태운 의료기가 미국 보스턴으로 향하던 중 연락이 두절됐습니다 (NYT·WBUR).\n· 미국 해안경비대가 난터켓 인근 해상에서 수색 작전을 펼치고 있습니다 (NBC·WCVB).\n\n출처: NBC·NYT·WBUR·WJAR·WCVB 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "버뮤다발 의료 항공기가 해상에서 실종됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 해안경비대는 난터켓 인근 해역에서 수색 작업을 벌이고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "WBUR은 실종기 안에 6명이 타고 있었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 실종 원인과 한국인 탑승 여부는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

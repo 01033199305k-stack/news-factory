@@ -1095,5 +1095,15 @@
     "at": 1791036750.007852,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "bermuda-boston-medical-plane-missing-2026",
+    "topic": "버뮤다발 항공기 해상서 실종",
+    "slug": "2026-10-03-news-bermuda-boston-medical-plane-missing-2026",
+    "cluster": "CBMiqgFBVV95cUxPaEZEZ0RZVkV1UkxGbkdkd2hxQ2FQVWpYSmRiU3FVdE1DTjBzWHFUT2xhSHV2TElXRlhLZUN3MEVWMlNqRnlXeTFLc0wzM3NHdFN2M0JMT0twclZXdVBuRmlROFNYT3h0U1lOWXYzamFvV1p5ZUxsV2kwZXR5ekFlZW1zWFUzRGlWakI3MDloOGQzVldJYUYwMVMwbUM3enpTTzB0VVlYTXFSZw",
+    "badge": "breaking",
+    "at": 1791040191.2671525,
+    "country": "미국",
+    "category": "사고"
   }
 ]
