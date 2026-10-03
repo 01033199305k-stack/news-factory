@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-03-news-russia-strikes-kyiv-bridge-2026",
+  "topic": "러시아, 키이우 교량 공습 키이우 시장 \"도시 파괴 중\"",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.03 15:13 KST",
+  "source": "BBC·France 24·Sky News 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE9DUUxacVVZOXVXazJNZnlaMklJVFlHY1V1T2huZHowRXlnT2FyRE5VNDBMWnc4SkZtbEZJWWdoLUhKdEhrMEhVV3kzTmxVaENwRHo4OFZMakl1ZnlwUEE",
+    "related": [
+      [
+        "Russia strikes second major bridge in Kyiv, mayor says",
+        "BBC"
+      ],
+      [
+        "Ukraine war briefing: Russian attacks on Kyiv bridges cause traffic chaos",
+        "The Guardian"
+      ],
+      [
+        "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+        "BBC"
+      ],
+      [
+        "Russia is ‘tearing Kyiv apart’, mayor says, as Moscow’s bombing brings traffic to a halt",
+        "France 24"
+      ],
+      [
+        "Ukraine war latest: Russia strikes key bridge in Kyiv - as South Korea demands apology from Ukraine",
+        "Sky News"
+      ]
+    ],
+    "event_key": "russia-strikes-kyiv-bridge-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아, 키이우 [[교량 공습]]\n키이우 시장 \"도시 파괴 중\"",
+      "sub": "키이우 내 두 번째 주요 다리 피격으로 교통 혼란",
+      "chips": [
+        {
+          "k": "타격 대상",
+          "v": "키이우 주요 교량"
+        }
+      ],
+      "alt": "러시아, 키이우 교량 공습 키이우 시장 \"도시 파괴 중\"",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "두 번째 주요 다리 피격",
+          "d": "러시아군이 우크라이나 수도 키이우의 두 번째 주요 다리를 공습했습니다. (BBC)"
+        },
+        {
+          "t": "키이우 시장 경고",
+          "d": "키이우 시장은 러시아의 공습 강화로 도시가 파괴되고 있다고 경고했으며, 폭격으로 교통이 마비됐습니다. (BBC·프랑스24)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아군의 키이우 주요 교량 공습",
+        "키이우 교통 혼란 및 마비"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "France 24",
+        "Sky News",
+        "The Guardian",
+        "2026.10.03 16:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아가 우크라이나 수도 키이우의 주요 다리를 공습했습니다.\n\n· 러시아군이 키이우 내 두 번째 주요 다리를 공격했습니다. (BBC)\n· 키이우 시장은 공습으로 도시가 파괴되고 있다고 경고했으며 폭격으로 교통이 마비됐습니다. (BBC·프랑스24)\n\n러시아의 이번 공습이 우크라이나 전쟁 향방에 어떤 영향을 미칠 것으로 보시나요?\n출처: BBC·가디언·프랑스24·스카이뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아군이 우크라이나 수도 키이우의 주요 교량을 공습했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 공격으로 키이우 내 두 번째 주요 다리가 피격됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 공습 여파로 키이우 교통이 마비됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "키이우 시장은 러시아의 공격이 도시를 파괴하고 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해와 파괴 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "확인된 것만 빠르게, 지금 세계였습니다.",
+      "card": "outro"
+    }
+  ]
+}

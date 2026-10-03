@@ -1045,5 +1045,15 @@
     "at": 1791007649.3960888,
     "country": "영국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "russia-strikes-kyiv-bridge-2026",
+    "topic": "러시아, 키이우 교량 공습 키이우 시장 \"도시 파괴 중\"",
+    "slug": "2026-10-03-news-russia-strikes-kyiv-bridge-2026",
+    "cluster": "CBMiXkFVX3lxTE9DUUxacVVZOXVXazJNZnlaMklJVFlHY1V1T2huZHowRXlnT2FyRE5VNDBMWnc4SkZtbEZJWWdoLUhKdEhrMEhVV3kzTmxVaENwRHo4OFZMakl1ZnlwUEE",
+    "badge": "breaking",
+    "at": 1791011333.5000625,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]
