@@ -1135,5 +1135,15 @@
     "at": 1791058091.4375958,
     "country": "스페인",
     "category": "국제"
+  },
+  {
+    "event_key": "russia-kyiv-diplomat-evacuation-warning",
+    "topic": "대피 경고 발령 러시아, 키이우 공습 예고",
+    "slug": "2026-10-04-news-russia-kyiv-diplomat-evacuation-warning",
+    "cluster": "CBMivgFBVV95cUxNSXNBYUpPd1pPY2dKT0RzdDVqX0U4aGZGeDhHMDlCeUJIRU40Zjh4N1pYcnFEOFBXNEo1MEN1QkwwV2ZLRnpYem9iRnhMcWk0Q3N2Y0QzY0Q0S2lfX1g3ZVdya1RUSlpVQWR2ZGt3SlUxelNKTmlidXJvaUZCOWFlNjJsLUc4MVQxV2c5a0UzUS1sbWdBTHZ1c2NqMlFQbE9hWEZtLWxLczFjbDlCNktHaVMwZ1NVSG5PTmtxY1Vn",
+    "badge": "brief",
+    "at": 1791065351.669203,
+    "country": "러시아",
+    "category": "국제"
   }
 ]

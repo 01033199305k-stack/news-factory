@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-04-news-russia-kyiv-diplomat-evacuation-warning",
+  "topic": "대피 경고 발령 러시아, 키이우 공습 예고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.04 01:13 KST",
+  "source": "Reuters·Kyiv Post·RTE.ie 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgFBVV95cUxNSXNBYUpPd1pPY2dKT0RzdDVqX0U4aGZGeDhHMDlCeUJIRU40Zjh4N1pYcnFEOFBXNEo1MEN1QkwwV2ZLRnpYem9iRnhMcWk0Q3N2Y0QzY0Q0S2lfX1g3ZVdya1RUSlpVQWR2ZGt3SlUxelNKTmlidXJvaUZCOWFlNjJsLUc4MVQxV2c5a0UzUS1sbWdBTHZ1c2NqMlFQbE9hWEZtLWxLczFjbDlCNktHaVMwZ1NVSG5PTmtxY1Vn",
+    "related": [
+      [
+        "Russia pledges to continue massive strikes on Kyiv, urges foreign diplomats to leave city",
+        "Reuters"
+      ],
+      [
+        "Embassies not planning to evacuate Kyiv amid Russia's bombardment, Foreign Ministry confirms",
+        "The Kyiv Independent"
+      ],
+      [
+        "Russia warns diplomats, foreigners to leave Kyiv over strike threat",
+        "RTE.ie"
+      ],
+      [
+        "Kremlin: Ukraine will have to \"pay the price\" for recent actions",
+        "Українська правда"
+      ],
+      [
+        "Russia Warns Envoys of ‘Mortal Danger’ as Strikes on Kyiv Loom",
+        "Kyiv Post"
+      ]
+    ],
+    "event_key": "russia-kyiv-diplomat-evacuation-warning"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "[[대피 경고]] 발령\n러시아, 키이우 공습 예고",
+      "sub": "외국 외교관들에게 철수를 권고했습니다.",
+      "chips": [],
+      "alt": "대피 경고 발령 러시아, 키이우 공습 예고",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대규모 공습 지속 예고",
+          "d": "러시아는 키이우에 대한 대규모 공습을 계속하겠다고 공언했습니다 (로이터)."
+        },
+        {
+          "t": "각국 대사관 잔류 계획",
+          "d": "우크라이나 외무부는 키이우 주재 외국 대사관들이 철수할 계획은 없음을 확인했습니다 (키이우 인디펜던트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아의 외교관 대피 경고",
+        "키이우 주재 대사관 잔류 방침"
+      ],
+      "unconfirmed": [
+        "주우크라이나 한국 대사관 대피 여부",
+        "추가 공습의 구체적 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "RTE.ie",
+        "Reuters",
+        "The Kyiv Independent",
+        "Українська правда",
+        "2026.10.04 07:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아, 키이우 주재 외국 외교관들에 대피 경고\n\n· 러시아가 키이우에 대한 대규모 추가 공습을 예고하며 외국 외교관과 외국인들에게 대피할 것을 경고했습니다 (로이터·키이우 포스트).\n· 우크라이나 외무부는 키이우 주재 외국 대사관들이 철수할 계획은 없다고 밝혔습니다 (키이우 인디펜던트).\n\n러시아의 이번 경고로 우크라이나 전쟁의 긴장이 한층 더 고조될까요?\n\n출처: 로이터·키이우 인디펜던트·키이우 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아가 키이우에 있는 외국 외교관들에게 대피를 경고했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아는 대규모 공습을 예고하며 외교관들의 철수를 촉구했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "우크라이나 외무부는 대사관들이 철수할 계획이 없음을 확인했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국 대사관의 구체적인 대피 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
