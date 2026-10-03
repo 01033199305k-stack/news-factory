@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-04-news-russia-biolab-plague-death",
+  "topic": "러시아 연구소 직원 폐페스트로 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.04 01:38 KST",
+  "source": "Meduza·New York Post·Outbreak News Today 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxPZmV4eThlV1RleDZmejQ5OXN6aHJfaUtkSWtyZklvLUNqU3JlcVlwNm9tWlgxQkRJZnB1QUVUR2sxZzQxNmgtYnZRMS1jZzBIMkVHejAzNkJBOUpKZlNUN3JhSmRXbVEtVzdpNFNPUzVjX3Naak52cEZ4TWtIYTgxVjVESG1iNmtIb0RPbm1RNA",
+    "related": [
+      [
+        "Putin’s Goons Scramble to Cover Up Freak Biolab Accident",
+        "The Daily Beast"
+      ],
+      [
+        "Russia: 189 people under observation after lab worker dies of possible pneumonic plague",
+        "Outbreak News Today"
+      ],
+      [
+        "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies From Plague",
+        "The Moscow Times"
+      ],
+      [
+        "Putin regime accused of Russian black plague cover-up after scientist dies amid possible spread",
+        "New York Post"
+      ],
+      [
+        "Hospital in Russia’s Irkutsk region quarantined amid reports that a patient died of pneumonic plague",
+        "Meduza"
+      ]
+    ],
+    "event_key": "russia-biolab-plague-death"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 연구소 직원\n[[폐페스트]]로 사망",
+      "sub": "189명이 관찰을 받고 있습니다.",
+      "chips": [
+        {
+          "k": "관찰",
+          "v": "189명"
+        },
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "러시아 연구소 직원 폐페스트로 사망",
+      "map": {
+        "lat": 52.2891225,
+        "lon": 104.279829,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n이르쿠츠크",
+      "video_only": true,
+      "map": {
+        "lat": 52.2891225,
+        "lon": 104.279829,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "이르쿠츠크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "생물학 연구소 직원 사망",
+          "d": "러시아 이르쿠츠크의 연구소 직원이 폐페스트로 숨졌습니다 (더 모스크바 타임스)."
+        },
+        {
+          "t": "189명 관찰 중",
+          "d": "연구소 직원 사망 이후 189명이 관찰을 받고 있습니다 (아웃브레이크 뉴스 투데이)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이르쿠츠크 연구소 직원 사망 (더 모스크바 타임스)",
+        "189명 관찰 중 (아웃브레이크 뉴스 투데이)"
+      ],
+      "unconfirmed": [
+        "정확한 감염 및 유출 경로",
+        "추가 감염자 발생 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Meduza",
+        "New York Post",
+        "Outbreak News Today",
+        "The Daily Beast",
+        "The Moscow Times",
+        "2026.10.04 03:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 생물학 연구소 직원 폐페스트로 사망, 189명 관찰\n\n· 러시아 이르쿠츠크의 연구소 직원이 폐페스트로 숨졌습니다 (더 모스크바 타임스)\n· 직원 사망 이후 189명이 관찰을 받고 있습니다 (아웃브레이크 뉴스 투데이)\n· 이르쿠츠크 지역의 병원이 격리되었습니다 (메두사)\n\n출처: 더 모스크바 타임스·아웃브레이크 뉴스 투데이·메두사 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 생물학 연구소에서 직원이 폐페스트로 사망하는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "더 모스크바 타임스는 이르쿠츠크 연구소 직원 1명이 폐페스트로 숨졌다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "아웃브레이크 뉴스 투데이에 따르면 직원 사망 이후 189명이 관찰을 받고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이르쿠츠크 지역의 병원이 격리되었으며 정확한 감염 경로는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

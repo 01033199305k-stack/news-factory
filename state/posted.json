@@ -5930,5 +5930,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791047722
+  },
+  {
+    "slug": "2026-10-04-news-russia-biolab-plague-death",
+    "event_ms": 1791045480000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아 생물학 연구소 직원 폐페스트로 사망, 189명 관찰\n\n· 러시아 이르쿠츠크의 연구소 직원이 폐페스트로 숨졌습니다 (더 모스크바 타임스)\n· 직원 사망 이후 189명이 관찰을 받고 있습니다 (아웃브레이크 뉴스 투데이)\n· 이르쿠츠크 지역의 병원이 격리되었습니다 (메두사)\n\n출처: 더 모스크바 타임스·아웃브레이크 뉴스 투데이·메두사 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18114490196110078",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeCrJRBmG6O",
+        "kind": "carousel",
+        "at": 1791051131
+      },
+      "instagram": {
+        "id": "18124915933910145",
+        "permalink": "https://www.instagram.com/reel/DeCrbNYleMS/",
+        "kind": "reel",
+        "at": 1791051290
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1791051300
+      },
+      "tiktok": {
+        "id": "7692506775580314898",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692506775580314898",
+        "kind": "video",
+        "at": 1791051421
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791051431
   }
 ]

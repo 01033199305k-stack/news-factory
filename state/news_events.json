@@ -1115,5 +1115,15 @@
     "at": 1791047292.6600761,
     "country": "에티오피아",
     "category": "국제"
+  },
+  {
+    "event_key": "russia-biolab-plague-death",
+    "topic": "러시아 연구소 직원 폐페스트로 사망",
+    "slug": "2026-10-04-news-russia-biolab-plague-death",
+    "cluster": "CBMijwFBVV95cUxPZmV4eThlV1RleDZmejQ5OXN6aHJfaUtkSWtyZklvLUNqU3JlcVlwNm9tWlgxQkRJZnB1QUVUR2sxZzQxNmgtYnZRMS1jZzBIMkVHejAzNkJBOUpKZlNUN3JhSmRXbVEtVzdpNFNPUzVjX3Naak52cEZ4TWtIYTgxVjVESG1iNmtIb0RPbm1RNA",
+    "badge": "breaking",
+    "at": 1791051077.4823806,
+    "country": "러시아",
+    "category": "재난"
   }
 ]
