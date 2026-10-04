@@ -6364,5 +6364,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791112673
+  },
+  {
+    "slug": "2026-10-04-news-ukraine-donbas-operation-vivaldi-2026",
+    "event_ms": 1791123041786,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 우크라, 돈바스 영토 140㎢ 탈환하며 러시아군 250명 생포\n\n· 우크라이나군이 동부 돈바스 지역에서 기습 반격 작전인 '비발디 작전'을 전개했습니다 (키이우 포스트, 블룸버그)\n· 젤렌스키 우크라이나 대통령은 최대 140제곱킬로미터의 영토를 되찾았다고 밝혔습니다 (우크라인스카 프라우다)\n· 이번 작전 도중 러시아군 250명을 생포하는 데 성공했습니다 (더 텔레그래프)\n\n이번 전격적인 반격 성공이 동부 전선의 판도를 바꿀 수 있을까요?\n\n출처: 젤렌스키 대통령 발표·블룸버그·더 텔레그래프 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18067950347603806",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeE0Za0FdYB",
+        "kind": "carousel",
+        "at": 1791123111
+      },
+      "instagram": {
+        "id": "18116675986963251",
+        "permalink": "https://www.instagram.com/reel/DeE0tUoDYnS/",
+        "kind": "reel",
+        "at": 1791123271
+      },
+      "youtube": {
+        "id": "hodzBNfRy-c",
+        "permalink": "https://youtube.com/shorts/hodzBNfRy-c",
+        "kind": "shorts",
+        "at": 1791123314
+      },
+      "tiktok": {
+        "id": "7692816139663002898",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692816139663002898",
+        "kind": "video",
+        "at": 1791123446
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791123456
   }
 ]

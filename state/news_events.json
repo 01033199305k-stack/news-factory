@@ -1195,5 +1195,15 @@
     "at": 1791112310.4806082,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine-donbas-operation-vivaldi-2026",
+    "topic": "우크라 영토 140㎢ 탈환 러시아군 250명 생포",
+    "slug": "2026-10-04-news-ukraine-donbas-operation-vivaldi-2026",
+    "cluster": "CBMiS0FVX3lxTE55NVByNmluS3lxODBodkFCTDhoTUdiQ0tySkN4M0V5RUs5M05YeWc0R0Nvd1VRNkQwaUNhZktaS1F1UmhDUmlWQXItMA",
+    "badge": "brief",
+    "at": 1791123041.786199,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]
