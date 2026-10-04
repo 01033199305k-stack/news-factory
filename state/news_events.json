@@ -1145,5 +1145,15 @@
     "at": 1791065351.669203,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "houthi-riyadh-aramco-attack-2026",
+    "topic": "예멘 후티 반군, 사우디 리야드 석유시설 공격",
+    "slug": "2026-10-04-news-houthi-riyadh-aramco-attack-2026",
+    "cluster": "CBMirAFBVV95cUxOUmVOVEVCTVdITFV4aHd1aWM4aC1lZzBQTUIxcG9zSkU0ZXJKbHVRdTRWTUVsRWVsRmZHYlI2ZW01dnp3NlQ4WEV3Wnp0YXpVV2VCQ2RmeVBQQ3BUN0E3S1ZrRkw0ODdkVVJsSnFWWVM5YWVZZExacUlwdGRrc3h1LVJkNHNWY1dZS1F2UE1aR1JHYzNkX0ktS0RIQW4zX3RJUWV4eVBqVFd6X0t1",
+    "badge": "brief",
+    "at": 1791072612.7391357,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]

@@ -6091,5 +6091,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791065713
+  },
+  {
+    "slug": "2026-10-04-news-houthi-riyadh-aramco-attack-2026",
+    "event_ms": 1791072612739,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 예멘 후티 반군이 사우디아라비아 리야드의 석유시설을 공격했다고 밝혔습니다.\n\n· 리야드 정유시설 인근에서 대형 화재와 연기가 포착되었습니다 (NDTV·인디펜던트)\n· 후티 측은 미사일과 드론을 동원해 아람코 시설을 타격했다고 주장했습니다 (로이터)\n· 정확한 피해 규모는 아직 공개되지 않았습니다\n\n중동 정세 악화 속 석유시설 공격이 지역 안보에 미칠 영향은 무엇일까요?\n\n출처: 로이터·프랑스24·인디펜던트·NDTV 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18091247567669558",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeDUOAtke9V",
+        "kind": "carousel",
+        "at": 1791072669
+      },
+      "instagram": {
+        "id": "17893935192673914",
+        "permalink": "https://www.instagram.com/reel/DeDUdeBmDAz/",
+        "kind": "reel",
+        "at": 1791072810
+      },
+      "youtube": {
+        "id": "lFtWSJth_ts",
+        "permalink": "https://youtube.com/shorts/lFtWSJth_ts",
+        "kind": "shorts",
+        "at": 1791072837
+      },
+      "tiktok": {
+        "id": "7692599309199559988",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692599309199559988",
+        "kind": "video",
+        "at": 1791072968
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791072978
   }
 ]
