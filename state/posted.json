@@ -6199,5 +6199,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791080107
+  },
+  {
+    "slug": "2026-10-04-news-us-camp-david-secret-meeting-iran-yemen",
+    "event_ms": 1791090505223,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 최고 안보 참모들이 캠프 데이비드에서 비밀리에 회동했습니다.\n\n· 도널드 트럼프 정부의 고위 안보 참모들이 캠프 데이비드에 모여 이란 및 예멘 관련 대책을 논의했습니다 (Axios).\n· 회의에서는 이란과의 전쟁 가능성과 예멘에 대한 군사 공격 방안이 의제로 다뤄진 것으로 알려졌습니다 (예루살렘포스트).\n· 이번 비밀 회동은 도널드 트럼프 대통령과 JD 밴스 부통령 등이 주도한 것으로 전해졌습니다 (예루살렘포스트).\n\n미국이 중동 분쟁에 직접 개입하는 군사 행동을 단행할 것으로 보십니까?\n\n출처: Axios·CBS·예루살렘포스트 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18098257079419380",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeD2VKTjrUl",
+        "kind": "carousel",
+        "at": 1791090552
+      },
+      "instagram": {
+        "id": "18100143992251158",
+        "permalink": "https://www.instagram.com/reel/DeD2lGEEVLd/",
+        "kind": "reel",
+        "at": 1791090699
+      },
+      "youtube": {
+        "id": "nQQhROS66rI",
+        "permalink": "https://youtube.com/shorts/nQQhROS66rI",
+        "kind": "shorts",
+        "at": 1791090716
+      },
+      "tiktok": {
+        "id": "7692676132050603285",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692676132050603285",
+        "kind": "video",
+        "at": 1791090847
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791090857
   }
 ]

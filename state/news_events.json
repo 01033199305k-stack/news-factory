@@ -1165,5 +1165,15 @@
     "at": 1791079748.4901862,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "us-camp-david-secret-meeting-iran-yemen",
+    "topic": "미 안보 참모진 캠프 데이비드 비밀 회동",
+    "slug": "2026-10-04-news-us-camp-david-secret-meeting-iran-yemen",
+    "cluster": "CBMiqwFBVV95cUxOUUlNVlE5WmlSSHB6ZVIxb20yMnphd2xnUmdoZHRFd0Nzc1dBRG03eC1Cbjd4dnQwdlhzSHlwMGV3WmNadjg3eGJwMXlXeVYyQ0N5Ty1vNjByUHBoS3NYalR2QmgxNkhfYm56YUlUX0diNVJvM2Jtdkl4Q1JRWUhQQU1CdHJzYTJYYnpOTFBMeVYtUXM5RllNRU5lOGJILVRWWnZlQVRuaXZGRlnSAb4BQVVfeXFMUEgwbW1rb0NKblRHMm1fcThUTzVqaURWbzdScy1taUtUUXYtT2tXOUdzRG16MEswNE9wU0xwbFlIZmZMWFFaeGtFV0w1VEZ2ZU9NOVNGdWdWbENYUHpsNjBzV0NHekdBQnZjcEJZYmt5Mkt6RzZmQkg1Wmo2NERZNkVBWnFtSEZWU0YtVEM0Mmx3V0E5ZXRlYUZ6VVNoMHVCaVlYeGhYNy1acFRmQ2lnNWYybUJlRzBVTGNnT2k0dw",
+    "badge": "brief",
+    "at": 1791090505.2236526,
+    "country": "미국",
+    "category": "국제"
   }
 ]
