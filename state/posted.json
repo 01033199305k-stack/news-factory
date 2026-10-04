@@ -6690,5 +6690,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791152078
+  },
+  {
+    "slug": "2026-10-05-news-ukraine-first-ballistic-missile-combat-use-2026",
+    "event_ms": 1791150298000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라이나, 자체 개발 탄도미사일 첫 실전 사용\n\n· 젤렌스키 대통령은 자체 개발한 신형 탄도미사일을 전장에 처음 투입했다고 밝혔습니다 (가디언·WSJ).\n· 우크라이나 측은 해당 미사일이 모스크바까지 닿을 수 있으며 올가을 준비될 것이라고 전했습니다 (우크라인스카 프라우다·키이우 포스트).\n\n우크라이나의 자체 탄도미사일 실전 투입이 향후 전황에 어떤 영향을 미칠 것으로 보십니까?\n출처: 뉴욕타임스·WSJ·가디언·우크라인스카 프라우다 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17882651802691450",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeFyGbrkWfZ",
+        "kind": "carousel",
+        "at": 1791155442
+      },
+      "instagram": {
+        "id": "18633843385050815",
+        "permalink": "https://www.instagram.com/reel/DeFyWfliYxf/",
+        "kind": "reel",
+        "at": 1791155593
+      },
+      "youtube": {
+        "id": "5pewtQfUFyc",
+        "permalink": "https://youtube.com/shorts/5pewtQfUFyc",
+        "kind": "shorts",
+        "at": 1791155651
+      },
+      "tiktok": {
+        "id": "7692954970643041557",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692954970643041557",
+        "kind": "video",
+        "at": 1791155782
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791155792
   }
 ]

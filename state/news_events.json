@@ -1255,5 +1255,15 @@
     "at": 1791151676.565192,
     "country": "영국",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine-first-ballistic-missile-combat-use-2026",
+    "topic": "우크라, 자체 개발 탄도미사일 첫 실전 사용",
+    "slug": "2026-10-05-news-ukraine-first-ballistic-missile-combat-use-2026",
+    "cluster": "CBMiS0FVX3lxTFBfd3hQcnNtTUR1RUFUMFJ6ZkFRczJvVHhDclFaQVJjMFR5Ym1faU9RQlQ0Vnc2a3otMnR2T1FoR1Iwd1RVTWk3RGpOcw",
+    "badge": "breaking",
+    "at": 1791155392.0053387,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-05-news-ukraine-first-ballistic-missile-combat-use-2026",
+  "topic": "우크라, 자체 개발 탄도미사일 첫 실전 사용",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 06:44 KST",
+  "source": "The Guardian·The New York Times·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiS0FVX3lxTFBfd3hQcnNtTUR1RUFUMFJ6ZkFRczJvVHhDclFaQVJjMFR5Ym1faU9RQlQ0Vnc2a3otMnR2T1FoR1Iwd1RVTWk3RGpOcw",
+    "related": [
+      [
+        "Long-Range FP-9 Missile Ready This Fall, Zelensky Says",
+        "Kyiv Post"
+      ],
+      [
+        "Ukraine Reports First Combat Use of Its Own Ballistic Missile",
+        "The New York Times"
+      ],
+      [
+        "Zelenskyy: FP-9 ballistic missile capable of reaching Moscow will be ready this autumn",
+        "Українська правда"
+      ],
+      [
+        "Ukraine war briefing: Zelenskyy says new ballistic missile used in combat",
+        "The Guardian"
+      ],
+      [
+        "Ukraine Fires Hard-to-Stop Ballistic Missile for First Time",
+        "WSJ"
+      ]
+    ],
+    "event_key": "ukraine-first-ballistic-missile-combat-use-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라, 자체 개발\n[[탄도미사일]] 첫 실전 사용",
+      "sub": "젤렌스키 대통령 직접 전장 투입 사실 발표",
+      "chips": [],
+      "alt": "우크라, 자체 개발 탄도미사일 첫 실전 사용",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "첫 실전 사용",
+          "d": "우크라이나는 자체 개발한 탄도미사일을 전장에서 처음 실전 사용했다고 밝혔습니다 (뉴욕타임스·WSJ)."
+        },
+        {
+          "t": "사거리 및 배치",
+          "d": "젤렌스키 대통령은 모스크바까지 닿을 수 있는 신형 미사일이 올가을 준비될 것이라고 전했습니다 (우크라인스카 프라우다·키이우 포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 자체 개발 탄도미사일 실전 투입",
+        "젤렌스키 대통령 공식 확인"
+      ],
+      "unconfirmed": [
+        "구체적인 타격 지점 및 피해 규모",
+        "미사일 세부 제원"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "The Guardian",
+        "The New York Times",
+        "WSJ",
+        "Українська правда",
+        "2026.10.05 08:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나, 자체 개발 탄도미사일 첫 실전 사용\n\n· 젤렌스키 대통령은 자체 개발한 신형 탄도미사일을 전장에 처음 투입했다고 밝혔습니다 (가디언·WSJ).\n· 우크라이나 측은 해당 미사일이 모스크바까지 닿을 수 있으며 올가을 준비될 것이라고 전했습니다 (우크라인스카 프라우다·키이우 포스트).\n\n우크라이나의 자체 탄도미사일 실전 투입이 향후 전황에 어떤 영향을 미칠 것으로 보십니까?\n출처: 뉴욕타임스·WSJ·가디언·우크라인스카 프라우다 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 자체 개발한 탄도미사일을 처음으로 실전에 사용했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "젤렌스키 대통령은 신형 미사일을 전장에 투입했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "월스트리트저널은 요격하기 어려운 탄도미사일을 처음으로 발사했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 타격 목표와 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
