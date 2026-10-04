@@ -6635,5 +6635,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791145011
+  },
+  {
+    "slug": "2026-10-05-news-us-air-force-removes-b1-bombers-uk-base-2026",
+    "event_ms": 1791146340000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국, 보안 우려로 영국서 B-1 폭격기 철수\n\n· 테러 의혹 및 보안 사건이 발생하면서 영국 공군기지에서 B-1 폭격기가 철수되었습니다 (CBS·USA Today·WRAL).\n· 기지에 있던 B-1 폭격기 전량은 미국으로 복귀하고 있습니다 (WSJ).\n\n영국 기지 내 폭격기 철수 결정을 어떻게 보십니까?\n출처: WSJ·CBS·USA투데이·WRAL 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "영국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18051208433806049",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeFrA_ZEfJJ",
+        "kind": "carousel",
+        "at": 1791151728
+      },
+      "instagram": {
+        "id": "17889957405683918",
+        "permalink": "https://www.instagram.com/reel/DeFrQmYkjUu/",
+        "kind": "reel",
+        "at": 1791151876
+      },
+      "youtube": {
+        "id": "GrGVxOaDAwk",
+        "permalink": "https://youtube.com/shorts/GrGVxOaDAwk",
+        "kind": "shorts",
+        "at": 1791151937
+      },
+      "tiktok": {
+        "id": "7692939013161815303",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692939013161815303",
+        "kind": "video",
+        "at": 1791152068
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791152078
   }
 ]
