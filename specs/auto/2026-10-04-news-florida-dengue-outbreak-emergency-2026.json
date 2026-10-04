@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-04-news-florida-dengue-outbreak-emergency-2026",
+  "topic": "미 플로리다 뎅기열 비상 수십 년 만의 최대 확산",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.04 03:45 KST",
+  "source": "The Guardian·Bay News 9·Sarasota Herald-Tribune 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxOOFdVbm9zU3dEN21LanRqQjVLeUY4S2RXeVF6aGdPUWVtaUN1WXF5VVEtQlZOMTlTS3FzNnZ1d1NtVzF1WkVvZXJNX29Fd0lzNGdXc1dsYkRpcDB2blFteXhfaHplM0dsck9WZzRiU21yV0J0WWtEXzg3ejg5ZFVPYmRXc9IBiAFBVV95cUxQZ0RaTFF4am54S0hCdERoWmdRY0JyN3g2Y0R2ZXJLbkJlYWNzdXkwcU1rSmx4X3dheDFLTnFNM0dsd014YmdmZjZPZEwtTzktWHBRZlFrU21DRHdlSVBkR2tHVjM1TlM2WGJ6NnJkcHpSS0phMXVnVDVWazN5YTZlNzFvZUc1eV9P",
+    "related": [
+      [
+        "Florida’s dengue outbreak reportedly largest US has seen in decades",
+        "The Hill"
+      ],
+      [
+        "Dengue fever outbreak prompts Florida counties to declare state of emergency",
+        "The Guardian"
+      ],
+      [
+        "Florida dengue cases hit record 252 as outbreak accelerates",
+        "Sarasota Herald-Tribune"
+      ],
+      [
+        "Pinellas County urges residents to do their part as dengue, West Nile activity grows",
+        "Bay News 9"
+      ],
+      [
+        "What to Know About the Dengue Outbreak in the U.S.",
+        "Time Magazine"
+      ]
+    ],
+    "event_key": "florida-dengue-outbreak-emergency-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미 플로리다 [[뎅기열 비상]]\n수십 년 만의 최대 확산",
+      "sub": "확진 252명 급증에 카운티 비상사태 선포",
+      "chips": [
+        {
+          "k": "확진",
+          "v": "252명"
+        },
+        {
+          "k": "지역",
+          "v": "미 플로리다"
+        }
+      ],
+      "alt": "미 플로리다 뎅기열 비상 수십 년 만의 최대 확산",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다",
+      "video_only": true,
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "비상사태 선포",
+          "d": "뎅기열이 급속도로 번지자 플로리다주 내 카운티들이 비상사태를 선포했습니다 (가디언)."
+        },
+        {
+          "t": "역대 최다 확진",
+          "d": "플로리다의 뎅기열 환자가 252명으로 늘어나며 최다 기록을 세웠습니다 (사라소타 헤럴드-트리뷴)."
+        },
+        {
+          "t": "수십 년 만의 규모",
+          "d": "미국에서 발생한 뎅기열 확산 사태 중 수십 년 만에 가장 큰 규모로 전해졌습니다 (더 힐)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플로리다주 카운티 비상사태 선포",
+        "뎅기열 확진 252명 집계"
+      ],
+      "unconfirmed": [
+        "한국인 감염 피해 여부",
+        "주 전역 추가 확산 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bay News 9",
+        "Sarasota Herald-Tribune",
+        "The Guardian",
+        "The Hill",
+        "Time Magazine",
+        "2026.10.04 11:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 플로리다에서 뎅기열 확진자가 252명으로 급증했습니다.\n\n· 미국 내 수십 년 만의 최대 규모 확산 사태로 전해졌습니다 (더 힐)\n· 확산세가 가팔라지자 플로리다주 내 카운티들은 비상사태를 선포했습니다 (가디언)\n· 피넬라스 카운티에서는 뎅기열과 웨스트나일 바이러스 활동 증가에 주민들의 대응을 당부했습니다 (베이 뉴스 9)\n\n출처: 더 힐·가디언·사라소타 헤럴드-트리뷴·베이 뉴스 9 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 플로리다주에서 뎅기열 감염이 수십 년 만의 최대 규모로 확산하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사라소타 헤럴드-트리뷴은 확진자가 252명에 달해 역대 최다를 기록했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "확산세가 빨라지자 플로리다주 일부 카운티는 비상사태를 선포했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추가 확산 규모 등은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
