@@ -1,0 +1,116 @@
+{
+  "slug": "2026-10-04-news-iran-hormuz-strait-closure-seven-conditions-2026",
+  "topic": "이란 호르무즈 해협 봉쇄 '미국 조건 수용 때까지'",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.04 19:33 KST",
+  "source": "Al Jazeera·Reuters·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirwFBVV95cUxQMU5iaURRWm5Id3NwWTFrR2VBWWpWbW0ycFVqYXUtbC1FT1NwZ2pQU3VwR0k3eVE2UjMyb2p2bm05dUNWZC1GWklzT2UteU1CYUdVM3BfQ1pFb2xBa181UldkbDRqWTBLYk1VQ3VsOGRHX21OS0dhQ091amZuYk14M1F1MjAzQlZSNFVUbEsxWnNXOEJyVjh0aGdZYWJJTVJ4ZFAycXU2OEpfcFNxRWJr",
+    "related": [
+      [
+        "Iran-US war live: Tehran threatens to keep Hormuz shut until US meets conditions",
+        "The Independent"
+      ],
+      [
+        "Iran war live: Hormuz Strait closed until US meets seven agreed conditions",
+        "Al Jazeera"
+      ],
+      [
+        "Iran's IRGC hits 7 'violating' tankers in Strait of Hormuz in 5 days",
+        "news.cgtn.com"
+      ],
+      [
+        "Iran threatens to attack Mideast infrastructure after Trump dismisses Hormuz proposal",
+        "The Times of Israel"
+      ],
+      [
+        "Iran says Strait of Hormuz will not reopen until conditions are met",
+        "Reuters"
+      ]
+    ],
+    "event_key": "iran-hormuz-strait-closure-seven-conditions-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이란 [[호르무즈 해협]] 봉쇄\n'미국 조건 수용 때까지'",
+      "sub": "7가지 요구 조건 제시하며 해협 재개방 거부",
+      "chips": [
+        {
+          "k": "요구 조건",
+          "v": "7개"
+        },
+        {
+          "k": "공격 주장",
+          "v": "유조선 7척"
+        }
+      ],
+      "alt": "이란 호르무즈 해협 봉쇄 '미국 조건 수용 때까지'"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해협 재개방 조건",
+          "d": "이란은 미국이 제시된 7가지 조건을 수용할 때까지 해협을 열지 않겠다고 밝혔습니다 (알자지라·인디펜던트)."
+        },
+        {
+          "t": "유조선 공격 주장",
+          "d": "이란 혁명수비대는 최근 5일 동안 해협 규정을 위반한 유조선 7척을 타격했다고 주장했습니다 (CGTN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란의 호르무즈 해협 봉쇄 유지 발표",
+        "미국 대상 7가지 요구 조건 제시"
+      ],
+      "unconfirmed": [
+        "미국 측의 조건 수용 여부",
+        "한국인 피해 및 운항 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "The Independent",
+        "The Times of Israel",
+        "news.cgtn.com",
+        "2026.10.04 20:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이란이 미국에 7가지 조건을 제시하며 호르무즈 해협 봉쇄를 이어가겠다고 밝혔습니다.\n\n· 이란은 요구 조건이 받아들여질 때까지 해협을 재개방하지 않겠다고 선언했습니다 (알자지라·인디펜던트)\n· 이란 혁명수비대는 최근 5일간 규정을 위반한 유조선 7척을 공격했다고 주장했습니다 (CGTN)\n\n이 중동 정세 변화가 세계 에너지 시장에 어떤 영향을 미칠 것으로 보시나요?\n\n출처: 알자지라·로이터·인디펜던트·CGTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 미국의 조건 수용 전까지 호르무즈 해협을 계속 봉쇄하겠다고 선언했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란은 해협 재개방을 위해 미국에 7가지 요구 조건을 제시했다고 알자지라가 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란 측은 최근 5일 동안 해협을 위반한 유조선 7척을 타격했다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국의 조건 수용 여부와 후속 대응은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
