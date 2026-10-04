@@ -1215,5 +1215,15 @@
     "at": 1791127642.709387,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "yemen-government-offensive-2026",
+    "topic": "예멘 정부, 후티 반군 영토 탈환 작전 개시",
+    "slug": "2026-10-04-news-yemen-government-offensive-2026",
+    "cluster": "CBMiXkFVX3lxTE1taGViMkRWRlZBZ3ljTDJ3T1lsTlFzcHN6VGNXOUlDUF9kbXVBM3hQU1BZcEJodkNPdmpueVBvRGtrWjBTRlp0LUZjMkJSRlRIYnpfM2s4eFIxcVVDYVE",
+    "badge": "breaking",
+    "at": 1791133833.5181272,
+    "country": "예멘",
+    "category": "국제"
   }
 ]

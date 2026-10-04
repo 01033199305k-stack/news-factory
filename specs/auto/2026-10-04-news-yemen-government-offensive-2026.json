@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-04-news-yemen-government-offensive-2026",
+  "topic": "예멘 정부, 후티 반군 영토 탈환 작전 개시",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.04 23:24 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1taGViMkRWRlZBZ3ljTDJ3T1lsTlFzcHN6VGNXOUlDUF9kbXVBM3hQU1BZcEJodkNPdmpueVBvRGtrWjBTRlp0LUZjMkJSRlRIYnpfM2s4eFIxcVVDYVE",
+    "related": [
+      [
+        "Yemen government announces major operation to retake Houthi territory",
+        "BBC"
+      ],
+      [
+        "Iran war live: Yemen leader announces operations to seize Houthi-held areas",
+        "Al Jazeera"
+      ],
+      [
+        "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
+        "Reuters"
+      ],
+      [
+        "Saudis plot assault on Houthis to retake Red Sea strait",
+        "The Telegraph"
+      ],
+      [
+        "Houthis Claim Attack on Aramco as Yemen Conflict Escalates",
+        "nytimes.com"
+      ]
+    ],
+    "event_key": "yemen-government-offensive-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "예멘 정부, 후티 반군 영토\n[[탈환 작전]] 개시",
+      "sub": "사우디도 홍해 해협 통제권 확보 위해 공격 계획 중",
+      "chips": [
+        {
+          "k": "작전 주체",
+          "v": "예멘 정부"
+        }
+      ],
+      "alt": "예멘 정부, 후티 반군 영토 탈환 작전 개시",
+      "map": {
+        "lat": 15.35,
+        "lon": 44.2,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "예멘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "예멘\n사나",
+      "video_only": true,
+      "map": {
+        "lat": 15.35,
+        "lon": 44.2,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "사나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "정부군의 대규모 공세",
+          "d": "예멘 정부는 이란의 지원을 받는 후티 반군이 장악한 영토를 되찾기 위해 대규모 작전을 선언했습니다 (BBC·로이터·알자지라)."
+        },
+        {
+          "t": "사우디의 공격 계획",
+          "d": "사우디아라비아 또한 홍해 해협을 되찾기 위해 후티 반군을 겨냥한 공격을 계획하고 있습니다 (더 텔레그래프)."
+        },
+        {
+          "t": "예멘 갈등 고조",
+          "d": "후티 반군이 사우디 아람코를 공격했다고 주장하는 등 예멘 내 군사적 긴장이 고조되고 있습니다 (뉴욕타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "예멘 정부군의 영토 탈환 작전 선언",
+        "사우디아라비아의 홍해 해협 탈환 공격 계획"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Reuters",
+        "The Telegraph",
+        "nytimes.com",
+        "2026.10.05 02:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 예멘 정부가 후티 반군 점령지를 되찾기 위한 탈환 작전을 개시했습니다.\n\n· 예멘 정부군은 이란의 지원을 받는 후티 반군으로부터 영토를 되찾기 위해 대규모 공세를 시작했습니다 (로이터·BBC·알자지라).\n· 사우디아라비아 또한 홍해 해협을 되찾기 위해 후티 반군 공격을 계획 중인 것으로 전해졌습니다 (더 텔레그래프).\n· 후티 반군은 사우디 아람코 공격을 주장하는 등 예멘 내 갈등이 고조되고 있습니다 (뉴욕타임스).\n\n이번 대규모 군사 충돌이 홍해 미사일 위기와 중동 정세에 어떤 영향을 미칠까요?\n\n출처: BBC·알자지라·로이터·더 텔레그래프·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "예멘 정부군이 후티 반군 점령지를 되찾기 위한 영토 탈환 작전을 개시했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디아라비아 역시 홍해 해협을 되찾기 위해 후티 반군 공격을 계획하고 있는 것으로 알려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신들은 후티 반군의 아람코 공격 주장 등으로 예멘 내 갈등이 한층 고조되고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정부군의 작전 선언 이후 정확한 인명 피해 규모나 세부 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
