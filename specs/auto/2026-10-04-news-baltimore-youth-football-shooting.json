@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-04-news-baltimore-youth-football-shooting",
+  "topic": "유소년 축구장 총격전 12세 소녀 총탄에 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.04 23:39 KST",
+  "source": "ABC News·Fox News·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxPYUxCYXZOb2ZzLVUwLXpzbTh4SWRkaXRhdERJQUstZUVfVVhPeVdxczlNYi1veGZkWE85QTYzdmFTejVVR3dOS3U2V3hvQWlGMnBPVkEyWmpNNjBrOVVsZlZWLWxTWkhXTDR1VUVkYWd3em5DZjZyMUd0UWQtVkV3bGsxVGdMY1NNdDBDQnZhZw",
+    "related": [
+      [
+        "12-year-old girl killed in crossfire during youth football game in Baltimore; 3 adults injured",
+        "WBAL-TV"
+      ],
+      [
+        "Girl killed, 4 injured in crossfire of parking lot dispute at youth football game",
+        "WBFF"
+      ],
+      [
+        "Police say a 12-year-old girl was fatally shot at Baltimore park where youth football game was",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Shooting near Baltimore youth football event leaves 12-year-old girl dead, 3 adults wounded",
+        "Fox News"
+      ],
+      [
+        "12-Year-Old Girl Killed and 4 Injured in Shooting Allegedly ‘Over Parking Spot’ at Children’s Homecoming Game",
+        "yahoo.com"
+      ]
+    ],
+    "event_key": "baltimore-youth-football-shooting"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[유소년 축구장]] 총격전\n12세 소녀 총탄에 사망",
+      "sub": "주차 시비가 총격으로 번져 3~4명 부상",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "장소",
+          "v": "미식축구 경기장"
+        }
+      ],
+      "alt": "유소년 축구장 총격전 12세 소녀 총탄에 사망",
+      "map": {
+        "lat": 39.2908816,
+        "lon": -76.610759,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n메릴랜드주 볼티모어",
+      "video_only": true,
+      "map": {
+        "lat": 39.2908816,
+        "lon": -76.610759,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "메릴랜드주 볼티모어"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주차 시비가 총격으로",
+          "d": "유소년 경기장 주차장에서 발생한 시비가 양측의 총격전으로 번졌습니다 (WBFF)."
+        },
+        {
+          "t": "12세 소녀 참변",
+          "d": "12세 소녀가 날아온 총탄에 맞아 숨졌습니다 (ABC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "12세 소녀 사망 (ABC)",
+        "유소년 축구장 근처 총격 (Fox)"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수 (매체별 집계 차이 있음)",
+        "총격 용의자 신원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Fox News",
+        "WBAL-TV",
+        "WBFF",
+        "yahoo.com",
+        "2026.10.05 00:27 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 유소년 경기장 인근에서 총격이 발생해 12세 소녀가 숨졌습니다.\n\n· 유소년 미식축구 경기장 주차장에서 시비가 붙어 총격전이 벌어졌습니다 (WBFF).\n· 12세 소녀가 날아온 총탄에 맞아 숨졌습니다 (ABC).\n· 성인 3~4명이 총상을 입었으나 정확한 부상자 수는 매체별 집계 차이가 있습니다 (WBAL-TV·Fox·WBFF).\n\n출처: ABC·Fox·WBAL-TV·WBFF 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 볼티모어의 유소년 미식축구 경기장 근처에서 총격전이 벌어져 12세 소녀가 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 언론은 경기장 주차장에서 일어난 시비가 총격전으로 번졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "성인 3명에서 4명이 총상을 입었습니다.",
+      "card": "map"
+    }
+  ]
+}

@@ -1205,5 +1205,15 @@
     "at": 1791123041.786199,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "baltimore-youth-football-shooting",
+    "topic": "유소년 축구장 총격전 12세 소녀 총탄에 사망",
+    "slug": "2026-10-04-news-baltimore-youth-football-shooting",
+    "cluster": "CBMijwFBVV95cUxPYUxCYXZOb2ZzLVUwLXpzbTh4SWRkaXRhdERJQUstZUVfVVhPeVdxczlNYi1veGZkWE85QTYzdmFTejVVR3dOS3U2V3hvQWlGMnBPVkEyWmpNNjBrOVVsZlZWLWxTWkhXTDR1VUVkYWd3em5DZjZyMUd0UWQtVkV3bGsxVGdMY1NNdDBDQnZhZw",
+    "badge": "breaking",
+    "at": 1791127642.709387,
+    "country": "미국",
+    "category": "총격·테러"
   }
 ]
