@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-05-news-bosnia-general-election-2026",
+  "topic": "보스니아 총선 실시 친러 성향 지도자 승리 선언",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 04:47 KST",
+  "source": "AP News·Al Jazeera·Euronews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixAFBVV95cUxORHhINTFReXgwUjJYMnlmcGtWXzNzbDZUUXVYN0hzS01HRzh2Z1JwdzZIUTAtVEYtaVZvWWRSMkVVaWlCU2xITkdPN04zOENrY2ZxSFNtRU54bnlsWTF3d3VsdzZsbDI2dlpabFhGa1BDbmtDckpjVTdtcGZrX1RsWjhIcllBQTVmalhlMmNqeGtHQkVDYUtnLTZ6RHRMQzd2YXlUTUdqbWxZY3lnejk1SWwyMFg1dnVEdmhQdllOS2ZBM3FT",
+    "related": [
+      [
+        "Bosnia awaits for final general election results as preliminary count remains unclear",
+        "Euronews.com"
+      ],
+      [
+        "Bosnia votes in one of world’s most complicated general elections",
+        "Al Jazeera"
+      ],
+      [
+        "Serb separatist Dodik declares victory in Bosnia vote as ethnic tensions and EU hopes collide",
+        "AP News"
+      ],
+      [
+        "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
+        "dw.com"
+      ],
+      [
+        "Bosnia votes as pro-Russian politician looms large and ethnic tensions simmer",
+        "PBS"
+      ]
+    ],
+    "event_key": "bosnia-general-election-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "보스니아 총선 실시\n친러 성향 지도자 [[승리 선언]]",
+      "sub": "복잡한 선거 구도 속 민족 갈등 고조",
+      "chips": [
+        {
+          "k": "선거",
+          "v": "총선 실시"
+        }
+      ],
+      "alt": "보스니아 총선 실시 친러 성향 지도자 승리 선언",
+      "map": {
+        "lat": 43.8570713,
+        "lon": 18.4126147,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "보스니아 헤르체고비나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "보스니아 헤르체고비나\n사라예보",
+      "video_only": true,
+      "map": {
+        "lat": 43.8570713,
+        "lon": 18.4126147,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "사라예보"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "선거 구도",
+          "d": "세계에서 가장 복잡한 제도 중 하나로 꼽히는 보스니아 총선이 치러졌습니다 (알자지라)"
+        },
+        {
+          "t": "주요 인물",
+          "d": "세르브계 분리주의 지도자 도디크가 선거 승리를 선언했습니다 (AP 통신)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "보스니아 총선 실시",
+        "세르브계 지도자 승리 선언"
+      ],
+      "unconfirmed": [
+        "최종 선거 결과",
+        "향후 유럽연합 가입 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "Euronews.com",
+        "PBS",
+        "dw.com",
+        "2026.10.05 05:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 보스니아 총선 실시, 친러 성향 지도자 승리 선언\n\n· 세계에서 가장 복잡한 제도 중 하나로 꼽히는 보스니아 총선이 치러졌습니다 (알자지라)\n· 세르브계 분리주의 지도자 도디크가 선거 승리를 선언했습니다 (AP 통신)\n· 민족 갈등과 유럽연합 가입 문제를 둘러싼 긴장이 고조되고 있습니다 (AP 통신)\n\n보스니아의 이번 총선 결과가 향후 국제 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 알자지라·AP 통신·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "보스니아에서 복잡한 구도의 총선이 치러졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "세르브계 분리주의 지도자가 승리를 선언했다고 AP 통신이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 선거로 민족 간 갈등과 유럽연합 가입 문제가 다시 쟁점으로 떠올랐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최종 선거 결과는 아직 나오지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

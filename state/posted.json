@@ -6582,5 +6582,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791143542
+  },
+  {
+    "slug": "2026-10-05-news-bosnia-general-election-2026",
+    "event_ms": 1791143221000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 보스니아 총선 실시, 친러 성향 지도자 승리 선언\n\n· 세계에서 가장 복잡한 제도 중 하나로 꼽히는 보스니아 총선이 치러졌습니다 (알자지라)\n· 세르브계 분리주의 지도자 도디크가 선거 승리를 선언했습니다 (AP 통신)\n· 민족 갈등과 유럽연합 가입 문제를 둘러싼 긴장이 고조되고 있습니다 (AP 통신)\n\n보스니아의 이번 총선 결과가 향후 국제 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 알자지라·AP 통신·유로뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "보스니아헤르체고비나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17902057104667911",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeFdjjUAbyE",
+        "kind": "carousel",
+        "at": 1791144671
+      },
+      "instagram": {
+        "id": "18041194652821060",
+        "permalink": "https://www.instagram.com/reel/DeFd4lBilgY/",
+        "kind": "reel",
+        "at": 1791144869
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791144879
+      },
+      "tiktok": {
+        "id": "7692908691426741525",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692908691426741525",
+        "kind": "video",
+        "at": 1791145001
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791145011
   }
 ]
