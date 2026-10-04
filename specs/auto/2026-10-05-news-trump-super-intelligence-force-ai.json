@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-05-news-trump-super-intelligence-force-ai",
+  "topic": "트럼프, AI 전담 초지능 부대 창설",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 02:28 KST",
+  "source": "CNN·Fox News·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxOa19adU9sV0V4bFFRV1BZYlJySTRjbURpekNybjFtZWIzQ3h6LWJrdXRoVG5nSGlMaTh0QlJRZkYwYWczR1JNejNIZ0wwYkFETDhPMVp2c1RrRlhqNFVyMDR1OHJIajljMkgzSEVwOUtEMXY3S2N5UE5KWFpZNExLelNIN0hUSjZhRWRaS0dMd0U0WndnMXpZWjk4UDhGR0daLS1ZV2xUMDBPREJTT3d3VFZKU1FyUQ",
+    "related": [
+      [
+        "Trump launches ‘Super Intelligence Force’ after calls for AI slowdown",
+        "The Washington Post"
+      ],
+      [
+        "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+        "WSJ"
+      ],
+      [
+        "Trump taps top officials to lead new 'Super Intelligence Force'",
+        "Fox News"
+      ],
+      [
+        "President Donald Trump announces creation of 'Super Intelligence Force' AI task force",
+        "abcnews.com"
+      ],
+      [
+        "Trump announces leadership of AI task force",
+        "CNN"
+      ]
+    ],
+    "event_key": "trump-super-intelligence-force-ai"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "트럼프, AI 전담\n[[초지능 부대]] 창설",
+      "sub": "백악관 AI 태스크포스 발표 및 지도부 임명",
+      "chips": [
+        {
+          "k": "기구명",
+          "v": "초지능 부대"
+        }
+      ],
+      "alt": "트럼프, AI 전담 초지능 부대 창설",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "AI 태스크포스 신설",
+          "d": "도널드 트럼프 미국 대통령이 백악관 AI 태스크포스인 '초지능 부대' 창설을 발표하고 지도부를 임명했습니다. (ABC·Fox News·CNN)"
+        },
+        {
+          "t": "AI 개발 속도 조절 요구 속 발표",
+          "d": "이번 기구 창설은 AI 개발 속도를 늦춰야 한다는 요구가 제기된 가운데 발표되었습니다. (워싱턴포스트)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "초지능 부대 창설 발표",
+        "백악관 AI 태스크포스 설치 및 지도부 임명"
+      ],
+      "unconfirmed": [
+        "신설 조직의 예산 규모",
+        "세부 활동 및 운영 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Fox News",
+        "The Washington Post",
+        "WSJ",
+        "abcnews.com",
+        "2026.10.05 04:44 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 트럼프 미국 대통령이 백악관 AI 태스크포스인 '초지능 부대' 창설을 발표했습니다.\n\n· 트럼프 대통령은 새로운 AI 태스크포스 창설을 발표하고 이끌 지도부를 임명했습니다 (WSJ·CNN·Fox News)\n· 이번 발표는 AI 개발 속도를 늦춰야 한다는 요구가 나오는 가운데 이뤄졌습니다 (워싱턴포스트)\n· 신설 조직의 세부 목표와 구성원은 향후 공개될 것으로 보입니다 (WSJ)\n\n이번 백악관 AI 태스크포스 출범이 향후 AI 분야에 어떤 영향을 미칠 것으로 보십니까?\n출처: 워싱턴포스트·월스트리트저널·CNN·Fox News·ABC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "도널드 트럼프 미국 대통령이 AI 태스크포스인 '초지능 부대' 창설을 발표했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "트럼프 대통령은 새로운 조직을 이끌 지도부 인선을 진행했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 창설은 AI 개발 속도를 늦춰야 한다는 요구가 나오는 가운데 발표되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "백악관 태스크포스의 목표와 구성원 등 세부 내용도 공개될 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "신설 조직의 구체적인 예산 규모와 세부 계획은 아직 공개되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
