@@ -6254,5 +6254,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791090857
+  },
+  {
+    "slug": "2026-10-04-news-okinawa-us-marine-murder-japan-protest-2026",
+    "event_ms": 1791107765093,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 일본 오키나와서 여성 살해 혐의로 미 해병 체포… 日 정부 미국에 공식 항의\n\n· 오키나와 호텔에서 일본인 여성을 살해한 혐의로 미 해병대원이 체포됐습니다 (스타스앤스트라입스)\n· 일본 총리가 이번 사건에 대해 미국 측에 공식 항의를 전달했습니다 (로이터·CNN)\n\n이번 미군 범죄에 따른 미일 관계 영향에 대해 어떻게 생각하시나요?\n출처: 로이터·CNN·ABC·NYT 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "일본"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18105238996973590",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeEXQb_lZfx",
+        "kind": "carousel",
+        "at": 1791107826
+      },
+      "instagram": {
+        "id": "18410836834088607",
+        "permalink": "https://www.instagram.com/reel/DeEXh1OiHvw/",
+        "kind": "reel",
+        "at": 1791107980
+      },
+      "youtube": {
+        "id": "q-tE997omvY",
+        "permalink": "https://youtube.com/shorts/q-tE997omvY",
+        "kind": "shorts",
+        "at": 1791108104
+      },
+      "tiktok": {
+        "id": "7692750790749900033",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7692750790749900033",
+        "kind": "video",
+        "at": 1791108235
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791108245
   }
 ]

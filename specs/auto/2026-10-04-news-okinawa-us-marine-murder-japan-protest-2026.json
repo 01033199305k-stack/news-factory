@@ -1,0 +1,133 @@
+{
+  "slug": "2026-10-04-news-okinawa-us-marine-murder-japan-protest-2026",
+  "topic": "오키나와 여성 피살 미 해병 체포에 日 항의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.04 13:35 KST",
+  "source": "ABC News·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxOdXlBeHBvRW14WWtyMlNzSVk0TmdtRWJkdVNHcUpNNFdmNnZSOWxyTGlTcHVHbW45elhJWXNQVG53UTAwS3dPXzBZRzhvdmNkdG82Zk1YaU9SS2FDMnBRblRPMXpxdmFDVzN3Xzk2SDdHQng3NHVBQXhPT0Z6em5zQ1dLakM5ek9rd2hjbTlPZ3RuQQ",
+    "related": [
+      [
+        "Japan Protests After U.S. Marine Is Accused of Killing Woman in Okinawa",
+        "The New York Times"
+      ],
+      [
+        "Japan PM registers protest to US after Marine arrested on suspicion of murder in Okinawa",
+        "CNN"
+      ],
+      [
+        "Japan's Takaichi protests to US after Marine accused of murder in Okinawa",
+        "Reuters"
+      ],
+      [
+        "US Marine arrested on suspicion of murder after 'brutal and heinous' death in Japan, officials say",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Okinawa police arrest US Marine on suspicion of killing Japanese woman at hotel",
+        "stripes.com"
+      ]
+    ],
+    "event_key": "okinawa-us-marine-murder-japan-protest-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "오키나와 여성 피살\n[[미 해병 체포]]에 日 항의",
+      "sub": "일본 총리가 미국 측에 공식 항의를 전달했습니다",
+      "chips": [
+        {
+          "k": "용의자",
+          "v": "미 해병대원"
+        },
+        {
+          "k": "대응",
+          "v": "日 공식 항의"
+        }
+      ],
+      "alt": "오키나와 여성 피살 미 해병 체포에 日 항의",
+      "map": {
+        "lat": 26.5707754,
+        "lon": 128.0255901,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "일본"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "일본\n오키나와",
+      "video_only": true,
+      "map": {
+        "lat": 26.5707754,
+        "lon": 128.0255901,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오키나와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "호텔서 여성 살해 혐의",
+          "d": "오키나와 현지 호텔에서 일본인 여성을 살해한 혐의로 미 해병대원이 체포됐다고 현지 경찰과 외신이 전했습니다 (스타스앤스트라입스)."
+        },
+        {
+          "t": "일본 총리 공식 항의",
+          "d": "일본 정부 수반이 이번 사건과 관련해 미국 측에 공식 항의를 전달했다고 보도됐습니다 (로이터·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 해병대원 살인 혐의 체포",
+        "일본 정부의 대미 공식 항의"
+      ],
+      "unconfirmed": [
+        "구체적인 범행 동기 및 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "stripes.com",
+        "2026.10.04 18:55 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 일본 오키나와서 여성 살해 혐의로 미 해병 체포… 日 정부 미국에 공식 항의\n\n· 오키나와 호텔에서 일본인 여성을 살해한 혐의로 미 해병대원이 체포됐습니다 (스타스앤스트라입스)\n· 일본 총리가 이번 사건에 대해 미국 측에 공식 항의를 전달했습니다 (로이터·CNN)\n\n이번 미군 범죄에 따른 미일 관계 영향에 대해 어떻게 생각하시나요?\n출처: 로이터·CNN·ABC·NYT 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "일본 오키나와에서 미 해병대원이 일본인 여성을 살해한 혐의로 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사건은 오키나와의 한 호텔에서 일어났으며 현지 경찰이 해병대원을 검거했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "일본 총리가 미국 정부에 공식 항의를 전달했다고 외신들이 전했습니다.",
+      "card": "points"
+    }
+  ]
+}
