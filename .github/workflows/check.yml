@@ -146,6 +146,40 @@ jobs:
           print("숫자 검증 :", "통과" if ok else "거부 %s" % bad)
           EOF
 
+      - name: 국내 사건·사고 판정 시험 (게시 안 함)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python - <<'EOF'
+          from datetime import datetime, timezone
+          import news_watch as n
+          # 2026-10-05 실제 한국판 구글 뉴스 묶음. 기대: c0 post, c1 skip(1명 사고), c2 skip(국내 정치)
+          pub = datetime(2026, 10, 5, 6, 0, tzinfo=timezone.utc)
+          samples = [
+              [("식당에서 밥 먹다 날벼락... 화물차 돌진에 15명 부상", "조선일보"),
+               ("광명서 승용차 충돌한 25t 트럭 상가 돌진…15명 중경상", "뉴시스"),
+               ("벤츠 충돌한 25톤 화물차 식당 돌진...15명 중경상", "YTN"),
+               ("광명 능촌사거리서 식당으로 화물차 돌진…2명 중상", "KBS 뉴스")],
+              [("설악산 울산바위 사진 찍다 추락한 70대 남성 숨져", "MBC 뉴스"),
+               ("고성 성인대서 사진 찍다 40ｍ 추락한 70대 등산객 숨져(종합)", "연합뉴스"),
+               ("[속보]고성 금강산서 사진찍다 40ｍ 추락…심정지 상태로 헬기 이송", "문화일보")],
+              [("국힘 권영진 “한동훈의 비생산적 ‘노무현’ 공방…나는 빼달라”", "한겨레"),
+               ("'盧 수사' 與-한동훈 2라운드…\"석고대죄하라\"·\"성역화 말라\"", "연합뉴스"),
+               ("김어준 \"어디서 감히 노무현을 들먹여\"…한동훈 \"팩트 없는 거만한 가스라이팅\"", "뉴시스")]]
+          cands = [{"id": "kr%d" % i, "title": r[0][0], "pub": pub, "kr": True, "related": r,
+                    "sources": sorted({s for _, s in r})} for i, r in enumerate(samples)]
+          for ev in n.judge(cands, []):
+              print("%s %s %s" % (ev["candidate_id"], ev["decision"], ev["skip_reason"]))
+              if ev["decision"] == "post":
+                  c = cands[int(ev["candidate_id"][1:])]
+                  ev = n.verify(ev, c)
+                  print("  제목 :", ev["headline_ko"].replace("\n", " / "), "|", ev["category"], ev["country_ko"], ev["place_query"])
+                  print("  미확인:", ev["unconfirmed"])
+                  print("  본문 :\n" + ev["caption_ko"])
+                  ok, bad = n.numbers_ok(ev, c)
+                  print("  숫자 :", "통과" if ok else "거부 %s" % bad)
+          EOF
+
       - name: 렌더링 확인
         run: |
           pip install --quiet pillow
