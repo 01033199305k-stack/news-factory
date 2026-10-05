@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-05-news-pakistan-imran-khan-protest-march",
+  "topic": "파키스탄 임란 칸 지지자들 수도 이슬라마바드 향해 대규모 행진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 16:06 KST",
+  "source": "Al Jazeera·BBC·Bloomberg.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxNeXJ5YkVWZXoybDJaUkdHRHc5ZHhKb2pielg1bE92MFhVbVNpNXkwNXpQejR1TzBKSVZKdEFUOE1aMU8zdFRiRVhCUms4T1NyQXc0cEtuZFUxeHBrOUhPdC12UEtubmNZWmhyQUdNYTRjSWwyQ19Ib1lhTVYyUjdQX1Z0bThHYkhiWXJoTkxpM0hYbTdFZG95QURXbEhibGtLRXU3akI4ejM5cUF3cHU2a0xR0gG3AUFVX3lxTE5wQzRrakhURkpmVVZhSHpEekdkazduSmlEUlJ6SnVfRzdZQkxGcDAwZnJfZ3FmZlhSQ1Q5bGFncjhEVlZiYlVaMWdQYWNKRVZYYnk0bFl1RDZQNXg1WlBvMGhIV29NRk0tUnFBSmVsbU5wT25XTl9NNDBXMUdjQXNDWk9vRE0zTmlqaHZUekZZM1ppbWFHXzZMX1NKdmE5Wjc4NDJiSXlTYjJLcERkbFVYeW8xckRXRQ",
+    "related": [
+      [
+        "Pro-Imran Khan mass rally launched after Pakistan government talks fail",
+        "Al Jazeera"
+      ],
+      [
+        "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+        "BBC"
+      ],
+      [
+        "Thousands of Imran Khan supporters march towards Pakistan's barricaded capital Islamabad",
+        "Sky News"
+      ],
+      [
+        "'We are not yes-men': CM Afridi launches PTI long march to Islamabad, convoy enters Karak district",
+        "Dawn"
+      ],
+      [
+        "Imran Khan’s Party Revives Protest March After Talks Collapse",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "pakistan-imran-khan-protest-march"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파키스탄 [[임란 칸]] 지지자들\n수도 이슬라마바드 향해 대규모 행진",
+      "sub": "정부와의 협상 결렬 이후 시위 재개",
+      "chips": [],
+      "alt": "파키스탄 임란 칸 지지자들 수도 이슬라마바드 향해 대규모 행진",
+      "map": {
+        "lat": 33.6938118,
+        "lon": 73.0651511,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "파키스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파키스탄\n이슬라마바드",
+      "video_only": true,
+      "map": {
+        "lat": 33.6938118,
+        "lon": 73.0651511,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "이슬라마바드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "시위 배경",
+          "d": "파키스탄 정부와의 협상이 결렬된 이후 임란 칸 전 총리의 지지자들이 대규모 시위에 돌입했습니다 (알자지라·블룸버그)."
+        },
+        {
+          "t": "행진 상황",
+          "d": "수천 명의 지지자들이 바리케이드가 쳐진 수도 이슬라마바드를 향해 행진하고 있습니다 (스카이 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "임란 칸 전 총리 지지자들의 대규모 행진",
+        "정부와의 협상 결렬에 따른 시위 재개",
+        "수도 이슬라마바드로 행진"
+      ],
+      "unconfirmed": [
+        "경찰과의 물리적 충돌 발생 여부 및 정확한 참가자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Bloomberg.com",
+        "Dawn",
+        "Sky News",
+        "2026.10.05 17:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파키스탄 임란 칸 지지자들 수도 이슬라마바드 향해 대규모 행진\n\n· 파키스탄 정부와의 협상이 결렬된 이후 임란 칸 전 총리의 지지자들이 대규모 시위에 돌입했습니다 (알자지라·블룸버그)\n· 수천 명의 지지자들이 바리케이드가 쳐진 수도 이슬라마바드를 향해 행진하고 있습니다 (스카이 뉴스)\n\n파키스탄 정부와 야권 간의 갈등이 격화되는 가운데, 이번 대규모 시위가 정국 안정에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 알자지라·BBC·스카이 뉴스·던·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파키스탄에서 구속된 임란 칸 전 총리의 지지자들이 수도를 향해 대규모 행진을 시작했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 정부와의 협상이 결렬된 뒤 지지자들이 이슬라마바드로 향하고 있다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "수천 명의 시위대가 바리케이드가 설치된 수도를 향해 행진하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경찰과의 물리적 충돌 발생 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
