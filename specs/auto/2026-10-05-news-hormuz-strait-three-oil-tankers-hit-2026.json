@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-05-news-hormuz-strait-three-oil-tankers-hit-2026",
+  "topic": "호르무즈 해협서 유조선 3척 피격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 10:08 KST",
+  "source": "Bloomberg.com·Reuters·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiywFBVV95cUxQTjJfTkxZb2p6amNPb0RqQndLX19NdjRCVGVoTjlPbl9Dd256T3R4ZkgwRUwxU1UxLVNNZEsyRnJQcXJGWXotdDAyZWlGR09IWkg0UHhQRDc3eHphNXpnZWdaNGN6Y29COVFZWXZUUU1sS3YtMmpzVngtQjg5NW1zczBMYUhPclB3czBlOUtTcXU0RmJUY21uZ3diOWJNRkVtamVGX1pQbUVPRFFDNmxBQWRDMUhRUGVmbTdDdW1MeFdvb1I3QzNpZHZCSQ",
+    "related": [
+      [
+        "Oil Was Pouring Out of Hormuz Again. Then Attacks on Ships Resurged.",
+        "WSJ"
+      ],
+      [
+        "No Lights, No Radio: Getting Oil Through Hormuz Is a Risky Job",
+        "Bloomberg.com"
+      ],
+      [
+        "Three oil tankers hit by projectiles in Hormuz strait on Tuesday, Marisks says",
+        "Reuters"
+      ],
+      [
+        "Tanker in Strait of Hormuz struck by projectile but crew reportedly safe, British maritime agency says",
+        "The Times of Israel"
+      ],
+      [
+        "More Tankers Hit as Iran Restates Hormuz Terms",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "hormuz-strait-three-oil-tankers-hit-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈 해협서\n유조선 [[3척]] 피격",
+      "sub": "발사체 맞았으나 선원 안전한 것으로 보고됨",
+      "chips": [
+        {
+          "k": "피격 유조선",
+          "v": "3척"
+        }
+      ],
+      "alt": "호르무즈 해협서 유조선 3척 피격",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유조선 3척 피격",
+          "d": "로이터 통신은 호르무즈 해협에서 유조선 3척이 발사체 공격을 받았다고 전했습니다."
+        },
+        {
+          "t": "선원 안전 파악",
+          "d": "타임스 오브 이스라엘은 피격된 유조선의 선원들이 무사한 것으로 보고됐다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호르무즈 해협서 유조선 3척 피격 (로이터)",
+        "피격 유조선 선원 무사 (타임스 오브 이스라엘)"
+      ],
+      "unconfirmed": [
+        "공격 주체 및 발사체 종류",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Reuters",
+        "The Times of Israel",
+        "WSJ",
+        "Yahoo",
+        "2026.10.05 12:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협서 유조선 3척이 발사체에 피격됐습니다.\n\n· 유조선 3척이 발사체 공격을 받음 (로이터)\n· 피격 유조선 선원들은 무사한 것으로 파악됨 (타임스 오브 이스라엘)\n\n출처: 로이터·타임스 오브 이스라엘·월스트리트저널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 유조선 3척이 발사체 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 유조선들이 피격됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "피격된 유조선의 선원은 무사한 것으로 알려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격을 감행한 주체는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

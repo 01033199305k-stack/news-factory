@@ -6798,5 +6798,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791166369
+  },
+  {
+    "slug": "2026-10-05-news-hormuz-strait-three-oil-tankers-hit-2026",
+    "event_ms": 1791162528000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 호르무즈 해협서 유조선 3척이 발사체에 피격됐습니다.\n\n· 유조선 3척이 발사체 공격을 받음 (로이터)\n· 피격 유조선 선원들은 무사한 것으로 파악됨 (타임스 오브 이스라엘)\n\n출처: 로이터·타임스 오브 이스라엘·월스트리트저널 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18035649191844143",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeGNXbZDqhY",
+        "kind": "carousel",
+        "at": 1791169739
+      },
+      "instagram": {
+        "id": "18106314524462376",
+        "permalink": "https://www.instagram.com/reel/DeGNng5gBWo/",
+        "kind": "reel",
+        "at": 1791169886
+      },
+      "youtube": {
+        "id": "IwCdeJvaPbA",
+        "permalink": "https://youtube.com/shorts/IwCdeJvaPbA",
+        "kind": "shorts",
+        "at": 1791169902
+      },
+      "tiktok": {
+        "id": "7693016212531350790",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693016212531350790",
+        "kind": "video",
+        "at": 1791170033
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791170043
   }
 ]
