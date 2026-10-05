@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-05-news-russia-tu95-bomber-crash-2026",
+  "topic": "러시아 Tu-95 폭격기 추락 참사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 20:40 KST",
+  "source": "Yahoo News·Kyiv Post·Meduza 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiS0FVX3lxTFAxbi1lTC1zc3VTRVFwZlY0VTlJeVNHMTNaSkNYMmxXNWNFZmRod0w5WnFIcDNrTlZkZDZKTlVkYVV3RmNrNkkzR0xOaw",
+    "related": [
+      [
+        "Three Russian Officers Linked to Missile Strikes on Ukraine Killed in Tu-95 Crash",
+        "Kyiv Post"
+      ],
+      [
+        "Tu-95MS bomber crashed in Russia, killing eight officers. Some helped organize missile strikes on Ukraine.",
+        "Meduza"
+      ],
+      [
+        "Russia lost one of its irreplaceable Tu-95 nuclear-capable bombers in a deadly training crash",
+        "Yahoo"
+      ],
+      [
+        "Three Russian Strategic Aviation Officers Responsible for Missile Strikes on Ukraine Killed in Tu-95MS Crash",
+        "Мілітарний"
+      ],
+      [
+        "OSINT has named eight military personnel in connection with the Tu-95MS crash",
+        "UkrMedia News"
+      ]
+    ],
+    "event_key": "russia-tu95-bomber-crash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 Tu-95 폭격기\n추락 참사",
+      "sub": "전략폭격기 추락으로 장교 사망",
+      "chips": [
+        {
+          "k": "기종",
+          "v": "Tu-95MS"
+        },
+        {
+          "k": "분류",
+          "v": "전략폭격기"
+        }
+      ],
+      "alt": "러시아 Tu-95 폭격기 추락 참사",
+      "map": {
+        "lat": 64.6863136,
+        "lon": 97.7453061,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아",
+      "video_only": true,
+      "map": {
+        "lat": 64.6863136,
+        "lon": 97.7453061,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "러시아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "전략폭격기 추락",
+          "d": "러시아군의 Tu-95MS 폭격기가 추락했습니다 (야후)."
+        },
+        {
+          "t": "탑승 군인 사망",
+          "d": "이번 추락 사고로 군 장교들이 사망했습니다 (메두자·키이우포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 Tu-95MS 폭격기 추락",
+        "탑승 군 장교 사망"
+      ],
+      "unconfirmed": [
+        "정확한 사망자 수 보도 엇갈림",
+        "자세한 추락 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "Meduza",
+        "UkrMedia News",
+        "Yahoo",
+        "Мілітарний",
+        "2026.10.05 22:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 전략폭격기 Tu-95MS가 추락해 군 장교들이 숨졌습니다.\n\n· 러시아의 Tu-95MS 폭격기가 추락했습니다 (야후 등)\n· 이번 사고로 기체에 타고 있던 러시아군 장교들이 사망했습니다 (메두자·키이우포스트)\n· 정확한 사망자 수 등 구체적인 내용은 아직 명확히 공개되지 않았습니다\n\n출처: 메두자·야후·키이우포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아의 전략폭격기 Tu-95가 추락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 비행 도중 폭격기가 추락했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 사고로 탑승한 군 장교들이 사망했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망 규모와 추락 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

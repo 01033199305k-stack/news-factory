@@ -1345,5 +1345,15 @@
     "at": 1791202143.1084552,
     "country": "스웨덴",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "russia-tu95-bomber-crash-2026",
+    "topic": "러시아 Tu-95 폭격기 추락 참사",
+    "slug": "2026-10-05-news-russia-tu95-bomber-crash-2026",
+    "cluster": "CBMiS0FVX3lxTFAxbi1lTC1zc3VTRVFwZlY0VTlJeVNHMTNaSkNYMmxXNWNFZmRod0w5WnFIcDNrTlZkZDZKTlVkYVV3RmNrNkkzR0xOaw",
+    "badge": "breaking",
+    "at": 1791205717.1255348,
+    "country": "러시아",
+    "category": "사고"
   }
 ]
