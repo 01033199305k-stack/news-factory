@@ -1395,5 +1395,15 @@
     "at": 1791231248.1119592,
     "country": "콩고민주공화국",
     "category": "재난"
+  },
+  {
+    "event_key": "ukraine-kharkiv-russian-bomb-attack-oct-2026",
+    "topic": "우크라이나 하르키우 공습 6명 사망 주거 지역 파괴",
+    "slug": "2026-10-06-news-ukraine-kharkiv-russian-bomb-attack-oct-2026",
+    "cluster": "CBMiS0FVX3lxTE5JYTlsY2pPZnpFNS1aejF5ZzJBamtJWVA4dDJkeVpBNTFUYTJFV2VHNkRSU2Z3Z2F5MVdrR21RMlNRaGNWR2QwSjg0NA",
+    "badge": "breaking",
+    "at": 1791235153.1023324,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]
