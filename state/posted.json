@@ -6745,5 +6745,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791155792
+  },
+  {
+    "slug": "2026-10-05-news-france-school-closures-protests",
+    "event_ms": 1791165532000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 프랑스, 학생 시위 확산에 학교 최대 500곳 폐쇄\n\n· 프랑스 교육부는 월요일부터 최대 500개 학교가 부분 또는 전면 폐쇄된다고 밝혔습니다 (알자지라·가디언)\n· 파리 교외 고교생들로부터 시작된 시위가 확산되면서 청소년 등 5,000명이 체포됐습니다 (NPR·로이터)\n\n출처: 알자지라·BBC·가디언·로이터·NPR 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "프랑스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18174488929444663",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeGGXPLkU7i",
+        "kind": "carousel",
+        "at": 1791166078
+      },
+      "instagram": {
+        "id": "18128679739830045",
+        "permalink": "https://www.instagram.com/reel/DeGGosnlIdQ/",
+        "kind": "reel",
+        "at": 1791166227
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791166238
+      },
+      "tiktok": {
+        "id": "7693000406837873940",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693000406837873940",
+        "kind": "video",
+        "at": 1791166359
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791166369
   }
 ]

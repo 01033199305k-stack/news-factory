@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-05-news-france-school-closures-protests",
+  "topic": "프랑스, 학생 시위 확산에 학교 최대 500곳 폐쇄",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 10:58 KST",
+  "source": "Al Jazeera·BBC·NPR 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxNM1NzanU2MkFPdzJUdUhiRGljSzg3b3puQkVyVzVzeTVTQXJUeVFUM0tzR25xM0lxMU9NTi1zR011aE9zWVhLNFl0MlVVUVd0NGxuSDdPdWdBYk1QZ1NCNWxpejZpcUJmU00tc2tBX3F6ejJNMDRENi0zXy1wemREQ291NG5RVUE2bFpHdUE2dVZNNkpmT1FkWFNZS2drd1ZmR0FVZ3A3bGlGMTBf0gGyAUFVX3lxTE0wdXlva2ZjTHpRcUNVeFBhRVFDb3JuY1Z0QmRCRmxyS1lOUXJ3T2hDTExXSy1BaUR5TV9OTlZfUWgzNG1waXl1WHZhQ296cDdSd3JsZGpUSGw0TUhaR2w3QmF4cE9RbUJ6RE1VUG9adHoyMGF3Qkg3RXRSRkItS24zdjhHMm9qd05uSmVZeVhIM0l6bWVDSG1scFhJQWtrQTE3aUgxZWdEU2h6Tk1ESS0tQmc",
+    "related": [
+      [
+        "France to shutter up to 500 schools as more student protests called",
+        "Al Jazeera"
+      ],
+      [
+        "France to close up to 500 schools on Monday over student protests",
+        "BBC"
+      ],
+      [
+        "High school students in Paris' deprived suburbs spark national protest movement",
+        "Reuters"
+      ],
+      [
+        "French education minister says up to 500 schools will remain partially or fully closed on Monday after student protests – Europe live",
+        "The Guardian"
+      ],
+      [
+        "France arrests 5,000 people, mostly teens, as school protests spread",
+        "NPR"
+      ]
+    ],
+    "event_key": "france_school_closures_protests"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스, 학생 시위 확산에\n학교 최대 500곳 폐쇄",
+      "sub": "파리 교외 고교생들로부터 시작된 항의 운동",
+      "chips": [
+        {
+          "k": "폐쇄 학교",
+          "v": "최대 500곳"
+        }
+      ],
+      "alt": "프랑스, 학생 시위 확산에 학교 최대 500곳 폐쇄",
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대상 학교",
+          "d": "일부 또는 전면 폐쇄되는 학교는 최대 500곳에 이릅니다 (알자지라·가디언)."
+        },
+        {
+          "t": "연행 규모",
+          "d": "시위가 확산되면서 주로 청소년인 5,000명이 체포됐습니다 (NPR)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "최대 500곳 학교 폐쇄 (알자지라·BBC·가디언)",
+        "학생 5,000명 체포 (NPR)"
+      ],
+      "unconfirmed": [
+        "시위의 향후 전개 방향",
+        "추가 충돌 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "NPR",
+        "Reuters",
+        "The Guardian",
+        "2026.10.05 11:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스, 학생 시위 확산에 학교 최대 500곳 폐쇄\n\n· 프랑스 교육부는 월요일부터 최대 500개 학교가 부분 또는 전면 폐쇄된다고 밝혔습니다 (알자지라·가디언)\n· 파리 교외 고교생들로부터 시작된 시위가 확산되면서 청소년 등 5,000명이 체포됐습니다 (NPR·로이터)\n\n출처: 알자지라·BBC·가디언·로이터·NPR 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스에서 학생 시위가 확산되면서 최대 500개 학교가 문을 닫습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파리 교외 고교생들로부터 시작된 시위로 청소년 등 5,000명이 체포됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "교육부는 월요일부터 학교들이 부분 또는 전면 폐쇄될 예정이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 시위가 더 확산될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

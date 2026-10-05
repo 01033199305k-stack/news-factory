@@ -1265,5 +1265,15 @@
     "at": 1791155392.0053387,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "france_school_closures_protests",
+    "topic": "프랑스, 학생 시위 확산에 학교 최대 500곳 폐쇄",
+    "slug": "2026-10-05-news-france-school-closures-protests",
+    "cluster": "CBMirAFBVV95cUxNM1NzanU2MkFPdzJUdUhiRGljSzg3b3puQkVyVzVzeTVTQXJUeVFUM0tzR25xM0lxMU9NTi1zR011aE9zWVhLNFl0MlVVUVd0NGxuSDdPdWdBYk1QZ1NCNWxpejZpcUJmU00tc2tBX3F6ejJNMDRENi0zXy1wemREQ291NG5RVUE2bFpHdUE2dVZNNkpmT1FkWFNZS2drd1ZmR0FVZ3A3bGlGMTBf0gGyAUFVX3lxTE0wdXlva2ZjTHpRcUNVeFBhRVFDb3JuY1Z0QmRCRmxyS1lOUXJ3T2hDTExXSy1BaUR5TV9OTlZfUWgzNG1waXl1WHZhQ296cDdSd3JsZGpUSGw0TUhaR2w3QmF4cE9RbUJ6RE1VUG9adHoyMGF3Qkg3RXRSRkItS24zdjhHMm9qd05uSmVZeVhIM0l6bWVDSG1scFhJQWtrQTE3aUgxZWdEU2h6Tk1ESS0tQmc",
+    "badge": "breaking",
+    "at": 1791166015.0929139,
+    "country": "프랑스",
+    "category": "국제"
   }
 ]
