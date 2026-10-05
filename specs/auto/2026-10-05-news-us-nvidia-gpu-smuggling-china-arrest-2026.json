@@ -1,0 +1,133 @@
+{
+  "slug": "2026-10-05-news-us-nvidia-gpu-smuggling-china-arrest-2026",
+  "topic": "3억 달러 엔비디아 칩 밀수 혐의 기소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 11:44 KST",
+  "source": "The Economic Times·TweakTown·WJLA 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn",
+    "related": [
+      [
+        "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic",
+        "timesofindia.indiatimes.com"
+      ],
+      [
+        "Greg Lui DOJ charges: California tech CEO linked to $300 million Nvidia GPU scheme allegedly routed throug",
+        "The Economic Times"
+      ],
+      [
+        "RTX 5090 and RTX 4090 GPUs named in alleged $300 million NVIDIA smuggling scheme",
+        "TweakTown"
+      ],
+      [
+        "California man charged with smuggling over $300 million in computer services to China",
+        "WJLA"
+      ],
+      [
+        "Nvidia GPU Smuggling Case: $300M, 4 Chips Named [2026]",
+        "shattered.io"
+      ]
+    ],
+    "event_key": "us-nvidia-gpu-smuggling-china-arrest-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "3억 달러 엔비디아 칩\n[[밀수 혐의]] 기소",
+      "sub": "미국 검찰, 중국 유출 캘리포니아 CEO 적발",
+      "chips": [
+        {
+          "k": "피해 규모",
+          "v": "3억 달러"
+        }
+      ],
+      "alt": "3억 달러 엔비디아 칩 밀수 혐의 기소",
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아",
+      "video_only": true,
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "3억 달러 밀수선",
+          "d": "미국 법무부는 3억 달러 상당의 엔비디아 GPU 밀수 혐의로 테크 기업 CEO를 기소했습니다 (이코노믹타임스)."
+        },
+        {
+          "t": "최신 칩 유출",
+          "d": "밀수 품목에는 최신 RTX 5090 및 4090 칩이 포함됐습니다 (트윅타운)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "3억 달러 규모 엔비디아 칩 밀수 혐의 기소"
+      ],
+      "unconfirmed": [
+        "추가 공범 유무",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "The Economic Times",
+        "TweakTown",
+        "WJLA",
+        "shattered.io",
+        "timesofindia.indiatimes.com",
+        "2026.10.05 14:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 검찰이 3억 달러 규모의 엔비디아 칩 밀수범을 기소했습니다.\n\n· 캘리포니아 테크 기업 CEO가 중국 유출 혐의로 적발됐습니다 (이코노믹타임스)\n· RTX 5090 등 최신 GPU가 밀수 품목에 포함됐습니다 (트윅타운)\n\n질문: 미국 당국의 첨단 반도체 수출 규제가 효과를 거둘 수 있을까요?\n\n출처: 이코노믹타임스·트윅타운·WJLA 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 검찰이 3억 달러 규모의 엔비디아 칩 밀수 사범을 기소했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "캘리포니아의 테크 기업 CEO가 중국으로 반도체를 유출한 혐의를 받고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "트윅타운은 밀수 품목에 RTX 5090 및 RTX 4090 GPU가 포함됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 유출 경로는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

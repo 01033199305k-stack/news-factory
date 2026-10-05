@@ -6853,5 +6853,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791170043
+  },
+  {
+    "slug": "2026-10-05-news-flydubai-hijacking-attempt-israel-2026",
+    "event_ms": 1791173250000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 플라이두바이 여객기 납치 시도 사건이 발생했습니다.\n\n· 피의자는 벤구리온 공항 충돌을 의도했다고 진술했습니다 (타임스오브이스라엘)\n· 승객은 살아남을 것이라고 결심했습니다 (CBS)\n\n출처: AP·CNN·CBS·타임스오브이스라엘 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "이스라엘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18072401279562485",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeGbLn7G9TO",
+        "kind": "carousel",
+        "at": 1791176981
+      },
+      "instagram": {
+        "id": "18102914390638671",
+        "permalink": "https://www.instagram.com/reel/DeGbnh2lICI/",
+        "kind": "reel",
+        "at": 1791177218
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1791177272
+      },
+      "tiktok": {
+        "id": "7693048018966269191",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693048018966269191",
+        "kind": "video",
+        "at": 1791177445
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791177455
+  },
+  {
+    "slug": "2026-10-05-news-us-nvidia-gpu-smuggling-china-arrest-2026",
+    "event_ms": 1791168240000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 검찰이 3억 달러 규모의 엔비디아 칩 밀수범을 기소했습니다.\n\n· 캘리포니아 테크 기업 CEO가 중국 유출 혐의로 적발됐습니다 (이코노믹타임스)\n· RTX 5090 등 최신 GPU가 밀수 품목에 포함됐습니다 (트윅타운)\n\n질문: 미국 당국의 첨단 반도체 수출 규제가 효과를 거둘 수 있을까요?\n\n출처: 이코노믹타임스·트윅타운·WJLA 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18080777042524363",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeGbQVdm2Fa",
+        "kind": "carousel",
+        "at": 1791177020
+      },
+      "instagram": {
+        "id": "18376193899300742",
+        "permalink": "https://www.instagram.com/reel/DeGbrn9kjeu/",
+        "kind": "reel",
+        "at": 1791177262
+      },
+      "youtube": {
+        "id": "20zzWJn4MHc",
+        "permalink": "https://youtube.com/shorts/20zzWJn4MHc",
+        "kind": "shorts",
+        "at": 1791177314
+      },
+      "tiktok": {
+        "id": "7693048615799131412",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693048615799131412",
+        "kind": "video",
+        "at": 1791177576
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791177586
   }
 ]

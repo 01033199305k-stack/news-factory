@@ -1,0 +1,128 @@
+{
+  "slug": "2026-10-05-news-flydubai-hijacking-attempt-israel-2026",
+  "topic": "플라이두바이 여객기 납치 시도 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 13:07 KST",
+  "source": "AP News·CBS News·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxQeHlVbENWcXJoYlFOV1F2dC1WV1NERnRKeEI0OWliWW9jaUowMnZYMkNHMFEtajZuYUtMT1RJVVVzakhCTmlPV001c292NnBIbXZEd091Qk9PYWtPVkhuTU1mLTVrS1ItQ3JBcWYtTnlRYlI2eTVLZkFfSDFEb1pSNlYycnVGcXRWeWdhWDNhQQ",
+    "related": [
+      [
+        "Multiple Security Failures Allowed FlyDubai Pilot Into Cockpit",
+        "WSJ"
+      ],
+      [
+        "UAE had shared details about FlyDubai flight with Israel, including pilots' names and nationalities, officials tell AP",
+        "AP News"
+      ],
+      [
+        "Flydubai hijacking attempt exposes worrying gaps in aviation security",
+        "CNN"
+      ],
+      [
+        "Flydubai terrorist said to tell investigators he intended to crash plane into Ben Gurion Airport",
+        "The Times of Israel"
+      ],
+      [
+        "Hero passenger on FlyDubai flight: \"I decided that we are going to survive\"",
+        "CBS News"
+      ]
+    ],
+    "event_key": "flydubai-hijacking-attempt-israel-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "플라이두바이 여객기\n[[납치 시도]] 발생",
+      "sub": "플라이두바이 여객기 관련 보안 실패 및 납치 시도 보도",
+      "chips": [],
+      "alt": "플라이두바이 여객기 납치 시도 발생",
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n텔아비브",
+      "video_only": true,
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "텔아비브"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "텔아비브 공항 타깃",
+          "d": "피의자는 여객기를 벤구리온 공항에 충돌시키려 했다고 진술했습니다 (타임스오브이스라엘)."
+        },
+        {
+          "t": "승객의 생존 의지",
+          "d": "승객은 우리가 살아남을 것이라고 결심했다고 밝혔습니다 (CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플라이두바이 여객기 납치 시도"
+      ],
+      "unconfirmed": [
+        "피의자 범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBS News",
+        "CNN",
+        "The Times of Israel",
+        "WSJ",
+        "2026.10.05 14:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 플라이두바이 여객기 납치 시도 사건이 발생했습니다.\n\n· 피의자는 벤구리온 공항 충돌을 의도했다고 진술했습니다 (타임스오브이스라엘)\n· 승객은 살아남을 것이라고 결심했습니다 (CBS)\n\n출처: AP·CNN·CBS·타임스오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "플라이두바이 여객기 납치 시도 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "피의자는 벤구리온 공항에 여객기를 충돌시키려 했다고 진술했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "승객은 살아남을 것이라고 결심했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
