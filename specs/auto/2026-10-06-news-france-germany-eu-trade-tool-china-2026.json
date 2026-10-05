@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-06-news-france-germany-eu-trade-tool-china-2026",
+  "topic": "프랑스·독일, 중국 겨냥한 EU 무역 보복 도구 추진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 01:23 KST",
+  "source": "Bloomberg.com·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxQWDQ0OVBka2szNklkWXItcVUwNElEU1RVai0tcTQ5Rm5sNVhjZzBIWnRYRkFVYVV4aHlibWUybzYtVGhIa203N19GZlI0ZkFzMlVGLVVRNGpQZ3BSTC1JWllRUjlxenc1MHBRdEk0T0Y4QUhVcFZhWEs0c0dlLWlJVFhzUlhORzZ4U3VNWVBEMDBhS0RtQU5IT3YyNkxTWlhzNm80ZDFn",
+    "related": [
+      [
+        "France, Germany push for EU rapid-response trade tool with likely focus on China",
+        "reuters.com"
+      ],
+      [
+        "Germany and France agree on last-resort tool against trade threats",
+        "Financial Times"
+      ],
+      [
+        "Germany and France Push Trade Weapon to Bar China Access",
+        "Bloomberg.com"
+      ],
+      [
+        "Germany and France Are Proposing a New Weapon to Counter Flood of Chinese Goods",
+        "wsj.com"
+      ],
+      [
+        "Merz and Macron want the EU to hit back harder — and faster — against trade threats",
+        "politico.eu"
+      ]
+    ],
+    "event_key": "france_germany_eu_trade_tool_china_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스·독일, 중국 겨냥한 EU 무역 보복 도구 추진",
+      "sub": "무역 위협에 더 빠르고 강력하게 대응할 방침입니다",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "중국"
+        }
+      ],
+      "alt": "프랑스·독일, 중국 겨냥한 EU 무역 보복 도구 추진",
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "유럽연합"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "유럽연합\n브뤼셀",
+      "video_only": true,
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브뤼셀"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공동 추진",
+          "d": "프랑스와 독일이 새로운 무역 방어 도구를 EU에 제안했습니다 (로이터·파이낸셜타임스)."
+        },
+        {
+          "t": "대응 강화",
+          "d": "중국의 저가 상품 공세와 무역 위협에 신속하게 대응하기 위한 목적입니다 (블룸버그·월스트리트저널)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "프랑스·독일의 EU 무역 방어 도구 공동 제안",
+        "중국 상품 공세 대응 목적"
+      ],
+      "unconfirmed": [
+        "EU 차원의 최종 승인 여부",
+        "구체적인 제재 조치 내용"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Financial Times",
+        "politico.eu",
+        "reuters.com",
+        "wsj.com",
+        "2026.10.06 04:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스와 독일이 중국을 겨냥한 EU 무역 보복 도구를 추진합니다\n\n· 프랑스와 독일이 새로운 무역 방어 도구를 유럽연합에 제안했습니다 (로이터·파이낸셜타임스)\n· 중국의 저가 상품 공세와 무역 위협에 신속하게 대응하기 위한 목적입니다 (블룸버그·월스트리트저널)\n\nEU의 새로운 무역 방어 도구가 중국과의 무역 갈등에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·파이낸셜타임스·블룸버그·월스트리트저널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스와 독일이 중국을 겨냥한 EU 무역 보복 도구를 추진합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 두 나라가 무역 위협에 맞설 새로운 방어 도구를 제안했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "중국의 저가 상품 공세에 신속하게 대응하기 위한 목적입니다.",
+      "card": "points"
+    },
+    {
+      "text": "EU 차원의 최종 승인 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
