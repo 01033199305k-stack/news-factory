@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-06-news-c14",
+  "topic": "시카고행 여객기 회항, 이륙 직후 급강하",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 00:10 KST",
+  "source": "Hindustan Times·NBC News·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi7AFBVV95cUxQNkdoTEluUDNGNVZyVUZZZ2t0THpDMS1vaThpYld2TDFFNkprNU1HNnFOeDlFUGd4cDUzVzVqZXVTdjZXY2MwRlpQNUNUR014S3BLYTZtbVVUaS0xOHloNlNBcHZWeTViMmJYUHBtb2xsdXhOZ3ItaFhPMDhHMHdQd0tZLTR0RlZ0bEppNU5oaElmbUMwaVVIUHdLVzNqV1dSVThiMnVla0FoSkdiV0xKSUJ6X0Vub1RkYVJjR3NEQzZxYkIybjVoQ0JraUVBX2ViZ01JRk1uX1d6QzNNcEJ1UzBFdDI4MUhIa0x1atIB8wFBVV95cUxNam10bHFkR2NjdXJJamYzejktTG9VbUJQTEpGUC01RTBTeHp0VU9JRmgySDFuUTJmX1U5c3JYQzZVSFF0OVNCX3lFZ0dtR0llWUx1UHZqU1dkbEJMTmFTa2dZRnRxNXp1NnVRUnRMUUl4TGFIa1pyWURBQy1HaGZkT0lQdFR5d1pMZDBuQm5fcjA3N1dISnJ2eTUxSW9NY3JudThUSEVPUWs5ZnlLNXRyV1dTcGVyN1JmTExqcEhlNEF6SjBBTHFacFhucHd3WWJQbWptVmlHU2RRVllKUDNPM2VuLUFRcnpIQ2k4UWVQU2VPOVE",
+    "related": [
+      [
+        "British Airways London-Chicago flight declares ‘emergency’ mid air; makes U-turn after take-off",
+        "The Hindu"
+      ],
+      [
+        "British Airways flight BA295 declares emergency, descends to 9,000ft; Chicago-bound flight diverted to London",
+        "The Times of India"
+      ],
+      [
+        "British Airways flight to Chicago drops 27,000 feet, returns to London",
+        "NBC News"
+      ],
+      [
+        "Why British Airways flight BA295 is flying in circles after rapid 28,000 feet descent",
+        "Hindustan Times"
+      ],
+      [
+        "British Airways Flight To Chicago Declares Emergency, Dumps 30 Tonnes Of Fuel, Returns To Heathrow",
+        "News18"
+      ]
+    ],
+    "event_key": "c14"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "시카고행 여객기 회항,\n이륙 직후 급강하",
+      "sub": "런던 히드로 공항으로 회항해 착륙했습니다",
+      "chips": [
+        {
+          "k": "고도",
+          "v": "9,000피트"
+        }
+      ],
+      "alt": "시카고행 여객기 회항, 이륙 직후 급강하",
+      "map": {
+        "lat": 51.467739,
+        "lon": -0.4587801,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.467739,
+        "lon": -0.4587801,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "긴급 회항",
+          "d": "영국항공 시카고행 여객기가 이륙 직후 비상사태를 선언했습니다 (NBC 뉴스·힌두스탄 타임스)."
+        },
+        {
+          "t": "연료 투하",
+          "d": "여객기는 비상 착륙을 위해 30톤의 연료를 공중에 버렸습니다 (News18)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국항공 시카고행 여객기",
+        "비상사태 선언 및 회항",
+        "연료 30톤 투하"
+      ],
+      "unconfirmed": [
+        "급강하 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Hindustan Times",
+        "NBC News",
+        "News18",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.06 03:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 시카고행 여객기 회항, 이륙 직후 급강하\n\n· 영국항공 시카고행 여객기가 이륙 직후 비상사태를 선언했습니다 (NBC 뉴스·힌두스탄 타임스)\n· 여객기는 비상 착륙을 위해 30톤의 연료를 공중에 버렸습니다 (News18)\n\n출처: NBC 뉴스·힌두스탄 타임스·News18 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "시카고로 향하던 영국항공 여객기가 이륙 직후 비상사태를 선언하고 회항했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "여객기는 급격히 고도를 낮추며 런던으로 돌아갔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "안전한 착륙을 위해 30톤의 연료를 공중에 버렸다고 외신들은 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "갑작스러운 급강하의 정확한 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
