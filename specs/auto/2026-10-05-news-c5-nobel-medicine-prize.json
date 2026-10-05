@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-05-news-c5-nobel-medicine-prize",
+  "topic": "2026 노벨 생리의학상 뇌 과학 연구 과학자 3명 공동 수상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 19:10 KST",
+  "source": "BBC·CNN·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1TcTFXcDJYSm5EQ3ZlSHBCLTRXaXRzZUM5TDZRREZiaHdVZXBLdThkMG9hQ0VfdmZtMUhoS09aYXMydjB5aWxRT19RaS1wUDlqRUVSNjdfM25saHhyNXc",
+    "related": [
+      [
+        "Nobel Prize 2026 awarded for showing inner workings of the brain",
+        "BBC"
+      ],
+      [
+        "Nobel prize in medicine 2026 awarded for research into mysteries of brain",
+        "The Guardian"
+      ],
+      [
+        "Press release: Nobel Prize in Physiology or Medicine 2026 - NobelPrize.org",
+        "NobelPrize.org"
+      ],
+      [
+        "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
+        "The New York Times"
+      ],
+      [
+        "Nobel Prize in medicine awarded to trio for technique that helps decode mysteries of the brain",
+        "CNN"
+      ]
+    ],
+    "event_key": "c5_nobel_medicine_prize"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "2026 노벨 생리의학상\n[[뇌 과학]] 연구 과학자 3명 공동 수상",
+      "sub": "뇌의 신비를 해독하는 연구에 기여",
+      "chips": [
+        {
+          "k": "수상자",
+          "v": "3명"
+        },
+        {
+          "k": "부문",
+          "v": "생리의학상"
+        }
+      ],
+      "alt": "2026 노벨 생리의학상 뇌 과학 연구 과학자 3명 공동 수상",
+      "map": {
+        "lat": 59.3251172,
+        "lon": 18.0710935,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스웨덴"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스웨덴\n스톡홀름",
+      "video_only": true,
+      "map": {
+        "lat": 59.3251172,
+        "lon": 18.0710935,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "스톡홀름"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "연구 분야",
+          "d": "과학자 3명이 뇌의 작동 원리를 밝혀낸 공로로 수상했습니다 (BBC·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "2026년 노벨 생리의학상 발표",
+        "뇌 과학 연구 과학자 3명 선정"
+      ],
+      "unconfirmed": [
+        "구체적인 수상자 명단 및 향후 시상식 세부 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "NobelPrize.org",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.05 21:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 2026년 노벨 생리의학상 수상자로 뇌 과학 연구를 진행한 과학자 3명이 선정됐습니다\n\n· 뇌의 작동 원리와 미스터리를 해독하는 연구가 공로로 인정받았습니다 (BBC·가디언)\n\n의학계 소식입니다. 올해 노벨상 수상 결과에 대해 어떻게 보십니까?\n\n출처: BBC·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "올해 노벨 생리의학상 수상자로 뇌 과학 연구를 진행한 과학자 3명이 선정됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC와 가디언은 뇌의 미스터리를 해독하는 연구가 기여했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 수상자 명단과 시상식 세부 일정은 아직 공식 발표되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

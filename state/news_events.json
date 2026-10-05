@@ -1335,5 +1335,15 @@
     "at": 1791195172.0499444,
     "country": "팔레스타인",
     "category": "국제"
+  },
+  {
+    "event_key": "c5_nobel_medicine_prize",
+    "topic": "2026 노벨 생리의학상 뇌 과학 연구 과학자 3명 공동 수상",
+    "slug": "2026-10-05-news-c5-nobel-medicine-prize",
+    "cluster": "CBMiXkFVX3lxTE1TcTFXcDJYSm5EQ3ZlSHBCLTRXaXRzZUM5TDZRREZiaHdVZXBLdThkMG9hQ0VfdmZtMUhoS09aYXMydjB5aWxRT19RaS1wUDlqRUVSNjdfM25saHhyNXc",
+    "badge": "brief",
+    "at": 1791202143.1084552,
+    "country": "스웨덴",
+    "category": "경제·과학"
   }
 ]

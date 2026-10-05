@@ -7122,5 +7122,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791195717
+  },
+  {
+    "slug": "2026-10-05-news-c5-nobel-medicine-prize",
+    "event_ms": 1791202143108,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 2026년 노벨 생리의학상 수상자로 뇌 과학 연구를 진행한 과학자 3명이 선정됐습니다\n\n· 뇌의 작동 원리와 미스터리를 해독하는 연구가 공로로 인정받았습니다 (BBC·가디언)\n\n의학계 소식입니다. 올해 노벨상 수상 결과에 대해 어떻게 보십니까?\n\n출처: BBC·가디언 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "스웨덴"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18100640987633066",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeHLRsNCemc",
+        "kind": "carousel",
+        "at": 1791202196
+      },
+      "instagram": {
+        "id": "18145507762571916",
+        "permalink": "https://www.instagram.com/reel/DeHLkbzAYKI/",
+        "kind": "reel",
+        "at": 1791202367
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791202377
+      },
+      "tiktok": {
+        "id": "7693155654474730759",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693155654474730759",
+        "kind": "video",
+        "at": 1791202499
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791202509
   }
 ]
