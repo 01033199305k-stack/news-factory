@@ -6961,5 +6961,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791177586
+  },
+  {
+    "slug": "2026-10-05-news-brazil-presidential-election-runoff-2026",
+    "event_ms": 1791170550000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 브라질 대선 결선 투표서 룰라와 보우소나루 격돌\n\n· 1차 투표 결과 룰라와 플라비우 보우소나루 후보의 결선 진출이 확정됐습니다 (WSJ·NYT)\n· 보우소나루의 아들 플라비우 후보가 급부상하며 치열한 접전이 예고됐습니다 (WSJ)\n\n이번 브라질 대선 결선 투표 결과를 어떻게 전망하십니까?\n출처: WSJ·The New York Times·Al Jazeera 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "브라질"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18022467875947217",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeGiBpukZKE",
+        "kind": "carousel",
+        "at": 1791180570
+      },
+      "instagram": {
+        "id": "18022767635873955",
+        "permalink": "https://www.instagram.com/reel/DeGiSWlkff3/",
+        "kind": "reel",
+        "at": 1791180724
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791180734
+      },
+      "tiktok": {
+        "id": "7693062693913103623",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693062693913103623",
+        "kind": "video",
+        "at": 1791180855
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791180865
   }
 ]

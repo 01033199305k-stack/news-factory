@@ -1,0 +1,127 @@
+{
+  "slug": "2026-10-05-news-brazil-presidential-election-runoff-2026",
+  "topic": "브라질 대선 결선행 룰라·보우소나루 격돌",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 12:22 KST",
+  "source": "Al Jazeera·The Economist·The New York Times 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxQV3ZLNGdfVjRYSEZjN3ZqNnd5ajJsc0xSVktJbmhxNzZDWWJjdWxESFNIdnc1bTNRa3Q3aWFPSjJ3Wm9wbVZPQXpCZVFLUXYwRHVQbzhFeVV0T2dBQlU4aEJ3OGlMbktrc2FyaFVzcDlYaXRRREFYRzBLSmVKSFZkT1lVdGM5eWFuNGRPWUQxald1UUQ1YmJYWGRrSDJ5dWdvT2pUc2dJYldXU3I2TkotYkRNSW5PNldYdEYzOQ",
+    "related": [
+      [
+        "Flávio Bolsonaro Surges Past Lula, Setting Up a Bitter Brazil Election Runoff",
+        "WSJ"
+      ],
+      [
+        "Brazil Elections Head to Runoff Between Lula and Bolsonaro Son",
+        "The New York Times"
+      ],
+      [
+        "Lula Is the Brazilian Left’s Last Hope—And Its Biggest Problem",
+        "WSJ"
+      ],
+      [
+        "Brazil’s presidential race: Three key takeaways from the first round",
+        "Al Jazeera"
+      ],
+      [
+        "World in Brief: Bolsonaro and Lula go to run-off in Brazil; America pulls bombers from Fairford",
+        "The Economist"
+      ]
+    ],
+    "event_key": "brazil-presidential-election-runoff-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "브라질 대선 결선행\n룰라·보우소나루 격돌",
+      "sub": "1차 투표 결과 룰라와 플라비우 보우소나루 맞대결 확정",
+      "chips": [],
+      "alt": "브라질 대선 결선행 룰라·보우소나루 격돌",
+      "map": {
+        "lat": -15.7939869,
+        "lon": -47.8828,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "브라질"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "브라질\n브라질리아",
+      "video_only": true,
+      "map": {
+        "lat": -15.7939869,
+        "lon": -47.8828,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브라질리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "결선 맞대결 확정",
+          "d": "1차 투표 결과 룰라와 플라비우 보우소나루 후보가 결선 투표에 진출했습니다 (WSJ·NYT)."
+        },
+        {
+          "t": "보우소나루 아들 급부상",
+          "d": "보우소나루의 아들 플라비우 후보가 룰라를 추격하며 결선에 올랐습니다 (WSJ)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "룰라·보우소나루 결선 투표 진출 확정"
+      ],
+      "unconfirmed": [
+        "후보별 최종 공식 득표율",
+        "결선 투표 공식 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "The Economist",
+        "The New York Times",
+        "WSJ",
+        "2026.10.05 15:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 브라질 대선 결선 투표서 룰라와 보우소나루 격돌\n\n· 1차 투표 결과 룰라와 플라비우 보우소나루 후보의 결선 진출이 확정됐습니다 (WSJ·NYT)\n· 보우소나루의 아들 플라비우 후보가 급부상하며 치열한 접전이 예고됐습니다 (WSJ)\n\n이번 브라질 대선 결선 투표 결과를 어떻게 전망하십니까?\n출처: WSJ·The New York Times·Al Jazeera 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "브라질 대통령 선거가 결선 투표로 넘어가게 됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "1차 투표에서 룰라와 플라비우 보우소나루 후보가 맞대결을 확정했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "월스트리트저널은 보우소나루의 아들이 급부상하며 치열한 접전이 벌어지고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 최종 득표율 집계는 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
