@@ -7067,5 +7067,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791188260
+  },
+  {
+    "slug": "2026-10-05-news-gaza-hamas-commander-killed",
+    "event_ms": 1791190805000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘군 가자지구 공습으로 하마스 북부 여단장 제거\n\n· 사망한 지휘관은 전쟁 중 인질 15명을 억류했던 인물로 확인됐습니다 (타임스오브이스라엘·예루살렘포스트)\n· 공습 과정에서 하마스 관측 부대원도 함께 사살됐습니다 (ANI통신)\n\n출처: 타임스오브이스라엘·알자지라·예루살렘포스트·ANI통신 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18634691395006235",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeG9-gdG673",
+        "kind": "carousel",
+        "at": 1791195223
+      },
+      "instagram": {
+        "id": "18073363958726550",
+        "permalink": "https://www.instagram.com/reel/DeG-Q_EknQP/",
+        "kind": "reel",
+        "at": 1791195393
+      },
+      "youtube": {
+        "id": "UCzAez2yciQ",
+        "permalink": "https://youtube.com/shorts/UCzAez2yciQ",
+        "kind": "shorts",
+        "at": 1791195576
+      },
+      "tiktok": {
+        "id": "7693126506263956744",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693126506263956744",
+        "kind": "video",
+        "at": 1791195707
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791195717
   }
 ]

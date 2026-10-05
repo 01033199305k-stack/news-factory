@@ -1325,5 +1325,15 @@
     "at": 1791187911.4042754,
     "country": "파키스탄",
     "category": "국제"
+  },
+  {
+    "event_key": "gaza-hamas-commander-killed",
+    "topic": "이스라엘군, 가자지구 공습으로 하마스 북부 여단장 제거",
+    "slug": "2026-10-05-news-gaza-hamas-commander-killed",
+    "cluster": "CBMif0FVX3lxTE03cWdIVE4wcG41S2RKSkJ6YTVkNVJQUF9SQzVxQUhWVHRCa2VHcXRXMHBSczRCRUVRNkdMcEw2c3Q0UlVrQldCc2ZUa2lWa1RaYW5aRnlaVUxQdFZSa0xKbkZDcm1xSURPUG1CZFUxT3BRbVpKWXhYX2hJcERENG8",
+    "badge": "breaking",
+    "at": 1791195172.0499444,
+    "country": "팔레스타인",
+    "category": "국제"
   }
 ]

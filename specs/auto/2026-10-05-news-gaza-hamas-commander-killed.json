@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-05-news-gaza-hamas-commander-killed",
+  "topic": "이스라엘군, 가자지구 공습으로 하마스 북부 여단장 제거",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 18:00 KST",
+  "source": "Al Jazeera·The Economist·ANI News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMif0FVX3lxTE03cWdIVE4wcG41S2RKSkJ6YTVkNVJQUF9SQzVxQUhWVHRCa2VHcXRXMHBSczRCRUVRNkdMcEw2c3Q0UlVrQldCc2ZUa2lWa1RaYW5aRnlaVUxQdFZSa0xKbkZDcm1xSURPUG1CZFUxT3BRbVpKWXhYX2hJcERENG8",
+    "related": [
+      [
+        "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "The Jerusalem Post"
+      ],
+      [
+        "IDF says Hamas Northern Brigade chief killed this week held 15 hostages during war",
+        "The Times of Israel"
+      ],
+      [
+        "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
+        "Al Jazeera"
+      ],
+      [
+        "IDF says it eliminated Hamas commander, observation unit operative in Gaza",
+        "ANI News"
+      ],
+      [
+        "The walls close in on Hamas",
+        "The Economist"
+      ]
+    ],
+    "event_key": "gaza-hamas-commander-killed"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘군, 가자지구 공습으로\n[[하마스 북부 여단장]] 제거",
+      "sub": "사망한 지휘관은 전쟁 중 인질 15명을 억류했던 것으로 확인됐습니다.",
+      "chips": [
+        {
+          "k": "표적",
+          "v": "하마스 지휘관"
+        }
+      ],
+      "alt": "이스라엘군, 가자지구 공습으로 하마스 북부 여단장 제거",
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "인질 억류 이력",
+          "d": "이스라엘군은 사망한 하마스 북부 여단장이 전쟁 기간 인질 15명을 붙잡고 있었다고 밝혔습니다 (타임스오브이스라엘)."
+        },
+        {
+          "t": "추가 사살",
+          "d": "관측 부대원도 함께 제거됐다고 ANI 통신이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "하마스 북부 여단장 사망",
+        "과거 인질 15명 억류 확인",
+        "관측 부대원 추가 사살"
+      ],
+      "unconfirmed": [
+        "정확한 공습 시점 및 장소",
+        "추가 인명 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ANI News",
+        "Al Jazeera",
+        "The Economist",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "2026.10.05 19:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군 가자지구 공습으로 하마스 북부 여단장 제거\n\n· 사망한 지휘관은 전쟁 중 인질 15명을 억류했던 인물로 확인됐습니다 (타임스오브이스라엘·예루살렘포스트)\n· 공습 과정에서 하마스 관측 부대원도 함께 사살됐습니다 (ANI통신)\n\n출처: 타임스오브이스라엘·알자지라·예루살렘포스트·ANI통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군의 가자지구 공습으로 하마스 북부 여단장이 사망했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사망한 지휘관은 전쟁 기간 인질 15명을 억류했다고 보도되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "관측 부대원도 함께 제거된 것으로 확인됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 공습 시점과 추가 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
