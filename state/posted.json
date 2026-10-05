@@ -7338,5 +7338,115 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791224234
+  },
+  {
+    "slug": "2026-10-06-news-france-germany-eu-trade-tool-china-2026",
+    "event_ms": 1791217402000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 프랑스와 독일이 중국을 겨냥한 EU 무역 보복 도구를 추진합니다\n\n· 프랑스와 독일이 새로운 무역 방어 도구를 유럽연합에 제안했습니다 (로이터·파이낸셜타임스)\n· 중국의 저가 상품 공세와 무역 위협에 신속하게 대응하기 위한 목적입니다 (블룸버그·월스트리트저널)\n\nEU의 새로운 무역 방어 도구가 중국과의 무역 갈등에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·파이낸셜타임스·블룸버그·월스트리트저널 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "유럽연합"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18102993272572226",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeH7NugIAx8",
+        "kind": "carousel",
+        "at": 1791227335
+      },
+      "instagram": {
+        "id": "18029086304883848",
+        "permalink": "https://www.instagram.com/reel/DeH7jbdCiFD/",
+        "kind": "reel",
+        "at": 1791227525
+      },
+      "youtube": {
+        "id": "AhgK3oUffOk",
+        "permalink": "https://youtube.com/shorts/AhgK3oUffOk",
+        "kind": "shorts",
+        "at": 1791227541
+      },
+      "tiktok": {
+        "id": "7693280536881581319",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693280536881581319",
+        "kind": "video",
+        "at": 1791231580
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791231590
+  },
+  {
+    "slug": "2026-10-06-news-congo-ebola-outbreak-4000-deaths",
+    "event_ms": 1791227264000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 콩고 에볼라 사망자 4000명을 넘었습니다\n\n· 역대 가장 빠른 속도로 확산 중인 에볼라로 사망자가 4000명을 돌파했습니다 (로이터·AP)\n· 에볼라 치료소가 불에 타는 사건이 발생했습니다 (AP)\n\n출처: 뉴욕타임스·로이터·AP통신·CBS뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "콩고민주공화국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18082600346709739",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeICyr9gYru",
+        "kind": "carousel",
+        "at": 1791231304
+      },
+      "instagram": {
+        "id": "17962073025225070",
+        "permalink": "https://www.instagram.com/reel/DeIDCQClM98/",
+        "kind": "reel",
+        "at": 1791231448
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1791231458
+      },
+      "tiktok": {
+        "id": "7693281072582315271",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693281072582315271",
+        "kind": "video",
+        "at": 1791231711
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791231721
   }
 ]

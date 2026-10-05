@@ -1,0 +1,130 @@
+{
+  "slug": "2026-10-06-news-congo-ebola-outbreak-4000-deaths",
+  "topic": "콩고 에볼라 사망자 4000명 돌파 역대 최단 기간 확산세 기록",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 04:07 KST",
+  "source": "AP News·CBS News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxPb1E2QXFfdHh5YVFudTdTUnowN2F0RjBZQVNINDNEaFQ5TWtKc29JdXpZTjhsd1NMMXpwX0t6ajg2WUFYMEpLWVItZjJyQjJYNUZJSDVZVmFISEtXdldqamt3WExucXUxUUNvZkp6emw2bXN2SWhibHpjcGNRZEk4bDF4XzQ",
+    "related": [
+      [
+        "How Congo’s Ebola Epidemic Got So Bad So Quickly",
+        "nytimes.com"
+      ],
+      [
+        "Congo's Ebola outbreak has killed more than 4,000, government data shows",
+        "Reuters"
+      ],
+      [
+        "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
+        "AP News"
+      ],
+      [
+        "Ebola death toll in Congo tops 4,000 in fastest-growing outbreak of the disease on record",
+        "CBS News"
+      ],
+      [
+        "Ebola epidemic update - October 2",
+        "Outbreak News Today"
+      ]
+    ],
+    "event_key": "congo_ebola_outbreak_4000_deaths"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "콩고 에볼라 사망자 4000명 돌파\n역대 최단 기간 확산세 기록",
+      "sub": "치료소 방화 사건 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "4000명 이상"
+        }
+      ],
+      "alt": "콩고 에볼라 사망자 4000명 돌파 역대 최단 기간 확산세 기록",
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "콩고민주공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "콩고민주공화국\n콩고",
+      "video_only": true,
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "콩고"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "치료소 방화",
+          "d": "에볼라 치료소가 불에 타는 사건이 발생했다고 AP 통신이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 4000명 이상 (로이터·AP·CBS)",
+        "역대 최단 기간 에볼라 확산 (CBS)"
+      ],
+      "unconfirmed": [
+        "치료소 방화 사건의 구체적인 피해 규모와 배후",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBS News",
+        "Outbreak News Today",
+        "Reuters",
+        "nytimes.com",
+        "2026.10.06 05:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 콩고 에볼라 사망자 4000명을 넘었습니다\n\n· 역대 가장 빠른 속도로 확산 중인 에볼라로 사망자가 4000명을 돌파했습니다 (로이터·AP)\n· 에볼라 치료소가 불에 타는 사건이 발생했습니다 (AP)\n\n출처: 뉴욕타임스·로이터·AP통신·CBS뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "콩고에서 에볼라로 숨진 사람이 4000명을 넘었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 이번 유행이 역대 가장 빠른 속도로 확산하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "에볼라 치료소가 불에 타는 사건이 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

@@ -1385,5 +1385,15 @@
     "at": 1791227269.0437508,
     "country": "유럽연합",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "congo_ebola_outbreak_4000_deaths",
+    "topic": "콩고 에볼라 사망자 4000명 돌파 역대 최단 기간 확산세 기록",
+    "slug": "2026-10-06-news-congo-ebola-outbreak-4000-deaths",
+    "cluster": "CBMihAFBVV95cUxPb1E2QXFfdHh5YVFudTdTUnowN2F0RjBZQVNINDNEaFQ5TWtKc29JdXpZTjhsd1NMMXpwX0t6ajg2WUFYMEpLWVItZjJyQjJYNUZJSDVZVmFISEtXdldqamt3WExucXUxUUNvZkp6emw2bXN2SWhibHpjcGNRZEk4bDF4XzQ",
+    "badge": "breaking",
+    "at": 1791231248.1119592,
+    "country": "콩고민주공화국",
+    "category": "재난"
   }
 ]
