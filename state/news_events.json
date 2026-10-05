@@ -1355,5 +1355,15 @@
     "at": 1791205717.1255348,
     "country": "러시아",
     "category": "사고"
+  },
+  {
+    "event_key": "romania-black-sea-ship-fire-2026",
+    "topic": "흑해 곡물 운반선서 화재 선원 2명 사망 확인",
+    "slug": "2026-10-05-news-romania-black-sea-ship-fire-2026",
+    "cluster": "CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr",
+    "badge": "breaking",
+    "at": 1791212963.2548745,
+    "country": "루마니아",
+    "category": "사고"
   }
 ]

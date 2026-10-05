@@ -1,7 +1,7 @@
 [
   {
-    "slug": "2026-10-05-news-russia-tu95-bomber-crash-2026",
-    "event_ms": 1791200445000,
+    "slug": "2026-10-05-news-romania-black-sea-ship-fire-2026",
+    "event_ms": 1791208033000,
     "category": "사고",
     "images": [
       "01_cover.png",
@@ -9,12 +9,12 @@
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 러시아 전략폭격기 Tu-95MS가 추락해 군 장교들이 숨졌습니다.\n\n· 러시아의 Tu-95MS 폭격기가 추락했습니다 (야후 등)\n· 이번 사고로 기체에 타고 있던 러시아군 장교들이 사망했습니다 (메두자·키이우포스트)\n· 정확한 사망자 수 등 구체적인 내용은 아직 명확히 공개되지 않았습니다\n\n출처: 메두자·야후·키이우포스트 보도 종합",
+    "text": "[속보] 흑해 곡물 운반선서 화재… 선원 2명 사망 확인\n\n· 루마니아 해역 인근에서 발생한 사고로 선원 11명이 구조됐습니다 (로이터·10TV)\n· 우크라이나는 러시아의 드론 공격이 원인이라고 밝혔습니다 (로이터·폴리티코)\n\n출처: 로이터·폴리티코·10TV 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
       "사고",
-      "러시아"
+      "루마니아"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,24 +25,24 @@
     ],
     "done": {
       "threads": {
-        "id": "18118342633980853",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeHSFtKlZEd",
+        "id": "18113199647138897",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeHgDyMEXf0",
         "kind": "carousel",
-        "at": 1791205768
+        "at": 1791213093
       },
       "instagram": {
-        "id": "17867877237660523",
-        "permalink": "https://www.instagram.com/reel/DeHSVULEuYT/",
+        "id": "18118572862858925",
+        "permalink": "https://www.instagram.com/reel/DeHgQ7EjKdF/",
         "kind": "reel",
-        "at": 1791205914
+        "at": 1791213219
       },
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1791205924
+        "at": 1791213229
       }
     },
     "attempts": {
-      "tiktok": 2
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

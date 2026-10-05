@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-05-news-romania-black-sea-ship-fire-2026",
+  "topic": "흑해 곡물 운반선서 화재 선원 2명 사망 확인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.05 22:47 KST",
+  "source": "Politico·Reuters·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr",
+    "related": [
+      [
+        "Romania says two dead after fire on ship, Ukraine blames Russian drones",
+        "Reuters"
+      ],
+      [
+        "Zelenskyy blames Russia for drone strike that killed 2 on Black Sea grain ship",
+        "Politico"
+      ],
+      [
+        "Romania reports 2 dead and 11 rescued after fire onboard a vessel in Black Sea",
+        "10TV"
+      ],
+      [
+        "Two crew-members dead as merchant ship sinks in the Black Sea",
+        "Yahoo"
+      ],
+      [
+        "Two killed in incident involving vessel carrying Ukrainian grain near Romania – video",
+        "Українська правда"
+      ]
+    ],
+    "event_key": "romania-black-sea-ship-fire-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "흑해 곡물 운반선서 화재\n선원 2명 사망 확인",
+      "sub": "루마니아 해역 인근에서 발생한 사고로 11명이 구조됐습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        },
+        {
+          "k": "구조",
+          "v": "11명"
+        }
+      ],
+      "alt": "흑해 곡물 운반선서 화재 선원 2명 사망 확인",
+      "map": {
+        "lat": 43.872824,
+        "lon": 33.9938077,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "루마니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "루마니아\n흑해",
+      "video_only": true,
+      "map": {
+        "lat": 43.872824,
+        "lon": 33.9938077,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "흑해"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "우크라이나 입장",
+          "d": "우크라이나는 러시아의 드론 공격으로 선박에 피해가 발생했다고 밝혔습니다."
+        },
+        {
+          "t": "선박 정보",
+          "d": "사고 선박은 우크라이나 곡물을 운반 중이던 상선으로 전해졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "선원 2명 사망 (로이터·폴리티코)",
+        "선원 11명 구조 (로이터·10TV)",
+        "루마니아 해역 인근 흑해 발생"
+      ],
+      "unconfirmed": [
+        "화재 및 침몰 정확한 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "10TV",
+        "Politico",
+        "Reuters",
+        "Yahoo",
+        "Українська правда",
+        "2026.10.06 00:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 흑해 곡물 운반선서 화재… 선원 2명 사망 확인\n\n· 루마니아 해역 인근에서 발생한 사고로 선원 11명이 구조됐습니다 (로이터·10TV)\n· 우크라이나는 러시아의 드론 공격이 원인이라고 밝혔습니다 (로이터·폴리티코)\n\n출처: 로이터·폴리티코·10TV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "흑해를 지나던 곡물 운반선에서 화재가 발생해 선원 2명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 루마니아 해역 인근에서 선원 11명이 구조됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나는 러시아의 드론 공격이 원인이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

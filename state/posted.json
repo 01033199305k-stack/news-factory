@@ -7175,5 +7175,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791202509
+  },
+  {
+    "slug": "2026-10-05-news-russia-tu95-bomber-crash-2026",
+    "event_ms": 1791200445000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아 전략폭격기 Tu-95MS가 추락해 군 장교들이 숨졌습니다.\n\n· 러시아의 Tu-95MS 폭격기가 추락했습니다 (야후 등)\n· 이번 사고로 기체에 타고 있던 러시아군 장교들이 사망했습니다 (메두자·키이우포스트)\n· 정확한 사망자 수 등 구체적인 내용은 아직 명확히 공개되지 않았습니다\n\n출처: 메두자·야후·키이우포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18118342633980853",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeHSFtKlZEd",
+        "kind": "carousel",
+        "at": 1791205768
+      },
+      "instagram": {
+        "id": "17867877237660523",
+        "permalink": "https://www.instagram.com/reel/DeHSVULEuYT/",
+        "kind": "reel",
+        "at": 1791205914
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1791205924
+      },
+      "tiktok": {
+        "id": "7693202263363292434",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693202263363292434",
+        "kind": "video",
+        "at": 1791213350
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791213360
   }
 ]
