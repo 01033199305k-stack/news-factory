@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-06-news-jeju-chagwido-fishing-boat-capsule-2026",
+  "topic": "제주 차귀도 해상 어선 전복 선장 등 2명 실종",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 04:30 KST",
+  "source": "KBS 뉴스·v.daum.net·동아일보 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMidkFVX3lxTE1QamJTcHVWeldPMlN0eTE2d3lIZG8zMlBWM0VuVGdtbHFkT1lVSDd5WEk2cU1Qb2s2QVdqalR6R2VTUUZuV2kxYUlxLTNmUVZUaTZCcEVqdnhkd1kxeGc2Tm9qcjhIbEdZUTMyOEVmSlhhQUhaTnfSAWZBVV95cUxOdDJ0NjFPSmROSVdTVUpOcDV6SDBPZW91SjhVMWFENTFsN1NmY3BPQU9sc1BTUW5DLV9NX0M5SnU0Z01qNU9LRzhYLU1qcTVDYzBUZ2ZCQ0g1LV81TnpSUnoyRWRKVWc",
+    "related": [
+      [
+        "제주 차귀도 해상서 어선 전복… 선장 등 2명 실종",
+        "동아일보"
+      ],
+      [
+        "그물 끌어올리다 ‘기우뚱’…어선 전복 2명 실종",
+        "KBS 뉴스"
+      ],
+      [
+        "제주 차귀도 해상서 실종자 수색하는 해경",
+        "연합뉴스"
+      ],
+      [
+        "‘성진호 전복’…“한국인 선장, 조타실에 있었다” 생존자들 진술",
+        "동아일보"
+      ],
+      [
+        "한 총리, 제주 어선 전복 \"인명구조 최우선\" 지시",
+        "v.daum.net"
+      ]
+    ],
+    "event_key": "jeju-chagwido-fishing-boat-capsule-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "제주 차귀도 해상 어선 전복\n선장 등 [[2명 실종]]",
+      "sub": "그물 인양 중 사고 발생, 해경 수색 중",
+      "chips": [
+        {
+          "k": "실종",
+          "v": "2명"
+        }
+      ],
+      "alt": "제주 차귀도 해상 어선 전복 선장 등 2명 실종",
+      "map": {
+        "lat": 33.3111741,
+        "lon": 126.147176,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n제주 차귀도",
+      "video_only": true,
+      "map": {
+        "lat": 33.3111741,
+        "lon": 126.147176,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "제주 차귀도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "어선 전복 사고",
+          "d": "제주 차귀도 해상에서 그물을 끌어올리던 중 어선이 전복됐습니다 (동아일보·KBS)."
+        },
+        {
+          "t": "실종자 발생",
+          "d": "선장을 포함한 2명이 실종되어 해경이 수색 작업을 벌이고 있습니다 (동아일보·연합뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "제주 차귀도 해상",
+        "어선 전복",
+        "실종 2명"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인",
+        "추가 피해 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "v.daum.net",
+        "동아일보",
+        "연합뉴스",
+        "2026.10.06 07:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 제주 차귀도 해상 어선 전복 선장 등 2명 실종\n\n· 제주 차귀도 해상에서 그물을 끌어올리던 중 어선이 전복됐습니다 (동아일보·KBS)\n· 선장을 포함한 2명이 실종되어 해경이 수색 작업을 벌이고 있습니다 (동아일보·연합뉴스)\n\n출처: 동아일보·KBS·연합뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "제주 차귀도 해상에서 어선이 전복돼 2명이 실종됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "제주 차귀도 해상에서 해경이 실종자 수색 작업을 벌이고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "그물을 끌어올리다 배가 기우뚱하며 사고가 났습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

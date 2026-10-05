@@ -7448,5 +7448,63 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791231721
+  },
+  {
+    "slug": "2026-10-06-news-ukraine-kharkiv-russian-bomb-attack-oct-2026",
+    "event_ms": 1791231298000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라이나 하르키우 공습 6명 사망, 주거 지역 파괴\n\n· 러시아군의 공격이 우크라이나 하르키우 주거 지역을 강타했습니다 (로이터)\n· 이번 공격으로 6명이 숨지고 여러 명이 다쳤습니다 (로이터·키이우 인디펜던트)\n\n출처: 로이터·키이우 인디펜던트·우크린폼 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "instagram": {
+        "id": "18023815940871245",
+        "permalink": "https://www.instagram.com/reel/DeIKZ2mFETo/",
+        "kind": "reel",
+        "at": 1791235311
+      },
+      "youtube": {
+        "id": "AOz27ItbbYQ",
+        "permalink": "https://youtube.com/shorts/AOz27ItbbYQ",
+        "kind": "shorts",
+        "at": 1791235341
+      },
+      "threads": {
+        "id": "18216964018350651",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeIP9ovlGUU",
+        "kind": "carousel",
+        "at": 1791238208
+      },
+      "tiktok": {
+        "id": "7693311146861858068",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693311146861858068",
+        "kind": "video",
+        "at": 1791238711
+      }
+    },
+    "attempts": {
+      "threads": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791238721
   }
 ]

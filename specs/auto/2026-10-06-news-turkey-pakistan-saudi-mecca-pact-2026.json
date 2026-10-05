@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-06-news-turkey-pakistan-saudi-mecca-pact-2026",
+  "topic": "튀르키예·파키스탄·사우디 메카 방위 협정 가동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 06:43 KST",
+  "source": "Al Jazeera·Reuters·RealClearDefense 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxQbndCN0ZDVGg2amdidV9TSG5QR1oxdWxCTkF1RVJ6MDF3Qi1IaVRoZ01rS0ZOTEJPel9GRkZmVk1SeGtuaDJEMDJvdUxHZm1yWTFaZmNUWjUxSTBiV1UtNG84NllxQWQ0TzlvQmVKR09TLWczN0FRT1ZqT2Q5MWhtZDFKc2ZUWGVSeGp4M2psa2Jrb2hhOHhjcG1JVFRHNGJCc3FUN21PbnDSAa4BQVVfeXFMT0pPVnhBeEtmNXNrZ3Zpd2VDTW9PdFVtNG4wYk9UZFZjWWFwRUZWU0hKT3Q3LVJQaGlGc3JrXzFjQ2dTMUdfRzB1c3cyTENPUndzMTlOa0tuZlYyYUo3RGxTUWFrN1FXRDNQNmdweUZGcmFWWVRadFJHZmo3M3lIUWlvNXBfLXZlWXRicUtydHlJS01OQUszM2xOQi1wTWZyMzVBM0FmRTdIY05ZX1JB",
+    "related": [
+      [
+        "Turkiye, Pakistan agree Saudi Arabia military deployment under Mecca pact",
+        "Al Jazeera"
+      ],
+      [
+        "Turkey says Mecca pact committee to meet in Riyadh on October 5",
+        "Reuters"
+      ],
+      [
+        "Saudi Arabia, Turkey and Pakistan activate defense pact over Houthi attacks",
+        "iranintl.com"
+      ],
+      [
+        "Between Entrapment and Abandonment: The Mecca Pact Faces Its First Serious Test",
+        "RealClearDefense"
+      ],
+      [
+        "Mecca defense pact signatories meeting in Riyadh over escalating Houthi attacks",
+        "The Jerusalem Post"
+      ]
+    ],
+    "event_key": "turkey-pakistan-saudi-mecca-pact-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "튀르키예·파키스탄·사우디\n[[메카 방위 협정]] 가동",
+      "sub": "후티 반군 공격 대응 위한 군사 배치 합의",
+      "chips": [],
+      "alt": "튀르키예·파키스탄·사우디 메카 방위 협정 가동",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "방위 협정 가동",
+          "d": "튀르키예와 파키스탄이 사우디아라비아와 메카 방위 협정에 따른 군사 배치에 합의했습니다 (Al Jazeera·로이터)."
+        },
+        {
+          "t": "리야드 회의",
+          "d": "메카 방위 협정 위원회가 사우디아라비아 리야드에서 회의를 개최합니다 (로이터·예루살렘 포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디아라비아",
+        "튀르키예",
+        "파키스탄",
+        "메카 방위 협정"
+      ],
+      "unconfirmed": [
+        "구체적인 파병 규모와 배치 시기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "RealClearDefense",
+        "Reuters",
+        "The Jerusalem Post",
+        "iranintl.com",
+        "2026.10.06 07:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 튀르키예·파키스탄·사우디 메카 방위 협정 가동\n\n· 튀르키예와 파키스탄이 사우디아라비아와 메카 방위 협정에 따른 군사 배치에 합의했습니다 (Al Jazeera·로이터)\n· 메카 방위 협정 위원회가 사우디아라비아 리야드에서 회의를 개최합니다 (로이터·예루살렘 포스트)\n\n중동 지역 군사 동맹 강화가 국제 정세에 미칠 영향에 대해 어떻게 생각하십니까?\n\n출처: Al Jazeera·로이터·예루살렘 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "튀르키예와 파키스탄이 사우디아라비아와 메카 방위 협정에 따른 군사 배치에 합의했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디아라비아 리야드에서 메카 방위 협정 위원회가 회의를 엽니다.",
+      "card": "map"
+    },
+    {
+      "text": "후티 반군의 공격에 대응하기 위한 조치로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 파병 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
