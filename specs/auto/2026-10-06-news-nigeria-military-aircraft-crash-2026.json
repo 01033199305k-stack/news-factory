@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-06-news-nigeria-military-aircraft-crash-2026",
+  "topic": "나이지리아서 군용기 추락… 32명 사망 또는 구조 작업 중",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 05:55 KST",
+  "source": "Al Jazeera·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgFBVV95cUxNcTVNcjc5Rk9CNVRSWWwtNm96QmVtNGFKQVFTOGwzVmY4d29peTJ4UGFIWEpZLWF1ODFMSkszT3YyZ3N5SFNkSXBSYmd5dnhDYmwwWjU1UGpKUEJmVWZJbldGTWhQRFlnU1RFNVhKOFBEYi1YZkdvY1B2ZnJkcXBHbEg3UWNVNkVVWWRaM2RKOC1ZOVlia0xGYU9SSmxUanFscURjRjU0RlI5bFlXYXFEcE85SC1BODRKYjVMdW5n",
+    "related": [
+      [
+        "Nigerian military aircraft crashes, killing 32",
+        "Reuters"
+      ],
+      [
+        "Nigeria Military Helicopter Crashes With 32 Onboard",
+        "The New York Times"
+      ],
+      [
+        "Nigerian military plane carrying 32 people crashes, prompting rescue operation",
+        "dw.com"
+      ],
+      [
+        "Tinubu Declares Three-Day National Mourning Over Ondo Military Aircraft Crash",
+        "Channels Television"
+      ],
+      [
+        "Nigeria launches rescue after military plane crashes with 32 aboard",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "nigeria-military-aircraft-crash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "나이지리아서 군용기 추락…\n32명 사망 또는 구조 작업 중",
+      "sub": "대통령, 사흘간 국가 애도 기간 선포",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "32명"
+        },
+        {
+          "k": "탑승",
+          "v": "32명"
+        }
+      ],
+      "alt": "나이지리아서 군용기 추락… 32명 사망 또는 구조 작업 중",
+      "map": {
+        "lat": 7.0209686,
+        "lon": 5.0567477,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "나이지리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "나이지리아\n온도",
+      "video_only": true,
+      "map": {
+        "lat": 7.0209686,
+        "lon": 5.0567477,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "온도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 발생",
+          "d": "나이지리아에서 군용기가 추락하는 사고가 발생했다고 로이터와 뉴욕타임스가 보도했습니다."
+        },
+        {
+          "t": "인명 피해",
+          "d": "로이터는 탑승자 32명이 숨졌다고 보도했으나, 알자지라는 32명이 탑승한 가운데 구조 작업이 시작되었다고 전했습니다."
+        },
+        {
+          "t": "후속 조치",
+          "d": "티누부 대통령은 사흘간을 국가 애도 기간으로 선포했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "군용기 추락 사고 발생",
+        "탑승자 32명 사망 또는 탑승",
+        "국가 애도 기간 선포"
+      ],
+      "unconfirmed": [
+        "정확한 추락 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Channels Television",
+        "Reuters",
+        "The New York Times",
+        "dw.com",
+        "2026.10.06 08:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 나이지리아서 군용기 추락… 32명 사망 또는 구조 작업 중\n\n· 나이지리아에서 군용기가 추락해 32명이 숨졌거나(로이터) 32명이 탑승해 구조 중입니다 (뉴욕타임스·알자지라)\n· 티누부 대통령은 사흘간을 국가 애도 기간으로 선포했습니다 (채널스 텔레비전)\n\n출처: 로이터·뉴욕타임스·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "나이지리아에서 군용기가 추락해 32명이 사망하거나 구조 작업이 진행 중입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 이번 사고로 32명이 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "티누부 대통령은 사흘간의 국가 애도 기간을 선포했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

@@ -44,13 +44,13 @@
       }
     },
     "attempts": {
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   },
   {
-    "slug": "2026-10-06-news-jeju-chagwido-fishing-boat-capsule-2026",
-    "event_ms": 1791228600000,
+    "slug": "2026-10-06-news-nigeria-military-aircraft-crash-2026",
+    "event_ms": 1791233724000,
     "category": "사고",
     "images": [
       "01_cover.png",
@@ -58,12 +58,12 @@
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 제주 차귀도 해상 어선 전복 선장 등 2명 실종\n\n· 제주 차귀도 해상에서 그물을 끌어올리던 중 어선이 전복됐습니다 (동아일보·KBS)\n· 선장을 포함한 2명이 실종되어 해경이 수색 작업을 벌이고 있습니다 (동아일보·연합뉴스)\n\n출처: 동아일보·KBS·연합뉴스 보도 종합",
-    "topic_tag": "사건사고",
+    "text": "[속보] 나이지리아서 군용기 추락… 32명 사망 또는 구조 작업 중\n\n· 나이지리아에서 군용기가 추락해 32명이 숨졌거나(로이터) 32명이 탑승해 구조 중입니다 (뉴욕타임스·알자지라)\n· 티누부 대통령은 사흘간을 국가 애도 기간으로 선포했습니다 (채널스 텔레비전)\n\n출처: 로이터·뉴욕타임스·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
     "hashtags": [
-      "사건사고",
+      "해외사건사고",
       "사고",
-      "대한민국"
+      "나이지리아"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -74,20 +74,20 @@
     ],
     "done": {
       "threads": {
-        "id": "18122868574904093",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeIQG7zFKUg",
+        "id": "18105448124344037",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeIWu__j6zz",
         "kind": "carousel",
-        "at": 1791238283
+        "at": 1791241759
       },
       "instagram": {
-        "id": "17912301252543176",
-        "permalink": "https://www.instagram.com/reel/DeIQkHPj3CC/",
+        "id": "17890562631459213",
+        "permalink": "https://www.instagram.com/reel/DeIXDJRlUNM/",
         "kind": "reel",
-        "at": 1791238543
+        "at": 1791241946
       },
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1791238590
+        "at": 1791241956
       }
     },
     "attempts": {

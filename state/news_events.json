@@ -1425,5 +1425,15 @@
     "at": 1791238156.1010563,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "nigeria-military-aircraft-crash-2026",
+    "topic": "나이지리아서 군용기 추락… 32명 사망 또는 구조 작업 중",
+    "slug": "2026-10-06-news-nigeria-military-aircraft-crash-2026",
+    "cluster": "CBMivgFBVV95cUxNcTVNcjc5Rk9CNVRSWWwtNm96QmVtNGFKQVFTOGwzVmY4d29peTJ4UGFIWEpZLWF1ODFMSkszT3YyZ3N5SFNkSXBSYmd5dnhDYmwwWjU1UGpKUEJmVWZJbldGTWhQRFlnU1RFNVhKOFBEYi1YZkdvY1B2ZnJkcXBHbEg3UWNVNkVVWWRaM2RKOC1ZOVlia0xGYU9SSmxUanFscURjRjU0RlI5bFlXYXFEcE85SC1BODRKYjVMdW5n",
+    "badge": "breaking",
+    "at": 1791241700.3428135,
+    "country": "나이지리아",
+    "category": "사고"
   }
 ]

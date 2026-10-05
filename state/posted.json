@@ -7506,5 +7506,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791238721
+  },
+  {
+    "slug": "2026-10-06-news-jeju-chagwido-fishing-boat-capsule-2026",
+    "event_ms": 1791228600000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 제주 차귀도 해상 어선 전복 선장 등 2명 실종\n\n· 제주 차귀도 해상에서 그물을 끌어올리던 중 어선이 전복됐습니다 (동아일보·KBS)\n· 선장을 포함한 2명이 실종되어 해경이 수색 작업을 벌이고 있습니다 (동아일보·연합뉴스)\n\n출처: 동아일보·KBS·연합뉴스 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18122868574904093",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeIQG7zFKUg",
+        "kind": "carousel",
+        "at": 1791238283
+      },
+      "instagram": {
+        "id": "17912301252543176",
+        "permalink": "https://www.instagram.com/reel/DeIQkHPj3CC/",
+        "kind": "reel",
+        "at": 1791238543
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1791238590
+      },
+      "tiktok": {
+        "id": "7693326113136807188",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693326113136807188",
+        "kind": "video",
+        "at": 1791242190
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791242200
   }
 ]
