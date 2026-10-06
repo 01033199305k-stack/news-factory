@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-10-06-news-kenya-ebola-first-case-2026",
+    "event_ms": 1791285520000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 케냐에서 사상 처음으로 에볼라 감염 환자가 발생했습니다.\n\n· 이번 환자는 콩고민주공화국에서 에볼라에 감염된 뒤 케냐로 유입된 것으로 확인됐습니다. (로이터·AP)\n· 환자는 수도 나이로비에서 사망했습니다. (AP)\n· 이번 사례는 에볼라 번디부교 바이러스로 확인됐습니다. (BBC)\n\n출처: 뉴욕타임스·로이터·BBC·가디언·AP 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "케냐"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18090171089675468",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeJ22zxEZsb",
+        "kind": "carousel",
+        "at": 1791292156
+      },
+      "instagram": {
+        "id": "18166629802481395",
+        "permalink": "https://www.instagram.com/reel/DeJ3H6zDk6X/",
+        "kind": "reel",
+        "at": 1791292312
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1791292322
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

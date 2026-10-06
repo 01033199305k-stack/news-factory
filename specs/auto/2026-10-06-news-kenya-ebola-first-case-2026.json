@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-06-news-kenya-ebola-first-case-2026",
+  "topic": "케냐 사상 첫 에볼라 감염 확인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 20:18 KST",
+  "source": "AP News·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxNa0FnQmRLaFN4d0x1LUdtZnJRSHNBeFhzc2pGc09RU1ZWcDBLdDdRT2Z4S3ZHaURpMEh3STlGdnlVeUlPekJVa0VVOUluZW1QOWhqRjRQUkVYXy1aakpJQ0U1cjJnRGdzc0FQczVWNEJSNHdONWJmVWl3Q1dYV2h1UG16SWk",
+    "related": [
+      [
+        "Kenya Records Ebola Case for First Time",
+        "The New York Times"
+      ],
+      [
+        "Kenya confirms first Ebola case imported from Congo",
+        "Reuters"
+      ],
+      [
+        "Kenya confirms first case of Ebola Bundibugyo virus",
+        "BBC"
+      ],
+      [
+        "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+        "The Guardian"
+      ],
+      [
+        "Kenya confirms first Ebola case imported from Congo after patient dies in Nairobi",
+        "AP News"
+      ]
+    ],
+    "event_key": "kenya-ebola-first-case-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "케냐 사상 첫\n[[에볼라]] 감염 확인",
+      "sub": "민주콩고에서 유입된 환자로 수도 나이로비에서 사망 (AP·로이터)",
+      "chips": [
+        {
+          "k": "첫 확진",
+          "v": "케냐"
+        },
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "케냐 사상 첫 에볼라 감염 확인",
+      "map": {
+        "lat": -1.2890006,
+        "lon": 36.8172812,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "케냐"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "케냐\n나이로비",
+      "video_only": true,
+      "map": {
+        "lat": -1.2890006,
+        "lon": 36.8172812,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "나이로비"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "번디부교 바이러스",
+          "d": "이번에 확인된 바이러스는 에볼라 번디부교 바이러스인 것으로 확인됐습니다. (BBC)"
+        },
+        {
+          "t": "민주콩고 내 확산 여파",
+          "d": "콩고민주공화국 주에서 에볼라가 급증하는 가운데 케냐에서 첫 사례가 확인됐습니다. (가디언)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "케냐 최초 에볼라 확진",
+        "콩고민주공화국발 유입",
+        "환자 사망 (AP)",
+        "에볼라 번디부교 바이러스 (BBC)"
+      ],
+      "unconfirmed": [
+        "추가 접촉자 및 감염자 발생 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.06 22:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 케냐에서 사상 처음으로 에볼라 감염 환자가 발생했습니다.\n\n· 이번 환자는 콩고민주공화국에서 에볼라에 감염된 뒤 케냐로 유입된 것으로 확인됐습니다. (로이터·AP)\n· 환자는 수도 나이로비에서 사망했습니다. (AP)\n· 이번 사례는 에볼라 번디부교 바이러스로 확인됐습니다. (BBC)\n\n출처: 뉴욕타임스·로이터·BBC·가디언·AP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "케냐에서 사상 첫 에볼라 환자가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 콩고민주공화국에서 유입된 환자 1명이 수도 나이로비에서 사망했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 바이러스는 에볼라 번디부교 바이러스로 확인됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추가 감염자나 밀접 접촉자 발생 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

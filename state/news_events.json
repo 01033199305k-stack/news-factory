@@ -1515,5 +1515,15 @@
     "at": 1791288587.9937456,
     "country": "일본",
     "category": "국제"
+  },
+  {
+    "event_key": "kenya-ebola-first-case-2026",
+    "topic": "케냐 사상 첫 에볼라 감염 확인",
+    "slug": "2026-10-06-news-kenya-ebola-first-case-2026",
+    "cluster": "CBMihAFBVV95cUxNa0FnQmRLaFN4d0x1LUdtZnJRSHNBeFhzc2pGc09RU1ZWcDBLdDdRT2Z4S3ZHaURpMEh3STlGdnlVeUlPekJVa0VVOUluZW1QOWhqRjRQUkVYXy1aakpJQ0U1cjJnRGdzc0FQczVWNEJSNHdONWJmVWl3Q1dYV2h1UG16SWk",
+    "badge": "breaking",
+    "at": 1791292102.2797856,
+    "country": "케냐",
+    "category": "재난"
   }
 ]
