@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-06-news-bulgaria-black-sea-drone-attack-ship-sink-2026",
+  "topic": "불가리아 흑해서 드론 공격 선박 침몰",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 17:25 KST",
+  "source": "Euronews.com·Novinite.com·Ukrinform 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxQQ0lQYTJMbldZM0szQ0RSaVAzcHY0V1ZxTTctbHJJMWlTYmZfSTVOUldOSVBBejNmR0VfajducEp1WjVtcVd0MEdXU3RsWFZGX3RLZGNsM1Q5a29nWGsyeXVvZkxLSzBUNDhyY0kyUXoyeE1IeU1RanlobVFPcXljUEM3UDB0VEtHQ0hudXRvWm45U25PZHpYTTA4Wmd4YUFscWJUNXhQUE1wMHdmTThIUVpIMXFESTQ",
+    "related": [
+      [
+        "Breaking news. Drones hit two ships off coast of Bulgaria, sinking one, as government calls emergency meeting",
+        "Euronews.com"
+      ],
+      [
+        "Drone Attack Rocks Bulgaria’s Black Sea Waters, Ship Sinks",
+        "Novinite.com"
+      ],
+      [
+        "Media reports: Russian-struck ship near Odesa drifts unmanned 40 miles from Bulgaria",
+        "Ukrinform"
+      ],
+      [
+        "President Iotova Cancels Visit to Veliko Tarnovo over Drone Strikes on Two Ships in Bulgaria’s Black Sea Economic Zone",
+        "БТА"
+      ],
+      [
+        "Drone-struck unmanned ship is drifting off Bulgaria's Shabla in the Black Sea",
+        "БНР Новините"
+      ]
+    ],
+    "event_key": "bulgaria-black-sea-drone-attack-ship-sink-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "불가리아 흑해서\n드론 공격 [[선박 침몰]]",
+      "sub": "이오토바 부통령은 방문 일정을 취소했습니다",
+      "chips": [
+        {
+          "k": "피격 선박",
+          "v": "2척"
+        },
+        {
+          "k": "침몰 선박",
+          "v": "1척"
+        }
+      ],
+      "alt": "불가리아 흑해서 드론 공격 선박 침몰",
+      "map": {
+        "lat": 43.5406619,
+        "lon": 28.5339137,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "불가리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "불가리아\n샤블라 앞바다",
+      "video_only": true,
+      "map": {
+        "lat": 43.5406619,
+        "lon": 28.5339137,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "샤블라 앞바다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "선박 2척 드론 피격",
+          "d": "불가리아 연안에서 선박 2척이 드론에 피격되어 1척이 침몰했습니다 (유로뉴스)."
+        },
+        {
+          "t": "무인선 표류 중",
+          "d": "공격받은 선박 중 한 척은 승선원 없이 샤블라 앞바다에서 표류 중인 것으로 전해졌습니다 (BNR)."
+        },
+        {
+          "t": "부통령 일정 취소",
+          "d": "불가리아 부통령은 드론 피격 사태로 방문 일정을 취소했습니다 (BTA)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "드론 공격으로 선박 1척 침몰",
+        "선박 2척 피격"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "드론의 소속 및 공격 주체",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Euronews.com",
+        "Novinite.com",
+        "Ukrinform",
+        "БНР Новините",
+        "БТА",
+        "2026.10.06 18:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 불가리아 인근 흑해에서 드론 공격으로 선박이 침몰했습니다.\n\n· 불가리아 연안에서 선박 2척이 드론 공격을 받아 1척이 가라앉았습니다 (유로뉴스).\n· 피격된 선박 중 무인선 한 척은 샤블라 앞바다에서 표류 중입니다 (BNR).\n· 이오토바 부통령은 이번 드론 피격으로 벨리코 타르노보 방문을 취소했습니다 (BTA).\n\n출처: 유로뉴스·노비니테·우크라인포름·BTA·BNR 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "불가리아 인근 흑해에서 드론 공격으로 선박이 침몰했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유로뉴스 등은 불가리아 연안에서 선박 2척이 드론에 피격되었다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이 중 한 척은 침몰했으며, 다른 한 척은 승선원 없이 표류 중인 것으로 알려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부 등은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

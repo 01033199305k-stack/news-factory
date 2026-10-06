@@ -7944,5 +7944,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791274116
+  },
+  {
+    "slug": "2026-10-06-news-bulgaria-black-sea-drone-attack-ship-sink-2026",
+    "event_ms": 1791275141000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 불가리아 인근 흑해에서 드론 공격으로 선박이 침몰했습니다.\n\n· 불가리아 연안에서 선박 2척이 드론 공격을 받아 1척이 가라앉았습니다 (유로뉴스).\n· 피격된 선박 중 무인선 한 척은 샤블라 앞바다에서 표류 중입니다 (BNR).\n· 이오토바 부통령은 이번 드론 피격으로 벨리코 타르노보 방문을 취소했습니다 (BTA).\n\n출처: 유로뉴스·노비니테·우크라인포름·BTA·BNR 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "불가리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17969491794171665",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeJb2F_FSRq",
+        "kind": "carousel",
+        "at": 1791277990
+      },
+      "instagram": {
+        "id": "17945440473345072",
+        "permalink": "https://www.instagram.com/reel/DeJcKpbj5tJ/",
+        "kind": "reel",
+        "at": 1791278179
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791278189
+      },
+      "tiktok": {
+        "id": "7693481258499902738",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693481258499902738",
+        "kind": "video",
+        "at": 1791278310
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791278320
   }
 ]
