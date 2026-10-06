@@ -8437,5 +8437,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791318620
+  },
+  {
+    "slug": "2026-10-07-news-canada-school-shooting-us-accomplice-arrest",
+    "event_ms": 1791310973000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 캐나다 학교 총격 사건에 연루된 미국인 남성이 체포됐습니다\n\n· 미국 거주 남성이 캐나다 학교 총격범에게 자금과 조언을 건넨 혐의로 기소됐습니다 (CBC·WSJ)\n· 워싱턴주 주민이 브리티시컬럼비아주 총격 사건과 관련해 당국에 붙잡혔습니다 (시애틀타임스·BBC)\n\n출처: BBC·WSJ·CBC·시애틀타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "캐나다"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18117197431967353",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeKtt1yoEnn",
+        "kind": "carousel",
+        "at": 1791320920
+      },
+      "instagram": {
+        "id": "18126233647879898",
+        "permalink": "https://www.instagram.com/reel/DeKt7Uwnadn/",
+        "kind": "reel",
+        "at": 1791321042
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1791321052
+      },
+      "tiktok": {
+        "id": "7693695370408299777",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693695370408299777",
+        "kind": "video",
+        "at": 1791328159
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791328169
   }
 ]
