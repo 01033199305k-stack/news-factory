@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-06-news-germany-ex-spy-chief-arrest-treason-2026",
+  "topic": "전 독일 정보 수장 간첩·반역 혐의 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 18:11 KST",
+  "source": "Financial Times·The Guardian·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxNSy1CQnlnLUtOdFJ3aTZtTFVjbzg2RDJncHU3V3RidWl3Zk5aY1BlNUxPU3RaUGI5UGRJQ0NQcEVpenVpZmQxemVPOFhuT2xtUHJMTEQ2OUpkald6ck81VGhoXzZIZWNjM29yYXg0MjZFTnk4ZGVtN09rUDF4VVNVRjZfUjY",
+    "related": [
+      [
+        "Former German spy chief arrested for treason",
+        "Financial Times"
+      ],
+      [
+        "Germany arrests former domestic intelligence chief over alleged spying",
+        "The Guardian"
+      ],
+      [
+        "Germany's ex-spy chief arrested for espionage",
+        "DW.com"
+      ],
+      [
+        "Ex-German spy chief detained on suspicion of espionage and treason – report",
+        "The Independent"
+      ],
+      [
+        "Germany’s former spy chief arrested for treason",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "germany-ex-spy-chief-arrest-treason-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "전 독일 정보 수장\n[[간첩·반역 혐의]] 체포",
+      "sub": "전 국내 정보 수장 스파이 혐의로 구금 (가디언)",
+      "chips": [
+        {
+          "k": "혐의",
+          "v": "간첩 및 반역"
+        }
+      ],
+      "alt": "전 독일 정보 수장 간첩·반역 혐의 체포",
+      "map": {
+        "lat": 52.5173885,
+        "lon": 13.3951309,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n베를린",
+      "video_only": true,
+      "map": {
+        "lat": 52.5173885,
+        "lon": 13.3951309,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베를린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "전직 정보 수장 체포",
+          "d": "독일의 전직 정보 수장이 간첩 및 반역 혐의로 체포됐습니다 (DW·FT·인디펜던트)."
+        },
+        {
+          "t": "스파이 혐의로 구금",
+          "d": "독일 당국은 전직 국내 정보 수장을 스파이 혐의로 체포해 구금했습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "전직 정보수장 체포",
+        "간첩 및 반역 혐의"
+      ],
+      "unconfirmed": [
+        "스파이 활동 대상 국가",
+        "상세한 혐의 경위",
+        "한국인 관련 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "DW.com",
+        "Financial Times",
+        "The Guardian",
+        "The Independent",
+        "The Telegraph",
+        "2026.10.06 19:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 전 독일 정보 수장, 간첩·반역 혐의로 체포 (인디펜던트)\n\n· 독일의 전직 정보 수장이 간첩 및 반역 혐의로 체포됐습니다 (DW·FT·인디펜던트)\n· 독일 당국은 전직 국내 정보 수장을 스파이 혐의로 체포해 구금했습니다 (가디언)\n\n이 사건이 독일의 국가 안보와 정보 동맹에 어떤 영향을 미칠까요?\n\n출처: 파이낸셜타임스·가디언·DW 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일에서 전직 정보 수장이 간첩과 반역 혐의로 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "독일 당국은 전직 국내 정보 수장을 구금하고 수사를 벌이고 있는 것으로 알려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신들은 그가 간첩 및 반역 혐의를 받고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적으로 어떤 국가를 위해 스파이 활동을 벌였는지는 아직 공식 발표되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
