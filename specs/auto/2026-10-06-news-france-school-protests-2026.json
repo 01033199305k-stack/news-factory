@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-06-news-france-school-protests-2026",
+  "topic": "프랑스 전역 고교 시위 격화 경찰 최루탄 발사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 23:42 KST",
+  "source": "CBS News·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTE5wV3BCUmYzZm5JYzA5UlZocS1YeHF2R0lFTEhmXzBRVzdSWW5IemhkMUxWaUwxRFZFbFZJd3dUVG5JdE93Sm8zQlZMaEFBVm1KUkdVREpn",
+    "related": [
+      [
+        "France school protests: Police fire tear gas at crowds as tens of thousands join school demonstrations",
+        "bbc.com"
+      ],
+      [
+        "France Protests Live Updates: Unions Join Student Demonstrations",
+        "The New York Times"
+      ],
+      [
+        "Protests disrupt hundreds of high schools across France in historic day of student protests, union says",
+        "CBS News"
+      ],
+      [
+        "'Gen Z has risen up': Tens of thousands demand better education in France",
+        "Yahoo"
+      ],
+      [
+        "Police fire teargas at French protesters on biggest day of school demonstrations",
+        "Reuters"
+      ]
+    ],
+    "event_key": "france-school-protests-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스 전역 [[고교 시위]] 격화\n경찰 최루탄 발사",
+      "sub": "수만 명의 학생과 노조가 교육 여건 개선을 요구하며 시위에 동참했습니다.",
+      "chips": [
+        {
+          "k": "시위",
+          "v": "수만 명"
+        },
+        {
+          "k": "학교",
+          "v": "수백 곳 차질"
+        }
+      ],
+      "alt": "프랑스 전역 고교 시위 격화 경찰 최루탄 발사",
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "경찰 대응",
+          "d": "경찰이 시위대를 향해 최루탄을 발사했습니다 (BBC·로이터)"
+        },
+        {
+          "t": "참여 규모",
+          "d": "수만 명의 학생과 노조가 대규모 시위에 동참했습니다 (뉴욕타임스·야후)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "수만 명 참여",
+        "경찰 최루탄 발사",
+        "교육 여건 개선 요구"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 규모",
+        "정부의 공식 입장 및 대책"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Reuters",
+        "The New York Times",
+        "Yahoo",
+        "bbc.com",
+        "2026.10.07 00:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 전역 고교 시위 격화, 경찰 최루탄 발사\n\n· 수만 명의 학생과 노조가 교육 여건 개선을 요구하며 시위에 참여했습니다 (BBC·야후)\n· 경찰이 시위대를 향해 최루탄을 발사했습니다 (BBC·로이터)\n\n출처: BBC·뉴욕타임스·CBS 뉴스·야후·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 전역에서 수만 명이 참여한 고등학교 시위가 격화됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 언론은 경찰이 시위대를 향해 최루탄을 발사했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "학생과 노조는 교육 여건 개선을 요구하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

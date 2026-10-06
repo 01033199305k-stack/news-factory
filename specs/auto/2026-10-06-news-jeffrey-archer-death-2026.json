@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-06-news-jeffrey-archer-death-2026",
+  "topic": "영국 소설가이자 정치인 제프리 아처 별세",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 22:48 KST",
+  "source": "Reuters·The Guardian·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBpck1EYTVFNFNiVmdVX3NuQXRmeFZtcHd2NEZsODVmcHItdGpCS21WWktXRVRJSzBrcEg1a05xdC1weUFEVUNCX05lNklHUWVUcGFvcG15bE9lV28",
+    "related": [
+      [
+        "Jeffrey Archer: Queen Camilla pays tribute to 'irrepressible' author and former politician",
+        "bbc.com"
+      ],
+      [
+        "Jeffrey Archer, Novelist Whose Real Life Rivaled His Thrillers, Dies at 86",
+        "The New York Times"
+      ],
+      [
+        "Jeffrey Archer, former Conservative politician and novelist, dies aged 86",
+        "The Guardian"
+      ],
+      [
+        "Jeffrey Archer, bestselling 'Kane and Abel' author, dies at 86",
+        "USA Today"
+      ],
+      [
+        "Jeffrey Archer, UK novelist and scandal-plagued politician, dies on eve of final book",
+        "Reuters"
+      ]
+    ],
+    "event_key": "jeffrey-archer-death-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 소설가이자 정치인\n[[제프리 아처]] 별세",
+      "sub": "베스트셀러 소설 '케인과 아벨'의 저자가 86세를 일기로 세상을 떠났습니다.",
+      "chips": [
+        {
+          "k": "나이",
+          "v": "86세"
+        }
+      ],
+      "alt": "영국 소설가이자 정치인 제프리 아처 별세",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주요 작품",
+          "d": "소설 '케인과 아벨'의 저자 (USA 투데이)"
+        },
+        {
+          "t": "추모 물결",
+          "d": "카밀라 왕비가 고인을 추모했습니다 (BBC)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "향년 86세 별세",
+        "소설가 겸 전직 정치인",
+        "카밀라 왕비 추모"
+      ],
+      "unconfirmed": [
+        "정확한 사인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "USA Today",
+        "bbc.com",
+        "2026.10.07 00:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국 소설가이자 정치인 제프리 아처 별세\n\n· 베스트셀러 소설 '케인과 아벨'의 저자가 86세를 일기로 사망했습니다 (USA 투데이)\n· 카밀라 왕비 등이 고인을 추모했습니다 (BBC)\n\n출처: BBC·뉴욕타임스·가디언·USA 투데이·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국의 소설가이자 전직 정치인인 제프리 아처가 86세를 일기로 별세했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "소설 '케인과 아벨'의 저자입니다.",
+      "card": "points"
+    },
+    {
+      "text": "카밀라 왕비는 고인을 추모하는 뜻을 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사인은 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

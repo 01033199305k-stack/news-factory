@@ -1525,5 +1525,25 @@
     "at": 1791292102.2797856,
     "country": "케냐",
     "category": "재난"
+  },
+  {
+    "event_key": "france-school-protests-2026",
+    "topic": "프랑스 전역 고교 시위 격화 경찰 최루탄 발사",
+    "slug": "2026-10-06-news-france-school-protests-2026",
+    "cluster": "CBMiVkFVX3lxTE5wV3BCUmYzZm5JYzA5UlZocS1YeHF2R0lFTEhmXzBRVzdSWW5IemhkMUxWaUwxRFZFbFZJd3dUVG5JdE93Sm8zQlZMaEFBVm1KUkdVREpn",
+    "badge": "breaking",
+    "at": 1791299345.316699,
+    "country": "프랑스",
+    "category": "기타 사건"
+  },
+  {
+    "event_key": "jeffrey-archer-death-2026",
+    "topic": "영국 소설가이자 정치인 제프리 아처 별세",
+    "slug": "2026-10-06-news-jeffrey-archer-death-2026",
+    "cluster": "CBMiW0FVX3lxTFBpck1EYTVFNFNiVmdVX3NuQXRmeFZtcHd2NEZsODVmcHItdGpCS21WWktXRVRJSzBrcEg1a05xdC1weUFEVUNCX05lNklHUWVUcGFvcG15bE9lV28",
+    "badge": "breaking",
+    "at": 1791299437.319368,
+    "country": "영국",
+    "category": "기타 사건"
   }
 ]
