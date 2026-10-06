@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-06-news-us-fort-hood-shooter-execution-approval-2026",
+  "topic": "트럼프, '13명 살해' 포트 후드 총격범 총살 승인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 10:34 KST",
+  "source": "BBC·CBS News·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiAFBVV95cUxPWm1kYkJQVlNoSWlfc0YzZDNNemFXQUJfbnBaZVdDbjYzT2w1Nzd5UUE5TXNnd3ZnT1FwbnczTTFoQVNBN0VGVEE0MzQ5d2kxYkltUkxJSy04MWtBcVZxMTBjRTZKbWdtNnFTcGNFbS1udDJTSHppbjRVTTE0aVh4RmpqejJqTFFC",
+    "related": [
+      [
+        "Trump approves firing-squad execution of Fort Hood shooter, Pentagon says",
+        "The Guardian"
+      ],
+      [
+        "Trump approves firing squad for execution of Nidal Hasan for 2009 Fort Hood massacre",
+        "CNN"
+      ],
+      [
+        "US military to execute Fort Hood shooter by firing squad",
+        "BBC"
+      ],
+      [
+        "Ex-Army major who killed 13 at Fort Hood set to be executed by firing squad",
+        "NBC News"
+      ],
+      [
+        "Trump administration approves death by firing squad for convicted Fort Hood shooter Nidal Hasan, Pentagon says",
+        "CBS News"
+      ]
+    ],
+    "event_key": "us-fort-hood-shooter-execution-approval-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "트럼프, '13명 살해'\n[[포트 후드 총격범 총살]] 승인",
+      "sub": "미 펜타곤, 13명 살해한 전직 육군 소령 사형 집행 승인 발표",
+      "chips": [
+        {
+          "k": "사망자",
+          "v": "13명"
+        }
+      ],
+      "alt": "트럼프, '13명 살해' 포트 후드 총격범 총살 승인",
+      "map": {
+        "lat": 31.2012636,
+        "lon": -97.708425,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n텍사스주 포트 후드",
+      "video_only": true,
+      "map": {
+        "lat": 31.2012636,
+        "lon": -97.708425,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "텍사스주 포트 후드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "2009년 13명 살해 사건",
+          "d": "전직 육군 소령인 총격범은 2009년 포트 후드에서 13명을 살해했습니다 (CNN, NBC News)."
+        },
+        {
+          "t": "트럼프 행정부 승인",
+          "d": "펜타곤은 트럼프 대통령이 총살형 집행을 승인했다고 밝혔습니다 (The Guardian, CBS News)."
+        },
+        {
+          "t": "총살형 집행 예정",
+          "d": "미군은 포트 후드 총격범에 대해 총살형을 집행할 예정입니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프 대통령의 총살형 집행 승인",
+        "총격범이 전직 육군 소령인 점",
+        "포트 후드에서 13명 사망"
+      ],
+      "unconfirmed": [
+        "정확한 사형 집행 날짜",
+        "피고인 측의 최종 상소 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CBS News",
+        "CNN",
+        "NBC News",
+        "The Guardian",
+        "2026.10.06 13:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 트럼프, '13명 살해' 포트 후드 총격범 총살 사형 승인 (The Guardian, NBC News)\n\n· 미 펜타곤은 도널드 트럼프 대통령이 포트 후드 총격범의 총살형 집행을 승인했다고 발표했습니다 (The Guardian, CBS News)\n· 전직 육군 소령인 해당 총격범은 2009년 포트 후드에서 13명을 살해했습니다 (CNN, NBC News)\n· 미군은 유죄 판결을 받은 총격범에 대해 총살형을 집행할 예정입니다 (BBC, CBS News)\n\n출처: The Guardian·CNN·BBC·NBC News·CBS News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "도널드 트럼프 미국 대통령이 포트 후드 총격범의 총살형 집행을 승인했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미 펜타곤은 2009년 포트 후드에서 13명을 살해한 전직 육군 소령의 총살형 집행이 승인됐다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "미군은 유죄 판결을 받은 포트 후드 총격범에 대해 총살형을 집행할 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 사형 집행 날짜는 아직 공개되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

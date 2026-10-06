@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-06-news-us-new-york-measles-disaster-emergency-2026",
+  "topic": "미 뉴욕주, 홍역 확산에 재난 비상사태 선포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 10:41 KST",
+  "source": "Al Jazeera·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxORlQtSGRYdm01V19yTUtOSjd3aFZVUFRLTm9sLUFuUkdJbnZ1WUZEU3BuMjQ4cTA3TWxVQ2ZnemdCZFlkR0hubGpsSnZPcHpaUzI5TVItcU9jeGk2VTFRTU9IOHVkQ0Y0cEt5aGNEeWUxWFZBU3Q1MFVmLXk2WmhwaUE2ZXRBX0M1Y0NLZHE5ZHctdw",
+    "related": [
+      [
+        "Hochul Declares a Measles Emergency as Cases Rise in Rural New York",
+        "The New York Times"
+      ],
+      [
+        "NY Gov. Hochul declares state disaster emergency over ongoing measles outbreak",
+        "ABC7 Eyewitness News"
+      ],
+      [
+        "New York state declares measles disaster amid resurgence of disease in US",
+        "Al Jazeera"
+      ],
+      [
+        "Gov. Hochul declares upstate NY measles outbreak a ‘disaster emergency’",
+        "Gothamist"
+      ],
+      [
+        "New York declares first US measles disaster emergency since 2025 surge",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us-new-york-measles-disaster-emergency-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 뉴욕주, 홍역 확산에\n[[재난 비상사태]] 선포",
+      "sub": "캐시 호컬 주지사, 감염병 증가에 비상 조치 발령",
+      "chips": [
+        {
+          "k": "선포 지역",
+          "v": "뉴욕주"
+        }
+      ],
+      "alt": "미 뉴욕주, 홍역 확산에 재난 비상사태 선포",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕주",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "환자 증가세",
+          "d": "뉴욕주 시골 지역과 북부 지역을 중심으로 홍역 감염 사례가 늘고 있습니다 (NYT, Gothamist)."
+        },
+        {
+          "t": "미국 내 첫 선포",
+          "d": "이번 선포는 미국 내에서 2025년 홍역 급증 이후 처음으로 내려진 홍역 재난 비상사태입니다 (로이터)."
+        },
+        {
+          "t": "미국 내 재확산",
+          "d": "미국 전역에서 질병이 다시 유행하는 가운데 이번 비상사태가 선포되었습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "뉴욕주 재난 비상사태 선포",
+        "홍역 감염 환자 증가"
+      ],
+      "unconfirmed": [
+        "정확한 뉴욕주 확진자 수",
+        "추가 제한 조치 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 Eyewitness News",
+        "Al Jazeera",
+        "Gothamist",
+        "Reuters",
+        "The New York Times",
+        "2026.10.06 13:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 뉴욕주, 홍역 확산에 '재난 비상사태' 선포 (로이터)\n\n· 캐시 호컬 뉴욕주지사는 뉴욕주 시골 및 북부 지역 등에서 홍역 환자가 증가함에 따라 재난 비상사태를 선포했습니다 (NYT, Gothamist)\n· 이번 선포는 미국 내에서 2025년 홍역 급증 이후 처음으로 내려진 홍역 재난 비상사태입니다 (로이터)\n· 최근 미국 전역에서 질병이 다시 유행하는 가운데 이번 조치가 내려졌습니다 (알자지라)\n\n출처: 뉴욕타임스·로이터·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 뉴욕주에서 홍역이 확산하자 재난 비상사태가 선포되었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "캐시 호컬 뉴욕주지사는 뉴욕주 시골과 북부 지역을 중심으로 홍역 감염 사례가 늘자 비상 조치를 발령했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "구체적인 뉴욕주 확진자 수나 추가 제한 조치 여부 등은 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

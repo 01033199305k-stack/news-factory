@@ -1445,5 +1445,25 @@
     "at": 1791256047.5281045,
     "country": "러시아",
     "category": "재난"
+  },
+  {
+    "event_key": "us-fort-hood-shooter-execution-approval-2026",
+    "topic": "트럼프, '13명 살해' 포트 후드 총격범 총살 승인",
+    "slug": "2026-10-06-news-us-fort-hood-shooter-execution-approval-2026",
+    "cluster": "CBMiiAFBVV95cUxPWm1kYkJQVlNoSWlfc0YzZDNNemFXQUJfbnBaZVdDbjYzT2w1Nzd5UUE5TXNnd3ZnT1FwbnczTTFoQVNBN0VGVEE0MzQ5d2kxYkltUkxJSy04MWtBcVZxMTBjRTZKbWdtNnFTcGNFbS1udDJTSHppbjRVTTE0aVh4RmpqejJqTFFC",
+    "badge": "breaking",
+    "at": 1791259822.1959913,
+    "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "us-new-york-measles-disaster-emergency-2026",
+    "topic": "미 뉴욕주, 홍역 확산에 재난 비상사태 선포",
+    "slug": "2026-10-06-news-us-new-york-measles-disaster-emergency-2026",
+    "cluster": "CBMikgFBVV95cUxORlQtSGRYdm01V19yTUtOSjd3aFZVUFRLTm9sLUFuUkdJbnZ1WUZEU3BuMjQ4cTA3TWxVQ2ZnemdCZFlkR0hubGpsSnZPcHpaUzI5TVItcU9jeGk2VTFRTU9IOHVkQ0Y0cEt5aGNEeWUxWFZBU3Q1MFVmLXk2WmhwaUE2ZXRBX0M1Y0NLZHE5ZHctdw",
+    "badge": "breaking",
+    "at": 1791259845.306306,
+    "country": "미국",
+    "category": "재난"
   }
 ]
