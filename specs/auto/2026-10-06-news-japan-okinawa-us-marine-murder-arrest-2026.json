@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-06-news-japan-okinawa-us-marine-murder-arrest-2026",
+  "topic": "오키나와서 미 해병 체포 살인 혐의에 일본 총리 항의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 20:16 KST",
+  "source": "AP News·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxPMk5rSHREM041WXRxQnpwYXdDZ3M2bEN6bkpFZG9VSzRXdDNZbmp2Nm1sRk4tWi1MMWpNX1dIcVhSa3VJN1hoT1RTQWEtdjN3VTNlTTN4c2U5Rk9KZXZtXzE2MFF3WElhMklIVm1tUUpLbFh3aVpraERIZG5nNFAwTVBCMmN1STVQLWQzLTh0UEMyU05EalYtZDV4YmR4OEFUdXpDMVViLUFUZDVmYkd1S2VFRC1Rdw",
+    "related": [
+      [
+        "Japan PM leads outcry after US Marine arrested over alleged killing of woman on Okinawa",
+        "The Guardian"
+      ],
+      [
+        "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+        "BBC"
+      ],
+      [
+        "US Marine arrested on suspicion of murder in Okinawa, sparking outrage in Japan",
+        "CNN"
+      ],
+      [
+        "US Marine’s arrest in a killing on Okinawa triggers outrage in Japan",
+        "AP News"
+      ],
+      [
+        "Tokyo expresses 'regret,' lodges protest over a US Marine killing in Okinawa. Then what?",
+        "Global Times"
+      ]
+    ],
+    "event_key": "japan-okinawa-us-marine-murder-arrest-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "오키나와서 [[미 해병]] 체포\n살인 혐의에 일본 총리 항의",
+      "sub": "오키나와 시위 재점화… 도쿄 당국 공식 항의",
+      "chips": [
+        {
+          "k": "피의자",
+          "v": "미 해병대원"
+        },
+        {
+          "k": "혐의",
+          "v": "살인 혐의"
+        }
+      ],
+      "alt": "오키나와서 미 해병 체포 살인 혐의에 일본 총리 항의",
+      "map": {
+        "lat": 26.5707754,
+        "lon": 128.0255901,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "일본"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "일본\n오키나와",
+      "video_only": true,
+      "map": {
+        "lat": 26.5707754,
+        "lon": 128.0255901,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오키나와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "살인 및 여성 살해 혐의 체포",
+          "d": "일본 오키나와에서 미 해병대원이 여성 살해 혐의(가디언) 또는 살인 혐의(AP)로 체포됐습니다."
+        },
+        {
+          "t": "일본 총리 및 당국 항의",
+          "d": "일본 총리와 정부는 이번 사건에 유감을 표명하며 항의했습니다 (가디언·글로벌타임스)."
+        },
+        {
+          "t": "오키나와 시위 재점화",
+          "d": "미 해병 체포 소식에 오키나와 현지에서는 시위가 다시 일어났습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 해병대원 살인 및 여성 살해 혐의 체포 (AP·가디언)",
+        "일본 총리 및 정부 항의 (가디언·글로벌타임스)",
+        "오키나와 현지 시위 발생 (BBC)"
+      ],
+      "unconfirmed": [
+        "범행 동기 및 구체적 사건 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "CNN",
+        "Global Times",
+        "The Guardian",
+        "2026.10.06 21:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 오키나와에서 미 해병대원이 살인 혐의로 체포돼 일본에서 공분이 일고 있습니다.\n\n· 일본 오키나와에서 미 해병대원이 여성 살해 혐의(가디언) 또는 살인 혐의(AP)로 체포됐습니다.\n· 일본 총리와 정부 당국은 유감을 표명하고 항의를 제기했습니다 (가디언·글로벌타임스).\n· 체포 소식이 알려지며 오키나와 현지에서는 시위가 다시 일어났습니다 (BBC).\n\n미일 관계와 기지 문제에 어떤 영향을 미칠 것으로 보십니까?\n출처: 가디언·BBC·CNN·AP 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "일본 오키나와에서 미 해병대원이 살인 혐의로 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "일본 총리와 당국은 유감을 표명하며 항의를 제기했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "현지에서는 시위가 다시 일어났다고 BBC가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "범행 동기와 구체적인 사건 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

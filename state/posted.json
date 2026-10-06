@@ -8052,5 +8052,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791285043
+  },
+  {
+    "slug": "2026-10-06-news-japan-okinawa-us-marine-murder-arrest-2026",
+    "event_ms": 1791288587993,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 오키나와에서 미 해병대원이 살인 혐의로 체포돼 일본에서 공분이 일고 있습니다.\n\n· 일본 오키나와에서 미 해병대원이 여성 살해 혐의(가디언) 또는 살인 혐의(AP)로 체포됐습니다.\n· 일본 총리와 정부 당국은 유감을 표명하고 항의를 제기했습니다 (가디언·글로벌타임스).\n· 체포 소식이 알려지며 오키나와 현지에서는 시위가 다시 일어났습니다 (BBC).\n\n미일 관계와 기지 문제에 어떤 영향을 미칠 것으로 보십니까?\n출처: 가디언·BBC·CNN·AP 통신 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "일본"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18229134868329849",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeJwKMYEX3L",
+        "kind": "carousel",
+        "at": 1791288643
+      },
+      "instagram": {
+        "id": "18053477840805897",
+        "permalink": "https://www.instagram.com/reel/DeJwcHIlRJB/",
+        "kind": "reel",
+        "at": 1791288806
+      },
+      "youtube": {
+        "id": "hQvyyLZVaKY",
+        "permalink": "https://youtube.com/shorts/hQvyyLZVaKY",
+        "kind": "shorts",
+        "at": 1791288836
+      },
+      "tiktok": {
+        "id": "7693527043274722566",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693527043274722566",
+        "kind": "video",
+        "at": 1791288968
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791288978
   }
 ]
