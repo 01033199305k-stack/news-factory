@@ -7616,5 +7616,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791245403
+  },
+  {
+    "slug": "2026-10-06-news-nigeria-military-aircraft-crash-2026",
+    "event_ms": 1791233724000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 나이지리아서 군용기 추락… 32명 사망 또는 구조 작업 중\n\n· 나이지리아에서 군용기가 추락해 32명이 숨졌거나(로이터) 32명이 탑승해 구조 중입니다 (뉴욕타임스·알자지라)\n· 티누부 대통령은 사흘간을 국가 애도 기간으로 선포했습니다 (채널스 텔레비전)\n\n출처: 로이터·뉴욕타임스·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "나이지리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18105448124344037",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeIWu__j6zz",
+        "kind": "carousel",
+        "at": 1791241759
+      },
+      "instagram": {
+        "id": "17890562631459213",
+        "permalink": "https://www.instagram.com/reel/DeIXDJRlUNM/",
+        "kind": "reel",
+        "at": 1791241946
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1791241956
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ac43e4998d02b181e18aee0): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1791246009
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791246009
   }
 ]
