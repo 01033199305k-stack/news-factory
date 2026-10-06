@@ -1545,5 +1545,15 @@
     "at": 1791299437.319368,
     "country": "영국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "us-air-force-b1-uk-withdrawal",
+    "topic": "미국 공군, 영국 기지서 B-1 폭격기 12대 철수",
+    "slug": "2026-10-07-news-us-air-force-b1-uk-withdrawal",
+    "cluster": "CBMiXEFVX3lxTE9WSy1ZcXBPbkw2R1NhM0x6M3Z4ZlY0ZmhXX3RkaklxNlFoOGxCMDZORnBvMjZwT28tYzBKSmNSOTliRExfOXNodGd3NWVxNGtpTzNUTTNSamR4Sjk5",
+    "badge": "brief",
+    "at": 1791313782.7098765,
+    "country": "영국",
+    "category": "국제"
   }
 ]
