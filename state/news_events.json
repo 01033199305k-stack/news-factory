@@ -1575,5 +1575,15 @@
     "at": 1791317282.2891324,
     "country": "파키스탄",
     "category": "국제"
+  },
+  {
+    "event_key": "canada-school-shooting-us-accomplice-arrest",
+    "topic": "캐나다 학교 총격 사건 연루 미국인 체포",
+    "slug": "2026-10-07-news-canada-school-shooting-us-accomplice-arrest",
+    "cluster": "CBMiW0FVX3lxTFBRbS04Y1pvTXZZcjNMUEc0eE1GaERwLXZTV0lLYVg5cnBVcS00NDhJRnA0bUJqY1FhV2xIQ3h5eS1VYUFyeHQ1M01CWVdRcHNreXBaUWNTUkFwNUk",
+    "badge": "breaking",
+    "at": 1791320859.528343,
+    "country": "캐나다",
+    "category": "총격·테러"
   }
 ]
