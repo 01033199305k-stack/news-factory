@@ -42,7 +42,7 @@
       }
     },
     "attempts": {
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   },
@@ -80,11 +80,17 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
         "at": 1791299725
+      },
+      "threads": {
+        "id": "18245557642314823",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeKGIR7FiH3",
+        "kind": "carousel",
+        "at": 1791300160
       }
     },
     "attempts": {
       "threads": 1,
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   }
