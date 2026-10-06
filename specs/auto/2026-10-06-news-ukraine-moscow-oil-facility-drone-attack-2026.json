@@ -1,0 +1,112 @@
+{
+  "slug": "2026-10-06-news-ukraine-moscow-oil-facility-drone-attack-2026",
+  "topic": "우크라, 모스크바 대공습 최대 석유 시설 불길",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 14:41 KST",
+  "source": "France 24·The Independent·Kyiv Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiS0FVX3lxTE9DanQ4VS1rQTlfRmFXeUx4MHBOY3ROb2xsa25ranNXQlVEaHN1aDVkd1h5V1lNbW9OaG1BT0w2djlMc09HUDZ1ZnRtdw",
+    "related": [
+      [
+        "Ukraine Targets Major Russian Oil Hub During Massive Drone Attack on Moscow Region",
+        "Kyiv Post"
+      ],
+      [
+        "Ukraine strikes Moscow with massive drone attack, Russian officials say",
+        "France 24"
+      ],
+      [
+        "Ukraine-Russia war live: Germany at risk of violent conflict with Putin as war enters ‘new, more dangerous’ phase",
+        "The Independent"
+      ],
+      [
+        "Moscow Region came under massive drone attack: ’Volodarskaya’ LPDS was hit. VIDEO+PHOTO",
+        "censor.net"
+      ],
+      [
+        "Largest oil facility in Moscow region erupts in flames following massive Ukrainian drone attack",
+        "The Kyiv Independent"
+      ]
+    ],
+    "event_key": "ukraine-moscow-oil-facility-drone-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라, 모스크바 대공습\n최대 [[석유 시설]] 불길",
+      "sub": "모스크바주 볼로다르스카야 석유 허브가 드론 공격을 받았습니다",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "석유 허브"
+        },
+        {
+          "k": "수단",
+          "v": "대규모 드론"
+        }
+      ],
+      "alt": "우크라, 모스크바 대공습 최대 석유 시설 불길"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "모스크바 최대 석유 시설",
+          "d": "우크라이나의 대규모 드론 공격으로 모스크바주의 주요 석유 허브인 볼로다르스카야 시설에 불길이 치솟았습니다. (키이우 인디펜던트·센서넷)"
+        },
+        {
+          "t": "러시아 당국 발표",
+          "d": "러시아 정부 관계자들도 모스크바 지역이 대규모 드론 공격을 받았다고 밝혔습니다. (프랑스 24)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나군의 모스크바주 드론 공격",
+        "볼로다르스카야 석유 시설 타격 및 화재"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 및 화재 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "France 24",
+        "Kyiv Post",
+        "The Independent",
+        "The Kyiv Independent",
+        "censor.net",
+        "2026.10.06 16:42 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나, 모스크바 대공습에 최대 석유 시설 불길\n\n· 우크라이나의 대규모 드론 공격으로 러시아 모스크바주의 주요 석유 허브인 볼로다르스카야 시설이 타격받았습니다 (키이우 인디펜던트·센서넷)\n· 러시아 정부 당국도 모스크바 지역이 대규모 드론 공격을 받았다고 밝혔습니다 (프랑스 24)\n· 이번 공격으로 해당 석유 시설에는 화재가 발생해 불길이 치솟았습니다 (키이우 인디펜던트)\n\n이번 드론 공격이 장기화되는 양국 전쟁에 어떤 영향을 미칠 것으로 생각하십니까?\n\n출처: 키이우 포스트·프랑스 24·키이우 인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 러시아 모스크바 지역의 주요 석유 시설을 대규모 드론으로 공격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공격을 받은 곳은 모스크바주에 위치한 주요 석유 허브인 볼로다르스카야 시설입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "해당 석유 시설은 화재로 불길에 휩싸였으며, 정확한 피해 규모는 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

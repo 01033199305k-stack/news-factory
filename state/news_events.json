@@ -1475,5 +1475,15 @@
     "at": 1791271131.3983252,
     "country": "예멘",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine-moscow-oil-facility-drone-attack-2026",
+    "topic": "우크라, 모스크바 대공습 최대 석유 시설 불길",
+    "slug": "2026-10-06-news-ukraine-moscow-oil-facility-drone-attack-2026",
+    "cluster": "CBMiS0FVX3lxTE9DanQ4VS1rQTlfRmFXeUx4MHBOY3ROb2xsa25ranNXQlVEaHN1aDVkd1h5V1lNbW9OaG1BT0w2djlMc09HUDZ1ZnRtdw",
+    "badge": "breaking",
+    "at": 1791272595.7845383,
+    "country": "러시아",
+    "category": "국제"
   }
 ]
