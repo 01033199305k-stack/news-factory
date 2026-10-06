@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-07-news-russia-sochi-tanker-fire",
+  "topic": "러시아 소치 해상서 유조선 화재 연기 기둥 솟구쳐",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.07 02:28 KST",
+  "source": "Metro.co.uk·The Kyiv Independent·UNITED24 Media 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxPRTZpb0hYbTdhTVdZQWUxdTlobUJ6UmRMaTVOdHd4WlBMOVp5eUhqc1Rudk9Dbk01VEJwX2FOQzhMRzNaY3A2RjZJeE9mRV9kRENleGxrMlMwRzZNY0RaTEdCcWttc2huaEl6ZDZHX2FmcEkwQmVvdUJLTVZuN251b1NPRDN2WXNyM0VxbDEtV0FXcUhjU29vT05MTTlwNXFuVVpYcUFMclFFQdIBrwFBVV95cUxNamJxTGxiMHQtaFdsTFdBRmZsSE1CU1ZfbVppcnlfeHJ0ZkZNc0IwMFNtOFpBN3pNVGdSajVUNGVucU1odmNwYUdfWlA0Z3NNREZlVFctRkJHcFBaMDdkQWJBWHczWUNUYTdvbE9nUUZiRWJQMDBxcFZuMllPWk1HeWhLSGhBaGJGblBpbjJmQlQ2YVZoLUV2TFJxelZILTY4Zjc4bXNGUEdITTNBUW1v",
+    "related": [
+      [
+        "Russian oil tanker 'blows up' covering holiday hotspot in plumes of smoke",
+        "Metro.co.uk"
+      ],
+      [
+        "Ship ablaze near Sochi, huge plume of smoke rising over sea – photos",
+        "Українська правда"
+      ],
+      [
+        "Shadow fleet tanker reportedly ablaze near Russian port city Sochi",
+        "The Kyiv Independent"
+      ],
+      [
+        "Flames Rise From Tanker Off Sochi After Possible Sea Drone Impact, Video",
+        "UNITED24 Media"
+      ],
+      [
+        "Major fire near Sochi: a tanker is believed to have caught fire at sea",
+        "shelter.in.ua"
+      ]
+    ],
+    "event_key": "russia_sochi_tanker_fire"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 소치 해상서 유조선 화재\n연기 기둥 솟구쳐",
+      "sub": "휴양지 인근 해상에서 유조선 폭발 및 화재 발생",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "소치 인근 해상"
+        }
+      ],
+      "alt": "러시아 소치 해상서 유조선 화재 연기 기둥 솟구쳐",
+      "map": {
+        "lat": 43.5854823,
+        "lon": 39.723109,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n소치",
+      "video_only": true,
+      "map": {
+        "lat": 43.5854823,
+        "lon": 39.723109,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "소치"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유조선 화재",
+          "d": "러시아 소치 인근 해상에서 유조선에 불이 났다고 Metro.co.uk 등이 보도했습니다."
+        },
+        {
+          "t": "연기 기둥",
+          "d": "바다 위로 거대한 연기 기둥이 치솟아 휴양지를 뒤덮었습니다 (Metro.co.uk·우크라인스카 프라우다)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "소치 인근 해상 유조선 화재 발생",
+        "대규모 연기 기둥 발생"
+      ],
+      "unconfirmed": [
+        "화재 원인 및 해상 드론 피격 여부",
+        "인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Metro.co.uk",
+        "The Kyiv Independent",
+        "UNITED24 Media",
+        "shelter.in.ua",
+        "Українська правда",
+        "2026.10.07 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 소치 해상서 유조선 화재… 연기 기둥 솟구쳐\n\n· 러시아 소치 인근 해상에서 유조선에 불이 났다고 보도됨 (Metro.co.uk·우크라인스카 프라우다)\n· 바다 위로 거대한 연기 기둥이 치솟으며 휴양지를 뒤덮는 모습이 포착됨 (Metro.co.uk·우크라인스카 프라우다)\n\n출처: Metro.co.uk·우크라인스카 프라우다·더 키이우 인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 소치 인근 해상에서 유조선에 불이 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "바다 위로 거대한 연기 기둥이 치솟았다고 Metro.co.uk 등이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인과 인명 피해는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

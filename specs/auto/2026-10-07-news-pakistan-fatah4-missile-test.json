@@ -1,0 +1,130 @@
+{
+  "slug": "2026-10-07-news-pakistan-fatah4-missile-test",
+  "topic": "파키스탄, 개량형 순항미사일 '파타-4' 시험 발사 성공",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.07 02:31 KST",
+  "source": "The Times of India·Dawn·TRT World 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi5wFBVV95cUxOX0NTOXBQT21idXNGLTZ5LW82MmRtajVzOUxqTFVFUWJBenlEUVVGWHBNNkd1bmwya3haMzFxQ1c2MzlYQkpEOE80eU9VdGgtWEFmaFZ5REI0QkRFc3JBRWNLX2RYOWhlZnB6dklNTUFfN0t1RlhTMHJWVzJmZkw1bnc0T2JHXzdNVGJPcVFTc28zSWpTNWlmRWJOSlJhRlVLT3JnRU90U0FUOVZFSU95T3E3TGs5MGpPYmh5VkdaZ0hOQzJiN1c3bWoya0x1cXR3MVcwNU9jQzBtLXRRTkxMWS1oUkJ3UDDSAewBQVVfeXFMT1oxbXUtQm04UW1yRENRaVo4eUt6NmdYeHNTeU1EYXY3bmUyMTRSMzQ1U1RjcGZvT1RQWkRNMHdBSzNkaFBUZUZ6eGI3MFg3NGdSVnNSTHNUNzlmajNHTGlsUXBrT2NMckJVUThkTkFzeldUdGVhMS1TNzNKUXpxZTZNcGYwOFVFbl9BR3lNSEZJOXBRbnYzRVVqek1tc3pKTXZZemJELVdOdE5QbFM1Q3hLT2NWb0hxbGdfeG9vZXQ2QmxCZ0t0MWVLXzEzWW0yZDVrcHM4Z1B1ZTgzVFcxLU1SdVl6YTc5UXI2Wks",
+    "related": [
+      [
+        "Pakistan successfully test-fires extended version of Fatah-4 cruise missile",
+        "The Times of India"
+      ],
+      [
+        "Pakistan test-fires extended Fatah-4 cruise missile, says weapon can strike longer-range targets",
+        "Telegraph India"
+      ],
+      [
+        "Pakistan successfully tests launch of extended-range Fatah-IV cruise missile: ISPR",
+        "Dawn"
+      ],
+      [
+        "Pakistan test-launches extended-range Fatah-4 cruise missile",
+        "TRT World"
+      ],
+      [
+        "Ahsan felicitates nation, armed forces over successful Fatah-IV missile test",
+        "| Associated Press Of Pakistan"
+      ]
+    ],
+    "event_key": "pakistan_fatah4_missile_test"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파키스탄, 개량형 순항미사일\n'파타-4' [[시험 발사 성공]]",
+      "sub": "사거리 연장된 신형 순항미사일 시험 발사 진행",
+      "chips": [
+        {
+          "k": "무기",
+          "v": "파타-4 순항미사일"
+        }
+      ],
+      "alt": "파키스탄, 개량형 순항미사일 '파타-4' 시험 발사 성공",
+      "map": {
+        "lat": 33.6938118,
+        "lon": 73.0651511,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "파키스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파키스탄\n이슬라마바드",
+      "video_only": true,
+      "map": {
+        "lat": 33.6938118,
+        "lon": 73.0651511,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "이슬라마바드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미사일 시험 발사",
+          "d": "파키스탄군이 사거리가 연장된 개량형 순항미사일 파타-4 시험 발사에 성공했다고 Dawn 등이 보도했습니다."
+        },
+        {
+          "t": "타격 능력",
+          "d": "더 먼 거리의 표적을 타격할 수 있는 성능을 갖추었습니다 (타임스 오브 인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "파타-4 순항미사일 개량형 시험 발사 성공",
+        "사거리 연장형 무기 체계"
+      ],
+      "unconfirmed": [
+        "정확한 사거리 및 기술적 제원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Dawn",
+        "TRT World",
+        "Telegraph India",
+        "The Times of India",
+        "| Associated Press Of Pakistan",
+        "2026.10.07 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파키스탄, 개량형 순항미사일 '파타-4' 시험 발사 성공\n\n· 파키스탄군이 사거리가 연장된 개량형 순항미사일 파타-4 시험 발사에 성공함 (Dawn·더 타임스 오브 인디아)\n· 더 먼 거리의 표적을 타격할 수 있는 무기로 평가됨 (타임스 오브 인디아·텔레그래프 인디아)\n\n파키스탄의 미사일 시험 발사에 대해 어떻게 보십니까?\n출처: Dawn·타임스 오브 인디아·TRT 월드 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파키스탄군이 사거리가 연장된 순항미사일 파타-4 시험 발사에 성공했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "Dawn 등 외신은 이번 미사일이 더 먼 거리의 표적을 타격할 수 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미사일의 정확한 사거리와 제원은 아직 공식 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

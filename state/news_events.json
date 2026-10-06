@@ -1555,5 +1555,25 @@
     "at": 1791313782.7098765,
     "country": "영국",
     "category": "국제"
+  },
+  {
+    "event_key": "russia_sochi_tanker_fire",
+    "topic": "러시아 소치 해상서 유조선 화재 연기 기둥 솟구쳐",
+    "slug": "2026-10-07-news-russia-sochi-tanker-fire",
+    "cluster": "CBMiqgFBVV95cUxPRTZpb0hYbTdhTVdZQWUxdTlobUJ6UmRMaTVOdHd4WlBMOVp5eUhqc1Rudk9Dbk01VEJwX2FOQzhMRzNaY3A2RjZJeE9mRV9kRENleGxrMlMwRzZNY0RaTEdCcWttc2huaEl6ZDZHX2FmcEkwQmVvdUJLTVZuN251b1NPRDN2WXNyM0VxbDEtV0FXcUhjU29vT05MTTlwNXFuVVpYcUFMclFFQdIBrwFBVV95cUxNamJxTGxiMHQtaFdsTFdBRmZsSE1CU1ZfbVppcnlfeHJ0ZkZNc0IwMFNtOFpBN3pNVGdSajVUNGVucU1odmNwYUdfWlA0Z3NNREZlVFctRkJHcFBaMDdkQWJBWHczWUNUYTdvbE9nUUZiRWJQMDBxcFZuMllPWk1HeWhLSGhBaGJGblBpbjJmQlQ2YVZoLUV2TFJxelZILTY4Zjc4bXNGUEdITTNBUW1v",
+    "badge": "breaking",
+    "at": 1791317271.5294235,
+    "country": "러시아",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "pakistan_fatah4_missile_test",
+    "topic": "파키스탄, 개량형 순항미사일 '파타-4' 시험 발사 성공",
+    "slug": "2026-10-07-news-pakistan-fatah4-missile-test",
+    "cluster": "CBMi5wFBVV95cUxOX0NTOXBQT21idXNGLTZ5LW82MmRtajVzOUxqTFVFUWJBenlEUVVGWHBNNkd1bmwya3haMzFxQ1c2MzlYQkpEOE80eU9VdGgtWEFmaFZ5REI0QkRFc3JBRWNLX2RYOWhlZnB6dklNTUFfN0t1RlhTMHJWVzJmZkw1bnc0T2JHXzdNVGJPcVFTc28zSWpTNWlmRWJOSlJhRlVLT3JnRU90U0FUOVZFSU95T3E3TGs5MGpPYmh5VkdaZ0hOQzJiN1c3bWoya0x1cXR3MVcwNU9jQzBtLXRRTkxMWS1oUkJ3UDDSAewBQVVfeXFMT1oxbXUtQm04UW1yRENRaVo4eUt6NmdYeHNTeU1EYXY3bmUyMTRSMzQ1U1RjcGZvT1RQWkRNMHdBSzNkaFBUZUZ6eGI3MFg3NGdSVnNSTHNUNzlmajNHTGlsUXBrT2NMckJVUThkTkFzeldUdGVhMS1TNzNKUXpxZTZNcGYwOFVFbl9BR3lNSEZJOXBRbnYzRVVqek1tc3pKTXZZemJELVdOdE5QbFM1Q3hLT2NWb0hxbGdfeG9vZXQ2QmxCZ0t0MWVLXzEzWW0yZDVrcHM4Z1B1ZTgzVFcxLU1SdVl6YTc5UXI2Wks",
+    "badge": "breaking",
+    "at": 1791317282.2891324,
+    "country": "파키스탄",
+    "category": "국제"
   }
 ]
