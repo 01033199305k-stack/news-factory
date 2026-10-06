@@ -1435,5 +1435,15 @@
     "at": 1791241700.3428135,
     "country": "나이지리아",
     "category": "사고"
+  },
+  {
+    "event_key": "russia-siberia-plague-lab-death-2026",
+    "topic": "러 흑사병 연구원 사망 수십 명 격리",
+    "slug": "2026-10-06-news-russia-siberia-plague-lab-death-2026",
+    "cluster": "CBMitgFBVV95cUxOaTY2Sm9xcDdvaWQzcDJlUmVTQ3lJcmJUV2swUGZLM0M5c0szNnlZSlV2Yjc2OUlEdnUtMEtCQ1dXU05CNEEzSnpJNmVNUUFIbHFTelpTenJWb3Y4TDRvbm5lZWZzMGNpd0liNWZZRnJqa0dEUllBZFc4aC1rZDhqZVhzRWxXd2FuU01sV0pIa0pCcERTaXRNZXlGWGZLak40NmQtWnJkMGhyc1VzYm5ULUg0QzRzZw",
+    "badge": "breaking",
+    "at": 1791256047.5281045,
+    "country": "러시아",
+    "category": "재난"
   }
 ]

@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-06-news-russia-siberia-plague-lab-death-2026",
+  "topic": "러 흑사병 연구원 사망 수십 명 격리",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 09:45 KST",
+  "source": "CBS News·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxOaTY2Sm9xcDdvaWQzcDJlUmVTQ3lJcmJUV2swUGZLM0M5c0szNnlZSlV2Yjc2OUlEdnUtMEtCQ1dXU05CNEEzSnpJNmVNUUFIbHFTelpTenJWb3Y4TDRvbm5lZWZzMGNpd0liNWZZRnJqa0dEUllBZFc4aC1rZDhqZVhzRWxXd2FuU01sV0pIa0pCcERTaXRNZXlGWGZLak40NmQtWnJkMGhyc1VzYm5ULUg0QzRzZw",
+    "related": [
+      [
+        "What is pneumonic plague, and how will we know if it’s spreading in Russia?",
+        "washingtonpost.com"
+      ],
+      [
+        "What is pneumonic plague and how dangerous is it?",
+        "CNN"
+      ],
+      [
+        "Trump Says He Is Concerned About Russian Plague Lab Death",
+        "Forbes"
+      ],
+      [
+        "Dozens quarantined in Siberia after plague institute lab worker dies",
+        "Reuters"
+      ],
+      [
+        "Russia plays down plague fears and denies lab accident, says scientist died of \"pneumonia of unknown origin\"",
+        "CBS News"
+      ]
+    ],
+    "event_key": "russia-siberia-plague-lab-death-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러 흑사병 연구원 사망\n수십 명 격리",
+      "sub": "시베리아 연구소 직원 숨져… 러시아 당국은 사고 부인",
+      "chips": [
+        {
+          "k": "격리",
+          "v": "수십 명"
+        }
+      ],
+      "alt": "러 흑사병 연구원 사망 수십 명 격리",
+      "map": {
+        "lat": 60.0,
+        "lon": 100.0,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n시베리아",
+      "video_only": true,
+      "map": {
+        "lat": 60.0,
+        "lon": 100.0,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "시베리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "연구원 사망 후 격리",
+          "d": "시베리아의 한 페스트 연구소에서 직원이 사망한 뒤 수십 명이 격리됐습니다 (로이터)."
+        },
+        {
+          "t": "러시아 당국 부인",
+          "d": "러시아 정부는 실험실 사고가 아니며 숨진 직원은 원인 불명의 폐렴으로 사망했다고 주장했습니다 (CBS)."
+        },
+        {
+          "t": "미국 대통령 우려 표명",
+          "d": "트럼프 대통령은 러시아 페스트 실험실 사망 사고에 대해 우려를 표명했습니다 (포브스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "시베리아 페스트 연구원 사망",
+        "수십 명 격리"
+      ],
+      "unconfirmed": [
+        "정확한 사망 원인",
+        "실험실 바이러스 유출 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "CNN",
+        "Forbes",
+        "Reuters",
+        "washingtonpost.com",
+        "2026.10.06 12:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 시베리아서 흑사병 연구원 숨져 수십 명 격리\n\n· 시베리아 페스트 연구소에서 직원이 사망한 뒤 수십 명이 격리됐습니다 (로이터)\n· 러시아 정부는 실험실 사고가 아니며 원인 불명의 폐렴으로 숨졌다고 주장했습니다 (CBS)\n· 트럼프 대통령은 러시아 페스트 실험실 사망 사고에 대해 우려를 표명했습니다 (포브스)\n\n출처: 로이터·CBS·포브스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 시베리아의 한 흑사병 연구소에서 직원이 사망해 수십 명이 격리됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 연구소 직원이 숨진 뒤 수십 명이 격리됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "러시아 정부는 실험실 사고를 부인하며 직원이 원인 불명의 폐렴으로 사망했다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 트럼프 대통령은 러시아 페스트 실험실 사망 사고에 대해 우려를 표명했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망 원인과 흑사병 유출 여부는 아직 공식 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
