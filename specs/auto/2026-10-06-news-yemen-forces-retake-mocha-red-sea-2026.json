@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-06-news-yemen-forces-retake-mocha-red-sea-2026",
+  "topic": "예멘군 홍해 요충지 모카 항구 탈환",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.06 12:23 KST",
+  "source": "AP News·Al Jazeera·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ",
+    "related": [
+      [
+        "Saudi-backed Yemeni forces expel Houthi rebels from several areas around key strait, officials say",
+        "AP News"
+      ],
+      [
+        "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
+        "Al Jazeera"
+      ],
+      [
+        "Yemen Armed Forces Retake Control Over Red Sea Chokepoint",
+        "Bloomberg.com"
+      ],
+      [
+        "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+        "BBC"
+      ],
+      [
+        "Yemeni government forces seize strategic strait from Houthis",
+        "Reuters"
+      ]
+    ],
+    "event_key": "yemen-forces-retake-mocha-red-sea-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "예멘군 홍해 요충지\n[[모카 항구 탈환]]",
+      "sub": "후티 반군 몰아내고 수로 확보 선언",
+      "chips": [
+        {
+          "k": "탈환",
+          "v": "전략 요충지"
+        }
+      ],
+      "alt": "예멘군 홍해 요충지 모카 항구 탈환",
+      "map": {
+        "lat": 13.3179164,
+        "lon": 43.2501093,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "예멘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "예멘\n모카",
+      "video_only": true,
+      "map": {
+        "lat": 13.3179164,
+        "lon": 43.2501093,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모카"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "전략 항구 모카 확보",
+          "d": "예멘 정부군은 홍해의 지정학적 요충지이자 항구 도시인 모카의 통제권을 되찾았다고 밝혔습니다 (알자지라·BBC)."
+        },
+        {
+          "t": "홍해 수로 안전 확보",
+          "d": "예멘 군 당국은 후티 반군을 몰아내고 홍해 수로를 안전하게 확보했다고 발표했습니다 (Bloomberg·로이터)."
+        },
+        {
+          "t": "주요 해협 인근 장악",
+          "d": "이번 작전으로 예멘 정부군은 주요 해협 주변 여러 지역에서 후티 반군을 몰아냈습니다 (AP)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "예멘 정부군의 모카 항구 탈환",
+        "홍해 수로 통제권 확보"
+      ],
+      "unconfirmed": [
+        "후티 반군의 반격 가능성",
+        "홍해 선박 통행의 완전한 정상화 시점",
+        "한국 선박 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "BBC",
+        "Bloomberg.com",
+        "Reuters",
+        "2026.10.06 16:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 예멘 정부군, 홍해 요충지 모카 항구 탈환 발표\n\n· 예멘 정부군이 후티 반군을 몰아내고 홍해의 전략 요충지인 모카를 탈환했습니다 (알자지라·BBC).\n· 예멘 군 당국은 이번 작전으로 홍해 수로를 안전하게 확보했다고 선언했습니다 (블룸버그·로이터).\n· 이번 작전으로 주요 해협 주변 여러 지역에서 후티 반군을 몰아냈습니다 (AP).\n\n예멘 정부군의 홍해 요충지 탈환으로 홍해 항로의 안전이 완전히 회복될 수 있을까요?\n\n출처: AP·알자지라·블룸버그·BBC·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "예멘 정부군이 홍해의 전략적 요충지인 모카 항구를 탈환했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등은 예멘군이 반군을 몰아내고 홍해 수로를 확보했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "예멘 정부군은 주요 해협 인근 여러 지역에서 후티 반군을 몰아냈다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "다만 반군의 반격 가능성과 수로의 정상화 시점은 아직 모릅니다.",
+      "card": "check"
+    }
+  ]
+}

@@ -1465,5 +1465,15 @@
     "at": 1791259845.306306,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "yemen-forces-retake-mocha-red-sea-2026",
+    "topic": "예멘군 홍해 요충지 모카 항구 탈환",
+    "slug": "2026-10-06-news-yemen-forces-retake-mocha-red-sea-2026",
+    "cluster": "CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ",
+    "badge": "brief",
+    "at": 1791271131.3983252,
+    "country": "예멘",
+    "category": "국제"
   }
 ]
