@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-07-news-russia-ukraine-airstrike",
+  "topic": "러시아군 우크라이나 전역 공습 최소 8명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.07 17:44 KST",
+  "source": "Daum·VOA 한국어 홈페이지·뉴스1 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1kVG5tcjYxdlB3cTF6UGZaaXFYMG5QQmgweGdVX3YzbzNHcFVrTHVkaEdHeThWeHhERWFYUjhhZEsyUWQyZFVkWFJTQkRRYy1HVVlqUllzOE5uOWfSAWBBVV95cUxOd09vdmhHY21CM1hzR0FVRjlVTkRZSFYxeWR3blh1a19GNmE5NHJjQnY1cFZjVTY2Z2tMZXhlakJXeDZ2UlpLV1V0dV9XMFFtY0dtajRJVFc1SmpIOXJPZl8",
+    "related": [
+      [
+        "러, 우크라 전역으로 공습 확대…젤렌스키 \"푸틴 생일선물이냐\"",
+        "연합뉴스"
+      ],
+      [
+        "러, 키이우 등 우크라 곳곳 드론과 미사일 공격…최소 8명 사망",
+        "뉴시스"
+      ],
+      [
+        "美국무, '키이우 공관 철수' 러 경고 일축…\"위험 여부 우리가 판단\"",
+        "Daum"
+      ],
+      [
+        "러시아·우크라이나 상호 공습 격화…루비오 미 국무 “종전 기미 안 보여”",
+        "VOA 한국어 홈페이지"
+      ],
+      [
+        "'74세 생일' 푸틴, 우크라 전역 대규모 공습…\"최소 8명 사망\"",
+        "뉴스1"
+      ]
+    ],
+    "event_key": "russia_ukraine_airstrike"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아군 우크라이나 전역 공습\n최소 [[8명]] 사망",
+      "sub": "젤렌스키 대통령 푸틴 생일 지적",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "8명"
+        }
+      ],
+      "alt": "러시아군 우크라이나 전역 공습 최소 8명 사망",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 규모",
+          "d": "러시아군의 드론과 미사일 공격으로 최소 8명이 숨졌습니다 (뉴시스·뉴스1)."
+        },
+        {
+          "t": "미국 입장",
+          "d": "미국 국무부는 키이우 공관 철수 경고를 일축하고 위험 여부를 직접 판단하겠다고 밝혔습니다 (Daum)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아군의 우크라이나 전역 공습",
+        "사망 최소 8명 (뉴시스·뉴스1)",
+        "미국 국무부의 공관 철수 경고 일축"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모 및 부상자 수",
+        "추가 공습 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daum",
+        "VOA 한국어 홈페이지",
+        "뉴스1",
+        "뉴시스",
+        "연합뉴스",
+        "2026.10.07 18:19 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아군 우크라이나 전역 공습으로 최소 8명 사망 (뉴시스·뉴스1)\n\n· 러시아의 드론과 미사일 공격으로 키이우 등 우크라이나 곳곳이 타격을 입었습니다 (뉴시스)\n· 미국 국무부는 키이우 공관 철수 러 경고를 일축하고 위험 여부는 직접 판단하겠다고 밝혔습니다 (Daum)\n\n푸틴 대통령의 생일에 감행된 이번 대규모 공습에 대해 어떻게 보십니까?\n\n출처: 연합뉴스·뉴시스·뉴스1·VOA·Daum 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아군이 우크라이나 전역을 대규모로 공습했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴시스와 뉴스1은 이번 공격으로 최소 8명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 국무부는 키이우 공관 철수 경고를 일축했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

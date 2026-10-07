@@ -8766,5 +8766,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791358215
+  },
+  {
+    "slug": "2026-10-07-news-russia-ukraine-airstrike",
+    "event_ms": 1791364802002,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 러시아군 우크라이나 전역 공습으로 최소 8명 사망 (뉴시스·뉴스1)\n\n· 러시아의 드론과 미사일 공격으로 키이우 등 우크라이나 곳곳이 타격을 입었습니다 (뉴시스)\n· 미국 국무부는 키이우 공관 철수 러 경고를 일축하고 위험 여부는 직접 판단하겠다고 밝혔습니다 (Daum)\n\n푸틴 대통령의 생일에 감행된 이번 대규모 공습에 대해 어떻게 보십니까?\n\n출처: 연합뉴스·뉴시스·뉴스1·VOA·Daum 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18113843432124919",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeMBg_ilYhb",
+        "kind": "carousel",
+        "at": 1791364869
+      },
+      "instagram": {
+        "id": "18094165562445526",
+        "permalink": "https://www.instagram.com/reel/DeMB34nkgVS/",
+        "kind": "reel",
+        "at": 1791365049
+      },
+      "youtube": {
+        "id": "OopzRSO4ySg",
+        "permalink": "https://youtube.com/shorts/OopzRSO4ySg",
+        "kind": "shorts",
+        "at": 1791365249
+      },
+      "tiktok": {
+        "id": "7693855185415851284",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693855185415851284",
+        "kind": "video",
+        "at": 1791365381
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791365391
   }
 ]

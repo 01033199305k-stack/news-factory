@@ -1635,5 +1635,15 @@
     "at": 1791357857.5050402,
     "country": "오만",
     "category": "국제"
+  },
+  {
+    "event_key": "russia_ukraine_airstrike",
+    "topic": "러시아군 우크라이나 전역 공습 최소 8명 사망",
+    "slug": "2026-10-07-news-russia-ukraine-airstrike",
+    "cluster": "CBMiW0FVX3lxTE1kVG5tcjYxdlB3cTF6UGZaaXFYMG5QQmgweGdVX3YzbzNHcFVrTHVkaEdHeThWeHhERWFYUjhhZEsyUWQyZFVkWFJTQkRRYy1HVVlqUllzOE5uOWfSAWBBVV95cUxOd09vdmhHY21CM1hzR0FVRjlVTkRZSFYxeWR3blh1a19GNmE5NHJjQnY1cFZjVTY2Z2tMZXhlakJXeDZ2UlpLV1V0dV9XMFFtY0dtajRJVFc1SmpIOXJPZl8",
+    "badge": "brief",
+    "at": 1791364802.0026042,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]
