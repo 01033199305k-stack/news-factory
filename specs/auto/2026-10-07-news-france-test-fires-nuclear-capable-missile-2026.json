@@ -1,0 +1,130 @@
+{
+  "slug": "2026-10-07-news-france-test-fires-nuclear-capable-missile-2026",
+  "topic": "프랑스, 신형 핵미사일 시험 발사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.07 20:30 KST",
+  "source": "The Hindu·The Times of India·ThePrint 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi_gFBVV95cUxNMFhBREhuT3B1ajJTblp2Nkx1RlFudDRnMHhNbHJaakFMb215dVdHTVJnODNjTFl4ZkROQXlVN2ViTUUyNlhBT21kMkE1blBzcFp2clE4REhFdTdWZXZkano2Y09lTGtJajJZb3BoT1Z0X2x1SW44VDllVGdlNm1tTlBxS3kwT21YUWdyTUNlOWFsUEUyQlFCakM1X2NMVk8tcExSU0hUbzlSOTZPenFFamtIekk5VngzOENSQmJXMHphOHloRU81cDFhT0RoVm11c1FOY2hidkdtdlFaZE9RYkZyYmZkdjdNelUxN2R2TlBsaXpDaWU4bDlVSGRtZ9IBgwJBVV95cUxNa0RTMTN0eER6SFMzd3czR0pvRFV0bE1sck5ScVRET3hwQUJFMlBYQWkyYjVob2tEMWRvTy1pRHJIT3dMdm55b3hXSG9aemJuZlJhR0g1b2Ixbkw4X1M1bnptSy1ZS1RxZlBqb2hqekhmek5IYzlMSWFTa3dmcXRlajRrRHljR2NmZEZ4d1hLejFQcTF1VVdsSHNwRnpwQU5URmgwWGdnVkNvOExiTWVMNmV2dUVOSktXQU1fVmxVUU54UkQ1MUFwUzcwOEVONm5TVWdadDNORTBlaDNqNERxTV8xbjVkYXA2TklYQnh2SnZRdVNCWXZMSWdQTmlEdTIzYmlR",
+    "related": [
+      [
+        "Kremlin fires back after France tests nuclear-capable missile, calls strategy a ‘dead end’",
+        "The Times of India"
+      ],
+      [
+        "France test-fires new nuclear-capable missile: Defence Ministry",
+        "The Hindu"
+      ],
+      [
+        "M51.3 Missile, Range, Speed, Features, Latest News",
+        "Vajiram & Ravi"
+      ],
+      [
+        "Daily World Briefing, Oct. 7",
+        "Xinhua"
+      ],
+      [
+        "Kremlin says France’s test nuclear launch is part of ‘dead end’ anti-Russia strategy",
+        "ThePrint"
+      ]
+    ],
+    "event_key": "france-test-fires-nuclear-capable-missile-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스, 신형 [[핵미사일]]\n시험 발사",
+      "sub": "크렘린궁 '막다른 골목의 전략'이라며 반발",
+      "chips": [
+        {
+          "k": "시험 발사",
+          "v": "실시"
+        }
+      ],
+      "alt": "프랑스, 신형 핵미사일 시험 발사",
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "핵 탑재 가능 신형 미사일",
+          "d": "프랑스 국방부는 핵 탑재가 가능한 신형 미사일을 시험 발사했다고 밝혔습니다 (더 힌두)."
+        },
+        {
+          "t": "러시아의 반발",
+          "d": "러시아 크렘린궁은 프랑스의 이번 시험 발사가 막다른 골목에 다다른 반러시아 전략의 일환이라고 비판했습니다 (더프린트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "프랑스 신형 미사일 시험 발사",
+        "러시아 크렘린궁의 비판"
+      ],
+      "unconfirmed": [
+        "미사일의 구체적 성능 제원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "The Hindu",
+        "The Times of India",
+        "ThePrint",
+        "Vajiram & Ravi",
+        "Xinhua",
+        "2026.10.07 22:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스, 신형 핵 탑재 가능 미사일 시험 발사\n\n· 프랑스 국방부가 신형 핵미사일 시험 발사를 발표했습니다 (더 힌두).\n· 이에 대해 러시아 크렘린궁은 프랑스의 시험 발사가 '막다른 골목'에 다다른 반러시아 전략의 일환이라며 비판했습니다 (더프린트).\n\n프랑스의 핵미사일 시험 발사가 유럽과 러시아의 긴장을 더 고조시킬까요?\n\n출처: 더 힌두·더프린트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스가 핵 탑재가 가능한 신형 미사일을 시험 발사했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아 크렘린궁은 이를 반러시아 전략이라며 비판했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 시험 발사에 따른 군사적 긴장 추이가 주목됩니다.",
+      "card": "check"
+    }
+  ]
+}
