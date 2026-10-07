@@ -1615,5 +1615,15 @@
     "at": 1791342494.0424826,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "flydubai-pilot-cockpit-attack-2026",
+    "topic": "두바이행 여객기 조종실서 난동 조종사 두개골 골절 중상",
+    "slug": "2026-10-07-news-flydubai-pilot-cockpit-attack-2026",
+    "cluster": "CBMi8wFBVV95cUxOSzhydS1WY1NzRjBPSVZQb1NIbDl5RDlVVms3bHo4TW4wNzRwLTRzZWdhNjEwRkhoc2FkTVlGWWZTZHU0Q0ZaOEkteGxYUXdPWnpBekcyUlhpXzlXTW5YMTktMmU5LXZHWnhyekhCZFdPc2NERWNMSEVuS3dWdlZpSGZ5cnlJN2FwMUZqN3JRVmszYnU2a2M1emU2bm5Od3A3UnJ6NkpDWTlFaDBSUlRqUnNKMkllcTZrSmptcVI3aVM0WVZ0WGYzeEZrbU9DREFiMnpIcUUyX1BPZUZxT2E4T3NOdE5pOExQU0xTTW44UHdydkHSAfgBQVVfeXFMTmJiZ3J0Z3RlWXNWYUNBSGg1bnNablg1ZDlrMUd1UXJSY2U1eE9HYjY1ai1tYWM4aEtWQkJ6RW1WNkJHRmFwcHJYT2gzSVVfblllZ3hRd3gwbnJMa2xtaTFaTElvLURTT1RrQjVmTHh2TFZsOGt6WlZ5blp2UFVWdzVwdEdWbUJYMF9UNjZwLXI5NVNSZ01tX0ltUm8wc2VXdmZiWnpyaC1MeGlVbm96bV80Y2lFeUlFN0RNUTFMbUxpYWpocTRYbG5XejZmS0dxX2VTU3F6d3dYbXd6X0VRWHVtTEZ3MEVMUnNGZVgtbUNodWJPRGVrc0U",
+    "badge": "breaking",
+    "at": 1791353365.8088446,
+    "country": "아랍에미리트",
+    "category": "사고"
   }
 ]
