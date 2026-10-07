@@ -9039,5 +9039,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791393388
+  },
+  {
+    "slug": "2026-10-08-news-west-bank-settler-clash-oct-2026",
+    "event_ms": 1791389615000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 요르단강 서안 지구 충돌… 1명 사망·16명 부상 발생\n\n· 충돌 과정에서 1명이 숨지고 16명이 부상했습니다 (Al Jazeera)\n· 취재 중인 사진 기자들이 폭행당하는 사건도 발생했습니다 (The Guardian·The Washington Post)\n\n출처: Al Jazeera·The Guardian·The Washington Post 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18157144987520221",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeNE96sH6VT",
+        "kind": "carousel",
+        "at": 1791400215
+      },
+      "instagram": {
+        "id": "17994177375045340",
+        "permalink": "https://www.instagram.com/reel/DeNFm_SHNdM/",
+        "kind": "reel",
+        "at": 1791400564
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1791400574
+      },
+      "tiktok": {
+        "id": "7694006690861157684",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694006690861157684",
+        "kind": "video",
+        "at": 1791400696
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791400706
   }
 ]

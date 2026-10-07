@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-08-news-west-bank-settler-clash-oct-2026",
+  "topic": "요르단강 서안 지구 충돌… 1명 사망·16명 부상 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 01:13 KST",
+  "source": "Al Jazeera·The Guardian·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxPbnBjSExsal8wSkw3M2pvNFFFR1YxTkdjZmEyQTN6ZzZjWlVPcVpwUGhQeUUyNk1QV1Rtd3FNVjZ0dTlRUG8yNE1JZkNab2FhVmNidGtWWGRyU3pSM0lKY0RnRWdfQ3VuR043YnBUVUNYZUt0SWhDcnZQd044d2NsRHE2VDdtcFk4bXltd0pCT05FWWtyVHpPLVV1UlBVTV9jSG1EWHFuM2NRTEtRbGhReHRaRUhMQdIBuwFBVV95cUxPNEwwRjZmckFPNUlNcF9GZEtOaHpOa0UxRzBRNTdNZDVSZjVEbkN6WElFSzFJWC1fTkxKd2N3Q200YXlTY2w0NUtBMTRfaFJoZGtxRkVZUFI0V2xsdGdleUd2d2NkS29RYThJb2NGM2l3QkpackdDRDhLQW5peUNBVlJlZ01HeHZfYlBQanhDcFBkYXVZRkdiaUhUYU85Tk5SR25tQWhnNzVQZzhLUXljUHJUWDNXUi1OUWFn",
+    "related": [
+      [
+        "Palestinian killed, 16 wounded in Israeli pogrom in occupied West Bank",
+        "Al Jazeera"
+      ],
+      [
+        "Israeli settlers beat press photographer as soldiers watch in West Bank",
+        "The Guardian"
+      ],
+      [
+        "Israeli settlers beat AFP photographer covering violence in West Bank",
+        "The Washington Post"
+      ],
+      [
+        "Residents of West Bank’s last Christian village ‘living in fear’",
+        "Vatican News"
+      ],
+      [
+        "Israeli fire kills Palestinian in West Bank settler clash",
+        "Al-Monitor"
+      ]
+    ],
+    "event_key": "west_bank_settler_clash_oct_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "요르단강 서안 지구 충돌… [[1명 사망·16명 부상]] 발생",
+      "sub": "서안 지구에서 발생한 충돌로 팔레스타인인 1명이 숨지고 다쳤습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "16명"
+        }
+      ],
+      "alt": "요르단강 서안 지구 충돌… 1명 사망·16명 부상 발생",
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n요르단강 서안 지구",
+      "video_only": true,
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "요르단강 서안 지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "인명 피해",
+          "d": "충돌 과정에서 1명이 숨지고 16명이 부상했습니다 (Al Jazeera)"
+        },
+        {
+          "t": "언론인 폭행",
+          "d": "취재 중인 사진 기자들이 폭행당하는 사건도 발생했습니다 (The Guardian·The Washington Post)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명, 부상 16명 (Al Jazeera)",
+        "요르단강 서안 지구 충돌 발생 (Al Jazeera·The Guardian)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "구체적인 충돌 원인 및 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Al-Monitor",
+        "The Guardian",
+        "The Washington Post",
+        "Vatican News",
+        "2026.10.08 04:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 요르단강 서안 지구 충돌… 1명 사망·16명 부상 발생\n\n· 충돌 과정에서 1명이 숨지고 16명이 부상했습니다 (Al Jazeera)\n· 취재 중인 사진 기자들이 폭행당하는 사건도 발생했습니다 (The Guardian·The Washington Post)\n\n출처: Al Jazeera·The Guardian·The Washington Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "요르단강 서안 지구에서 발생한 충돌로 1명이 숨지고 16명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 충돌로 사상자가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "취재 중이던 사진 기자들이 폭행당하기도 했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
