@@ -1705,5 +1705,15 @@
     "at": 1791410893.2598119,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "us-fbi-arrest-chinese-spy-taiwan-2026",
+    "topic": "대만 총통 아들 사찰한 ‘중국 스파이’ 체포",
+    "slug": "2026-10-08-news-us-fbi-arrest-chinese-spy-taiwan-2026",
+    "cluster": "CBMigwFBVV95cUxPWERCaXk1NHYwSzFZZENXbTBLR3FubG9YdGRNelIzQXlfNmVtV3FUdHZzTnJEV1pMOVFhc285RTFxQWJ5VUo4S1M2bW81UHpJRlZJekY3b2V2VE5EQVFORGFPcUFKUklMWWducllkVHBUOUcycE9BWVQ5SUdJX2tKNFBTdw",
+    "badge": "breaking",
+    "at": 1791414506.9921117,
+    "country": "미국",
+    "category": "국제"
   }
 ]

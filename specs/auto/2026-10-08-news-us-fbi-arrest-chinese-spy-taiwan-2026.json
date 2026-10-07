@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-08-news-us-fbi-arrest-chinese-spy-taiwan-2026",
+  "topic": "대만 총통 아들 사찰한 ‘중국 스파이’ 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 06:34 KST",
+  "source": "CBS News·WSJ·ABC7 Los Angeles 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxPWERCaXk1NHYwSzFZZENXbTBLR3FubG9YdGRNelIzQXlfNmVtV3FUdHZzTnJEV1pMOVFhc285RTFxQWJ5VUo4S1M2bW81UHpJRlZJekY3b2V2VE5EQVFORGFPcUFKUklMWWducllkVHBUOUcycE9BWVQ5SUdJX2tKNFBTdw",
+    "related": [
+      [
+        "FBI concerned that alleged Chinese agent is a serious flight risk, sources say",
+        "CBS News"
+      ],
+      [
+        "FBI Arrests Alleged Chinese Agent Accused of Spying on Son of Taiwan Leader",
+        "WSJ"
+      ],
+      [
+        "Woman arrested for allegedly spying on Taiwanese officials in Seattle",
+        "KING5.com"
+      ],
+      [
+        "Irvine woman accused of spying for China arrested by FBI agents at LAX",
+        "ABC7 Los Angeles"
+      ],
+      [
+        "Southern California real estate agent accused of acting as Chinese spy appears in court",
+        "KTLA"
+      ]
+    ],
+    "event_key": "us-fbi-arrest-chinese-spy-taiwan-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "대만 총통 아들 사찰한\n[[‘중국 스파이’ 체포]]",
+      "sub": "미 FBI, LAX 공항서 캘리포니아 거주 여성 검거",
+      "chips": [
+        {
+          "k": "체포 기관",
+          "v": "미 FBI"
+        },
+        {
+          "k": "체포 장소",
+          "v": "미국 LAX 공항"
+        }
+      ],
+      "alt": "대만 총통 아들 사찰한 ‘중국 스파이’ 체포",
+      "map": {
+        "lat": 34.0536923,
+        "lon": -118.2427676,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n로스앤젤레스",
+      "video_only": true,
+      "map": {
+        "lat": 34.0536923,
+        "lon": -118.2427676,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "로스앤젤레스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대만 유력 인사 감시",
+          "d": "대만 총통의 아들과 대만 정부 관리들을 감시한 혐의를 받고 있습니다 (WSJ·KING5)."
+        },
+        {
+          "t": "공항서 체포돼 출석",
+          "d": "미국 연방수사국에 로스앤젤레스 국제공항에서 체포돼 법원에 출석했습니다 (ABC7·KTLA)."
+        },
+        {
+          "t": "도주 우려 제기",
+          "d": "수사 당국은 해당 피의자의 도주 위험이 매우 높다고 우려하고 있습니다 (CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "중국 스파이 혐의 피의자 체포",
+        "대만 총통 아들 사찰 혐의",
+        "로스앤젤레스 국제공항서 검거"
+      ],
+      "unconfirmed": [
+        "구체적인 정보 유출 규모",
+        "중국 정부의 직접 지시 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 Los Angeles",
+        "CBS News",
+        "KING5.com",
+        "KTLA",
+        "WSJ",
+        "2026.10.08 08:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 FBI가 대만 총통 아들을 감시한 혐의로 중국 스파이를 체포했습니다.\n\n· 피의자는 대만 총통의 아들과 대만 관리들을 감시한 혐의를 받고 있습니다 (WSJ·KING5).\n· 로스앤젤레스 국제공항에서 검거됐으며 남부 캘리포니아 출신 부동산 중개인으로 확인됐습니다 (ABC7·KTLA).\n· 수사 당국은 피의자의 도주 우려가 심각하다고 보고 있습니다 (CBS).\n\n이번 사건에 대해 어떻게 보십니까?\n출처: WSJ·CBS·ABC7·KTLA·KING5 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "대만 총통 아들을 사찰한 혐의를 받는 중국 요원이 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 로스앤젤레스 국제공항에서 연방수사국에 붙잡혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "피의자는 시애틀에서 대만 관리들도 감시한 혐의를 받고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 정보 유출 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
