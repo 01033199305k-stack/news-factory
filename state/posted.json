@@ -8603,5 +8603,62 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791342908
+  },
+  {
+    "slug": "2026-10-07-news-saudi-houthi-airport-aramco-attack-2026",
+    "event_ms": 1791340320000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 예멘 후티 반군이 사우디아라비아 공항과 정유 시설을 공격했습니다.\n\n· 사우디아라비아는 후티 반군과의 전투로 공항 두 곳이 피격됐다고 밝혔습니다 (AP).\n· 후티 반군은 수도 리야드의 아람코 정유 시설도 미사일과 드론으로 겨냥했다고 주장했습니다 (로이터).\n· 사우디 주도 연합군은 예멘을 공습했습니다 (폭스뉴스).\n\n질문: 중동 지역의 군사적 긴장이 다시 고조되는 상황을 어떻게 바라보십니까?\n\n출처: WSJ·알자지라·로이터·폭스뉴스·AP 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18137266018634210",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeLXCXjlqzI",
+        "kind": "carousel",
+        "at": 1791342574
+      },
+      "instagram": {
+        "id": "17888443716619429",
+        "permalink": "https://www.instagram.com/reel/DeLXUK5Aieq/",
+        "kind": "reel",
+        "at": 1791342747
+      },
+      "youtube": {
+        "id": "OWVpmbNux_Q",
+        "permalink": "https://youtube.com/shorts/OWVpmbNux_Q",
+        "kind": "shorts",
+        "at": 1791342765
+      },
+      "tiktok": {
+        "id": "7693788244231736594",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693788244231736594",
+        "kind": "video",
+        "at": 1791349781
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791349791
   }
 ]
