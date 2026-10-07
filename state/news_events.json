@@ -1625,5 +1625,15 @@
     "at": 1791353365.8088446,
     "country": "아랍에미리트",
     "category": "사고"
+  },
+  {
+    "event_key": "hormuz-tanker-attack-crew-injured-2026",
+    "topic": "호르무즈 해협서 유조선 피격… 11명 부상",
+    "slug": "2026-10-07-news-hormuz-tanker-attack-crew-injured-2026",
+    "cluster": "CBMirgFBVV95cUxOZWtvNFJvczBTblE5eGRWUzBIUTlINnREWXQ2TWVXR3dzQ05uLUdVZ2JEUDRSZjFhc3FzYlF6cU5LVWR3OWN4X3ZKRGM0ZUdSNjQ1UnBFQzdGYmowQ3laQlc5aEZpV0pIeTFMTlppQUVmejFXb0M1akxpSTVvcGJaQTNSRTNGUmZNWl9Yd2FCVTB2TDRMdlB6U0g3Tk41TW5sOGJwbFZTb2hHZGNqR3fSAbMBQVVfeXFMT2FKTm9vN2pFbG1rLUZPdnVZNFloUVNuU0ZxZFJPZzBPMjA4T3lWVEJEX3QzZXd3RjVlY09SUXBVX0JMRndvNl82VkpnOWhDVzAyWjktSzhuc003bi01MXBEWTFqZjBXamlNTXpXRGZDOHlPSnNpbUdCVzlfRVFWTTg4bVl0TDg3Rzg2czZTdldZRWVnc2NqY1NqZnlBSC1tNm94ZUFRWDVOUVk5c291dkhKS2s",
+    "badge": "brief",
+    "at": 1791357857.5050402,
+    "country": "오만",
+    "category": "국제"
   }
 ]

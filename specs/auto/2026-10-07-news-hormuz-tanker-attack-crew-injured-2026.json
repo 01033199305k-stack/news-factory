@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-07-news-hormuz-tanker-attack-crew-injured-2026",
+  "topic": "호르무즈 해협서 유조선 피격… 11명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.07 12:24 KST",
+  "source": "Al Jazeera·The Hindu·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxOZWtvNFJvczBTblE5eGRWUzBIUTlINnREWXQ2TWVXR3dzQ05uLUdVZ2JEUDRSZjFhc3FzYlF6cU5LVWR3OWN4X3ZKRGM0ZUdSNjQ1UnBFQzdGYmowQ3laQlc5aEZpV0pIeTFMTlppQUVmejFXb0M1akxpSTVvcGJaQTNSRTNGUmZNWl9Yd2FCVTB2TDRMdlB6U0g3Tk41TW5sOGJwbFZTb2hHZGNqR3fSAbMBQVVfeXFMT2FKTm9vN2pFbG1rLUZPdnVZNFloUVNuU0ZxZFJPZzBPMjA4T3lWVEJEX3QzZXd3RjVlY09SUXBVX0JMRndvNl82VkpnOWhDVzAyWjktSzhuc003bi01MXBEWTFqZjBXamlNTXpXRGZDOHlPSnNpbUdCVzlfRVFWTTg4bVl0TDg3Rzg2czZTdldZRWVnc2NqY1NqZnlBSC1tNm94ZUFRWDVOUVk5c291dkhKS2s",
+    "related": [
+      [
+        "Oman evacuates injured crew from attacked tanker in Strait of Hormuz",
+        "Al Jazeera"
+      ],
+      [
+        "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+        "CNBC"
+      ],
+      [
+        "11 Indian crew injured in strike on Panama-flagged ship in Strait of Hormuz, New Delhi condemns attack",
+        "ThePrint"
+      ],
+      [
+        "‘Targeting of commercial shipping must end’: India condemns latest attack on vessels",
+        "The Hindu"
+      ],
+      [
+        "Concern at targeting of sailors, 12 Indians injured in Black Sea and Hormuz attacks",
+        "Telegraph India"
+      ]
+    ],
+    "event_key": "hormuz-tanker-attack-crew-injured-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "호르무즈 해협서\n[[유조선 피격]]… 11명 부상",
+      "sub": "오만 당국의 부상 선원 긴급 후송 및 인도 정부 규탄",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "선원 11명"
+        },
+        {
+          "k": "선적",
+          "v": "파나마"
+        }
+      ],
+      "alt": "호르무즈 해협서 유조선 피격… 11명 부상",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "오만"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "오만\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "파나마 선적 유조선 피격",
+          "d": "호르무즈 해협을 항해하던 파나마 선적 유조선이 공격을 받았습니다 (더프린트)."
+        },
+        {
+          "t": "인도인 선원 부상 및 후송",
+          "d": "인도인 선원 11명이 다쳤으며 오만 당국이 부상자들을 긴급 후송했습니다 (알자지라·더프린트)."
+        },
+        {
+          "t": "인도 정부의 상선 공격 규탄",
+          "d": "인도 정부는 상업 선박을 향한 공격을 중단해야 한다며 규탄했습니다 (더힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호르무즈 해협 유조선 피격",
+        "인도인 선원 11명 부상 (더프린트)",
+        "오만 당국의 부상 선원 후송 (알자지라)",
+        "파나마 선적 선박 피해 (더프린트)"
+      ],
+      "unconfirmed": [
+        "공격 주체 및 공격 수단",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNBC",
+        "Telegraph India",
+        "The Hindu",
+        "ThePrint",
+        "2026.10.07 16:23 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 호르무즈 해협서 유조선 피격으로 선원 11명이 다쳤습니다.\n\n· 호르무즈 해협을 항해하던 파나마 선적 유조선이 공격을 받았습니다 (더프린트).\n· 오만 당국이 공격받은 선박에서 부상한 선원들을 긴급 후송했습니다 (알자지라).\n· 부상자 가운데 인도 국적 선원 11명이 포함된 것으로 전해졌습니다 (더프린트).\n· 인도 정부는 상업 선박을 향한 공격을 중단해야 한다고 밝혔습니다 (더힌두).\n\n출처: 알자지라·더프린트·더힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 유조선이 공격받아 선원 11명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파나마 선적 유조선이 표적이 됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "더프린트는 인도인 선원들이 다쳐 오만 당국이 긴급 후송했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격의 배후와 구체적인 수단은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
