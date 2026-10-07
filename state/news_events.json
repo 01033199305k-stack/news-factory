@@ -1675,5 +1675,15 @@
     "at": 1791386083.22345,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "christa_pike_execution_failed_2026",
+    "topic": "미 사형수 크리스타 파이크 형 집행 실패 후 법정 출석",
+    "slug": "2026-10-08-news-christa-pike-execution-failed-2026",
+    "cluster": "CBMiqgFBVV95cUxOcnBDYWVhNDMyajViT3dsOVoyVEFwSE90WlZBOExIcXNrLWRoX1VxYng0X1FBSnkxOEdEZ1U1ZmNNeXRVR0k0VDh6ZHF0UndZNnAzZDJrd0NTbjV0WTltdE1lQW9XallHdXhMd0ZOUmNQelV3QUF3U0h4VEk0QWQ0TzNOamF6YXJ6TkJKN1NFWnptVV81N1M1SEZqOXNhZUt0b3d4ZXpiSGtUdw",
+    "badge": "breaking",
+    "at": 1791393087.2160614,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

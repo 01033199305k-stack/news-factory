@@ -1,0 +1,129 @@
+{
+  "slug": "2026-10-08-news-christa-pike-execution-failed-2026",
+  "topic": "미 사형수 크리스타 파이크 형 집행 실패 후 법정 출석",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 00:01 KST",
+  "source": "CNN·The Guardian·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxOcnBDYWVhNDMyajViT3dsOVoyVEFwSE90WlZBOExIcXNrLWRoX1VxYng0X1FBSnkxOEdEZ1U1ZmNNeXRVR0k0VDh6ZHF0UndZNnAzZDJrd0NTbjV0WTltdE1lQW9XallHdXhMd0ZOUmNQelV3QUF3U0h4VEk0QWQ0TzNOamF6YXJ6TkJKN1NFWnptVV81N1M1SEZqOXNhZUt0b3d4ZXpiSGtUdw",
+    "related": [
+      [
+        "(1) Christa Pike’s lawyers in court after she regains consciousness in hospital – latest updates",
+        "The Guardian"
+      ],
+      [
+        "Live updates: Christa Pike’s attorneys appear in court after botched execution",
+        "CNN"
+      ],
+      [
+        "Christa Pike survived 2 doses of an execution drug. How is that possible?",
+        "The Boston Globe"
+      ],
+      [
+        "Christa Pike Live Updates: Judge to Hear From Her Lawyers After Failed Execution",
+        "The New York Times"
+      ],
+      [
+        "'Uncharted territory': Will Tennessee try to kill Christa Pike again?",
+        "USA Today"
+      ]
+    ],
+    "event_key": "christa_pike_execution_failed_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 사형수 크리스타 파이크\n형 집행 실패 후 법정 출석",
+      "sub": "사형 집행 실패 후 변호인들이 법원에 출석했습니다.",
+      "chips": [
+        {
+          "k": "사형수",
+          "v": "크리스타 파이크"
+        }
+      ],
+      "alt": "미 사형수 크리스타 파이크 형 집행 실패 후 법정 출석",
+      "map": {
+        "lat": 35.7730076,
+        "lon": -86.2820081,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n테네시",
+      "video_only": true,
+      "map": {
+        "lat": 35.7730076,
+        "lon": -86.2820081,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테네시"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "법원 심리 진행",
+          "d": "사형 집행 실패 후 변호인들이 법정에 출석했다고 보도되었습니다."
+        },
+        {
+          "t": "의식 회복",
+          "d": "병원에서 의식을 회복한 것으로 전해졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "변호인 법원 출석",
+        "사형 집행 실패 및 의식 회복"
+      ],
+      "unconfirmed": [
+        "향후 사형 집행 재추진 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "The Boston Globe",
+        "The Guardian",
+        "The New York Times",
+        "USA Today",
+        "2026.10.08 02:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 사형수 크리스타 파이크 형 집행 실패 후 법정 출석\n\n· 병원에서 의식을 회복했습니다 (가디언)\n· 변호인들이 법원에 출석했습니다 (CNN)\n\n출처: 가디언·CNN·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국에서 사형 집행이 실패한 사형수 크리스타 파이크의 변호인들이 법정에 출석했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이크가 사형 집행 과정에서 의식을 되찾았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사형 집행이 다시 추진될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

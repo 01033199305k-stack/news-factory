@@ -8986,5 +8986,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791386519
+  },
+  {
+    "slug": "2026-10-08-news-christa-pike-execution-failed-2026",
+    "event_ms": 1791385260000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 사형수 크리스타 파이크 형 집행 실패 후 법정 출석\n\n· 병원에서 의식을 회복했습니다 (가디언)\n· 변호인들이 법원에 출석했습니다 (CNN)\n\n출처: 가디언·CNN·뉴욕타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18638562721023640",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeM3eGAm-yq",
+        "kind": "carousel",
+        "at": 1791393137
+      },
+      "instagram": {
+        "id": "18217182154357994",
+        "permalink": "https://www.instagram.com/reel/DeM3p3ED2Vm/",
+        "kind": "reel",
+        "at": 1791393246
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1791393256
+      },
+      "tiktok": {
+        "id": "7693975241474723073",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7693975241474723073",
+        "kind": "video",
+        "at": 1791393378
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791393388
   }
 ]
