@@ -1695,5 +1695,15 @@
     "at": 1791400164.4674652,
     "country": "팔레스타인",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "russia-ukraine-putin-birthday-strike-2026",
+    "topic": "푸틴 생일날 대공습 우크라 최소 26명 사망",
+    "slug": "2026-10-08-news-russia-ukraine-putin-birthday-strike-2026",
+    "cluster": "CBMingFBVV95cUxOLWhDb2pycGdoUXp3QmxSR3QyUXdURXBTaTQ2bUdSbUYwUFVDYkVZOVBZZXJNNFNLdWZNTDVNUFBxYVFuSm9lY0tUYlozSVljNTkyMzVzTUdKdlA0N3dSd0tQdldUem4tU0xpdzZnaG9PemhVSURZbTVCM2lhUHVTWGZLamNPZEhZeVZULUFrYzFGQS16dm5zRmZGeUhSdw",
+    "badge": "brief",
+    "at": 1791410893.2598119,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

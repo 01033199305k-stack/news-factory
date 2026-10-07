@@ -9092,5 +9092,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791400706
+  },
+  {
+    "slug": "2026-10-08-news-russia-ukraine-putin-birthday-strike-2026",
+    "event_ms": 1791410893259,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 러시아군 우크라이나 대규모 공습으로 최소 26명 사망 (KBS)\n\n· 푸틴 대통령의 74세 생일에 우크라이나 대공습이 감행되었습니다 (조선일보).\n· 우크라이나 프리루키 아파트 단지서 러시아 미사일 공격으로 어린이 4명을 포함한 18명이 숨졌습니다 (VOA).\n· 이번 공습에는 '북한판 이스칸데르' 미사일도 발사되었습니다 (조선일보).\n\n출처: 조선일보·KBS·VOA·뉴시스 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119386130066603",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeNZbg9Hfcl",
+        "kind": "carousel",
+        "at": 1791410943
+      },
+      "instagram": {
+        "id": "18093053993456993",
+        "permalink": "https://www.instagram.com/reel/DeNaHgkDuQN/",
+        "kind": "reel",
+        "at": 1791411322
+      },
+      "youtube": {
+        "id": "riZPk90J7Hw",
+        "permalink": "https://youtube.com/shorts/riZPk90J7Hw",
+        "kind": "shorts",
+        "at": 1791411459
+      },
+      "tiktok": {
+        "id": "7694053677169904917",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694053677169904917",
+        "kind": "video",
+        "at": 1791411590
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791411600
   }
 ]
