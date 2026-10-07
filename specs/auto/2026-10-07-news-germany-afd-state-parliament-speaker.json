@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-07-news-germany-afd-state-parliament-speaker",
+  "topic": "독일 극우 정당 AfD 주의회 의장직 처음 차지",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.07 06:03 KST",
+  "source": "AP News·Bloomberg.com·Politico 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxOUmlkSUJ6QVZ1WkpOQnZKNmZIbkVMQnFmOWtBSkhoLXAxS19KWXM5RFYyS3M2ei14ZkhDbGlzM3FuXzVCZ0VOZW4xNWFwZXhmZkhkS0FZRWNwbW45TlFja0hjR3lqSDFKLWhWbmVLamlaT3JoMTFXQ3ZXSENmUXktM0xDNm9KYmRvbzhyblpCdHZQNzQ4RkpSWmZEX2hnOUk4OExrTDh3WUpCM2dRZDN5UmhRX0VzbUU",
+    "related": [
+      [
+        "Germany news: Far-right AfD gets first house speaker in a German state parliament",
+        "DW.com"
+      ],
+      [
+        "AfD wins state parliament speakership in Saxony-Anhalt with far-left backing",
+        "Politico"
+      ],
+      [
+        "Germany’s Far Right Claims Its First Statehouse Speaker Since 1945",
+        "The New York Times"
+      ],
+      [
+        "Far-right election win leaves migrants questioning their future in eastern Germany",
+        "AP News"
+      ],
+      [
+        "German Far Right Wins First Top Post as It Seeks to Lead State",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "germany_afd_state_parliament_speaker"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "독일 극우 정당 AfD\n주의회 의장직 처음 차지",
+      "sub": "작센안할트주 의회에서 자리 확보",
+      "chips": [
+        {
+          "k": "정당",
+          "v": "AfD"
+        }
+      ],
+      "alt": "독일 극우 정당 AfD 주의회 의장직 처음 차지",
+      "map": {
+        "lat": 52.1314783,
+        "lon": 11.6400789,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n마그데부르크",
+      "video_only": true,
+      "map": {
+        "lat": 52.1314783,
+        "lon": 11.6400789,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마그데부르크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "의회 진입",
+          "d": "독일 극우 정당인 AfD가 작센안할트주 주의회에서 첫 의장직을 차지했습니다 (폴리티코·뉴욕 타임스)."
+        },
+        {
+          "t": "선출 배경",
+          "d": "이번 선출 과정에서 극좌 진영의 지지가 있었습니다 (폴리티코)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "독일 극우 정당 AfD 주의회 의장 배출",
+        "1945년 이후 처음",
+        "작센안할트주 의회"
+      ],
+      "unconfirmed": [
+        "정치적 파장 및 향후 연합 정국 전망",
+        "한국인 피해 여부",
+        "중앙정부 대응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Bloomberg.com",
+        "DW.com",
+        "Politico",
+        "The New York Times",
+        "2026.10.07 09:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 독일 극우 정당 AfD, 작센안할트주 주의회 의장직 처음 차지\n\n· 1945년 이후 처음으로 극우 정당이 주의회 주요 직책에 올랐습니다 (뉴욕 타임스)\n· 이번 투표 과정에서는 극좌 진영의 지지가 있었습니다 (폴리티코)\n\n독일 정치 지형에 큰 변화를 불러올 이번 선거 결과를 두고, 앞으로 연방 정치에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: DW·폴리티코·뉴욕 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일 극우 정당인 AfD가 작센안할트주 주의회에서 처음으로 의장직을 차지했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕 타임스는 1945년 이후 극우 세력이 독일 주의회에서 최고위직에 오른 것은 처음이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폴리티코는 이번 선출 과정에 극좌 진영의 지지가 있었다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 정국에 미칠 파장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

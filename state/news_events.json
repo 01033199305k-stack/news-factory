@@ -1585,5 +1585,15 @@
     "at": 1791320859.528343,
     "country": "캐나다",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "germany_afd_state_parliament_speaker",
+    "topic": "독일 극우 정당 AfD 주의회 의장직 처음 차지",
+    "slug": "2026-10-07-news-germany-afd-state-parliament-speaker",
+    "cluster": "CBMitwFBVV95cUxOUmlkSUJ6QVZ1WkpOQnZKNmZIbkVMQnFmOWtBSkhoLXAxS19KWXM5RFYyS3M2ei14ZkhDbGlzM3FuXzVCZ0VOZW4xNWFwZXhmZkhkS0FZRWNwbW45TlFja0hjR3lqSDFKLWhWbmVLamlaT3JoMTFXQ3ZXSENmUXktM0xDNm9KYmRvbzhyblpCdHZQNzQ4RkpSWmZEX2hnOUk4OExrTDh3WUpCM2dRZDN5UmhRX0VzbUU",
+    "badge": "brief",
+    "at": 1791331713.0612051,
+    "country": "독일",
+    "category": "국제"
   }
 ]
