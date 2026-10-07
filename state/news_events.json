@@ -1605,5 +1605,15 @@
     "at": 1791338886.0206428,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "saudi-houthi-airport-aramco-attack-2026",
+    "topic": "후티 사우디 공항·정유소 습격 드론·미사일 공격 감행",
+    "slug": "2026-10-07-news-saudi-houthi-airport-aramco-attack-2026",
+    "cluster": "CBMipgFBVV95cUxNb1V3ay1naHVaQ203NzVqdC1peEhfckdfSG9VX2dRU0lkMHNrT2tRT2tfLWtsS0dyb2pNTzVhYnhEMi1ONFc4OTlwTWlmaVVWWF84ZXdNeFBpbFNyT0ltZFJBem0ycklXZFJsSDVpcGVSSXpBUl9JWm9HWEliSEFDZ2FUN3pwLUZVSGVaME1CYWlIMmE4SVpLazNiVGcxZ2lHVjJrOUh3",
+    "badge": "breaking",
+    "at": 1791342494.0424826,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]

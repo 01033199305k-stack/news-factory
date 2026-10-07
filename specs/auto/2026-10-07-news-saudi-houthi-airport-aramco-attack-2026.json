@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-07-news-saudi-houthi-airport-aramco-attack-2026",
+  "topic": "후티 사우디 공항·정유소 습격 드론·미사일 공격 감행",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.07 11:32 KST",
+  "source": "AP News·Al Jazeera·Fox News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxNb1V3ay1naHVaQ203NzVqdC1peEhfckdfSG9VX2dRU0lkMHNrT2tRT2tfLWtsS0dyb2pNTzVhYnhEMi1ONFc4OTlwTWlmaVVWWF84ZXdNeFBpbFNyT0ltZFJBem0ycklXZFJsSDVpcGVSSXpBUl9JWm9HWEliSEFDZ2FUN3pwLUZVSGVaME1CYWlIMmE4SVpLazNiVGcxZ2lHVjJrOUh3",
+    "related": [
+      [
+        "Yemen’s Houthi Rebels Strike Two Airports in Saudi Arabia",
+        "WSJ"
+      ],
+      [
+        "Iran war updates: Saudi-led forces down Houthi missile in Khamis Mushait",
+        "Al Jazeera"
+      ],
+      [
+        "Yemen's Houthis say they attacked Aramco facility in Riyadh with missiles, drones",
+        "Reuters"
+      ],
+      [
+        "Houthis target Riyadh airport, Aramco refinery as Saudi-led coalition strikes Yemen",
+        "Fox News"
+      ],
+      [
+        "Saudi Arabia says 2 airports were hit in renewed fighting with Houthis and other Mideast news",
+        "AP News"
+      ]
+    ],
+    "event_key": "saudi-houthi-airport-aramco-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "후티 사우디 [[공항·정유소 습격]]\n드론·미사일 공격 감행",
+      "sub": "사우디아라비아 공항 2곳 피격 확인 (AP)",
+      "chips": [
+        {
+          "k": "공격 주체",
+          "v": "후티 반군"
+        },
+        {
+          "k": "피격 대상",
+          "v": "사우디 공항·정유소"
+        }
+      ],
+      "alt": "후티 사우디 공항·정유소 습격 드론·미사일 공격 감행",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "아람코 시설 표적",
+          "d": "예멘 후티 반군이 수도 리야드의 아람코 정유 시설을 미사일과 드론으로 공격했다고 주장했습니다 (로이터)."
+        },
+        {
+          "t": "사우디 연합군 대응",
+          "d": "사우디아라비아 주도 연합군은 예멘을 공습했습니다 (폭스뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "후티의 사우디 공항 타격 (AP)",
+        "아람코 정유소 공격 주장 (로이터)"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "Fox News",
+        "Reuters",
+        "WSJ",
+        "2026.10.07 12:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 예멘 후티 반군이 사우디아라비아 공항과 정유 시설을 공격했습니다.\n\n· 사우디아라비아는 후티 반군과의 전투로 공항 두 곳이 피격됐다고 밝혔습니다 (AP).\n· 후티 반군은 수도 리야드의 아람코 정유 시설도 미사일과 드론으로 겨냥했다고 주장했습니다 (로이터).\n· 사우디 주도 연합군은 예멘을 공습했습니다 (폭스뉴스).\n\n질문: 중동 지역의 군사적 긴장이 다시 고조되는 상황을 어떻게 바라보십니까?\n\n출처: WSJ·알자지라·로이터·폭스뉴스·AP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "예멘 후티 반군이 사우디아라비아의 공항 두 곳과 아람코 정유 시설에 미사일과 드론 공격을 감행했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 사우디아라비아 공항 두 곳이 피격됐다고 보도했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "후티 반군은 리야드의 정유 시설을 타격했다고 주장했으며 사우디 연합군은 예멘에 공습을 가했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해 여부와 우리 국민의 피해 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
