@@ -8931,5 +8931,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791378854
+  },
+  {
+    "slug": "2026-10-07-news-ukraine-russia-massive-attack-oct-2026",
+    "event_ms": 1791382905000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아군이 대규모 공습해 최소 20명이 숨졌습니다.\n\n· 이번 공격으로 아파트 등 주거 시설이 타격을 입었습니다 (ABC·가디언)\n· 젤렌스키 우크라이나 대통령은 이번 공격을 비난했습니다 (BBC)\n\n출처: BBC·로이터·ABC·가디언·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18004200990007145",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeMqG32mxNB",
+        "kind": "carousel",
+        "at": 1791386132
+      },
+      "instagram": {
+        "id": "17960375370238513",
+        "permalink": "https://www.instagram.com/reel/DeMqVp0Dv9A/",
+        "kind": "reel",
+        "at": 1791386272
+      },
+      "youtube": {
+        "id": "iDFGgynCymc",
+        "permalink": "https://youtube.com/shorts/iDFGgynCymc",
+        "kind": "shorts",
+        "at": 1791386297
+      },
+      "tiktok": {
+        "id": "6ac662c481498cb51b7fdfb4",
+        "permalink": "",
+        "kind": "video",
+        "at": 1791386509
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791386519
   }
 ]

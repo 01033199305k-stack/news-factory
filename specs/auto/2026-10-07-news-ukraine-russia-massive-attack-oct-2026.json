@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-07-news-ukraine-russia-massive-attack-oct-2026",
+  "topic": "러시아군 우크라이나 대공습 최소 20명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.07 23:21 KST",
+  "source": "ABC News·Al Jazeera·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBYdmo0MEpFTVV1M01RemJlVnhuRlJQblVuYXUtSlVLaWRORlBlRHRUMzNXZ1YtMUFVUU9XV0tTR1A0ZXBKSGdtUmxua3o1QmxPc3BGblZONWtqNXc",
+    "related": [
+      [
+        "Zelensky condemns 'vile' large-scale Russian attacks that killed 22",
+        "BBC"
+      ],
+      [
+        "Russia launches heavy strikes at Ukraine, killing at least 20",
+        "Reuters"
+      ],
+      [
+        "Russia hits Ukrainian apartment buildings in deadly overnight strike, Zelenskyy says",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Ukraine says Russia bombed apartment block as birthday gift for Putin",
+        "The Guardian"
+      ],
+      [
+        "At least 20 killed as Russia launches ‘massive’ attack on Ukraine",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "ukraine-russia-massive-attack-oct-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아군 우크라이나 대공습\n최소 [[20명]] 사망",
+      "sub": "러시아의 주거 시설 타격으로 인명 피해가 발생했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "20명 이상"
+        }
+      ],
+      "alt": "러시아군 우크라이나 대공습 최소 20명 사망",
+      "map": {
+        "lat": 49.4871968,
+        "lon": 31.2718321,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나",
+      "video_only": true,
+      "map": {
+        "lat": 49.4871968,
+        "lon": 31.2718321,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "우크라이나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대규모 공습",
+          "d": "러시아군이 대규모 공격을 감행했습니다 (BBC·로이터)."
+        },
+        {
+          "t": "주거 시설 타격",
+          "d": "공습으로 아파트 등 주거 시설이 타격당했습니다 (ABC·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "최소 20명 사망",
+        "주거 시설 타격"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 총 사상자 수"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Al Jazeera",
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "2026.10.08 00:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아군이 대규모 공습해 최소 20명이 숨졌습니다.\n\n· 이번 공격으로 아파트 등 주거 시설이 타격을 입었습니다 (ABC·가디언)\n· 젤렌스키 우크라이나 대통령은 이번 공격을 비난했습니다 (BBC)\n\n출처: BBC·로이터·ABC·가디언·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아군의 대규모 공습으로 최소 20명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 이번 공격으로 아파트 등 주거 시설이 타격을 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "젤렌스키 대통령은 이번 공격을 비난했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사상자 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

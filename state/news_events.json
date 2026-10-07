@@ -1665,5 +1665,15 @@
     "at": 1791378526.754378,
     "country": "프랑스",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine-russia-massive-attack-oct-2026",
+    "topic": "러시아군 우크라이나 대공습 최소 20명 사망",
+    "slug": "2026-10-07-news-ukraine-russia-massive-attack-oct-2026",
+    "cluster": "CBMiW0FVX3lxTFBYdmo0MEpFTVV1M01RemJlVnhuRlJQblVuYXUtSlVLaWRORlBlRHRUMzNXZ1YtMUFVUU9XV0tTR1A0ZXBKSGdtUmxua3o1QmxPc3BGblZONWtqNXc",
+    "badge": "breaking",
+    "at": 1791386083.22345,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]
