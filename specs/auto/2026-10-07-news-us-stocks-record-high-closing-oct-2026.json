@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-07-news-us-stocks-record-high-closing-oct-2026",
+  "topic": "미국 S&P·나스닥 사상 최고치 경신",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.07 09:12 KST",
+  "source": "CNN·Reuters·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixgFBVV95cUxOckY2MEptbmNUdFhJemJ0QzhiN1Bpb3hmZ1dlQlQyT0JYTF9JUUxIdFgxc3plNm5Ib0RESVhoOW1yVGNNVHZQNHdySzZnRFNyTVo3U3RTVUx0bmU5ZWEwbWZqT2RXcEpZOFlTQUN4LURHZFdLM2lGLVlxMGF4dGh6YXQxOVVRNFpoM3pMaEFlUXo4Wjg3aEVNcmx4cnEwVFdlQ0pERFV4WmY5aGtqcHJNcGl1dnY5VXpRenlJTXk4OG5NLTRBMGc",
+    "related": [
+      [
+        "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble",
+        "Investor's Business Daily"
+      ],
+      [
+        "Chart: A look at the S&P 500's remarkable and defiant trip to a new record",
+        "CNBC"
+      ],
+      [
+        "US stocks hit record high, shrugging off bond market turmoil",
+        "CNN"
+      ],
+      [
+        "S&P 500, Nasdaq reach record closing highs as focus pivots to earnings",
+        "Reuters"
+      ],
+      [
+        "Stocks hit record high even as consumers feel dreary",
+        "The Washington Post"
+      ]
+    ],
+    "event_key": "us-stocks-record-high-closing-oct-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 S&P·나스닥\n[[사상 최고치]] 경신",
+      "sub": "국채 금리 불안에도 실적 발표 기대감에 상승",
+      "chips": [
+        {
+          "k": "S&P 500",
+          "v": "사상 최고"
+        },
+        {
+          "k": "나스닥",
+          "v": "사상 최고"
+        }
+      ],
+      "alt": "미국 S&P·나스닥 사상 최고치 경신",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사상 최고치 경신",
+          "d": "미국 뉴욕 증시에서 S&P 500과 나스닥 지수가 동시에 종가 기준 사상 최고치를 기록했습니다. (Reuters)"
+        },
+        {
+          "t": "국채 금리 불안 극복",
+          "d": "채권 시장의 불안을 딛고 상승세를 보였습니다. (CNN)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "S&P 500·나스닥 사상 최고치 마감"
+      ],
+      "unconfirmed": [
+        "미국 기업 3분기 실적 전망",
+        "연방준비제도의 추가 금리 인하 속도"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "CNN",
+        "Investor's Business Daily",
+        "Reuters",
+        "The Washington Post",
+        "2026.10.07 11:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 S&P 500·나스닥 지수 사상 최고치 마감\n\n· 미국 뉴욕 증시에서 S&P 500과 나스닥 지수가 기업들의 실적 발표를 앞두고 일제히 사상 최고치로 장을 마쳤습니다. (Reuters)\n· 국채 금리가 요동치며 채권 시장의 불안이 이어졌음에도 증시는 상승세를 보였습니다. (CNN)\n\n미국 증시가 최고치 랠리를 이어가는 상황에서, 연방준비제도가 앞으로 기준금리를 얼마나 더 내릴 것으로 예상하시나요?\n\n출처: CNBC·CNN·Reuters 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 증시 S&P 500과 나스닥이 최고치로 마감했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 기업들의 실적 발표에 초점이 맞춰지며 최고치로 마감했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최근 국채 금리가 요동치며 불안 요인이 있었으나 증시는 이를 극복했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "연방준비제도의 추가 금리 인하 속도는 앞으로 더 지켜봐야 합니다.",
+      "card": "check"
+    }
+  ]
+}

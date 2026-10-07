@@ -1595,5 +1595,15 @@
     "at": 1791331713.0612051,
     "country": "독일",
     "category": "국제"
+  },
+  {
+    "event_key": "us-stocks-record-high-closing-oct-2026",
+    "topic": "미국 S&P·나스닥 사상 최고치 경신",
+    "slug": "2026-10-07-news-us-stocks-record-high-closing-oct-2026",
+    "cluster": "CBMixgFBVV95cUxOckY2MEptbmNUdFhJemJ0QzhiN1Bpb3hmZ1dlQlQyT0JYTF9JUUxIdFgxc3plNm5Ib0RESVhoOW1yVGNNVHZQNHdySzZnRFNyTVo3U3RTVUx0bmU5ZWEwbWZqT2RXcEpZOFlTQUN4LURHZFdLM2lGLVlxMGF4dGh6YXQxOVVRNFpoM3pMaEFlUXo4Wjg3aEVNcmx4cnEwVFdlQ0pERFV4WmY5aGtqcHJNcGl1dnY5VXpRenlJTXk4OG5NLTRBMGc",
+    "badge": "breaking",
+    "at": 1791338886.0206428,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
