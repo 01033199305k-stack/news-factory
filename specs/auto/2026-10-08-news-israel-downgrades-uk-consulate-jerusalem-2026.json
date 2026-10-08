@@ -1,0 +1,130 @@
+{
+  "slug": "2026-10-08-news-israel-downgrades-uk-consulate-jerusalem-2026",
+  "topic": "이스라엘, 예루살렘 영국 영사관 격하",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 22:39 KST",
+  "source": "Al Jazeera·CBS News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxPcXRHN3cySy11S2dPZGl2WUZvMXVnSzR0MTI1Yk5qcDlpaXhSNG1QZFVYZFZvcEljV0F0RGRnNElxQmE5Nm1vT2pfR1ptMGNKQ0FTSEtYMk92WjhmMkRuclB2bFlmcGl3LTFkTkFVY1V2djFfTG5ScFFrWDNUQzhaNThyUVo4NGlScHhaX0dneTN3Szd2a0w5eDQ3QXVINGpoNHN6eTJHdG7SAa4BQVVfeXFMTjY4VU9fb3p6bjhQaFlzYnBfRmV6OExYSlNsUHZfdHB5MVg2WmVPcXZUQXRFZF9yS1JJQ1FHeF81T0JqX0o3QnJhMUdoWVNlWnVwdUVLTEp6dmttOHpQRHJtdXpJX1JyZ1RUamcxdnBlS3RsT25ENlhKOWhZU3dWMjE1aWFLTTlPNDdqWkFqYWNPdHNJVXdaZmZ1anJkc1ZaeG1JRmdtN3J3cWhpc2hn",
+    "related": [
+      [
+        "Has Israel shut the UK consulate in East Jerusalem – or downgraded it?",
+        "Al Jazeera"
+      ],
+      [
+        "U.K. and Israel Agree to a Scaled-Back British Mission in East Jerusalem",
+        "The New York Times"
+      ],
+      [
+        "U.K. and Israel appear to reach tense truce, but diplomatic feud highlights Israel's strained ties with Europe",
+        "CBS News"
+      ],
+      [
+        "Israel Downgrades U.K. Consulate in Jerusalem Over West Bank Trade Ban",
+        "WSJ"
+      ],
+      [
+        "British diplomats to remain at scaled-down mission in Jerusalem",
+        "Reuters"
+      ]
+    ],
+    "event_key": "israel-downgrades-uk-consulate-jerusalem-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘, 예루살렘\n[[영국 영사관 격하]]",
+      "sub": "서안지구 무역 금지에 따른 조치",
+      "chips": [],
+      "alt": "이스라엘, 예루살렘 영국 영사관 격하",
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n예루살렘",
+      "video_only": true,
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "예루살렘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "영사관 규모 축소 합의",
+          "d": "양국은 동예루살렘 내 영국 공관의 규모를 축소해 운영하기로 합의했습니다 (뉴욕타임스)."
+        },
+        {
+          "t": "영국 외교관 잔류",
+          "d": "규모는 축소되지만 영국 외교관들은 공관에 그대로 잔류할 예정입니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "예루살렘 영국 영사관 격하",
+        "영국 공관 규모 축소 합의",
+        "영국 외교관 공관 잔류"
+      ],
+      "unconfirmed": [
+        "영국 외교관 활동 제한 범위",
+        "영국 정부의 공식 대응 방향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CBS News",
+        "Reuters",
+        "The New York Times",
+        "WSJ",
+        "2026.10.09 01:38 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘, 예루살렘 내 영국 영사관 격하 (WSJ)\n\n· 이스라엘이 서안지구 무역 금지 조치를 이유로 영국 영사관 격하를 결정했습니다 (WSJ).\n· 양국은 동예루살렘 내 영국 공관의 규모를 축소해 운영하기로 합의했습니다 (NYT).\n· 영국 외교관들은 규모가 줄어든 공관에 그대로 잔류할 예정입니다 (로이터).\n\n이번 조치가 향후 이스라엘과 유럽 국가들 간의 외교 관계에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 월스트리트저널·뉴욕타임스·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘이 예루살렘에 있는 영국 영사관의 지위를 격하했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "월스트리트저널은 이번 조치가 영국의 서안지구 무역 금지 조치로 인한 것이라고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "양국은 공관의 규모를 축소해 운영하기로 합의했다고 외신들은 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "외교관들의 구체적인 활동 제한 범위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
