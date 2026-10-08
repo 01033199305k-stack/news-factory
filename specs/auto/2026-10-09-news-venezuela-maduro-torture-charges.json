@@ -1,0 +1,133 @@
+{
+  "slug": "2026-10-09-news-venezuela-maduro-torture-charges",
+  "topic": "미국 검찰, 마두로 전 베네수엘라 대통령 고문 혐의 기소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 03:29 KST",
+  "source": "AP News·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilgFBVV95cUxOSE1hWlhTcDdRSG1Ga0hCVEdQQTkwbktJX3Rwa254NFBUMG11cWU4blhfSnIzcWVNUFRPTF9RekdnRTUxbC1ObTJOcnpLWGE1ZlRBN3dacUZaQ2VZaDhJZ3Q5UkNMR0puNTJfQVhMUnh1czlVOElHcnAxM0s3cFBLRWpESW1McTZRTjVkRE1YeTBPZzhVRmc",
+    "related": [
+      [
+        "Maduro Charged With Ordering Torture of Americans in Venezuelan Prison",
+        "The New York Times"
+      ],
+      [
+        "Venezuela's Maduro, wife Flores tortured opponents to stay in power, US prosecutors say",
+        "Reuters"
+      ],
+      [
+        "Maduro charged with torturing Americans in Venezuelan prison",
+        "The Telegraph"
+      ],
+      [
+        "Nicolás Maduro and his wife face new charges over alleged torture of Americans",
+        "CNN"
+      ],
+      [
+        "Wife of ex-Venezuelan President Nicolás Maduro seeks release from US jail",
+        "AP News"
+      ]
+    ],
+    "event_key": "venezuela_maduro_torture_charges"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 검찰, 마두로 전 베네수엘라 대통령 [[고문 혐의]] 기소",
+      "sub": "미국 시민을 상대로 한 고문 공모 혐의 적용",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "마두로 부부"
+        }
+      ],
+      "alt": "미국 검찰, 마두로 전 베네수엘라 대통령 고문 혐의 기소",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미국인 대상 고문",
+          "d": "미국 검찰은 니콜라스 마두로 전 베네수엘라 대통령과 아내가 베네수엘라 교도소에서 미국인들을 고문한 혐의로 기소했다고 밝혔습니다 (로이터·AP통신)."
+        },
+        {
+          "t": "권력 유지 목적",
+          "d": "이들 부부가 권력을 유지하기 위해 반대파와 미국인들을 상대로 고문을 저질렀다고 검찰은 설명했습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 검찰의 마두로 전 대통령 부부 기소",
+        "미국인 고문 및 고문 공모 혐의"
+      ],
+      "unconfirmed": [
+        "재판 일정 및 신병 확보 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "The Telegraph",
+        "2026.10.09 04:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 검찰, 니콜라스 마두로 전 베네수엘라 대통령 고문 혐의 기소\n\n· 미국 검찰은 마두로 전 대통령과 아내가 베네수엘라 교도소에서 미국인을 고문했다고 밝혔습니다 (로이터·AP통신)\n· 권력을 유지하기 위해 반대파와 미국인들을 상대로 고문을 저질렀다고 설명했습니다 (로이터)\n\n출처: 로이터·AP통신·BBC·가디언·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 검찰이 니콜라스 마두로 전 베네수엘라 대통령 부부를 고문 혐의로 기소했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 이들이 베네수엘라 교도소에서 미국인들을 고문한 혐의를 받고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "검찰은 이들 부부가 권력을 유지하기 위해 반대파를 상대로 고문을 저질렀다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 재판 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

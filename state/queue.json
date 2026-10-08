@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-09-news-venezuela-maduro-torture-charges",
+    "event_ms": 1791486578236,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 검찰, 니콜라스 마두로 전 베네수엘라 대통령 고문 혐의 기소\n\n· 미국 검찰은 마두로 전 대통령과 아내가 베네수엘라 교도소에서 미국인을 고문했다고 밝혔습니다 (로이터·AP통신)\n· 권력을 유지하기 위해 반대파와 미국인들을 상대로 고문을 저질렀다고 설명했습니다 (로이터)\n\n출처: 로이터·AP통신·BBC·가디언·뉴욕타임스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18110052353268806",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DePpyqQmUZQ",
+        "kind": "carousel",
+        "at": 1791486631
+      },
+      "instagram": {
+        "id": "18114140450025693",
+        "permalink": "https://www.instagram.com/reel/DePqBr1iAc5/",
+        "kind": "reel",
+        "at": 1791486769
+      },
+      "youtube": {
+        "id": "Kh-tf7QPCyU",
+        "permalink": "https://youtube.com/shorts/Kh-tf7QPCyU",
+        "kind": "shorts",
+        "at": 1791486792
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
