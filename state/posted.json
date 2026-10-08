@@ -9526,5 +9526,61 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791448149
+  },
+  {
+    "slug": "2026-10-08-usgs-pt26281001",
+    "event_ms": 1791450008000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 바누아투 인근 규모 6.6 지진\n\n한국 시각 10월 08일 18시 00분, 바누아투 Norsup에서 북동쪽 105km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS pt26281001",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "바누아투",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18128194790496801",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeOlUNxm0Rz",
+        "kind": "carousel",
+        "at": 1791450728
+      },
+      "instagram": {
+        "id": "18123425372482999",
+        "permalink": "https://www.instagram.com/reel/DeOlpheoFIs/",
+        "kind": "reel",
+        "at": 1791450925
+      },
+      "youtube": {
+        "id": "Dr7ssgAVle8",
+        "permalink": "https://youtube.com/shorts/Dr7ssgAVle8",
+        "kind": "shorts",
+        "at": 1791450980
+      },
+      "tiktok": {
+        "id": "7694223447844523271",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694223447844523271",
+        "kind": "video",
+        "at": 1791451111
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791451121
   }
 ]
