@@ -1,0 +1,130 @@
+{
+  "slug": "2026-10-09-news-us-sanctions-iran-shadow-fleet",
+  "topic": "미국, 이란 유조선 17척 제재 그림자 함대 겨냥",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 02:25 KST",
+  "source": "India Today·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw",
+    "related": [
+      [
+        "US imposes fresh sanctions on Iran's shadow fleet",
+        "Reuters"
+      ],
+      [
+        "How a Shadow Economy in Asia Is Keeping Iranian Oil Flowing",
+        "The New York Times"
+      ],
+      [
+        "Treasury sanctions 17 tankers linked to Iran's 'shadow fleet' in economic pressure campaign",
+        "CNBC"
+      ],
+      [
+        "US imposes new sanctions on Iran targeting oil transport vessels By Investing.com",
+        "Investing.com India"
+      ],
+      [
+        "US sanctions two Mumbai firms, five Indians over alleged Iran oil trade",
+        "India Today"
+      ]
+    ],
+    "event_key": "us_sanctions_iran_shadow_fleet"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 이란 유조선 [[17척]] 제재\n그림자 함대 겨냥",
+      "sub": "이란 원유 불법 거래 차단 위한 경제 압박",
+      "chips": [
+        {
+          "k": "제재 대상",
+          "v": "유조선 17척"
+        }
+      ],
+      "alt": "미국, 이란 유조선 17척 제재 그림자 함대 겨냥",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "인도 기업 및 개인 제재",
+          "d": "미국은 인도 뭄바이 소재 기업 2곳과 인도인 5명을 이란 원유 거래 연루 혐의로 제재했습니다 (인도 투데이)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 그림자 함대 유조선 17척 제재 (CNBC·로이터)",
+        "뭄바이 기업 2곳 및 인도인 5명 포함 (인도 투데이)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "제재 대상 선박의 정확한 자산 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "India Today",
+        "Investing.com India",
+        "Reuters",
+        "The New York Times",
+        "2026.10.09 04:45 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국, 이란 그림자 함대 유조선 17척 추가 제재\n\n· 이란의 원유 불법 운송 선박들을 겨냥한 경제 압박 조치 (CNBC·로이터)\n· 인도 뭄바이 소재 기업 2곳과 인도인 5명도 이란 원유 거래 연루 혐의로 제재 대상에 포함 (인도 투데이)\n\n미국의 이번 대이란 제재 조치가 중동 원유 시장과 국제 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·CNBC·인도 투데이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 이란의 원유 운송을 돕는 그림자 함대 유조선 17척을 제재했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 이번 조치가 이란의 원유 불법 거래를 차단하기 위한 경제 압박의 일환이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인도 뭄바이의 기업 2곳과 인도인 5명도 제재 명단에 포함됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추가적인 제재 확대 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
