@@ -1785,5 +1785,25 @@
     "at": 1791461341.2995203,
     "country": "중국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "korea-recalls-ukraine-ambassador-2026",
+    "topic": "우크라 대사 소환 북한 포로 갈등",
+    "slug": "2026-10-08-news-korea-recalls-ukraine-ambassador-2026",
+    "cluster": "CBMivAFBVV95cUxNZDYxcDQ1My1SeHZsUXhFVGFlV19QaEdXN2ZzTktkd2NZMHlGb0dDWGlITXZNQ2tmTF8zLUhINDZzUlBSbmc3ajZNb1B5SUFRZWtXWUlZODRkLVEzeDNkQjB0bGJXT3FleDVLRmZLVnlrWU14TUxDdXhidXV0cHVPckFQQTZmVXd0M0lCODFnQ0hyaU5PZGdGcTBrZTJGU3hJd1BrQXd2OWxIQ0xsQl9hbVVGNFBzd04wSGRPVw",
+    "badge": "breaking",
+    "at": 1791468581.5646248,
+    "country": "대한민국",
+    "category": "국제"
+  },
+  {
+    "event_key": "italy-election-law-passed-2026",
+    "topic": "이탈리아 선거법 통과 멜로니 총리 판정승",
+    "slug": "2026-10-08-news-italy-election-law-passed-2026",
+    "cluster": "CBMiXkFVX3lxTFBaTDM4ZEhMRlgwcDljNFlRUlhnanpDWGJSZ2NfSFZXaHVwMVVOZlBwbjB0WkN6MzFEZnFvYVN4M0tNUks1VVBwN1dBVDhiblNBUkdjRFpvVTJDaU9mcmc",
+    "badge": "breaking",
+    "at": 1791468622.0971386,
+    "country": "이탈리아",
+    "category": "국제"
   }
 ]

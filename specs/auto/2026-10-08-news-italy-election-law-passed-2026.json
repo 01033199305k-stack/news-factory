@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-08-news-italy-election-law-passed-2026",
+  "topic": "이탈리아 선거법 통과 멜로니 총리 판정승",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 21:02 KST",
+  "source": "BBC·Financial Times·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBaTDM4ZEhMRlgwcDljNFlRUlhnanpDWGJSZ2NfSFZXaHVwMVVOZlBwbjB0WkN6MzFEZnFvYVN4M0tNUks1VVBwN1dBVDhiblNBUkdjRFpvVTJDaU9mcmc",
+    "related": [
+      [
+        "Italy overhauls electoral system after fiercely contested debate",
+        "BBC"
+      ],
+      [
+        "Italian parliament approves election law after Giorgia Meloni threatened to resign",
+        "Financial Times"
+      ],
+      [
+        "Giorgia Meloni wins vote on controversial ‘bonus seat’ changes to electoral system",
+        "The Guardian"
+      ],
+      [
+        "Meloni overhauls election rules in secret ballot",
+        "The Telegraph"
+      ],
+      [
+        "Italy Weighs Controversial Law Giving Bonus Seats to Election Winners",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "italy-election-law-passed-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이탈리아 [[선거법 통과]]\n멜로니 총리 판정승",
+      "sub": "사임 위협 속 보너스 의석제 도입",
+      "chips": [
+        {
+          "k": "결과",
+          "v": "선거법 개정 통과"
+        }
+      ],
+      "alt": "이탈리아 선거법 통과 멜로니 총리 판정승",
+      "map": {
+        "lat": 41.8933203,
+        "lon": 12.4829321,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이탈리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이탈리아\n로마",
+      "video_only": true,
+      "map": {
+        "lat": 41.8933203,
+        "lon": 12.4829321,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "로마"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "의회 개정안 통과",
+          "d": "멜로니 이탈리아 총리가 사임 카드까지 꺼내들며 압박한 끝에 선거법 개정안이 의회를 통과했습니다 (FT·BBC)."
+        },
+        {
+          "t": "보너스 의석제 도입",
+          "d": "개정안은 선거 승자에게 추가 의석을 주는 보너스 의석 제도를 도입하는 내용을 담고 있습니다 (NYT·가디언)."
+        },
+        {
+          "t": "치열한 대립과 논란",
+          "d": "이번 개정안은 의회 통과 과정에서 치열한 대립과 논란을 불러일으켰습니다 (BBC·가디언·텔레그래프)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이탈리아 선거법 개정안 통과"
+      ],
+      "unconfirmed": [
+        "차기 총선에 미칠 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Financial Times",
+        "The Guardian",
+        "The New York Times",
+        "The Telegraph",
+        "2026.10.08 23:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이탈리아 선거법 통과… 멜로니 총리 사임 위협 끝 가결 (FT)\n\n· 조르자 멜로니 이탈리아 총리가 사임 배수진을 치며 밀어붙인 선거법 개정안이 의회를 통과했습니다 (FT·BBC)\n· 개정안은 선거에서 승리한 세력에게 추가 의석을 주는 '보너스 의석제'를 골자로 합니다 (NYT·가디언)\n· 이번 법 개정은 비밀 투표 등 과정에서 치열한 대립과 논란을 낳았습니다 (BBC·가디언·텔레그래프)\n\n논란을 빚은 이번 선거제 개편이 이탈리아 정치권에 어떤 결과를 가져올까요?\n\n출처: FT·BBC·가디언·NYT·텔레그래프 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이탈리아에서 논란의 선거법 개정안이 의회를 통과했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이낸셜타임스는 조르자 멜로니 총리가 사임 위협까지 하며 법안을 통과시켰다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "개정 선거법은 1위 정당이나 동맹에 의석을 추가로 주는 보너스 의석제를 담고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "치열한 대립 속에 통과된 개정법이 정치권에 가져올 파장은 아직 예측하기 어렵습니다.",
+      "card": "check"
+    }
+  ]
+}

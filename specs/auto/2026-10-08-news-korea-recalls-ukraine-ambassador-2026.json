@@ -1,0 +1,132 @@
+{
+  "slug": "2026-10-08-news-korea-recalls-ukraine-ambassador-2026",
+  "topic": "우크라 대사 소환 북한 포로 갈등",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 21:13 KST",
+  "source": "BBC·NPR·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxNZDYxcDQ1My1SeHZsUXhFVGFlV19QaEdXN2ZzTktkd2NZMHlGb0dDWGlITXZNQ2tmTF8zLUhINDZzUlBSbmc3ajZNb1B5SUFRZWtXWUlZODRkLVEzeDNkQjB0bGJXT3FleDVLRmZLVnlrWU14TUxDdXhidXV0cHVPckFQQTZmVXd0M0lCODFnQ0hyaU5PZGdGcTBrZTJGU3hJd1BrQXd2OWxIQ0xsQl9hbVVGNFBzd04wSGRPVw",
+    "related": [
+      [
+        "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
+        "NPR"
+      ],
+      [
+        "South Korea Recalls Envoy From Ukraine in Dispute Over North Korean POWs",
+        "The New York Times"
+      ],
+      [
+        "South Korea recalls Ukraine envoy over prisoner-of-war row",
+        "BBC"
+      ],
+      [
+        "South Korea recalls ambassador to Ukraine amid dispute with Kyiv",
+        "Reuters"
+      ],
+      [
+        "Foreign Ministry Recalls Ukraine Ambassador Over POW Disclosure",
+        "조선일보"
+      ]
+    ],
+    "event_key": "korea-recalls-ukraine-ambassador-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 대사 소환\n북한 포로 갈등",
+      "sub": "정부, 북한군 포로 갈등으로 대사 소환",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "우크라 대사"
+        }
+      ],
+      "alt": "우크라 대사 소환 북한 포로 갈등",
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울",
+      "video_only": true,
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대사 소환",
+          "d": "외교부가 우크라이나 주재 대사를 소환했습니다 (조선일보·Reuters)."
+        },
+        {
+          "t": "포로 갈등",
+          "d": "북한군 포로 문제를 둘러싼 갈등이 원인으로 알려졌습니다 (NYT·BBC·조선일보)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 주재 대사 소환"
+      ],
+      "unconfirmed": [
+        "정부 공식 입장 및 복귀 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "NPR",
+        "Reuters",
+        "The New York Times",
+        "조선일보",
+        "2026.10.08 23:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 정부, 우크라이나 대사 소환… 북한군 포로 갈등 (조선일보)\n\n· 외교부가 우크라이나 주재 대사를 소환했습니다 (조선일보·Reuters)\n· 북한군 포로를 둘러싼 갈등이 원인으로 알려졌습니다 (NYT·BBC·조선일보)\n· 한국 정부가 우크라이나 대사를 소환할 예정이라는 보도도 나왔습니다 (NPR)\n\n🇰🇷 이번 대사 소환 결정이 가져올 영향에 관심이 쏠립니다.\n\n출처: NPR·NYT·BBC·Reuters·조선일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "정부가 우크라이나 주재 대사를 소환했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "조선일보와 로이터 통신 등은 한국 외교부가 대사를 소환했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "북한군 포로 문제를 둘러싼 갈등이 원인으로 알려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 갈등 내용과 대사의 복귀 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

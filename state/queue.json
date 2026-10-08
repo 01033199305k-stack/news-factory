@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-10-08-news-italy-election-law-passed-2026",
+    "event_ms": 1791460924000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이탈리아 선거법 통과… 멜로니 총리 사임 위협 끝 가결 (FT)\n\n· 조르자 멜로니 이탈리아 총리가 사임 배수진을 치며 밀어붙인 선거법 개정안이 의회를 통과했습니다 (FT·BBC)\n· 개정안은 선거에서 승리한 세력에게 추가 의석을 주는 '보너스 의석제'를 골자로 합니다 (NYT·가디언)\n· 이번 법 개정은 비밀 투표 등 과정에서 치열한 대립과 논란을 낳았습니다 (BBC·가디언·텔레그래프)\n\n논란을 빚은 이번 선거제 개편이 이탈리아 정치권에 어떤 결과를 가져올까요?\n\n출처: FT·BBC·가디언·NYT·텔레그래프 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이탈리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18133741183676100",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DePHnCIG4u8",
+        "kind": "carousel",
+        "at": 1791468706
+      },
+      "instagram": {
+        "id": "18595294963066247",
+        "permalink": "https://www.instagram.com/reel/DePIIPZCe0f/",
+        "kind": "reel",
+        "at": 1791468997
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791469042
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

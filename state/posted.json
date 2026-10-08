@@ -9691,5 +9691,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791461743
+  },
+  {
+    "slug": "2026-10-08-news-korea-recalls-ukraine-ambassador-2026",
+    "event_ms": 1791461634000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 정부, 우크라이나 대사 소환… 북한군 포로 갈등 (조선일보)\n\n· 외교부가 우크라이나 주재 대사를 소환했습니다 (조선일보·Reuters)\n· 북한군 포로를 둘러싼 갈등이 원인으로 알려졌습니다 (NYT·BBC·조선일보)\n· 한국 정부가 우크라이나 대사를 소환할 예정이라는 보도도 나왔습니다 (NPR)\n\n🇰🇷 이번 대사 소환 결정이 가져올 영향에 관심이 쏠립니다.\n\n출처: NPR·NYT·BBC·Reuters·조선일보 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18141588415549501",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DePHifNG_mQ",
+        "kind": "carousel",
+        "at": 1791468671
+      },
+      "instagram": {
+        "id": "18111878930332857",
+        "permalink": "https://www.instagram.com/reel/DePICbFiK5p/",
+        "kind": "reel",
+        "at": 1791468956
+      },
+      "youtube": {
+        "id": "W5p46bFbh28",
+        "permalink": "https://youtube.com/shorts/W5p46bFbh28",
+        "kind": "shorts",
+        "at": 1791469032
+      },
+      "tiktok": {
+        "id": "7694300992564825396",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694300992564825396",
+        "kind": "video",
+        "at": 1791469164
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791469174
   }
 ]
