@@ -9971,5 +9971,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791489361
+  },
+  {
+    "slug": "2026-10-09-news-us-sanctions-iran-shadow-fleet",
+    "event_ms": 1791480314000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국, 이란 그림자 함대 유조선 17척 추가 제재\n\n· 이란의 원유 불법 운송 선박들을 겨냥한 경제 압박 조치 (CNBC·로이터)\n· 인도 뭄바이 소재 기업 2곳과 인도인 5명도 이란 원유 거래 연루 혐의로 제재 대상에 포함 (인도 투데이)\n\n미국의 이번 대이란 제재 조치가 중동 원유 시장과 국제 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·CNBC·인도 투데이 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18116466598798369",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DePt4Alj6Jt",
+        "kind": "carousel",
+        "at": 1791488772
+      },
+      "instagram": {
+        "id": "18079612718720297",
+        "permalink": "https://www.instagram.com/reel/DePuJNZjipQ/",
+        "kind": "reel",
+        "at": 1791488933
+      },
+      "youtube": {
+        "id": "XMx3vlUNMs4",
+        "permalink": "https://youtube.com/shorts/XMx3vlUNMs4",
+        "kind": "shorts",
+        "at": 1791488989
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ac7f61ce45f6d165ef9f84d): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1791489676
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791489676
   }
 ]
