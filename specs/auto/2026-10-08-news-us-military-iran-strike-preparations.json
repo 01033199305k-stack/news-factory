@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-08-news-us-military-iran-strike-preparations",
+  "topic": "미국 국방부, 이란 공격 대비 군 병력 준비 명령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 10:21 KST",
+  "source": "Bloomberg.com·The Times of India·CGTN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0gFBVV95cUxObmlHVDVjMVlRcUJGMWZqUmxTOVlJckVDeDZpZGJfQWdMeG5WanhBRS1uMENUMWF5aDBWWmVyQVY3Tm0xZThQY3FuWjZkeVIxYlZzNnhUNlU0bm5zaVdsMjA1RDNBcEpJM1JwaTZuLVdZdHROWHM3X09rYlZoYThKUVhaaUlHYlJRQWlLRFFfeVVMRnJlVnlxUURQLVpfZmM0ZXFLM1VCQ2FxUzdsaXRzcTdvMGVIQ0N1cWZFRU5IamZ5dHhHbDZEdk1kNUdhNlhYU1HSAdcBQVVfeXFMT29Kekt1LUJfX0JGampjekZtcmtxVjZEQWoyZF9jbjRnSjFoLWRIdGNnYUc2MTNiUXNJTFFNdlBaeUlKZUFBZ3lKc2t3dVV4LUlheUdjS1FvVnM4T2hXNlMzbGtPcWVPbjMtUWRBWXh6NWJ0VFhQM2ZtV3lJdXhvVndjQVI5akhVbnVaY2ZMSFQ2YW5OckJQRnFDTnlCUXlrZ0xmRVByT1ZQUTZvOHA4b0lEYlJGWEE1RlY3dDhFWWhYOGxaTXBBRGRSR1MxYVBWSkIxQWxlMmM",
+    "related": [
+      [
+        "Trump weighs pre-midterm Iran strikes as gas prices put pressure on Republicans",
+        "Moneycontrol.com"
+      ],
+      [
+        "Oil gains as Middle East hostilities stoke supply worries",
+        "CNBC"
+      ],
+      [
+        "Pentagon orders US military to gear up for Iran strikes; Trump yet to decide dates",
+        "The Times of India"
+      ],
+      [
+        "Axios: US Military ordered to be ready for possible resumption of major combat operations in Iran as Trump weighs timing.",
+        "CGTN"
+      ],
+      [
+        "Oil Edges Higher on Iran Strike Options Report and Storm Impact",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "us-military-iran-strike-preparations"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 국방부, 이란 공격 대비 군 병력 준비 명령",
+      "sub": "중동 긴장 고조 속 유가 상승세 기록",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "이란"
+        }
+      ],
+      "alt": "미국 국방부, 이란 공격 대비 군 병력 준비 명령",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유가 영향",
+          "d": "중동 적대 행위로 공급 우려가 커지면서 유가가 상승했다고 (CNBC·블룸버그) 등 외신이 보도했습니다."
+        },
+        {
+          "t": "트럼프 결정",
+          "d": "미국 트럼프 대통령은 이란 공격 시기를 저울질하고 있다고 (머니컨트롤·타임스오브인디아) 등 매체가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 국방부의 이란 공격 대비 명령",
+        "트럼프 대통령의 공격 시기 검토"
+      ],
+      "unconfirmed": [
+        "구체적인 공격 일자와 실행 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CGTN",
+        "CNBC",
+        "Moneycontrol.com",
+        "The Times of India",
+        "2026.10.08 12:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 국방부, 이란 공격 대비 군 병력 준비 명령\n\n· 트럼프 대통령은 중동 적대 행위 속에서 이란 공격 시기를 저울질하고 있다고 (머니컨트롤·타임스오브인디아) 보도했습니다\n· 공급 우려가 커지면서 유가는 상승세를 기록했다고 (CNBC·블룸버그) 전했습니다\n\n미국의 대이란 군사 행동 가능성에 대해 어떻게 보십니까?\n\n출처: 머니컨트롤·CNBC·타임스오브인디아·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 국방부가 미군에 이란 공격을 대비하라고 지시했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "머니컨트롤 등 외신은 트럼프 대통령이 공격 시기를 저울질하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "중동 긴장이 고조되면서 유가도 함께 올랐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 공격 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
