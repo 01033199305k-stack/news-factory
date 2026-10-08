@@ -9471,5 +9471,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791447372
+  },
+  {
+    "slug": "2026-10-08-news-qatar-tanker-attack-iran-hormuz-2026",
+    "event_ms": 1791437760000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 카타르 북부 해상에서 유조선이 발사체 공격을 받았습니다.\n\n· 카타르 연안에서 유조선이 다수의 발사체에 피격됐습니다 (영국 해선안전운항국·알자지라)\n· 이란 측은 호르무즈 해협을 통한 석유 수송 경로를 봉쇄하겠다고 주장했습니다 (가디언)\n\n호르무즈 해협 일대의 긴장감이 봉쇄 위협으로 높아지는 상황에 대해 어떻게 생각하시나요?\n\n출처: 가디언·로이터·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "카타르"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17887309119488296",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeOfuDkmw4i",
+        "kind": "carousel",
+        "at": 1791447795
+      },
+      "instagram": {
+        "id": "18115030121033870",
+        "permalink": "https://www.instagram.com/reel/DeOgCTwjo0r/",
+        "kind": "reel",
+        "at": 1791447982
+      },
+      "youtube": {
+        "id": "_zN8cDEWnY8",
+        "permalink": "https://youtube.com/shorts/_zN8cDEWnY8",
+        "kind": "shorts",
+        "at": 1791448008
+      },
+      "tiktok": {
+        "id": "7694210598984355124",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694210598984355124",
+        "kind": "video",
+        "at": 1791448139
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791448149
   }
 ]

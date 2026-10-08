@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-08-news-qatar-tanker-attack-iran-hormuz-2026",
+  "topic": "카타르 해상서 유조선 피격 호르무즈 봉쇄 위협",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 14:36 KST",
+  "source": "Al Jazeera·Bloomberg.com·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxPWGpBZ3dHeE0yV0pvMTR0VTBMdHpZQUZoWjdneXNyV0d3RWVoZm1TWFJ5cS16Y0lCRk5PM2dEdVp1dlp2ZEJwTkQ5SlR4dVVoYzVwa0pEdjd5OUJCUTZmaVdRTUk4alo5TTJFRlVVV2lkSzl3MU5PMER5WkR1T2tlYVdNNU15cGQxMVViendna1NZRjBxdnUxb2dMZHFua2ZzVFZ4YTJ4cUg",
+    "related": [
+      [
+        "Tanker attacked off Qatar as Iran claims route transporting oil through strait of Hormuz will be ‘closed’",
+        "The Guardian"
+      ],
+      [
+        "Attacks on tankers in Hormuz hit highest of any week since start of Iran war, sources say",
+        "Reuters"
+      ],
+      [
+        "Tanker hit by multiple projectiles off north coast of Qatar, UKMTO says",
+        "Al Jazeera"
+      ],
+      [
+        "No Lights, No Radio: Getting Oil Through Hormuz Is a Risky Job",
+        "Bloomberg.com"
+      ],
+      [
+        "Rebounding oil exports through Strait of Hormuz are vulnerable to stepped-up Iranian tanker attacks",
+        "CNBC"
+      ]
+    ],
+    "event_key": "qatar-tanker-attack-iran-hormuz-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "카타르 해상서 [[유조선 피격]]\n호르무즈 봉쇄 위협",
+      "sub": "영국 해선안전운항국, 발사체 타격 사실 확인",
+      "chips": [
+        {
+          "k": "위치",
+          "v": "카타르 북부"
+        },
+        {
+          "k": "피격",
+          "v": "발사체 타격"
+        }
+      ],
+      "alt": "카타르 해상서 유조선 피격 호르무즈 봉쇄 위협",
+      "map": {
+        "lat": 25.3336984,
+        "lon": 51.2295295,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "카타르"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "카타르\n카타르 북부 해상",
+      "video_only": true,
+      "map": {
+        "lat": 25.3336984,
+        "lon": 51.2295295,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카타르 북부 해상"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "발사체에 선박 피격",
+          "d": "카타르 북부 해상에서 유조선이 다수의 발사체에 공격을 받았습니다 (영국 해선안전운항국·알자지라)."
+        },
+        {
+          "t": "이란 봉쇄 주장",
+          "d": "이란 측은 호르무즈 해협을 통한 석유 수송 경로를 차단하겠다고 주장했습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "카타르 연안 유조선 피격 (영국 해선안전운항국)",
+        "이란의 호르무즈 봉쇄 주장 (가디언)"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "CNBC",
+        "Reuters",
+        "The Guardian",
+        "2026.10.08 17:22 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 카타르 북부 해상에서 유조선이 발사체 공격을 받았습니다.\n\n· 카타르 연안에서 유조선이 다수의 발사체에 피격됐습니다 (영국 해선안전운항국·알자지라)\n· 이란 측은 호르무즈 해협을 통한 석유 수송 경로를 봉쇄하겠다고 주장했습니다 (가디언)\n\n호르무즈 해협 일대의 긴장감이 봉쇄 위협으로 높아지는 상황에 대해 어떻게 생각하시나요?\n\n출처: 가디언·로이터·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "카타르 북부 해상에서 유조선이 발사체 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "영국 해선안전운항국은 유조선이 다수의 발사체에 맞았다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이란 측은 호르무즈 해협 석유 수송로를 차단하겠다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}
