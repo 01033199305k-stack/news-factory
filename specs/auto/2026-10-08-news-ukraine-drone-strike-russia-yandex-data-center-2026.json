@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-08-news-ukraine-drone-strike-russia-yandex-data-center-2026",
+  "topic": "우크라, 러 얀덱스 데이터센터 드론 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 14:51 KST",
+  "source": "Reuters·Kyiv Post·The Kyiv Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiS0FVX3lxTE45M1BqaGkxSUJKZWRweWl6MHpveVRtVHExQ21seEM0N21fbTVmNTVPbURjM2ZzNk1DaFhlQmZtTmswZlRFT3h3UXFOUQ",
+    "related": [
+      [
+        "Ukraine Strikes Yandex Data Center, Russian Oil Refinery Overnight",
+        "Kyiv Post"
+      ],
+      [
+        "Russian factory housing Yandex data centre attacked and catches fire – photos, video",
+        "Українська правда"
+      ],
+      [
+        "Drones hit Yandex data centre in first major attack on Russian data hub",
+        "Reuters"
+      ],
+      [
+        "Russia's largest Yandex data center reportedly hit in drone attack",
+        "The Kyiv Independent"
+      ],
+      [
+        "Ukrainian defence forces struck \"Gazprom Neftekhim Salavat\" oil refinery in Bashkortostan. VIDEO+PHOTO",
+        "Цензор.НЕТ"
+      ]
+    ],
+    "event_key": "ukraine-drone-strike-russia-yandex-data-center-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라, 러 얀덱스\n데이터센터 [[드론 타격]]",
+      "sub": "러시아 주요 데이터 허브 첫 대규모 공격",
+      "chips": [
+        {
+          "k": "공격 대상",
+          "v": "데이터센터"
+        }
+      ],
+      "alt": "우크라, 러 얀덱스 데이터센터 드론 타격",
+      "map": {
+        "lat": 54.4747553,
+        "lon": 55.9784582,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n바시코르토스탄",
+      "video_only": true,
+      "map": {
+        "lat": 54.4747553,
+        "lon": 55.9784582,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바시코르토스탄"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "첫 데이터 허브 타격",
+          "d": "러시아 최대 규모의 얀덱스 데이터센터가 드론 공격을 받아 화재가 발생한 것으로 전해졌습니다."
+        },
+        {
+          "t": "정유공장 동시 공격",
+          "d": "바시코르토스탄에 위치한 가즈프롬 네프테힘 살라바트 석유정유소도 함께 타격을 받았습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나군 드론 공격",
+        "얀덱스 데이터센터 화재"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "Reuters",
+        "The Kyiv Independent",
+        "Українська правда",
+        "Цензор.НЕТ",
+        "2026.10.08 17:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라, 러시아 얀덱스 데이터센터 드론 타격\n\n· 우크라이나군이 밤사이 러시아 얀덱스 데이터센터를 드론으로 타격했습니다 (로이터·키이우 인디펜던트)\n· 러시아의 데이터 허브가 첫 대규모 공격을 받았습니다 (로이터)\n· 바시코르토스탄의 가즈프롬 석유정유소도 함께 공격을 받았습니다 (센조르네트·키이우 포스트)\n\n러시아 주요 IT 인프라를 향한 이번 드론 공격이 향후 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·키이우 포스트·키이우 인디펜던트·센조르네트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나군이 밤사이 러시아의 주요 데이터센터를 드론으로 공격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아 최대 규모의 얀덱스 데이터센터가 드론에 피격되어 불이 난 것으로 전해졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "바시코르토스탄 지역의 가즈프롬 석유정유소도 함께 공격을 받았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 서버 피해나 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

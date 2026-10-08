@@ -9416,5 +9416,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791443940
+  },
+  {
+    "slug": "2026-10-08-news-ukraine-drone-strike-russia-yandex-data-center-2026",
+    "event_ms": 1791438689000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라, 러시아 얀덱스 데이터센터 드론 타격\n\n· 우크라이나군이 밤사이 러시아 얀덱스 데이터센터를 드론으로 타격했습니다 (로이터·키이우 인디펜던트)\n· 러시아의 데이터 허브가 첫 대규모 공격을 받았습니다 (로이터)\n· 바시코르토스탄의 가즈프롬 석유정유소도 함께 공격을 받았습니다 (센조르네트·키이우 포스트)\n\n러시아 주요 IT 인프라를 향한 이번 드론 공격이 향후 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·키이우 포스트·키이우 인디펜던트·센조르네트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17906262939586549",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeOeCqSm5NG",
+        "kind": "carousel",
+        "at": 1791446916
+      },
+      "instagram": {
+        "id": "18111843860580893",
+        "permalink": "https://www.instagram.com/reel/DeOeYnnlAM4/",
+        "kind": "reel",
+        "at": 1791447113
+      },
+      "youtube": {
+        "id": "9eDIEmLp3dw",
+        "permalink": "https://youtube.com/shorts/9eDIEmLp3dw",
+        "kind": "shorts",
+        "at": 1791447231
+      },
+      "tiktok": {
+        "id": "7694207325367749895",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694207325367749895",
+        "kind": "video",
+        "at": 1791447362
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791447372
   }
 ]

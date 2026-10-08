@@ -1755,5 +1755,15 @@
     "at": 1791443618.137395,
     "country": "오스트리아",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "ukraine-drone-strike-russia-yandex-data-center-2026",
+    "topic": "우크라, 러 얀덱스 데이터센터 드론 타격",
+    "slug": "2026-10-08-news-ukraine-drone-strike-russia-yandex-data-center-2026",
+    "cluster": "CBMiS0FVX3lxTE45M1BqaGkxSUJKZWRweWl6MHpveVRtVHExQ21seEM0N21fbTVmNTVPbURjM2ZzNk1DaFhlQmZtTmswZlRFT3h3UXFOUQ",
+    "badge": "breaking",
+    "at": 1791446867.1794038,
+    "country": "러시아",
+    "category": "국제"
   }
 ]
