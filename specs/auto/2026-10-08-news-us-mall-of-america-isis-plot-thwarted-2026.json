@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-08-news-us-mall-of-america-isis-plot-thwarted-2026",
+  "topic": "미국 최대 쇼핑몰 노린 IS 총격 음모 적발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 05:27 KST",
+  "source": "ABC News·Fox News·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxNMng2R0x0R19UYkxDSUxsTWQ1RjZKUmJCYzZ3OEVJcHJlY18wM19GTGNINV94aWF5a2QzNXoyZEh1V01xZk9sYmVpcXg0MkdFZzBKcW9RSjMxb3JXdHgwemRKamhGLV9CdnhJdGdIU0I1UHZuam1lNTM0Y2RoUDlNcDFoWnJoUQ",
+    "related": [
+      [
+        "FBI says it thwarted terrorist attack in Minnesota by an 18-year-old it supplied with an AK-47",
+        "The Guardian"
+      ],
+      [
+        "Planned gun attack on America's largest mall thwarted 'after teen bought assault rifle'",
+        "Sky News"
+      ],
+      [
+        "FBI arrests man who plotted attack on MOA",
+        "FOX 9 Minneapolis-St. Paul"
+      ],
+      [
+        "Man arrested in foiled ISIS-inspired mass shooting plot at Mall of America, US authorities say",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Minnesota man accused of plotting Mall of America attack, pledging allegiance to ISIS: FBI",
+        "Fox News"
+      ]
+    ],
+    "event_key": "us-mall-of-america-isis-plot-thwarted-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 최대 쇼핑몰 노린\n[[IS 총격 음모]] 적발",
+      "sub": "미 연방수사국, 18세 남성 사전 체포",
+      "chips": [
+        {
+          "k": "용의자",
+          "v": "18세 남성"
+        },
+        {
+          "k": "표적",
+          "v": "몰 오브 아메리카"
+        }
+      ],
+      "alt": "미국 최대 쇼핑몰 노린 IS 총격 음모 적발",
+      "map": {
+        "lat": 44.8550204,
+        "lon": -93.2421195,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n미네소타주 블루밍턴",
+      "video_only": true,
+      "map": {
+        "lat": 44.8550204,
+        "lon": -93.2421195,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미네소타주 블루밍턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대형 쇼핑몰 표적",
+          "d": "미국 연방수사국(FBI)은 미국 최대 쇼핑몰인 몰 오브 아메리카를 노린 총격 테러 모의를 사전에 적발해 차단했다고 밝혔습니다 (ABC·스카이뉴스)."
+        },
+        {
+          "t": "IS 충성 및 총기 확보",
+          "d": "체포된 18세 남성은 극단주의 무장단체 IS에 충성을 맹세하고 돌격소총을 확보했던 것으로 전해졌습니다 (가디언·폭스뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "18세 남성 용의자 체포",
+        "몰 오브 아메리카 대상 총격 테러 모의",
+        "IS(이슬람국가) 연계 혐의"
+      ],
+      "unconfirmed": [
+        "구체적인 범행 실행 계획",
+        "공범 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "FOX 9 Minneapolis-St. Paul",
+        "Fox News",
+        "Sky News",
+        "The Guardian",
+        "2026.10.08 10:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 최대 쇼핑몰을 노린 총격 테러 음모가 사전에 적발됐습니다.\n\n· 미 연방수사국 FBI가 미네소타 '몰 오브 아메리카' 공격을 모의한 남성을 체포했으며 (ABC·폭스뉴스), 용의자는 18세인 것으로 알려졌습니다 (가디언)\n· 용의자는 극단주의 무장단체 IS에 충성을 맹세했으며 (폭스뉴스), 돌격소총을 확보했던 것으로 전해졌습니다 (가디언·스카이뉴스)\n· 이번 테러 음모는 사전에 차단되었습니다 (ABC·가디언)\n\n출처: ABC·가디언·스카이뉴스·폭스뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 최대 쇼핑몰을 노린 총격 테러 음모가 적발됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미 연방수사국 FBI는 미네소타의 몰 오브 아메리카를 노린 18세 남성을 체포했다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "현지 언론 등은 용의자가 IS에 충성을 맹세하고 소총을 확보했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 범행 실행 계획은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

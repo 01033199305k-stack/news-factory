@@ -9202,5 +9202,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791414939
+  },
+  {
+    "slug": "2026-10-08-news-us-mall-of-america-isis-plot-thwarted-2026",
+    "event_ms": 1791421791141,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 최대 쇼핑몰을 노린 총격 테러 음모가 사전에 적발됐습니다.\n\n· 미 연방수사국 FBI가 미네소타 '몰 오브 아메리카' 공격을 모의한 남성을 체포했으며 (ABC·폭스뉴스), 용의자는 18세인 것으로 알려졌습니다 (가디언)\n· 용의자는 극단주의 무장단체 IS에 충성을 맹세했으며 (폭스뉴스), 돌격소총을 확보했던 것으로 전해졌습니다 (가디언·스카이뉴스)\n· 이번 테러 음모는 사전에 차단되었습니다 (ABC·가디언)\n\n출처: ABC·가디언·스카이뉴스·폭스뉴스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "총격테러",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18077719976405614",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeNuNnmGvpo",
+        "kind": "carousel",
+        "at": 1791421838
+      },
+      "instagram": {
+        "id": "18103431686365873",
+        "permalink": "https://www.instagram.com/reel/DeNugVrjSQw/",
+        "kind": "reel",
+        "at": 1791422011
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1791422021
+      },
+      "tiktok": {
+        "id": "7694098970687196422",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694098970687196422",
+        "kind": "video",
+        "at": 1791422142
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791422152
   }
 ]
