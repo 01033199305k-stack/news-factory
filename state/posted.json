@@ -10132,5 +10132,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791497465
+  },
+  {
+    "slug": "2026-10-09-news-anne-carson-nobel-literature-2026",
+    "event_ms": 1791501020700,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 2026년 노벨 문학상 수상자로 캐나다 시인 앤 카슨 선정\n\n· 캐나다의 작가 앤 카슨이 올해 노벨 문학상 수상의 영예를 안았습니다 (AP).\n· 장르의 경계를 넘나드는 대담하고 독창적인 그의 작품 세계가 높은 평가를 받았습니다 (AP, 로이터).\n\n올해 노벨 문학상의 주인공이 된 앤 카슨의 작품 세계에 대해 어떻게 생각하십니까?\n\n출처: AP·로이터·CNN 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "스웨덴"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18095031815236941",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeQFV7HGTir",
+        "kind": "carousel",
+        "at": 1791501076
+      },
+      "instagram": {
+        "id": "18126030703928158",
+        "permalink": "https://www.instagram.com/reel/DeQFoBiG5Id/",
+        "kind": "reel",
+        "at": 1791501242
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791501253
+      },
+      "tiktok": {
+        "id": "7694439298333986100",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694439298333986100",
+        "kind": "video",
+        "at": 1791501374
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791501384
   }
 ]

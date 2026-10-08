@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-09-news-anne-carson-nobel-literature-2026",
+  "topic": "2026 노벨문학상 캐나다 앤 카슨 수상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 07:04 KST",
+  "source": "AP News·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8",
+    "related": [
+      [
+        "Canadian author Anne Carson wins literature Nobel for 'bold and inventive' works that blend genres",
+        "AP News"
+      ],
+      [
+        "Princeton Celebrates Anne Carson, a Nobel Winner Whom It Denied Tenure",
+        "The New York Times"
+      ],
+      [
+        "Anne Carson's Nobel literature prize 'a proud moment for Canada': PM",
+        "Yahoo"
+      ],
+      [
+        "Anne Carson, a genre-bending Canadian writer, wins 2026 Nobel Prize in literature",
+        "CNN"
+      ],
+      [
+        "Genre-defying Canadian poet Anne Carson wins 2026 Nobel Prize in Literature",
+        "Reuters"
+      ]
+    ],
+    "event_key": "anne_carson_nobel_literature_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "2026 노벨문학상\n캐나다 [[앤 카슨]] 수상",
+      "sub": "장르 경계 넘나드는 대담하고 독창적인 작가",
+      "chips": [
+        {
+          "k": "수상자",
+          "v": "앤 카슨"
+        },
+        {
+          "k": "국적",
+          "v": "캐나다"
+        }
+      ],
+      "alt": "2026 노벨문학상 캐나다 앤 카슨 수상",
+      "map": {
+        "lat": 59.3251172,
+        "lon": 18.0710935,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스웨덴"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스웨덴\n스톡홀름",
+      "video_only": true,
+      "map": {
+        "lat": 59.3251172,
+        "lon": 18.0710935,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "스톡홀름"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "캐나다 시인 수상",
+          "d": "캐나다의 작가 앤 카슨이 2026년 노벨 문학상 수상자로 선정되었습니다 (AP)."
+        },
+        {
+          "t": "장르 경계 허문 독창성",
+          "d": "장르의 경계를 허무는 대담하고 독창적인 그의 작품 세계가 높은 평가를 받았습니다 (AP, 로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "앤 카슨 노벨문학상 수상"
+      ],
+      "unconfirmed": [
+        "한국어 번역본 추가 출간 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "Yahoo",
+        "2026.10.09 08:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 2026년 노벨 문학상 수상자로 캐나다 시인 앤 카슨 선정\n\n· 캐나다의 작가 앤 카슨이 올해 노벨 문학상 수상의 영예를 안았습니다 (AP).\n· 장르의 경계를 넘나드는 대담하고 독창적인 그의 작품 세계가 높은 평가를 받았습니다 (AP, 로이터).\n\n올해 노벨 문학상의 주인공이 된 앤 카슨의 작품 세계에 대해 어떻게 생각하십니까?\n\n출처: AP·로이터·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "2026년 노벨 문학상 수상자로 캐나다의 작가 앤 카슨이 선정되었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "장르의 경계를 넘나들며 대담하고 독창적인 작품을 선보여 온 점이 높은 평가를 받았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "앤 카슨은 장르를 거부하고 혼합하는 대담한 글쓰기로 잘 알려져 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "국내 출판계의 한국어 번역본 추가 출간 여부에도 관심이 쏠리고 있습니다.",
+      "card": "check"
+    }
+  ]
+}
