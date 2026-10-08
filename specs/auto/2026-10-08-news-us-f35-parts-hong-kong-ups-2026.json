@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-08-news-us-f35-parts-hong-kong-ups-2026",
+  "topic": "이메일 실수로 F-35 스텔스기 부품 중국행",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 17:46 KST",
+  "source": "Bloomberg.com·NDTV·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgJBVV95cUxPSWdEaml5OGVsdl9FOTVfSE5zV25WMUNHMEpUTk9uSDdWeGYzV01NUHBsWjdTZ1VCM0dyOE9RZzlTT2lfRnRuM0hQNjkwU0FvdG4wTzlzazZHSEpKb0Ffd1VLSXhtdW05dk1FQ2RvSnIxWS1BOEVsdTktMElCUjlPWWdscmhCT0JUM1U3dGhoYmpoQ1VXXzJwVUU1NVJwZjc0bzJrUm5wbS04NWVuZDVMeTk0d096TXNEM0NXRkc2eGg0azhtc2RWNzBYdGlXS0d0Q3B0Ql9CSEJnbGcwel90aWNKb1FXNERhZXJDQWU4bmJIa0tzOVB1cmEtUDN5aFdLc19TVDh30gGLAkFVX3lxTE5XemFCS3l1dklCMGRjRmZET1BhZmg2QndaQ0J6RWdGYS1wWDB0T0h3N1loNFRZT2FsMmctLWdqQUxKMjJNdjhjUjZkVzBxZlZoRWdZTVIzcjhrRGxJR1Y4ZW91elFRUmwzZ1NKZ3lHXy1tdG1HQU1ic2NTb3FlUEVlVTlHcGVfVnVCQk9Nb1JIT0g2aVJmakNyVU50SUxiRU1aajlDSW02YlRJYVBQM29hWW0taUF3cm1FUE1WcU55LWxXMDQtOFJCV2hoRmcxLWJaVW56LUdZVjFOTzZJemxZck5xU0hzX3p5VE91bmpQaXduNlFBc05QaFhGYnpmbWRINE44NHppaUNodw",
+    "related": [
+      [
+        "One missed email, a wrong turn: How China got hold of sensitive US F-35 stealth fighter parts",
+        "The Times of India"
+      ],
+      [
+        "How A Missed Email By A UPS Worker May Have Landed US' F-35 Jet Tech At China's Door",
+        "NDTV"
+      ],
+      [
+        "UPS Worker Missed Email, Letting China Get F-35 Parts",
+        "Bloomberg.com"
+      ],
+      [
+        "How a simple logistics blunder sent F-35 fighter jet parts to Hong Kong and set off a panic in the Pentagon",
+        "THE WEEK"
+      ],
+      [
+        "Lockheed Martin F-35 stealth parts lost in UPS transit raise security concerns; Costco posts strong sales growth.",
+        "Pluang"
+      ]
+    ],
+    "event_key": "us-f35-parts-hong-kong-ups-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이메일 실수로\n[[F-35 스텔스기 부품]] 중국행",
+      "sub": "배송업체 UPS 착오로 F-35 민감 부품 유출 우려 및 안보 불안",
+      "chips": [
+        {
+          "k": "배송업체",
+          "v": "UPS"
+        }
+      ],
+      "alt": "이메일 실수로 F-35 스텔스기 부품 중국행",
+      "map": {
+        "lat": 22.2818333,
+        "lon": 114.1582831,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n홍콩",
+      "video_only": true,
+      "map": {
+        "lat": 22.2818333,
+        "lon": 114.1582831,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "홍콩"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "UPS 직원의 이메일 누락",
+          "d": "택배업체 UPS 직원이 이메일을 확인하지 못하면서 물류 실수가 발생해 잘못 전달된 것으로 나타났습니다. (블룸버그)"
+        },
+        {
+          "t": "F-35 민감 부품 포함",
+          "d": "배송된 화물에는 미국의 F-35 스텔스 전투기에 들어가는 민감한 부품이 포함돼 있었습니다. (NDTV)"
+        },
+        {
+          "t": "미 국방부 안보 비상",
+          "d": "이번 사태로 안보 우려가 제기되며 미 국방부(펜타곤)가 패닉에 빠졌습니다. (더 위크)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "F-35 부품의 홍콩 오배송",
+        "UPS 직원의 이메일 실수"
+      ],
+      "unconfirmed": [
+        "중국 당국의 부품 확보 여부",
+        "오배송된 부품의 회수 가능 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "NDTV",
+        "Pluang",
+        "THE WEEK",
+        "The Times of India",
+        "2026.10.08 21:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이메일 한 통의 실수로 미국의 F-35 스텔스 전투기 부품이 중국 홍콩으로 배송됐습니다.\n\n· 배송업체 UPS 직원이 이메일을 확인하지 못해 물류 실수가 발생한 것으로 확인됐습니다. (블룸버그)\n· 배송된 화물에는 F-35 전투기에 들어가는 민감한 부품들이 포함돼 있었습니다. (NDTV)\n· 이번 사태로 안보 우려가 제기되며 미 국방부(펜타곤)가 패닉에 빠졌습니다. (더 위크)\n\n민감한 스텔스 전투기 부품이 배송 실수로 중국 측에 전달된 사태를 어떻게 보십니까?\n\n출처: 블룸버그·NDTV·더 위크 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "F-35 스텔스 전투기 부품이 중국으로 잘못 배송됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "블룸버그는 UPS 직원이 이메일을 놓쳐 부품이 홍콩으로 배송됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "화물에는 스텔스기 기술이 담긴 민감한 부품들이 포함되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 사태로 안보 우려가 제기되며 미 국방부는 패닉에 빠졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해당 부품의 회수 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

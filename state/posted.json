@@ -9638,5 +9638,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791454141
+  },
+  {
+    "slug": "2026-10-08-news-us-f35-parts-hong-kong-ups-2026",
+    "event_ms": 1791461341299,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 이메일 한 통의 실수로 미국의 F-35 스텔스 전투기 부품이 중국 홍콩으로 배송됐습니다.\n\n· 배송업체 UPS 직원이 이메일을 확인하지 못해 물류 실수가 발생한 것으로 확인됐습니다. (블룸버그)\n· 배송된 화물에는 F-35 전투기에 들어가는 민감한 부품들이 포함돼 있었습니다. (NDTV)\n· 이번 사태로 안보 우려가 제기되며 미 국방부(펜타곤)가 패닉에 빠졌습니다. (더 위크)\n\n민감한 스텔스 전투기 부품이 배송 실수로 중국 측에 전달된 사태를 어떻게 보십니까?\n\n출처: 블룸버그·NDTV·더 위크 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "기타 사건",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18107721149190833",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeO5pq3GyYP",
+        "kind": "carousel",
+        "at": 1791461391
+      },
+      "instagram": {
+        "id": "18117006269059385",
+        "permalink": "https://www.instagram.com/reel/DeO6AsVirDD/",
+        "kind": "reel",
+        "at": 1791461601
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1791461611
+      },
+      "tiktok": {
+        "id": "7694269034849783061",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694269034849783061",
+        "kind": "video",
+        "at": 1791461733
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791461743
   }
 ]
