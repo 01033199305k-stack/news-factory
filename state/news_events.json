@@ -1825,5 +1825,15 @@
     "at": 1791486578.2365496,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "us_suspends_tech_green_cards",
+    "topic": "美 마이크로소프트 등 영주권 신청 전격 동결",
+    "slug": "2026-10-09-news-us-suspends-tech-green-cards",
+    "cluster": "CBMisAFBVV95cUxNenk2MHZ3TFhxRjBqU1pTRmZvNFRUYy1CSG5rXzNSeGRqS05lLUlIRlBYM3hTQ3d4dUwyVmdtc0Z4cVhqOUdKZmh0VWhjQmxldjZKejR3WGxzOEdXZEJwVUxXN0pOelgzcndVakpzWHFiNHFIWi1aZkM1SjdfNFB1dG9hcGVEZTlYdmg0ckJ1MmtqMVBNUEl1MHJBVkxmSGdJVDlXS2ZENlpQY3FRSzB1NQ",
+    "badge": "breaking",
+    "at": 1791487854.5894544,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

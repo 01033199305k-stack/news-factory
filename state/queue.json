@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "slug": "2026-10-09-news-us-suspends-tech-green-cards",
+    "event_ms": 1791485847000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 美, MS·어도비 영주권 신청 전격 동결\n\n· 미국 정부가 마이크로소프트와 어도비 등의 외국인 노동자 영주권 신청 과정을 일시 동결했습니다 (로이터·CNBC).\n· 전문직 취업 비자를 악용해 사기 행위를 벌였다는 혐의가 적용됐습니다 (폭스비즈니스).\n· 이번 조치는 외국인 노동자의 영주권 취득을 제한하려는 규제에 따른 것입니다 (CNN).\n\n미국 정부의 이민 규제 강화가 글로벌 기술 경쟁력에 어떤 영향을 미칠까요?\n\n출처: 로이터·폭스비즈니스·CNBC·CNN 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18013969730952099",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DePsOI3lA3E",
+        "kind": "carousel",
+        "at": 1791487903
+      },
+      "instagram": {
+        "id": "18129542626791921",
+        "permalink": "https://www.instagram.com/reel/DePsdN1E4z7/",
+        "kind": "reel",
+        "at": 1791488042
+      }
+    },
+    "attempts": {
+      "youtube": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
