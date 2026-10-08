@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-09-news-starbucks-chipotle-takeover-rumor",
+  "topic": "스타벅스의 치폴레 인수 검토 소식에 치폴레 주가 급등",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 03:37 KST",
+  "source": "Axios·Financial Times·Barron's 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMidkFVX3lxTE1GWU0yZFhTREE0NnhtSjZJX29iVW55QUFINkstWGV2NEhaSmVmNXFDYjYxajItQTNOcmFKclBYckRZVm5maFpTRDhTWGRiV3BtMW8tZXhOX3FwcXJ1Sm5TbnBvVDNwZzVGczJuSUVpWl81SnI4Z3fSAXtBVV95cUxNODB1TEZaQ19hRTBLaU9hQU1jTE5kdTVYSHVpdjJyM0VSVTQzNTBZLURlcDVxMTdmMDFJQ0Jtd1Zpa1RucnNVR2FESFQ5WlBockVaRDhPV2F0eGRMZDZzVVAzOU5qMmFmT3NwTHE5eWVfZWR3NnlVSGc1Z2c",
+    "related": [
+      [
+        "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
+        "CNBC"
+      ],
+      [
+        "Starbucks has explored takeover of Chipotle in restaurant megadeal",
+        "Financial Times"
+      ],
+      [
+        "Chipotle Stock Surges After Report About Potential Starbucks Takeover",
+        "Forbes"
+      ],
+      [
+        "Chipotle shares jump on report of Starbucks takeover interest",
+        "Axios"
+      ],
+      [
+        "Does a Chipotle-Starbucks Merger Make Sense?",
+        "Barron's"
+      ]
+    ],
+    "event_key": "starbucks_chipotle_takeover_rumor"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스타벅스의 치폴레 인수 검토 소식에 치폴레 주가 급등",
+      "sub": "대형 외식 기업 간의 인수합병 가능성이 제기되면서 시장의 관심이 집중됐습니다.",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "치폴레"
+        },
+        {
+          "k": "주가",
+          "v": "급등"
+        }
+      ],
+      "alt": "스타벅스의 치폴레 인수 검토 소식에 치폴레 주가 급등",
+      "map": {
+        "lat": 47.6038321,
+        "lon": -122.330062,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n시애틀",
+      "video_only": true,
+      "map": {
+        "lat": 47.6038321,
+        "lon": -122.330062,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "시애틀"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "스타벅스의 인수 모색",
+          "d": "스타벅스가 치폴레 인수를 검토했다는 보도가 나왔습니다 (파이낸셜타임스·CNBC)."
+        },
+        {
+          "t": "주가 반응",
+          "d": "인수합병 보도 이후 치폴레 주가가 큰 폭으로 올랐습니다 (포브스·악시오스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스타벅스의 치폴레 인수 검토 보도 (파이낸셜타임스)",
+        "치폴레 주가 급등 (포브스·악시오스)"
+      ],
+      "unconfirmed": [
+        "실제 인수합병 성사 여부 및 구체적인 조건",
+        "양사 간 공식 입장 발표"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Axios",
+        "Barron's",
+        "CNBC",
+        "Financial Times",
+        "Forbes",
+        "2026.10.09 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스타벅스의 치폴레 인수 검토 소식에 치폴레 주가 급등\n\n· 스타벅스가 치폴레 인수를 탐색했다는 보도가 나왔습니다 (파이낸셜타임스·CNBC)\n· 메가딜 가능성이 제기되면서 치폴레 주가가 크게 올랐습니다 (포브스·악시오스)\n\n어떻게 보십니까? 글로벌 외식 대기업 간의 초대형 인수합병에 대해 의견을 남겨주세요.\n\n출처: CNBC·파이낸셜타임스·포브스·악시오스·배런스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스타벅스가 치폴레 인수를 검토했다는 보도가 나오면서 치폴레 주가가 급등했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이낸셜타임스는 스타벅스가 대형 외식 기업 인수를 모색했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 인수합병으로 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

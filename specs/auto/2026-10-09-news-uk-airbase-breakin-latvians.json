@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-09-news-uk-airbase-breakin-latvians",
+  "topic": "미군이 사용하는 영국 공군기지 침입한 라트비아인 2명 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 02:17 KST",
+  "source": "BBC·France 24·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxNT29obFFfbmdtbjduSC1qSVFJcnMzbnpteDM1SHdzVTh0WWtvQktyM19BMS1nbnotRU9xT0k4T29FRDBUWGd2WjlIX21rOWR6SXBCalJsOWlyZEVPOHNPZnlEczBGVjZMWVRjLTdJTmRxWmVqc0QwQVA5LUJNTWllZnEyaWtyNnVfUldrWTRSUlpKV3dLb05BNlVLX3I1ZkdWMW80eUJZMG1RNFI3dDQxek84bG40TG9wY051OQ",
+    "related": [
+      [
+        "Two men arrested after breaking into UK airbase used by US, counter-terrorism police say",
+        "Reuters"
+      ],
+      [
+        "Two Latvian men arrested on suspicion of trespass at RAF base",
+        "BBC"
+      ],
+      [
+        "Two Latvians Arrested After Break-In at U.K. Military Base",
+        "WSJ"
+      ],
+      [
+        "Two Latvian men arrested at UK base housing US and NATO intelligence hubs",
+        "France 24"
+      ],
+      [
+        "2 Latvians Arrested After Breaching Perimeter of British Air Base Used by U.S.",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "uk_airbase_breakin_latvians"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미군이 사용하는 영국 공군기지 침입한 라트비아인 2명 체포",
+      "sub": "영국 대테러 경찰이 기지 침입 혐의로 라트비아 국적 남성 2명을 붙잡았습니다.",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "2명"
+        },
+        {
+          "k": "국적",
+          "v": "라트비아"
+        }
+      ],
+      "alt": "미군이 사용하는 영국 공군기지 침입한 라트비아인 2명 체포",
+      "map": {
+        "lat": 52.404201,
+        "lon": 0.5565787,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n영국 공군기지",
+      "video_only": true,
+      "map": {
+        "lat": 52.404201,
+        "lon": 0.5565787,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "영국 공군기지"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미군 및 나토 정보 시설",
+          "d": "체포된 장소는 미군과 나토 정보 허브가 있는 영국 공군기지입니다 (로이터·BBC·프랑스24·뉴욕타임스)."
+        },
+        {
+          "t": "대테러 경찰 수사",
+          "d": "영국 대테러 경찰이 기지를 침입한 2명의 남성을 구금하고 수사를 진행하고 있습니다 (로이터·WSJ·뉴욕타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "라트비아 국적 남성 2명 체포 (로이터·BBC)",
+        "미군·나토 정보 시설이 있는 영국 공군기지 (프랑스24·뉴욕타임스)"
+      ],
+      "unconfirmed": [
+        "침입 동기 및 구체적인 범행 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "France 24",
+        "Reuters",
+        "The New York Times",
+        "WSJ",
+        "2026.10.09 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미군이 사용하는 영국 공군기지 침입한 라트비아인 2명 체포\n\n· 영국 대테러 경찰이 기지에 침입한 2명의 남성을 붙잡아 조사하고 있습니다 (로이터·WSJ)\n· 해당 기지는 미군과 나토의 정보 허브가 위치한 곳입니다 (프랑스24·뉴욕타임스)\n\n출처: 로이터·BBC·WSJ·프랑스24·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미군이 사용하는 영국의 공군기지에 침입한 라트비아인 2명이 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 체포된 장소가 미군과 나토의 정보 시설이 있는 곳이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "영국 대테러 경찰이 이들을 상대로 조사를 진행하고 있습니다.",
+      "card": "check"
+    }
+  ]
+}

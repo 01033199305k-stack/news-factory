@@ -1,1 +1,96 @@
-[]
+[
+  {
+    "slug": "2026-10-09-news-uk-airbase-breakin-latvians",
+    "event_ms": 1791479849000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미군이 사용하는 영국 공군기지 침입한 라트비아인 2명 체포\n\n· 영국 대테러 경찰이 기지에 침입한 2명의 남성을 붙잡아 조사하고 있습니다 (로이터·WSJ)\n· 해당 기지는 미군과 나토의 정보 허브가 위치한 곳입니다 (프랑스24·뉴욕타임스)\n\n출처: 로이터·BBC·WSJ·프랑스24·뉴욕타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "영국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18251589391308306",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DePwaV5mtZF",
+        "kind": "carousel",
+        "at": 1791490099
+      },
+      "instagram": {
+        "id": "18005443524003251",
+        "permalink": "https://www.instagram.com/reel/DePwxUUDfDT/",
+        "kind": "reel",
+        "at": 1791490306
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1791490358
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-09-news-starbucks-chipotle-takeover-rumor",
+    "event_ms": 1791484666000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스타벅스의 치폴레 인수 검토 소식에 치폴레 주가 급등\n\n· 스타벅스가 치폴레 인수를 탐색했다는 보도가 나왔습니다 (파이낸셜타임스·CNBC)\n· 메가딜 가능성이 제기되면서 치폴레 주가가 크게 올랐습니다 (포브스·악시오스)\n\n어떻게 보십니까? 글로벌 외식 대기업 간의 초대형 인수합병에 대해 의견을 남겨주세요.\n\n출처: CNBC·파이낸셜타임스·포브스·악시오스·배런스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18077753642427481",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DePweenGiwJ",
+        "kind": "carousel",
+        "at": 1791490134
+      },
+      "instagram": {
+        "id": "17989245591077604",
+        "permalink": "https://www.instagram.com/reel/DePw2neiosM/",
+        "kind": "reel",
+        "at": 1791490348
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791490358
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
