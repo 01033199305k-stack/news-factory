@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-08-news-hurricane-isaias-florida-state-of-emergency",
+  "topic": "대서양 첫 허리케인 ‘이사이아스’ 북상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 10:36 KST",
+  "source": "The Washington Post·Yahoo News·FOX 5 Atlanta 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxQSmhvMEhCMEROLWg5bmNKZjIwZlBzWHZvVFM5cUtpUFZzZGFUcDg3Z29Hc20xZE9QS05WZGxPc0pHcHFLelhJbUVzdTEtUzIxTXFCc3FvdjA3Sy10Mk5PV1RoY3k3U1NRU3dNQzVWbG5MbTNzWTNSSzRMMmdmNnl2TllpMWc0WmpDaVlrN1F1dXMwT2dVQ0dpUEwtMFh3M0FSeFl2OEFaSGo",
+    "related": [
+      [
+        "Tropical Storm Isaias tracker: Map and projected storm path",
+        "The Washington Post"
+      ],
+      [
+        "Gov. DeSantis declares state of emergency for 25 Florida counties due to Hurricane Isaias",
+        "WESH"
+      ],
+      [
+        "Isaias becomes first hurricane of 2026 Atlantic season, threatens Gulf Coast",
+        "Yahoo"
+      ],
+      [
+        "Isaias rapidly strengthens as Central Alabama forecast calls for 40-50 mph gusts, flooding",
+        "WBMA"
+      ],
+      [
+        "Isaias tracking toward Gulf Coast: Atlanta weekend rain chances rise to 90%",
+        "FOX 5 Atlanta"
+      ]
+    ],
+    "event_key": "hurricane-isaias-florida-state-of-emergency"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "대서양 첫 허리케인\n[[‘이사이아스’]] 북상",
+      "sub": "미국 플로리다주 25개 카운티 비상사태 선포",
+      "chips": [
+        {
+          "k": "비상사태",
+          "v": "25개 카운티"
+        }
+      ],
+      "alt": "대서양 첫 허리케인 ‘이사이아스’ 북상",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다",
+      "video_only": true,
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "올해 대서양 첫 허리케인",
+          "d": "이사이아스가 발달해 2026년 대서양 시즌 첫 허리케인이 되었습니다 (Yahoo)."
+        },
+        {
+          "t": "플로리다 비상사태",
+          "d": "플로리다주는 허리케인 위협에 대응해 25개 카운티에 비상사태를 선포했습니다 (WESH)."
+        },
+        {
+          "t": "돌풍 및 홍수 우려",
+          "d": "앨라배마 지역에 시속 40-50마일의 돌풍과 홍수가 예보되었습니다 (WBMA)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "2026년 대서양 첫 허리케인 발달",
+        "플로리다주 25개 카운티 비상사태 선포"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 본토 상륙 지점 및 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "FOX 5 Atlanta",
+        "The Washington Post",
+        "WBMA",
+        "WESH",
+        "Yahoo",
+        "2026.10.08 14:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 대서양 첫 허리케인 '이사이아스' 북상, 미국 플로리다 비상사태 선포\n\n· 이사이아스가 세력을 키우며 대서양의 첫 허리케인으로 발달했습니다 (Yahoo).\n· 플로리다주는 25개 카운티에 비상사태를 선포했습니다 (WESH).\n· 앨라배마 등 인근 지역에 돌풍과 홍수가 예보되었습니다 (WBMA).\n\n출처: The Washington Post·WESH·Yahoo·WBMA·FOX 5 Atlanta 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "대서양 첫 허리케인 이사이아스가 북상하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 플로리다주는 25개 카운티에 비상사태를 선포했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "앨라배마 지역 등지에는 돌풍과 함께 홍수가 예보되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

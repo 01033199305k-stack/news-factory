@@ -1735,5 +1735,15 @@
     "at": 1791428930.9805388,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "hurricane-isaias-florida-state-of-emergency",
+    "topic": "대서양 첫 허리케인 ‘이사이아스’ 북상",
+    "slug": "2026-10-08-news-hurricane-isaias-florida-state-of-emergency",
+    "cluster": "CBMiqAFBVV95cUxQSmhvMEhCMEROLWg5bmNKZjIwZlBzWHZvVFM5cUtpUFZzZGFUcDg3Z29Hc20xZE9QS05WZGxPc0pHcHFLelhJbUVzdTEtUzIxTXFCc3FvdjA3Sy10Mk5PV1RoY3k3U1NRU3dNQzVWbG5MbTNzWTNSSzRMMmdmNnl2TllpMWc0WmpDaVlrN1F1dXMwT2dVQ0dpUEwtMFh3M0FSeFl2OEFaSGo",
+    "badge": "brief",
+    "at": 1791436331.2797322,
+    "country": "미국",
+    "category": "재난"
   }
 ]

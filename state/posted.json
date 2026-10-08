@@ -9310,5 +9310,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791429933
+  },
+  {
+    "slug": "2026-10-08-news-hurricane-isaias-florida-state-of-emergency",
+    "event_ms": 1791436331279,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 대서양 첫 허리케인 '이사이아스' 북상, 미국 플로리다 비상사태 선포\n\n· 이사이아스가 세력을 키우며 대서양의 첫 허리케인으로 발달했습니다 (Yahoo).\n· 플로리다주는 25개 카운티에 비상사태를 선포했습니다 (WESH).\n· 앨라배마 등 인근 지역에 돌풍과 홍수가 예보되었습니다 (WBMA).\n\n출처: The Washington Post·WESH·Yahoo·WBMA·FOX 5 Atlanta 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18125073457857154",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeOJ8hrFCTt",
+        "kind": "carousel",
+        "at": 1791436388
+      },
+      "instagram": {
+        "id": "18124446007876523",
+        "permalink": "https://www.instagram.com/reel/DeOKQ-wjvIU/",
+        "kind": "reel",
+        "at": 1791436562
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1791436572
+      },
+      "tiktok": {
+        "id": "7694161491766889749",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694161491766889749",
+        "kind": "video",
+        "at": 1791436694
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791436704
   }
 ]
