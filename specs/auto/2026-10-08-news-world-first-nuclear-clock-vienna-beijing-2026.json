@@ -1,0 +1,138 @@
+{
+  "slug": "2026-10-08-news-world-first-nuclear-clock-vienna-beijing-2026",
+  "topic": "빈·베이징 연구진 세계 첫 핵시계 가동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.08 11:52 KST",
+  "source": "Reuters·The New York Times·Nature 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxQTEdDTHFQam5OWW41dGdVdGh6Sy1EME5ObGdvdWNYc1RIb3RsQUFPWGRlQlhHSms1NmxQQVRCbzBBOVNYXzhObjc5V1g5TmttdUN6ZDFlTTdka2FOdkc2ZlMxX29NQ1hfSFBOem5wRzlBaEhLS0dmTHhKNXFRYzBFTnh4cWRvcXM",
+    "related": [
+      [
+        "In Vienna and Beijing, the First Nuclear Clocks Begin to Tick",
+        "The New York Times"
+      ],
+      [
+        "A thorium-229 optical nuclear clock with feedback loop",
+        "Nature"
+      ],
+      [
+        "Scientists in Vienna and Beijing create world's first nuclear clocks",
+        "Reuters"
+      ],
+      [
+        "The world’s first nuclear clocks are ticking",
+        "Popular Science"
+      ],
+      [
+        "The first stand-alone nuclear clock is ticking in Vienna",
+        "Phys.org"
+      ]
+    ],
+    "event_key": "world-first-nuclear-clock-vienna-beijing-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "빈·베이징 연구진\n세계 첫 [[핵시계]] 가동",
+      "sub": "토륨-229 기반 첫 독립형 핵시계 작동",
+      "chips": [
+        {
+          "k": "개발지",
+          "v": "빈·베이징"
+        },
+        {
+          "k": "핵심원소",
+          "v": "토륨-229"
+        }
+      ],
+      "alt": "빈·베이징 연구진 세계 첫 핵시계 가동",
+      "map": {
+        "lat": 48.2083537,
+        "lon": 16.3725042,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "오스트리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "오스트리아\n빈",
+      "video_only": true,
+      "map": {
+        "lat": 48.2083537,
+        "lon": 16.3725042,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "빈"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "토륨-229 원자핵 활용",
+          "d": "국제 학술지 네이처는 피드백 루프를 갖춘 토륨-229 광학 핵시계를 다뤘습니다."
+        },
+        {
+          "t": "독립형 핵시계 작동",
+          "d": "피즈오알지는 빈에서 첫 독립형 핵시계가 작동 중이라고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "빈·베이징 연구팀 핵시계 개발 (로이터)",
+        "토륨-229 기반 광학 핵시계 구현 (네이처)"
+      ],
+      "unconfirmed": [
+        "상용화 및 실제 산업 적용 시점",
+        "국제 표준시 채택 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Nature",
+        "Phys.org",
+        "Popular Science",
+        "Reuters",
+        "The New York Times",
+        "2026.10.08 16:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 세계 최초의 핵시계가 빈과 베이징에서 가동을 시작했습니다.\n\n· 빈과 베이징 연구팀이 세계 첫 핵시계를 제작했습니다 (로이터·NYT).\n· 네이처는 토륨-229를 이용한 광학 핵시계 연구를 실었습니다 (네이처).\n· 빈에서는 첫 독립형 핵시계가 작동 중입니다 (피즈오알지).\n\n핵시계 기술이 미래 과학과 산업 표준에 어떤 변화를 가져올까요?\n출처: 로이터·뉴욕타임스·네이처 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "세계 최초의 핵시계가 가동을 시작했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "빈과 베이징 연구진이 개발했다고 로이터가 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "학술지 네이처는 토륨-229를 이용한 광학 핵시계라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "상용화 시점과 기술의 표준 채택 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

@@ -9363,5 +9363,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791436704
+  },
+  {
+    "slug": "2026-10-08-news-world-first-nuclear-clock-vienna-beijing-2026",
+    "event_ms": 1791443618137,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 세계 최초의 핵시계가 빈과 베이징에서 가동을 시작했습니다.\n\n· 빈과 베이징 연구팀이 세계 첫 핵시계를 제작했습니다 (로이터·NYT).\n· 네이처는 토륨-229를 이용한 광학 핵시계 연구를 실었습니다 (네이처).\n· 빈에서는 첫 독립형 핵시계가 작동 중입니다 (피즈오알지).\n\n핵시계 기술이 미래 과학과 산업 표준에 어떤 변화를 가져올까요?\n출처: 로이터·뉴욕타임스·네이처 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "오스트리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18076568069712050",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeOX19jmyb2",
+        "kind": "carousel",
+        "at": 1791443660
+      },
+      "instagram": {
+        "id": "18026937026877630",
+        "permalink": "https://www.instagram.com/reel/DeOYEASjs99/",
+        "kind": "reel",
+        "at": 1791443798
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791443808
+      },
+      "tiktok": {
+        "id": "7694192217581227270",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694192217581227270",
+        "kind": "video",
+        "at": 1791443930
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791443940
   }
 ]
