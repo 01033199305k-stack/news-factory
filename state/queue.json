@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-10-09-news-lviv-train-collision",
-    "event_ms": 1791494027000,
-    "category": "사고",
+    "slug": "2026-10-09-news-singapore-malaysia-indonesia-wildfire-haze-2026",
+    "event_ms": 1791507892000,
+    "category": "재난",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 우크라이나 르비우서 열차 충돌로 8명 부상\n\n· 열차가 충돌하는 사고 발생\n\n출처: 키이우 인디펜던트 보도 종합",
+    "text": "[속보] 인도네시아발 독성 산불 연무가 싱가포르와 말레이시아를 덮쳤습니다.\n\n· 인도네시아에서 수개월간 이어진 산불로 대규모 독성 연무가 발생했습니다 (BBC)\n· 심각한 대기 오염으로 인해 말레이시아 일부 지역의 학교들에 휴교령이 내려졌습니다 (블룸버그)\n· 싱가포르는 미세먼지 농도가 급상승했으며, 곧 개최될 F1 그랑프리 행사 축소 우려가 제기됐습니다 (로이터·CNA)\n\n출처: BBC·로이터·블룸버그·CNA 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
-      "사고",
-      "우크라이나"
+      "재난",
+      "싱가포르"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,24 +25,24 @@
     ],
     "done": {
       "threads": {
-        "id": "18118179295961949",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeQL_3UDtow",
+        "id": "18096538724450088",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeQaeMkDTYr",
         "kind": "carousel",
-        "at": 1791504560
+        "at": 1791512156
       },
       "instagram": {
-        "id": "18124731799916585",
-        "permalink": "https://www.instagram.com/reel/DeQMWXAAcwK/",
+        "id": "18368390026245208",
+        "permalink": "https://www.instagram.com/reel/DeQavzBDGYT/",
         "kind": "reel",
-        "at": 1791504766
+        "at": 1791512314
       },
       "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1791504776
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1791512324
       }
     },
     "attempts": {
-      "tiktok": 2
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

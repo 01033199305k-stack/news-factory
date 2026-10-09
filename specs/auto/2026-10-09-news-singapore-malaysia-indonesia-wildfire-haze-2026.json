@@ -1,0 +1,147 @@
+{
+  "slug": "2026-10-09-news-singapore-malaysia-indonesia-wildfire-haze-2026",
+  "topic": "인니 산불 독성 연무 싱가포르·말레이 강타",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 10:04 KST",
+  "source": "BBC·Bloomberg.com·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTFBVeFplcDBzMGstZHoxdThRNXJKdkdwbkk3ZU9zZ2dOSXM5X25GVnc0NTU4cnNsTXVlRDJNWUREaGZxS0kzd1Zob0hYYVFCUzJnSUpVelhB",
+    "related": [
+      [
+        "Singapore and Malaysia shrouded in toxic haze from months-long Indonesia wildfires",
+        "BBC"
+      ],
+      [
+        "Singapore Grand Prix entertainment may be curbed if haze worsens, FIA says",
+        "Reuters"
+      ],
+      [
+        "Singapore gears up for smog-choked Grand Prix",
+        "Financial Times"
+      ],
+      [
+        "1-hour PM2.5 back in elevated range in west after rising to high band",
+        "CNA"
+      ],
+      [
+        "Wildfire Haze Shuts Malaysia Schools and Looms Over Singapore F1",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "singapore-malaysia-indonesia-wildfire-haze-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인니 산불 독성 연무\n[[싱가포르·말레이]] 강타",
+      "sub": "말레이시아는 일부 휴교령, F1 대회 개최도 비상",
+      "chips": [
+        {
+          "k": "원인",
+          "v": "인도네시아 산불"
+        },
+        {
+          "k": "대응",
+          "v": "일부 휴교령"
+        }
+      ],
+      "alt": "인니 산불 독성 연무 싱가포르·말레이 강타",
+      "map": {
+        "lat": 1.357107,
+        "lon": 103.8194992,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "싱가포르"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "싱가포르",
+      "video_only": true,
+      "map": {
+        "lat": 1.357107,
+        "lon": 103.8194992,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "싱가포르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수개월째 산불 지속",
+          "d": "인도네시아에서 수개월 동안 지속된 산불로 대규모 독성 연무가 발생했습니다 (BBC)."
+        },
+        {
+          "t": "말레이시아 일부 휴교",
+          "d": "심각한 공기 오염으로 인해 말레이시아 일부 지역의 학교들에 휴교령이 내려졌습니다 (블룸버그)."
+        },
+        {
+          "t": "F1 그랑프리 비상",
+          "d": "미세먼지 농도가 급상승하면서 싱가포르 F1 행사가 축소될 우려가 제기됐습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인도네시아발 산불 연무",
+        "말레이시아 일부 학교 휴교",
+        "싱가포르 대기 오염 심화"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bloomberg.com",
+        "CNA",
+        "Financial Times",
+        "Reuters",
+        "2026.10.09 11:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도네시아발 독성 산불 연무가 싱가포르와 말레이시아를 덮쳤습니다.\n\n· 인도네시아에서 수개월간 이어진 산불로 대규모 독성 연무가 발생했습니다 (BBC)\n· 심각한 대기 오염으로 인해 말레이시아 일부 지역의 학교들에 휴교령이 내려졌습니다 (블룸버그)\n· 싱가포르는 미세먼지 농도가 급상승했으며, 곧 개최될 F1 그랑프리 행사 축소 우려가 제기됐습니다 (로이터·CNA)\n\n출처: BBC·로이터·블룸버그·CNA 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도네시아 산불 독성 연무가 싱가포르와 말레이시아를 덮쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "수개월째 이어진 산불로 대기질이 최악으로 치달았습니다.",
+      "card": "map"
+    },
+    {
+      "text": "블룸버그는 공기 오염으로 말레이시아 일부 학교가 휴교했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "싱가포르도 대기 오염으로 F1 그랑프리 행사가 축소될 위기입니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

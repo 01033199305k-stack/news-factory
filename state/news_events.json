@@ -1895,5 +1895,15 @@
     "at": 1791504470.0399616,
     "country": "우크라이나",
     "category": "사고"
+  },
+  {
+    "event_key": "singapore-malaysia-indonesia-wildfire-haze-2026",
+    "topic": "인니 산불 독성 연무 싱가포르·말레이 강타",
+    "slug": "2026-10-09-news-singapore-malaysia-indonesia-wildfire-haze-2026",
+    "cluster": "CBMiVkFVX3lxTFBVeFplcDBzMGstZHoxdThRNXJKdkdwbkk3ZU9zZ2dOSXM5X25GVnc0NTU4cnNsTXVlRDJNWUREaGZxS0kzd1Zob0hYYVFCUzJnSUpVelhB",
+    "badge": "breaking",
+    "at": 1791512098.1079834,
+    "country": "싱가포르",
+    "category": "재난"
   }
 ]
