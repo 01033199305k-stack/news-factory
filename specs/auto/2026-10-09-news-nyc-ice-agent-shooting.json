@@ -1,0 +1,126 @@
+{
+  "slug": "2026-10-09-news-nyc-ice-agent-shooting",
+  "topic": "미 뉴욕서 연방요원 총격에 1명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 06:36 KST",
+  "source": "CNN·NBC News·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiX0FVX3lxTE5uQ2NpUzBGOTB4TElDUHpFcDdBMmxEWmtsMjdSdTFmVzhMQkY0Z1czb2Q4ZWhuMjhEZHFxRk94a2lvUnhaZ0J2TGJlcUdpMWVJOWM1MGZxam13d0JlSjU4",
+    "related": [
+      [
+        "Person shot during encounter with ICE agents in New York City, source says",
+        "CNN"
+      ],
+      [
+        "Federal Agents Shoot Man in New York City, N.Y.P.D Says",
+        "The New York Times"
+      ],
+      [
+        "Federal agents involved in a shooting that wounds a person in New York, police say",
+        "MPR News"
+      ],
+      [
+        "Person shot by ICE officers in New York City",
+        "NBC News"
+      ],
+      [
+        "ICE agents nearly hit 5-year-old boy as they open fire on man in NYC clash",
+        "New York Daily News"
+      ]
+    ],
+    "event_key": "nyc_ice_agent_shooting"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 뉴욕서 연방요원 총격에 [[1명 부상]]",
+      "sub": "이민세관단속국 요원 연루 사건 발생",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "1명"
+        }
+      ],
+      "alt": "미 뉴욕서 연방요원 총격에 1명 부상",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "ICE 연루",
+          "d": "미국 이민세관단속국 요원들이 연루된 총격 사건이라고 뉴욕타임스가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 뉴욕 총격 사건",
+        "1명 부상"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 부상자 상태와 사건 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "MPR News",
+        "NBC News",
+        "New York Daily News",
+        "The New York Times",
+        "2026.10.09 09:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 뉴욕서 연방요원 총격에 1명 부상\n\n· 이민세관단속국 요원들이 연루된 총격 사건 발생 (뉴욕타임스·CNN)\n\n출처: 뉴욕타임스·CNN·NBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 뉴욕에서 연방요원의 총격으로 1명이 부상당하는 사건이 일어났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스는 이민세관단속국 요원들이 연루된 총격이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사건 경위와 부상자의 상태는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

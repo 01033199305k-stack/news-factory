@@ -1,0 +1,125 @@
+{
+  "slug": "2026-10-09-news-lviv-train-collision",
+  "topic": "우크라이나 르비우서 열차 충돌로 8명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 06:13 KST",
+  "source": "The Kyiv Independent·UA.NEWS·Ukrinform 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMilAFBVV95cUxQNmkwZUJrT1VYZXM4WU5LYjBPSFdBX2xLUkZrMklsbU1PSktZWGRCa1JDUWdCWkViMnFZcGVvZVhmT0RPQUhVSk0yOXFvWFhVMjlya29VZDY2WG5kbk02ZU56Y0pxN3VGcW1MUURPODE4ZDk3Ymx3UU5MSEIta19teVhhY1JBWHZqeU5TN0FCYmVReF8x",
+    "related": [
+      [
+        "Two trains collide in Lviv, injuring 8",
+        "The Kyiv Independent"
+      ],
+      [
+        "Ukrzaliznytsia confirms collision of Lviv — Sokal train with electric locomotive: injured reported",
+        "АНТИКОР"
+      ],
+      [
+        "Diesel train collides with electric locomotive in Lviv, casualties reported",
+        "Ukrinform"
+      ],
+      [
+        "Two trains collided in the Lviv region: there are preliminary reports of casualties • ANTIKOR portal",
+        "АНТИКОР"
+      ],
+      [
+        "A passenger train and an electric locomotive collided in the Lviv region; there are casualties",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "lviv_train_collision"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 르비우서 열차 충돌로 8명 부상",
+      "sub": "디젤 열차와 전기기관차 충돌",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "8명"
+        }
+      ],
+      "alt": "우크라이나 르비우서 열차 충돌로 8명 부상",
+      "map": {
+        "lat": 49.841952,
+        "lon": 24.0315921,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n르비우",
+      "video_only": true,
+      "map": {
+        "lat": 49.841952,
+        "lon": 24.0315921,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "르비우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "열차 충돌",
+          "d": "여객열차와 전기기관차가 충돌해 사상자가 발생했다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 르비우 열차 충돌",
+        "8명 부상"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 사고 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "The Kyiv Independent",
+        "UA.NEWS",
+        "Ukrinform",
+        "АНТИКОР",
+        "2026.10.09 09:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 르비우서 열차 충돌로 8명 부상\n\n· 열차가 충돌하는 사고 발생\n\n출처: 키이우 인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 르비우 지역에서 열차가 충돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "키이우 인디펜던트는 열차 충돌로 8명이 부상당했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ]
+}

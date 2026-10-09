@@ -1875,5 +1875,25 @@
     "at": 1791501020.7008605,
     "country": "스웨덴",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "nyc_ice_agent_shooting",
+    "topic": "미 뉴욕서 연방요원 총격에 1명 부상",
+    "slug": "2026-10-09-news-nyc-ice-agent-shooting",
+    "cluster": "CBMiX0FVX3lxTE5uQ2NpUzBGOTB4TElDUHpFcDdBMmxEWmtsMjdSdTFmVzhMQkY0Z1czb2Q4ZWhuMjhEZHFxRk94a2lvUnhaZ0J2TGJlcUdpMWVJOWM1MGZxam13d0JlSjU4",
+    "badge": "breaking",
+    "at": 1791504458.7959595,
+    "country": "미국",
+    "category": "총격·테러"
+  },
+  {
+    "event_key": "lviv_train_collision",
+    "topic": "우크라이나 르비우서 열차 충돌로 8명 부상",
+    "slug": "2026-10-09-news-lviv-train-collision",
+    "cluster": "CBMilAFBVV95cUxQNmkwZUJrT1VYZXM4WU5LYjBPSFdBX2xLUkZrMklsbU1PSktZWGRCa1JDUWdCWkViMnFZcGVvZVhmT0RPQUhVSk0yOXFvWFhVMjlya29VZDY2WG5kbk02ZU56Y0pxN3VGcW1MUURPODE4ZDk3Ymx3UU5MSEIta19teVhhY1JBWHZqeU5TN0FCYmVReF8x",
+    "badge": "breaking",
+    "at": 1791504470.0399616,
+    "country": "우크라이나",
+    "category": "사고"
   }
 ]

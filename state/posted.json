@@ -10185,5 +10185,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791501384
+  },
+  {
+    "slug": "2026-10-09-news-nyc-ice-agent-shooting",
+    "event_ms": 1791495417000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 뉴욕서 연방요원 총격에 1명 부상\n\n· 이민세관단속국 요원들이 연루된 총격 사건 발생 (뉴욕타임스·CNN)\n\n출처: 뉴욕타임스·CNN·NBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18118149518053017",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeQL7AkDgSS",
+        "kind": "carousel",
+        "at": 1791504526
+      },
+      "instagram": {
+        "id": "18123124432910414",
+        "permalink": "https://www.instagram.com/reel/DeQMRs8jwMc/",
+        "kind": "reel",
+        "at": 1791504723
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1791504776
+      },
+      "tiktok": {
+        "id": "6ac831897d9f9f33011c8af4",
+        "permalink": "",
+        "kind": "video",
+        "at": 1791504977
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791504987
   }
 ]
