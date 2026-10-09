@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-10-news-canada-assisted-dying-mental-illness-2026",
+  "topic": "캐나다, 정신 질환자 조력 사망 보류",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 01:01 KST",
+  "source": "BBC·Reuters·National Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiekFVX3lxTE5CaHBlTzZyV0NnWHRUTlI2bnJmZWxSd1MtWnVncDR4d3ByRm9IdE10MTNGLVNLc3o0Wll0c3pKY3lTMm5SZUlzMjVmeHB6MDRqdzdtXzQySU11QUtqRnRjSGNtbnczLUNrRE9UdkhkT3MxOWVhMktxMUVR",
+    "related": [
+      [
+        "Canada Makes It Harder to Die, but There’s a Catch",
+        "The Free Press"
+      ],
+      [
+        "Why Ottawa plans to allow MAID for people incapable of consenting moments before death",
+        "National Post"
+      ],
+      [
+        "Canada suspends plans to expand assisted dying to people with mental illness",
+        "BBC"
+      ],
+      [
+        "Canada to exclude mental illness as sole reason for euthanasia",
+        "Reuters"
+      ],
+      [
+        "Canada to indefinitely bar assisted dying for people whose sole condition is mental illness",
+        "Spectrum News NY1"
+      ]
+    ],
+    "event_key": "canada_assisted_dying_mental_illness_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "캐나다, [[정신 질환자]]\n조력 사망 보류",
+      "sub": "정신 질환만을 단독 사유로 하는 안락사를 무기한 제외하기로 했습니다.",
+      "chips": [
+        {
+          "k": "조력 사망",
+          "v": "허용 보류"
+        }
+      ],
+      "alt": "캐나다, 정신 질환자 조력 사망 보류",
+      "map": {
+        "lat": 45.4208777,
+        "lon": -75.6901106,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "캐나다"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "캐나다\n오타와",
+      "video_only": true,
+      "map": {
+        "lat": 45.4208777,
+        "lon": -75.6901106,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오타와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "안락사 범위 확대 보류",
+          "d": "캐나다는 정신 질환만을 유일한 원인으로 하는 조력 사망을 무기한 배제하거나 관련 계획을 보류하기로 했습니다 (BBC·로이터·Spectrum News)."
+        },
+        {
+          "t": "동의 능력 상실 대비 계획",
+          "d": "다만 사망 직전 동의 능력이 없는 사람들을 대상으로 조력 사망을 허용하려는 계획도 논의되고 있습니다 (내셔널 포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "정신 질환 단독 사유 조력 사망의 배제 및 무기한 보류"
+      ],
+      "unconfirmed": [
+        "세부 시행 규칙 마련 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "National Post",
+        "Reuters",
+        "Spectrum News NY1",
+        "The Free Press",
+        "2026.10.10 01:22 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 캐나다가 정신 질환자의 조력 사망 허용 계획을 보류하고 대상에서 무기한 배제하기로 했습니다.\n\n· 캐나다는 정신 질환자를 대상으로 한 조력 사망 확대 계획을 보류했습니다 (BBC)\n· 정신 질환만을 유일한 원인으로 하는 안락사는 무기한 제외될 예정입니다 (로이터·Spectrum News)\n· 사망 직전 동의 능력이 없는 사람들에게 조력 사망을 허용할 계획도 함께 전해졌습니다 (내셔널 포스트)\n\n정신 질환자의 조력 사망 허용을 보류하기로 한 캐나다의 결정, 여러분은 어떻게 생각하십니까?\n\n출처: BBC·로이터·내셔널 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "캐나다가 정신 질환자에 대한 조력 사망 확대 계획을 보류했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "정신 질환만을 유일한 원인으로 하는 안락사는 대상에서 무기한 제외될 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "다만 사망 직전 동의할 능력이 없는 사람들에게 조력 사망을 허용하려는 계획도 마련 중입니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 조력 사망 관련 계획에 대해 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[정신 질환자 안락사]]\n무기한 보류한 이유",
+  "broll": [
+    "hospital room",
+    "medical equipment"
+  ],
+  "place_en": "Ottawa, Canada"
+}

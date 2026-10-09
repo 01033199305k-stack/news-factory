@@ -10780,5 +10780,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791562716
+  },
+  {
+    "slug": "2026-10-10-news-canada-assisted-dying-mental-illness-2026",
+    "event_ms": 1791561674000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 캐나다가 정신 질환자의 조력 사망 허용 계획을 보류하고 대상에서 무기한 배제하기로 했습니다.\n\n· 캐나다는 정신 질환자를 대상으로 한 조력 사망 확대 계획을 보류했습니다 (BBC)\n· 정신 질환만을 유일한 원인으로 하는 안락사는 무기한 제외될 예정입니다 (로이터·Spectrum News)\n· 사망 직전 동의 능력이 없는 사람들에게 조력 사망을 허용할 계획도 함께 전해졌습니다 (내셔널 포스트)\n\n정신 질환자의 조력 사망 허용을 보류하기로 한 캐나다의 결정, 여러분은 어떻게 생각하십니까?\n\n출처: BBC·로이터·내셔널 포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "캐나다"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17902684161656605",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeR7e5XoAOe",
+        "kind": "carousel",
+        "at": 1791563016
+      },
+      "instagram": {
+        "id": "18109600112191511",
+        "permalink": "https://www.instagram.com/reel/DeR7xSdCcMf/",
+        "kind": "reel",
+        "at": 1791563183
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791563193
+      },
+      "tiktok": {
+        "id": "7694705339840597266",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694705339840597266",
+        "kind": "video",
+        "at": 1791563315
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791563325
   }
 ]
