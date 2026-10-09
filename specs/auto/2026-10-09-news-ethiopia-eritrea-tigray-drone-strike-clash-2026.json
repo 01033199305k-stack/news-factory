@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-09-news-ethiopia-eritrea-tigray-drone-strike-clash-2026",
+  "topic": "에티오피아, 티그라이 진입한 에리트레아군에 드론 공격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 18:23 KST",
+  "source": "BBC·Reuters·The Economist 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiugFBVV95cUxORGFWemFVVDlKWFhiNWRtNXFCTmNyWGhINDBId0VUbUk4bGgta3dwOUlUNXZUZ3pSTmFocG5KY2dkYWRoRktkbDdpX0hiY0w2Si1kWkhfUkhPdHRlX1M1emZVQzBnbkVNU2paNU01RmdiWDZvTHhDaXBqVHN2ZFhud05NeUxJajlJeHVrSDNTeVpFcjA2RXU0THFSeWZDOFJJT0s3UlhHclFKLWJIYmxhdXpTaGcwYm5GWHc",
+    "related": [
+      [
+        "Ethiopia says it must defend itself against Eritrea's 'all-out invasion'",
+        "Reuters"
+      ],
+      [
+        "Ethiopia and Eritrea are on the brink of another conflict",
+        "The Economist"
+      ],
+      [
+        "Ethiopia launches drone attack against Eritrean troops who crossed into Tigray",
+        "The Guardian"
+      ],
+      [
+        "Why renewed Egypt-Ethiopia tensions are a problem for China",
+        "Al-Monitor"
+      ],
+      [
+        "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+        "BBC"
+      ]
+    ],
+    "event_key": "ethiopia-eritrea-tigray-drone-strike-clash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "에티오피아, 티그라이 진입한\n[[에리트레아군에 드론 공격]]",
+      "sub": "에리트레아군 진입에 '전면 침공 맞서 자위권 행사' 주장",
+      "chips": [],
+      "alt": "에티오피아, 티그라이 진입한 에리트레아군에 드론 공격",
+      "map": {
+        "lat": 13.881273,
+        "lon": 39.127495,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "에티오피아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "에티오피아\n티그라이",
+      "video_only": true,
+      "map": {
+        "lat": 13.881273,
+        "lon": 39.127495,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "티그라이"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "티그라이 지역 드론 공격",
+          "d": "에티오피아군이 국경을 넘어 티그라이로 들어온 에리트레아군을 상대로 드론 공격을 단행했습니다 (가디언)."
+        },
+        {
+          "t": "에리트레아군 깊숙이 진입",
+          "d": "에리트레아 군부대가 에티오피아 티그라이 지역 깊숙한 곳까지 진입했다고 주민들이 전했습니다 (BBC)."
+        },
+        {
+          "t": "양국 간 전면 충돌 우려",
+          "d": "에티오피아 정부는 에리트레아의 전면적 침공에 맞서 자위권을 행사해야 한다고 밝혔습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에티오피아군의 에리트레아군 드론 타격",
+        "에리트레아군의 티그라이 지역 진입"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al-Monitor",
+        "BBC",
+        "Reuters",
+        "The Economist",
+        "The Guardian",
+        "2026.10.09 20:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 에티오피아가 티그라이 지역에 진입한 에리트레아군을 상대로 드론 공격을 감행했습니다.\n\n· 에티오피아 정부는 에리트레아의 전면 침공에 맞서 스스로를 방어해야 한다고 밝혔습니다 (로이터).\n· 에리트레아 군부대가 티그라이 국경을 넘어 깊숙이 진입했다고 현지 주민들이 증언했습니다 (BBC).\n· 양국 간 군사적 충돌이 다시 격화하면서 분쟁 확산 우려가 커지고 있습니다 (이코노미스트).\n\n이번 충돌이 주변 지역 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: 로이터·더가디언·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "에티오피아가 국경을 넘어온 에리트레아군을 드론으로 타격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "에리트레아 부대가 티그라이 깊숙이 진입했다고 BBC가 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "에티오피아 측은 전면 침공에 맞서 자위권을 행사해야 한다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 충돌로 인한 정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "다시 격화하는 아프리카의 충돌, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[에티오피아]] 국경서\n벌어진 군사 충돌",
+  "broll": [
+    "military drone flight",
+    "border outpost desert"
+  ],
+  "place_en": "Tigray, Ethiopia"
+}
