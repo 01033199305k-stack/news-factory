@@ -10511,5 +10511,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791533886
+  },
+  {
+    "slug": "2026-10-09-news-nepal-school-bus-plunge-2026",
+    "event_ms": 1791530160000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 네팔서 스쿨버스 추락해 최소 5명 사망 (더선)\n\n· 네팔 포카라의 절벽에서 스쿨버스가 200미터 아래로 추락했습니다 (라토파티·마이리퍼블리카)\n· 이 사고로 최소 5명이 숨지고 14~19명이 다친 것으로 알려졌습니다 (더선·에칸티푸르)\n· 현장에서는 구조 작업이 진행되고 있습니다 (마이리퍼블리카)\n\n출처: 더선·에칸티푸르·라토파티·마이리퍼블리카 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "네팔"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18107894396190047",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeRLrL8m4CQ",
+        "kind": "carousel",
+        "at": 1791537948
+      },
+      "instagram": {
+        "id": "18037585991837961",
+        "permalink": "https://www.instagram.com/reel/DeRL9N2gMHu/",
+        "kind": "reel",
+        "at": 1791538113
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1791538123
+      },
+      "tiktok": {
+        "id": "7694597673856404756",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694597673856404756",
+        "kind": "video",
+        "at": 1791538245
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791538255
   }
 ]

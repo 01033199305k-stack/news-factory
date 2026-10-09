@@ -1935,5 +1935,15 @@
     "at": 1791533415.9009695,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "nepal_school_bus_plunge_2026",
+    "topic": "네팔서 스쿨버스 추락 최소 5명 사망",
+    "slug": "2026-10-09-news-nepal-school-bus-plunge-2026",
+    "cluster": "CBMilgFBVV95cUxOdF9pUnkyNllGbXFndmwzX1QxTm1wX0VmNUc4c1Y5YkF2cjJWTS12NWNieW8zZWNHdVkzR3hqMW9kQ2szRmNZWUk5X19CNzViNm9kLWd2dVZGVDhwMlpGbGRWbkVJaWNnRnpmWDdSMkVGRVpzY2tpYTVrU2RISE5RRlU2a25MTW1qRlZmSUhoNVpVRlZJWUE",
+    "badge": "breaking",
+    "at": 1791537899.1146924,
+    "country": "네팔",
+    "category": "사고"
   }
 ]

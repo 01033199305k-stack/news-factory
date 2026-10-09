@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-09-news-nepal-school-bus-plunge-2026",
+  "topic": "네팔서 스쿨버스 추락 최소 5명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 16:16 KST",
+  "source": "AOL.co.uk·Ekantipur·Ratopati 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilgFBVV95cUxOdF9pUnkyNllGbXFndmwzX1QxTm1wX0VmNUc4c1Y5YkF2cjJWTS12NWNieW8zZWNHdVkzR3hqMW9kQ2szRmNZWUk5X19CNzViNm9kLWd2dVZGVDhwMlpGbGRWbkVJaWNnRnpmWDdSMkVGRVpzY2tpYTVrU2RISE5RRlU2a25MTW1qRlZmSUhoNVpVRlZJWUE",
+    "related": [
+      [
+        "At least five killed and 19 injured after schoolbus plunges 650ft down slope after 'losing control' in terrifying crash",
+        "The Sun"
+      ],
+      [
+        "Horror as school bus plunges 650ft down hillside in Nepal killing at least five people",
+        "AOL.co.uk"
+      ],
+      [
+        "Death toll in Kalika Boarding bus accident reaches five, 14 injured",
+        "Ekantipur"
+      ],
+      [
+        "School Bus Carrying Students Falls in Okle Cliff in Pokhara",
+        "Ratopati"
+      ],
+      [
+        "School bus plunges 200 meters in Kaski, rescue underway",
+        "myRepublica"
+      ]
+    ],
+    "event_key": "nepal_school_bus_plunge_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "네팔서 [[스쿨버스]] 추락\n최소 5명 사망",
+      "sub": "200미터 아래 비탈길로 떨어져",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "5명"
+        }
+      ],
+      "alt": "네팔서 스쿨버스 추락 최소 5명 사망",
+      "map": {
+        "lat": 28.209538,
+        "lon": 83.991402,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "네팔"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네팔\n포카라",
+      "video_only": true,
+      "map": {
+        "lat": 28.209538,
+        "lon": 83.991402,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "포카라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "절벽 아래로 추락",
+          "d": "네팔 포카라의 절벽에서 스쿨버스가 200미터 아래로 추락했습니다 (라토파티·마이리퍼블리카)."
+        },
+        {
+          "t": "다수의 사상자 발생",
+          "d": "이번 사고로 학생들을 태운 버스에서 최소 5명이 숨지고 14~19명이 다쳤습니다 (더선·에칸티푸르)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스쿨버스 추락 사고",
+        "사망자 5명 확인"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인",
+        "부상자 수 엇갈림 (14~19명)",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.co.uk",
+        "Ekantipur",
+        "Ratopati",
+        "The Sun",
+        "myRepublica",
+        "2026.10.09 18:24 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 네팔서 스쿨버스 추락해 최소 5명 사망 (더선)\n\n· 네팔 포카라의 절벽에서 스쿨버스가 200미터 아래로 추락했습니다 (라토파티·마이리퍼블리카)\n· 이 사고로 최소 5명이 숨지고 14~19명이 다친 것으로 알려졌습니다 (더선·에칸티푸르)\n· 현장에서는 구조 작업이 진행되고 있습니다 (마이리퍼블리카)\n\n출처: 더선·에칸티푸르·라토파티·마이리퍼블리카 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "네팔에서 스쿨버스가 추락해 최소 5명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "포카라의 절벽에서 버스가 200미터 아래로 추락했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "에칸티푸르는 이 사고로 최소 5명이 사망하고 14명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인과 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[스쿨버스]] 200m 추락\n사상자 규모는?",
+  "broll": [
+    "bus crash",
+    "rescue team mountain"
+  ],
+  "place_en": "Pokhara, Nepal"
+}
