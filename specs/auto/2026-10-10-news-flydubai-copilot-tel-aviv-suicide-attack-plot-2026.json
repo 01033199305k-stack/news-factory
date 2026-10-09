@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-10-news-flydubai-copilot-tel-aviv-suicide-attack-plot-2026",
+  "topic": "플라이두바이 부조종사 공항 자살 충돌 기도",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 02:04 KST",
+  "source": "CNN·Reuters·The Economist 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwJBVV95cUxOdFNpR0dRN3NFVURCcXA5bmtMU01ILWpVbkx4eXhhQmotai1jZ2pmYldHeEpaaG9NVC1ScnRwUkJWLVh3ME5ONU8yM3JjSnY0M3YwRFRXcXNDWDh1YnF6dmJvYktaZFU2akZkaVQ2ZE52Z1FGZEFlSXVNSDNJU0dIX3JDelRUVzI2a28tSU9lYUpGV2g1T0RaaHEtUnFhMjdEUExHODU1alZ6VkFhMHhVYkF1d19fd0VGZ3JHM1p3SHBjY0lSNWs0NkIxbnE4NjBib2VEUU1PNzB2ZGJycnFVckNwWVkwd3BINm9kbkRGMWdxd2YxaFlTWm5VRjI3R1dQdGJn",
+    "related": [
+      [
+        "'Inspired by 9/11’: Omani flydubai co-pilot planned to crash jet into Israeli airport, claims UAE",
+        "The Times of India"
+      ],
+      [
+        "Alleged Flydubai hijacker planned ‘suicide attack’ on Tel Aviv’s airport, early investigation finds",
+        "CNN"
+      ],
+      [
+        "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight",
+        "Reuters"
+      ],
+      [
+        "In a near-catastrophe, Binyamin Netanyahu sees an opportunity",
+        "The Economist"
+      ],
+      [
+        "Who Were the Pilots on the FlyDubai Flight?",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "flydubai-copilot-tel-aviv-suicide-attack-plot-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "플라이두바이 부조종사\n[[공항 자살 충돌]] 기도",
+      "sub": "UAE 당국, 텔아비브 공항 노린 항공기 납치 공격 모의 확인",
+      "chips": [],
+      "alt": "플라이두바이 부조종사 공항 자살 충돌 기도",
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n두바이",
+      "video_only": true,
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "두바이"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "텔아비브 공항 목표",
+          "d": "UAE 당국은 오만 출신 부조종사가 여객기를 이스라엘 텔아비브 공항에 충돌시키려 했다고 밝혔습니다 (로이터)."
+        },
+        {
+          "t": "초기 조사 결과 발표",
+          "d": "초기 조사에서 9·11 테러를 모방한 자살 공격을 계획했던 정황이 포착됐습니다 (CNN·타임스오브인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "오만 출신 부조종사의 자살 테러 모의",
+        "텔아비브 공항 충돌 계획"
+      ],
+      "unconfirmed": [
+        "한국인 탑승 여부",
+        "구체적인 실행 직전 정황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Reuters",
+        "The Economist",
+        "The New York Times",
+        "The Times of India",
+        "2026.10.10 03:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 두바이 항공사 부조종사가 텔아비브 공항 자살 충돌 공격을 모의했습니다.\n\n· UAE 당국은 오만 국적의 부조종사가 여객기를 몰아 이스라엘 텔아비브 공항에 충돌시키려 했다고 밝혔습니다 (로이터)\n· 초기 조사에서 9·11 테러를 모방한 자살 공격 계획이 드러났다고 전해졌습니다 (CNN)\n· 구체적인 실행 저지 경위와 배후 관계는 추가 조사가 진행 중입니다 (외신 종합)\n\n출처: 로이터·CNN·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "두바이 항공사 부조종사가 공항 자살 충돌을 노렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "아랍에미리트 당국이 밝힌 사건입니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터는 오만 국적 조종사가 텔아비브 공항을 겨냥했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "CNN은 9·11을 모방한 공격을 계획했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 테러 저지 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "여객기 몰고\n[[공항 충돌]] 기도?",
+  "broll": [
+    "airplane cockpit",
+    "airport terminal"
+  ],
+  "place_en": "Tel Aviv, Israel"
+}

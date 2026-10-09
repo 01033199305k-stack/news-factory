@@ -10886,5 +10886,114 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791566112
+  },
+  {
+    "slug": "2026-10-10-usgs-pt26282000",
+    "event_ms": 1791568568000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 파나마 인근 규모 8.0 지진\n\n한국 시각 10월 10일 02시 56분, 파나마 Pitaloza Arriba에서 남서쪽 14km. 깊이 33km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS pt26282000",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "파나마",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18450263950121412",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeSHowYHZN9",
+        "kind": "carousel",
+        "at": 1791569382
+      },
+      "instagram": {
+        "id": "17894664687613008",
+        "permalink": "https://www.instagram.com/reel/DeSITpqCKKX/",
+        "kind": "reel",
+        "at": 1791569760
+      },
+      "youtube": {
+        "id": "AdCxZ_E5VFk",
+        "permalink": "https://youtube.com/shorts/AdCxZ_E5VFk",
+        "kind": "shorts",
+        "at": 1791569888
+      },
+      "tiktok": {
+        "id": "7694734154205777172",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694734154205777172",
+        "kind": "video",
+        "at": 1791570019
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791570029
+  },
+  {
+    "slug": "2026-10-10-news-flydubai-copilot-tel-aviv-suicide-attack-plot-2026",
+    "event_ms": 1791565440000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 두바이 항공사 부조종사가 텔아비브 공항 자살 충돌 공격을 모의했습니다.\n\n· UAE 당국은 오만 국적의 부조종사가 여객기를 몰아 이스라엘 텔아비브 공항에 충돌시키려 했다고 밝혔습니다 (로이터)\n· 초기 조사에서 9·11 테러를 모방한 자살 공격 계획이 드러났다고 전해졌습니다 (CNN)\n· 구체적인 실행 저지 경위와 배후 관계는 추가 조사가 진행 중입니다 (외신 종합)\n\n출처: 로이터·CNN·BBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "아랍에미리트"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18130501294796890",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeSHs7PnVjG",
+        "kind": "carousel",
+        "at": 1791569420
+      },
+      "instagram": {
+        "id": "17954509782260729",
+        "permalink": "https://www.instagram.com/reel/DeSIZtekyfQ/",
+        "kind": "reel",
+        "at": 1791569808
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1791569898
+      },
+      "tiktok": {
+        "id": "7694734714506153224",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694734714506153224",
+        "kind": "video",
+        "at": 1791570151
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791570161
   }
 ]
