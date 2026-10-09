@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-10-news-us-russia-diesel-deal-2026",
+  "topic": "미국, 러 디젤 제재 해제 트럼프·푸틴 합의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 04:52 KST",
+  "source": "Al Jazeera·BBC·NDTV 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxQdEM3STdpY1dOZzNkaUtmX3M1RGtmOU5SR0FiakRFeFhGUU1HMjNMVFV2ZTFRR25PRlBmS2hZZEJvOGQ2cTBWU21QUm41WGVGMGZUX1FKREh5SC01UUhhN1JOcnF4VmRRc2hidGstN0lmbmFWelhROEViWEtfM01wRjZva0ZMamZsdTItb3QtZml6clhjYkkxYlg3NmhCaERHMUpNTkFnLXZJTTTSAbABQVVfeXFMTnRxUW9wSHhqSlMtVW1DSUZxMUwtU2hXc21mNF9XNVdGcXhWRDZ5cWpwbnRUSGIxZ2FQQ0dwb0RGSThiZ01MUGZlelRkbXFsNUtLaGp5dFlXd2FVREoxTzE5UHIxMWFkTzc4WDJVam13UXJWbVRWNm1vS21fVm1LRzYxX3NxOWJXSEFQMDhzSFdwaW4xODl5NmEwVHhlOE5hWmRlRTBnV29aU2tnajZHREw",
+    "related": [
+      [
+        "Trump announces Russian diesel deal amid soaring US fuel prices",
+        "Al Jazeera"
+      ],
+      [
+        "Iran war live: Russia to supply diesel; Putin, Trump discuss Iran",
+        "Al Jazeera"
+      ],
+      [
+        "Trump announces deal with Putin to release Russian diesel",
+        "BBC"
+      ],
+      [
+        "U.S. lifts sanctions on sale of Russian diesel in global markets",
+        "The Hindu"
+      ],
+      [
+        "Trump Says Putin Agrees To Major Release Of Diesel To US, Global Markets",
+        "NDTV"
+      ]
+    ],
+    "event_key": "us-russia-diesel-deal-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 러 디젤 [[제재 해제]]\n트럼프·푸틴 합의",
+      "sub": "유가 급등 속 러시아산 디젤 공급 허용",
+      "chips": [],
+      "alt": "미국, 러 디젤 제재 해제 트럼프·푸틴 합의",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "러시아산 디젤 합의",
+          "d": "트럼프가 푸틴 러시아 대통령과 디젤 공급에 합의했다고 발표했습니다 (알자지라·BBC·NDTV)."
+        },
+        {
+          "t": "세계 시장 판매 허용",
+          "d": "미국 정부가 글로벌 시장에서 러시아산 디젤 판매 제재를 해제했습니다 (더힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아산 디젤 공급 합의",
+        "러시아 디젤 제재 해제"
+      ],
+      "unconfirmed": [
+        "구체적 디젤 공급 물량",
+        "유가 안정 효과"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "NDTV",
+        "The Hindu",
+        "2026.10.10 05:36 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국, 러시아산 디젤 제재 해제\n\n· 트럼프, 푸틴 러시아 대통령과 디젤 공급 합의 발표 (알자지라·BBC·NDTV)\n· 미국, 러시아산 디젤의 세계 시장 판매 제재 해제 (더힌두)\n\n여러분은 이번 제재 해제 결정, 어떻게 보십니까?\n\n출처: 알자지라·BBC·더힌두·NDTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 러시아산 디젤에 대한 제재를 해제했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "트럼프는 미국 연료 가격 급등 속 러시아와 디젤 공급 합의를 발표했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라와 BBC, NDTV는 트럼프가 푸틴과 디젤 공급에 합의했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 디젤 공급 물량과 유가 안정 효과는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "러시아 디젤 제재를\n[[해제]]한 이유",
+  "broll": [
+    "oil refinery worker",
+    "fuel tanker truck"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
