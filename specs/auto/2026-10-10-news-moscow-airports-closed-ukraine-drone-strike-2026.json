@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-10-news-moscow-airports-closed-ukraine-drone-strike-2026",
+  "topic": "우크라 드론 공습에 모스크바 공항 4곳 폐쇄",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 05:15 KST",
+  "source": "The New York Times·The Telegraph·Atlantic Council 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxNUnZaS1J5dUZJZnZIVG5USVo1cGFEODZJYVF5UV85NGRKMmNueWREYlQ3c214WVRuOW05LXp6d0VwVDh4RXFIMmN1NmtuSVlvcXIxQjdOWEViWkRoVDRkQmZ0Y1hLR3RFQmc0UWJueVF5N3FPU2hhZlkxSzRreHE2djBKS2hXQQ",
+    "related": [
+      [
+        "Ukrainian Drones Close Moscow Airports as Putin Flies Back to Russia",
+        "The New York Times"
+      ],
+      [
+        "Russia’s drones are getting faster and deadlier. The West is racing to catch up.",
+        "Business Insider"
+      ],
+      [
+        "Russia’s jet drones pose a security threat far beyond Ukraine",
+        "Atlantic Council"
+      ],
+      [
+        "Drones and balloons attacking Moscow and Moscow region as four airports shut down",
+        "Ukrinform"
+      ],
+      [
+        "Drone attack stops Russian government planes landing in Moscow",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "moscow-airports-closed-ukraine-drone-strike-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 드론 공습에\n모스크바 [[공항 4곳]] 폐쇄",
+      "sub": "푸틴 대통령 복귀 중 정부기 착륙 중단",
+      "chips": [
+        {
+          "k": "폐쇄 공항",
+          "v": "4곳"
+        }
+      ],
+      "alt": "우크라 드론 공습에 모스크바 공항 4곳 폐쇄",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "푸틴 복귀 중 습격",
+          "d": "블라디미르 푸틴 러시아 대통령이 모스크바로 돌아오는 중에 드론 공격이 발생해 정부기 착륙이 중단됐습니다 (더 텔레그래프)."
+        },
+        {
+          "t": "항공기 운항 중단",
+          "d": "모스크바와 주변 지역에 드론과 풍선 공격이 가해지며 공항 네 곳이 문을 닫았습니다 (우크린포름)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 드론의 모스크바 공습",
+        "모스크바 공항 4곳 폐쇄"
+      ],
+      "unconfirmed": [
+        "공습에 따른 인명 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Atlantic Council",
+        "Business Insider",
+        "The New York Times",
+        "The Telegraph",
+        "Ukrinform",
+        "2026.10.10 08:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나의 드론 공습으로 러시아 모스크바 공항 4곳이 폐쇄됐습니다.\n\n· 푸틴 대통령이 모스크바로 복귀하는 중 공습이 발생해 정부기 착륙이 중단됐습니다 (더 텔레그래프).\n· 모스크바와 주변 지역에 드론과 풍선 공격이 가해지며 공항 네 곳이 닫혔습니다 (우크린포름).\n\n출처: 더 텔레그래프·우크린포름 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나의 드론 공습으로 모스크바 공항 네 곳이 폐쇄됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "푸틴 대통령이 복귀하던 중 정부기 착륙이 중단되는 일이 벌어졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "모스크바와 주변 지역에 드론과 풍선 공격이 가해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[모스크바]] 공항 폐쇄\n푸틴 전용기 착륙 중단",
+  "broll": [
+    "airport terminal runway",
+    "drones flying night"
+  ],
+  "place_en": "Moscow, Russia"
+}
