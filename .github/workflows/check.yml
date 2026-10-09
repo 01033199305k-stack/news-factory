@@ -138,10 +138,12 @@ jobs:
           print("확인됨    :", ev["confirmed"])
           print("미확인    :", ev["unconfirmed"])
           print("본문      :\n" + ev["caption_ko"])
+          print("영상 제목 :", ev.get("hook_ko", "").replace("\n", " / "))
+          print("자료 화면 :", ev.get("broll_en"))
           import narration
           print("영상 원고 :")
           for s in narration.for_news(ev, c["sources"], "breaking", has_map=True):
-              print("   [%s] %s" % (s["card"], s["text"]))
+              print("   [%s] %s%s" % (s["card"], s["text"], "  {%s}" % s["screen"] if s.get("screen") else ""))
           ok, bad = n.numbers_ok(ev, c)
           print("숫자 검증 :", "통과" if ok else "거부 %s" % bad)
           EOF

@@ -104,6 +104,10 @@ jobs:
       - name: 숏폼 영상 만들기 (45초, 여자 아나운서)
         if: steps.q.outputs.n != '0'
         continue-on-error: true   # 영상이 실패하면 인스타는 카드 캐러셀로 간다
+        env:
+          # 장면 배경 자료 화면 (Pixabay 우선, 없으면 Pexels, 둘 다 없으면 위키미디어 커먼즈 현지 사진·지구본만)
+          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
         run: |
           # 영상이 필요한 항목이 있을 때만 (앞 단계 업로드가 '영상 없음'을 표시했을 수도 있어서 여기서 다시 본다)
           if python -c "import json,sys; q=json.load(open('state/queue.json')); sys.exit(0 if any('video' not in i for i in q) else 1)"; then

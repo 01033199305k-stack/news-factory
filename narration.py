@@ -8,7 +8,7 @@
 - 어느 쪽이든 읽기 전에 다듬는다: 말투는 "~습니다"로 통일(한다체 "~했다"가 섞이면 반말처럼 들린다),
   문장마다 붙은 "~라고 BBC 등이 보도했습니다" 는 떼고(출처는 화면에 있다), 이미 말한 사실은 다시 읽지 않는다
 
-원고 = [{"text": 읽을 문장, "card": 보여줄 화면(cover·map·points·check·outro)}, ...]
+원고 = [{"text": 읽을 문장, "card": 보여줄 화면(cover·map·points·check·korea·ask·outro), "screen": 화면 글(선택)}, ...]
 """
 import re
 
@@ -83,6 +83,8 @@ def strip_src(s):
 
 def sentence(s):
     s = s.strip().rstrip(".。 ")
+    if s.endswith(("?", "!")):   # 시청자에게 묻는 마지막 문장 ("~어떻게 보십니까?") 에 마침표를 붙이지 않는다
+        return s
     return s + "." if s else ""
 
 
@@ -222,17 +224,30 @@ def _from_cards(ev, has_map):
     return segs
 
 
+INCIDENT = ("사고", "폭발·화재", "총격·테러", "재난", "기타 사건")
+
+
 def for_news(ev, srcs=(), badge="breaking", has_map=False):
     segs = []
     for x in ev.get("narration_ko") or []:
         card = x.get("card") or "cover"
         if card == "map" and not has_map:
             card = "cover"
-        _add(segs, {"text": spoken(x.get("text")), "card": card})
+        seg = {"text": spoken(x.get("text")), "card": card}
+        if (x.get("screen") or "").strip():
+            seg["screen"] = x["screen"].strip()
+        _add(segs, seg)
+    # 시청자 질문은 정치·외교·경제 소식에만, 한 번, 맨 끝에. 인명 피해가 난 사건·사고에 의견을 묻지 않는다.
+    # 한국 관련 문장은 질문 바로 앞 (2026-10-09: 끝을 '아직 모르는 것' 대신 한국 연결 + 질문으로 — 댓글 0~1개였다)
+    asks = [x for x in segs if x["card"] == "ask" and x["text"].endswith("?")]
+    if ev.get("category") in INCIDENT:
+        asks = []
+    kor = [x for x in segs if x["card"] == "korea"][:1]
+    segs = [x for x in segs if x["card"] not in ("ask", "korea")] + kor + asks[-1:]
     if len(segs) < 2:   # 원고가 없거나 팩트체크에서 거의 다 지워졌으면 카드 문장으로
         segs = _from_cards(ev, has_map)
     # 끝인사(OUTRO)는 읽지 않는다 — 2026-10-03 쇼츠 20편 확인: 마지막 3~4초 채널 홍보 카드에서 이탈.
-    # '아직 모르는 것'으로 끝나야 다시 보기(반복 재생)로 이어진다. 채널 이름은 화면 상단에 늘 떠 있다
+    # 사건·사고는 '아직 모르는 것'으로, 정치·경제는 시청자 질문으로 끝난다. 채널 이름은 화면 상단에 늘 떠 있다
     return trim(segs)
 
 

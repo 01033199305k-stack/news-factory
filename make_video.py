@@ -15,6 +15,7 @@ import re
 import sys
 from pathlib import Path
 
+import broll
 import make_cards
 import narration
 
@@ -89,11 +90,18 @@ def render(spec):
 
     voice = assemble.concat_audio(wavs, work / "narration.wav")
     page = work / "motion.html"
-    html, cuts = motion.build_html(spec, segs, times, words, total)
+    scenes = motion.plan(spec, segs, times)
+    try:   # 자료 사진·화면은 못 구해도 영상은 나간다 (지구본·글자 카드로)
+        broll.attach(scenes, spec, work)
+    except Exception as ex:
+        print("BROLL FAIL", ex)
+    html, cuts, punches = motion.build_html(spec, segs, times, words, total, scenes)
     page.write_text(html, encoding="utf-8")
     silent = motion.capture(page, work / "silent.mp4", total)
     final = outdir / "video.mp4"
-    motion.mux(silent, voice, final, total, cuts)
+    motion.mux(silent, voice, final, total, cuts, punches)
+    print("SCENES " + " · ".join("%s%s" % (s["kind"], "(%s)" % s["media"]["type"] if s.get("media") else
+                                           "(globe)" if s.get("globe") else "") for s in scenes))
     write_srt([(a, b, s["text"]) for (a, b), s in zip(times, segs)], outdir / "captions.srt")
     print("VIDEO %s (%.1fs, %d문장)" % (final, total, len(segs)))
     return final
