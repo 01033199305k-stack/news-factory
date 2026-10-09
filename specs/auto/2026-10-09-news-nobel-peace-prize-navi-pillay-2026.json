@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-09-news-nobel-peace-prize-navi-pillay-2026",
+  "topic": "2026 노벨 평화상 남아공 나비 필레이",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 21:03 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0",
+    "related": [
+      [
+        "Former ICC judge Navi Pillay wins 2026 Nobel Peace Prize",
+        "Reuters"
+      ],
+      [
+        "Nobel Peace Prize goes to South African human rights pioneer Navi Pillay",
+        "CNN"
+      ],
+      [
+        "Nobel peace prize winner Navi Pillay jokes about sharing award with Donald Trump – video",
+        "The Guardian"
+      ],
+      [
+        "Live Updates: Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
+        "The New York Times"
+      ],
+      [
+        "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
+        "BBC"
+      ]
+    ],
+    "event_key": "nobel-peace-prize-navi-pillay-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "2026 [[노벨 평화상]]\n남아공 나비 필레이",
+      "sub": "전 ICC 판사이자 유엔 인권수장 역임",
+      "chips": [
+        {
+          "k": "수상자",
+          "v": "나비 필레이"
+        }
+      ],
+      "alt": "2026 노벨 평화상 남아공 나비 필레이",
+      "map": {
+        "lat": 59.9133301,
+        "lon": 10.7389701,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "노르웨이"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "노르웨이\n오슬로",
+      "video_only": true,
+      "map": {
+        "lat": 59.9133301,
+        "lon": 10.7389701,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오슬로"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수상자 이력",
+          "d": "나비 필레이는 전 국제형사재판소(ICC) 판사이자 전 유엔 인권수장입니다. (로이터·BBC)"
+        },
+        {
+          "t": "인권 선구자",
+          "d": "남아프리카공화국의 인권 선구자인 필레이가 노벨 평화상을 받았습니다. (CNN)"
+        },
+        {
+          "t": "인권 변호사",
+          "d": "인권 변호사 나비 필레이에게 노벨 평화상이 수여됐습니다. (NYT)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "2026년 노벨 평화상 수상",
+        "나비 필레이 전 유엔 인권대표"
+      ],
+      "unconfirmed": [
+        "공식 수상 소감 내용",
+        "구체적인 시상식 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.09 22:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 2026년 노벨 평화상에 남아공의 나비 필레이 선정\n\n· 전 유엔 인권수장이자 국제형사재판소(ICC) 판사인 나비 필레이가 올해 수상자로 발표됐습니다. (로이터·BBC)\n· 남아프리카공화국의 인권 선구이자 인권 변호사로 평가받는 인물입니다. (CNN·NYT)\n· 수상 소식이 알려진 뒤 트럼프와의 공동 수상에 대해 농담을 건네기도 했습니다. (가디언)\n\n여러분은 이번 노벨 평화상 선정 결과에 대해 어떻게 생각하십니까?\n\n출처: 로이터·CNN·가디언·BBC·NYT 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "2026년 노벨 평화상 수상자로 남아프리카공화국의 나비 필레이가 선정되었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "필레이는 전 국제형사재판소 판사이자 전 유엔 인권수장을 역임했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "남아공의 인권 선구이자 인권 변호사로서 노벨 평화상을 받게 되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 노벨 평화상 선정 결과에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "올해 [[노벨 평화상]]\n받은 주인공은?",
+  "broll": [
+    "nobel peace prize medal",
+    "courtroom gavel"
+  ],
+  "place_en": "Oslo, Norway"
+}

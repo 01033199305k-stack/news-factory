@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "slug": "2026-10-09-news-nobel-peace-prize-navi-pillay-2026",
+    "event_ms": 1791551440204,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 2026년 노벨 평화상에 남아공의 나비 필레이 선정\n\n· 전 유엔 인권수장이자 국제형사재판소(ICC) 판사인 나비 필레이가 올해 수상자로 발표됐습니다. (로이터·BBC)\n· 남아프리카공화국의 인권 선구이자 인권 변호사로 평가받는 인물입니다. (CNN·NYT)\n· 수상 소식이 알려진 뒤 트럼프와의 공동 수상에 대해 농담을 건네기도 했습니다. (가디언)\n\n여러분은 이번 노벨 평화상 선정 결과에 대해 어떻게 생각하십니까?\n\n출처: 로이터·CNN·가디언·BBC·NYT 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "노르웨이"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18107676479217928",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeRlf8vFn6q",
+        "kind": "carousel",
+        "at": 1791551487
+      },
+      "youtube": {
+        "id": "DiRa3c7_OnY",
+        "permalink": "https://youtube.com/shorts/DiRa3c7_OnY",
+        "kind": "shorts",
+        "at": 1791551622
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
