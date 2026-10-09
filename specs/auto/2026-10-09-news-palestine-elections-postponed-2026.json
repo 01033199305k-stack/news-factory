@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-09-news-palestine-elections-postponed-2026",
+  "topic": "팔레스타인 자치정부 20년 만의 총선 연기",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 23:58 KST",
+  "source": "AP News·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxOZ0FpQjRRbEJnR0VoMHZkSUJOdlh3TUhvVnl2MWk3MGRKUUllQVJreUVBV1AxMU5QUXluY3BWX2Qya3UtZjR1N2dtRnVNcTdXOWo0V0hZV0llcnlvVkZPUjdFX0JpbVA1RzZzWm9CR3F0Z2M3WGxUc2hVa1hWZG1ZVUFFZG5MTU9GZEJaRkdlNlZMams3QnB3SkFQdTIxZ0hMVDhjRTQxMXl3eW51",
+    "related": [
+      [
+        "Palestinian Authority Says Elections Are to Be Postponed",
+        "The New York Times"
+      ],
+      [
+        "EXCLUSIVE: Palestinians set to delay legislative elections due to worsening conditions, letter says",
+        "Reuters"
+      ],
+      [
+        "Abbas' promise to Macron crumbles as Palestinian elections are postponed",
+        "Ynetnews"
+      ],
+      [
+        "US imposes fresh sanctions on ICC, banning transactions with ‘rogue court’",
+        "The Times of Israel"
+      ],
+      [
+        "Palestinian factions move to delay the first legislative elections in 20 years",
+        "AP News"
+      ]
+    ],
+    "event_key": "palestine_elections_postponed_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "팔레스타인 자치정부\n20년 만의 [[총선 연기]]",
+      "sub": "정세 악화 이유로 입법의회 선거 공식 연기 결정",
+      "chips": [
+        {
+          "k": "선거",
+          "v": "연기 결정"
+        }
+      ],
+      "alt": "팔레스타인 자치정부 20년 만의 총선 연기",
+      "map": {
+        "lat": 31.8978012,
+        "lon": 35.1924223,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n요르단강 서안",
+      "video_only": true,
+      "map": {
+        "lat": 31.8978012,
+        "lon": 35.1924223,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "요르단강 서안"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "20년 만의 총선 연기",
+          "d": "AP 통신은 20년 만에 치러질 예정이었던 입법의회 선거가 연기될 예정이라고 보도했습니다."
+        },
+        {
+          "t": "정세 악화 서한 확인",
+          "d": "로이터는 상황 악화로 인해 선거를 연기한다는 서한 내용이 확인됐다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "팔레스타인 총선 연기 공식화",
+        "20년 만의 입법의회 선거 보류"
+      ],
+      "unconfirmed": [
+        "향후 재개 일정 및 투표일"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Reuters",
+        "The New York Times",
+        "The Times of Israel",
+        "Ynetnews",
+        "2026.10.10 02:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 팔레스타인 자치정부가 20년 만의 총선을 공식 연기했습니다.\n\n· AP 통신은 20년 만에 치러질 예정이었던 입법의회 선거가 연기될 예정이라고 보도했습니다.\n· 로이터는 정세 악화로 인해 선거를 미룬다는 내용의 서한을 보도했습니다.\n\n여러분은 이번 총선 연기 결정, 어떻게 보십니까?\n출처: 뉴욕타임스·로이터·AP통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "팔레스타인 자치정부가 20년 만의 총선을 공식 연기했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 조치는 정세 악화 때문입니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터는 상황 악화로 선거를 미룬다는 서한이 확인됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 새로운 선거 일정은 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "20년 만의 총선\n[[팔레스타인]] 왜?",
+  "broll": [
+    "parliament building",
+    "voting booth"
+  ],
+  "place_en": "Ramallah, West Bank"
+}

@@ -10833,5 +10833,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791563325
+  },
+  {
+    "slug": "2026-10-09-news-palestine-elections-postponed-2026",
+    "event_ms": 1791557925000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 팔레스타인 자치정부가 20년 만의 총선을 공식 연기했습니다.\n\n· AP 통신은 20년 만에 치러질 예정이었던 입법의회 선거가 연기될 예정이라고 보도했습니다.\n· 로이터는 정세 악화로 인해 선거를 미룬다는 내용의 서한을 보도했습니다.\n\n여러분은 이번 총선 연기 결정, 어떻게 보십니까?\n출처: 뉴욕타임스·로이터·AP통신 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18136182733637907",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeSAxVNGCBv",
+        "kind": "carousel",
+        "at": 1791565786
+      },
+      "instagram": {
+        "id": "18489155557104361",
+        "permalink": "https://www.instagram.com/reel/DeSBFNTFFXP/",
+        "kind": "reel",
+        "at": 1791565969
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791565979
+      },
+      "tiktok": {
+        "id": "7694717305112055061",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694717305112055061",
+        "kind": "video",
+        "at": 1791566102
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791566112
   }
 ]
