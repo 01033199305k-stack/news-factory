@@ -1965,5 +1965,25 @@
     "at": 1791551440.204018,
     "country": "노르웨이",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine-donbas-counteroffensive-oct-2026",
+    "topic": "우크라, 돈바스 영토 일부 탈환 러시아군 밀어내며 전선 돌파",
+    "slug": "2026-10-09-news-ukraine-donbas-counteroffensive-oct-2026",
+    "cluster": "CBMitgFBVV95cUxQTlNMbkVPYkd3QWdGa0l2Z3U1MnVTOXJJekl6T1NKOGExbVRrakRwOUJUclVHczg3NE5nZXRHRFgyakxmU0p6Unc0VlhyWGEwZmViNldZRW1ja2dZMGV1UWJxZWRlYnlzc2ZwWHlnbXN4cjMwYS1iSWtVaHRTcHdmLU82OS1tOVNsSUpRS0Zzbm1ReGpnSExZeS1WYjgyVWF5d053QnFySDloMVNFWFY5bDNXT2RVUdIBuwFBVV95cUxOTmgzRTlmaTdib2d5WVMtcm9yNXF2OGtKMTA4T283VkFVdGdOek9GZ0R6X3pwTkMyd01jaDd3Y0RaTkhPWXlqOTB5WFBoNUgzLU5pZUE2UHhfX2lULUIxeHhiaGlvcVVkcGpjaG44OUhST1JaeFZBYlJUS3ZJWF9rQ0dSRUQ3bDdLUGxZaldJVzNXRzJ3SS1pM2VDc0F0b05XM2RhcUwyd1h2dmJ1MDlIb2xZZEV0VGdZSXNj",
+    "badge": "breaking",
+    "at": 1791558645.9638994,
+    "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "trump-fed-governor-lisa-cook-probe-2026",
+    "topic": "트럼프, 연준 이사 조사 착수 위원회 설치",
+    "slug": "2026-10-09-news-trump-fed-governor-lisa-cook-probe-2026",
+    "cluster": "CBMilAFBVV95cUxPdUxOZXh5bm9ERlh0ckdRLUx4bFo2QTNpbHFKcmNHRzJiWE1hME8ydkVyd3hwS01IN1pFeWdYaXh2ZnVxc1BBNHZaMlBnWGZGQjhKeVlGb0x1MmhxZEhmanZTLVBnNUJUNXAtZVdabW1xWTNGWEJtYkxpcjBvRUZHYm13TEtpd2h4eXgxUlBUNUZvODk5",
+    "badge": "breaking",
+    "at": 1791558665.753609,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

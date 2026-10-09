@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-09-news-trump-fed-governor-lisa-cook-probe-2026",
+  "topic": "트럼프, 연준 이사 조사 착수 위원회 설치",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 23:14 KST",
+  "source": "NBC News·Politico·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilAFBVV95cUxPdUxOZXh5bm9ERlh0ckdRLUx4bFo2QTNpbHFKcmNHRzJiWE1hME8ydkVyd3hwS01IN1pFeWdYaXh2ZnVxc1BBNHZaMlBnWGZGQjhKeVlGb0x1MmhxZEhmanZTLVBnNUJUNXAtZVdabW1xWTNGWEJtYkxpcjBvRUZHYm13TEtpd2h4eXgxUlBUNUZvODk5",
+    "related": [
+      [
+        "Trump sets up committee to investigate, potentially remove the Fed's Lisa Cook",
+        "Politico"
+      ],
+      [
+        "Trump appoints committee to investigate statements by the Fed's Lisa Cook",
+        "CNBC"
+      ],
+      [
+        "After Supreme Court setback, Trump tries new path to remove Fed Gov. Lisa Cook",
+        "ABC15 Arizona"
+      ],
+      [
+        "Trump Announces White House Inquiry into Fed Governor Cook",
+        "The New York Times"
+      ],
+      [
+        "Trump establishes panel to probe Fed governor Lisa Cook in latest attempt to fire her",
+        "NBC News"
+      ]
+    ],
+    "event_key": "trump-fed-governor-lisa-cook-probe-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "트럼프, 연준 이사 [[조사 착수]]\n위원회 설치",
+      "sub": "리사 쿡 연준 이사 조사 위원회 설치 (CNBC)",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "연준 이사"
+        }
+      ],
+      "alt": "트럼프, 연준 이사 조사 착수 위원회 설치",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "백악관 위원회 설치",
+          "d": "트럼프 대통령은 리사 쿡 연방준비제도 이사의 발언을 조사하기 위한 백악관 위원회를 구성했습니다 (뉴욕타임스·CNBC)."
+        },
+        {
+          "t": "해임 시도 새로운 경로",
+          "d": "대법원 난관 이후 연준 이사를 해임하기 위한 새로운 경로를 시도하고 있습니다 (ABC15)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "백악관의 리사 쿡 연준 이사 조사 위원회 설치"
+      ],
+      "unconfirmed": [
+        "리사 쿡 이사의 실제 해임 여부",
+        "연방준비제도(Fed)의 공식 대응 방안"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC15 Arizona",
+        "CNBC",
+        "NBC News",
+        "Politico",
+        "The New York Times",
+        "2026.10.10 00:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 도널드 트럼프 미국 대통령이 리사 쿡 연방준비제도 이사를 조사할 위원회를 설치했습니다.\n\n· 트럼프 대통령은 리사 쿡 이사의 발언을 조사하기 위한 백악관 위원회를 구성했습니다 (뉴욕타임스·CNBC)\n· 대법원 난관 이후 연준 이사를 해임하기 위한 새로운 경로를 시도하는 것으로 알려졌습니다 (ABC15)\n· 이번 위원회 설치는 연방준비제도 이사를 해임하려는 시도의 일환입니다 (NBC)\n\n여러분은 중앙은행 독립성을 둘러싼 이번 갈등에 대해 어떻게 생각하십니까?\n\n출처: 뉴욕타임스·CNBC·ABC15·NBC·폴리티코 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "도널드 트럼프 미국 대통령이 리사 쿡 연방준비제도 이사를 조사할 위원회를 설치했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "ABC15 등 외신은 대법원 난관 이후 이사를 해임하기 위한 새로운 경로를 시도하는 것으로 보고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "리사 쿡 이사의 실제 해임 여부와 연준의 공식 대응은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 중앙은행 독립성을 둘러싼 이번 갈등에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "연준 이사 [[조사 착수]]\n이유는?",
+  "broll": [
+    "Federal Reserve building",
+    "stock exchange screen"
+  ],
+  "place_en": "Washington D.C., USA"
+}

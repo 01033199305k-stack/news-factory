@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-09-news-ukraine-donbas-counteroffensive-oct-2026",
+  "topic": "우크라, 돈바스 영토 일부 탈환 러시아군 밀어내며 전선 돌파",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 22:26 KST",
+  "source": "Al Jazeera·Newsweek·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxQTlNMbkVPYkd3QWdGa0l2Z3U1MnVTOXJJekl6T1NKOGExbVRrakRwOUJUclVHczg3NE5nZXRHRFgyakxmU0p6Unc0VlhyWGEwZmViNldZRW1ja2dZMGV1UWJxZWRlYnlzc2ZwWHlnbXN4cjMwYS1iSWtVaHRTcHdmLU82OS1tOVNsSUpRS0Zzbm1ReGpnSExZeS1WYjgyVWF5d053QnFySDloMVNFWFY5bDNXT2RVUdIBuwFBVV95cUxOTmgzRTlmaTdib2d5WVMtcm9yNXF2OGtKMTA4T283VkFVdGdOek9GZ0R6X3pwTkMyd01jaDd3Y0RaTkhPWXlqOTB5WFBoNUgzLU5pZUE2UHhfX2lULUIxeHhiaGlvcVVkcGpjaG44OUhST1JaeFZBYlJUS3ZJWF9rQ0dSRUQ3bDdLUGxZaldJVzNXRzJ3SS1pM2VDc0F0b05XM2RhcUwyd1h2dmJ1MDlIb2xZZEV0VGdZSXNj",
+    "related": [
+      [
+        "Ukraine pushes Russia back in Donetsk as military, civilian casualties soar",
+        "Al Jazeera"
+      ],
+      [
+        "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
+        "The New York Times"
+      ],
+      [
+        "Silence, Delusion and Robots: Ukraine’s Eastern Advances",
+        "Center for European Policy Analysis (CEPA)"
+      ],
+      [
+        "Map Reveals Four New Ukrainian Front Line Breakthroughs",
+        "Newsweek"
+      ],
+      [
+        "MWI Podcast: Operation Vivaldi",
+        "Modern War Institute -"
+      ]
+    ],
+    "event_key": "ukraine-donbas-counteroffensive-oct-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라, 돈바스 [[영토 일부 탈환]]\n러시아군 밀어내며 전선 돌파",
+      "sub": "전선 4개 구역 돌파 (뉴스위크)",
+      "chips": [
+        {
+          "k": "돌파 구역",
+          "v": "4곳"
+        }
+      ],
+      "alt": "우크라, 돈바스 영토 일부 탈환 러시아군 밀어내며 전선 돌파",
+      "map": {
+        "lat": 47.9212914,
+        "lon": 37.7809825,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n도네츠크",
+      "video_only": true,
+      "map": {
+        "lat": 47.9212914,
+        "lon": 37.7809825,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "도네츠크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "전선 4곳 돌파",
+          "d": "우크라이나군이 전선 4개 구역에서 돌파구를 마련했습니다 (뉴스위크)."
+        },
+        {
+          "t": "인명 피해 급증",
+          "d": "도네츠크에서 러시아군을 밀어내는 가운데 군인과 민간인 사상자가 급격히 늘어나고 있습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나군의 돈바스 영토 일부 탈환 (NYT)",
+        "도네츠크에서 러시아군 퇴각 (알자지라)"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Center for European Policy Analysis (CEPA)",
+        "Modern War Institute -",
+        "Newsweek",
+        "The New York Times",
+        "2026.10.10 00:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나군이 돈바스 영토 일부를 탈환하고 러시아군을 밀어냈습니다.\n\n· 우크라이나군이 전선 4개 구역에서 돌파구를 마련했습니다 (뉴스위크)\n· 도네츠크에서 러시아군을 밀어내며 군인과 민간인 사상자가 급격히 늘어나고 있습니다 (알자지라)\n· 뉴욕타임스는 우크라이나군이 돈바스 영토 일부를 탈환했다고 전했습니다 (뉴욕타임스)\n\n출처: 뉴스위크·알자지라·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나군이 돈바스 영토 일부를 탈환하고 러시아군을 밀어냈습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴스위크는 우크라이나군이 전선 4개 구역에서 돌파구를 마련했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라는 도네츠크에서 러시아군을 밀어내는 가운데 군인과 민간인 사상자가 급격히 늘고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사상자 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "돈바스 [[영토 탈환]]\n무슨 일이?",
+  "broll": [
+    "military vehicle field",
+    "soldier trench"
+  ],
+  "place_en": "Donetsk, Ukraine"
+}
