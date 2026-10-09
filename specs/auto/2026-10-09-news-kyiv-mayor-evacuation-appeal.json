@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-09-news-kyiv-mayor-evacuation-appeal",
+  "topic": "러시아 공습 심화에 키이우 시장 주민 대피 권고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 13:53 KST",
+  "source": "BBC·Meduza·The Copenhagen Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE5uSDhsLVh5M1ZZQWhPWWI5eUNoYlYtWFNjaXhyUUdzaXpoUWQ2WU5PRVprbWRJX1huby1pckx6TXhZREFLYWpQRTM3cEhSOXFVXzYtWFFFS2xIbTJPbFE",
+    "related": [
+      [
+        "As freezing winter approaches, Kyiv residents look for shelter elsewhere",
+        "BBC"
+      ],
+      [
+        "Kyiv Mayor Vitali Klitschko advises residents with friends or family outside the city to consider leaving temporarily amid escalating Russian attacks",
+        "Meduza"
+      ],
+      [
+        "Russia forcing Kyiv into 'survival' mode before winter, mayor tells AFP",
+        "MSN"
+      ],
+      [
+        "Kyiv Mayor Urges Residents to Consider Temporary Relocation",
+        "mezha.net"
+      ],
+      [
+        "Kyiv mayor urges residents to consider leaving temporarily as Russian attacks intensify",
+        "The Copenhagen Post"
+      ]
+    ],
+    "event_key": "kyiv_mayor_evacuation_appeal"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아 공습 심화에\n키이우 시장 [[주민 대피]] 권고",
+      "sub": "겨울철 앞두고 생존 모드 전환 요구",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "키이우 주민"
+        },
+        {
+          "k": "원인",
+          "v": "러시아 공습"
+        }
+      ],
+      "alt": "러시아 공습 심화에 키이우 시장 주민 대피 권고",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지인 거주지 이동",
+          "d": "비탈리 클리치코 키이우 시장은 도시 외곽에 친인척이나 지인이 있는 주민들에게 임시 이주를 고려하라고 밝혔습니다 (BBC·AFP)."
+        },
+        {
+          "t": "겨울철 난방 위기",
+          "d": "혹한의 겨울이 다가오는 가운데 러시아의 공격이 거세지면서 생존을 위한 조치라고 전했습니다 (BBC·메두사)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "키이우 시장의 임시 이주 권고",
+        "러시아의 공습 심화",
+        "겨울철 대비 생존 모드 전환"
+      ],
+      "unconfirmed": [
+        "실제 대피 규모와 후속 시설 가동 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "MSN",
+        "Meduza",
+        "The Copenhagen Post",
+        "mezha.net",
+        "2026.10.09 15:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아 공습이 거세지는 가운데 우크라이나 키이우 시장이 주민들에게 임시 대피를 권고했습니다.\n\n· 비탈리 클리치코 시장은 외곽에 지인이 있는 주민들에게 임시 이주를 고려하라고 밝혔습니다 (BBC·AFP)\n· 혹한의 겨울을 앞두고 러시아가 생존을 위협하는 공격을 이어가고 있다고 전했습니다 (메두사)\n\n출처: BBC·AFP·메두사 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아의 공습이 거세지면서 우크라이나 키이우 시장이 주민들에게 임시 이주를 권고했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "비탈리 클리치코 키이우 시장은 외곽에 친인척이나 지인이 있는 주민들은 도시를 떠나 있는 것을 고려하라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "BBC 등 외신은 혹한의 겨울을 앞두고 러시아가 생존을 위협하는 공격을 이어가고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 대피 규모와 상세한 피해 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "키이우 시장이\n[[주민 대피]]를 권고한 이유는?",
+  "broll": [
+    "city snow winter",
+    "train station platform"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}

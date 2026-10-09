@@ -10401,5 +10401,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791519441
+  },
+  {
+    "slug": "2026-10-09-news-kyiv-mayor-evacuation-appeal",
+    "event_ms": 1791526149473,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 러시아 공습이 거세지는 가운데 우크라이나 키이우 시장이 주민들에게 임시 대피를 권고했습니다.\n\n· 비탈리 클리치코 시장은 외곽에 지인이 있는 주민들에게 임시 이주를 고려하라고 밝혔습니다 (BBC·AFP)\n· 혹한의 겨울을 앞두고 러시아가 생존을 위협하는 공격을 이어가고 있다고 전했습니다 (메두사)\n\n출처: BBC·AFP·메두사 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18071621066586842",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeQ1Q15FcGm",
+        "kind": "carousel",
+        "at": 1791526198
+      },
+      "instagram": {
+        "id": "18132209210503762",
+        "permalink": "https://www.instagram.com/reel/DeQ1m8Uip8K/",
+        "kind": "reel",
+        "at": 1791526403
+      },
+      "youtube": {
+        "id": "vxiDw-xQZN8",
+        "permalink": "https://youtube.com/shorts/vxiDw-xQZN8",
+        "kind": "shorts",
+        "at": 1791526419
+      },
+      "tiktok": {
+        "id": "7694547409765944584",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694547409765944584",
+        "kind": "video",
+        "at": 1791526551
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791526561
   }
 ]

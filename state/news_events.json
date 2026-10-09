@@ -1915,5 +1915,15 @@
     "at": 1791518903.1224625,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "kyiv_mayor_evacuation_appeal",
+    "topic": "러시아 공습 심화에 키이우 시장 주민 대피 권고",
+    "slug": "2026-10-09-news-kyiv-mayor-evacuation-appeal",
+    "cluster": "CBMiXkFVX3lxTE5uSDhsLVh5M1ZZQWhPWWI5eUNoYlYtWFNjaXhyUUdzaXpoUWQ2WU5PRVprbWRJX1huby1pckx6TXhZREFLYWpQRTM3cEhSOXFVXzYtWFFFS2xIbTJPbFE",
+    "badge": "brief",
+    "at": 1791526149.472977,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]
