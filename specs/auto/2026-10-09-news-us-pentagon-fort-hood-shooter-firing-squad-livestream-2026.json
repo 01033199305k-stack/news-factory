@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-09-news-us-pentagon-fort-hood-shooter-firing-squad-livestream-2026",
+  "topic": "포트후드 총격범 총살형 생중계 결정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 14:35 KST",
+  "source": "Axios·BBC·NPR 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiekFVX3lxTE5VZ1FBY3E4MEJuR0xZS29PS2lLYTliV0lwSnhpZF9tTjhRa0J1cGtyYmN5VFdQWnVveHhTN1JNdTQ2SThXcUNuUXdDNUxKUVZVVGhPRzFyRFBPR3RvVXdtRGZNcUZ4eWxwcExSeUxYdW16czNoM3lBSEFR",
+    "related": [
+      [
+        "Pentagon says the firing squad execution of Fort Hood shooter will be livestreamed",
+        "NPR"
+      ],
+      [
+        "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+        "BBC"
+      ],
+      [
+        "US to livestream Army firing squad execution of Fort Hood shooter, Pentagon says",
+        "Reuters"
+      ],
+      [
+        "Pete Hegseth says the public can watch Fort Hood shooter's execution",
+        "Axios"
+      ],
+      [
+        "Trump approved the military's 1st firing squad execution since WWII. Why now?",
+        "NPR"
+      ]
+    ],
+    "event_key": "us-pentagon-fort-hood-shooter-firing-squad-livestream-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "포트후드 총격범\n[[총살형 생중계]] 결정",
+      "sub": "미 국방부 발표… 2차 대전 이후 군 첫 총살 집행",
+      "chips": [
+        {
+          "k": "집행방식",
+          "v": "총살형"
+        }
+      ],
+      "alt": "포트후드 총격범 총살형 생중계 결정",
+      "map": {
+        "lat": 38.8708921,
+        "lon": -77.0547022,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴DC",
+      "video_only": true,
+      "map": {
+        "lat": 38.8708921,
+        "lon": -77.0547022,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴DC"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사형 집행 생중계 방침",
+          "d": "미 국방부는 포트후드 기지 총격범의 총살형 집행을 대중에 생중계할 예정이라고 밝혔습니다 (로이터·BBC)."
+        },
+        {
+          "t": "2차 대전 이후 첫 사례",
+          "d": "미군 내에서 총살형이 집행되는 것은 제2차 세계대전 이후 처음이라고 전해졌습니다 (NPR)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 국방부 사형 집행 생중계 발표",
+        "총살형 집행 승인"
+      ],
+      "unconfirmed": [
+        "구체적인 집행 일시",
+        "생중계 송출 플랫폼"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Axios",
+        "BBC",
+        "NPR",
+        "Reuters",
+        "2026.10.09 17:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 국방부, 포트후드 총격범 총살형 생중계 결정\n\n· 포트후드 기지 총격범의 총살형 집행 과정을 생중계할 예정이라고 밝혔습니다 (로이터·BBC).\n· 미군 내 총살형 집행은 제2차 세계대전 이후 처음으로 알려졌습니다 (NPR).\n· 국방부 측은 일반 대중이 집행 과정을 볼 수 있을 것이라고 전했습니다 (액시오스).\n\n사형 집행 과정을 대중에 생중계하는 결정, 어떻게 보십니까?\n\n출처: 로이터·BBC·NPR·액시오스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 국방부가 총격범의 사형 집행 과정을 생중계하기로 결정했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "대상은 포트후드 기지 총격범입니다.",
+      "card": "map"
+    },
+    {
+      "text": "NPR 등은 미군 내 총살형 집행이 제2차 세계대전 이후 처음이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 집행 일시와 중계 방식은 아직 공식 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "사형 집행을\n[[생중계]]한다고?",
+  "broll": [
+    "military base flag",
+    "press conference microphone"
+  ],
+  "place_en": "The Pentagon, Arlington, Virginia, United States"
+}
