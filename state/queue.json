@@ -45,7 +45,7 @@
       }
     },
     "attempts": {
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   },
@@ -91,6 +91,56 @@
         "permalink": "https://youtube.com/shorts/ND0Us2LjXRY",
         "kind": "shorts",
         "at": 1791578763
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-10-usgs-us6000u19w",
+    "event_ms": 1791577539080,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 파나마 인근 규모 6.6 지진\n\n한국 시각 10월 10일 05시 25분, 파나마 Río Grande에서 서쪽 14km. 깊이 10km.\n\n• USGS 피해 추정 등급 '노랑' (일부 인명·경제 피해 가능)\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u19w",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "파나마",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18080782559709204",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeSaTsaAS3i",
+        "kind": "carousel",
+        "at": 1791579177
+      },
+      "instagram": {
+        "id": "18093179324664451",
+        "permalink": "https://www.instagram.com/reel/DeSasRQD7xf/",
+        "kind": "reel",
+        "at": 1791579395
+      },
+      "youtube": {
+        "id": "KWKzHWsFkzQ",
+        "permalink": "https://youtube.com/shorts/KWKzHWsFkzQ",
+        "kind": "shorts",
+        "at": 1791579411
       }
     },
     "attempts": {
