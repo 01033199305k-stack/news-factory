@@ -1905,5 +1905,15 @@
     "at": 1791512098.1079834,
     "country": "싱가포르",
     "category": "재난"
+  },
+  {
+    "event_key": "saudi-riyadh-airport-houthi-strike-2026",
+    "topic": "사우디 리야드 공항 피격 사망 3명·운항 전면 중단",
+    "slug": "2026-10-09-news-saudi-riyadh-airport-houthi-strike-2026",
+    "cluster": "CBMioAFBVV95cUxNOE5hMVMtZW5rMU9xblVNLUNVRkhITXNRSzYyUzJnOEZ6M2k5WGlURjdNUzVoSFdyX0VsT0lvSGZhWWFmdGRuZjI3UHNiN0hYeXJ2NzB1TzZVUXpwM2FZanZQem5WSkNQSkNZOWV2c2puU1l0SUJQc3lRTFRTd25VVVdkaE04Q01BQ19KR2ZMR0FiLTROT1ROaWdaRjBOQmM5",
+    "badge": "breaking",
+    "at": 1791518903.1224625,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-09-news-saudi-riyadh-airport-houthi-strike-2026",
+  "topic": "사우디 리야드 공항 피격 사망 3명·운항 전면 중단",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.09 12:19 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMioAFBVV95cUxNOE5hMVMtZW5rMU9xblVNLUNVRkhITXNRSzYyUzJnOEZ6M2k5WGlURjdNUzVoSFdyX0VsT0lvSGZhWWFmdGRuZjI3UHNiN0hYeXJ2NzB1TzZVUXpwM2FZanZQem5WSkNQSkNZOWV2c2puU1l0SUJQc3lRTFRTd25VVVdkaE04Q01BQ19KR2ZMR0FiLTROT1ROaWdaRjBOQmM5",
+    "related": [
+      [
+        "Houthis claim attack on Riyadh airport as airlines suspend flights to Saudi capital",
+        "The Guardian"
+      ],
+      [
+        "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+        "BBC"
+      ],
+      [
+        "Plane damaged at Riyadh airport as Houthis escalate attacks, sources say",
+        "Reuters"
+      ],
+      [
+        "Iran-backed Houthis target Saudi airports for third straight day as they warn of long conflict",
+        "CNN"
+      ],
+      [
+        "Airlines suspend flights to Saudi capital after Houthis claim attack on airport",
+        "Sky News"
+      ]
+    ],
+    "event_key": "saudi-riyadh-airport-houthi-strike-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "사우디 [[리야드 공항]] 피격\n사망 3명·운항 전면 중단",
+      "sub": "예멘 후티 반군 공격으로 항공기 파손·각국 항공편 중단",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "3명"
+        },
+        {
+          "k": "표적",
+          "v": "리야드 공항"
+        }
+      ],
+      "alt": "사우디 리야드 공항 피격 사망 3명·운항 전면 중단",
+      "map": {
+        "lat": 24.9586204,
+        "lon": 46.7110396,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.9586204,
+        "lon": 46.7110396,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공항 공격으로 3명 사망",
+          "d": "사우디 당국은 후티 반군의 공항 공격으로 3명이 숨졌다고 밝혔습니다 (BBC)."
+        },
+        {
+          "t": "항공기 파손·운항 중단",
+          "d": "리야드 공항에서 항공기가 파손되고 항공사들이 운항을 중단했습니다 (로이터·가디언·스카이뉴스)."
+        },
+        {
+          "t": "사흘 연속 공항 타격",
+          "d": "후티 반군은 사우디 공항들을 사흘 연속 표적으로 삼았다고 전했습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "후티 반군의 사우디 공항 공격",
+        "사망 3명 (사우디 당국·BBC)",
+        "리야드 공항 항공기 파손 및 운항 중단"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 공항 시설 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Reuters",
+        "Sky News",
+        "The Guardian",
+        "2026.10.09 13:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 리야드 공항 피격… 3명 사망\n\n· 예멘 후티 반군의 공격으로 사우디 공항에서 3명이 숨졌습니다 (BBC).\n· 리야드 공항에서 항공기가 파손되고 각국 항공사들이 운항을 중단했습니다 (로이터·가디언·스카이뉴스).\n· 후티 반군은 사우디 공항들을 사흘 연속 공격했다고 밝혔습니다 (CNN).\n\n출처: BBC·로이터·가디언·스카이뉴스·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아 리야드 공항이 공격받아 3명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 후티 반군의 공항 공격으로 사망자가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터는 항공기가 파손되고 주요 항공편 운항이 중단됐다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[리야드 공항]] 피격\n무슨 일이?",
+  "broll": [
+    "airport runway night",
+    "airplane tarmac"
+  ],
+  "place_en": "King Khalid International Airport, Riyadh, Saudi Arabia"
+}
