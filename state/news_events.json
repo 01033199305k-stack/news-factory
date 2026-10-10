@@ -2135,5 +2135,15 @@
     "at": 1791637803.134172,
     "country": "멕시코",
     "category": "재난"
+  },
+  {
+    "event_key": "sudan-drone-strike-2026",
+    "topic": "수단 블루나일주서 드론 공습… 민간인 40명 숨져",
+    "slug": "2026-10-10-news-sudan-drone-strike-2026",
+    "cluster": "CBMipgFBVV95cUxQbTc2anRyaUVLUU5xSFlJT3RyWE84ZENwbHhRcFVWUW5OMW53c2NVSlJtendUTlREMk5sVjV6bWRrOE52ZU5UQXJQRFZuek93UzFtcnNwbEdvcjF4N2F2Q3J5Sm9rU01OWks3emItTndwVnhMa3NIUnIzMi1zdGN1c0N3Uk8wTFE5VGkwaVVSY3lQTlRLbVlBendaRnAwbE1TMUF6Y2R3",
+    "badge": "breaking",
+    "at": 1791641832.3078096,
+    "country": "수단",
+    "category": "총격·테러"
   }
 ]

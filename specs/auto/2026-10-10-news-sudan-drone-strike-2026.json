@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-10-news-sudan-drone-strike-2026",
+  "topic": "수단 블루나일주서 드론 공습… 민간인 40명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 21:27 KST",
+  "source": "ABC News·AP News·Al Jazeera 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxQbTc2anRyaUVLUU5xSFlJT3RyWE84ZENwbHhRcFVWUW5OMW53c2NVSlJtendUTlREMk5sVjV6bWRrOE52ZU5UQXJQRFZuek93UzFtcnNwbEdvcjF4N2F2Q3J5Sm9rU01OWks3emItTndwVnhMa3NIUnIzMi1zdGN1c0N3Uk8wTFE5VGkwaVVSY3lQTlRLbVlBendaRnAwbE1TMUF6Y2R3",
+    "related": [
+      [
+        "Drone strike in Sudan kills 40, Lebanon welcomes US flight ban lift, and other Mideast developments",
+        "AP News"
+      ],
+      [
+        "Rights group says paramilitary drone strike in Sudan killed 41 near Ethiopian border",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "World News in Brief: ‘Horrific’ attack in Sudan, Israeli incursions in Syria intensify, most women and girls homeless in Gaza",
+        "UN News"
+      ],
+      [
+        "Drone strike kills 30 people in Sudan’s Blue Nile region",
+        "Al Jazeera"
+      ],
+      [
+        "Rapid Support Forces Drone Strike Kills About 40 Civilians in Sudan’s Blue Nile: 17 outlets compared",
+        "NewsCord"
+      ]
+    ],
+    "event_key": "sudan-drone-strike-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "수단 블루나일주서 드론 공습…\n민간인 40명 숨져",
+      "sub": "에티오피아 국경 인근 지역에서 발생한 참사",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "40명"
+        }
+      ],
+      "alt": "수단 블루나일주서 드론 공습… 민간인 40명 숨져",
+      "map": {
+        "lat": 11.256454,
+        "lon": 34.0497188,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "수단"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "수단\n블루나일주",
+      "video_only": true,
+      "map": {
+        "lat": 11.256454,
+        "lon": 34.0497188,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "블루나일주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 규모",
+          "d": "신속지원군(RSF)의 드론 공습으로 40명에서 41명이 숨졌다고 AP통신과 ABC뉴스 등이 보도했습니다."
+        },
+        {
+          "t": "발생 지역",
+          "d": "수단 블루나일주의 에티오피아 국경 인근 지역에서 참사가 일어났습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 40명 이상"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "Al Jazeera",
+        "NewsCord",
+        "UN News",
+        "2026.10.10 23:17 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 수단 블루나일주서 드론 공습…민간인 40명 숨져\n\n· 신속지원군(RSF)의 공습으로 에티오피아 국경 인근에서 40명 이상 사망 (AP·ABC뉴스)\n\n출처: AP통신·ABC뉴스·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "수단 블루나일주에서 드론 공습이 발생해 민간인 40명 이상이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP통신 등은 에티오피아 국경 인근 지역에서 참사가 일어났다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "신속지원군의 이번 공격으로 사상자가 발생했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "수단 [[블루나일주]]서\n무슨 일이?",
+  "broll": [
+    "smoke rising cityscape",
+    "desert horizon dust"
+  ],
+  "place_en": "Blue Nile, Sudan"
+}
