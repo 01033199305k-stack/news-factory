@@ -2065,5 +2065,15 @@
     "at": 1791605281.2906022,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "california-coastal-flooding-emergency-evacuation-2026",
+    "topic": "美 캘리포니아 해안 침수 비상사태 선포·대피령",
+    "slug": "2026-10-10-news-california-coastal-flooding-emergency-evacuation-2026",
+    "cluster": "CBMijgFBVV95cUxORVFuQkFHSWNRSUNwdzhoTHVEdUNlakJ1cE9qSlRwckVRazduRjBmZjBQTlJ1d3lySFl1ODkwc1Q3dm05TEhNdXVYVnB1Mmx0OGdvQy11S1h5Vkg4OHJ6bzZPMkJYS20yTS02VVdKWmRsR0R4Z1QwSWo1Skkzd21STk9VQ2xCdFU4QmxSdDdn",
+    "badge": "breaking",
+    "at": 1791607008.3239598,
+    "country": "미국",
+    "category": "재난"
   }
 ]

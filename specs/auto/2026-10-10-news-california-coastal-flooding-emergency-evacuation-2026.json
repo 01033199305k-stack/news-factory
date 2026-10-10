@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-10-news-california-coastal-flooding-emergency-evacuation-2026",
+  "topic": "美 캘리포니아 해안 침수 비상사태 선포·대피령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 11:00 KST",
+  "source": "CBS News·Long Beach Post·NBC 7 San Diego 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijgFBVV95cUxORVFuQkFHSWNRSUNwdzhoTHVEdUNlakJ1cE9qSlRwckVRazduRjBmZjBQTlJ1d3lySFl1ODkwc1Q3dm05TEhNdXVYVnB1Mmx0OGdvQy11S1h5Vkg4OHJ6bzZPMkJYS20yTS02VVdKWmRsR0R4Z1QwSWo1Skkzd21STk9VQ2xCdFU4QmxSdDdn",
+    "related": [
+      [
+        "Newport Beach declares local emergency after coastal flooding on Balboa Peninsula",
+        "CBS News"
+      ],
+      [
+        "Tropical Storm Watch | Sandbag and emergency resources for San Diego County",
+        "cbs8.com"
+      ],
+      [
+        "Ocean floods into Newport Beach; streets fill with salt water",
+        "Orange County Register"
+      ],
+      [
+        "Tropical storm watch issued for San Diego for Rachel's possible heavy rain, flooding",
+        "NBC 7 San Diego"
+      ],
+      [
+        "Long Beach orders evacuations, fast-tracks plans to rebuild beach as waves pound the Peninsula",
+        "Long Beach Post"
+      ]
+    ],
+    "event_key": "california-coastal-flooding-emergency-evacuation-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "美 캘리포니아 해안 [[침수]]\n비상사태 선포·대피령",
+      "sub": "폭풍 영향으로 바닷물 유입… 해안 도시 대피령 발령",
+      "chips": [
+        {
+          "k": "지역",
+          "v": "남부 캘리포니아"
+        },
+        {
+          "k": "조치",
+          "v": "비상사태·대피령"
+        }
+      ],
+      "alt": "美 캘리포니아 해안 침수 비상사태 선포·대피령",
+      "map": {
+        "lat": 33.6170092,
+        "lon": -117.9294401,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아 뉴포트비치",
+      "video_only": true,
+      "map": {
+        "lat": 33.6170092,
+        "lon": -117.9294401,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아 뉴포트비치"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "뉴포트비치 비상사태",
+          "d": "CBS 뉴스는 바닷물이 도로로 밀려들면서 뉴포트비치가 비상사태를 선포했다고 보도했습니다."
+        },
+        {
+          "t": "롱비치 주민 대피령",
+          "d": "롱비치 포스트는 높은 파도로 침수 위험이 커지자 주민 대피령이 내려졌다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "남부 캘리포니아 해안 도로 침수",
+        "뉴포트비치 비상사태 선포",
+        "롱비치 일부 대피령 발령"
+      ],
+      "unconfirmed": [
+        "정확한 침수 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Long Beach Post",
+        "NBC 7 San Diego",
+        "Orange County Register",
+        "cbs8.com",
+        "2026.10.10 13:36 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 캘리포니아 남부 해안가 침수로 비상사태와 대피령이 내려졌습니다.\n\n· 높은 파도와 바닷물 유입으로 뉴포트비치가 비상사태를 선포했습니다 (CBS 뉴스)\n· 롱비치 당국은 해안가 주민들을 대상으로 대피령을 발령했습니다 (롱비치 포스트)\n· 샌디에이고 일대에는 열대성 폭풍 주의보가 발효됐습니다 (NBC)\n\n출처: CBS 뉴스·롱비치 포스트·NBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아 남부 해안에 바닷물이 밀려들어 비상사태가 선포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS 뉴스는 뉴포트비치 시내가 침수돼 비상사태를 선포했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "롱비치 당국은 거센 파도에 대비해 주민들에게 대피령을 내렸습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 침수 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[해안가 마을]]에\n무슨 일이?",
+  "broll": [
+    "flooded street water",
+    "ocean storm waves"
+  ],
+  "place_en": "Newport Beach, California, United States"
+}
