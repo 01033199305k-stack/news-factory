@@ -11818,5 +11818,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791642247
+  },
+  {
+    "slug": "2026-10-10-news-hurricane-simon-mexico-category-4-2026",
+    "event_ms": 1791635280000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 4등급 허리케인 사이먼이 멕시코 해안으로 다가가고 있습니다.\n\n· 허리케인 사이먼이 4등급으로 세력을 키웠습니다 (AP).\n· 멕시코 태평양 연안의 관광 지역을 위협하고 있습니다 (로이터).\n\n출처: AP·로이터·스카이뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "멕시코"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18100167893634988",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeUKT3SoG2g",
+        "kind": "carousel",
+        "at": 1791637898
+      },
+      "instagram": {
+        "id": "17911429197509723",
+        "permalink": "https://www.instagram.com/reel/DeUKli2EjUa/",
+        "kind": "reel",
+        "at": 1791638062
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1791638072
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6aca55aef91f772d4599618f): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1791645214
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791645214
   }
 ]
