@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-10-news-daegu-mart-ceiling-collapse-2026",
+  "topic": "대구 마트 천장 붕괴 장보던 시민 수십 명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 11:40 KST",
+  "source": "MBC 뉴스·경향신문·문화일보 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE0xY08tWFJuTnp5QjRuQmNDc1pVZ2FmeUphUDRBOWI5TVNCUm9OakQ1UXZSUWY3WUJFY1BlX1A1UEg5aEpBdURPTEROLVAxeUVlS05jUVBVUzRMNTR1WDRaWHZ1dDFoNmpCdV9UNEZlenZpTGZsZlFz0gF3QVVfeXFMTmlad3hRRzY3NGRqLVlSZXFycHp1anp6QUdCMXFlY1Jhb0RBclh6UXZ2bk84bFFPWXVVdlpRNTMtQnhaQUNiWjdXbUFnanJjZ250amFGSzQ2Y3VnN0lEb2ZBWU9QcFRtY2hnaThjUEgwYm83dkRBdjg",
+    "related": [
+      [
+        "[속보] 대구 마트에서 천장 일부 붕괴‥\"인명구조 중\"",
+        "MBC 뉴스"
+      ],
+      [
+        "[속보] 대구서 마트 천장 붕괴 사고···수십 명 부상",
+        "경향신문"
+      ],
+      [
+        "李대통령, 대구 천장붕괴 사고에 \"인명구조에 총력 다하라\"",
+        "연합뉴스"
+      ],
+      [
+        "대구 마트서 천장 무너졌다... 장 보다 날벼락, 36명 다쳐",
+        "조선일보"
+      ],
+      [
+        "[단독] 대구 마트서 천장 무너져 수십명 인명 피해…4명 병원 이송",
+        "문화일보"
+      ]
+    ],
+    "event_key": "daegu-mart-ceiling-collapse-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "대구 마트 [[천장 붕괴]]\n장보던 시민 수십 명 부상",
+      "sub": "마트 내부 천장 일부 무너져 인명 구조 중",
+      "chips": [
+        {
+          "k": "피해",
+          "v": "수십 명 부상"
+        }
+      ],
+      "alt": "대구 마트 천장 붕괴 장보던 시민 수십 명 부상",
+      "map": {
+        "lat": 35.8713,
+        "lon": 128.6018,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n대구",
+      "video_only": true,
+      "map": {
+        "lat": 35.8713,
+        "lon": 128.6018,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "대구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "다수 부상자 발생",
+          "d": "조선일보는 장을 보던 시민 36명이 다쳤다고 보도했고 문화일보는 4명이 병원으로 이송됐다고 전했습니다."
+        },
+        {
+          "t": "인명 구조 중",
+          "d": "MBC는 천장 일부가 무너져 인명 구조가 진행 중이라고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "대구 마트 천장 일부 붕괴",
+        "수십 명 부상 발생",
+        "인명 구조 작업 진행"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수 (매체별 집계 차이 있음)",
+        "천장 붕괴 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "경향신문",
+        "문화일보",
+        "연합뉴스",
+        "조선일보",
+        "2026.10.10 13:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 대구 한 마트에서 천장이 무너져 수십 명이 다쳤습니다.\n\n· 장을 보던 시민 36명 부상(조선일보), 4명 병원 이송(문화일보)\n· 인명 구조 작업 진행 중 (MBC)\n· 이 대통령, 인명 구조에 총력 다하라 지시 (연합뉴스)\n\n출처: MBC 뉴스·경향신문·연합뉴스·조선일보·문화일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "대구의 한 마트에서 천장이 무너지는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현재 인명 구조 작업이 진행 중입니다.",
+      "card": "map"
+    },
+    {
+      "text": "장을 보던 시민 등 수십 명이 다쳤고 4명이 병원으로 이송됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "천장이 무너진 구체적인 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "대구 마트\n[[천장]] 무너졌다",
+  "broll": [
+    "supermarket aisle",
+    "fire truck night"
+  ],
+  "place_en": "Daegu, South Korea"
+}
