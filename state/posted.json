@@ -11440,5 +11440,114 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791607542
+  },
+  {
+    "slug": "2026-10-10-usgs-us6000u1cf",
+    "event_ms": 1791605641786,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 파나마 인근 규모 6.0 지진\n\n한국 시각 10월 10일 13시 14분, 파나마 La Tronosa에서 북쪽 7km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u1cf",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "파나마",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18118000573785624",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeTPfklm9XI",
+        "kind": "carousel",
+        "at": 1791607060
+      },
+      "instagram": {
+        "id": "18098013230560181",
+        "permalink": "https://www.instagram.com/reel/DeTP-T3jNzN/",
+        "kind": "reel",
+        "at": 1791607328
+      },
+      "youtube": {
+        "id": "Nl7NYuYU3I4",
+        "permalink": "https://youtube.com/shorts/Nl7NYuYU3I4",
+        "kind": "shorts",
+        "at": 1791607400
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ac9d622ed92ed8fa5bb88c0): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1791612562
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791612562
+  },
+  {
+    "slug": "2026-10-10-news-california-coastal-flooding-emergency-evacuation-2026",
+    "event_ms": 1791597650000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 캘리포니아 남부 해안가 침수로 비상사태와 대피령이 내려졌습니다.\n\n· 높은 파도와 바닷물 유입으로 뉴포트비치가 비상사태를 선포했습니다 (CBS 뉴스)\n· 롱비치 당국은 해안가 주민들을 대상으로 대피령을 발령했습니다 (롱비치 포스트)\n· 샌디에이고 일대에는 열대성 폭풍 주의보가 발효됐습니다 (NBC)\n\n출처: CBS 뉴스·롱비치 포스트·NBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18438473602183142",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeTPkEim4JF",
+        "kind": "carousel",
+        "at": 1791607096
+      },
+      "instagram": {
+        "id": "18017290541745533",
+        "permalink": "https://www.instagram.com/reel/DeTQDXFjyol/",
+        "kind": "reel",
+        "at": 1791607371
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1791607410
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ac9d693ed92ed8fa5bb94e2): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1791612675
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791612675
   }
 ]
