@@ -11871,5 +11871,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791645214
+  },
+  {
+    "slug": "2026-10-10-news-sudan-drone-strike-2026",
+    "event_ms": 1791635220000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 수단 블루나일주서 드론 공습…민간인 40명 숨져\n\n· 신속지원군(RSF)의 공습으로 에티오피아 국경 인근에서 40명 이상 사망 (AP·ABC뉴스)\n\n출처: AP통신·ABC뉴스·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "수단"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18130473325753752",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeUSEr5FjMT",
+        "kind": "carousel",
+        "at": 1791641965
+      },
+      "instagram": {
+        "id": "18106855738968222",
+        "permalink": "https://www.instagram.com/reel/DeUSV9tlTGw/",
+        "kind": "reel",
+        "at": 1791642123
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1791642134
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6aca5913ed92ed8fa5d278b2): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1791646083
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791646083
   }
 ]
