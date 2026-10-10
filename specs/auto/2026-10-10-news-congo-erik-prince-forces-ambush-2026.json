@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-10-news-congo-erik-prince-forces-ambush-2026",
+  "topic": "민주콩고서 사설 용병 피격 특수부대 출신 등 사상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 06:46 KST",
+  "source": "Reuters·The New York Times·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwAFBVV95cUxPSnRfZTRYeTRDaDlhaTVnODk3Z2xDU2wtSlUzQ0luYmNfZGlTNGRNOVBvVURsTklDYjFSUFRvT2ZEYjd3RUxLSmZQUUlNcGRCS1VYLS1NdUJ6Q0ZoU2RqemlXNWROWHNnYkFBVEc2bmp0T201UnJmaEhhMmhlRTk1c2d5eDBXc2tkcWgweWRmbW8wMThWcHIzUkhpbVZWRjhQRW1JMW1wNU5EeVVJWVhWR3gxblRqaG11UjlzajB3YjI",
+    "related": [
+      [
+        "EXCLUSIVE: Erik Prince's forces suffer battlefield loss in Congo, former UFC fighter among wounded, sources say",
+        "Reuters"
+      ],
+      [
+        "A Deadly Firefight Exposes Erik Prince’s New Shadow War in Congo",
+        "The New York Times"
+      ],
+      [
+        "Former UFC fighter, Green Beret Tim Kennedy reportedly shot in Congo ambush",
+        "Stars and Stripes"
+      ],
+      [
+        "NZSAS veteran died in Congo ambush that wounded Green Beret MMA star - reports",
+        "NZ Herald"
+      ],
+      [
+        "UFC veteran Tim Kennedy allegedly ambushed and wounded in Congo",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "congo-erik-prince-forces-ambush-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "민주콩고서 [[사설 용병]] 피격\n특수부대 출신 등 사상",
+      "sub": "에릭 프린스 군사 조직 매복당해",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "민주콩고서 사설 용병 피격 특수부대 출신 등 사상",
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "민주콩고"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "민주콩고",
+      "video_only": true,
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "민주콩고"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사설 군 조직 피격",
+          "d": "에릭 프린스의 사설 군사 조직이 민주콩고에서 매복 공격을 받았습니다 (로이터·뉴욕타임스)."
+        },
+        {
+          "t": "특수부대 출신 사망",
+          "d": "이번 피격으로 특수부대 베테랑 요원 1명이 숨졌습니다 (뉴질랜드헤럴드)."
+        },
+        {
+          "t": "UFC 파이터 부상",
+          "d": "전 UFC 파이터이자 그린베레 출신인 팀 케네디도 이번 총격으로 다쳤습니다 (스타스앤스트립스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에릭 프린스 부대 피격",
+        "특수부대 출신 1명 사망",
+        "전 UFC 파이터 부상"
+      ],
+      "unconfirmed": [
+        "공격 주체 및 정확한 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "NZ Herald",
+        "Reuters",
+        "Stars and Stripes",
+        "The New York Times",
+        "Yahoo",
+        "2026.10.10 09:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 민주콩고서 사설 용병 부대 매복 피격, 특수부대원 등 사상\n\n· 에릭 프린스의 사설 군사 조직이 민주콩고에서 매복 공격을 받았습니다 (뉴욕타임스)\n· 이번 피격으로 특수부대 베테랑 요원 1명이 사망했습니다 (뉴질랜드헤럴드)\n· 전 UFC 파이터이자 그린베레 출신인 팀 케네디도 총격을 받아 다쳤습니다 (스타스앤스트립스)\n\n출처: 로이터·뉴욕타임스·뉴질랜드헤럴드 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "콩고민주공화국에서 사설 용병 부대가 매복 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "에릭 프린스의 사설 조직이 타격을 받았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이 공격으로 특수부대 출신 1명이 사망하고 전 UFC 파이터 팀 케네디가 다쳤습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 피격 경위와 공격 주체는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[비밀 용병]] 부대가\n매복 공격당한 곳",
+  "broll": [
+    "soldier patrol forest",
+    "military vehicle road"
+  ],
+  "place_en": "Democratic Republic of the Congo"
+}

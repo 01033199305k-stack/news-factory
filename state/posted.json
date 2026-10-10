@@ -11220,5 +11220,115 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791580270
+  },
+  {
+    "slug": "2026-10-10-news-moscow-airports-closed-ukraine-drone-strike-2026",
+    "event_ms": 1791576934000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라이나의 드론 공습으로 러시아 모스크바 공항 4곳이 폐쇄됐습니다.\n\n· 푸틴 대통령이 모스크바로 복귀하는 중 공습이 발생해 정부기 착륙이 중단됐습니다 (더 텔레그래프).\n· 모스크바와 주변 지역에 드론과 풍선 공격이 가해지며 공항 네 곳이 닫혔습니다 (우크린포름).\n\n출처: 더 텔레그래프·우크린포름 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18168427897473183",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeSqDKLHG5q",
+        "kind": "carousel",
+        "at": 1791587439
+      },
+      "instagram": {
+        "id": "18113565851465646",
+        "permalink": "https://www.instagram.com/reel/DeSqU5iEkFZ/",
+        "kind": "reel",
+        "at": 1791587590
+      },
+      "youtube": {
+        "id": "VhUXV9DCO-c",
+        "permalink": "https://youtube.com/shorts/VhUXV9DCO-c",
+        "kind": "shorts",
+        "at": 1791587639
+      },
+      "tiktok": {
+        "id": "7694825019595181332",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694825019595181332",
+        "kind": "video",
+        "at": 1791591185
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791591195
+  },
+  {
+    "slug": "2026-10-10-news-congo-erik-prince-forces-ambush-2026",
+    "event_ms": 1791582391000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 민주콩고서 사설 용병 부대 매복 피격, 특수부대원 등 사상\n\n· 에릭 프린스의 사설 군사 조직이 민주콩고에서 매복 공격을 받았습니다 (뉴욕타임스)\n· 이번 피격으로 특수부대 베테랑 요원 1명이 사망했습니다 (뉴질랜드헤럴드)\n· 전 UFC 파이터이자 그린베레 출신인 팀 케네디도 총격을 받아 다쳤습니다 (스타스앤스트립스)\n\n출처: 로이터·뉴욕타임스·뉴질랜드헤럴드 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "민주콩고"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18395368699167250",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeSwqX3jvPz",
+        "kind": "carousel",
+        "at": 1791590896
+      },
+      "instagram": {
+        "id": "17936047101403343",
+        "permalink": "https://www.instagram.com/reel/DeSw7TuAMit/",
+        "kind": "reel",
+        "at": 1791591053
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791591063
+      },
+      "tiktok": {
+        "id": "7694825615593164039",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694825615593164039",
+        "kind": "video",
+        "at": 1791591317
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791591327
   }
 ]
