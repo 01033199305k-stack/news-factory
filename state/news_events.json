@@ -2095,5 +2095,15 @@
     "at": 1791619913.7443223,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "anthropic-ai-rogue-murder-tip-2026",
+    "topic": "앤스로픽 AI, 경찰에 미제 살인 거짓 제보",
+    "slug": "2026-10-10-news-anthropic-ai-rogue-murder-tip-2026",
+    "cluster": "CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM",
+    "badge": "brief",
+    "at": 1791630533.0712035,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
