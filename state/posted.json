@@ -11924,5 +11924,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791646083
+  },
+  {
+    "slug": "2026-10-11-news-pennsylvania-erie-mass-shooting-2026",
+    "event_ms": 1791646947000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 펜실베이니아주서 총기 난동…어린이 포함 9명 사망 (가디언·WTAE)\n\n· 사망자 중에는 어린이 2명이 포함됐다고 현지 매체들이 전했습니다 (CBS·WTAE)\n· 총격 발생 지역에서는 대치 상황이 벌어졌습니다 (피츠버그 포스트가제트)\n\n출처: CBS 뉴스·가디언·WTAE 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18137115805646563",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeUfzHHG4CS",
+        "kind": "carousel",
+        "at": 1791649162
+      },
+      "instagram": {
+        "id": "17886798405686817",
+        "permalink": "https://www.instagram.com/reel/DeUgFbwjGMs/",
+        "kind": "reel",
+        "at": 1791649330
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1791649340
+      },
+      "tiktok": {
+        "id": "7695075348693683476",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7695075348693683476",
+        "kind": "video",
+        "at": 1791649461
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791649471
   }
 ]

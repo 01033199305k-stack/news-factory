@@ -1,0 +1,146 @@
+{
+  "slug": "2026-10-11-news-pennsylvania-erie-mass-shooting-2026",
+  "topic": "미 펜실베이니아서 총기 난동 어린이 포함 사망 9명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 00:42 KST",
+  "source": "CBS News·The Guardian·Pittsburgh Post-Gazette 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijgFBVV95cUxNLVlQVmJCVGVoLWlfUWhWMk1BM0prajZwMlg2WTB6SEhWLVJjeXJ1UGZRc2prbm9xS0xLVmxnanBLMzQwbko3bTZ4eDJtWnVONmxZLXI5Slc3dGJQamVTS0tVaGFDeWdLbVFfUGpDLWFNWEFJdVc5YjJ2RE9PM0hBMVcyNzJjOV9uUnp3ay1n",
+    "related": [
+      [
+        "Multiple people killed, including 2 children, in reported mass shooting in northern Pennsylvania",
+        "CBS News"
+      ],
+      [
+        "‘Difficult and heartbreaking’ — At least 5 dead after shooting on Erie’s East Side",
+        "WJET/WFXP/YourErie.com"
+      ],
+      [
+        "Nine people, including children, dead after mass shooting in Pennsylvania",
+        "The Guardian"
+      ],
+      [
+        "'Horrific scene': 9 people dead, including 2 children in Erie shooting",
+        "WTAE"
+      ],
+      [
+        "9 killed, including 2 children, in Erie mass shooting and standoff",
+        "Pittsburgh Post-Gazette"
+      ]
+    ],
+    "event_key": "pennsylvania-erie-mass-shooting-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 [[펜실베이니아]]서 총기 난동\n어린이 포함 사망 [[9명]]",
+      "sub": "총기 난동과 함께 대치 상황 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "9명"
+        },
+        {
+          "k": "어린이",
+          "v": "2명"
+        }
+      ],
+      "alt": "미 펜실베이니아서 총기 난동 어린이 포함 사망 9명",
+      "map": {
+        "lat": 42.1294712,
+        "lon": -80.0852695,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n펜실베이니아주 이리",
+      "video_only": true,
+      "map": {
+        "lat": 42.1294712,
+        "lon": -80.0852695,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "펜실베이니아주 이리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "어린이 피해",
+          "d": "사망자 9명 중에는 어린이 2명이 포함됐다고 CBS 뉴스 등이 전했습니다."
+        },
+        {
+          "t": "대치 상황",
+          "d": "피츠버그 포스트가제트는 총기 난동과 함께 대치 상황이 벌어졌다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 9명 (가디언·WTAE)",
+        "어린이 2명 사망 (CBS·WTAE)",
+        "펜실베이니아주 이리 발생 (WJET·WTAE)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 범행 동기와 경위",
+        "용의자 신원 및 생사 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Pittsburgh Post-Gazette",
+        "The Guardian",
+        "WJET/WFXP/YourErie.com",
+        "WTAE",
+        "2026.10.11 01:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 펜실베이니아주서 총기 난동…어린이 포함 9명 사망 (가디언·WTAE)\n\n· 사망자 중에는 어린이 2명이 포함됐다고 현지 매체들이 전했습니다 (CBS·WTAE)\n· 총격 발생 지역에서는 대치 상황이 벌어졌습니다 (피츠버그 포스트가제트)\n\n출처: CBS 뉴스·가디언·WTAE 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펜실베이니아주에서 총기 난동이 일어나 9명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS 등 외신은 사망자 가운데 어린이 2명이 포함됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현장에서는 총격 발생과 함께 대치 상황이 벌어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 동기와 용의자 신원은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미 [[펜실베이니아]]서\n벌어진 총격",
+  "broll": [
+    "police cruiser night lights",
+    "caution tape street"
+  ],
+  "place_en": "Erie, Pennsylvania, USA"
+}
