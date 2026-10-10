@@ -2085,5 +2085,15 @@
     "at": 1791608863.695253,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "hurricane-isaias-us-florida-landfall-2026",
+    "topic": "허리케인 이사이아스 美 플로리다 상륙",
+    "slug": "2026-10-10-news-hurricane-isaias-us-florida-landfall-2026",
+    "cluster": "CBMiW0FVX3lxTFA1dkdoNDh3YUNMUHQzVUdtM3JQYWUzWnpTRGgxeDRXOUhWdlh0SFdrV2M0WngwUWFldGFWZktFYjc5ZXdidUQ1MVU2ZGtiMFRRaURmcGJBdnVkcWs",
+    "badge": "breaking",
+    "at": 1791619913.7443223,
+    "country": "미국",
+    "category": "재난"
   }
 ]

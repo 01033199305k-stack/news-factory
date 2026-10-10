@@ -11604,5 +11604,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791616162
+  },
+  {
+    "slug": "2026-10-10-news-hurricane-isaias-us-florida-landfall-2026",
+    "event_ms": 1791615256000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 허리케인 이사이아스가 미국 플로리다주에 상륙했습니다.\n\n· 강한 바람과 함께 멕시코만 연안에 위험한 홍수 피해를 주고 있습니다 (AP)\n· 플로리다주와 앨라배마주 일대 주민들에게 대피령이 내려졌습니다 (야후)\n· 세력이 약화했으나 영향은 지속되고 있습니다 (로컬3뉴스)\n\n출처: BBC·야후·AP·NBC·로컬3뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18086236988300426",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeToGgPlqUZ",
+        "kind": "carousel",
+        "at": 1791619961
+      },
+      "instagram": {
+        "id": "17950083327315876",
+        "permalink": "https://www.instagram.com/reel/DeTocVIE-SU/",
+        "kind": "reel",
+        "at": 1791620157
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1791620167
+      },
+      "tiktok": {
+        "id": "7694950029827640596",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7694950029827640596",
+        "kind": "video",
+        "at": 1791620288
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791620298
   }
 ]

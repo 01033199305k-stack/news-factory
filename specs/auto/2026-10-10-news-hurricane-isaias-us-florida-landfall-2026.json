@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-10-news-hurricane-isaias-us-florida-landfall-2026",
+  "topic": "허리케인 이사이아스 美 플로리다 상륙",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 15:54 KST",
+  "source": "AP News·BBC·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFA1dkdoNDh3YUNMUHQzVUdtM3JQYWUzWnpTRGgxeDRXOUhWdlh0SFdrV2M0WngwUWFldGFWZktFYjc5ZXdidUQ1MVU2ZGtiMFRRaURmcGJBdnVkcWs",
+    "related": [
+      [
+        "Life-threatening Hurricane Isaias makes landfall in Florida",
+        "BBC"
+      ],
+      [
+        "Hurricane Isaias live tracker: Major Category 3 storm expected to make landfall along the Gulf Coast this evening; evacuations ordered in Alabama and Florida",
+        "Yahoo"
+      ],
+      [
+        "Isaias makes landfall as hurricane, hammering US Gulf Coast with powerful winds, dangerous flooding",
+        "AP News"
+      ],
+      [
+        "Hurricane Isaias makes landfall along Gulf Coast as powerful storm",
+        "NBC 6 South Florida"
+      ],
+      [
+        "TRACKING ISAIAS: Post-Tropical Cyclone Isaias weakens, but impacts continue",
+        "Local3News.com"
+      ]
+    ],
+    "event_key": "hurricane-isaias-us-florida-landfall-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "허리케인 [[이사이아스]]\n美 플로리다 상륙",
+      "sub": "강풍과 강한 홍수 동반해 멕시코만 연안 타격",
+      "chips": [],
+      "alt": "허리케인 이사이아스 美 플로리다 상륙",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다",
+      "video_only": true,
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주민 대피령 발령",
+          "d": "플로리다주와 앨라배마주 일대에 대피령이 내려졌습니다 (야후)."
+        },
+        {
+          "t": "세력 약화에도 영향 지속",
+          "d": "세력이 약화했으나 여전히 영향을 주고 있습니다 (로컬3뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "허리케인 이사이아스 美 상륙",
+        "플로리다·앨라배마 대피령"
+      ],
+      "unconfirmed": [
+        "정확한 인명·재산 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "Local3News.com",
+        "NBC 6 South Florida",
+        "Yahoo",
+        "2026.10.10 17:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 허리케인 이사이아스가 미국 플로리다주에 상륙했습니다.\n\n· 강한 바람과 함께 멕시코만 연안에 위험한 홍수 피해를 주고 있습니다 (AP)\n· 플로리다주와 앨라배마주 일대 주민들에게 대피령이 내려졌습니다 (야후)\n· 세력이 약화했으나 영향은 지속되고 있습니다 (로컬3뉴스)\n\n출처: BBC·야후·AP·NBC·로컬3뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "허리케인 이사이아스가 미국 플로리다주에 상륙했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "강풍과 함께 위험한 홍수가 멕시코만 연안을 타격했다고 외신들은 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "플로리다와 앨라배마주 일대에는 주민 대피령이 내려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 플로리다 상륙한\n[[허리케인]] 이사이아스?",
+  "broll": [
+    "hurricane flooding",
+    "storm wind coast"
+  ],
+  "place_en": "Florida, USA"
+}
