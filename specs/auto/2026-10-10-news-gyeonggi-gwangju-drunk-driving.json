@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-10-news-gyeonggi-gwangju-drunk-driving",
+  "topic": "경기 광주서 만취 운전 추돌 오토바이 운전자 1명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 11:19 KST",
+  "source": "KBS 뉴스·MBC 뉴스·YTN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE8zZEJWQ3pIc29xazlOc1lUN1VZeUdLN2VkcUZFQlBLYU9LekRuLWNTS3ByeE1NX2JGcFQzWkx1VWU0OUZfek43R0FQdGJsME51NEpjWXB0SmxlN1U",
+    "related": [
+      [
+        "경기 광주서 음주운전 차량이 오토바이 추돌…운전자 심정지",
+        "KBS 뉴스"
+      ],
+      [
+        "시속 150km로 도주하던 만취 운전자, 오토바이 추돌‥1명 사망",
+        "MBC 뉴스"
+      ],
+      [
+        "음주운전 차에 치인 오토바이...알고 보니 '절도범'?",
+        "YTN"
+      ],
+      [
+        "뺑소니 후 150㎞ 달아나다 오토바이 사망 사고...20대 현행범 체포",
+        "경기일보"
+      ],
+      [
+        "경기 광주서 만취 운전자가 오토바이 추돌…1명 심정지",
+        "연합뉴스"
+      ]
+    ],
+    "event_key": "gyeonggi_gwangju_drunk_driving"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "경기 광주서 [[만취 운전]] 추돌\n오토바이 운전자 1명 [[사망]]",
+      "sub": "시속 150km로 도주하던 20대 운전자 체포",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "도주 속도",
+          "v": "시속 150km"
+        }
+      ],
+      "alt": "경기 광주서 만취 운전 추돌 오토바이 운전자 1명 사망",
+      "map": {
+        "lat": 37.4290844,
+        "lon": 127.255189,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n경기 광주",
+      "video_only": true,
+      "map": {
+        "lat": 37.4290844,
+        "lon": 127.255189,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "경기 광주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 경위",
+          "d": "만취 상태의 운전자가 시속 150km로 달아나다 오토바이를 추돌했습니다 (MBC·경기일보)."
+        },
+        {
+          "t": "체포",
+          "d": "20대 운전자가 현행범으로 체포됐습니다 (경기일보)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명 (KBS·MBC·경기일보)",
+        "20대 운전자 현행범 체포 (경기일보)"
+      ],
+      "unconfirmed": [
+        "정확한 음주 측정 수치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "YTN",
+        "경기일보",
+        "연합뉴스",
+        "2026.10.10 14:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 경기 광주서 만취 운전 추돌로 오토바이 운전자 1명 사망\n\n· 시속 150km로 도주하던 20대 운전자 현행범 체포 (경기일보)\n· 음주운전 차량이 오토바이를 추돌해 발생 (KBS·MBC)\n\n출처: KBS·MBC·YTN·경기일보·연합뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경기 광주에서 만취 운전 차량이 오토바이를 추돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경기일보는 20대 운전자가 시속 150킬로미터로 도주하다 체포됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 음주 측정 수치는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "경기 광주서\n[[만취 운전]] 사고",
+  "broll": [
+    "police car night",
+    "ambulance flashing lights"
+  ],
+  "place_en": "Gwangju, Gyeonggi-do, South Korea"
+}

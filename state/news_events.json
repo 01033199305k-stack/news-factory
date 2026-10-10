@@ -2075,5 +2075,15 @@
     "at": 1791607008.3239598,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "gyeonggi_gwangju_drunk_driving",
+    "topic": "경기 광주서 만취 운전 추돌 오토바이 운전자 1명 사망",
+    "slug": "2026-10-10-news-gyeonggi-gwangju-drunk-driving",
+    "cluster": "CBMiW0FVX3lxTE8zZEJWQ3pIc29xazlOc1lUN1VZeUdLN2VkcUZFQlBLYU9LekRuLWNTS3ByeE1NX2JGcFQzWkx1VWU0OUZfek43R0FQdGJsME51NEpjWXB0SmxlN1U",
+    "badge": "breaking",
+    "at": 1791608863.695253,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]
