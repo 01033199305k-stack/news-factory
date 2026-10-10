@@ -1,0 +1,118 @@
+{
+  "slug": "2026-10-10-news-hurricane-simon-mexico-category-4-2026",
+  "topic": "4등급 허리케인 사이먼 멕시코 해안 접근",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 21:28 KST",
+  "source": "AP News·Reuters·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw",
+    "related": [
+      [
+        "Simon strengthens into a Category 4 hurricane as it approaches Mexico’s coast",
+        "AP News"
+      ],
+      [
+        "Rare tale of two coasts unfolds as tropical systems target the Gulf and the West Coast",
+        "FOX Weather"
+      ],
+      [
+        "Hurricane Simon strengthens off Mexico's Pacific coast, threatens tourist region",
+        "Reuters"
+      ],
+      [
+        "Hurricane Isaias makes landfall in US as another powerful storm barrels towards Mexico",
+        "Sky News"
+      ],
+      [
+        "Maps: Tracking Hurricane Simon",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "hurricane-simon-mexico-category-4-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "4등급 허리케인 [[사이먼]]\n멕시코 해안 접근",
+      "sub": "4등급으로 세력 키우며 태평양 연안 관광 지역 위협",
+      "chips": [
+        {
+          "k": "위력",
+          "v": "4등급"
+        }
+      ],
+      "alt": "4등급 허리케인 사이먼 멕시코 해안 접근"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "4등급으로 세력 확대",
+          "d": "허리케인 사이먼이 4등급으로 세력을 키우며 멕시코 해안에 접근하고 있습니다 (AP)."
+        },
+        {
+          "t": "관광 지역 위협",
+          "d": "멕시코 태평양 연안의 관광 지역을 위협하고 있습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "허리케인 사이먼 4등급 발달",
+        "멕시코 태평양 연안 접근 및 관광 지역 위협"
+      ],
+      "unconfirmed": [
+        "정확한 상륙 시점과 상륙지",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "FOX Weather",
+        "Reuters",
+        "Sky News",
+        "The New York Times",
+        "2026.10.10 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 4등급 허리케인 사이먼이 멕시코 해안으로 다가가고 있습니다.\n\n· 허리케인 사이먼이 4등급으로 세력을 키웠습니다 (AP).\n· 멕시코 태평양 연안의 관광 지역을 위협하고 있습니다 (로이터).\n\n출처: AP·로이터·스카이뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "4등급 허리케인 사이먼이 멕시코 해안으로 다가가고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "태평양 연안의 관광 지역을 위협하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 사이먼이 4등급 허리케인으로 세력을 키웠다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 상륙 지점과 현지 피해 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "멕시코 향하는\n[[4등급 허리케인]]",
+  "broll": [
+    "storm clouds ocean",
+    "hurricane radar satellite"
+  ],
+  "place_en": "Pacific Coast, Mexico"
+}

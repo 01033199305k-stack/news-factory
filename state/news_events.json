@@ -2125,5 +2125,15 @@
     "at": 1791634161.4595647,
     "country": "이탈리아",
     "category": "재난"
+  },
+  {
+    "event_key": "hurricane-simon-mexico-category-4-2026",
+    "topic": "4등급 허리케인 사이먼 멕시코 해안 접근",
+    "slug": "2026-10-10-news-hurricane-simon-mexico-category-4-2026",
+    "cluster": "CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw",
+    "badge": "breaking",
+    "at": 1791637803.134172,
+    "country": "멕시코",
+    "category": "재난"
   }
 ]
