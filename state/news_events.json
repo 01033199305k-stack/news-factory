@@ -2045,5 +2045,15 @@
     "at": 1791590847.9048903,
     "country": "민주콩고",
     "category": "국제"
+  },
+  {
+    "event_key": "seoul-taxi-crash-gwangjin",
+    "topic": "광진구 인도 덮친 택시, 40대 부부 사상",
+    "slug": "2026-10-10-news-seoul-taxi-crash-gwangjin",
+    "cluster": "CBMidkFVX3lxTE5xRG8zYzFuMzVpc0tBeUc1TDdGdlJJZHBxcDFpSzhvUHJ1cDM4VUxoSFl2d2hhSmVGcHNOajhFOHlLR3JqWnhHZm5ySUc1SEV6WXZFcXM2TUczZE9qTnNsMHU1clJ4RzFRbmpOQ2hLVk9JMl9WWmfSAWZBVV95cUxQSk9Wck96WU5TMG51M3FQc0NvRjRCMC0wUk5vbWtjUXdJYk1SMWd6Z1NHQUE5Q1JOQ0pTeGg1cTZzVmxESHJ3YkU3UERqN2xOdmVCM1hQdEp1RWNySVh0bWVQUC0yeHc",
+    "badge": "breaking",
+    "at": 1791598164.2481642,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]

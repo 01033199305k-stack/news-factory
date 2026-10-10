@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-10-news-seoul-taxi-crash-gwangjin",
+  "topic": "광진구 인도 덮친 택시, 40대 부부 사상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 08:43 KST",
+  "source": "KBS 뉴스·YTN·동아일보 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMidkFVX3lxTE5xRG8zYzFuMzVpc0tBeUc1TDdGdlJJZHBxcDFpSzhvUHJ1cDM4VUxoSFl2d2hhSmVGcHNOajhFOHlLR3JqWnhHZm5ySUc1SEV6WXZFcXM2TUczZE9qTnNsMHU1clJ4RzFRbmpOQ2hLVk9JMl9WWmfSAWZBVV95cUxQSk9Wck96WU5TMG51M3FQc0NvRjRCMC0wUk5vbWtjUXdJYk1SMWd6Z1NHQUE5Q1JOQ0pTeGg1cTZzVmxESHJ3YkU3UERqN2xOdmVCM1hQdEp1RWNySVh0bWVQUC0yeHc",
+    "related": [
+      [
+        "서울 광진구서 70대 몰던 택시, 인도 돌진…40대 남성 사망",
+        "동아일보"
+      ],
+      [
+        "평온했던 저녁, 순식간에...처참한 사고 현장 [자막뉴스]",
+        "YTN"
+      ],
+      [
+        "어린이대공원역 인근서 70대 몰던 택시 인도 덮쳐…40대 심정지",
+        "연합뉴스"
+      ],
+      [
+        "70대 택시기사 졸음운전에… 40대 부부 참변",
+        "조선일보"
+      ],
+      [
+        "70대 몰던 택시가 인도 덮쳐 40대 부부 사상",
+        "KBS 뉴스"
+      ]
+    ],
+    "event_key": "seoul-taxi-crash-gwangjin"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "광진구 인도 덮친 [[택시]],\n40대 부부 사상",
+      "sub": "70대 운전자가 몰던 택시가 인도로 돌진했습니다.",
+      "chips": [
+        {
+          "k": "사상자",
+          "v": "사상 2명"
+        }
+      ],
+      "alt": "광진구 인도 덮친 택시, 40대 부부 사상",
+      "map": {
+        "lat": 37.5362696,
+        "lon": 127.0879515,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울 광진구",
+      "video_only": true,
+      "map": {
+        "lat": 37.5362696,
+        "lon": 127.0879515,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울 광진구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 장소",
+          "d": "서울 광진구 어린이대공원역 인근 인도에서 발생했습니다 (동아일보·연합뉴스)."
+        },
+        {
+          "t": "운전자",
+          "d": "70대 택시기사가 차량을 몰던 중 사고를 냈습니다 (동아일보·조선일보)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "서울 광진구 인도 돌진",
+        "70대 택시기사 운전",
+        "40대 부부 사상 발생"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "YTN",
+        "동아일보",
+        "연합뉴스",
+        "조선일보",
+        "2026.10.10 11:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 서울 광진구 인도 덮친 택시…40대 부부 사상\n\n· 70대 택시기사가 몰던 차량이 어린이대공원역 인근 인도로 돌진했습니다 (동아일보·연합뉴스)\n· 이 사고로 40대 부부가 사상당했습니다 (조선일보·KBS 뉴스)\n\n출처: 동아일보·YTN·연합뉴스·조선일보·KBS 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "서울 광진구 인도에서 택시가 돌진해 40대 부부가 사상당했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "어린이대공원역 인근에서 70대 택시기사가 운전하던 차량이 인도를 덮쳤습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "서울 광진구에서\n[[택시]]가 인도를?",
+  "broll": [
+    "car crash street night",
+    "ambulance emergency lights"
+  ],
+  "place_en": "Gwangjin-gu, Seoul, South Korea"
+}
