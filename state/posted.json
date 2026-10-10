@@ -11330,5 +11330,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791591327
+  },
+  {
+    "slug": "2026-10-10-news-seoul-taxi-crash-gwangjin",
+    "event_ms": 1791589417000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 서울 광진구 인도 덮친 택시…40대 부부 사상\n\n· 70대 택시기사가 몰던 차량이 어린이대공원역 인근 인도로 돌진했습니다 (동아일보·연합뉴스)\n· 이 사고로 40대 부부가 사상당했습니다 (조선일보·KBS 뉴스)\n\n출처: 동아일보·YTN·연합뉴스·조선일보·KBS 뉴스 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18012423560761521",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeS-nx7EfZO",
+        "kind": "carousel",
+        "at": 1791598213
+      },
+      "instagram": {
+        "id": "17963805441230291",
+        "permalink": "https://www.instagram.com/reel/DeS-3JmDN0m/",
+        "kind": "reel",
+        "at": 1791598358
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1791598368
+      },
+      "tiktok": {
+        "id": "6ac9abf5b07d37ac975c2130",
+        "permalink": "",
+        "kind": "video",
+        "at": 1791601853
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791601863
   }
 ]
