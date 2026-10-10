@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-10-news-us-sanctions-icc-nobel-peace-prize-2026",
+  "topic": "미국, 국제형사재판소에 전격 제재 부과",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 23:24 KST",
+  "source": "Al Jazeera·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiogFBVV95cUxPT29SMHVPVGc5OUxjT2plSDN3ZkNLVTF6c25wSDZlZW5TcE5reTJTU0ZIUS1RTEdnTld6YjU1c2pnNE5NTTV2R1VVZ2R3VFdDWjVDVnJ5dTJTdHJyRC1XaWphTWtUdk01V2s5NUdrV04xdzJrVG52bkxKa2w1elJQcXdBcS1fRGlNSENIN2tTTFk2b2VNQ1o4bXFiaU5rRGJpOUHSAacBQVVfeXFMTmJPeDBjZjdYYklhY3VFYWQ1UmtjNGItczB3UVZaaEhfaEktY2VPbE5wcTA2UzlTRV9DZzNLb3c4ODM5Z2Mtc0lyVzkyNnhjYXVFQ0RwaWU2YUJHWmR3UmhNS3VQUE1ma29VS3kzSGJzd2t0RXZsVklOYV8yaWRjZXhONXRIcnR1aWdRMGF2WXBDeER6bGQzSFQ5VlYtZVlEMDZxMUlmVHM",
+    "related": [
+      [
+        "Why is the US sanctioning the International Criminal Court?",
+        "Al Jazeera"
+      ],
+      [
+        "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+        "Reuters"
+      ],
+      [
+        "As Navi Pillay wins Nobel Peace Prize, US takes unprecedented action to cripple the court she served on",
+        "CNN"
+      ],
+      [
+        "Trump Administration Hits International Criminal Court With Severe Sanctions",
+        "The New York Times"
+      ],
+      [
+        "Imposing Sanctions on the International Criminal Court",
+        "U.S. Department of State (.gov)"
+      ]
+    ],
+    "event_key": "us-sanctions-icc-nobel-peace-prize-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국, [[국제형사재판소]]에\n전격 제재 부과",
+      "sub": "전직 재판관의 노벨평화상 수상 직후 제재를 발표했습니다",
+      "chips": [
+        {
+          "k": "제재 대상",
+          "v": "ICC"
+        }
+      ],
+      "alt": "미국, 국제형사재판소에 전격 제재 부과",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미 정부 공식 발표",
+          "d": "미국 정부가 국제형사재판소(ICC)를 대상으로 엄격한 제재를 부과했습니다 (미 국무부·NYT)."
+        },
+        {
+          "t": "수상 수 시간 만에 발표",
+          "d": "전직 ICC 판사의 노벨평화상 수상 소식이 전해진 지 수 시간 만에 조치가 취해졌습니다 (로이터·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 국무부의 ICC 제재 발표",
+        "전직 재판관 노벨평화상 수상"
+      ],
+      "unconfirmed": [
+        "제재의 세부 적용 범위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "U.S. Department of State (.gov)",
+        "2026.10.11 05:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 정부가 국제형사재판소(ICC)에 엄격한 제재를 부과했습니다.\n\n· 전직 ICC 판사의 노벨평화상 수상 발표 수 시간 만에 제재 발표 (로이터·CNN)\n· 미 국무부는 국제형사재판소를 상대로 제재를 단행함 (미 국무부·NYT)\n\n여러분은 이번 미국의 제재 결정, 어떻게 보십니까?\n\n출처: 로이터·CNN·NYT·미 국무부 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 국제형사재판소에 전격 제재를 부과했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미 국무부는 ICC에 제재를 단행한다고 발표했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터는 전직 판사의 노벨평화상 수상 발표 수 시간 만에 조치가 나왔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 제재 범위와 세부 내용은 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미국의 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 [[ICC]]에\n제재 가한 이유",
+  "broll": [
+    "United States Department of State",
+    "courtroom gavel"
+  ],
+  "place_en": "Washington D.C., United States"
+}
