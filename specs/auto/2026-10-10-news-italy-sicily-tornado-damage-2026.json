@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-10-news-italy-sicily-tornado-damage-2026",
+  "topic": "伊 시칠리아 강타한 쌍둥이 토네이도",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 19:40 KST",
+  "source": "Reuters·The Guardian·Metro.co.uk 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxOTWRKcEppUHd4VVNDeGxUcV93STlFd3ZVb0tCcElrb096dGtqXzJPd3ZFSUpfRmw4T0QyVzBIeXRZNmN6Nm5ORDVRUFJIWi1jZF80emJuMGt3Z0pTQUVtdlFzRHdzeEdHWmdrd19CZVBCZ25uLXlzWnVzbVVWdmxFMXhZVzZqWmZKTmVZNHZpRFJfZw",
+    "related": [
+      [
+        "Dozens injured and buildings damaged as tornadoes hit Sicily",
+        "The Guardian"
+      ],
+      [
+        "Tornado hits Sicilian towns following summer heat-wave",
+        "Reuters"
+      ],
+      [
+        "Double tornado tears through western Sicily, several people injured",
+        "Times of Malta"
+      ],
+      [
+        "Powerful tornado damages school and homes in Marsala, disrupts transport in Western Sicily, Italy",
+        "The Watchers - Watching the world evolve and transform"
+      ],
+      [
+        "Devastating waterspout tears through Sicily overturning cars and damaging school",
+        "Metro.co.uk"
+      ]
+    ],
+    "event_key": "italy-sicily-tornado-damage-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "伊 시칠리아 강타한\n[[쌍둥이 토네이도]]",
+      "sub": "학교·주택 파손되고 수십 명 부상",
+      "chips": [
+        {
+          "k": "피해",
+          "v": "수십 명 부상"
+        }
+      ],
+      "alt": "伊 시칠리아 강타한 쌍둥이 토네이도",
+      "map": {
+        "lat": 37.587794,
+        "lon": 14.155048,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이탈리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이탈리아\n시칠리아",
+      "video_only": true,
+      "map": {
+        "lat": 37.587794,
+        "lon": 14.155048,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "시칠리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "서부 시칠리아 강타",
+          "d": "토네이도가 시칠리아 서부 마르살라 등을 덮쳐 차량이 전복됐습니다."
+        },
+        {
+          "t": "건물과 학교 파손",
+          "d": "학교와 주택 등 건물이 파손되고 교통 차질이 빚어졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이탈리아 시칠리아 토네이도 발생",
+        "주택 및 학교 건물 파손",
+        "차량 전복 및 교통 차질"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Metro.co.uk",
+        "Reuters",
+        "The Guardian",
+        "The Watchers - Watching the world evolve and transform",
+        "Times of Malta",
+        "2026.10.10 21:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이탈리아 시칠리아에 토네이도가 발생해 수십 명이 다쳤습니다 (가디언).\n\n· 시칠리아 서부 마르살라 등을 토네이도가 덮쳐 차량이 전복되고 교통 차질이 빚어졌습니다.\n· 학교와 주택 등 건물들이 파손됐습니다.\n· 정확한 인명 피해와 재산 피해 규모는 확인되지 않았습니다.\n\n출처: 가디언·로이터·타임스오브몰타·The Watchers·Metro.co.uk 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이탈리아 시칠리아에 토네이도가 발생해 수십 명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "시칠리아 서부 마르살라 일대에 두 개의 토네이도가 닥쳤습니다.",
+      "card": "map"
+    },
+    {
+      "text": "강풍에 차량이 뒤집히고 학교와 주택이 파손됐으며 교통 차질이 빚어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[시칠리아]] 덮친\n쌍둥이 토네이도",
+  "broll": [
+    "storm clouds sky",
+    "debris scattered street"
+  ],
+  "place_en": "Sicily, Italy"
+}

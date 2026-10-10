@@ -11710,5 +11710,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791630935
+  },
+  {
+    "slug": "2026-10-10-news-ukraine-zaporizhzhia-glide-bomb-strike-2026",
+    "event_ms": 1791628174000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라이나 자포리자에 러시아군의 활공폭탄 공습이 발생했습니다.\n\n· 러시아군의 활공폭탄 공격으로 아파트 건물이 타격받았습니다 (BBC·키이우인디펜던트).\n· 최소 15명이 숨졌다는 보도가 나온 가운데 매체별 사상자 집계에는 차이가 있습니다 (BBC·알자지라).\n· 구체적인 피해 규모와 추가 사상자 현황은 아직 확인되지 않았습니다.\n\n출처: BBC·알자지라·키이우인디펜던트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119005888965920",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeUDSoBnNzK",
+        "kind": "carousel",
+        "at": 1791634216
+      },
+      "instagram": {
+        "id": "18354085534171909",
+        "permalink": "https://www.instagram.com/reel/DeUD0OTk4Lw/",
+        "kind": "reel",
+        "at": 1791634508
+      },
+      "youtube": {
+        "id": "AhTS-LVAdyM",
+        "permalink": "https://youtube.com/shorts/AhTS-LVAdyM",
+        "kind": "shorts",
+        "at": 1791634583
+      },
+      "tiktok": {
+        "id": "7695011997208939797",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7695011997208939797",
+        "kind": "video",
+        "at": 1791634715
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791634725
   }
 ]

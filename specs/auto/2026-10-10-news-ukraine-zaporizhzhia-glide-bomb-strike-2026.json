@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-10-news-ukraine-zaporizhzhia-glide-bomb-strike-2026",
+  "topic": "우크라 자포리자에 러시아 공습 참변",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.10 19:29 KST",
+  "source": "Al Jazeera·BBC·Hromadske 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE40U01GLWhnSGZ5aHJobXRYMFpDa21RNDMwTHkzSlg3aXJJXzZfbjgyTlU2YWtTRnBGTzQxZnVsNTlTMk1rOEROYXI4UG1WVERVSzhrWHN1MWlmRzBJNXc",
+    "related": [
+      [
+        "Ukraine war: Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+        "BBC"
+      ],
+      [
+        "Russia kills 15 in Ukraine as US hosts ‘productive’ talks to end war",
+        "Al Jazeera"
+      ],
+      [
+        "Ukrainian officials report deadly Russian strikes | ITV News",
+        "ITVX"
+      ],
+      [
+        "Russian drone attack kills one, injures seven in Zaporizhzhia",
+        "Hromadske"
+      ],
+      [
+        "Russian guided bombs hit Zaporizhzhia apartment building, killing 4, injuring 4",
+        "The Kyiv Independent"
+      ]
+    ],
+    "event_key": "ukraine-zaporizhzhia-glide-bomb-strike-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 자포리자에\n[[러시아 공습]] 참변",
+      "sub": "활공폭탄에 아파트 타격돼 다수 사상",
+      "chips": [
+        {
+          "k": "공습",
+          "v": "활공폭탄"
+        }
+      ],
+      "alt": "우크라 자포리자에 러시아 공습 참변",
+      "map": {
+        "lat": 47.8507859,
+        "lon": 35.1182867,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n자포리자",
+      "video_only": true,
+      "map": {
+        "lat": 47.8507859,
+        "lon": 35.1182867,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "자포리자"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "아파트 공습 피해",
+          "d": "러시아군의 활공폭탄이 자포리자의 아파트 건물을 타격했습니다 (BBC·키이우인디펜던트)."
+        },
+        {
+          "t": "사상자 발생",
+          "d": "외신들은 이번 공습으로 최소 15명이 숨졌거나 여러 명이 다쳤다고 전했습니다 (BBC·알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아군의 자포리자 활공폭탄 공격",
+        "아파트 건물 피격"
+      ],
+      "unconfirmed": [
+        "사망자 수 매체별 집계 차이 있음 (4~15명)",
+        "정확한 부상자 수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Hromadske",
+        "ITVX",
+        "The Kyiv Independent",
+        "2026.10.10 21:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 자포리자에 러시아군의 활공폭탄 공습이 발생했습니다.\n\n· 러시아군의 활공폭탄 공격으로 아파트 건물이 타격받았습니다 (BBC·키이우인디펜던트).\n· 최소 15명이 숨졌다는 보도가 나온 가운데 매체별 사상자 집계에는 차이가 있습니다 (BBC·알자지라).\n· 구체적인 피해 규모와 추가 사상자 현황은 아직 확인되지 않았습니다.\n\n출처: BBC·알자지라·키이우인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 자포리자에 러시아군의 공습이 발생했습니다.",
+      "card": "cover",
+      "screen": "우크라 자포리자 공습"
+    },
+    {
+      "text": "현지 아파트 건물이 활공폭탄 공격을 받았습니다.",
+      "card": "map",
+      "screen": "아파트 건물 피격"
+    },
+    {
+      "text": "BBC는 이번 공격으로 최소 15명이 숨졌다고 전했습니다.",
+      "card": "points",
+      "screen": "최소 15명 사망 보도"
+    },
+    {
+      "text": "매체별 사상자 집계와 정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "매체별 집계 차이"
+    }
+  ],
+  "hook": "[[자포리자 아파트]]\n활공폭탄 피격",
+  "broll": [
+    "damaged apartment building",
+    "emergency response street"
+  ],
+  "place_en": "Zaporizhzhia, Ukraine"
+}

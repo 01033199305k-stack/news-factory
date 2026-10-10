@@ -2105,5 +2105,25 @@
     "at": 1791630533.0712035,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "ukraine-zaporizhzhia-glide-bomb-strike-2026",
+    "topic": "우크라 자포리자에 러시아 공습 참변",
+    "slug": "2026-10-10-news-ukraine-zaporizhzhia-glide-bomb-strike-2026",
+    "cluster": "CBMiXkFVX3lxTE40U01GLWhnSGZ5aHJobXRYMFpDa21RNDMwTHkzSlg3aXJJXzZfbjgyTlU2YWtTRnBGTzQxZnVsNTlTMk1rOEROYXI4UG1WVERVSzhrWHN1MWlmRzBJNXc",
+    "badge": "breaking",
+    "at": 1791634097.2132723,
+    "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "italy-sicily-tornado-damage-2026",
+    "topic": "伊 시칠리아 강타한 쌍둥이 토네이도",
+    "slug": "2026-10-10-news-italy-sicily-tornado-damage-2026",
+    "cluster": "CBMikgFBVV95cUxOTWRKcEppUHd4VVNDeGxUcV93STlFd3ZVb0tCcElrb096dGtqXzJPd3ZFSUpfRmw4T0QyVzBIeXRZNmN6Nm5ORDVRUFJIWi1jZF80emJuMGt3Z0pTQUVtdlFzRHdzeEdHWmdrd19CZVBCZ25uLXlzWnVzbVVWdmxFMXhZVzZqWmZKTmVZNHZpRFJfZw",
+    "badge": "breaking",
+    "at": 1791634161.4595647,
+    "country": "이탈리아",
+    "category": "재난"
   }
 ]
