@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-11-news-brazil-school-hostage-suspect-killed",
+  "topic": "브라질 학교서 인질극 범인 사살·어린이 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 04:08 KST",
+  "source": "ABC News·Al Jazeera·Inshorts 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxOWTZ5dWRSN3RGRVNQa01yVmhROG45MmRQNS1VNDdITE0xVEp0NUV3SEdPX3Q5UTRjNHVBdjJ6TTRWWnNTMHlaeUVDV3VuNkExejB5d1Q1S1VpQjBmS1JDNEY2b0RtZVZENmZaeHdnZHE1YmRJbjJCUmVaU1dYNmhKYl94eTVKZU5MYTJvNUV5eFc4Y0VKN0Vra3R6ZEowczAzVFJqellyTEVnbks4bGhWTk9B0gG3AUFVX3lxTE5YZEdYVDBYVWEzUWNLSFE5Ny05UHZrdzJFQmxxUjJMZTBBa3M1T2gxVFlaRFdXaHgwenF5MzFVZVNmZU1KSGVkbU5oVXRNRERFLU1MNmFQWVNDZGd5RjdEMlJ3MTRqdkRPbmRhYVpzZjVDYmZka2JlNlJfZDUyVGZNZEo1LUZTckNnbE43ZzB4bUNCN1pIU2dsZ3FYRjBHZTV0OE1UU24tVHVEMHRQMnQtVlFjdndyOA",
+    "related": [
+      [
+        "Suspect killed after 13 kindergarteners taken hostage, beaten in Brazil",
+        "Al Jazeera"
+      ],
+      [
+        "Brazilian police kill suspect who held 13 children at knifepoint in school",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Suspect Who Held 13 Children at Knifepoint in School Killed by Police After Hours-Long Standoff",
+        "People.com"
+      ],
+      [
+        "Man killed by police after holding 13 kids hostage at knifepoint in Brazilian school",
+        "New York Post"
+      ],
+      [
+        "Brazil police kill man who held 13 children hostage at knifepoint | 'We entered classroom using a tactical approach' | Inshorts",
+        "Inshorts"
+      ]
+    ],
+    "event_key": "brazil_school_hostage_suspect_killed"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "브라질 학교서 [[인질극]]\n범인 사살·어린이 구조",
+      "sub": "유치원생 13명을 붙잡고 인질극을 벌인 용의자가 경찰에 사살됐습니다.",
+      "chips": [
+        {
+          "k": "인질",
+          "v": "13명"
+        },
+        {
+          "k": "사망",
+          "v": "용의자 1명"
+        }
+      ],
+      "alt": "브라질 학교서 인질극 범인 사살·어린이 구조",
+      "map": {
+        "lat": -14.4334081,
+        "lon": -39.9036723,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "브라질"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "브라질",
+      "video_only": true,
+      "map": {
+        "lat": -14.4334081,
+        "lon": -39.9036723,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브라질"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "인질 구출",
+          "d": "유치원생 13명은 모두 안전하게 구조됐습니다."
+        },
+        {
+          "t": "진압 작전",
+          "d": "경찰은 전술적 접근 방식을 사용해 교실에 진입했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인질 13명 구조",
+        "용의자 경찰에 사살"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "범행 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Al Jazeera",
+        "Inshorts",
+        "New York Post",
+        "People.com",
+        "2026.10.11 06:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 브라질 학교에서 흉기 인질극… 범인 사살·어린이 13명 구조\n\n· 유치원생 13명이 흉기 인질극에 붙잡혔으나 모두 구조됐습니다\n· 경찰은 전술적 접근 방식을 사용해 교실로 진입해 용의자를 사살했습니다\n\n출처: 알자지라·ABC 뉴스·피플·뉴욕 포스트·인쇼츠 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "브라질의 한 학교에서 흉기 인질극이 발생해 범인이 사살됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유치원생 13명이 구조되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경찰은 전술적 접근으로 교실에 진입해 용의자를 사살했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "범행 동기와 정확한 사건 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "브라질 학교에서\n벌어진 [[인질극]]",
+  "broll": [
+    "school classroom building",
+    "police tactical response"
+  ],
+  "place_en": "Brazil school"
+}
