@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-11-news-trump-announces-russia-ukraine-energy-ceasefire-2026",
+  "topic": "트럼프, 러·우크라 에너지 휴전 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 23:46 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE15bmlBSGQ0Y0gxLWpoZ3JsMWQxbUZOTHhSeE9GQUQ2Qm5NQk80Qm13d2hTTFNhSWhWLXpWUWZjRXhqeVBxbFRHV3hBWGVfZ3ZPY0VLUUVuM2pLdGhBSGc",
+    "related": [
+      [
+        "Trump says Ukraine and Russia have agreed 'energy ceasefire'",
+        "BBC"
+      ],
+      [
+        "Trump says Ukraine and Russia have agreed to energy ceasefire",
+        "CNN"
+      ],
+      [
+        "Donald Trump claims Ukraine and Russia have agreed to ‘energy ceasefire’ – live updates",
+        "The Guardian"
+      ],
+      [
+        "Trump announces energy ceasefire between Russia and Ukraine",
+        "The Telegraph"
+      ],
+      [
+        "Trump says Russia and Ukraine reached 'energy ceasefire'",
+        "Reuters"
+      ]
+    ],
+    "event_key": "trump-announces-russia-ukraine-energy-ceasefire-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "트럼프, 러·우크라\n[[에너지 휴전]] 발표",
+      "sub": "트럼프 미국 대통령은 양측이 '에너지 휴전'에 합의했다고 밝혔습니다",
+      "chips": [
+        {
+          "k": "발표",
+          "v": "트럼프"
+        },
+        {
+          "k": "대상",
+          "v": "러·우크라"
+        }
+      ],
+      "alt": "트럼프, 러·우크라 에너지 휴전 발표",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "에너지 휴전 합의 발표",
+          "d": "트럼프 미국 대통령은 러시아와 우크라이나가 '에너지 휴전'에 합의했다고 밝혔습니다 (로이터·BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프의 '에너지 휴전' 합의 발표"
+      ],
+      "unconfirmed": [
+        "양국의 공식 세부 조건 확인 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Guardian",
+        "The Telegraph",
+        "2026.10.12 00:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 트럼프 미국 대통령, 러시아·우크라이나 '에너지 휴전' 합의 발표\n\n· 트럼프 대통령은 러시아와 우크라이나가 '에너지 휴전'에 합의했다고 밝혔습니다 (로이터·BBC)\n\n이번 에너지 휴전 발표가 실질적인 긴장 완화로 이어질 수 있을까요?\n출처: BBC·CNN·로이터·가디언·텔레그래프 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "트럼프 미국 대통령이 러시아와 우크라이나의 에너지 휴전 합의를 발표했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터와 BBC 등 외신은 양측이 에너지 휴전에 합의했다고 밝혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 에너지 휴전 발표, 실질적인 전쟁 완화로 이어질 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "트럼프가 선언한\n[[에너지 휴전]]",
+  "broll": [
+    "white house exterior",
+    "power grid transmission"
+  ],
+  "place_en": "Washington, D.C., United States"
+}

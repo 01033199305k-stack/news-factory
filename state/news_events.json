@@ -2275,5 +2275,15 @@
     "at": 1791724093.8496163,
     "country": "지부티",
     "category": "사고"
+  },
+  {
+    "event_key": "trump-announces-russia-ukraine-energy-ceasefire-2026",
+    "topic": "트럼프, 러·우크라 에너지 휴전 발표",
+    "slug": "2026-10-11-news-trump-announces-russia-ukraine-energy-ceasefire-2026",
+    "cluster": "CBMiXkFVX3lxTE15bmlBSGQ0Y0gxLWpoZ3JsMWQxbUZOTHhSeE9GQUQ2Qm5NQk80Qm13d2hTTFNhSWhWLXpWUWZjRXhqeVBxbFRHV3hBWGVfZ3ZPY0VLUUVuM2pLdGhBSGc",
+    "badge": "breaking",
+    "at": 1791731287.8095603,
+    "country": "미국",
+    "category": "국제"
   }
 ]
