@@ -2305,5 +2305,15 @@
     "at": 1791742493.8486795,
     "country": "폴란드",
     "category": "국제"
+  },
+  {
+    "event_key": "turkiye-bus-truck-crash-2026",
+    "topic": "튀르키예서 버스 트럭 추돌 사망 11명 발생",
+    "slug": "2026-10-12-news-turkiye-bus-truck-crash-2026",
+    "cluster": "CBMirgFBVV95cUxNcVNoWVpoeGVXbWtSd3dhVHJTRG5TRU9xNHA1c0xuNlpxcHdfLXhENTVSUlVjbmRqaGR3TF9QNnJucUJHXzJaNERaYVFkZGRGVFdzcnRGc3ZEVmhYMmI5U0N0MWRWTDhLMzNwdnhaMzR6MTBqdldzR21kbzVwMFUtWUloY0U4V1loYkU1QWdrcWtIbDEyc2VlZk91RmdOenJPNEpRWS1RalB5ZWJMTFHSAbMBQVVfeXFMTmxxWTVOaV9XVmE0V0pERUZIRU1Kd2czRHk2MzBkVEpjOGJfMmxSVExGQlBuQ1Z5MWdqd2xMU0lMTUdCalpfWTJqOUpDdlhsVGtXVW9LcHkxcDd0SkxoT2E2NVo2OG0zRzdqRC1CcXZHaFRzNVpJcGlTU1RObEpGMTBKTUVCV3hZOWNJU3BCb2tpeWNvcTBhX2J3SU9FZ1V2TmlBZkFlWFlDMm41SUdzTVRfQ0k",
+    "badge": "breaking",
+    "at": 1791742979.9727843,
+    "country": "튀르키예",
+    "category": "사고"
   }
 ]

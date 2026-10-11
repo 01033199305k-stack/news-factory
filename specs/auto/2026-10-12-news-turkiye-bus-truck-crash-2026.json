@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-12-news-turkiye-bus-truck-crash-2026",
+  "topic": "튀르키예서 버스 트럭 추돌 사망 11명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 02:15 KST",
+  "source": "Al Jazeera·India Today·NDTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxNcVNoWVpoeGVXbWtSd3dhVHJTRG5TRU9xNHA1c0xuNlpxcHdfLXhENTVSUlVjbmRqaGR3TF9QNnJucUJHXzJaNERaYVFkZGRGVFdzcnRGc3ZEVmhYMmI5U0N0MWRWTDhLMzNwdnhaMzR6MTBqdldzR21kbzVwMFUtWUloY0U4V1loYkU1QWdrcWtIbDEyc2VlZk91RmdOenJPNEpRWS1RalB5ZWJMTFHSAbMBQVVfeXFMTmxxWTVOaV9XVmE0V0pERUZIRU1Kd2czRHk2MzBkVEpjOGJfMmxSVExGQlBuQ1Z5MWdqd2xMU0lMTUdCalpfWTJqOUpDdlhsVGtXVW9LcHkxcDd0SkxoT2E2NVo2OG0zRzdqRC1CcXZHaFRzNVpJcGlTU1RObEpGMTBKTUVCV3hZOWNJU3BCb2tpeWNvcTBhX2J3SU9FZ1V2TmlBZkFlWFlDMm41SUdzTVRfQ0k",
+    "related": [
+      [
+        "Turkiye highway crash kills 11, injures 27 after tour bus hits truck",
+        "Al Jazeera"
+      ],
+      [
+        "11 Killed After Bus Crashes Into Truck In Turkey, Drivers Detained",
+        "NDTV"
+      ],
+      [
+        "Several dead as Turkish coach collides with a truck near Bursa-Izmir highway",
+        "The Hindu"
+      ],
+      [
+        "Turkish media: In Akhisar district of Manisa, a collision between a truck and a passenger bus on the Istanbul highway has left 11 dead and 27 injured",
+        "CGTN"
+      ],
+      [
+        "11 killed, 27 injured as tour bus collides with truck in western Turkey",
+        "India Today"
+      ]
+    ],
+    "event_key": "turkiye-bus-truck-crash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "튀르키예서 버스 트럭 추돌\n사망 [[11명]] 발생",
+      "sub": "부상자 27명 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "11명"
+        },
+        {
+          "k": "부상",
+          "v": "27명"
+        }
+      ],
+      "alt": "튀르키예서 버스 트럭 추돌 사망 11명 발생",
+      "map": {
+        "lat": 38.8574402,
+        "lon": 28.0565711,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "튀르키예"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "튀르키예\n마니사",
+      "video_only": true,
+      "map": {
+        "lat": 38.8574402,
+        "lon": 28.0565711,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마니사"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 차량",
+          "d": "고속도로를 달리던 관광버스와 트럭이 충돌했습니다 (알자지라·NDTV)."
+        },
+        {
+          "t": "운전자 조치",
+          "d": "운전자는 구금됐습니다 (NDTV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 11명 (알자지라·인디아투데이)",
+        "부상 27명 (CGTN·인디아투데이)",
+        "관광버스와 트럭 충돌 (알자지라·힌두)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CGTN",
+        "India Today",
+        "NDTV",
+        "The Hindu",
+        "2026.10.12 03:22 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 튀르키예서 관광버스와 트럭이 충돌해 사망 11명 (알자지라·인디아투데이)\n\n· 부상 27명 발생 (CGTN·인디아투데이)\n· 운전자는 구금됐습니다 (NDTV)\n\n출처: 알자지라·NDTV·인디아투데이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "튀르키예 고속도로에서 버스와 트럭이 충돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라 통신은 이 사고로 11명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "부상자 27명이 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "운전자는 구금됐습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "튀르키예 고속도로에서\n벌어진 [[충돌 사고]]",
+  "broll": [
+    "highway road night",
+    "ambulance lights traffic"
+  ],
+  "place_en": "Manisa, Turkey"
+}
