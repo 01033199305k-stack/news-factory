@@ -12625,5 +12625,61 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791728008
+  },
+  {
+    "slug": "2026-10-11-usgs-us6000u1kv",
+    "event_ms": 1791727643188,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 파푸아뉴기니 인근 규모 6.2 지진\n\n한국 시각 10월 11일 23시 07분, 파푸아뉴기니 Panguna에서 남남동쪽 79km. 깊이 53km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u1kv",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "파푸아뉴기니",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18112303661332377",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeW4ROtkY2P",
+        "kind": "carousel",
+        "at": 1791729103
+      },
+      "instagram": {
+        "id": "17904617040355164",
+        "permalink": "https://www.instagram.com/reel/DeW4r8cjKpp/",
+        "kind": "reel",
+        "at": 1791729331
+      },
+      "youtube": {
+        "id": "DWJ0GyIC9Y4",
+        "permalink": "https://youtube.com/shorts/DWJ0GyIC9Y4",
+        "kind": "shorts",
+        "at": 1791729442
+      },
+      "tiktok": {
+        "id": "7695419437440093458",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7695419437440093458",
+        "kind": "video",
+        "at": 1791729574
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791729584
   }
 ]
