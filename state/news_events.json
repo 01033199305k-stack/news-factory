@@ -2235,5 +2235,15 @@
     "at": 1791705167.823104,
     "country": "네팔",
     "category": "재난"
+  },
+  {
+    "event_key": "us-dod-iran-war-casualties-update-2026",
+    "topic": "미 국방부 이란전 사망 21명으로 수정",
+    "slug": "2026-10-11-news-us-dod-iran-war-casualties-update-2026",
+    "cluster": "CBMidEFVX3lxTE0ybF9zYzlGQjlZQXBoS0dXb21FWkRRa0IwSWFCX0VKTFVOQkpZLUlkMWNtbGx5ZVphamJwMnhiMVV5ZmsydG92ZF9IR05xcGRjR094WnBCZ1RXVW1mV19OUHRORDVoZXB4U2xIUjB5TkU3LTM10gF0QVVfeXFMTWxXWHJISGp5cEFHYUVzQnYxdFhuRUxYUl9USnhDbWlTTUNUTlFYTXVfdFNodWtqa3JrMXF6RGpUSkt6WTJlSHB6NEdfbWlocl9YVHFJVVE0eWk3OVM5SlRHRmZfbGotMFY4WUJHcEZoTlZ6dWQ",
+    "badge": "brief",
+    "at": 1791709942.5527194,
+    "country": "미국",
+    "category": "국제"
   }
 ]

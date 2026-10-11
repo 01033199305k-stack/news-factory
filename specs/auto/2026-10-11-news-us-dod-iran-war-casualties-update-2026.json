@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-11-news-us-dod-iran-war-casualties-update-2026",
+  "topic": "미 국방부 이란전 사망 21명으로 수정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 15:06 KST",
+  "source": "MBC 뉴스·국제신문·뉴시스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMidEFVX3lxTE0ybF9zYzlGQjlZQXBoS0dXb21FWkRRa0IwSWFCX0VKTFVOQkpZLUlkMWNtbGx5ZVphamJwMnhiMVV5ZmsydG92ZF9IR05xcGRjR094WnBCZ1RXVW1mV19OUHRORDVoZXB4U2xIUjB5TkU3LTM10gF0QVVfeXFMTWxXWHJISGp5cEFHYUVzQnYxdFhuRUxYUl9USnhDbWlTTUNUTlFYTXVfdFNodWtqa3JrMXF6RGpUSkt6WTJlSHB6NEdfbWlocl9YVHFJVVE0eWk3OVM5SlRHRmZfbGotMFY4WUJHcEZoTlZ6dWQ",
+    "related": [
+      [
+        "미 국방부, 이란전 사망자 집계 수정‥공식 사망 21명으로 늘어",
+        "MBC 뉴스"
+      ],
+      [
+        "美국방부 \"이란 전쟁으로 미군 장병 21명 사망\"",
+        "연합뉴스TV"
+      ],
+      [
+        "미 국방부, 이란전 사망자 수정…공식 사망 21명, 부상자 865명",
+        "국제신문"
+      ],
+      [
+        "美국방부, 이란전 사망 장병수 수정…총 21명으로 늘어",
+        "마켓인"
+      ],
+      [
+        "이란 전쟁 중 미군 사망자 21명으로 늘어…비전투 사망 포함",
+        "뉴시스"
+      ]
+    ],
+    "event_key": "us-dod-iran-war-casualties-update-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미 국방부 이란전\n사망 [[21명]]으로 수정",
+      "sub": "부상자 865명 집계…비전투 사망 포함",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "21명"
+        },
+        {
+          "k": "부상",
+          "v": "865명"
+        }
+      ],
+      "alt": "미 국방부 이란전 사망 21명으로 수정",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공식 집계 수정",
+          "d": "미 국방부가 이란 전쟁 관련 미군 사망자 수를 21명으로 수정 발표했습니다 (MBC·뉴시스)."
+        },
+        {
+          "t": "부상자 865명",
+          "d": "부상자는 총 865명으로 집계됐으며 비전투 사망자도 포함됐습니다 (국제신문·뉴시스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미군 공식 사망자 21명",
+        "부상자 865명 집계"
+      ],
+      "unconfirmed": [
+        "추가 피해 발생 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "국제신문",
+        "뉴시스",
+        "마켓인",
+        "연합뉴스TV",
+        "2026.10.11 18:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미 국방부가 이란전 미군 사망자를 21명으로 수정했습니다.\n\n· 미 국방부는 이란 전쟁으로 인한 미군 장병 사망자 수가 비전투 사망을 포함해 총 21명이라고 밝혔습니다 (연합뉴스TV·뉴시스).\n· 부상자 수는 총 865명으로 집계됐습니다 (국제신문).\n\n출처: MBC·연합뉴스TV·국제신문·마켓인·뉴시스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 국방부가 이란전 미군 사망자를 21명으로 수정 발표했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미 국방부는 비전투 사망을 포함해 사망자가 21명으로 늘었다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "국제신문은 부상자 수가 865명으로 집계됐다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추가 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[이란전]] 미군\n사망자 집계",
+  "broll": [
+    "pentagon building washington",
+    "us military flag"
+  ],
+  "place_en": "Washington, D.C., United States"
+}
