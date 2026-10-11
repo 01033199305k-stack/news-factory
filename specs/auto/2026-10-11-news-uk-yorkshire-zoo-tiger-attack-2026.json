@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-11-news-uk-yorkshire-zoo-tiger-attack-2026",
+  "topic": "영국 야생동물 공원에서 호랑이 습격으로 사망자 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 10:05 KST",
+  "source": "Al Jazeera·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1hNVE4NkdyTkFGQVVpeEh4aDBpQWRjT0FBN0xKRV9BdWtWbWg0NjNlV24zWndpRklocW45UllwTGZnZkozbi1sZWsxVDZtNmhqMUxyM3BPdmVpZjg",
+    "related": [
+      [
+        "Man dies after tiger attack at wildlife park",
+        "BBC"
+      ],
+      [
+        "Man dies after entering tiger enclosure at UK wildlife park, police say",
+        "CNN"
+      ],
+      [
+        "Man dies after entering tiger enclosure at England wildlife park",
+        "Al Jazeera"
+      ],
+      [
+        "Man dies after jumping into tiger enclosure at Yorkshire zoo",
+        "The Guardian"
+      ],
+      [
+        "‘Tiger King’ star Carole Baskin tells Post that ‘tiger was doing nothing wrong’ when it mauled UK zoo intruder",
+        "New York Post"
+      ]
+    ],
+    "event_key": "uk-yorkshire-zoo-tiger-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 야생동물 공원에서\n[[호랑이]] 습격으로 사망자 발생",
+      "sub": "요크셔 지역 동물원 우리에 진입한 남성 숨져",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "영국 야생동물 공원에서 호랑이 습격으로 사망자 발생",
+      "map": {
+        "lat": 53.9825271,
+        "lon": -1.38525,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n요크셔",
+      "video_only": true,
+      "map": {
+        "lat": 53.9825271,
+        "lon": -1.38525,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "요크셔"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 장소",
+          "d": "영국 요크셔의 한 야생동물 공원 우리 안에서 발생했습니다 (BBC·가디언)."
+        },
+        {
+          "t": "경찰 발표",
+          "d": "남성이 호랑이 우리 안으로 들어간 뒤 사고를 당했다고 경찰이 밝혔습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국 야생동물 공원 호랑이 습격",
+        "남성 1명 사망 (BBC·CNN·가디언)"
+      ],
+      "unconfirmed": [
+        "사망한 남성의 신원",
+        "우리 안으로 들어간 구체적인 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "New York Post",
+        "The Guardian",
+        "2026.10.11 11:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국 야생동물 공원에서 호랑이 습격으로 1명 사망 (BBC·가디언)\n\n· 영국 요크셔의 동물원 우리 안에서 남성이 호랑이에 습격당해 숨졌습니다 (가디언)\n· 경찰은 남성이 직접 호랑이 우리 안으로 진입했다고 밝혔습니다 (CNN)\n\n출처: BBC·CNN·알자지라·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국의 한 야생동물 공원에서 호랑이 습격으로 남성 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 요크셔 지역의 동물원 우리 안에서 사건이 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경찰은 피해 남성이 직접 우리 안으로 들어갔다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 진입 경위는 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "영국 동물원에서\n[[호랑이]] 습격 사건",
+  "broll": [
+    "zoo tiger enclosure",
+    "wildlife park fence"
+  ],
+  "place_en": "Yorkshire, United Kingdom"
+}

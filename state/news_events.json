@@ -2185,5 +2185,15 @@
     "at": 1791680861.9154046,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "uk-yorkshire-zoo-tiger-attack-2026",
+    "topic": "영국 야생동물 공원에서 호랑이 습격으로 사망자 발생",
+    "slug": "2026-10-11-news-uk-yorkshire-zoo-tiger-attack-2026",
+    "cluster": "CBMiW0FVX3lxTE1hNVE4NkdyTkFGQVVpeEh4aDBpQWRjT0FBN0xKRV9BdWtWbWg0NjNlV24zWndpRklocW45UllwTGZnZkozbi1sZWsxVDZtNmhqMUxyM3BPdmVpZjg",
+    "badge": "breaking",
+    "at": 1791684434.7298265,
+    "country": "영국",
+    "category": "사고"
   }
 ]
