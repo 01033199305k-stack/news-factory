@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-11-news-trump-zelenskyy-russia-diesel-deal",
+  "topic": "트럼프는 우크라이나가 새로운 지도자를 뽑아야 한다고 밝혔습니다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 04:38 KST",
+  "source": "BBC·Financial Times·Politico 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxQYjNZS0tReXlIazNiY0piTTZfWXFtSF84b1pMUlVUdWFNYWxXUTNxc1FRUG44dGxubjZxeXRSeVl6RHhwN3NBN213Zkx1VlgwZ0h6RlVlUVV2UHpQM3FxUHU2ejM4UDVoYndJOWlqdlNLR3RYa2ZnRXNPaE1JajgxNUJobTVQdTRabG80QzVwQi1wT1owQWh3MmhEaDVQNnNkRmpLcEtuMVdWXzlJUUtKblREd2hUMkU",
+    "related": [
+      [
+        "Trump says it is time for Ukraine to replace Zelenskyy as leader",
+        "Euronews.com"
+      ],
+      [
+        "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "BBC"
+      ],
+      [
+        "Trump says Ukraine needs a new leader after diesel deal with Russia",
+        "The Guardian"
+      ],
+      [
+        "US warns Kyiv that strikes on Russia jeopardise intelligence-sharing",
+        "Financial Times"
+      ],
+      [
+        "Trump says Zelenskyy ‘better damn well stop' attacks on Russian oil refineries, calls for new Ukrainian leader",
+        "Politico"
+      ]
+    ],
+    "event_key": "trump-zelenskyy-russia-diesel-deal"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "트럼프는 우크라이나가\n[[새로운 지도자]]를 뽑아야 한다고 밝혔습니다",
+      "sub": "러시아와의 디젤 합의 비판 이후 볼로디미르 젤렌스키 대통령 교체를 요구했습니다.",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "젤렌스키"
+        },
+        {
+          "k": "발언 주체",
+          "v": "트럼프"
+        }
+      ],
+      "alt": "트럼프는 우크라이나가 새로운 지도자를 뽑아야 한다고 밝혔습니다",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "러시아 정유시설 공격 비판",
+          "d": "트럼프는 우크라이나가 러시아 정유시설 공격을 멈춰야 한다고 밝혔습니다 (폴리티코)."
+        },
+        {
+          "t": "정보 공유 경고",
+          "d": "미국 정부는 러시아에 대한 공격이 계속되면 정보 공유가 위태로워질 수 있다고 경고했습니다 (파이낸셜 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프의 젤렌스키 교체 언급",
+        "러시아와의 디젤 합의 비판",
+        "우크라이나의 대러시아 타격 관련 정보 공유 경고"
+      ],
+      "unconfirmed": [
+        "미국의 실제 정보 공유 중단 여부",
+        "우크라이나 정부의 공식 후속 대응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Euronews.com",
+        "Financial Times",
+        "Politico",
+        "The Guardian",
+        "2026.10.11 10:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 트럼프는 우크라이나가 새로운 지도자를 뽑아야 한다고 밝혔습니다\n\n· 트럼프는 젤렌스키 대통령을 향해 러시아 정유시설 공격을 멈추라고 요구했습니다 (폴리티코)\n· 미국 정부는 러시아 타격이 계속될 경우 정보 공유가 위태로워질 수 있다고 경고했습니다 (파이낸셜 타임스)\n\n여러분은 미국의 이번 우크라이나 지도부 교체 압박, 어떻게 보십니까?\n\n출처: BBC·가디언·파이낸셜 타임스·폴리티코 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "트럼프는 우크라이나가 새로운 지도자를 뽑아야 한다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 디젤 합의 이후 젤렌스키 대통령의 교체를 요구했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 정부는 러시아에 대한 공격이 계속되면 정보 공유가 위태로워질 수 있다고 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국의 구체적인 후속 조치는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 이번 우크라이나 지도부 교체 압박, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "트럼프가\n[[젤렌스키]]에게 한 말은?",
+  "broll": [
+    "government building flag",
+    "city street ukraine"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
