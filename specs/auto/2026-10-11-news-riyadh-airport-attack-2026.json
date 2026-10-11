@@ -1,0 +1,151 @@
+{
+  "slug": "2026-10-11-news-riyadh-airport-attack-2026",
+  "topic": "사우디 킹칼리드 공항 공격으로 12명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 12:57 KST",
+  "source": "Al Jazeera·BBC·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9NNm8zRGJqcUNiY05QN1Y0MHN1QnJVV0IzNTl2OHY2T3NEdlVkanBTUWFlVEprZVZrLXNvbVFtMWxxeXRreFZmRDFRY0lUbWdtcENxXzBMMm9LNm8",
+    "related": [
+      [
+        "Twelve killed in attack on Riyadh's King Khalid International Airport",
+        "BBC"
+      ],
+      [
+        "Saudi Arabia’s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+        "The New York Times"
+      ],
+      [
+        "Riyadh schools switch to remote learning after deadly attack on airport",
+        "The Times of Israel"
+      ],
+      [
+        "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
+        "Al Jazeera"
+      ],
+      [
+        "Houthis Bombard Saudi Air Links in Effort to Cut Kingdom Off From Rest of World",
+        "WSJ"
+      ]
+    ],
+    "event_key": "riyadh-airport-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "사우디 킹칼리드 공항 공격으로\n[[12명]] 숨져",
+      "sub": "사우디아라비아 리야드 학교 원격 수업 전환",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "12명"
+        }
+      ],
+      "alt": "사우디 킹칼리드 공항 공격으로 12명 숨져",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공항 공격",
+          "d": "사우디아라비아 리야드의 킹칼리드 국제공항이 공격받았습니다 (BBC·NYT·알자지라)."
+        },
+        {
+          "t": "대응 다짐",
+          "d": "사우디 주도 연합군은 이에 대응하겠다고 밝혔습니다 (알자지라)."
+        },
+        {
+          "t": "학사 일정 변경",
+          "d": "공항 공격 여파로 리야드 지역 학교들은 원격 수업으로 전환했습니다 (타임스오브이스라엘)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 12명 (BBC·알자지라)",
+        "사우디 주도 연합군 대응 다짐 (알자지라)"
+      ],
+      "unconfirmed": [
+        "공항 공격의 정확한 배후 및 무기 종류",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "The New York Times",
+        "The Times of Israel",
+        "WSJ",
+        "2026.10.11 15:30 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 킹칼리드 국제공항 공격으로 12명 숨졌습니다\n\n· 사우디아라비아 리야드 공항이 공격받아 사망자 12명이 발생했습니다 (BBC·NYT·알자지라)\n· 사우디 주도 연합군은 이번 공격에 대응하겠다고 밝혔습니다 (알자지라)\n· 리야드 내 학교들은 공격 여파로 원격 수업으로 전환했습니다 (타임스오브이스라엘)\n\n출처: BBC·The New York Times·The Times of Israel·Al Jazeera·WSJ 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아 리야드의 킹칼리드 국제공항이 공격받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 이번 공격으로 12명이 숨졌다고 전했습니다.",
+      "card": "points",
+      "screen": "사망 12명 발생"
+    },
+    {
+      "text": "사우디 주도 연합군은 이에 대응하겠다고 밝혔습니다.",
+      "card": "points",
+      "screen": "연합군 대응 다짐"
+    },
+    {
+      "text": "리야드 지역 학교들은 원격 수업으로 전환했습니다.",
+      "card": "points",
+      "screen": "원격 수업 전환"
+    },
+    {
+      "text": "현지의 정확한 피해 상황과 공격 배후는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "사우디 [[공항]]에서\n무슨 일이?",
+  "broll": [
+    "airport terminal night",
+    "smoke city horizon"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}

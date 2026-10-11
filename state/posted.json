@@ -12250,5 +12250,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791692140
+  },
+  {
+    "slug": "2026-10-11-news-riyadh-airport-attack-2026",
+    "event_ms": 1791691042000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 사우디 킹칼리드 국제공항 공격으로 12명 숨졌습니다\n\n· 사우디아라비아 리야드 공항이 공격받아 사망자 12명이 발생했습니다 (BBC·NYT·알자지라)\n· 사우디 주도 연합군은 이번 공격에 대응하겠다고 밝혔습니다 (알자지라)\n· 리야드 내 학교들은 공격 여파로 원격 수업으로 전환했습니다 (타임스오브이스라엘)\n\n출처: BBC·The New York Times·The Times of Israel·Al Jazeera·WSJ 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18030839774881633",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeWBUWkG6kl",
+        "kind": "carousel",
+        "at": 1791700290
+      },
+      "instagram": {
+        "id": "18031185140680919",
+        "permalink": "https://www.instagram.com/reel/DeWBmmdkpqh/",
+        "kind": "reel",
+        "at": 1791700459
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1791700469
+      },
+      "tiktok": {
+        "id": "7695294955845061896",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7695294955845061896",
+        "kind": "video",
+        "at": 1791700591
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791700601
   }
 ]

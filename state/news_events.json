@@ -2205,5 +2205,15 @@
     "at": 1791691700.7289238,
     "country": "오만",
     "category": "국제"
+  },
+  {
+    "event_key": "riyadh-airport-attack-2026",
+    "topic": "사우디 킹칼리드 공항 공격으로 12명 숨져",
+    "slug": "2026-10-11-news-riyadh-airport-attack-2026",
+    "cluster": "CBMiW0FVX3lxTE9NNm8zRGJqcUNiY05QN1Y0MHN1QnJVV0IzNTl2OHY2T3NEdlVkanBTUWFlVEprZVZrLXNvbVFtMWxxeXRreFZmRDFRY0lUbWdtcENxXzBMMm9LNm8",
+    "badge": "breaking",
+    "at": 1791700242.3147979,
+    "country": "사우디아라비아",
+    "category": "총격·테러"
   }
 ]
