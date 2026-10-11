@@ -12356,5 +12356,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791701911
+  },
+  {
+    "slug": "2026-10-11-news-nepal-budhi-gandaki-flash-flood-evacuation-2026",
+    "event_ms": 1791702910000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 산사태 이어 돌발 홍수 발생… 네팔 북부 주민 대피령\n\n· 산사태로 홍수가 발생해 네팔 북부 부디 간다키강 유역 마을에 대피령이 내려졌습니다 (로이터·더힌두)\n· 돌발 홍수로 주택과 다리가 휩쓸려 떠내려갔습니다 (NDTV)\n· 정확한 인명 및 재산 피해 규모는 아직 알려지지 않았습니다\n\n출처: NDTV·로이터·더힌두 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "네팔"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18092369690674526",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeWKtajG8qY",
+        "kind": "carousel",
+        "at": 1791705214
+      },
+      "instagram": {
+        "id": "17991473319048721",
+        "permalink": "https://www.instagram.com/reel/DeWLJJtDV0R/",
+        "kind": "reel",
+        "at": 1791705461
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1791705471
+      },
+      "tiktok": {
+        "id": "7695316177823747380",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7695316177823747380",
+        "kind": "video",
+        "at": 1791705593
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791705603
   }
 ]

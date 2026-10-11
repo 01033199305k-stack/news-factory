@@ -2225,5 +2225,15 @@
     "at": 1791701565.4818947,
     "country": "이란",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "nepal-budhi-gandaki-flash-flood-evacuation-2026",
+    "topic": "산사태 이어 돌발 홍수 네팔 북부 주민 대피령",
+    "slug": "2026-10-11-news-nepal-budhi-gandaki-flash-flood-evacuation-2026",
+    "cluster": "CBMi5AFBVV95cUxOWXpKd0gwRmJKeE9VRHIwTXRCaE9xV2RkOFNmZnp2RHFIWEZTaUpGSm1zWW5mMHBVVWoxbUs1Qlp0bW9xNHZNeW9tQW03bWhncEZpTERidkpQbnJ6bVJTQUlxdTNoZGJBZXlBdjJVSXY3OXplcnA0SWVuaW5HMWxjaWc1VFJKRjlHSDJ1ekxOc3VGNUUxUDdBeTdOb3d4Z1hsN01qMWFJSVJGcXJ5dktqaWNOR1dOMjlkZlpyVXNZS1FySEtnRHl4RzlPWm9la1VIQ1hpYmx5UHZETXFvWVktLTJpckfSAewBQVVfeXFMUDk1dFVTTjQzTWZwdnAzdDk0YTFCV3RPQ1BUclNZSUhYZHhGR2pLcER2TnBzdzFrWDZ2QTM5ckRQVUh4VjBYdGNlS29ETW55YTNpZm1SbkU1OFoxTWFMMXRBS2FQYkl2dlkxTFhobDNlY3lLb25qcG9leDd3dHh1ZDZfM2g1bFI1cnZxSzFVdkNlYU1KYVhoM3YyanJNakc4Q1UtenRYT0RSOGxNMjMtN0J2ZldxdE9lN1h0QllvWlRNV3BBblViVWtwdHpzZzVES0pGa2VEc1BjQ0tZb2d2dDJVTFk0WWtQNi1rR2k",
+    "badge": "breaking",
+    "at": 1791705167.823104,
+    "country": "네팔",
+    "category": "재난"
   }
 ]

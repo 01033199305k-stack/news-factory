@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-11-news-nepal-budhi-gandaki-flash-flood-evacuation-2026",
+  "topic": "산사태 이어 돌발 홍수 네팔 북부 주민 대피령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 16:15 KST",
+  "source": "NDTV·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi5AFBVV95cUxOWXpKd0gwRmJKeE9VRHIwTXRCaE9xV2RkOFNmZnp2RHFIWEZTaUpGSm1zWW5mMHBVVWoxbUs1Qlp0bW9xNHZNeW9tQW03bWhncEZpTERidkpQbnJ6bVJTQUlxdTNoZGJBZXlBdjJVSXY3OXplcnA0SWVuaW5HMWxjaWc1VFJKRjlHSDJ1ekxOc3VGNUUxUDdBeTdOb3d4Z1hsN01qMWFJSVJGcXJ5dktqaWNOR1dOMjlkZlpyVXNZS1FySEtnRHl4RzlPWm9la1VIQ1hpYmx5UHZETXFvWVktLTJpckfSAewBQVVfeXFMUDk1dFVTTjQzTWZwdnAzdDk0YTFCV3RPQ1BUclNZSUhYZHhGR2pLcER2TnBzdzFrWDZ2QTM5ckRQVUh4VjBYdGNlS29ETW55YTNpZm1SbkU1OFoxTWFMMXRBS2FQYkl2dlkxTFhobDNlY3lLb25qcG9leDd3dHh1ZDZfM2g1bFI1cnZxSzFVdkNlYU1KYVhoM3YyanJNakc4Q1UtenRYT0RSOGxNMjMtN0J2ZldxdE9lN1h0QllvWlRNV3BBblViVWtwdHpzZzVES0pGa2VEc1BjQ0tZb2d2dDJVTFk0WWtQNi1rR2k",
+    "related": [
+      [
+        "Houses, Bridges Swept Away In Nepal Flash Flood Months After Deadly Disaster",
+        "NDTV"
+      ],
+      [
+        "Nepal urges villagers to evacuate after flood triggered by landslide",
+        "Reuters"
+      ],
+      [
+        "Villages evacuated as flash flood from Budhi Gandaki River hits northern Nepal",
+        "The Hindu"
+      ],
+      [
+        "Nepal on alert as fresh flood threat looms along Budhi Gandaki River",
+        "The Times of India"
+      ],
+      [
+        "Massive flood hits Nepal | 1,457 people killed in august flood | Inshorts",
+        "Inshorts"
+      ]
+    ],
+    "event_key": "nepal-budhi-gandaki-flash-flood-evacuation-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "산사태 이어 [[돌발 홍수]]\n네팔 북부 주민 대피령",
+      "sub": "부디 간다키강 범람으로 주택과 다리 유실",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "주민 대피령"
+        }
+      ],
+      "alt": "산사태 이어 돌발 홍수 네팔 북부 주민 대피령",
+      "map": {
+        "lat": 28.6970402,
+        "lon": 84.6231482,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "네팔"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네팔\n부디 간다키강",
+      "video_only": true,
+      "map": {
+        "lat": 28.6970402,
+        "lon": 84.6231482,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "부디 간다키강"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "산사태로 홍수 발생",
+          "d": "산사태 여파로 홍수가 발생했습니다(로이터)."
+        },
+        {
+          "t": "시설물 유실 피해",
+          "d": "돌발 홍수로 현지 주택과 다리가 휩쓸려 떠내려갔습니다(NDTV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "네팔 북부 부디 간다키강 유역 돌발 홍수 발생",
+        "인근 마을 주민 긴급 대피령 발령"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Inshorts",
+        "NDTV",
+        "Reuters",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.11 16:52 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 산사태 이어 돌발 홍수 발생… 네팔 북부 주민 대피령\n\n· 산사태로 홍수가 발생해 네팔 북부 부디 간다키강 유역 마을에 대피령이 내려졌습니다 (로이터·더힌두)\n· 돌발 홍수로 주택과 다리가 휩쓸려 떠내려갔습니다 (NDTV)\n· 정확한 인명 및 재산 피해 규모는 아직 알려지지 않았습니다\n\n출처: NDTV·로이터·더힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "네팔 북부에서 산사태에 이은 돌발 홍수가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "부디 간다키강 유역 마을 주민들에게 대피령이 내려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "현지에서는 돌발 홍수로 주택과 다리가 휩쓸려 떠내려갔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "네팔 북부 강물 범람\n[[긴급 대피령]]",
+  "broll": [
+    "flooded river mud",
+    "mountain village rain"
+  ],
+  "place_en": "Budhi Gandaki River, Nepal"
+}
