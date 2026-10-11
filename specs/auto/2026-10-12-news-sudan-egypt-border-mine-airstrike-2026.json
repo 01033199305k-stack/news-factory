@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-12-news-sudan-egypt-border-mine-airstrike-2026",
+  "topic": "수단·이집트 국경 금광 공습으로 72명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 06:12 KST",
+  "source": "BBC·Sky News·DW.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE4yY3BJRXNwTjUzc3pISmNsNGNqWTRfNXIwQnVTVjlWVDNpczBJYXNBTTRmakhDa2JxZU5hNWtLb0J4NlNPZFRCS1NPTUdxeGtLaThvZnpDcnQydFBncEE",
+    "related": [
+      [
+        "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
+        "BBC"
+      ],
+      [
+        "'At least 72' miners killed in airstrike on Sudan-Egypt border",
+        "Sky News"
+      ],
+      [
+        "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+        "DW.com"
+      ],
+      [
+        "At least 72 Sudanese artisanal miners killed in strike, rights monitor says",
+        "Deccan Herald"
+      ],
+      [
+        "Dozens reported killed in airstrikes at Sudan mine — The Rio Times",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "sudan-egypt-border-mine-airstrike-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "수단·이집트 국경 금광\n공습으로 [[72명 사망]]",
+      "sub": "국경 지대 금 채굴 현장 공습으로 대규모 인명 피해",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 72명"
+        }
+      ],
+      "alt": "수단·이집트 국경 금광 공습으로 72명 사망",
+      "map": {
+        "lat": 22.333322,
+        "lon": 31.6231946,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "수단"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "수단\n수단·이집트 국경",
+      "video_only": true,
+      "map": {
+        "lat": 22.333322,
+        "lon": 31.6231946,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "수단·이집트 국경"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "인권단체 피해 발표",
+          "d": "인권 감시 단체는 수단과 이집트 국경 지대의 금 채굴 현장이 공습을 받았다고 전했습니다 (BBC·데칸헤럴드)."
+        },
+        {
+          "t": "전통 광부 다수 희생",
+          "d": "금을 캐던 광부 최소 72명이 이번 공습으로 숨진 것으로 집계됐습니다 (스카이뉴스·데칸헤럴드)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "수단·이집트 국경 금광 공습",
+        "광부 최소 72명 사망 (스카이뉴스·데칸헤럴드)"
+      ],
+      "unconfirmed": [
+        "공습 주체 및 배후",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "DW.com",
+        "Deccan Herald",
+        "Sky News",
+        "UA.NEWS",
+        "2026.10.12 08:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 수단과 이집트 국경 지대 금광이 공습을 받아 광부 최소 72명이 숨졌습니다.\n\n· 인권 감시 단체는 국경 지대 금 채굴 현장이 폭격을 맞았다고 밝혔습니다 (BBC·데칸헤럴드).\n· 공습으로 광부 최소 72명이 사망한 것으로 집계됐습니다 (스카이뉴스·데칸헤럴드).\n· 공습을 가한 주체나 구체적인 배후는 아직 확인되지 않았습니다.\n\n출처: BBC·스카이뉴스·DW·데칸헤럴드 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "수단과 이집트 국경 금광에 공습이 발생해 최소 72명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "스카이뉴스는 국경 지대에서 금을 캐던 광부 최소 72명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공습을 감행한 주체와 구체적인 배경은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "국경 지대 [[금광]]에\n날아든 폭격",
+  "broll": [
+    "gold mine desert",
+    "air strike smoke"
+  ],
+  "place_en": "Sudan-Egypt border"
+}
