@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-12-news-pope-leo-lung-surgery-2026",
+  "topic": "교황 레오 폐 결절 수술 예정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 00:11 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwgFBVV95cUxOUkdPdU5pbElCMXZwdmxCX05ENE44MGdFQ1dMTThyUGpuM0RWYjVsSGtJUERqbG9yY2hEVlZMRXZsclVwdHBSVnBmZDZoN3RwOTlKV0pJUVQxU3JkUloydGFha2dpN3hMSnpzelM4b3NFNmwtb1BSNEFUdEtRVUExQ3owb2FwOE02LXM5Wk9oX052Z2ZUNzdjWjBuVVFROXlpZFY0Mk0zd3h2T1N4WEs1NEFMZDhIQ1JDSXcwNjdsWVFldw",
+    "related": [
+      [
+        "Pope Leo says he will undergo surgery for small growth on lung",
+        "Reuters"
+      ],
+      [
+        "Pope Leo: I will undergo surgery soon to remove nodule in my lung",
+        "Vatican News"
+      ],
+      [
+        "Pope Leo to have surgery after lump found on lung",
+        "BBC"
+      ],
+      [
+        "Pope Leo to have surgery to remove nodule on his lung",
+        "The Guardian"
+      ],
+      [
+        "Pope Leo announces he will undergo surgery to remove lung node",
+        "CNN"
+      ]
+    ],
+    "event_key": "pope-leo-lung-surgery-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "교황 레오\n[[폐 결절 수술]] 예정",
+      "sub": "폐에서 혹 발견돼 조만간 수술 받기로 결정",
+      "chips": [],
+      "alt": "교황 레오 폐 결절 수술 예정",
+      "map": {
+        "lat": 41.9034912,
+        "lon": 12.4528349,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "바티칸"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "바티칸\n바티칸 시국",
+      "video_only": true,
+      "map": {
+        "lat": 41.9034912,
+        "lon": 12.4528349,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바티칸 시국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "폐 결절 수술 방침",
+          "d": "교황 레오는 폐에서 발견된 결절(혹)을 제거하기 위해 조만간 수술을 받을 예정이라고 밝혔습니다 (바티칸 뉴스·로이터·CNN)."
+        },
+        {
+          "t": "폐에서 혹 발견",
+          "d": "교황의 폐에서 소형 혹이 발견되어 이를 제거하는 수술을 진행할 예정입니다 (BBC·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "교황 레오 폐 결절 수술 예정",
+        "폐에서 혹(결절) 발견"
+      ],
+      "unconfirmed": [
+        "구체적인 수술 날짜",
+        "수술 후 예상 회복 기간"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Guardian",
+        "Vatican News",
+        "2026.10.12 01:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 교황 레오가 폐 결절 제거 수술을 받을 예정이라고 밝혔습니다.\n\n· 폐에서 소형 혹 발견 (BBC·로이터)\n· 조만간 결절 제거 수술 진행 예정 (바티칸 뉴스·가디언·CNN)\n\n출처: 로이터·바티칸 뉴스·BBC·The Guardian·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "교황 레오가 폐 결절 제거 수술을 받을 예정입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "교황의 폐에서 소형 혹이 발견된 것으로 전해졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "구체적인 수술 날짜와 회복 기간은 아직 공식 발표되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[교황 레오]]\n수술받는 이유",
+  "broll": [
+    "vatican square",
+    "st peters basilica"
+  ],
+  "place_en": "Vatican City"
+}
