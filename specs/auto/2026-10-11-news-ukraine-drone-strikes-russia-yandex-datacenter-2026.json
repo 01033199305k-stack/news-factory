@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-11-news-ukraine-drone-strikes-russia-yandex-datacenter-2026",
+  "topic": "우크라, 러 데이터센터 타격 '러시아의 구글' 마비",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 20:26 KST",
+  "source": "AP News·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z",
+    "related": [
+      [
+        "Ukraine steps up strikes on Russia’s tech infrastructure, damaging third data center in 4 days",
+        "AP News"
+      ],
+      [
+        "Ukraine hits second major tech site, expanding range of targets inside Russia",
+        "Reuters"
+      ],
+      [
+        "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+        "Ars Technica"
+      ],
+      [
+        "Russian search engine Yandex struggles after Ukrainian strikes on data centres",
+        "BBC"
+      ],
+      [
+        "Drone attack shuts down Yandex data centre in Russia's Vladimir",
+        "Українська правда"
+      ]
+    ],
+    "event_key": "ukraine-drone-strikes-russia-yandex-datacenter-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라, 러 [[데이터센터]] 타격\n'러시아의 구글' 마비",
+      "sub": "나흘 새 세 곳의 러시아 기술 인프라가 드론 피격을 받았습니다",
+      "chips": [
+        {
+          "k": "피해 시설",
+          "v": "데이터센터 3곳"
+        }
+      ],
+      "alt": "우크라, 러 데이터센터 타격 '러시아의 구글' 마비",
+      "map": {
+        "lat": 56.1288899,
+        "lon": 40.4075203,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n블라디미르",
+      "video_only": true,
+      "map": {
+        "lat": 56.1288899,
+        "lon": 40.4075203,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "블라디미르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "얀덱스 데이터센터 가동 중단",
+          "d": "'러시아의 구글' 얀덱스의 블라디미르 AI 데이터센터가 드론 공격을 받아 멈췄습니다 (아르스테크니카·우크라인스카 프라우다)."
+        },
+        {
+          "t": "기술 인프라로 공격 확대",
+          "d": "우크라이나는 러시아 내부 기술 시설로 목표를 넓히며 나흘 사이 데이터센터 세 곳을 타격했습니다 (AP·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 얀덱스 데이터센터 드론 피격",
+        "블라디미르 시설 가동 중단"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "시설 복구 완료 시점",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Ars Technica",
+        "BBC",
+        "Reuters",
+        "Українська правда",
+        "2026.10.11 21:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라, 러 주요 IT 시설 공습…'러시아의 구글' 데이터센터 마비\n\n· 우크라이나 드론이 러시아 블라디미르에 위치한 얀덱스의 AI 데이터센터를 타격해 가동이 중단됐습니다 (아르스테크니카·우크라인스카 프라우다).\n· 우크라이나는 최근 4일 동안 러시아 내 데이터센터 세 곳을 잇따라 공격하며 기술 인프라로 타격 범위를 넓혔습니다 (AP·로이터).\n\n우크라이나의 러시아 본토 기술 시설 집중 타격, 전황에 어떤 영향을 줄 것으로 보십니까?\n출처: AP·로이터·BBC·아르스테크니카·우크라인스카 프라우다 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 러시아의 핵심 IT 데이터센터를 공격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공격을 받은 곳은 러시아 블라디미르에 있는 얀덱스 시설입니다.",
+      "card": "map"
+    },
+    {
+      "text": "아르스테크니카는 인공지능 데이터센터가 타격을 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나는 나흘간 세 곳의 데이터센터를 타격했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현장의 정확한 인명 피해는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "러시아 기술 시설을 겨냥한 이번 공격, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "러 [[데이터센터]]에\n드론 날아든 이유",
+  "broll": [
+    "data center servers",
+    "drone flying night"
+  ],
+  "place_en": "Vladimir, Russia"
+}

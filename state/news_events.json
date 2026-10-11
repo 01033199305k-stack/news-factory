@@ -2255,5 +2255,15 @@
     "at": 1791716987.493414,
     "country": "파키스탄",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine-drone-strikes-russia-yandex-datacenter-2026",
+    "topic": "우크라, 러 데이터센터 타격 '러시아의 구글' 마비",
+    "slug": "2026-10-11-news-ukraine-drone-strikes-russia-yandex-datacenter-2026",
+    "cluster": "CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z",
+    "badge": "breaking",
+    "at": 1791720748.1268024,
+    "country": "러시아",
+    "category": "국제"
   }
 ]
