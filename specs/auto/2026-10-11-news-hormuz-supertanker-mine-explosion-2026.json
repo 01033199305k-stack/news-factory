@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-11-news-hormuz-supertanker-mine-explosion-2026",
+  "topic": "호르무즈 해협서 유조선 기뢰 폭발 화재 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 14:32 KST",
+  "source": "NDTV·The Times of India·Deccan Herald 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxQRVRnMFdZam9SUHhBejJXM3JNampibU1VNFNnU0tIYUFpTkp6LVpfa1dBaG45dU9JUDEzSkZPemxzY1RiSmhsVFRnQUViWmFObXZxUjQ2cE1YdkFTaDZUZk9yX044eGpMT2ZsUmxtR3N2cDJhOVNyb1ZSNUFyOV9qalR0OHZPeTFrZ0h4MTA1OUd2WlpPU2ViNlZuczhkUml5WTNwYl80aVhVZHc4VEHSAbYBQVVfeXFMTUtXYmVHRzM3LXZpVkF5TEJsQzJyNkowbkJVNUFrLTZScVdORXU3b3RmZzA0bGZGTm56TjBZMi1SQW8zVFNEdDRmS1hnbXFmNDZpNlNObnlFSGNGX0hPNFlyQXFrRHI1bWtWUzlvZUxqWm9uc2RNSkZFNV9lUGRfZ013dzI1OWdkSWYxQ3NZUzQwQXBjR1BIaHRWV3J5STFtRDBIX0gtU3lFUGNrYlNCME1CdlhiZnc",
+    "related": [
+      [
+        "Video: Supertanker Hits Mine, Catches Fire While Trying To Exit Strait",
+        "NDTV"
+      ],
+      [
+        "Iran's Guards say tanker exploded after hitting mine in Strait of Hormuz",
+        "Deccan Herald"
+      ],
+      [
+        "16 seafarers killed in Persian Gulf, Black Sea; Saudi official calls seizure of sealanes ‘criminal act’",
+        "The Times of India"
+      ],
+      [
+        "Iran threatens wider tanker attacks as VLCC struck in Gulf",
+        "Seatrade Maritime News"
+      ],
+      [
+        "Panama suffers one of worst earthquakes as authorities investigate canal impact",
+        "TradeWinds News"
+      ]
+    ],
+    "event_key": "hormuz-supertanker-mine-explosion-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈 해협서 [[유조선]] 기뢰 폭발\n화재 발생",
+      "sub": "이란 혁명수비대는 해협을 빠져나가던 유조선이 기뢰에 부딪혔다고 밝혔습니다",
+      "chips": [
+        {
+          "k": "사고",
+          "v": "유조선 폭발"
+        }
+      ],
+      "alt": "호르무즈 해협서 유조선 기뢰 폭발 화재 발생",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이란 혁명수비대 발표",
+          "d": "이란 혁명수비대는 호르무즈 해협을 빠져나가려던 유조선이 기뢰에 부딪혀 폭발했다고 밝혔습니다 (데칸헤럴드)."
+        },
+        {
+          "t": "선박 화재 발생",
+          "d": "초대형 원유운반선이 기뢰 접촉 후 화재에 휩싸였습니다 (NDTV·시트레이드마리타임뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호르무즈 해협 유조선 기뢰 폭발",
+        "선박 내 화재 발생"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Deccan Herald",
+        "NDTV",
+        "Seatrade Maritime News",
+        "The Times of India",
+        "TradeWinds News",
+        "2026.10.11 15:52 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협에서 대형 유조선이 기뢰에 부딪혀 폭발 화재가 발생했습니다.\n\n· 이란 혁명수비대는 호르무즈 해협을 빠져나가던 유조선이 기뢰에 부딪혀 폭발했다고 밝혔습니다 (데칸헤럴드)\n· 초대형 원유운반선(VLCC)이 타격을 입고 불길에 휩싸였습니다 (NDTV·시트레이드마리타임뉴스)\n· 정확한 인명 피해는 아직 확인되지 않았습니다\n\n출처: NDTV·데칸헤럴드·시트레이드마리타임뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 대형 유조선이 기뢰에 부딪혀 폭발했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 호르무즈 해협 출구 부근에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이란 혁명수비대 측은 선박이 기뢰와 접촉한 뒤 불길에 휩싸였다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[호르무즈]] 해협서\n유조선 폭발",
+  "broll": [
+    "oil tanker sea",
+    "sea strait"
+  ],
+  "place_en": "Strait of Hormuz"
+}
