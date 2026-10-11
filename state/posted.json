@@ -12791,5 +12791,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791738482
+  },
+  {
+    "slug": "2026-10-12-news-poland-pm-assassination-plot-arrest-2026",
+    "event_ms": 1791742493848,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 폴란드 경찰이 도날드 투스크 총리 암살을 모의한 남성을 체포했습니다.\n\n· 폴란드 당국은 총리와 국방장관을 겨냥한 공격 계획을 포착했습니다 (BBC·블룸버그)\n\n이번 암살 모의 사건, 여러분은 어떻게 보십니까?\n\n출처: BBC·블룸버그·로이터 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "폴란드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18062385821631070",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeXR6Z6mDeB",
+        "kind": "carousel",
+        "at": 1791742547
+      },
+      "instagram": {
+        "id": "17957815452253789",
+        "permalink": "https://www.instagram.com/reel/DeXSMj4CBn4/",
+        "kind": "reel",
+        "at": 1791742711
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791742721
+      },
+      "tiktok": {
+        "id": "7695476429428968725",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7695476429428968725",
+        "kind": "video",
+        "at": 1791742843
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791742853
   }
 ]

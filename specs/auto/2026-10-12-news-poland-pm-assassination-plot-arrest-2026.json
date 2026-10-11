@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-12-news-poland-pm-assassination-plot-arrest-2026",
+  "topic": "폴란드 총리 암살 모의 용의자 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 01:18 KST",
+  "source": "ABC News·BBC·Bloomberg.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijAFBVV95cUxQZTIzQUpVeFE2UXR6MHU5cFd5WDl1dDZzRENxMG40bkItZFVVN0J5bm9MblF1cjMyQWRZWENFUHJZRF8zTGhsVXYtc2hkTDlrU2oySWlTcmt1cF95MUVQbG1oWklXcE9KSlFTdjh5VHg4NXpmQmw1WGh1SjBZa1FPUk9nb3ZPOVBoY3QtatIBjAFBVV95cUxQNHFTOGZPMFgybVlXRlNIQTRvd3ZONlItQTlmRll5RFFhYnVXSHFsVU5teVF0WEVVV0Y3bTNUbEI0Y0pWWHloME1OMUFTVWJubldMVDV4S01laGpqbXZyZnVrSUhXV2NDUkVNdksyenRBcElWa1F2NGtPdG02YmFWaEt6RlFlU3R1ZFlsRQ",
+    "related": [
+      [
+        "Poland arrests man over plot to kill PM Donald Tusk",
+        "DW.com"
+      ],
+      [
+        "Poland Probes Possible Attack Planned on Premier, Defense Chief",
+        "Bloomberg.com"
+      ],
+      [
+        "Poland detains man suspected of planning assassination of PM Donald Tusk",
+        "BBC"
+      ],
+      [
+        "Poland's police warn of a possible plot to attack Prime Minister Donald Tusk",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Polish police detain man after threat to PM",
+        "Reuters"
+      ]
+    ],
+    "event_key": "poland-pm-assassination-plot-arrest-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "폴란드 총리 [[암살 모의]]\n용의자 체포",
+      "sub": "투스크 총리와 국방장관 겨냥 정황",
+      "chips": [],
+      "alt": "폴란드 총리 암살 모의 용의자 체포",
+      "map": {
+        "lat": 52.2319581,
+        "lon": 21.0067249,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "폴란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "폴란드\n바르샤바",
+      "video_only": true,
+      "map": {
+        "lat": 52.2319581,
+        "lon": 21.0067249,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바르샤바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "암살 모의 혐의",
+          "d": "폴란드 경찰이 도날드 투스크 총리 공격을 모의한 남성을 체포했습니다 (BBC)."
+        },
+        {
+          "t": "국방장관도 타깃",
+          "d": "당국은 총리와 국방장관을 겨냥한 공격 정황을 수사 중이라고 밝혔습니다 (블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "폴란드 총리 암살 모의 피의자 체포"
+      ],
+      "unconfirmed": [
+        "구체적 범행 동기 및 배후 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "Bloomberg.com",
+        "DW.com",
+        "Reuters",
+        "2026.10.12 03:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 폴란드 경찰이 도날드 투스크 총리 암살을 모의한 남성을 체포했습니다.\n\n· 폴란드 당국은 총리와 국방장관을 겨냥한 공격 계획을 포착했습니다 (BBC·블룸버그)\n\n이번 암살 모의 사건, 여러분은 어떻게 보십니까?\n\n출처: BBC·블룸버그·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "폴란드 총리를 암살하려 모의한 남성이 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "폴란드 경찰은 총리와 국방장관을 겨냥한 공격 계획을 포착했다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "범행 동기와 배후 세력 존재 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 암살 모의 사건, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[폴란드 총리]]\n암살 노린 남성",
+  "broll": [
+    "police car night",
+    "government building europe"
+  ],
+  "place_en": "Warsaw, Poland"
+}
