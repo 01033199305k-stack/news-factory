@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-11-news-djibouti-yemen-migrant-boat-capsizes-2026",
+  "topic": "이주민 보트 전복 참사 어린이 포함 109명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 20:23 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixAFBVV95cUxOa3otdUpMV081a0ZSLTRCeHRwM2ZRV05qYi1nUHgtSHpjMnVPU2FXUV9jZ0JCYjFsTC1xN2lBUzNGTE9JeFNUMmlpV01pcnNkejk2TFdSMkp2WURRRWhNZloyRVRaTEYzamRTNXUwTV80ZkhoUE9OR1gwYWJVMUpwemhuMkVZT2dYLVF5NVUwSnJWNngtRFhJcDFHWkxjNmlDSDZEUlJ4R0hSQTBtN2JXb2s3MmUyaFBMSlJmNHc1WGdJVXEt",
+    "related": [
+      [
+        "109 migrants, including 15 children dead after boat from Djibouti to Yemen capsizes, UN agency says",
+        "Reuters"
+      ],
+      [
+        "At least 109 dead, over 100 missing as migrant boat capsizes off Djibouti",
+        "Al Jazeera"
+      ],
+      [
+        "109 migrants killed, 116 missing after boat capsizes off Djibouti: UN",
+        "The Hindu"
+      ],
+      [
+        "Over 100 killed, including 15 children, as Yemen-headed boat capsizes in Red Sea",
+        "The Times of India"
+      ],
+      [
+        "Djibouti boat capsize: Children among 109 dead with 116 still missing, UN says",
+        "BBC"
+      ]
+    ],
+    "event_key": "djibouti-yemen-migrant-boat-capsizes-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이주민 보트 [[전복]] 참사\n어린이 포함 109명 사망",
+      "sub": "지부티서 예멘 향하던 선박 전복… 116명 실종",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "109명"
+        },
+        {
+          "k": "실종",
+          "v": "116명"
+        }
+      ],
+      "alt": "이주민 보트 전복 참사 어린이 포함 109명 사망",
+      "map": {
+        "lat": 11.8145966,
+        "lon": 42.8453061,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "지부티"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "지부티\n지부티 해역",
+      "video_only": true,
+      "map": {
+        "lat": 11.8145966,
+        "lon": 42.8453061,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "지부티 해역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "어린이 희생자 발생",
+          "d": "사망자 가운데 어린이 15명이 포함됐다고 로이터 통신 등이 유엔 기구를 인용해 보도했습니다."
+        },
+        {
+          "t": "116명 대규모 실종",
+          "d": "보트에 타고 있던 인원 중 116명이 아직 실종 상태라고 BBC 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이주민 보트 전복",
+        "사망 109명 (로이터·BBC)",
+        "어린이 15명 사망 (로이터·인디아타임스)",
+        "실종 116명 (BBC·더힌두)"
+      ],
+      "unconfirmed": [
+        "정확한 전복 원인",
+        "한국인 탑승 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Reuters",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.11 22:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 지부티 해역서 이주민 보트 전복… 109명 숨져\n\n· 지부티에서 예멘으로 향하던 이주민 보트가 바다에서 전복됐습니다 (로이터).\n· 어린이 15명을 포함해 109명이 숨졌다고 유엔 기구가 밝혔습니다 (로이터).\n· 탑승자 가운데 116명은 여전히 실종 상태입니다 (더힌두).\n\n출처: 로이터·BBC·더힌두·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "지부티 앞바다에서 이주민 보트가 전복됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "지부티에서 예멘으로 향하던 선박이 전복됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 어린이 15명을 포함해 109명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "BBC 등은 탑승자 중 116명이 여전히 실종 상태라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 전복 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "지부티 앞바다\n[[보트 전복]] 참사",
+  "broll": [
+    "boat sea rescue",
+    "ocean water night"
+  ],
+  "place_en": "Djibouti"
+}
