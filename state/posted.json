@@ -12466,5 +12466,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791713269
+  },
+  {
+    "slug": "2026-10-11-news-pakistan-khyber-pakhtunkhwa-emergency-rule-2026",
+    "event_ms": 1791710940000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 파키스탄 정부가 카이베르파크툰크와주에 비상사태를 선포했습니다.\n\n· 파키스탄 대통령이 내각 결정을 승인하고 총독 통치령을 발동했습니다 (돈).\n· 임란 칸 전 총리 정당이 이끌던 주정부 권한은 정지됐습니다 (로이터·타임스오브인디아).\n\n파키스탄 연방정부의 이번 비상사태 선포 조치, 어떻게 보십니까?\n출처: 로이터·알자지라·돈·타임스오브인디아·더힌두 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "파키스탄"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18108610501911162",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeWhQZJlQwb",
+        "kind": "carousel",
+        "at": 1791717036
+      },
+      "instagram": {
+        "id": "18143422387610008",
+        "permalink": "https://www.instagram.com/reel/DeWhgwkDanI/",
+        "kind": "reel",
+        "at": 1791717189
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791717199
+      },
+      "tiktok": {
+        "id": "7695366808961846548",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7695366808961846548",
+        "kind": "video",
+        "at": 1791717320
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791717330
   }
 ]

@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-11-news-pakistan-khyber-pakhtunkhwa-emergency-rule-2026",
+  "topic": "파키스탄 카이베르파크툰크와주에 비상사태 선포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 18:29 KST",
+  "source": "Al Jazeera·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi6wFBVV95cUxPNk12TGJyX0gxbm0xRUM4V0xmdVlYaWxwVHE4cXhtaTJGdUt1RTNFRjVaWUZlcGRMWXNXcThmWm9NcTlXSy1lVUFIYmgzb1FQRFdpRElLUDRQMU1mMXBLUDJUQVdJNmZhamtkaDVlYTZYRGx6ZU04YXBfSzJDRzJrYWdWMHAwUVBwd0hoYzd5NjR1V2lxdllrSEYtNkEyeUowREpGOE15NHlYN0pkTTlLZG0yXzdmQUg2UnRBWjdTcFYxUlBzUElnSzVpWm9GTVBiVTZfX2IyZkx5dE1MOHZoMDZFMk12QjdiZEZz",
+    "related": [
+      [
+        "Pak crisis: Shehbaz govt declares emergency, ends Imran Khan's party's rule in KPK",
+        "The Times of India"
+      ],
+      [
+        "Pakistan imposes emergency rule in ​province governed by Imran Khan’s party",
+        "Al Jazeera"
+      ],
+      [
+        "Imran Khan's party's provincial government suspended by Pakistan president",
+        "Reuters"
+      ],
+      [
+        "Emergency, governor's rule imposed in KP as president approves cabinet decision",
+        "Dawn"
+      ],
+      [
+        "Pakistan President declares emergency in Khyber Pakhtunkhwa, provincial government ceases to exist",
+        "The Hindu"
+      ]
+    ],
+    "event_key": "pakistan-khyber-pakhtunkhwa-emergency-rule-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파키스탄 카이베르파크툰크와주에\n[[비상사태]] 선포",
+      "sub": "임란 칸 정당이 이끌던 주정부 권한이 정지됐습니다",
+      "chips": [
+        {
+          "k": "조치",
+          "v": "비상사태 선포"
+        },
+        {
+          "k": "지역",
+          "v": "카이베르파크툰크와"
+        }
+      ],
+      "alt": "파키스탄 카이베르파크툰크와주에 비상사태 선포",
+      "map": {
+        "lat": 33.712802,
+        "lon": 71.2678805,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "파키스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파키스탄\n카이베르파크툰크와",
+      "video_only": true,
+      "map": {
+        "lat": 33.712802,
+        "lon": 71.2678805,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카이베르파크툰크와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주정부 권한 정지",
+          "d": "파키스탄 대통령이 내각 결정을 승인하고 해당 주에 총독 통치를 도입했습니다 (돈)."
+        },
+        {
+          "t": "야당 지방권력 배제",
+          "d": "임란 칸 전 총리 소속 정당의 주정부 통치가 종료됐습니다 (타임스오브인디아·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "카이베르파크툰크와주 비상사태 선포",
+        "파키스탄 대통령의 내각 결정 승인",
+        "주정부 권한 정지 및 총독 통치 도입"
+      ],
+      "unconfirmed": [
+        "향후 지방선거 실시 및 정상화 일정",
+        "야당 지지자들의 대규모 시위 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Dawn",
+        "Reuters",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.11 20:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파키스탄 정부가 카이베르파크툰크와주에 비상사태를 선포했습니다.\n\n· 파키스탄 대통령이 내각 결정을 승인하고 총독 통치령을 발동했습니다 (돈).\n· 임란 칸 전 총리 정당이 이끌던 주정부 권한은 정지됐습니다 (로이터·타임스오브인디아).\n\n파키스탄 연방정부의 이번 비상사태 선포 조치, 어떻게 보십니까?\n출처: 로이터·알자지라·돈·타임스오브인디아·더힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파키스탄 정부가 카이베르파크툰크와주에 비상사태를 선포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "대상 지역은 카이베르파크툰크와주입니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 임란 칸 전 총리 정당의 주정부 권한이 정지됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해당 지역의 총독 통치가 언제까지 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "파키스탄 주정부\n[[비상사태]] 왜?",
+  "broll": [
+    "parliament building exterior",
+    "police checkpoint street"
+  ],
+  "place_en": "Khyber Pakhtunkhwa, Pakistan"
+}
