@@ -12195,5 +12195,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791684781
+  },
+  {
+    "slug": "2026-10-11-news-us-military-strikes-cargo-vessel-iran-blockade-2026",
+    "event_ms": 1791682500000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미군이 오만만에서 이란 봉쇄선을 뚫으려던 화물선을 타격했습니다.\n\n· 미군은 대이란 해상 봉쇄를 돌파하려던 화물선을 공격해 무력화했다고 밝혔습니다 (로이터·알자지라).\n· 오만만 해역에서 미군 전투기가 투입돼 해당 선박을 타격한 것으로 전해졌습니다 (타임스오브인디아).\n\n미국의 이번 군사적 봉쇄 조치가 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·타임스오브인디아·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "오만"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18124080844906131",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeVxBw4G4D3",
+        "kind": "carousel",
+        "at": 1791691750
+      },
+      "instagram": {
+        "id": "18042884012827915",
+        "permalink": "https://www.instagram.com/reel/DeVxaIOj6jv/",
+        "kind": "reel",
+        "at": 1791691971
+      },
+      "youtube": {
+        "id": "x96ZcLuP4vg",
+        "permalink": "https://youtube.com/shorts/x96ZcLuP4vg",
+        "kind": "shorts",
+        "at": 1791691998
+      },
+      "tiktok": {
+        "id": "7695258417392274694",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7695258417392274694",
+        "kind": "video",
+        "at": 1791692130
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791692140
   }
 ]

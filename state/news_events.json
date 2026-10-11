@@ -2195,5 +2195,15 @@
     "at": 1791684434.7298265,
     "country": "영국",
     "category": "사고"
+  },
+  {
+    "event_key": "us-military-strikes-cargo-vessel-iran-blockade-2026",
+    "topic": "미군, 오만만에서 이란행 화물선 타격",
+    "slug": "2026-10-11-news-us-military-strikes-cargo-vessel-iran-blockade-2026",
+    "cluster": "CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp",
+    "badge": "breaking",
+    "at": 1791691700.7289238,
+    "country": "오만",
+    "category": "국제"
   }
 ]

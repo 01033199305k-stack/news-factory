@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-11-news-us-military-strikes-cargo-vessel-iran-blockade-2026",
+  "topic": "미군, 오만만에서 이란행 화물선 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.11 10:35 KST",
+  "source": "Al Jazeera·Reuters·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp",
+    "related": [
+      [
+        "US military says it disabled cargo vessel trying to run Iran blockade",
+        "Reuters"
+      ],
+      [
+        "US fighter jet strikes cargo ship in Gulf of Oman as Iran blockade tightens",
+        "The Times of India"
+      ],
+      [
+        "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "The Jerusalem Post"
+      ],
+      [
+        "US forces disable ship ‘attempting to run’ Iran blockade in Gulf of Oman",
+        "Al Jazeera"
+      ],
+      [
+        "A U.S. Navy MH-60S Sea Hawk takes off from the flight deck of USS John Paul Jones (DDG 53) as the guided-missile destroyer supports enforcement of America's ironclad blockade against Iran. As of Oct. 9, U.S. forces have redirected 133 commercial vessels",
+        "Forth.News"
+      ]
+    ],
+    "event_key": "us-military-strikes-cargo-vessel-iran-blockade-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미군, 오만만에서\n[[이란행 화물선]] 타격",
+      "sub": "봉쇄선 돌파 시도 선박 무력화 발표",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "오만만"
+        },
+        {
+          "k": "대상",
+          "v": "화물선"
+        }
+      ],
+      "alt": "미군, 오만만에서 이란행 화물선 타격",
+      "map": {
+        "lat": 24.2138029,
+        "lon": 58.9845823,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "오만"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "오만\n오만만",
+      "video_only": true,
+      "map": {
+        "lat": 24.2138029,
+        "lon": 58.9845823,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오만만"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대이란 봉쇄 집행",
+          "d": "미군은 이란 봉쇄를 뚫으려던 화물선을 무력화했다고 밝혔습니다 (로이터)."
+        },
+        {
+          "t": "전투기 공습 타격",
+          "d": "미군 전투기가 오만만에서 해당 화물선을 타격했습니다 (타임스오브인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미군의 오만만 화물선 타격",
+        "해당 선박 운항 무력화"
+      ],
+      "unconfirmed": [
+        "인명 피해 여부",
+        "화물선 국적 및 선원 신원"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Forth.News",
+        "Reuters",
+        "The Jerusalem Post",
+        "The Times of India",
+        "2026.10.11 13:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미군이 오만만에서 이란 봉쇄선을 뚫으려던 화물선을 타격했습니다.\n\n· 미군은 대이란 해상 봉쇄를 돌파하려던 화물선을 공격해 무력화했다고 밝혔습니다 (로이터·알자지라).\n· 오만만 해역에서 미군 전투기가 투입돼 해당 선박을 타격한 것으로 전해졌습니다 (타임스오브인디아).\n\n미국의 이번 군사적 봉쇄 조치가 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·타임스오브인디아·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미군이 오만만에서 화물선을 공습해 무력화했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사건은 중동 오만만 해역에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터는 미군이 이란 봉쇄선을 뚫으려던 선박을 타격했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "선박의 소속과 정확한 인명 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "미국의 직접적인 군사 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "오만만 상공에서\n[[미군 전투기]]가?",
+  "broll": [
+    "cargo ship sea",
+    "navy destroyer sea"
+  ],
+  "place_en": "Gulf of Oman"
+}
