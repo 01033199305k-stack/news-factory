@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-12-news-paris-marche-enfants-rouges-fire-destroyed-2026",
+  "topic": "파리 최고 시장 대형 화재로 전소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 14:50 KST",
+  "source": "France 24·AOL.com·Informat.ro 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMifkFVX3lxTE5objg4d3RDVTc3TmFvczhuSGwtajI4WFBJNnN4UGhTeXZEZ3VEdU1XbXpROVZZUVpfc0xOUlJmcnVWMG1zV3hzZnNsSUJhekJkNlhXeVoxb3hycUpxeUNPdXEtclprVmUtOXZmSDRmbXVKcllFdGdhZlRxcmZiZw",
+    "related": [
+      [
+        "Huge fire rips through Paris with iconic landmark 'totally destroyed' in blaze",
+        "AOL.com"
+      ],
+      [
+        "Fire burns down Paris's oldest covered food market",
+        "France 24"
+      ],
+      [
+        "Paris tourist attraction ‘burns to ground’ as blaze 'ravages' historic site",
+        "The Sun"
+      ],
+      [
+        "Fire ravages Paris tourist attraction with flames seen from miles away as emergency crews swarm",
+        "The Mirror"
+      ],
+      [
+        "A fire largely destroyed Marché des Enfants Rouges, the historic market in central Paris",
+        "Informat.ro"
+      ]
+    ],
+    "event_key": "paris-marche-enfants-rouges-fire-destroyed-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "파리 최고 시장\n[[대형 화재]]로 전소",
+      "sub": "역사적 명소 앙팡 루주 시장 파괴",
+      "chips": [],
+      "alt": "파리 최고 시장 대형 화재로 전소",
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역사적 명소 전소",
+          "d": "프랑스 파리에서 가장 오래된 실내 식료품 시장이 거대한 불길에 휩싸여 전소됐다고 프랑스24 등이 전했습니다."
+        },
+        {
+          "t": "수 마일 밖 목격",
+          "d": "현장에 긴급 구조대가 투입됐으며 먼 거리에서도 치솟는 불길이 목격됐다고 더미러 등이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "파리 앙팡 루주 시장 대형 화재 발생",
+        "역사적 전통시장 건물 전소 피해"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "사상자 발생 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.com",
+        "France 24",
+        "Informat.ro",
+        "The Mirror",
+        "The Sun",
+        "2026.10.12 18:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 프랑스 파리에서 가장 오래된 전통시장이 대형 화재로 전소됐습니다.\n\n· 유서 깊은 실내 시장인 '앙팡 루주 시장'이 불길에 휩싸여 크게 파괴됐습니다 (프랑스24·Informat.ro).\n· 수 마일 밖에서도 불길이 보일 정도로 강한 불이 번져 긴급 구조대가 투입됐습니다 (더미러).\n· 정확한 화재 원인과 사상자 발생 여부는 아직 확인되지 않았습니다.\n\n출처: 프랑스24·더미러·Informat.ro 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 파리에서 가장 오래된 실내 시장이 대형 화재로 전소됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "불이 난 곳은 파리 중심부에 위치한 역사적 명소 앙팡 루주 시장입니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신들은 유서 깊은 시장 건물이 불길에 휩싸여 크게 파괴됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "화재 원인과 인명 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[파리]] 최고 시장에\n무슨 일이?",
+  "broll": [
+    "fire truck night",
+    "market street"
+  ],
+  "place_en": "Paris, France"
+}

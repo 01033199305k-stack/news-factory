@@ -2355,5 +2355,15 @@
     "at": 1791786710.8489046,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "paris-marche-enfants-rouges-fire-destroyed-2026",
+    "topic": "파리 최고 시장 대형 화재로 전소",
+    "slug": "2026-10-12-news-paris-marche-enfants-rouges-fire-destroyed-2026",
+    "cluster": "CBMifkFVX3lxTE5objg4d3RDVTc3TmFvczhuSGwtajI4WFBJNnN4UGhTeXZEZ3VEdU1XbXpROVZZUVpfc0xOUlJmcnVWMG1zV3hzZnNsSUJhekJkNlhXeVoxb3hycUpxeUNPdXEtclprVmUtOXZmSDRmbXVKcllFdGdhZlRxcmZiZw",
+    "badge": "brief",
+    "at": 1791796168.7174144,
+    "country": "프랑스",
+    "category": "폭발·화재"
   }
 ]
