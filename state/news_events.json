@@ -2405,5 +2405,15 @@
     "at": 1791814200.0125546,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "hurricane-simon-mexico-2026",
+    "topic": "허리케인 사이먼 북상에 멕시코 해안 대피령",
+    "slug": "2026-10-12-news-hurricane-simon-mexico-2026",
+    "cluster": "CBMiqwFBVV95cUxPTHEtSXcxVFNmdjdoYV85TlRyelJhOGhSUmR2Qm5obVFfQTZmMjdlRExOcDF0SHB1c2lVN1BYWHRFSEsxc3F1dHhjVFlJbzZaaGE4NUpIUU5zX3BQUkhDZmxqblMycGNZUWNOLVFMRmVZTHRiTFFRYzZvWXBieEI1MHljTndKNmx5ZHdYckN3b1FCN082TmpHNjljRVVNSXBkcWJ3eW9RdS1uQUE",
+    "badge": "breaking",
+    "at": 1791821329.8180559,
+    "country": "멕시코",
+    "category": "재난"
   }
 ]

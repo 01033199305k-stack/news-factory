@@ -1,0 +1,114 @@
+{
+  "slug": "2026-10-12-news-hurricane-simon-mexico-2026",
+  "topic": "허리케인 사이먼 북상에 멕시코 해안 대피령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 22:46 KST",
+  "source": "CNN·NBC News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxPTHEtSXcxVFNmdjdoYV85TlRyelJhOGhSUmR2Qm5obVFfQTZmMjdlRExOcDF0SHB1c2lVN1BYWHRFSEsxc3F1dHhjVFlJbzZaaGE4NUpIUU5zX3BQUkhDZmxqblMycGNZUWNOLVFMRmVZTHRiTFFRYzZvWXBieEI1MHljTndKNmx5ZHdYckN3b1FCN082TmpHNjljRVVNSXBkcWJ3eW9RdS1uQUE",
+    "related": [
+      [
+        "Coast-to-coast cleanup after three storms batter North America",
+        "NBC News"
+      ],
+      [
+        "Hurricane Simon to fuel multiday flood threat across Great Plains as remnants charge North",
+        "FOX Weather"
+      ],
+      [
+        "Rachel's remnants brings flooding to the SW; Simon targets Mexico",
+        "The Weather Channel"
+      ],
+      [
+        "Hurricane Simon crawls along Mexico's Pacific coast, bringing floods and evacuations",
+        "Reuters"
+      ],
+      [
+        "Powerful Hurricane Simon skirts Mexico’s Pacific coast as beachside communities and tourist areas prepare for impacts",
+        "CNN"
+      ]
+    ],
+    "event_key": "hurricane-simon-mexico-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "허리케인 사이먼 북상에\n멕시코 해안 [[대피령]]",
+      "sub": "멕시코 태평양 연안 타격",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "허리케인 사이먼"
+        }
+      ],
+      "alt": "허리케인 사이먼 북상에 멕시코 해안 대피령"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대피 및 홍수 위협",
+          "d": "해안가 지역 주민들과 관광객들이 대피하고 홍수 대비에 나섰다고 CNN 등이 보도했습니다."
+        },
+        {
+          "t": "이동 경로",
+          "d": "허리케인 사이먼이 멕시코 태평양 연안을 따라 이동하고 있다고 로이터 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "허리케인 사이먼의 멕시코 태평양 연안 접근",
+        "해안가 지역 주민 및 관광객 대피"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모와 재산 손실"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "FOX Weather",
+        "NBC News",
+        "Reuters",
+        "The Weather Channel",
+        "2026.10.13 01:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 허리케인 사이먼 북상에 멕시코 해안 대피령\n\n· 허리케인 사이먼이 멕시코 태평양 연안을 따라 이동하고 있습니다 (로이터)\n· 해안가 지역 주민들과 관광객들이 대피하고 홍수 대비에 나섰습니다 (CNN)\n\n출처: Reuters·CNN·The Weather Channel 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "허리케인 사이먼이 북상하면서 멕시코 태평양 연안에 대피령이 내려졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 등 외신은 허리케인이 해안을 따라 이동하고 있다고 전했습니다.",
+      "card": "cover",
+      "screen": "멕시코 태평양 연안"
+    },
+    {
+      "text": "해안가 주민과 관광객들이 대피하고 홍수 피해 대비에 나섰습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "멕시코 해안가에\n내려진 [[대피령]], 왜?",
+  "broll": [
+    "hurricane storm coastal waves",
+    "heavy rain flooding street"
+  ],
+  "place_en": "Mexico Pacific coast"
+}
