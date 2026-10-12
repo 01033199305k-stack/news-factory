@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-12-news-north-korea-missile-launch-oct-2026",
+  "topic": "북한, 해상으로 탄도미사일 발사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 12:44 KST",
+  "source": "AP News·Al Jazeera·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxNZGo5dEtVRUhzWjJnblVZbzBnVWdjYTBxamhweFBfNlBkVUF2d0QyM2l3WEg1Z0xkUTI5UWJDUGNydV9jcjZOdS1tTld4c3htRUhLTS1pUExMcjlzNjNRdjVudWtPM2RTLVV1Uk0yT29mS2tUTDRKaF9NcFVQcUgzMTQ1WnpILVltZmxzYl8xanc0TXRSMHBHV3BzZXhXUG1qT3NLLUFB0gGrAUFVX3lxTE80NGU2WnoyWVhSWjFRaW1QN0F0bXJBZmFpMG9nY1hEYkFZY0NHbVZjdktzWnIzSnpXaXRSLVVMUDFhQnpuRnBXNFUyVURubENHdlR2dmRUUkMxTkdMejNtM1NiYm5zUWtScnd3ajNSRExHTlFoeVo1VzZfSDdmVGloU0w1dmNVVmU3NTBaNXM4eHBQRTM2LU9jS2QwS0FOZ0dJaVQzZ09zc2hIaw",
+    "related": [
+      [
+        "North Korea fires multiple ballistic missiles towards the sea",
+        "Al Jazeera"
+      ],
+      [
+        "North Korea fires missiles days after South Korea's hypersonic test",
+        "Reuters"
+      ],
+      [
+        "South Korea’s military says North Korea fired a projectile toward the sea",
+        "AP News"
+      ],
+      [
+        "North Korea fires unidentified projectile toward sea, Seoul says",
+        "USA Today"
+      ],
+      [
+        "North Korea fires multiple ballistic missiles, the latest in a streak of weapons tests",
+        "NBC News"
+      ]
+    ],
+    "event_key": "north-korea-missile-launch-oct-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "북한, 해상으로\n[[탄도미사일]] 발사",
+      "sub": "한국 군 당국 발사체 발사 확인",
+      "chips": [
+        {
+          "k": "발사",
+          "v": "탄도미사일"
+        }
+      ],
+      "alt": "북한, 해상으로 탄도미사일 발사",
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "북한"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "북한\n평양",
+      "video_only": true,
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "평양"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "한국 군 당국",
+          "d": "한국 군은 북한이 바다를 향해 발사체를 발사했다고 밝혔습니다 (AP News·USA Today)."
+        },
+        {
+          "t": "외신 보도",
+          "d": "북한이 여러 발의 탄도미사일을 발사했다고 알자지라와 NBC 뉴스가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "해상으로 발사",
+        "한국 군 당국 확인"
+      ],
+      "unconfirmed": [
+        "정확한 미사일 기종과 비행 거리",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "NBC News",
+        "Reuters",
+        "USA Today",
+        "2026.10.12 14:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 북한, 해상으로 탄도미사일 발사\n\n· 북한이 바다를 향해 여러 발의 탄도미사일을 발사했다고 알자지라와 NBC 뉴스가 보도했습니다\n· 한국 군 당국은 북한이 바다로 발사체를 발사했다고 확인했습니다 (AP News·USA Today)\n\n🇰🇷 북한이 해상으로 미사일을 발사했습니다\n\n이번 북한의 미사일 발사 소식을 어떻게 보십니까?\n\n출처: 알자지라·로이터·AP News·USA Today·NBC 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "북한이 해상으로 탄도미사일을 발사했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "한국 군 당국은 북한이 바다로 발사체를 발사했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "알자지라와 NBC 뉴스는 여러 발의 탄도미사일이 발사됐다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 비행 거리와 기종은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "북한의 이번 미사일 발사에 국내외 관심이 집중되고 있습니다.",
+      "card": "korea",
+      "screen": "북한 미사일 발사"
+    },
+    {
+      "text": "여러분은 이번 북한의 미사일 발사, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "북한이 바다로\n[[미사일]]을?",
+  "broll": [
+    "military missile launch",
+    "ocean waves night"
+  ],
+  "place_en": "Pyongyang, North Korea"
+}
