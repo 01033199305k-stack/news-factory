@@ -2395,5 +2395,15 @@
     "at": 1791803764.1956606,
     "country": "프랑스",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "iran-saudi-houthi-mediation-2026",
+    "topic": "이란, 후티 반군과 사우디 간 중재 제안 나서",
+    "slug": "2026-10-12-news-iran-saudi-houthi-mediation-2026",
+    "cluster": "CBMilAFBVV95cUxNaWJtcHhwd0pBWHVROHMwYl9XUTN3bG9uWFc2QXVURFYxUUNGRHJRaDVxNEdQQmR4TTB5cHVmQkVDcERpRnB0ZVZFTUJyRmRtUXJoS2QtYllhY1FJY3k0eEE2SXhzck1pdTZieUhQM3pPdGJSSlgyRXJHTUVFaGcteHBpemc3a0ZMTXJpamxPck8tdmk5",
+    "badge": "breaking",
+    "at": 1791814200.0125546,
+    "country": "이란",
+    "category": "국제"
   }
 ]

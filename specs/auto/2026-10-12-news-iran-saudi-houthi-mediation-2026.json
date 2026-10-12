@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-12-news-iran-saudi-houthi-mediation-2026",
+  "topic": "이란, 후티 반군과 사우디 간 중재 제안 나서",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 20:37 KST",
+  "source": "Al Jazeera·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilAFBVV95cUxNaWJtcHhwd0pBWHVROHMwYl9XUTN3bG9uWFc2QXVURFYxUUNGRHJRaDVxNEdQQmR4TTB5cHVmQkVDcERpRnB0ZVZFTUJyRmRtUXJoS2QtYllhY1FJY3k0eEE2SXhzck1pdTZieUhQM3pPdGJSSlgyRXJHTUVFaGcteHBpemc3a0ZMTXJpamxPck8tdmk5",
+    "related": [
+      [
+        "Iran Offers to Mediate Between Its Houthi Allies and Saudi Arabia",
+        "The New York Times"
+      ],
+      [
+        "Iran war live: Tehran says Yemen escalation benefits ‘only’ Israel",
+        "Al Jazeera"
+      ],
+      [
+        "Saudi, Iranian foreign ministers discuss regional tensions, state news agency says",
+        "Reuters"
+      ],
+      [
+        "After the deadly attacks on Saudi Arabia, Iran offers to open dialogue between Riyadh and the Houthis",
+        "i24NEWS"
+      ],
+      [
+        "Iran’s FM urges diplomacy in call with Saudi counterpart",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "iran-saudi-houthi-mediation-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, 후티 반군과 사우디 간\n[[중재]] 제안 나서",
+      "sub": "사우디와 이란 외무장관이 지역 긴장 완화를 논의했습니다",
+      "chips": [],
+      "alt": "이란, 후티 반군과 사우디 간 중재 제안 나서",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "외교적 대화 촉구",
+          "d": "이란 외무장관은 사우디 측과의 통화에서 외교적 해결을 촉구했습니다 (로이터·야후)."
+        },
+        {
+          "t": "이스라엘 비판",
+          "d": "테헤란 측은 예멘 긴장 고조가 이스라엘에만 이익이 된다고 밝혔습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란의 중재 제안",
+        "사우디·이란 외무장관 회담"
+      ],
+      "unconfirmed": [
+        "사우디와 후티 반군의 수용 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "The New York Times",
+        "Yahoo",
+        "i24NEWS",
+        "2026.10.12 23:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란, 사우디와 후티 반군 간 중재 제안 나서\n\n· 이란 외무장관은 사우디 측과의 통화에서 외교적 해결을 촉구했습니다 (로이터·야후)\n· 테헤란 측은 예멘 긴장 고조가 이스라엘에만 이익이 된다고 밝혔습니다 (알자지라)\n\n이번 이란의 중재 제안이 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 뉴욕타임스·알자지라·로이터·i24뉴스·야후 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 사우디아라비아와 후티 반군 사이의 중재를 제안했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신 등은 양국 외무장관이 통화를 갖고 지역 긴장 완화를 논의했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란 측은 예멘의 긴장 고조가 이스라엘에만 도움이 된다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사우디와 반군이 이 제안을 받아들일지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중재 제안이 중동 평화로 이어질 것으로 보십니까?",
+      "card": "ask",
+      "screen": "중동 정세 변화"
+    }
+  ],
+  "hook": "이란이 사우디와\n[[후티]] 반군 중재에 나선 이유는?",
+  "broll": [
+    "diplomatic meeting flags",
+    "middle east city skyline"
+  ],
+  "place_en": "Tehran, Iran"
+}
