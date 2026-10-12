@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-12-news-france-marseille-school-shooting-2026",
+  "topic": "프랑스 학교서 총격 교사 2명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 18:56 KST",
+  "source": "BBC·France 24·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMie0FVX3lxTE9LZms4Ynh0ZDRlQVNpNjMzdi1ROUduUnY4cEZFZV85a1pEOGxLOHJEWG1oU0JHRmtfanJoLUVTb2xyVVMwZHY4cl9rT1g5YUlFTmhKbVFndGtoZDBQa2ZwUEJOOGNkSV9qdEY2eUxFWkFCWU9TWGFYbS01cw",
+    "related": [
+      [
+        "Pupil detained after staff shot at school near Marseille",
+        "Sky News"
+      ],
+      [
+        "Teenager arrested after two teachers shot in French school - reports",
+        "BBC"
+      ],
+      [
+        "School shooting as head and teacher 'attacked by boy who hid shotgun in guitar case'",
+        "Daily Star"
+      ],
+      [
+        "French police arrest 14-year-old after two teaching staff wounded by hunting rifle fire",
+        "France 24"
+      ],
+      [
+        "Teenager arrested after two teachers shot with hunting rifle at French school",
+        "The Independent"
+      ]
+    ],
+    "event_key": "france-marseille-school-shooting-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스 학교서 [[총격]]\n교사 2명 부상",
+      "sub": "14세 학생 체포돼",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "2명"
+        },
+        {
+          "k": "용의자",
+          "v": "14세"
+        }
+      ],
+      "alt": "프랑스 학교서 총격 교사 2명 부상",
+      "map": {
+        "lat": 43.2963986,
+        "lon": 5.3777888,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n마르세유",
+      "video_only": true,
+      "map": {
+        "lat": 43.2963986,
+        "lon": 5.3777888,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마르세유"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "교사 2명 부상",
+          "d": "학생이 쏜 엽총에 교사 2명이 다쳤습니다 (France 24)."
+        },
+        {
+          "t": "기타 가방에 숨겨",
+          "d": "용의자는 기타 케이스에 엽총을 숨겨 학교에 들여왔습니다 (Daily Star)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "교사 2명 부상 (France 24)",
+        "14세 용의자 체포 (France 24)"
+      ],
+      "unconfirmed": [
+        "범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Daily Star",
+        "France 24",
+        "Sky News",
+        "The Independent",
+        "2026.10.12 20:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 학교에서 총격으로 교사 2명이 다쳤습니다.\n\n· 14세 학생이 엽총을 쏴 교사 2명 부상 (France 24)\n· 용의자는 기타 케이스에 총기를 숨겨 들여옴 (Daily Star)\n\n출처: France 24·BBC·Daily Star 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스의 한 학교에서 총격 사건이 발생해 교사 2명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "마르세유 인근 학교에서 14세 학생이 엽총을 발사했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신들은 범인이 기타 케이스에 총기를 숨겨 들여왔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "범행의 구체적인 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[프랑스]] 학교 총격\n범인의 정체는?",
+  "broll": [
+    "police car night france",
+    "ambulance france"
+  ],
+  "place_en": "Marseille, France"
+}
