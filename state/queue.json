@@ -28,10 +28,18 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DeZoQ8ZFnye",
         "kind": "carousel",
         "at": 1791821373
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791824853
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791824853
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": null
   }
