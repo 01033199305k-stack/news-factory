@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-10-12-news-paris-marche-enfants-rouges-fire-destroyed-2026",
-    "event_ms": 1791796168717,
-    "category": "폭발·화재",
+    "slug": "2026-10-12-news-flydubai-hijacking-attempt-9-11-style-israel-2026",
+    "event_ms": 1791791170000,
+    "category": "총격·테러",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[정리] 프랑스 파리에서 가장 오래된 전통시장이 대형 화재로 전소됐습니다.\n\n· 유서 깊은 실내 시장인 '앙팡 루주 시장'이 불길에 휩싸여 크게 파괴됐습니다 (프랑스24·Informat.ro).\n· 수 마일 밖에서도 불길이 보일 정도로 강한 불이 번져 긴급 구조대가 투입됐습니다 (더미러).\n· 정확한 화재 원인과 사상자 발생 여부는 아직 확인되지 않았습니다.\n\n출처: 프랑스24·더미러·Informat.ro 보도 종합",
-    "topic_tag": "세계뉴스",
+    "text": "[속보] 플라이두바이 부기장이 이스라엘 공항을 겨냥한 자살 테러를 계획했다고 아랍에미리트가 밝혔습니다.\n\n· 오만 국적의 부기장이 9/11 스타일의 공격을 모의한 것으로 조사됐습니다 (워싱턴포스트·로이터)\n· 용의자와 연계된 호주 내 이슬람 시설에 대한 수사가 이어지고 있습니다 (뉴욕타임스·가디언)\n\n출처: 뉴욕타임스·워싱턴포스트·가디언·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
     "hashtags": [
-      "세계뉴스",
-      "폭발화재",
-      "프랑스"
+      "해외사건사고",
+      "총격테러",
+      "아랍에미리트"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -24,22 +24,14 @@
     ],
     "done": {
       "threads": {
-        "id": "18174064372449798",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeY4SP5mx5Y",
+        "id": "17883846576623383",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeY_tGKG5o2",
         "kind": "carousel",
-        "at": 1791796218
-      },
-      "youtube": {
-        "skipped": "영상 없음",
-        "at": 1791796279
-      },
-      "tiktok": {
-        "skipped": "영상 없음",
-        "at": 1791796279
+        "at": 1791800108
       }
     },
     "attempts": {
-      "instagram": 2
+      "instagram": 1
     },
     "video": null
   }

@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-12-news-flydubai-hijacking-attempt-9-11-style-israel-2026",
+  "topic": "플라이두바이 부기장, 이스라엘 공항 자살 테러 모의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 16:46 KST",
+  "source": "Fox News·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilgFBVV95cUxNcjNMeC1BbjVKR2t0VTJlQ241akNBbW5JVV8yeFlUckpKRnVsMWdpT2ZXUF8wUlItOEJVTjNZd3pNSmVDV0M3X3RCWXNndlpoNDJVYmpkMlJIN3o2b0VqV0VnUEFvcHlhVGdSQzItZDhiOWJ4eUpCMWtLOENHLU9jcGp2ajdLZUdTX0FES1lYOGF6UkRrYnc",
+    "related": [
+      [
+        "Investigation Into FlyDubai Attacker Puts Spotlight on an Australian Mosque",
+        "The New York Times"
+      ],
+      [
+        "Rescue expert warns FlyDubai hijacking attempt shows US, allies are ‘playing checkers’ against terror threat",
+        "Fox News"
+      ],
+      [
+        "FlyDubai co-pilot planned 9/11-style attack on Israel’s main airport, UAE says",
+        "The Washington Post"
+      ],
+      [
+        "Melbourne Islamic leader silent on centre’s alleged Flydubai hijacker links in Facebook video",
+        "The Guardian"
+      ],
+      [
+        "UAE says Omani flydubai co-pilot planned suicide attack on Tel Aviv flight",
+        "Reuters"
+      ]
+    ],
+    "event_key": "flydubai-hijacking-attempt-9-11-style-israel-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "플라이두바이 부기장,\n이스라엘 공항 [[자살 테러]] 모의",
+      "sub": "오만 국적 부기장이 9/11 스타일의 공격을 계획했다고 UAE가 밝혔습니다.",
+      "chips": [
+        {
+          "k": "목표",
+          "v": "이스라엘 공항"
+        },
+        {
+          "k": "주체",
+          "v": "오만 국적 부기장"
+        }
+      ],
+      "alt": "플라이두바이 부기장, 이스라엘 공항 자살 테러 모의",
+      "map": {
+        "lat": 25.0742823,
+        "lon": 55.1885624,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n두바이",
+      "video_only": true,
+      "map": {
+        "lat": 25.0742823,
+        "lon": 55.1885624,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "두바이"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "9/11 모방",
+          "d": "아랍에미리트 당국은 오만 국적의 부기장이 이스라엘 주요 공항을 겨냥한 자살 테러를 계획했다고 밝혔습니다 (워싱턴포스트·로이터)."
+        },
+        {
+          "t": "호주 수사",
+          "d": "테러 용의자와 연계된 호주 모스크에 대한 조사가 진행되고 있습니다 (뉴욕타임스·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "오만 국적 부기장 테러 모의",
+        "이스라엘 주요 공항 목표",
+        "아랍에미리트 당국 발표"
+      ],
+      "unconfirmed": [
+        "공범 및 배후 조직 연계 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Fox News",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "The Washington Post",
+        "2026.10.12 19:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 플라이두바이 부기장이 이스라엘 공항을 겨냥한 자살 테러를 계획했다고 아랍에미리트가 밝혔습니다.\n\n· 오만 국적의 부기장이 9/11 스타일의 공격을 모의한 것으로 조사됐습니다 (워싱턴포스트·로이터)\n· 용의자와 연계된 호주 내 이슬람 시설에 대한 수사가 이어지고 있습니다 (뉴욕타임스·가디언)\n\n출처: 뉴욕타임스·워싱턴포스트·가디언·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "플라이두바이 부기장이 이스라엘 공항을 겨냥한 자살 테러를 계획했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "워싱턴포스트와 로이터통신은 오만 국적의 부기장이 9/11 스타일의 공격을 모의했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "테러 용의자와 연계된 호주 내 시설에 대한 조사가 진행되고 있습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "플라이두바이\n[[부기장]]이 꾸민 일",
+  "broll": [
+    "airplane cockpit flight",
+    "airport terminal night"
+  ],
+  "place_en": "Dubai, United Arab Emirates"
+}

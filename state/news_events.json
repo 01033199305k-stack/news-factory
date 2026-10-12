@@ -2365,5 +2365,15 @@
     "at": 1791796168.7174144,
     "country": "프랑스",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "flydubai-hijacking-attempt-9-11-style-israel-2026",
+    "topic": "플라이두바이 부기장, 이스라엘 공항 자살 테러 모의",
+    "slug": "2026-10-12-news-flydubai-hijacking-attempt-9-11-style-israel-2026",
+    "cluster": "CBMilgFBVV95cUxNcjNMeC1BbjVKR2t0VTJlQ241akNBbW5JVV8yeFlUckpKRnVsMWdpT2ZXUF8wUlItOEJVTjNZd3pNSmVDV0M3X3RCWXNndlpoNDJVYmpkMlJIN3o2b0VqV0VnUEFvcHlhVGdSQzItZDhiOWJ4eUpCMWtLOENHLU9jcGp2ajdLZUdTX0FES1lYOGF6UkRrYnc",
+    "badge": "breaking",
+    "at": 1791800057.0346837,
+    "country": "아랍에미리트",
+    "category": "총격·테러"
   }
 ]
