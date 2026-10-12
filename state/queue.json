@@ -1,93 +1,5 @@
 [
   {
-    "slug": "2026-10-13-news-israel-lebanon-border-munition-explosion",
-    "event_ms": 1791824397000,
-    "category": "폭발·화재",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 이스라엘 국경서 폭발물 터져 학생 1명 사망·24명 부상\n\n· 레바논 국경 인근 학교 소풍 하이킹 중 사고 발생 (CNN·AP News)\n· 헤즈볼라 불발탄이 터짐 (The Times of Israel)\n\n출처: The Times of Israel·CNN·AP News·The Jerusalem Post 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "폭발화재",
-      "이스라엘"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg"
-    ],
-    "done": {
-      "threads": {
-        "id": "18376233664215422",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeZ2DHXmdOI",
-        "kind": "carousel",
-        "at": 1791828602
-      },
-      "youtube": {
-        "skipped": "영상 없음",
-        "at": 1791832271
-      },
-      "tiktok": {
-        "skipped": "영상 없음",
-        "at": 1791832271
-      }
-    },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": null
-  },
-  {
-    "slug": "2026-10-13-news-uk-summons-iran-ambassador-sanctions",
-    "event_ms": 1791819943000,
-    "category": "국제",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 영국, 이란 대사 소환하고 추가 제재 공식 발표\n\n· 영국 외무부, 자국 내 위협 용납할 수 없다며 이란 대사 소환 (BBC)\n· 영국 정부, 관련 사건 계기로 이란 대상 신규 제재 단행 (Financial Times)\n· 미·영 등 29개국, 해외 이란 대리 세력 공격 규탄 공동 성명 발표 (The Jerusalem Post)\n\n여러분은 영국과 서방 국가들의 대이란 제재 조치, 어떻게 보십니까?\n출처: BBC·Financial Times·The Times of Israel·The Jerusalem Post 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "국제",
-      "영국"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg"
-    ],
-    "done": {
-      "threads": {
-        "id": "18076770590733950",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeZ2H_sGfXl",
-        "kind": "carousel",
-        "at": 1791828637
-      },
-      "youtube": {
-        "skipped": "영상 없음",
-        "at": 1791832271
-      },
-      "tiktok": {
-        "skipped": "영상 없음",
-        "at": 1791832271
-      }
-    },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": null
-  },
-  {
     "slug": "2026-10-13-news-pennsylvania-erie-mass-shooting-2026",
     "event_ms": 1791828267000,
     "category": "총격·테러",
@@ -127,7 +39,7 @@
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": null
   }
