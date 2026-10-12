@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-13-news-sardinia-cave-rescue-2026",
+  "topic": "이탈리아 사르데냐 동굴서 낙반 사고로 매몰된 탐험가 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 02:40 KST",
+  "source": "The Guardian·Il Mattino·L'Unione Sarda.it 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxOSGsxVFo0NVFmQkdKblNRZE9oRFY2c0gyakhaTlhCZnBINEg4MS16UE90Rkh2Nmp0dUU0b3JYRjFJbnI3Yzdid0E2Z3hXVGkzQTZDaGctOF9PNHU0dHBQaHBlcmEwWXV5aVhQX3FUdTRuNGtiYm1CQ04xTzBpVFpoSjVpS1dQblZGRWlEdC1aWDUydw",
+    "related": [
+      [
+        "Man rescued from cave on Sardinia after being trapped by rockslide for 26 hours",
+        "The Guardian"
+      ],
+      [
+        "Urzulei, the speleologist is alive and conscious: he responds to rescuers, but reaching him is a feat.",
+        "L'Unione Sarda.it"
+      ],
+      [
+        "Researcher (31) is stranded in Sardinia at a depth of ten meters",
+        "blue News"
+      ],
+      [
+        "Young explorer buried alive 32ft below ground after cave collapses",
+        "The Sun"
+      ],
+      [
+        "Speleologist Trapped in Gorroppeddu Cave Collapse",
+        "Il Mattino"
+      ]
+    ],
+    "event_key": "sardinia-cave-rescue-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이탈리아 사르데냐 동굴서\n[[낙반 사고]]로 매몰된 탐험가 구조",
+      "sub": "26시간 만에 의식 있는 상태로 구조됐습니다",
+      "chips": [
+        {
+          "k": "매몰 시간",
+          "v": "26시간"
+        }
+      ],
+      "alt": "이탈리아 사르데냐 동굴서 낙반 사고로 매몰된 탐험가 구조",
+      "map": {
+        "lat": 40.0912813,
+        "lon": 9.0305773,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이탈리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이탈리아\n사르데냐",
+      "video_only": true,
+      "map": {
+        "lat": 40.0912813,
+        "lon": 9.0305773,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "사르데냐"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 장소",
+          "d": "이탈리아 사르데냐 동굴 지하 10미터 지점에서 발생했습니다 (The Sun·blue News)."
+        },
+        {
+          "t": "구조 상황",
+          "d": "구조대와 소통하며 의식이 있는 상태로 발견됐습니다 (The Guardian·L'Unione Sarda.it)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이탈리아 사르데냐 동굴 낙반",
+        "탐험가 26시간 만에 구조",
+        "의식 회복 및 생존 확인"
+      ],
+      "unconfirmed": [
+        "정확한 건강 상태와 부상 정도",
+        "구조 작업의 세부 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Il Mattino",
+        "L'Unione Sarda.it",
+        "The Guardian",
+        "The Sun",
+        "blue News",
+        "2026.10.13 05:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이탈리아 사르데냐 동굴서 낙반 사고로 매몰된 탐험가 구조\n\n· 이탈리아 사르데냐 동굴 지하 10미터 지점에서 발생했습니다 (The Sun·blue News)\n· 구조대와 소통하며 의식이 있는 상태로 발견됐습니다 (The Guardian·L'Unione Sarda.it)\n· 26시간 동안 고립됐던 탐험가가 무사히 구출됐습니다 (The Guardian·The Sun)\n\n출처: The Guardian·The Sun·blue News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이탈리아 사르데냐 동굴에서 낙반 사고로 매몰된 탐험가가 구조됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언 등 외신은 지하 10미터 지점에 갇혀 있던 탐험가가 26시간 만에 구조됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구조 당시 탐험가는 의식이 있었으며 구조대와 소통한 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상 정도와 건강 상태는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이탈리아 동굴서\n[[26시간]] 만에?",
+  "broll": [
+    "cave entrance rocks",
+    "rescue team mountain"
+  ],
+  "place_en": "Sardinia, Italy"
+}
