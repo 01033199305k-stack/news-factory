@@ -2465,5 +2465,15 @@
     "at": 1791846607.1650586,
     "country": "벨기에",
     "category": "국제"
+  },
+  {
+    "event_key": "georgia-six-flags-goliath-accident",
+    "topic": "조지아주 식스플래그 놀이기구서 사망 사고 발생",
+    "slug": "2026-10-13-news-georgia-six-flags-goliath-accident",
+    "cluster": "CBMiqgFBVV95cUxNa2VBYnBBb3VvczFxcEtzdVJzOWRlTTdBTFFFaGRTejh2eGMtN1NucWRNcXAwRHhhbFBndk5lejJHRUhNQVFIRVNEUWd6dVVkd2dLa1VUTWxaQzlDQUp5RXU4WUpzUkJNV1ZiMHBzaDNBc2RiaFdrTmVFYlhfcDI0N3FCWkQ0MXhOU1l3YXhsNDdkZ1hTQUVMVjl3OXFjNGdsQnZQejVFbG1BQdIBrwFBVV95cUxQQlllQnV0SW5IOUhvODd2WGpXNmUtbDNCX2V6T21fU0pvelE1c0tjRWxLSGNPSnV3S1daMHZNZDdLSHBuMEdOVi1SZTVENERVejNNakRZVWk2NzBrbndJSUMyeXFjSlRiYm82OXF3b3RXWTNja2k2RnhRTzV4QVdPdUhJTDNQUFA5d0hGTG5Dc0tCb3p5RUFsM1NLY2VISEdFdW4xb0VTcHhBTkM4ZUtB",
+    "badge": "breaking",
+    "at": 1791848247.8346176,
+    "country": "미국",
+    "category": "사고"
   }
 ]

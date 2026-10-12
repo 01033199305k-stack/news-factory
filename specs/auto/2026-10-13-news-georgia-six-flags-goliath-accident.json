@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-13-news-georgia-six-flags-goliath-accident",
+  "topic": "조지아주 식스플래그 놀이기구서 사망 사고 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 07:12 KST",
+  "source": "CNN·11Alive.com·ABC7 Los Angeles 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxNa2VBYnBBb3VvczFxcEtzdVJzOWRlTTdBTFFFaGRTejh2eGMtN1NucWRNcXAwRHhhbFBndk5lejJHRUhNQVFIRVNEUWd6dVVkd2dLa1VUTWxaQzlDQUp5RXU4WUpzUkJNV1ZiMHBzaDNBc2RiaFdrTmVFYlhfcDI0N3FCWkQ0MXhOU1l3YXhsNDdkZ1hTQUVMVjl3OXFjNGdsQnZQejVFbG1BQdIBrwFBVV95cUxQQlllQnV0SW5IOUhvODd2WGpXNmUtbDNCX2V6T21fU0pvelE1c0tjRWxLSGNPSnV3S1daMHZNZDdLSHBuMEdOVi1SZTVENERVejNNakRZVWk2NzBrbndJSUMyeXFjSlRiYm82OXF3b3RXWTNja2k2RnhRTzV4QVdPdUhJTDNQUFA5d0hGTG5Dc0tCb3p5RUFsM1NLY2VISEdFdW4xb0VTcHhBTkM4ZUtB",
+    "related": [
+      [
+        "Person dies at Six Flags Over Georgia; video shows Goliath ride being evacuated in Austell",
+        "ABC7 Los Angeles"
+      ],
+      [
+        "Riders stuck on the Six Flags Goliath roller coaster",
+        "11Alive.com"
+      ],
+      [
+        "Man dies after falling off roller coaster at Six Flags Over Georgia, police and witnesses say",
+        "CNN"
+      ],
+      [
+        "1 dead, 4 injured in Goliath ride incident at Six Flags Over Georgia",
+        "WSB-TV"
+      ],
+      [
+        "Visitor dies after accident on Goliath at Six Flags Over Georgia",
+        "WAFF"
+      ]
+    ],
+    "event_key": "georgia-six-flags-goliath-accident"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "조지아주 식스플래그 놀이기구서\n[[사망 사고]] 발생",
+      "sub": "롤러코스터 탑승 중 추락으로 1명 사망",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "4명"
+        }
+      ],
+      "alt": "조지아주 식스플래그 놀이기구서 사망 사고 발생",
+      "map": {
+        "lat": 33.8126059,
+        "lon": -84.6343783,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오스텔",
+      "video_only": true,
+      "map": {
+        "lat": 33.8126059,
+        "lon": -84.6343783,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오스텔"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 발생 위치",
+          "d": "미국 조지아주 식스플래그 공원의 골리아스 놀이기구에서 사고가 발생했습니다 (CNN·WSB-TV)."
+        },
+        {
+          "t": "인명 피해",
+          "d": "이번 사고로 1명이 숨지고 4명이 다쳤습니다 (WSB-TV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명 (CNN·WSB-TV)",
+        "부상 4명 (WSB-TV)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 경위 및 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "11Alive.com",
+        "ABC7 Los Angeles",
+        "CNN",
+        "WAFF",
+        "WSB-TV",
+        "2026.10.13 08:37 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 조지아주 식스플래그 놀이기구서 사망 사고 발생\n\n· 미국 조지아주 식스플래그 공원 골리아스 탑승 중 추락 사고 발생 (CNN·WSB-TV)\n· 이번 사고로 1명 사망하고 4명 부상 (WSB-TV)\n· 사고 발생 원인과 상세 경위는 아직 확인 안 됨\n\n출처: CNN·ABC7 Los Angeles·WSB-TV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 조지아주 식스플래그 놀이기구에서 추락 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "WSB-TV는 이번 사고로 1명이 숨지고 4명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 식스플래그에서\n무슨 일이?",
+  "broll": [
+    "amusement park roller coaster",
+    "roller coaster track"
+  ],
+  "place_en": "Austell, Georgia"
+}
