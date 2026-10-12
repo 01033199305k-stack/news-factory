@@ -28,10 +28,18 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DeZ2DHXmdOI",
         "kind": "carousel",
         "at": 1791828602
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791832271
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791832271
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": null
   },
@@ -64,6 +72,58 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DeZ2H_sGfXl",
         "kind": "carousel",
         "at": 1791828637
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791832271
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791832271
+      }
+    },
+    "attempts": {
+      "instagram": 2
+    },
+    "video": null
+  },
+  {
+    "slug": "2026-10-13-news-pennsylvania-erie-mass-shooting-2026",
+    "event_ms": 1791828267000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 펜실베이니아주에서 총격 사건이 발생해 8명이 숨졌습니다.\n\n· 현지 언론은 용의자가 가족 등을 상대로 총격을 가해 8명이 숨졌다고 전했습니다 (폭스뉴스·FOX8)\n· 희생자 가운데는 용의자의 임신한 딸도 포함된 것으로 확인됐습니다 (NBC 뉴스)\n\n출처: NBC 뉴스·폭스뉴스·FOX8 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18478688491119053",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeZ8yLMGS_M",
+        "kind": "carousel",
+        "at": 1791832133
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791832271
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791832271
       }
     },
     "attempts": {

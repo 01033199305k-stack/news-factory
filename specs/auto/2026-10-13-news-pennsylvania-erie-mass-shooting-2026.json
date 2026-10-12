@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-13-news-pennsylvania-erie-mass-shooting-2026",
+  "topic": "미국 펜실베이니아 총격 친척 등 8명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 03:04 KST",
+  "source": "Fox News·NBC News·FOX 8 News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxPS0dKSmc0cU9LZ3kyRGdiZ3VvOGpOdk1DS2JXdWtFWE9uVmFFNkFmSVNlUDZkaDFMSjhxeHhMbWJQUHB0NnFsa0R6eGpDdGJLUE5aV00tT0hRN3UxMzVkVW9rdmI1eU9uRERvYzNhaG5PbEFZQkY2b0l5bkFzdU9nUjBlZk5TLXBTYXczSlV5YWpPSkZQajBuNnA0aU81aEZaZ3hJdExYS01qT083OU1BXzV2V1g2Tnc",
+    "related": [
+      [
+        "Victims of Pennsylvania mass shooting included pregnant daughter of gunman",
+        "NBC News"
+      ],
+      [
+        "Pennsylvania gunman who killed 8 was grandfather who seemed normal, victim relatives say",
+        "Fox News"
+      ],
+      [
+        "Grandfather suspected of killing relatives in Erie, Pennsylvania, shooting",
+        "NewsNation"
+      ],
+      [
+        "Erie mass shooting: 8 victims identified",
+        "FOX 8 News"
+      ],
+      [
+        "Victims identified | Erie mass shooting gunman shot pregnant daughter, 6 others",
+        "WTAE"
+      ]
+    ],
+    "event_key": "pennsylvania-erie-mass-shooting-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 펜실베이니아 총격\n친척 등 [[8명 숨져]]",
+      "sub": "임신한 딸을 포함해 일가족 등이 총격 피해를 입었습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "8명"
+        }
+      ],
+      "alt": "미국 펜실베이니아 총격 친척 등 8명 숨져",
+      "map": {
+        "lat": 42.1294712,
+        "lon": -80.0852695,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n펜실베이니아주 이리",
+      "video_only": true,
+      "map": {
+        "lat": 42.1294712,
+        "lon": -80.0852695,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "펜실베이니아주 이리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "8명 신원 확인",
+          "d": "현지 언론은 총격으로 8명이 숨졌으며 신원이 확인됐다고 전했습니다 (폭스뉴스·FOX8)."
+        },
+        {
+          "t": "임신한 딸 포함",
+          "d": "희생자 중에는 용의자의 임신한 딸이 포함된 것으로 알려졌습니다 (NBC 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "펜실베이니아주 이리 총격 사건",
+        "사망 8명 (폭스뉴스·FOX8)"
+      ],
+      "unconfirmed": [
+        "구체적인 범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "FOX 8 News",
+        "Fox News",
+        "NBC News",
+        "NewsNation",
+        "WTAE",
+        "2026.10.13 04:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 펜실베이니아주에서 총격 사건이 발생해 8명이 숨졌습니다.\n\n· 현지 언론은 용의자가 가족 등을 상대로 총격을 가해 8명이 숨졌다고 전했습니다 (폭스뉴스·FOX8)\n· 희생자 가운데는 용의자의 임신한 딸도 포함된 것으로 확인됐습니다 (NBC 뉴스)\n\n출처: NBC 뉴스·폭스뉴스·FOX8 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펜실베이니아주에서 총격 사건으로 8명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사건은 펜실베이니아주 이리에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "NBC 뉴스는 희생자에 용의자의 임신한 딸이 포함됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 범행 동기는 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[펜실베이니아]]서\n벌어진 비극",
+  "broll": [
+    "police car siren",
+    "ambulance night"
+  ],
+  "place_en": "Erie, Pennsylvania, USA"
+}
