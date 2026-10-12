@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-12-news-tropical-storm-rachel-las-vegas-flooding-2026",
+  "topic": "열대성 폭풍 레이첼 영향 미 라스베이거스 기록적 폭우",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.12 14:15 KST",
+  "source": "KSNV·KTNV Las Vegas·Las Vegas Review-Journal 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxOdXlXZmIwdElzeWxaeEMySFNMNFR1T3V5clJ3dVFyZU5pYzZDRVZySjFaMVd6Smx3UGlqa1g1NHpIb0tkZ0xwM0x2UU9rR0tZOG81NXF5U2JlUGlOaGpKZ29yRkliY0s0QWJ5QjVYUk16UmhSWFRTNV9hUi1rS3JORUJ1c1ZWZlBTZUh6QThRclFKcXplTExTWk9RZzc",
+    "related": [
+      [
+        "Las Vegas sets rainfall record as Rachel’s storms surge through west valley",
+        "Las Vegas Review-Journal"
+      ],
+      [
+        "Flash flooding sends water rushing through streets near Las Vegas strip",
+        "KSNV"
+      ],
+      [
+        "Extensive damage, unsteady homes and urgent repairs: What’s next for the Peninsula?",
+        "Long Beach Post"
+      ],
+      [
+        "VIDEO: Rain from Tropical Storm Rachel causes flooding across Las Vegas valley",
+        "KTNV Las Vegas"
+      ],
+      [
+        "Heavy surf, red-tagged homes, a battered boardwalk: Long Beach confronts costly climate reality",
+        "Los Angeles Times"
+      ]
+    ],
+    "event_key": "tropical-storm-rachel-las-vegas-flooding-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "열대성 폭풍 레이첼 영향\n미 [[라스베이거스]] 기록적 폭우",
+      "sub": "서부 계곡 일대 침수 피해 발생",
+      "chips": [],
+      "alt": "열대성 폭풍 레이첼 영향 미 라스베이거스 기록적 폭우",
+      "map": {
+        "lat": 36.1674263,
+        "lon": -115.1484131,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n라스베이거스",
+      "video_only": true,
+      "map": {
+        "lat": 36.1674263,
+        "lon": -115.1484131,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "라스베이거스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기록적 강수",
+          "d": "라스베이거스는 열대성 폭풍 레이첼의 영향으로 강수량 기록을 경신했습니다 (라스베이거스 리뷰저널)."
+        },
+        {
+          "t": "도로 침수",
+          "d": "스트립 인근 도로를 포함해 침수 피해가 발생했습니다 (KSNV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "열대성 폭풍 레이첼 접근",
+        "라스베이거스 강수량 기록 경신",
+        "도로 침수 발생"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 재산 피해 규모",
+        "추가 강우 및 복구 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KSNV",
+        "KTNV Las Vegas",
+        "Las Vegas Review-Journal",
+        "Long Beach Post",
+        "Los Angeles Times",
+        "2026.10.12 15:23 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 열대성 폭풍 레이첼 영향 미 라스베이거스 기록적 폭우\n\n· 라스베이거스 강수량 기록 경신 및 도로 침수 (라스베이거스 리뷰저널·KSNV)\n· 해안가 등에서도 피해 발생 (로스앤젤레스 타임스)\n\n출처: 라스베이거스 리뷰저널·KSNV·로스앤젤레스 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "열대성 폭풍 레이첼이 지나가며 미 라스베이거스에 기록적인 폭우가 쏟아졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "라스베이거스 리뷰저널은 강수량 기록이 경신됐으며 스트립 인근 도로가 침수됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로스앤젤레스 타임스는 해안가에서도 피해가 이어졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부나 정확한 재산 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[라스베이거스]]에\n쏟아진 기록적 폭우",
+  "broll": [
+    "flooded street rain",
+    "storm surge waves"
+  ],
+  "place_en": "Las Vegas, Nevada, United States"
+}

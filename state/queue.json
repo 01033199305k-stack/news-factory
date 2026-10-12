@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-10-12-news-north-korea-missile-launch-oct-2026",
-    "event_ms": 1791776682000,
-    "category": "국제",
+    "slug": "2026-10-12-news-tropical-storm-rachel-las-vegas-flooding-2026",
+    "event_ms": 1791782100000,
+    "category": "재난",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 북한, 해상으로 탄도미사일 발사\n\n· 북한이 바다를 향해 여러 발의 탄도미사일을 발사했다고 알자지라와 NBC 뉴스가 보도했습니다\n· 한국 군 당국은 북한이 바다로 발사체를 발사했다고 확인했습니다 (AP News·USA Today)\n\n🇰🇷 북한이 해상으로 미사일을 발사했습니다\n\n이번 북한의 미사일 발사 소식을 어떻게 보십니까?\n\n출처: 알자지라·로이터·AP News·USA Today·NBC 뉴스 보도 종합",
+    "text": "[속보] 열대성 폭풍 레이첼 영향 미 라스베이거스 기록적 폭우\n\n· 라스베이거스 강수량 기록 경신 및 도로 침수 (라스베이거스 리뷰저널·KSNV)\n· 해안가 등에서도 피해 발생 (로스앤젤레스 타임스)\n\n출처: 라스베이거스 리뷰저널·KSNV·로스앤젤레스 타임스 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
-      "국제",
-      "북한"
+      "재난",
+      "미국"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -24,22 +24,14 @@
     ],
     "done": {
       "threads": {
-        "id": "18116215844096856",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeYcjPOkcWW",
+        "id": "17906778972580284",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeYlWvfkaAk",
         "kind": "carousel",
-        "at": 1791781680
-      },
-      "youtube": {
-        "skipped": "영상 없음",
-        "at": 1791781738
-      },
-      "tiktok": {
-        "skipped": "영상 없음",
-        "at": 1791781738
+        "at": 1791786294
       }
     },
     "attempts": {
-      "instagram": 2
+      "instagram": 1
     },
     "video": null
   }
