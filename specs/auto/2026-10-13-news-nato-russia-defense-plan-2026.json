@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-13-news-nato-russia-defense-plan-2026",
+  "topic": "나토 최고사령관, 러시아의 공격을 막을 대응 계획 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 07:23 KST",
+  "source": "Financial Times·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxNOVIwNmNCdG1jLWtWYkNTZW9EOGM1MnozMGlWTXNBVEFiaWlXU28yc3NjWVlXMkF0SXJJXzFlSllzZ24tRWVTTHhRcFN0RTk1NHlHWEwwQWN1SG5lWExtc1paNHhHNHhxa01uekw3Zk9BR3ZMNzQ0T0k1YkZlNXpVelU1MVB3VTl2c3dwWlZSOFRvNnhRWXZlTHpORXZoYnlCS2s3RXB5c2s1QXFwN1E",
+    "related": [
+      [
+        "U.S. and NATO commander vows to thwart Moscow, warns Kyiv over refinery strikes",
+        "The Washington Post"
+      ],
+      [
+        "NATO Details Plan to Shield Ukraine’s European Allies From Russia",
+        "The New York Times"
+      ],
+      [
+        "NATO general sets out tough military response to any 'foolish' Russian attack",
+        "Reuters"
+      ],
+      [
+        "NATO’s Top Commander Lays Out Plan to Thwart a Russian Attack on the Alliance",
+        "WSJ"
+      ],
+      [
+        "Nato should prepare for deadly Russian ‘hybrid’ attack, says Poland",
+        "Financial Times"
+      ]
+    ],
+    "event_key": "nato-russia-defense-plan-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "나토 최고사령관, 러시아의 공격을 막을 [[대응 계획]] 발표",
+      "sub": "우크라이나의 정유시설 타격에 대해서도 경고 메시지 전달",
+      "chips": [
+        {
+          "k": "발표",
+          "v": "나토사령관"
+        },
+        {
+          "k": "대상",
+          "v": "러시아"
+        }
+      ],
+      "alt": "나토 최고사령관, 러시아의 공격을 막을 대응 계획 발표",
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "벨기에"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "벨기에\n브뤼셀",
+      "video_only": true,
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브뤼셀"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유럽 동맹 보호",
+          "d": "나토는 러시아의 공격으로부터 유럽 동맹국을 보호할 계획을 상세히 설명했습니다 (뉴욕타임스)."
+        },
+        {
+          "t": "우크라이나 경고",
+          "d": "미국과 나토 사령관은 우크라이나의 정유시설 타격에 대해 경고했습니다 (워싱턴포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "나토 사령관의 대응 계획 발표",
+        "우크라이나 정유시설 타격 경고"
+      ],
+      "unconfirmed": [
+        "구체적인 군사적 조치 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Financial Times",
+        "Reuters",
+        "The New York Times",
+        "The Washington Post",
+        "WSJ",
+        "2026.10.13 08:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 나토 최고사령관, 러시아의 공격을 막을 [[대응 계획]] 발표\n\n· 미국과 나토 사령관은 우크라이나의 정유시설 타격에 대해 경고했습니다 (워싱턴포스트)\n· 나토는 러시아의 공격으로부터 유럽 동맹국을 보호할 계획을 상세히 설명했습니다 (뉴욕타임스)\n\n여러분은 이번 나토의 대응 방침, 어떻게 보십니까?\n\n출처: 워싱턴포스트·뉴욕타임스·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "나토 최고사령관이 러시아의 공격을 막을 대응 계획을 발표했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터통신은 나토가 러시아의 어리석은 공격에 강력한 군사적 대응으로 나설 것이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국과 나토 사령관은 우크라이나의 정유시설 타격에 대해서도 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 군사 조치의 시기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 나토의 대응 방침, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "나토 대응 방침은?"
+    }
+  ],
+  "hook": "나토 사령관이 밝힌\n[[러시아 대응]] 계획은?",
+  "broll": [
+    "military map screen",
+    "nato flags conference"
+  ],
+  "place_en": "Brussels, Belgium"
+}
