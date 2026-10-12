@@ -13550,5 +13550,55 @@
     "video": null,
     "status": "done",
     "at": 1791835831
+  },
+  {
+    "slug": "2026-10-13-news-sardinia-cave-rescue-2026",
+    "event_ms": 1791826800000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이탈리아 사르데냐 동굴서 낙반 사고로 매몰된 탐험가 구조\n\n· 이탈리아 사르데냐 동굴 지하 10미터 지점에서 발생했습니다 (The Sun·blue News)\n· 구조대와 소통하며 의식이 있는 상태로 발견됐습니다 (The Guardian·L'Unione Sarda.it)\n· 26시간 동안 고립됐던 탐험가가 무사히 구출됐습니다 (The Guardian·The Sun)\n\n출처: The Guardian·The Sun·blue News 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "이탈리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18025051319873776",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeaDsdAGMsv",
+        "kind": "carousel",
+        "at": 1791835755
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791839307
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791839307
+      },
+      "instagram": {
+        "failed": "POST 17841426303658748/media_publish → 403: Application request limit reached",
+        "at": 1791842846
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": null,
+    "status": "done",
+    "at": 1791842846
   }
 ]
