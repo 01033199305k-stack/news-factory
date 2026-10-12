@@ -2415,5 +2415,25 @@
     "at": 1791821329.8180559,
     "country": "멕시코",
     "category": "재난"
+  },
+  {
+    "event_key": "israel-lebanon-border-munition-explosion",
+    "topic": "이스라엘 국경서 폭발물 터져 학생 1명 사망·24명 부상",
+    "slug": "2026-10-13-news-israel-lebanon-border-munition-explosion",
+    "cluster": "CBMitAFBVV95cUxQSUtCZjhxcXBhSTFRWk5BZWo5Q2lJU3AyOC15aUd2OTNCdExKNms5dlg4Y04wMXAxd2NWV0N6NXFqV241STNDZ3VMZ1p5eDQtMXl1LVA1ZmlOdF9JdThNbnJYMllvbXBPVGN4dG45OVhMR2c3QjBCeWxjLXV4SWY0VXlRa0wzRi04TkptLUlnZnVlZXVySWNNYUdVYzJfOFgxRmNfVUxkWDNndzc2dHVzYjdCNWHSAboBQVVfeXFMUG5IazNhSFk0RUhNQ3dneFdnR3pBM0tIYktZRS1JLWg3dVF0S2ZKbURqdnd0SFV5SEJuYlR6d3FtTGQtd2VmWDFtMlBTN09nbDNrODN3UGZpUE9xMDFfWFdtb0hDZC1pdGJkYUgyS2hWcm1FbFhDLXdtdFJoS0NMOTZ3ZVlXQ1VEejcyeFBCZC1RN0hhdTNkM1JQcGV2aC0taEh0R19qZnhnNHF5SUNIaGZNYjB6SFBKSkF3",
+    "badge": "breaking",
+    "at": 1791828532.3737936,
+    "country": "이스라엘",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "uk-summons-iran-ambassador-sanctions",
+    "topic": "영국, 이란 대사 소환 추가 제재 공식 발표",
+    "slug": "2026-10-13-news-uk-summons-iran-ambassador-sanctions",
+    "cluster": "CBMiW0FVX3lxTE94d0c0YnY3VzBzNEdPTkZ1WEg1cmhHMlpqN3Z0TE5BLVpVeHF0VkJBdVJBc0JhcjV6dWl1ZU55Z2ZYUnJ6TEtfRzhkWnZGbG9DWnhaRFNnU2NlY1U",
+    "badge": "breaking",
+    "at": 1791828545.079172,
+    "country": "영국",
+    "category": "국제"
   }
 ]

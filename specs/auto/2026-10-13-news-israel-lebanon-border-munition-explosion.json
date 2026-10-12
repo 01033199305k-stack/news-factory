@@ -1,0 +1,121 @@
+{
+  "slug": "2026-10-13-news-israel-lebanon-border-munition-explosion",
+  "topic": "이스라엘 국경서 폭발물 터져 학생 1명 사망·24명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 01:59 KST",
+  "source": "AP News·CNN·The Jerusalem Post 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxQSUtCZjhxcXBhSTFRWk5BZWo5Q2lJU3AyOC15aUd2OTNCdExKNms5dlg4Y04wMXAxd2NWV0N6NXFqV241STNDZ3VMZ1p5eDQtMXl1LVA1ZmlOdF9JdThNbnJYMllvbXBPVGN4dG45OVhMR2c3QjBCeWxjLXV4SWY0VXlRa0wzRi04TkptLUlnZnVlZXVySWNNYUdVYzJfOFgxRmNfVUxkWDNndzc2dHVzYjdCNWHSAboBQVVfeXFMUG5IazNhSFk0RUhNQ3dneFdnR3pBM0tIYktZRS1JLWg3dVF0S2ZKbURqdnd0SFV5SEJuYlR6d3FtTGQtd2VmWDFtMlBTN09nbDNrODN3UGZpUE9xMDFfWFdtb0hDZC1pdGJkYUgyS2hWcm1FbFhDLXdtdFJoS0NMOTZ3ZVlXQ1VEejcyeFBCZC1RN0hhdTNkM1JQcGV2aC0taEh0R19qZnhnNHF5SUNIaGZNYjB6SFBKSkF3",
+    "related": [
+      [
+        "Teen killed, 24 injured by unexploded Hezbollah munition on hike near Lebanon border",
+        "The Times of Israel"
+      ],
+      [
+        "One teen killed, others wounded, after explosion on Israeli school trip near Lebanon border",
+        "CNN"
+      ],
+      [
+        "Munition blast during school trip kills student in Israel, and other Mideast developments",
+        "AP News"
+      ],
+      [
+        "Teen killed, 24 injured during school hike near Lebanon border, as unexploded Hezbollah munition blows up in student’s hands",
+        "The Times of Israel"
+      ],
+      [
+        "One killed, 24 injured in explosion of Hezbollah ordnance near Lebanon border",
+        "The Jerusalem Post"
+      ]
+    ],
+    "event_key": "israel-lebanon-border-munition-explosion"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 국경서 [[폭발물]] 터져\n학생 1명 사망·24명 부상",
+      "sub": "레바논 국경 인근 학교 소풍 중 불발탄이 터졌습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "24명"
+        }
+      ],
+      "alt": "이스라엘 국경서 폭발물 터져 학생 1명 사망·24명 부상"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "학교 소풍 중 사고",
+          "d": "레바논 국경 인근 하이킹 중 사고가 발생했습니다 (CNN·AP News)."
+        },
+        {
+          "t": "불발탄 폭발",
+          "d": "헤즈볼라의 불발탄이 터졌습니다 (The Times of Israel)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명",
+        "부상 24명",
+        "불발탄 폭발"
+      ],
+      "unconfirmed": [
+        "정확한 사고 경위와 추가 부상자 상태"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNN",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "2026.10.13 03:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 국경서 폭발물 터져 학생 1명 사망·24명 부상\n\n· 레바논 국경 인근 학교 소풍 하이킹 중 사고 발생 (CNN·AP News)\n· 헤즈볼라 불발탄이 터짐 (The Times of Israel)\n\n출처: The Times of Israel·CNN·AP News·The Jerusalem Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘과 레바논 국경 인근에서 불발탄이 터져 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "학교 소풍에 나선 학생들의 하이킹 도중 사고가 일어났습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이 사고로 24명이 다쳤습니다.",
+      "card": "points"
+    },
+    {
+      "text": "터진 폭발물은 헤즈볼라의 잔해로 전해졌습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "이스라엘 국경서\n[[폭발물]] 터진 이유는?",
+  "broll": [
+    "ambulance night",
+    "police tape street"
+  ],
+  "place_en": "Lebanon border, Israel"
+}

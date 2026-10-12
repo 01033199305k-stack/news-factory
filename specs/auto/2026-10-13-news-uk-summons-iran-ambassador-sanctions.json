@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-13-news-uk-summons-iran-ambassador-sanctions",
+  "topic": "영국, 이란 대사 소환 추가 제재 공식 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 00:45 KST",
+  "source": "BBC·Financial Times·GOV.UK 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE94d0c0YnY3VzBzNEdPTkZ1WEg1cmhHMlpqN3Z0TE5BLVpVeHF0VkJBdVJBc0JhcjV6dWl1ZU55Z2ZYUnJ6TEtfRzhkWnZGbG9DWnhaRFNnU2NlY1U",
+    "related": [
+      [
+        "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+        "BBC"
+      ],
+      [
+        "UK imposes new sanctions on Iran over RAF Fairford incident",
+        "Financial Times"
+      ],
+      [
+        "US, UK and 27 more countries warn Iran against further attacks on West, after British base plot",
+        "The Times of Israel"
+      ],
+      [
+        "FMs of 29 countries condemn IRGC proxy attacks abroad",
+        "The Jerusalem Post"
+      ],
+      [
+        "Joint Statement on Iran, 12 October",
+        "GOV.UK"
+      ]
+    ],
+    "event_key": "uk-summons-iran-ambassador-sanctions"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국, [[이란 대사]] 소환\n추가 제재 공식 발표",
+      "sub": "영국 정부는 자국 영토 내 위협을 용납할 수 없다고 경고했습니다.",
+      "chips": [],
+      "alt": "영국, 이란 대사 소환 추가 제재 공식 발표",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이란 대사 소환",
+          "d": "영국 외무부는 자국 내 위협을 용납하지 않겠다며 이란 대사를 소환했습니다 (BBC)."
+        },
+        {
+          "t": "새로운 대이란 제재",
+          "d": "영국 정부는 관련 사건을 계기로 이란을 향한 새로운 제재를 단행했습니다 (Financial Times)."
+        },
+        {
+          "t": "29개국 공동 성명",
+          "d": "미국과 영국을 포함한 29개국이 해외에서 벌어진 이란 혁명수비대의 대리 세력 공격을 규탄했습니다 (The Jerusalem Post)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 대사 소환 (BBC)",
+        "영국의 신규 제재 부과 (Financial Times)",
+        "29개국의 공동 규탄 성명 (The Jerusalem Post)"
+      ],
+      "unconfirmed": [
+        "이란 정부의 공식 반응",
+        "추가 제재의 구체적인 대상과 내용"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Financial Times",
+        "GOV.UK",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "2026.10.13 03:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국, 이란 대사 소환하고 추가 제재 공식 발표\n\n· 영국 외무부, 자국 내 위협 용납할 수 없다며 이란 대사 소환 (BBC)\n· 영국 정부, 관련 사건 계기로 이란 대상 신규 제재 단행 (Financial Times)\n· 미·영 등 29개국, 해외 이란 대리 세력 공격 규탄 공동 성명 발표 (The Jerusalem Post)\n\n여러분은 영국과 서방 국가들의 대이란 제재 조치, 어떻게 보십니까?\n출처: BBC·Financial Times·The Times of Israel·The Jerusalem Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 정부가 이란 대사를 소환하고 추가 제재를 발표했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 영국 영토 내에서 벌어진 위협을 결코 용납하지 않겠다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국과 영국을 비롯한 29개국은 해외에서 벌어진 이란 대리 세력의 공격을 규탄하는 공동 성명을 냈습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란 측의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 서방 국가들의 이번 대응 조치를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "영국이 [[이란 대사]]를\n소환한 까닭은?",
+  "broll": [
+    "government building flag",
+    "diplomatic meeting room"
+  ],
+  "place_en": "London, United Kingdom"
+}
