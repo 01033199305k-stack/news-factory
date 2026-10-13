@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-13-news-delta-flight-ben-gurion-bomb-threat-2026",
+  "topic": "이스라엘 공항 도착 델타 항공기 폭탄 위협으로 격리",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 15:05 KST",
+  "source": "GB News·Israel National News·The Jerusalem Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXEFVX3lxTE1iRE0yazVGc2VCV2Vfam9oRU5scEtJWjQ0b3B6dlRheDg0S0RMYzJtb2x1a2ZHVkVBeU1Nd1E4anZvN2NDRE1GOEtCS1M3RGV3MWw5RmU1bm9yNVhR",
+    "related": [
+      [
+        "Delta flight to US returns to Ben-Gurion after anonymous bomb threat called in - report",
+        "The Jerusalem Post"
+      ],
+      [
+        "Delta plane given all-clear at Ben Gurion Airport after anonymous bomb threat",
+        "The Times of Israel"
+      ],
+      [
+        "Israel flight receives 'bomb threat' just weeks after 'jihadist' hijack attempt",
+        "GB News"
+      ],
+      [
+        "Bomb threat forces isolation of Delta flight arriving in Israel",
+        "Israel National News"
+      ],
+      [
+        "Bomb Threat Forces Evacuation of Delta Flight After Landing in Israel",
+        "The Media Line"
+      ]
+    ],
+    "event_key": "delta-flight-ben-gurion-bomb-threat-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 공항 도착 델타 항공기\n[[폭탄 위협]]으로 격리",
+      "sub": "익명의 폭탄 위협으로 공항 당국이 대피 조치에 나섰습니다",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "벤구리온 공항"
+        }
+      ],
+      "alt": "이스라엘 공항 도착 델타 항공기 폭탄 위협으로 격리",
+      "map": {
+        "lat": 32.0027142,
+        "lon": 34.8809193,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n벤구리온 공항",
+      "video_only": true,
+      "map": {
+        "lat": 32.0027142,
+        "lon": 34.8809193,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "벤구리온 공항"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "익명 협박",
+          "d": "익명의 폭탄 위협 뒤 항공기가 격리됐다고 보도되었습니다."
+        },
+        {
+          "t": "안전 확인",
+          "d": "이후 수색을 거쳐 안전에는 이상이 없는 것으로 확인됐습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "익명의 폭탄 위협",
+        "항공기 격리 및 대피 조치",
+        "안전 확인"
+      ],
+      "unconfirmed": [
+        "폭탄 위협의 발신처 및 구체적인 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "GB News",
+        "Israel National News",
+        "The Jerusalem Post",
+        "The Media Line",
+        "The Times of Israel",
+        "2026.10.13 17:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 공항 도착 델타 항공기 폭탄 위협으로 격리\n\n· 익명의 폭탄 위협 뒤 항공기가 격리됐습니다\n· 수색을 거쳐 안전에는 이상이 없는 것으로 확인됐습니다\n\n출처: 외신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘 벤구리온 공항에 도착한 델타 항공기가 폭탄 위협으로 격리됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 익명의 협박으로 대피 조치가 이루어졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "수색 끝에 항공기는 안전하다는 판정을 받았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "협박의 구체적인 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이스라엘 공항에서\n[[델타 항공기]]에 무슨 일이?",
+  "broll": [
+    "airport terminal night",
+    "police lights night"
+  ],
+  "place_en": "Ben Gurion Airport, Israel"
+}

@@ -2515,5 +2515,15 @@
     "at": 1791876014.3152566,
     "country": "대한민국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "delta-flight-ben-gurion-bomb-threat-2026",
+    "topic": "이스라엘 공항 도착 델타 항공기 폭탄 위협으로 격리",
+    "slug": "2026-10-13-news-delta-flight-ben-gurion-bomb-threat-2026",
+    "cluster": "CBMiXEFVX3lxTE1iRE0yazVGc2VCV2Vfam9oRU5scEtJWjQ0b3B6dlRheDg0S0RMYzJtb2x1a2ZHVkVBeU1Nd1E4anZvN2NDRE1GOEtCS1M3RGV3MWw5RmU1bm9yNVhR",
+    "badge": "breaking",
+    "at": 1791879375.6076748,
+    "country": "이스라엘",
+    "category": "사고"
   }
 ]
