@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-13-news-ukraine-drone-strike-yandex-data-center",
+  "topic": "우크라이나 드론 공습에 러시아 얀덱스 데이터센터 마비",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 22:27 KST",
+  "source": "BBC·Bloomberg.com·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBJb2s3SmRKRGl0andwc3h0Y3NpcXVoVnIyYWtpWGQxa2Qyd3FlUl94c185RmNsTmdjLVN5UGxxSUhlcWhHUHNSb0ZwMU1DTVk1eWNnSWVNMlRlYzA",
+    "related": [
+      [
+        "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+        "BBC"
+      ],
+      [
+        "Did Ukraine’s strikes on data centers really silence Russian bots?",
+        "Mashable"
+      ],
+      [
+        "Ukraine Hits Third Russian Yandex Data Hub, Disrupting Services",
+        "Bloomberg.com"
+      ],
+      [
+        "Ukrainian drone strikes have plunged Russia’s internet into crisis. Meduza explains why the damage has been so extensive, and why a full recovery will likely take months.",
+        "Meduza"
+      ],
+      [
+        "Russia's Yandex says data centre in Vladimir area shut down after drone attack",
+        "Reuters"
+      ]
+    ],
+    "event_key": "ukraine-drone-strike-yandex-data-center"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 드론 공습에\n러시아 [[얀덱스]] 데이터센터 마비",
+      "sub": "러시아 인터넷망에 큰 차질이 발생했습니다",
+      "chips": [
+        {
+          "k": "공격 대상",
+          "v": "얀덱스"
+        }
+      ],
+      "alt": "우크라이나 드론 공습에 러시아 얀덱스 데이터센터 마비",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "세 번째 타격",
+          "d": "우크라이나의 드론 공격으로 세 번째 러시아 얀덱스 데이터 허브가 타격을 입었습니다 (Bloomberg)"
+        },
+        {
+          "t": "복구 기간",
+          "d": "인터넷망 위기로 완전한 복구에는 수개월이 걸릴 것으로 예상됩니다 (Meduza)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 얀덱스 데이터센터 드론 공격 피해",
+        "우크라이나의 데이터센터 타격 확인"
+      ],
+      "unconfirmed": [
+        "러시아 봇 네트워크에 미친 정확한 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bloomberg.com",
+        "Mashable",
+        "Meduza",
+        "Reuters",
+        "2026.10.14 00:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 드론 공습에 러시아 얀덱스 데이터센터 마비\n\n· 우크라이나의 드론 공격으로 세 번째 러시아 얀덱스 데이터 허브가 타격을 입었습니다 (Bloomberg)\n· 러시아 인터넷망 위기로 완전한 복구에는 수개월이 걸릴 것으로 예상됩니다 (Meduza)\n\n이번 우크라이나의 데이터센터 타격 조치를 어떻게 보십니까?\n\n출처: Bloomberg·Meduza·Reuters 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나의 드론 공습으로 러시아 얀덱스 데이터센터가 마비됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "Bloomberg 통신은 세 번째 러시아 얀덱스 데이터 허브가 타격을 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "Meduza 매체는 완전한 복구에는 수개월이 걸릴 것으로 예상된다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사이버 공격이 러시아 인터넷망에 미친 정확한 영향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 우크라이나의 데이터센터 타격 조치를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "우크라이나 드론에\n[[데이터센터]] 마비",
+  "broll": [
+    "server room data center",
+    "digital network screen"
+  ],
+  "place_en": "Moscow, Russia"
+}

@@ -2565,5 +2565,25 @@
     "at": 1791897080.9181974,
     "country": "프랑스",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "ukraine-drone-strike-yandex-data-center",
+    "topic": "우크라이나 드론 공습에 러시아 얀덱스 데이터센터 마비",
+    "slug": "2026-10-13-news-ukraine-drone-strike-yandex-data-center",
+    "cluster": "CBMiW0FVX3lxTFBJb2s3SmRKRGl0andwc3h0Y3NpcXVoVnIyYWtpWGQxa2Qyd3FlUl94c185RmNsTmdjLVN5UGxxSUhlcWhHUHNSb0ZwMU1DTVk1eWNnSWVNMlRlYzA",
+    "badge": "breaking",
+    "at": 1791904317.23496,
+    "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "white-house-asks-guilfoyle-resign",
+    "topic": "백악관, 킴벌리 길포일 주그리스 대사 사임 요구",
+    "slug": "2026-10-13-news-white-house-asks-guilfoyle-resign",
+    "cluster": "CBMitAFBVV95cUxOa0QtQnJyNUhDbjlLeVE2NEczcEhMR19SV2s3bjc2V1U1bXRkcUtBemctSE9HeXlMSHNZd0lnNmRhZFVjOUg5R0NEWW1oWUpWbHZ5NTRtd1VPZzNLbE44bDJwM04yTlV2a0xBWnNJUnUzVDdKZzVPQkRXY1NJZ0Iza2FTdDJHTVJkS0czNEtXVEhwR0ZENW81bnRha2cwc2hMRzZacFdPRC16TFlMaEZjRVdsQ3U",
+    "badge": "breaking",
+    "at": 1791904403.207364,
+    "country": "미국",
+    "category": "국제"
   }
 ]

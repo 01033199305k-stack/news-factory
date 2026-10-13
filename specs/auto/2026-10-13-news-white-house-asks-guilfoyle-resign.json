@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-13-news-white-house-asks-guilfoyle-resign",
+  "topic": "백악관, 킴벌리 길포일 주그리스 대사 사임 요구",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 23:04 KST",
+  "source": "CNN·Fox News·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxOa0QtQnJyNUhDbjlLeVE2NEczcEhMR19SV2s3bjc2V1U1bXRkcUtBemctSE9HeXlMSHNZd0lnNmRhZFVjOUg5R0NEWW1oWUpWbHZ5NTRtd1VPZzNLbE44bDJwM04yTlV2a0xBWnNJUnUzVDdKZzVPQkRXY1NJZ0Iza2FTdDJHTVJkS0czNEtXVEhwR0ZENW81bnRha2cwc2hMRzZacFdPRC16TFlMaEZjRVdsQ3U",
+    "related": [
+      [
+        "Trump has asked Kimberly Guilfoyle, U.S. ambassador to Greece, to resign amid misconduct allegations",
+        "NBC News"
+      ],
+      [
+        "Trump Has Asked Kimberly Guilfoyle to Resign, White House Says",
+        "The New York Times"
+      ],
+      [
+        "White House has asked Kimberly Guilfoyle to resign",
+        "CNN"
+      ],
+      [
+        "Trump asks Kimberly Guilfoyle to resign as Greece Ambassador, White House confirms",
+        "Fox News"
+      ],
+      [
+        "White House asks Guilfoyle to resign amid mounting scandals",
+        "WFLA"
+      ]
+    ],
+    "event_key": "white-house-asks-guilfoyle-resign"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "백악관, 킴벌리 길포일\n주그리스 [[대사]] 사임 요구",
+      "sub": "품위 손상 의혹이 제기된 데 따른 조치입니다",
+      "chips": [
+        {
+          "k": "요구 대상",
+          "v": "주그리스 대사"
+        }
+      ],
+      "alt": "백악관, 킴벌리 길포일 주그리스 대사 사임 요구",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사임 요구",
+          "d": "백악관은 품위 손상 의혹을 받는 킴벌리 길포일 주그리스 미국 대사에게 사임을 요구했습니다 (NBC News)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "백악관의 킴벌리 길포일 주그리스 대사 사임 요구",
+        "품위 손상 의혹 제기"
+      ],
+      "unconfirmed": [
+        "구체적인 품위 손상 의혹 내용",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Fox News",
+        "NBC News",
+        "The New York Times",
+        "WFLA",
+        "2026.10.14 00:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 백악관, 킴벌리 길포일 주그리스 대사 사임 요구\n\n· 백악관은 품위 손상 의혹을 받는 킴벌리 길포일 주그리스 미국 대사에게 사임을 요구했습니다 (NBC News)\n\n미국의 이번 대사 사임 요구 조치를 어떻게 보십니까?\n\n출처: NBC News·The New York Times·CNN·Fox News·WFLA 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "백악관이 킴벌리 길포일 주그리스 미국 대사에게 사임을 요구했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "품위 손상 의혹이 제기된 데 따른 조치라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 품위 손상 의혹의 내용은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "미국의 이번 대사 사임 요구 조치를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "주그리스 미국 대사\n[[사임]] 요구",
+  "broll": [
+    "white house exterior washington",
+    "us embassy flag"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
