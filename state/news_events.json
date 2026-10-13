@@ -2475,5 +2475,15 @@
     "at": 1791848247.8346176,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "india-flight-battery-fire-evacuation-2026",
+    "topic": "인도 여객기 선반서 보조배터리 불붙어 비상 착륙·긴급 회항",
+    "slug": "2026-10-13-news-india-flight-battery-fire-evacuation-2026",
+    "cluster": "CBMiW0FVX3lxTE1RXzZ3R28xVzBXckIzUWhhUUhCamwzX0FkSVVlak9OcldTSlNpbFo4eWJzWktoVkRVOXpBOThWVTdKZ2djaWNkUUZJQTZCeUpDQXZqeEYwOUR4dkU",
+    "badge": "breaking",
+    "at": 1791850075.3262448,
+    "country": "인도",
+    "category": "사고"
   }
 ]
