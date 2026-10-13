@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "slug": "2026-10-13-news-uk-iran-raf-fairford-terror-plot",
+    "event_ms": 1791892847000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 영국 정부, 이란의 테러 모의 연루 규탄 및 이란 대사 소환 (BBC·가디언)\n\n· 영국 정보기관 수장은 냉전 때보다 더 많은 국가적 위협에 대응하고 있다고 밝혔습니다 (BBC)\n· 미국 국무부와 영국 언론은 이란 혁명수비대의 연루 가능성을 제기했습니다 (가디언·미 국무부)\n\n출처: BBC·가디언·미 국무부 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "영국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18094841732142920",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deb016dFMM0",
+        "kind": "carousel",
+        "at": 1791895076
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791895129
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791895129
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": null
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-13-news-uk-iran-raf-fairford-terror-plot",
+  "topic": "영국, 이란의 테러 모의 연루 규탄 이란 대사 소환",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 21:00 KST",
+  "source": "BBC·The Guardian·The Telegraph 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE0zb2tsTFBVeFByajFIM05IU2RqVjFNSnZMclM1eUJlREJaSXBtOW02RWRSWDBCbzFYM19IeXFrd2tCWlgxOWdCU2RjTUZfdlM1VVQ2bEppbDlRcUdXMEE",
+    "related": [
+      [
+        "MI5 tackling more state threats than during Cold War, warns intelligence chief",
+        "BBC"
+      ],
+      [
+        "Why Burnham is so soft on Iran (yet so hard on Israel)",
+        "The Telegraph"
+      ],
+      [
+        "Iran’s Revolutionary Guards ‘almost certainly’ behind RAF Fairford threats, says Burnham",
+        "The Guardian"
+      ],
+      [
+        "Joint Statement on the United Kingdom’s Attribution of Iran’s Involvement in Attempted Terrorist Attack at RAF Fairford",
+        "U.S. Department of State (.gov)"
+      ],
+      [
+        "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+        "BBC"
+      ]
+    ],
+    "event_key": "uk-iran-raf-fairford-terror-plot"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국, 이란의 테러 모의 연루 규탄\n이란 대사 소환",
+      "sub": "영국 정부는 자국 내 테러 위협을 용납하지 않겠다고 경고했습니다.",
+      "chips": [
+        {
+          "k": "국가",
+          "v": "영국·이란"
+        }
+      ],
+      "alt": "영국, 이란의 테러 모의 연루 규탄 이란 대사 소환",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이란 혁명수비대 연루",
+          "d": "영국 언론과 미국 국무부는 이란 혁명수비대가 테러 모의에 연루된 것으로 파악했습니다 (가디언·미 국무부)."
+        },
+        {
+          "t": "MI5 경고",
+          "d": "영국 정보기관 수장은 냉전 시대보다 더 많은 국가적 위협에 대응하고 있다고 밝혔습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국 정부의 이란 대사 소환",
+        "영국·미국의 이란 연루 규탄 성명"
+      ],
+      "unconfirmed": [
+        "이란 측의 공식 반응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "The Guardian",
+        "The Telegraph",
+        "U.S. Department of State (.gov)",
+        "2026.10.13 21:37 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국 정부, 이란의 테러 모의 연루 규탄 및 이란 대사 소환 (BBC·가디언)\n\n· 영국 정보기관 수장은 냉전 때보다 더 많은 국가적 위협에 대응하고 있다고 밝혔습니다 (BBC)\n· 미국 국무부와 영국 언론은 이란 혁명수비대의 연루 가능성을 제기했습니다 (가디언·미 국무부)\n\n출처: BBC·가디언·미 국무부 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 정부가 이란의 테러 모의 연루를 규탄하며 대사를 소환했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언 등은 이란 혁명수비대가 이번 위협에 연루된 것으로 파악했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "영국 정보기관 수장은 냉전 시대보다 더 많은 국가적 위협에 대응하고 있다고 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란 측의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 영국의 이번 조치에 대해 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "영국이 [[이란]] 대사를\n소환한 이유는?",
+  "broll": [
+    "government building exterior",
+    "london street flag"
+  ],
+  "place_en": "London, United Kingdom"
+}

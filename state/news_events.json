@@ -2545,5 +2545,15 @@
     "at": 1791891092.1073406,
     "country": "독일",
     "category": "사고"
+  },
+  {
+    "event_key": "uk-iran-raf-fairford-terror-plot",
+    "topic": "영국, 이란의 테러 모의 연루 규탄 이란 대사 소환",
+    "slug": "2026-10-13-news-uk-iran-raf-fairford-terror-plot",
+    "cluster": "CBMiXkFVX3lxTE0zb2tsTFBVeFByajFIM05IU2RqVjFNSnZMclM1eUJlREJaSXBtOW02RWRSWDBCbzFYM19IeXFrd2tCWlgxOWdCU2RjTUZfdlM1VVQ2bEppbDlRcUdXMEE",
+    "badge": "breaking",
+    "at": 1791895030.5002222,
+    "country": "영국",
+    "category": "국제"
   }
 ]
