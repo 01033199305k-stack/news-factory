@@ -13951,5 +13951,55 @@
     "video": null,
     "status": "done",
     "at": 1791882826
+  },
+  {
+    "slug": "2026-10-13-news-delta-flight-ben-gurion-bomb-threat-2026",
+    "event_ms": 1791871533000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘 공항 도착 델타 항공기 폭탄 위협으로 격리\n\n· 익명의 폭탄 위협 뒤 항공기가 격리됐습니다\n· 수색을 거쳐 안전에는 이상이 없는 것으로 확인됐습니다\n\n출처: 외신 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "이스라엘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18426841144150258",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DebW-woFhBA",
+        "kind": "carousel",
+        "at": 1791879419
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791879539
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791879539
+      },
+      "instagram": {
+        "failed": "POST 17841426303658748/media_publish → 403: Application request limit reached",
+        "at": 1791884207
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": null,
+    "status": "done",
+    "at": 1791884207
   }
 ]
