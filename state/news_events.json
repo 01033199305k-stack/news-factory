@@ -2525,5 +2525,15 @@
     "at": 1791879375.6076748,
     "country": "이스라엘",
     "category": "사고"
+  },
+  {
+    "event_key": "kyiv_missile_attack_oct_2026",
+    "topic": "우크라이나 키이우 공습 경보 없이 미사일 타격",
+    "slug": "2026-10-13-news-kyiv-missile-attack-oct-2026",
+    "cluster": "CBMiigFBVV95cUxNTEJpR01oRHFoV3FYSGl5ZHlEbFNiNGZ3RUZKT1IwZDczbUZlYkt6dGZfMUNTX2hvM2RGTXhNQUhsV2xuem50a253TjlGaG1kMTM5M0RYcTA4QzhsVW5tcW9oZXRldWNJUDFvRzhVVnk5Z25Qay1rWFZMVy1NRGNjSW1waXBLcnJSSnc",
+    "badge": "breaking",
+    "at": 1791890191.335768,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

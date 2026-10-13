@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-13-news-kyiv-missile-attack-oct-2026",
+  "topic": "우크라이나 키이우 공습 경보 없이 미사일 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 19:22 KST",
+  "source": "The Guardian·RTE.ie·The Kyiv Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiigFBVV95cUxNTEJpR01oRHFoV3FYSGl5ZHlEbFNiNGZ3RUZKT1IwZDczbUZlYkt6dGZfMUNTX2hvM2RGTXhNQUhsV2xuem50a253TjlGaG1kMTM5M0RYcTA4QzhsVW5tcW9oZXRldWNJUDFvRzhVVnk5Z25Qay1rWFZMVy1NRGNjSW1waXBLcnJSSnc",
+    "related": [
+      [
+        "Kyiv under missile attack before air raid alert issued",
+        "The Kyiv Independent"
+      ],
+      [
+        "Zelenskyy says Russia ‘did not heed’ Trump’s call for energy ceasefire and gave ‘no early warning’ before strikes on Kyiv – Europe live",
+        "The Guardian"
+      ],
+      [
+        "Ballistic missiles hit Kyiv without air-raid warning: Ukraine's Air Force says no launch information was rece",
+        "Українська правда"
+      ],
+      [
+        "Explosion heard in Kyiv, Ukrainian port struck by drones",
+        "RTE.ie"
+      ],
+      [
+        "Ignat explained why explosions are sometimes heard before an air raid alert is sounded",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "kyiv_missile_attack_oct_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 [[키이우]] 공습\n경보 없이 미사일 타격",
+      "sub": "볼로디미르 젤렌스키 대통령은 러시아가 에너지 휴전 요구를 무시했다고 밝혔습니다",
+      "chips": [],
+      "alt": "우크라이나 키이우 공습 경보 없이 미사일 타격",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미사일 타격",
+          "d": "공습경보가 울리기 전에 탄도미사일이 키이우를 타격했다고 우크라이나 공군이 밝혔습니다 (가디언·우크라인스카 프라우다)."
+        },
+        {
+          "t": "젤렌스키 반응",
+          "d": "볼로디미르 젤렌스키 대통령은 러시아가 사전 경보 없이 공격했다고 전했습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "키이우 미사일 타격",
+        "사전 공습경보 미발령"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "RTE.ie",
+        "The Guardian",
+        "The Kyiv Independent",
+        "UA.NEWS",
+        "Українська правда",
+        "2026.10.13 20:16 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 키이우에 사전 경보 없이 미사일이 떨어졌습니다\n\n· 공습경보가 울리기 전에 탄도미사일이 키이우를 타격했다고 우크라이나 공군이 밝혔습니다 (가디언·우크라인스카 프라우다)\n· 볼로디미르 젤렌스키 대통령은 러시아가 사전 경보 없이 공격했다고 전했습니다 (가디언)\n\n여러분은 이번 러시아의 공격에 대해 어떻게 보십니까?\n\n출처: 가디언·우크라인스카 프라우다·RTE 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 키이우에 사전 경보 없이 미사일이 떨어졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공습경보가 울리기 전에 탄도미사일이 키이우를 타격했다고 가디언 등이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "볼로디미르 젤렌스키 대통령은 러시아가 사전 경보 없이 공격했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 러시아의 공격에 대해 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "우크라이나 [[키이우]]에\n무슨 일이?",
+  "broll": [
+    "city skyline smoke",
+    "missile strike aftermath"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
