@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-13-news-germany-nuremberg-airport-closure-drone-2026",
+  "topic": "독일 뉘른베르크 공항 폐쇄 드론 목격으로 비행 중단",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 19:57 KST",
+  "source": "CNN·Reuters·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilAFBVV95cUxNakt4aV9UeklWZ3FOMFdQUmFYNGRqQWljdURlQlpLbnE3RTcxMjV6bEprSGdmRFAtZUNqSzQyNUs0R3hucWVMTy1PTFFQZXIySVNoM3V1Z1VabGItNUlpVFRydkt5dzBtWjJuWU1RWHpGejZnZHQ4b2kwcGJvazA5ZTlvc2NCVnN6N3ZFamk0SXBVd19q",
+    "related": [
+      [
+        "Airport shut down after 'in-flight emergency' as jets scrambled to escort plane",
+        "The Sun"
+      ],
+      [
+        "Germany shuts down Nuremberg airport amid aviation emergency",
+        "The Independent"
+      ],
+      [
+        "Germany's Nuremberg airport closes due to aviation emergency",
+        "Reuters"
+      ],
+      [
+        "Germany’s Nuremberg airport closes due to aviation emergency",
+        "CNN"
+      ],
+      [
+        "Suspected drone sightings disrupt flights at Germany's Nuremberg Airport",
+        "Anadolu Ajansı"
+      ]
+    ],
+    "event_key": "germany-nuremberg-airport-closure-drone-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "독일 [[뉘른베르크 공항]] 폐쇄\n드론 목격으로 비행 중단",
+      "sub": "전투기 긴급 출동과 함께 항공기 운항 차질 발생",
+      "chips": [
+        {
+          "k": "공항",
+          "v": "폐쇄"
+        },
+        {
+          "k": "원인",
+          "v": "드론 목격"
+        }
+      ],
+      "alt": "독일 뉘른베르크 공항 폐쇄 드론 목격으로 비행 중단",
+      "map": {
+        "lat": 49.453872,
+        "lon": 11.077298,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n뉘른베르크",
+      "video_only": true,
+      "map": {
+        "lat": 49.453872,
+        "lon": 11.077298,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉘른베르크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공항 폐쇄",
+          "d": "독일 뉘른베르크 공항이 비상 사태로 인해 운영을 전면 중단했습니다 (로이터·CNN)."
+        },
+        {
+          "t": "전투기 출동",
+          "d": "항공기를 호위하기 위해 전투기들이 긴급 출동했습니다 (더 선)."
+        },
+        {
+          "t": "드론 목격",
+          "d": "공항 상공에서 의심스러운 드론이 목격되어 항공편 운항에 차질이 빚어졌습니다 (아나돌루 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "뉘른베르크 공항 폐쇄",
+        "비행 중단 및 전투기 출동",
+        "의심스러운 드론 목격"
+      ],
+      "unconfirmed": [
+        "드론의 정확한 소속 및 목적",
+        "공항 운영 재개 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Anadolu Ajansı",
+        "CNN",
+        "Reuters",
+        "The Independent",
+        "The Sun",
+        "2026.10.13 20:31 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 독일 뉘른베르크 공항이 드론 목격과 비상 사태로 폐쇄됐습니다\n\n· 비행 중단 사태 속 전투기들이 긴급 출동했습니다 (더 선)\n· 공항 상공에서 의심스러운 드론이 목격됐습니다 (아나돌루 통신)\n· 항공기 운항이 전면 중단되며 큰 차질이 빚어졌습니다 (로이터·CNN)\n\n출처: 더 선·로이터·CNN·아나돌루 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일 뉘른베르크 공항이 비상 사태로 전면 폐쇄됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 공항 상공에서 의심스러운 드론이 목격됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "더 선은 항공기를 호위하기 위해 전투기들이 긴급 출동했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "드론의 정확한 소속과 공항 운영 재개 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "독일 [[뉘른베르크 공항]]이\n갑자기 폐쇄된 이유는?",
+  "broll": [
+    "airport runway night",
+    "fighter jet flying sky"
+  ],
+  "place_en": "Nuremberg, Germany"
+}

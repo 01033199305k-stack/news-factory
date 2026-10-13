@@ -2535,5 +2535,15 @@
     "at": 1791890191.335768,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "germany-nuremberg-airport-closure-drone-2026",
+    "topic": "독일 뉘른베르크 공항 폐쇄 드론 목격으로 비행 중단",
+    "slug": "2026-10-13-news-germany-nuremberg-airport-closure-drone-2026",
+    "cluster": "CBMilAFBVV95cUxNakt4aV9UeklWZ3FOMFdQUmFYNGRqQWljdURlQlpLbnE3RTcxMjV6bEprSGdmRFAtZUNqSzQyNUs0R3hucWVMTy1PTFFQZXIySVNoM3V1Z1VabGItNUlpVFRydkt5dzBtWjJuWU1RWHpGejZnZHQ4b2kwcGJvazA5ZTlvc2NCVnN6N3ZFamk0SXBVd19q",
+    "badge": "breaking",
+    "at": 1791891092.1073406,
+    "country": "독일",
+    "category": "사고"
   }
 ]

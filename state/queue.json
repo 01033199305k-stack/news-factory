@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "slug": "2026-10-13-news-germany-nuremberg-airport-closure-drone-2026",
+    "event_ms": 1791889020000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 독일 뉘른베르크 공항이 드론 목격과 비상 사태로 폐쇄됐습니다\n\n· 비행 중단 사태 속 전투기들이 긴급 출동했습니다 (더 선)\n· 공항 상공에서 의심스러운 드론이 목격됐습니다 (아나돌루 통신)\n· 항공기 운항이 전면 중단되며 큰 차질이 빚어졌습니다 (로이터·CNN)\n\n출처: 더 선·로이터·CNN·아나돌루 통신 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "독일"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18070556402784771",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DebtVmgFvdX",
+        "kind": "carousel",
+        "at": 1791891142
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791891193
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791891194
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": null
+  }
+]
