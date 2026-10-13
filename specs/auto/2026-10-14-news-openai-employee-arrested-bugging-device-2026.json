@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-14-news-openai-employee-arrested-bugging-device-2026",
+  "topic": "오픈AI 회의실에 도청 장치 사우디 국적 직원 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 05:55 KST",
+  "source": "BBC·The Washington Post·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2anrSAYoBQVVfeXFMTzdwQXJjWlRmTlVDNXhWSzhsOTBHbjJpVENKRXVsUzhOR28zMjhIbGJxRFNtMTVxQVpqZlFscXhFMmx5eFhJcHRiLXJuSkhiQkZRV0tqSENqdE5TMXpxNy02c1pZb1UxNldGUkIzc3lLNTJaN1Q1QzNfVF9MX1N6bzc3dkRkNGQ0WU53",
+    "related": [
+      [
+        "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office",
+        "CNBC"
+      ],
+      [
+        "OpenAI employee arrested by FBI after listening device was found at its office",
+        "The Washington Post"
+      ],
+      [
+        "Saudi national charged with secretly planting recording device in OpenAI office",
+        "BBC"
+      ],
+      [
+        "OpenAI engineer arrested in bugging of executive conference room",
+        "The San Francisco Standard"
+      ],
+      [
+        "Here’s How OpenAI Says It Used AI to Find a Spy Inside Its Company",
+        "Gizmodo"
+      ]
+    ],
+    "event_key": "openai-employee-arrested-bugging-device-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "오픈AI 회의실에 [[도청 장치]]\n사우디 국적 직원 체포",
+      "sub": "임원 회의실에 정교한 녹음 장치 설치한 혐의",
+      "chips": [
+        {
+          "k": "체포 주체",
+          "v": "미 FBI"
+        },
+        {
+          "k": "혐의",
+          "v": "도청 장치 설치"
+        }
+      ],
+      "alt": "오픈AI 회의실에 도청 장치 사우디 국적 직원 체포",
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n샌프란시스코",
+      "video_only": true,
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "샌프란시스코"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "FBI 체포",
+          "d": "미 연방수사국(FBI)이 오픈AI 사무실 내 도청 장치 설치 혐의로 사우디 국적 직원을 체포했습니다(BBC·워싱턴포스트)."
+        },
+        {
+          "t": "임원 회의실 겨냥",
+          "d": "사무실 내 임원 회의실 등에 정교한 녹음 장치가 심겨 있었던 것으로 전해졌습니다(CNBC·샌프란시스코스탠더드)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 국적 오픈AI 직원 체포",
+        "사무실 내 도청 장치 발견"
+      ],
+      "unconfirmed": [
+        "배후 조직 여부 및 정보 유출 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNBC",
+        "Gizmodo",
+        "The San Francisco Standard",
+        "The Washington Post",
+        "2026.10.14 07:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 오픈AI 사무실에 도청 장치를 심은 혐의로 직원이 FBI에 체포됐습니다.\n\n· 사우디 국적의 오픈AI 직원이 임원 회의실 등에 정교한 녹음 장치를 설치한 혐의로 체포됐습니다 (BBC·워싱턴포스트).\n· 녹음 장치가 발견된 것으로 전해졌습니다 (CNBC).\n\n출처: BBC·워싱턴포스트·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "오픈AI 사무실에 도청 장치를 설치한 직원이 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등은 FBI가 사우디 국적의 직원을 체포했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "임원 회의실에 정교한 녹음 장치를 심은 혐의입니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 어떤 정보가 빼돌려졌는지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "오픈AI [[회의실]]에\n도청 장치가?",
+  "broll": [
+    "office building exterior",
+    "conference room empty"
+  ],
+  "place_en": "San Francisco, USA"
+}

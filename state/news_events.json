@@ -2625,5 +2625,15 @@
     "at": 1791911545.5052383,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "openai-employee-arrested-bugging-device-2026",
+    "topic": "오픈AI 회의실에 도청 장치 사우디 국적 직원 체포",
+    "slug": "2026-10-14-news-openai-employee-arrested-bugging-device-2026",
+    "cluster": "CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2anrSAYoBQVVfeXFMTzdwQXJjWlRmTlVDNXhWSzhsOTBHbjJpVENKRXVsUzhOR28zMjhIbGJxRFNtMTVxQVpqZlFscXhFMmx5eFhJcHRiLXJuSkhiQkZRV0tqSENqdE5TMXpxNy02c1pZb1UxNldGUkIzc3lLNTJaN1Q1QzNfVF9MX1N6bzc3dkRkNGQ0WU53",
+    "badge": "breaking",
+    "at": 1791929297.3588965,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]
