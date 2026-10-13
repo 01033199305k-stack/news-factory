@@ -13801,5 +13801,55 @@
     "video": null,
     "status": "done",
     "at": 1791857252
+  },
+  {
+    "slug": "2026-10-13-news-kospi-plunges-sell-sidecar-activated-2026",
+    "event_ms": 1791860945872,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 코스피가 장중 급락하며 두 달 만에 매도 사이드카가 발동됐습니다.\n\n· 코스피 지수가 장중 4%에서 5%대까지 떨어졌습니다 (MBC·조선일보).\n· 장중 지수 6000선이 무너졌습니다 (한겨레·머니투데이).\n· 두 달 만에 매도 사이드카가 발동됐습니다 (MBC).\n\n코스피 급락세, 앞으로 시장에 어떤 영향을 미칠 것으로 보십니까?\n출처: MBC·조선일보·한겨레·머니투데이 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "경제과학",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18493685455098491",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deaz1Keluo6",
+        "kind": "carousel",
+        "at": 1791861002
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791861068
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791861068
+      },
+      "instagram": {
+        "failed": "POST 17841426303658748/media_publish → 403: Application request limit reached",
+        "at": 1791864731
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": null,
+    "status": "done",
+    "at": 1791864731
   }
 ]
