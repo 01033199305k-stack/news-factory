@@ -2555,5 +2555,15 @@
     "at": 1791895030.5002222,
     "country": "영국",
     "category": "국제"
+  },
+  {
+    "event_key": "france-supermarket-cyberattack-fridges",
+    "topic": "프랑스 마트 400여곳서 해킹 냉장고 온도가 50도 치솟아",
+    "slug": "2026-10-13-news-france-supermarket-cyberattack-fridges",
+    "cluster": "CBMiggFBVV95cUxQUklKdUM0aGlIMktIODYwOTZOMHBGTm9PVEpMU2txZlpmQVgzSEh5dnIzbGNqRHFTeXFmQUNGVkNRVEhZOFFLUi1Gek9LN3Bwa1BmaXBKU3BVd1lhTzRuaHF3aVNTTEdOOGxUVlBFaXNTMDVkcURFMVdPLTNZckhxdHFR",
+    "badge": "breaking",
+    "at": 1791897080.9181974,
+    "country": "프랑스",
+    "category": "기타 사건"
   }
 ]
