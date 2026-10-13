@@ -1,94 +1,5 @@
 [
   {
-    "slug": "2026-10-13-usgs-us6000u1wn",
-    "event_ms": 1791847236486,
-    "images": [
-      "01_cover.png",
-      "02_map.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 파나마 인근 규모 6.1 지진\n\n한국 시각 10월 13일 08시 20분, 파나마 Río Grande에서 서쪽 18km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u1wn",
-    "topic_tag": "지진",
-    "hashtags": [
-      "지진",
-      "파나마",
-      "세계뉴스",
-      "속보",
-      "해외뉴스"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_map.jpg",
-      "03_check.jpg",
-      "04_outro.jpg"
-    ],
-    "done": {
-      "threads": {
-        "id": "18045122336818887",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeaboCTD09B",
-        "kind": "carousel",
-        "at": 1791848302
-      },
-      "youtube": {
-        "skipped": "영상 없음",
-        "at": 1791848474
-      },
-      "tiktok": {
-        "skipped": "영상 없음",
-        "at": 1791848474
-      }
-    },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": null
-  },
-  {
-    "slug": "2026-10-13-news-georgia-six-flags-goliath-accident",
-    "event_ms": 1791843125000,
-    "category": "사고",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 조지아주 식스플래그 놀이기구서 사망 사고 발생\n\n· 미국 조지아주 식스플래그 공원 골리아스 탑승 중 추락 사고 발생 (CNN·WSB-TV)\n· 이번 사고로 1명 사망하고 4명 부상 (WSB-TV)\n· 사고 발생 원인과 상세 경위는 아직 확인 안 됨\n\n출처: CNN·ABC7 Los Angeles·WSB-TV 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "사고",
-      "미국"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg"
-    ],
-    "done": {
-      "threads": {
-        "id": "18118510264937846",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/Deabsmnj8aN",
-        "kind": "carousel",
-        "at": 1791848335
-      },
-      "youtube": {
-        "skipped": "영상 없음",
-        "at": 1791848474
-      },
-      "tiktok": {
-        "skipped": "영상 없음",
-        "at": 1791848474
-      }
-    },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": null
-  },
-  {
     "slug": "2026-10-13-news-india-flight-battery-fire-evacuation-2026",
     "event_ms": 1791839820000,
     "category": "사고",
@@ -120,7 +31,7 @@
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": null
   }
