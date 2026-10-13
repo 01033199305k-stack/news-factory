@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-13-news-yemen-saudi-oil-facility-airstrike-2026",
+  "topic": "사우디 주도 연합군, 예멘 사나 유조 시설 공습 후티 반군은 '가혹한 대응' 경고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 22:58 KST",
+  "source": "AP News·Al Jazeera·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB",
+    "related": [
+      [
+        "Saudi-led coalition orders evacuation of Yemen oil facility in Sanaa ahead of operation",
+        "Reuters"
+      ],
+      [
+        "Iran war live: Blasts heard in Sanaa as Houthis threaten ‘harsh’ response",
+        "Al Jazeera"
+      ],
+      [
+        "Saudi Arabia and Yemen’s Houthis Trade Threats Targeting Oil Facilities",
+        "The New York Times"
+      ],
+      [
+        "Saudis and Yemen’s Houthi rebels exchange threats to escalate conflict",
+        "The Hill"
+      ],
+      [
+        "Saudi-led coalition struck oil facilities west of Yemen’s capital, Houthi-run broadcaster says",
+        "AP News"
+      ]
+    ],
+    "event_key": "yemen-saudi-oil-facility-airstrike-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "사우디 주도 연합군, 예멘 사나 유조 시설 공습\n후티 반군은 '가혹한 대응' 경고",
+      "sub": "사우디와 후티 반군 간 갈등 고조",
+      "chips": [
+        {
+          "k": "지역",
+          "v": "예멘 사나"
+        },
+        {
+          "k": "주체",
+          "v": "사우디 연합군"
+        }
+      ],
+      "alt": "사우디 주도 연합군, 예멘 사나 유조 시설 공습 후티 반군은 '가혹한 대응' 경고",
+      "map": {
+        "lat": 15.35,
+        "lon": 44.2,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "예멘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "예멘\n사나",
+      "video_only": true,
+      "map": {
+        "lat": 15.35,
+        "lon": 44.2,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "사나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주민 대피령",
+          "d": "사우디 주도 연합군은 예멘 사나의 유조 시설 대피를 명령했다고 로이터 등이 보도했습니다."
+        },
+        {
+          "t": "반군 반발",
+          "d": "예멘 후티 반군 측은 가혹한 대응을 경고했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 주도 연합군의 사나 유조 시설 공습",
+        "후티 반군의 보복 경고"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 인명 피해 규모와 추가 군사 작전 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "Reuters",
+        "The Hill",
+        "The New York Times",
+        "2026.10.14 01:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 주도 연합군, 예멘 사나 유조 시설 공습\n\n· 사우디 주도 연합군은 예멘 사나의 유조 시설 대피를 명령했습니다 (로이터·AP)\n· 예멘 후티 반군 측은 가혹한 대응을 경고했습니다 (알자지라·뉴욕타임스)\n\n이번 사우디와 예멘 후티 반군의 충돌에 대해 어떻게 보십니까?\n\n출처: 로이터·알자지라·뉴욕타임스·더힐·AP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디 주도 연합군이 예멘 사나의 유조 시설을 공습했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "연합군은 작전을 앞두고 유조 시설 대피를 명령했다고 로이터 통신이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "후티 반군 측은 가혹한 대응을 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 사우디와 후티 반군의 충돌, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "양측 갈등 고조"
+    }
+  ],
+  "hook": "사우디 연합군의\n예멘 [[사나]] 공습",
+  "broll": [
+    "oil facility smoke",
+    "military jet sky"
+  ],
+  "place_en": "Sanaa, Yemen"
+}

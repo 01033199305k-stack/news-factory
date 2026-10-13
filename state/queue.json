@@ -28,10 +28,18 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DecGwMsEWW1",
         "kind": "carousel",
         "at": 1791904465
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791908361
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791908552
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": null
   },
@@ -64,10 +72,18 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DecG06RkU1_",
         "kind": "carousel",
         "at": 1791904503
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791908361
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791908552
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": null
   }

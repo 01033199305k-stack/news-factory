@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-13-news-us-major-banks-earnings-2026",
+  "topic": "미국 대형 은행들 실적 발표 고금리 여파로 JP모건 이익 감소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 22:16 KST",
+  "source": "The Guardian·The New York Times·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilwFBVV95cUxQRWthN0FFWDQyd3RDcEtibDVnM2NwZFYyc1p3WXRXcTlOeFJtQUYyZG5ybExDekhqYTdtYmcybElvQ24zT2RnWWxZa3hxV3hRejlTRWJJN1ZNbkdXeVd5XzJwTWd0VDl3Ym5IVzBmMldPbnJ3N3N3UkFfSFN0dzMtNkRxNl9CYXRzRElZeEVHbnZGSEVjYlZV",
+    "related": [
+      [
+        "Higher Interest Rates Take Bite Out of JPMorgan’s Profits",
+        "The New York Times"
+      ],
+      [
+        "Bank earnings live updates: Citi's call is underway to wrap up a busy morning of reports",
+        "CNBC"
+      ],
+      [
+        "JPMorgan, Wells Fargo, and Citi earnings show consumers holding up despite high rates",
+        "Yahoo Finance"
+      ],
+      [
+        "Big US banks beat earnings forecasts, but JPMorgan falls short",
+        "Euronews.com"
+      ],
+      [
+        "JPMorgan misses profit expectations as bank boss warns of ‘large fiscal deficits’ and ‘sticky inflation’ - as it happened",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "us-major-banks-earnings-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 대형 은행들 실적 발표\n고금리 여파로 JP모건 이익 감소",
+      "sub": "주요 은행 실적 발표",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "JP모건 등 미 대형 은행"
+        },
+        {
+          "k": "원인",
+          "v": "고금리"
+        }
+      ],
+      "alt": "미국 대형 은행들 실적 발표 고금리 여파로 JP모건 이익 감소",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "JP모건 실적 하회",
+          "d": "JP모건은 예상치에 못 미치는 이익을 기록했으며 최고경영자는 대규모 재정 적자와 고물가를 경고했습니다 (가디언·뉴욕타임스)."
+        },
+        {
+          "t": "소비자 상태",
+          "d": "높은 금리 속에서도 미국 소비자들은 버티고 있는 것으로 나타났습니다 (야후파이낸스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 주요 은행들의 분기 실적 발표",
+        "JP모건의 이익 예상치 하회"
+      ],
+      "unconfirmed": [
+        "향후 금리 인하 시점과 경제적 파장"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "Euronews.com",
+        "The Guardian",
+        "The New York Times",
+        "Yahoo Finance",
+        "2026.10.14 01:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 대형 은행들 실적 발표…JP모건 이익 감소\n\n· JP모건은 예상치에 못 미치는 이익을 기록했습니다 (가디언·뉴욕타임스)\n· 은행 최고경영자는 대규모 재정 적자와 고물가를 경고했습니다 (가디언)\n· 높은 금리 속에서도 미국 소비자들은 버티고 있는 것으로 나타났습니다 (야후파이낸스)\n\n미국 대형 은행들의 이번 실적 발표, 어떻게 보십니까?\n\n출처: 뉴욕타임스·CNBC·야후파이낸스·유로뉴스·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 대형 은행들이 실적을 발표한 가운데 JP모건의 이익이 예상치를 밑돌았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "높은 금리의 여파로 이익이 타격을 입었다고 뉴욕타임스가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "다만 고금리 속에서도 미국 소비자들은 버티고 있는 것으로 나타났습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 경제에 미칠 파장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "미국 대형 은행들의 이번 실적 결과, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "미국 은행 실적"
+    }
+  ],
+  "hook": "미국 [[JP모건]] 실적\n기대치 밑돌았다",
+  "broll": [
+    "stock exchange screen",
+    "bank building exterior"
+  ],
+  "place_en": "New York, USA"
+}

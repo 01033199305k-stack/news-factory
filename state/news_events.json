@@ -2585,5 +2585,25 @@
     "at": 1791904403.207364,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "yemen-saudi-oil-facility-airstrike-2026",
+    "topic": "사우디 주도 연합군, 예멘 사나 유조 시설 공습 후티 반군은 '가혹한 대응' 경고",
+    "slug": "2026-10-13-news-yemen-saudi-oil-facility-airstrike-2026",
+    "cluster": "CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB",
+    "badge": "breaking",
+    "at": 1791907860.5068104,
+    "country": "예멘",
+    "category": "국제"
+  },
+  {
+    "event_key": "us-major-banks-earnings-2026",
+    "topic": "미국 대형 은행들 실적 발표 고금리 여파로 JP모건 이익 감소",
+    "slug": "2026-10-13-news-us-major-banks-earnings-2026",
+    "cluster": "CBMilwFBVV95cUxQRWthN0FFWDQyd3RDcEtibDVnM2NwZFYyc1p3WXRXcTlOeFJtQUYyZG5ybExDekhqYTdtYmcybElvQ24zT2RnWWxZa3hxV3hRejlTRWJJN1ZNbkdXeVd5XzJwTWd0VDl3Ym5IVzBmMldPbnJ3N3N3UkFfSFN0dzMtNkRxNl9CYXRzRElZeEVHbnZGSEVjYlZV",
+    "badge": "breaking",
+    "at": 1791907953.050585,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
