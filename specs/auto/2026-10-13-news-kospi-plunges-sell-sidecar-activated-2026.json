@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-13-news-kospi-plunges-sell-sidecar-activated-2026",
+  "topic": "코스피 장중 급락 매도 사이드카 발동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 09:51 KST",
+  "source": "MBC 뉴스·머니투데이·연합뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMidEFVX3lxTE1pWkJ3X3R3RDJSVVpaOVU5OXVsNV9ZWGFhU1kzRTgwMDVvR3RMNEJoazlEME92QnRQMlBrTlpSc1dGOWJJZUdmTXJPNmhDWUZRMVNrT3QtbWVGMzAzUFRlQU1fZUxWbWdHdE9RemJsMGhCcjFS0gF0QVVfeXFMUGQ3QTctNWRfT240UVVaeGFEUTVYMDg2YmRCY01ZNlUxRnYyc041VlhTazM0aFFEZy1tLXdFYkxTdXktTmZ2RElPSGxESDJVeXpvS1Qtb2Rzd0p4Mlo5S2xreEI0NmtDWWNYQk1iemFkTXB6WHE",
+    "related": [
+      [
+        "[속보] 코스피, 장중 4%대 급락‥두 달 만에 '매도 사이드카'",
+        "MBC 뉴스"
+      ],
+      [
+        "코스피, 장중 5%대 급락…매도 사이드카 발동",
+        "조선일보"
+      ],
+      [
+        "'검은 화요일' 코스피 추락에 악소리…닷새만에 '7천피→5천피'",
+        "연합뉴스"
+      ],
+      [
+        "코스피, 中 CXMT 추격에 6000도 깨졌다…개미 투자 전략은? - 머니투데이",
+        "머니투데이"
+      ],
+      [
+        "[속보] 코스피 6000선 무너져…‘폭락의 달’ 7월 수준 복귀",
+        "한겨레"
+      ]
+    ],
+    "event_key": "kospi-plunges-sell-sidecar-activated-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "코스피 장중 급락\n[[매도 사이드카]] 발동",
+      "sub": "지수 6000선 무너지며 두 달 만에 매도 사이드카 발동",
+      "chips": [
+        {
+          "k": "조치",
+          "v": "매도 사이드카"
+        }
+      ],
+      "alt": "코스피 장중 급락 매도 사이드카 발동",
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울",
+      "video_only": true,
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "장중 4~5%대 급락",
+          "d": "코스피 지수가 장중 4%에서 5%대까지 급락했다고 MBC와 조선일보가 보도했습니다."
+        },
+        {
+          "t": "6000선 붕괴",
+          "d": "지수 6000선이 무너져 내렸다고 한겨레와 머니투데이가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "코스피 매도 사이드카 발동",
+        "코스피 6000선 붕괴"
+      ],
+      "unconfirmed": [
+        "장 마감 최종 낙폭",
+        "단기 반등 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "머니투데이",
+        "연합뉴스",
+        "조선일보",
+        "한겨레",
+        "2026.10.13 12:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 코스피가 장중 급락하며 두 달 만에 매도 사이드카가 발동됐습니다.\n\n· 코스피 지수가 장중 4%에서 5%대까지 떨어졌습니다 (MBC·조선일보).\n· 장중 지수 6000선이 무너졌습니다 (한겨레·머니투데이).\n· 두 달 만에 매도 사이드카가 발동됐습니다 (MBC).\n\n코스피 급락세, 앞으로 시장에 어떤 영향을 미칠 것으로 보십니까?\n출처: MBC·조선일보·한겨레·머니투데이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "코스피가 장중 급락하며 매도 사이드카가 발동됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "MBC와 조선일보는 지수가 장중 4%에서 5%대까지 떨어졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "지수 6000선도 함께 무너졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "장 마감까지 최종 낙폭이 어디까지 이를지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 증시 급락, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[코스피]] 급락\n무슨 일이?",
+  "broll": [
+    "stock exchange screen",
+    "financial trading floor"
+  ],
+  "place_en": "Seoul, South Korea"
+}

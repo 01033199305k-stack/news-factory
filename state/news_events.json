@@ -2485,5 +2485,15 @@
     "at": 1791850075.3262448,
     "country": "인도",
     "category": "사고"
+  },
+  {
+    "event_key": "kospi-plunges-sell-sidecar-activated-2026",
+    "topic": "코스피 장중 급락 매도 사이드카 발동",
+    "slug": "2026-10-13-news-kospi-plunges-sell-sidecar-activated-2026",
+    "cluster": "CBMidEFVX3lxTE1pWkJ3X3R3RDJSVVpaOVU5OXVsNV9ZWGFhU1kzRTgwMDVvR3RMNEJoazlEME92QnRQMlBrTlpSc1dGOWJJZUdmTXJPNmhDWUZRMVNrT3QtbWVGMzAzUFRlQU1fZUxWbWdHdE9RemJsMGhCcjFS0gF0QVVfeXFMUGQ3QTctNWRfT240UVVaeGFEUTVYMDg2YmRCY01ZNlUxRnYyc041VlhTazM0aFFEZy1tLXdFYkxTdXktTmZ2RElPSGxESDJVeXpvS1Qtb2Rzd0p4Mlo5S2xreEI0NmtDWWNYQk1iemFkTXB6WHE",
+    "badge": "brief",
+    "at": 1791860945.872896,
+    "country": "대한민국",
+    "category": "경제·과학"
   }
 ]
