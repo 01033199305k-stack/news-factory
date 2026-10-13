@@ -1,7 +1,7 @@
 [
   {
-    "slug": "2026-10-13-news-ukraine-drone-strike-yandex-data-center",
-    "event_ms": 1791898051000,
+    "slug": "2026-10-14-news-houthi-strike-riyadh-saudi-arabia-2026",
+    "event_ms": 1791907953000,
     "category": "국제",
     "images": [
       "01_cover.png",
@@ -9,82 +9,76 @@
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 우크라이나 드론 공습에 러시아 얀덱스 데이터센터 마비\n\n· 우크라이나의 드론 공격으로 세 번째 러시아 얀덱스 데이터 허브가 타격을 입었습니다 (Bloomberg)\n· 러시아 인터넷망 위기로 완전한 복구에는 수개월이 걸릴 것으로 예상됩니다 (Meduza)\n\n이번 우크라이나의 데이터센터 타격 조치를 어떻게 보십니까?\n\n출처: Bloomberg·Meduza·Reuters 보도 종합",
+    "text": "[속보] 후티 반군, 사우디 리야드 공격\n미국과 사우디에 안보 딜레마\n\n· 사우디 경고 시스템은 치명적인 공항 공격 전 침묵을 지켰습니다 (로이터)\n· 이란 연계 무장 세력의 공격이 트럼프 대통령에게 어려운 딜레마를 안겨주고 있습니다 (CBS뉴스)\n\n이번 중동 지역의 군사적 충돌 상황에 대해 어떻게 생각하십니까?\n출처: 워싱턴포스트·CBS뉴스·로이터·WSJ·블룸버그 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
       "국제",
-      "러시아"
+      "사우디아라비아"
     ],
     "uploaded": [
       "01_cover.jpg",
       "02_points.jpg",
       "03_check.jpg",
-      "04_outro.jpg"
+      "04_outro.jpg",
+      "video.mp4"
     ],
     "done": {
       "threads": {
-        "id": "18347586604265962",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DecGwMsEWW1",
+        "id": "18140082154624881",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DecUWjiCf4n",
         "kind": "carousel",
-        "at": 1791904465
+        "at": 1791911608
       },
-      "youtube": {
-        "skipped": "영상 없음",
-        "at": 1791908361
-      },
-      "tiktok": {
-        "skipped": "영상 없음",
-        "at": 1791908552
+      "instagram": {
+        "id": "18076499903456979",
+        "permalink": "https://www.instagram.com/reel/DecVACTgM96/",
+        "kind": "reel",
+        "at": 1791911959
       }
     },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": null
+    "attempts": {},
+    "video": "video.mp4"
   },
   {
-    "slug": "2026-10-13-news-white-house-asks-guilfoyle-resign",
-    "event_ms": 1791900240000,
-    "category": "국제",
+    "slug": "2026-10-14-news-us-stock-market-chip-selloff-2026",
+    "event_ms": 1791909480000,
+    "category": "경제·과학",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 백악관, 킴벌리 길포일 주그리스 대사 사임 요구\n\n· 백악관은 품위 손상 의혹을 받는 킴벌리 길포일 주그리스 미국 대사에게 사임을 요구했습니다 (NBC News)\n\n미국의 이번 대사 사임 요구 조치를 어떻게 보십니까?\n\n출처: NBC News·The New York Times·CNN·Fox News·WFLA 보도 종합",
+    "text": "[속보] 미국 증시, 대형 은행 실적에도 반도체주 약세에 하락\n\n· 골드만삭스 등 주요 금융사들은 탄탄한 실적을 기록했습니다 (마켓워치)\n· AI 관련 우려와 함께 반도체 관련 종목들의 매도세가 깊어졌습니다 (블룸버그)\n\n이번 미 증시의 하락세가 글로벌 경제에 어떤 영향을 미칠 것으로 보십니까?\n출처: 마켓워치·CNBC·로이터·블룸버그 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
-      "국제",
+      "경제과학",
       "미국"
     ],
     "uploaded": [
       "01_cover.jpg",
       "02_points.jpg",
       "03_check.jpg",
-      "04_outro.jpg"
+      "04_outro.jpg",
+      "video.mp4"
     ],
     "done": {
       "threads": {
-        "id": "18122522722931867",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DecG06RkU1_",
+        "id": "18139364779627142",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DecUcTgiRlU",
         "kind": "carousel",
-        "at": 1791904503
+        "at": 1791911646
       },
-      "youtube": {
-        "skipped": "영상 없음",
-        "at": 1791908361
-      },
-      "tiktok": {
-        "skipped": "영상 없음",
-        "at": 1791908552
+      "instagram": {
+        "id": "18112646720133024",
+        "permalink": "https://www.instagram.com/reel/DecVGJJCDO-/",
+        "kind": "reel",
+        "at": 1791912007
       }
     },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": null
+    "attempts": {},
+    "video": "video.mp4"
   }
 ]

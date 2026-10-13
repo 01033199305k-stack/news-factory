@@ -14311,5 +14311,105 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791908817
+  },
+  {
+    "slug": "2026-10-13-news-ukraine-drone-strike-yandex-data-center",
+    "event_ms": 1791898051000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라이나 드론 공습에 러시아 얀덱스 데이터센터 마비\n\n· 우크라이나의 드론 공격으로 세 번째 러시아 얀덱스 데이터 허브가 타격을 입었습니다 (Bloomberg)\n· 러시아 인터넷망 위기로 완전한 복구에는 수개월이 걸릴 것으로 예상됩니다 (Meduza)\n\n이번 우크라이나의 데이터센터 타격 조치를 어떻게 보십니까?\n\n출처: Bloomberg·Meduza·Reuters 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18347586604265962",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DecGwMsEWW1",
+        "kind": "carousel",
+        "at": 1791904465
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791908361
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791908552
+      },
+      "instagram": {
+        "failed": "POST 17841426303658748/media_publish → 403: Application request limit reached",
+        "at": 1791911895
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": null,
+    "status": "done",
+    "at": 1791911895
+  },
+  {
+    "slug": "2026-10-13-news-white-house-asks-guilfoyle-resign",
+    "event_ms": 1791900240000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 백악관, 킴벌리 길포일 주그리스 대사 사임 요구\n\n· 백악관은 품위 손상 의혹을 받는 킴벌리 길포일 주그리스 미국 대사에게 사임을 요구했습니다 (NBC News)\n\n미국의 이번 대사 사임 요구 조치를 어떻게 보십니까?\n\n출처: NBC News·The New York Times·CNN·Fox News·WFLA 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18122522722931867",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DecG06RkU1_",
+        "kind": "carousel",
+        "at": 1791904503
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791908361
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791908552
+      },
+      "instagram": {
+        "failed": "POST 17841426303658748/media_publish → 403: Application request limit reached",
+        "at": 1791911923
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": null,
+    "status": "done",
+    "at": 1791911923
   }
 ]

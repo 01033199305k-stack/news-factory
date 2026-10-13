@@ -1,0 +1,151 @@
+{
+  "slug": "2026-10-14-news-us-stock-market-chip-selloff-2026",
+  "topic": "미국 증시, 대형 은행 실적에도 반도체주 약세에 하락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 01:38 KST",
+  "source": "Bloomberg.com·Reuters·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxNY3ZTbU1IQl9LWk1YdG8xYmIwd1Q3UEJXdlRRdnc3RWxRTThUX0g0Tm0xV0I3eFBOeFFBZHVCS2h6YVYya3pROGN3cWJiVWRmRGtPd0txc1pNaW5KeUp2ZlZrZ0FoanJZNjVJR2RXbmc5UklsT0RSNjNjaUdUV1dVdlNKelJVSHI5czh3U1RPbUpoVkpSTzUzQ3lweHQ1cWJxbWxOQ1FiS19fZzh3TkRZS3N3WFBmY3FxSE43cXJ6V240enc4NWV3",
+    "related": [
+      [
+        "Stock Market Today: Dow falls 170 points despite strong Goldman Sachs earnings; chip selloff deepens",
+        "MarketWatch"
+      ],
+      [
+        "Stocks fall after bank earnings deluge; chipmakers slide: Live updates",
+        "CNBC"
+      ],
+      [
+        "Strong profit reports from Goldman Sachs and others support Wall Street as chip stocks drop",
+        "Pittsburgh Post-Gazette"
+      ],
+      [
+        "Stocks dip on AI jitters, big banks kick off US earnings season",
+        "Reuters"
+      ],
+      [
+        "Stock Losses Deepen on AI Trade, Treasuries Rally: Markets Wrap",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "us-stock-market-chip-selloff-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 증시, 대형 은행 실적에도\n[[반도체]]주 약세에 하락",
+      "sub": "골드만삭스 등은 호실적을 기록했습니다",
+      "chips": [
+        {
+          "k": "지수",
+          "v": "하락"
+        },
+        {
+          "k": "업종",
+          "v": "반도체"
+        }
+      ],
+      "alt": "미국 증시, 대형 은행 실적에도 반도체주 약세에 하락",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "골드만삭스 실적",
+          "d": "골드만삭스 등 주요 금융사들은 탄탄한 실적 보고서를 발표했다고 마켓워치가 전했습니다."
+        },
+        {
+          "t": "반도체 하락",
+          "d": "AI 관련 우려와 함께 반도체 관련 종목들의 매도세가 깊어졌다고 블룸버그통신이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 증시 하락세",
+        "골드만삭스 등 은행권 호실적",
+        "반도체 및 AI 관련주 주가 하락"
+      ],
+      "unconfirmed": [
+        "향후 증시 반등 시점",
+        "추가 금리 변동 영향",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "MarketWatch",
+        "Pittsburgh Post-Gazette",
+        "Reuters",
+        "2026.10.14 02:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 증시, 대형 은행 실적에도 반도체주 약세에 하락\n\n· 골드만삭스 등 주요 금융사들은 탄탄한 실적을 기록했습니다 (마켓워치)\n· AI 관련 우려와 함께 반도체 관련 종목들의 매도세가 깊어졌습니다 (블룸버그)\n\n이번 미 증시의 하락세가 글로벌 경제에 어떤 영향을 미칠 것으로 보십니까?\n출처: 마켓워치·CNBC·로이터·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 증시가 대형 은행들의 호실적에도 불구하고 반도체주 약세로 하락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "마켓워치는 골드만삭스 등이 탄탄한 이익을 기록했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "블룸버그통신은 인공지능 관련 우려로 반도체 종목들의 매도세가 깊어졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 증시의 방향성과 정확한 지수 변동 폭은 아직 불투명합니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 뉴욕 증시의 조정을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "증시 조정 전망은?"
+    }
+  ],
+  "hook": "미국 증시가 [[반도체]]주\n약세로 하락한 이유는?",
+  "broll": [
+    "stock exchange trading floor",
+    "financial chart red arrows"
+  ],
+  "place_en": "New York, USA"
+}
