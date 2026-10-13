@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-13-news-black-sea-ship-attack-bulgaria",
+  "topic": "흑해서 선박 공격받아 사망 1명·부상 7명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 14:33 KST",
+  "source": "Al Jazeera·BBC·Euronews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMioAFBVV95cUxOSnZnRUxZMGpxbDRKYm9iT21oRTVEV250YWxKM1g4QThNX2UtejJiYjgzWnBpNDBYTnZ1T0tqS2pQRFdTR1ZNZk1PVUp6SjhTUlJHMmJhTzQwNGc4TUxNTnMyVXJuRDdnRWFPZExHUmtFUWJmUWx2QkItU2c0VFFxTlFzOXZlcXRBcmMzLU1MbkZMSUNzQXVsMktKdlpzeTct",
+    "related": [
+      [
+        "Breaking news. Bulgaria to summon Russian ambassador after ships hit in Black Sea, PM Radev says",
+        "Euronews.com"
+      ],
+      [
+        "Ship sinks and crew missing after Black Sea drone attack",
+        "BBC"
+      ],
+      [
+        "Syria calls for independent probe into sinking of ship in Black Sea",
+        "Al Jazeera"
+      ],
+      [
+        "Below the Threshold of War: How Bulgaria Counts the Attacks It Has Already Absorbed",
+        "Novinite.com"
+      ],
+      [
+        "Russians attack civilian vessel in Black Sea, killing one and injuring seven",
+        "Українська правда"
+      ]
+    ],
+    "event_key": "black-sea-ship-attack-bulgaria"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "흑해서 선박 공격받아\n사망 [[1명]]·부상 7명",
+      "sub": "불가리아, 러시아 대사 소환 방침",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "7명"
+        }
+      ],
+      "alt": "흑해서 선박 공격받아 사망 1명·부상 7명",
+      "map": {
+        "lat": 43.872824,
+        "lon": 33.9938077,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "불가리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "불가리아\n흑해",
+      "video_only": true,
+      "map": {
+        "lat": 43.872824,
+        "lon": 33.9938077,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "흑해"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "불가리아 대사 소환",
+          "d": "불가리아는 흑해 선박 피격 사건과 관련해 러시아 대사를 소환할 예정이라고 밝혔습니다 (Euronews·BBC)."
+        },
+        {
+          "t": "실종자 발생",
+          "d": "흑해 드론 공격으로 선박이 침몰하고 승조원이 실종됐습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명 (우크라이나 프라우다)",
+        "부상 7명 (우크라이나 프라우다)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 실종자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Euronews.com",
+        "Novinite.com",
+        "Українська правда",
+        "2026.10.13 16:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 흑해서 선박 공격받아 사망 1명·부상 7명 (우크라이나 프라우다)\n\n· 흑해 드론 공격으로 선박 침몰과 승조원 실종 발생 (BBC)\n· 불가리아, 러시아 대사 소환 방침 발표 (Euronews)\n\n여러분은 흑해 긴장 고조 상황에 대해 어떻게 보십니까?\n출처: Euronews·BBC·우크라이나 프라우다 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "흑해에서 민간 선박이 공격받아 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "우크라이나 프라우다는 부상자도 7명 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "불가리아는 러시아 대사를 소환하겠다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 실종자 수는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 흑해 사태, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "흑해에서 [[선박]]이\n공격받은 이유는?",
+  "broll": [
+    "cargo ship sea",
+    "black sea water"
+  ],
+  "place_en": "Black Sea"
+}

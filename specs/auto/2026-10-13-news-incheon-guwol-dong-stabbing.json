@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-13-news-incheon-guwol-dong-stabbing",
+  "topic": "인천 상가서 흉기 난동 1명 심정지·다수 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.13 14:31 KST",
+  "source": "KBS 뉴스·뉴스1·뉴시스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1YcVZHR0tZVENhbk0yb0xLVW4zTGIwWTJYczBYRzZJdzc0SHVhTUR3ZGN1NzlpRmRzVzYzOGlaajRlNkgtbUFobWpsaEctc3lvMGNJemZWcV8yRW8",
+    "related": [
+      [
+        "전자발찌 차고 인천 구월동 상가서 ‘흉기 난동’…“심정지 1명·부상 7명”",
+        "KBS 뉴스"
+      ],
+      [
+        "인천 구월동 홈플러스서 전자발찌 찬 60대 칼부림…1명 심정지·8명 부상(종합)",
+        "뉴스1"
+      ],
+      [
+        "[속보] 홈플러스 \"칼부림 사건 무관...사건 발생 지점 2층 식당가\" - 머니투데이",
+        "머니투데이"
+      ],
+      [
+        "[단독]인천 칼부림 60대, 최근 흉기 소지 혐의로 경찰 조사받아",
+        "뉴시스"
+      ],
+      [
+        "[속보] 인천 구월동 CGV서 흉기 난동 용의자 검거",
+        "한국경제"
+      ]
+    ],
+    "event_key": "incheon-guwol-dong-stabbing"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인천 상가서 [[흉기 난동]]\n1명 심정지·다수 부상",
+      "sub": "전자발찌 착용 60대 용의자 검거",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "7~8명"
+        }
+      ],
+      "alt": "인천 상가서 흉기 난동 1명 심정지·다수 부상",
+      "map": {
+        "lat": 37.456,
+        "lon": 126.7052,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n인천",
+      "video_only": true,
+      "map": {
+        "lat": 37.456,
+        "lon": 126.7052,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "인천"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "용의자 검거",
+          "d": "인천 구월동에서 흉기를 휘두른 60대 용의자가 검거됐습니다 (한국경제·뉴스1)."
+        },
+        {
+          "t": "전자발찌 착용",
+          "d": "용의자는 전자발찌를 찬 상태였던 것으로 확인됐습니다 (KBS·뉴스1)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "부상 7~8명 (KBS·뉴스1)"
+      ],
+      "unconfirmed": [
+        "심정지 환자 상태",
+        "정확한 범행 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "뉴스1",
+        "뉴시스",
+        "머니투데이",
+        "한국경제",
+        "2026.10.13 16:20 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인천 상가서 흉기 난동 1명 심정지·다수 부상 (KBS·뉴스1)\n\n· 전자발찌 착용한 60대 용의자 검거 (한국경제·뉴스1)\n· 상가 2층 식당가 등에서 범행 발생 (머니투데이)\n\n출처: KBS·뉴스1·한국경제 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인천의 한 상가에서 60대가 흉기를 휘둘러 여러 명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "KBS는 1명이 심정지 상태에 빠졌고 7명이 부상했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "용의자는 전자발찌를 찬 상태였으며 경찰에 붙잡혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 경위는 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "인천 상가에서 발생한\n[[흉기 난동]] 사건",
+  "broll": [
+    "police tape street",
+    "ambulance lights night"
+  ],
+  "place_en": "Incheon, South Korea"
+}
