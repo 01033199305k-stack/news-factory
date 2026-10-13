@@ -28,10 +28,14 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DeafHD9Gaf8",
         "kind": "carousel",
         "at": 1791850130
+      },
+      "instagram": {
+        "failed": "POST 17841426303658748/media_publish → 403: Application request limit reached",
+        "at": 1791857134
       }
     },
     "attempts": {
-      "instagram": 2
+      "instagram": 3
     },
     "video": null
   }
