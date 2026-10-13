@@ -13851,5 +13851,105 @@
     "video": null,
     "status": "done",
     "at": 1791864731
+  },
+  {
+    "slug": "2026-10-13-news-black-sea-ship-attack-bulgaria",
+    "event_ms": 1791869625000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 흑해서 선박 공격받아 사망 1명·부상 7명 (우크라이나 프라우다)\n\n· 흑해 드론 공격으로 선박 침몰과 승조원 실종 발생 (BBC)\n· 불가리아, 러시아 대사 소환 방침 발표 (Euronews)\n\n여러분은 흑해 긴장 고조 상황에 대해 어떻게 보십니까?\n출처: Euronews·BBC·우크라이나 프라우다 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "불가리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18142463050590860",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DebQmFqmzIV",
+        "kind": "carousel",
+        "at": 1791876072
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791876203
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791876203
+      },
+      "instagram": {
+        "failed": "POST 17841426303658748/media_publish → 403: Application request limit reached",
+        "at": 1791882791
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": null,
+    "status": "done",
+    "at": 1791882791
+  },
+  {
+    "slug": "2026-10-13-news-incheon-guwol-dong-stabbing",
+    "event_ms": 1791869460000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 인천 상가서 흉기 난동 1명 심정지·다수 부상 (KBS·뉴스1)\n\n· 전자발찌 착용한 60대 용의자 검거 (한국경제·뉴스1)\n· 상가 2층 식당가 등에서 범행 발생 (머니투데이)\n\n출처: KBS·뉴스1·한국경제 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "총격테러",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18439993087177549",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DebQq5wmzAP",
+        "kind": "carousel",
+        "at": 1791876108
+      },
+      "youtube": {
+        "skipped": "영상 없음",
+        "at": 1791876203
+      },
+      "tiktok": {
+        "skipped": "영상 없음",
+        "at": 1791876203
+      },
+      "instagram": {
+        "failed": "POST 17841426303658748/media_publish → 403: Application request limit reached",
+        "at": 1791882826
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": null,
+    "status": "done",
+    "at": 1791882826
   }
 ]
