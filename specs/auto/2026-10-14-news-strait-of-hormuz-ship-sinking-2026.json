@@ -1,0 +1,147 @@
+{
+  "slug": "2026-10-14-news-strait-of-hormuz-ship-sinking-2026",
+  "topic": "호르무즈 해협서 선박 피격… 컨테이너선 침몰 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 20:51 KST",
+  "source": "NDTV·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi1gFBVV95cUxPYWRvUlkzaVJ2NkowN0xDQ0FEWUZkMjdkbmlVWElycXZoX1JRTkdseVAzMmhTY3hUX1R6Qk1rVzlTaXRQR1U1RmozU3VNQlFvdHd2ODhWUjNxOHVJbWNEeHVCR3N0UzJBWlQ2Sy1KeHppTWhRTEZRb0hqS1hSYTNFcVFpVEwzbkZidTNNQ2xRTFA1ZU9EWDdoRFlpYjhWdW9tUEVHMVV2bFB5VmtaZGFRei01VVctWVJVZXRWTk1CZHM0U285Q0QyWnpCNUxYTGs5bEFnUUJR0gHcAUFVX3lxTE56Z2tjTm9CcHBlQkowRGc2S1FDcklQNlVqUEp0RHZLOTJGUmVXNmllQ1RYdE5OVVc4QVBvazZpd01IQmlwbHh4SzhkT292YWd5SlhnTWlod1ZRSlVVVmhpRWJwRmlkcUFjS3ZtbEtjZnpnS2gtRUNZS2ozY0tDMXM3bmdFR2tVOVAyeGxMZUpzYng5RnVuM0Z2bTZTcTFtU19YdHFpX085R19MSTlGeEdrRDhoc1JWTDRRSmpIcWNTRUNyamNXbmROMl9ab0pMWVF6SGdpbG1scG1abDQ",
+    "related": [
+      [
+        "US-Iran War Live News Updates: Ship carrying over 2,500 containers sinks after naval mine strike near Hormuz, Iran says",
+        "The Indian Express"
+      ],
+      [
+        "Iran shifting tactics to step up attacks on shipping before US vote, officials say",
+        "Reuters"
+      ],
+      [
+        "US Iran War Live Updates: Ship carrying 2,500 containers sinks after hitting mine near Hormuz",
+        "The Times of India"
+      ],
+      [
+        "Two Ships Hit By Missiles In Strait Of Hormuz: UK Maritime Agency",
+        "NDTV"
+      ],
+      [
+        "Iran Guards say struck vessel in Strait of Hormuz",
+        "The Hindu"
+      ]
+    ],
+    "event_key": "strait-of-hormuz-ship-sinking-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "호르무즈 해협서 선박 피격…\n컨테이너선 [[침몰]] 발생",
+      "sub": "이란, 호르무즈 해협 선박 공격 사실 확인",
+      "chips": [
+        {
+          "k": "컨테이너선",
+          "v": "2500개"
+        }
+      ],
+      "alt": "호르무즈 해협서 선박 피격… 컨테이너선 침몰 발생",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기뢰 충돌",
+          "d": "이란은 컨테이너선이 기뢰와 충돌해 침몰했다고 밝혔습니다."
+        },
+        {
+          "t": "추가 피격",
+          "d": "영국 해사무역기구는 호르무즈 해협에서 선박 2척이 미사일에 피격됐다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "컨테이너선 기뢰 충돌 및 침몰",
+        "호르무즈 해협 선박 피격",
+        "이란 발표"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 인명 피해 규모",
+        "추가 공격 발생 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "NDTV",
+        "Reuters",
+        "The Hindu",
+        "The Indian Express",
+        "The Times of India",
+        "2026.10.14 21:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 호르무즈 해협서 컨테이너선이 기뢰와 충돌해 침몰했습니다\n\n· 이란은 호르무즈 해협에서 컨테이너선이 기뢰에 부딪혀 침몰했다고 밝혔습니다\n· 영국 해사무역기구는 호르무즈 해협에서 선박 2척이 미사일에 피격됐다고 전했습니다 (NDTV)\n\n출처: The Indian Express·The Times of India·NDTV·The Hindu 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 컨테이너선이 기뢰와 충돌해 침몰했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란 측은 이같이 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "영국 해사무역기구는 호르무즈 해협에서 선박 2척이 미사일에 피격됐다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해 규모와 추가 피해 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 호르무즈 해협 사태를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분의 생각은?"
+    }
+  ],
+  "hook": "호르무즈 해협서\n[[컨테이너선]] 피격",
+  "broll": [
+    "oil tanker sea",
+    "cargo ship ocean"
+  ],
+  "place_en": "Strait of Hormuz"
+}
