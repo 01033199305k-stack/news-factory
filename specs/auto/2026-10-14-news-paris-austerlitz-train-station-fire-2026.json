@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-14-news-paris-austerlitz-train-station-fire-2026",
+  "topic": "파리 주요 기차역 인근 대형 화재 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 17:38 KST",
+  "source": "Daily Express·Daily Mirror·Leeds Live 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxPODdFZnNKNllQLXF3OHRJTjhxa2xfd1RPX3VGQmVoQXlrN1oyVV9qY3ZoYnI5T1FBVmd1d0NYVzNfeHY1WEpvM3VZOHJEODJnbkZPMjE2N05GLWV5ZHlrRllySXVUQThXZVBoc2dtNDN4eFJ3TEVDWHpMRnZwc2tqNWVaRdIBiAFBVV95cUxNRnRQZjVBSjVTOHc2UHoyY1NvejhZemFhRDczOGlBZkxWNTdRc1QtNDl5RFVLaGlCbWNKbERYSWM2Yk9NZG9PVHhvakdvR1c1SGdnT1lGaEZJRmR6Y2Q1aG80TlNQWTRRaFVPZkFBODlDQzlzOWZlXy02Wkp4NTJ3V1pGTmtoNFVL",
+    "related": [
+      [
+        "Paris fire LIVE: Austerlitz train station blaze as smoke seen for miles in France",
+        "Daily Express"
+      ],
+      [
+        "Huge fire erupts near Paris train station as black smoke billows into sky & 100 firefighters race to scene",
+        "The Sun"
+      ],
+      [
+        "Paris fire live: Huge blaze erupts near major train station as smoke fills sky",
+        "Daily Mirror"
+      ],
+      [
+        "Firefighters battle huge blaze near Paris train station as smoke covers city",
+        "Leeds Live"
+      ]
+    ],
+    "event_key": "paris-austerlitz-train-station-fire-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파리 주요 [[기차역]] 인근\n대형 화재 발생",
+      "sub": "오스테를리츠역 주변 검은 연기 확산·소방관 100명 출동",
+      "chips": [
+        {
+          "k": "출동 인원",
+          "v": "100여 명"
+        }
+      ],
+      "alt": "파리 주요 기차역 인근 대형 화재 발생",
+      "map": {
+        "lat": 48.8417775,
+        "lon": 2.3661406,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8417775,
+        "lon": 2.3661406,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "소방관 100명 출동",
+          "d": "화재 현장에 소방관 100여 명이 긴급 출동해 진화 작업을 벌이고 있습니다 (더선)."
+        },
+        {
+          "t": "도심에 검은 연기",
+          "d": "주요 기차역 인근에서 거대한 검은 연기가 치솟아 도시 하늘을 뒤덮었습니다 (데일리 익스프레스·데일리 미러)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "파리 기차역 인근 대형 화재 발생",
+        "소방관 100여 명 투입 진화 작업"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "화재 발생 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daily Express",
+        "Daily Mirror",
+        "Leeds Live",
+        "The Sun",
+        "2026.10.14 18:58 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파리 주요 기차역 인근 대형 화재 발생\n\n· 프랑스 파리 오스테를리츠 기차역 인근에서 큰불이 나 검은 연기가 치솟았습니다 (데일리 익스프레스·더선)\n· 현장에는 소방관 100여 명이 긴급 출동해 진화 작업을 벌이고 있습니다 (더선)\n· 정확한 인명 피해 여부와 화재 원인은 아직 확인되지 않았습니다\n\n출처: 데일리 익스프레스·더선·데일리 미러 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 파리의 주요 기차역 인근에서 대형 화재가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "오스테를리츠역 주변에서 검은 연기가 치솟았다고 외신들이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "더선은 현장에 소방관 100여 명이 긴급 출동했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인명 피해 여부와 화재 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "파리 [[기차역]] 인근\n무슨 일이?",
+  "broll": [
+    "train station exterior",
+    "fire engine street"
+  ],
+  "place_en": "Gare d'Austerlitz, Paris, France"
+}

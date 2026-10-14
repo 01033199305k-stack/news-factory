@@ -14954,5 +14954,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791969287
+  },
+  {
+    "slug": "2026-10-14-news-paris-austerlitz-train-station-fire-2026",
+    "event_ms": 1791967080000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 파리 주요 기차역 인근 대형 화재 발생\n\n· 프랑스 파리 오스테를리츠 기차역 인근에서 큰불이 나 검은 연기가 치솟았습니다 (데일리 익스프레스·더선)\n· 현장에는 소방관 100여 명이 긴급 출동해 진화 작업을 벌이고 있습니다 (더선)\n· 정확한 인명 피해 여부와 화재 원인은 아직 확인되지 않았습니다\n\n출처: 데일리 익스프레스·더선·데일리 미러 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "프랑스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17875751157650621",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeeHi4NEbWC",
+        "kind": "carousel",
+        "at": 1791971990
+      },
+      "instagram": {
+        "id": "17912814765494174",
+        "permalink": "https://www.instagram.com/reel/DeeH10VE0TH/",
+        "kind": "reel",
+        "at": 1791972168
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1791972178
+      },
+      "tiktok": {
+        "id": "7696461932148247815",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696461932148247815",
+        "kind": "video",
+        "at": 1791972300
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791972310
   }
 ]

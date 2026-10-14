@@ -2695,5 +2695,15 @@
     "at": 1791968875.014682,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "paris-austerlitz-train-station-fire-2026",
+    "topic": "파리 주요 기차역 인근 대형 화재 발생",
+    "slug": "2026-10-14-news-paris-austerlitz-train-station-fire-2026",
+    "cluster": "CBMigwFBVV95cUxPODdFZnNKNllQLXF3OHRJTjhxa2xfd1RPX3VGQmVoQXlrN1oyVV9qY3ZoYnI5T1FBVmd1d0NYVzNfeHY1WEpvM3VZOHJEODJnbkZPMjE2N05GLWV5ZHlrRllySXVUQThXZVBoc2dtNDN4eFJ3TEVDWHpMRnZwc2tqNWVaRdIBiAFBVV95cUxNRnRQZjVBSjVTOHc2UHoyY1NvejhZemFhRDczOGlBZkxWNTdRc1QtNDl5RFVLaGlCbWNKbERYSWM2Yk9NZG9PVHhvakdvR1c1SGdnT1lGaEZJRmR6Y2Q1aG80TlNQWTRRaFVPZkFBODlDQzlzOWZlXy02Wkp4NTJ3V1pGTmtoNFVL",
+    "badge": "breaking",
+    "at": 1791971942.3186731,
+    "country": "프랑스",
+    "category": "폭발·화재"
   }
 ]
