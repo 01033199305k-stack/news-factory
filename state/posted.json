@@ -14630,5 +14630,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791929636
+  },
+  {
+    "slug": "2026-10-14-news-pakistan-emergency-rule-khyber-pakhtunkhwa-2026",
+    "event_ms": 1791929260000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 파키스탄 정부가 야당의 핵심 근거지 주에 비상통치령을 선포했습니다.\n\n· 임란 칸 전 총리 세력의 주정부 권한을 연방 정부가 전격 인수했습니다 (로이터·알자지라)\n· 당국은 칸 전 총리가 이끄는 야당 소속 정치인 수백 명을 구금했습니다 (가디언)\n\n격화하는 파키스탄의 정치적 혼란, 어떻게 보십니까?\n출처: 로이터·알자지라·가디언 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "파키스탄"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18131686879781277",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DedLIwnGPNu",
+        "kind": "carousel",
+        "at": 1791940321
+      },
+      "instagram": {
+        "id": "18112503959143360",
+        "permalink": "https://www.instagram.com/reel/DedLfG_Dmm-/",
+        "kind": "reel",
+        "at": 1791940521
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791940531
+      },
+      "tiktok": {
+        "id": "7696325995212623111",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696325995212623111",
+        "kind": "video",
+        "at": 1791940653
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791940663
   }
 ]

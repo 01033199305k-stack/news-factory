@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-14-news-pakistan-emergency-rule-khyber-pakhtunkhwa-2026",
+  "topic": "파키스탄, 야당 근거지에 비상통치령 선포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 07:07 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE5vUXZaZjdCQVBrOXBMWWlsN05jcXhJX0Q5UGg0N0E4OFY1WU1keXdsdndmN2x6LThfZlpPUW80V09sSGhXaFdDNWlIdzAySW5MZk1rTjV1TFQ0Um5fdXc",
+    "related": [
+      [
+        "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+        "BBC"
+      ],
+      [
+        "Imran Khan’s PTI braces to fight federal takeover of Khyber Pakhtunkhwa",
+        "Al Jazeera"
+      ],
+      [
+        "Pakistan imposes emergency rule over Imran Khan's provincial government",
+        "Reuters"
+      ],
+      [
+        "Pakistan detains hundreds of politicians from Imran Khan’s PTI party",
+        "The Guardian"
+      ],
+      [
+        "PTI’s protest call draws lacklustre response in Peshawar",
+        "Dawn"
+      ]
+    ],
+    "event_key": "pakistan-emergency-rule-khyber-pakhtunkhwa-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파키스탄, 야당 근거지에\n[[비상통치령]] 선포",
+      "sub": "임란 칸 전 총리 측 주정부 인수 및 정치인 수백 명 구금",
+      "chips": [],
+      "alt": "파키스탄, 야당 근거지에 비상통치령 선포",
+      "map": {
+        "lat": 33.712802,
+        "lon": 71.2678805,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "파키스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파키스탄\n카이베르파크툰크와",
+      "video_only": true,
+      "map": {
+        "lat": 33.712802,
+        "lon": 71.2678805,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카이베르파크툰크와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "연방 정부의 주 접수",
+          "d": "파키스탄 연방 정부가 야당 소속 주정부를 상대로 비상통치를 공식 선포했다고 로이터가 보도했습니다."
+        },
+        {
+          "t": "야당 정치인 대거 구금",
+          "d": "가디언은 당국이 칸 전 총리의 정의운동당 소속 정치인 수백 명을 체포했다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "카이베르파크툰크와주 비상통치령 선포",
+        "연방 정부의 지방정부 통제권 인수",
+        "야당 정치인 대규모 구금"
+      ],
+      "unconfirmed": [
+        "비상통치령 지속 기간 및 향후 충돌 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Dawn",
+        "Reuters",
+        "The Guardian",
+        "2026.10.14 10:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파키스탄 정부가 야당의 핵심 근거지 주에 비상통치령을 선포했습니다.\n\n· 임란 칸 전 총리 세력의 주정부 권한을 연방 정부가 전격 인수했습니다 (로이터·알자지라)\n· 당국은 칸 전 총리가 이끄는 야당 소속 정치인 수백 명을 구금했습니다 (가디언)\n\n격화하는 파키스탄의 정치적 혼란, 어떻게 보십니까?\n출처: 로이터·알자지라·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파키스탄 정부가 지방 주정부에 비상통치령을 공식 선포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "선포 지역은 임란 칸 전 총리 세력의 핵심 근거지입니다.",
+      "card": "map"
+    },
+    {
+      "text": "가디언은 야당 소속 정치인 수백 명이 당국에 구금됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "비상통치가 언제까지 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "급박하게 돌아가는 파키스탄 정국, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "파키스탄 정부가\n내린 [[비상통치령]]",
+  "broll": [
+    "parliament building exterior",
+    "police checkpoint road"
+  ],
+  "place_en": "Khyber Pakhtunkhwa, Pakistan"
+}
