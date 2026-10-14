@@ -14846,5 +14846,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791965081
+  },
+  {
+    "slug": "2026-10-14-news-asml-earnings-outlook-2026",
+    "event_ms": 1791954896000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 반도체 장비사 ASML, 2030년까지 주문 이어질 전망\n\n· AI 수요 급증으로 공급이 수요를 따라가지 못하는 상황 (블룸버그·로이터)\n· 3분기 실적이 기대치를 웃돌며 매출 전망을 세 차례 상향 조정 (CNBC·야후 파이낸스)\n· 다만 2027년과 2028년에는 장비 수요를 모두 맞추기 어렵다고 밝힘 (더넥스트웹)\n\n여러분은 인공지능 관련 반도체 시장의 성장세, 어떻게 보십니까?\n\n출처: CNBC·로이터·블룸버그·야후 파이낸스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "네덜란드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18118000499331074",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Ded7k1Sll6B",
+        "kind": "carousel",
+        "at": 1791965714
+      },
+      "instagram": {
+        "id": "18126609898863428",
+        "permalink": "https://www.instagram.com/reel/Ded75tpgBuy/",
+        "kind": "reel",
+        "at": 1791965904
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1791965914
+      },
+      "tiktok": {
+        "id": "7696435009183419668",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696435009183419668",
+        "kind": "video",
+        "at": 1791966036
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791966046
   }
 ]

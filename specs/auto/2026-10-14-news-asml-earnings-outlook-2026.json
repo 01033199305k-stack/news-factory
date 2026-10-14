@@ -1,0 +1,152 @@
+{
+  "slug": "2026-10-14-news-asml-earnings-outlook-2026",
+  "topic": "반도체 장비사 ASML 2030년까지 주문 증가",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 14:14 KST",
+  "source": "Bloomberg.com·Reuters·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxOSDQ3Zy1uUWZHZDRSQmVCRGY2VEpzVHZOZkNBQ29vM2sxbkpqRFlQTFlXX1Zub1otNmREVGFyMFVucU9KZXRWOFJCSUo5N1JBNGprZUtsYlJXX1A2N3ZJX2ZBeE1KbjlGRUtEakNwZjVWQVlYLWdMeVExODZzYmFqX2Z6QzZuUdIBiwFBVV95cUxPYXpNR093eFN2OXh5eGdjX1JZM3hDQURoa3VhOWZPUzBjaFkwTXRFVVlPbXo1WlVPQ2diYmotb0pCSmNyeERpOVpJNUtYa1JzR0NVRnFjSzVGaGdkRktPWHhyNllYdHhMbEJ1RGhPY2JqaWYyUExCeFlFZjJ1cDJVVXNQal9ZeURTMU5Z",
+    "related": [
+      [
+        "ASML says it's getting order interest through 2030 as profit smashes expectations",
+        "CNBC"
+      ],
+      [
+        "ASML says it cannot meet chip tool demand in 2027 or 2028",
+        "The Next Web"
+      ],
+      [
+        "ASML Boosts Outlook as Demand for Chip Tools Outpaces Supply",
+        "Bloomberg.com"
+      ],
+      [
+        "ASML Raises Sales Forecast For A Third Time, But Q3 Revenue Miss Sends Stock Lower: Earnings Selloff Spreads To MU, SNDK, INTC",
+        "Yahoo Finance"
+      ],
+      [
+        "Chip tool giant ASML nudges up outlook as AI-driven demand outruns supply",
+        "Reuters"
+      ]
+    ],
+    "event_key": "asml-earnings-outlook-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "반도체 장비사 ASML\n[[2030년]]까지 주문 증가",
+      "sub": "AI 수요 급증으로 공급 한계 직면",
+      "chips": [
+        {
+          "k": "전망",
+          "v": "상향"
+        },
+        {
+          "k": "수요",
+          "v": "급증"
+        }
+      ],
+      "alt": "반도체 장비사 ASML 2030년까지 주문 증가",
+      "map": {
+        "lat": 51.4190691,
+        "lon": 5.4045572,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "네덜란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네덜란드\n벨드호벤",
+      "video_only": true,
+      "map": {
+        "lat": 51.4190691,
+        "lon": 5.4045572,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "벨드호벤"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "실적 기대치 상회",
+          "d": "ASML은 이익이 기대치를 크게 웃돌았다고 CNBC와 로이터 등이 보도했습니다."
+        },
+        {
+          "t": "주가 하락",
+          "d": "매출 전망 상향에도 3분기 매출 일부 부진으로 주가는 하락했다고 야후 파이낸스가 전했습니다."
+        },
+        {
+          "t": "생산 한계",
+          "d": "2027년과 2028년 장비 수요를 모두 맞추기 어렵다고 더넥스트웹이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "2030년까지 주문 이어질 전망 (CNBC·로이터)",
+        "매출 전망 세 차례 상향 (야후 파이낸스)"
+      ],
+      "unconfirmed": [
+        "정확한 향후 공급 부족 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "Reuters",
+        "The Next Web",
+        "Yahoo Finance",
+        "2026.10.14 17:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 반도체 장비사 ASML, 2030년까지 주문 이어질 전망\n\n· AI 수요 급증으로 공급이 수요를 따라가지 못하는 상황 (블룸버그·로이터)\n· 3분기 실적이 기대치를 웃돌며 매출 전망을 세 차례 상향 조정 (CNBC·야후 파이낸스)\n· 다만 2027년과 2028년에는 장비 수요를 모두 맞추기 어렵다고 밝힘 (더넥스트웹)\n\n여러분은 인공지능 관련 반도체 시장의 성장세, 어떻게 보십니까?\n\n출처: CNBC·로이터·블룸버그·야후 파이낸스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "반도체 장비 기업 ASML이 2030년까지 이어지는 주문 증가세를 예고했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "블룸버그 통신은 인공지능 관련 수요가 공급을 웃돌면서 실적 전망을 상향했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "다만 2027년과 2028년에는 장비 수요를 모두 맞추기 어렵다는 입장입니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 생산 차질 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 인공지능 관련 반도체 시장의 성장세, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "성장세 전망은?"
+    }
+  ],
+  "hook": "반도체 장비사 ASML\n[[전망]]을 높인 이유",
+  "broll": [
+    "stock exchange screen",
+    "semiconductor chip manufacturing"
+  ],
+  "place_en": "Veldhoven, Netherlands"
+}
