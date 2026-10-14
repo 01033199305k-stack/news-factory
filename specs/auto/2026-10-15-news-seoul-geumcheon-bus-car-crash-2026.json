@@ -1,0 +1,125 @@
+{
+  "slug": "2026-10-15-news-seoul-geumcheon-bus-car-crash-2026",
+  "topic": "서울 금천구 승용차·마을버스 충돌",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 03:07 KST",
+  "source": "KBS 뉴스·MBC 뉴스·연합뉴스TV 등 3개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE5BcHBibXppOC1rQVZRMlk5amdJQ3kwVXVERUpjUDBSakJrUjZPcW5CQXhEUHQtcU0zYUJMMUtXVUxYdXhrSU92Wk92aXlYZTdyMTMxSHVjdS1nNG5oTzhpd2RRNkJ5RnVZeGVTaVN5aXRyMTk3dTdj0gF3QVVfeXFMT1FiTHBwajdHQ0VhNF9oM3F0Z1luRnFUTEdIN3Z4UTNDNDQxX2w5RjZ1M2RzM3otQkcxVml2elEyT0YwRXdQSmEzUUdaUlB4ZjVKLXhNSXFNM1d3T1lEN2pBV29KelZoWVhZbFgtWmpWSHB3OWhoVXM",
+    "related": [
+      [
+        "서울 금천구서 승용차-마을버스 충돌‥11명 부상",
+        "MBC 뉴스"
+      ],
+      [
+        "서울 금천구 독산동서 승용차-마을버스 충돌…9명 병원 이송",
+        "KBS 뉴스"
+      ],
+      [
+        "서울 금천구서 승용차와 마을버스 충돌…11명 부상",
+        "연합뉴스TV"
+      ]
+    ],
+    "event_key": "seoul-geumcheon-bus-car-crash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "서울 금천구\n승용차·마을버스 [[충돌]]",
+      "sub": "승용차와 마을버스가 부딪쳐 11명 부상",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "11명"
+        }
+      ],
+      "alt": "서울 금천구 승용차·마을버스 충돌",
+      "map": {
+        "lat": 37.4565,
+        "lon": 126.8954,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울 금천구",
+      "video_only": true,
+      "map": {
+        "lat": 37.4565,
+        "lon": 126.8954,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울 금천구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "9명 병원 이송",
+          "d": "9명이 병원으로 이송되었습니다 (KBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "서울 금천구 독산동서 충돌 사고 발생",
+        "승용차와 마을버스 충돌로 11명 부상"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인 및 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "연합뉴스TV",
+        "2026.10.15 06:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 서울 금천구에서 승용차와 마을버스가 충돌해 11명이 다쳤습니다.\n\n· 서울 금천구 독산동에서 승용차와 마을버스가 충돌하는 사고가 발생했습니다 (KBS).\n· 이번 사고로 11명이 다쳤으며 (MBC·연합뉴스TV), 9명이 병원으로 이송되었습니다 (KBS).\n\n출처: MBC 뉴스·KBS 뉴스·연합뉴스TV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "서울 금천구에서 승용차와 마을버스가 충돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 사고로 11명이 다쳤다고 MBC가 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "KBS는 9명이 병원으로 이송됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 충돌 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "서울 금천구서\n[[마을버스]] 충돌",
+  "broll": [
+    "traffic road ambulance",
+    "bus street city"
+  ],
+  "place_en": "Geumcheon-gu, Seoul, South Korea"
+}

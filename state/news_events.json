@@ -2775,5 +2775,15 @@
     "at": 1792001230.0660365,
     "country": "케냐",
     "category": "사고"
+  },
+  {
+    "event_key": "seoul-geumcheon-bus-car-crash-2026",
+    "topic": "서울 금천구 승용차·마을버스 충돌",
+    "slug": "2026-10-15-news-seoul-geumcheon-bus-car-crash-2026",
+    "cluster": "CBMid0FVX3lxTE5BcHBibXppOC1rQVZRMlk5amdJQ3kwVXVERUpjUDBSakJrUjZPcW5CQXhEUHQtcU0zYUJMMUtXVUxYdXhrSU92Wk92aXlYZTdyMTMxSHVjdS1nNG5oTzhpd2RRNkJ5RnVZeGVTaVN5aXRyMTk3dTdj0gF3QVVfeXFMT1FiTHBwajdHQ0VhNF9oM3F0Z1luRnFUTEdIN3Z4UTNDNDQxX2w5RjZ1M2RzM3otQkcxVml2elEyT0YwRXdQSmEzUUdaUlB4ZjVKLXhNSXFNM1d3T1lEN2pBV29KelZoWVhZbFgtWmpWSHB3OWhoVXM",
+    "badge": "breaking",
+    "at": 1792012072.4328718,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]
