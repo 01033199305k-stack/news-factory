@@ -1,0 +1,146 @@
+{
+  "slug": "2026-10-14-news-ulsan-onsan-chemical-plant-fire",
+  "topic": "울산 온산읍 화학공장서 폭발·화재 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 10:42 KST",
+  "source": "KBS 뉴스·MBC 뉴스·부산일보 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE9xZ25EN3hYNlBZZE8yUmZCSHByRkdsbnMyNHA1eGt5VzdrUzV2djlqamdlUUVUWUlFT2k3cjVkSXFTY1hfVThBSGFDaHlTZC1GMlNHa09mQzJGMUxmNjUwYVhkbTdaOGhxS1ZDLTc1QmMyNzlTZkJN",
+    "related": [
+      [
+        "울산 온산읍 제조업체서 불‥'대응 1단계'",
+        "MBC 뉴스"
+      ],
+      [
+        "행안장관, 울주군 공장 화재에 \"인명구조 총력\" 지시",
+        "연합뉴스"
+      ],
+      [
+        "울산 온산 화학공장서 폭발음 잇따라…공단 근로자 수천명 대피",
+        "부산일보"
+      ],
+      [
+        "[제보] 검은 연기 순식간에 확산…울산 공장 화재 ‘대응 1단계’",
+        "KBS 뉴스"
+      ],
+      [
+        "울산 석화업체 저장탱크서 ‘펑펑’…화재로 작업자 10여명 대피",
+        "한겨레"
+      ]
+    ],
+    "event_key": "ulsan-onsan-chemical-plant-fire"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "울산 온산읍 화학공장서\n[[폭발·화재]] 발생",
+      "sub": "소방당국 대응 1단계 발령 및 대피",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "1단계"
+        }
+      ],
+      "alt": "울산 온산읍 화학공장서 폭발·화재 발생",
+      "map": {
+        "lat": 35.5391697,
+        "lon": 129.3119136,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n울산",
+      "video_only": true,
+      "map": {
+        "lat": 35.5391697,
+        "lon": 129.3119136,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "울산"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대피 소동",
+          "d": "저장탱크에서 잇단 폭발음과 함께 검은 연기가 확산해 근로자 수천 명이 대피했습니다 (부산일보·한겨레)."
+        },
+        {
+          "t": "정부 지시",
+          "d": "행정안전부 장관은 인명구조에 총력을 다할 것을 지시했습니다 (연합뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "대응 1단계 발령 (MBC)",
+        "공장 근로자 대피 (부산일보·한겨레)"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "상세한 인명 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "부산일보",
+        "연합뉴스",
+        "한겨레",
+        "2026.10.14 12:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 울산 온산읍 화학공장서 폭발·화재 발생\n\n· 저장탱크에서 잇단 폭발음과 함께 검은 연기가 확산해 근로자 수천 명이 대피했습니다 (부산일보·한겨레)\n· 소방당국은 대응 1단계를 발령했습니다 (MBC)\n\n출처: MBC·연합뉴스·부산일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "울산 온산읍의 한 화학공장에서 화재와 폭발이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "소방당국은 대응 1단계를 발령했습니다.",
+      "card": "map",
+      "screen": "울산 온산읍"
+    },
+    {
+      "text": "저장탱크에서 잇단 폭발음이 나면서 근로자 수천 명이 대피했습니다.",
+      "card": "points",
+      "screen": "근로자 대피"
+    },
+    {
+      "text": "행안부 장관은 인명구조에 총력을 다할 것을 지시했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인과 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "울산 온산읍 공장에서\n[[일어난 일]]은?",
+  "broll": [
+    "industrial plant smoke",
+    "fire station truck"
+  ],
+  "place_en": "Ulsan, South Korea"
+}

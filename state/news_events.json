@@ -2655,5 +2655,15 @@
     "at": 1791943228.9027705,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "ulsan-onsan-chemical-plant-fire",
+    "topic": "울산 온산읍 화학공장서 폭발·화재 발생",
+    "slug": "2026-10-14-news-ulsan-onsan-chemical-plant-fire",
+    "cluster": "CBMid0FVX3lxTE9xZ25EN3hYNlBZZE8yUmZCSHByRkdsbnMyNHA1eGt5VzdrUzV2djlqamdlUUVUWUlFT2k3cjVkSXFTY1hfVThBSGFDaHlTZC1GMlNHa09mQzJGMUxmNjUwYVhkbTdaOGhxS1ZDLTc1QmMyNzlTZkJN",
+    "badge": "breaking",
+    "at": 1791947276.8593137,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]

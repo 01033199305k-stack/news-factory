@@ -14738,5 +14738,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791943650
+  },
+  {
+    "slug": "2026-10-14-news-ulsan-onsan-chemical-plant-fire",
+    "event_ms": 1791942177000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 울산 온산읍 화학공장서 폭발·화재 발생\n\n· 저장탱크에서 잇단 폭발음과 함께 검은 연기가 확산해 근로자 수천 명이 대피했습니다 (부산일보·한겨레)\n· 소방당국은 대응 1단계를 발령했습니다 (MBC)\n\n출처: MBC·연합뉴스·부산일보 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18638575831062072",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DedYgTrG0Mw",
+        "kind": "carousel",
+        "at": 1791947330
+      },
+      "instagram": {
+        "id": "18114472472326833",
+        "permalink": "https://www.instagram.com/reel/DedY0DekmRn/",
+        "kind": "reel",
+        "at": 1791947513
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1791947523
+      },
+      "tiktok": {
+        "id": "7696356021983284500",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696356021983284500",
+        "kind": "video",
+        "at": 1791947645
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791947655
   }
 ]
