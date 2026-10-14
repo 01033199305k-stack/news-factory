@@ -15439,5 +15439,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792012387
+  },
+  {
+    "slug": "2026-10-15-news-oldest-shipwreck-turkiye",
+    "event_ms": 1792010234000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 튀르키예 해역서 세계 최고령 난파선 발견 (BBC·알자지라)\n\n· 튀르키예 케코바 섬 앞바다에서 고고학자들이 난파선을 찾아냈습니다 (스카이 뉴스)\n· 전문가들은 이 배가 트로이로 항해하던 선박이었을 수 있다고 분석했습니다 (더 타임스)\n\n출처: BBC·알자지라·스카이 뉴스·더 텔레그래프·더 타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "튀르키예"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18124828706489650",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Defa9F0klZ5",
+        "kind": "carousel",
+        "at": 1792015717
+      },
+      "instagram": {
+        "id": "17930970372163937",
+        "permalink": "https://www.instagram.com/reel/DefbP-tkk-I/",
+        "kind": "reel",
+        "at": 1792015896
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792015906
+      },
+      "tiktok": {
+        "id": "7696649706876849415",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696649706876849415",
+        "kind": "video",
+        "at": 1792016028
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792016038
   }
 ]

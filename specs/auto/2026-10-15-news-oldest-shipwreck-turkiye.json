@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-15-news-oldest-shipwreck-turkiye",
+  "topic": "튀르키예 해역서 세계 최고령 난파선 발견",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 05:37 KST",
+  "source": "Al Jazeera·BBC·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilwFBVV95cUxNUmZXZDdwTXlGYjVwc01iN2RZc3d3TDYzS2pqMGRVYnduem5BTWRoRXRfVnRZTDRsU0xsRlZEcGlMbkQ1MDQ4RjNWc0FvVXFhX2xTbmJQZmp0V3czeTg4bWtvLVFLN1pBNWhOTkNmdHR2M0xGRXBiNjJJcjhUVGVvYmVHMk14dERaNFd0eW9aVWJzTDZudVVn0gGcAUFVX3lxTFBpMmpqR1hSVlpjZDd2VlYzNUhSZUpVaHZLTXhpZFRxSEd2ZFU5MXFYRWUwUXBjT0doTVM5MlZ1c1BWdmI3a2JMMjByOGFaNm5seTZPSzQxOUJ3MXJmUXA4MzE1U29FMmNoUUQ5dTQwZi01anljTlljYTZhdTg5OTJFaU0tVkVpdi1zT1dqMlFzTkhrUk9EMUxDbHNaUQ",
+    "related": [
+      [
+        "World’s oldest shipwreck found off coast of Turkiye",
+        "Al Jazeera"
+      ],
+      [
+        "World's oldest shipwreck found off Kekova Island in Turkey",
+        "BBC"
+      ],
+      [
+        "World's oldest shipwreck found off Turkish coast, archaeologists say",
+        "Sky News"
+      ],
+      [
+        "World’s oldest shipwreck reveals ancient secrets",
+        "The Telegraph"
+      ],
+      [
+        "Uncovered, world’s oldest shipwreck that may have been sailing to Troy",
+        "The Times"
+      ]
+    ],
+    "event_key": "oldest-shipwreck-turkiye"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "튀르키예 해역서\n[[세계 최고령 난파선]] 발견",
+      "sub": "세계 최고령 난파선 발견",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "튀르키예 해역"
+        },
+        {
+          "k": "주제",
+          "v": "세계 최고령 난파선"
+        }
+      ],
+      "alt": "튀르키예 해역서 세계 최고령 난파선 발견",
+      "map": {
+        "lat": 36.1824129,
+        "lon": 29.877452,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "튀르키예"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "튀르키예\n케코바",
+      "video_only": true,
+      "map": {
+        "lat": 36.1824129,
+        "lon": 29.877452,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "케코바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "발견 장소",
+          "d": "튀르키예 케코바 섬 앞바다에서 세계에서 가장 오래된 난파선이 발견됐습니다 (BBC·알자지라)."
+        },
+        {
+          "t": "추정 시기",
+          "d": "고고학자들은 이 선박이 과거 트로이로 향하던 배였을 가능성이 있다고 전했습니다 (더 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "세계 최고령 난파선 발견",
+        "튀르키예 케코바 섬 해역"
+      ],
+      "unconfirmed": [
+        "정확한 침몰 연대 및 항해 목적"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Sky News",
+        "The Telegraph",
+        "The Times",
+        "2026.10.15 07:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 튀르키예 해역서 세계 최고령 난파선 발견 (BBC·알자지라)\n\n· 튀르키예 케코바 섬 앞바다에서 고고학자들이 난파선을 찾아냈습니다 (스카이 뉴스)\n· 전문가들은 이 배가 트로이로 항해하던 선박이었을 수 있다고 분석했습니다 (더 타임스)\n\n출처: BBC·알자지라·스카이 뉴스·더 텔레그래프·더 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "튀르키예 해역에서 세계에서 가장 오래된 난파선이 발견됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 케코바 섬 앞바다에서 고고학자들이 이 선박을 찾아냈다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "연구진은 이 배가 고대 트로이로 항해하던 배였을 가능성이 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 침몰 연대와 항해 목적은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 고고학적 발견에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "역사적 발견"
+    }
+  ],
+  "hook": "튀르키예 바다 밑에서\n[[세계 최고령선]] 발견",
+  "broll": [
+    "ocean underwater wreckage",
+    "ancient ship remains"
+  ],
+  "place_en": "Kekova, Turkey"
+}
