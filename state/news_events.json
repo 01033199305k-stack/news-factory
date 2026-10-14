@@ -2725,5 +2725,15 @@
     "at": 1791983500.1870503,
     "country": "모리셔스",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "royal-caribbean-cruise-passenger-rescue-2026",
+    "topic": "그리스 해역서 추락한 크루즈 승객, 20시간 만에 생존 구조",
+    "slug": "2026-10-14-news-royal-caribbean-cruise-passenger-rescue-2026",
+    "cluster": "CBMinAFBVV95cUxPblBmb2NDaHhFa2VhcVNPak00amx6S2xiaHNxWjFvZzZxSTcxZTVJbEFVTHd3VGN1RVdSRXdIVUE4SE5vU3hBQ2d3NGZkUVFmYkdXd1EtT1RJaklwMV9xNWszVHZMM0ZlN2FXWFFfaTZEaEVyZzVPUGQ3OUJjNG9VS21XcEFTWmQ2aENHWWRYb293SEg4dnN3cWhEWTY",
+    "badge": "breaking",
+    "at": 1791986867.0590677,
+    "country": "그리스",
+    "category": "사고"
   }
 ]

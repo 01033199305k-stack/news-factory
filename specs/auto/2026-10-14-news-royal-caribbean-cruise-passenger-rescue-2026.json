@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-14-news-royal-caribbean-cruise-passenger-rescue-2026",
+  "topic": "그리스 해역서 추락한 크루즈 승객, 20시간 만에 생존 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 21:02 KST",
+  "source": "CBS News·Yahoo News·Euronews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxPblBmb2NDaHhFa2VhcVNPak00amx6S2xiaHNxWjFvZzZxSTcxZTVJbEFVTHd3VGN1RVdSRXdIVUE4SE5vU3hBQ2d3NGZkUVFmYkdXd1EtT1RJaklwMV9xNWszVHZMM0ZlN2FXWFFfaTZEaEVyZzVPUGQ3OUJjNG9VS21XcEFTWmQ2aENHWWRYb293SEg4dnN3cWhEWTY",
+    "related": [
+      [
+        "Woman found floating in the sea after falling from Royal Caribbean cruise",
+        "FOX 8 News"
+      ],
+      [
+        "Royal Caribbean cruise passenger who went overboard rescued after she spent 20 hours at sea, Greek coastguard says",
+        "CBS News"
+      ],
+      [
+        "Royal Caribbean Passenger Pulled From Sea After 20 Hours Adrift Near Greece",
+        "Yahoo"
+      ],
+      [
+        "Woman, 44, rescued after 20 hours in sea: Greek coastguard",
+        "Euronews.com"
+      ],
+      [
+        "44-Year-Old Passenger Who Went Overboard Mid-Cruise Found Alive After Nearly 24 Hours at Sea",
+        "People.com"
+      ]
+    ],
+    "event_key": "royal-caribbean-cruise-passenger-rescue-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "그리스 해역서 추락한 크루즈 승객,\n[[20시간]] 만에 생존 구조",
+      "sub": "로열캐리비안 크루즈에서 바다로 떨어진 44세 여성 구조",
+      "chips": [
+        {
+          "k": "표류 시간",
+          "v": "20시간"
+        },
+        {
+          "k": "연령",
+          "v": "44세"
+        }
+      ],
+      "alt": "그리스 해역서 추락한 크루즈 승객, 20시간 만에 생존 구조",
+      "map": {
+        "lat": 38.9953683,
+        "lon": 21.9877132,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "그리스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "그리스\n그리스 해역",
+      "video_only": true,
+      "map": {
+        "lat": 38.9953683,
+        "lon": 21.9877132,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "그리스 해역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "구조 당시 상태",
+          "d": "그리스 해경은 바다에 표류하던 여성을 발견해 살아서 구조했다고 밝혔습니다 (CBS 뉴스·Euronews.com)."
+        },
+        {
+          "t": "사고 선박",
+          "d": "승객은 로열캐리비안 크루즈 운항 중에 바다로 추락한 것으로 확인됐습니다 (FOX 8 뉴스·Yahoo)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "표류 시간 20시간 (CBS 뉴스)",
+        "탑승객 연령 44세 (Euronews.com)"
+      ],
+      "unconfirmed": [
+        "추락 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Euronews.com",
+        "FOX 8 News",
+        "People.com",
+        "Yahoo",
+        "2026.10.14 23:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 그리스 해역서 추락한 크루즈 승객, 20시간 만에 생존 구조\n\n· 로열캐리비안 크루즈 운항 중 바다에 떨어진 44세 여성 구조 (FOX 8 뉴스·People.com)\n· 그리스 해경이 표류 중이던 승객을 발견해 생존 상태로 인명 구조 (CBS 뉴스·Yahoo)\n\n출처: FOX 8 뉴스·CBS 뉴스·Yahoo·Euronews.com·People.com 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "그리스 해역에서 크루즈선 밖으로 떨어진 승객이 20시간 만에 살아 돌아왔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS 뉴스는 로열캐리비안 크루즈에 탔던 44세 여성이 바다에 표류하다 구조됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "그리스 해경은 표류 중이던 승객을 발견해 생존 상태로 인양했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 추락 경위와 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "크루즈에서 떨어진 승객,\n[[20시간]] 만에?",
+  "broll": [
+    "cruise ship sea",
+    "ocean waves water"
+  ],
+  "place_en": "Greece"
+}
