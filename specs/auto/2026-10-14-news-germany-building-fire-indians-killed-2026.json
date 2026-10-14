@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-14-news-germany-building-fire-indians-killed-2026",
+  "topic": "독일 아파트 화재로 인도인 3명 숨져 주민 1명은 살인 혐의 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 23:30 KST",
+  "source": "India Today·NDTV·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixgFBVV95cUxPM1I5TXVERnJCZVRScDJfOUdZMXAxMHhTOFl0UlNUYlV2YlVHdWZUY2NiNkJ3dkFjdVY1R3BtUnlmcUlTMDR2ampDcGNDV1JJWGhhMm8tMzYzSDdpMmhxRXdCYVZFaXJ3VlpZeWp5MUVxSkJnd1lKNFZZZ244MTdZSTRzaF9UQTRhOWxqcW9xWDJ5NThZTHEzbzBnb3BlWTFiMHl5X2hjLWJFbWpsWkFLRnpPTUNtVmZPU1o3eFRiNmZoZE1yblHSAc4BQVVfeXFMTS1TMUxWNFJ1RnBxU0FIRElzNmRmTDdJY1BOZHJRTWdIWVFzc3lVTWluMlJxTVVMeUs4Z1lGTjRSa2NpNVRSbnRpSkp2bkp1d3lGaEY5SGptMDh2bmhlcENPeEcyM19hZnU0Q0NKV1FILXdrSmszOTdPbkpudnBpUVJJVmtDTU84V3dOWXF4aHJ1WUphUFRQNUN2QUpodVpwSXZMY1RlaFdVOVVhOGJRY1I0cjFuTWg5c090bGt0ZzNmUzZIMlFiU1ozS2IxRkE",
+    "related": [
+      [
+        "3 Indians Killed In Germany Building Fire, Man Arrested For Suspected Murder",
+        "NDTV"
+      ],
+      [
+        "3 people die in apartment fire in Germany",
+        "Anadolu Ajansı"
+      ],
+      [
+        "3 Indians killed in Germany fire, 5 injured; resident arrested on murder suspicion",
+        "The Times of India"
+      ],
+      [
+        "3 Indians killed in suspected arson at residential building in Germany",
+        "India Today"
+      ],
+      [
+        "Three Indians killed in Germany building fire: reports",
+        "The Hindu"
+      ]
+    ],
+    "event_key": "germany-building-fire-indians-killed-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "독일 아파트 화재로 [[인도인 3명]] 숨져\n주민 1명은 살인 혐의 체포",
+      "sub": "부상자 5명이 발생했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "3명"
+        },
+        {
+          "k": "부상",
+          "v": "5명"
+        }
+      ],
+      "alt": "독일 아파트 화재로 인도인 3명 숨져 주민 1명은 살인 혐의 체포",
+      "map": {
+        "lat": 51.1638175,
+        "lon": 10.4478313,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일",
+      "video_only": true,
+      "map": {
+        "lat": 51.1638175,
+        "lon": 10.4478313,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "독일"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "부상자 발생",
+          "d": "인도인 3명이 숨지고 5명이 다쳤다고 매체들이 전했습니다."
+        },
+        {
+          "t": "용의자 체포",
+          "d": "주민 1명이 살인 혐의로 체포됐다고 보도됐습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 3명",
+        "부상 5명 (타임스오브인디아)",
+        "주민 1명 살인 혐의 체포"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 화재 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Anadolu Ajansı",
+        "India Today",
+        "NDTV",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.15 01:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 독일 아파트 화재로 인도인 3명 숨져\n\n· 부상자 5명이 발생했습니다 (타임스오브인디아)\n· 건물 거주민 1명이 살인 혐의로 체포됐습니다 (NDTV)\n\n출처: NDTV·타임스오브인디아·힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일의 한 아파트에서 불이 나 인도 국적 주민 3명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 부상자 5명이 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "주민 1명이 살인 혐의로 체포됐습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "독일 아파트에서\n[[무슨 일이]]?",
+  "broll": [
+    "apartment building fire night",
+    "police car lights street"
+  ],
+  "place_en": "Germany"
+}
