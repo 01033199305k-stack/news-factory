@@ -15115,5 +15115,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791983916
+  },
+  {
+    "slug": "2026-10-14-news-royal-caribbean-cruise-passenger-rescue-2026",
+    "event_ms": 1791979335000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 그리스 해역서 추락한 크루즈 승객, 20시간 만에 생존 구조\n\n· 로열캐리비안 크루즈 운항 중 바다에 떨어진 44세 여성 구조 (FOX 8 뉴스·People.com)\n· 그리스 해경이 표류 중이던 승객을 발견해 생존 상태로 인명 구조 (CBS 뉴스·Yahoo)\n\n출처: FOX 8 뉴스·CBS 뉴스·Yahoo·Euronews.com·People.com 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "그리스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18209792845367568",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeekA03kfgy",
+        "kind": "carousel",
+        "at": 1791986919
+      },
+      "instagram": {
+        "id": "18040872326638838",
+        "permalink": "https://www.instagram.com/reel/DeekSFSDAjB/",
+        "kind": "reel",
+        "at": 1791987076
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1791987086
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6acf8eb9ed762d924f216768): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1791987499
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791987499
   }
 ]
