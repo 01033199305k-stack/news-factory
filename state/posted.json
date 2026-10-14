@@ -15062,5 +15062,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791980207
+  },
+  {
+    "slug": "2026-10-14-news-mauritius-riots-state-emergency-2026",
+    "event_ms": 1791977065000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 모리셔스서 최악 폭동 발생… 통행금지 선포\n\n· 경찰의 여성 총격 사건 이후 수십 년 만의 최악 소요 사태 발생 (BBC·블룸버그)\n· 모리셔스 당국, 폭력 시위 확산에 통행금지 및 학교 폐쇄 조치 (알자지라)\n\n출처: BBC·알자지라·블룸버그 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "모리셔스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17991724523856616",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeedlsdESP0",
+        "kind": "carousel",
+        "at": 1791983551
+      },
+      "instagram": {
+        "id": "18179234932441904",
+        "permalink": "https://www.instagram.com/reel/Deed-lEla2U/",
+        "kind": "reel",
+        "at": 1791983775
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1791983785
+      },
+      "tiktok": {
+        "id": "7696511770596347143",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696511770596347143",
+        "kind": "video",
+        "at": 1791983906
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791983916
   }
 ]

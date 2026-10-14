@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-14-news-mauritius-riots-state-emergency-2026",
+  "topic": "모리셔스서 최악 폭동 발생… 통행금지 선포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 20:24 KST",
+  "source": "Al Jazeera·BBC·Bloomberg.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE40LXluM212QnFoLTRMLXdZeVkxaUd6M0dORWJ4LVFqaERQYUhRZmtxTVd2TU9zanVzeHd2TnhLcHZ2VjZzWHdIRjl3MzMtbDBiNHJrLVlpcHEwckY0TXc",
+    "related": [
+      [
+        "Mauritius reels from worst riots in decades after woman shot by police",
+        "BBC"
+      ],
+      [
+        "Mauritius imposes curfew after night of unrest over police shooting",
+        "Al Jazeera"
+      ],
+      [
+        "Africa’s most peaceful country and tourist hotspot rocked by worst unrest since 1999, putting $2.2 billion in tourism earnings at risk",
+        "Business Insider Africa"
+      ],
+      [
+        "Mauritius Closes Schools After Violent Protests Over Police Shooting",
+        "AfricaBrief"
+      ],
+      [
+        "Tourist Hotspot Mauritius Hit by Worst Unrest Since 1999",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "mauritius-riots-state-emergency-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "모리셔스서 최악 폭동 발생…\n[[통행금지]] 선포",
+      "sub": "경찰 총격 사건 계기로 수십 년 만의 소요 사태",
+      "chips": [],
+      "alt": "모리셔스서 최악 폭동 발생… 통행금지 선포",
+      "map": {
+        "lat": -20.1624522,
+        "lon": 57.5028044,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "모리셔스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "모리셔스\n포트루이스",
+      "video_only": true,
+      "map": {
+        "lat": -20.1624522,
+        "lon": 57.5028044,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "포트루이스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "경찰 총격",
+          "d": "경찰이 여성을 향해 발포한 사건이 발생한 뒤 대규모 폭동과 항의 시위가 일어났다고 알자지라 등이 보도했습니다."
+        },
+        {
+          "t": "학교 휴교",
+          "d": "폭력 시위가 확산되면서 모리셔스 당국은 학교를 폐쇄하고 통행금지령을 내렸습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "경찰 총격 후 폭동 발생 (BBC)",
+        "통행금지 및 학교 폐쇄 조치 (알자지라)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "부상자 및 구체적 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AfricaBrief",
+        "Al Jazeera",
+        "BBC",
+        "Bloomberg.com",
+        "Business Insider Africa",
+        "2026.10.14 22:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 모리셔스서 최악 폭동 발생… 통행금지 선포\n\n· 경찰의 여성 총격 사건 이후 수십 년 만의 최악 소요 사태 발생 (BBC·블룸버그)\n· 모리셔스 당국, 폭력 시위 확산에 통행금지 및 학교 폐쇄 조치 (알자지라)\n\n출처: BBC·알자지라·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "관광지로 유명한 모리셔스에서 수십 년 만에 최악의 폭동이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경찰이 한 여성에게 총격을 가한 사건 이후 대규모 항의 시위가 일어났다고 BBC 등이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "당국은 시위 확산을 막기 위해 통행금지령을 내리고 학교를 폐쇄했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "휴양지 모리셔스에서\n[[폭동]]이 일어난 이유는?",
+  "broll": [
+    "street protest smoke",
+    "police barrier city"
+  ],
+  "place_en": "Port Louis, Mauritius"
+}

@@ -2715,5 +2715,15 @@
     "at": 1791979831.4393556,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "mauritius-riots-state-emergency-2026",
+    "topic": "모리셔스서 최악 폭동 발생… 통행금지 선포",
+    "slug": "2026-10-14-news-mauritius-riots-state-emergency-2026",
+    "cluster": "CBMiXkFVX3lxTE40LXluM212QnFoLTRMLXdZeVkxaUd6M0dORWJ4LVFqaERQYUhRZmtxTVd2TU9zanVzeHd2TnhLcHZ2VjZzWHdIRjl3MzMtbDBiNHJrLVlpcHEwckY0TXc",
+    "badge": "breaking",
+    "at": 1791983500.1870503,
+    "country": "모리셔스",
+    "category": "기타 사건"
   }
 ]
