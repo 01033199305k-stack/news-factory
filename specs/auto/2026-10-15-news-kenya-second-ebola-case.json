@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-15-news-kenya-second-ebola-case",
+  "topic": "케냐에서 에볼라 두 번째 확진자 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 01:23 KST",
+  "source": "Al Jazeera·BBC·The Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE9oeUVBMzlMdHZJY0RBeWdpaXNRUUNfWVI3Z041cktnNEUzRU5OVWJFb3ZXM25FWE05NnZFX3pqcFhIeWxlWmItaUgwRHdBNlVNRjZZdG1DcnFoVl9oamc",
+    "related": [
+      [
+        "Kenya confirms second Ebola case as relative of country's first victim",
+        "BBC"
+      ],
+      [
+        "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
+        "World Health Organization (WHO)"
+      ],
+      [
+        "Kenya’s health ministry confirms second Ebola case",
+        "Al Jazeera"
+      ],
+      [
+        "Cruise ships firm suspends boarding of Kenyan crew over Ebola fears",
+        "Daily Nation"
+      ],
+      [
+        "Second Ebola case confirmed in Kenya",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "kenya-second-ebola-case"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "케냐에서 [[에볼라]]\n두 번째 확진자 발생",
+      "sub": "첫 번째 확진자의 가족으로 보건부가 공식 확인",
+      "chips": [
+        {
+          "k": "확진",
+          "v": "2번째"
+        }
+      ],
+      "alt": "케냐에서 에볼라 두 번째 확진자 발생",
+      "map": {
+        "lat": 0.2793165,
+        "lon": 37.5164935,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "케냐"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "케냐",
+      "video_only": true,
+      "map": {
+        "lat": 0.2793165,
+        "lon": 37.5164935,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "케냐"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "확진자 확인",
+          "d": "케냐 보건부는 첫 번째 확진자의 가족이 두 번째 에볼라 확진 판정을 받았다고 밝혔습니다 (BBC·알자지라)."
+        },
+        {
+          "t": "선박 승선 중단",
+          "d": "에볼라 우려로 인해 크루즈 선사들이 케냐 선원들의 승선을 중단했습니다 (데일리 나이션)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "두 번째 에볼라 확진자 발생",
+        "첫 번째 확진자의 가족"
+      ],
+      "unconfirmed": [
+        "추가 감염자 규모",
+        "확산 방지 후속 조치",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Daily Nation",
+        "The Telegraph",
+        "World Health Organization (WHO)",
+        "2026.10.15 03:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 케냐에서 두 번째 에볼라 확진자가 발생했습니다\n\n· 케냐 보건부는 첫 번째 확진자의 가족이 두 번째로 확진 판정을 받았다고 밝혔습니다 (BBC·알자지라)\n· 에볼라 우려로 인해 크루즈 선사들이 케냐 선원들의 승선을 중단했습니다 (데일리 나이션)\n\n출처: BBC·알자지라·데일리 나이션·텔레그래프 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "케냐에서 에볼라 두 번째 확진자가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "에볼라 우려로 크루즈 선사들이 케냐 선원들의 승선을 중단했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 추가 감염 규모와 확산 방지 대책은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "케냐에서 [[에볼라]] 확진자\n추가 발생?",
+  "broll": [
+    "hospital medical sign",
+    "health check center"
+  ],
+  "place_en": "Kenya"
+}

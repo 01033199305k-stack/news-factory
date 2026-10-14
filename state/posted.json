@@ -15276,5 +15276,115 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791998326
+  },
+  {
+    "slug": "2026-10-15-news-us-inflation-rise-3-7-percent-2026",
+    "event_ms": 1791992873000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 지난달 물가상승률 3.7% 기록\n\n· 가스 및 디젤 가격이 상승하면서 소비자가 압박을 받고 있습니다 (NBC 뉴스)\n· 물가 지표 발표 여파로 기술주가 하락하며 증시가 떨어졌습니다 (야후 파이낸스)\n\n❓ 이번 미국의 물가 상승세가 경제에 어떤 영향을 미칠까요?\n출처: NBC 뉴스·야후 파이낸스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18147449065577062",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dee4vWYlDqW",
+        "kind": "carousel",
+        "at": 1791997782
+      },
+      "instagram": {
+        "id": "18126820297881950",
+        "permalink": "https://www.instagram.com/reel/Dee5LSfDyNt/",
+        "kind": "reel",
+        "at": 1791998028
+      },
+      "youtube": {
+        "id": "WYYidu_7YAQ",
+        "permalink": "https://youtube.com/shorts/WYYidu_7YAQ",
+        "kind": "shorts",
+        "at": 1791998053
+      },
+      "tiktok": {
+        "id": "7696587573199850759",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696587573199850759",
+        "kind": "video",
+        "at": 1792001546
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792001556
+  },
+  {
+    "slug": "2026-10-15-news-kenya-second-ebola-case",
+    "event_ms": 1791995020000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 케냐에서 두 번째 에볼라 확진자가 발생했습니다\n\n· 케냐 보건부는 첫 번째 확진자의 가족이 두 번째로 확진 판정을 받았다고 밝혔습니다 (BBC·알자지라)\n· 에볼라 우려로 인해 크루즈 선사들이 케냐 선원들의 승선을 중단했습니다 (데일리 나이션)\n\n출처: BBC·알자지라·데일리 나이션·텔레그래프 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "케냐"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18168838483475368",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dee_aBtiUd1",
+        "kind": "carousel",
+        "at": 1792001279
+      },
+      "instagram": {
+        "id": "18011435135976754",
+        "permalink": "https://www.instagram.com/reel/Dee_n8ggOjk/",
+        "kind": "reel",
+        "at": 1792001413
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792001423
+      },
+      "tiktok": {
+        "id": "7696588109881920775",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696588109881920775",
+        "kind": "video",
+        "at": 1792001679
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792001689
   }
 ]
