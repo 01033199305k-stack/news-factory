@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-15-news-pennsylvania-measles-outbreak-deaths",
+  "topic": "미국 펜실베이니아주 홍역 확산 사망자 6명으로 늘어",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 05:25 KST",
+  "source": "ABC News·NBC News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwAFBVV95cUxPYTJHc1J4YXFlbTNvWkdjWC1qS1FHclFBZlQwaDVuNHUxN2NxNXRxamlwYUdGYWhmTnNpQTZFd2c4cElFck1jT25xOGhlU3hKZmgxMjFrZlVoc0RFREcxUXRIaUx3MXBmOGZMR3dLekt6aTNYT1F4bXpmeEF1Y1ljT0NKbHRSbFhlb21nWjZwdXk4MFdCRUNhSmxjOW5PSkg0S1drVnEwZXFkTjNwYnJEUkxwenVMZTVrQXlISzZTN24",
+    "related": [
+      [
+        "Pennsylvania doctors are seeing what measles can do to previously healthy, unvaccinated kids",
+        "NBC News"
+      ],
+      [
+        "Pennsylvania announces sixth death in measles outbreak as case numbers rise",
+        "The Guardian"
+      ],
+      [
+        "As measles continues to spread, health officials are seeing vaccine interest rise",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania",
+        "Ars Technica"
+      ],
+      [
+        "CDC to deploy additional support to Pennsylvania to probe measles outbreak",
+        "Reuters"
+      ]
+    ],
+    "event_key": "pennsylvania-measles-outbreak-deaths"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 펜실베이니아주 홍역 확산\n사망자 [[6명]]으로 늘어",
+      "sub": "백신 미접종 성인 여성 포함 사망자 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "6명"
+        },
+        {
+          "k": "질병",
+          "v": "홍역"
+        }
+      ],
+      "alt": "미국 펜실베이니아주 홍역 확산 사망자 6명으로 늘어",
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n펜실베이니아주",
+      "video_only": true,
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "펜실베이니아주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "질병 통제 예방 센터 지원",
+          "d": "미국 질병통제예방센터는 홍역 확산 조사를 위해 추가 지원 인력을 파견한다고 밝혔습니다 (로이터)."
+        },
+        {
+          "t": "백신 관심 증가",
+          "d": "홍역이 계속 확산하면서 보건 당국은 백신 접종에 대한 관심이 높아지고 있다고 전했습니다 (ABC 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망자 6명 (가디언·아르스 테크니카)",
+        "펜실베이니아주 홍역 확산 (NBC 뉴스)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "최종 확진자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Ars Technica",
+        "NBC News",
+        "Reuters",
+        "The Guardian",
+        "2026.10.15 07:23 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 펜실베이니아주 홍역 확산\n사망자 6명으로 늘어\n\n· 사망자 중에는 백신을 맞지 않은 39세 여성도 포함됐습니다 (아르스 테크니카)\n· 미 질병통제예방센터는 확산 조사를 위해 추가 지원을 파견합니다 (로이터)\n\n출처: 가디언·NBC 뉴스·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펜실베이니아주에서 홍역 확산으로 사망자가 6명으로 늘었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언은 사망자 중에는 백신을 맞지 않은 39세 여성도 포함됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터는 질병통제예방센터가 확산 조사를 위해 추가 지원을 파견한다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "한국인 피해 확인 안 됨"
+    }
+  ],
+  "hook": "미국 펜실베이니아주서\n홍역으로 [[사망자]] 증가",
+  "broll": [
+    "hospital building exterior",
+    "medical laboratory science"
+  ],
+  "place_en": "Pennsylvania, USA"
+}

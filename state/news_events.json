@@ -2795,5 +2795,15 @@
     "at": 1792015668.417707,
     "country": "튀르키예",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "pennsylvania-measles-outbreak-deaths",
+    "topic": "미국 펜실베이니아주 홍역 확산 사망자 6명으로 늘어",
+    "slug": "2026-10-15-news-pennsylvania-measles-outbreak-deaths",
+    "cluster": "CBMiwAFBVV95cUxPYTJHc1J4YXFlbTNvWkdjWC1qS1FHclFBZlQwaDVuNHUxN2NxNXRxamlwYUdGYWhmTnNpQTZFd2c4cElFck1jT25xOGhlU3hKZmgxMjFrZlVoc0RFREcxUXRIaUx3MXBmOGZMR3dLekt6aTNYT1F4bXpmeEF1Y1ljT0NKbHRSbFhlb21nWjZwdXk4MFdCRUNhSmxjOW5PSkg0S1drVnEwZXFkTjNwYnJEUkxwenVMZTVrQXlISzZTN24",
+    "badge": "breaking",
+    "at": 1792016639.3376153,
+    "country": "미국",
+    "category": "재난"
   }
 ]

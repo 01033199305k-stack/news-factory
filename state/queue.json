@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-10-15-news-pennsylvania-measles-outbreak-deaths",
+    "event_ms": 1792009554000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 펜실베이니아주 홍역 확산\n사망자 6명으로 늘어\n\n· 사망자 중에는 백신을 맞지 않은 39세 여성도 포함됐습니다 (아르스 테크니카)\n· 미 질병통제예방센터는 확산 조사를 위해 추가 지원을 파견합니다 (로이터)\n\n출처: 가디언·NBC 뉴스·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18117837274967399",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DefczXyibNW",
+        "kind": "carousel",
+        "at": 1792016686
+      },
+      "instagram": {
+        "id": "18117552251009010",
+        "permalink": "https://www.instagram.com/reel/DefdEj7iZnG/",
+        "kind": "reel",
+        "at": 1792016847
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792016857
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
