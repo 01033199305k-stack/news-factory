@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-14-news-spacex-limits-starlink-ukraine-military-2026",
+  "topic": "스페이스X, 스타링크 제한 우크라 군 작전 차질",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 15:34 KST",
+  "source": "Financial Times·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw",
+    "related": [
+      [
+        "SpaceX limits Starlink operations in Ukraine, disrupting military missions, presidential aide says",
+        "Reuters"
+      ],
+      [
+        "Ukrainian soldiers in combat have access to Starlink satellite internet restricted",
+        "The Guardian"
+      ],
+      [
+        "Ukraine blindsided by Starlink restrictions and intelligence gaps during Russian attack",
+        "Financial Times"
+      ],
+      [
+        "SpaceX limits Starlink operations in Ukraine, disrupting military ops., missile defense capability",
+        "The Jerusalem Post"
+      ],
+      [
+        "Zelenskyy adviser: Starlink operations restricted in Ukraine overnight",
+        "Euronews.com"
+      ]
+    ],
+    "event_key": "spacex-limits-starlink-ukraine-military-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페이스X, [[스타링크 제한]]\n우크라 군 작전 차질",
+      "sub": "우크라이나 대통령실 고문 밝혀… 미사일 방어망에도 타격",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "스타링크"
+        },
+        {
+          "k": "영향",
+          "v": "군 작전 차질"
+        }
+      ],
+      "alt": "스페이스X, 스타링크 제한 우크라 군 작전 차질",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "위성 인터넷 접속 제한",
+          "d": "우크라이나 대통령실 고문은 밤사이 전투 지역 군인들의 스타링크 접속이 제한됐다고 밝혔습니다 (로이터·가디언)."
+        },
+        {
+          "t": "미사일 방어 등 작전 차질",
+          "d": "러시아 공격 상황에서 정보 공백이 생기며 미사일 방어 역량에도 차질이 발생했습니다 (파이낸셜타임스·예루살렘포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스페이스X의 우크라이나 내 스타링크 제한",
+        "우크라이나 군 작전 및 방공망 차질"
+      ],
+      "unconfirmed": [
+        "스페이스X 측의 공식 제한 사유"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Euronews.com",
+        "Financial Times",
+        "Reuters",
+        "The Guardian",
+        "The Jerusalem Post",
+        "2026.10.14 18:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페이스X가 우크라이나 내 스타링크 접속을 제한했습니다.\n\n· 우크라이나 대통령실 고문은 밤사이 전투 중인 군인들의 위성 인터넷 접속이 제한됐다고 밝혔습니다 (로이터·가디언)\n· 러시아 공격 대응 중 군사 작전과 미사일 방어 역량에 차질이 빚어졌습니다 (파이낸셜타임스·예루살렘포스트)\n· 스페이스X 측의 공식 입장과 구체적인 제한 배경은 아직 알려지지 않았습니다\n\n민간 기업의 위성망 통제가 전쟁에 미치는 영향, 어떻게 보십니까?\n\n출처: 로이터·가디언·파이낸셜타임스·예루살렘포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페이스X가 우크라이나 내 스타링크를 제한했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "우크라이나에서 밤사이 접속이 제한됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 등은 군 작전과 방공망에 차질이 생겼다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "스페이스X의 구체적인 제한 이유는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "군 통신을 민간 기업에 의존하는 구조, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[스타링크]] 제한되자\n전선서 생긴 일",
+  "broll": [
+    "satellite antenna dish",
+    "military command center"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}

@@ -2685,5 +2685,15 @@
     "at": 1791965543.8179398,
     "country": "네덜란드",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "spacex-limits-starlink-ukraine-military-2026",
+    "topic": "스페이스X, 스타링크 제한 우크라 군 작전 차질",
+    "slug": "2026-10-14-news-spacex-limits-starlink-ukraine-military-2026",
+    "cluster": "CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw",
+    "badge": "breaking",
+    "at": 1791968875.014682,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

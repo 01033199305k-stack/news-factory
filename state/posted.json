@@ -14899,5 +14899,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791966046
+  },
+  {
+    "slug": "2026-10-14-news-spacex-limits-starlink-ukraine-military-2026",
+    "event_ms": 1791959640000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스페이스X가 우크라이나 내 스타링크 접속을 제한했습니다.\n\n· 우크라이나 대통령실 고문은 밤사이 전투 중인 군인들의 위성 인터넷 접속이 제한됐다고 밝혔습니다 (로이터·가디언)\n· 러시아 공격 대응 중 군사 작전과 미사일 방어 역량에 차질이 빚어졌습니다 (파이낸셜타임스·예루살렘포스트)\n· 스페이스X 측의 공식 입장과 구체적인 제한 배경은 아직 알려지지 않았습니다\n\n민간 기업의 위성망 통제가 전쟁에 미치는 영향, 어떻게 보십니까?\n\n출처: 로이터·가디언·파이낸셜타임스·예루살렘포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18077644346716173",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeeBsBQHA5C",
+        "kind": "carousel",
+        "at": 1791968920
+      },
+      "instagram": {
+        "id": "18131981077782790",
+        "permalink": "https://www.instagram.com/reel/DeeCCKaFSN5/",
+        "kind": "reel",
+        "at": 1791969121
+      },
+      "youtube": {
+        "id": "qIr9wN1AU7E",
+        "permalink": "https://youtube.com/shorts/qIr9wN1AU7E",
+        "kind": "shorts",
+        "at": 1791969145
+      },
+      "tiktok": {
+        "id": "7696448957840379143",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696448957840379143",
+        "kind": "video",
+        "at": 1791969277
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791969287
   }
 ]
