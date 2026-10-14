@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-14-news-trump-greenland-exploration",
+  "topic": "도널드 트럼프, 그린란드서 자원 탐사 본격 착수",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.14 14:26 KST",
+  "source": "CBS News·CNN·Fox News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMif0FVX3lxTE9WY3BGUktqdGg1Y3hwMm1nWkc0aC11T004NEtsM3FrRkRKSWwzcVM5SjhveGQ2V1lzOEZ6N1FKM0dFaFd0d2g0S1A4eEZ3eHFxLUNnTFVrQzh6NGpERGp3TkpLZXhHYW1QVnFvdUhQRDJKUHZNQ0xaRHRFOGIyekk",
+    "related": [
+      [
+        "Trump says \"massive\" oil, gas and mineral exploration in Greenland is \"getting ready to begin\"",
+        "CBS News"
+      ],
+      [
+        "Trump says ‘massive’ oil and gas drilling is about to begin in Greenland",
+        "CNN"
+      ],
+      [
+        "Trump says 'massive' oil, gas and mineral exploration to begin in Greenland",
+        "Reuters"
+      ],
+      [
+        "Trump announces massive oil, gas and mineral exploration plans in Greenland, touts national security benefits",
+        "Fox News"
+      ],
+      [
+        "Trump says 'massive' oil, gas, mineral exploration to begin in Greenland",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "trump_greenland_exploration"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "도널드 트럼프, 그린란드서\n[[자원 탐사]] 본격 착수",
+      "sub": "대규모 석유와 천연가스 개발 계획 공식 발표",
+      "chips": [],
+      "alt": "도널드 트럼프, 그린란드서 자원 탐사 본격 착수",
+      "map": {
+        "lat": 77.6192349,
+        "lon": -42.8125967,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "그린란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "그린란드",
+      "video_only": true,
+      "map": {
+        "lat": 77.6192349,
+        "lon": -42.8125967,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "그린란드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "자원 개발",
+          "d": "도널드 트럼프가 그린란드에서 대규모 석유, 가스, 광물 탐사가 시작될 준비가 되었다고 밝혔습니다 (CNN·로이터)."
+        },
+        {
+          "t": "안보 이익",
+          "d": "이번 개발 계획이 국가 안보에 도움이 될 것이라고 강조했습니다 (폭스뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "그린란드 자원 탐사 추진",
+        "석유 및 천연가스 개발"
+      ],
+      "unconfirmed": [
+        "구체적인 착수 일정",
+        "덴마크 및 자치 정부와의 협의 결과"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "CNN",
+        "Fox News",
+        "Reuters",
+        "Yahoo",
+        "2026.10.14 16:56 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 도널드 트럼프가 그린란드에서 대규모 자원 탐사를 시작한다고 밝혔습니다\n\n· 석유와 천연가스 및 광물 탐사가 곧 시작될 예정입니다 (CNN·로이터)\n· 이번 탐사 계획이 국가 안보에 도움이 될 것이라고 강조했습니다 (폭스뉴스)\n\n여러분은 미국의 그린란드 자원 개발 추진, 어떻게 보십니까?\n출처: CNN·로이터·폭스뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "도널드 트럼프가 그린란드에서 대규모 자원 탐사가 시작될 준비가 되었다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터는 석유와 천연가스 및 광물 개발이 곧 착수될 예정이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폭스뉴스는 이번 계획이 국가 안보에 도움이 될 것이라고 강조했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 착수 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 그린란드 자원 개발 추진, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "자원 개발 추진"
+    }
+  ],
+  "hook": "트럼프가 밝힌\n[[그린란드]]의 계획은?",
+  "broll": [
+    "arctic landscape snow",
+    "oil rig horizon"
+  ],
+  "place_en": "Greenland"
+}

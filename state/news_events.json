@@ -2665,5 +2665,15 @@
     "at": 1791947276.8593137,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "trump_greenland_exploration",
+    "topic": "도널드 트럼프, 그린란드서 자원 탐사 본격 착수",
+    "slug": "2026-10-14-news-trump-greenland-exploration",
+    "cluster": "CBMif0FVX3lxTE9WY3BGUktqdGg1Y3hwMm1nWkc0aC11T004NEtsM3FrRkRKSWwzcVM5SjhveGQ2V1lzOEZ6N1FKM0dFaFd0d2g0S1A4eEZ3eHFxLUNnTFVrQzh6NGpERGp3TkpLZXhHYW1QVnFvdUhQRDJKUHZNQ0xaRHRFOGIyekk",
+    "badge": "brief",
+    "at": 1791964601.7143085,
+    "country": "그린란드",
+    "category": "국제"
   }
 ]
