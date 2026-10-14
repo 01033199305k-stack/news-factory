@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-15-news-us-inflation-rise-3-7-percent-2026",
+  "topic": "미국 지난달 물가상승률 3.7퍼센트로 치솟아",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 00:47 KST",
+  "source": "Bloomberg.com·CNN·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgFBVV95cUxQSm5KMGt6cDh1MzYtYXZjTnYxMVcyUXl0VnlZNUtvSVNpZWR6NXRYZ1Eyc0E0X0t6dXVPUXVBX1Fzb1I4aE4zVUxNVGtpdlVZUXk0ZF9yWDl1OG5FWkFSSFItS3lLdlRDVHJodkFzakY1RGtZaGctR2c0aUVVWmRBdURha0hERGpCbkx0UWxDd0MyS1FtQVdQMlg4YnRtdXdQM1VGXzcxWWdoZ01zY3plRldhQU5Qa1k5bkRNWkN3",
+    "related": [
+      [
+        "Inflation jumps to 3.7% as gas and diesel prices squeeze consumers ahead of the midterms",
+        "NBC News"
+      ],
+      [
+        "Inflation rose to 3.7% last month in last snapshot of consumer prices before the midterms",
+        "CNN"
+      ],
+      [
+        "Stock market today: Hot inflation report drops tech, drives S&P 500, Nasdaq down",
+        "Yahoo Finance"
+      ],
+      [
+        "US Consumer Prices Rise by Most Since April in Broad Advance",
+        "Bloomberg.com"
+      ],
+      [
+        "US stocks sink as inflation gets worse",
+        "Anchorage Daily News"
+      ]
+    ],
+    "event_key": "us-inflation-rise-3-7-percent-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 지난달 [[물가상승률]]\n3.7퍼센트로 치솟아",
+      "sub": "가스 및 디젤 가격 상승이 소비자 압박",
+      "chips": [
+        {
+          "k": "물가상승률",
+          "v": "3.7%"
+        }
+      ],
+      "alt": "미국 지난달 물가상승률 3.7퍼센트로 치솟아",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "물가 상승",
+          "d": "가스 및 디젤 가격이 오르면서 소비자를 압박하고 있습니다 (NBC 뉴스)."
+        },
+        {
+          "t": "증시 영향",
+          "d": "물가 지표 발표 여파로 기술주가 하락하며 S&P 500과 나스닥 지수가 떨어졌습니다 (야후 파이낸스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 소비자 물가상승률 3.7%",
+        "가스·디젤 가격 상승",
+        "미국 증시 기술주 약세 하락"
+      ],
+      "unconfirmed": [
+        "중앙은행 기준금리 향방에 미칠 최종 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Anchorage Daily News",
+        "Bloomberg.com",
+        "CNN",
+        "NBC News",
+        "Yahoo Finance",
+        "2026.10.15 02:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 지난달 물가상승률 3.7% 기록\n\n· 가스 및 디젤 가격이 상승하면서 소비자가 압박을 받고 있습니다 (NBC 뉴스)\n· 물가 지표 발표 여파로 기술주가 하락하며 증시가 떨어졌습니다 (야후 파이낸스)\n\n❓ 이번 미국의 물가 상승세가 경제에 어떤 영향을 미칠까요?\n출처: NBC 뉴스·야후 파이낸스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국의 지난달 물가상승률이 3.7퍼센트를 기록했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC 뉴스는 가스 및 디젤 가격 상승이 소비자를 압박하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "높은 물가 지표 여파로 기술주가 하락하며 증시가 떨어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 물가 상승이 향후 경제에 미칠 영향은 아직 확실하지 않습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 이번 물가 상승세를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "물가 상승세 전망은?"
+    }
+  ],
+  "hook": "미국 지난달 [[물가상승률]]\n얼마나 올랐나?",
+  "broll": [
+    "stock exchange screen",
+    "gas station price sign"
+  ],
+  "place_en": "Washington, D.C., USA"
+}

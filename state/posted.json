@@ -15168,5 +15168,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1791987499
+  },
+  {
+    "slug": "2026-10-14-news-germany-building-fire-indians-killed-2026",
+    "event_ms": 1791988237000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 독일 아파트 화재로 인도인 3명 숨져\n\n· 부상자 5명이 발생했습니다 (타임스오브인디아)\n· 건물 거주민 1명이 살인 혐의로 체포됐습니다 (NDTV)\n\n출처: NDTV·타임스오브인디아·힌두 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "독일"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18085477694322471",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deex0Zfml9r",
+        "kind": "carousel",
+        "at": 1791994156
+      },
+      "instagram": {
+        "id": "18431369455149288",
+        "permalink": "https://www.instagram.com/reel/DeeyDTXjY3E/",
+        "kind": "reel",
+        "at": 1791994295
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1791994305
+      },
+      "tiktok": {
+        "id": "7696573102355991816",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696573102355991816",
+        "kind": "video",
+        "at": 1791998185
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791998195
+  },
+  {
+    "slug": "2026-10-15-news-albania-education-ministry-fire-protest",
+    "event_ms": 1791990729000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 알바니아 교육부 건물서 화재 발생\n\n· 학생 시위가 3일째 이어지는 가운데 교육부 청사에서 불이 났습니다 (알자지라·로이터)\n· 교육과 일자리 문제를 요구하는 시위대와 경찰 간의 충돌이 벌어졌습니다 (로이터)\n\n출처: 로이터·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "알바니아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18144009637539867",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dee4rQPlPEr",
+        "kind": "carousel",
+        "at": 1791997750
+      },
+      "instagram": {
+        "id": "17911339443517669",
+        "permalink": "https://www.instagram.com/reel/Dee5GlGEp4B/",
+        "kind": "reel",
+        "at": 1791997983
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1791998038
+      },
+      "tiktok": {
+        "id": "7696573676669390087",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696573676669390087",
+        "kind": "video",
+        "at": 1791998316
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1791998326
   }
 ]

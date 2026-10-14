@@ -2745,5 +2745,25 @@
     "at": 1791994103.4700785,
     "country": "독일",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "albania-education-ministry-fire-protest",
+    "topic": "알바니아 교육부 건물서 화재 학생 시위 중 발생",
+    "slug": "2026-10-15-news-albania-education-ministry-fire-protest",
+    "cluster": "CBMirAFBVV95cUxOeTBNcXJGc2dDLUdFX3IwNGhPTi1MaXZkWnpHUll5c21FS2hCM1NYeVMtb2RkaUNkWEhiRXpqaWdWUUtuUjBfYzZrSVJfZHUzaW5SYTJXNi1kdVY0WHYxM054ZWZ0ck5XMFpNTGhGcHdUOFJzQXNsUzhGWjlNZENLWS0tSVJVbVJmNWx1OGE0VUZxS01LdE9Qd2U1Zm9aMlZkb3ZPTGppOWVlLWxt",
+    "badge": "breaking",
+    "at": 1791997680.7883537,
+    "country": "알바니아",
+    "category": "사고"
+  },
+  {
+    "event_key": "us-inflation-rise-3-7-percent-2026",
+    "topic": "미국 지난달 물가상승률 3.7퍼센트로 치솟아",
+    "slug": "2026-10-15-news-us-inflation-rise-3-7-percent-2026",
+    "cluster": "CBMivgFBVV95cUxQSm5KMGt6cDh1MzYtYXZjTnYxMVcyUXl0VnlZNUtvSVNpZWR6NXRYZ1Eyc0E0X0t6dXVPUXVBX1Fzb1I4aE4zVUxNVGtpdlVZUXk0ZF9yWDl1OG5FWkFSSFItS3lLdlRDVHJodkFzakY1RGtZaGctR2c0aUVVWmRBdURha0hERGpCbkx0UWxDd0MyS1FtQVdQMlg4YnRtdXdQM1VGXzcxWWdoZ01zY3plRldhQU5Qa1k5bkRNWkN3",
+    "badge": "breaking",
+    "at": 1791997701.1316905,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
