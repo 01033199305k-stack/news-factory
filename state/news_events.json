@@ -2825,5 +2825,15 @@
     "at": 1792037357.6313884,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "asian-stock-market-chip-selloff-cpi",
+    "topic": "미국 물가 상승에 아시아 증시 폭락 한국 코스피 7% 이상 급락",
+    "slug": "2026-10-15-news-asian-stock-market-chip-selloff-cpi",
+    "cluster": "CBMivgFBVV95cUxObWRlamRtNkFhdlVQY2gydENvZm9xYjU1MGxDT09MTGh5YkhISzFYYko1NTBQMENtMmxfU3BHWmlScWRkOGxsbEp4WDhlajEzQmxld3o1Q2pjUldoM0MtLXBmd2p0OTNjdExxVDZyTER3YzEyLTdxZVRiMGRRMTdDaWFvWi1KdW5fV1Yybk9Hem1VZ0FXS0pHemZFMU04c01mSUlUVG9Yd2k0ck94S2hRMmN6T1F5R0pkTEtjMzln",
+    "badge": "breaking",
+    "at": 1792040812.9297009,
+    "country": "대한민국",
+    "category": "경제·과학"
   }
 ]

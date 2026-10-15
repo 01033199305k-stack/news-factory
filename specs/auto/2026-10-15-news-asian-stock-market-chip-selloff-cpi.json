@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-15-news-asian-stock-market-chip-selloff-cpi",
+  "topic": "미국 물가 상승에 아시아 증시 폭락 한국 코스피 7% 이상 급락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 11:57 KST",
+  "source": "AP News·Bloomberg.com·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgFBVV95cUxObWRlamRtNkFhdlVQY2gydENvZm9xYjU1MGxDT09MTGh5YkhISzFYYko1NTBQMENtMmxfU3BHWmlScWRkOGxsbEp4WDhlajEzQmxld3o1Q2pjUldoM0MtLXBmd2p0OTNjdExxVDZyTER3YzEyLTdxZVRiMGRRMTdDaWFvWi1KdW5fV1Yybk9Hem1VZ0FXS0pHemZFMU04c01mSUlUVG9Yd2k0ck94S2hRMmN6T1F5R0pkTEtjMzln",
+    "related": [
+      [
+        "Asia stocks slump as chip rout deepens after hotter U.S. inflation",
+        "Investing.com"
+      ],
+      [
+        "Global chip sell-off deepens as South Korean market plunges",
+        "Yahoo Finance"
+      ],
+      [
+        "Asian markets sell off as AI trades crumble after hot US CPI data",
+        "Reuters"
+      ],
+      [
+        "Asian Stocks to Fall as Hot CPI Sparks US Selloff: Markets Wrap",
+        "Bloomberg.com"
+      ],
+      [
+        "South Korea’s benchmark Kospi index sinks more than 7% as tech sell-off deepens",
+        "AP News"
+      ]
+    ],
+    "event_key": "asian-stock-market-chip-selloff-cpi"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 물가 상승에 아시아 증시 [[폭락]]\n한국 코스피 [[7%]] 이상 급락",
+      "sub": "",
+      "chips": [
+        {
+          "k": "코스피 하락",
+          "v": "7% 이상"
+        }
+      ],
+      "alt": "미국 물가 상승에 아시아 증시 폭락 한국 코스피 7% 이상 급락",
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울",
+      "video_only": true,
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "아시아 증시",
+          "d": "미국 물가 지표 여파로 아시아 증시와 반도체주가 약세를 보였습니다 (로이터·블룸버그·AP 통신)."
+        },
+        {
+          "t": "미국 증시",
+          "d": "미국 물가 여파로 증시가 하락했습니다 (블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "한국 코스피 7% 이상 하락 (AP 통신)"
+      ],
+      "unconfirmed": [
+        "증시 하락세의 향후 지속 기간",
+        "추가 금리 인상 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Bloomberg.com",
+        "Investing.com",
+        "Reuters",
+        "Yahoo Finance",
+        "2026.10.15 14:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 물가 상승 여파로 아시아 증시가 폭락하고 한국 코스피가 7퍼센트 이상 급락했습니다\n\n· 아시아 전역에서 반도체주와 관련 종목이 약세를 보였습니다 (로이터·블룸버그)\n· 한국 코스피 지수는 기술주 매도세와 함께 7퍼센트 넘게 떨어졌습니다 (AP 통신)\n\n여러분은 이번 증시 급락이 미칠 영향에 대해 어떻게 보십니까?\n\n출처: 로이터·블룸버그·AP 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 물가 상승 여파로 아시아 증시가 폭락하고 한국 코스피가 7퍼센트 이상 급락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 기술주 매도세가 겹치며 한국 코스피가 7퍼센트 이상 하락했다고 보도했습니다.",
+      "card": "points",
+      "screen": "코스피 7% 급락"
+    },
+    {
+      "text": "물가 상승세가 증시에 미칠 추가 영향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 증시 급락이 어떤 영향을 줄 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 물가 여파에\n[[아시아 증시]] 폭락",
+  "broll": [
+    "stock exchange screen",
+    "financial chart down"
+  ],
+  "place_en": "Seoul, South Korea"
+}
