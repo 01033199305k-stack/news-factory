@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-15-news-ukraine-resumes-strikes-russian-refineries-2026",
+  "topic": "우크라, 러시아 정유소 공격 재개 선언",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 19:25 KST",
+  "source": "Al Jazeera·CNN·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms",
+    "related": [
+      [
+        "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger mounts with Trump",
+        "NBC News"
+      ],
+      [
+        "Zelensky says Ukraine will resume strikes on Russian refineries, as frustration with Trump mounts",
+        "CNN"
+      ],
+      [
+        "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+        "The New York Times"
+      ],
+      [
+        "Russia says Ukraine resumes attacks on oil refineries",
+        "Al Jazeera"
+      ],
+      [
+        "Ukraine resumes strikes on Russian refineries as Zelenskiy says 'we're done'",
+        "Reuters"
+      ]
+    ],
+    "event_key": "ukraine-resumes-strikes-russian-refineries-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라, 러시아 [[정유소]]\n공격 재개 선언",
+      "sub": "젤렌스키 대통령 직접 밝혀… 러시아 측도 공격 확인",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "러시아 정유소"
+        },
+        {
+          "k": "주체",
+          "v": "우크라이나"
+        }
+      ],
+      "alt": "우크라, 러시아 정유소 공격 재개 선언",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "젤렌스키 발표",
+          "d": "젤렌스키 우크라이나 대통령은 러시아 정유시설을 겨냥한 타격을 다시 시작한다고 밝혔습니다 (NBC·CNN·NYT·로이터)."
+        },
+        {
+          "t": "러시아 측 반응",
+          "d": "러시아 당국 역시 우크라이나가 정유소 공격을 재개했다고 밝혔습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나의 러시아 정유시설 공격 재개",
+        "젤렌스키 대통령의 공식 입장 표명"
+      ],
+      "unconfirmed": [
+        "구체적인 타격 지점 및 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNN",
+        "NBC News",
+        "Reuters",
+        "The New York Times",
+        "2026.10.15 20:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나가 러시아 정유시설에 대한 공격을 재개했습니다.\n\n· 볼로디미르 젤렌스키 우크라이나 대통령은 러시아 정유소를 겨냥한 공격을 다시 시작하겠다고 밝혔습니다 (NBC·CNN·NYT·로이터).\n· 러시아 당국 또한 우크라이나가 정유소 공격을 재개했다고 확인했습니다 (알자지라).\n· 이번 조치는 트럼프 전 미국 대통령 측을 둘러싼 갈등 속에서 나온 것으로 전해졌습니다 (NBC·CNN·NYT).\n\n에너지 시설을 둘러싼 공방 재개, 앞으로의 전황에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: NBC·CNN·NYT·알자지라·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 러시아 정유소 공격을 재개했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "젤렌스키 대통령은 정유소 타격을 다시 시작한다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정유 시설의 구체적인 피해 규모는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "에너지 시설을 둘러싼 이번 충돌, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "우크라 [[정유소]]\n공격 다시 시작?",
+  "broll": [
+    "oil refinery smoke",
+    "military radar antenna"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
