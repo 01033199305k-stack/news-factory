@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-16-news-neanderthal-spear-injury-iraq-2026",
+  "topic": "이라크 동굴 네안데르탈인 뼈에서 고대 창 흔적 발견",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 00:00 KST",
+  "source": "BBC·CNN·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizAFBVV95cUxONm9md2lxTWQ2OHhpbWV0TGVpVHNvRE94ejRhQmFaejFzOEFwNzF5ZG1YbXI4MDVJQU9UMGtZdEo4dUxmQ25Vc2Q3OU9qM1hWWDg4UTRoX3FSLTRxa1h3OFBFZnR2WGF1OUVtcEtNZ2dtRlpZQkpBdjF1NE9tdk93RGpRaGtfQnJYbktVeUQ4eGlXcjZHR2RmZHQtX1pVNWZ5Yi11TTdZSTFpdHBmcWItR29YM2xrSEVha0ZST2dTTnBFNkE1U2VvWk1rQnU",
+    "related": [
+      [
+        "Neanderthal remains may be earliest human ancestor find killed by a spear",
+        "The Guardian"
+      ],
+      [
+        "A murder mystery reveals realities of Neanderthal life and death",
+        "CNN"
+      ],
+      [
+        "Hole in Neanderthal shoulder bone linked to ancient wooden spear",
+        "BBC"
+      ],
+      [
+        "Bones from Iraqi cave hint at violence and compassion in Neanderthals",
+        "Yahoo"
+      ],
+      [
+        "Evidence for funerary behaviour and lethal trauma in a new Neanderthal individual from Shanidar Cave",
+        "Nature"
+      ]
+    ],
+    "event_key": "neanderthal-spear-injury-iraq-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이라크 동굴 네안데르탈인 뼈에서\n[[고대 창]] 흔적 발견",
+      "sub": "폭력의 흔적 확인",
+      "chips": [],
+      "alt": "이라크 동굴 네안데르탈인 뼈에서 고대 창 흔적 발견",
+      "map": {
+        "lat": 36.8348085,
+        "lon": 44.2191486,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이라크"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이라크\n샤니다르 동굴",
+      "video_only": true,
+      "map": {
+        "lat": 36.8348085,
+        "lon": 44.2191486,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "샤니다르 동굴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "창에 찔린 흔적",
+          "d": "네안데르탈인 어깨뼈 구멍이 고대 나무창과 연결된 것으로 나타났습니다 (BBC·가디언)."
+        },
+        {
+          "t": "샤니다르 동굴",
+          "d": "이라크 동굴에서 발견된 뼈는 폭력과 함께 연민의 흔적도 보여 준다고 야후 등이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "네안데르탈인 어깨뼈 구멍",
+        "고대 나무창 흔적"
+      ],
+      "unconfirmed": [
+        "정확한 사망 시기와 사건 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Nature",
+        "The Guardian",
+        "Yahoo",
+        "2026.10.16 01:21 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이라크 동굴 네안데르탈인 뼈에서 고대 창 흔적 발견\n\n· 네안데르탈인 어깨뼈의 구멍이 고대 나무창과 연결된 것으로 나타났습니다 (BBC·가디언)\n· 이라크 동굴에서 발견된 뼈는 폭력과 연민의 흔적을 보여 준다고 보도됐습니다 (야후·CNN)\n\n출처: 가디언·CNN·BBC·야후·Nature 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이라크 동굴에서 발견된 네안데르탈인 뼈에서 고대 창 흔적이 발견됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 어깨뼈의 구멍이 고대 나무창과 연결된 것으로 나타났다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번에 발견된 뼈는 당시의 폭력과 연민의 흔적을 보여 준다고 보도됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사건 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이라크 동굴 [[네안데르탈인]] 뼈에서\n무슨 일이?",
+  "broll": [
+    "cave entrance rock",
+    "ancient bone fossil"
+  ],
+  "place_en": "Shanidar Cave, Iraq"
+}
