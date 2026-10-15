@@ -15545,5 +15545,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792022978
+  },
+  {
+    "slug": "2026-10-15-news-c1-six-flags-roller-coaster-death",
+    "event_ms": 1792019040000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 놀이공원 롤러코스터서 탑승객 사망 사고 발생 (11Alive·CNN)\n\n· 조지아주 식스 플래그 놀이기구 탑승 중 인명 피해가 발생했습니다 (11Alive·WTVC)\n· 목격자들은 사고 당시 끔찍한 순간이었다고 전했습니다 (11Alive)\n\n출처: AP·11Alive·NBC·CNN·WTVC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18148642651564316",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Defyc6tmkRE",
+        "kind": "carousel",
+        "at": 1792028042
+      },
+      "instagram": {
+        "id": "18488707963128932",
+        "permalink": "https://www.instagram.com/reel/Defys2LAjO2/",
+        "kind": "reel",
+        "at": 1792028192
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792028202
+      },
+      "tiktok": {
+        "id": "7696702551487483142",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696702551487483142",
+        "kind": "video",
+        "at": 1792028324
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792028334
   }
 ]

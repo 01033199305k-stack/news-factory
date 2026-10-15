@@ -2805,5 +2805,15 @@
     "at": 1792016639.3376153,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "c1-six-flags-roller-coaster-death",
+    "topic": "미국 식스 플래그 놀이공원서 롤러코스터 탑승객 사망 사고",
+    "slug": "2026-10-15-news-c1-six-flags-roller-coaster-death",
+    "cluster": "CBMipgFBVV95cUxOTXhUc3NDSEFtX3VQY1hMMmd2c19OQTJoZ0o4RmwzS1VhYThTZjh3VlZlcDh6ZldydWh1dnZVcEQ0emlZLUIxRWswX0huMDVyVW80YUIydGtRU1hpOTRuQU83WDJzWFY3SjVGX05hT1lubFVzVGQxWTJyU0tnMW1hdjBSZVFWZTVfYjQwZ0RXSkFfYWMzOWl5d25NTUtpS3o5a1VuVUpn",
+    "badge": "breaking",
+    "at": 1792027987.5218606,
+    "country": "미국",
+    "category": "사고"
   }
 ]

@@ -1,0 +1,118 @@
+{
+  "slug": "2026-10-15-news-c1-six-flags-roller-coaster-death",
+  "topic": "미국 식스 플래그 놀이공원서 롤러코스터 탑승객 사망 사고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 08:04 KST",
+  "source": "AP News·CNN·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxOTXhUc3NDSEFtX3VQY1hMMmd2c19OQTJoZ0o4RmwzS1VhYThTZjh3VlZlcDh6ZldydWh1dnZVcEQ0emlZLUIxRWswX0huMDVyVW80YUIydGtRU1hpOTRuQU83WDJzWFY3SjVGX05hT1lubFVzVGQxWTJyU0tnMW1hdjBSZVFWZTVfYjQwZ0RXSkFfYWMzOWl5d25NTUtpS3o5a1VuVUpn",
+    "related": [
+      [
+        "Roller coaster rider’s death puts spotlight on the safety of ever more thrilling rides",
+        "AP News"
+      ],
+      [
+        "Witnesses describe horrifying moment when man was killed on the Six Flags Over Georgia roller coaster",
+        "11Alive.com"
+      ],
+      [
+        "How safe are roller coasters? What riders should know",
+        "NBC News"
+      ],
+      [
+        "How a day of fun and thrill-seeking turned into a horrifying tragedy at Six Flags",
+        "CNN"
+      ],
+      [
+        "Dalton woman shares video after deadly Goliath incident at Six Flags Over Georgia",
+        "WTVC"
+      ]
+    ],
+    "event_key": "c1-six-flags-roller-coaster-death"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 [[식스 플래그]] 놀이공원서\n롤러코스터 탑승객 사망 [[사고]]",
+      "sub": "조지아주 놀이기구 탑승 중 인명 피해 발생",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "미국 조지아주"
+        }
+      ],
+      "alt": "미국 식스 플래그 놀이공원서 롤러코스터 탑승객 사망 사고"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 발생",
+          "d": "미국 조지아주의 놀이공원 식스 플래그에서 롤러코스터 탑승객이 숨지는 사고가 발생했습니다 (11Alive·CNN·WTVC)."
+        },
+        {
+          "t": "목격자 진술",
+          "d": "목격자들은 당시 끔찍한 사고 순간을 증언했습니다 (11Alive)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 조지아주 식스 플래그 놀이공원",
+        "롤러코스터 탑승객 사망 사고 발생"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "11Alive.com",
+        "AP News",
+        "CNN",
+        "NBC News",
+        "WTVC",
+        "2026.10.15 10:32 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 놀이공원 롤러코스터서 탑승객 사망 사고 발생 (11Alive·CNN)\n\n· 조지아주 식스 플래그 놀이기구 탑승 중 인명 피해가 발생했습니다 (11Alive·WTVC)\n· 목격자들은 사고 당시 끔찍한 순간이었다고 전했습니다 (11Alive)\n\n출처: AP·11Alive·NBC·CNN·WTVC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 조지아주 놀이공원에서 롤러코스터 탑승객이 숨지는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "식스 플래그 놀이공원에서 놀이기구 탑승 중 참사가 벌어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "목격자들은 당시 끔찍한 순간이었다고 증언했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 경위와 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 놀이공원\n[[롤러코스터]]서 무슨 일이?",
+  "broll": [
+    "roller coaster track",
+    "amusement park night"
+  ],
+  "place_en": "Six Flags Over Georgia, Atlanta, USA"
+}
