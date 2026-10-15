@@ -15816,5 +15816,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792055338
+  },
+  {
+    "slug": "2026-10-15-news-us-doj-charges-north-korean-it-worker-fraud-2026",
+    "event_ms": 1792048740000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 법무부, 북한 IT 인력 위장 취업 연루 14명 기소\n\n· 미국 법무부는 북한 IT 인력 위장 취업 사기 범죄와 관련해 14명을 기소했다고 밝혔습니다 (더 해커 뉴스·VOA)\n· 70곳이 넘는 미국 현지 기업에 북한 인력이 위장 취업한 것으로 나타났습니다 (타임스 오브 인디아)\n· 미국 내 노트북 팜 40여 곳이 폐쇄 조치됐습니다 (더 해커 뉴스)\n\n🇰🇷 북한 정권의 외화벌이 자금 조달망을 겨냥한 적발 조치입니다\n이번 단속 조치에 대해 어떻게 생각하십니까?\n출처: 더 해커 뉴스·VOA·타임스 오브 인디아 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18571759045079539",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Degtc_-G53P",
+        "kind": "carousel",
+        "at": 1792058976
+      },
+      "instagram": {
+        "id": "18106817096257719",
+        "permalink": "https://www.instagram.com/reel/DegtzsIE39O/",
+        "kind": "reel",
+        "at": 1792059182
+      },
+      "youtube": {
+        "id": "NIVif09ZkdE",
+        "permalink": "https://youtube.com/shorts/NIVif09ZkdE",
+        "kind": "shorts",
+        "at": 1792059246
+      },
+      "tiktok": {
+        "id": "7696835917419449616",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696835917419449616",
+        "kind": "video",
+        "at": 1792059378
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792059388
   }
 ]

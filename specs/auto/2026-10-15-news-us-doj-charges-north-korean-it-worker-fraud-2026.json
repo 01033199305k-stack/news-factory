@@ -1,0 +1,154 @@
+{
+  "slug": "2026-10-15-news-us-doj-charges-north-korean-it-worker-fraud-2026",
+  "topic": "미 법무부, 북한 IT 취업 연루 혐의자 14명 기소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 16:19 KST",
+  "source": "Reuters·The New York Times·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgJBVV95cUxQRU5LWTNFQTRvS1cyQnV0TVVSTTdnMm1sb0lRaWdxM2U5YUF3c3JaWWNjVzYwUXVWR0t5R18yU3BpYUVtcjJvYldaUGRYLU1NOEN1anJjcUF3WnA5TlY0QkFzeWVYZ0FmdUJPUFJ3SXB0OW44N1NsX0cxeHh0OTJkY3MzUEhJYVloY3g3TldsYThzVUsxUGM2dUIweVNNR0xYUEI0d19HMWxqcGlxUUdIVzBEd1hBbGRfOVBpSGJ0bHVES3pydEdrQmFuRThhSHRVWXlDX1NtWnJNSVFuMms4RUtjUDNQLXdPQ3RUVTMwdFFzQTl1NW1XdUpqbVBaUkt1NzFwMnhYMVlfYmJnTlRxaUtOY25jSmRsdGFMY2xjeEo4VWZmaTY2WXVIcmlJRF9qSHh1X1VzdlJmSER1X3fSAcMCQVVfeXFMTVBPS2QtS3Q3S3hKQXlLWFBJemliQjU0VDloWDFDTklmblZnTG5fVDdnTjJzWkhHTXRBb1k3bC1sNXJEeE1hMkd6U1VTbkVFcnlLbTgxcE43Qk5rT0J4RnhoU2dad2cxYS03eUxUS05nRmpzb3RMcnBjQzlRVGhRMEFxUm9xcUZfZjlmUWxmVVJYX2s5eUxXX2Q3Z3ZRNXRGNnZ1WjN4UG0xc25jc2d2ZGh3dHo1RzNXR2JfdW16ek9kbm1SclVxUFljcUhHQlVJU0tRZC1qaFZ0MTJGVXFsdzRIYmh3cHpOUElUSHRkTHFnQjl2VG84R3NpTjE1LXNobFh3ZXRxeUYtNEdsaWFEbWZ1VGliMm9lUHRaUDlBaWNxdFpnbkluOXV4VWhOTUJaOVFlM1F0MnU2NTZRZWhjaDVURU0",
+    "related": [
+      [
+        "Justice Department cracks on America's 'North Korean employees problem'; says: More than 70 US companies",
+        "The Times of India"
+      ],
+      [
+        "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+        "The Hacker News"
+      ],
+      [
+        "DOJ arrests two, seizes 187 devices in North Korean laptop farm crackdown in Texas",
+        "Reuters"
+      ],
+      [
+        "F.B.I. Disrupts Pyongyang Revenue Stream: North Koreans in U.S. Tech Jobs",
+        "The New York Times"
+      ],
+      [
+        "DOJ charges 14 in North Korean IT worker scheme",
+        "VOA - Voice of America English News"
+      ]
+    ],
+    "event_key": "us-doj-charges-north-korean-it-worker-fraud-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 법무부, 북한 IT 취업 연루\n혐의자 [[14명 기소]]",
+      "sub": "미국 기업 70여 곳에 위장 취업해 자금을 조달한 혐의입니다",
+      "chips": [
+        {
+          "k": "기소",
+          "v": "14명"
+        }
+      ],
+      "alt": "미 법무부, 북한 IT 취업 연루 혐의자 14명 기소",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴DC",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴DC"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "14명 기소 조치",
+          "d": "미국 법무부는 북한 IT 인력의 위장 취업 조직에 연루된 14명을 기소했다고 밝혔습니다 (더 해커 뉴스·VOA)."
+        },
+        {
+          "t": "미국 기업 대거 침투",
+          "d": "북한 인력이 미국 내 70개 이상의 기업에 위장 취업한 것으로 파악됐습니다 (타임스 오브 인디아)."
+        },
+        {
+          "t": "노트북 팜 폐쇄",
+          "d": "수사 당국은 현지에서 운영되던 40여 곳의 노트북 팜을 적발해 폐쇄했습니다 (더 해커 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 법무부, 북한 IT 취업망 14명 기소",
+        "미국 기업 70여 곳 침투 확인",
+        "노트북 팜 40여 곳 폐쇄 조치"
+      ],
+      "unconfirmed": [
+        "북한으로 송금된 총액 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Reuters",
+        "The Hacker News",
+        "The New York Times",
+        "The Times of India",
+        "VOA - Voice of America English News",
+        "2026.10.15 19:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 법무부, 북한 IT 인력 위장 취업 연루 14명 기소\n\n· 미국 법무부는 북한 IT 인력 위장 취업 사기 범죄와 관련해 14명을 기소했다고 밝혔습니다 (더 해커 뉴스·VOA)\n· 70곳이 넘는 미국 현지 기업에 북한 인력이 위장 취업한 것으로 나타났습니다 (타임스 오브 인디아)\n· 미국 내 노트북 팜 40여 곳이 폐쇄 조치됐습니다 (더 해커 뉴스)\n\n🇰🇷 북한 정권의 외화벌이 자금 조달망을 겨냥한 적발 조치입니다\n이번 단속 조치에 대해 어떻게 생각하십니까?\n출처: 더 해커 뉴스·VOA·타임스 오브 인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 법무부가 북한 IT 인력 위장 취업에 연루된 14명을 기소했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "수사 당국은 미국에서 노트북 팜 40여 곳을 폐쇄했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신들은 70곳 넘는 미국 기업에 북한 인력이 침투했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "북한으로 빠져나간 정확한 금액은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "북한 정권의 해외 외화벌이 자금줄을 차단하기 위한 조치로 풀이됩니다.",
+      "card": "korea",
+      "screen": "북한 자금줄 차단"
+    },
+    {
+      "text": "미국의 이번 북한 취업망 단속, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 기업에 침투한\n[[북한 IT 조직]]",
+  "broll": [
+    "laptop office night",
+    "server room racks"
+  ],
+  "place_en": "Washington, D.C., United States"
+}
