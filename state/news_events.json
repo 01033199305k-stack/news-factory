@@ -2905,5 +2905,15 @@
     "at": 1792077713.021961,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "black-sea-drone-attack-ship-sinking-2026",
+    "topic": "흑해서 드론 공격으로 선박 침몰 · 실종 11명",
+    "slug": "2026-10-15-news-black-sea-drone-attack-ship-sinking-2026",
+    "cluster": "CBMiekFVX3lxTE9XVDNwb2E1TmtfTF8yRlY1NTAwWXpCUW85T1lvMUdGWWFnclZsTjJ3NVVKTkU5bzEyNU42UlF0bjdvbV94OEk4N01WdWhIY0hxcER1TnFqSnJmLXRGbnpFUzRVd0lYSEY0RXphYmNHV2RJdkEtVWVLamlR",
+    "badge": "breaking",
+    "at": 1792080240.9627728,
+    "country": "불가리아",
+    "category": "사고"
   }
 ]

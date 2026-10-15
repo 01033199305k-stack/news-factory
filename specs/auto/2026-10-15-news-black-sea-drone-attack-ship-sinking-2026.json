@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-15-news-black-sea-drone-attack-ship-sinking-2026",
+  "topic": "흑해서 드론 공격으로 선박 침몰 · 실종 11명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 22:44 KST",
+  "source": "AP News·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiekFVX3lxTE9XVDNwb2E1TmtfTF8yRlY1NTAwWXpCUW85T1lvMUdGWWFnclZsTjJ3NVVKTkU5bzEyNU42UlF0bjdvbV94OEk4N01WdWhIY0hxcER1TnFqSnJmLXRGbnpFUzRVd0lYSEY0RXphYmNHV2RJdkEtVWVLamlR",
+    "related": [
+      [
+        "NATO allies to meet over Black Sea drone attacks on shipping",
+        "POLITICO.eu"
+      ],
+      [
+        "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack",
+        "BBC"
+      ],
+      [
+        "Drones hit ships in Black Sea, sinking 1 and prompting rescue operations, Bulgaria says",
+        "AP News"
+      ],
+      [
+        "11 sailors missing after drone strike sinks merchant vessel near Bulgarian waters",
+        "CNN"
+      ],
+      [
+        "NATO may redeploy anti-drone defenses as attacks sink more Black Sea shipping",
+        "Ars Technica"
+      ]
+    ],
+    "event_key": "black-sea-drone-attack-ship-sinking-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "흑해서 드론 공격으로\n선박 [[침몰]] · 실종 11명",
+      "sub": "불가리아 인근 해역에서 상선이 피격당해",
+      "chips": [
+        {
+          "k": "실종",
+          "v": "11명"
+        },
+        {
+          "k": "공격",
+          "v": "드론"
+        }
+      ],
+      "alt": "흑해서 드론 공격으로 선박 침몰 · 실종 11명",
+      "map": {
+        "lat": 43.872824,
+        "lon": 33.9938077,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "불가리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "불가리아\n흑해",
+      "video_only": true,
+      "map": {
+        "lat": 43.872824,
+        "lon": 33.9938077,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "흑해"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "불가리아 영해 인근",
+          "d": "불가리아 인근 해역에서 상선이 드론 공격을 받아 침몰했다고 AP 통신 등이 보도했습니다."
+        },
+        {
+          "t": "긴급 회의 개최",
+          "d": "나토 동맹국들은 흑해 해운 선박에 대한 드론 공격 대응을 논의하기 위해 회의를 엽니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "흑해 상선 드론 피격",
+        "선박 침몰 및 실종 11명",
+        "나토 대응 회의 소집"
+      ],
+      "unconfirmed": [
+        "공격 주체",
+        "구조 작업 진척 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Ars Technica",
+        "BBC",
+        "CNN",
+        "POLITICO.eu",
+        "2026.10.16 01:03 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 흑해서 드론 공격으로 선박 침몰·실종 11명 (CNN·AP News)\n\n· 불가리아 인근 해역에서 상선이 피격당해 구조 작업이 진행 중입니다 (AP News)\n· 나토 동맹국들은 흑해 해운 선박 공격 대응을 논의하기 위해 회의를 엽니다 (POLITICO.eu)\n\n이번 흑해 드론 공격 사태에 대해 어떻게 생각하십니까?\n\n출처: POLITICO.eu·BBC·AP News·CNN·Ars Technica 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "흑해에서 드론 공격으로 상선이 침몰하고 11명이 실종됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신 등은 불가리아 인근 해역에서 사고가 발생해 구조 작업이 진행 중이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "나토 동맹국들은 해운 선박 피격 대응을 논의하기 위해 긴급 회의를 엽니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 공격 주체와 추가 피해 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "흑해에서 [[드론]] 공격으로\n무슨 일이?",
+  "broll": [
+    "cargo ship sea",
+    "rescue boat ocean"
+  ],
+  "place_en": "Black Sea"
+}
