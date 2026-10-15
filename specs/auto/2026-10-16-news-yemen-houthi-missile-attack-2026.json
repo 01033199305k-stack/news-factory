@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-16-news-yemen-houthi-missile-attack-2026",
+  "topic": "예멘 대통령궁 미사일 공격 2명 사망 보도",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 00:31 KST",
+  "source": "AP News·Al Jazeera·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9fNUFycEtoM2tnclA4RkVaZHh0bkZJanktTm9YdmdEYkI2WFJMQTBaOS1BS19uZ3c2a18tMS1BSFpqcGlfUkRuaVlOWkNNZlBvcTNNWWxJbjFqblU",
+    "related": [
+      [
+        "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+        "BBC"
+      ],
+      [
+        "Iran war live: Yemen’s government says PM, cabinet survived Aden attack",
+        "Al Jazeera"
+      ],
+      [
+        "Iran-aligned Houthis target Yemeni presidential palace, prime minister remains unharmed",
+        "CNN"
+      ],
+      [
+        "At least 6 explosions strike near Yemen government buildings in Aden, witnesses say",
+        "AP News"
+      ],
+      [
+        "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "The Jerusalem Post"
+      ]
+    ],
+    "event_key": "yemen-houthi-missile-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "예멘 대통령궁 미사일 공격\n[[2명]] 사망 보도",
+      "sub": "아덴 정부 청사 인근에서 폭발 6차례 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        },
+        {
+          "k": "폭발",
+          "v": "6차례"
+        }
+      ],
+      "alt": "예멘 대통령궁 미사일 공격 2명 사망 보도",
+      "map": {
+        "lat": 12.789585,
+        "lon": 45.028504,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "예멘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "예멘\n아덴",
+      "video_only": true,
+      "map": {
+        "lat": 12.789585,
+        "lon": 45.028504,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아덴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "총리 안전",
+          "d": "예멘 정부는 총리와 내각 인물들이 아덴 공격에서 무사하다고 밝혔습니다 (알자지라·CNN)."
+        },
+        {
+          "t": "폭발 발생",
+          "d": "아덴의 정부 청사 인근에서 적어도 6차례의 폭발이 발생했습니다 (AP 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 2명 (BBC)",
+        "총리와 내각 무사 (알자지라·CNN)",
+        "폭발 6차례 (AP 통신)"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모 및 사상자 수 추가 집계"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "The Jerusalem Post",
+        "2026.10.16 02:27 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 예멘 대통령궁 미사일 공격으로 2명 사망 (BBC)\n\n· 아덴 정부 청사 인근에서 폭발 6차례 발생 (AP)\n· 예멘 정부는 총리와 내각 인물들이 무사하다고 발표 (알자지라·CNN)\n· 후티 반군의 대통령궁 타격으로 발생한 사건 (BBC)\n\n출처: BBC·알자지라·CNN·AP News·제루살렘 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "예멘 대통령궁이 미사일 공격을 받아 2명이 숨졌다고 BBC가 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "아덴에 있는 예멘 정부 청사 인근에서는 여섯 차례의 폭발이 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "예멘 정부는 총리와 내각 인물들이 이번 공격에서 무사하다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 추가 사상자는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "예멘 대통령궁에\n날아든 [[미사일]]",
+  "broll": [
+    "government building exterior",
+    "smoke city street"
+  ],
+  "place_en": "Aden, Yemen"
+}

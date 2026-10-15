@@ -2925,5 +2925,15 @@
     "at": 1792081328.09362,
     "country": "이라크",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "yemen-houthi-missile-attack-2026",
+    "topic": "예멘 대통령궁 미사일 공격 2명 사망 보도",
+    "slug": "2026-10-16-news-yemen-houthi-missile-attack-2026",
+    "cluster": "CBMiW0FVX3lxTE9fNUFycEtoM2tnclA4RkVaZHh0bkZJanktTm9YdmdEYkI2WFJMQTBaOS1BS19uZ3c2a18tMS1BSFpqcGlfUkRuaVlOWkNNZlBvcTNNWWxJbjFqblU",
+    "badge": "breaking",
+    "at": 1792085240.4116137,
+    "country": "예멘",
+    "category": "총격·테러"
   }
 ]
