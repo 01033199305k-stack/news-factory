@@ -15598,5 +15598,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792028334
+  },
+  {
+    "slug": "2026-10-15-news-russia-detains-japanese-journalist",
+    "event_ms": 1792037357631,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 러시아 정부가 일본 기자를 간첩 혐의로 체포했습니다\n\n· 러시아 당국은 일본 국적 기자를 체포했습니다 (BBC)\n· 일본 정부는 이에 항의했습니다 (뉴욕타임스)\n\n출처: BBC·뉴욕타임스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18016220153976739",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DegEUM1kcUe",
+        "kind": "carousel",
+        "at": 1792037407
+      },
+      "instagram": {
+        "id": "18024861824869528",
+        "permalink": "https://www.instagram.com/reel/DegEhPtiAsr/",
+        "kind": "reel",
+        "at": 1792037534
+      },
+      "youtube": {
+        "id": "gQKFOfpfOJ0",
+        "permalink": "https://youtube.com/shorts/gQKFOfpfOJ0",
+        "kind": "shorts",
+        "at": 1792037561
+      },
+      "tiktok": {
+        "id": "7696742778730401044",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696742778730401044",
+        "kind": "video",
+        "at": 1792037693
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792037703
   }
 ]

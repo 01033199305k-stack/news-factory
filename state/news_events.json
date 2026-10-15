@@ -2815,5 +2815,15 @@
     "at": 1792027987.5218606,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "russia_detains_japanese_journalist",
+    "topic": "러시아 정부가 일본 기자를 간첩 혐의로 체포했습니다",
+    "slug": "2026-10-15-news-russia-detains-japanese-journalist",
+    "cluster": "CBMipAFBVV95cUxNYjRfd1dVd1puM3BORXMtdXFfQ3dmWURILUJnZ2RXZDU3UTlBZThreFA5aE9sMUtlMTVablNHNVNFalBXYUlSb1dRTktUWkhLQkNtQVUzRUtoZHVrenBnOE9LZjcybkljcVJueW9sa3MtVERBVUN5VzFQaF9kSjUxbzR1ODBPY2VTNHFRMVJvdVVsdVVtU0YwRjdzQkNSenIxSVlWNg",
+    "badge": "brief",
+    "at": 1792037357.6313884,
+    "country": "러시아",
+    "category": "국제"
   }
 ]

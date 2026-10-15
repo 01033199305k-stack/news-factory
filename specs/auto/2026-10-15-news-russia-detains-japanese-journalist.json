@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-15-news-russia-detains-japanese-journalist",
+  "topic": "러시아 정부가 일본 기자를 간첩 혐의로 체포했습니다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 07:48 KST",
+  "source": "Al Jazeera·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxNYjRfd1dVd1puM3BORXMtdXFfQ3dmWURILUJnZ2RXZDU3UTlBZThreFA5aE9sMUtlMTVablNHNVNFalBXYUlSb1dRTktUWkhLQkNtQVUzRUtoZHVrenBnOE9LZjcybkljcVJueW9sa3MtVERBVUN5VzFQaF9kSjUxbzR1ODBPY2VTNHFRMVJvdVVsdVVtU0YwRjdzQkNSenIxSVlWNg",
+    "related": [
+      [
+        "Russia detains Japanese journalist, alleging espionage",
+        "The Washington Post"
+      ],
+      [
+        "Russia detains Japanese journalist on suspicion of spying",
+        "CNN"
+      ],
+      [
+        "Japan Protests Russia’s Detention of Journalist Accused of Spying",
+        "The New York Times"
+      ],
+      [
+        "Russia’s arrest of Japanese journalist: Why are tensions rising?",
+        "Al Jazeera"
+      ],
+      [
+        "Russia arrests Japanese journalist for alleged espionage",
+        "BBC"
+      ]
+    ],
+    "event_key": "russia_detains_japanese_journalist"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아 정부가 [[일본 기자]]를\n간첩 혐의로 체포했습니다",
+      "sub": "일본 정부는 러시아의 억류 조치에 항의했습니다.",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "일본 기자"
+        },
+        {
+          "k": "혐의",
+          "v": "간첩 혐의"
+        }
+      ],
+      "alt": "러시아 정부가 일본 기자를 간첩 혐의로 체포했습니다",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "일본 정부 항의",
+          "d": "일본 정부는 기자 체포에 대해 러시아 측에 항의했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "일본 국적 기자 체포",
+        "간첩 혐의 적용",
+        "일본 정부의 항의"
+      ],
+      "unconfirmed": [
+        "구체적인 체포 경위",
+        "향후 재판 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "The New York Times",
+        "The Washington Post",
+        "2026.10.15 13:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아 정부가 일본 기자를 간첩 혐의로 체포했습니다\n\n· 러시아 당국은 일본 국적 기자를 체포했습니다 (BBC)\n· 일본 정부는 이에 항의했습니다 (뉴욕타임스)\n\n출처: BBC·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 정부가 일본 국적 기자를 간첩 혐의로 체포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "일본 정부는 이에 항의했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 체포 경위나 재판 일정은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 양국 간 상황을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "러시아가 [[일본 기자]]를\n체포한 이유는?",
+  "broll": [
+    "moscow street building",
+    "news microphone press"
+  ],
+  "place_en": "Moscow, Russia"
+}
