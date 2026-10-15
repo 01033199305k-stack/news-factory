@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-15-news-fort-hood-shooter-execution-livestream-cancelled",
+    "event_ms": 1792075024000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국, 총기 난동범 사형 생중계 계획 철회\n\n· 포트 후드 총기 난동범의 총살형 생중계 취소 (파이낸셜타임스·BBC)\n· 반발 끝에 계획 백지화 (파이낸셜타임스)\n\n여러분은 사형 집행 생중계에 대해 어떤 입장을 갖고 계십니까?\n출처: Financial Times·BBC·Sky News 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18032836127911607",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DehRSHglt-7",
+        "kind": "carousel",
+        "at": 1792077760
+      },
+      "instagram": {
+        "id": "18108454799611676",
+        "permalink": "https://www.instagram.com/reel/DehRkVoH71_/",
+        "kind": "reel",
+        "at": 1792077927
+      },
+      "youtube": {
+        "id": "NaJzfbjTJIc",
+        "permalink": "https://youtube.com/shorts/NaJzfbjTJIc",
+        "kind": "shorts",
+        "at": 1792077943
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

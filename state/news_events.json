@@ -2895,5 +2895,15 @@
     "at": 1792066497.1577628,
     "country": "튀르키예",
     "category": "재난"
+  },
+  {
+    "event_key": "fort-hood-shooter-execution-livestream-cancelled",
+    "topic": "미국, 총기 난동범 사형 생중계 계획 철회",
+    "slug": "2026-10-15-news-fort-hood-shooter-execution-livestream-cancelled",
+    "cluster": "CBMihAFBVV95cUxPY1NSSklpdXpTUm80bEo1T3pibHNjTzF1Z2pBaHNpeWstOXIydW1ILUN4WlVWNUtCaDdJcWNjbEJGSjFKWUxPT2xRaHFHNlQtdlNHSEVvOGFLU0E2NDVjU08tUnVXdkZTY3Z3Vmk1VERPR0lLUEhrSW1ELWxYS0NIX3NwZFE",
+    "badge": "breaking",
+    "at": 1792077713.021961,
+    "country": "미국",
+    "category": "국제"
   }
 ]

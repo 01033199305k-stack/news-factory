@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-15-news-fort-hood-shooter-execution-livestream-cancelled",
+  "topic": "미국, 총기 난동범 사형 생중계 계획 철회",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 23:37 KST",
+  "source": "AP News·BBC·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxPY1NSSklpdXpTUm80bEo1T3pibHNjTzF1Z2pBaHNpeWstOXIydW1ILUN4WlVWNUtCaDdJcWNjbEJGSjFKWUxPT2xRaHFHNlQtdlNHSEVvOGFLU0E2NDVjU08tUnVXdkZTY3Z3Vmk1VERPR0lLUEhrSW1ELWxYS0NIX3NwZFE",
+    "related": [
+      [
+        "Donald Trump cancels Pete Hegseth’s plan to livestream execution after backlash",
+        "Financial Times"
+      ],
+      [
+        "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+        "BBC"
+      ],
+      [
+        "Firing squad execution of mass killer will not be livestreamed, Trump says",
+        "Sky News"
+      ],
+      [
+        "The Fort Hood shooter killed my father. The world shouldn’t see his execution",
+        "The Times"
+      ],
+      [
+        "Pentagon says the firing squad execution of Fort Hood shooter Nidal Malik Hasan will be livestreamed",
+        "AP News"
+      ]
+    ],
+    "event_key": "fort-hood-shooter-execution-livestream-cancelled"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 총기 난동범 [[사형]]\n생중계 계획 철회",
+      "sub": "거센 반발 끝에 총살형 생중계 취소 결정",
+      "chips": [],
+      "alt": "미국, 총기 난동범 사형 생중계 계획 철회",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "생중계 취소",
+          "d": "미국이 포트 후드 총기 난동범의 총살형 생중계 계획을 철회했다고 파이낸셜타임스 등이 보도했습니다."
+        },
+        {
+          "t": "반발 여론",
+          "d": "반발 끝에 결정됐습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "포트 후드 총기 난동범 처형 생중계 취소 (FT·BBC)"
+      ],
+      "unconfirmed": [
+        "향후 비공개 처형 집행 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "Financial Times",
+        "Sky News",
+        "The Times",
+        "2026.10.16 00:21 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국, 총기 난동범 사형 생중계 계획 철회\n\n· 포트 후드 총기 난동범의 총살형 생중계 취소 (파이낸셜타임스·BBC)\n· 반발 끝에 계획 백지화 (파이낸셜타임스)\n\n여러분은 사형 집행 생중계에 대해 어떤 입장을 갖고 계십니까?\n출처: Financial Times·BBC·Sky News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 총기 난동범의 사형 집행 생중계 계획을 철회했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이낸셜타임스는 포트 후드 총기 난동범의 총살형 생중계가 취소됐다고 전했습니다.",
+      "card": "points",
+      "screen": "사형 생중계 취소"
+    },
+    {
+      "text": "반발 끝에 이러한 결정이 내려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 비공개 처형 일정은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 사형 집행 생중계에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 [[총기 난동범]]\n사형 생중계 취소된 이유는?",
+  "broll": [
+    "court building exterior",
+    "usa flag capitol"
+  ],
+  "place_en": "Washington, DC, USA"
+}
