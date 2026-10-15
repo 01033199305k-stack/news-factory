@@ -15981,5 +15981,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792067155
+  },
+  {
+    "slug": "2026-10-15-news-istanbul-heavy-rain-flood-2026",
+    "event_ms": 1792058729000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 튀르키예 이스탄불, 84년 만의 폭우로 인명 피해 발생\n\n· 이스탄불 주지사는 84년 만의 폭우로 2명이 숨졌다고 밝혔습니다 (BBC)\n· 공원에서 14세가 감전으로 숨졌습니다 (튀르키예 투데이)\n· 폭우와 홍수로 학교가 휴교하고 교통 체증이 심화되었습니다 (AP 통신·데일리 사바)\n\n출처: BBC·AP 통신·데일리 사바·튀르키예 투데이 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "튀르키예"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18103913225022373",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deg795hEW_X",
+        "kind": "carousel",
+        "at": 1792066585
+      },
+      "instagram": {
+        "id": "18028369433877937",
+        "permalink": "https://www.instagram.com/reel/Deg8ajxgOgq/",
+        "kind": "reel",
+        "at": 1792066837
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792067022
+      },
+      "tiktok": {
+        "id": "7696886561224264966",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696886561224264966",
+        "kind": "video",
+        "at": 1792071179
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792071189
   }
 ]
