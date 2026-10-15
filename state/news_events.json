@@ -2845,5 +2845,15 @@
     "at": 1792048101.2654223,
     "country": "루마니아",
     "category": "국제"
+  },
+  {
+    "event_key": "pakistan_school_roof_collapse_2026",
+    "topic": "파키스탄 페샤와르 학교 붕괴로 학생과 교사 등 다수 사망",
+    "slug": "2026-10-15-news-pakistan-school-roof-collapse-2026",
+    "cluster": "CBMiWEFVX3lxTE51aUI0LXBZdEFtMndFVlloNlhUdVoxbDlhc3ZnQ19CT3NsNEdyR0lpaFVKNzBRaURFRm5LcTctSFMySl9OUHRGSkgwUUpzSGZKR1ptc2NPM1k",
+    "badge": "breaking",
+    "at": 1792050059.7533774,
+    "country": "파키스탄",
+    "category": "사고"
   }
 ]

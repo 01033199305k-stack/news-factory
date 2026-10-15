@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-15-news-pakistan-school-roof-collapse-2026",
+  "topic": "파키스탄 페샤와르 학교 붕괴로 학생과 교사 등 다수 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 16:05 KST",
+  "source": "BBC·Reuters·Sky News 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiWEFVX3lxTE51aUI0LXBZdEFtMndFVlloNlhUdVoxbDlhc3ZnQ19CT3NsNEdyR0lpaFVKNzBRaURFRm5LcTctSFMySl9OUHRGSkgwUUpzSGZKR1ptc2NPM1k",
+    "related": [
+      [
+        "At least 18 pupils and one teacher killed after school roof collapses in Pakistan",
+        "BBC"
+      ],
+      [
+        "At least 17 children killed in Pakistan school collapse",
+        "Sky News"
+      ],
+      [
+        "21 killed as school roof collapses in Pakistan's Peshawar",
+        "The Times of India"
+      ],
+      [
+        "Seventeen students, one teacher killed in school roof collapse in Pakistan",
+        "Reuters"
+      ],
+      [
+        "At least 18 pupils and teacher killed after school roof collapses in Pakistan",
+        "BBC"
+      ]
+    ],
+    "event_key": "pakistan_school_roof_collapse_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파키스탄 페샤와르 학교 붕괴로\n[[학생과 교사 등 다수]] 사망",
+      "sub": "페샤와르의 학교에서 지붕이 무너지는 사고가 발생했습니다",
+      "chips": [],
+      "alt": "파키스탄 페샤와르 학교 붕괴로 학생과 교사 등 다수 사망",
+      "map": {
+        "lat": 34.0123846,
+        "lon": 71.5787458,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "파키스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파키스탄\n페샤와르",
+      "video_only": true,
+      "map": {
+        "lat": 34.0123846,
+        "lon": 71.5787458,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "페샤와르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사상자 발생",
+          "d": "파키스탄 페샤와르의 한 학교에서 지붕이 무너지면서 사상자가 발생했다고 BBC와 로이터 등이 보도했습니다."
+        },
+        {
+          "t": "피해 규모",
+          "d": "학생과 교사 등 최소 17명에서 최대 21명이 숨졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "지붕 붕괴 사고 발생",
+        "학생 및 교사 사망"
+      ],
+      "unconfirmed": [
+        "붕괴 원인",
+        "정확한 최종 사망자 수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "Sky News",
+        "The Times of India",
+        "2026.10.15 16:40 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파키스탄 학교 지붕 붕괴로 학생과 교사 등 다수 사망\n\n· 학생과 교사 등 최소 17명에서 최대 21명이 숨졌다고 주요 외신이 보도했습니다 (BBC·로이터·Sky News·The Times of India)\n· 붕괴 원인과 정확한 사망자 수는 아직 확인되지 않았습니다\n\n출처: BBC·로이터·Sky News·The Times of India 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파키스탄 학교에서 지붕이 무너져 학생과 교사 등 다수가 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파키스탄 페샤와르의 한 학교에서 사고가 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터와 BBC 등은 이번 사고로 최소 17명에서 21명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 붕괴 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "파키스탄 학교에서\n[[지붕 붕괴]] 참사",
+  "broll": [
+    "school building exterior",
+    "rescue ambulance night"
+  ],
+  "place_en": "Peshawar, Pakistan"
+}

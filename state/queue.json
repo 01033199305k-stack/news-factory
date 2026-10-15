@@ -82,6 +82,56 @@
         "permalink": "https://www.instagram.com/reel/DegZV7_k61o/",
         "kind": "reel",
         "at": 1792048454
+      },
+      "youtube": {
+        "id": "VfZcjZ9glkc",
+        "permalink": "https://youtube.com/shorts/VfZcjZ9glkc",
+        "kind": "shorts",
+        "at": 1792050770
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-15-news-pakistan-school-roof-collapse-2026",
+    "event_ms": 1792047921000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 파키스탄 학교 지붕 붕괴로 학생과 교사 등 다수 사망\n\n· 학생과 교사 등 최소 17명에서 최대 21명이 숨졌다고 주요 외신이 보도했습니다 (BBC·로이터·Sky News·The Times of India)\n· 붕괴 원인과 정확한 사망자 수는 아직 확인되지 않았습니다\n\n출처: BBC·로이터·Sky News·The Times of India 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "파키스탄"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18632159221021623",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DegcjzgFfzq",
+        "kind": "carousel",
+        "at": 1792050117
+      },
+      "instagram": {
+        "id": "18056998838801113",
+        "permalink": "https://www.instagram.com/reel/DegdR7tAnhB/",
+        "kind": "reel",
+        "at": 1792050517
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792050780
       }
     },
     "attempts": {},
