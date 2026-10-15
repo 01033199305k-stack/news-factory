@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-16-news-channel-tunnel-bus-train-crash-2026",
+  "topic": "해저터널 입구서 버스·열차 충돌",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 05:48 KST",
+  "source": "BBC·Sky News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMie0FVX3lxTFByejI2SlBfcHR3b3QwaHJvRm16emdxU3hqM1U0RlVUdkhUcmVJNllTYTFnRmtWTXNOdW9kSEtOMklCdWxkc0FXUS0tMl9IUTRpbThsT0xnLWxMMDZjc2FDREZLN3FLQ2JhZHIyaFdDN3JIQV8wZTVTM2FSTQ",
+    "related": [
+      [
+        "Horror smash between bus & freight train at Channel Tunnel entrance injures 19",
+        "The Sun"
+      ],
+      [
+        "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+        "BBC"
+      ],
+      [
+        "At least 19 injured after minibus hits train near Channel Tunnel",
+        "The Independent"
+      ],
+      [
+        "Nineteen injured in minibus accident on Eurotunnel loading platform",
+        "The Guardian"
+      ],
+      [
+        "Channel Tunnel latest: 19 injured after collision between bus and train on French side",
+        "Sky News"
+      ]
+    ],
+    "event_key": "channel-tunnel-bus-train-crash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "해저터널 입구서\n버스·열차 [[충돌]]",
+      "sub": "프랑스 측 승강장서 발생… 19명 부상",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "19명"
+        }
+      ],
+      "alt": "해저터널 입구서 버스·열차 충돌",
+      "map": {
+        "lat": 50.9524769,
+        "lon": 1.8538446,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n칼레",
+      "video_only": true,
+      "map": {
+        "lat": 50.9524769,
+        "lon": 1.8538446,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "칼레"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "정차 열차와 충돌",
+          "d": "승합차가 유로터널 적재 플랫폼에 멈춰 있던 열차를 들이받았다고 가디언과 BBC가 전했습니다."
+        },
+        {
+          "t": "프랑스 구역서 발생",
+          "d": "영국과 프랑스를 잇는 유로터널의 프랑스 측 입구 부근에서 발생했다고 스카이뉴스가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "버스·열차 충돌 사고",
+        "부상 19명 (BBC·가디언)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "차량 충돌 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Sky News",
+        "The Guardian",
+        "The Independent",
+        "The Sun",
+        "2026.10.16 07:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 유로터널 입구서 버스와 열차가 충돌해 19명이 다쳤습니다.\n\n· 유로터널 적재 플랫폼에 정차해 있던 열차를 버스가 들이받았습니다 (BBC·가디언)\n· 사고는 해저터널의 프랑스 측 구역에서 발생했습니다 (스카이뉴스)\n· 정확한 사고 경위와 한국인 탑승 여부는 확인되지 않았습니다\n\n출처: BBC·가디언·스카이뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 유로터널 입구에서 버스와 열차가 충돌해 19명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 터널 적재 승강장에 멈춰 있던 열차를 버스가 들이받으며 일어났습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 충돌 원인과 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[유로터널]] 입구\n버스가 열차를?",
+  "broll": [
+    "train platform track",
+    "ambulance night"
+  ],
+  "place_en": "Calais, France"
+}

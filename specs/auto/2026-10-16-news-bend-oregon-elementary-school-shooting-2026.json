@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-16-news-bend-oregon-elementary-school-shooting-2026",
+  "topic": "미 초등학교서 총격 용의자는 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 05:57 KST",
+  "source": "CNN·NBC News·KOIN.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMib0FVX3lxTE5ucy03Y1N5V2ctYVlsQ29jQTE5WWdHQ0dtYU5LWTBQS0tuQXh4ODFEM082WXNaUHk1OGFYcW1hLWN2M1pRTFY5MWNqWHVUMXNxYWM2WXZieWNnbEJ1VTByRThtX01GSGFhS21lV1VNcw",
+    "related": [
+      [
+        "Active shooter at elementary school in Bend, Oregon, school district says",
+        "CNN"
+      ],
+      [
+        "Police: At least 2 hospitalized after shooting at Oregon elementary school; shooter dead",
+        "WPLG Local 10"
+      ],
+      [
+        "Active shooter reported at Bend elementary school",
+        "KOIN.com"
+      ],
+      [
+        "Live updates: Children are among the victims at Bend, Oregon, school shooting",
+        "NBC News"
+      ],
+      [
+        "Bend police respond to report of active shooter at Silver Rail Elementary School",
+        "KPTV"
+      ]
+    ],
+    "event_key": "bend-oregon-elementary-school-shooting-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 초등학교서 [[총격]]\n용의자는 사망",
+      "sub": "최소 2명 이송… 어린이 피해자 포함",
+      "chips": [
+        {
+          "k": "용의자",
+          "v": "사망"
+        }
+      ],
+      "alt": "미 초등학교서 총격 용의자는 사망",
+      "map": {
+        "lat": 44.0581728,
+        "lon": -121.3153096,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오리건주 벤드",
+      "video_only": true,
+      "map": {
+        "lat": 44.0581728,
+        "lon": -121.3153096,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오리건주 벤드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "초등학교 내 총격",
+          "d": "오리건주 벤드의 실버 레일 초등학교에서 총격 사건이 일어났다고 KPTV 등이 전했습니다."
+        },
+        {
+          "t": "최소 2명 병원 이송",
+          "d": "어린이를 포함해 최소 2명이 병원으로 이송됐으며, 총격범은 사망했다고 보도됐습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "실버 레일 초등학교 총격 (KPTV)",
+        "총격 용의자 사망 (WPLG)"
+      ],
+      "unconfirmed": [
+        "정확한 사상자 수",
+        "한국인 피해 여부",
+        "범행 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "KOIN.com",
+        "KPTV",
+        "NBC News",
+        "WPLG Local 10",
+        "2026.10.16 07:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 오리건주 초등학교에서 총격이 발생해 용의자가 숨졌습니다.\n\n· 오리건주 벤드의 실버 레일 초등학교에서 총격이 보고됐습니다 (KPTV)\n· 어린이를 포함해 최소 2명이 병원으로 옮겨졌습니다 (NBC·WPLG)\n· 범행 동기와 한국인 피해 여부는 아직 확인되지 않았습니다\n\n출처: KPTV·NBC·WPLG 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 오리건주의 한 초등학교에서 총격이 발생해 총격범이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "최소 2명이 병원으로 이송됐으며, 피해자 중에는 어린이도 포함된 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 범행 동기와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[초등학교]]서\n벌어진 총격",
+  "broll": [
+    "police car sirens",
+    "elementary school building"
+  ],
+  "place_en": "Bend, Oregon, United States"
+}

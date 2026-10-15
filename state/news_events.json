@@ -2935,5 +2935,25 @@
     "at": 1792085240.4116137,
     "country": "예멘",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "channel-tunnel-bus-train-crash-2026",
+    "topic": "해저터널 입구서 버스·열차 충돌",
+    "slug": "2026-10-16-news-channel-tunnel-bus-train-crash-2026",
+    "cluster": "CBMie0FVX3lxTFByejI2SlBfcHR3b3QwaHJvRm16emdxU3hqM1U0RlVUdkhUcmVJNllTYTFnRmtWTXNOdW9kSEtOMklCdWxkc0FXUS0tMl9IUTRpbThsT0xnLWxMMDZjc2FDREZLN3FLQ2JhZHIyaFdDN3JIQV8wZTVTM2FSTQ",
+    "badge": "breaking",
+    "at": 1792102044.8896785,
+    "country": "프랑스",
+    "category": "사고"
+  },
+  {
+    "event_key": "bend-oregon-elementary-school-shooting-2026",
+    "topic": "미 초등학교서 총격 용의자는 사망",
+    "slug": "2026-10-16-news-bend-oregon-elementary-school-shooting-2026",
+    "cluster": "CBMib0FVX3lxTE5ucy03Y1N5V2ctYVlsQ29jQTE5WWdHQ0dtYU5LWTBQS0tuQXh4ODFEM082WXNaUHk1OGFYcW1hLWN2M1pRTFY5MWNqWHVUMXNxYWM2WXZieWNnbEJ1VTByRThtX01GSGFhS21lV1VNcw",
+    "badge": "breaking",
+    "at": 1792102118.7667425,
+    "country": "미국",
+    "category": "총격·테러"
   }
 ]

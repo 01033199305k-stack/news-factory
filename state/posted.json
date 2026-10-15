@@ -16250,5 +16250,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792085625
+  },
+  {
+    "slug": "2026-10-16-news-bend-oregon-elementary-school-shooting-2026",
+    "event_ms": 1792097844000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 오리건주 초등학교에서 총격이 발생해 용의자가 숨졌습니다.\n\n· 오리건주 벤드의 실버 레일 초등학교에서 총격이 보고됐습니다 (KPTV)\n· 어린이를 포함해 최소 2명이 병원으로 옮겨졌습니다 (NBC·WPLG)\n· 범행 동기와 한국인 피해 여부는 아직 확인되지 않았습니다\n\n출처: KPTV·NBC·WPLG 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18071450510775446",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deh_7cVo-tS",
+        "kind": "carousel",
+        "at": 1792102218
+      },
+      "instagram": {
+        "id": "18459673486187685",
+        "permalink": "https://www.instagram.com/reel/DeiAXE0DKpb/",
+        "kind": "reel",
+        "at": 1792102465
+      },
+      "youtube": {
+        "id": "nRlcMU4z_68",
+        "permalink": "https://youtube.com/shorts/nRlcMU4z_68",
+        "kind": "shorts",
+        "at": 1792102497
+      },
+      "tiktok": {
+        "id": "7697021672246824213",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697021672246824213",
+        "kind": "video",
+        "at": 1792102629
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792102639
   }
 ]
