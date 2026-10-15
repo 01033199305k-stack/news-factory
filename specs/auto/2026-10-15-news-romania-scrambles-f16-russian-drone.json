@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-15-news-romania-scrambles-f16-russian-drone",
+  "topic": "러 드론 영공 침범에 루마니아 F-16 출격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 13:57 KST",
+  "source": "Daily Express·Ukrinform·Voxeurop 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxQTEZUOVFGUnByaHVwU3ExaTRqbTZFcUUxbV9WMzczckJWUTZNbFFvMFBTZVgwLVdNYTFqQXZDMXR6NjdlQV9Sbmc4WEZ0VDFhUDRyQWJkRnJFSWFnZndGUnI3VVFGSmk1TjEwSmZBNUxVd0lJWi1ISklqUllUQm9ES2JnbUYwQdIBiwFBVV95cUxQZEdRYnNreXNWajY3MWp0SmxjS29RMkhFM0JpaVlwWVRKM0N6c3dXUE9LdXROTGV3YXdQZU9teTVELW1LTksxRFhNeXM0eEhFREMyTkZrQmJzcnA0emZ2UWlia2xHakp3YVBmX18zeHhvcUhqNDRva1FpaGpEcHFEeVp5TC1CdUJlcnZN",
+    "related": [
+      [
+        "NATO member scrambles fighter jets as WW3 fears with Russia explode",
+        "Daily Express"
+      ],
+      [
+        "How Poland’s air force is responding to Russian drones in the skies",
+        "Breaking Defense"
+      ],
+      [
+        "Romania scrambles F-16s after airspace violation",
+        "Ukrinform"
+      ],
+      [
+        "Russian drone enters Romanian airspace before being shot down in Ukraine",
+        "Українська правда"
+      ],
+      [
+        "An alert every two days: how NATO’s “forgotten border” is defended",
+        "Voxeurop"
+      ]
+    ],
+    "event_key": "romania-scrambles-f16-russian-drone"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러 드론 [[영공 침범]]에\n루마니아 F-16 출격",
+      "sub": "영공 침범 후 전투기 긴급 발진",
+      "chips": [
+        {
+          "k": "대응기종",
+          "v": "F-16"
+        },
+        {
+          "k": "침범기종",
+          "v": "러시아 드론"
+        }
+      ],
+      "alt": "러 드론 영공 침범에 루마니아 F-16 출격",
+      "map": {
+        "lat": 45.9852129,
+        "lon": 24.6859225,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "루마니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "루마니아",
+      "video_only": true,
+      "map": {
+        "lat": 45.9852129,
+        "lon": 24.6859225,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "루마니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "F-16 긴급 출격",
+          "d": "루마니아는 영공 침범 후 F-16 전투기를 긴급 출격시켰습니다 (우크린폼)."
+        },
+        {
+          "t": "우크라이나서 격추",
+          "d": "해당 드론은 루마니아 영공에 진입한 뒤 우크라이나 상공에서 격추됐습니다 (우크라인스카 프라우다)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 드론 루마니아 영공 침범",
+        "루마니아 F-16 긴급 출격"
+      ],
+      "unconfirmed": [
+        "루마니아 영내 피해 여부",
+        "한국인 관련 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Breaking Defense",
+        "Daily Express",
+        "Ukrinform",
+        "Voxeurop",
+        "Українська правда",
+        "2026.10.15 16:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 드론 영공 침범에 루마니아 F-16 긴급 출격\n\n· 영공 침범 후 루마니아가 F-16 전투기를 긴급 출격시켰습니다 (우크린폼)\n· 해당 드론은 루마니아 영공에 들어선 뒤 우크라이나에서 격추됐습니다 (우크라인스카 프라우다)\n\n나토 회원국 영공 침범에 대한 이번 대응 조치, 어떻게 보십니까?\n출처: 우크린폼·우크라인스카 프라우다 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "루마니아 영공을 침범한 러시아 드론에 F-16 전투기가 긴급 출격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "우크린폼은 영공 침범 후 전투기가 긴급 발진했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해당 드론은 루마니아 상공을 거쳐 우크라이나에서 격추됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "루마니아 내 직접적인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "나토 국경을 둘러싼 군사적 긴장, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "나토 영공에\n[[러 드론]] 침범",
+  "broll": [
+    "fighter jet flight",
+    "radar screen military"
+  ],
+  "place_en": "Romania"
+}
