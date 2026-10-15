@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-15-news-istanbul-heavy-rain-flood-2026",
+  "topic": "튀르키예 이스탄불, 84년 만의 폭우로 인명 피해 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 19:05 KST",
+  "source": "AP News·BBC·Daily Sabah 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE9tUzgtRlNNRW9Fdy1aZjRza1ZEUUUxUnU5S0J5d1o0ZjhycVl3ODQ3QkJZUVp4VzNGdldJNmlBRzRQWmNQRS1lTzlkZGhFZzB0VEE1aGZrTDYzTUxENHc",
+    "related": [
+      [
+        "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+        "BBC"
+      ],
+      [
+        "Heavy rain and flooding in Istanbul forces closure of schools",
+        "AP News"
+      ],
+      [
+        "Heavy rain forces school closures as Istanbul traffic hits 89%",
+        "Daily Sabah"
+      ],
+      [
+        "Glasgow holidaymakers issued warning as popular destination hit by severe weather",
+        "Yahoo News UK"
+      ],
+      [
+        "14-year-old dies of electric shock in Istanbul park amid citywide floods",
+        "Türkiye Today"
+      ]
+    ],
+    "event_key": "istanbul_heavy_rain_flood_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "튀르키예 이스탄불, [[84년 만의 폭우]]로\n인명 피해 발생",
+      "sub": "14세가 감전사하고 학교 휴교와 극심한 교통 체증이 발생했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        }
+      ],
+      "alt": "튀르키예 이스탄불, 84년 만의 폭우로 인명 피해 발생",
+      "map": {
+        "lat": 41.006381,
+        "lon": 28.9758715,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "튀르키예"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "튀르키예\n이스탄불",
+      "video_only": true,
+      "map": {
+        "lat": 41.006381,
+        "lon": 28.9758715,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "이스탄불"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 발생",
+          "d": "이스탄불 주지사는 84년 만의 폭우로 2명이 숨졌다고 밝혔습니다."
+        },
+        {
+          "t": "감전 사고",
+          "d": "공원에서 14세가 감전으로 숨지는 사고가 발생했습니다."
+        },
+        {
+          "t": "학교 휴교와 교통 체증",
+          "d": "폭우와 홍수로 인해 학교가 휴교하고 교통 체증이 89%에 달했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "84년 만의 폭우",
+        "사망 2명",
+        "학교 휴교 및 교통 체증"
+      ],
+      "unconfirmed": [
+        "정확한 총재산 피해 규모",
+        "추가 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "Daily Sabah",
+        "Türkiye Today",
+        "Yahoo News UK",
+        "2026.10.15 21:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 튀르키예 이스탄불, 84년 만의 폭우로 인명 피해 발생\n\n· 이스탄불 주지사는 84년 만의 폭우로 2명이 숨졌다고 밝혔습니다 (BBC)\n· 공원에서 14세가 감전으로 숨졌습니다 (튀르키예 투데이)\n· 폭우와 홍수로 학교가 휴교하고 교통 체증이 심화되었습니다 (AP 통신·데일리 사바)\n\n출처: BBC·AP 통신·데일리 사바·튀르키예 투데이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "튀르키예 이스탄불에 84년 만의 폭우가 내려 인명 피해가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 이번 폭우로 2명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공원에서는 14세가 감전으로 숨지는 사고가 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폭우로 인해 학교가 휴교하고 교통 체증이 심화되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "튀르키예 이스탄불을 강타한\n[[84년 만의 폭우]]",
+  "broll": [
+    "heavy rain street",
+    "flooded road city"
+  ],
+  "place_en": "Istanbul, Turkey"
+}

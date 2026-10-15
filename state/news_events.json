@@ -2875,5 +2875,25 @@
     "at": 1792062738.6459973,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "global_tech_selloff_ai_2026",
+    "topic": "글로벌 증시, 인공지능 투자 과열 우려에 반도체주 중심으로 급락",
+    "slug": "2026-10-15-news-global-tech-selloff-ai-2026",
+    "cluster": "CBMihwFBVV95cUxOX2pSZmFBRTNfZ0ZmczFBcXBBRlUxV3RNTkV6ZzJiN2s4UGhod3RwVVZLbWY2YVNqejB1ZE9adDVyTDBXUnFsY3VGTHI3clVCUmlHUzBIcVFYTmt4T3FxMkxkdkd2eTgwZDNQbENLUGNnU3JJU0JnNW1odEF5bTgzemd3RGphTjg",
+    "badge": "breaking",
+    "at": 1792066373.711278,
+    "country": "미국",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "istanbul_heavy_rain_flood_2026",
+    "topic": "튀르키예 이스탄불, 84년 만의 폭우로 인명 피해 발생",
+    "slug": "2026-10-15-news-istanbul-heavy-rain-flood-2026",
+    "cluster": "CBMiXkFVX3lxTE9tUzgtRlNNRW9Fdy1aZjRza1ZEUUUxUnU5S0J5d1o0ZjhycVl3ODQ3QkJZUVp4VzNGdldJNmlBRzRQWmNQRS1lTzlkZGhFZzB0VEE1aGZrTDYzTUxENHc",
+    "badge": "breaking",
+    "at": 1792066497.1577628,
+    "country": "튀르키예",
+    "category": "재난"
   }
 ]

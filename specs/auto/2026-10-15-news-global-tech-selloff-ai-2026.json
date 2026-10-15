@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-15-news-global-tech-selloff-ai-2026",
+  "topic": "글로벌 증시, 인공지능 투자 과열 우려에 반도체주 중심으로 급락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.15 20:45 KST",
+  "source": "Bloomberg.com·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxOX2pSZmFBRTNfZ0ZmczFBcXBBRlUxV3RNTkV6ZzJiN2s4UGhod3RwVVZLbWY2YVNqejB1ZE9adDVyTDBXUnFsY3VGTHI3clVCUmlHUzBIcVFYTmt4T3FxMkxkdkd2eTgwZDNQbENLUGNnU3JJU0JnNW1odEF5bTgzemd3RGphTjg",
+    "related": [
+      [
+        "Stock Market Today: Tech Selloff to Extend Into Second Day — Live Updates",
+        "WSJ"
+      ],
+      [
+        "Nasdaq futures fall as tech shares drop on fears of AI overspending; traders await more U.S. data: Live updates",
+        "CNBC"
+      ],
+      [
+        "Global tech selloff deepens as enthusiasm for AI stocks wobbles",
+        "CNN"
+      ],
+      [
+        "Tech sell-off gathers pace as chipmakers hammered",
+        "Reuters"
+      ],
+      [
+        "Stocks Slide as AI Rout Drives Investors to Bonds: Markets Wrap",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "global_tech_selloff_ai_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "글로벌 증시, [[인공지능]] 투자 과열 우려에\n반도체주 중심으로 급락",
+      "sub": "기술주 매도세가 이틀째 이어지며 나스닥 선물도 하락했습니다",
+      "chips": [
+        {
+          "k": "지수",
+          "v": "하락"
+        },
+        {
+          "k": "분야",
+          "v": "반도체·AI"
+        }
+      ],
+      "alt": "글로벌 증시, 인공지능 투자 과열 우려에 반도체주 중심으로 급락",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기술주 매도",
+          "d": "인공지능 투자 열풍이 흔들리면서 글로벌 기술주 매도세가 깊어졌다고 CNN과 로이터 등이 보도했습니다."
+        },
+        {
+          "t": "증시 영향",
+          "d": "월스트리트저널은 기술주 매도세가 둘째 날로 이어지고 있다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인공지능 투자 과열 우려",
+        "반도체주 중심 매도세",
+        "글로벌 증시 하락"
+      ],
+      "unconfirmed": [
+        "정확한 주가 하락 폭",
+        "향후 증시 반등 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "CNN",
+        "Reuters",
+        "WSJ",
+        "2026.10.15 21:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 글로벌 증시, 인공지능 투자 과열 우려에 반도체주 중심 급락\n\n· 인공지능 투자 열풍이 흔들리며 글로벌 기술주 매도세가 심화됐습니다 (CNN·로이터)\n· 기술주 매도세가 이틀째 이어지면서 나스닥 선물도 하락세를 보였습니다 (WSJ·CNBC)\n\n어떻게 보십니까? 여러분은 이번 기술주 하락세가 증시에 어떤 영향고 이어질지 의견을 남겨주세요.\n\n출처: WSJ·CNBC·CNN·로이터·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인공지능 투자 과열 우려로 글로벌 증시에서 반도체주가 급락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 기술주 매도세가 심화되면서 관련 종목들이 큰 타격을 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "월스트리트저널은 기술주 매도세가 이틀째 이어지고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 주가 하락 폭은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 기술주 하락세가 증시에 어떤 영향을 줄 것으로 보십니까?",
+      "card": "ask",
+      "screen": "향후 증시 전망은?"
+    }
+  ],
+  "hook": "글로벌 증시를 흔든\n[[인공지능]]의 정체는?",
+  "broll": [
+    "stock exchange screen",
+    "financial chart"
+  ],
+  "place_en": "New York, USA"
+}

@@ -15926,5 +15926,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792063255
+  },
+  {
+    "slug": "2026-10-15-news-global-tech-selloff-ai-2026",
+    "event_ms": 1792064700000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 글로벌 증시, 인공지능 투자 과열 우려에 반도체주 중심 급락\n\n· 인공지능 투자 열풍이 흔들리며 글로벌 기술주 매도세가 심화됐습니다 (CNN·로이터)\n· 기술주 매도세가 이틀째 이어지면서 나스닥 선물도 하락세를 보였습니다 (WSJ·CNBC)\n\n어떻게 보십니까? 여러분은 이번 기술주 하락세가 증시에 어떤 영향고 이어질지 의견을 남겨주세요.\n\n출처: WSJ·CNBC·CNN·로이터·블룸버그 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18114793817115333",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deg75e4kVHJ",
+        "kind": "carousel",
+        "at": 1792066548
+      },
+      "instagram": {
+        "id": "18070627517767618",
+        "permalink": "https://www.instagram.com/reel/Deg8VaOiZzT/",
+        "kind": "reel",
+        "at": 1792066794
+      },
+      "youtube": {
+        "id": "3KzNyH7ztEs",
+        "permalink": "https://youtube.com/shorts/3KzNyH7ztEs",
+        "kind": "shorts",
+        "at": 1792067012
+      },
+      "tiktok": {
+        "id": "7696869241903009030",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7696869241903009030",
+        "kind": "video",
+        "at": 1792067145
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792067155
   }
 ]
