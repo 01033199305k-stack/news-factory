@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-16-news-cyprus-toddler-fall-fine-2026",
+  "topic": "키프로스 호텔서 추락해 숨진 2살 아들 영국인 아버지 벌금형",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 19:52 KST",
+  "source": "BBC·Sky News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimgFBVV95cUxQRFl2OEM5WWEwSEtBMkQ1N0ZfQTNSTVcyVHltWDBSVGdhSkV3MlFLY3VSaDdXOWFBV05XNFB2bHpZSUpRcXlZLThjTWV0N0VXOENoaEtHSWpmdkx1cUlaYjJZYTROUk9sdDZ2S3BvMmZOUFFDTEM4ck8yRU1ObjhQZTd1MEVNREZLQTNMY1ZneFViUHBFYWEwQWNR",
+    "related": [
+      [
+        "British man fined €3,000 for causing two-year-old son’s death in Cyprus",
+        "The Guardian"
+      ],
+      [
+        "Dad fined after son, 2, died in Cyprus hotel fall",
+        "BBC"
+      ],
+      [
+        "British father fined for causing death of his two-year-old son in Cyprus",
+        "Sky News"
+      ],
+      [
+        "Josh Foster avoids jail for causing son’s death on Cyprus holiday",
+        "The Times"
+      ],
+      [
+        "Father who caused toddler’s death in Cyprus avoids jail",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "cyprus-toddler-fall-fine-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "키프로스 호텔서 추락해 숨진 2살 아들\n영국인 아버지 [[벌금형]]",
+      "sub": "아들의 사망을 초래한 영국인 아버지에게 벌금 3천 유로가 선고됐습니다.",
+      "chips": [
+        {
+          "k": "벌금",
+          "v": "3천 유로"
+        },
+        {
+          "k": "나이",
+          "v": "2세"
+        }
+      ],
+      "alt": "키프로스 호텔서 추락해 숨진 2살 아들 영국인 아버지 벌금형",
+      "map": {
+        "lat": 34.9174159,
+        "lon": 32.8899027,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "키프로스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "키프로스",
+      "video_only": true,
+      "map": {
+        "lat": 34.9174159,
+        "lon": 32.8899027,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키프로스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "법원 선고",
+          "d": "아들의 사망을 초래한 아버지가 수감을 면하고 벌금형을 선고받았다고 외신들이 전했습니다."
+        },
+        {
+          "t": "사고 경위",
+          "d": "두 살 난 아들이 키프로스 호텔에서 떨어져 숨진 것으로 전해졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "벌금 3천 유로 (가디언)",
+        "아동 사망 사건"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 사고 당시 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Sky News",
+        "The Guardian",
+        "The Telegraph",
+        "The Times",
+        "2026.10.16 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 키프로스 호텔서 추락해 숨진 2살 아들, 아버지 벌금 3천 유로 선고\n\n· 두 살 난 아들의 사망을 초래한 아버지가 징역형을 면하고 벌금형을 선고받았습니다 (가디언·더 타임스)\n· 아들은 키프로스 호텔에서 떨어져 숨진 것으로 알려졌습니다 (BBC)\n\n출처: 가디언·BBC·더 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "키프로스의 한 호텔에서 두 살 난 아들이 추락해 숨지는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 법원은 아들의 사망을 초래한 영국인 아버지에게 3천 유로의 벌금형을 선고했습니다.",
+      "card": "points",
+      "screen": "벌금 3천 유로"
+    },
+    {
+      "text": "아버지는 수감형을 면한 것으로 전해졌습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "키프로스 호텔에서\n일어난 일은?",
+  "broll": [
+    "hotel balcony exterior",
+    "court building exterior"
+  ],
+  "place_en": "Cyprus"
+}

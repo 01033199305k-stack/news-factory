@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "nepal-himlung-avalanche",
-    "topic": "히말라야 눈사태 등반객 실종 발생",
-    "slug": "2026-09-27-news-nepal-himlung-avalanche",
-    "cluster": "CBMiW0FVX3lxTE5oWW9BZEpRcFB4aTYzUnltYU9waE9VT05TQmRSaHpYSnJrZ0JUNV83YzFRSU5FTXI3RXZISGpuUzVMOF9vYlVZUXExclRFSm1BclZsVzZ1cWNIQ0E",
-    "badge": "breaking",
-    "at": 1790520811.2099922,
-    "country": "네팔"
-  },
-  {
     "event_key": "israel-drakon-submarine",
     "topic": "이스라엘 해군력 강화 신형 잠수함 도착",
     "slug": "2026-09-28-news-israel-drakon-submarine",
@@ -2974,5 +2965,15 @@
     "at": 1792154093.2680707,
     "country": "대한민국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "cyprus-toddler-fall-fine-2026",
+    "topic": "키프로스 호텔서 추락해 숨진 2살 아들 영국인 아버지 벌금형",
+    "slug": "2026-10-16-news-cyprus-toddler-fall-fine-2026",
+    "cluster": "CBMimgFBVV95cUxQRFl2OEM5WWEwSEtBMkQ1N0ZfQTNSTVcyVHltWDBSVGdhSkV3MlFLY3VSaDdXOWFBV05XNFB2bHpZSUpRcXlZLThjTWV0N0VXOENoaEtHSWpmdkx1cUlaYjJZYTROUk9sdDZ2S3BvMmZOUFFDTEM4ck8yRU1ObjhQZTd1MEVNREZLQTNMY1ZneFViUHBFYWEwQWNR",
+    "badge": "breaking",
+    "at": 1792156196.731475,
+    "country": "키프로스",
+    "category": "사고"
   }
 ]

@@ -16740,5 +16740,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792154496
+  },
+  {
+    "slug": "2026-10-16-news-cyprus-toddler-fall-fine-2026",
+    "event_ms": 1792147920000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 키프로스 호텔서 추락해 숨진 2살 아들, 아버지 벌금 3천 유로 선고\n\n· 두 살 난 아들의 사망을 초래한 아버지가 징역형을 면하고 벌금형을 선고받았습니다 (가디언·더 타임스)\n· 아들은 키프로스 호텔에서 떨어져 숨진 것으로 알려졌습니다 (BBC)\n\n출처: 가디언·BBC·더 타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "키프로스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18112098650151829",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dejm-6BG8K8",
+        "kind": "carousel",
+        "at": 1792156247
+      },
+      "instagram": {
+        "id": "17943581643361459",
+        "permalink": "https://www.instagram.com/reel/DejnTT5iLmd/",
+        "kind": "reel",
+        "at": 1792156426
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792156437
+      },
+      "tiktok": {
+        "id": "7697253325309250822",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697253325309250822",
+        "kind": "video",
+        "at": 1792156558
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792156568
   }
 ]
