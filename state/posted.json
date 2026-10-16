@@ -16522,5 +16522,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792123035
+  },
+  {
+    "slug": "2026-10-16-news-russia-g20-return-us-invitation-bangkok-2026",
+    "event_ms": 1792138186858,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 초청으로 러시아가 방콕 G20 회의에 복귀합니다.\n\n· 미국 정부의 초청으로 러시아가 G20 회담 테이블에 복귀한다고 보도됐습니다 (CNBC).\n· 독일 등 유럽 국가는 러시아를 국제무대에 복귀시키는 조치라며 강하게 반발했습니다 (로이터·블룸버그).\n· 러시아 대표단의 최종 참석 여부와 세부 일정은 아직 확인되지 않았습니다.\n\n미국의 이번 러시아 G20 초청 결정을 어떻게 보십니까?\n출처: CNBC·로이터·블룸버그 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "태국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17949153813299902",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DejEntVFsRv",
+        "kind": "carousel",
+        "at": 1792138226
+      },
+      "instagram": {
+        "id": "18125470400479082",
+        "permalink": "https://www.instagram.com/reel/DejE7HWlfgY/",
+        "kind": "reel",
+        "at": 1792138405
+      },
+      "youtube": {
+        "id": "idwX1TKu_hY",
+        "permalink": "https://youtube.com/shorts/idwX1TKu_hY",
+        "kind": "shorts",
+        "at": 1792138457
+      },
+      "tiktok": {
+        "id": "7697175944024378625",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697175944024378625",
+        "kind": "video",
+        "at": 1792138589
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792138599
   }
 ]
