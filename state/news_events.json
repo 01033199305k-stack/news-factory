@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "spacex-starship-orbital-flight",
-    "topic": "스페이스X 스타십 첫 궤도 비행",
-    "slug": "2026-09-28-news-spacex-starship-orbital-flight",
-    "cluster": "CBMiogFBVV95cUxPc2RkMkI4ZlBkTUhDYWZkZVBWa0M1c2JVZ2NMS1FuMkhqa3RjSERxMi1XWXNLUkNJZTNJaUMzZ2hJbWtGV19ES1RJazJ2YlVLTGpGQnpEcFFPaENXeUdyUVZZUlJkT1hJUWVISjhHQW5wb0JueUR3QjJoS3dXS3lBeUktQTAzLWN6TGd6VjVIem9EZ1IwekdLaUtHNFJtNHhkclHSAacBQVVfeXFMTy1yTXk1Qk0wcEZ2QnhELWJQOVZtaEZFUHozUFd6TnNqNjFmNTVaNW1qRk41Yi1GeW8tZXhXMnlhZjVUQWFsSzJPZEVvNUtONjQxVTlsRkItbUI3aHVtVUtsdl9QbWJxSWxKd3FYcGhNR3Fkb3JtZTFxNXpRaGlHRTJZdGlwbE5CNzF5bkZmbjcxSlN5LUNqNVJYZ1Fvc3NhUzNaN1U3cWs",
-    "badge": "brief",
-    "at": 1790583195.6464212,
-    "country": "미국"
-  },
-  {
     "event_key": "nepal-floods-landslides-september",
     "topic": "네팔 폭우로 홍수·산사태 발생 사망 21명",
     "slug": "2026-09-28-news-nepal-floods-landslides-september",
@@ -2981,5 +2972,15 @@
     "at": 1792184837.824664,
     "country": "바티칸",
     "category": "국제"
+  },
+  {
+    "event_key": "oil-prices-surge-110-dollars-2026",
+    "topic": "국제 유가 급등 배럴당 110달러 돌파",
+    "slug": "2026-10-17-news-oil-prices-surge-110-dollars-2026",
+    "cluster": "CBMiiAFBVV95cUxNcWwtaE0zalpGS3dlQkJuT2lJSHdXdEVjbkItLUVDMlYzWHNjYnpQWGF3TlpnNDV5ME9DWG5YU0ZtbVVGdnZNRndsSkdOZHRzUU5iQjVhd20yY1h6WF9VUjMwVXdLQktSX0o3amgyZVpmeXJiY1gtRHVCbTNfV3VsQ2ZLcHU2ek9a",
+    "badge": "breaking",
+    "at": 1792185613.5437667,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

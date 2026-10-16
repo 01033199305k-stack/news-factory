@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-17-news-oil-prices-surge-110-dollars-2026",
+  "topic": "국제 유가 급등 배럴당 110달러 돌파",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 03:46 KST",
+  "source": "Financial Times·NBC News·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiAFBVV95cUxNcWwtaE0zalpGS3dlQkJuT2lJSHdXdEVjbkItLUVDMlYzWHNjYnpQWGF3TlpnNDV5ME9DWG5YU0ZtbVVGdnZNRndsSkdOZHRzUU5iQjVhd20yY1h6WF9VUjMwVXdLQktSX0o3amgyZVpmeXJiY1gtRHVCbTNfV3VsQ2ZLcHU2ek9a",
+    "related": [
+      [
+        "Oil surges to $110 per barrel for the first time since May",
+        "NBC News"
+      ],
+      [
+        "Brent hits 5-month high above $110 on continued tension in Middle East",
+        "Financial Times"
+      ],
+      [
+        "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
+        "CNBC"
+      ],
+      [
+        "Oil Futures Rise on Middle East, Russia-Ukraine Concerns",
+        "WSJ"
+      ],
+      [
+        "Oil hits $110 per barrel for first time since May",
+        "The Hill"
+      ]
+    ],
+    "event_key": "oil-prices-surge-110-dollars-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "국제 유가 급등\n[[배럴당 110달러]] 돌파",
+      "sub": "지난 5월 이후 약 5개월 만에 최고 수준을 기록했습니다.",
+      "chips": [
+        {
+          "k": "유가",
+          "v": "110달러"
+        }
+      ],
+      "alt": "국제 유가 급등 배럴당 110달러 돌파",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "5개월 만의 최고치",
+          "d": "브렌트유 가격이 지난 5월 이후 처음으로 110달러를 넘어섰습니다 (파이낸셜타임스·NBC)."
+        },
+        {
+          "t": "지정학적 긴장 여파",
+          "d": "중동 분쟁 심화와 정유 시설 타격 우려가 가격 상승을 이끌었습니다 (CNBC·WSJ)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "국제 유가 배럴당 110달러 돌파",
+        "지난 5월 이후 최고 가격 기록"
+      ],
+      "unconfirmed": [
+        "향후 유가 추가 상승 지속 여부",
+        "산유국 공급 조절 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "Financial Times",
+        "NBC News",
+        "The Hill",
+        "WSJ",
+        "2026.10.17 06:20 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 국제 유가가 배럴당 110달러를 돌파했습니다.\n\n· 브렌트유가 지난 5월 이후 약 5개월 만에 최고치를 기록했습니다 (파이낸셜타임스·NBC).\n· 중동 긴장 심화와 정유 시설 타격 위험이 가격을 밀어올렸습니다 (CNBC·WSJ).\n\n치솟는 국제 유가가 세계 경제에 어떤 영향을 미칠 것으로 보십니까?\n출처: NBC·파이낸셜타임스·CNBC·WSJ 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "국제 유가가 배럴당 110달러를 돌파했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유가가 5월 이후 최고 수준으로 급등했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "파이낸셜타임스는 5개월 만에 최고치라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "중동 긴장과 정유시설 타격 불안이 주요 원인입니다.",
+      "card": "points"
+    },
+    {
+      "text": "유가 상승세가 계속 이어질지는 아직 미지수입니다.",
+      "card": "check"
+    },
+    {
+      "text": "다시 치솟는 기름값, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "치솟는 [[기름값]]\n어디까지 가나",
+  "broll": [
+    "oil refinery night",
+    "oil pump jack"
+  ],
+  "place_en": "New York, United States"
+}
