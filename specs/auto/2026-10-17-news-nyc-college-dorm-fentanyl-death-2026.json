@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-17-news-nyc-college-dorm-fentanyl-death-2026",
+  "topic": "뉴욕 대학 기숙사서 여대생 펜타닐로 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 01:35 KST",
+  "source": "NBC News·The Guardian·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiwFBVV95cUxQS2ZZZTRqZG85ZjZlUmtYU1JPSEVaYjNCSGs4VVpKRk5GSVhabXNRc002RjFBcDU1aWZaVm1UbzN1eldVS1BHWWw5QzBHX0pfal90MGNHLVJ4b25LaTBqeTBuTFZBcGpEcm5hMWVSaWNLY2pQUmtBWHNDNF9MUnJUNzEwNDFrSW9wNEFr",
+    "related": [
+      [
+        "Man Charged in Fatal Fentanyl Overdose and Rape of FIT Student",
+        "The New York Times"
+      ],
+      [
+        "New York City college student dead after being drugged and raped in her dorm room, prosecutors say",
+        "NBC News"
+      ],
+      [
+        "New York man charged with rape and lethal fentanyl dosing of college student",
+        "The Guardian"
+      ],
+      [
+        "2 men charged in fatal fentanyl poisoning of NYC college student, alleged rape",
+        "Gothamist"
+      ],
+      [
+        "NYC college student dies after being given fentanyl, raped while unconscious in dorm room: prosecutors",
+        "New York Daily News"
+      ]
+    ],
+    "event_key": "nyc-college-dorm-fentanyl-death-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "뉴욕 대학 기숙사서\n여대생 [[펜타닐]]로 숨져",
+      "sub": "의식 잃은 피해자 성폭행·약물 투약 혐의로 용의자 기소",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "뉴욕 대학 기숙사서 여대생 펜타닐로 숨져",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기숙사 방서 범행",
+          "d": "검찰은 피해자가 기숙사 방에서 의식을 잃은 사이 범행을 당했다고 밝혔습니다. (NBC·뉴욕데일리뉴스)"
+        },
+        {
+          "t": "용의자 혐의 기소",
+          "d": "피해자에게 펜타닐을 먹이고 성폭행한 혐의로 용의자가 기소됐습니다. (NYT·가디언)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "뉴욕 대학 기숙사서 여대생 사망 (NBC·NYT)",
+        "펜타닐 투약 및 성폭행 혐의 기소 (가디언·NYT)"
+      ],
+      "unconfirmed": [
+        "기소 인원 매체별 집계 차이 있음 (1~2명)",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Gothamist",
+        "NBC News",
+        "New York Daily News",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.17 03:05 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 뉴욕 대학 기숙사에서 여대생이 펜타닐 투약 후 숨졌습니다.\n\n· 피해자는 기숙사 방에서 의식을 잃은 채 성폭행을 당했다고 검찰이 밝혔습니다. (NBC·뉴욕데일리뉴스)\n· 펜타닐을 투약하고 성폭행한 혐의로 남성이 기소됐습니다. (NYT·가디언)\n· 기소된 용의자 수는 매체별 집계 차이 있음 (고다미스트·NYT)\n\n출처: NYT·NBC·가디언·고다미스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 뉴욕의 한 대학 기숙사에서 여대생이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사건은 대학 기숙사 안에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "피해자는 의식을 잃은 사이 펜타닐 투약과 성폭행을 당한 것으로 조사됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "용의자 기소 인원은 매체별 집계 차이가 있습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[뉴욕]] 기숙사서\n무슨 일이?",
+  "broll": [
+    "dormitory building night",
+    "police car lights"
+  ],
+  "place_en": "New York, United States"
+}

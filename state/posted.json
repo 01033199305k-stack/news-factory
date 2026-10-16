@@ -16956,5 +16956,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792170854
+  },
+  {
+    "slug": "2026-10-17-news-nyc-college-dorm-fentanyl-death-2026",
+    "event_ms": 1792168526000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 뉴욕 대학 기숙사에서 여대생이 펜타닐 투약 후 숨졌습니다.\n\n· 피해자는 기숙사 방에서 의식을 잃은 채 성폭행을 당했다고 검찰이 밝혔습니다. (NBC·뉴욕데일리뉴스)\n· 펜타닐을 투약하고 성폭행한 혐의로 남성이 기소됐습니다. (NYT·가디언)\n· 기소된 용의자 수는 매체별 집계 차이 있음 (고다미스트·NYT)\n\n출처: NYT·NBC·가디언·고다미스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18477712366118215",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DekI4-6mj-3",
+        "kind": "carousel",
+        "at": 1792174024
+      },
+      "instagram": {
+        "id": "17962117320237743",
+        "permalink": "https://www.instagram.com/reel/DekJLG6FBaD/",
+        "kind": "reel",
+        "at": 1792174189
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792174199
+      },
+      "tiktok": {
+        "id": "7697329579710598418",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697329579710598418",
+        "kind": "video",
+        "at": 1792174321
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792174331
   }
 ]

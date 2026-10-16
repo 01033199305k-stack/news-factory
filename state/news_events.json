@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "ukraine-russia-strikes-fatalities",
-    "topic": "러 공습·양측 교전 최소 5명 이상 사망",
-    "slug": "2026-09-28-news-ukraine-russia-strikes-fatalities",
-    "cluster": "CBMiswFBVV95cUxOUVF1UXZ0clUzdWpxRktGWjFjUGsxajFzZFp4eVNrNlctejhTQWZxRDFuYXd6SnA0bWhrVnVaTjZRLXJMR2VxUkdweVdiZ2FJaWpzUjVfZFhBVWgzTUx2emVTSVdwYko3Yy1WOU16bWVyZmw0OHpKQzZpX1JWa2tsOXRKYUl3ekVlUzE1MEh4eU9UWktidi1Cd1pfRkN2VmZ6QTFxMDRxblR3NkxYMHhjN1NaQQ",
-    "badge": "brief",
-    "at": 1790557737.6664617,
-    "country": "우크라이나"
-  },
-  {
     "event_key": "us-iran-ceasefire-rejected",
     "topic": "트럼프, 이란 휴전안 거절\\n전면전 긴장 고조",
     "slug": "2026-09-28-news-us-iran-ceasefire-rejected",
@@ -2978,5 +2969,15 @@
     "at": 1792170431.9747996,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "nyc-college-dorm-fentanyl-death-2026",
+    "topic": "뉴욕 대학 기숙사서 여대생 펜타닐로 숨져",
+    "slug": "2026-10-17-news-nyc-college-dorm-fentanyl-death-2026",
+    "cluster": "CBMiiwFBVV95cUxQS2ZZZTRqZG85ZjZlUmtYU1JPSEVaYjNCSGs4VVpKRk5GSVhabXNRc002RjFBcDU1aWZaVm1UbzN1eldVS1BHWWw5QzBHX0pfal90MGNHLVJ4b25LaTBqeTBuTFZBcGpEcm5hMWVSaWNLY2pQUmtBWHNDNF9MUnJUNzEwNDFrSW9wNEFr",
+    "badge": "breaking",
+    "at": 1792173973.6620915,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]
