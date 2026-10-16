@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-16-news-bucheon-factory-fire-2026",
+  "topic": "부천 공장서 대형 화재 소방대원 심정지 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 10:33 KST",
+  "source": "Chosunbiz·KBS 뉴스·MBC 뉴스 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE5nTjlhN0I1c3UxUS1NMUMtZmVKT2wteWhranNPZ3hrTWJYVmIzUWIwODRySC1qUlNvN0MxelJyWUh0VWNGNDlkdU9sdVhxaHR6czB1MUZ2T25xeTJlU1BucjJBaW44WEN6NXVscVgwZ2p1d245RXRZ0gF3QVVfeXFMUElwaEFENHJkakM5MWdpZDY3Q1JWb2ZkMGh2MFRkTUEtSW16ekUyTmlaUHJ2b2E4UVFwdXBZMzA3ZDNYXzVHV2lMS0VUclRVOWFpS05aM25GMzJjTGExUE5jNklXWm1rbXRMWTRXdjJyRjJEdm5rcjg",
+    "related": [
+      [
+        "[속보] 부천 공장 화재로 소방관 3명 부상‥1명은 심정지",
+        "MBC 뉴스"
+      ],
+      [
+        "경기도 부천시 내동 도장공장서 화재‥소방대원 1명 심정지",
+        "MBC 뉴스"
+      ],
+      [
+        "이 대통령, 부천 공장 화재에 “화재진압·인명구조 만전…추가 피해 없도록 대응”",
+        "KBS 뉴스"
+      ],
+      [
+        "부천 공장 화재로 소방관 3명 부상…1명 심정지(종합) - 조선비즈",
+        "Chosunbiz"
+      ],
+      [
+        "[속보]부천 도장공장서 대형 화재로 ‘대응 2단계’ 발령···화재 진압 소방관 중상",
+        "경향신문"
+      ]
+    ],
+    "event_key": "bucheon-factory-fire-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "부천 공장서 대형 화재\n소방대원 [[심정지]] 발생",
+      "sub": "대응 2단계 발령",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "3명"
+        },
+        {
+          "k": "대응",
+          "v": "2단계"
+        }
+      ],
+      "alt": "부천 공장서 대형 화재 소방대원 심정지 발생",
+      "map": {
+        "lat": 37.5014422,
+        "lon": 126.7660139,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n부천",
+      "video_only": true,
+      "map": {
+        "lat": 37.5014422,
+        "lon": 126.7660139,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "부천"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대응 2단계 발령",
+          "d": "부천 도장공장 화재로 대응 2단계가 발령됐습니다 (경향신문)."
+        },
+        {
+          "t": "사상자 발생",
+          "d": "소방관 3명이 부상당했으며 이 중 1명은 심정지 상태입니다 (MBC 뉴스·조선비즈)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "도장공장 화재 발생",
+        "소방관 3명 부상",
+        "대응 2단계 발령"
+      ],
+      "unconfirmed": [
+        "화재 원인",
+        "재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Chosunbiz",
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "경향신문",
+        "2026.10.16 10:56 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 부천 도장공장서 대형 화재 발생…소방대원 심정지 발생\n\n· 부천 도장공장 화재로 대응 2단계가 발령됐습니다 (경향신문)\n· 소방관 3명이 다쳤으며 이 중 1명은 심정지 상태입니다 (MBC 뉴스·조선비즈)\n\n출처: MBC 뉴스·KBS 뉴스·조선비즈·경향신문 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "부천의 한 도장공장에서 대형 화재가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "대응 2단계가 발령됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "MBC 뉴스는 소방관 3명이 다쳤고 1명은 심정지 상태라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "부천 공장서\n난 [[대형 화재]]",
+  "broll": [
+    "factory fire smoke",
+    "firefighters truck night"
+  ],
+  "place_en": "Bucheon, South Korea"
+}

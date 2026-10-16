@@ -16413,5 +16413,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792114456
+  },
+  {
+    "slug": "2026-10-16-news-bucheon-factory-fire-2026",
+    "event_ms": 1792114425000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 부천 도장공장서 대형 화재 발생…소방대원 심정지 발생\n\n· 부천 도장공장 화재로 대응 2단계가 발령됐습니다 (경향신문)\n· 소방관 3명이 다쳤으며 이 중 1명은 심정지 상태입니다 (MBC 뉴스·조선비즈)\n\n출처: MBC 뉴스·KBS 뉴스·조선비즈·경향신문 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18008897213783471",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeiZ_nDDeFC",
+        "kind": "carousel",
+        "at": 1792115882
+      },
+      "instagram": {
+        "id": "18031944758886042",
+        "permalink": "https://www.instagram.com/reel/DeiaQzoCU4E/",
+        "kind": "reel",
+        "at": 1792116038
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1792116049
+      },
+      "tiktok": {
+        "id": "7697079610047089921",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697079610047089921",
+        "kind": "video",
+        "at": 1792116170
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792116180
   }
 ]

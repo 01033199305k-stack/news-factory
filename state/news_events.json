@@ -1,12 +1,5 @@
 [
   {
-    "event_key": "uk-airbase-explosives-arrest",
-    "topic": "영국 미군기지 인근 폭발물 혐의 수명 체포",
-    "slug": "2026-09-27-news-uk-airbase-explosives-arrest",
-    "at": 1790508565.5994918,
-    "country": "영국"
-  },
-  {
     "event_key": "south-africa-mass-shootings",
     "topic": "남아공 총기 난사 최소 27명 사망",
     "slug": "2026-09-27-news-south-africa-mass-shootings",
@@ -2965,5 +2958,15 @@
     "at": 1792114110.4216194,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "bucheon-factory-fire-2026",
+    "topic": "부천 공장서 대형 화재 소방대원 심정지 발생",
+    "slug": "2026-10-16-news-bucheon-factory-fire-2026",
+    "cluster": "CBMid0FVX3lxTE5nTjlhN0I1c3UxUS1NMUMtZmVKT2wteWhranNPZ3hrTWJYVmIzUWIwODRySC1qUlNvN0MxelJyWUh0VWNGNDlkdU9sdVhxaHR6czB1MUZ2T25xeTJlU1BucjJBaW44WEN6NXVscVgwZ2p1d245RXRZ0gF3QVVfeXFMUElwaEFENHJkakM5MWdpZDY3Q1JWb2ZkMGh2MFRkTUEtSW16ekUyTmlaUHJ2b2E4UVFwdXBZMzA3ZDNYXzVHV2lMS0VUclRVOWFpS05aM25GMzJjTGExUE5jNklXWm1rbXRMWTRXdjJyRjJEdm5rcjg",
+    "badge": "breaking",
+    "at": 1792115828.8512375,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]
