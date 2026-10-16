@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-17-news-california-brushfires-oct-2026",
+  "topic": "미국 캘리포니아 강풍 속 산불 확산 주민 대피령 및 대규모 정전",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 01:33 KST",
+  "source": "AP News·Bloomberg.com·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI",
+    "related": [
+      [
+        "Hot, windy weather stokes brush fires in Southern California; power turned off for many",
+        "AP News"
+      ],
+      [
+        "Evacuation orders and warnings set in place for Bryson Fire",
+        "NBC Los Angeles"
+      ],
+      [
+        "California brushfires force evacuations and tens of thousands of power shutoffs",
+        "The Guardian"
+      ],
+      [
+        "Gusty Winds, Hot Temperatures and Dry Air Raise Wildfire Risk in California",
+        "The New York Times"
+      ],
+      [
+        "Malibu Fire Has Crews Racing Dryness and Fierce Santa Ana Winds",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "california-brushfires-oct-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 캘리포니아 강풍 속 산불 확산\n주민 대피령 및 대규모 정전",
+      "sub": "뜨겁고 건조한 날씨와 강한 바람이 겹쳤습니다.",
+      "chips": [
+        {
+          "k": "지역",
+          "v": "캘리포니아"
+        }
+      ],
+      "alt": "미국 캘리포니아 강풍 속 산불 확산 주민 대피령 및 대규모 정전",
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아",
+      "video_only": true,
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대피령 발령",
+          "d": "브라이슨 산불 등으로 주민 대피령과 경보가 내려졌습니다 (NBC 로스앤젤레스)."
+        },
+        {
+          "t": "대규모 정전",
+          "d": "수만 가구의 전기가 차단됐습니다 (가디언·AP 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "캘리포니아 산불 발생",
+        "주민 대피령",
+        "수만 가구 정전"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Bloomberg.com",
+        "NBC Los Angeles",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.17 03:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 캘리포니아 강풍 속 산불 확산\n\n· 브라이슨 산불 등으로 주민 대피령과 경보가 내려졌습니다 (NBC 로스앤젤레스)\n· 수만 가구의 전기가 차단됐습니다 (가디언·AP 통신)\n· 뜨겁고 건조한 날씨와 강한 산타아나 바람이 겹쳤습니다 (뉴욕타임스·블룸버그)\n\n출처: AP 통신·가디언·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아에서 강풍과 건조한 날씨 속에 산불이 확산하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC 로스앤젤레스 등은 브라이슨 산불 등으로 주민 대피령이 내려졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "수만 가구의 전기가 차단됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "캘리포니아에서\n[[산불]]이 번진 이유",
+  "broll": [
+    "wildfire smoke hills",
+    "firefighter truck orange"
+  ],
+  "place_en": "California, United States"
+}

@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "us-iran-ceasefire-rejected",
-    "topic": "트럼프, 이란 휴전안 거절\\n전면전 긴장 고조",
-    "slug": "2026-09-28-news-us-iran-ceasefire-rejected",
-    "cluster": "CBMisgFBVV95cUxOVnV3N3NCRjFTNUdJSktYbnNrdUZqVEMwTS1KZU5MVTRUakpwajVZU21IdHd4ei1UdmZ5UG8yS210dVFQdWVIeFAtSlNQMGN1emhSMDM3SDdFalQ4NUpWaXNlVERWbUE0TXBRMHZHRlJLaEJDeVBET2UyclVScjJBYWl1NjNxVlBMX3piN0pVUERHUkFTd3JsUDZnR01kYlZibnJEM0pQeVk4Q0pvMWRzZjd30gG6AUFVX3lxTE1DRGhIVlRHUlFpbldXdXVlcWVwMTlvWk5uX2F4VkRoMndHT3k3dlY3TVQtVjlycGNMWExyNnFPaHBMR3E4dG9DOC1Rc3RKSlZmTHNScUk3WjduUW5DLUJvTThWanNyakJzZXZ5bktidUtna0c5dGNzUWlqTjVWcVBQamZvaFJ1VHc3TzB0TFRWV285RkRuNlk2RHc5WXVFUHNoQWxvdGtQSXByOU1TZnczdWdHdW8tNVJ3dw",
-    "badge": "brief",
-    "at": 1790568756.2490828,
-    "country": "이란"
-  },
-  {
     "event_key": "korea-ukraine-pow-dispute",
     "topic": "우크라이나에 사과 요구",
     "slug": "2026-09-28-news-korea-ukraine-pow-dispute",
@@ -2979,5 +2970,15 @@
     "at": 1792173973.6620915,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "california-brushfires-oct-2026",
+    "topic": "미국 캘리포니아 강풍 속 산불 확산 주민 대피령 및 대규모 정전",
+    "slug": "2026-10-17-news-california-brushfires-oct-2026",
+    "cluster": "CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI",
+    "badge": "breaking",
+    "at": 1792174395.2043147,
+    "country": "미국",
+    "category": "재난"
   }
 ]
