@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-17-news-ukraine-territory-gains-donetsk-2026",
+  "topic": "우크라이나군, 도네츠크 지역서 반격 통해 영토 탈환",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 01:00 KST",
+  "source": "BBC·Reuters·Atlantic Council 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE9rZy1XUFVpZXhkeTQwU25VcnlkWGtJZS1CMEozdm51TlVQSmVHWmFFbU50R29VN05ybUVKVW4zYklrY2RtTUt6emUxMExWUlJ6U1p0TjdVbEExb0QwYkE",
+    "related": [
+      [
+        "Ukraine pushes Russia back on front line where Starlink has played key role",
+        "BBC"
+      ],
+      [
+        "Ukraine says it frees more territory in Donetsk region counteroffensive",
+        "Reuters"
+      ],
+      [
+        "Ukraine reports more battlefield gains as Putin’s invasion loses momentum",
+        "Atlantic Council"
+      ],
+      [
+        "Ukraine Gains Ground Near Sumy as Russian Offensives Fail to Break Through Elsewhere",
+        "UNITED24 Media"
+      ],
+      [
+        "Ukraine war latest: Operation Vivaldi liberates another 101 square kilometers in Donetsk Oblast",
+        "The Kyiv Independent"
+      ]
+    ],
+    "event_key": "ukraine-territory-gains-donetsk-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나군, [[도네츠크]] 지역서 반격 통해 영토 탈환",
+      "sub": "작전명 '비발디'로 101제곱킬로미터 해방",
+      "chips": [
+        {
+          "k": "탈환 영토",
+          "v": "101㎢"
+        }
+      ],
+      "alt": "우크라이나군, 도네츠크 지역서 반격 통해 영토 탈환",
+      "map": {
+        "lat": 47.9212914,
+        "lon": 37.7809825,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n도네츠크",
+      "video_only": true,
+      "map": {
+        "lat": 47.9212914,
+        "lon": 37.7809825,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "도네츠크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "작전명",
+          "d": "우크라이나는 비발디 작전을 통해 도네츠크 오블라스트에서 101제곱킬로미터를 해방했다고 밝혔습니다 (The Kyiv Independent)."
+        },
+        {
+          "t": "전선 상황",
+          "d": "스타링크가 핵심 역할을 하는 전선에서 우크라이나가 러시아를 밀어냈다고 BBC는 전했습니다 (BBC·Reuters)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "도네츠크 지역 반격",
+        "101제곱킬로미터 탈환"
+      ],
+      "unconfirmed": [
+        "전체 전선에서의 추가 진격 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Atlantic Council",
+        "BBC",
+        "Reuters",
+        "The Kyiv Independent",
+        "UNITED24 Media",
+        "2026.10.17 02:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나군이 [[도네츠크]] 지역 반격으로 영토를 탈환했습니다\n\n· 비발디 작전을 통해 101제곱킬로미터를 해방했다고 밝혔습니다 (The Kyiv Independent)\n· 스타링크가 핵심 역할을 하는 전선에서 러시아를 밀어냈습니다 (BBC·Reuters)\n\n여러분은 이번 우크라이나의 전선 상황 변화, 어떻게 보십니까?\n출처: The Kyiv Independent·BBC·Reuters·Atlantic Council·UNITED24 Media 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나군이 도네츠크 지역 반격으로 영토를 탈환했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "The Kyiv Independent는 비발디 작전을 통해 백일 일이 제곱킬로미터를 해방했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "BBC는 스타링크가 핵심 역할을 하는 전선에서 우크라이나가 러시아를 밀어냈다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "전체 전선에서의 추가 진격 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 우크라이나의 전선 상황 변화, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "우크라이나군이\n[[도네츠크]]에서?",
+  "broll": [
+    "military combat field",
+    "ukraine landscape"
+  ],
+  "place_en": "Donetsk, Ukraine"
+}
