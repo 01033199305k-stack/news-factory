@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "korea-ukraine-pow-dispute",
-    "topic": "우크라이나에 사과 요구",
-    "slug": "2026-09-28-news-korea-ukraine-pow-dispute",
-    "cluster": "CBMixAFBVV95cUxPMHlVZ1pJa2tIQ0IwdjdldEdtWWQ0QmdMN0R4YzYtOXFFU21jRTNnWGNIa1RZeG5JUlJ6WGhfZnJxLUhnX2pKNXl5a0pQWjVIVXJ3WU5ZMmRDMUp4Vm5ka2RpNWt2TG94cUpGVnEtWXJXV2Q1ejBVZVM0X3FvNXpuZ0tlekQ5UzZOWVZ0SUhublVOcERjYmVrc2taM3BWb2Z0d3ZrajFONTFraTFDaDZOX1JUd29wcmt5cUgxZ0ROM3BjQURY",
-    "badge": "brief",
-    "at": 1790575790.498786,
-    "country": "우크라이나"
-  },
-  {
     "event_key": "spacex-starship-orbital-flight",
     "topic": "스페이스X 스타십 첫 궤도 비행",
     "slug": "2026-09-28-news-spacex-starship-orbital-flight",
@@ -2980,5 +2971,15 @@
     "at": 1792174395.2043147,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "pope-leo-calls-putin-ukraine-truce",
+    "topic": "교황, 병상서 푸틴에 전화 우크라이나 휴전 촉구",
+    "slug": "2026-10-17-news-pope-leo-calls-putin-ukraine-truce",
+    "cluster": "CBMivAFBVV95cUxPYllmQno5OHdDZjBvZklLVUlMUUhGLVphOWtsSnRLUTctdGZhQkFHTVZWVW9iNWJBVDExNmowVXN1X3FwOF9VVTIycmFZODlkYWJSWjZYc1o2bUR2TFZJSS1RSXVkcldfZ2JKODBFYXVGM1hkc2ljV0tFdVdubERndlYwSHZGeV9fS0lWRWVjeU05TndSWXlBSzZOTnF0bmhjbkMzMXYybk9hM2k2MTFOSXluenktbWNEa0stQw",
+    "badge": "brief",
+    "at": 1792184837.824664,
+    "country": "바티칸",
+    "category": "국제"
   }
 ]

@@ -17062,5 +17062,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792174747
+  },
+  {
+    "slug": "2026-10-17-news-pope-leo-calls-putin-ukraine-truce",
+    "event_ms": 1792184837824,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 교황, 병상서 푸틴에 전화 우크라이나 휴전 촉구\n\n· 폐암 수술을 받고 회복 중인 교황이 러시아 대통령과 통화했습니다 (스카이 뉴스)\n· 바티칸은 교황이 우크라이나 올레슈키 지역의 인도주의적 휴전을 요청했다고 밝혔습니다 (바티칸 뉴스·인디펜던트)\n\n여러분은 이번 교황의 휴전 촉구 중재가 실제 휴전 협상으로 이어질 수 있다고 보십니까?\n\n출처: 스카이 뉴스·바티칸 뉴스·인디펜던트 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "바티칸"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18641873413019642",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DekdmmpFDXe",
+        "kind": "carousel",
+        "at": 1792184883
+      },
+      "instagram": {
+        "id": "18439395037194330",
+        "permalink": "https://www.instagram.com/reel/Dekd8zQDNOu/",
+        "kind": "reel",
+        "at": 1792185080
+      },
+      "youtube": {
+        "id": "6uLM3R3SzvI",
+        "permalink": "https://youtube.com/shorts/6uLM3R3SzvI",
+        "kind": "shorts",
+        "at": 1792185096
+      },
+      "tiktok": {
+        "id": "7697376458217360660",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697376458217360660",
+        "kind": "video",
+        "at": 1792185228
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792185238
   }
 ]

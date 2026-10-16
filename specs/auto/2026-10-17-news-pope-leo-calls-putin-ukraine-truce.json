@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-17-news-pope-leo-calls-putin-ukraine-truce",
+  "topic": "교황, 병상서 푸틴에 전화 우크라이나 휴전 촉구",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 02:36 KST",
+  "source": "Sky News·The Independent·Facebook 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxPYllmQno5OHdDZjBvZklLVUlMUUhGLVphOWtsSnRLUTctdGZhQkFHTVZWVW9iNWJBVDExNmowVXN1X3FwOF9VVTIycmFZODlkYWJSWjZYc1o2bUR2TFZJSS1RSXVkcldfZ2JKODBFYXVGM1hkc2ljV0tFdVdubERndlYwSHZGeV9fS0lWRWVjeU05TndSWXlBSzZOTnF0bmhjbkMzMXYybk9hM2k2MTFOSXluenktbWNEa0stQw",
+    "related": [
+      [
+        "Pope calls Russian president Vladimir Putin urging Ukraine truce days after lung cancer surgery",
+        "Sky News"
+      ],
+      [
+        "Pope urges humanitarian ceasefire in Oleshky in call with Russian President",
+        "Vatican News"
+      ],
+      [
+        "Pope Leo phones Putin from hospital to plead for help for Ukrainian town",
+        "The Independent"
+      ],
+      [
+        "The Pope relayed an urgent message to Vladimir Putin, while he is recovering from lung cancer surgery. The Pope urged the Russian President to pursue a truce with Ukraine during their call this week, the Vatican said. The American Pontiff expressed \"deep c",
+        "Facebook"
+      ],
+      [
+        "Pope Leo, pictured for first time since his surgery, calls Russia’s Putin, seeks ceasefire in Ukraine",
+        "The Salt Lake Tribune"
+      ]
+    ],
+    "event_key": "pope-leo-calls-putin-ukraine-truce"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "교황, 병상서 푸틴에 전화\n우크라이나 [[휴전]] 촉구",
+      "sub": "폐암 수술 회복 중인 교황, 러시아 대통령과 통화",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "러시아·우크라이나"
+        },
+        {
+          "k": "장소",
+          "v": "올레슈키"
+        }
+      ],
+      "alt": "교황, 병상서 푸틴에 전화 우크라이나 휴전 촉구",
+      "map": {
+        "lat": 41.9034912,
+        "lon": 12.4528349,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "바티칸"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "바티칸\n바티칸시국",
+      "video_only": true,
+      "map": {
+        "lat": 41.9034912,
+        "lon": 12.4528349,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바티칸시국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "병원에서 통화",
+          "d": "교황은 병원에서 수술 후 회복 중인 상태로 러시아 대통령과 통화했다고 바티칸이 밝혔습니다 (스카이 뉴스)."
+        },
+        {
+          "t": "우크라이나 마을",
+          "d": "교황은 우크라이나 올레슈키 지역의 인도주의적 휴전을 촉구했습니다 (바티칸 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "교황의 푸틴 러시아 대통령 통화",
+        "우크라이나 휴전 촉구"
+      ],
+      "unconfirmed": [
+        "러시아 측의 구체적인 답변 내용"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Facebook",
+        "Sky News",
+        "The Independent",
+        "The Salt Lake Tribune",
+        "Vatican News",
+        "2026.10.17 06:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 교황, 병상서 푸틴에 전화 우크라이나 휴전 촉구\n\n· 폐암 수술을 받고 회복 중인 교황이 러시아 대통령과 통화했습니다 (스카이 뉴스)\n· 바티칸은 교황이 우크라이나 올레슈키 지역의 인도주의적 휴전을 요청했다고 밝혔습니다 (바티칸 뉴스·인디펜던트)\n\n여러분은 이번 교황의 휴전 촉구 중재가 실제 휴전 협상으로 이어질 수 있다고 보십니까?\n\n출처: 스카이 뉴스·바티칸 뉴스·인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "교황이 병상에서 푸틴 러시아 대통령에게 직접 전화를 걸었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "바티칸은 교황이 우크라이나 지역의 휴전을 촉구했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폐암 수술을 받고 회복 중인 교황은 인도주의적 지원을 호소했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아 측의 구체적인 반응은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 교황의 휴전 중재가 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "병상에 있는 [[교황]]이\n푸틴에게 전화한 이유는?",
+  "broll": [
+    "hospital room interior",
+    "vatican city square"
+  ],
+  "place_en": "Vatican City"
+}
