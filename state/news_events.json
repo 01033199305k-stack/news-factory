@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "israel-drakon-submarine",
-    "topic": "이스라엘 해군력 강화 신형 잠수함 도착",
-    "slug": "2026-09-28-news-israel-drakon-submarine",
-    "cluster": "CBMirAFBVV95cUxPd3dIWGZ4RVZEOVdPanhsa3F0cmowQXhYRHJ6SHkzS19MU0RwTVh6Wk5GZ3JLNDVrTkZLSTJRclk4d2N0SVRMM3VDazIyRFp5MkJJaU13QkU3M2JRaFg1VC1udk1mSlVLdmItbUZ3V1J0RjRlZmF1aUJ1YkpvWjdIOVJtM3hYMC1wdGV6bURpaDhOQzVxXzItWG9kQVpZeFYwTjlVWllBLVRWZ0lw0gGyAUFVX3lxTE5obU1LeFNsZ09mYXhsbHlWZFBGZ3NaTVUyMDNMclgwbnJ6QnBjM19Jd1Uwa29yZmw5U1BHWFZuOFFWNWNPT3FlRmlvNVJtQkhFZjRDemxGZEh0T3BKeEVKV3plTHdhVE9hRkw4eTQ4VWd5a0dQYXVLM2hRRS0yMWlFbVlUTHRJak9va2ZlcldjcTFPdFJRWkkwTE9FeDdCWG16ejdlRGFMUG8xeHYyZ0tBVUE",
-    "badge": "brief",
-    "at": 1790536213.1090307,
-    "country": "이스라엘"
-  },
-  {
     "event_key": "us-georgia-macon-park-shooting",
     "topic": "미 조지아 공원서 총격 십대 11명 부상",
     "slug": "2026-09-28-news-us-georgia-macon-park-shooting",
@@ -2975,5 +2966,15 @@
     "at": 1792156196.731475,
     "country": "키프로스",
     "category": "사고"
+  },
+  {
+    "event_key": "starlink-restrictions-ukraine",
+    "topic": "우크라이나 스타링크 제한, 백악관 지시였다",
+    "slug": "2026-10-16-news-starlink-restrictions-ukraine",
+    "cluster": "CBMi_gFBVV95cUxQR3FLUlhLOVV5Qy1wQl9PcUZsdV9OZE1HUUo2bktfakhSSXhEY2RkVkVESFBIMVIwTEFSTWVPRXhkVHd2NEFwUWpZNmpsdDg1T3Fhamk3ZFJiZVh4RmJla1VGZ1QxQ3BFOHNWZm1KOHZtNF83NlU4VzhhMm5ZQk92dXRWb3BJOUw5NEVnZDk4SG5oZEdCVDZqN1pMWVcyVnF0MFpYcjB4WkFiVUpubTdueHllY0w3bXNOOGlRRUxsQlJZcWlmSmVjVGNyMTB3Rlo4SGJ4NUpTUDZiMEt6bTRfU3dQYlZPVzBmNUloTmR6bVlnZDM3QmtYZEVHYVNhUdIBgwJBVV95cUxPRGFpMXg4bU4yZl85MF94Yi1JRHdTUEJDNWM2a0xuZDBISFBWNEJWVm11X1YwdnJraUZlWGF0VGFhRTZCcEhUcVBCS3VvcHUtaUVNb2l3RTFxemZLMFEwdEtHNGJsMjc1WFRYb1RfV3NkY0xaS2RES19fWmRsQzJ5b0hSRTlhQ2E3LUhTUmpLdmFQN3hvWE9tYUF2Wk8ybURUUEMwVnNBUV95OERBQ2R6MHl1anVBRnI5VFNEaFY3ZXhrblhwdjF0Ti00MGQycHdhNWVUaW1HSmgxUHlpR0VYSWNKQlhhT3pVaW54R3BvOENhc0E0YXNocVhYajFHcWpPOUVV",
+    "badge": "breaking",
+    "at": 1792159674.8687968,
+    "country": "미국",
+    "category": "국제"
   }
 ]

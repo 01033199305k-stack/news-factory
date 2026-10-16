@@ -1,0 +1,152 @@
+{
+  "slug": "2026-10-16-news-starlink-restrictions-ukraine",
+  "topic": "우크라이나 스타링크 제한, 백악관 지시였다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 20:16 KST",
+  "source": "BBC·Reuters·The Times of India 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMi_gFBVV95cUxQR3FLUlhLOVV5Qy1wQl9PcUZsdV9OZE1HUUo2bktfakhSSXhEY2RkVkVESFBIMVIwTEFSTWVPRXhkVHd2NEFwUWpZNmpsdDg1T3Fhamk3ZFJiZVh4RmJla1VGZ1QxQ3BFOHNWZm1KOHZtNF83NlU4VzhhMm5ZQk92dXRWb3BJOUw5NEVnZDk4SG5oZEdCVDZqN1pMWVcyVnF0MFpYcjB4WkFiVUpubTdueHllY0w3bXNOOGlRRUxsQlJZcWlmSmVjVGNyMTB3Rlo4SGJ4NUpTUDZiMEt6bTRfU3dQYlZPVzBmNUloTmR6bVlnZDM3QmtYZEVHYVNhUdIBgwJBVV95cUxPRGFpMXg4bU4yZl85MF94Yi1JRHdTUEJDNWM2a0xuZDBISFBWNEJWVm11X1YwdnJraUZlWGF0VGFhRTZCcEhUcVBCS3VvcHUtaUVNb2l3RTFxemZLMFEwdEtHNGJsMjc1WFRYb1RfV3NkY0xaS2RES19fWmRsQzJ5b0hSRTlhQ2E3LUhTUmpLdmFQN3hvWE9tYUF2Wk8ybURUUEMwVnNBUV95OERBQ2R6MHl1anVBRnI5VFNEaFY3ZXhrblhwdjF0Ti00MGQycHdhNWVUaW1HSmgxUHlpR0VYSWNKQlhhT3pVaW54R3BvOENhc0E0YXNocVhYajFHcWpPOUVV",
+    "related": [
+      [
+        "Starlink disruption exposes Ukraine's reliance on US tech, Europe admits 'can't replace capability'",
+        "The Times of India"
+      ],
+      [
+        "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say",
+        "Reuters"
+      ],
+      [
+        "US senators call for investigation into Ukraine's Starlink restrictions",
+        "BBC"
+      ],
+      [
+        "U.S. Starlink curbs embolden Russia to intensify attacks on Ukraine, minister tells CNBC",
+        "CNBC"
+      ],
+      [
+        "Don’t Get Starstruck By Musk",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "starlink-restrictions-ukraine"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 [[스타링크]] 제한,\n백악관 지시였다",
+      "sub": "유럽 국가들 대체 불가 능력 인정",
+      "chips": [
+        {
+          "k": "출처",
+          "v": "백악관"
+        }
+      ],
+      "alt": "우크라이나 스타링크 제한, 백악관 지시였다",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "제한 조치 배경",
+          "d": "우크라이나에 대한 스타쉴드 제한 명령이 백악관 내부에서 나왔다고 로이터 등이 보도했습니다."
+        },
+        {
+          "t": "유럽의 입장",
+          "d": "유럽은 우크라이나가 미국 기술에 크게 의존하고 있으며 해당 능력을 대체할 수 없음을 인정했습니다."
+        },
+        {
+          "t": "미국 의회 반응",
+          "d": "미국 상원 의원들은 우크라이나의 스타링크 제한 조치에 대한 조사를 촉구했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "백악관의 스타쉴드 제한 명령",
+        "미국 상원의 조사 촉구"
+      ],
+      "unconfirmed": [
+        "제한 조치의 정확한 군사적 영향",
+        "향후 정책 변경 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNBC",
+        "Reuters",
+        "The Times of India",
+        "2026.10.16 23:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나의 스타링크 제한 조치가 백악관 지시로 밝혀졌습니다\n\n· 우크라이나에 대한 스타쉴드 제한 명령이 백악관 내부에서 나왔습니다 (로이터)\n· 유럽은 우크라이나가 미국 기술에 의존하며 이를 대체할 수 없다고 인정했습니다 (타임스오브인디아)\n· 미국 상원 의원들은 관련 조사를 촉구하고 나섰습니다 (BBC)\n\n여러분은 미국의 이번 스타링크 제한 조치가 전쟁에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·BBC·타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나에 대한 스타링크 제한 조치가 백악관의 지시로 내려졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 스타쉴드 제한 명령이 백악관 내부에서 나온 것이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "유럽은 우크라이나가 미국 기술에 크게 의존하고 있으며 능력을 대체할 수 없다고 인정했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 상원 의원들은 이번 제한 조치에 대한 조사를 촉구했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "제한 조치의 구체적인 군사적 영향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 이번 스타링크 제한 조치가 전쟁에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "향후 영향은?"
+    }
+  ],
+  "hook": "우크라이나 [[스타링크]] 제한\n백악관 지시였다",
+  "broll": [
+    "satellite dish antenna",
+    "computer screen digital"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
