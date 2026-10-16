@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-16-news-west-bank-settler-attack-journalist-2026",
+  "topic": "요르단강 서안 지구서 정착촌 주민 폭력 공격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 22:52 KST",
+  "source": "Al Jazeera·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirwFBVV95cUxQVEc2RFdEdThxcUZmbVZGR2ZXUkRfUlU2Q2VLNHM3c3Z0Ry1hNmJKYTdsN1BqUVhxNkNWNHpKbzVmbVZYNXE1NTBEb2pLUnY5enhGTXlXcGNOd0tuWmpfU21lLVpqRFQ4UW1HYkV0V0lzUV85dFpNbnNEOGdjb2c0Q1Myek5va2xBSXhTNHIyemR2cmYyUVBMZzFGMF8wMmw3UHFlSTQtZDNoQ0lRTjZ30gG0AUFVX3lxTE1sRE5ZUTdiSXhsRVM5MDluRVVKVnRFZWVxUmduYnJJc2tCS3I1dl9fM2FwRWRhVXZlelE2OFJiVzhicVVXOU1hdVgta3llR2hjUE9tVDEzTXBzVlR4OGZPVXdoRDh0WGdqVllWS25pRnlhTEEtMHpiaUFpYU13ekczQ1Zza09NOUtwcHk5alNuSWlsOEttWEZ2OEF5bzRSU1pidzNwajQwdjFfR3RFUnVoa2V3Rg",
+    "related": [
+      [
+        "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+        "Al Jazeera"
+      ],
+      [
+        "Israeli settlers attack Palestinians and Washington Post photographer in West Bank",
+        "The Washington Post"
+      ],
+      [
+        "Israeli settlers beat Palestinians and a U.S. photojournalist in West Bank attacks",
+        "NPR"
+      ],
+      [
+        "Washington Post journalist hospitalized after Israeli settler attack on Palestinian olive harvest in West Bank",
+        "CNN"
+      ],
+      [
+        "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "BBC"
+      ]
+    ],
+    "event_key": "west_bank_settler_attack_journalist_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "요르단강 서안 지구서\n[[정착촌 주민]] 폭력 공격",
+      "sub": "팔레스타인인과 미국 기자 등이 다쳤습니다",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "미국 기자 포함"
+        }
+      ],
+      "alt": "요르단강 서안 지구서 정착촌 주민 폭력 공격",
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n요르단강 서안 지구",
+      "video_only": true,
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "요르단강 서안 지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기자 병원 이송",
+          "d": "워싱턴포스트 소속 사진기자가 병원으로 옮겨졌습니다 (CNN·워싱턴포스트)."
+        },
+        {
+          "t": "올리브 수확 현장",
+          "d": "팔레스타인인들의 올리브 수확 중에 공격이 발생했습니다 (알자지라·BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "요르단강 서안 지구 발생",
+        "팔레스타인인 및 미국 기자 부상",
+        "워싱턴포스트 기자 병원 이송"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 규모",
+        "한국인 피해 여부",
+        "가해자 신원 및 체포 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "NPR",
+        "The Washington Post",
+        "2026.10.17 01:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 요르단강 서안 지구서 정착촌 주민들의 폭력 공격 발생\n\n· 팔레스타인인과 미국 사진기자가 다쳤습니다 (BBC·알자지라)\n· 워싱턴포스트 소속 기자는 병원으로 이송됐습니다 (CNN·워싱턴포스트)\n· 올리브 수확 중에 공격이 일어났습니다 (알자지라·BBC)\n\n출처: BBC·CNN·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "요르단강 서안 지구에서 정착촌 주민들의 공격으로 미국 기자가 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 올리브 수확 중이던 팔레스타인인들과 외신 사진기자가 폭행당했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "부상당한 워싱턴포스트 기자는 병원으로 옮겨졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상 규모와 가해자 처벌 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "요르단강 서안 지구서\n[[무슨 일이]]?",
+  "broll": [
+    "olive harvest farm",
+    "middle east street"
+  ],
+  "place_en": "West Bank"
+}

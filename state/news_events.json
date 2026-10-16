@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "us-georgia-macon-park-shooting",
-    "topic": "미 조지아 공원서 총격 십대 11명 부상",
-    "slug": "2026-09-28-news-us-georgia-macon-park-shooting",
-    "cluster": "CBMioAFBVV95cUxOLUFnTTVqRGI4TXNnbGRNZEQ3TVRtbmdkY2xQS0dZWk1MWWctSlllOGoxMHEzUHZGLXVJYUtKMnI5eGhyTzNzaWxpSTBIYzd2dlM2UmxST1Y5amMxUkhwV19PSkxseDIteHotRnoyQ0lTUHhyWjRSYi1NNWo3UWdQc1JvRldBaXZtV3IxekgzYXhzU3ltVFhCVTRZTFlMSmt3",
-    "badge": "breaking",
-    "at": 1790543725.300108,
-    "country": "미국"
-  },
-  {
     "event_key": "finland-sweden-russia-jets-intercept",
     "topic": "핀란드·스웨덴 전투기 러시아 군용기 공동 요격",
     "slug": "2026-09-28-news-finland-sweden-russia-jets-intercept",
@@ -2976,5 +2967,15 @@
     "at": 1792159674.8687968,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "west_bank_settler_attack_journalist_2026",
+    "topic": "요르단강 서안 지구서 정착촌 주민 폭력 공격",
+    "slug": "2026-10-16-news-west-bank-settler-attack-journalist-2026",
+    "cluster": "CBMirwFBVV95cUxQVEc2RFdEdThxcUZmbVZGR2ZXUkRfUlU2Q2VLNHM3c3Z0Ry1hNmJKYTdsN1BqUVhxNkNWNHpKbzVmbVZYNXE1NTBEb2pLUnY5enhGTXlXcGNOd0tuWmpfU21lLVpqRFQ4UW1HYkV0V0lzUV85dFpNbnNEOGdjb2c0Q1Myek5va2xBSXhTNHIyemR2cmYyUVBMZzFGMF8wMmw3UHFlSTQtZDNoQ0lRTjZ30gG0AUFVX3lxTE1sRE5ZUTdiSXhsRVM5MDluRVVKVnRFZWVxUmduYnJJc2tCS3I1dl9fM2FwRWRhVXZlelE2OFJiVzhicVVXOU1hdVgta3llR2hjUE9tVDEzTXBzVlR4OGZPVXdoRDh0WGdqVllWS25pRnlhTEEtMHpiaUFpYU13ekczQ1Zza09NOUtwcHk5alNuSWlsOEttWEZ2OEF5bzRSU1pidzNwajQwdjFfR3RFUnVoa2V3Rg",
+    "badge": "breaking",
+    "at": 1792166927.332279,
+    "country": "팔레스타인",
+    "category": "총격·테러"
   }
 ]

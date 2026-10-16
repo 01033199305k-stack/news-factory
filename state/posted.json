@@ -16848,5 +16848,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792160102
+  },
+  {
+    "slug": "2026-10-16-news-west-bank-settler-attack-journalist-2026",
+    "event_ms": 1792158750000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 요르단강 서안 지구서 정착촌 주민들의 폭력 공격 발생\n\n· 팔레스타인인과 미국 사진기자가 다쳤습니다 (BBC·알자지라)\n· 워싱턴포스트 소속 기자는 병원으로 이송됐습니다 (CNN·워싱턴포스트)\n· 올리브 수확 중에 공격이 일어났습니다 (알자지라·BBC)\n\n출처: BBC·CNN·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18098758697400659",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dej7c1SmuF4",
+        "kind": "carousel",
+        "at": 1792166977
+      },
+      "instagram": {
+        "id": "18339876361272760",
+        "permalink": "https://www.instagram.com/reel/Dej7uqtjYBM/",
+        "kind": "reel",
+        "at": 1792167140
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1792167150
+      },
+      "tiktok": {
+        "id": "7697299293551512884",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697299293551512884",
+        "kind": "video",
+        "at": 1792167272
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792167282
   }
 ]
