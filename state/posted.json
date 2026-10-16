@@ -16358,5 +16358,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792109471
+  },
+  {
+    "slug": "2026-10-16-news-us-considers-moab-strike-iran-2026",
+    "event_ms": 1792114110421,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국이 이란을 상대로 ‘모든 폭탄의 어머니’ 사용을 검토 중인 것으로 전해졌습니다.\n\n· 미국이 이란을 상대로 ‘모든 폭탄의 어머니’ 사용을 검토 중이라고 보도됐습니다 (CNN).\n· 이란 측은 맞서 싸우겠다는 입장을 밝힌 상태입니다 (CNBC).\n\n미국의 이러한 군사적 압박 검토, 앞으로 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: CNN·CNBC·알자지라 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18098668202537474",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeiWteBDToH",
+        "kind": "carousel",
+        "at": 1792114162
+      },
+      "instagram": {
+        "id": "18105318599206268",
+        "permalink": "https://www.instagram.com/reel/DeiW6p3iK2a/",
+        "kind": "reel",
+        "at": 1792114286
+      },
+      "youtube": {
+        "id": "Doq2EIM5fR0",
+        "permalink": "https://youtube.com/shorts/Doq2EIM5fR0",
+        "kind": "shorts",
+        "at": 1792114314
+      },
+      "tiktok": {
+        "id": "7697072252449246516",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697072252449246516",
+        "kind": "video",
+        "at": 1792114446
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792114456
   }
 ]

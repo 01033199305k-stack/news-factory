@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-16-news-us-considers-moab-strike-iran-2026",
+  "topic": "미국, 이란에 ‘모든 폭탄의 어머니’ 검토",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 09:55 KST",
+  "source": "Al Jazeera·CNN·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgFBVV95cUxQQWliX25LbmxpYjhLUDE1MVE5ZnNZUmFpZXYwbUdIQWdETW82SVlZaURveWJoVnRlRWJ6ZE5sNGhmdFJNeWhlQ0NtVmJWZlFhMzl0S044UXkxWWg5ZDdCR3h5NlVZTUhfQ3ZtZllSNlBUeXhaSkptcnRUWkNIaFRWQ2JNOF8yVDNJdU1vQ1FCeHUyX1pFWXZGYkJfTEQyR1FmR3JsOUxHRGZVM1BHcjFjOGRnWGpvVDVtVDhtc0Rn0gHEAUFVX3lxTE1pblp3WnJBclN6VTZrcUhoOWpxaTBibFk3WHJmSlJEd2xDNmVjLXU0M0h3ZnhMWmtYUl9scmVOb0JHS2hUUnlGelY3T294VG94c21MNFBzQ19SanlhM3lpMGpiQ2lsU2IxbmFxOVdtWmU4SnZJdmNfRWQxVWJyYVh3aUh6cERrY05MajV0bW1jMGhwektVSlZ2VzFmTzV0SHZ3dmhPdGVKUHZMb3pJUHZZLWVXR2RERUZhNTdMcVFNeFAwbUk",
+    "related": [
+      [
+        "Why US is weighing ‘Mother of all bombs’ strikes against Iran",
+        "The Indian Express"
+      ],
+      [
+        "What is the ‘Mother of All Bombs’ US could use in Iran?",
+        "Al Jazeera"
+      ],
+      [
+        "White House prepares plans to use 'mother of all bombs' on Iran: Report",
+        "The Times of India"
+      ],
+      [
+        "Exclusive: US considering using ‘mother of all bombs’ against Iran, sources say",
+        "CNN"
+      ],
+      [
+        "U.S. reportedly considers use of 'mother of all bombs' as Iran vows to fight on",
+        "CNBC"
+      ]
+    ],
+    "event_key": "us-considers-moab-strike-iran-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국, 이란에\n[[‘모든 폭탄의 어머니’]] 검토",
+      "sub": "백악관 '모든 폭탄의 어머니' 사용 계획 준비 보도",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "이란"
+        }
+      ],
+      "alt": "미국, 이란에 ‘모든 폭탄의 어머니’ 검토",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "CNN 등 외신 보도",
+          "d": "미국 정부가 이란을 상대로 이른바 ‘모든 폭탄의 어머니’ 사용을 검토하고 있다고 외신들이 전했습니다."
+        },
+        {
+          "t": "군사 옵션 논의",
+          "d": "백악관이 이란을 상대로 ‘모든 폭탄의 어머니’를 사용하는 계획을 준비 중인 것으로 알려졌습니다 (타임스오브인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 정부 대이란 군사 옵션 검토",
+        "외신 소식통 인용 보도"
+      ],
+      "unconfirmed": [
+        "실제 공격 승인 여부",
+        "이란 측 공식 대응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNBC",
+        "CNN",
+        "The Indian Express",
+        "The Times of India",
+        "2026.10.16 10:28 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국이 이란을 상대로 ‘모든 폭탄의 어머니’ 사용을 검토 중인 것으로 전해졌습니다.\n\n· 미국이 이란을 상대로 ‘모든 폭탄의 어머니’ 사용을 검토 중이라고 보도됐습니다 (CNN).\n· 이란 측은 맞서 싸우겠다는 입장을 밝힌 상태입니다 (CNBC).\n\n미국의 이러한 군사적 압박 검토, 앞으로 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: CNN·CNBC·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 이란을 상대로 ‘모든 폭탄의 어머니’ 사용을 검토 중입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "실제 공격 명령이 내려질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 이번 군사적 압박, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 검토 중인\n[[‘모든 폭탄의 어머니’]]",
+  "broll": [
+    "military aircraft sky",
+    "pentagon building exterior"
+  ],
+  "place_en": "Washington, D.C., United States"
+}
