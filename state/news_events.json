@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "us-noreaster-storm-emergency",
-    "topic": "미 동부 강력한 폭풍우 해안 침수·비상사태",
-    "slug": "2026-09-27-news-us-noreaster-storm-emergency",
-    "cluster": "CBMihwFBVV95cUxNeTYwSF9wbk40OUE2YkdLb000OTlpYlZjWTNoeDdLdXp0MXRTTXFBVWdzVnotM2VIemdvYVNKZDJOakhLeDhxT0ZLcEJzc3o5UWE1anBxc0dsTEp0QVgxRlRqWllBSVJ6OVNjNFdEdHdVMTRvRENTczlIZVdsTlZsblBfV084ZTA",
-    "badge": "breaking",
-    "at": 1790514869.0198963,
-    "country": "미국"
-  },
-  {
     "event_key": "thailand-bangkok-flood-disaster",
     "topic": "태국 방콕 홍수 재난 선포 공무원 이틀간 휴무",
     "slug": "2026-09-27-news-thailand-bangkok-flood-disaster",
@@ -2970,6 +2961,16 @@
     "badge": "brief",
     "at": 1792138186.8586862,
     "country": "태국",
+    "category": "국제"
+  },
+  {
+    "event_key": "china-north-korea-bridge-opens-2026",
+    "topic": "북한·중국 새 국경 다리 12년 만에 개통",
+    "slug": "2026-10-16-news-china-north-korea-bridge-opens-2026",
+    "cluster": "CBMiywFBVV95cUxOeC05S3VTRWRGOWRYeWZ3cmpUOVhRY3FzaDFCUTNUS0tTZkZ6bmtHZUs3N0E1ZTVfNF9aNkl1TXBKSzVnX3RKZDdJSEduejc2UFBmd1dkWXBualozVXZGNy1McC1NZHZHTW5JLWtFb2xrUkpHV09kdjJzNExrak15X05aSUtkY2E2Y2g3Q0FtWVRmYWplOWtMVUFVWGlVdG9Ta2Y2ek1OZHE2ZGtGeWtaRmV2QTF2aWdyMnhHRDBxTzcxVW8ydkV2OTdxWdIB0AFBVV95cUxQeTNDWjJ0dzk1NUFaa1Fia0VrYXkwQWJhMXBQNVE2NE00ZXVEM0hnV0huZGlvQjVvdGdfYS1NUHg2QkZsamV2cXIxel8zTVk3TTkwQ3dsVlotSEFHSG9RaTlDWmJzV1JaQW1ONFpWcTExVDJEOTRDMWdJeDhyeVFSaFI0eG5tUjNZa1Vqdk9NUG95VjhCdjRMVzNJclJEb3F1dHc0RzhxOXlDLUVmejNBQ0xwc19iaWNIdnB6REFHSTVwTzNTbXhoMTNmOWMwRnhI",
+    "badge": "brief",
+    "at": 1792145474.2490485,
+    "country": "중국",
     "category": "국제"
   }
 ]

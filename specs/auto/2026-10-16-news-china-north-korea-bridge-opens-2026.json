@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-16-news-china-north-korea-bridge-opens-2026",
+  "topic": "북한·중국 새 국경 다리 12년 만에 개통",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.16 15:07 KST",
+  "source": "BBC·CNN·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiywFBVV95cUxOeC05S3VTRWRGOWRYeWZ3cmpUOVhRY3FzaDFCUTNUS0tTZkZ6bmtHZUs3N0E1ZTVfNF9aNkl1TXBKSzVnX3RKZDdJSEduejc2UFBmd1dkWXBualozVXZGNy1McC1NZHZHTW5JLWtFb2xrUkpHV09kdjJzNExrak15X05aSUtkY2E2Y2g3Q0FtWVRmYWplOWtMVUFVWGlVdG9Ta2Y2ek1OZHE2ZGtGeWtaRmV2QTF2aWdyMnhHRDBxTzcxVW8ydkV2OTdxWdIB0AFBVV95cUxQeTNDWjJ0dzk1NUFaa1Fia0VrYXkwQWJhMXBQNVE2NE00ZXVEM0hnV0huZGlvQjVvdGdfYS1NUHg2QkZsamV2cXIxel8zTVk3TTkwQ3dsVlotSEFHSG9RaTlDWmJzV1JaQW1ONFpWcTExVDJEOTRDMWdJeDhyeVFSaFI0eG5tUjNZa1Vqdk9NUG95VjhCdjRMVzNJclJEb3F1dHc0RzhxOXlDLUVmejNBQ0xwc19iaWNIdnB6REFHSTVwTzNTbXhoMTNmOWMwRnhI",
+    "related": [
+      [
+        "Watch: China-North Korea bridge opens after 12-years delay",
+        "The Times of India"
+      ],
+      [
+        "New China-North Korea bridge opens after more than a decade of delay",
+        "The Hindu"
+      ],
+      [
+        "China, North Korea open delayed bridge to boost trade as Pyongyang deepens ties with Russia",
+        "Telegraph India"
+      ],
+      [
+        "New North Korea-China bridge finally opens. But will it help Pyongyang evade sanctions?",
+        "CNN"
+      ],
+      [
+        "North Korea and China open new bridge after 12-year delay",
+        "BBC"
+      ]
+    ],
+    "event_key": "china-north-korea-bridge-opens-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "북한·중국 [[새 국경 다리]]\n12년 만에 개통",
+      "sub": "양국 간 무역을 확대하기 위한 조치입니다",
+      "chips": [
+        {
+          "k": "지연 기간",
+          "v": "12년"
+        }
+      ],
+      "alt": "북한·중국 새 국경 다리 12년 만에 개통",
+      "map": {
+        "lat": 34.5412252,
+        "lon": 108.9237067,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n북한·중국 국경",
+      "video_only": true,
+      "map": {
+        "lat": 34.5412252,
+        "lon": 108.9237067,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "북한·중국 국경"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "무역 활성화 목적",
+          "d": "양국 간 무역을 늘리기 위한 개통이라고 텔레그래프 인디아가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "북한·중국 새 교량 개통",
+        "12년 지연 끝 개통 (BBC)"
+      ],
+      "unconfirmed": [
+        "대북 제재 회피 활용 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Telegraph India",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.16 19:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 북한과 중국이 12년 만에 새 국경 다리를 개통했습니다.\n\n· 양국 간 무역을 확대하기 위한 목적입니다 (텔레그래프 인디아)\n· 제재 회피 수단으로 활용될지 주목됩니다 (CNN)\n\n🇰🇷 북한과 중국 간 국경 교량이 12년 만에 개통했습니다.\n\n이번 개통이 지역 정세와 무역에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: BBC·CNN·텔레그래프 인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "북한과 중국이 12년 만에 새 국경 다리를 개통했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "중국과 북한 접경 지역의 새 교량입니다.",
+      "card": "map"
+    },
+    {
+      "text": "BBC는 12년 동안 지연되던 다리가 마침내 열렸다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "제재 회피 수단이 될지는 아직 모릅니다.",
+      "card": "check"
+    },
+    {
+      "text": "북한과 중국의 무역 교류 확대 소식입니다.",
+      "card": "korea",
+      "screen": "북한 무역 확대"
+    },
+    {
+      "text": "여러분은 이번 개통을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[북한과 중국]]을 잇는\n새 다리가 열린 이유",
+  "broll": [
+    "bridge traffic",
+    "border crossing"
+  ],
+  "place_en": "China"
+}

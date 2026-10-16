@@ -16577,5 +16577,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792138599
+  },
+  {
+    "slug": "2026-10-16-news-china-north-korea-bridge-opens-2026",
+    "event_ms": 1792145474249,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 북한과 중국이 12년 만에 새 국경 다리를 개통했습니다.\n\n· 양국 간 무역을 확대하기 위한 목적입니다 (텔레그래프 인디아)\n· 제재 회피 수단으로 활용될지 주목됩니다 (CNN)\n\n🇰🇷 북한과 중국 간 국경 교량이 12년 만에 개통했습니다.\n\n이번 개통이 지역 정세와 무역에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: BBC·CNN·텔레그래프 인디아 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18116525732096459",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DejShgHlmqR",
+        "kind": "carousel",
+        "at": 1792145518
+      },
+      "instagram": {
+        "id": "17959690332247283",
+        "permalink": "https://www.instagram.com/reel/DejS0EIlKMH/",
+        "kind": "reel",
+        "at": 1792145682
+      },
+      "youtube": {
+        "id": "GJIPCmHzbds",
+        "permalink": "https://youtube.com/shorts/GJIPCmHzbds",
+        "kind": "shorts",
+        "at": 1792145780
+      },
+      "tiktok": {
+        "id": "7697207583504928021",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697207583504928021",
+        "kind": "video",
+        "at": 1792145912
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792145922
   }
 ]
