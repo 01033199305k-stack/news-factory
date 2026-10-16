@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "thailand-bangkok-flood-disaster",
-    "topic": "태국 방콕 홍수 재난 선포 공무원 이틀간 휴무",
-    "slug": "2026-09-27-news-thailand-bangkok-flood-disaster",
-    "cluster": "CBMi0AFBVV95cUxQbFZuX1F6RFd5NXRYQ2dXNHBGUm5CWS1zcGJqUFZrRUFDOHJnTC05SjE5ZTBBRFpGaDBVYnlxOG1saGhFV3BONWlnNGJvWGhfanlRSmt0U3dlWUtSX1RNbmFWS2phSlRCVVlxNGhQZ3lHWFJRQlhQajZ6TUUzbFRBVThXbkFVeFR0Q1NzMFZNVENSRlp3M1UtNnA2a0RMRTRGbFJ0elpuRUw2cEMtYURFSVFyYUQ1R3oxNHZnX0hMNUZ5SEhpVEdacktRdy1LcEpM",
-    "badge": "breaking",
-    "at": 1790519151.2484045,
-    "country": "태국"
-  },
-  {
     "event_key": "greece-athens-building-explosion",
     "topic": "아테네 건물 폭발 관광객 등 6명 사망",
     "slug": "2026-09-27-news-greece-athens-building-explosion",
@@ -2971,6 +2962,16 @@
     "badge": "brief",
     "at": 1792145474.2490485,
     "country": "중국",
+    "category": "국제"
+  },
+  {
+    "event_key": "russia-seizes-five-european-firms-assets-2026",
+    "topic": "푸틴, 타르켓 등 유럽 기업 5곳 압류",
+    "slug": "2026-10-16-news-russia-seizes-five-european-firms-assets-2026",
+    "cluster": "CBMitwFBVV95cUxNWW56anU3c2VHOTBPUTNxdkdXS2MtS1d1bEVNYVRCUUdCWG90X0pUSnNFdUl6R1BkeElQYXZLUkFlOEJpRHZMTlh1cEpsY0kteTFEZ21yaTVENEFtSDJlRklSNXh0V0kyMnY2TVM0NXVMd09wdm1TdmM4Rnl5bXpFLUhoQTBfTzNJSENUQ25LTExFaUV1VTdTZWU2MTRyV2VfRWdORS1jcFdHX0k2WjhjaExDNTdqVWM",
+    "badge": "brief",
+    "at": 1792152542.025618,
+    "country": "러시아",
     "category": "국제"
   }
 ]
