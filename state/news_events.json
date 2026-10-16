@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "greece-athens-building-explosion",
-    "topic": "아테네 건물 폭발 관광객 등 6명 사망",
-    "slug": "2026-09-27-news-greece-athens-building-explosion",
-    "cluster": "CBMitgFBVV95cUxOc1VyQmc1ejZvR19GbjlPc1I4YWROSFA4TWRSbEZTNkRtWEQyNVJhSE5qUjFyd21zWkdtXzVqN05LYnVKaDNqUWNxZHloSW9tM1Q4YTA4dlQyb203ZklHU29pb1hmRTRtQVJ6N2ljTTlBbmdLbm9GcVNrZWZrZ3FkaE45QWdrNVVzbVBRVUE0a2s0c0pxUDhDLUlvX2pGTEIwVUJtVXdHZzZaUVo0a0xseFN6THprZ9IBuwFBVV95cUxPQk1QV192bDJoV3N2cXAxWURDZDQwMUUtUmM5enc0M0Vmd25BNWVUSzFOQVRiQUV1UnhfanFIZjVuNFdTdlJWVE05MHpST2k0emhJYmF6aXljaVgwazY4ZEoyamZQWW1yR2I0NDhld0hNckZiUEJmeU5IYnhsTlVrNzZKYjFraS1hUFJaWmZEcjVZOHc4blJOMGE5Z2l5SWxDZmdkVmFOVkUxTGtrZTY5Sy03R3oxZjZGaVFj",
-    "badge": "breaking",
-    "at": 1790520731.295448,
-    "country": "그리스"
-  },
-  {
     "event_key": "nepal-himlung-avalanche",
     "topic": "히말라야 눈사태 등반객 실종 발생",
     "slug": "2026-09-27-news-nepal-himlung-avalanche",
@@ -2973,5 +2964,15 @@
     "at": 1792152542.025618,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "gwangju_knife_threat_2026",
+    "topic": "광주 도심서 흉기 난동 50대 여성 현행범 체포",
+    "slug": "2026-10-16-news-gwangju-knife-threat-2026",
+    "cluster": "CBMiZkFVX3lxTE9oQ3V4QVh5OXQzYmtCbl9FNkNNVjhXWUMxbWlzcmlWd3RzSjR2SWZaZXprUkp4NGRodXJYZVF6c1BsSEVMSDF3TlBYMEVhYlpFVWFMSm96cHVMeE5TQ2d4RTBMWnlPdw",
+    "badge": "breaking",
+    "at": 1792154093.2680707,
+    "country": "대한민국",
+    "category": "총격·테러"
   }
 ]

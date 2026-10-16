@@ -16687,5 +16687,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792152928
+  },
+  {
+    "slug": "2026-10-16-news-gwangju-knife-threat-2026",
+    "event_ms": 1792152900000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 광주 도심서 흉기 난동, 50대 여성 현행범 체포 (KBS 뉴스·연합뉴스TV·머니투데이·뉴스1)\n\n· 전세 계약에 불만을 품고 길거리서 위협한 것으로 조사됐습니다 (뉴스1)\n· 광주 북구 길거리서 흉기를 소지한 50대 여성이 긴급체포됐습니다 (KBS 뉴스)\n\n출처: KBS 뉴스·연합뉴스TV·머니투데이·뉴스1 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "총격테러",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18098110505557450",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deji9o4FXhM",
+        "kind": "carousel",
+        "at": 1792154138
+      },
+      "instagram": {
+        "id": "18108613754223895",
+        "permalink": "https://www.instagram.com/reel/DejjMHhlK-m/",
+        "kind": "reel",
+        "at": 1792154273
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1792154283
+      },
+      "tiktok": {
+        "id": "6ad21aadf24c5797a23cb40c",
+        "permalink": "",
+        "kind": "video",
+        "at": 1792154486
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792154496
   }
 ]
