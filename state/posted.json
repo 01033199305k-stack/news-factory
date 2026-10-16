@@ -16466,5 +16466,61 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792116180
+  },
+  {
+    "slug": "2026-10-16-usgs-us6000u2mq",
+    "event_ms": 1792121732661,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아 인근 규모 6.9 지진\n\n한국 시각 10월 16일 12시 35분, 러시아 Ozernovskiy에서 북동쪽 76km. 깊이 143km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u2mq",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "러시아",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18493814665110459",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deim84Kjou_",
+        "kind": "carousel",
+        "at": 1792122678
+      },
+      "instagram": {
+        "id": "18162290734450956",
+        "permalink": "https://www.instagram.com/reel/DeinRnAD78F/",
+        "kind": "reel",
+        "at": 1792122861
+      },
+      "youtube": {
+        "id": "7uHHWFzO2HE",
+        "permalink": "https://youtube.com/shorts/7uHHWFzO2HE",
+        "kind": "shorts",
+        "at": 1792122893
+      },
+      "tiktok": {
+        "id": "7697109282134756628",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697109282134756628",
+        "kind": "video",
+        "at": 1792123025
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792123035
   }
 ]
