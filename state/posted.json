@@ -17770,5 +17770,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792278945
+  },
+  {
+    "slug": "2026-10-18-news-wichita-sports-complex-vehicle-crash-2026",
+    "event_ms": 1792274150000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 위치타 체육시설서 차량 돌진, 어린이 포함 2명 사망\n\n· 미국 캔자스주 위치타의 축구 경기장에 트럭이 돌진해 다수 사상자가 발생했습니다 (CNN·가디언)\n· 사건 이후 해당 복합시설에서 열릴 예정이던 모든 행사가 취소됐습니다 (KWCH)\n\n출처: CNN·가디언·KWCH·KCTV·위치타 이글 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18100840073429770",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DenSHcLmneL",
+        "kind": "carousel",
+        "at": 1792279524
+      },
+      "instagram": {
+        "id": "17925813609199442",
+        "permalink": "https://www.instagram.com/reel/DenSZNrE4Z5/",
+        "kind": "reel",
+        "at": 1792279685
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792279695
+      },
+      "tiktok": {
+        "id": "7697782548960660737",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697782548960660737",
+        "kind": "video",
+        "at": 1792279817
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792279827
   }
 ]

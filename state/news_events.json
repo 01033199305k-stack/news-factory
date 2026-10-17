@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "italy-egypt-regeni-verdict",
-    "topic": "이탈리아 법원, 이집트 요원 '학생 납치' 유죄 선고",
-    "slug": "2026-09-29-news-italy-egypt-regeni-verdict",
-    "cluster": "CBMijwFBVV95cUxPRDFzV1IzRUxOOHl4R3NXR2swanNDTnhtRkZBeUtrYUtjVzhZUHVmQ3lOLWE3V1JSOTU2NnpDRTN4U3NjMVJLRHZjdEdwZ1p3MzZuZVBZdjc5aXlOTWpLOGJzWnR1cmV6V25kcnV3dTVQcXhSZDBVNzVpX3pkeHFzb3hFNnZtOTdtQmlnVl83OA",
-    "badge": "brief",
-    "at": 1790644406.3356514,
-    "country": "이탈리아"
-  },
-  {
     "event_key": "openai-safety-model-cancellation",
     "topic": "안전 우려에 오픈AI 새 모델 출시 취소",
     "slug": "2026-09-29-news-openai-safety-model-cancellation",
@@ -2993,5 +2984,15 @@
     "at": 1792278559.9091213,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "wichita_sports_complex_vehicle_crash_2026",
+    "topic": "미국 위치타 체육시설서 차량 돌진 어린이 포함 2명 사망",
+    "slug": "2026-10-18-news-wichita-sports-complex-vehicle-crash-2026",
+    "cluster": "CBMidEFVX3lxTE9IOEJ6REVSSGpqUnhpVVlBVFRVbE0yOUtJUVVHS25sNHc0bGNYNUpaQ3pkV3ZqdGlLS3NzZ196ZVZaQTctQkJWb3RCODF2Rmh5UEhPdDQ5emM0T0lVTVZfOThHQ3BWSExEVnl0TmZIWjlKeEhP",
+    "badge": "breaking",
+    "at": 1792279476.205209,
+    "country": "미국",
+    "category": "사고"
   }
 ]

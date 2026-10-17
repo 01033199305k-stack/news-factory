@@ -1,0 +1,146 @@
+{
+  "slug": "2026-10-18-news-wichita-sports-complex-vehicle-crash-2026",
+  "topic": "미국 위치타 체육시설서 차량 돌진 어린이 포함 2명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 06:55 KST",
+  "source": "CNN·The Guardian·KCTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMidEFVX3lxTE9IOEJ6REVSSGpqUnhpVVlBVFRVbE0yOUtJUVVHS25sNHc0bGNYNUpaQ3pkV3ZqdGlLS3NzZ196ZVZaQTctQkJWb3RCODF2Rmh5UEhPdDQ5emM0T0lVTVZfOThHQ3BWSExEVnl0TmZIWjlKeEhP",
+    "related": [
+      [
+        "Officers responding to ‘mass casualty incident’ at Wichita sports complex involving a vehicle",
+        "CNN"
+      ],
+      [
+        "Two people, including child, killed after person drives through soccer game in Kansas",
+        "The Guardian"
+      ],
+      [
+        "All events canceled at Stryker Sports Complex following deadly crash",
+        "KWCH"
+      ],
+      [
+        "Child, adult dead after ‘mass casualty’ incident at Wichita complex",
+        "KCTV"
+      ],
+      [
+        "Two killed, multiple injured when truck hits crowd at Wichita youth soccer game",
+        "Wichita Eagle"
+      ]
+    ],
+    "event_key": "wichita_sports_complex_vehicle_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 위치타 체육시설서 [[차량 돌진]]\n어린이 포함 [[2명]] 사망",
+      "sub": "청소년 축구 경기장에 트럭이 돌진해 다수 사상자가 발생했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        },
+        {
+          "k": "부상",
+          "v": "다수"
+        }
+      ],
+      "alt": "미국 위치타 체육시설서 차량 돌진 어린이 포함 2명 사망",
+      "map": {
+        "lat": 37.6922361,
+        "lon": -97.3375448,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n위치타",
+      "video_only": true,
+      "map": {
+        "lat": 37.6922361,
+        "lon": -97.3375448,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "위치타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 장소",
+          "d": "미국 캔자스주 위치타의 스트라이커 스포츠 컴플렉스에서 발생했습니다 (CNN·가디언)."
+        },
+        {
+          "t": "행사 취소",
+          "d": "사건 이후 해당 복합시설에서 열릴 예정이던 모든 행사가 취소됐습니다 (KWCH)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 2명 (CNN·가디언)",
+        "어린이 포함 (CNN·가디언)",
+        "트럭 돌진 (위치타 이글)"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수",
+        "운전자의 신원 및 범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "KCTV",
+        "KWCH",
+        "The Guardian",
+        "Wichita Eagle",
+        "2026.10.18 08:24 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 위치타 체육시설서 차량 돌진, 어린이 포함 2명 사망\n\n· 미국 캔자스주 위치타의 축구 경기장에 트럭이 돌진해 다수 사상자가 발생했습니다 (CNN·가디언)\n· 사건 이후 해당 복합시설에서 열릴 예정이던 모든 행사가 취소됐습니다 (KWCH)\n\n출처: CNN·가디언·KWCH·KCTV·위치타 이글 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캔자스주의 한 스포츠 시설에서 차량이 돌진해 2명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN 등은 청소년 축구 경기장에 트럭이 돌진해 어린이를 포함해 여러 명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사건 발생 후 해당 복합시설의 모든 행사가 전면 취소됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "운전자의 구체적인 범행 동기와 정확한 부상자 수는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[축구 경기장]]에\n돌진한 트럭?",
+  "broll": [
+    "sports complex stadium",
+    "soccer field night"
+  ],
+  "place_en": "Wichita, Kansas, United States"
+}
