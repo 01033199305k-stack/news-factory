@@ -1,0 +1,123 @@
+{
+  "slug": "2026-10-17-news-bangladesh-resort-fire-kills-ten-2026",
+  "topic": "방글라데시 해변 리조트 화재로 10명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 18:57 KST",
+  "source": "NDTV·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi1AFBVV95cUxPdWJmdU55WDY5a2hqVzZSSWpZZ3ZsVGZ1Qk9sTWQ2RFg5SElSMUVDTERTT0V6LXF3YVdyZHJIWlNSdzNtLS1uaS16LS1KRUFFbjV4a1VJakIyQmtqa1JKTHpOT0MxMWxuWTJDWlZ1dVlQWVpGNGRCN3dLcG9nQk1ScE9Tc1d4Mk9yVnJxRkx1SjlMTkFhUFN5b05JbE50NmFXNzJNYmRZdFJqLUUtVWdDY3ZsekRfZHMwdjQyMkxOZkxaVlJLZzZ3dFVMSnNReFZXaUFhTw",
+    "related": [
+      [
+        "10 charred to death in fire at seaside resort in Bangladesh",
+        "The Times of India"
+      ],
+      [
+        "Children Among 10 Killed In Bangladesh Beach Resort Fire",
+        "NDTV"
+      ],
+      [
+        "10 killed in fire at seaside resort in Bangladesh",
+        "The Hindu"
+      ],
+      [
+        "Minister urges tourism board to assess damage, tourist safety after Inani incident",
+        "The Bangladesh Monitor"
+      ],
+      [
+        "Devastating fire at Tuptup resort in Ukhiya kills 5",
+        "Barta 24"
+      ]
+    ],
+    "event_key": "bangladesh-resort-fire-kills-ten-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "방글라데시 [[해변 리조트]]\n화재로 10명 사망",
+      "sub": "해변 리조트 불로 어린이 등 다수 인명 피해",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "10명"
+        }
+      ],
+      "alt": "방글라데시 해변 리조트 화재로 10명 사망"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "어린이 등 인명 피해",
+          "d": "현지 리조트 화재로 어린이 등 10명이 숨졌다고 주요 외신이 전했습니다 (타임스오브인디아·NDTV·더힌두)."
+        },
+        {
+          "t": "안전 점검 착수",
+          "d": "방글라데시 당국은 피해 현장 조사와 관광객 안전 점검을 촉구했습니다 (방글라데시모니터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "해변 리조트 화재 발생",
+        "사망자 10명 (타임스오브인디아·NDTV·더힌두)"
+      ],
+      "unconfirmed": [
+        "사망자 수 매체별 집계 차이 있음 (5~10명)",
+        "화재 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Barta 24",
+        "NDTV",
+        "The Bangladesh Monitor",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.17 19:53 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 방글라데시 해변 리조트서 화재 발생해 10명 사망\n\n· 해변 리조트에 불이 나 어린이 등 10명이 숨진 것으로 전해졌습니다 (타임스오브인디아·NDTV)\n· 일부 언론은 우키야 리조트 화재로 5명이 사망했다고 보도해 매체별 집계에 차이가 있습니다 (바르타24)\n· 방글라데시 당국은 피해 상황 파악과 관광객 안전 점검을 촉구했습니다 (방글라데시모니터)\n\n출처: 타임스오브인디아·NDTV·더힌두·방글라데시모니터·바르타24 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "방글라데시 해변 리조트에서 화재가 발생했습니다.",
+      "card": "cover",
+      "screen": "방글라데시 해변 리조트 화재"
+    },
+    {
+      "text": "우키야 지역의 리조트에서도 불이 나 인명 피해가 났습니다.",
+      "card": "cover",
+      "screen": "방글라데시 우키야"
+    },
+    {
+      "text": "외신들은 어린이 등 10명이 숨졌다고 보도했습니다.",
+      "card": "points",
+      "screen": "어린이 등 10명 사망"
+    },
+    {
+      "text": "화재 원인은 아직 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "화재 원인 미확인"
+    }
+  ],
+  "hook": "방글라데시 [[해변 리조트]]\n화재로 10명 사망?",
+  "broll": [
+    "beach resort fire",
+    "ambulance night"
+  ],
+  "place_en": "Inani Beach, Cox's Bazar, Bangladesh"
+}

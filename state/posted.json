@@ -17445,5 +17445,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792228188
+  },
+  {
+    "slug": "2026-10-17-news-bangladesh-resort-fire-kills-ten-2026",
+    "event_ms": 1792231020000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 방글라데시 해변 리조트서 화재 발생해 10명 사망\n\n· 해변 리조트에 불이 나 어린이 등 10명이 숨진 것으로 전해졌습니다 (타임스오브인디아·NDTV)\n· 일부 언론은 우키야 리조트 화재로 5명이 사망했다고 보도해 매체별 집계에 차이가 있습니다 (바르타24)\n· 방글라데시 당국은 피해 상황 파악과 관광객 안전 점검을 촉구했습니다 (방글라데시모니터)\n\n출처: 타임스오브인디아·NDTV·더힌두·방글라데시모니터·바르타24 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "방글라데시"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18340662250258339",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Del8OfTlj0G",
+        "kind": "carousel",
+        "at": 1792234493
+      },
+      "instagram": {
+        "id": "18075815063562564",
+        "permalink": "https://www.instagram.com/reel/Del8ephgkQY/",
+        "kind": "reel",
+        "at": 1792234643
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1792234653
+      },
+      "tiktok": {
+        "id": "7697589252493790471",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697589252493790471",
+        "kind": "video",
+        "at": 1792234774
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792234784
   }
 ]
