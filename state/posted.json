@@ -17172,5 +17172,115 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792192124
+  },
+  {
+    "slug": "2026-10-17-news-us-measles-outbreak-4410-cases-2026",
+    "event_ms": 1792197274508,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국에서 홍역 감염이 4410건 보고되며 확산세가 커지고 있습니다.\n\n· 로이터와 알자지라는 미국 내 홍역 환자가 4410건으로 집계됐다고 보도했습니다.\n· 미국 질병통제예방센터(CDC)는 확산 대응을 위해 펜실베이니아에 역학조사관을 파견할 계획입니다 (ABC).\n· 현지 의료진은 바이러스 확산 속에 예방 접종을 권고했습니다 (PBS).\n\n출처: 로이터·알자지라·ABC·PBS 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18103085201381724",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dek1VEVGl-8",
+        "kind": "carousel",
+        "at": 1792197322
+      },
+      "instagram": {
+        "id": "18123792131473377",
+        "permalink": "https://www.instagram.com/reel/Dek1mG0D5JM/",
+        "kind": "reel",
+        "at": 1792197480
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792197490
+      },
+      "tiktok": {
+        "id": "7697451254192164112",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697451254192164112",
+        "kind": "video",
+        "at": 1792202650
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792202660
+  },
+  {
+    "slug": "2026-10-17-news-trump-waives-russia-sanctions-india",
+    "event_ms": 1792200300000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국, 인도 등 대상 러시아 관련 제재 및 관세 면제 발표\n\n· 도널드 트럼프 미국 대통령이 그레이엄법에 근거해 러시아 관련 제재와 관세를 면제했습니다 (더 타임스 오브 인디아)\n\n여러분은 미국의 이번 러시아 제재 면제 조치가 글로벌 경제에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 더 타임스 오브 인디아·NDTV 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18100933253451321",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dek-7yWlCtP",
+        "kind": "carousel",
+        "at": 1792202353
+      },
+      "instagram": {
+        "id": "18074179766725572",
+        "permalink": "https://www.instagram.com/reel/Dek_LRfjnF9/",
+        "kind": "reel",
+        "at": 1792202501
+      },
+      "youtube": {
+        "id": "X1zTgP0iiyE",
+        "permalink": "https://youtube.com/shorts/X1zTgP0iiyE",
+        "kind": "shorts",
+        "at": 1792202518
+      },
+      "tiktok": {
+        "id": "7697451826798464276",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697451826798464276",
+        "kind": "video",
+        "at": 1792202781
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792202791
   }
 ]

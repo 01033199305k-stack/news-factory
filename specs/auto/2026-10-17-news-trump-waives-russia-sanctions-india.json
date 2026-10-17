@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-17-news-trump-waives-russia-sanctions-india",
+  "topic": "미국, 인도 등 대상 러시아 관련 제재 및 관세 면제 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 10:25 KST",
+  "source": "NDTV·The Times of India·Rediff 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAJBVV95cUxPSkVTaW8zS0RTcXdnXzJUOTRZU0JwUmhVZTd6bDRrY3NHNzREOFBFVEk5dTlsbkZFeDBmQll1ODNrRDA3STJfMk16NXN5ek1ycVpNUUR0T0pYazM5Sm4yeE1ST1JieGgzVWx4dzZ2WkdwRFdCdEU4c1hGeWNMWGtPNFJKalJLSlNfbWkxUEV5S1BXMWw4U05nSDhua1VQUnJzdi1kbjlEV1pMWTZ1aElkRGFRbjJ3ZVo1MVB4VjJONTZnWG4wZUJLQWE2Szk0T1NiZjFFS3lUUDJVNEdObGMyQzNJRG03MGQzMlF1MG0zWWJkYUNRZUc5ZGpyWVJVSUdYdEpCQkdrNTByTjFqdzVSdA",
+    "related": [
+      [
+        "Trump waives Russia sanctions, restrictions and duties under Graham Act",
+        "The Times of India"
+      ],
+      [
+        "How India Can Counter Trump's Tariff Threat",
+        "Rediff"
+      ],
+      [
+        "Trump Waives Many Russia-Related Sanctions, Tariffs In Relief For India, China",
+        "NDTV"
+      ],
+      [
+        "The other G2 and three lessons that follow for India",
+        "The Indian Express"
+      ],
+      [
+        "'Trump may Finalise Russia Sanctions Law in 10 Days': Sergio Gor",
+        "The Economic Times"
+      ]
+    ],
+    "event_key": "trump_waives_russia_sanctions_india"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 인도 등 대상 러시아 관련 [[제재 및 관세 면제]] 발표",
+      "sub": "그레이엄법에 따른 조치 시행",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "러시아"
+        }
+      ],
+      "alt": "미국, 인도 등 대상 러시아 관련 제재 및 관세 면제 발표",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "면제 조치",
+          "d": "도널드 트럼프 미국 대통령이 그레이엄법에 근거해 러시아 관련 제재와 관세를 면제했습니다 (더 타임스 오브 인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 관련 제재 및 관세 면제 (더 타임스 오브 인디아·NDTV)",
+        "그레이엄법 적용 (더 타임스 오브 인디아)"
+      ],
+      "unconfirmed": [
+        "구체적인 면제 대상 품목 및 국가별 적용 범위",
+        "향후 추가 제재 법안 처리 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "NDTV",
+        "Rediff",
+        "The Economic Times",
+        "The Indian Express",
+        "The Times of India",
+        "2026.10.17 10:58 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국, 인도 등 대상 러시아 관련 제재 및 관세 면제 발표\n\n· 도널드 트럼프 미국 대통령이 그레이엄법에 근거해 러시아 관련 제재와 관세를 면제했습니다 (더 타임스 오브 인디아)\n\n여러분은 미국의 이번 러시아 제재 면제 조치가 글로벌 경제에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 더 타임스 오브 인디아·NDTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 인도 등을 대상으로 러시아 관련 제재와 관세를 면제했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "더 타임스 오브 인디아는 그레이엄법에 따른 조치라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 면제 대상과 적용 범위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 [[러시아 제재]]를\n면제한 이유는?",
+  "broll": [
+    "government building washington",
+    "stock exchange screen"
+  ],
+  "place_en": "Washington, DC, United States"
+}

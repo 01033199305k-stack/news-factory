@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "mexico-hurricane-polo",
-    "topic": "멕시코 태평양 연안 허리케인 폴로 접근 카테고리 5등급 강력한 폭풍 북상 중",
-    "slug": "2026-09-28-news-mexico-hurricane-polo",
-    "cluster": "CBMiXkFVX3lxTE8zUlFqOTNsWm9QWHdKc1FXdG5URGRHOHRjWlpDeUhhTU85NktyMmxhaktHdVM4RkZNemZxb0dDYmdYLThpZU9JWlFaSnhJNU9IdXEtNW0wT2x5Vl9vZkE",
-    "badge": "breaking",
-    "at": 1790598569.2879353,
-    "country": "멕시코"
-  },
-  {
     "event_key": "nepal-baglung-landslides",
     "topic": "네팔 바글룽 산사태 10명 사망 발생",
     "slug": "2026-09-28-news-nepal-baglung-landslides",
@@ -2983,5 +2974,15 @@
     "at": 1792197274.5084906,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "trump_waives_russia_sanctions_india",
+    "topic": "미국, 인도 등 대상 러시아 관련 제재 및 관세 면제 발표",
+    "slug": "2026-10-17-news-trump-waives-russia-sanctions-india",
+    "cluster": "CBMikAJBVV95cUxPSkVTaW8zS0RTcXdnXzJUOTRZU0JwUmhVZTd6bDRrY3NHNzREOFBFVEk5dTlsbkZFeDBmQll1ODNrRDA3STJfMk16NXN5ek1ycVpNUUR0T0pYazM5Sm4yeE1ST1JieGgzVWx4dzZ2WkdwRFdCdEU4c1hGeWNMWGtPNFJKalJLSlNfbWkxUEV5S1BXMWw4U05nSDhua1VQUnJzdi1kbjlEV1pMWTZ1aElkRGFRbjJ3ZVo1MVB4VjJONTZnWG4wZUJLQWE2Szk0T1NiZjFFS3lUUDJVNEdObGMyQzNJRG03MGQzMlF1MG0zWWJkYUNRZUc5ZGpyWVJVSUdYdEpCQkdrNTByTjFqdzVSdA",
+    "badge": "breaking",
+    "at": 1792202309.2115617,
+    "country": "미국",
+    "category": "국제"
   }
 ]
