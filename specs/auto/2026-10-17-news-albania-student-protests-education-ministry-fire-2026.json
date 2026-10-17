@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-17-news-albania-student-protests-education-ministry-fire-2026",
+  "topic": "알바니아 수도서 반정부 시위 격화",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 08:33 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxNdjdMS2ZKUlhUMGVhMFpYaXVMUEZzbFZMeXBIRVE1cVppYXloNGpjVThNcHowM3VxT1lxODE2TzI3cTJpVWNMOHVnWkpqM1I1NXRFRDI5RWJzRlJuYnl3SXpxLUtSUkJ5VU9qZFl1NWM1Si1nSTR2YV9RU1VBUnMyZnZrNVNESU1JQmFuZ1RJMDRZOVB2bURFVnYtWGVmaDI0ZjQxaWhpMjRLSEstZVBLOENVQ2dwQdIBuwFBVV95cUxPYzBaeVhOQmFrQ0JRV0NtMnU3WGFaTTZkclJfMkNtUmJKNkdlcE1haHU5cVBicFdJUWJOSTJ6T0QyMEVVZVpsNllGVUpFZjRCS0lsR0hNeUFFcFFjR2dya2VBVFoxMzFuNkItakVFSWJsWUdwUXFzM3ZQV2RuYy10YnRiUFR6Y282V2Nqa3lVNHZkMzdUSUlrWTR4RXZEN2JkcDNhbzJ2RWtpTFhLRjk0b0pCYWtnckpBd3E4",
+    "related": [
+      [
+        "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+        "Al Jazeera"
+      ],
+      [
+        "What in the World | How flamingos in Albania sparked massive protests",
+        "BBC"
+      ],
+      [
+        "Thousands march in Albanian capital as anti-government protests spread",
+        "Reuters"
+      ],
+      [
+        "Student Protests in Albania Turn Violent as Calls Grow for Leader’s Resignation",
+        "The New York Times"
+      ],
+      [
+        "Europe in Flames: Students Protests Erupt in Albania, Education Ministry Set on Fire | Vantage",
+        "Firstpost"
+      ]
+    ],
+    "event_key": "albania-student-protests-education-ministry-fire-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "알바니아 수도서\n[[반정부 시위]] 격화",
+      "sub": "수천 명 거리 행진 속 교육부 건물에 불길이 번졌습니다",
+      "chips": [],
+      "alt": "알바니아 수도서 반정부 시위 격화",
+      "map": {
+        "lat": 41.3281482,
+        "lon": 19.8184435,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "알바니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "알바니아\n티라나",
+      "video_only": true,
+      "map": {
+        "lat": 41.3281482,
+        "lon": 19.8184435,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "티라나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "총리 퇴진 요구",
+          "d": "학생 주도 시위가 폭력 사태로 번지며 총리 사퇴 요구가 커졌다고 뉴욕타임스가 보도했습니다."
+        },
+        {
+          "t": "외세 개입 주장",
+          "d": "알바니아 총리는 시위 격화 배후에 외국 세력이 개입해 있다고 밝혔습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "알바니아 수도 대규모 반정부 시위 확산",
+        "시위 도중 교육부 청사 화재 발생"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 및 체포 인원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Firstpost",
+        "Reuters",
+        "The New York Times",
+        "2026.10.17 13:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 알바니아 수도에서 대규모 반정부 시위가 격화했습니다.\n\n· 학생 주도 시위가 거세지며 교육부 건물에 불이 났다고 외신들이 전했습니다 (로이터·퍼스트포스트)\n· 참가자들은 현 정부 총리의 퇴진을 요구하고 있습니다 (뉴욕타임스)\n· 알바니아 총리 측은 시위 배후에 외세가 개입했다는 주장을 내놓았습니다 (알자지라)\n\n출처: 로이터·뉴욕타임스·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "알바니아 수도에서 대규모 반정부 시위가 격화했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "시위대가 시내를 행진하며 교육부 청사에 불을 질렀다고 외신들이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "참가자들은 총리 퇴진을 요구했고, 총리 측은 배후에 외세가 개입했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[알바니아]] 수도에\n무슨 일이?",
+  "broll": [
+    "protest march crowd",
+    "police sirens night"
+  ],
+  "place_en": "Tirana, Albania"
+}

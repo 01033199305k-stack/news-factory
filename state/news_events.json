@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "nepal-baglung-landslides",
-    "topic": "네팔 바글룽 산사태 10명 사망 발생",
-    "slug": "2026-09-28-news-nepal-baglung-landslides",
-    "cluster": "CBMi9gFBVV95cUxPSjA3My0ycEcyOHRRcEdJTEd0enlrTkpWUTVxNlZ6bm8wX0VTMlZhNWV4dnliblhnSW9EbF9rSVpDa2E0dURPQWt5U1ZDSUtUek5TelUtOXZlYVM4aFlYQWRUdFQzMm5abjRkZnNZdjgyUVFqMG9xMkZMTTkzUjVYZTFDV045bEdlODJYUktxR3lheEtFNjZpMTcyX1hndnEzQzI1OVpuUWo4WmJnQmNzQlN6UVR3cVpiRlhXdVBhUnQza2IzU2RFalNPZkpoLWhfWXJNV1JBbTlJckNYeDdWdEMwNmI1U1F2MzVFSDlqXzNwZW1QbUE",
-    "badge": "breaking",
-    "at": 1790604758.070644,
-    "country": "네팔"
-  },
-  {
     "event_key": "english-channel-crossing-deaths",
     "topic": "영국 해협 건너던 보트서 3명 사망",
     "slug": "2026-09-28-news-english-channel-crossing-deaths",
@@ -2984,5 +2975,15 @@
     "at": 1792202309.2115617,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "albania-student-protests-education-ministry-fire-2026",
+    "topic": "알바니아 수도서 반정부 시위 격화",
+    "slug": "2026-10-17-news-albania-student-protests-education-ministry-fire-2026",
+    "cluster": "CBMitgFBVV95cUxNdjdMS2ZKUlhUMGVhMFpYaXVMUEZzbFZMeXBIRVE1cVppYXloNGpjVThNcHowM3VxT1lxODE2TzI3cTJpVWNMOHVnWkpqM1I1NXRFRDI5RWJzRlJuYnl3SXpxLUtSUkJ5VU9qZFl1NWM1Si1nSTR2YV9RU1VBUnMyZnZrNVNESU1JQmFuZ1RJMDRZOVB2bURFVnYtWGVmaDI0ZjQxaWhpMjRLSEstZVBLOENVQ2dwQdIBuwFBVV95cUxPYzBaeVhOQmFrQ0JRV0NtMnU3WGFaTTZkclJfMkNtUmJKNkdlcE1haHU5cVBicFdJUWJOSTJ6T0QyMEVVZVpsNllGVUpFZjRCS0lsR0hNeUFFcFFjR2dya2VBVFoxMzFuNkItakVFSWJsWUdwUXFzM3ZQV2RuYy10YnRiUFR6Y282V2Nqa3lVNHZkMzdUSUlrWTR4RXZEN2JkcDNhbzJ2RWtpTFhLRjk0b0pCYWtnckpBd3E4",
+    "badge": "brief",
+    "at": 1792210064.0560627,
+    "country": "알바니아",
+    "category": "기타 사건"
   }
 ]
