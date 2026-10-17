@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "nepal-floods-landslides-september",
-    "topic": "네팔 폭우로 홍수·산사태 발생 사망 21명",
-    "slug": "2026-09-28-news-nepal-floods-landslides-september",
-    "cluster": "CBMixAFBVV95cUxPbWlfNXk0cVNGTFktaF80akNVejJRX1pMMUJKdWpPRDdIOS1sZ1lkbzRsY0dLSFBGVENLU2pZZ3NoSF9IQ25JR2NhMTdTbHRnZElBbkpKYUpjZG1FMzZwN3B6aF80RUhPcFdGZlEtT2xRNzc3ellTd0RmdEZDaHMxS2VvUm50OFlFUkZnVkVwOHNUZnRmMG51TUpPa1lBUmZsbDJWTG5EeEYyMXM3c1lSTjBKcFhDVXlaZmFEaUFkRk9mcGs50gHMAUFVX3lxTE1UUVFvaVNMenhYTUxnc19CSU1tMEJFQkhOLURTc1JvUFVqZW96MGk5WEpnaGlKUHlpcW01TDhOODNXVDI2T3k5dUZxVUFWMEp3WjFBTWVMYllKNndyV2wzd3VKSVJVV2tmc0xUTldQdlo1X0pLQXJOZFFjSDFCQjBFZmdrVGE4N3VIRlAzWHZMaUd5R09ZWWRtcEh0elh0MXU2Z0s0d2VxcE5Wa09IczY4UGtPd0tFdnY0SXBUNzFTRVRSV0ZVcUZGNnVqcg",
-    "badge": "breaking",
-    "at": 1790597843.2503524,
-    "country": "네팔"
-  },
-  {
     "event_key": "mexico-hurricane-polo",
     "topic": "멕시코 태평양 연안 허리케인 폴로 접근 카테고리 5등급 강력한 폭풍 북상 중",
     "slug": "2026-09-28-news-mexico-hurricane-polo",
@@ -2982,5 +2973,15 @@
     "at": 1792185613.5437667,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us-measles-outbreak-4410-cases-2026",
+    "topic": "미국 홍역 4410건 확산 질병통제예방센터 파견 계획",
+    "slug": "2026-10-17-news-us-measles-outbreak-4410-cases-2026",
+    "cluster": "CBMilgFBVV95cUxNM1NaY19objFwSjZ5aWlNYm0wYlItUjFKSl9zNGgtazM4Rlo2MG9fbHRuWTg1TnU4YVpwLUpOaHJoSGdJblNUVTFPMXgtYUI5NkxfM2hNQl9VNVVvUlF1WFB4X3hsZ19qcWZXVEltLW9NUUx4bUZDTW9YbG0xcmRzd1lJd3JJSEV6RDJxQmg1V2RJSjZiVkHSAZsBQVVfeXFMT3ZaTE45MWFoWlBvNEhuMDZWaFVjSm10Si1TeWNaT25jNFl2V3N0U1hDc0ZXUXVPdTdiWHI4aV94OVE4Mjk4X3FETEZCVkxOOWNYMEZRYUFkQmZrQmN6aURkYjROTUxPY3pfVlN3S21aM1d3Rm00Rm1qOHZKTklYbnlHaTRtc1RWRUdLSERJRkszd056Q2F3QlVRU28",
+    "badge": "brief",
+    "at": 1792197274.5084906,
+    "country": "미국",
+    "category": "재난"
   }
 ]

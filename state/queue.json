@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-10-17-news-us-measles-outbreak-4410-cases-2026",
+    "event_ms": 1792197274508,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국에서 홍역 감염이 4410건 보고되며 확산세가 커지고 있습니다.\n\n· 로이터와 알자지라는 미국 내 홍역 환자가 4410건으로 집계됐다고 보도했습니다.\n· 미국 질병통제예방센터(CDC)는 확산 대응을 위해 펜실베이니아에 역학조사관을 파견할 계획입니다 (ABC).\n· 현지 의료진은 바이러스 확산 속에 예방 접종을 권고했습니다 (PBS).\n\n출처: 로이터·알자지라·ABC·PBS 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18103085201381724",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dek1VEVGl-8",
+        "kind": "carousel",
+        "at": 1792197322
+      },
+      "instagram": {
+        "id": "18123792131473377",
+        "permalink": "https://www.instagram.com/reel/Dek1mG0D5JM/",
+        "kind": "reel",
+        "at": 1792197480
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792197490
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

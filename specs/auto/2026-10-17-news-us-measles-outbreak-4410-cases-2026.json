@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-17-news-us-measles-outbreak-4410-cases-2026",
+  "topic": "미국 홍역 4410건 확산 질병통제예방센터 파견 계획",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 05:54 KST",
+  "source": "ABC News·Al Jazeera·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilgFBVV95cUxNM1NaY19objFwSjZ5aWlNYm0wYlItUjFKSl9zNGgtazM4Rlo2MG9fbHRuWTg1TnU4YVpwLUpOaHJoSGdJblNUVTFPMXgtYUI5NkxfM2hNQl9VNVVvUlF1WFB4X3hsZ19qcWZXVEltLW9NUUx4bUZDTW9YbG0xcmRzd1lJd3JJSEV6RDJxQmg1V2RJSjZiVkHSAZsBQVVfeXFMT3ZaTE45MWFoWlBvNEhuMDZWaFVjSm10Si1TeWNaT25jNFl2V3N0U1hDc0ZXUXVPdTdiWHI4aV94OVE4Mjk4X3FETEZCVkxOOWNYMEZRYUFkQmZrQmN6aURkYjROTUxPY3pfVlN3S21aM1d3Rm00Rm1qOHZKTklYbnlHaTRtc1RWRUdLSERJRkszd056Q2F3QlVRU28",
+    "related": [
+      [
+        "More than 4,400 measles cases reported in US as CDC plans to send 'disease detective' to Pennsylvania",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "US records 4,410 measles cases as outbreak grows",
+        "Al Jazeera"
+      ],
+      [
+        "Pennsylvania doctor urges vaccination as measles outbreak grows",
+        "PBS"
+      ],
+      [
+        "CDC to send 'disease detective' to Pennsylvania as measles outbreak soars",
+        "6abc Philadelphia"
+      ],
+      [
+        "CDC reports 4,410 measles cases as outbreak grows",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us-measles-outbreak-4410-cases-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 홍역 [[4410건]] 확산\n질병통제예방센터 파견 계획",
+      "sub": "확산세 커지자 펜실베이니아에 역학조사관 파견",
+      "chips": [
+        {
+          "k": "홍역 감염",
+          "v": "4410건"
+        }
+      ],
+      "alt": "미국 홍역 4410건 확산 질병통제예방센터 파견 계획",
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n펜실베이니아",
+      "video_only": true,
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "펜실베이니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역학조사관 파견 결정",
+          "d": "미국 질병통제예방센터는 확산에 대응해 펜실베이니아로 전문 역학조사관을 파견하기로 계획했습니다 (ABC·6abc)."
+        },
+        {
+          "t": "백신 접종 촉구",
+          "d": "현지 의료진은 홍역 확산세가 커짐에 따라 예방 접종을 촉구했습니다 (PBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 내 홍역 감염 4,410건 집계 (로이터·알자지라)",
+        "미 질병통제예방센터의 펜실베이니아 조사관 파견 계획 (ABC)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "전국 추가 확산 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "6abc Philadelphia",
+        "ABC News - Breaking News, Latest News and Videos",
+        "Al Jazeera",
+        "PBS",
+        "Reuters",
+        "2026.10.17 09:34 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국에서 홍역 감염이 4410건 보고되며 확산세가 커지고 있습니다.\n\n· 로이터와 알자지라는 미국 내 홍역 환자가 4410건으로 집계됐다고 보도했습니다.\n· 미국 질병통제예방센터(CDC)는 확산 대응을 위해 펜실베이니아에 역학조사관을 파견할 계획입니다 (ABC).\n· 현지 의료진은 바이러스 확산 속에 예방 접종을 권고했습니다 (PBS).\n\n출처: 로이터·알자지라·ABC·PBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국에서 홍역 감염이 4410건 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터와 알자지라는 확산세가 이어지고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 질병통제예방센터는 펜실베이니아에 역학조사관을 파견하기로 했습니다.",
+      "card": "map"
+    }
+  ],
+  "hook": "미국에서\n[[홍역]] 비상?",
+  "broll": [
+    "hospital corridor indoor",
+    "laboratory microscope test"
+  ],
+  "place_en": "Pennsylvania, United States"
+}
