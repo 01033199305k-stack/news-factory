@@ -1,0 +1,123 @@
+{
+  "slug": "2026-10-17-news-hormuz-ship-attacks-record-high-2026",
+  "topic": "호르무즈 해협 선박 공격 최다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 18:00 KST",
+  "source": "Al Jazeera·CBS News·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxQRkpjbHhhcjBfM1pXOUVuTE5rZ0lrMWJTUFBrZXYxY2FhcEtKWEJyR0lGSjBIb05pNTRfMW92elFEUlVHc3JjdzAwMmdWQTlLdmdZY0R4NGJOd3dUbEF1M3FCUVZRa1RfVjY0NnVxR013emZQTHMwSUFpNG5XU2RZendpNzd0LWZ4ZE5LakMycUEwMG9MQlZKQW82QTB4c0w0SV9QNTkwVlJIYnM",
+    "related": [
+      [
+        "Hormuz ship attacks hit record high as Iran escalates strikes with little U.S. response",
+        "NBC News"
+      ],
+      [
+        "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
+        "Al Jazeera"
+      ],
+      [
+        "Live Updates: Reported attacks on ships in or near Strait of Hormuz reach record high, data shows",
+        "CBS News"
+      ],
+      [
+        "One Singapore ship was sunk, but here's why others are still transiting the Strait of Hormuz",
+        "CNBC"
+      ],
+      [
+        "Super tanker ablaze after striking mine in Strait of Hormuz, IRGC says",
+        "Euronews.com"
+      ]
+    ],
+    "event_key": "hormuz-ship-attacks-record-high-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "호르무즈 해협\n[[선박 공격]] 최다",
+      "sub": "미국과 이란이 통제권을 다투는 가운데 선박 피격 피해가 이어졌습니다",
+      "chips": [],
+      "alt": "호르무즈 해협 선박 공격 최다"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "선박 공격 역대 최다",
+          "d": "호르무즈 해협 일대 선박을 겨냥한 공격 횟수가 역대 최다 수준에 달했다고 NBC와 CBS가 전했습니다."
+        },
+        {
+          "t": "미·이란 통제권 대립",
+          "d": "선박 피격이 잇따르는 가운데 미국과 이란 양측 모두 해협 통제권을 주장하고 있다고 알자지라가 보도했습니다."
+        },
+        {
+          "t": "유조선 화재·선박 침몰",
+          "d": "이란 혁명수비대는 유조선이 기뢰에 부딪혀 불이 났다고 밝혔으며, CNBC는 싱가포르 선박 1척이 침몰했다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호르무즈 해협 선박 공격 역대 최다",
+        "미국·이란 해협 통제권 대립",
+        "싱가포르 선박 1척 침몰"
+      ],
+      "unconfirmed": [
+        "전체 피격 선박 수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CBS News",
+        "CNBC",
+        "Euronews.com",
+        "NBC News",
+        "2026.10.17 22:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 호르무즈 해협 선박 공격이 역대 최다를 기록했습니다.\n\n· 호르무즈 해협 안팎에서 발생한 선박 공격이 역대 최다 수준에 달했다고 보도됐습니다 (NBC·CBS)\n· 미국과 이란 양국은 해협 통제권을 두고 서로 관할권을 주장하고 있습니다 (알자지라)\n· 싱가포르 선박 1척이 침몰했으며, 이란 혁명수비대 측은 기뢰에 닿은 유조선에 불이 났다고 밝혔습니다 (CNBC·유로뉴스)\n\n갈수록 격화하는 해협 대치, 어떻게 보십니까?\n출처: NBC·알자지라·CBS·CNBC·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협 선박 공격이 역대 최다를 기록했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC와 CBS는 해협 일대 공격이 급증했다고 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 미국과 이란이 해협 통제권을 두고 맞서고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국 선박의 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "갈수록 격화하는 해협 대치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[호르무즈]] 해협\n무슨 일 났나",
+  "broll": [
+    "oil tanker sea",
+    "cargo ship strait"
+  ],
+  "place_en": "Strait of Hormuz, Iran"
+}

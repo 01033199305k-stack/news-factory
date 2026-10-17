@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "russia-strike-kyiv-science-academy",
-    "topic": "러시아 공습으로 키이우 과학 아카데미 피격 최소 1명 사망",
-    "slug": "2026-09-29-news-russia-strike-kyiv-science-academy",
-    "cluster": "CBMingFBVV95cUxNQXlEc0NVNnBQc3ZwOVhQZVhDdU1ZbXE3LWZIcEVFRkVJRDZ1QzlBRzBCMVZUcXlUNXlGS0NlSnRJYUVWQTZyMnJRTW9oejBVN2JzdUtKNTFpa3JjQ3ZjaFVjOVFaRFFrN0hWa29GalhvUE5pOWN0MldpWnFncEVDRlQ2d3RKc3hkVUxQWU9GdmMtYURWeEtLQ3hCa3JSZw",
-    "badge": "breaking",
-    "at": 1790615326.9555779,
-    "country": "우크라이나"
-  },
-  {
     "event_key": "alderney-woman-body-found",
     "topic": "올더니서 여성 시신 발견 살인 용의자 체포",
     "slug": "2026-09-29-news-alderney-woman-body-found",
@@ -2988,5 +2979,15 @@
     "at": 1792234448.161333,
     "country": "방글라데시",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "hormuz-ship-attacks-record-high-2026",
+    "topic": "호르무즈 해협 선박 공격 최다",
+    "slug": "2026-10-17-news-hormuz-ship-attacks-record-high-2026",
+    "cluster": "CBMiqwFBVV95cUxQRkpjbHhhcjBfM1pXOUVuTE5rZ0lrMWJTUFBrZXYxY2FhcEtKWEJyR0lGSjBIb05pNTRfMW92elFEUlVHc3JjdzAwMmdWQTlLdmdZY0R4NGJOd3dUbEF1M3FCUVZRa1RfVjY0NnVxR013emZQTHMwSUFpNG5XU2RZendpNzd0LWZ4ZE5LakMycUEwMG9MQlZKQW82QTB4c0w0SV9QNTkwVlJIYnM",
+    "badge": "brief",
+    "at": 1792242484.9906447,
+    "country": "이란",
+    "category": "국제"
   }
 ]
