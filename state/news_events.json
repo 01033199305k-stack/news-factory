@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "florida-dengue-outbreak",
-    "topic": "美 플로리다주 뎅기열 확산 비상사태 선포",
-    "slug": "2026-09-28-news-florida-dengue-outbreak",
-    "cluster": "CBMiqwFBVV95cUxNazJreW85RWp3U1RBQ0t6UGFSODB3WTJmUWhPa1dnOEVodl9tSndUaDMyLVRRVXNJeG90blVnd3FfTHpRN25VTlM1cmRiQ0pBYUpscUt1WlFtV3dOdTBBR3YwSUhNcXk4NjlYdjRvMlJtamgzUndPTF9EWGRlRVNvTVlZRWJJU04zcmFhRVl4M0RjajN1MEM2LWlZVTFzc21xWmk3eG50b1JmV28",
-    "badge": "breaking",
-    "at": 1790609026.189258,
-    "country": "미국"
-  },
-  {
     "event_key": "ukraine-russia-strikes-september-2026",
     "topic": "러시아 드론 공격으로 우크라이나 내 8명 사망",
     "slug": "2026-09-28-news-ukraine-russia-strikes-september-2026",
@@ -2986,5 +2977,15 @@
     "at": 1792215573.7552311,
     "country": "멕시코",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "romania-scrambles-f16-russian-drone-airspace-2026",
+    "topic": "루마니아 영공 드론 침범 F-16 전투기 긴급 출격",
+    "slug": "2026-10-17-news-romania-scrambles-f16-russian-drone-airspace-2026",
+    "cluster": "CBMic0FVX3lxTE0yS01Zem1ZaGNRSDJHTGlzSUZYUERqTE1Eckc3VEFwY0VxWEJsMzlVN2VvcENudFFmZ1RSTFR1M3k2WTJPYTNBV2JCZE1GRXR0VHdjdVVhVE5GRVNJVVdxTmJwZ3l0VXpaTGRIODdMSHhnQVU",
+    "badge": "breaking",
+    "at": 1792224487.8102036,
+    "country": "루마니아",
+    "category": "국제"
   }
 ]

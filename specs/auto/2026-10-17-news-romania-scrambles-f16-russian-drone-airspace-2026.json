@@ -1,0 +1,157 @@
+{
+  "slug": "2026-10-17-news-romania-scrambles-f16-russian-drone-airspace-2026",
+  "topic": "루마니아 영공 드론 침범 F-16 전투기 긴급 출격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 15:46 KST",
+  "source": "GB News·Informat.ro·Ukrinform 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMic0FVX3lxTE0yS01Zem1ZaGNRSDJHTGlzSUZYUERqTE1Eckc3VEFwY0VxWEJsMzlVN2VvcENudFFmZ1RSTFR1M3k2WTJPYTNBV2JCZE1GRXR0VHdjdVVhVE5GRVNJVVdxTmJwZ3l0VXpaTGRIODdMSHhnQVU",
+    "related": [
+      [
+        "Nato fighter jets scrambled as mystery 'aerial target' spotted near European border",
+        "GB News"
+      ],
+      [
+        "Războiul lui Putin nu vine doar pe șenile. Dronele ajunse în România și Republica Moldova arată cât de diferit pot reacționa cele două state la războiul Rusiei. Analiză comparativă",
+        "cotidianul.md"
+      ],
+      [
+        "Romania scrambles F-16s after airspace violation",
+        "Ukrinform"
+      ],
+      [
+        "Russian drone enters Romanian airspace before being shot down in Ukraine",
+        "Українська правда"
+      ],
+      [
+        "The MoD detected an aerial target near the border / RO-Alert issued in northern Tulcea County",
+        "Informat.ro"
+      ]
+    ],
+    "event_key": "romania-scrambles-f16-russian-drone-airspace-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "루마니아 영공 [[드론 침범]]\nF-16 전투기 긴급 출격",
+      "sub": "국경 인근 툴체아 북부 주민에 긴급재난경보 발령",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "F-16 출격"
+        },
+        {
+          "k": "지역",
+          "v": "툴체아 북부"
+        }
+      ],
+      "alt": "루마니아 영공 드론 침범 F-16 전투기 긴급 출격",
+      "map": {
+        "lat": 45.177518,
+        "lon": 28.8016348,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "루마니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "루마니아\n툴체아",
+      "video_only": true,
+      "map": {
+        "lat": 45.177518,
+        "lon": 28.8016348,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "툴체아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "F-16 전투기 긴급 출격",
+          "d": "루마니아군은 국경 인근에서 공중 표적이 탐지되자 F-16 전투기를 긴급 출격시켰습니다 (우크린폼·GB뉴스)."
+        },
+        {
+          "t": "우크라이나 상공서 격추",
+          "d": "루마니아 영공에 진입했던 러시아 드론은 이후 우크라이나에서 격추됐습니다 (우크라인스카 프라우다)."
+        },
+        {
+          "t": "접경지 재난문자 발송",
+          "d": "루마니아 국방부는 북부 툴체아 카운티 일대에 주민 경보를 발령했습니다 (인포맷)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "루마니아 영공 공중 표적 진입",
+        "루마니아군 F-16 전투기 긴급 출격",
+        "툴체아 북부 주민 긴급경보 발령"
+      ],
+      "unconfirmed": [
+        "현지 지상 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "GB News",
+        "Informat.ro",
+        "Ukrinform",
+        "cotidianul.md",
+        "Українська правда",
+        "2026.10.17 17:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 루마니아 영공에 드론이 진입해 F-16 전투기가 긴급 출격했습니다.\n\n· 루마니아군은 국경 인근 공중 표적 탐지 후 F-16 전투기를 발진시켰습니다 (우크린폼).\n· 영공을 침범한 러시아 드론은 이후 우크라이나에서 격추됐습니다 (우크라인스카 프라우다).\n· 국방부는 북부 툴체아 주민들에게 긴급재난경보를 발송했습니다 (인포맷).\n\n반복되는 나토 접경국 영공 침범, 어떻게 보십니까?\n출처: 우크린폼·우크라인스카 프라우다·GB뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "루마니아 영공에 드론이 진입해 F-16 전투기가 출격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "루마니아 국방부는 북부 툴체아 국경 인근에서 표적을 포착했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "해당 드론은 영공을 침범한 뒤 우크라이나에서 격추됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "접경지 주민들에게는 긴급 재난 경보가 발령됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "영공 침범으로 인한 지상 피해는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "반복되는 나토 영공 침범, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[나토 국경]] 상공에\n무슨 일이?",
+  "broll": [
+    "fighter jet flight",
+    "radar screen military"
+  ],
+  "place_en": "Tulcea, Romania"
+}
