@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "alderney-woman-body-found",
-    "topic": "올더니서 여성 시신 발견 살인 용의자 체포",
-    "slug": "2026-09-29-news-alderney-woman-body-found",
-    "cluster": "CBMiqAFBVV95cUxOdVZaaTQ1Yldrc3RDN0ZyZ184OTFfLVdMYXgzYk1BakdGb2hqOC05WHZkSjFzZ2otUHIxSzd2MUNyS1Z3eGk0RTlHYlY4TUdnVXpzQ2hBUjliRl9lQV9EbllwX3BoSEIwVnJZa0ZKN3RvMmpKQk1JSU5hbWt0TURCWm5XeTBUZFVnelBmOFlUWGdSWUhveENheUhXajlWRXkwMk9oTjhIeWE",
-    "badge": "breaking",
-    "at": 1790618443.495229,
-    "country": "영국"
-  },
-  {
     "event_key": "south-africa-women-bodies-found",
     "topic": "남아프리카공화국서 여성 시신 발견",
     "slug": "2026-09-29-news-south-africa-women-bodies-found",
@@ -2988,6 +2979,16 @@
     "badge": "brief",
     "at": 1792242484.9906447,
     "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "france-nationwide-protests-clashes-oct-2026",
+    "topic": "프랑스 전역 시위 격화 160명 이상 체포돼",
+    "slug": "2026-10-17-news-france-nationwide-protests-clashes-oct-2026",
+    "cluster": "CBMiWEFVX3lxTFBobTdrOFFxTHhLOS1USFdyUzF5dHZsMGlaZVBURExhZXFPdHo4OXBpTGNPMENmWm9aSkstdk44a0ZqaFZldVprV2haZHBjRlVDb0lsVUpYbE4",
+    "badge": "brief",
+    "at": 1792246570.8257995,
+    "country": "프랑스",
     "category": "국제"
   }
 ]

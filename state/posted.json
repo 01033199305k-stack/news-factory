@@ -17553,5 +17553,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792242902
+  },
+  {
+    "slug": "2026-10-17-news-france-nationwide-protests-clashes-oct-2026",
+    "event_ms": 1792246570825,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 프랑스 전역 시위로 160명 이상이 경찰에 체포됐습니다.\n\n· 물가 급등과 사회보장제도 축소에 반대하는 대규모 시위가 전국에서 벌어졌습니다 (가디언)\n· 리옹에서는 관광청 건물에 방화가 발생했습니다 (BBC)\n· 파리 등 주요 도시에서 시위대가 바리케이드를 설치하며 경찰과 대치했습니다 (CNN·프랑스24)\n\n여러분은 이번 프랑스 시위 사태를 어떻게 보십니까?\n\n출처: BBC·가디언·CNN·프랑스24 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "프랑스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18033563330893978",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DemTWSFFKaT",
+        "kind": "carousel",
+        "at": 1792246611
+      },
+      "instagram": {
+        "id": "18396369625166051",
+        "permalink": "https://www.instagram.com/reel/DemTuw1gnMe/",
+        "kind": "reel",
+        "at": 1792246837
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792246847
+      },
+      "tiktok": {
+        "id": "6ad38441dd83363c4dd67e10",
+        "permalink": "",
+        "kind": "video",
+        "at": 1792247049
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792247059
   }
 ]

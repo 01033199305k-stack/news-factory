@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-17-news-france-nationwide-protests-clashes-oct-2026",
+  "topic": "프랑스 전역 시위 격화 160명 이상 체포돼",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 22:19 KST",
+  "source": "Al Jazeera·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiWEFVX3lxTFBobTdrOFFxTHhLOS1USFdyUzF5dHZsMGlaZVBURExhZXFPdHo4OXBpTGNPMENmWm9aSkstdk44a0ZqaFZldVprV2haZHBjRlVDb0lsVUpYbE4",
+    "related": [
+      [
+        "Lyon tourism office set on fire as more than 160 arrested on major day of protests across France",
+        "BBC"
+      ],
+      [
+        "Nationwide protests in France against high prices and fraying of social security system",
+        "The Guardian"
+      ],
+      [
+        "Live updates: Dozens detained in Paris as protestors clash with police during France protests",
+        "CNN"
+      ],
+      [
+        "Protesters clash with police during nationwide demonstrations in France",
+        "Al Jazeera"
+      ],
+      [
+        "Live: Police crack down as protesters try to raise barricades across France",
+        "France 24"
+      ]
+    ],
+    "event_key": "france-nationwide-protests-clashes-oct-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "프랑스 전역 시위 격화\n[[160명 이상]] 체포돼",
+      "sub": "고물가 항의 집회서 경찰 충돌·리옹 관광청 방화 발생",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "160명 이상"
+        }
+      ],
+      "alt": "프랑스 전역 시위 격화 160명 이상 체포돼",
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "리옹 관광청 방화 피해",
+          "d": "시위 도중 리옹 관광청 건물에 불이 나고 전국에서 160명 이상이 체포됐습니다 (BBC)."
+        },
+        {
+          "t": "고물가·사회보장 반발",
+          "d": "참가자들은 물가 급등과 사회보장제도 축소에 반대하며 전국적 집회를 열었습니다 (가디언)."
+        },
+        {
+          "t": "바리케이드와 경찰 충돌",
+          "d": "파리를 비롯한 주요 도시에서 시위대가 바리케이드를 쌓고 경찰과 충돌했습니다 (CNN·프랑스24)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "전국 160명 이상 체포",
+        "리옹 관광청 건물 방화",
+        "파리 등 주요 도시 충돌"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "France 24",
+        "The Guardian",
+        "2026.10.17 23:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 프랑스 전역 시위로 160명 이상이 경찰에 체포됐습니다.\n\n· 물가 급등과 사회보장제도 축소에 반대하는 대규모 시위가 전국에서 벌어졌습니다 (가디언)\n· 리옹에서는 관광청 건물에 방화가 발생했습니다 (BBC)\n· 파리 등 주요 도시에서 시위대가 바리케이드를 설치하며 경찰과 대치했습니다 (CNN·프랑스24)\n\n여러분은 이번 프랑스 시위 사태를 어떻게 보십니까?\n\n출처: BBC·가디언·CNN·프랑스24 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 전역에서 격렬한 시위가 벌어져 160명 넘게 체포됐다고 BBC가 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파리와 리옹을 비롯한 주요 도시 곳곳에서 시위대와 경찰이 충돌했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "시위대는 물가 급등에 항의했고 리옹에서는 관광청 건물에 불이 붙었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지에서 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 시위 사태를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "거리로 쏟아진\n프랑스 [[분노의 불길]]",
+  "broll": [
+    "police crowd street",
+    "smoke city night"
+  ],
+  "place_en": "Paris, France"
+}
