@@ -17664,5 +17664,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792264232
+  },
+  {
+    "slug": "2026-10-17-news-kenya-ebola-outbreak-7-cases-2026",
+    "event_ms": 1792267899280,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 케냐에서 에볼라 확진자가 7명으로 늘어났습니다.\n\n· 신규 확진자 4명이 추가로 확인됐습니다 (로이터·NYT)\n· 첫 환자를 치료하던 의료진도 감염됐습니다 (ABC)\n\n감염병의 국경 간 확산, 어떻게 대비해야 할까요?\n\n출처: 로이터·NYT·알자지라·ABC 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "재난",
+      "케냐"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18143326132586396",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dem8CyIHy1A",
+        "kind": "carousel",
+        "at": 1792267947
+      },
+      "instagram": {
+        "id": "18635744524011563",
+        "permalink": "https://www.instagram.com/reel/Dem8UUKk4BG/",
+        "kind": "reel",
+        "at": 1792268113
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792268123
+      },
+      "tiktok": {
+        "id": "7697732996878699797",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697732996878699797",
+        "kind": "video",
+        "at": 1792268244
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792268254
   }
 ]

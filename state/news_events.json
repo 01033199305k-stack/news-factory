@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "spacex-starship-orbital-flight-test",
-    "topic": "스페이스X 스타십, 첫 궤도 비행",
-    "slug": "2026-09-29-news-spacex-starship-orbital-flight-test",
-    "cluster": "CBMikwFBVV95cUxQV2tOX3hqcjgtWDYwbllnSXM3RF9HZFNwczdjZlE3Q1NhZnRfZmVQTG9VOEV1Y3BlR0YtdFpmX3hwYjVCYUNBaTRXV3RwYk1YcE5mTzlmR3FuVlUyNmlWMk9ZV0lSZi1LVzQ5QWRydWluZk4yMUFQVDNVLTd2b18yNWxqZmluWVo5RC1rSm10eGFYWEE",
-    "badge": "brief",
-    "at": 1790629982.48667,
-    "country": "미국"
-  },
-  {
     "event_key": "myanmar-military-rakhine-strike",
     "topic": "미얀마군 공습 시장 주변 33명 사망",
     "slug": "2026-09-29-news-myanmar-military-rakhine-strike",
@@ -2991,5 +2982,15 @@
     "at": 1792260699.9787664,
     "country": "이집트",
     "category": "국제"
+  },
+  {
+    "event_key": "kenya-ebola-outbreak-7-cases-2026",
+    "topic": "케냐 에볼라 7명 확진 의료진 감염도 확인",
+    "slug": "2026-10-17-news-kenya-ebola-outbreak-7-cases-2026",
+    "cluster": "CBMihgFBVV95cUxPb25NZDFBejk0MnVUejJ6VGNNMTA4UzhJY0xVSkh6UU8tVldzQ05XU0tvalREbXlzaGJCN1BiS3RfcjlmNG44WjVFVmlVSTBrS0NrSm5udGVPUWdqX0ltdC1lZy1zRFJsNlN2ZXI2cXl5dnpwcXB4QWM0SktTcGpJYU4xQk1YQQ",
+    "badge": "brief",
+    "at": 1792267899.2800198,
+    "country": "케냐",
+    "category": "재난"
   }
 ]
