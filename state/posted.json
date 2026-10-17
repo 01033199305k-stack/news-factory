@@ -17606,5 +17606,63 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792247059
+  },
+  {
+    "slug": "2026-10-18-news-egypt-sisi-saudi-defense-assistance-2026",
+    "event_ms": 1792260699978,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 이집트가 사우디아라비아의 요청이 있을 경우 방어를 지원하는 방안을 추진합니다.\n\n· 엘시시 이집트 대통령이 사우디 방어 지원을 위해 의회 승인을 요청했습니다 (로이터·알자지라)\n· 후티 반군 공격에 맞선 사우디 지원 조치로 검토되고 있습니다 (타임스오브이스라엘)\n· 엘시시 대통령은 사우디의 요청이 있을 때 방어에 나선다는 방침입니다 (DW)\n\n이집트의 사우디 방어 지원 움직임, 중동 정세에 어떤 영향을 미칠까요?\n출처: 로이터·알자지라·DW·타임스오브이스라엘 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이집트"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18382916308232750",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DemuT52CeVa",
+        "kind": "carousel",
+        "at": 1792260750
+      },
+      "youtube": {
+        "id": "VL015RRDfbI",
+        "permalink": "https://youtube.com/shorts/VL015RRDfbI",
+        "kind": "shorts",
+        "at": 1792261083
+      },
+      "instagram": {
+        "id": "18637848778060984",
+        "permalink": "https://www.instagram.com/reel/Dem0pBEiNRu/",
+        "kind": "reel",
+        "at": 1792264091
+      },
+      "tiktok": {
+        "id": "7697715726429326600",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697715726429326600",
+        "kind": "video",
+        "at": 1792264222
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792264232
   }
 ]
