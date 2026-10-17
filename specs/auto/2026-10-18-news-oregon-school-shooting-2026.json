@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-18-news-oregon-school-shooting-2026",
+  "topic": "미 오리건주 초등학교 총격 사건 어린이 포함 5명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 07:31 KST",
+  "source": "BBC·CNN·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiugFBVV95cUxPZEd2a1FvRUJPLTdiNzRLUC1jM2VONFNaUEVHZ192UkFjMndWbi1KV0pOWjkxLXBDU3hQeERuZmhRYUJlNFRtbUxRYjd0V1M5MzJFRmxWZ2lGTEoyNl9QeEZrbmttbDlxdEMxWldaM2tfQVc2T2Y3b0pWUjFMZjBSRXdQUERnWWxsRUswRzJoVEpoLVBxSThPZHVuMElfVUJQbjFfamZ1SUhlbkRJa0xGblBWTGtHaXdONnc",
+    "related": [
+      [
+        "Oregon school shooting victims include 5-year-old whose family is ‘broken and lost’",
+        "NBC News"
+      ],
+      [
+        "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+        "BBC"
+      ],
+      [
+        "Second vigil carries pain, heaviness as community learns more details about Bend school shooting",
+        "KGW"
+      ],
+      [
+        "What we know about the 16-year-old who opened fire at his former elementary school, killing 4 in a special needs classroom",
+        "CNN"
+      ],
+      [
+        "Police Respond to Active Shooter at Silver Rail Elementary; Five People Dead, Including Three Children",
+        "The Source - Bend, Oregon"
+      ]
+    ],
+    "event_key": "oregon-school-shooting-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 오리건주 [[초등학교]] 총격 사건\n어린이 포함 [[5명]] 사망",
+      "sub": "특수학급 교실에서 16세 용의자가 총기를 난사했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "5명"
+        },
+        {
+          "k": "어린이",
+          "v": "3명"
+        },
+        {
+          "k": "용의자",
+          "v": "16세"
+        }
+      ],
+      "alt": "미 오리건주 초등학교 총격 사건 어린이 포함 5명 사망",
+      "map": {
+        "lat": 44.0581728,
+        "lon": -121.3153096,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오리건주 벤드",
+      "video_only": true,
+      "map": {
+        "lat": 44.0581728,
+        "lon": -121.3153096,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오리건주 벤드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 장소",
+          "d": "오리건주 벤드의 실버 레일 초등학교 특수학급 교실에서 발생했습니다 (The Source - Bend)."
+        },
+        {
+          "t": "용의자 제압",
+          "d": "교사가 공격에 맞서 싸웠고, 무장한 학부모가 용의자에게 총격을 가해 멈춰 세웠습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 5명 (The Source - Bend)",
+        "어린이 3명 사망 (The Source - Bend)",
+        "16세 용의자 (CNN)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 범행 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "KGW",
+        "NBC News",
+        "The Source - Bend, Oregon",
+        "2026.10.18 08:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 오리건주 초등학교 총격 사건으로 어린이 포함 5명이 숨졌습니다\n\n· 오리건주 벤드의 실버 레일 초등학교 특수학급 교실에서 발생했습니다 (The Source - Bend)\n· 교사가 공격에 맞서 싸웠고 무장한 학부모가 용의자에게 총격을 가했습니다 (BBC)\n· 16세 용의자가 총기를 난사했으며 (CNN) 어린이 3명이 희생됐습니다 (The Source - Bend)\n\n출처: NBC News·BBC·CNN·The Source - Bend 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 오리건주의 한 초등학교에서 총기 난사 사건이 발생해 5명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "오리건주 벤드에 있는 실버 레일 초등학교 특수학급 교실에서 사건이 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "BBC는 교사가 공격에 맞서 싸웠고 무장한 학부모가 용의자를 멈춰 세웠다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "16세 용의자가 범행을 저지른 가운데 정확한 범행 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[오리건주]] 초등학교서\n무슨 일이?",
+  "broll": [
+    "elementary school building exterior",
+    "police tape street"
+  ],
+  "place_en": "Bend, Oregon, USA"
+}

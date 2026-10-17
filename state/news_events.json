@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "myanmar-military-rakhine-strike",
-    "topic": "미얀마군 공습 시장 주변 33명 사망",
-    "slug": "2026-09-29-news-myanmar-military-rakhine-strike",
-    "cluster": "CBMimgFBVV95cUxNQ2VKLXZUQlpCelJoUV9mQ0R5ckUwREFUZ1dsTVRveDFMRnFBY2tTdVlaQmppbGdrS3J0cE9IdkxEa0xJeF8ta3ZBRXpOWXE5S2p5TF84a3R4MVphb1dmWi1HNVdTNmZmcTBOOUQzbDQxU3ZLOGk0bWotaEpHbG5kZXpOa1ZOeXVia2swdkN1M3oyOUZHdFVlRFVR0gGfAUFVX3lxTE9LUmNGMWc4bFJuYkhYaDdZXzkwWDhGYXNfY0FWc25JX3FweW5xMnNQdTFJNnFrYlhpUUZINXVEc1RfSnExYmowd01tZWoxTXMzSFNiTmwwZ19jZVE3YVUxcnN4QkVOUWI2WGNWd0h3Q083dGt5M2Rfc21aUDdNLWxtRUtpaG5fYTl4bklKaGJuYUdjVlF3ZDROSV9YYkJ5cw",
-    "badge": "brief",
-    "at": 1790637185.3098042,
-    "country": "미얀마"
-  },
-  {
     "event_key": "italy-egypt-regeni-verdict",
     "topic": "이탈리아 법원, 이집트 요원 '학생 납치' 유죄 선고",
     "slug": "2026-09-29-news-italy-egypt-regeni-verdict",
@@ -2992,5 +2983,15 @@
     "at": 1792267899.2800198,
     "country": "케냐",
     "category": "재난"
+  },
+  {
+    "event_key": "oregon-school-shooting-2026",
+    "topic": "미 오리건주 초등학교 총격 사건 어린이 포함 5명 사망",
+    "slug": "2026-10-18-news-oregon-school-shooting-2026",
+    "cluster": "CBMiugFBVV95cUxPZEd2a1FvRUJPLTdiNzRLUC1jM2VONFNaUEVHZ192UkFjMndWbi1KV0pOWjkxLXBDU3hQeERuZmhRYUJlNFRtbUxRYjd0V1M5MzJFRmxWZ2lGTEoyNl9QeEZrbmttbDlxdEMxWldaM2tfQVc2T2Y3b0pWUjFMZjBSRXdQUERnWWxsRUswRzJoVEpoLVBxSThPZHVuMElfVUJQbjFfamZ1SUhlbkRJa0xGblBWTGtHaXdONnc",
+    "badge": "breaking",
+    "at": 1792278559.9091213,
+    "country": "미국",
+    "category": "총격·테러"
   }
 ]
