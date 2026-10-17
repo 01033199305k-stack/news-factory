@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "english-channel-crossing-deaths",
-    "topic": "영국 해협 건너던 보트서 3명 사망",
-    "slug": "2026-09-28-news-english-channel-crossing-deaths",
-    "cluster": "CBMiW0FVX3lxTFBZLXJaVGU4V0pWaGdGc0tRM1Z3N0stNmRaLUcwYlJpN2o2NE11WUJlcWI2QXJ3ZWhBMUNDdGFkSWFLZTB4NFBiTWxjRHQ2MEhXRThhNG0yVkFQWHM",
-    "badge": "breaking",
-    "at": 1790606182.0561666,
-    "country": "영국/프랑스"
-  },
-  {
     "event_key": "florida-dengue-outbreak",
     "topic": "美 플로리다주 뎅기열 확산 비상사태 선포",
     "slug": "2026-09-28-news-florida-dengue-outbreak",
@@ -2984,6 +2975,16 @@
     "badge": "brief",
     "at": 1792210064.0560627,
     "country": "알바니아",
+    "category": "기타 사건"
+  },
+  {
+    "event_key": "mexico_surfers_murder_sentencing",
+    "topic": "멕시코서 외국인 서퍼 살해 범인 3명 각 158년형",
+    "slug": "2026-10-17-news-mexico-surfers-murder-sentencing",
+    "cluster": "CBMiW0FVX3lxTE1Td2ZsbFdISWxWS2JJcWMxUjhBUVdqb1RzWXRIeUxubjhnMUhQTVpCcnMtd1YwU3ZoZjJ3UkYxTlhVUDEyMVg3Vmo2T2ZNNHVJOHZxMGpXUHNHRlE",
+    "badge": "breaking",
+    "at": 1792215573.7552311,
+    "country": "멕시코",
     "category": "기타 사건"
   }
 ]

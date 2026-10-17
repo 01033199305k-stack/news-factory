@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-17-news-mexico-surfers-murder-sentencing",
+  "topic": "멕시코서 외국인 서퍼 살해 범인 3명 각 158년형",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.17 12:11 KST",
+  "source": "AP News·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1Td2ZsbFdISWxWS2JJcWMxUjhBUVdqb1RzWXRIeUxubjhnMUhQTVpCcnMtd1YwU3ZoZjJ3UkYxTlhVUDEyMVg3Vmo2T2ZNNHVJOHZxMGpXUHNHRlE",
+    "related": [
+      [
+        "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
+        "BBC"
+      ],
+      [
+        "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+        "The Guardian"
+      ],
+      [
+        "Three sentenced to 158 years in Mexico for murder of Australian, US surfers",
+        "Reuters"
+      ],
+      [
+        "3 Men Are Found Guilty in Murders of Tourists on Surfing Trip to Mexico",
+        "The New York Times"
+      ],
+      [
+        "3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico",
+        "AP News"
+      ]
+    ],
+    "event_key": "mexico_surfers_murder_sentencing"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "멕시코서 외국인 서퍼 살해\n범인 3명 각 [[158년]]형",
+      "sub": "호주와 미국 국적 형제 등 관광객 3명이 대상이었습니다",
+      "chips": [
+        {
+          "k": "형량",
+          "v": "158년"
+        },
+        {
+          "k": "피해자",
+          "v": "3명"
+        }
+      ],
+      "alt": "멕시코서 외국인 서퍼 살해 범인 3명 각 158년형",
+      "map": {
+        "lat": 30.0338923,
+        "lon": -115.1425107,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "멕시코"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "멕시코\n바하칼리포르니아",
+      "video_only": true,
+      "map": {
+        "lat": 30.0338923,
+        "lon": -115.1425107,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바하칼리포르니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "호주·미국 국적",
+          "d": "피해자들은 멕시코로 서핑 여행을 갔던 호주와 미국 국적 관광객들이라고 BBC 등이 보도했습니다."
+        },
+        {
+          "t": "재판 결과",
+          "d": "멕시코 판사는 살인 혐의로 기소된 남성 3명에게 각각 158년의 징역형을 선고했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "징역 158년 선고 (BBC·가디언·로이터·NYT·AP)",
+        "외국인 서퍼 3명 살해"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부: 없음"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.17 14:39 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 멕시코서 외국인 서퍼 살해 범인 3명 각 158년형\n\n· 호주와 미국 국적 관광객 형제 등 3명이 살해당했습니다 (BBC·가디언·로이터·NYT·AP)\n· 멕시코 판사는 범인 3명에게 각각 158년의 징역형을 선고했습니다 (BBC·가디언·로이터·NYT·AP)\n\n출처: BBC·가디언·로이터·NYT·AP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "멕시코에서 외국인 서퍼들을 살해한 범인들이 각각 158년의 징역형을 선고받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신 등은 호주와 미국 국적의 관광객 3명이 서핑 여행 중 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "멕시코 판사는 재판에서 유죄가 인정된 남성 3명에게 각각 중형을 선고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "범행 동기와 구체적인 사건 경위에 대해서는 아직 추가적인 공식 조사가 이어지고 있습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "멕시코 [[서퍼 살해범]]\n받은 형량은?",
+  "broll": [
+    "courtroom trial judge",
+    "ocean waves surfing"
+  ],
+  "place_en": "Baja California, Mexico"
+}
