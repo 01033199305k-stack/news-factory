@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "south-africa-women-bodies-found",
-    "topic": "남아프리카공화국서 여성 시신 발견",
-    "slug": "2026-09-29-news-south-africa-women-bodies-found",
-    "cluster": "CBMiW0FVX3lxTE16RG9hNW1OZ0wzUDRUdGJ1T1dZdmkxd0lrUUN6Rm1uaC04YWJfQkxPUTNiWXNFTTlqZ212OE83ZjRwbTdlWW85UXNFbGVZTTFmVnIzVWk4UTJTalU",
-    "badge": "breaking",
-    "at": 1790620080.8485026,
-    "country": "남아프리카공화국"
-  },
-  {
     "event_key": "spacex-starship-orbital-flight-test",
     "topic": "스페이스X 스타십, 첫 궤도 비행",
     "slug": "2026-09-29-news-spacex-starship-orbital-flight-test",
@@ -2989,6 +2980,16 @@
     "badge": "brief",
     "at": 1792246570.8257995,
     "country": "프랑스",
+    "category": "국제"
+  },
+  {
+    "event_key": "egypt-sisi-saudi-defense-assistance-2026",
+    "topic": "이집트, 요청 시 사우디 방어 지원 추진",
+    "slug": "2026-10-18-news-egypt-sisi-saudi-defense-assistance-2026",
+    "cluster": "CBMitgFBVV95cUxQNUdhUHdad2lzbmVrbkZQbHB1dlQtdWVlVlpCT2FCNXJhUFl4R2NIRjNjN2ZDWHVZcE05NEV1bk1QT3dtUUVISDRjMURlLWJwOFpjTFRveUx1cWlaR3d2VUdoV2twd3dURkFvS1RvTUlfN2R3anptaTdxcGFlNnp2SXBFTDBQOEo1UWNHYTFtejIzTGZlSkZsbjFuX1hObE01LXpIM0RXdXU0ekJ4YTltcl9mT29pQdIBuwFBVV95cUxPdENtS0ZtTzRYSE40MkFVSFpMMDZhTVR3TE5LQ0JzTE9ybzI1NlZRMFJELWVjb05keDRpWmhDbEl4VGs3QWRqMmtZaVFITUotVDBNRWQxRmlDU1RkLU9BMks4R2g4NGFLemlKbW5aNmozbzZCRjdaWGlieUVmaXVjeF9nbmlwRVhKYjF2cmJtT0ROLWpfY0pHUFMtV1dzcG52OXFGWmZTalBPVkpyWUtYLURUVS1xU2dvQmkw",
+    "badge": "brief",
+    "at": 1792260699.9787664,
+    "country": "이집트",
     "category": "국제"
   }
 ]

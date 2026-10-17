@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-18-news-egypt-sisi-saudi-defense-assistance-2026",
+  "topic": "이집트, 요청 시 사우디 방어 지원 추진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 01:54 KST",
+  "source": "Al Jazeera·Reuters·DW.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxQNUdhUHdad2lzbmVrbkZQbHB1dlQtdWVlVlpCT2FCNXJhUFl4R2NIRjNjN2ZDWHVZcE05NEV1bk1QT3dtUUVISDRjMURlLWJwOFpjTFRveUx1cWlaR3d2VUdoV2twd3dURkFvS1RvTUlfN2R3anptaTdxcGFlNnp2SXBFTDBQOEo1UWNHYTFtejIzTGZlSkZsbjFuX1hObE01LXpIM0RXdXU0ekJ4YTltcl9mT29pQdIBuwFBVV95cUxPdENtS0ZtTzRYSE40MkFVSFpMMDZhTVR3TE5LQ0JzTE9ybzI1NlZRMFJELWVjb05keDRpWmhDbEl4VGs3QWRqMmtZaVFITUotVDBNRWQxRmlDU1RkLU9BMks4R2g4NGFLemlKbW5aNmozbzZCRjdaWGlieUVmaXVjeF9nbmlwRVhKYjF2cmJtT0ROLWpfY0pHUFMtV1dzcG52OXFGWmZTalBPVkpyWUtYLURUVS1xU2dvQmkw",
+    "related": [
+      [
+        "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+        "Al Jazeera"
+      ],
+      [
+        "Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked",
+        "Reuters"
+      ],
+      [
+        "Egypt said to mull supporting defense of Saudi Arabia in face of Houthi attacks",
+        "The Times of Israel"
+      ],
+      [
+        "Egypt's Sissi says he'll defend Saudi Arabia, if asked",
+        "DW.com"
+      ],
+      [
+        "FM, Iranian counterpart discuss de-escalation, resumption of diplomatic path",
+        "Egypt Today"
+      ]
+    ],
+    "event_key": "egypt-sisi-saudi-defense-assistance-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이집트, 요청 시\n[[사우디 방어]] 지원 추진",
+      "sub": "엘시시 대통령이 의회에 지원 승인을 요청했다고 외신이 전했습니다.",
+      "chips": [],
+      "alt": "이집트, 요청 시 사우디 방어 지원 추진",
+      "map": {
+        "lat": 30.0443879,
+        "lon": 31.2357257,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이집트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이집트\n카이로",
+      "video_only": true,
+      "map": {
+        "lat": 30.0443879,
+        "lon": 31.2357257,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카이로"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "의회 승인 요청",
+          "d": "엘시시 이집트 대통령은 사우디의 요청이 있을 경우 방어를 지원하기 위해 의회 승인을 구했습니다 (로이터·알자지라)."
+        },
+        {
+          "t": "후티 공격 대응",
+          "d": "후티 반군의 공격에 직면한 사우디아라비아를 방어하기 위한 지원책을 검토하고 있습니다 (타임스오브이스라엘)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "엘시시 대통령의 사우디 방어 지원 의회 승인 추진",
+        "사우디 측 요청 전제 방어 지원 방침"
+      ],
+      "unconfirmed": [
+        "사우디아라비아의 공식 지원 요청 여부",
+        "파병 등 구체적인 군사 지원 규모와 방식"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "DW.com",
+        "Egypt Today",
+        "Reuters",
+        "The Times of Israel",
+        "2026.10.18 03:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이집트가 사우디아라비아의 요청이 있을 경우 방어를 지원하는 방안을 추진합니다.\n\n· 엘시시 이집트 대통령이 사우디 방어 지원을 위해 의회 승인을 요청했습니다 (로이터·알자지라)\n· 후티 반군 공격에 맞선 사우디 지원 조치로 검토되고 있습니다 (타임스오브이스라엘)\n· 엘시시 대통령은 사우디의 요청이 있을 때 방어에 나선다는 방침입니다 (DW)\n\n이집트의 사우디 방어 지원 움직임, 중동 정세에 어떤 영향을 미칠까요?\n출처: 로이터·알자지라·DW·타임스오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이집트가 사우디아라비아를 방어하기 위한 지원 절차에 착수했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 엘시시 대통령이 의회에 방어 지원 승인을 요청했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이집트 측은 사우디의 요청이 있을 경우 지원에 나선다는 입장입니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 군사 지원 규모나 파병 여부는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이집트의 이번 행보가 중동 정세에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이집트가 [[사우디 방어]]에\n나서는 이유",
+  "broll": [
+    "egyptian parliament building",
+    "military vehicles desert"
+  ],
+  "place_en": "Cairo, Egypt"
+}
