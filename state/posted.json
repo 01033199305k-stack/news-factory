@@ -17986,5 +17986,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792300490
+  },
+  {
+    "slug": "2026-10-18-news-black-sea-drone-attack-ship-sunk-bulgaria-romania-2026",
+    "event_ms": 1792307328787,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 흑해에서 드론 공격으로 선박이 침몰해 불가리아가 러시아 대사를 초치했습니다.\n\n· 흑해 해역에서 발생한 드론 공격으로 선박이 침몰했습니다 (BBC).\n· 불가리아 총리는 사건 이후 러시아 대사를 초치했습니다 (BBC).\n· 루마니아 대통령은 나토 차원의 흑해 해역 감시를 요구했습니다 (유로뉴스).\n· 침몰 선박의 소속과 정확한 인명 피해 여부는 아직 확인되지 않았습니다.\n\n나토 인접 해역으로 번지는 군사적 긴장, 어떻게 보십니까?\n출처: BBC·유로뉴스·가디언 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "불가리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18104409083196769",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeoHP2Um6yA",
+        "kind": "carousel",
+        "at": 1792307390
+      },
+      "instagram": {
+        "id": "18425974885149408",
+        "permalink": "https://www.instagram.com/reel/DeoHi5IlGP9/",
+        "kind": "reel",
+        "at": 1792307547
+      },
+      "youtube": {
+        "id": "Ltv6_h8z5CU",
+        "permalink": "https://youtube.com/shorts/Ltv6_h8z5CU",
+        "kind": "shorts",
+        "at": 1792307590
+      },
+      "tiktok": {
+        "id": "7697902541744409862",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697902541744409862",
+        "kind": "video",
+        "at": 1792307721
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792307731
   }
 ]

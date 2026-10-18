@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "australia-rba-rate-hike-september",
-    "topic": "호주, 기준금리 인상 단행 15년 만에 최고치 도달",
-    "slug": "2026-09-29-news-australia-rba-rate-hike-september",
-    "cluster": "CBMivwFBVV95cUxQUEpMUGVtUXlxZGtWNWtrdDNFai0tdHBpenJDS05VV25sc3UwV1AyckgwdENlMzNFV0RxUzdGenRVbm5KR0dvVENPUEVQZ1QzVFJjd1pac3d1Y2JJWHI2RWZtbXpwbHpWTHY1ajM0VkZ2dHEtV2FjeGNwUDBsLWNjV0RTSlVvTWlmTk5pcmNHNWcyY1o3YVNaZUw4Qng0N3Ixam9vNnhuTnpMVlRlZkkwTGtYOTdUWHE5OWlPcjUzdw",
-    "badge": "brief",
-    "at": 1790669445.470737,
-    "country": "호주"
-  },
-  {
     "event_key": "netanyahu-uae-visit-september-2026",
     "topic": "이스라엘 총리, 아부다비 비공개 방문 아랍에미리트 지도자와 회동",
     "slug": "2026-09-29-news-netanyahu-uae-visit-september-2026",
@@ -2996,6 +2987,16 @@
     "badge": "brief",
     "at": 1792300099.2151964,
     "country": "팔레스타인",
+    "category": "국제"
+  },
+  {
+    "event_key": "black-sea-drone-attack-ship-sunk-bulgaria-romania-2026",
+    "topic": "흑해 선박 드론 공격 침몰 불가리아, 러 대사 초치",
+    "slug": "2026-10-18-news-black-sea-drone-attack-ship-sunk-bulgaria-romania-2026",
+    "cluster": "CBMingFBVV95cUxNY1dUTUxGUjZOM0tsVmtncWRlV2ZaZTRBUDFSRE94Q2U4ZktGZ1FCVFpDMHZ2VlY2aTRsSDRWaHVrWk00SDR4YnFueFJaYVFKT1daa2Ixc3BuNElkM0ZINjN0LWxMN2lYZ0xPdGF3U3pjdXpMTVg5c1oxVFNCR01zcU5YUTVLbzZ3Ty1LM0NuU1VGa3pZcHV0aS1BLVpfUQ",
+    "badge": "brief",
+    "at": 1792307328.7874613,
+    "country": "불가리아",
     "category": "국제"
   }
 ]

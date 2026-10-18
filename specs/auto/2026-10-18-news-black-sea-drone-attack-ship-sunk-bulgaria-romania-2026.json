@@ -1,0 +1,155 @@
+{
+  "slug": "2026-10-18-news-black-sea-drone-attack-ship-sunk-bulgaria-romania-2026",
+  "topic": "흑해 선박 드론 공격 침몰 불가리아, 러 대사 초치",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 14:00 KST",
+  "source": "BBC·The Guardian·The Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxNY1dUTUxGUjZOM0tsVmtncWRlV2ZaZTRBUDFSRE94Q2U4ZktGZ1FCVFpDMHZ2VlY2aTRsSDRWaHVrWk00SDR4YnFueFJaYVFKT1daa2Ixc3BuNElkM0ZINjN0LWxMN2lYZ0xPdGF3U3pjdXpMTVg5c1oxVFNCR01zcU5YUTVLbzZ3Ty1LM0NuU1VGa3pZcHV0aS1BLVpfUQ",
+    "related": [
+      [
+        "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores",
+        "The Guardian"
+      ],
+      [
+        "Putin brings war into Nato’s waters",
+        "The Telegraph"
+      ],
+      [
+        "Exclusive: Romania president calls for NATO oversight in the Black Sea",
+        "Euronews.com"
+      ],
+      [
+        "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack",
+        "BBC"
+      ],
+      [
+        "Russia's war reaches Bulgaria's shores, putting Radev's Moscow-friendly stance to the test",
+        "The Kyiv Independent"
+      ]
+    ],
+    "event_key": "black-sea-drone-attack-ship-sunk-bulgaria-romania-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "흑해 선박 [[드론 공격 침몰]]\n불가리아, 러 대사 초치",
+      "sub": "루마니아 대통령은 나토 감시를 촉구했습니다 (유로뉴스)",
+      "chips": [
+        {
+          "k": "피해",
+          "v": "선박 침몰"
+        },
+        {
+          "k": "대응",
+          "v": "러 대사 초치"
+        }
+      ],
+      "alt": "흑해 선박 드론 공격 침몰 불가리아, 러 대사 초치",
+      "map": {
+        "lat": 43.872824,
+        "lon": 33.9938077,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "불가리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "불가리아\n흑해",
+      "video_only": true,
+      "map": {
+        "lat": 43.872824,
+        "lon": 33.9938077,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "흑해"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "선박 침몰 피해",
+          "d": "흑해에서 드론 공격으로 선박이 침몰했다고 BBC가 전했습니다."
+        },
+        {
+          "t": "러시아 대사 초치",
+          "d": "불가리아 총리는 선박 침몰 후 러시아 대사를 초치했습니다 (BBC)."
+        },
+        {
+          "t": "나토 감시 요구",
+          "d": "루마니아 대통령은 흑해 내 나토 차원의 감시 통제를 촉구했습니다 (유로뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "흑해 드론 공격으로 선박 침몰",
+        "불가리아의 러시아 대사 초치",
+        "루마니아의 나토 감시 촉구"
+      ],
+      "unconfirmed": [
+        "침몰 선박 국적 및 인명 피해 여부",
+        "한국인 피해 여부",
+        "드론 공격 주체 공식 확인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Euronews.com",
+        "The Guardian",
+        "The Kyiv Independent",
+        "The Telegraph",
+        "2026.10.18 16:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 흑해에서 드론 공격으로 선박이 침몰해 불가리아가 러시아 대사를 초치했습니다.\n\n· 흑해 해역에서 발생한 드론 공격으로 선박이 침몰했습니다 (BBC).\n· 불가리아 총리는 사건 이후 러시아 대사를 초치했습니다 (BBC).\n· 루마니아 대통령은 나토 차원의 흑해 해역 감시를 요구했습니다 (유로뉴스).\n· 침몰 선박의 소속과 정확한 인명 피해 여부는 아직 확인되지 않았습니다.\n\n나토 인접 해역으로 번지는 군사적 긴장, 어떻게 보십니까?\n출처: BBC·유로뉴스·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "흑해에서 드론 공격으로 선박이 침몰했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 이번 공격 뒤 불가리아 총리가 러시아 대사를 초치했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "루마니아 대통령은 나토 차원의 흑해 감시를 촉구했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "침몰 선박의 국적과 인명 피해는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "나토 접경으로 번지는 긴장, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "흑해에서 [[선박 침몰]]\n나토 긴장 고조",
+  "broll": [
+    "cargo ship sea",
+    "naval patrol boat"
+  ],
+  "place_en": "Black Sea"
+}
