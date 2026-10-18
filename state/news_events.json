@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "netanyahu-uae-visit-september-2026",
-    "topic": "이스라엘 총리, 아부다비 비공개 방문 아랍에미리트 지도자와 회동",
-    "slug": "2026-09-29-news-netanyahu-uae-visit-september-2026",
-    "cluster": "CBMirwFBVV95cUxOMF9lY1AwcnVnQzNGMjBiZ3djaXVzaXVJSm5FUHRrZExVRVNMbF9qeVZkVVhGdkMxU0FLb0ZnLXB0VHhYeDhxUGxkLXVnelVNMHVFX0tMcTFCQVQ1Y0VQUEZfU210SDNkVndPWlVMSnNxbm1ZUFNZQ1hyU01xbTd2aGVaSVM3WmdRZHBwTjF3M2tXN01kcV9WWGJtWVBwX3hLaEQ5ZzhLdVZiVlBfN3pF",
-    "badge": "brief",
-    "at": 1790679976.1201453,
-    "country": "아랍에미리트",
-    "category": "국제"
-  },
-  {
     "event_key": "israel-gaza-hamas-commander-killed",
     "topic": "이스라엘군, 가자시티 공습으로 하마스 북가자 사령관 사살",
     "slug": "2026-09-29-news-israel-gaza-hamas-commander-killed",
@@ -2998,5 +2988,15 @@
     "at": 1792307328.7874613,
     "country": "불가리아",
     "category": "국제"
+  },
+  {
+    "event_key": "saudi-recon-helicopter-crash-najran-2026",
+    "topic": "사우디 군용 헬기 추락 장교 2명 사망",
+    "slug": "2026-10-18-news-saudi-recon-helicopter-crash-najran-2026",
+    "cluster": "CBMiuwFBVV95cUxPVlU0VDNDS0k4cmE3Q1JRYzBjdTA1R0s1OXZqZUkyV19BYS1vbHVkNHVyRFpjMlhHeGFmVG96anV5ak03NGZ2MzdlOHpOcHdzY2pOWmFRX2xJb2N6d0dJem45V1hpMVRYbVU4dFJyOEVmOVRGSlAyN2ZlbERfX1hnMjVJVlhIM2lRRjdGdUE2SWVKS2kyeDNZSnFqVkliUVhHRWdpTGhWUzVwdmYxSE4tNE5Mb3o2aFpvR3Zr",
+    "badge": "breaking",
+    "at": 1792310861.735326,
+    "country": "사우디아라비아",
+    "category": "사고"
   }
 ]
