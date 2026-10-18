@@ -17823,5 +17823,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792279827
+  },
+  {
+    "slug": "2026-10-18-news-uss-theodore-roosevelt-arrives-japan-2026",
+    "event_ms": 1792286074801,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 항공모함 시어도어 루스벨트호가 일본 요코스카에 입항했습니다.\n\n· 미일 대규모 합동 훈련 '킨 스워드'를 앞두고 전개됐습니다 (USNI News·Stars and Stripes)\n· 미 해군 항모의 요코스카 방문 소식이 전해졌습니다 (Stars and Stripes)\n\n미일 양국의 군사 협력 강화 움직임, 어떻게 보십니까?\n\n출처: USNI News·Stars and Stripes·Japan Today 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "일본"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18106206959361530",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DenetCRloVk",
+        "kind": "carousel",
+        "at": 1792286122
+      },
+      "instagram": {
+        "id": "18120157565287179",
+        "permalink": "https://www.instagram.com/reel/Dene9bvjp7E/",
+        "kind": "reel",
+        "at": 1792286270
+      },
+      "youtube": {
+        "id": "ErfxSfxnnF8",
+        "permalink": "https://youtube.com/shorts/ErfxSfxnnF8",
+        "kind": "shorts",
+        "at": 1792286367
+      },
+      "tiktok": {
+        "id": "7697811370909175092",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697811370909175092",
+        "kind": "video",
+        "at": 1792286499
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792286509
   }
 ]

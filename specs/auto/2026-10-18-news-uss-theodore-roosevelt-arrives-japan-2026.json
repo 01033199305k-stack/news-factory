@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-18-news-uss-theodore-roosevelt-arrives-japan-2026",
+  "topic": "미 항모 루스벨트호 일본 요코스카 입항",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 03:35 KST",
+  "source": "Japan Today·Stars and Stripes·TWZ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMie0FVX3lxTE1PaVY1SzVsbGgtRG5HcnVtX213cGZSa2gxRTB4a3hWNEpjRU8zR2lJRE0zMDFScU1HRWNNQmF6MUpBZVQ4VzBoNVhuMzVZc1Q4Rm9jSHRERDRxTk05MThzVUlZV3J1eVVvYzVYRzBsVlVrajdMV3VYOTRpbw",
+    "related": [
+      [
+        "Where Are The Aircraft Carriers?: October 17, 2026",
+        "TWZ"
+      ],
+      [
+        "Carrier USS Theodore Roosevelt Arrives in Japan Ahead of Keen Sword Exercise",
+        "USNI News"
+      ],
+      [
+        "U.S. aircraft carrier arrives in Japan ahead of joint exercise",
+        "Japan Today"
+      ],
+      [
+        "USS Theodore Roosevelt makes rare Yokosuka visit ahead of major US-Japan exercise",
+        "Stars and Stripes"
+      ],
+      [
+        "San Diego-based carrier USS Theodore Roosevelt arrives in Japan for joint military drill",
+        "The Mercury News"
+      ]
+    ],
+    "event_key": "uss-theodore-roosevelt-arrives-japan-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미 항모 [[루스벨트호]]\n일본 요코스카 입항",
+      "sub": "미일 대규모 합동 군사 훈련을 앞두고 도착했습니다.",
+      "chips": [
+        {
+          "k": "입항 항모",
+          "v": "루스벨트호"
+        }
+      ],
+      "alt": "미 항모 루스벨트호 일본 요코스카 입항",
+      "map": {
+        "lat": 35.2814779,
+        "lon": 139.6719597,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "일본"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "일본\n요코스카",
+      "video_only": true,
+      "map": {
+        "lat": 35.2814779,
+        "lon": 139.6719597,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "요코스카"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "합동 훈련 참가",
+          "d": "미일 대규모 합동 훈련인 '킨 스워드'를 앞두고 도착했습니다 (USNI News·Stars and Stripes)."
+        },
+        {
+          "t": "요코스카 기지 도착",
+          "d": "미 해군 항공모함 시어도어 루스벨트호가 요코스카를 방문했습니다 (Stars and Stripes)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 항모 루스벨트호 일본 입항",
+        "미일 합동 군사 훈련 앞두고 도착"
+      ],
+      "unconfirmed": [
+        "구체적 훈련 세부 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Japan Today",
+        "Stars and Stripes",
+        "TWZ",
+        "The Mercury News",
+        "USNI News",
+        "2026.10.18 10:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 항공모함 시어도어 루스벨트호가 일본 요코스카에 입항했습니다.\n\n· 미일 대규모 합동 훈련 '킨 스워드'를 앞두고 전개됐습니다 (USNI News·Stars and Stripes)\n· 미 해군 항모의 요코스카 방문 소식이 전해졌습니다 (Stars and Stripes)\n\n미일 양국의 군사 협력 강화 움직임, 어떻게 보십니까?\n\n출처: USNI News·Stars and Stripes·Japan Today 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 항공모함 시어도어 루스벨트호가 일본 요코스카에 입항했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미일 양국의 대규모 합동 군사 훈련인 '킨 스워드'를 앞두고 도착했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 훈련 일정과 세부 전력 운용은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "미일 양국의 군사 협력 강화 움직임, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 [[항공모함]]이\n일본에 간 이유",
+  "broll": [
+    "aircraft carrier sea",
+    "navy port ship"
+  ],
+  "place_en": "Yokosuka, Japan"
+}

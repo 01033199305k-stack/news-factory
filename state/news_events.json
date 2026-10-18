@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "openai-safety-model-cancellation",
-    "topic": "안전 우려에 오픈AI 새 모델 출시 취소",
-    "slug": "2026-09-29-news-openai-safety-model-cancellation",
-    "cluster": "CBMiXkFVX3lxTFBoUlV2OXF6UjM4MGkxYVd6aEl3MS1lMjRaNS1mZmE2Sl9CR0VKcUs0YndBOThyeThZc0pYdFdPNmlNWmdrRlhRbVdBX21TamdMelBlcWIyWnZqQWo2aWc",
-    "badge": "brief",
-    "at": 1790651576.8797255,
-    "country": "미국"
-  },
-  {
     "event_key": "ukraine-russia-drone-strikes-september-2026",
     "topic": "우크라이나 공습 러시아 드론 공격",
     "slug": "2026-09-29-news-ukraine-russia-drone-strikes-september-2026",
@@ -2994,5 +2985,15 @@
     "at": 1792279476.205209,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "uss-theodore-roosevelt-arrives-japan-2026",
+    "topic": "미 항모 루스벨트호 일본 요코스카 입항",
+    "slug": "2026-10-18-news-uss-theodore-roosevelt-arrives-japan-2026",
+    "cluster": "CBMie0FVX3lxTE1PaVY1SzVsbGgtRG5HcnVtX213cGZSa2gxRTB4a3hWNEpjRU8zR2lJRE0zMDFScU1HRWNNQmF6MUpBZVQ4VzBoNVhuMzVZc1Q4Rm9jSHRERDRxTk05MThzVUlZV3J1eVVvYzVYRzBsVlVrajdMV3VYOTRpbw",
+    "badge": "brief",
+    "at": 1792286074.8013663,
+    "country": "일본",
+    "category": "국제"
   }
 ]
