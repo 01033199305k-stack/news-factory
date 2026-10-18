@@ -18477,5 +18477,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792348958
+  },
+  {
+    "slug": "2026-10-19-news-us-stocks-tech-rout-nasdaq-drop-2026",
+    "event_ms": 1792339170000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 나스닥 2% 넘게 급락… 기술주 1조 달러 증발\n\n· 인공지능(AI) 부채 우려 속에 나스닥 지수가 2% 이상 하락했습니다 (CNN)\n· 기술주 부문에서 1조 달러 규모가 증발했습니다 (NBC News)\n· 신용 우려가 기술 부문을 덮치며 미국 증시가 하락했습니다 (WSJ)\n\n이번 기술주 급락세, 일시적 조정으로 보십니까?\n출처: CNN·NBC News·WSJ 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18111714017150346",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DepSpbGFGFn",
+        "kind": "carousel",
+        "at": 1792346910
+      },
+      "instagram": {
+        "id": "17998754084826616",
+        "permalink": "https://www.instagram.com/reel/DepS7DTDpoB/",
+        "kind": "reel",
+        "at": 1792347074
+      },
+      "youtube": {
+        "id": "0F2gIJLDuX4",
+        "permalink": "https://youtube.com/shorts/0F2gIJLDuX4",
+        "kind": "shorts",
+        "at": 1792347094
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ad518d60b0d72757a363b58): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1792350535
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792350535
   }
 ]
