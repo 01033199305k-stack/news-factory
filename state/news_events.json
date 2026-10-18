@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "morocco-first-female-prime-minister",
-    "topic": "모로코, 역사상 첫 여성 총리 파티마 자흐라 엘 만수리 임명",
-    "slug": "2026-09-30-news-morocco-first-female-prime-minister",
-    "cluster": "CBMiW0FVX3lxTFBsMFZrUXpSU2tnV1dZM0haNmtnd1d5cFd2a0NfR1BlU3ZDbHVWTXBROXNaM0lNTmdXREJkbW95MlV3Z0VKcXJVRkJDVkhWenZLMWNpQXBKZS1VU2M",
-    "badge": "breaking",
-    "at": 1790705210.6152678,
-    "country": "모로코",
-    "category": "국제"
-  },
-  {
     "event_key": "trump-ai-leaders-voluntary-accord",
     "topic": "백악관 인공지능 자율 규제 합의 트럼프와 빅테크 도덕적 구속력 서명",
     "slug": "2026-09-30-news-trump-ai-leaders-voluntary-accord",
@@ -2998,5 +2988,15 @@
     "at": 1792343276.4998822,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "us-stocks-tech-rout-nasdaq-drop-2026",
+    "topic": "미 나스닥 2% 넘게 급락 기술주 1조 달러 증발",
+    "slug": "2026-10-19-news-us-stocks-tech-rout-nasdaq-drop-2026",
+    "cluster": "CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg",
+    "badge": "breaking",
+    "at": 1792346864.2141492,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

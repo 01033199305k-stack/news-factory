@@ -1,0 +1,153 @@
+{
+  "slug": "2026-10-19-news-us-stocks-tech-rout-nasdaq-drop-2026",
+  "topic": "미 나스닥 2% 넘게 급락 기술주 1조 달러 증발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.19 00:59 KST",
+  "source": "AP News·CNN·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg",
+    "related": [
+      [
+        "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout",
+        "Yahoo Finance"
+      ],
+      [
+        "Nasdaq sinks more than 2% as investors raise questions about AI debt",
+        "CNN"
+      ],
+      [
+        "U.S. Stocks Fall as Credit Fears Haunt Tech Sector",
+        "WSJ"
+      ],
+      [
+        "How major US stock indexes fared Friday 10/16/2026",
+        "AP News"
+      ],
+      [
+        "Tech stocks erase $1 trillion of wealth as oil surges to $110 for the first time since May",
+        "NBC News"
+      ]
+    ],
+    "event_key": "us-stocks-tech-rout-nasdaq-drop-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 [[나스닥]] 2% 넘게 급락\n기술주 1조 달러 증발",
+      "sub": "인공지능 부채 우려와 유가 급등에 월가 기술주 하락",
+      "chips": [
+        {
+          "k": "나스닥",
+          "v": "2% 이상 하락"
+        },
+        {
+          "k": "시총 증발",
+          "v": "1조 달러"
+        }
+      ],
+      "alt": "미 나스닥 2% 넘게 급락 기술주 1조 달러 증발",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기술주 중심 급락",
+          "d": "나스닥 지수가 인공지능 부채 우려 속에 2% 넘게 하락했다고 CNN이 보도했습니다."
+        },
+        {
+          "t": "1조 달러 증발",
+          "d": "기술주 부문에서 1조 달러의 가치가 사라지고 유가가 110달러로 급등했다고 NBC 뉴스가 전했습니다."
+        },
+        {
+          "t": "신용 불안 확산",
+          "d": "기술 부문의 신용 우려로 미국 증시가 하락했다고 월스트리트저널이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "나스닥 2% 이상 하락 (CNN)",
+        "기술주 1조 달러 증발 (NBC)",
+        "기술 부문 신용 우려 확산 (WSJ)"
+      ],
+      "unconfirmed": [
+        "향후 증시 추가 조정 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNN",
+        "NBC News",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.10.19 03:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 나스닥 2% 넘게 급락… 기술주 1조 달러 증발\n\n· 인공지능(AI) 부채 우려 속에 나스닥 지수가 2% 이상 하락했습니다 (CNN)\n· 기술주 부문에서 1조 달러 규모가 증발했습니다 (NBC News)\n· 신용 우려가 기술 부문을 덮치며 미국 증시가 하락했습니다 (WSJ)\n\n이번 기술주 급락세, 일시적 조정으로 보십니까?\n출처: CNN·NBC News·WSJ 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 나스닥 지수가 2% 넘게 급락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "월가에서는 인공지능 관련 부채와 신용 불안이 커졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "NBC 뉴스는 기술주에서만 1조 달러가 증발했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 하락세가 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "기술주 중심의 이번 급락, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "기술주 [[1조 달러]]\n증발한 이유",
+  "broll": [
+    "stock exchange screen",
+    "financial district wall street"
+  ],
+  "place_en": "New York, USA"
+}
