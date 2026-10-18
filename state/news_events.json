@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-stocks-decline-treasury-yields",
-    "topic": "미국 증시 하락세 국채 금리 상승 여파",
-    "slug": "2026-09-30-news-us-stocks-decline-treasury-yields",
-    "cluster": "CBMikAFBVV95cUxQbW9sYnZxSzNHQmhBeTZEdWo5UW8yWjJwV1Z4cFh2T2d2U0xVRWlpY2FUaVUtUlVfRmtSQmV5bE53NFAxd042VkJ2SVpUVFhJTUNnMGpfMmlWcnl3Zkh1akplaWtXYW44OTZhZk02Y0JtekxCWVZFS19Rckw1RjFOWE5BTk5nZXZTRU9fTWl1Z0I",
-    "badge": "breaking",
-    "at": 1790703251.5688837,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "morocco-first-female-prime-minister",
     "topic": "모로코, 역사상 첫 여성 총리 파티마 자흐라 엘 만수리 임명",
     "slug": "2026-09-30-news-morocco-first-female-prime-minister",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792337164.597771,
     "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "trump-endorses-netanyahu-israeli-election-2026",
+    "topic": "트럼프, 이스라엘 총선 앞 네타냐후 공식 지지 선언",
+    "slug": "2026-10-19-news-trump-endorses-netanyahu-israeli-election-2026",
+    "cluster": "CBMixwFBVV95cUxNQWVrZWYwVE5QX3cxdEUzVTBjUEFxdzI3dkVCUzJ4MzQzNms4TWxtNk56cWYtbXdlV3J6VERTbjRCU1lXQjZ3aTNCc3hKMGZxYzlSV2NJbmRoWlhZRkRJWGlkRnFuX0NTSnBULWwxNlgyb0F2ekZ6enhPSTV0RHVzVjlsV3dMNXNReGZWT2FnNGNMcWZ1aE5YYmxRM1hlYlVTU2R1OXlPSTZTMmZNdnZpTEZNekxIR0JrVGVtLVlVQlZvMmNDVkFz",
+    "badge": "brief",
+    "at": 1792343276.4998822,
+    "country": "미국",
     "category": "국제"
   }
 ]

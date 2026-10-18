@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-19-news-trump-endorses-netanyahu-israeli-election-2026",
+  "topic": "트럼프, 이스라엘 총선 앞 네타냐후 공식 지지 선언",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.19 01:23 KST",
+  "source": "CNN·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxNQWVrZWYwVE5QX3cxdEUzVTBjUEFxdzI3dkVCUzJ4MzQzNms4TWxtNk56cWYtbXdlV3J6VERTbjRCU1lXQjZ3aTNCc3hKMGZxYzlSV2NJbmRoWlhZRkRJWGlkRnFuX0NTSnBULWwxNlgyb0F2ekZ6enhPSTV0RHVzVjlsV3dMNXNReGZWT2FnNGNMcWZ1aE5YYmxRM1hlYlVTU2R1OXlPSTZTMmZNdnZpTEZNekxIR0JrVGVtLVlVQlZvMmNDVkFz",
+    "related": [
+      [
+        "Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'",
+        "Sky News"
+      ],
+      [
+        "Trump endorses Netanyahu ahead of Israeli elections",
+        "Financial Times"
+      ],
+      [
+        "Live - Trump threatens to ‘finish the job’ against Iran, endorses Netanyahu",
+        "Iran International"
+      ],
+      [
+        "Trump endorses Netanyahu in Israeli election",
+        "Reuters"
+      ],
+      [
+        "Trump and Netanyahu’s once blossoming bromance sours at a pivotal moment for both men",
+        "CNN"
+      ]
+    ],
+    "event_key": "trump-endorses-netanyahu-israeli-election-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "트럼프, 이스라엘 총선 앞\n네타냐후 [[공식 지지]] 선언",
+      "sub": "선거 앞두고 '위대한 전사 총리' 치켜세워",
+      "chips": [
+        {
+          "k": "선거",
+          "v": "총선 앞"
+        }
+      ],
+      "alt": "트럼프, 이스라엘 총선 앞 네타냐후 공식 지지 선언",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "위대한 전사 총리 평가",
+          "d": "트럼프는 네타냐후 총리를 위대한 전사 총리라고 불렀습니다 (스카이뉴스)."
+        },
+        {
+          "t": "이란 관련 경고 발언",
+          "d": "이란을 상대로 일을 끝내겠다고 언급했습니다 (이란 인터내셔널)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프의 네타냐후 공개 지지 선언",
+        "이스라엘 총선 앞 발표"
+      ],
+      "unconfirmed": [
+        "이스라엘 총선 판세 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Financial Times",
+        "Iran International",
+        "Reuters",
+        "Sky News",
+        "2026.10.19 02:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 트럼프가 이스라엘 총선을 앞두고 네타냐후 총리를 공식 지지했습니다.\n\n· 선거를 앞두고 네타냐후를 '위대한 전사 총리'라고 불렀습니다 (스카이뉴스)\n· 이란을 상대로 일을 끝내겠다고 밝혔습니다 (이란 인터내셔널)\n· 로이터와 파이낸셜타임스 등도 공식 지지 사실을 일제히 보도했습니다 (로이터·FT)\n\n이번 지지 선언이 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 스카이뉴스·이란 인터내셔널·로이터·파이낸셜타임스·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "도널드 트럼프가 이스라엘 총선을 앞두고 네타냐후 총리를 공식 지지했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "스카이뉴스는 트럼프가 네타냐후를 위대한 전사 총리로 치켜세웠다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이어 이란에 맞서 일을 끝내겠다고 위협한 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 지지 선언이 선거 결과에 미칠 영향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "트럼프의 이번 공식 지지 선언, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "트럼프가 [[네타냐후]]를\n지지한 까닭",
+  "broll": [
+    "capitol hill exterior",
+    "press conference podium"
+  ],
+  "place_en": "Washington, D.C., United States"
+}

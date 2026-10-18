@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-19-news-trump-endorses-netanyahu-israeli-election-2026",
+    "event_ms": 1792343276499,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 트럼프가 이스라엘 총선을 앞두고 네타냐후 총리를 공식 지지했습니다.\n\n· 선거를 앞두고 네타냐후를 '위대한 전사 총리'라고 불렀습니다 (스카이뉴스)\n· 이란을 상대로 일을 끝내겠다고 밝혔습니다 (이란 인터내셔널)\n· 로이터와 파이낸셜타임스 등도 공식 지지 사실을 일제히 보도했습니다 (로이터·FT)\n\n이번 지지 선언이 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 스카이뉴스·이란 인터내셔널·로이터·파이낸셜타임스·CNN 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18087188462705439",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DepLzs2oCvC",
+        "kind": "carousel",
+        "at": 1792343326
+      },
+      "instagram": {
+        "id": "18082095707348203",
+        "permalink": "https://www.instagram.com/reel/DepMG80iIsN/",
+        "kind": "reel",
+        "at": 1792343508
+      },
+      "youtube": {
+        "id": "Zw8yQxGHVPw",
+        "permalink": "https://youtube.com/shorts/Zw8yQxGHVPw",
+        "kind": "shorts",
+        "at": 1792343670
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
