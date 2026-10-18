@@ -17878,5 +17878,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792286509
+  },
+  {
+    "slug": "2026-10-18-news-canada-alberta-military-base-fire-explosion-2026",
+    "event_ms": 1792287840000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 캐나다 군기지서 폭발 뒤 대형 화재… 다수 사상\n\n· 캐나다 앨버타주 웨인라이트 군기지에서 폭발과 함께 대형 화재가 발생했습니다 (The Globe and Mail)\n· 캐나다 국방부 장관은 기지 내 사고로 사망자와 부상자가 발생했다고 밝혔습니다 (CBC·CTV)\n· 화재 원인과 정확한 사상자 수는 아직 확인되지 않았습니다\n\n출처: AP·CBC·CBS·The Globe and Mail 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "캐나다"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18433770568178154",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DenrrXZFZ6y",
+        "kind": "carousel",
+        "at": 1792292935
+      },
+      "instagram": {
+        "id": "17864066634693798",
+        "permalink": "https://www.instagram.com/reel/DensEFuFJIJ/",
+        "kind": "reel",
+        "at": 1792293145
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1792293155
+      },
+      "tiktok": {
+        "id": "7697840497615736084",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697840497615736084",
+        "kind": "video",
+        "at": 1792293277
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792293287
   }
 ]

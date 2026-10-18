@@ -1,14 +1,5 @@
 [
   {
-    "event_key": "ukraine-russia-drone-strikes-september-2026",
-    "topic": "우크라이나 공습 러시아 드론 공격",
-    "slug": "2026-09-29-news-ukraine-russia-drone-strikes-september-2026",
-    "cluster": "CBMiqwFBVV95cUxPanFGUFdfOHZGbDEzWGp5dy14a2x1ZGFDdHpHM244cXRxZGxCa0l4VHo5VmNQNGJWTXZ2MGNGVVdUSzgzVU5WUHRKVHFIY29LSThxYTY2aHlvRjNoWk5sYm9nempQTF9IVEdiU3B6MXREXzNXLWctNnpBZ1dJeThFTmgzZjNiSjFEa3hlZzFhVFIxdWprWFRHVEk1cTlmYnczWVVVMzBRaXdJMjDSAbABQVVfeXFMUHVDUDFrWHlfc0ZJUVh3UkREZjJWNlpleXhKWVItcGRaRUVUeEwzRjN2bzZQTDd2aWlEaDVqVXV6YXBQX3VmZDRVWHZlc2dyLUlNNXZsTzNjbGxuUHBuN25xZGRhU2M0OUl5ZDExc3p0eGtRNDh4bk1GdjluNEZBZnlFZWt5ZXdNUFlPR09YSjdnY2tuRjY2S1ZfWDUwSWRybV9xYnJRX3hjeUM2cUhJSHo",
-    "badge": "breaking",
-    "at": 1790657303.7127633,
-    "country": "우크라이나"
-  },
-  {
     "event_key": "uk-airbase-terror-plot",
     "topic": "영국 미군기지 테러 음모 혐의 용의자 5명 보석 석방",
     "slug": "2026-09-29-news-uk-airbase-terror-plot",
@@ -2995,5 +2986,15 @@
     "at": 1792286074.8013663,
     "country": "일본",
     "category": "국제"
+  },
+  {
+    "event_key": "canada-alberta-military-base-fire-explosion-2026",
+    "topic": "캐나다 군기지 대형 화재 다수 사상자 발생",
+    "slug": "2026-10-18-news-canada-alberta-military-base-fire-explosion-2026",
+    "cluster": "CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw",
+    "badge": "breaking",
+    "at": 1792292880.13116,
+    "country": "캐나다",
+    "category": "폭발·화재"
   }
 ]

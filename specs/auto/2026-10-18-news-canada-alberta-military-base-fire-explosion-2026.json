@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-18-news-canada-alberta-military-base-fire-explosion-2026",
+  "topic": "캐나다 군기지 대형 화재 다수 사상자 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 10:44 KST",
+  "source": "AP News·CBS News·CBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw",
+    "related": [
+      [
+        "Major fire breaks out in Alberta after deadly incident at military base",
+        "AP News"
+      ],
+      [
+        "Fatalities, injuries after major fire at Alberta military base: defence minister",
+        "CBC"
+      ],
+      [
+        "Large fire breaks out after deadly incident at Canadian military base, officials say",
+        "CBS News"
+      ],
+      [
+        "Multiple people killed after explosion, major fire at CFB Wainwright in Alberta",
+        "The Globe and Mail"
+      ],
+      [
+        "Fatalities and injuries reported after ‘incident’ at Alberta military base: defence minister",
+        "CTV News"
+      ]
+    ],
+    "event_key": "canada-alberta-military-base-fire-explosion-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "캐나다 군기지 대형 화재\n[[다수 사상자]] 발생",
+      "sub": "앨버타주 웨인라이트 군기지서 폭발 뒤 불길",
+      "chips": [
+        {
+          "k": "사고 장소",
+          "v": "군기지"
+        }
+      ],
+      "alt": "캐나다 군기지 대형 화재 다수 사상자 발생",
+      "map": {
+        "lat": 52.7395927,
+        "lon": -111.0304906,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "캐나다"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "캐나다\n앨버타주",
+      "video_only": true,
+      "map": {
+        "lat": 52.7395927,
+        "lon": -111.0304906,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "앨버타주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "폭발 후 대형 화재",
+          "d": "글로브앤드메일은 웨인라이트 군기지에서 폭발과 함께 대형 화재가 발생했다고 보도했습니다."
+        },
+        {
+          "t": "국방장관 사상자 확인",
+          "d": "캐나다 국방부 장관은 기지 내 사고로 사망자와 부상자가 발생했다고 밝혔습니다 (CBC·CTV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "앨버타주 군기지 내 대형 화재",
+        "사망자 및 부상자 발생"
+      ],
+      "unconfirmed": [
+        "정확한 사망·부상자 수",
+        "폭발 및 화재 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBC",
+        "CBS News",
+        "CTV News",
+        "The Globe and Mail",
+        "2026.10.18 12:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 캐나다 군기지서 폭발 뒤 대형 화재… 다수 사상\n\n· 캐나다 앨버타주 웨인라이트 군기지에서 폭발과 함께 대형 화재가 발생했습니다 (The Globe and Mail)\n· 캐나다 국방부 장관은 기지 내 사고로 사망자와 부상자가 발생했다고 밝혔습니다 (CBC·CTV)\n· 화재 원인과 정확한 사상자 수는 아직 확인되지 않았습니다\n\n출처: AP·CBC·CBS·The Globe and Mail 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "캐나다 군기지에서 대형 화재가 발생해 여러 명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 앨버타주에 위치한 웨인라이트 군기지에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "글로브앤드메일은 기지에서 폭발과 함께 대형 화재가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폭발 원인과 정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "캐나다 [[군기지]]서\n무슨 일이?",
+  "broll": [
+    "military base gate",
+    "fire truck"
+  ],
+  "place_en": "CFB Wainwright, Alberta, Canada"
+}
