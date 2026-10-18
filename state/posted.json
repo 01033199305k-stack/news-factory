@@ -18257,5 +18257,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792323002
+  },
+  {
+    "slug": "2026-10-18-news-italy-milan-cost-of-living-protests-violence-2026",
+    "event_ms": 1792328951524,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 이탈리아 밀라노 시위서 상점 약탈과 방화가 발생했습니다.\n\n· 생활비 시위 도중 참가자들이 상점을 털고 불을 질렀습니다 (AP 통신).\n· 밀라노와 볼로냐에서 시위대와 경찰이 충돌했습니다 (더프린트).\n· 멜로니는 공격 행위를 규탄했습니다 (피구루스).\n\n유럽 각국으로 확산하는 물가 항의 시위, 어떻게 보십니까?\n출처: AP 통신·더프린트·피구루스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이탈리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18099317762647345",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deowe_5m9hY",
+        "kind": "carousel",
+        "at": 1792328999
+      },
+      "instagram": {
+        "id": "18031811219890390",
+        "permalink": "https://www.instagram.com/reel/Deow0YKgSP5/",
+        "kind": "reel",
+        "at": 1792329191
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792329202
+      },
+      "tiktok": {
+        "id": "7697995323070762248",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697995323070762248",
+        "kind": "video",
+        "at": 1792329324
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792329334
   }
 ]
