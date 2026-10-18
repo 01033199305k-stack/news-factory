@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-18-news-russia-st-petersburg-moscow-drone-attack-2026",
+  "topic": "상트페테르부르크 석유 시설 드론 공격받아 화재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 16:25 KST",
+  "source": "Euronews.com·Kyiv Post·The Kyiv Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiS0FVX3lxTE40LVk4bENlOHJIZHZ2VmpjOTVmMjdaNjJzdnUtN0FPWTJkeGNTZ0JmR194MktmMVlNTE9IaUFYaGF5OGtFcU95azhRQQ",
+    "related": [
+      [
+        "Drones Hit St. Petersburg Oil Terminals, VK Data Center, and Bridge",
+        "Kyiv Post"
+      ],
+      [
+        "St. Petersburg attacked by drones: a tank is burning at the oil terminal",
+        "Українські Національні Новини (УНН)"
+      ],
+      [
+        "Russian online marketplace Ozon reports attack on warehouse in St Petersburg – photo, videos",
+        "Українська правда"
+      ],
+      [
+        "Ukrainian drones force closure of all four Moscow airports overnight, cancelling dozens of flights",
+        "Euronews.com"
+      ],
+      [
+        "Massive Ukrainian drone attack hit oil facility, bridge, and data centers in St. Petersburg",
+        "The Kyiv Independent"
+      ]
+    ],
+    "event_key": "russia-st-petersburg-moscow-drone-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "상트페테르부르크 [[석유 시설]]\n드론 공격받아 화재",
+      "sub": "모스크바 4개 공항도 일시 폐쇄돼 수십 편 결항",
+      "chips": [
+        {
+          "k": "공항 폐쇄",
+          "v": "4곳"
+        }
+      ],
+      "alt": "상트페테르부르크 석유 시설 드론 공격받아 화재",
+      "map": {
+        "lat": 59.9606739,
+        "lon": 30.1586551,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n상트페테르부르크",
+      "video_only": true,
+      "map": {
+        "lat": 59.9606739,
+        "lon": 30.1586551,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "상트페테르부르크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "모스크바 공항 마비",
+          "d": "우크라이나 드론 공격 여파로 모스크바 4개 공항이 폐쇄되고 수십 편의 항공편이 취소됐습니다 (유로뉴스)."
+        },
+        {
+          "t": "물류창고·데이터센터 피해",
+          "d": "러시아 온라인 유통업체 오존 물류창고와 브이케이 데이터센터 등도 공격 대상에 포함됐습니다 (우크라인스카 프라우다·키이우 포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "상트페테르부르크 석유 시설 화재",
+        "모스크바 4개 공항 일시 폐쇄"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Euronews.com",
+        "Kyiv Post",
+        "The Kyiv Independent",
+        "Українська правда",
+        "Українські Національні Новини (УНН)",
+        "2026.10.18 19:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 상트페테르부르크와 모스크바가 대규모 드론 공격을 받았습니다.\n\n· 상트페테르부르크 석유 터미널이 공격을 받아 유류 탱크에 불이 났습니다 (키이우 포스트·UNN).\n· 우크라이나 드론 공격 여파로 모스크바 일대 4개 공항이 일시 폐쇄됐습니다 (유로뉴스).\n· 러시아 대형 유통업체 창고와 데이터센터도 공격 피해를 입었습니다 (우크라인스카 프라우다·키이우 포스트).\n\n출처: 키이우 포스트·유로뉴스·우크라인스카 프라우다 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 주요 도시가 대규모 드론 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "상트페테르부르크와 모스크바 시설들이 타격을 입었습니다.",
+      "card": "map"
+    },
+    {
+      "text": "석유 터미널에 불이 나고 데이터센터도 공격받았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "유로뉴스는 모스크바 공항 네 곳이 폐쇄됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "러시아 [[석유 시설]]에\n무슨 일이?",
+  "broll": [
+    "oil refinery smoke",
+    "airport departures board"
+  ],
+  "place_en": "Saint Petersburg, Russia"
+}

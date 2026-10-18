@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-18-news-kolkata-hindu-festival-stampede-2026",
+  "topic": "인도 축제장 압사 사고 최소 17명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 17:47 KST",
+  "source": "BBC·Bloomberg.com·NDTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxPOW00OC1EMEJnZ1hDYkMwaFNzYkw2WlBqcHpiN1NNWUZCOGZxZGpnR1BwSUtuYW15R1ZkX2llUEN1NFdNZ3BpSWI3bGtVc1JSd1VVT3V2ZWQ1aVA5bGtIOS00THNkN3JwWnd1WnRmaEF2NnNUVEJOcFF6emh3QmIyZUhPX2FtX0U",
+    "related": [
+      [
+        "At Least 19 Dead After Stampede at Indian Religious Event",
+        "The New York Times"
+      ],
+      [
+        "At least 17 dead in crush at Hindu festival event in India",
+        "BBC"
+      ],
+      [
+        "Kolkata pandal stampede LIVE | Will visit victims' families in their homes, handover compensation cheques, says CM Adhikari",
+        "The Hindu"
+      ],
+      [
+        "Kolkata Stampede Leaves At Least 19 Dead, Dozens Injured",
+        "Bloomberg.com"
+      ],
+      [
+        "Blog: Kolkata Didn't Learn From 2015. Eleven Years Later, It Proved To Be Fatal",
+        "NDTV"
+      ]
+    ],
+    "event_key": "kolkata-hindu-festival-stampede-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인도 축제장 [[압사 사고]]\n최소 17명 사망",
+      "sub": "콜카타 종교 행사 압사 사고로 수십 명 부상",
+      "chips": [
+        {
+          "k": "인명 피해",
+          "v": "사망·부상"
+        }
+      ],
+      "alt": "인도 축제장 압사 사고 최소 17명 사망",
+      "map": {
+        "lat": 22.5726459,
+        "lon": 88.3638953,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "인도"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "인도\n콜카타",
+      "video_only": true,
+      "map": {
+        "lat": 22.5726459,
+        "lon": 88.3638953,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "콜카타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "축제 인파 집중",
+          "d": "콜카타에서 열린 힌두교 축제 행사장에서 압사 사고가 발생했습니다 (더 힌두·블룸버그)."
+        },
+        {
+          "t": "사망자 수 집계",
+          "d": "BBC는 최소 17명이 숨졌다고 전했고 뉴욕타임스는 최소 19명이 사망했다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "콜카타 종교 행사 압사 사고 발생"
+      ],
+      "unconfirmed": [
+        "사망자 수 매체별 집계 차이 있음 (17~19명)",
+        "정확한 부상자 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bloomberg.com",
+        "NDTV",
+        "The Hindu",
+        "The New York Times",
+        "2026.10.18 19:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도 종교 행사장에서 압사 사고로 최소 17명이 숨졌습니다.\n\n· 인도 콜카타 힌두교 축제 행사장에서 압사 사고가 발생했습니다 (더 힌두·블룸버그).\n· 이번 사고로 최소 17명(BBC)에서 19명(뉴욕타임스·블룸버그)이 숨지고 수십 명이 다쳤습니다 (블룸버그).\n· 현지 당국은 유족 지원과 보상금 전달에 나섰습니다 (더 힌두).\n\n출처: BBC·뉴욕타임스·블룸버그·더 힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도 종교 행사장에서 압사 사고가 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인도 콜카타의 축제 행사장에서 사고가 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "BBC는 최소 17명, 뉴욕타임스는 최소 19명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "매체별 사망자 수 집계와 원인은 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "인도 [[종교 축제장]]서\n무슨 일이?",
+  "broll": [
+    "crowd festival street",
+    "ambulance flashing lights"
+  ],
+  "place_en": "Kolkata, India"
+}
