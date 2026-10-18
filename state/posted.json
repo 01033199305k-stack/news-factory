@@ -18532,5 +18532,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792350535
+  },
+  {
+    "slug": "2026-10-19-news-austrian-airlines-flight-bomb-threat-emergency-landing-sofia",
+    "event_ms": 1792356968000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 빈으로 향하던 여객기가 폭탄 위협으로 비상착륙했습니다.\n\n· 텔아비브에서 빈으로 향하던 오스트리아 항공 여객기가 소피아에 내렸습니다 (Ynet)\n· 폭탄 위협이 보고된 뒤 비상착륙했습니다 (스카이뉴스·텔레그래프)\n· 비상착륙한 항공기에 대해 보안 점검이 진행 중입니다 (타임스오브이스라엘)\n\n출처: 스카이뉴스·텔레그래프·타임스오브이스라엘·Ynet 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "불가리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18131010871695712",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DepqTRuCbFx",
+        "kind": "carousel",
+        "at": 1792359313
+      },
+      "instagram": {
+        "id": "18099553655533465",
+        "permalink": "https://www.instagram.com/reel/Depqi1blVWS/",
+        "kind": "reel",
+        "at": 1792359457
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792359467
+      },
+      "tiktok": {
+        "id": "7698125143381413126",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698125143381413126",
+        "kind": "video",
+        "at": 1792359589
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792359599
   }
 ]

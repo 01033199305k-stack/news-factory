@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "trump-ai-leaders-voluntary-accord",
-    "topic": "백악관 인공지능 자율 규제 합의 트럼프와 빅테크 도덕적 구속력 서명",
-    "slug": "2026-09-30-news-trump-ai-leaders-voluntary-accord",
-    "cluster": "CBMi8gFBVV95cUxPVGM1M0Q3OVg3TlR0QllZQkhiZHAzOWxaOFF6Z0JkTU1EbWFrUEFMYlhHajR3NkdjZEVDOFBMeVAzc09aalJJTVViUDNPWFJOMDY4VENuVlh0bGVBSXJ0MnZUZUtJSjVVRHdzUmFnSWNlZXI2T01JV3lWc3lfYmhDNXlFRWV6S2pTUDEzUWJEbnlzQUt1WTNkRzdoc2NGb0hPZ0sxcTA0N1BscGxIVDhhTFc5RDd2LVZQcWZ6U1g0OVpDZ2NqTi1YbmZnd2QyQ2FDNG9sSk5CR2lBSDNFN0pvdXFtT096UjMyVnU3X2Y3WXpGZw",
-    "badge": "brief",
-    "at": 1790716075.5113456,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "offaly-workplace-accident-2026",
     "topic": "아일랜드 사업장서 사고 발생 아버지와 딸 사망",
     "slug": "2026-09-30-news-offaly-workplace-accident-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792346864.2141492,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "austrian-airlines-flight-bomb-threat-emergency-landing-sofia-2026",
+    "topic": "빈 향하던 여객기 폭탄 위협에 비상착륙",
+    "slug": "2026-10-19-news-austrian-airlines-flight-bomb-threat-emergency-landing-sofia",
+    "cluster": "CBMirAFBVV95cUxQUVpuQjNVOVE5WmwxM1ZoeWFNc0szemVoVklJRDJCMTNWYU93dXJZM01xSGZZa0E4WlhnV25mSk95bUtHOTltbGY4c1RQc3F0R2dhUmp1NmxhMTNOb1NPa1NLei10aHNqY3NCblU1Q1V5ZEZZYXN3UmhGX3RpUnNfWGhpMFoyYTIwX3RYZWRlV09EMjBoY2NRclJ1d0Q4czhxZHR5Rm5WM3c0dW9u",
+    "badge": "breaking",
+    "at": 1792359263.8708143,
+    "country": "불가리아",
+    "category": "사고"
   }
 ]
