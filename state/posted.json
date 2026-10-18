@@ -18310,5 +18310,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792329334
+  },
+  {
+    "slug": "2026-10-18-news-korea-heavy-rain-wind-flight-cancellations-2026",
+    "event_ms": 1792325088000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 강풍과 폭우로 도로가 침수되고 인천공항 항공편 결항이 잇따랐습니다.\n\n· 인천공항 40편 결항을 비롯해 항공기 결항·회항·지연 운항이 이어졌습니다 (경향신문·매일경제).\n· 강한 비바람에 도로가 침수돼 차량이 고립되고 간판과 첨탑이 떨어지는 피해가 났습니다 (YTN·경향신문).\n· 인천 영종·백령도·대청도 등의 강풍주의보와 서해 풍랑주의보는 해제됐습니다 (연합뉴스).\n\n출처: 경향신문·매일경제·YTN·연합뉴스 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "재난",
+      "한국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18397396378167021",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deo3NS8FIdx",
+        "kind": "carousel",
+        "at": 1792332521
+      },
+      "instagram": {
+        "id": "18189525781371866",
+        "permalink": "https://www.instagram.com/reel/Deo3i2DgnYO/",
+        "kind": "reel",
+        "at": 1792332724
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792332734
+      },
+      "tiktok": {
+        "id": "7698024598494776594",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698024598494776594",
+        "kind": "video",
+        "at": 1792336138
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792336148
   }
 ]
