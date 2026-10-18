@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia-amur-military-aircraft-crash",
-    "topic": "러시아 아무르주서 군용기 추락 사망 6명 발생",
-    "slug": "2026-09-29-news-russia-amur-military-aircraft-crash",
-    "cluster": "CBMi3wFBVV95cUxNbFE4UnZ3UjBVZGxmTFBuZ0tZU2I0T2dlaXQzcVBPV1JIa3RQa2VuSlJ0UUljUUduVXI1bU04dnVWNy1SRjNsUmpkdWFQajk5TDhUOExxMjg4ekJwODVrNTMzVjRMSGhLU29nMFVSUFMxcWNvZEsxajlUemY2aGFBQUhCamZvenkyZHYtYWVYVDhPSDU1UVZvRV9oNU05Vk9xNE5QWUFlanlCWDlEbGROTHBfSDZSMmgwdW5tOU5jT1BDQzItdHpnRm02Y0lydGhsQllHQ0Z0UEFpUUVxVTBR",
-    "badge": "breaking",
-    "at": 1790692131.6580396,
-    "country": "러시아",
-    "category": "사고"
-  },
-  {
     "event_key": "fbi-jobs-portal-hack-arrest",
     "topic": "네덜란드 경찰, FBI 채용 포털 해킹 혐의로 샤이니헌터스 용의자 체포",
     "slug": "2026-09-30-news-fbi-jobs-portal-hack-arrest",
@@ -2998,5 +2988,15 @@
     "at": 1792328951.5248713,
     "country": "이탈리아",
     "category": "국제"
+  },
+  {
+    "event_key": "korea-heavy-rain-wind-flight-cancellations-2026",
+    "topic": "강한 비바람에 도로 침수 인천공항 결항·지연 잇따라",
+    "slug": "2026-10-18-news-korea-heavy-rain-wind-flight-cancellations-2026",
+    "cluster": "CBMif0FVX3lxTE9LT25NUGFMdHJtOHNDRV9lSW1FQ0xjWXllMFNkVkZDV0ZfZF80V01DMWlsWGk5cG85Y0QtMU1GLTBBcndSZHpMb2J1RjlqbUNtZUxDaXFwelYwZVA2WlV2VENIUDY5NkhNdlhUb3BhZG5XMDRQU1p5UXJKbmN3czTSAWBBVV95cUxONTdMcjNaSy1lN0V6cjEtMU5yczdTTjFmUjdVQlZXQ0s3dHF5aWJkQjNObzJoX0lzM0djSjE2YzMtX0k0RXM2SDU0VXZjV3VJSnFGTXJKRmxzT0pPV3I5Qkw",
+    "badge": "breaking",
+    "at": 1792332477.9935505,
+    "country": "한국",
+    "category": "재난"
   }
 ]
