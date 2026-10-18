@@ -1,0 +1,157 @@
+{
+  "slug": "2026-10-18-news-japan-martian-moon-sample-mission-2026",
+  "topic": "일본 화성 위성 향해 세계 첫 표본 채취",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 17:12 KST",
+  "source": "AP News·The Guardian·NASA Science (.gov) 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxPSU1COWt3SGtqMW4zUFh1VVY0N1RWeGJlVjh3aFFfTkdPSV9KMC1sQVFRVzNuSWRsNzJRdkVQLWluci1UNUoxTU5qZVpoUHlwcmhWaU8wWnBSYXJ6aWpldE1acG9VRi1NT2tBZTY4T3FmNTJ1SS1iTWNyQ3RTaUc1Q2staEQ3elEtNHRUNS1KUQ",
+    "related": [
+      [
+        "Japan to launch world-first mission to collect samples from Martian moon",
+        "The Guardian"
+      ],
+      [
+        "NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission",
+        "NASA Science (.gov)"
+      ],
+      [
+        "Japan to launch Martian moon mission on Tuesday | NHK WORLD-JAPAN News",
+        "NHKニュース"
+      ],
+      [
+        "Japan is launching a mission to Mars’s largest moon Phobos",
+        "New Scientist"
+      ],
+      [
+        "Japan to launch spacecraft on a mission to get samples from a Martian moon",
+        "AP News"
+      ]
+    ],
+    "event_key": "japan-martian-moon-sample-mission-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "일본 화성 위성 향해\n[[세계 첫 표본 채취]]",
+      "sub": "화성의 가장 큰 위성 포보스 탐사선 발사 예정",
+      "chips": [
+        {
+          "k": "목표",
+          "v": "화성 위성 표본"
+        },
+        {
+          "k": "대상",
+          "v": "포보스"
+        }
+      ],
+      "alt": "일본 화성 위성 향해 세계 첫 표본 채취",
+      "map": {
+        "lat": 35.6768601,
+        "lon": 139.7638947,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "일본"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "일본\n도쿄",
+      "video_only": true,
+      "map": {
+        "lat": 35.6768601,
+        "lon": 139.7638947,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "도쿄"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "세계 최초 화성 달 탐사",
+          "d": "일본이 화성의 위성에서 사상 처음으로 표본을 수집하는 탐사선을 발사합니다 (가디언·AP)."
+        },
+        {
+          "t": "화성 최대 위성 포보스",
+          "d": "탐사선은 화성의 가장 큰 위성인 포보스를 목표로 화요일 발사될 예정입니다 (NHK·뉴사이언티스트)."
+        },
+        {
+          "t": "미국 NASA 프로젝트 협력",
+          "d": "미국 항공우주국 NASA도 이번 화성 위성 탐사 프로젝트에 함께 협력합니다 (NASA)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "일본의 화성 위성 탐사선 발사 계획",
+        "화성 위성 포보스 표본 채취 시도",
+        "미국 NASA 협력 참여"
+      ],
+      "unconfirmed": [
+        "표본 수집 성공 여부 및 세부 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "NASA Science (.gov)",
+        "NHKニュース",
+        "New Scientist",
+        "The Guardian",
+        "2026.10.18 20:22 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 일본이 세계 최초로 화성의 위성 표본을 채취하는 탐사선을 발사합니다.\n\n· 화성의 가장 큰 위성인 포보스 탐사에 나섭니다 (뉴사이언티스트)\n· 화성의 위성 표본을 채취하는 탐사선은 화요일 발사될 예정입니다 (NHK·가디언·AP)\n· 미국 항공우주국 NASA도 이번 프로젝트 지원에 나섭니다 (NASA)\n\n인류의 새로운 심우주 탐사 시도에 대해 여러분은 어떻게 보십니까?\n출처: 가디언·NASA·NHK·뉴사이언티스트·AP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "일본이 세계 최초로 화성의 위성 표본 채취에 나섭니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NHK와 AP 통신은 일본이 화성 위성 탐사선을 발사한다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "탐사선은 화성의 가장 큰 위성인 포보스로 향해 표본을 수집할 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 항공우주국 NASA도 이번 미션에 함께 참여합니다.",
+      "card": "points"
+    },
+    {
+      "text": "표본 수집의 최종 성공 여부는 추후 확인될 예정입니다.",
+      "card": "check"
+    },
+    {
+      "text": "인류의 새로운 우주 탐사 도전, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[화성의 달]]로 향하는\n일본의 도전",
+  "broll": [
+    "spacecraft launch",
+    "rocket launch"
+  ],
+  "place_en": "Tokyo, Japan"
+}

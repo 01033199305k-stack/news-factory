@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "estonia-blames-russia-arson",
-    "topic": "에스토니아, 러시아 방화 배후로 지목",
-    "slug": "2026-09-29-news-estonia-blames-russia-arson",
-    "cluster": "CBMiuAFBVV95cUxONVBUbWk1a0dSTS00YmN5Q3hVRUtsSEtnVDBpVVBiWWlBaC1Oak12RHhMOEVuM1VsTTlQRU5UU1ZVMzFBQmVOWWcycWk1TTlTdzBaTDV5OXpPVVA2alNiZnpNU2FHc0xrWlktXzVzazNESW9jQmJidmdZbHdYZ18zWjNmMzJmSEJHRGp0S1pFcFppYVF6VU01WERzSGdiamNFbGFGRjdLWGpmUXluRndXVERlZGo1YmZk",
-    "badge": "breaking",
-    "at": 1790685369.127227,
-    "country": "에스토니아",
-    "category": "국제"
-  },
-  {
     "event_key": "iran-us-trump-dispute",
     "topic": "이란 혁명수비대, 트럼프를 향해 대거짓말쟁이라고 비난했습니다",
     "slug": "2026-09-29-news-iran-us-trump-dispute",
@@ -2998,5 +2988,15 @@
     "at": 1792318245.6333683,
     "country": "인도",
     "category": "사고"
+  },
+  {
+    "event_key": "japan-martian-moon-sample-mission-2026",
+    "topic": "일본 화성 위성 향해 세계 첫 표본 채취",
+    "slug": "2026-10-18-news-japan-martian-moon-sample-mission-2026",
+    "cluster": "CBMijwFBVV95cUxPSU1COWt3SGtqMW4zUFh1VVY0N1RWeGJlVjh3aFFfTkdPSV9KMC1sQVFRVzNuSWRsNzJRdkVQLWluci1UNUoxTU5qZVpoUHlwcmhWaU8wWnBSYXJ6aWpldE1acG9VRi1NT2tBZTY4T3FmNTJ1SS1iTWNyQ3RTaUc1Q2staEQ3elEtNHRUNS1KUQ",
+    "badge": "brief",
+    "at": 1792322548.5852606,
+    "country": "일본",
+    "category": "경제·과학"
   }
 ]

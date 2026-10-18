@@ -18202,5 +18202,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792318940
+  },
+  {
+    "slug": "2026-10-18-news-japan-martian-moon-sample-mission-2026",
+    "event_ms": 1792322548585,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 일본이 세계 최초로 화성의 위성 표본을 채취하는 탐사선을 발사합니다.\n\n· 화성의 가장 큰 위성인 포보스 탐사에 나섭니다 (뉴사이언티스트)\n· 화성의 위성 표본을 채취하는 탐사선은 화요일 발사될 예정입니다 (NHK·가디언·AP)\n· 미국 항공우주국 NASA도 이번 프로젝트 지원에 나섭니다 (NASA)\n\n인류의 새로운 심우주 탐사 시도에 대해 여러분은 어떻게 보십니까?\n출처: 가디언·NASA·NHK·뉴사이언티스트·AP 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "일본"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18098975384550910",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeokRaHm3hh",
+        "kind": "carousel",
+        "at": 1792322596
+      },
+      "instagram": {
+        "id": "18144071680592689",
+        "permalink": "https://www.instagram.com/reel/Deoko1Mkg7N/",
+        "kind": "reel",
+        "at": 1792322812
+      },
+      "youtube": {
+        "id": "yJLe4vQXScc",
+        "permalink": "https://youtube.com/shorts/yJLe4vQXScc",
+        "kind": "shorts",
+        "at": 1792322859
+      },
+      "tiktok": {
+        "id": "7697968118039186689",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697968118039186689",
+        "kind": "video",
+        "at": 1792322992
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792323002
   }
 ]
