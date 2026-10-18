@@ -17931,5 +17931,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792293287
+  },
+  {
+    "slug": "2026-10-18-news-west-bank-settlers-attack-european-diplomats-2026",
+    "event_ms": 1792300099215,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 서안 지구에서 유럽 외교관들이 공격을 받았습니다.\n\n· 이스라엘 정착민들이 서안 지구를 방문 중이던 유럽 외교관들을 습격했습니다 (BBC·NYT)\n· 워싱턴포스트 기자가 폭행당한 지 하루 만에 외교관 대상 공격이 이어졌습니다 (WaPo)\n· 이스라엘 당국이 폭력 사태 방지에 실패했다는 지적과 함께 해명 요구가 나오고 있습니다 (Jerusalem Post)\n\n이번 외교관 공격 사태에 대해 이스라엘 정부가 어떤 조치를 취해야 한다고 보십니까?\n\n출처: BBC·NYT·WaPo·Jerusalem Post 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18101270909533662",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Den5dFykSPG",
+        "kind": "carousel",
+        "at": 1792300149
+      },
+      "instagram": {
+        "id": "18063610454548209",
+        "permalink": "https://www.instagram.com/reel/Den5v61jC5v/",
+        "kind": "reel",
+        "at": 1792300324
+      },
+      "youtube": {
+        "id": "VMP87d5_MmU",
+        "permalink": "https://youtube.com/shorts/VMP87d5_MmU",
+        "kind": "shorts",
+        "at": 1792300349
+      },
+      "tiktok": {
+        "id": "7697871423917821204",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7697871423917821204",
+        "kind": "video",
+        "at": 1792300480
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792300490
   }
 ]

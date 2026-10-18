@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-18-news-west-bank-settlers-attack-european-diplomats-2026",
+  "topic": "서안 지구서 정착민들이 유럽 외교관들을 공격했습니다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 13:00 KST",
+  "source": "Al Jazeera·BBC·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivwFBVV95cUxPVVRQVkt2NVFCMG16ZmVhbmRvSTdsY2tLSlk5RTk1Mk5VbmdxSGI1TmNYOHRvWjNtay1Cc3otam10ckYzMjRsMmtvcmpQY0VJVm11b1h2Q0J6REpDUV9GM1ZMQjBrbElobDJjc2dTNGhTaHp1X0hRSVRHRko3OUE2Nkxnai00b0tBd0hMX1hCRGMtMTNZQ3N1YmhONC1naldZbXkyT2ppZUk1Z052SDRTaEdOc2plN1V1UnFKb3Bhdw",
+    "related": [
+      [
+        "European diplomats attacked in West Bank a day after beating of Post photographer",
+        "The Washington Post"
+      ],
+      [
+        "European diplomats attacked by Israeli settlers in West Bank",
+        "BBC"
+      ],
+      [
+        "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+        "Al Jazeera"
+      ],
+      [
+        "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+        "The New York Times"
+      ],
+      [
+        "Israel must explain failure to prevent West Bank violence",
+        "The Jerusalem Post"
+      ]
+    ],
+    "event_key": "west_bank_settlers_attack_european_diplomats_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "서안 지구서 정착민들이\n유럽 [[외교관]]들을 공격했습니다",
+      "sub": "서안 지구서 유럽 외교관들이 습격을 당했습니다",
+      "chips": [],
+      "alt": "서안 지구서 정착민들이 유럽 외교관들을 공격했습니다",
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n서안 지구",
+      "video_only": true,
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서안 지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유럽 외교관 습격",
+          "d": "서안 지구를 방문 중이던 유럽 외교관들이 이스라엘 정착민들에게 공격을 받았다고 외신들이 전했습니다."
+        },
+        {
+          "t": "이스라엘 책임론 제기",
+          "d": "외신들은 이스라엘 당국이 폭력 행위를 막지 못한 데 대해 설명을 요구받고 있다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "서안 지구서 유럽 외교관 공격받음",
+        "이스라엘 정착민에 의한 습격"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 및 부상 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "The Jerusalem Post",
+        "The New York Times",
+        "The Washington Post",
+        "2026.10.18 14:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 서안 지구에서 유럽 외교관들이 공격을 받았습니다.\n\n· 이스라엘 정착민들이 서안 지구를 방문 중이던 유럽 외교관들을 습격했습니다 (BBC·NYT)\n· 워싱턴포스트 기자가 폭행당한 지 하루 만에 외교관 대상 공격이 이어졌습니다 (WaPo)\n· 이스라엘 당국이 폭력 사태 방지에 실패했다는 지적과 함께 해명 요구가 나오고 있습니다 (Jerusalem Post)\n\n이번 외교관 공격 사태에 대해 이스라엘 정부가 어떤 조치를 취해야 한다고 보십니까?\n\n출처: BBC·NYT·WaPo·Jerusalem Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "서안 지구에서 유럽 외교관들이 이스라엘 정착민들에게 공격받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 서안 지구를 방문 중이던 유럽 외교관들이 습격을 당했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이스라엘 당국이 폭력을 막지 못한 데 대해 해명을 요구받고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 외교관 공격 사태, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[서안 지구]]에서\n무슨 일이?",
+  "broll": [
+    "diplomatic car convoy",
+    "west bank street"
+  ],
+  "place_en": "West Bank"
+}
