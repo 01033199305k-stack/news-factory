@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-18-news-us-ukraine-resumes-intelligence-sharing-2026",
+  "topic": "미국, 정보 공유 재개 젤렌스키 밝혀",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.18 21:41 KST",
+  "source": "Bloomberg.com·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiS0FVX3lxTE1pN1FGcUMyUW81WVlnbU1nTm1uc3hzaXh1bHhEOEZhSzJmUzd3T3c1YzU5ZWdQZVIzWVBESmNhZnBZeldhUHRYQ2JhVQ",
+    "related": [
+      [
+        "US Resumes Intelligence Sharing With Ukraine, Zelensky Says",
+        "Kyiv Post"
+      ],
+      [
+        "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says",
+        "Reuters"
+      ],
+      [
+        "EU says ‘no indication’ intelligence sharing with Ukraine has stopped as Russian attacks leave 600,000 without power – as it happened",
+        "The Guardian"
+      ],
+      [
+        "Zelenskyy Says Intelligence Sharing With US Working Again",
+        "Bloomberg.com"
+      ],
+      [
+        "US threatens to suspend intel sharing, weapons purchases if Ukraine continues Russia energy strikes, sources say",
+        "CNN"
+      ]
+    ],
+    "event_key": "us-ukraine-resumes-intelligence-sharing-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 정보 공유 재개\n[[젤렌스키]] 밝혀",
+      "sub": "일시 중단됐던 우크라이나 대상 정보 공유 재개",
+      "chips": [
+        {
+          "k": "정보 공유",
+          "v": "재개"
+        }
+      ],
+      "alt": "미국, 정보 공유 재개 젤렌스키 밝혀",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "젤렌스키 대통령 발표",
+          "d": "젤렌스키 우크라이나 대통령은 미국과의 정보 공유가 다시 작동하기 시작했다고 밝혔습니다 (로이터·블룸버그)."
+        },
+        {
+          "t": "지원 중단 압박 보도",
+          "d": "CNN은 우크라이나가 러시아 에너지 공격을 계속할 경우 미국이 정보 공유 및 무기 구매 중단을 위협했다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "젤렌스키 발언에 따른 대우크라이나 정보 공유 재개"
+      ],
+      "unconfirmed": [
+        "정보 공유 일시 중단 공식 사유"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNN",
+        "Kyiv Post",
+        "Reuters",
+        "The Guardian",
+        "2026.10.19 00:25 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국과 우크라이나의 정보 공유가 재개됐습니다.\n\n· 젤렌스키 우크라이나 대통령은 잠시 멈췄던 미국과의 정보 공유가 다시 작동하고 있다고 밝혔습니다 (로이터·Kyiv Post)\n· CNN은 우크라이나가 러시아 에너지 시설 타격을 계속할 경우 미국이 정보 공유와 무기 구매 중단을 위협했다고 보도했습니다 (CNN)\n· 유럽연합은 양국 간 정보 공유가 중단됐다는 징후가 없었다고 밝혔습니다 (가디언)\n\n미국의 정보 공유 재개가 전황에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: Reuters·Kyiv Post·CNN·The Guardian 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 우크라이나에 대한 정보 공유를 재개했다고 젤렌스키 대통령이 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "젤렌스키 대통령은 일시 중단됐던 정보 공유가 다시 작동하기 시작했다고 말했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "CNN은 우크라이나가 러시아 에너지 시설을 계속 타격할 경우 미국이 정보 공유 중단을 위협했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정보 공유 중단 배경에 대한 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 정보 공유 재개, 전황에 어떤 영향을 줄 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 멈췄던\n[[정보 공유]] 재개?",
+  "broll": [
+    "military radar screen",
+    "government press briefing"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
