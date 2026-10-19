@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "nepal-floods-landslides-september-2026",
-    "topic": "네팔 폭우로 홍수·산사태 발생 사망 21~27명 기록",
-    "slug": "2026-09-30-news-nepal-floods-landslides-september-2026",
-    "cluster": "CBMivAFBVV95cUxNdVROTDNXSnJDWnM4WC1CQmN4TTM2SWpXZFd4OUVPLWZZc0lVMDJuM2hBenV1RkFySFFvUkptbHJOakNfVWpCaExaSEdVNUJNOG9HS29NTWNIQTctaTBUYnhXVEVkQkFVeW5uOVBmcnVOQm05Umt0dkRicXhvUFROTzVzdmgtSFV4dnZQTTZ4RXhwTm42SGg1T3htX3hTYW9qUUZlSUxLT2h5ZVdTVS1JZWdRNmMzTkZ3ZEtMetIBwwFBVV95cUxQZzFlWmRLTmxlT0dpbWJUaHF3MjVENFZsaFZDWUlCOWdVVng5Snd6d1c3OHBvZGpCY0RhaFFpMGtOcGsxSjhaVjZKalh4UlUzZ193RzI4UUMyX3NIM2Jkejl4TXRERmhVQTVzejVhTnR3YjdIcDZHQnU4dHNxOG9IWi16aVNhZTdsNmpoNUdkMVc0ek9ORkg2RlQ4QVV6UW50SkdkNlRXUFpJRUNXWjUwRDJmdURMUFZ4bUJrbXRQaVBpT3c",
-    "badge": "breaking",
-    "at": 1790749217.605807,
-    "country": "네팔",
-    "category": "재난"
-  },
-  {
     "event_key": "south-korea-ukraine-pow-dispute",
     "topic": "한국 정부, 북한군 포로 이송 비밀 유지 위반 우크라이나에 사과 요구",
     "slug": "2026-09-30-news-south-korea-ukraine-pow-dispute",
@@ -2998,5 +2988,15 @@
     "at": 1792411657.5329633,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "yemen-shabwa-military-camp-houthi-attack-2026",
+    "topic": "예멘 군사훈련소 미사일 공격 사망자 수 매체별 집계 차이",
+    "slug": "2026-10-19-news-yemen-shabwa-military-camp-houthi-attack-2026",
+    "cluster": "CBMi_wFBVV95cUxOTzU0UFU4M050dG5jVlJ4VldXSXpFTVZ3ei1YR0thTE9CV1g0WHlXa2pLVldJQ01PY3RjSkNBcEo2UHE4NE9TbW15MDB3OWZDTXVVSTN6ZDZXczZrWXBlX2I0cWY2TXhwNEZlczFPckFZZHJmUmVTdGp1NGxCSmJ2NjgyQWtraFlEbmdldHF1VGF3RWE4YVllcHRXN2FEUVVBbVFGU294Q0FQb2oyMklnTWYtMU93SW5zNnhtNnNibkhtNXFHbXpVbGlrREs3SkU4XzlZQkppaUh6a0FkdER3SG84TmZNR2xiNk9VaF9SWllnUXBwWEx6NHZnWW5qUGc",
+    "badge": "breaking",
+    "at": 1792419087.7113717,
+    "country": "예멘",
+    "category": "총격·테러"
   }
 ]

@@ -19026,5 +19026,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792412040
+  },
+  {
+    "slug": "2026-10-19-news-yemen-shabwa-military-camp-houthi-attack-2026",
+    "event_ms": 1792408380000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 예멘 군사훈련소 미사일 공격, 사망자 수 매체별 집계 차이\n\n· 후티 반군 소행으로 정부군 훈련소가 타격받았습니다 (알자지라·로이터)\n· 부상자는 70명에서 200명 사이로 전해졌습니다 (타임스오브인디아·CGTN)\n\n출처: 타임스오브인디아·알자지라·로이터·CGTN 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "예멘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18108893942078133",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DerchL8FYLR",
+        "kind": "carousel",
+        "at": 1792419194
+      },
+      "instagram": {
+        "id": "18213006241362378",
+        "permalink": "https://www.instagram.com/reel/Dercw-qjLfO/",
+        "kind": "reel",
+        "at": 1792419341
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1792419351
+      },
+      "tiktok": {
+        "id": "6ad62618298c6036197d19fa",
+        "permalink": "",
+        "kind": "video",
+        "at": 1792419553
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792419563
   }
 ]
