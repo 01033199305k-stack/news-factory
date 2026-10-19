@@ -19185,5 +19185,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792431674
+  },
+  {
+    "slug": "2026-10-20-news-ukraine-strike-russian-data-centers-2026",
+    "event_ms": 1792436962051,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 우크라이나의 공습으로 러시아 데이터센터가 타격받았습니다\n\n· 러시아인들이 은행 계좌와 아파트 시스템에 접근하지 못하는 상황이라고 NBC 뉴스가 보도했습니다\n· 인터넷이 전쟁의 새로운 전선으로 떠올랐다고 CNN이 전했습니다\n\n여러분은 주요 인프라를 겨냥한 이러한 공격, 어떻게 보십니까?\n\n출처: NDTV·NBC 뉴스·CNN·BBC·The Conversation 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18114329273600643",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Der-ghvD8hu",
+        "kind": "carousel",
+        "at": 1792437017
+      },
+      "instagram": {
+        "id": "18113951890845335",
+        "permalink": "https://www.instagram.com/reel/Der-ypeD5k_/",
+        "kind": "reel",
+        "at": 1792437182
+      },
+      "youtube": {
+        "id": "jjccHu5TzYo",
+        "permalink": "https://youtube.com/shorts/jjccHu5TzYo",
+        "kind": "shorts",
+        "at": 1792437198
+      },
+      "tiktok": {
+        "id": "7698459232055708948",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698459232055708948",
+        "kind": "video",
+        "at": 1792437332
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792437342
   }
 ]
