@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "china-eu-tariffs-warning",
-    "topic": "중국, EU 규제 움직임에 보복 경고 공식화",
-    "slug": "2026-09-30-news-china-eu-tariffs-warning",
-    "cluster": "CBMihwFBVV95cUxOV0thUjNyWmRBQUo4YlpfYS14dlJuSndzZUxxTGhzZFlYVFhPWkRSSjVSV3RHX29yeDlqclU1TzU2bWFPVVNkaHdadXc3NVQ5WUJ1RzZIc25RcWtUN3I3Z0VKcGVUX1FEdWpiOHJJMW9PTjVPYjhSM3FHNy0tazBsa21vaXhITWfSAYwBQVVfeXFMTmdKWnpPSnZHaUoyUXJMVndJSDR1d3BHeGhaaFRFamI5a2hnTDJXeTFveFRBeHlnRUtLeHlDa0NiN2ZsTEtFV0J5VWRWSnljajN1U3hveHFHVTBSbVdual9oY3l6REl3MkRZNmFNUXN4a1V0RVZrNVdFazVpU3BqMW8zNFZlRU1UV0lRV2M",
-    "badge": "brief",
-    "at": 1790741493.3487973,
-    "country": "중국",
-    "category": "국제"
-  },
-  {
     "event_key": "dmz-landmine-blast-september-2026",
     "topic": "비무장지대 지뢰 폭발로 한국군 3명 부상 유엔사 \"정전협정 위반\" 규정",
     "slug": "2026-09-30-news-dmz-landmine-blast-september-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792400284.1705136,
     "country": "그리스",
     "category": "사고"
+  },
+  {
+    "event_key": "australia-mp-helen-haines-vehicle-attack-2026",
+    "topic": "호주 국회의원 차량 공격받아 중태",
+    "slug": "2026-10-19-news-australia-mp-helen-haines-vehicle-attack-2026",
+    "cluster": "CBMiyAFBVV95cUxNeW11YjlxNEowd0NtUGpENFpFLWtqdGV0dTRIT2oycTk1cUhNTC1CYVZsZExTQ0RaRHBmQTB4cUVOQW5sWU5MZmtZelQxTFY1ZHhLWjg3azd5elRLTVAwTWw1bFZib2RRV3J4VUkxRkVVQnJ5MWtfelE2WTF3ajFMV0xSMl9HdjZsd25yLTVoQ0FqNm5XYXEzcjh6dGdzd1M3UWttNW5qWkx5OFljSEFnVnhTM0tBamU1RjI1ZVhEVTlzSVRuTW5PSg",
+    "badge": "breaking",
+    "at": 1792404860.437729,
+    "country": "호주",
+    "category": "총격·테러"
   }
 ]

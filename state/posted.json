@@ -18918,5 +18918,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792400967
+  },
+  {
+    "slug": "2026-10-19-news-australia-mp-helen-haines-vehicle-attack-2026",
+    "event_ms": 1792398900000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 호주 국회의원이 차량 공격을 받아 중상을 입었습니다.\n\n· 헬렌 헤인즈 무소속 의원이 지역구 사무실 근처에서 차에 치여 중태입니다 (Politico·로이터)\n· 경찰은 차량 운전자 남성을 체포했습니다 (BBC·WBAL-TV)\n· 호주 총리는 이번 사건을 고의적인 범행으로 밝혔습니다 (BBC)\n\n출처: BBC·로이터·가디언 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "호주"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18100336697388338",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DerBRT5ETab",
+        "kind": "carousel",
+        "at": 1792404906
+      },
+      "instagram": {
+        "id": "18074165297737725",
+        "permalink": "https://www.instagram.com/reel/DerBlnQCXT4/",
+        "kind": "reel",
+        "at": 1792405097
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1792405107
+      },
+      "tiktok": {
+        "id": "7698321322526477588",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698321322526477588",
+        "kind": "video",
+        "at": 1792405228
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792405238
   }
 ]

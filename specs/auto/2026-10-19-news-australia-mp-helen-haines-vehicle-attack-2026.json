@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-19-news-australia-mp-helen-haines-vehicle-attack-2026",
+  "topic": "호주 국회의원 차량 공격받아 중태",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.19 17:35 KST",
+  "source": "BBC·Politico·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiyAFBVV95cUxNeW11YjlxNEowd0NtUGpENFpFLWtqdGV0dTRIT2oycTk1cUhNTC1CYVZsZExTQ0RaRHBmQTB4cUVOQW5sWU5MZmtZelQxTFY1ZHhLWjg3azd5elRLTVAwTWw1bFZib2RRV3J4VUkxRkVVQnJ5MWtfelE2WTF3ajFMV0xSMl9HdjZsd25yLTVoQ0FqNm5XYXEzcjh6dGdzd1M3UWttNW5qWkx5OFljSEFnVnhTM0tBamU1RjI1ZVhEVTlzSVRuTW5PSg",
+    "related": [
+      [
+        "Independent MP Helen Haines critically injured in attack near electorate office",
+        "Politico"
+      ],
+      [
+        "Australian lawmaker Helen Haines in critical condition after vehicle attack",
+        "Reuters"
+      ],
+      [
+        "Police: Car hits Australian lawmaker, critically injuring her; driver arrested",
+        "WBAL-TV"
+      ],
+      [
+        "Man arrested after Australian MP hit by car as PM calls it a 'deliberate act'",
+        "BBC"
+      ],
+      [
+        "Helen Haines live updates: Victorian premier ‘deeply appalled’ after Helen Haines injured in alleged attack; Angus Taylor calls incident ‘shocking day for our nation’",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "australia-mp-helen-haines-vehicle-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호주 [[국회의원]]\n차량 공격받아 중태",
+      "sub": "지역구 사무실 근처서 차에 치여",
+      "chips": [
+        {
+          "k": "상태",
+          "v": "중태"
+        }
+      ],
+      "alt": "호주 국회의원 차량 공격받아 중태",
+      "map": {
+        "lat": -24.7761086,
+        "lon": 134.755,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "호주"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "호주",
+      "video_only": true,
+      "map": {
+        "lat": -24.7761086,
+        "lon": 134.755,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "의원실 근처서 사고",
+          "d": "헬렌 헤인즈 무소속 의원이 지역구 사무실 근처에서 차에 치여 중태입니다 (Politico·로이터)."
+        },
+        {
+          "t": "운전자 체포",
+          "d": "경찰은 차량을 운전한 남성을 체포했습니다 (BBC·WBAL-TV)."
+        },
+        {
+          "t": "총리 고의 공격 규정",
+          "d": "호주 총리는 이번 사건을 고의적인 범행이라 밝혔습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "헬렌 헤인즈 의원 중상",
+        "운전자 체포",
+        "총리의 고의 공격 언급"
+      ],
+      "unconfirmed": [
+        "범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Politico",
+        "Reuters",
+        "The Guardian",
+        "WBAL-TV",
+        "2026.10.19 19:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호주 국회의원이 차량 공격을 받아 중상을 입었습니다.\n\n· 헬렌 헤인즈 무소속 의원이 지역구 사무실 근처에서 차에 치여 중태입니다 (Politico·로이터)\n· 경찰은 차량 운전자 남성을 체포했습니다 (BBC·WBAL-TV)\n· 호주 총리는 이번 사건을 고의적인 범행으로 밝혔습니다 (BBC)\n\n출처: BBC·로이터·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호주 무소속 헬렌 헤인즈 국회의원이 차량 공격을 받아 중상을 입었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신 등은 헤인즈 의원이 지역구 사무실 근처에서 차에 치여 중태라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "체포된 운전자에 대해 호주 총리는 고의적인 공격이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 범행 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[호주 의원]] 공격받아\n무슨 일이?",
+  "broll": [
+    "police car night",
+    "ambulance road"
+  ],
+  "place_en": "Australia"
+}
