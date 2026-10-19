@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-20-news-france-riots-paris-nice-curfews-2026",
+  "topic": "프랑스 전역 폭동에 파리·니스 야간 통금령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 06:11 KST",
+  "source": "BBC·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTFBpZklSWldWXzY3TzVZLUFfRUtuZkZoZEFNTWhFVTVKV2VvRDJrcVF1LU00Njk5TkdCSlI3NWc5Y3l4cF9PbndBcXJWTGpmYzBXSmF3NlVn",
+    "related": [
+      [
+        "Overnight curfews announced in parts of Paris and Nice after riots across France",
+        "BBC"
+      ],
+      [
+        "France Imposes Curfews in Parts of Paris and Other Cities After Nationwide Rioting",
+        "The New York Times"
+      ],
+      [
+        "The French youth revolt",
+        "Vox"
+      ],
+      [
+        "France in turmoil after riots and looting: What we know",
+        "Reuters"
+      ],
+      [
+        "Rioting in France: What’s Fueling the Violence and What Happens Next",
+        "WSJ"
+      ]
+    ],
+    "event_key": "france_riots_paris_nice_curfews_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "프랑스 전역 폭동에\n파리·니스 [[야간 통금령]]",
+      "sub": "연이은 소요와 약탈 사태로 파리 일부와 다른 도시들에 야간 통행금지 조치",
+      "chips": [
+        {
+          "k": "통금 지역",
+          "v": "파리 일부·니스"
+        }
+      ],
+      "alt": "프랑스 전역 폭동에 파리·니스 야간 통금령",
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "전국적 소요와 약탈",
+          "d": "프랑스 전역에서 폭동이 잇따르자 야간 통행금지령이 선포됐다고 BBC와 뉴욕타임스가 보도했습니다."
+        },
+        {
+          "t": "파리와 니스 포함",
+          "d": "야간 통행금지 조치는 파리 일부 지역과 니스 등에 발표됐다고 BBC가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "파리 일부 및 니스 야간 통행금지령 발표",
+        "프랑스 전국 단위 폭동 및 약탈 발생"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "통행금지령 유지 기간"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "The New York Times",
+        "Vox",
+        "WSJ",
+        "2026.10.20 07:27 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 프랑스 파리 일부와 니스 등에 야간 통행금지령이 내려졌습니다.\n\n· 전국적인 폭동 사태가 이어지자 주요 도시에 야간 외출 제한 조치가 발표됐습니다 (BBC·뉴욕타임스)\n· 파리 일부 구역과 니스 등이 통금 적용 대상에 포함됐습니다 (BBC)\n\n프랑스 전역으로 번진 치안 불안, 여러분은 어떻게 보십니까?\n출처: BBC·뉴욕타임스·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 파리 일부와 니스에 야간 통행금지령이 내려졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파리 일부 구역과 니스 등에 통행금지 조치가 적용됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "전국적인 폭동이 이어지자 당국이 통금령을 발표했다고 BBC가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 체류 한국인의 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "프랑스 전역으로 번진 소요 사태, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[파리와 니스]]에\n야간 통금령 선포",
+  "broll": [
+    "police car night",
+    "empty street night"
+  ],
+  "place_en": "Paris, France"
+}

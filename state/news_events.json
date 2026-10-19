@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-forces-withdraw-iraq-2026",
-    "topic": "미군, 이라크서 철수 23년 만에 군사 임무 종료",
-    "slug": "2026-09-30-news-us-forces-withdraw-iraq-2026",
-    "cluster": "CBMiowFBVV95cUxOemFDVTJ6blJhRFNIeVgzYzJoRzUtcG45RURTckFyYzJZb2RlX0g5TndKd1lqbmdSOG1HREZRTFZaM3dSTFZaQ3ZrQTg3a2xSZ2YyRldVT2JCMDZlVmVJOVFHTjI3TnExSktyZ25ZMjU5cXZrdDlITjVTOC11a2sxbmRjd2pvZC10UlRDQlRYclVTREt3S2c5TXRLc1NkdUxJcGFz",
-    "badge": "breaking",
-    "at": 1790764192.4402428,
-    "country": "이라크",
-    "category": "국제"
-  },
-  {
     "event_key": "thailand-bangkok-floods",
     "topic": "태국 홍수로 최소 23명 사망",
     "slug": "2026-09-30-news-thailand-bangkok-floods",
@@ -2998,5 +2988,15 @@
     "at": 1792444139.0018644,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "france_riots_paris_nice_curfews_2026",
+    "topic": "프랑스 전역 폭동에 파리·니스 야간 통금령",
+    "slug": "2026-10-20-news-france-riots-paris-nice-curfews-2026",
+    "cluster": "CBMiVkFVX3lxTFBpZklSWldWXzY3TzVZLUFfRUtuZkZoZEFNTWhFVTVKV2VvRDJrcVF1LU00Njk5TkdCSlI3NWc5Y3l4cF9PbndBcXJWTGpmYzBXSmF3NlVn",
+    "badge": "brief",
+    "at": 1792448886.9978547,
+    "country": "프랑스",
+    "category": "국제"
   }
 ]

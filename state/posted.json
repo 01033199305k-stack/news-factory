@@ -19295,5 +19295,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792444565
+  },
+  {
+    "slug": "2026-10-20-news-france-riots-paris-nice-curfews-2026",
+    "event_ms": 1792448886997,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 프랑스 파리 일부와 니스 등에 야간 통행금지령이 내려졌습니다.\n\n· 전국적인 폭동 사태가 이어지자 주요 도시에 야간 외출 제한 조치가 발표됐습니다 (BBC·뉴욕타임스)\n· 파리 일부 구역과 니스 등이 통금 적용 대상에 포함됐습니다 (BBC)\n\n프랑스 전역으로 번진 치안 불안, 여러분은 어떻게 보십니까?\n출처: BBC·뉴욕타임스·로이터 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "프랑스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18129042040837152",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DesVPjQGrpG",
+        "kind": "carousel",
+        "at": 1792448936
+      },
+      "instagram": {
+        "id": "18208504597375599",
+        "permalink": "https://www.instagram.com/reel/DesVlKwjL8Z/",
+        "kind": "reel",
+        "at": 1792449131
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792449141
+      },
+      "tiktok": {
+        "id": "7698510448995339572",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698510448995339572",
+        "kind": "video",
+        "at": 1792449262
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792449272
   }
 ]
