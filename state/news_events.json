@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-senate-blocks-israel-westbank-resolution",
-    "topic": "미 상원 이스라엘 인권 보고서안 부결",
-    "slug": "2026-09-30-news-us-senate-blocks-israel-westbank-resolution",
-    "cluster": "CBMi1AFBVV95cUxPMUIweEtER2hUdHZHd050bjhRdzlzN3JWb0pLaXdlQ1U5NmxEdjZNSDNVUUQybG5ZQko1bFUxYjFLQXg4RUxjcEVfSVpOckkxUFdnNVR1eXZVendxME01ZzhZMG1FTE10d1VVWUpvc2tBMDI4elFyUWtYdTlEUEFRRWhVWjRLaWRDRFZoMkhFME8yYUFmV3ZFQ0x1QjFkd3VlZk9jSTBjVWhnRkR3OWhlSzRrb2NqX3h3b2tfVE5tU3RLTUEzNWFCWmVNTDc0SWtFc3NyTw",
-    "badge": "breaking",
-    "at": 1790730607.838271,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "texas-ice-shooting-venezuelan",
     "topic": "텍사스서 ICE 요원이 쏜 총에 맞은 베네수엘라 남성, 기소",
     "slug": "2026-09-30-news-texas-ice-shooting-venezuelan",
@@ -2998,5 +2988,15 @@
     "at": 1792382907.968123,
     "country": "중국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "putin-proposes-trilateral-summit-trump-xi-ukraine-2026",
+    "topic": "푸틴, 트럼프·시진핑에 3자 정상회담 제안",
+    "slug": "2026-10-19-news-putin-proposes-trilateral-summit-trump-xi-ukraine-2026",
+    "cluster": "CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ",
+    "badge": "brief",
+    "at": 1792393657.2062347,
+    "country": "러시아",
+    "category": "국제"
   }
 ]
