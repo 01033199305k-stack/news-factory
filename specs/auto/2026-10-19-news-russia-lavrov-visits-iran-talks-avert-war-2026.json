@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-19-news-russia-lavrov-visits-iran-talks-avert-war-2026",
+  "topic": "러시아 외무장관 이란 방문",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.19 20:19 KST",
+  "source": "CBS News·AOL.com·Anadolu Ajansı 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijgFBVV95cUxNQXBXMWdNYVRIU0pDdjdkTnZLOEhXdnE0dW9UYkl6NjVpcDRlWEE0MHoxS2VObkNYSjJsbzJCMkVxNlZaTHplRmV3aEtrMFNueEtRT1RreXNtLVhvNWoxVExlalo5UW9zU0hrQVhOMzBRZjhQMjRFNWN4SVduaTJ5Yi1uNE1sbjlBLThsZnln",
+    "related": [
+      [
+        "Live Updates: Russian foreign minister says he's visiting Iran for talks to avert return to \"large-scale war\"",
+        "CBS News"
+      ],
+      [
+        "Russia’s Lavrov heads to Tehran as Gulf states press Moscow over Iran attacks",
+        "The National"
+      ],
+      [
+        "Russian foreign minister arrives in Iran for talks on bilateral ties, regional developments",
+        "Anadolu Ajansı"
+      ],
+      [
+        "FM Lavrov Heads to Tehran for Talks With Iranian Leadership",
+        "The Moscow Times"
+      ],
+      [
+        "Russian envoy says visit to Iran aimed at averting return to war",
+        "AOL.com"
+      ]
+    ],
+    "event_key": "russia-lavrov-visits-iran-talks-avert-war-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아 [[외무장관]]\n이란 방문",
+      "sub": "라브로프, 대규모 전쟁 방지 회담 위해 테헤란 도착",
+      "chips": [],
+      "alt": "러시아 외무장관 이란 방문",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대규모 전쟁 방지 목적",
+          "d": "라브로프 장관은 대규모 전쟁으로 돌아가는 것을 막기 위해 이란을 방문한다고 밝혔습니다 (CBS)."
+        },
+        {
+          "t": "양자 관계·지역 정세 논의",
+          "d": "라브로프 장관은 양자 관계 및 지역 정세에 대한 회담을 위해 이란에 도착했습니다 (아나돌루 통신)."
+        },
+        {
+          "t": "걸프국의 압박 속 방문",
+          "d": "이번 방문은 걸프 국가들이 이란의 공격과 관련해 러시아를 압박하는 가운데 이뤄졌습니다 (더 내셔널)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "라브로프 외무장관 테헤란 방문",
+        "대규모 전쟁 방지 명목 회담"
+      ],
+      "unconfirmed": [
+        "구체적인 중재안 및 합의 내용",
+        "이란 지도부의 공식 반응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.com",
+        "Anadolu Ajansı",
+        "CBS News",
+        "The Moscow Times",
+        "The National",
+        "2026.10.19 21:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아 라브로프 외무장관이 이란 테헤란을 방문했습니다.\n\n· 라브로프 장관은 대규모 전쟁으로 돌아가는 것을 막기 위한 회담 차원이라고 밝혔습니다 (CBS)\n· 양자 관계와 지역 정세를 논의하기 위해 이란에 도착했습니다 (아나돌루 통신)\n· 걸프 국가들이 이란의 공격과 관련해 러시아를 압박하는 가운데 이뤄졌습니다 (더 내셔널)\n\n러시아의 이번 이란 방문이 향후 정세에 어떤 영향을 줄 것으로 보십니까?\n출처: CBS·더 내셔널·아나돌루 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 라브로프 외무장관이 이란 테헤란에 도착했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS는 라브로프 장관이 대규모 전쟁으로 돌아가는 것을 막기 위해 이란을 찾았다고 밝혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "더 내셔널은 걸프 국가들이 이란의 공격에 대해 러시아를 압박하는 가운데 이뤄진 방문이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 중재 합의 도출 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "러시아의 이번 행보, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "러시아 장관이\n[[이란]] 향한 이유",
+  "broll": [
+    "airplane runway airport",
+    "government meeting room"
+  ],
+  "place_en": "Tehran, Iran"
+}

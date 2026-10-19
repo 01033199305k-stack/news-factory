@@ -18971,5 +18971,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792405238
+  },
+  {
+    "slug": "2026-10-19-news-russia-lavrov-visits-iran-talks-avert-war-2026",
+    "event_ms": 1792411657533,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 러시아 라브로프 외무장관이 이란 테헤란을 방문했습니다.\n\n· 라브로프 장관은 대규모 전쟁으로 돌아가는 것을 막기 위한 회담 차원이라고 밝혔습니다 (CBS)\n· 양자 관계와 지역 정세를 논의하기 위해 이란에 도착했습니다 (아나돌루 통신)\n· 걸프 국가들이 이란의 공격과 관련해 러시아를 압박하는 가운데 이뤄졌습니다 (더 내셔널)\n\n러시아의 이번 이란 방문이 향후 정세에 어떤 영향을 줄 것으로 보십니까?\n출처: CBS·더 내셔널·아나돌루 통신 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18123613348858583",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DerOOnRHKWT",
+        "kind": "carousel",
+        "at": 1792411704
+      },
+      "instagram": {
+        "id": "17925544032201624",
+        "permalink": "https://www.instagram.com/reel/DerOhpfgOG8/",
+        "kind": "reel",
+        "at": 1792411875
+      },
+      "youtube": {
+        "id": "E8nTMGQfTbc",
+        "permalink": "https://youtube.com/shorts/E8nTMGQfTbc",
+        "kind": "shorts",
+        "at": 1792411898
+      },
+      "tiktok": {
+        "id": "7698350365929999668",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698350365929999668",
+        "kind": "video",
+        "at": 1792412030
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792412040
   }
 ]
