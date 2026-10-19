@@ -18585,5 +18585,115 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792359599
+  },
+  {
+    "slug": "2026-10-19-news-russia-kyiv-ballistic-missile-drone-attack-2026",
+    "event_ms": 1792366760000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라이나 수도 키이우에 탄도미사일 공습이 가해졌습니다.\n\n· 공습경보와 함께 키이우, 루츠크, 리브네 등에서 폭발음이 들렸습니다 (브레이킹더뉴스)\n· 키이우와 주요 지역에 드론 공격 위협에 따른 경보가 내려졌습니다 (안티코르)\n\n출처: 키이우인디펜던트·브레이킹더뉴스·안티코르 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17975616345153396",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeqDEuLEdBh",
+        "kind": "carousel",
+        "at": 1792372312
+      },
+      "instagram": {
+        "id": "17924276433429634",
+        "permalink": "https://www.instagram.com/reel/DeqDqhclPEL/",
+        "kind": "reel",
+        "at": 1792372629
+      },
+      "youtube": {
+        "id": "P3WT4002xuE",
+        "permalink": "https://youtube.com/shorts/P3WT4002xuE",
+        "kind": "shorts",
+        "at": 1792372866
+      },
+      "tiktok": {
+        "id": "7698182786078838022",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698182786078838022",
+        "kind": "video",
+        "at": 1792373020
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792373030
+  },
+  {
+    "slug": "2026-10-19-news-saudi-riyadh-houthi-threats-skyscraper-evacuation-2026",
+    "event_ms": 1792364460000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 후티 반군의 위협으로 사우디 리야드 초고층 건물에 귀가 조치가 내려졌습니다.\n\n· 금융사들이 직원들에게 재택근무를 허용했습니다 (로이터)\n· 월가 지도자들은 사막의 다보스 포럼 참석 취소를 검토 중입니다 (월스트리트저널)\n\n여러분은 이번 중동 사태를 어떻게 보십니까?\n\n출처: 월스트리트저널·로이터·DW 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17939846382381575",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeqDKnZkRIo",
+        "kind": "carousel",
+        "at": 1792372348
+      },
+      "instagram": {
+        "id": "18112938050336769",
+        "permalink": "https://www.instagram.com/reel/DeqDv7UiWPt/",
+        "kind": "reel",
+        "at": 1792372677
+      },
+      "youtube": {
+        "id": "nngB8f0krHY",
+        "permalink": "https://youtube.com/shorts/nngB8f0krHY",
+        "kind": "shorts",
+        "at": 1792372889
+      },
+      "tiktok": {
+        "id": "7698183543964437767",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698183543964437767",
+        "kind": "video",
+        "at": 1792373152
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792373162
   }
 ]

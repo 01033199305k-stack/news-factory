@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "offaly-workplace-accident-2026",
-    "topic": "아일랜드 사업장서 사고 발생 아버지와 딸 사망",
-    "slug": "2026-09-30-news-offaly-workplace-accident-2026",
-    "cluster": "CBMiigFBVV95cUxQTFVxM1VXeVUtZEp5TkFtbWtlMWtmeXF2RkZSekV2NkRmZEhmSlptTFVzT09SYWN6c25FMUcweTE2VUV5QWxlWC0tazBsSDVDelEzSXJscTRYdFZtbXZzZzNnaGViNElVSV9Ock5BZkpzZi1qemh1SzE1VHVrV1R5ZkJWZFBGVEt1eGfSAY8BQVVfeXFMT3NnRjdWWVF6cnp3VU9GbG4wcWxWMWIyUjFQWEJwWkJhYnBnZzJzNkg1QmtQVGJQY3VCUDdZUVR5cGVabUNsVFlCc1RLeDl0aEl6ejNxNnRFeE82a1RZSVk4WktfU0M2dDNNYmdUMGlPbGlxWGNUNHkybl9QUHRCNm40TExzbXRsWkJRTEdlTU0",
-    "badge": "breaking",
-    "at": 1790716993.1961305,
-    "country": "아일랜드",
-    "category": "사고"
-  },
-  {
-    "event_key": "puerto-rico-boat-capsizes",
-    "topic": "푸에르토리코 인근서 보트 전복 사망 3명·실종자 수색",
-    "slug": "2026-09-30-news-puerto-rico-boat-capsizes",
-    "cluster": "CBMid0FVX3lxTE50cmx1XzJ6UzhhbE5WV3g1aG5CWWNKYzZfSUYxMkpHa21ySHlhb0xZeFFKcXhLcEt4Z3JFQmVlZTVwTUtEZ0lvalhxOXZITFppUnhyM3hIbzh6aXdEcGNOdGd2VWhhbDdXNjB3V0IxdXB1bGpUR0NN",
-    "badge": "brief",
-    "at": 1790723206.9866836,
-    "country": "푸에르토리코",
-    "category": "사고"
-  },
-  {
     "event_key": "six-flags-x2-rollercoaster-closure",
     "topic": "식스 플래그스 롤러코스터 영구 폐쇄 결정",
     "slug": "2026-09-30-news-six-flags-x2-rollercoaster-closure",
@@ -2998,5 +2978,25 @@
     "at": 1792359263.8708143,
     "country": "불가리아",
     "category": "사고"
+  },
+  {
+    "event_key": "russia-kyiv-ballistic-missile-drone-attack-2026",
+    "topic": "키이우에 탄도미사일 공습 공습경보 속 폭발음",
+    "slug": "2026-10-19-news-russia-kyiv-ballistic-missile-drone-attack-2026",
+    "cluster": "CBMinAFBVV95cUxNdU9qMDFZTTYyV190NzBWZ0J2NEtPRHNOTDJaLTZYWE1saFNWcW1PMWZPcGgyWXE3RGd3bWxYbzJIVVg5QXg5Z3VyYkJTd3dCM3RSY1o3U2pVRVlpLVZlYS1JZ2VqRnhzRThmb3dWTzdaV3VZd0I3dlc0WnMtUTJSbmE5ZUtqTTlUaFlSQWZTTzJJUjRVZ0c0UEptd2c",
+    "badge": "breaking",
+    "at": 1792372136.377756,
+    "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "saudi-riyadh-houthi-threats-skyscraper-evacuation-2026",
+    "topic": "후티 위협에 재택근무 전환 사우디 리야드 건물 폐쇄",
+    "slug": "2026-10-19-news-saudi-riyadh-houthi-threats-skyscraper-evacuation-2026",
+    "cluster": "CBMiyAFBVV95cUxOUmRvOVpCNUVyUnNIS1ZxazlkU2VLbm5jaEMzQThEV3FRR1pDX0I1QTlTajNKVGtZaEMyTnZoM1pUcmMwSmlUMEZIYVNQQ3RWMWVUSC1xbEQyb0VwMnUzaXlYUjNkeDVNZmRtendEdEVtVzMtM0Y5TW8tMV9YdkRQV3FtdDNKbzZYcHBlOE1WZE51UzZhWTVoVWsyUlpwSWxmUkI0SncyN2pTcTJWMGhJbW5MN0RBS1RCWHFaYjRoYmE5dUlSWGZOeQ",
+    "badge": "breaking",
+    "at": 1792372247.0056345,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]

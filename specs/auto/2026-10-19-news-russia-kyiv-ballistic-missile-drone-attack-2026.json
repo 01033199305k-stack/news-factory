@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-19-news-russia-kyiv-ballistic-missile-drone-attack-2026",
+  "topic": "키이우에 탄도미사일 공습 공습경보 속 폭발음",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.19 08:39 KST",
+  "source": "The New York Times·The Times·The Kyiv Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxNdU9qMDFZTTYyV190NzBWZ0J2NEtPRHNOTDJaLTZYWE1saFNWcW1PMWZPcGgyWXE3RGd3bWxYbzJIVVg5QXg5Z3VyYkJTd3dCM3RSY1o3U2pVRVlpLVZlYS1JZ2VqRnhzRThmb3dWTzdaV3VZd0I3dlc0WnMtUTJSbmE5ZUtqTTlUaFlSQWZTTzJJUjRVZ0c0UEptd2c",
+    "related": [
+      [
+        "Russian ballistic missiles slam Kyiv right as air raid alarms sound",
+        "The Kyiv Independent"
+      ],
+      [
+        "What Life Is Like in Kyiv as Russia Tries to Make It Unlivable",
+        "The New York Times"
+      ],
+      [
+        "A week with the Kyiv firefighters battling Russian drone strikes",
+        "The Times"
+      ],
+      [
+        "Blasts heard in Kyiv, Lutsk, Rivne",
+        "Breakingthenews.net"
+      ],
+      [
+        "In Kyiv and a number of regions, a threat of a drone attack has been announced • ANTIKOR portal",
+        "АНТИКОР"
+      ]
+    ],
+    "event_key": "russia-kyiv-ballistic-missile-drone-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "키이우에 [[탄도미사일]] 공습\n공습경보 속 폭발음",
+      "sub": "우크라이나 수도와 여러 지역에 드론과 미사일 공격이 이어졌습니다",
+      "chips": [],
+      "alt": "키이우에 탄도미사일 공습 공습경보 속 폭발음",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수도 및 각지 폭발음",
+          "d": "키이우와 루츠크, 리브네 등에서 폭발음이 들렸습니다 (브레이킹더뉴스)."
+        },
+        {
+          "t": "드론 공격 경보",
+          "d": "키이우와 여러 지역에 드론 공격 위협에 따른 경보가 발령됐습니다 (안티코르)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "키이우 탄도미사일 공습",
+        "공습경보 발령"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Breakingthenews.net",
+        "The Kyiv Independent",
+        "The New York Times",
+        "The Times",
+        "АНТИКОР",
+        "2026.10.19 10:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 수도 키이우에 탄도미사일 공습이 가해졌습니다.\n\n· 공습경보와 함께 키이우, 루츠크, 리브네 등에서 폭발음이 들렸습니다 (브레이킹더뉴스)\n· 키이우와 주요 지역에 드론 공격 위협에 따른 경보가 내려졌습니다 (안티코르)\n\n출처: 키이우인디펜던트·브레이킹더뉴스·안티코르 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 수도 키이우에 탄도미사일 공습이 가해졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공습경보가 울림과 동시에 키이우와 루츠크 등 여러 지역에서 폭발음이 들렸습니다.",
+      "card": "map"
+    },
+    {
+      "text": "키이우인디펜던트 등 외신은 미사일과 드론을 동반한 공격이 이어졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 인명 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[키이우]] 하늘에\n무슨 일이?",
+  "broll": [
+    "air defense missile night",
+    "city skyline night"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}

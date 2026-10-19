@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-19-news-saudi-riyadh-houthi-threats-skyscraper-evacuation-2026",
+  "topic": "후티 위협에 재택근무 전환 사우디 리야드 건물 폐쇄",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.19 08:01 KST",
+  "source": "Reuters·WSJ·Al-Monitor 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiyAFBVV95cUxOUmRvOVpCNUVyUnNIS1ZxazlkU2VLbm5jaEMzQThEV3FRR1pDX0I1QTlTajNKVGtZaEMyTnZoM1pUcmMwSmlUMEZIYVNQQ3RWMWVUSC1xbEQyb0VwMnUzaXlYUjNkeDVNZmRtendEdEVtVzMtM0Y5TW8tMV9YdkRQV3FtdDNKbzZYcHBlOE1WZE51UzZhWTVoVWsyUlpwSWxmUkI0SncyN2pTcTJWMGhJbW5MN0RBS1RCWHFaYjRoYmE5dUlSWGZOeQ",
+    "related": [
+      [
+        "Exclusive | Some Wall Street Leaders Are Weighing Bailing on ‘Davos in the Desert’ After Attacks on Riyadh",
+        "WSJ"
+      ],
+      [
+        "Saudi Arabia sends skyscraper employees home amid Houthi threats",
+        "DW.com"
+      ],
+      [
+        "Attacks in Saudi Arabia prompt finance firms to let staff work from home, sources say",
+        "Reuters"
+      ],
+      [
+        "Saudi closes Riyadh skyscraper as chopper pilots killed near Yemen",
+        "South China Morning Post"
+      ],
+      [
+        "Saudi coalition, Houthis trade strikes as disruption spreads",
+        "Al-Monitor"
+      ]
+    ],
+    "event_key": "saudi-riyadh-houthi-threats-skyscraper-evacuation-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "후티 위협에 [[재택근무]] 전환\n사우디 리야드 건물 폐쇄",
+      "sub": "후티 반군의 위협으로 금융사들이 재택근무를 실시했습니다",
+      "chips": [],
+      "alt": "후티 위협에 재택근무 전환 사우디 리야드 건물 폐쇄",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "마천루 귀가 조치",
+          "d": "사우디는 후티 반군의 위협으로 초고층 건물 근무자들을 귀가시켰습니다 (DW)."
+        },
+        {
+          "t": "행사 불참 검토",
+          "d": "월가 주요 인사들은 리야드 공격 이후 사막의 다보스 포럼 불참을 검토하고 있습니다 (월스트리트저널)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "리야드 건물 근무자 귀가 조치",
+        "금융사 재택근무 전환"
+      ],
+      "unconfirmed": [
+        "후티 반군의 추가 공격 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al-Monitor",
+        "DW.com",
+        "Reuters",
+        "South China Morning Post",
+        "WSJ",
+        "2026.10.19 10:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 후티 반군의 위협으로 사우디 리야드 초고층 건물에 귀가 조치가 내려졌습니다.\n\n· 금융사들이 직원들에게 재택근무를 허용했습니다 (로이터)\n· 월가 지도자들은 사막의 다보스 포럼 참석 취소를 검토 중입니다 (월스트리트저널)\n\n여러분은 이번 중동 사태를 어떻게 보십니까?\n\n출처: 월스트리트저널·로이터·DW 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아 리야드의 초고층 빌딩 근무자들에게 귀가 조치가 내려졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "후티 반군의 위협에 금융사들이 직원들의 재택근무를 허용했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "월스트리트저널은 월가 지도자들이 사막의 다보스 포럼 불참을 검토 중이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 중동 정세의 변화를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[사우디]] 빌딩들이\n문 잠근 이유",
+  "broll": [
+    "skyscraper office building",
+    "financial district desert"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}
