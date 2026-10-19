@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "somali-pirates-tanker-crew-killed",
-    "topic": "소말리아 해적 피랍 유조선서 선원 사망 5명 발생",
-    "slug": "2026-09-30-news-somali-pirates-tanker-crew-killed",
-    "cluster": "CBMiXkFVX3lxTE53X1dIb3lORk5GQ1VFZ2NlVC1YWG8xd1ZVd3hDZDMyQjhDSUZoczJSWV9zZHVCeGdSN3pseWp5RzhxRXNQdFVlX09vdkVrdFlHalh1eUFJc3J0OEx5ZkE",
-    "badge": "breaking",
-    "at": 1790756327.4782536,
-    "country": "소말리아",
-    "category": "사고"
-  },
-  {
     "event_key": "us-forces-withdraw-iraq-2026",
     "topic": "미군, 이라크서 철수 23년 만에 군사 임무 종료",
     "slug": "2026-09-30-news-us-forces-withdraw-iraq-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792436962.051261,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "us_waives_russia_sanctions_oil_2026",
+    "topic": "미국 정부, 일부 러시아 제재 면제 유가 선물 하락세 기록",
+    "slug": "2026-10-20-news-us-waives-russia-sanctions-oil-2026",
+    "cluster": "CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc",
+    "badge": "brief",
+    "at": 1792444139.0018644,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-20-news-us-waives-russia-sanctions-oil-2026",
+  "topic": "미국 정부, 일부 러시아 제재 면제 유가 선물 하락세 기록",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 04:44 KST",
+  "source": "Reuters·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc",
+    "related": [
+      [
+        "Oil Futures Settle Lower As U.S. Waives Some Russia Sanctions",
+        "WSJ"
+      ],
+      [
+        "Trump's Russia sanctions waiver eases India's energy woes, lifts trade deal chances",
+        "Reuters"
+      ],
+      [
+        "Will Washington Use Russian Oil Tariffs to Extract an Unequal Deal From India?",
+        "TheWire.in"
+      ],
+      [
+        "Many don’t know what my decision is: Donald Trump on sanctions waiver to Russia",
+        "The Hindu"
+      ],
+      [
+        "Russia Ukraine War: US says Europe refused to join push for tariffs on India, China over Russian oil",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "us_waives_russia_sanctions_oil_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 정부, 일부 러시아 [[제재]] 면제\n유가 선물 하락세 기록",
+      "sub": "인도의 에너지난 완화와 무역 협상 가능성이 거론됩니다",
+      "chips": [
+        {
+          "k": "유가",
+          "v": "하락 마감"
+        }
+      ],
+      "alt": "미국 정부, 일부 러시아 제재 면제 유가 선물 하락세 기록",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "제재 면제",
+          "d": "미국이 일부 러시아 제재를 면제했습니다 (WSJ)."
+        },
+        {
+          "t": "인도 영향",
+          "d": "이번 조치로 인도의 에너지난이 완화되고 무역 협상 가능성이 커졌습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 제재 일부 면제",
+        "유가 선물 하락"
+      ],
+      "unconfirmed": [
+        "정확한 면제 대상 및 조건",
+        "향후 무역 협상 타결 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Reuters",
+        "The Hindu",
+        "The Times of India",
+        "TheWire.in",
+        "WSJ",
+        "2026.10.20 06:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 정부가 일부 러시아 제재를 면제하면서 유가 선물이 하락했습니다\n\n· 미국은 일부 러시아 제재를 면제했습니다 (WSJ)\n· 이번 조치로 인도의 에너지난이 완화되고 무역 협상 가능성이 커졌습니다 (로이터)\n\n여러분은 미국의 이번 대러 제재 완화 조치, 어떻게 보십니까?\n\n출처: 월스트리트저널·로이터·더타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 일부 러시아 제재를 면제했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "월스트리트저널은 이로 인해 유가 선물이 하락했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터 통신은 이번 조치로 인도의 에너지난이 완화되고 무역 협상 가능성이 커졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 면제 조건과 향후 영향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 이번 제재 완화 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "제재 완화 영향은?"
+    }
+  ],
+  "hook": "미국이 러시아 [[제재]]를\n면제했습니다",
+  "broll": [
+    "oil tanker sea",
+    "stock exchange screen"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
