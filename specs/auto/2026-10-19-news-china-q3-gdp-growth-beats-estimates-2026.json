@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-19-news-china-q3-gdp-growth-beats-estimates-2026",
+  "topic": "중국 3분기 성장률 4.5%로 반등",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.19 11:16 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMidEFVX3lxTE40cnBMZmk3ZzA2bFpuN0hiUnhOZFU3ODMtbGs1NGVTbDRuanNpSWJ5eXpMR3ZTNGU4S0tVc2VYUGlkVW5BdUJCVzdjSFJfeFhpc296NjM1SVNBZmVWNGtmZlhXRHRwaGRYbmhuaVNaV25IYzJU",
+    "related": [
+      [
+        "China’s Export Boom Fuels Growth Despite Slump at Home",
+        "The New York Times"
+      ],
+      [
+        "China GDP growth picks up thanks to export boom",
+        "CNN"
+      ],
+      [
+        "China's economic growth picks up in third quarter, beating expectations",
+        "Reuters"
+      ],
+      [
+        "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
+        "CNBC"
+      ],
+      [
+        "China's economic growth picks up as AI boom boosts exports",
+        "BBC"
+      ]
+    ],
+    "event_key": "china-q3-gdp-growth-beats-estimates-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "중국 3분기 성장률\n[[4.5%]]로 반등",
+      "sub": "수출 호조에 힘입어 시장 전망치 넘어서",
+      "chips": [
+        {
+          "k": "3분기 성장률",
+          "v": "4.5%"
+        }
+      ],
+      "alt": "중국 3분기 성장률 4.5%로 반등",
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n베이징",
+      "video_only": true,
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베이징"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수출 호조가 견인",
+          "d": "수출 급증과 인공지능 붐이 성장을 이끌었다고 BBC와 CNBC 등은 보도했습니다."
+        },
+        {
+          "t": "국내 침체에도 성장",
+          "d": "국내 경기 침체에도 불구하고 수출 호조로 성장을 견인했다고 뉴욕타임스는 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "중국 3분기 GDP 성장률 4.5% 기록",
+        "시장 예상치 상회"
+      ],
+      "unconfirmed": [
+        "4분기 성장세 지속 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNBC",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "2026.10.19 13:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 중국의 3분기 경제성장률이 4.5%를 기록하며 시장 전망치를 웃돌았습니다.\n\n· 수출 급증과 인공지능 붐이 성장을 이끌었습니다 (BBC·CNBC)\n· 국내 경기 침체 속에서도 수출 호조가 성장을 견인했습니다 (뉴욕타임스)\n\n중국 경제의 이번 반등세, 계속 이어질 수 있을까요?\n출처: 뉴욕타임스·CNN·로이터·CNBC·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국의 3분기 경제성장률이 4.5%를 기록했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 시장 전망치를 웃도는 성장세라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "수출 급증과 인공지능 수요가 이번 성장을 이끌었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "다만 국내 경기 침체가 이어져 향후 지속 여부는 지켜봐야 합니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 중국 경제의 이번 반등 흐름, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "중국 [[성장률]]\n반등의 배경은?",
+  "broll": [
+    "container ship port",
+    "stock exchange screen"
+  ],
+  "place_en": "Beijing, China"
+}

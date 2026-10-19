@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "six-flags-x2-rollercoaster-closure",
-    "topic": "식스 플래그스 롤러코스터 영구 폐쇄 결정",
-    "slug": "2026-09-30-news-six-flags-x2-rollercoaster-closure",
-    "cluster": "CBMiXkFVX3lxTFBrS3VLYTU1UjNvT1ZTeHJxWjNQdjI3YVE4QVktakxiTjNoNlpjeEZEVGtpOXpycFZ1azZRYWVIY2VaTDE1VVZjS3JDNHRNME81cnFTNEpwaTA4MHc1MEE",
-    "badge": "breaking",
-    "at": 1790725716.2288072,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "us-senate-blocks-israel-westbank-resolution",
     "topic": "미 상원 이스라엘 인권 보고서안 부결",
     "slug": "2026-09-30-news-us-senate-blocks-israel-westbank-resolution",
@@ -2998,5 +2988,15 @@
     "at": 1792372247.0056345,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "china-q3-gdp-growth-beats-estimates-2026",
+    "topic": "중국 3분기 성장률 4.5%로 반등",
+    "slug": "2026-10-19-news-china-q3-gdp-growth-beats-estimates-2026",
+    "cluster": "CBMidEFVX3lxTE40cnBMZmk3ZzA2bFpuN0hiUnhOZFU3ODMtbGs1NGVTbDRuanNpSWJ5eXpMR3ZTNGU4S0tVc2VYUGlkVW5BdUJCVzdjSFJfeFhpc296NjM1SVNBZmVWNGtmZlhXRHRwaGRYbmhuaVNaV25IYzJU",
+    "badge": "brief",
+    "at": 1792382907.968123,
+    "country": "중국",
+    "category": "경제·과학"
   }
 ]

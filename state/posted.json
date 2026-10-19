@@ -18695,5 +18695,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792373162
+  },
+  {
+    "slug": "2026-10-19-news-china-q3-gdp-growth-beats-estimates-2026",
+    "event_ms": 1792382907968,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 중국의 3분기 경제성장률이 4.5%를 기록하며 시장 전망치를 웃돌았습니다.\n\n· 수출 급증과 인공지능 붐이 성장을 이끌었습니다 (BBC·CNBC)\n· 국내 경기 침체 속에서도 수출 호조가 성장을 견인했습니다 (뉴욕타임스)\n\n중국 경제의 이번 반등세, 계속 이어질 수 있을까요?\n출처: 뉴욕타임스·CNN·로이터·CNBC·BBC 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18189571678363145",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeqXZeyGzkq",
+        "kind": "carousel",
+        "at": 1792382956
+      },
+      "instagram": {
+        "id": "18633027376024924",
+        "permalink": "https://www.instagram.com/reel/DeqXsaaDTJ-/",
+        "kind": "reel",
+        "at": 1792383128
+      },
+      "youtube": {
+        "id": "JY68kZfQYso",
+        "permalink": "https://youtube.com/shorts/JY68kZfQYso",
+        "kind": "shorts",
+        "at": 1792383170
+      },
+      "tiktok": {
+        "id": "7698227155125161268",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698227155125161268",
+        "kind": "video",
+        "at": 1792383302
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792383312
   }
 ]
