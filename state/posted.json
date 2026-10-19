@@ -19132,5 +19132,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792426460
+  },
+  {
+    "slug": "2026-10-20-news-kenya-cult-leader-guilty-2026",
+    "event_ms": 1792426620000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 케냐 사이비 종교 지도자가 어린이 등 살인 혐의로 유죄 선고를 받았습니다\n\n· 예수와 만나게 해주겠다며 신도들을 굶겨 죽인 혐의를 받습니다 (CNN·가디언)\n· 어린이 190명을 포함해 사망자가 다수 발생했습니다 (로이터·BBC)\n\n출처: 로이터·BBC·CNN·가디언 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "케냐"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18118103159005516",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DerzpoYmKMJ",
+        "kind": "carousel",
+        "at": 1792431320
+      },
+      "instagram": {
+        "id": "17906738064598109",
+        "permalink": "https://www.instagram.com/reel/Derz3H-Ea3p/",
+        "kind": "reel",
+        "at": 1792431452
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792431462
+      },
+      "tiktok": {
+        "id": "6ad6556800e70b77e05c961e",
+        "permalink": "",
+        "kind": "video",
+        "at": 1792431664
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792431674
   }
 ]

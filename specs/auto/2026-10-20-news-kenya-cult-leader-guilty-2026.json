@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-20-news-kenya-cult-leader-guilty-2026",
+  "topic": "케냐 사이비 종교 지도자 폴 마켄지 어린이 등 살인 혐의 유죄 선고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 01:17 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxPbG5tMW00YVFnLTJEZEJ6UFhsMUdxbUpGdS1tN2RkbTNiaDNTSExQMWlCeFVHV0dWSzhRMlpIWnFDbFhoR2V1SXhIZlltQ181ZEpzY0NDRFFHSGVOQUxDUmJtb2JtQUl3c2lyRHlOZFVBWjc3R2dXeFVVRGp4emFPcW5ZSzBxVzZCcjUzWnNUaFdIZDBSXzNSck5UTkZGVjhoTVFj",
+    "related": [
+      [
+        "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+        "The Guardian"
+      ],
+      [
+        "Kenyan cult leader found guilty over 190 children starved to death in the hope of ‘meeting Jesus’",
+        "CNN"
+      ],
+      [
+        "Cult Leader Convicted of Mass Murder by Court in Kenya",
+        "The New York Times"
+      ],
+      [
+        "Shakahola cult leader Paul Mackenzie guilty of 191 murder charges in Kenya",
+        "BBC"
+      ],
+      [
+        "Paul Mackenzie, the Kenyan preacher who led hundreds to starve to death",
+        "Reuters"
+      ]
+    ],
+    "event_key": "kenya_cult_leader_guilty_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "케냐 사이비 종교 지도자 [[폴 마켄지]]\n어린이 등 살인 혐의 유죄 선고",
+      "sub": "예수 만난다며 신도 수백 명을 아사로 내몬 혐의입니다.",
+      "chips": [
+        {
+          "k": "어린이 사망",
+          "v": "190명"
+        },
+        {
+          "k": "살인 혐의",
+          "v": "191건"
+        }
+      ],
+      "alt": "케냐 사이비 종교 지도자 폴 마켄지 어린이 등 살인 혐의 유죄 선고",
+      "map": {
+        "lat": -3.2295935,
+        "lon": 39.9750882,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "케냐"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "케냐\n말린디",
+      "video_only": true,
+      "map": {
+        "lat": -3.2295935,
+        "lon": 39.9750882,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "말린디"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "법원 판결",
+          "d": "케냐 법원은 사이비 종교 지도자에게 살인 혐의 유죄를 선고했습니다 (로이터·BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "신도 아사 사망 190여 명",
+        "살인 혐의 유죄 선고"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "추가 피해자 규모 최종 집계"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.20 02:34 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 케냐 사이비 종교 지도자가 어린이 등 살인 혐의로 유죄 선고를 받았습니다\n\n· 예수와 만나게 해주겠다며 신도들을 굶겨 죽인 혐의를 받습니다 (CNN·가디언)\n· 어린이 190명을 포함해 사망자가 다수 발생했습니다 (로이터·BBC)\n\n출처: 로이터·BBC·CNN·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "케냐에서 신도들을 굶겨 죽인 사이비 종교 지도자가 유죄를 선고받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 어린이 190명을 포함해 살인 혐의가 인정됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "피해 규모는 추가 조사가 이어지고 있습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "케냐 [[사이비 종교]]\n지도자의 말로?",
+  "broll": [
+    "courtroom judge gavel",
+    "police officers crowd"
+  ],
+  "place_en": "Malindi, Kenya"
+}
