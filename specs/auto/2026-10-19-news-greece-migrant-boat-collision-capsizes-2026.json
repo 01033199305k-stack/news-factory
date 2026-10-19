@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-19-news-greece-migrant-boat-collision-capsizes-2026",
+  "topic": "그리스 해역서 이민선 충돌 최소 6명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.19 16:36 KST",
+  "source": "The Independent·Yahoo News·Euronews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxPODg0bW0xLXAxWWx2UTNUOFpXUTBMd2tpOFVRazZpUktIQU96b0lOd01DRzJtZ3BHMjlFN3lrcG9LVHpHdktobmpidVgxeG1jbDFRWUVQeTRFTXVsalFacjEzU3lOX1JoOUhtbm1PcFNqTkdQSV9IeVFSa25NcUY5VloybWE",
+    "related": [
+      [
+        "Baby among six dead after migrant boat crashes into coastguard off Greek island",
+        "The Sun"
+      ],
+      [
+        "Infant among six migrants dead after boat collision near Greece",
+        "The Independent"
+      ],
+      [
+        "Greek authorities say 12 migrants die in two incidents in Aegean Sea",
+        "Euronews.com"
+      ],
+      [
+        "Six Dead After Turkish Smuggling Vessel Capsizes Off Lesvos",
+        "Greek City Times"
+      ],
+      [
+        "At least 12 dead in two migrant boat accidents off Greece",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "greece-migrant-boat-collision-capsizes-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "그리스 해역서 [[이민선 충돌]]\n최소 6명 숨져",
+      "sub": "해경선 충돌 및 전복 사고로 영아 포함 사망자 발생",
+      "chips": [
+        {
+          "k": "사고 해역",
+          "v": "에게해"
+        }
+      ],
+      "alt": "그리스 해역서 이민선 충돌 최소 6명 숨져",
+      "map": {
+        "lat": 39.1758419,
+        "lon": 25.9989135,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "그리스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "그리스\n에게해",
+      "video_only": true,
+      "map": {
+        "lat": 39.1758419,
+        "lon": 25.9989135,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "에게해"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "영아 포함 사망자 발생",
+          "d": "에게해 해상에서 이민선이 충돌하거나 전복돼 영아를 포함한 사망자가 발생했습니다 (더선·인디펜던트)."
+        },
+        {
+          "t": "사망자 수 매체별 집계 차이 있음",
+          "d": "그리스 당국은 두 건의 사고로 12명이 숨졌다고 밝혔으며, 개별 사고별로 6명 사망이 보도되는 등 매체별 집계 차이가 있습니다 (유로뉴스·더선)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "그리스 에게해 해상서 이민선 사고 발생",
+        "영아 포함 사망자 발생"
+      ],
+      "unconfirmed": [
+        "사망자 수 매체별 집계 차이 있음 (두 건 사고 12명 / 단일 사고 6명)",
+        "정확한 탑승 인원 및 실종자 수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Euronews.com",
+        "Greek City Times",
+        "The Independent",
+        "The Sun",
+        "Yahoo",
+        "2026.10.19 17:57 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 그리스 인근 해역서 이민선 사고로 최소 6명 숨져\n\n· 그리스 에게해 해상에서 이민선 보트가 해경선과 충돌하거나 전복되는 사고가 났습니다 (더선·인디펜던트).\n· 영아를 포함해 최소 6명에서 두 건의 사고로 12명이 숨진 것으로 전해졌습니다 (더선·유로뉴스).\n· 정확한 전체 탑승자 수와 실종자 규모는 아직 확인되지 않았습니다.\n\n출처: 더선·인디펜던트·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "그리스 인근 해역에서 이민자 보트가 충돌해 최소 6명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 에게해 레스보스섬 인근 바다에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신들은 영아가 포함된 사망자가 나왔으며 당국은 12명이 숨졌다고 밝혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 탑승 인원은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[그리스]] 해역서\n무슨 일이?",
+  "broll": [
+    "coast guard boat",
+    "sea rescue boat"
+  ],
+  "place_en": "Lesbos, Greece"
+}

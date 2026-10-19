@@ -18807,5 +18807,116 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792397237
+  },
+  {
+    "slug": "2026-10-19-usgs-us6000u3bc",
+    "event_ms": 1792396144900,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_fact.png",
+      "04_check.png",
+      "05_outro.png"
+    ],
+    "text": "[속보] 바누아투 인근 규모 6.0 지진\n\n한국 시각 10월 19일 16시 49분, 바누아투 Port-Olry에서 북서쪽 186km. 깊이 10km.\n\n• USGS 피해 추정 등급 '초록' (인명·경제 피해 가능성 낮음)\n• 이후 규모 4 이상 여진 3회\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u3bc",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "바누아투",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_fact.jpg",
+      "04_check.jpg",
+      "05_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18090577988230107",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deq4ioDlWeB",
+        "kind": "carousel",
+        "at": 1792400332
+      },
+      "instagram": {
+        "id": "18162847846525006",
+        "permalink": "https://www.instagram.com/reel/Deq5AhCCVeB/",
+        "kind": "reel",
+        "at": 1792400593
+      },
+      "youtube": {
+        "id": "509tZj-1XEc",
+        "permalink": "https://youtube.com/shorts/509tZj-1XEc",
+        "kind": "shorts",
+        "at": 1792400693
+      },
+      "tiktok": {
+        "id": "7698302401459129618",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698302401459129618",
+        "kind": "video",
+        "at": 1792400825
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792400835
+  },
+  {
+    "slug": "2026-10-19-news-greece-migrant-boat-collision-capsizes-2026",
+    "event_ms": 1792395360000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 그리스 인근 해역서 이민선 사고로 최소 6명 숨져\n\n· 그리스 에게해 해상에서 이민선 보트가 해경선과 충돌하거나 전복되는 사고가 났습니다 (더선·인디펜던트).\n· 영아를 포함해 최소 6명에서 두 건의 사고로 12명이 숨진 것으로 전해졌습니다 (더선·유로뉴스).\n· 정확한 전체 탑승자 수와 실종자 규모는 아직 확인되지 않았습니다.\n\n출처: 더선·인디펜던트·유로뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "그리스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18130079552486510",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deq4mcWFXor",
+        "kind": "carousel",
+        "at": 1792400362
+      },
+      "instagram": {
+        "id": "18336016954278181",
+        "permalink": "https://www.instagram.com/reel/Deq5H9cipAq/",
+        "kind": "reel",
+        "at": 1792400658
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792400703
+      },
+      "tiktok": {
+        "id": "7698302984547060999",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698302984547060999",
+        "kind": "video",
+        "at": 1792400957
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792400967
   }
 ]

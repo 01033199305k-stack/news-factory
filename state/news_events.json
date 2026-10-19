@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "texas-ice-shooting-venezuelan",
-    "topic": "텍사스서 ICE 요원이 쏜 총에 맞은 베네수엘라 남성, 기소",
-    "slug": "2026-09-30-news-texas-ice-shooting-venezuelan",
-    "cluster": "CBMiugFBVV95cUxNRnJ0VUJ1cVNYTWh2bkdVWmJSSXFncUdKOGRwTkdBNC1SbElfLWM4SXNuSHNpVm1TMFdHN3Njb2pyUEw1cTFJY2xLa3dsVy1JRDB1dHRSR3BNLVA0UHQya1BOT2YxR3gzbHBaMW9aUExFdGRtckJmRnU2ZlR0UUg1d0hPbHJ6NzFpTm9TbEtHU1hWZTZQWTh5ak1PWUloMmR1VE1na0RsemxwZzJtSTVsTDBKWnhucmotX1E",
-    "badge": "breaking",
-    "at": 1790733970.3685486,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "china-eu-tariffs-warning",
     "topic": "중국, EU 규제 움직임에 보복 경고 공식화",
     "slug": "2026-09-30-news-china-eu-tariffs-warning",
@@ -2998,5 +2988,15 @@
     "at": 1792393657.2062347,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "greece-migrant-boat-collision-capsizes-2026",
+    "topic": "그리스 해역서 이민선 충돌 최소 6명 숨져",
+    "slug": "2026-10-19-news-greece-migrant-boat-collision-capsizes-2026",
+    "cluster": "CBMihAFBVV95cUxPODg0bW0xLXAxWWx2UTNUOFpXUTBMd2tpOFVRazZpUktIQU96b0lOd01DRzJtZ3BHMjlFN3lrcG9LVHpHdktobmpidVgxeG1jbDFRWUVQeTRFTXVsalFacjEzU3lOX1JoOUhtbm1PcFNqTkdQSV9IeVFSa25NcUY5VloybWE",
+    "badge": "breaking",
+    "at": 1792400284.1705136,
+    "country": "그리스",
+    "category": "사고"
   }
 ]
