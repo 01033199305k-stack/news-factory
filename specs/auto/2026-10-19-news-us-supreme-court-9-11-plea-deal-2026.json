@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-19-news-us-supreme-court-9-11-plea-deal-2026",
+  "topic": "미 연방대법원, 9/11 테러 기획자 플리바겐 부활 거부",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.19 22:33 KST",
+  "source": "CBS News·CNN·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxNTkszT0JFbGR1dDhmNmJ4Umt4VXVVTVc5ckdOelMyX1kydURwNURBYy13UE9PMTBMamNxMU5aREw2VVFSZkJicFZQWTVfT0RyQkxQSXJsSnB2T005cFEzS3JXLVFxT2dhRU4zTVhmVm1CTWE2MGNyZGtINnBLaE56dWIzUGM1Q2hXSTRJd08tOTVnSnN5WGZMYzlQZ3hkUzlNeHNuYVNQZnpfcE9RQkJaUmxBUHNWWTRCX0JibjBIdjYwZ1I2U0FN",
+    "related": [
+      [
+        "Supreme Court rejects alleged 9/11 mastermind’s attempt to revive plea deal",
+        "NBC News"
+      ],
+      [
+        "Supreme Court backs Pentagon decision to throw out plea deals for 9/11 alleged conspirators",
+        "CNN"
+      ],
+      [
+        "Supreme court rejects effort to revive plea deal for Khalid Sheikh Mohammed in 9/11 attacks",
+        "The Guardian"
+      ],
+      [
+        "Supreme Court turns away appeal from alleged 9/11 mastermind Khalid Sheikh Mohammed",
+        "CBS News"
+      ],
+      [
+        "US Supreme Court snubs bid to revive plea deal for accused 9/11 mastermind",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us_supreme_court_9_11_plea_deal_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 연방대법원, [[9/11 테러]] 기획자\n플리바겐 부활 거부",
+      "sub": "펜타곤의 플리바겐 무효화 결정 지지",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "칼리드 셰이크 모하메드"
+        }
+      ],
+      "alt": "미 연방대법원, 9/11 테러 기획자 플리바겐 부활 거부",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대법원 결정",
+          "d": "미 연방대법원이 9/11 테러 기획 용의자의 유죄 협상안 부활 시도를 기각했습니다 (NBC·로이터)."
+        },
+        {
+          "t": "펜타곤 입장",
+          "d": "대법원은 플리바겐을 폐기하기로 한 펜타곤의 결정을 지지했습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플리바겐 부활 시도 기각",
+        "미 연방대법원 결정"
+      ],
+      "unconfirmed": [
+        "향후 재판 일정",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "CNN",
+        "NBC News",
+        "Reuters",
+        "The Guardian",
+        "2026.10.20 01:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 연방대법원, 9/11 테러 기획자 플리바겐 부활 거부\n\n· 미 연방대법원이 9/11 테러 기획 용의자의 유죄 협상안 부활 시도를 기각했습니다 (NBC·로이터)\n· 대법원은 플리바겐을 폐기하기로 한 펜타곤의 결정을 지지했습니다 (CNN)\n\n출처: NBC·CNN·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 연방대법원이 9/11 테러 기획 용의자의 유죄 협상안 부활 시도를 기각했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 대법원이 플리바겐을 폐기하기로 한 펜타곤의 결정을 지지했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 재판 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 대법원의 사법 판단, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미 연방대법원이\n[[9/11 테러]] 기획자에 내린 결정은?",
+  "broll": [
+    "supreme court building",
+    "washington d.c. street"
+  ],
+  "place_en": "Washington, D.C., USA"
+}

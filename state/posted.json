@@ -19079,5 +19079,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792419563
+  },
+  {
+    "slug": "2026-10-19-news-us-supreme-court-9-11-plea-deal-2026",
+    "event_ms": 1792416811000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 연방대법원, 9/11 테러 기획자 플리바겐 부활 거부\n\n· 미 연방대법원이 9/11 테러 기획 용의자의 유죄 협상안 부활 시도를 기각했습니다 (NBC·로이터)\n· 대법원은 플리바겐을 폐기하기로 한 펜타곤의 결정을 지지했습니다 (CNN)\n\n출처: NBC·CNN·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18016505522950200",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Derpyx5EaEd",
+        "kind": "carousel",
+        "at": 1792426158
+      },
+      "instagram": {
+        "id": "17978213649134266",
+        "permalink": "https://www.instagram.com/reel/DerqEIYkbLE/",
+        "kind": "reel",
+        "at": 1792426317
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792426327
+      },
+      "tiktok": {
+        "id": "7698412488483704084",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698412488483704084",
+        "kind": "video",
+        "at": 1792426450
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792426460
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "south-korea-ukraine-pow-dispute",
-    "topic": "한국 정부, 북한군 포로 이송 비밀 유지 위반 우크라이나에 사과 요구",
-    "slug": "2026-09-30-news-south-korea-ukraine-pow-dispute",
-    "cluster": "CBMiqgFBVV95cUxQS3hEMTkwX1B4dDU3R0VObHJnSTlOcTRITVM3MmVUZHdSYVppTk1vUWhIaHZ3Wnd2S3N1U19ha3JXdHZISHUwLXVhLXZSUEdGN2tNeEhIX2xwNS1jalNlLThVODlUWm9Ba1hHdVpvZ3VsWXFFeHV0b0lBTHB5TWNyM3NCWTZhcXlVbWNselZlaUN2eVpQRlpWZXBPQ3RHV19ueVNBSHhYa1YwQQ",
-    "badge": "breaking",
-    "at": 1790752148.0391815,
-    "country": "대한민국",
-    "category": "국제"
-  },
-  {
     "event_key": "dubai-tel-aviv-flight-hijack-scare",
     "topic": "두바이발 텔아비브행 여객기 납치 우려 비상 신호 발령 후 회항",
     "slug": "2026-09-30-news-dubai-tel-aviv-flight-hijack-scare",
@@ -2998,5 +2988,15 @@
     "at": 1792419087.7113717,
     "country": "예멘",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "us_supreme_court_9_11_plea_deal_2026",
+    "topic": "미 연방대법원, 9/11 테러 기획자 플리바겐 부활 거부",
+    "slug": "2026-10-19-news-us-supreme-court-9-11-plea-deal-2026",
+    "cluster": "CBMixwFBVV95cUxNTkszT0JFbGR1dDhmNmJ4Umt4VXVVTVc5ckdOelMyX1kydURwNURBYy13UE9PMTBMamNxMU5aREw2VVFSZkJicFZQWTVfT0RyQkxQSXJsSnB2T005cFEzS3JXLVFxT2dhRU4zTVhmVm1CTWE2MGNyZGtINnBLaE56dWIzUGM1Q2hXSTRJd08tOTVnSnN5WGZMYzlQZ3hkUzlNeHNuYVNQZnpfcE9RQkJaUmxBUHNWWTRCX0JibjBIdjYwZ1I2U0FN",
+    "badge": "breaking",
+    "at": 1792426102.9615545,
+    "country": "미국",
+    "category": "국제"
   }
 ]
