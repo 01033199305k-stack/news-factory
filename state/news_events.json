@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "pakistan-airstrikes-afghanistan-october-2026",
-    "topic": "파키스탄, 아프간 공습 인명 피해 발생",
-    "slug": "2026-10-01-news-pakistan-airstrikes-afghanistan-october-2026",
-    "cluster": "CBMirgFBVV95cUxPbmRRVHF2dW9BcElUaFo3SEZlX0hvSHlUaHpWNTIzdzd5LXhTems2V1VnWjk5SFdIZV8xajNKZnBDbmhDYm84RVlkbUF1cEhmenZvMmtsZEFlUDl5Rmw2TTF3SWI1NWxUeEs2clh1VVJ2Y25FT1Vqb0x3emZGVGd2SDFuQ0c5aS0tYUo1bXBTdk1pWThWVXFvN1RteEptZ3NSQ3RocDhkMGVWMXc0enfSAbMBQVVfeXFMTmFOeW1ZYjR2RkJPSUJUdFdESjZqdVR1VlRCVjVTMFdYNjhLRUY5SjFhZFNldGx5YTlXcGJlMEdVY0RCWXl6RDg0Sks0aHo3Ukt6dU9xWHNMTl9yNl9yZmNPWE4zUm1nenAtWHEyUm1zbVJTbUg5YmpKRFlSYXV3aURPZU9MdUE2ZmozeElaMzJRcGxjd0lTeHdkakRFcVpKMVVZay1xTWVPSm1XRjNaX014VU0",
-    "badge": "breaking",
-    "at": 1790834661.8471448,
-    "country": "아프가니스탄",
-    "category": "국제"
-  },
-  {
-    "event_key": "us-tennessee-failed-execution-christa-pike",
-    "topic": "미국서 200년 만의 여성 사형 집행 실패",
-    "slug": "2026-10-01-news-us-tennessee-failed-execution-christa-pike",
-    "cluster": "CBMiuwFBVV95cUxPVEdLc21RWFJZQmFxT3EyZTN5eHZad0dVN1N6ZXBScjN0cVZ6X2tqSWFZT2QzUHBKNlY5QTFGcURqVDZXM0xlSElJOVluYnRlMkNlSzNnamVfS0hNcHFsN3JPbjFKWFVGRUV6Q3J2el9tM29heTBJOE5KLXFYaHNjeS1VT2J6aXVMOEhvUkxFQzB2enRrOG1CbURrd3FmVjlObEQtNG1SUlp4RnVZWHJqc0ZZdTB5dmx3c1ZB0gHCAUFVX3lxTE1DVTZhWkh0dXRXeHpBZDA4blRkRDFhLTBmeU1zRDJhTnNTemM3SXZTZXZ0eEprMVVkUFpVY0tjVjBfcUxPMER6S1JEQmVBTUVWN295X3JXRnQ2QlFKY2laX1lNSmRlNlpvUENja3EzVmY3a3h0WUZVdXMwc3lzRDBTSkI3d25ubDQyY25HYjJnWnlQTlNJSDNlZy00UjFUSXR0LVlPZ2RETzlzc2hUUXNtZWo0UC1KcVlwbmZQWGxDNzZn",
-    "badge": "breaking",
-    "at": 1790838484.1147106,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "zimbabwe-helicopter-crash-2026",
     "topic": "짐바브웨서 헬기 추락 탑승자 전원 사망",
     "slug": "2026-10-01-news-zimbabwe-helicopter-crash-2026",
@@ -2998,5 +2978,25 @@
     "at": 1792516279.5122066,
     "country": "이스라엘",
     "category": "국제"
+  },
+  {
+    "event_key": "south-africa-shark-attack-2026",
+    "topic": "남아공 해수욕장서 상어 습격 1명 사망",
+    "slug": "2026-10-21-news-south-africa-shark-attack-2026",
+    "cluster": "CBMiW0FVX3lxTE1xdk1uWU5ZVnNkMGplbURlRGVaX1hIMTZyNGRPOGxQb3FIaG5tTVlMQlZvVENZZnl1bDRSUGJUbnljYmJBQ1Z5elEyRDA5ZWhQVVY0TUZTNXEwTUk",
+    "badge": "breaking",
+    "at": 1792520040.4215586,
+    "country": "남아프리카공화국",
+    "category": "기타 사건"
+  },
+  {
+    "event_key": "romania-coast-tanker-attack-2026",
+    "topic": "루마니아 앞바다서 유조선 드론 공격",
+    "slug": "2026-10-21-news-romania-coast-tanker-attack-2026",
+    "cluster": "CBMiswFBVV95cUxQZmh6VjVpWUpzSUtOQ3gtc29zZUwyWEphdG52WGYwemtaOWx3Q2pmX010QzM4a2Y4U2swX25Eckd3RWkyc1dvakJJLTdpcU1ETEhRZFBVSjJlMTAzQWh6d1NTUUI0bnNiOEV1X0hyTmhWSFI3cHVpWGlmVjdJMDVOY2pXakNOZGZDVFZyVWRsVmdMUzdoS0Y3VHNMNHc3OXlzOVlGZkk4NHRVODZZV2lSVHc2UQ",
+    "badge": "breaking",
+    "at": 1792520057.413329,
+    "country": "루마니아",
+    "category": "사고"
   }
 ]

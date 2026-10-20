@@ -1,0 +1,132 @@
+{
+  "slug": "2026-10-21-news-south-africa-shark-attack-2026",
+  "topic": "남아공 해수욕장서 상어 습격 1명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 00:58 KST",
+  "source": "ABC News·BBC·Bloomberg.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1xdk1uWU5ZVnNkMGplbURlRGVaX1hIMTZyNGRPOGxQb3FIaG5tTVlMQlZvVENZZnl1bDRSUGJUbnljYmJBQ1Z5elEyRDA5ZWhQVVY0TUZTNXEwTUk",
+    "related": [
+      [
+        "Orient beach attack: South African swimmer killed by shark",
+        "BBC"
+      ],
+      [
+        "Shark kills woman swimming off South Africa's Eastern Cape, beaches closed",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Shark kills woman swimming off popular beach in South Africa",
+        "CBS News"
+      ],
+      [
+        "Fatal Shark Attack Closes Beaches in South Africa’s KuGompo City",
+        "Bloomberg.com"
+      ],
+      [
+        "Shark kills woman swimming off South Africa's Eastern Cape",
+        "Reuters"
+      ]
+    ],
+    "event_key": "south-africa-shark-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "남아공 해수욕장서\n[[상어]] 습격 1명 사망",
+      "sub": "이스트케이프 해안서 수영하던 여성 목숨 잃어",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "남아공 해수욕장서 상어 습격 1명 사망",
+      "map": {
+        "lat": -32.2171831,
+        "lon": 26.6386401,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "남아프리카공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "남아프리카공화국\n이스트케이프",
+      "video_only": true,
+      "map": {
+        "lat": -32.2171831,
+        "lon": 26.6386401,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "이스트케이프"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해변 폐쇄",
+          "d": "사건 이후 인근 해변이 폐쇄됐습니다 (블룸버그·ABC뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "상어 습격에 따른 사망",
+        "해수욕장 폐쇄"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "Bloomberg.com",
+        "CBS News",
+        "Reuters",
+        "2026.10.21 03:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 남아프리카공화국 이스트케이프 해안에서 수영하던 여성이 상어의 습격을 받아 숨졌습니다 (로이터).\n\n· 사건 이후 인근 해변이 폐쇄됐습니다 (블룸버그·ABC뉴스)\n\n출처: BBC·ABC뉴스·CBS뉴스·블룸버그·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "남아프리카공화국 이스트케이프 해안에서 수영하던 여성이 상어의 습격을 받아 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사건 이후 인근 해변들이 폐쇄됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "한국인 피해 여부"
+    }
+  ],
+  "hook": "남아공 해변서\n[[상어]] 출몰?",
+  "broll": [
+    "beach ocean",
+    "shark sea"
+  ],
+  "place_en": "Eastern Cape, South Africa"
+}

@@ -20215,5 +20215,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792516669
+  },
+  {
+    "slug": "2026-10-21-news-south-africa-shark-attack-2026",
+    "event_ms": 1792511937000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 남아프리카공화국 이스트케이프 해안에서 수영하던 여성이 상어의 습격을 받아 숨졌습니다 (로이터).\n\n· 사건 이후 인근 해변이 폐쇄됐습니다 (블룸버그·ABC뉴스)\n\n출처: BBC·ABC뉴스·CBS뉴스·블룸버그·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "남아프리카공화국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18092501960659660",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Deuc_YYlHwP",
+        "kind": "carousel",
+        "at": 1792520104
+      },
+      "instagram": {
+        "id": "18069407147784485",
+        "permalink": "https://www.instagram.com/reel/DeudXgcj9IB/",
+        "kind": "reel",
+        "at": 1792520322
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792520378
+      },
+      "tiktok": {
+        "id": "7698816422780161300",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698816422780161300",
+        "kind": "video",
+        "at": 1792520500
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792520510
   }
 ]

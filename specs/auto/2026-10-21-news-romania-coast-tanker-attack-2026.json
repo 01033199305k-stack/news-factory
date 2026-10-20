@@ -1,0 +1,107 @@
+{
+  "slug": "2026-10-21-news-romania-coast-tanker-attack-2026",
+  "topic": "루마니아 앞바다서 유조선 드론 공격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 01:56 KST",
+  "source": "BBC·The Guardian·EEAS 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxQZmh6VjVpWUpzSUtOQ3gtc29zZUwyWEphdG52WGYwemtaOWx3Q2pmX010QzM4a2Y4U2swX25Eckd3RWkyc1dvakJJLTdpcU1ETEhRZFBVSjJlMTAzQWh6d1NTUUI0bnNiOEV1X0hyTmhWSFI3cHVpWGlmVjdJMDVOY2pXakNOZGZDVFZyVWRsVmdMUzdoS0Y3VHNMNHc3OXlzOVlGZkk4NHRVODZZV2lSVHc2UQ",
+    "related": [
+      [
+        "Kallas: Russian Black Sea strikes deepen ‘perfect storm’ for world food supplies",
+        "Euronews.com"
+      ],
+      [
+        "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+        "The Guardian"
+      ],
+      [
+        "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+        "BBC"
+      ],
+      [
+        "Russia trying to limit Ukrainian export routes - Kallas",
+        "RTE.ie"
+      ],
+      [
+        "Statement by the HR/VP on the escalation of Russian strikes in the EU, particularly on Black Sea shipping, threatening human life, regional stability and food security",
+        "EEAS"
+      ]
+    ],
+    "event_key": "romania-coast-tanker-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "루마니아 앞바다서\n[[유조선]] 드론 공격",
+      "sub": "선원 7명 실종 및 화재 발생",
+      "chips": [
+        {
+          "k": "실종",
+          "v": "7명"
+        }
+      ],
+      "alt": "루마니아 앞바다서 유조선 드론 공격"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "흑해 긴장 고조",
+          "d": "나토는 흑해 지역에 대한 러시아의 공격이 격화됨에 따라 배치를 늘렸습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유조선 드론 공격",
+        "선원 7명 실종",
+        "화재 발생"
+      ],
+      "unconfirmed": [
+        "추가 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "EEAS",
+        "Euronews.com",
+        "RTE.ie",
+        "The Guardian",
+        "2026.10.21 03:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 루마니아 연안 흑해에서 유조선이 드론 공격을 받아 화재가 발생하고 선원 7명이 실종됐습니다 (BBC).\n\n· 러시아의 공격이 격화되면서 나토는 흑해 지역 배치를 늘리고 있습니다 (가디언)\n\n출처: BBC·가디언·유로뉴스·RTE·EEAS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "루마니아 연안 흑해에서 유조선이 드론 공격을 받아 화재가 발생하고 선원 7명이 실종됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아의 흑해 공격이 잇따르면서 나토는 이 지역에 대한 병력 배치를 늘리고 있습니다.",
+      "card": "points",
+      "screen": "나토 배치 증대"
+    }
+  ],
+  "hook": "흑해 한가운데서\n[[유조선]] 화재",
+  "broll": [
+    "oil tanker ship",
+    "sea black sea"
+  ],
+  "place_en": "Romania Coast, Black Sea"
+}
