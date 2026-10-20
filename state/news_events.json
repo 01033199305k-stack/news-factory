@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "dubai_tel_aviv_flight_attack",
-    "topic": "두바이발 텔아비브 여객기서 부기장 흉기 난동, 승객들이 저지",
-    "slug": "2026-10-01-news-dubai-tel-aviv-flight-attack",
-    "cluster": "CBMiyAFBVV95cUxQQjQtQmRmUEtYM01Db25zamlIUmdVVTUwRHQtbWF5RGNOSDZuajRPdFRZUk8yTkV5VDFNd0l1WENpNjhOeWxKSWpEX1Z2bUhabTQwZkNzZTY5YXdBaHZYdTFudFlvd05iREtJT3ZUd2ZHRDNCdDNKU1QtU0R1QUJqbjZGSERmQU1MNzVWX2hVYUJPc0Rndml1Q3NUcWc2V2dpV1JpOFR1MXk5eWlNeFRUYnlOb1hYbmN5TFV0TVJaUzExUFJ5ZlY5MdIBzwFBVV95cUxNQ2JtSGJmXzF4Mkw4UEs1ZEFJcTZ6M1B5ZnI4ZWo1MDczRENibzItM0pRMmttUi11alVIck5fQjVnTldOclFadS0tVC1IaXdha21tTS1JU2xRcmZQQVRUSTNFR1lRQzlvWGVDckRyRlptTW5hYVZ5R3BkS2pIZGJfLVFENGE2VTJQQWt2THpNRlRRWm5LVHo4dmIzNURhMHlkaW5abXRqV05yY1NBblZzRWZKLVF6UEp4RzN5SE5tc2c5WnR4Y1h3clZPYkZrQTQ",
-    "badge": "breaking",
-    "at": 1790807301.2660367,
-    "country": "아랍에미리트",
-    "category": "사고"
-  },
-  {
     "event_key": "athens-building-explosion-september-2026",
     "topic": "아테네 아크로폴리스 인근 건물 폭발 관광객 등 6명 사망",
     "slug": "2026-10-01-news-athens-building-explosion-september-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792494751.7401152,
     "country": "대한민국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "strait-of-hormuz-tankers-hit-mines-fire-2026",
+    "topic": "호르무즈 해협서 유조선 2척 폭발·화재",
+    "slug": "2026-10-20-news-strait-of-hormuz-tankers-hit-mines-fire-2026",
+    "cluster": "CBMi4wFBVV95cUxONnNTdy1lN0hReWxVVE1PYV9IZW1mV3pmMEVMRmVHck9KTTA2MkFjVzZzQm5HNlYwNGg5UDV4dWxJOGtuSW5yckNodlI4eVZtSTRMdF9lZjJleDZ1aDcyVHRjSXFiR3JUMWI2NjdWUXpseXNGQlBDVDh3M2VnTVNjMFN1X05ZS2ZpNEVVdDlMTHBmNkdjQ2pqXzhQeFJ3ckFWTFlWeEtMZmM4SjZhaEN1WGxRaEFxdHQteTE4VzNmbloxb3ZCTlptT2h1Zk5tR2tVQzE1YUdQV0VNVGxFV2ZPYS1jY9IB6gFBVV95cUxNWnNwWWZlX3F6Z0RSWkxLay1YQzBmd3JvS003bktEYjQ3R2NYWGJ5WUJaLTJpdHE5c3VCQk5VTjVTd3U4UWxOTUlOckFpcFUyMWtCMDRSUDF6SnRuSmdjbFkwTXFnQmJobXN5R3cxQnZLZzhBVHU1aE9TZ2w5SFJxZkJkaEs3WGNsM0xfWURpUFlEU09fR3Z2R1VFcjlZVTd5c2xiVzhwVXJOUldfc0otMkpaZjFjWUJlV3JmU2d3NllVcXJFd05OMk5vWlhHUjRQbU5RdWw4ODBLTWhGSTZ2U2RhSEdKVXViYUE",
+    "badge": "breaking",
+    "at": 1792498396.4108393,
+    "country": "이란",
+    "category": "국제"
   }
 ]

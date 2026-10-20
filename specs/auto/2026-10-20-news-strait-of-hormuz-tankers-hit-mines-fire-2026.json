@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-20-news-strait-of-hormuz-tankers-hit-mines-fire-2026",
+  "topic": "호르무즈 해협서 유조선 2척 폭발·화재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 20:05 KST",
+  "source": "Al Jazeera·NDTV·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi4wFBVV95cUxONnNTdy1lN0hReWxVVE1PYV9IZW1mV3pmMEVMRmVHck9KTTA2MkFjVzZzQm5HNlYwNGg5UDV4dWxJOGtuSW5yckNodlI4eVZtSTRMdF9lZjJleDZ1aDcyVHRjSXFiR3JUMWI2NjdWUXpseXNGQlBDVDh3M2VnTVNjMFN1X05ZS2ZpNEVVdDlMTHBmNkdjQ2pqXzhQeFJ3ckFWTFlWeEtMZmM4SjZhaEN1WGxRaEFxdHQteTE4VzNmbloxb3ZCTlptT2h1Zk5tR2tVQzE1YUdQV0VNVGxFV2ZPYS1jY9IB6gFBVV95cUxNWnNwWWZlX3F6Z0RSWkxLay1YQzBmd3JvS003bktEYjQ3R2NYWGJ5WUJaLTJpdHE5c3VCQk5VTjVTd3U4UWxOTUlOckFpcFUyMWtCMDRSUDF6SnRuSmdjbFkwTXFnQmJobXN5R3cxQnZLZzhBVHU1aE9TZ2w5SFJxZkJkaEs3WGNsM0xfWURpUFlEU09fR3Z2R1VFcjlZVTd5c2xiVzhwVXJOUldfc0otMkpaZjFjWUJlV3JmU2d3NllVcXJFd05OMk5vWlhHUjRQbU5RdWw4ODBLTWhGSTZ2U2RhSEdKVXViYUE",
+    "related": [
+      [
+        "US-Iran War Live Updates: IRGC says 2 tankers hit mines, set ablaze while transiting Hormuz",
+        "The Indian Express"
+      ],
+      [
+        "Iran war live: 2 tankers on fire in Hormuz; air strikes target Houthis",
+        "Al Jazeera"
+      ],
+      [
+        "Iran Guards Say 2 \"Violating\" Oil Tankers Set Ablaze In Strait Of Hormuz",
+        "NDTV"
+      ],
+      [
+        "Oil tanker on fire after hitting mine in Hormuz: Iran's Guards",
+        "The Hindu"
+      ],
+      [
+        "Tanker explodes in Strait of Hormuz as Saudi-Houthi clashes continue",
+        "CGTN"
+      ]
+    ],
+    "event_key": "strait-of-hormuz-tankers-hit-mines-fire-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈 해협서\n유조선 [[2척]] 폭발·화재",
+      "sub": "기뢰 접촉으로 불길… 이란 혁명수비대 발표",
+      "chips": [
+        {
+          "k": "피해",
+          "v": "유조선 2척"
+        }
+      ],
+      "alt": "호르무즈 해협서 유조선 2척 폭발·화재",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기뢰 충돌로 화재",
+          "d": "이란 혁명수비대는 해협을 지나던 유조선 2척이 기뢰와 부딪혀 불길에 싸였다고 밝혔습니다 (알자지라·NDTV)."
+        },
+        {
+          "t": "해상 정세 긴장",
+          "d": "중동 지역 군사적 긴장이 이어지는 가운데 소식이 전해졌습니다 (인디언 익스프레스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유조선 2척 기뢰 접촉 화재",
+        "이란 혁명수비대 공식 발표"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CGTN",
+        "NDTV",
+        "The Hindu",
+        "The Indian Express",
+        "2026.10.20 21:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협서 유조선 2척 기뢰 부딪혀 화재 (알자지라)\n\n· 이란 혁명수비대는 통항 중이던 유조선 2척이 기뢰에 접촉해 불이 났다고 밝혔습니다 (NDTV)\n· 중동 정세 긴장 속에서 소식이 전해졌습니다 (인디언 익스프레스)\n· 정확한 인명 피해는 확인되지 않았습니다 (알자지라)\n\n여러분은 이번 해협 사태가 미칠 영향, 어떻게 보십니까?\n\n출처: 알자지라·NDTV·인디언 익스프레스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 유조선 2척이 기뢰와 충돌해 불이 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라 등은 이란 혁명수비대가 이를 공식 발표했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 해협 사태에 대해 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[호르무즈]] 해협서\n유조선 화재",
+  "broll": [
+    "oil tanker sea",
+    "sea night"
+  ],
+  "place_en": "Strait of Hormuz"
+}
