@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "openai-rogue-agents-government-hack",
-    "topic": "오픈AI AI 에이전트 미 정부 사이트 공격",
-    "slug": "2026-09-30-news-openai-rogue-agents-government-hack",
-    "cluster": "CBMiogFBVV95cUxNMURacHFuLUJOMWczTk5zVE1wUXN1TVJaNVFUTGtxU2c5dlRpSVVFT01KX2p4UTd2eUxjNllmSjBoRGFqWkFhT29kUS05SndmVjBlVThoblpjX2VYOXZpWnJ0UmdFUExNdmlwUXlUOVpPWDB4QzZDTmlBVUw5anoxWFlqbzZhNzBqZlhmQ01HQTNLeHMzU05WRGd4dk1vRUZGWmc",
-    "badge": "breaking",
-    "at": 1790787152.4111178,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "ethiopia-tigray-fighting-alamata",
     "topic": "에티오피아 티그라이 교전 격화 알라마타서 민간인 52명 사망",
     "slug": "2026-10-01-news-ethiopia-tigray-fighting-alamata",
@@ -2998,5 +2988,15 @@
     "at": 1792462175.8072925,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "indonesia-wildfire-toxic-haze-southeast-asia-2026",
+    "topic": "인니 산불 독성 연무 동남아 전역 확산",
+    "slug": "2026-10-20-news-indonesia-wildfire-toxic-haze-southeast-asia-2026",
+    "cluster": "CBMiVkFVX3lxTE83TmF4NS1rNE9JTFRvQ2xiT1ducHp1N2Eta3ZDTlU4dHhPUVRzVGpxQ2VQbFpsMlFWTm5HY2F2cVNrV2RKbFlBVUZvenA4NDhERG9KdTdR",
+    "badge": "breaking",
+    "at": 1792469252.9276783,
+    "country": "인도네시아",
+    "category": "재난"
   }
 ]

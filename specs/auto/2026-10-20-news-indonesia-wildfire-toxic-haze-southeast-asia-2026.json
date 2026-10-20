@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-20-news-indonesia-wildfire-toxic-haze-southeast-asia-2026",
+  "topic": "인니 산불 독성 연무 동남아 전역 확산",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 11:18 KST",
+  "source": "AP News·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTE83TmF4NS1rNE9JTFRvQ2xiT1ducHp1N2Eta3ZDTlU4dHhPUVRzVGpxQ2VQbFpsMlFWTm5HY2F2cVNrV2RKbFlBVUZvenA4NDhERG9KdTdR",
+    "related": [
+      [
+        "'It smells like charred earth': BBC at Indonesia fire epicentre causing Singapore and Malaysia haze crisis",
+        "BBC"
+      ],
+      [
+        "Explainer: Why is the haze so bad in Southeast Asia this year?",
+        "Reuters"
+      ],
+      [
+        "Shanmugam calls Indonesian official's 'oxygen' remarks disappointing, welcomes Prabowo's actions on haze",
+        "CNA"
+      ],
+      [
+        "Wildfire traps firefighters and volunteers in Indonesia’s Mount Bromo national park, killing 4",
+        "AP News"
+      ],
+      [
+        "Indonesia fights fire with dry ice as toxic haze spreads across region",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "indonesia-wildfire-toxic-haze-southeast-asia-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인니 산불 [[독성 연무]]\n동남아 전역 확산",
+      "sub": "싱가포르·말레이시아까지 유독성 연무 위기 확산",
+      "chips": [],
+      "alt": "인니 산불 독성 연무 동남아 전역 확산",
+      "map": {
+        "lat": -2.4833826,
+        "lon": 117.8902853,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "인도네시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "인도네시아\n동남아시아",
+      "video_only": true,
+      "map": {
+        "lat": -2.4833826,
+        "lon": 117.8902853,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "동남아시아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "동남아 연무 확산",
+          "d": "산불로 발생한 유독성 연무가 싱가포르와 말레이시아 등 주변국으로 확산했습니다 (BBC·로이터)."
+        },
+        {
+          "t": "드라이아이스 진화",
+          "d": "인도네시아 당국은 드라이아이스를 투입해 산불 진화 작업에 나섰습니다 (가디언)."
+        },
+        {
+          "t": "국립공원 인명 피해",
+          "d": "브로모산 국립공원에서 진화 작업을 하던 4명이 숨졌다는 보도가 나왔습니다 (AP)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인도네시아 산불 발생",
+        "싱가포르·말레이시아 연무 위기 확산",
+        "드라이아이스 진화 작업"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "CNA",
+        "Reuters",
+        "The Guardian",
+        "2026.10.20 13:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도네시아 산불로 인한 독성 연무가 주변국으로 번지고 있습니다.\n\n· 산불로 발생한 유독성 연무가 싱가포르와 말레이시아 등 동남아로 확산했습니다 (BBC·로이터)\n· 인도네시아 당국은 불길을 잡기 위해 드라이아이스를 투입해 진화에 나섰습니다 (가디언)\n· 브로모산 국립공원 산불 현장에서 4명이 숨졌다는 보도도 나왔습니다 (AP)\n\n출처: BBC·로이터·가디언·AP·CNA 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도네시아 산불로 발생한 독성 연무가 동남아 전역으로 번지고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유독성 연무로 싱가포르와 말레이시아 등 인접 국가에 연무 위기가 확산하고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신들은 당국이 드라이아이스까지 동원해 진화 작업을 벌이고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현장에서 4명이 숨졌다는 보도가 나왔으나 한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "인니 [[산불]] 번지며\n주변국 비상",
+  "broll": [
+    "wildfire smoke",
+    "haze sky"
+  ],
+  "place_en": "Indonesia"
+}

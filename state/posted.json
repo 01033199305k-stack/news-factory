@@ -19505,5 +19505,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792465879
+  },
+  {
+    "slug": "2026-10-20-news-indonesia-wildfire-toxic-haze-southeast-asia-2026",
+    "event_ms": 1792462707000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 인도네시아 산불로 인한 독성 연무가 주변국으로 번지고 있습니다.\n\n· 산불로 발생한 유독성 연무가 싱가포르와 말레이시아 등 동남아로 확산했습니다 (BBC·로이터)\n· 인도네시아 당국은 불길을 잡기 위해 드라이아이스를 투입해 진화에 나섰습니다 (가디언)\n· 브로모산 국립공원 산불 현장에서 4명이 숨졌다는 보도도 나왔습니다 (AP)\n\n출처: BBC·로이터·가디언·AP·CNA 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "인도네시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17934560697142989",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Des8Gf4EUbI",
+        "kind": "carousel",
+        "at": 1792469308
+      },
+      "instagram": {
+        "id": "17905110051605581",
+        "permalink": "https://www.instagram.com/reel/Des8ZoDE4v_/",
+        "kind": "reel",
+        "at": 1792469506
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792469516
+      },
+      "tiktok": {
+        "id": "7698597991094963463",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698597991094963463",
+        "kind": "video",
+        "at": 1792469638
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792469648
   }
 ]
