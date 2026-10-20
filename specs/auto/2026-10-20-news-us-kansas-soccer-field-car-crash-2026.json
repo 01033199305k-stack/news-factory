@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-20-news-us-kansas-soccer-field-car-crash-2026",
+  "topic": "축구장에 차량 돌진 2명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 08:42 KST",
+  "source": "Fox News·The Guardian·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxPM0g0cUFWb25mOFNtYS1xeC1ySVl4ME15Tmg0MTZ2eEdkaDk3Y3ZWWEhCRXdaTHZEMllrWjlhWDBtcWVBdWp6M2J3SnM3S2g5c3lzRHpHaGlFRzJzLXM4Mm4ydmtSRTFHUHlzU3R2UDYyd0wyelB2eXN1ZjcxZ3R1MXpwamNRS2pnOVQzNzJVeTFELUl1UVFCMTZYSnVUYm1HNkZGQVpFcmZtNXYydXZIY1V4M3lfRnc3WkxxY9IBwgFBVV95cUxOZ1I0MnphWTNJc25fN2VtbFV1Z0R6eTU1LVJqUnhmZ0FDWk9NaGhKaWdLXzd1elU2b1A5MEFjTC1sQ1F5am40SzNVZmNDSlVBbDVSVjRPaExkU1JscE1peG1Kd2VFb3FMV0t3bkZoWHAyMWR1dEdSOXVjVk9SSjh2Q0VKSHRFNFFwd1dIclJkVTd1RXhpdUhJMnpPVlYwNmI4U0pDbVpHWTMzSC1wdFFlZlRiYkJXN1hfV2ZTM0NqbHpXUQ",
+    "related": [
+      [
+        "LISTEN: Kansas soccer field dispatch call captures mass-casualty response after driver kills boy, man",
+        "Fox News"
+      ],
+      [
+        "New details emerge on two killed after woman drove through Kansas soccer game",
+        "The Guardian"
+      ],
+      [
+        "No charges filed against driver who killed 2, injured 11 at Stryker Sports Complex, police say",
+        "KAKE"
+      ],
+      [
+        "Driver Is Released After Plowing Onto Soccer Field in Wichita, Kan., Killing Two",
+        "The New York Times"
+      ],
+      [
+        "Sedgwick County Sheriff’s Office warns of false information being spread about driver involved at Stryker Sports Complex",
+        "KWCH"
+      ]
+    ],
+    "event_key": "us-kansas-soccer-field-car-crash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "축구장에 [[차량 돌진]]\n2명 사망",
+      "sub": "미국 캔자스주 경기장서 11명 다쳐",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        },
+        {
+          "k": "부상",
+          "v": "11명"
+        }
+      ],
+      "alt": "축구장에 차량 돌진 2명 사망",
+      "map": {
+        "lat": 37.6922361,
+        "lon": -97.3375448,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캔자스주 위치타",
+      "video_only": true,
+      "map": {
+        "lat": 37.6922361,
+        "lon": -97.3375448,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캔자스주 위치타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "경기장 차량 돌진",
+          "d": "미국 캔자스주 위치타의 축구 경기장에 차량이 진입하는 사고가 발생했습니다 (뉴욕타임스)."
+        },
+        {
+          "t": "운전자 기소 안 돼",
+          "d": "현지 경찰은 운전자를 기소하지 않았다고 밝혔으며 (KAKE), 운전자는 석방되었습니다 (뉴욕타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "차량 돌진으로 2명 사망 (가디언·뉴욕타임스)",
+        "11명 부상 (KAKE)"
+      ],
+      "unconfirmed": [
+        "차량 돌진 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Fox News",
+        "KAKE",
+        "KWCH",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.20 11:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 캔자스 축구장에 차량이 돌진해 2명이 숨졌습니다.\n\n· 스포츠 경기장으로 차량이 돌진해 2명이 숨지고(가디언·KAKE) 11명이 다쳤습니다 (KAKE)\n· 운전자는 기소되지 않았으며(KAKE) 석방되었습니다 (뉴욕타임스)\n\n출처: 가디언·뉴욕타임스·KAKE 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캔자스의 한 축구장으로 차량이 돌진해 2명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 캔자스주 위치타의 스포츠 경기장에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "현지 언론은 이번 사고로 2명이 숨지고 11명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경찰은 운전자를 기소하지 않았으며 운전자는 석방되었습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[축구장]]으로 돌진한\n차량의 정체",
+  "broll": [
+    "ambulance night",
+    "police car lights"
+  ],
+  "place_en": "Wichita, Kansas, USA"
+}
