@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "japan-permanent-residency-fee",
-    "topic": "일본, 영주권 수수료 20배 인상 이민 기준 대폭 강화",
-    "slug": "2026-10-01-news-japan-permanent-residency-fee",
-    "cluster": "CBMiW0FVX3lxTFBXUHdHb2kyQkloYlhrZkd2Y05GU1dBa0RpQ1k5bl9FVmFJbDdHaWZBZzl3Zi1yeTU2eDIxbGk5SnFTM0FjNVFCVS16TG1lY2ZjX2dhQW5XSDZZVDA",
-    "badge": "brief",
-    "at": 1790831183.7641063,
-    "country": "일본",
-    "category": "국제"
-  },
-  {
     "event_key": "pakistan-airstrikes-afghanistan-october-2026",
     "topic": "파키스탄, 아프간 공습 인명 피해 발생",
     "slug": "2026-10-01-news-pakistan-airstrikes-afghanistan-october-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792512576.1159322,
     "country": "팔레스타인",
+    "category": "국제"
+  },
+  {
+    "event_key": "netanyahu-trump-iran-regime-elimination",
+    "topic": "네타냐후, 트럼프와 이란 정권 제거 논의했다고 밝혀",
+    "slug": "2026-10-21-news-netanyahu-trump-iran-regime-elimination",
+    "cluster": "CBMi4wFBVV95cUxONnNTdy1lN0hReWxVVE1PYV9IZW1mV3pmMEVMRmVHck9KTTA2MkFjVzZzQm5HNlYwNGg5UDV4dWxJOGtuSW5yckNodlI4eVZtSTRMdF9lZjJleDZ1aDcyVHRjSXFiR3JUMWI2NjdWUXpseXNGQlBDVDh3M2VnTVNjMFN1X05ZS2ZpNEVVdDlMTHBmNkdjQ2pqXzhQeFJ3ckFWTFlWeEtMZmM4SjZhaEN1WGxRaEFxdHQteTE4VzNmbloxb3ZCTlptT2h1Zk5tR2tVQzE1YUdQV0VNVGxFV2ZPYS1jYw",
+    "badge": "breaking",
+    "at": 1792516279.5122066,
+    "country": "이스라엘",
     "category": "국제"
   }
 ]

@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-21-news-netanyahu-trump-iran-regime-elimination",
+  "topic": "네타냐후, 트럼프와 이란 정권 제거 논의했다고 밝혀",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 01:57 KST",
+  "source": "Al Jazeera·Al Arabiya English·The Indian Express 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi4wFBVV95cUxONnNTdy1lN0hReWxVVE1PYV9IZW1mV3pmMEVMRmVHck9KTTA2MkFjVzZzQm5HNlYwNGg5UDV4dWxJOGtuSW5yckNodlI4eVZtSTRMdF9lZjJleDZ1aDcyVHRjSXFiR3JUMWI2NjdWUXpseXNGQlBDVDh3M2VnTVNjMFN1X05ZS2ZpNEVVdDlMTHBmNkdjQ2pqXzhQeFJ3ckFWTFlWeEtMZmM4SjZhaEN1WGxRaEFxdHQteTE4VzNmbloxb3ZCTlptT2h1Zk5tR2tVQzE1YUdQV0VNVGxFV2ZPYS1jYw",
+    "related": [
+      [
+        "US-Iran War Live Updates: Netanyahu says he discussed ‘eliminating Iran regime’ with Trump",
+        "The Indian Express"
+      ],
+      [
+        "Iran war live: ‘Eliminating Tehran regime’ discussed with Trump – Netanyahu",
+        "Al Jazeera"
+      ],
+      [
+        "Netanyahu says Israel is ‘committed’ to eliminating the ‘terrorist regime in Iran’",
+        "The Times of Israel"
+      ],
+      [
+        "Netanyahu says he discussed importance of eliminating Iranian regime with Trump",
+        "Al Arabiya English"
+      ],
+      [
+        "Donald Trump, Benjamin Netanyahu warn Iran as fears of renewed war grow",
+        "The Jerusalem Post"
+      ]
+    ],
+    "event_key": "netanyahu-trump-iran-regime-elimination"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "네타냐후, 트럼프와 [[이란 정권]] 제거 논의했다고 밝혀",
+      "sub": "이스라엘 총리, 이란 테러 정권 종식 의지 거듭 강조",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "이란 정권"
+        }
+      ],
+      "alt": "네타냐후, 트럼프와 이란 정권 제거 논의했다고 밝혀",
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n텔아비브",
+      "video_only": true,
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "텔아비브"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "회담 내용",
+          "d": "이스라엘 총리는 도널드 트럼프와 이란 정권 제거의 중요성을 논의했다고 밝혔습니다 (알자지라·타임스오브이스라엘)."
+        },
+        {
+          "t": "이스라엘 입장",
+          "d": "이스라엘은 이란의 테러 정권을 없애는 데 전념하고 있다고 강조했습니다 (타임스오브이스라엘)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프와 이란 정권 제거 논의",
+        "이스라엘의 이란 정권 퇴출 의지"
+      ],
+      "unconfirmed": [
+        "미국 측의 구체적 군사 행동 계획",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Arabiya English",
+        "Al Jazeera",
+        "The Indian Express",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "2026.10.21 02:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 네타냐후, 트럼프와 이란 정권 제거 논의했다고 밝혀\n\n· 이스라엘 총리는 트럼프와 이란 정권 제거의 중요성을 논의했다고 전했습니다 (알자지라·타임스오브이스라엘)\n· 이스라엘은 이란의 테러 정권을 없애는 데 전념하고 있다고 강조했습니다 (타임스오브이스라엘)\n\n이번 이스라엘과 미국의 논의가 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 알자지라·타임스오브이스라엘·알아라비야 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘 총리가 트럼프와 이란 정권 제거를 논의했다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라 등 외신은 이스라엘이 테러 정권 종식에 전념하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 측의 구체적인 군사 행동 계획은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 논의가 중동 긴장을 높일지 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "중동 긴장 고조될까?"
+    }
+  ],
+  "hook": "트럼프와 만난 네타냐후\n[[이란 정권]] 제거 논의?",
+  "broll": [
+    "israeli flag political meeting",
+    "government press conference room"
+  ],
+  "place_en": "Tel Aviv, Israel"
+}
