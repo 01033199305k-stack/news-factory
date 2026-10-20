@@ -19886,5 +19886,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792491741
+  },
+  {
+    "slug": "2026-10-20-news-sudan-drone-attacks-oct-2026",
+    "event_ms": 1792488947000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 수단 전역 드론 공습 잇따라, 사망자 수 매체별 집계 차이\n\n· 수단 전역의 드론 공습으로 160명이 숨졌다고 알자지라가 보도했습니다\n· 가디언은 시장 인근 드론 공격으로 80명이 사망했다고 전했습니다\n· 라디오 타마주즈는 아비에이 공동 시장 공습으로 73명이 숨졌다고 밝혔습니다\n\n출처: 알자지라·가디언·프랑스24·라디오 타마주즈 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "수단"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18131093185761429",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Detsue0kXUd",
+        "kind": "carousel",
+        "at": 1792494802
+      },
+      "instagram": {
+        "id": "18104112332377743",
+        "permalink": "https://www.instagram.com/reel/DettO0fiQB9/",
+        "kind": "reel",
+        "at": 1792495085
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1792495103
+      },
+      "tiktok": {
+        "id": "7698707938063502612",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698707938063502612",
+        "kind": "video",
+        "at": 1792495242
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792495252
   }
 ]

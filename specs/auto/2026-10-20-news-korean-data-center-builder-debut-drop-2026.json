@@ -1,0 +1,154 @@
+{
+  "slug": "2026-10-20-news-korean-data-center-builder-debut-drop-2026",
+  "topic": "한국 AI 데이터센터 기업 상장 첫날 주가 급락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 17:13 KST",
+  "source": "Bloomberg.com·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxOcUcxTXJtVUswMzU2dlgzMmFMTHRScGZzZjVsUlQwWG9iZFFLcl9IOFZrUEwwM1BWWnN6b0I3WDcwWG1yVEZNNnY1OGM4V1NfR1M0bUgxMEd3TmRFcHRRWERyci1jcFk5V1BaanhVUk5FVUZFVG9ld3MyckdfRFJmc2xzQzI",
+    "related": [
+      [
+        "South Korean data centre builder tumbles 32% on trading debut",
+        "Financial Times"
+      ],
+      [
+        "Stock Market Today: Nasdaq Futures Slip; Dismal Data-Center IPO Weighs on Tech Investors — Live Updates",
+        "WSJ"
+      ],
+      [
+        "AI Debutant’s Flameout Stokes Fears the Boom Is Ending",
+        "Bloomberg.com"
+      ],
+      [
+        "South Korea's Elice plunges 30% in market debut as investors reassess AI sector",
+        "CNBC"
+      ],
+      [
+        "Morning Bid: Korean canary in the AI coalmine",
+        "Reuters"
+      ]
+    ],
+    "event_key": "korean-data-center-builder-debut-drop-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "한국 [[AI 데이터센터]] 기업\n상장 첫날 주가 급락",
+      "sub": "투자자들의 AI 부문 재평가 속 데뷔전서 주가가 크게 떨어졌습니다.",
+      "chips": [
+        {
+          "k": "파이낸셜타임스",
+          "v": "32% 하락"
+        },
+        {
+          "k": "CNBC",
+          "v": "30% 급락"
+        }
+      ],
+      "alt": "한국 AI 데이터센터 기업 상장 첫날 주가 급락",
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울",
+      "video_only": true,
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "파이낸셜타임스 보도",
+          "d": "파이낸셜타임스는 한국 데이터센터 건설 기업이 거래 첫날 32% 하락했다고 보도했습니다."
+        },
+        {
+          "t": "CNBC 보도",
+          "d": "CNBC는 투자자들이 AI 부문을 재평가하면서 엘리스가 시장 데뷔전에서 30% 폭락했다고 전했습니다."
+        },
+        {
+          "t": "블룸버그 보도",
+          "d": "블룸버그는 AI 데뷔주의 부진이 열풍의 종료 우려를 키우고 있다고 분석했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "한국 AI 데이터센터 기업 상장 첫날 주가 급락 (파이낸셜타임스·CNBC)",
+        "하락률 30%~32% 기록 (파이낸셜타임스·CNBC)"
+      ],
+      "unconfirmed": [
+        "향후 AI 관련주 추가 변동 추이",
+        "국내 증시 전반에 미칠 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "Financial Times",
+        "Reuters",
+        "WSJ",
+        "2026.10.20 20:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 한국 AI 데이터센터 기업, 상장 첫날 주가 급락\n\n· 파이낸셜타임스는 한국 데이터센터 건설 기업이 거래 첫날 32% 하락했다고 보도했습니다\n· CNBC는 투자자들의 AI 부문 재평가로 엘리스 주가가 30% 폭락했다고 전했습니다\n· 블룸버그는 AI 데뷔주의 부진이 열풍 종료 우려를 키우고 있다고 분석했습니다\n\n여러분은 최근 AI 관련 시장의 흐름을 어떻게 보십니까?\n\n출처: 파이낸셜타임스·CNBC·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "한국 AI 데이터센터 기업이 상장 첫날 주가가 급락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이낸셜타임스는 거래 첫날 주가가 32% 하락했다고 보도했습니다.",
+      "card": "points",
+      "screen": "32% 하락 (FT)"
+    },
+    {
+      "text": "CNBC는 투자자들의 AI 부문 재평가로 엘리스 주가가 30% 폭락했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "블룸버그는 AI 데뷔주의 부진이 열풍 종료 우려를 키우고 있다고 분석했습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 최근 AI 관련 시장의 흐름을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "한국 [[AI 기업]]\n상장 첫날 무슨 일이?",
+  "broll": [
+    "stock exchange screen",
+    "financial chart down"
+  ],
+  "place_en": "Seoul, South Korea"
+}

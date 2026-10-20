@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-20-news-sudan-drone-attacks-oct-2026",
+  "topic": "수단 전역 드론 공습 잇따라 사망자 수 매체별 집계 차이",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 18:35 KST",
+  "source": "Al Jazeera·France 24·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxPOVFCdmZMSU1pbUMzb1BLMktpd2s3V01qaVlfWVgwRDMwRzFuSTFCdWFWQ2ZtaGpLMjBPWlNOOWNuZVhuM3JsUGdoZEFuZ0pSZXJDeW5uNGRMMmlRNjc3SzBmZTJucXViclZLeXk2U3FacGJXeUdmN2Y5Q2pfQ2xISWFYYUdvOHhwMUhzdDJzUjZ6SmVfZzRCLWJMbDJLQUNhX0szaNIBqgFBVV95cUxPYnQzVUVBdDYyOVdmTnFrLUUxNVIwX2w4ZnVqUWNmVVJsamFtMEpORzRHZnh4OE4xcHdwVXZZazZwR0ExeEUzMm96TFU4N1VHQkQ4dXQxMkxJY1VFWHJKcmtUa3dJSlNEbC02Z1BxSGhtRDNTdTMtSmdFM1EtRWdRQzlJMmtuejlxOU1JRHllUlQ3MEZwYTJBeThXSFNPaEVKOVh0cm8zaEt2Zw",
+    "related": [
+      [
+        "Drone attacks across Sudan escalate, 160 people reported killed",
+        "Al Jazeera"
+      ],
+      [
+        "Drone attack near market kills 80 in Sudan",
+        "The Guardian"
+      ],
+      [
+        "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
+        "France 24"
+      ],
+      [
+        "Sudanese army intercepts RSF drones near Khartoum airport, source says",
+        "Sudan Tribune"
+      ],
+      [
+        "73 killed in drone attacks on Abyei joint market",
+        "Radio Tamazuj"
+      ]
+    ],
+    "event_key": "sudan-drone-attacks-oct-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "수단 전역 [[드론 공습]] 잇따라\n사망자 수 매체별 [[집계 차이]]",
+      "sub": "수단 수도와 서코르도판 주 등에서 드론 공격이 발생했습니다.",
+      "chips": [
+        {
+          "k": "알자지라",
+          "v": "160명"
+        },
+        {
+          "k": "가디언",
+          "v": "80명"
+        }
+      ],
+      "alt": "수단 전역 드론 공습 잇따라 사망자 수 매체별 집계 차이",
+      "map": {
+        "lat": 15.5635972,
+        "lon": 32.5349123,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "수단"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "수단\n하르툼",
+      "video_only": true,
+      "map": {
+        "lat": 15.5635972,
+        "lon": 32.5349123,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "하르툼"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "알자지라 집계",
+          "d": "알자지라는 수단 전역의 드론 공습으로 160명이 숨졌다고 보도했습니다."
+        },
+        {
+          "t": "가디언 집계",
+          "d": "가디언은 시장 인근 드론 공격으로 80명이 숨졌다고 전했습니다."
+        },
+        {
+          "t": "아비에이 시장",
+          "d": "라디오 타마주즈는 아비에이 공동 시장 드론 공습으로 73명이 사망했다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "수단 전역 드론 공습 발생 (알자지라·가디언·프랑스24)",
+        "매체별 사망자 수 집계 차이 있음 (73명~160명)"
+      ],
+      "unconfirmed": [
+        "정확한 총사망자 규모",
+        "공습 주체별 세부 피해 내역",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "France 24",
+        "Radio Tamazuj",
+        "Sudan Tribune",
+        "The Guardian",
+        "2026.10.20 20:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 수단 전역 드론 공습 잇따라, 사망자 수 매체별 집계 차이\n\n· 수단 전역의 드론 공습으로 160명이 숨졌다고 알자지라가 보도했습니다\n· 가디언은 시장 인근 드론 공격으로 80명이 사망했다고 전했습니다\n· 라디오 타마주즈는 아비에이 공동 시장 공습으로 73명이 숨졌다고 밝혔습니다\n\n출처: 알자지라·가디언·프랑스24·라디오 타마주즈 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "수단 전역에서 드론 공습이 잇따라 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 공습으로 160명이 숨졌다고 보도했습니다.",
+      "card": "points",
+      "screen": "사망 160명 (알자지라)"
+    },
+    {
+      "text": "가디언은 시장 인근 공격으로 80명이 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "라디오 타마주즈는 공동 시장 공습으로 73명이 숨졌다고 밝혔습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "수단 전역에서\n[[드론 공습]] 참사",
+  "broll": [
+    "smoke over city skyline",
+    "destroyed buildings street"
+  ],
+  "place_en": "Khartoum, Sudan"
+}

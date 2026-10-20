@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "pennsylvania-measles-5th-death",
-    "topic": "미국 펜실베이니아주서 홍역 확산 다섯 번째 사망자 발생",
-    "slug": "2026-10-01-news-pennsylvania-measles-5th-death",
-    "cluster": "CBMirAFBVV95cUxQUTc0eTFLaFc0VjAzdWxZTVV3YXZkRUx1bFRhRHI3akhkUVh2cnhhQlJod3Y5QU1yenhVOVhpY1VWLWItcXRUVHJ0RFlKaVhCeVdXemVoYW9iV3NnS1ZLRUk1MEtXZlZiWnExaVhJTFBpMXh4S2VhWk9LOTVNV1Z6ZFdIdVV1R1JDOThkOXM5MGZ4S2lVNWdzOVY4eTJqRWh4Tjd0dEd3dTNIQlow",
-    "badge": "breaking",
-    "at": 1790804119.8699474,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
-    "event_key": "canada-bc-mall-crash-2026",
-    "topic": "캐나다 쇼핑몰 앞 차량 돌진 보행자 2명 사망·2명 부상",
-    "slug": "2026-10-01-news-canada-bc-mall-crash-2026",
-    "cluster": "CBMiW0FVX3lxTE9YMVQxYTI2aTh1cUtRSWhET0xNRS1oVzJPRUhubGEwczRUZzJWcWFJbUN1RU9Sc2dNa0x6d29CSjI1NlJJaC1iQ2NxRUtrVUNfTXNNcmh6c2NIX3c",
-    "badge": "breaking",
-    "at": 1790805362.4274921,
-    "country": "캐나다",
-    "category": "사고"
-  },
-  {
     "event_key": "dubai_tel_aviv_flight_attack",
     "topic": "두바이발 텔아비브 여객기서 부기장 흉기 난동, 승객들이 저지",
     "slug": "2026-10-01-news-dubai-tel-aviv-flight-attack",
@@ -2998,5 +2978,25 @@
     "at": 1792491334.5715873,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "sudan-drone-attacks-oct-2026",
+    "topic": "수단 전역 드론 공습 잇따라 사망자 수 매체별 집계 차이",
+    "slug": "2026-10-20-news-sudan-drone-attacks-oct-2026",
+    "cluster": "CBMipAFBVV95cUxPOVFCdmZMSU1pbUMzb1BLMktpd2s3V01qaVlfWVgwRDMwRzFuSTFCdWFWQ2ZtaGpLMjBPWlNOOWNuZVhuM3JsUGdoZEFuZ0pSZXJDeW5uNGRMMmlRNjc3SzBmZTJucXViclZLeXk2U3FacGJXeUdmN2Y5Q2pfQ2xISWFYYUdvOHhwMUhzdDJzUjZ6SmVfZzRCLWJMbDJLQUNhX0szaNIBqgFBVV95cUxPYnQzVUVBdDYyOVdmTnFrLUUxNVIwX2w4ZnVqUWNmVVJsamFtMEpORzRHZnh4OE4xcHdwVXZZazZwR0ExeEUzMm96TFU4N1VHQkQ4dXQxMkxJY1VFWHJKcmtUa3dJSlNEbC02Z1BxSGhtRDNTdTMtSmdFM1EtRWdRQzlJMmtuejlxOU1JRHllUlQ3MEZwYTJBeThXSFNPaEVKOVh0cm8zaEt2Zw",
+    "badge": "breaking",
+    "at": 1792494739.2700453,
+    "country": "수단",
+    "category": "총격·테러"
+  },
+  {
+    "event_key": "korean-data-center-builder-debut-drop-2026",
+    "topic": "한국 AI 데이터센터 기업 상장 첫날 주가 급락",
+    "slug": "2026-10-20-news-korean-data-center-builder-debut-drop-2026",
+    "cluster": "CBMihAFBVV95cUxOcUcxTXJtVUswMzU2dlgzMmFMTHRScGZzZjVsUlQwWG9iZFFLcl9IOFZrUEwwM1BWWnN6b0I3WDcwWG1yVEZNNnY1OGM4V1NfR1M0bUgxMEd3TmRFcHRRWERyci1jcFk5V1BaanhVUk5FVUZFVG9ld3MyckdfRFJmc2xzQzI",
+    "badge": "breaking",
+    "at": 1792494751.7401152,
+    "country": "대한민국",
+    "category": "경제·과학"
   }
 ]

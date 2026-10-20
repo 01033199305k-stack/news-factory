@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "slug": "2026-10-20-news-korean-data-center-builder-debut-drop-2026",
+    "event_ms": 1792484039000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 한국 AI 데이터센터 기업, 상장 첫날 주가 급락\n\n· 파이낸셜타임스는 한국 데이터센터 건설 기업이 거래 첫날 32% 하락했다고 보도했습니다\n· CNBC는 투자자들의 AI 부문 재평가로 엘리스 주가가 30% 폭락했다고 전했습니다\n· 블룸버그는 AI 데뷔주의 부진이 열풍 종료 우려를 키우고 있다고 분석했습니다\n\n여러분은 최근 AI 관련 시장의 흐름을 어떻게 보십니까?\n\n출처: 파이낸셜타임스·CNBC·블룸버그 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18117295262019891",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DetszDFkbgB",
+        "kind": "carousel",
+        "at": 1792494835
+      },
+      "youtube": {
+        "id": "9N3airNYHjQ",
+        "permalink": "https://youtube.com/shorts/9N3airNYHjQ",
+        "kind": "shorts",
+        "at": 1792495110
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
