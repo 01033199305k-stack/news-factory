@@ -19348,5 +19348,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792449272
+  },
+  {
+    "slug": "2026-10-20-news-hurricane-trudy-mexico-pacific-coast-2026",
+    "event_ms": 1792446420000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 허리케인 트루디가 멕시코 태평양 연안을 강타했습니다\n\n· 카테고리 2등급으로 세력을 키우며 강풍과 폭우를 몰고 왔습니다 (NBC·ABC7)\n· 수증기 영향으로 미국 캘리포니아부터 콜로라도까지 홍수 위험이 경고됐습니다 (웨더채널)\n\n출처: NBC·ABC7·The Weather Channel·The Guardian 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "멕시코"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18634012345053831",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DesgsqoEYJo",
+        "kind": "carousel",
+        "at": 1792454941
+      },
+      "instagram": {
+        "id": "18206078326374773",
+        "permalink": "https://www.instagram.com/reel/Desg93skdyV/",
+        "kind": "reel",
+        "at": 1792455102
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792455112
+      },
+      "tiktok": {
+        "id": "7698536063291215105",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698536063291215105",
+        "kind": "video",
+        "at": 1792455234
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792455244
   }
 ]

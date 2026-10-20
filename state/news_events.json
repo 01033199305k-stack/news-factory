@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "thailand-bangkok-floods",
-    "topic": "태국 홍수로 최소 23명 사망",
-    "slug": "2026-09-30-news-thailand-bangkok-floods",
-    "cluster": "CBMirgFBVV95cUxNTTZiTnpqTVRUR3hEYkpybmV6QTh3RkVDOGQzUHpINloyTnJ2dTh2cUF0Qjd4Y1hsZXRybGhwZTVuc1R4SzVCNmVGYThKclhXZ0JRVUxUWTJnazZQc09YMzlxd1JRZFdDelFYU2V0U1JuR3ZZNjdKcTh1MGdWUnI1SGNRZGJ0THFVMVpicndVVTRpVGRBVGZnUm1ER2Jhb0x5SmZLd1NLV0dvcTJ6SUE",
-    "badge": "breaking",
-    "at": 1790773671.4638858,
-    "country": "태국",
-    "category": "재난"
-  },
-  {
     "event_key": "france-student-protests-violence-2026",
     "topic": "프랑스 고교생 시위 격화 충돌로 수십 명 부상·체포",
     "slug": "2026-09-30-news-france-student-protests-violence-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792448886.9978547,
     "country": "프랑스",
     "category": "국제"
+  },
+  {
+    "event_key": "hurricane_trudy_mexico_pacific_coast_2026",
+    "topic": "허리케인 트루디 멕시코 연안 강타",
+    "slug": "2026-10-20-news-hurricane-trudy-mexico-pacific-coast-2026",
+    "cluster": "CBMiqAFBVV95cUxNeVotdS1WQjRGNXpOSHFYZGd3aWE3TnJuaEljNjRCOFFlX0hiLXpNT3NaNFNVcUFoVXB5NTVHX0VQZU1la2lTenhYeHA4bFF0X19RU2JqX1JCSURRVU0xVUxaeFVXc3gzX2xMa0VKZUkxeUpPMXNNSGJVNG12UGhPM0pSNjBNbUkyOU5rTUlwUk95Mmo3ZUVhYzF3eGd3azRWNmU2QnZuZEo",
+    "badge": "breaking",
+    "at": 1792454892.02051,
+    "country": "멕시코",
+    "category": "재난"
   }
 ]

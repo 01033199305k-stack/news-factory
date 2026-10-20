@@ -1,0 +1,118 @@
+{
+  "slug": "2026-10-20-news-hurricane-trudy-mexico-pacific-coast-2026",
+  "topic": "허리케인 트루디 멕시코 연안 강타",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 06:47 KST",
+  "source": "NBC News·The Guardian·ABC7 Los Angeles 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxNeVotdS1WQjRGNXpOSHFYZGd3aWE3TnJuaEljNjRCOFFlX0hiLXpNT3NaNFNVcUFoVXB5NTVHX0VQZU1la2lTenhYeHA4bFF0X19RU2JqX1JCSURRVU0xVUxaeFVXc3gzX2xMa0VKZUkxeUpPMXNNSGJVNG12UGhPM0pSNjBNbUkyOU5rTUlwUk95Mmo3ZUVhYzF3eGd3azRWNmU2QnZuZEo",
+    "related": [
+      [
+        "Trudy’s moisture will trigger a flood risk from California to Colorado",
+        "The Weather Channel"
+      ],
+      [
+        "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
+        "The Guardian"
+      ],
+      [
+        "Hurricane Trudy strengthens to a Category 2 storm as it approaches Mexico coast",
+        "NBC News"
+      ],
+      [
+        "Mexico’s beleaguered Pacific coast braces for another storm in record hurricane year",
+        "Los Angeles Times"
+      ],
+      [
+        "Hurricane Trudy lashes Mexico’s Pacific coast with heavy rain and strong winds",
+        "ABC7 Los Angeles"
+      ]
+    ],
+    "event_key": "hurricane_trudy_mexico_pacific_coast_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "허리케인 [[트루디]]\n멕시코 연안 강타",
+      "sub": "2등급 세력으로 발달해 폭우와 강풍을 동반했습니다",
+      "chips": [
+        {
+          "k": "세력",
+          "v": "카테고리 2"
+        }
+      ],
+      "alt": "허리케인 트루디 멕시코 연안 강타"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "멕시코 해안 강타",
+          "d": "허리케인 트루디가 폭우와 강풍을 몰고 멕시코 태평양 연안을 강타했습니다 (ABC7)."
+        },
+        {
+          "t": "미국 내륙 홍수 위험",
+          "d": "트루디의 영향으로 미국 캘리포니아에서 콜로라도까지 홍수 위험이 예보됐습니다 (웨더채널)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "허리케인 트루디 멕시코 연안 강타",
+        "카테고리 2등급 세력 발달"
+      ],
+      "unconfirmed": [
+        "정확한 인명·시설 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 Los Angeles",
+        "Los Angeles Times",
+        "NBC News",
+        "The Guardian",
+        "The Weather Channel",
+        "2026.10.20 09:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 허리케인 트루디가 멕시코 태평양 연안을 강타했습니다\n\n· 카테고리 2등급으로 세력을 키우며 강풍과 폭우를 몰고 왔습니다 (NBC·ABC7)\n· 수증기 영향으로 미국 캘리포니아부터 콜로라도까지 홍수 위험이 경고됐습니다 (웨더채널)\n\n출처: NBC·ABC7·The Weather Channel·The Guardian 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "허리케인 트루디가 멕시코 태평양 연안을 강타했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "멕시코 태평양 연안에 강풍과 폭우가 쏟아지고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC는 트루디가 카테고리 2등급 폭풍으로 발달했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인명 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "허리케인 [[트루디]]\n멕시코 강타",
+  "broll": [
+    "storm waves coast",
+    "heavy rain palm"
+  ],
+  "place_en": "Pacific Coast, Mexico"
+}
