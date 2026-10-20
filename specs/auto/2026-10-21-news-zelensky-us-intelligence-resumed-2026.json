@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-21-news-zelensky-us-intelligence-resumed-2026",
+  "topic": "미국, 우크라이나와 정보 공유 재개 젤렌스키 \"오슬로 회담 후 작동\"",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 06:27 KST",
+  "source": "AP News·Axios·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9OcXdwQnZ5LWxrMElfTGl2Z1MtRnhOVzBmdTZaYms5cVdPXzlQekFlYVdrUzFqMlc3RVBvWG00aE1ibTF2cTJZSUhyMVpaY2ppTkRCYXpQVjhvMmM",
+    "related": [
+      [
+        "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "BBC"
+      ],
+      [
+        "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
+        "The Guardian"
+      ],
+      [
+        "Zelenskyy says early warning system for Russian missile attacks resumes following call with Rubio",
+        "AP News"
+      ],
+      [
+        "Rubio says Ukraine interceptors may not have been delivered, but not for political reasons",
+        "Reuters"
+      ],
+      [
+        "Trump isn't out to hurt Ukraine, Rubio tells Zelensky",
+        "Axios"
+      ]
+    ],
+    "event_key": "zelensky-us-intelligence-resumed-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 우크라이나와 [[정보 공유]] 재개\n젤렌스키 \"오슬로 회담 후 작동\"",
+      "sub": "트럼프 특사와 회담 및 루비오와 소통",
+      "chips": [
+        {
+          "k": "회담 장소",
+          "v": "오슬로"
+        }
+      ],
+      "alt": "미국, 우크라이나와 정보 공유 재개 젤렌스키 \"오슬로 회담 후 작동\"",
+      "map": {
+        "lat": 59.9133301,
+        "lon": 10.7389701,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "노르웨이"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "노르웨이\n오슬로",
+      "video_only": true,
+      "map": {
+        "lat": 59.9133301,
+        "lon": 10.7389701,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오슬로"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "경보 시스템 복구",
+          "d": "러시아 미사일 공격에 대한 조기 경보 시스템이 다시 가동됐다고 젤렌스키 대통령이 밝혔습니다 (AP News)."
+        },
+        {
+          "t": "요격 미사일 관련",
+          "d": "요격 미사일이 아직 전달되지 않았을 수 있으나 정치적 이유는 아니라고 루비오가 밝혔습니다 (Reuters)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국과 우크라이나의 정보 공유 재개",
+        "오슬로에서의 트럼프 특사와 젤렌스키 회담"
+      ],
+      "unconfirmed": [
+        "요격 미사일의 실제 인도 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Axios",
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "2026.10.21 08:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국, 우크라이나와 러시아 공습 관련 정보 공유 재개\n\n· 오슬로에서 트럼프 특사와 회동한 뒤 정보 공유가 작동하고 있다고 젤렌스키 대통령이 밝혔습니다 (BBC·The Guardian)\n· 러시아 미사일 공격 조기 경보 시스템도 다시 가동됐습니다 (AP News)\n· 요격 미사일 미전달은 정치적 이유가 아니라고 루비오가 밝혔습니다 (Reuters)\n\n출처: BBC·The Guardian·AP News·Reuters·Axios 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 우크라이나와 러시아 공습 관련 정보 공유를 다시 시작했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "오슬로에서 열린 회담 이후 정보 공유가 작동하고 있다고 젤렌스키 대통령이 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "러시아 미사일 공격 조기 경보 시스템도 복구됐다고 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "요격 미사일 인도 지연에 정치적 이유는 없다고 루비오는 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "요격 미사일이 언제 실제로 전달될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 정보 공유 재개가 향후 전황에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "오슬로에서 만난\n미국과 [[젤렌스키]]",
+  "broll": [
+    "diplomats meeting room",
+    "government building exterior"
+  ],
+  "place_en": "Oslo, Norway"
+}

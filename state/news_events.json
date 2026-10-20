@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-treasury-yield-24-year-high",
-    "topic": "미국 10년물 국채금리 24년 만에 최고치",
-    "slug": "2026-10-01-news-us-treasury-yield-24-year-high",
-    "cluster": "CBMihwFBVV95cUxQVS1ZRW5MZml2WVJMcVIzTHFaeXVkdlllV3paRnNqbnFsYU1UX2V5ZzUtblhaMlFSNUJqRzI4QkdPQlJGR1lFZjEtd0tYZk16MUt5eFRmd294UGFKN0dvQ01YeS1WUlh0cDRIMHRvdUx3NXdZNG1jb1pUbzVKVUJVQ2ZWaHM2SGc",
-    "badge": "breaking",
-    "at": 1790850663.9966571,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "california-medevac-helicopter-crash-october-2026",
     "topic": "미국 캘리포니아 해상서 의료용 헬기 추락 2명 사망",
     "slug": "2026-10-01-news-california-medevac-helicopter-crash-october-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792526905.9594204,
     "country": "벨기에",
+    "category": "국제"
+  },
+  {
+    "event_key": "zelensky-us-intelligence-resumed-2026",
+    "topic": "미국, 우크라이나와 정보 공유 재개 젤렌스키 \"오슬로 회담 후 작동\"",
+    "slug": "2026-10-21-news-zelensky-us-intelligence-resumed-2026",
+    "cluster": "CBMiW0FVX3lxTE9OcXdwQnZ5LWxrMElfTGl2Z1MtRnhOVzBmdTZaYms5cVdPXzlQekFlYVdrUzFqMlc3RVBvWG00aE1ibTF2cTJZSUhyMVpaY2ppTkRCYXpQVjhvMmM",
+    "badge": "breaking",
+    "at": 1792537632.6762824,
+    "country": "노르웨이",
     "category": "국제"
   }
 ]
