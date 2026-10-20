@@ -19833,5 +19833,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792488294
+  },
+  {
+    "slug": "2026-10-20-news-us-oregon-school-shooting-2026",
+    "event_ms": 1792486802000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 오레곤주 초등학교서 총격 발생… 최소 4명 사망\n\n· 미국 오레곤주 벤드의 실버 레일 초등학교에서 총격 사건이 일어났습니다 (The Source·CNN)\n· 어린이 등을 포함해 최소 4명이 숨지고 2명이 다쳤습니다 (AP·The Source)\n· 교실에 있던 무장 학부모가 총격범에게 여러 차례 총을 쐈다고 현지 언론이 전했습니다 (BBC)\n\n출처: AP·BBC·CNN·NDTV·The Source 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18127401226856041",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DetmNMSm-EE",
+        "kind": "carousel",
+        "at": 1792491383
+      },
+      "instagram": {
+        "id": "17908483788565213",
+        "permalink": "https://www.instagram.com/reel/DetmlVQidQd/",
+        "kind": "reel",
+        "at": 1792491599
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1792491609
+      },
+      "tiktok": {
+        "id": "7698692870278073620",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698692870278073620",
+        "kind": "video",
+        "at": 1792491731
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792491741
   }
 ]

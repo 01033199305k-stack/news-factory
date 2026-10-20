@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "asst-hockey-coach-leave-player-collapse-2026",
-    "topic": "애리조나주립대 아이스하키 감독 직무 정지 훈련 중 선수 위중해진 사건 조사",
-    "slug": "2026-10-01-news-asst-hockey-coach-leave-player-collapse-2026",
-    "cluster": "CBMipgFBVV95cUxONUtneVNCaW5fTUxjUFpYOERrOTJIQ3FFQzRHY21ZWFdfV2hadVVoT0JNMXpIcGNvc19TcmRoLXE5N2JLTVpBeWp6SFAtSVgxSzBHdk5jTUNOeVR4MlhWWXlySUY1WlNXZ2FGRm5xZ25nUzgzTWNYQjM0VTI3R3o5VzhHQVFreUdqcXFaUkFlSjRCVGFaUmtLaGk5SjJGVHVzb1lhc3lB",
-    "badge": "breaking",
-    "at": 1790801639.643536,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "pennsylvania-measles-5th-death",
     "topic": "미국 펜실베이니아주서 홍역 확산 다섯 번째 사망자 발생",
     "slug": "2026-10-01-news-pennsylvania-measles-5th-death",
@@ -2998,5 +2988,15 @@
     "at": 1792487605.867488,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "us-oregon-school-shooting-2026",
+    "topic": "미 오레곤 초등학교 총격 어린이 등 최소 4명 사망",
+    "slug": "2026-10-20-news-us-oregon-school-shooting-2026",
+    "cluster": "CBMitAFBVV95cUxNamt2YmJfNkppYlR5Q0o4OEc3aWFENWdyLXlQU2xqTlk1by1TbjNGYWtGcUhGNWktMFBxeVJYbHk0S3dJdnpQWFUxUDhhdDg5UDd2dTh1UVktNGJHblJKR0Uxd0JEeWtLMTlYSlZWN0xCSlVQZlhaX3B1Rl9Cc2N1eHVqbjdmUUxzYlNwVkN3QVBlNlBZVTZwWE92MkZEMlh5Tl8xMHhIQUFsLW45Sm1oUVZ3aWHSAbwBQVVfeXFMTWh6RUs1WTlZbGFuaDViaXJWXzd2TGxmSzBZclVIN2NhSE56dVV2ZkFEb2NUSFRBSVhjQmp5azdrbjR4MUZCa2tWdEZfRUFyTkVIQXVOOWVkeGVhNTk2bmZrQWItSXpYVnlfeHprVTBkQjVUR2NDNVNPWjBmdWdmSGZ0TTBuNHVLanFCOVpRcWFzQVJUc2tsQWo2ejRaRXg5Zjkya3JNd3lGMVB0UVo0aVFXVk1ROExEQWU3VHM",
+    "badge": "breaking",
+    "at": 1792491334.5715873,
+    "country": "미국",
+    "category": "총격·테러"
   }
 ]

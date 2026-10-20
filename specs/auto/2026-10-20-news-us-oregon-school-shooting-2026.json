@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-20-news-us-oregon-school-shooting-2026",
+  "topic": "미 오레곤 초등학교 총격 어린이 등 최소 4명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 18:00 KST",
+  "source": "AP News·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxNamt2YmJfNkppYlR5Q0o4OEc3aWFENWdyLXlQU2xqTlk1by1TbjNGYWtGcUhGNWktMFBxeVJYbHk0S3dJdnpQWFUxUDhhdDg5UDd2dTh1UVktNGJHblJKR0Uxd0JEeWtLMTlYSlZWN0xCSlVQZlhaX3B1Rl9Cc2N1eHVqbjdmUUxzYlNwVkN3QVBlNlBZVTZwWE92MkZEMlh5Tl8xMHhIQUFsLW45Sm1oUVZ3aWHSAbwBQVVfeXFMTWh6RUs1WTlZbGFuaDViaXJWXzd2TGxmSzBZclVIN2NhSE56dVV2ZkFEb2NUSFRBSVhjQmp5azdrbjR4MUZCa2tWdEZfRUFyTkVIQXVOOWVkeGVhNTk2bmZrQWItSXpYVnlfeHprVTBkQjVUR2NDNVNPWjBmdWdmSGZ0TTBuNHVLanFCOVpRcWFzQVJUc2tsQWo2ejRaRXg5Zjkya3JNd3lGMVB0UVo0aVFXVk1ROExEQWU3VHM",
+    "related": [
+      [
+        "US Woman Gifts Gun To 16-Year-Old Son. He Kills 4 At Oregon School With It",
+        "NDTV"
+      ],
+      [
+        "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times' in class",
+        "BBC"
+      ],
+      [
+        "What we know about the investigation into the Bend school shooting",
+        "CNN"
+      ],
+      [
+        "Police Respond to Active Shooter at Silver Rail Elementary; Five People Dead, Including Three Children",
+        "The Source - Bend, Oregon"
+      ],
+      [
+        "As an Oregon community mourns 4 killed in school shooting, 2 wounded survivors remain hospitalized",
+        "AP News"
+      ]
+    ],
+    "event_key": "us-oregon-school-shooting-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[미 오레곤]] 초등학교 총격\n어린이 등 최소 4명 사망",
+      "sub": "교실 안서 총격 발생… 현장 학부모가 총격범에 총격",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 4명"
+        }
+      ],
+      "alt": "미 오레곤 초등학교 총격 어린이 등 최소 4명 사망",
+      "map": {
+        "lat": 44.0581728,
+        "lon": -121.3153096,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오레곤주 벤드",
+      "video_only": true,
+      "map": {
+        "lat": 44.0581728,
+        "lon": -121.3153096,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오레곤주 벤드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "어린이 포함 사망",
+          "d": "어린이 등 최소 4명이 숨지고 2명이 다쳤습니다 (AP·The Source)."
+        },
+        {
+          "t": "학부모가 범인에 총격",
+          "d": "교실 내에서 무장한 학부모가 총격범에게 여러 차례 총을 쐈습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "초등학교 총격 발생",
+        "최소 4명 사망 (AP)"
+      ],
+      "unconfirmed": [
+        "사망자 수 매체별 집계 차이 있음 (4~5명)",
+        "범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "CNN",
+        "NDTV",
+        "The Source - Bend, Oregon",
+        "2026.10.20 19:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 오레곤주 초등학교서 총격 발생… 최소 4명 사망\n\n· 미국 오레곤주 벤드의 실버 레일 초등학교에서 총격 사건이 일어났습니다 (The Source·CNN)\n· 어린이 등을 포함해 최소 4명이 숨지고 2명이 다쳤습니다 (AP·The Source)\n· 교실에 있던 무장 학부모가 총격범에게 여러 차례 총을 쐈다고 현지 언론이 전했습니다 (BBC)\n\n출처: AP·BBC·CNN·NDTV·The Source 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 오레곤주의 한 초등학교에서 총격 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "오레곤주 벤드의 실버 레일 초등학교에서 총성이 울렸습니다.",
+      "card": "map"
+    },
+    {
+      "text": "AP 통신은 최소 4명이 숨지고 2명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "교실 안에 있던 한 무장 학부모가 총격범에게 총을 쏜 것으로 알려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "범행 동기와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[초등학교]] 총격 사건\n범인에 총 쏜 사람은?",
+  "broll": [
+    "police car night",
+    "school building exterior"
+  ],
+  "place_en": "Bend, Oregon, USA"
+}
