@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-iran-ceasefire-counterproposal-october-2026",
-    "topic": "미국이 건넨 7일 휴전 역제안 검토",
-    "slug": "2026-10-01-news-us-iran-ceasefire-counterproposal-october-2026",
-    "cluster": "CBMiiwFBVV95cUxOaXNwVUhFZkZrZmxLRFd1QVZwZFFWVjFLcEgxWmNJWnJCMlNnOExuY3BsdWlLaG9HYzF1VjJKYnB6eHlfU1NLZWlUcWhDMmpCVFI1eGczV19kR3kycThHd0ducEtLejdicmJXanhmWWFUcWRJeVVDb28xUlRmTWxPSWRwbXBfRU1uSW1N",
-    "badge": "brief",
-    "at": 1790845967.3495684,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "us-treasury-yield-24-year-high",
     "topic": "미국 10년물 국채금리 24년 만에 최고치",
     "slug": "2026-10-01-news-us-treasury-yield-24-year-high",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792523247.0688365,
     "country": "이탈리아",
+    "category": "국제"
+  },
+  {
+    "event_key": "nato-black-sea-deployment-planes-drones-2026",
+    "topic": "나토, 흑해 배치 강화 정찰기·드론 투입",
+    "slug": "2026-10-21-news-nato-black-sea-deployment-planes-drones-2026",
+    "cluster": "CBMipwFBVV95cUxQREdOT1FlcW4tWjg1QlFXTkhFWjV6em16dlJueWdVRnktcWJsXy03SXVVeEFLUzN0cm5qN3ROdjZXLWZoV3I4LWNLZlFEbHpPb0RJZEs0RlRmdkFGUkdJQVdoRDI2WjVxTzV6NVNPMUFIajRGejBJaEN1dUM2el9lTkh3X2x2OXRCSFBIVFQ5R3ljU2xSeVhQUnlmOVVVZ0NYNlVDNEJSbw",
+    "badge": "breaking",
+    "at": 1792526905.9594204,
+    "country": "벨기에",
     "category": "국제"
   }
 ]

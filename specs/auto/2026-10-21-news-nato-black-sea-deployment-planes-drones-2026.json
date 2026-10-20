@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-21-news-nato-black-sea-deployment-planes-drones-2026",
+  "topic": "나토, 흑해 배치 강화 정찰기·드론 투입",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 03:34 KST",
+  "source": "BBC·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxQREdOT1FlcW4tWjg1QlFXTkhFWjV6em16dlJueWdVRnktcWJsXy03SXVVeEFLUzN0cm5qN3ROdjZXLWZoV3I4LWNLZlFEbHpPb0RJZEs0RlRmdkFGUkdJQVdoRDI2WjVxTzV6NVNPMUFIajRGejBJaEN1dUM2el9lTkh3X2x2OXRCSFBIVFQ5R3ljU2xSeVhQUnlmOVVVZ0NYNlVDNEJSbw",
+    "related": [
+      [
+        "Nato increases Black Sea deployment amid escalating deadly Russian attacks",
+        "The Guardian"
+      ],
+      [
+        "NATO to send planes and drones to Black Sea after attacks on shipping",
+        "Reuters"
+      ],
+      [
+        "Kallas: Russian Black Sea strikes deepen ‘perfect storm’ for world food supplies",
+        "Euronews.com"
+      ],
+      [
+        "Russia trying to limit Ukrainian export routes - Kallas",
+        "RTE.ie"
+      ],
+      [
+        "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+        "BBC"
+      ]
+    ],
+    "event_key": "nato-black-sea-deployment-planes-drones-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "나토, [[흑해]] 배치 강화\n정찰기·드론 투입",
+      "sub": "러시아의 선박 공격에 대응해 군사 전력 배치",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "전력 확대"
+        }
+      ],
+      "alt": "나토, 흑해 배치 강화 정찰기·드론 투입",
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "벨기에"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "벨기에\n브뤼셀",
+      "video_only": true,
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브뤼셀"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "정찰기·드론 투입",
+          "d": "나토는 흑해 해상 공격에 대응해 정찰기와 드론을 추가 배치하기로 했습니다 (가디언·로이터)."
+        },
+        {
+          "t": "식량 수송로 보호",
+          "d": "러시아의 흑해 공격으로 세계 식량 공급망 위협이 커지자 대응에 나섰습니다 (유로뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "나토 흑해 정찰기·드론 배치",
+        "해상 수송로 보호 목적"
+      ],
+      "unconfirmed": [
+        "구체적 배치 완료 시기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Euronews.com",
+        "RTE.ie",
+        "Reuters",
+        "The Guardian",
+        "2026.10.21 05:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 나토가 흑해 지역에 정찰기와 드론을 배치하기로 했습니다.\n\n· 러시아의 선박 공격에 대응해 흑해 전력 강화 결정 (가디언·로이터)\n· 글로벌 식량 공급망 위협 방지 목적 (유로뉴스)\n\n질문: 나토의 이번 군사 전력 배치가 흑해 긴장을 완화할 수 있을까요?\n\n출처: 가디언·로이터·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "나토가 흑해 지역에 정찰기와 드론 배치를 강화하기로 했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아의 선박 공격이 잇따르는 흑해 해역이 무대입니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 나토가 해상 수송로 안전을 위해 군사 전력을 투입한다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 전력 투입 시기와 규모는 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "나토의 이번 전력 배치가 사태를 진정시킬 수 있을까요?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "나토가 [[흑해]]에\n전투력 보낸 이유",
+  "broll": [
+    "military drone sky",
+    "reconnaissance aircraft"
+  ],
+  "place_en": "Brussels, Belgium"
+}
