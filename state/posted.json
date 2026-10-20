@@ -19667,5 +19667,61 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792472929
+  },
+  {
+    "slug": "2026-10-20-usgs-us6000u3jl",
+    "event_ms": 1792470038444,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 바누아투 인근 규모 6.3 지진\n\n한국 시각 10월 20일 13시 20분, 바누아투 Port-Olry에서 서북서쪽 204km. 깊이 10km.\n\n• USGS 피해 추정 등급 '초록' (인명·경제 피해 가능성 낮음)\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u3jl",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "바누아투",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17967742659195479",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DetAq6enDjl",
+        "kind": "carousel",
+        "at": 1792471702
+      },
+      "instagram": {
+        "id": "17912880792515409",
+        "permalink": "https://www.instagram.com/reel/DetBDJokolU/",
+        "kind": "reel",
+        "at": 1792471921
+      },
+      "youtube": {
+        "id": "MRucWr7V_dI",
+        "permalink": "https://youtube.com/shorts/MRucWr7V_dI",
+        "kind": "shorts",
+        "at": 1792471956
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ad70655e9c669def5f1f1dd): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1792476869
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792476869
   }
 ]

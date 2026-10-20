@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "poland-live-tv-accident-2026",
-    "topic": "폴란드서 뉴스 생방송 도중 14세 소녀 차량에 치여",
-    "slug": "2026-10-01-news-poland-live-tv-accident-2026",
-    "cluster": "CBMihAFBVV95cUxQN1gxMk1XN2JQem54Z3FORDd4ZnBVbGc0eWlpUE45cDE0LS0yNVVIbGlabnZxTE1MbkQ1SWR0UVhaS1ZKb1V6U25oVUJBNmY2cmtmdVFPY1JYUkRxVUhMWW1SX3lXRFQwTG5ZOFh0R2pWWFpoaUViYUU4M1poZ0s1VVk4WWvSAYoBQVVfeXFMUEdXb0ZMYkZVdngyWFZPUmV1cmZELWhIVC02OE1BMWJCZUFuNkthYjZLOC0zdTZRaXdJR01OSF9vUm56bm95SXFTLV9IV2lBbHpLMUhIaGlBMEtIYWtWSVpIeVN2YUtuZEd5dl9PaW1IZGRFY2NwY254SzFkaFlKdVMxZ0NCSUhkTlJn",
-    "badge": "breaking",
-    "at": 1790793418.1116462,
-    "country": "폴란드",
-    "category": "사고"
-  },
-  {
     "event_key": "russia-ukraine-energy-grid-strikes-september-2026",
     "topic": "러시아, 우크라이나 전력망 공습 사망 7명 발생",
     "slug": "2026-10-01-news-russia-ukraine-energy-grid-strikes-september-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792470760.1242871,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "colombia-illegal-gold-mine-collapse-2026",
+    "topic": "불법 금광 붕괴 최소 14명 사망",
+    "slug": "2026-10-20-news-colombia-illegal-gold-mine-collapse-2026",
+    "cluster": "CBMimAFBVV95cUxPQjRaMkpINF8waUk1YmNLa3hkV2VYTGFkX3Z5Wkh2eFFuNG9XaUVzeHpJY0hZNHYzTy1FcVkzOFJnYmRiQWQwODFGM09sUWNQOGFlWnR5S2NNMXlBUW9oc0FlLUl6UTM4TmV4azdvQmlFajZ5d2s2TGVJUG9vRUpXYXpvRXdTY1ZMekRmQ1o5LXVBUUlxRmF6UNIBngFBVV95cUxPclF0SHpOWWNMLU5VQnpsWXdDeExaQnVLcnk3T2N6cDZBMlp5UXdKUnhEZ3psY2tlY1M1bUs0TUp5cUtaMS0tOXNRZDNXQkZRLUVEYmdRMFZ6M2o5Rll5T1ltbHZ0UEJvbzBkeS1jMVJtaUE0RW9kdUZST2JTdlU2SVV5YXozdkY1MnE2OVhCZjB5bFF4cFVSSDJDYzJYQQ",
+    "badge": "breaking",
+    "at": 1792476544.3185666,
+    "country": "콜롬비아",
+    "category": "사고"
   }
 ]

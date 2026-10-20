@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-20-news-colombia-illegal-gold-mine-collapse-2026",
+  "topic": "불법 금광 붕괴 최소 14명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 12:22 KST",
+  "source": "Al Jazeera·NDTV·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimAFBVV95cUxPQjRaMkpINF8waUk1YmNLa3hkV2VYTGFkX3Z5Wkh2eFFuNG9XaUVzeHpJY0hZNHYzTy1FcVkzOFJnYmRiQWQwODFGM09sUWNQOGFlWnR5S2NNMXlBUW9oc0FlLUl6UTM4TmV4azdvQmlFajZ5d2s2TGVJUG9vRUpXYXpvRXdTY1ZMekRmQ1o5LXVBUUlxRmF6UNIBngFBVV95cUxPclF0SHpOWWNMLU5VQnpsWXdDeExaQnVLcnk3T2N6cDZBMlp5UXdKUnhEZ3psY2tlY1M1bUs0TUp5cUtaMS0tOXNRZDNXQkZRLUVEYmdRMFZ6M2o5Rll5T1ltbHZ0UEJvbzBkeS1jMVJtaUE0RW9kdUZST2JTdlU2SVV5YXozdkY1MnE2OVhCZjB5bFF4cFVSSDJDYzJYQQ",
+    "related": [
+      [
+        "Colombia illegal gold mine collapse kills 14 people",
+        "Al Jazeera"
+      ],
+      [
+        "Gold mine collapse kills at least six in southwest Colombia",
+        "The Hindu"
+      ],
+      [
+        "14 Killed In Landslide At Illegal Gold Mine In Colombia",
+        "NDTV"
+      ],
+      [
+        "14 dead, 7 injured in Colombia illegal gold mine collapse: Why such accidents are common",
+        "The Times of India"
+      ],
+      [
+        "Gold Mine Collapse Kills At Least 14 In Southwest Colombia",
+        "Deccan Chronicle"
+      ]
+    ],
+    "event_key": "colombia-illegal-gold-mine-collapse-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "불법 [[금광]] 붕괴\n최소 14명 사망",
+      "sub": "콜롬비아 남서부 광산서 산사태 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "14명"
+        }
+      ],
+      "alt": "불법 금광 붕괴 최소 14명 사망",
+      "map": {
+        "lat": 4.099917,
+        "lon": -72.9088133,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "콜롬비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "콜롬비아\n콜롬비아 남서부",
+      "video_only": true,
+      "map": {
+        "lat": 4.099917,
+        "lon": -72.9088133,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "콜롬비아 남서부"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "부상자 발생",
+          "d": "부상자 7명이 발생했습니다 (타임스 오브 인디아)."
+        },
+        {
+          "t": "산사태로 붕괴",
+          "d": "불법 금광에 산사태가 덮치면서 사고가 난 것으로 전해졌습니다 (NDTV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "불법 금광 붕괴 사고 발생",
+        "사망 14명 (알자지라·NDTV)",
+        "부상 7명 (타임스 오브 인디아)"
+      ],
+      "unconfirmed": [
+        "정확한 매몰자 수"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Deccan Chronicle",
+        "NDTV",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.20 15:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 콜롬비아 불법 금광 붕괴로 14명 사망\n\n· 콜롬비아 남서부 불법 금광에서 산사태로 붕괴 사고 발생 (NDTV)\n· 사망자 최소 14명, 부상자 7명 집계 (알자지라·타임스 오브 인디아)\n\n출처: 알자지라·NDTV·타임스 오브 인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "콜롬비아 남서부의 불법 금광이 무너지면서 최소 14명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라 등 외신은 산사태가 금광을 덮치며 붕괴 사고가 났다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "7명이 다쳤습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "[[금광]] 무너져\n14명 사망",
+  "broll": [
+    "gold mine collapse",
+    "landslide rescue disaster"
+  ],
+  "place_en": "Colombia"
+}
