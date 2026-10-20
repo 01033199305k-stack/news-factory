@@ -19614,5 +19614,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792471383
+  },
+  {
+    "slug": "2026-10-20-news-seoul-yeoksam-building-fire-2026",
+    "event_ms": 1792469160000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 서울 역삼동 상가 건물서 불이 나 1명이 심정지 상태로 이송됐습니다.\n\n· 상가 4층에서 불이 시작돼 수십 명이 대피했습니다 (KBS 뉴스·한겨레)\n· 이 화재로 1명이 심정지 상태로 이송되고 10여 명이 부상을 입었습니다 (KBS 뉴스)\n\n출처: KBS 뉴스·한겨레·뉴시스·서울경제 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18083890631336440",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Des_CzEDiu8",
+        "kind": "carousel",
+        "at": 1792470850
+      },
+      "instagram": {
+        "id": "18036034778902957",
+        "permalink": "https://www.instagram.com/reel/Des_pcWk2bV/",
+        "kind": "reel",
+        "at": 1792471185
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1792471251
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ad6f6f02fcafd0f184f7a93): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1792472929
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792472929
   }
 ]
