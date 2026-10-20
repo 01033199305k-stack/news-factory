@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-20-news-uk-deploy-fighter-jets-saudi-arabia-2026",
+  "topic": "영국 전투기 배치 결정 사우디에 전투기 투입",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 19:14 KST",
+  "source": "BBC·Bloomberg.com·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxPaXZYbVFMNWdnM2MtTWhjT3h5SXZNNFVrdXEwTzNCVi1GdHI5SmdTenVCeUdFYUp3c3g3TlFEdlJiOVFFYlN4SmdQa3p5OGZRSk0wR0VGa2JpSHJLbHJVY192VndPX2NrTEFyMWk5QW9vQlhTZW83anlGa0NLdndHQXFXb1o1VEJ1MllCUzNtMWlzcGJvYmdGZ0JiQ0M5QWc5UEVaOUZjalA0WGVyYXh4c0NB",
+    "related": [
+      [
+        "UK to Fly Missions to Defend Saudi Arabia From Houthi Attacks",
+        "Bloomberg.com"
+      ],
+      [
+        "UK to deploy fighter jets to defend Saudi cities from Houthi attacks",
+        "CNBC"
+      ],
+      [
+        "Britain says it will carry out defensive air missions over Saudi Arabia",
+        "Reuters"
+      ],
+      [
+        "UK to deploy fighter jets to defend Saudi Arabia against Houthi attacks",
+        "CNN"
+      ],
+      [
+        "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+        "BBC"
+      ]
+    ],
+    "event_key": "uk-deploy-fighter-jets-saudi-arabia-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 전투기 배치 결정\n사우디에 [[전투기]] 투입",
+      "sub": "후티 공격 막기 위한 방어적 공습 임무",
+      "chips": [],
+      "alt": "영국 전투기 배치 결정 사우디에 전투기 투입",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "전투기 배치 결정",
+          "d": "영국 정부가 후티의 공격으로부터 사우디아라비아를 방어하기 위해 전투기를 배치한다고 밝혔습니다 (BBC·CNN)."
+        },
+        {
+          "t": "방어적 공습 임무",
+          "d": "이번 작전은 사우디를 지키기 위한 방어적 공습 임무로 진행됩니다 (로이터·블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국 전투기 배치 결정",
+        "사우디 방어 목적"
+      ],
+      "unconfirmed": [
+        "정확한 전투기 배치 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bloomberg.com",
+        "CNBC",
+        "CNN",
+        "Reuters",
+        "2026.10.20 22:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국이 사우디아라비아 방어를 위해 전투기를 배치하기로 했습니다.\n\n· 후티 공격으로부터 사우디를 지키기 위한 전투기 배치 (BBC·CNN)\n· 사우디 방어 목적의 공습 임무 (로이터·블룸버그)\n\n영국의 사우디 전투기 배치 결정, 어떻게 보십니까?\n\n출처: 블룸버그·CNBC·로이터·CNN·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국이 사우디 방어를 위해 전투기를 배치하기로 했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "후티 공격으로부터 사우디를 지키기 위한 조치입니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 이번 작전이 방어 목적의 공습 임무라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 전투기 배치 시점은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 영국의 이번 전투기 배치 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[영국 전투기]]가\n사우디로 가는 이유",
+  "broll": [
+    "fighter jet runway",
+    "military airbase"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}
