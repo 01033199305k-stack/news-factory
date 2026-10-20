@@ -19723,5 +19723,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792476869
+  },
+  {
+    "slug": "2026-10-20-news-colombia-illegal-gold-mine-collapse-2026",
+    "event_ms": 1792466550000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 콜롬비아 불법 금광 붕괴로 14명 사망\n\n· 콜롬비아 남서부 불법 금광에서 산사태로 붕괴 사고 발생 (NDTV)\n· 사망자 최소 14명, 부상자 7명 집계 (알자지라·타임스 오브 인디아)\n\n출처: 알자지라·NDTV·타임스 오브 인디아 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "콜롬비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18107277968102993",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DetJ_PMlpPV",
+        "kind": "carousel",
+        "at": 1792476588
+      },
+      "instagram": {
+        "id": "17881545396627758",
+        "permalink": "https://www.instagram.com/reel/DetKPqzgtnW/",
+        "kind": "reel",
+        "at": 1792476746
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792476756
+      },
+      "tiktok": {
+        "id": "7698652124229455122",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698652124229455122",
+        "kind": "video",
+        "at": 1792482244
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792482254
   }
 ]
