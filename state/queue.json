@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-10-21-news-romania-coast-tanker-attack-2026",
-    "event_ms": 1792515376000,
-    "category": "사고",
+    "slug": "2026-10-21-news-italy-milan-troops-deployment-riots",
+    "event_ms": 1792513609000,
+    "category": "국제",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 루마니아 연안 흑해에서 유조선이 드론 공격을 받아 화재가 발생하고 선원 7명이 실종됐습니다 (BBC).\n\n· 러시아의 공격이 격화되면서 나토는 흑해 지역 배치를 늘리고 있습니다 (가디언)\n\n출처: BBC·가디언·유로뉴스·RTE·EEAS 보도 종합",
+    "text": "[속보] 이탈리아 정부, 밀라노에 군 병력 500명 투입\n\n· 연이은 폭동과 약탈에 대응해 멜로니 정부가 경찰 체포 권한을 강화했습니다 (로이터)\n· 추가 소요를 우려해 밀라노의 명품 상점들이 문을 닫았습니다 (로이터)\n· 이탈리아 국방장관은 이번 폭동을 서구를 향한 하이브리드 전쟁으로 규정했습니다 (인디펜던트)\n\n질문: 이탈리아의 이번 사태와 정부 대응, 어떻게 보십니까?\n출처: 로이터·가디언·인디펜던트 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
-      "사고",
-      "루마니아"
+      "국제",
+      "이탈리아"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,24 +25,24 @@
     ],
     "done": {
       "threads": {
-        "id": "18120094406073608",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DeudDWdlA4X",
+        "id": "17864081184695842",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeujFFYmQOW",
         "kind": "carousel",
-        "at": 1792520138
+        "at": 1792523300
       },
       "instagram": {
-        "id": "18010184099776916",
-        "permalink": "https://www.instagram.com/reel/DeuddBLAh1g/",
+        "id": "18143646781613892",
+        "permalink": "https://www.instagram.com/reel/DeujWGODMF-/",
         "kind": "reel",
-        "at": 1792520368
+        "at": 1792523456
       },
       "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1792520378
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792523466
       }
     },
     "attempts": {
-      "tiktok": 2
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

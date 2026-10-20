@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-21-news-italy-milan-troops-deployment-riots",
+  "topic": "이탈리아 정부, 밀라노에 군 병력 500명 투입 결정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 01:26 KST",
+  "source": "Reuters·Sky News·The Guardian 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxNaG9fNlpIcEhSekFlWW96QmtGUnc5Z21yQ1BWR0RFNTJiWFg2ZGU5aHlNMTZBWTVUeE1lNXppbER1dThJUEFVYTFLRTllbEk4SUJLQ1ZTMWhXdWM0QnVPS0hTVnZsZW1QektwMHhoM3hmazdDMFFra2psN2VFLXEwc3U0NEVtM00waEVUblpDSmxDUVNGamRiN0NFdjA2WW54NUtrcTdmSnE",
+    "related": [
+      [
+        "Italy's Meloni to boost police arrest powers in response to weekend riots",
+        "Reuters"
+      ],
+      [
+        "Italy to deploy 500 troops to Milan after days of protests and looting",
+        "The Guardian"
+      ],
+      [
+        "Second day of violence in Milan as protesters clash with police",
+        "Sky News"
+      ],
+      [
+        "Rioting in Milan caused by ‘hybrid war’ against the West, says Italian defence minister",
+        "The Independent"
+      ],
+      [
+        "Milan luxury shops close for fear of new unrest as government prepares to deploy troops",
+        "Reuters"
+      ]
+    ],
+    "event_key": "italy_milan_troops_deployment_riots"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이탈리아 정부, 밀라노에\n[[군 병력 500명]] 투입 결정",
+      "sub": "연이은 폭동과 약탈에 대응해 멜로니 정부가 경찰 체포 권한을 강화했습니다.",
+      "chips": [
+        {
+          "k": "배치 병력",
+          "v": "500명"
+        },
+        {
+          "k": "도시",
+          "v": "밀라노"
+        }
+      ],
+      "alt": "이탈리아 정부, 밀라노에 군 병력 500명 투입 결정",
+      "map": {
+        "lat": 45.4641943,
+        "lon": 9.1896346,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이탈리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이탈리아\n밀라노",
+      "video_only": true,
+      "map": {
+        "lat": 45.4641943,
+        "lon": 9.1896346,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "밀라노"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "명품 상점 폐쇄",
+          "d": "추가 소요를 우려해 밀라노의 명품 상점들이 문을 닫았다고 로이터 통신이 보도했습니다."
+        },
+        {
+          "t": "하이브리드 전쟁 규정",
+          "d": "이탈리아 국방장관은 이번 사태를 서구에 대한 하이브리드 전쟁으로 규정했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이탈리아 밀라노에 군 병력 500명 배치 (가디언)",
+        "경찰 체포 권한 강화 및 명품 상점 폐쇄 (로이터)"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모와 부상자 수",
+        "한국인 피해 여부",
+        "향후 시위 추가 확산 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Reuters",
+        "Sky News",
+        "The Guardian",
+        "The Independent",
+        "2026.10.21 04:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이탈리아 정부, 밀라노에 군 병력 [[500명]] 투입\n\n· 연이은 폭동과 약탈에 대응해 멜로니 정부가 경찰 체포 권한을 강화했습니다 (로이터)\n· 추가 소요를 우려해 밀라노의 명품 상점들이 문을 닫았습니다 (로이터)\n· 이탈리아 국방장관은 이번 폭동을 서구를 향한 하이브리드 전쟁으로 규정했습니다 (인디펜던트)\n\n질문: 이탈리아의 이번 사태와 정부 대응, 어떻게 보십니까?\n출처: 로이터·가디언·인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이탈리아 정부가 폭동과 약탈이 이어진 밀라노에 군 병력 500명을 투입합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 멜로니 정부가 경찰의 체포 권한을 강화한다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추가 소요를 우려해 밀라노의 명품 상점들은 문을 닫았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 사태의 배후와 정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 이탈리아 정부의 군 병력 투입 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "정부 대응 적절한가?"
+    }
+  ],
+  "hook": "이탈리아 [[밀라노]]에\n군 병력 투입된 이유는?",
+  "broll": [
+    "city street riot police",
+    "military troops vehicle"
+  ],
+  "place_en": "Milan, Italy"
+}

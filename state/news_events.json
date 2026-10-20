@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "zimbabwe-helicopter-crash-2026",
-    "topic": "짐바브웨서 헬기 추락 탑승자 전원 사망",
-    "slug": "2026-10-01-news-zimbabwe-helicopter-crash-2026",
-    "cluster": "CBMiW0FVX3lxTE1BaWx2U2c5cGhFVHM5NU1KdXpma3JuaURpRVZmMlItMnJ6aEpaVVZkaF94Rmo2M3VXNDQ5dFR1WmRuNG9qaDNzMWM2cTZwR29oR2NkcFhPbmJJSlU",
-    "badge": "breaking",
-    "at": 1790840531.077293,
-    "country": "짐바브웨",
-    "category": "사고"
-  },
-  {
     "event_key": "us-iran-ceasefire-counterproposal-october-2026",
     "topic": "미국이 건넨 7일 휴전 역제안 검토",
     "slug": "2026-10-01-news-us-iran-ceasefire-counterproposal-october-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792520057.413329,
     "country": "루마니아",
     "category": "사고"
+  },
+  {
+    "event_key": "italy_milan_troops_deployment_riots",
+    "topic": "이탈리아 정부, 밀라노에 군 병력 500명 투입 결정",
+    "slug": "2026-10-21-news-italy-milan-troops-deployment-riots",
+    "cluster": "CBMiqAFBVV95cUxNaG9fNlpIcEhSekFlWW96QmtGUnc5Z21yQ1BWR0RFNTJiWFg2ZGU5aHlNMTZBWTVUeE1lNXppbER1dThJUEFVYTFLRTllbEk4SUJLQ1ZTMWhXdWM0QnVPS0hTVnZsZW1QektwMHhoM3hmazdDMFFra2psN2VFLXEwc3U0NEVtM00waEVUblpDSmxDUVNGamRiN0NFdjA2WW54NUtrcTdmSnE",
+    "badge": "breaking",
+    "at": 1792523247.0688365,
+    "country": "이탈리아",
+    "category": "국제"
   }
 ]
