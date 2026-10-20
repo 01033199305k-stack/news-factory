@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia-ukraine-energy-grid-strikes-september-2026",
-    "topic": "러시아, 우크라이나 전력망 공습 사망 7명 발생",
-    "slug": "2026-10-01-news-russia-ukraine-energy-grid-strikes-september-2026",
-    "cluster": "CBMitgFBVV95cUxOOUJYOFJjVEFrbW9LNnY1V0ZZOWxPVEhBRm9mcW16RnZIX0stUTRWMXpybThGUF9EMVZ1eTBQelpVbkM4NGtyRzlzVzJyZ21CX3UxR1lIVThTU1RUMEF3WFdheW1jTTNXWExLcHExUmJrTDVEQ3Q3SWdUckRicHEzajlnSFMxRTlReUl0LXU3TjdJRlp0S3ljc2ZUQ3FsRldiOFBsZEZ3Y2ZfeEhKY2hjajZrN1h6dw",
-    "badge": "breaking",
-    "at": 1790798583.0098429,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "asst-hockey-coach-leave-player-collapse-2026",
     "topic": "애리조나주립대 아이스하키 감독 직무 정지 훈련 중 선수 위중해진 사건 조사",
     "slug": "2026-10-01-news-asst-hockey-coach-leave-player-collapse-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792476544.3185666,
     "country": "콜롬비아",
     "category": "사고"
+  },
+  {
+    "event_key": "us-holds-up-patriot-missiles-ukraine-2026",
+    "topic": "미국, 우크라이나행 패트리어트 공급 보류",
+    "slug": "2026-10-20-news-us-holds-up-patriot-missiles-ukraine-2026",
+    "cluster": "CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA",
+    "badge": "brief",
+    "at": 1792487605.867488,
+    "country": "미국",
+    "category": "국제"
   }
 ]

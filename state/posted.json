@@ -19778,5 +19778,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792482254
+  },
+  {
+    "slug": "2026-10-20-news-us-holds-up-patriot-missiles-ukraine-2026",
+    "event_ms": 1792487605867,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 트럼프 행정부가 우크라이나에 대한 패트리어트 미사일 지원을 보류했습니다.\n\n· 백악관이 우크라이나로 향하는 패트리어트 요격미사일 이전을 차단했습니다 (워싱턴포스트·텔레그래프).\n· 젤렌스키 대통령은 미국이 요격미사일 인도를 의도적으로 늦추고 있다고 주장했습니다 (가디언·프랑스24).\n· 젤렌스키 대통령은 록히드마틴과 패트리어트 공급 속도를 높이는 방안을 논의했습니다 (로이터).\n\n미국의 방공 미사일 지원 보류 조치, 어떻게 보십니까?\n출처: 워싱턴포스트·텔레그래프·가디언·프랑스24·로이터 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18115405523002738",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DetfGDqERHN",
+        "kind": "carousel",
+        "at": 1792487652
+      },
+      "instagram": {
+        "id": "18131458786765678",
+        "permalink": "https://www.instagram.com/reel/DetfXseDNg3/",
+        "kind": "reel",
+        "at": 1792487816
+      },
+      "youtube": {
+        "id": "eqnx86FSayQ",
+        "permalink": "https://youtube.com/shorts/eqnx86FSayQ",
+        "kind": "shorts",
+        "at": 1792488071
+      },
+      "tiktok": {
+        "id": "6ad732930b25f71ece576279",
+        "permalink": "",
+        "kind": "video",
+        "at": 1792488284
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792488294
   }
 ]

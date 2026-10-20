@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-20-news-us-holds-up-patriot-missiles-ukraine-2026",
+  "topic": "미국, 우크라이나행 패트리어트 공급 보류",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 14:58 KST",
+  "source": "France 24·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA",
+    "related": [
+      [
+        "Ukraine war briefing: Zelenskyy claims US deliberately delaying interceptor missile deliveries to Kyiv",
+        "The Guardian"
+      ],
+      [
+        "White House blocks transfer of Patriot missiles to Ukraine",
+        "The Telegraph"
+      ],
+      [
+        "Trump administration holds up Patriot missiles for Ukraine",
+        "The Washington Post"
+      ],
+      [
+        "Zelensky accuses US of delaying missile deliveries as tensions rise",
+        "France 24"
+      ],
+      [
+        "Ukraine's Zelenskiy discusses speeding up supplies of Patriots with Lockheed Martin",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us-holds-up-patriot-missiles-ukraine-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국, 우크라이나행\n[[패트리어트]] 공급 보류",
+      "sub": "백악관 미사일 이전 제동 속 젤렌스키 지연 비판",
+      "chips": [
+        {
+          "k": "무기",
+          "v": "패트리어트"
+        }
+      ],
+      "alt": "미국, 우크라이나행 패트리어트 공급 보류",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "패트리어트 이전 차단",
+          "d": "백악관이 우크라이나로 향하는 패트리어트 요격미사일 이전을 차단했다고 텔레그래프와 워싱턴포스트가 전했습니다."
+        },
+        {
+          "t": "우크라이나의 반발",
+          "d": "젤렌스키 우크라이나 대통령은 미국이 미사일 인도를 고의로 늦추고 있다고 주장했다고 가디언과 프랑스24가 보도했습니다."
+        },
+        {
+          "t": "록히드마틴과 공급 논의",
+          "d": "젤렌스키 대통령은 록히드마틴과 패트리어트 공급 신속화를 논의했다고 로이터 통신이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국의 우크라이나 패트리어트 공급 보류",
+        "젤렌스키 대통령의 공급 지연 비판"
+      ],
+      "unconfirmed": [
+        "지원 보류 기간 및 재개 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "France 24",
+        "Reuters",
+        "The Guardian",
+        "The Telegraph",
+        "The Washington Post",
+        "2026.10.20 18:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 트럼프 행정부가 우크라이나에 대한 패트리어트 미사일 지원을 보류했습니다.\n\n· 백악관이 우크라이나로 향하는 패트리어트 요격미사일 이전을 차단했습니다 (워싱턴포스트·텔레그래프).\n· 젤렌스키 대통령은 미국이 요격미사일 인도를 의도적으로 늦추고 있다고 주장했습니다 (가디언·프랑스24).\n· 젤렌스키 대통령은 록히드마틴과 패트리어트 공급 속도를 높이는 방안을 논의했습니다 (로이터).\n\n미국의 방공 미사일 지원 보류 조치, 어떻게 보십니까?\n출처: 워싱턴포스트·텔레그래프·가디언·프랑스24·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 우크라이나행 패트리어트 미사일 공급을 보류했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "워싱턴포스트와 텔레그래프는 백악관이 미사일 이전을 차단했다고 보도했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "젤렌스키 우크라이나 대통령은 미국이 공급을 의도적으로 늦추고 있다고 비판했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국의 보류 결정이 언제까지 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "미국의 이번 지원 보류 결정, 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "우크라 [[패트리어트]]\n공급 중단되나?",
+  "broll": [
+    "missile defense system",
+    "white house building"
+  ],
+  "place_en": "Washington, D.C., United States"
+}
