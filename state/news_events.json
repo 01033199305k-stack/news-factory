@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ethiopia-tigray-fighting-alamata",
-    "topic": "에티오피아 티그라이 교전 격화 알라마타서 민간인 52명 사망",
-    "slug": "2026-10-01-news-ethiopia-tigray-fighting-alamata",
-    "cluster": "CBMiW0FVX3lxTE1DMzhTeTMyMHl1QVFpYmlORzg4MDUtSWNWY3lXY0taV21QQy1OMTUyTVJXMWJCUDVUc1BGMDBFdE1zd2lvSDNDbGtabEFPaGZrSVRIWkN0eEY2N2M",
-    "badge": "breaking",
-    "at": 1790788118.9118433,
-    "country": "에티오피아",
-    "category": "국제"
-  },
-  {
     "event_key": "poland-live-tv-accident-2026",
     "topic": "폴란드서 뉴스 생방송 도중 14세 소녀 차량에 치여",
     "slug": "2026-10-01-news-poland-live-tv-accident-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792469252.9276783,
     "country": "인도네시아",
     "category": "재난"
+  },
+  {
+    "event_key": "seoul_yeoksam_building_fire_2026",
+    "topic": "서울 역삼동 상가 건물서 불 1명 심정지 이송",
+    "slug": "2026-10-20-news-seoul-yeoksam-building-fire-2026",
+    "cluster": "CBMiW0FVX3lxTFBCVnNBNFE4RHdoVzNvRFlKaDhLUDllUGItUzFaTHVZUlRBZUhWMUN1THd2NTlRSVpCdkJfNVUyRnNaenN4VlZ2SFlfY21INWc2V2xyYUxMbHV5NE0",
+    "badge": "breaking",
+    "at": 1792470760.1242871,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]

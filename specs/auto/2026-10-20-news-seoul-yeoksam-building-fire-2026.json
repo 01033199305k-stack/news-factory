@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-20-news-seoul-yeoksam-building-fire-2026",
+  "topic": "서울 역삼동 상가 건물서 불 1명 심정지 이송",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 13:06 KST",
+  "source": "KBS 뉴스·뉴시스·서울경제 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBCVnNBNFE4RHdoVzNvRFlKaDhLUDllUGItUzFaTHVZUlRBZUhWMUN1THd2NTlRSVpCdkJfNVUyRnNaenN4VlZ2SFlfY21INWc2V2xyYUxMbHV5NE0",
+    "related": [
+      [
+        "[속보] 서울 역삼동 상가 4층서 화재…남성 1명 심정지 이송",
+        "KBS 뉴스"
+      ],
+      [
+        "[속보] 서울 역삼동 상가서 화재…30대 여성 심정지·10여 명 부상",
+        "KBS 뉴스"
+      ],
+      [
+        "[속보] 서울 역삼동 상가 화재…1명 심정지, 수십명 대피",
+        "한겨레"
+      ],
+      [
+        "서울 역삼동 빌딩서 불…1명 심정지",
+        "뉴시스"
+      ],
+      [
+        "[속보] 서울 역삼동 상가 건물서 화재… 1명 심정지",
+        "서울경제"
+      ]
+    ],
+    "event_key": "seoul_yeoksam_building_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "서울 역삼동 상가 건물서 불\n1명 [[심정지]] 이송",
+      "sub": "수십 명 대피하고 10여 명 부상",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "10여 명"
+        }
+      ],
+      "alt": "서울 역삼동 상가 건물서 불 1명 심정지 이송",
+      "map": {
+        "lat": 37.49988,
+        "lon": 127.03856,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울 역삼동",
+      "video_only": true,
+      "map": {
+        "lat": 37.49988,
+        "lon": 127.03856,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울 역삼동"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대피 소동",
+          "d": "상가 건물에서 화재가 발생해 수십 명이 대피했습니다 (KBS 뉴스·한겨레)."
+        },
+        {
+          "t": "인명 피해",
+          "d": "1명이 심정지 상태로 이송됐고 10여 명이 다쳤습니다 (KBS 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "서울 역삼동 상가 건물 화재",
+        "1명 심정지 이송",
+        "10여 명 부상 및 수십 명 대피"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "뉴시스",
+        "서울경제",
+        "한겨레",
+        "2026.10.20 13:32 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 서울 역삼동 상가 건물서 불이 나 1명이 심정지 상태로 이송됐습니다.\n\n· 상가 4층에서 불이 시작돼 수십 명이 대피했습니다 (KBS 뉴스·한겨레)\n· 이 화재로 1명이 심정지 상태로 이송되고 10여 명이 부상을 입었습니다 (KBS 뉴스)\n\n출처: KBS 뉴스·한겨레·뉴시스·서울경제 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "서울 역삼동의 한 상가 건물에서 불이 나서 1명이 심정지 상태로 이송됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "KBS 뉴스는 상가 4층에서 불이 나 수십 명이 대피했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 화재로 10여 명이 다친 것으로 파악됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "서울 역삼동 상가서\n불이 난 [[이유]]는?",
+  "broll": [
+    "building fire smoke",
+    "fire engine emergency"
+  ],
+  "place_en": "Yeoksam-dong, Seoul"
+}
