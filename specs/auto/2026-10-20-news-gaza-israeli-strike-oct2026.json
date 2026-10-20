@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-20-news-gaza-israeli-strike-oct2026",
+  "topic": "이스라엘군 가자지구 공습 최소 4명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 23:31 KST",
+  "source": "Al Jazeera·Reuters·Click2Houston 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMif0FVX3lxTFBkeU9OS2VJM0NIeXJhWFg5TVIyb0RfQkFodEhvZU5QcGY1bnBZbGJ5R2JBM1dHSDNCTVM5aUNNVlNzbmxTQU1PS056YmhYWkhNTEhsNFVmTW5MMVBCaWQzbzlSMjhtYndtY0E2RFk1TVp5d3FISDZiNjVVOHR0dGc",
+    "related": [
+      [
+        "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "The Jerusalem Post"
+      ],
+      [
+        "Israeli fire kills four people in Gaza, medics say",
+        "Reuters"
+      ],
+      [
+        "Israeli attacks kill at least four Palestinians in Gaza",
+        "Al Jazeera"
+      ],
+      [
+        "IDF: 2 struck after crossing Gaza’s Yellow Line, trying to sabotage army infrastructure",
+        "The Times of Israel"
+      ],
+      [
+        "An Israeli pre-dawn strike on a Gaza apartment kills 2 people, and other Mideast news",
+        "Click2Houston"
+      ]
+    ],
+    "event_key": "gaza_israeli_strike_oct2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘군 [[가자지구]] 공습\n최소 4명 사망",
+      "sub": "군사 인프라 접근자 타격 및 아파트 공습 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "4명 이상"
+        }
+      ],
+      "alt": "이스라엘군 가자지구 공습 최소 4명 사망",
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 발생",
+          "d": "이스라엘군의 공격으로 가자지구에서 최소 4명이 숨졌다고 로이터와 알자지라가 보도했습니다."
+        },
+        {
+          "t": "교전 상황",
+          "d": "이스라엘군은 군사 인프라 파괴를 시도하던 2명을 타격했다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "가자지구 이스라엘군 공습",
+        "사망자 4명 이상 (로이터·알자지라)"
+      ],
+      "unconfirmed": [
+        "전체 부상자 규모 및 추가 인명 피해",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Click2Houston",
+        "Reuters",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "2026.10.21 01:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군 가자지구 공습 최소 4명 사망\n\n· 이스라엘군의 공격으로 가자지구에서 최소 4명이 숨졌다고 로이터와 알자지라가 보도했습니다.\n· 이스라엘군은 군사 인프라 파괴를 시도하던 2명을 타격했다고 밝혔습니다.\n\n출처: Reuters·Al Jazeera·The Times of Israel 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군의 가자지구 공습으로 최소 4명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터와 알자지라는 이스라엘군의 공격으로 사망자가 발생했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이스라엘군은 군사 인프라를 파괴하려던 이들을 타격했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "중동 사태가 악화하는 가운데, 여러분은 이 상황을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "가자지구 [[공습]]으로\n무슨 일이?",
+  "broll": [
+    "gaza strip smoke",
+    "medics ambulance night"
+  ],
+  "place_en": "Gaza Strip"
+}

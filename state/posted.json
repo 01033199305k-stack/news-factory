@@ -20105,5 +20105,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792502794
+  },
+  {
+    "slug": "2026-10-20-news-gaza-israeli-strike-oct2026",
+    "event_ms": 1792506718000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘군 가자지구 공습 최소 4명 사망\n\n· 이스라엘군의 공격으로 가자지구에서 최소 4명이 숨졌다고 로이터와 알자지라가 보도했습니다.\n· 이스라엘군은 군사 인프라 파괴를 시도하던 2명을 타격했다고 밝혔습니다.\n\n출처: Reuters·Al Jazeera·The Times of Israel 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18133379971667969",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeuOuQkGzMp",
+        "kind": "carousel",
+        "at": 1792512626
+      },
+      "instagram": {
+        "id": "18349995343271044",
+        "permalink": "https://www.instagram.com/reel/DeuPBwLDTdB/",
+        "kind": "reel",
+        "at": 1792512806
+      },
+      "youtube": {
+        "id": "yDexwQwxpJ4",
+        "permalink": "https://youtube.com/shorts/yDexwQwxpJ4",
+        "kind": "shorts",
+        "at": 1792512847
+      },
+      "tiktok": {
+        "id": "7698784113410493703",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698784113410493703",
+        "kind": "video",
+        "at": 1792512980
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792512990
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-military-brass-cut-hegseth",
-    "topic": "미국 전쟁부 장관, 미군 장성 20% 감축 계획 공식 확인",
-    "slug": "2026-10-01-news-us-military-brass-cut-hegseth",
-    "cluster": "CBMihgFBVV95cUxOdzB5NTliRE5TN0pPRE10WjF1RVRBNXFza1FCYWZKMEFnUEdwSi00WVZVbE5qY3B6d3dYUGpHcjk4ZVFpenR3NVphX0dtLS02N3MzNW1vZ2g2SldTMjVHSTFRNFl0b1NlS1RELXEyaVVSR09YSC0tZFg1N2VwZXZWS3lsRFdfdw",
-    "badge": "brief",
-    "at": 1790820700.7741914,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "japan-permanent-residency-fee",
     "topic": "일본, 영주권 수수료 20배 인상 이민 기준 대폭 강화",
     "slug": "2026-10-01-news-japan-permanent-residency-fee",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792501750.2490513,
     "country": "사우디아라비아",
+    "category": "국제"
+  },
+  {
+    "event_key": "gaza_israeli_strike_oct2026",
+    "topic": "이스라엘군 가자지구 공습 최소 4명 사망",
+    "slug": "2026-10-20-news-gaza-israeli-strike-oct2026",
+    "cluster": "CBMif0FVX3lxTFBkeU9OS2VJM0NIeXJhWFg5TVIyb0RfQkFodEhvZU5QcGY1bnBZbGJ5R2JBM1dHSDNCTVM5aUNNVlNzbmxTQU1PS056YmhYWkhNTEhsNFVmTW5MMVBCaWQzbzlSMjhtYndtY0E2RFk1TVp5d3FISDZiNjVVOHR0dGc",
+    "badge": "breaking",
+    "at": 1792512576.1159322,
+    "country": "팔레스타인",
     "category": "국제"
   }
 ]
