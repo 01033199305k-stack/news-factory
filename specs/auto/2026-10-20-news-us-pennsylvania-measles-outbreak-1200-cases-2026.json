@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-20-news-us-pennsylvania-measles-outbreak-1200-cases-2026",
+  "topic": "미 펜실베이니아 홍역 비상 감염자 1,286명 집계",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.20 07:44 KST",
+  "source": "NBC News·Reuters·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwAFBVV95cUxQVTZxd09wVXZPNTJ2TTR2Wl8yMDZJT3BWVTdIZTRXNTFVQzVfWU5ueGUyQUxiOGhnYjV2S2hMUzRGVDdpVTFHUk85MFgzQlFxU3pTc1FSenB5aXRMZXNQTGFQX3YxazNMQndiSUI1ODk3amVPcW1ELUpPdWFHRzNVNVdkQ1Q5M1lkckVHQ2pnWHJyR0VsZG5Cb2RGemZqcFdqMnVNTF8taEozTVVjdzZYU0c2aGlhU2k3UTZfNjV5NXc",
+    "related": [
+      [
+        "Pennsylvania issues alert on congenital measles—something US hasn’t seen for decades",
+        "Ars Technica"
+      ],
+      [
+        "Pennsylvania measles cases rise to 1,286, state health department says",
+        "Reuters"
+      ],
+      [
+        "At the center of the state’s growing measles outbreak, it’s business as usual",
+        "Inquirer.com"
+      ],
+      [
+        "CDC sending a ‘disease detective’ to help stop measles outbreak in Pennsylvania",
+        "NBC News"
+      ],
+      [
+        "New PA measles update still does not include reported Franklin County death",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "us-pennsylvania-measles-outbreak-1200-cases-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 펜실베이니아 [[홍역]] 비상\n감염자 1,286명 집계",
+      "sub": "미 질병통제예방센터 역학조사관 현장 파견",
+      "chips": [
+        {
+          "k": "감염자",
+          "v": "1,286명"
+        }
+      ],
+      "alt": "미 펜실베이니아 홍역 비상 감염자 1,286명 집계",
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n펜실베이니아",
+      "video_only": true,
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "펜실베이니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "CDC 조사관 파견",
+          "d": "미 질병통제예방센터가 확산 대응을 위해 역학조사관을 보냅니다 (NBC)."
+        },
+        {
+          "t": "선천성 홍역 경보",
+          "d": "주 당국은 선천성 홍역 경보를 발령했습니다 (아스 테크니카)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "감염자 1,286명 집계 (로이터)",
+        "CDC 역학조사관 파견 (NBC)"
+      ],
+      "unconfirmed": [
+        "정확한 감염 경로",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Ars Technica",
+        "Inquirer.com",
+        "NBC News",
+        "Reuters",
+        "Yahoo",
+        "2026.10.20 10:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 펜실베이니아주에서 홍역 감염자가 1,286명으로 늘었습니다.\n\n· 미 질병통제예방센터(CDC)가 확산 대응을 위해 역학조사관을 파견합니다 (NBC)\n· 주 당국은 선천성 홍역 경보를 발령했습니다 (아스 테크니카)\n\n출처: 로이터·NBC·아스 테크니카 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펜실베이니아주에서 홍역 감염자가 1286명으로 집계됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미 질병통제예방센터는 확산 대응을 위해 역학조사관을 파견한다고 NBC가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "펜실베이니아주 당국은 선천성 홍역 경보를 발령했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 감염 경로는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[홍역]] 확산에\n미 당국 비상",
+  "broll": [
+    "hospital corridor",
+    "medical laboratory"
+  ],
+  "place_en": "Pennsylvania, United States"
+}

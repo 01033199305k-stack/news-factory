@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france-student-protests-violence-2026",
-    "topic": "프랑스 고교생 시위 격화 충돌로 수십 명 부상·체포",
-    "slug": "2026-09-30-news-france-student-protests-violence-2026",
-    "cluster": "CBMipAFBVV95cUxPWC1DM3ZDVTh2Y3hyMDdYWlo2OVNaUW43dWJGZ1NmQ3JZLXVLNHJkWEhHNGdsMHdfamRMbUV3Y2M1S2J5YjJsNkNpeHR4d2NJTGd0azJnZlc3cVAxUGQyRm04WmI5MjJoOTVzMkZYc2s1NkZGM1BTWGNXSkFlaTM3TjFYeWRJNGpyNUlJOFlRT1pvZzFBSWVZU3lab2RTd1dIYkkxRw",
-    "badge": "breaking",
-    "at": 1790777429.1311905,
-    "country": "프랑스",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "hormuz-strait-tanker-attacks-2026",
     "topic": "호르무즈 해협서 선박 피격 유조선 등 화재 발생",
     "slug": "2026-09-30-news-hormuz-strait-tanker-attacks-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792454892.02051,
     "country": "멕시코",
+    "category": "재난"
+  },
+  {
+    "event_key": "us-pennsylvania-measles-outbreak-1200-cases-2026",
+    "topic": "미 펜실베이니아 홍역 비상 감염자 1,286명 집계",
+    "slug": "2026-10-20-news-us-pennsylvania-measles-outbreak-1200-cases-2026",
+    "cluster": "CBMiwAFBVV95cUxQVTZxd09wVXZPNTJ2TTR2Wl8yMDZJT3BWVTdIZTRXNTFVQzVfWU5ueGUyQUxiOGhnYjV2S2hMUzRGVDdpVTFHUk85MFgzQlFxU3pTc1FSenB5aXRMZXNQTGFQX3YxazNMQndiSUI1ODk3amVPcW1ELUpPdWFHRzNVNVdkQ1Q5M1lkckVHQ2pnWHJyR0VsZG5Cb2RGemZqcFdqMnVNTF8taEozTVVjdzZYU0c2aGlhU2k3UTZfNjV5NXc",
+    "badge": "breaking",
+    "at": 1792458469.6041255,
+    "country": "미국",
     "category": "재난"
   }
 ]

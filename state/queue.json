@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "slug": "2026-10-20-news-us-pennsylvania-measles-outbreak-1200-cases-2026",
+    "event_ms": 1792449866000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 펜실베이니아주에서 홍역 감염자가 1,286명으로 늘었습니다.\n\n· 미 질병통제예방센터(CDC)가 확산 대응을 위해 역학조사관을 파견합니다 (NBC)\n· 주 당국은 선천성 홍역 경보를 발령했습니다 (아스 테크니카)\n\n출처: 로이터·NBC·아스 테크니카 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18185324425420268",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DesnhgAjfXQ",
+        "kind": "carousel",
+        "at": 1792458519
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792458665
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
