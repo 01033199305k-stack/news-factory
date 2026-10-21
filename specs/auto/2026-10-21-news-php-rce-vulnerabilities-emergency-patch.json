@@ -1,0 +1,147 @@
+{
+  "slug": "2026-10-21-news-php-rce-vulnerabilities-emergency-patch",
+  "topic": "워드프레스 등 비상 PHP 취약점 발견",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 13:57 KST",
+  "source": "Ars Technica·Chron·Cyber Daily 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigAFBVV95cUxNbjN3SkNMZnRrQWkwSmJjQWtoOFJQeHN3VWM0VG84eGJwcERUUFRVelVoU1QxM19FRXdwYmdkVVpmNjJjWkhhQXFkeHh5bmxwSmp3NmRaMjdnNGdwV2hkNDY1TENadEFiSUhESy1ydVItYVl4RUFQdVV2M0R3d0Uycg",
+    "related": [
+      [
+        "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+        "The Hacker News"
+      ],
+      [
+        "PHP warns it plans to release 2 emergency patches imminently",
+        "Ars Technica"
+      ],
+      [
+        "PHP vulnerability puts WordPress, websites at risk after leak",
+        "Chron"
+      ],
+      [
+        "Alert! PHP preparing to address pair of Critical RCE vulnerabilities",
+        "Cyber Daily"
+      ],
+      [
+        "Critical PHP Security Release Coming Tomorrow (October 21)",
+        "Laravel News"
+      ]
+    ],
+    "event_key": "php-rce-vulnerabilities-emergency-patch"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "워드프레스 등 비상\n[[PHP 취약점]] 발견",
+      "sub": "치명적 원격 코드 실행 취약점 패치 긴급 배포 예정",
+      "chips": [
+        {
+          "k": "위험도",
+          "v": "CVSS 9.2"
+        }
+      ],
+      "alt": "워드프레스 등 비상 PHP 취약점 발견",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "긴급 패치",
+          "d": "PHP 측은 치명적 취약점을 해결하기 위한 긴급 패치를 임박해 배포할 계획이라고 Ars Technica 등이 보도했습니다."
+        },
+        {
+          "t": "대상 범위",
+          "d": "이번 취약점으로 인해 워드프레스 등 다수의 웹사이트가 위험에 노출됐다고 Chron 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "치명적 RCE 취약점 2건 발견",
+        "CVSS 점수 9.2 기록",
+        "긴급 보안 패치 공개 예정"
+      ],
+      "unconfirmed": [
+        "실제 피해 규모 및 해킹 악용 사례"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Ars Technica",
+        "Chron",
+        "Cyber Daily",
+        "Laravel News",
+        "The Hacker News",
+        "2026.10.21 16:20 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 워드프레스 등 웹사이트를 위협하는 치명적 PHP 취약점이 발견됐습니다\n\n· CVSS 9.2 수준의 심각한 원격 코드 실행 취약점 2건이 확인됐습니다 (The Hacker News)\n· PHP 측은 긴급 보안 패치를 곧 배포할 예정이라고 밝혔습니다 (Ars Technica)\n· 이번 취약점으로 워드프레스 등 웹사이트가 위험에 노출됐다고 전해졌습니다 (Chron)\n\n여러분은 이 같은 소프트웨어 보안 위협에 어떤 대비가 필요하다고 보십니까?\n\n출처: The Hacker News·Ars Technica·Chron 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "치명적인 PHP 취약점이 발견되면서 웹사이트에 비상이 걸렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "The Hacker News는 CVSS 9.2 점에 달하는 원격 코드 실행 취약점 2건이 확인됐다고 보도했습니다.",
+      "card": "points",
+      "screen": "CVSS 9.2"
+    },
+    {
+      "text": "Ars Technica는 PHP 측이 긴급 보안 패치를 배포할 계획이라고 전했습니다.",
+      "card": "points",
+      "screen": "긴급 패치 예정"
+    },
+    {
+      "text": "이번 취약점으로 워드프레스 등 웹사이트가 위험에 노출된 가운데 실제 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 소프트웨어 보안 위협에 대해 어떤 대비가 필요하다고 보십니까?",
+      "card": "ask",
+      "screen": "어떤 대비 필요할까?"
+    }
+  ],
+  "hook": "웹사이트 비상 걸린\n[[PHP 취약점]] 실체",
+  "broll": [
+    "computer screen code",
+    "server room racks"
+  ],
+  "place_en": "Washington, USA"
+}
