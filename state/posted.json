@@ -21241,5 +21241,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792613732
+  },
+  {
+    "slug": "2026-10-22-news-nigeria-ebola-outbreak-2026",
+    "event_ms": 1792610980000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 나이지리아서 에볼라 확진\n\n· 우간다를 방문했던 환자로부터 유입됐다고 당국은 밝혔습니다 (BBC)\n· 의회는 비상기금의 집행을 요구했습니다 (펀치 뉴스가)\n\n출처: BBC·가디언·WHO 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "나이지리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18166407064468468",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DexVhLVAVUW",
+        "kind": "carousel",
+        "at": 1792616853
+      },
+      "instagram": {
+        "id": "18099095009096394",
+        "permalink": "https://www.instagram.com/reel/DexVw0rE24u/",
+        "kind": "reel",
+        "at": 1792616997
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792617007
+      },
+      "tiktok": {
+        "id": "7699231384296115464",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699231384296115464",
+        "kind": "video",
+        "at": 1792617129
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792617139
   }
 ]

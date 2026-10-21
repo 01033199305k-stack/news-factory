@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-sanctions-iran-auto-rail",
-    "topic": "미국, 이란 자동차·철도 신규 경제 제재 단행",
-    "slug": "2026-10-02-news-us-sanctions-iran-auto-rail",
-    "cluster": "CBMizwFBVV95cUxOMGQ5cWhPbnlFT0hFQU1VME1qVVB2SndmZVROdUpzUU1sVGxRcDZndDN0R1BwdGVXRThreEJhTnV4WWQzZ19xUjlqZ3hqWjBWSEJWQ1JtcExJNVVRTG95UHQ1RjFsc21pbWQ4Q3c3dnhvYWZXUF9uNmQ0UHhWT1pJRXg3Yk42b0dOS0FJVmNsbGJLeFZTQkNKcW5ocVZVSzBlS2tnSnRpM044NEhMZW1FMG94N1U2dW1fUXJkbng1clJZSHpaZVVGLXFyeDBYcXM",
-    "badge": "breaking",
-    "at": 1790886408.7357616,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "us-deploys-troops-middle-east-iran-2026",
     "topic": "미국, 중동에 항모 3척·병력 최대 1만 명 추가 파견",
     "slug": "2026-10-02-news-us-deploys-troops-middle-east-iran-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792613268.5318305,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "nigeria_ebola_outbreak_2026",
+    "topic": "나이지리아서 에볼라 확진 서아프리카 확산 비상",
+    "slug": "2026-10-22-news-nigeria-ebola-outbreak-2026",
+    "cluster": "CBMiXkFVX3lxTE90ZDljYVVhMTNUOGhidUR5V3BmZzN0SEY0OEpRZEJlVnZ1cE4wc2QyYW5mc3BzYU4zWWJvRm1ELUFsdmRhWm1lSnlNTUh4QlFKdXBXSjFOVmFFRURCTWc",
+    "badge": "breaking",
+    "at": 1792616800.3794324,
+    "country": "나이지리아",
+    "category": "재난"
   }
 ]

@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-22-news-nigeria-ebola-outbreak-2026",
+  "topic": "나이지리아서 에볼라 확진 서아프리카 확산 비상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 04:29 KST",
+  "source": "BBC·Financial Times·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE90ZDljYVVhMTNUOGhidUR5V3BmZzN0SEY0OEpRZEJlVnZ1cE4wc2QyYW5mc3BzYU4zWWJvRm1ELUFsdmRhWm1lSnlNTUh4QlFKdXBXSjFOVmFFRURCTWc",
+    "related": [
+      [
+        "Nigeria's first Ebola holidayed in Uganda, officials say",
+        "BBC"
+      ],
+      [
+        "Nigeria confirms Ebola case as outbreak spreads into western Africa",
+        "The Guardian"
+      ],
+      [
+        "Nigeria confirms imported case of Ebola Bundibugyo virus disease",
+        "WHO | Regional Office for Africa"
+      ],
+      [
+        "Ebola: Reps demand immediate release of health emergency funds",
+        "Punch Newspapers"
+      ],
+      [
+        "Ebola spreads to west Africa",
+        "Financial Times"
+      ]
+    ],
+    "event_key": "nigeria_ebola_outbreak_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "나이지리아서 [[에볼라]] 확진\n서아프리카 확산 비상",
+      "sub": "세계보건기구 등이 유입 사실을 공식 확인했습니다.",
+      "chips": [
+        {
+          "k": "질병",
+          "v": "에볼라"
+        }
+      ],
+      "alt": "나이지리아서 에볼라 확진 서아프리카 확산 비상",
+      "map": {
+        "lat": 9.6000359,
+        "lon": 7.9999721,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "나이지리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "나이지리아",
+      "video_only": true,
+      "map": {
+        "lat": 9.6000359,
+        "lon": 7.9999721,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "나이지리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유입",
+          "d": "우간다를 방문했던 환자로부터 유입됐다고 당국은 밝혔습니다 (BBC)."
+        },
+        {
+          "t": "대응",
+          "d": "의회는 비상기금의 집행을 요구했습니다 (펀치 뉴스가)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "나이지리아 에볼라 확진",
+        "우간다 방문 이력 확인"
+      ],
+      "unconfirmed": [
+        "정확한 확산 규모 및 추가 감염자 수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Financial Times",
+        "Punch Newspapers",
+        "The Guardian",
+        "WHO | Regional Office for Africa",
+        "2026.10.22 06:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 나이지리아서 에볼라 확진\n\n· 우간다를 방문했던 환자로부터 유입됐다고 당국은 밝혔습니다 (BBC)\n· 의회는 비상기금의 집행을 요구했습니다 (펀치 뉴스가)\n\n출처: BBC·가디언·WHO 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "나이지리아에서 에볼라 바이러스 확진 사례가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "당국은 우간디를 방문했던 환자로부터 유입됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "의회는 비상기금의 집행을 요구했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "나이지리아서\n[[에볼라]] 확진",
+  "broll": [
+    "hospital exterior medical",
+    "laboratory research medical"
+  ],
+  "place_en": "Nigeria"
+}
