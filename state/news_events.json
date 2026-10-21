@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "south-pacific-whale-sinks-yacht",
-    "topic": "남태평양서 고래가 요트 침몰 선원 4명 생존 구조",
-    "slug": "2026-10-01-news-south-pacific-whale-sinks-yacht",
-    "cluster": "CBMikwFBVV95cUxPdUNmc3FEWlVidzZMaFZxVkpaRDA2d0JyeEl4UG9uMXl3ZFRNamU5MzE2d0E5YmVvMmRaN3FHTzRhb0tLNGI2QWczX0N6ckpPc1dlRFRxVXFEYUV2d1h5a0xOMHh0SlBpTEM4dGg3N21JUjZrX3FobHozZjJIT2NiczZsb2tsLWpUZVNNalMwQVBodVE",
-    "badge": "breaking",
-    "at": 1790859126.0036194,
-    "country": "남태평양",
-    "category": "사고"
-  },
-  {
     "event_key": "canada-truck-driver-sentenced",
     "topic": "캐나다 연쇄 추돌 사고로 2명 숨지게 한 트럭 운전자 징역 6년 선고",
     "slug": "2026-10-01-news-canada-truck-driver-sentenced",
@@ -2998,5 +2988,15 @@
     "at": 1792552235.041229,
     "country": "노르웨이",
     "category": "국제"
+  },
+  {
+    "event_key": "tesla-spacex-merger-committees-2026",
+    "topic": "테슬라·스페이스X 합병 위원회 구성",
+    "slug": "2026-10-21-news-tesla-spacex-merger-committees-2026",
+    "cluster": "CBMiW0FVX3lxTE16YkJNMmtrWGtwS1o3WVJYN2xHbDVZWXYzU0RrUk1mNV9BdTU3VTktal9xYjhHTW9qMXMtb3JhcG1wTmF1MElCUkFDM1lvM3BYRDgwVXA1MnlQUTA",
+    "badge": "brief",
+    "at": 1792559244.3313532,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

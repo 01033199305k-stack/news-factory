@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-21-news-tesla-spacex-merger-committees-2026",
+  "topic": "테슬라·스페이스X 합병 위원회 구성",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 13:13 KST",
+  "source": "BBC·Bloomberg.com·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE16YkJNMmtrWGtwS1o3WVJYN2xHbDVZWXYzU0RrUk1mNV9BdTU3VTktal9xYjhHTW9qMXMtb3JhcG1wTmF1MElCUkFDM1lvM3BYRDgwVXA1MnlQUTA",
+    "related": [
+      [
+        "Tesla and SpaceX: Why does Elon Musk want to merge the companies?",
+        "BBC"
+      ],
+      [
+        "Musk says Tesla and SpaceX formed special committees to discuss merger: Live updates",
+        "CNBC"
+      ],
+      [
+        "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees",
+        "Reuters"
+      ],
+      [
+        "SpaceX Profit Beats Estimates on Big Jump in AI Business Revenue",
+        "Bloomberg.com"
+      ],
+      [
+        "SpaceX and Tesla have formed committees to discuss potential merger, Musk says",
+        "CNN"
+      ]
+    ],
+    "event_key": "tesla-spacex-merger-committees-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "테슬라·스페이스X\n[[합병 위원회]] 구성",
+      "sub": "머스크 \"양사 합병 좋은 아이디어\" 밝혀",
+      "chips": [],
+      "alt": "테슬라·스페이스X 합병 위원회 구성",
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국",
+      "video_only": true,
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "머스크 합병 언급",
+          "d": "일론 머스크는 테슬라와 스페이스X의 합병이 좋은 생각이라며 논의를 위한 특별위원회가 꾸려졌다고 밝혔습니다 (로이터·CNBC)."
+        },
+        {
+          "t": "합병 논의 위원회 구성",
+          "d": "테슬라와 스페이스X는 잠재적 합병 논의를 위해 위원회를 구성했습니다 (CNN·CNBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "양사 합병 논의 특별위원회 구성",
+        "일론 머스크의 합병 긍정 발언"
+      ],
+      "unconfirmed": [
+        "합병 성사 여부 및 구체적 거래 방식"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bloomberg.com",
+        "CNBC",
+        "CNN",
+        "Reuters",
+        "2026.10.21 14:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 테슬라와 스페이스X가 합병 논의를 위한 특별위원회를 꾸렸습니다.\n\n· 일론 머스크는 양사의 합병이 좋은 생각이라며 위원회가 구성됐다고 밝혔습니다 (로이터·CNBC).\n· 테슬라와 스페이스X는 잠재적 합병을 논의하기 위한 위원회를 구성했습니다 (CNN·CNBC).\n\n거대 혁신 기업들의 결합 추진, 어떻게 보십니까?\n출처: BBC·CNBC·로이터·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "테슬라와 스페이스X가 합병 논의를 위한 위원회를 꾸렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "머스크는 양사 합병이 좋은 생각이라며 특별위원회를 구성했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "CNN과 CNBC 등은 두 회사가 잠재적 합병 논의를 위해 위원회를 구성했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "합병의 성사 여부와 구체적 거래 방식은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "거대 기술 기업의 결합 논의, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[테슬라와 스페이스X]]\n하나로 합치나",
+  "broll": [
+    "stock exchange screen",
+    "rocket launchpad"
+  ],
+  "place_en": "United States"
+}
