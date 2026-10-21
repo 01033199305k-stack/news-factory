@@ -20703,5 +20703,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792574258
+  },
+  {
+    "slug": "2026-10-21-news-russia-frees-stephen-hubbard-2026",
+    "event_ms": 1792580847320,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 러시아 정부, 4년 수감된 미국인 스티븐 허바드 석방\n\n· 미국 특사가 푸틴 대통령과 회담을 진행하는 과정에서 석방 소식이 전해졌습니다 (NBC 뉴스·BBC)\n· 풀려난 인물은 74세 미국인 스티븐 허바드라고 러시아 국영 매체가 보도했습니다 (NBC 뉴스·뉴욕 타임스)\n\n여러분은 이번 러·미 간의 조치가 향후 외교 관계에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: NBC 뉴스·BBC·뉴욕 타임스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18136328380645314",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DewQ8UvIDqp",
+        "kind": "carousel",
+        "at": 1792580900
+      },
+      "instagram": {
+        "id": "18096339791400669",
+        "permalink": "https://www.instagram.com/reel/DewRTrhidcY/",
+        "kind": "reel",
+        "at": 1792581111
+      },
+      "youtube": {
+        "id": "SKhxkufjWRI",
+        "permalink": "https://youtube.com/shorts/SKhxkufjWRI",
+        "kind": "shorts",
+        "at": 1792581128
+      },
+      "tiktok": {
+        "id": "6ad89e139c5d256f6597f6e4",
+        "permalink": "",
+        "kind": "video",
+        "at": 1792581340
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792581350
   }
 ]

@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-21-news-russia-frees-stephen-hubbard-2026",
+  "topic": "러시아 정부, 미국인 스티븐 허바드 석방 미국 특사 푸틴 회담 중 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 18:25 KST",
+  "source": "ABC News·BBC·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E",
+    "related": [
+      [
+        "Russia says it freed American Stephen Hubbard, 74, as Trump envoy meets with Putin",
+        "NBC News"
+      ],
+      [
+        "Putin says Russia has freed Michigan native Stephen Hubbard",
+        "The Detroit News"
+      ],
+      [
+        "Russia frees US citizen Stephen Hubbard, state media reports",
+        "BBC"
+      ],
+      [
+        "Detained American Stephen Hubbard released by Russia as Witkoff meets Putin",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Russia Releases American Who Was Jailed for 4 Years, State Media Reports",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "russia-frees-stephen-hubbard-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아 정부, 미국인 [[스티븐 허바드]] 석방\n미국 특사 푸틴 회담 중 발표",
+      "sub": "러시아 국영 매체는 4년 동안 수감됐던 74세 미국인이 풀려났다고 보도했습니다.",
+      "chips": [
+        {
+          "k": "수감 기간",
+          "v": "4년"
+        },
+        {
+          "k": "나이",
+          "v": "74세"
+        }
+      ],
+      "alt": "러시아 정부, 미국인 스티븐 허바드 석방 미국 특사 푸틴 회담 중 발표",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "특사 회담 중 발표",
+          "d": "미국 특사가 푸틴 대통령과 회담을 진행하는 과정에서 석방 소식이 전해졌습니다 (NBC 뉴스·BBC)."
+        },
+        {
+          "t": "석방 대상자 신원",
+          "d": "풀려난 인물은 74세 미국인 스티븐 허바드라고 러시아 국영 매체가 보도했습니다 (NBC 뉴스·뉴욕 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국인 스티븐 허바드 석방",
+        "미국 특사와 푸틴 회담 진행",
+        "러시아 국영 매체 보도 확인"
+      ],
+      "unconfirmed": [
+        "석방에 관한 양국 간 합의 조건"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "NBC News",
+        "The Detroit News",
+        "The New York Times",
+        "2026.10.21 20:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아 정부, 4년 수감된 미국인 스티븐 허바드 석방\n\n· 미국 특사가 푸틴 대통령과 회담을 진행하는 과정에서 석방 소식이 전해졌습니다 (NBC 뉴스·BBC)\n· 풀려난 인물은 74세 미국인 스티븐 허바드라고 러시아 국영 매체가 보도했습니다 (NBC 뉴스·뉴욕 타임스)\n\n여러분은 이번 러·미 간의 조치가 향후 외교 관계에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: NBC 뉴스·BBC·뉴욕 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 정부가 수감 중이던 74세 미국인 스티븐 허바드를 석방했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 특사와 푸틴 대통령이 회담하는 중에 이 소식이 전해졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "러시아 국영 매체는 허바드가 4년 동안 갇혀 있다가 풀려났다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 석방을 이끌어낸 양국 간의 구체적인 합의 조건은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 조치가 향후 외교 관계에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "외교 관계 영향은?"
+    }
+  ],
+  "hook": "러시아가 4년 만에\n[[미국인]]을 석방한 이유는?",
+  "broll": [
+    "government building press conference",
+    "moscow street winter"
+  ],
+  "place_en": "Moscow, Russia"
+}

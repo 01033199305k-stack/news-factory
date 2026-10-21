@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "swiss-glaciers-melt-2026",
-    "topic": "스위스 빙하, 5년간 20% 소실 기록적 폭염 속 얼음 급감",
-    "slug": "2026-10-01-news-swiss-glaciers-melt-2026",
-    "cluster": "CBMiqAFBVV95cUxPOHotQmcyZWt5ZUpHZ1lfZ1F3M0pkQVNBOF9KTTQwUmdLOWZjQkdsRnhpYVNXdWU4S0tQSVFWY1VwYkZCcnVRVWtVRkE5NFlMLWk4QmtydHQwSlJBb0dYMWdTZ1gyenVJZXJQVVdncG5EZkxSbGlBYS1POUZlYUdYN2VWcC1nRE5FTk42VVdPWWRxSGlXZG1nY3FWNVduWnVLQXVzenBLdWs",
-    "badge": "breaking",
-    "at": 1790861354.4377134,
-    "country": "스위스",
-    "category": "재난"
-  },
-  {
     "event_key": "ethiopia-addis-ababa-explosions",
     "topic": "에티오피아 수도서 폭발 드론 운항 금지 조치 내려져",
     "slug": "2026-10-01-news-ethiopia-addis-ababa-explosions",
@@ -2998,5 +2988,15 @@
     "at": 1792573835.7717383,
     "country": "프랑스",
     "category": "사고"
+  },
+  {
+    "event_key": "russia-frees-stephen-hubbard-2026",
+    "topic": "러시아 정부, 미국인 스티븐 허바드 석방 미국 특사 푸틴 회담 중 발표",
+    "slug": "2026-10-21-news-russia-frees-stephen-hubbard-2026",
+    "cluster": "CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E",
+    "badge": "brief",
+    "at": 1792580847.3203843,
+    "country": "러시아",
+    "category": "국제"
   }
 ]
