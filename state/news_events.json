@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "eiffel-tower-director-resigns",
-    "topic": "에펠탑 책임자 사임 발표 여성 직원 배제 논란 여파",
-    "slug": "2026-10-02-news-eiffel-tower-director-resigns",
-    "cluster": "CBMitAFBVV95cUxNVUV2V2o0YUFCR1lKQlF0NnJPRmdCeG9ocVMzVUppckRzaFJBNXlMNjY4MkxDZDgzQUxaZnpRM0VORWtwX1V2eVRDRW8wTVMtTFpQdTFGLXRicVdCcWVCaXAzUHhFbnJVY1ZDRUU0azhpUkQ1XzlrWnlOMV9HZjZ2U0xpLU5iNkxWMU9lNXdYc25WWnFUeERPZUM0MG0xWVdxQmhCRmQyNlpnWlFCeGM4NGIwMjLSAbwBQVVfeXFMT1R3dXhOb3p5WTdlWGMtM1A4RkdKalJYejAyYU1rTmUxVERkOFBLMkZSdU45V2FSbVZKaXJLTmQ3V3dIN0hhbnlxNjAxSmM4d0FtMmxVc2FlUUFFZVU2dzZVMzNPUHE3a0t3ZnFhdEdOR3llVGZLdDdLTWFwdUhnR0tsbi1lUjJQalJLTkRFS20zSHpmMVRiMVpaeVZNNnl2aV9PbngyUml3dTRMZGJzTm5UZWk5bWxmR0NwRHQ",
-    "badge": "breaking",
-    "at": 1790870561.7707002,
-    "country": "프랑스",
-    "category": "국제"
-  },
-  {
     "event_key": "raf-fairford-arrest",
     "topic": "영국 공군기지 보안 사건 이중 국적자 체포",
     "slug": "2026-10-02-news-raf-fairford-arrest",
@@ -2998,5 +2988,15 @@
     "at": 1792588157.1108804,
     "country": "대한민국",
     "category": "재난"
+  },
+  {
+    "event_key": "middle-east-oil-exports-recover-2026",
+    "topic": "중동 원유 수출량, 전쟁 전 수준 회복",
+    "slug": "2026-10-21-news-middle-east-oil-exports-recover-2026",
+    "cluster": "CBMihAFBVV95cUxNRUpxSXBnV3lLb2hmSHBCc2sxQlgyVnhTSklvZEpnM21ZSGRMTHlOa1FEQnkwMDA3ME83Yjc1b1ZQQnJNSFlvN0J4ZWgyZHRnRXdpZWZ5VUVEMDd1eHh3WkJNZE5vckZjX1dXZ2lnUXpDa1dPV3dIVmdZWHlJbF9IaTRGSFc",
+    "badge": "breaking",
+    "at": 1792591017.5737467,
+    "country": "중동",
+    "category": "경제·과학"
   }
 ]

@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-21-news-middle-east-oil-exports-recover-2026",
+  "topic": "중동 원유 수출량, 전쟁 전 수준 회복",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 21:01 KST",
+  "source": "Financial Times·WSJ·The Maritime Executive 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxNRUpxSXBnV3lLb2hmSHBCc2sxQlgyVnhTSklvZEpnM21ZSGRMTHlOa1FEQnkwMDA3ME83Yjc1b1ZQQnJNSFlvN0J4ZWgyZHRnRXdpZWZ5VUVEMDd1eHh3WkJNZE5vckZjX1dXZ2lnUXpDa1dPV3dIVmdZWHlJbF9IaTRGSFc",
+    "related": [
+      [
+        "Middle East oil exports climb back to prewar levels",
+        "Financial Times"
+      ],
+      [
+        "Report: Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels",
+        "The Maritime Executive"
+      ],
+      [
+        "More Oil Is Now Coming Out of the Persian Gulf Than Before the Iran War",
+        "WSJ"
+      ],
+      [
+        "The Crude Conundrum",
+        "TheStreet Pro"
+      ],
+      [
+        "Non-Iran Middle East oil exports recover to prewar levels with Hormuz alternatives",
+        "The National"
+      ]
+    ],
+    "event_key": "middle-east-oil-exports-recover-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "중동 원유 수출량,\n[[전쟁 전 수준]] 회복",
+      "sub": "페르시아만 원유 수출량 전쟁 전보다 증가",
+      "chips": [],
+      "alt": "중동 원유 수출량, 전쟁 전 수준 회복",
+      "map": {
+        "lat": 36.3199341,
+        "lon": 50.0136636,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "중동"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중동\n페르시아만",
+      "video_only": true,
+      "map": {
+        "lat": 36.3199341,
+        "lon": 50.0136636,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "페르시아만"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수출량 회복",
+          "d": "중동 지역의 원유 수출량이 전쟁 이전 수준을 회복했습니다 (파이낸셜타임스·월스트리트저널)."
+        },
+        {
+          "t": "대체 경로 활용",
+          "d": "호르무즈 해협 외의 대체 경로를 통해 원유가 공급되고 있습니다 (더내셔널)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "중동 원유 수출량 전쟁 전 수준 회복",
+        "페르시아만 원유 출하량 증가"
+      ],
+      "unconfirmed": [
+        "향후 유가 안정세 지속 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Financial Times",
+        "The Maritime Executive",
+        "The National",
+        "TheStreet Pro",
+        "WSJ",
+        "2026.10.21 22:56 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 중동 원유 수출량, 전쟁 전 수준 회복\n\n· 중동 지역의 원유 수출량이 전쟁 이전 수준을 회복했습니다 (파이낸셜타임스·월스트리트저널)\n· 호르무즈 해협 외의 대체 경로를 통해 원유가 공급되고 있습니다 (더내셔널)\n\n여러분은 이번 원유 공급 회복세가 세계 경제에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 파이낸셜타임스·월스트리트저널·더내셔널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중동 지역의 원유 수출량이 전쟁 이전 수준을 회복했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이낸셜타임스와 월스트리트저널은 페르시아만의 원유 출하량이 다시 늘었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "호르무즈 해협 외의 대체 경로를 통해 원유가 공급되고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 원유 공급 회복세가 세계 경제에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "원유 수출 회복세"
+    }
+  ],
+  "hook": "중동 원유 수출량이\n[[전쟁 전]]으로?",
+  "broll": [
+    "oil tanker sea",
+    "oil refinery pipeline"
+  ],
+  "place_en": "Persian Gulf"
+}

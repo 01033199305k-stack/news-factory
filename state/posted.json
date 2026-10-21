@@ -20868,5 +20868,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792588721
+  },
+  {
+    "slug": "2026-10-21-news-middle-east-oil-exports-recover-2026",
+    "event_ms": 1792584097000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 중동 원유 수출량, 전쟁 전 수준 회복\n\n· 중동 지역의 원유 수출량이 전쟁 이전 수준을 회복했습니다 (파이낸셜타임스·월스트리트저널)\n· 호르무즈 해협 외의 대체 경로를 통해 원유가 공급되고 있습니다 (더내셔널)\n\n여러분은 이번 원유 공급 회복세가 세계 경제에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 파이낸셜타임스·월스트리트저널·더내셔널 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "중동"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18099393830532164",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DewkVJInEDt",
+        "kind": "carousel",
+        "at": 1792591063
+      },
+      "instagram": {
+        "id": "17908367370603671",
+        "permalink": "https://www.instagram.com/reel/DewkpduldS6/",
+        "kind": "reel",
+        "at": 1792591249
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792591259
+      },
+      "tiktok": {
+        "id": "7699121150940646677",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699121150940646677",
+        "kind": "video",
+        "at": 1792591421
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792591431
   }
 ]
