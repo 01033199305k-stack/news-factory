@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-21-news-us-toledo-chemical-leak-evacuation-2026",
+  "topic": "미 오하이오 화학 누출 주민에 대피령 발령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 21:32 KST",
+  "source": "Toledo Blade·WLWT·WTVG 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMimgJBVV95cUxNR1hfeHRUWUIzc2s4REhEeVpkcHRpV3IwMWFXUEVMWGdJc19KbGhkOG5JeXVtbnRtY2dtWHlodWpuRFJ6MzhOSVE3NnhBSWN3cDZDNmtEbHNDWEtoU1hTVHhudE1zTmtjV1ljUjN0a2Y4Q0dnZVE2SUp4aG8tb092MUUxZlRmT291Qk1JUHp1WkZJMzk2bzdZR2dYUnJNbjEzQWpsbU5sWkl3Z3VYaFJMRGE5Y1ByMFZVSFhVMExNazFNRm5xLXVFN3QyaW5pTlVVSW8wdHVDN2t0REd5MTliQzdRZTRuUWdTWHVJbzhCRDZaaGdwcUtqeU1ZZ0dYcy13c2hPN2U1dE9BUUZpOE5sS21hdnl1VE9mTlE",
+    "related": [
+      [
+        "What is glycidyl methacrylate? Health commissioner outlines risks, guidance after north Toledo chemical release",
+        "wtol.com"
+      ],
+      [
+        "Chemical leak in Toledo: Live updates on conditions, evacuations, shelter-in-place",
+        "wtol.com"
+      ],
+      [
+        "Photo gallery: Scene of North Toledo hazardous material incident",
+        "Toledo Blade"
+      ],
+      [
+        "North Toledo evacuation order due to hazardous material release - TPS, WLS closed",
+        "WTVG"
+      ],
+      [
+        "What is glycidyl methacrylate? What to know about Toledo \"hazardous materials release\"",
+        "WLWT"
+      ]
+    ],
+    "event_key": "us-toledo-chemical-leak-evacuation-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 오하이오 화학 누출\n주민에 [[대피령]] 발령",
+      "sub": "글리시딜 메타크릴레이트 누출로 인근 학교 휴교",
+      "chips": [
+        {
+          "k": "사고",
+          "v": "화학물질 누출"
+        },
+        {
+          "k": "조치",
+          "v": "대피령 발령"
+        }
+      ],
+      "alt": "미 오하이오 화학 누출 주민에 대피령 발령",
+      "map": {
+        "lat": 41.6529143,
+        "lon": -83.5378173,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오하이오주 털리도",
+      "video_only": true,
+      "map": {
+        "lat": 41.6529143,
+        "lon": -83.5378173,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오하이오주 털리도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주민 대피령 발령",
+          "d": "북부 털리도 지역에 유해 화학물질이 누출돼 대피령과 실내 대기 권고가 내려졌습니다 (WTOL)."
+        },
+        {
+          "t": "인근 학교 휴교",
+          "d": "유해 물질 누출 사고의 여파로 관내 공립학교들이 문을 닫았습니다 (WTVG)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 오하이오주 털리도 화학물질 누출",
+        "주민 대피령 및 실내 대기 지침 발령",
+        "인근 공립학교 휴교 조치"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "한국인 피해 여부",
+        "구체적인 누출 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Toledo Blade",
+        "WLWT",
+        "WTVG",
+        "wtol.com",
+        "2026.10.21 23:37 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 오하이오주 털리도에서 화학물질 누출로 주민 대피령이 내려졌습니다.\n\n· 북부 털리도 일대에 유해 화학물질이 누출돼 대피령과 실내 대기 지침이 발령됐습니다 (WTOL).\n· 사고 여파로 안전을 위해 인근 학교들이 일제히 문을 닫았습니다 (WTVG).\n· 보건 당국은 누출된 물질의 유해성과 대응 지침을 안내하고 있습니다 (WTOL).\n\n출처: WTOL·WTVG·털리도 블레이드 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 오하이오주 털리도에서 화학물질이 누출돼 대피령이 내려졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "당국은 북부 털리도 주민들에게 대피와 실내 대기 지침을 내렸습니다.",
+      "card": "map"
+    },
+    {
+      "text": "WTVG는 유해 물질 누출로 인근 학교들이 문을 닫았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해나 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "화학물질 누출로\n[[대피령]] 내린 곳",
+  "broll": [
+    "police siren night",
+    "fire truck road"
+  ],
+  "place_en": "Toledo, Ohio, USA"
+}

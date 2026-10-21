@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "raf-fairford-arrest",
-    "topic": "영국 공군기지 보안 사건 이중 국적자 체포",
-    "slug": "2026-10-02-news-raf-fairford-arrest",
-    "cluster": "CBMiW0FVX3lxTE5ZTmxHQ3phYnZ3M01jeTF1S09wYzUxLWt2VzctMjFOMkNOZmN5cnhkRjNHQWxxaUIyYTh5dThnNnJJQ2d4LTRfb19zZTJQbk9LUTR4RUJ3c2RsQzQ",
-    "badge": "breaking",
-    "at": 1790875220.6397688,
-    "country": "영국",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "south-korea-alaska-investment",
     "topic": "한국 정부, 미국의 알래스카 투자 주장 반박",
     "slug": "2026-10-02-news-south-korea-alaska-investment",
@@ -2998,5 +2988,15 @@
     "at": 1792591017.5737467,
     "country": "중동",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us-toledo-chemical-leak-evacuation-2026",
+    "topic": "미 오하이오 화학 누출 주민에 대피령 발령",
+    "slug": "2026-10-21-news-us-toledo-chemical-leak-evacuation-2026",
+    "cluster": "CBMimgJBVV95cUxNR1hfeHRUWUIzc2s4REhEeVpkcHRpV3IwMWFXUEVMWGdJc19KbGhkOG5JeXVtbnRtY2dtWHlodWpuRFJ6MzhOSVE3NnhBSWN3cDZDNmtEbHNDWEtoU1hTVHhudE1zTmtjV1ljUjN0a2Y4Q0dnZVE2SUp4aG8tb092MUUxZlRmT291Qk1JUHp1WkZJMzk2bzdZR2dYUnJNbjEzQWpsbU5sWkl3Z3VYaFJMRGE5Y1ByMFZVSFhVMExNazFNRm5xLXVFN3QyaW5pTlVVSW8wdHVDN2t0REd5MTliQzdRZTRuUWdTWHVJbzhCRDZaaGdwcUtqeU1ZZ0dYcy13c2hPN2U1dE9BUUZpOE5sS21hdnl1VE9mTlE",
+    "badge": "breaking",
+    "at": 1792593455.9077067,
+    "country": "미국",
+    "category": "사고"
   }
 ]
