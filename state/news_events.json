@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "emirates-flight-ek31-diverts",
-    "topic": "두바이발 런던행 에미레이트 여객기 비상 사태 선언 후 프랑크푸르트 회항",
-    "slug": "2026-10-01-news-emirates-flight-ek31-diverts",
-    "cluster": "CBMiuAFBVV95cUxNdWhkZDFrS2F6WkJnMDhNYUJ0S1FkTUcwMGdsZFM2cXNZbmkzWnJIcXQtYUo4YUdBRXJ0Q0lIYk9CMkxjUFp5blJYMXpOTzBneURvaUF4SDR4eFRyT2hveS1zUmRIendteDlJQ1BDaDc3Q01pNDdqOHlqb1V0andoVm1lLXNoX1NETHRVT096TGZ0NDJIUUlMbVhRbVNRcWh2c2lLRU04UDRmU195ZXh0b1JWcEwyVEdZ",
-    "badge": "breaking",
-    "at": 1790870548.9516306,
-    "country": "독일",
-    "category": "사고"
-  },
-  {
     "event_key": "eiffel-tower-director-resigns",
     "topic": "에펠탑 책임자 사임 발표 여성 직원 배제 논란 여파",
     "slug": "2026-10-02-news-eiffel-tower-director-resigns",
@@ -2998,5 +2988,15 @@
     "at": 1792584434.7421746,
     "country": "예멘",
     "category": "국제"
+  },
+  {
+    "event_key": "typhoon_champi_jeju_korea_2026",
+    "topic": "제30호 태풍 ‘참피’ 경로 변경 제주 향해 북상 중",
+    "slug": "2026-10-21-news-typhoon-champi-jeju-korea-2026",
+    "cluster": "CBMiW0FVX3lxTE1wc3VrTUdhWmQzY2xsSGU0eGV2N01fUFFqTHVrR25QZ0RldWNpaE14LWJ0N1kxSWYyYmtPVkgwXzVFcXBZRHA5R0c5TmpHelNjcF9uanJ4WWUzNlE",
+    "badge": "breaking",
+    "at": 1792588157.1108804,
+    "country": "대한민국",
+    "category": "재난"
   }
 ]
