@@ -21186,5 +21186,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792606411
+  },
+  {
+    "slug": "2026-10-22-news-us-embassy-gulf-personnel-departure-2026",
+    "event_ms": 1792608518000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 정부, 걸프 지역 대사관 인력 철수 준비\n\n· 걸프 지역 미 대사관의 일부 인력과 가족을 대상으로 한 출국 명령을 준비하고 있습니다 (Reuters)\n· 사우디아라비아 주재 미국 대사관 직원과 가족에게 출국 명령이 내려졌습니다 (The New Indian Express)\n· 서아시아 내 미국 공관들은 이란 연계 공격 가능성에 대비해 보안 경보를 발령했습니다 (The Hindu)\n\n출처: Reuters·The New Indian Express·The Hindu 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18072929174744945",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DexOyuKAYyN",
+        "kind": "carousel",
+        "at": 1792613326
+      },
+      "instagram": {
+        "id": "18376262380215454",
+        "permalink": "https://www.instagram.com/reel/DexPOX2iShG/",
+        "kind": "reel",
+        "at": 1792613573
+      },
+      "youtube": {
+        "id": "BuDybTR673o",
+        "permalink": "https://youtube.com/shorts/BuDybTR673o",
+        "kind": "shorts",
+        "at": 1792613590
+      },
+      "tiktok": {
+        "id": "7699216781818219784",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699216781818219784",
+        "kind": "video",
+        "at": 1792613722
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792613732
   }
 ]

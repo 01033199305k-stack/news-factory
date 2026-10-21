@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-22-news-us-embassy-gulf-personnel-departure-2026",
+  "topic": "미국 정부, 걸프 지역 대사관 인력 철수 준비 외교관 및 가족 대상 출국 명령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 03:48 KST",
+  "source": "Reuters·The Hindu·Forex Factory 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilwFBVV95cUxOTmNrdDh3aE5hNWE5ZlVFWG5FSXoyNGJCV0Vta05JMmt5UzE2OHE2di1nYU1LQTNJV3I4bGhISWpaOXAxeFpBWGJBQUQtRDIxTHJMaldTRDBvSUdFTDA0RjBac2kzdk9Wc29JM2ZwQU1xX3VUdE1NYVBKZWNjZk9QZUdTeXpMdUxSd0w3SVNGVEJnZUFEQ09V0gGcAUFVX3lxTFBmYVVJRVF6WlFyT2pmU2xLLU5YdzJjUlNSWGFrbkdOdk1oekp4MDdKdUJNUkUyWkpCRVk0OXZubnJqaGQzTEM0UmF2QlpVNzhPdm1MYVFXdU5CSnFvenAxNVpMQ05RYnNkRWNNazBKSmlQd0w3UnllU3V1a3dTQUluNU1OVUVvN2NvVnpLUnEydEdNVnlzWlV1OXpJSQ",
+    "related": [
+      [
+        "US Officials: State Dept Preparing To Issue Ordered Departure Of Some Personnel And Family Members At US Embassies Across The Gulf",
+        "Forex Factory"
+      ],
+      [
+        "EXCLUSIVE US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials",
+        "Reuters"
+      ],
+      [
+        "Washington orders all US embassy staff, families to leave Saudi Arabia: diplomatic source",
+        "The New Indian Express"
+      ],
+      [
+        "U.S. missions in West Asia issue security alert over possible Iran-backed attacks",
+        "The Hindu"
+      ],
+      [
+        "11 countries in the line of fire: Weapons continue to speak in the Middle East",
+        "TodayPress.tv"
+      ]
+    ],
+    "event_key": "us_embassy_gulf_personnel_departure_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 정부, [[걸프 지역]] 대사관 인력 철수 준비\n외교관 및 가족 대상 출국 명령",
+      "sub": "걸프만 인근 미 대사관 보안 경보 발령",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "인력 및 가족"
+        }
+      ],
+      "alt": "미국 정부, 걸프 지역 대사관 인력 철수 준비 외교관 및 가족 대상 출국 명령",
+      "map": {
+        "lat": -7.5556411,
+        "lon": 144.8850036,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n걸프 지역",
+      "video_only": true,
+      "map": {
+        "lat": -7.5556411,
+        "lon": 144.8850036,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "걸프 지역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사우디 대사관",
+          "d": "사우디아라비아 내 미국 대사관 직원과 가족에게 출국 명령이 내려졌습니다 (The New Indian Express)."
+        },
+        {
+          "t": "보안 경보",
+          "d": "서아시아 내 미국 외교 공관들은 이란 연계 공격 가능성에 대비해 보안 경보를 발령했습니다 (The Hindu)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "걸프 지역 미 대사관 인력 철수 준비 (Reuters 외)",
+        "사우디아라비아 주재 인력 및 가족 출국 명령 (The New Indian Express)"
+      ],
+      "unconfirmed": [
+        "철수 대상 인원의 정확한 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Forex Factory",
+        "Reuters",
+        "The Hindu",
+        "The New Indian Express",
+        "TodayPress.tv",
+        "2026.10.22 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 정부, 걸프 지역 대사관 인력 철수 준비\n\n· 걸프 지역 미 대사관의 일부 인력과 가족을 대상으로 한 출국 명령을 준비하고 있습니다 (Reuters)\n· 사우디아라비아 주재 미국 대사관 직원과 가족에게 출국 명령이 내려졌습니다 (The New Indian Express)\n· 서아시아 내 미국 공관들은 이란 연계 공격 가능성에 대비해 보안 경보를 발령했습니다 (The Hindu)\n\n출처: Reuters·The New Indian Express·The Hindu 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 걸프 지역 대사관의 일부 인력과 가족에게 철수 명령을 준비하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 당국에 따르면 걸프 지역 미 공관 직원들에게 출국 명령이 내려질 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "서아시아 내 미국 공관들은 이란 연계 공격 가능성에 대비해 보안 경보를 발령했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 철수 인원 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 대사관 인력 철수 조치에 대해 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "걸프 지역 [[미국 대사관]]\n철수 명령?",
+  "broll": [
+    "embassy building flag",
+    "middle east city street"
+  ],
+  "place_en": "Gulf region"
+}

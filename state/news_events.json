@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ethiopia-eritrea-diplomatic-ties-severed",
-    "topic": "에티오피아·에리트레아 외교 관계 전면 단절",
-    "slug": "2026-10-02-news-ethiopia-eritrea-diplomatic-ties-severed",
-    "cluster": "CBMitwFBVV95cUxPejNSZnA0b0E3bmZKTW13MXl1Uk9LMERtVE1YWVdDc1JmNVViUGRqRjIzRzBkLU4xd3BwdWdMWFo4SXk0MWdLRmk0NG1FS3YzQ1NkbjFkb0tUTWhqaTh6REFxVzRSMXRESGRYcDV3NWJfMXhUeGFHam1sYzJOVi1hUVVtbV9yRUxtN0JuSjBaX0NwVE9HcGMwNnJBcW8xN0sxSDktWFBycU1QZjA0WjlfcDh0UG9RdW8",
-    "badge": "breaking",
-    "at": 1790886395.2779498,
-    "country": "에티오피아",
-    "category": "국제"
-  },
-  {
     "event_key": "us-sanctions-iran-auto-rail",
     "topic": "미국, 이란 자동차·철도 신규 경제 제재 단행",
     "slug": "2026-10-02-news-us-sanctions-iran-auto-rail",
@@ -2998,5 +2988,15 @@
     "at": 1792606060.3964953,
     "country": "영국",
     "category": "사고"
+  },
+  {
+    "event_key": "us_embassy_gulf_personnel_departure_2026",
+    "topic": "미국 정부, 걸프 지역 대사관 인력 철수 준비 외교관 및 가족 대상 출국 명령",
+    "slug": "2026-10-22-news-us-embassy-gulf-personnel-departure-2026",
+    "cluster": "CBMilwFBVV95cUxOTmNrdDh3aE5hNWE5ZlVFWG5FSXoyNGJCV0Vta05JMmt5UzE2OHE2di1nYU1LQTNJV3I4bGhISWpaOXAxeFpBWGJBQUQtRDIxTHJMaldTRDBvSUdFTDA0RjBac2kzdk9Wc29JM2ZwQU1xX3VUdE1NYVBKZWNjZk9QZUdTeXpMdUxSd0w3SVNGVEJnZUFEQ09V0gGcAUFVX3lxTFBmYVVJRVF6WlFyT2pmU2xLLU5YdzJjUlNSWGFrbkdOdk1oekp4MDdKdUJNUkUyWkpCRVk0OXZubnJqaGQzTEM0UmF2QlpVNzhPdm1MYVFXdU5CSnFvenAxNVpMQ05RYnNkRWNNazBKSmlQd0w3UnllU3V1a3dTQUluNU1OVUVvN2NvVnpLUnEydEdNVnlzWlV1OXpJSQ",
+    "badge": "breaking",
+    "at": 1792613268.5318305,
+    "country": "미국",
+    "category": "국제"
   }
 ]
