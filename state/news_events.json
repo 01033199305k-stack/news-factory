@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-strikes-samara-oil-refinery",
-    "topic": "우크라이나 군 러시아 정유소 공습",
-    "slug": "2026-10-01-news-ukraine-strikes-samara-oil-refinery",
-    "cluster": "CBMivwFBVV95cUxORkxvU0xfTTNLQVhHaUplU2pkdFRieHMwNl9rYzFhbFVtNGVNeUVKUEtSazIzTzAxN2paMFRsTXNrRHAzdUxZLXVKLVh5U2ZLZ3VhZV83eVcwYnJyRW94a3AzVHNSSmFXV25WU004R2tmN0xoNUZBWEpxd0c2ZEtpMEVpeFRjV19UNHJTeGRycUNlM24xY0RjbU1GZ1R4ZnloOUxoODk1TlowaDNmN0FfMF9zZGlHV25ibTRmQzBpUQ",
-    "badge": "breaking",
-    "at": 1790860530.39707,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "swiss-glaciers-melt-2026",
     "topic": "스위스 빙하, 5년간 20% 소실 기록적 폭염 속 얼음 급감",
     "slug": "2026-10-01-news-swiss-glaciers-melt-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792567221.9651694,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "france-mirage-fighter-jet-crash-2026",
+    "topic": "프랑스 전투기 훈련 중 추락 1명 사망·1명 실종",
+    "slug": "2026-10-21-news-france-mirage-fighter-jet-crash-2026",
+    "cluster": "CBMitgFBVV95cUxOUHlpYVI1d09kRVVmeHl5VVVSNGF5RDM0Xy1KdVlET0I3OVBod0lqZkVfZm1EamY3Y0NjSzVLTGtQNHRzX0ptRlZaTGwxWVNWbDBSdFYyODNJU3ZuMG5kX1Rfcm9nZ3hlZXJTd05jU3lFUjB3WUZweWozYnBHTEV1S1J0SFpzOGF4QnJQTWl2MTQwaTk2RkUyTC1QV2VndW5aeVBEZlBrT2c1Q2NJYjhibG52UVRldw",
+    "badge": "breaking",
+    "at": 1792573835.7717383,
+    "country": "프랑스",
+    "category": "사고"
   }
 ]

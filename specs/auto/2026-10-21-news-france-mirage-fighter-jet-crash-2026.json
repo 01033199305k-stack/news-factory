@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-21-news-france-mirage-fighter-jet-crash-2026",
+  "topic": "프랑스 전투기 훈련 중 추락 1명 사망·1명 실종",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 16:33 KST",
+  "source": "The Independent·Le Monde.fr·The Aviationist 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxOUHlpYVI1d09kRVVmeHl5VVVSNGF5RDM0Xy1KdVlET0I3OVBod0lqZkVfZm1EamY3Y0NjSzVLTGtQNHRzX0ptRlZaTGwxWVNWbDBSdFYyODNJU3ZuMG5kX1Rfcm9nZ3hlZXJTd05jU3lFUjB3WUZweWozYnBHTEV1S1J0SFpzOGF4QnJQTWl2MTQwaTk2RkUyTC1QV2VndW5aeVBEZlBrT2c1Q2NJYjhibG52UVRldw",
+    "related": [
+      [
+        "Fighter jet crashes and explodes into fireball in France with one dead and search launched for missing crew member",
+        "The Independent"
+      ],
+      [
+        "One killed, one missing after French military plane crash in northeast France, French military says",
+        "The Jerusalem Post"
+      ],
+      [
+        "French Mirage 2000D Crashes During Night Training Mission",
+        "The Aviationist"
+      ],
+      [
+        "French fighter jet crashes during training, at least one dead",
+        "Le Monde.fr"
+      ],
+      [
+        "Air force plane crashes in France, one person dead, ministry says",
+        "TradingView"
+      ]
+    ],
+    "event_key": "france-mirage-fighter-jet-crash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스 전투기 훈련 중 추락\n[[1명 사망·1명 실종]]",
+      "sub": "미라주 전투기가 야간 비행 중 추락해 폭발했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "실종",
+          "v": "1명"
+        }
+      ],
+      "alt": "프랑스 전투기 훈련 중 추락 1명 사망·1명 실종",
+      "map": {
+        "lat": 49.3101271,
+        "lon": -80.4709509,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n북동부",
+      "video_only": true,
+      "map": {
+        "lat": 49.3101271,
+        "lon": -80.4709509,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "북동부"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 기종 미라주 2000D",
+          "d": "프랑스 공군 소속 미라주 2000D 전투기가 야간 훈련 비행 도중 추락했습니다 (디에비에이셔니스트)."
+        },
+        {
+          "t": "승무원 1명 수색 중",
+          "d": "프랑스 군 당국은 탑승자 중 1명이 숨지고 실종된 승무원 1명을 수색하고 있다고 밝혔습니다 (예루살렘포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "군용기 1대 추락",
+        "1명 사망 (프랑스군·르몽드)",
+        "1명 실종 (프랑스군)"
+      ],
+      "unconfirmed": [
+        "정확한 추락 원인",
+        "한국인 관련 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Le Monde.fr",
+        "The Aviationist",
+        "The Independent",
+        "The Jerusalem Post",
+        "TradingView",
+        "2026.10.21 18:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 군용기 훈련 중 추락, 1명 사망·1명 실종\n\n· 프랑스 북동부에서 공군 전투기가 훈련 비행 중 추락해 폭발했습니다 (르몽드·인디펜던트)\n· 프랑스 군 당국은 1명이 숨지고 실종된 승무원 1명을 수색 중이라고 밝혔습니다 (예루살렘포스트)\n· 사고 기종은 미라주 2000D로 파악됐으며 정확한 원인은 확인되지 않았습니다 (디에비에이셔니스트)\n\n출처: 르몽드·인디펜던트·예루살렘포스트·디에비에이셔니스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 북동부에서 군용기가 추락해 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "프랑스군은 훈련 중이던 미라주 전투기가 추락했다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "탑승자 중 1명이 숨지고 다른 1명은 실종돼 수색 중입니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 추락 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "야간 훈련 비행 중\n[[전투기]]에 무슨 일",
+  "broll": [
+    "fighter jet runway",
+    "search rescue helicopter"
+  ],
+  "place_en": "Northeastern France"
+}
