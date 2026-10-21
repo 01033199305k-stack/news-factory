@@ -1,0 +1,153 @@
+{
+  "slug": "2026-10-21-news-yemen-aden-houthi-missile-attack-2026",
+  "topic": "예멘 아덴서 폭발 후티 공격 주장",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 18:38 KST",
+  "source": "Al Jazeera·NDTV·Daily Sabah 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxPQUF4X21UdVc5X1hxWEhodUNuZnpFV3Q5SUppNHZxNG10UWNhTlVtSmhhdEFtOUN2ZS1VN253cUhqTGlDSlh6WllhU2VKU0ZITE5iWkwyMDBWazNxVU93YlloOVplVFlia3JRYmZrX3BuOVAwdTNfQmprQlhZUXhmRXl2RnV2RG10T3E1M19SYVRhVm9mbXhvVjIwbXRFTGFFdVZWbjB6SlNQOU1fZEHSAbMBQVVfeXFMTlpLaHNqS0d0bV9HdmNNZkhPUU45OHBqU1JMV1hLcDhwM01xUnY2S1JHSDRSS1JUTWdfWUxuY3hxUDdKUnA3Y0tNUy1tS1Iyc2JkdDRCQUpTbzJVMUEtZk5aUlpRUi1PdmNNSmhHb1JxVmRwWDNMblc0cUJmb1J3bnQ5X0ZOR092ZF9IZk9WMzVxendBNFpWVDVBUnBEalQzc2xiSWhZeGMxY0lVMDM4SEVIdDQ",
+    "related": [
+      [
+        "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+        "Al Jazeera"
+      ],
+      [
+        "Houthis claims attack on Saudi position in Aden while clashes flare | Daily Sabah",
+        "Daily Sabah"
+      ],
+      [
+        "Explosion in Yemen’s Aden near airport; police official says blast caused by Houthi missile",
+        "The Times of Israel"
+      ],
+      [
+        "5 killed in presidential palace attack in Yemen's Aden as Houthis claim Saudi officers killed",
+        "Xinhua"
+      ],
+      [
+        "Yemen's Government-Controlled City Of Aden Attacked In Houthi Strikes",
+        "NDTV"
+      ]
+    ],
+    "event_key": "yemen-aden-houthi-missile-attack-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "예멘 아덴서 폭발\n후티 공격 주장",
+      "sub": "공항과 군 기지 인근 타격… 5명 사망 보도",
+      "chips": [
+        {
+          "k": "피해 지역",
+          "v": "예멘 아덴"
+        },
+        {
+          "k": "공격 주장",
+          "v": "후티 반군"
+        }
+      ],
+      "alt": "예멘 아덴서 폭발 후티 공격 주장",
+      "map": {
+        "lat": 12.789585,
+        "lon": 45.028504,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "예멘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "예멘\n아덴",
+      "video_only": true,
+      "map": {
+        "lat": 12.789585,
+        "lon": 45.028504,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아덴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "아덴 공항·군 기지 인근 폭발",
+          "d": "예멘 정부 통제 지역인 아덴의 공항 인근과 군 기지에서 폭발이 발생했습니다 (알자지라·타임스오브이스라엘)."
+        },
+        {
+          "t": "후티 공격 주장",
+          "d": "후티 반군은 사우디 주둔지와 군 기지 등을 겨냥해 공격을 감행했다고 주장했습니다 (알자지라·데일리사바)."
+        },
+        {
+          "t": "5명 사망 보도",
+          "d": "신화통신은 아덴 대통령궁 공격으로 5명이 사망했다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "예멘 아덴 폭발 발생",
+        "후티 반군의 공격 주장",
+        "경찰 관계자 '공항 인근 폭발 원인은 후티 미사일' 발표"
+      ],
+      "unconfirmed": [
+        "정확한 사상자 수 (신화통신 5명 사망 보도)",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Daily Sabah",
+        "NDTV",
+        "The Times of Israel",
+        "Xinhua",
+        "2026.10.21 21:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 예멘 아덴서 폭발… 후티 공격 주장\n\n· 예멘 정부 통제하에 있는 아덴의 공항과 군 기지 인근에서 폭발이 발생했습니다 (알자지라·타임스오브이스라엘).\n· 후티 반군은 군 기지와 사우디 주둔지 등을 공격했다고 밝혔습니다 (알자지라·데일리사바).\n· 신화통신은 대통령궁 공격으로 5명이 숨졌다고 보도했습니다.\n\n출처: 알자지라·데일리사바·타임스오브이스라엘·신화통신·NDTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "예멘 아덴에서 폭발이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경찰은 공항 인근 폭발이 후티 반군의 미사일 공격 때문이라고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "후티 반군은 군 기지와 사우디 주둔지 등을 공격했다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "신화통신은 이번 공격으로 5명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사상자 규모는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "예멘 [[아덴]]에서\n무슨 일이?",
+  "broll": [
+    "airport runway night",
+    "military vehicles road"
+  ],
+  "place_en": "Aden, Yemen"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ethiopia-addis-ababa-explosions",
-    "topic": "에티오피아 수도서 폭발 드론 운항 금지 조치 내려져",
-    "slug": "2026-10-01-news-ethiopia-addis-ababa-explosions",
-    "cluster": "CBMiW0FVX3lxTE5hVnVmZjA2MDh5VnVFX1dhcnJhVnhPUkRhM0RWM3huODlZN3VfNGtSMTJpNlAyMkFtbjhWN1JvYzZIekdYdlY3UENoQUpQTFlLc2tzOWpUQWozZGM",
-    "badge": "breaking",
-    "at": 1790863402.858941,
-    "country": "에티오피아",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "emirates-flight-ek31-diverts",
     "topic": "두바이발 런던행 에미레이트 여객기 비상 사태 선언 후 프랑크푸르트 회항",
     "slug": "2026-10-01-news-emirates-flight-ek31-diverts",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1792580847.3203843,
     "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "yemen-aden-houthi-missile-attack-2026",
+    "topic": "예멘 아덴서 폭발 후티 공격 주장",
+    "slug": "2026-10-21-news-yemen-aden-houthi-missile-attack-2026",
+    "cluster": "CBMirgFBVV95cUxPQUF4X21UdVc5X1hxWEhodUNuZnpFV3Q5SUppNHZxNG10UWNhTlVtSmhhdEFtOUN2ZS1VN253cUhqTGlDSlh6WllhU2VKU0ZITE5iWkwyMDBWazNxVU93YlloOVplVFlia3JRYmZrX3BuOVAwdTNfQmprQlhZUXhmRXl2RnV2RG10T3E1M19SYVRhVm9mbXhvVjIwbXRFTGFFdVZWbjB6SlNQOU1fZEHSAbMBQVVfeXFMTlpLaHNqS0d0bV9HdmNNZkhPUU45OHBqU1JMV1hLcDhwM01xUnY2S1JHSDRSS1JUTWdfWUxuY3hxUDdKUnA3Y0tNUy1tS1Iyc2JkdDRCQUpTbzJVMUEtZk5aUlpRUi1PdmNNSmhHb1JxVmRwWDNMblc0cUJmb1J3bnQ5X0ZOR092ZF9IZk9WMzVxendBNFpWVDVBUnBEalQzc2xiSWhZeGMxY0lVMDM4SEVIdDQ",
+    "badge": "breaking",
+    "at": 1792584434.7421746,
+    "country": "예멘",
     "category": "국제"
   }
 ]
