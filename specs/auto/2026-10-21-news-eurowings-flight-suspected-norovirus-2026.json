@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-21-news-eurowings-flight-suspected-norovirus-2026",
+  "topic": "유로윙스 여객기서 노로바이러스 의심 증상 발생 승객 여러 명 질병 증세",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 22:59 KST",
+  "source": "AOL.co.uk·Daily Mirror·New York Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxOTjNYdFRCLXhmOWZHZ2kyczBEOU0yNThWb3hCZzBxZ19fcnFHTTZzclJoUlV2MjlYeFZQLTJWNnFCc1V6cmZ2cTVsVFZkdF91V3BETWlObVg1M2Zfb1dIZThhSm9LX0s4TWkzQUkyWUUwellaS1BHenozSTdJbm51SHZ4NzRjcF9yWGZpTHNDMzBQSDFySDI4azM2OHJxYUxFNXI1ZGljYzFpUlZf",
+    "related": [
+      [
+        "Medics in hazmat suits board plane as suspected norovirus makes passengers violently sick",
+        "New York Post"
+      ],
+      [
+        "3 Hospitalized: Suspected Norovirus Outbreak Sparks Panic On Eurowings Flight",
+        "Simple Flying"
+      ],
+      [
+        "Düsseldorf Airport mass casualty event as 'norovirus outbreak' erupts on flight",
+        "Daily Mirror"
+      ],
+      [
+        "Three Passengers Taken to Hospital After Multiple People On Eurowings Flight Succumb to Mystery Illness",
+        "PYOK"
+      ],
+      [
+        "'Medics in hazmat suits' board flight after 'several' passengers 'felt very unwell'",
+        "AOL.co.uk"
+      ]
+    ],
+    "event_key": "eurowings_flight_suspected_norovirus_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "유로윙스 여객기서 노로바이러스 의심 증상 발생\n승객 여러 명 질병 증세",
+      "sub": "방호복 착용 의료진 투입",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "3명 병원 이송"
+        },
+        {
+          "k": "원인",
+          "v": "노로바이러스 의심"
+        }
+      ],
+      "alt": "유로윙스 여객기서 노로바이러스 의심 증상 발생 승객 여러 명 질병 증세",
+      "map": {
+        "lat": 51.2872304,
+        "lon": 6.7620625,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n뒤셀도르프",
+      "video_only": true,
+      "map": {
+        "lat": 51.2872304,
+        "lon": 6.7620625,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뒤셀도르프"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "병원 이송",
+          "d": "승객 3명이 병원으로 이송됐다고 Simple Flying 등이 보도했습니다."
+        },
+        {
+          "t": "대응",
+          "d": "방호복을 입은 의료진이 항공기에 탑승해 조치했다고 New York Post 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유로윙스 여객기 내 의심 증상 발생",
+        "환자 3명 병원 이송",
+        "방호복 착용 의료진 투입"
+      ],
+      "unconfirmed": [
+        "정확한 감염 경로 및 바이러스 종류",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.co.uk",
+        "Daily Mirror",
+        "New York Post",
+        "PYOK",
+        "Simple Flying",
+        "2026.10.22 01:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 유로윙스 여객기서 노로바이러스 의심 증상 발생\n\n· 승객 여러 명이 질병 증세를 보여 방호복을 입은 의료진이 항공기에 탑승했습니다 (New York Post·Daily Mirror)\n· 승객 3명이 병원으로 이송됐습니다 (Simple Flying·PYOK)\n\n출처: New York Post·Simple Flying·Daily Mirror 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유로윙스 여객기 안에서 노로바이러스 의심 증세가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "방호복을 입은 의료진이 투입됐다고 외신들이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "승객 여러 명이 증세를 보였으며 3명이 병원으로 이송됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 감염 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "비행기 안에서\n무슨 일이?",
+  "broll": [
+    "airplane cabin interior",
+    "airport tarmac ambulance"
+  ],
+  "place_en": "Dusseldorf Airport, Germany"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "south-korea-alaska-investment",
-    "topic": "한국 정부, 미국의 알래스카 투자 주장 반박",
-    "slug": "2026-10-02-news-south-korea-alaska-investment",
-    "cluster": "CBMiqwFBVV95cUxNc3gwTDFHbEJncUlrNURRbmZFeklZVWNWZ1VjcFNSVXFjcEVMeTBIODBoWl93VzJSOGp3eUN3X2VRQWcwOGRxN1NSeUtrU0ltZjcxRTBFMDBhZVl1d21QTkJiVjktc09MTzlYVFJTVGRaY0lBOFFzUjZSQkF1M3VfUmxZS3JFYVZpOWxzdFpVQW5tZHB0LWZDT3owNGpjSl9rcjlFbXc5dnhveU0",
-    "badge": "breaking",
-    "at": 1790875233.3782752,
-    "country": "대한민국",
-    "category": "국제"
-  },
-  {
     "event_key": "pentagon-autowarcom-elon-musk",
     "topic": "미국 펜타곤, 자율무기사령부 신설 일론 머스크 등 참여 발표",
     "slug": "2026-10-02-news-pentagon-autowarcom-elon-musk",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792593455.9077067,
     "country": "미국",
+    "category": "사고"
+  },
+  {
+    "event_key": "eurowings_flight_suspected_norovirus_2026",
+    "topic": "유로윙스 여객기서 노로바이러스 의심 증상 발생 승객 여러 명 질병 증세",
+    "slug": "2026-10-21-news-eurowings-flight-suspected-norovirus-2026",
+    "cluster": "CBMirAFBVV95cUxOTjNYdFRCLXhmOWZHZ2kyczBEOU0yNThWb3hCZzBxZ19fcnFHTTZzclJoUlV2MjlYeFZQLTJWNnFCc1V6cmZ2cTVsVFZkdF91V3BETWlObVg1M2Zfb1dIZThhSm9LX0s4TWkzQUkyWUUwellaS1BHenozSTdJbm51SHZ4NzRjcF9yWGZpTHNDMzBQSDFySDI4azM2OHJxYUxFNXI1ZGljYzFpUlZf",
+    "badge": "breaking",
+    "at": 1792598853.206481,
+    "country": "독일",
     "category": "사고"
   }
 ]
