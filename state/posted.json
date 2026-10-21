@@ -20486,5 +20486,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792546997
+  },
+  {
+    "slug": "2026-10-21-news-ukraine-peace-talks-2026",
+    "event_ms": 1792552235041,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 특사, 푸틴에게 우크라이나 평화안 전달 예정\n\n· 젤렌스키 우크라이나 대통령은 미국 특사들과 노르웨이 오슬로에서 회담을 진행했습니다 (BBC)\n· 스티븐 위트코프 미국 특사는 회담 이후 블라디미르 푸틴 러시아 대통령에게 평화안을 제시할 예정입니다 (악시오스·로이터)\n\n질문: 이번 미국 특사의 평화안 전달이 전쟁 종식으로 이어질 수 있다고 보십니까?\n\n출처: 악시오스·로이터·BBC 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "노르웨이"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18431426506150694",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DevaXbHkXpV",
+        "kind": "carousel",
+        "at": 1792552280
+      },
+      "instagram": {
+        "id": "18110963621246988",
+        "permalink": "https://www.instagram.com/reel/Devav9ijNRn/",
+        "kind": "reel",
+        "at": 1792552506
+      },
+      "youtube": {
+        "id": "kF209P-B-Dw",
+        "permalink": "https://youtube.com/shorts/kF209P-B-Dw",
+        "kind": "shorts",
+        "at": 1792552523
+      },
+      "tiktok": {
+        "id": "7698954527638080786",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7698954527638080786",
+        "kind": "video",
+        "at": 1792552656
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792552666
   }
 ]

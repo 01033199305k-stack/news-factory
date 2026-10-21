@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-21-news-ukraine-peace-talks-2026",
+  "topic": "미국 특사, 젤렌스키 회담 이어 푸틴에게 평화안 전달 예정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 10:25 KST",
+  "source": "Axios·BBC·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM",
+    "related": [
+      [
+        "Witkoff to present Putin with peace proposal after talks with Zelensky",
+        "Axios"
+      ],
+      [
+        "US envoy Witkoff to meet Putin, Trump presses Kyiv to settle",
+        "Reuters"
+      ],
+      [
+        "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+        "BBC"
+      ],
+      [
+        "Finnish president hails progress in talks about ending Russia’s war in Ukraine",
+        "Financial Times"
+      ],
+      [
+        "World in Brief: Zelensky to meet Steve Witkoff; France enforces curfews",
+        "The Economist"
+      ]
+    ],
+    "event_key": "ukraine_peace_talks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 특사, 젤렌스키 회담 이어\n푸틴에게 [[평화안]] 전달 예정",
+      "sub": "미국과 우크라이나가 오슬로에서 회담을 열었습니다",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "푸틴·젤렌스키"
+        },
+        {
+          "k": "주체",
+          "v": "미국 특사"
+        }
+      ],
+      "alt": "미국 특사, 젤렌스키 회담 이어 푸틴에게 평화안 전달 예정",
+      "map": {
+        "lat": 59.9133301,
+        "lon": 10.7389701,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "노르웨이"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "노르웨이\n오슬로",
+      "video_only": true,
+      "map": {
+        "lat": 59.9133301,
+        "lon": 10.7389701,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오슬로"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "오슬로 회담",
+          "d": "볼로디미르 젤렌스키 우크라이나 대통령은 미국 특사들과 노르웨이 오슬로에서 회담을 진행했습니다 (BBC)."
+        },
+        {
+          "t": "평화안 전달",
+          "d": "스티븐 위트코프 미국 특사는 젤렌스키 대통령과의 회담 이후 블라디미르 푸틴 러시아 대통령에게 평화안을 제시할 예정입니다 (악시오스·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 특사의 푸틴 면담 예정",
+        "우크라이나·미국 오슬로 회담 개최"
+      ],
+      "unconfirmed": [
+        "평화안의 구체적인 내용과 조건",
+        "러시아 측의 공식 수용 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Axios",
+        "BBC",
+        "Financial Times",
+        "Reuters",
+        "The Economist",
+        "2026.10.21 12:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 특사, 푸틴에게 우크라이나 평화안 전달 예정\n\n· 젤렌스키 우크라이나 대통령은 미국 특사들과 노르웨이 오슬로에서 회담을 진행했습니다 (BBC)\n· 스티븐 위트코프 미국 특사는 회담 이후 블라디미르 푸틴 러시아 대통령에게 평화안을 제시할 예정입니다 (악시오스·로이터)\n\n질문: 이번 미국 특사의 평화안 전달이 전쟁 종식으로 이어질 수 있다고 보십니까?\n\n출처: 악시오스·로이터·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 특사가 블라디미르 푸틴 러시아 대통령에게 평화안을 전달할 예정입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 스티븐 위트코프 특사가 푸틴 대통령을 만날 계획이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나 젤렌스키 대통령은 노르웨이 오슬로에서 미국 특사들과 회담을 가졌습니다.",
+      "card": "map",
+      "screen": "노르웨이 오슬로"
+    },
+    {
+      "text": "평화안의 구체적인 내용과 조건은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 평화안이 전쟁을 끝내는 계기가 될 것으로 보십니까?",
+      "card": "ask",
+      "screen": "평화안 협상, 전망은?"
+    }
+  ],
+  "hook": "푸틴에게 전달될\n[[평화안]]의 내용은?",
+  "broll": [
+    "government building exterior",
+    "city street day"
+  ],
+  "place_en": "Oslo, Norway"
+}

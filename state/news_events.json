@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "california-medevac-helicopter-crash-october-2026",
-    "topic": "미국 캘리포니아 해상서 의료용 헬기 추락 2명 사망",
-    "slug": "2026-10-01-news-california-medevac-helicopter-crash-october-2026",
-    "cluster": "CBMijAFBVV95cUxNLWw0TGdYVVo3aWhJdVFja1BRR2ZSZjRyNGxfajVoWVo0ckxFZ1dBTUl5WTg3YTVsaVJYN3NFTk8yUk9ESFFYclRNOUVFSEZCclVMQmQ3Rko4N3VSNW5ENVBrcXFnMmdrcFIxMGxkWkxISG1IeUQ1YXIyemhWclBrSV92bjhSN2VnU1hRetIBkgFBVV95cUxQZGxqYkRoaWxQdFZHTV9BS2VETGZTdGxJQXJzLWR4X0dZOEtYUTVOSkpEZjdpNTJweFI2M1Y5bVMxNjZpOUpOU0NObFpMUXhOMC1KSWVmWXJyMUsyVG9Cc1ZjUVZIeU1ZUEpvRXZkSXlQblBseFBVdkgzNk9xVjBpMkU0XzNEWE02b1pRV1d0dXBMdw",
-    "badge": "breaking",
-    "at": 1790852869.4259195,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "south-pacific-whale-sinks-yacht",
     "topic": "남태평양서 고래가 요트 침몰 선원 4명 생존 구조",
     "slug": "2026-10-01-news-south-pacific-whale-sinks-yacht",
@@ -2996,6 +2986,16 @@
     "cluster": "CBMiW0FVX3lxTE9OcXdwQnZ5LWxrMElfTGl2Z1MtRnhOVzBmdTZaYms5cVdPXzlQekFlYVdrUzFqMlc3RVBvWG00aE1ibTF2cTJZSUhyMVpaY2ppTkRCYXpQVjhvMmM",
     "badge": "breaking",
     "at": 1792537632.6762824,
+    "country": "노르웨이",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_peace_talks_2026",
+    "topic": "미국 특사, 젤렌스키 회담 이어 푸틴에게 평화안 전달 예정",
+    "slug": "2026-10-21-news-ukraine-peace-talks-2026",
+    "cluster": "CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM",
+    "badge": "brief",
+    "at": 1792552235.041229,
     "country": "노르웨이",
     "category": "국제"
   }
