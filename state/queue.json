@@ -34,10 +34,14 @@
         "permalink": "https://youtube.com/shorts/nM97diClAoA",
         "kind": "shorts",
         "at": 1792537898
+      },
+      "instagram": {
+        "failed": "container 18122779246876789: ERROR ERROR",
+        "at": 1792544988
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 2
     },
     "video": "video.mp4"
