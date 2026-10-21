@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-22-news-jersey-haut-du-mont-explosion-guilty-2026",
+  "topic": "저지섬 가스 폭발 사고 가스 노동자 2명 유죄",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 00:23 KST",
+  "source": "BBC·Bailiwick Express·ITVX 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuwFBVV95cUxPa1UxZEw5eER0VWhZWVFHU2xSX3VwTU1sb0ZySS0yelY0ekd2bmxWVEl1WHVjdDEwdG9hTHktTFJoX3BjSDE5RmxPNnhFYXVsSTY2SVVaUWcyUHpRMmJLT3VuOXNadHlvNEg0RGx3SFloNTYzbGMzOGppRkwtRGl6Vk0zQVIyU1dSSElCbzJzX3EtQVlKRDJIazJSRHlodm9kX09wSHFRNVc1ajNxaUYzcDlXMVZDZy1HXzhF",
+    "related": [
+      [
+        "Guilty verdicts for two gas workers and their employer over fatal explosion | ITV News",
+        "ITVX"
+      ],
+      [
+        "Jersey gas workers and company found guilty over fatal explosion",
+        "BBC"
+      ],
+      [
+        "BREAKING: Two gas workers guilty over Haut du Mont explosion",
+        "Bailiwick Express"
+      ],
+      [
+        "Haut du Mont: Two Island Energy workers guilty of manslaughter over fatal explosion",
+        "Jersey Evening Post"
+      ],
+      [
+        "Haut du Mont trial: Jury “under no pressure of time” to reach verdicts",
+        "Bailiwick Express"
+      ]
+    ],
+    "event_key": "jersey_haut_du_mont_explosion_guilty_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "저지섬 가스 폭발 사고\n[[가스 노동자 2명]] 유죄",
+      "sub": "과실치사 혐의로 기소된 노동자들과 고용주 유죄 평결",
+      "chips": [
+        {
+          "k": "기소",
+          "v": "노동자 2명"
+        }
+      ],
+      "alt": "저지섬 가스 폭발 사고 가스 노동자 2명 유죄",
+      "map": {
+        "lat": 49.2123066,
+        "lon": -2.1256,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n저지섬",
+      "video_only": true,
+      "map": {
+        "lat": 49.2123066,
+        "lon": -2.1256,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "저지섬"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "법원 평결",
+          "d": "배심원단이 가스 노동자들과 고용주에게 유죄 평결을 내렸다고 BBC 등이 보도했습니다."
+        },
+        {
+          "t": "사건 배경",
+          "d": "과거 발생한 치명적인 가스 폭발 사고와 관련이 있다고 ITV News 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "가스 노동자 2명 및 고용주 유죄",
+        "과실치사 혐의"
+      ],
+      "unconfirmed": [
+        "정확한 형량 선고 결과",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bailiwick Express",
+        "ITVX",
+        "Jersey Evening Post",
+        "2026.10.22 03:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 저지섬 가스 폭발 사고 관련 가스 노동자 2명 유죄 평결\n\n· 과실치사 혐의로 기소된 노동자들과 고용주가 유죄를 선고받았다고 BBC 등이 보도했습니다.\n· 과거 발생한 치명적인 폭발 사고에 대한 법원의 판단이 내려졌습니다.\n\n출처: BBC·ITV News·Bailiwick Express 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "저지섬 가스 폭발 사고와 관련해 가스 노동자 2명과 고용주가 유죄 평결을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 과실치사 혐의에 대해 배심원단이 유죄를 인정했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 형량 선고 결과는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "저지섬 가스 폭발,\n[[노동자 2명]] 유죄?",
+  "broll": [
+    "gas pipeline street",
+    "court building exterior"
+  ],
+  "place_en": "Jersey, Channel Islands"
+}

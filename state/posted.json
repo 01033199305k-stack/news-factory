@@ -21133,5 +21133,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792603130
+  },
+  {
+    "slug": "2026-10-22-news-jersey-haut-du-mont-explosion-guilty-2026",
+    "event_ms": 1792596214000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 저지섬 가스 폭발 사고 관련 가스 노동자 2명 유죄 평결\n\n· 과실치사 혐의로 기소된 노동자들과 고용주가 유죄를 선고받았다고 BBC 등이 보도했습니다.\n· 과거 발생한 치명적인 폭발 사고에 대한 법원의 판단이 내려졌습니다.\n\n출처: BBC·ITV News·Bailiwick Express 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "영국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18046676702813583",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DexBCLwlRo6",
+        "kind": "carousel",
+        "at": 1792606113
+      },
+      "instagram": {
+        "id": "17873818428602219",
+        "permalink": "https://www.instagram.com/reel/DexBSsfApRX/",
+        "kind": "reel",
+        "at": 1792606268
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792606279
+      },
+      "tiktok": {
+        "id": "7699185384831470868",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699185384831470868",
+        "kind": "video",
+        "at": 1792606401
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792606411
   }
 ]

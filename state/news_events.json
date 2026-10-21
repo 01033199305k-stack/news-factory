@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "putin-kaliningrad-warning",
-    "topic": "푸틴 러시아 대통령, 칼리닌그라드 방어 위해 모든 무기 동원 경고",
-    "slug": "2026-10-02-news-putin-kaliningrad-warning",
-    "cluster": "CBMiXkFVX3lxTE1oUjQ0YnE3SUFhQklYdG5Hc3ZyQW1SSzVja09RMXJma001YjZ0VF9VcU1FS3hXNzRsdUZBa0hmRDhWdWJ1ZThkY0U5YloyRy16LUlFYXRzbmVCVEloWGc",
-    "badge": "breaking",
-    "at": 1790883584.0258672,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "ethiopia-eritrea-diplomatic-ties-severed",
     "topic": "에티오피아·에리트레아 외교 관계 전면 단절",
     "slug": "2026-10-02-news-ethiopia-eritrea-diplomatic-ties-severed",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792602506.5175,
     "country": "러시아",
+    "category": "사고"
+  },
+  {
+    "event_key": "jersey_haut_du_mont_explosion_guilty_2026",
+    "topic": "저지섬 가스 폭발 사고 가스 노동자 2명 유죄",
+    "slug": "2026-10-22-news-jersey-haut-du-mont-explosion-guilty-2026",
+    "cluster": "CBMiuwFBVV95cUxPa1UxZEw5eER0VWhZWVFHU2xSX3VwTU1sb0ZySS0yelY0ekd2bmxWVEl1WHVjdDEwdG9hTHktTFJoX3BjSDE5RmxPNnhFYXVsSTY2SVVaUWcyUHpRMmJLT3VuOXNadHlvNEg0RGx3SFloNTYzbGMzOGppRkwtRGl6Vk0zQVIyU1dSSElCbzJzX3EtQVlKRDJIazJSRHlodm9kX09wSHFRNVc1ajNxaUYzcDlXMVZDZy1HXzhF",
+    "badge": "breaking",
+    "at": 1792606060.3964953,
+    "country": "영국",
     "category": "사고"
   }
 ]
