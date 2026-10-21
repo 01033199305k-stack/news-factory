@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-22-news-australia-politician-car-attack-2026",
+  "topic": "호주 정치인, 차량 공격으로 두 다리 잃어",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 01:50 KST",
+  "source": "AP News·BBC·CBS News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxPbVd2UnVhbVJ3OC1vUXFFU2RfZ1NTNU1uY2xPNFpkVi12X3RIcHpzM2NUcWZBNjJxNkJsRHJTZzY1bEVfanczWDhxVGlaTnNnVUFOVDZzc0RabjJ3ZTN4MzhyUmdYOW5FSE9QTkRVdDFQYW1mdVNfMGd6cW01TExoUnFlSjVFX1l2UWJhcG5nWVFQckNuUm9EUml4WFM",
+    "related": [
+      [
+        "Australian politician who was hit by car has lost both legs",
+        "AP News"
+      ],
+      [
+        "Australian politician who was intentionally hit by car loses both her legs",
+        "CBS News"
+      ],
+      [
+        "Helen Haines: Australian MP loses both legs after alleged car attack, husband says",
+        "BBC"
+      ],
+      [
+        "Australian Politicians Were Already on Edge Before One of Their Own Was Attacked",
+        "The New York Times"
+      ],
+      [
+        "Wilson says Australia's Liberal Party must become a ‘big target’ to win back city seats",
+        "Politico"
+      ]
+    ],
+    "event_key": "australia_politician_car_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호주 정치인, [[차량 공격]]으로\n두 다리 잃어",
+      "sub": "BBC 등 주요 외신이 사건 발생 소식을 일제히 보도했습니다.",
+      "chips": [],
+      "alt": "호주 정치인, 차량 공격으로 두 다리 잃어",
+      "map": {
+        "lat": -35.2975906,
+        "lon": 149.1012676,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "호주"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "호주\n캔버라",
+      "video_only": true,
+      "map": {
+        "lat": -35.2975906,
+        "lon": 149.1012676,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캔버라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "피해 정치인",
+          "d": "차량에 치인 호주 정치인이 양다리를 잃었다고 AP 통신 등이 전했습니다."
+        },
+        {
+          "t": "사건 양상",
+          "d": "CBS 뉴스 등 외신은 고의적인 차량 공격으로 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호주 정치인 차량 공격 피해",
+        "피해자 양다리 절단"
+      ],
+      "unconfirmed": [
+        "정확한 범행 동기와 용의자 신원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "CBS News",
+        "Politico",
+        "The New York Times",
+        "2026.10.22 02:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호주 정치인, 차량 공격으로 두 다리 잃어 (AP·BBC)\n\n· 고의적인 차량 사고로 호주 현직 정치인이 양다리를 잃었다고 외신들이 보도했습니다\n· 남편에 따르면 차량 공격 사건 이후 두 다리를 잃은 것으로 전해졌습니다\n\n출처: AP News·CBS News·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호주에서 현직 정치인이 차량에 치여 두 다리를 잃는 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS 뉴스 등 외신은 이번 사건이 고의적인 차량 공격이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 동기와 용의자 신원은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "호주 정치인이\n[[차량 공격]]당한 이유는?",
+  "broll": [
+    "car accident street",
+    "police investigation tape"
+  ],
+  "place_en": "Canberra, Australia"
+}

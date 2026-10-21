@@ -21027,5 +21027,111 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792599209
+  },
+  {
+    "slug": "2026-10-22-news-australia-politician-car-attack-2026",
+    "event_ms": 1792601400000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 호주 정치인, 차량 공격으로 두 다리 잃어 (AP·BBC)\n\n· 고의적인 차량 사고로 호주 현직 정치인이 양다리를 잃었다고 외신들이 보도했습니다\n· 남편에 따르면 차량 공격 사건 이후 두 다리를 잃은 것으로 전해졌습니다\n\n출처: AP News·CBS News·BBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "호주"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119629501761601",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dew6RAYidO9",
+        "kind": "carousel",
+        "at": 1792602575
+      },
+      "instagram": {
+        "id": "17973958770168392",
+        "permalink": "https://www.instagram.com/reel/Dew6uNfjvRP/",
+        "kind": "reel",
+        "at": 1792602812
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792602863
+      },
+      "tiktok": {
+        "id": "7699170694692670772",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699170694692670772",
+        "kind": "video",
+        "at": 1792602987
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792602997
+  },
+  {
+    "slug": "2026-10-21-news-russia-su30-fighter-jet-crash-kaliningrad-2026",
+    "event_ms": 1792592040000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아 칼리닌그라드서 전투기 추락 (로이터·키이우포스트)\n\n· 러시아 Su-30 전투기가 칼리닌그라드 지역에서 추락했습니다\n· 탑승했던 조종사 2명은 생존한 것으로 확인됐습니다\n\n출처: Reuters·Kyiv Post 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18122895940931626",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dew6Ww9CeR2",
+        "kind": "carousel",
+        "at": 1792602609
+      },
+      "instagram": {
+        "id": "18147286330570885",
+        "permalink": "https://www.instagram.com/reel/Dew6yXKjcZX/",
+        "kind": "reel",
+        "at": 1792602853
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792602863
+      },
+      "tiktok": {
+        "id": "7699171281458957588",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699171281458957588",
+        "kind": "video",
+        "at": 1792603120
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792603130
   }
 ]

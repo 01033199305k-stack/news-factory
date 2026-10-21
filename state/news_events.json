@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "pentagon-autowarcom-elon-musk",
-    "topic": "미국 펜타곤, 자율무기사령부 신설 일론 머스크 등 참여 발표",
-    "slug": "2026-10-02-news-pentagon-autowarcom-elon-musk",
-    "cluster": "CBMiqwFBVV95cUxOU1hfUWh4NEdFX1RiZ2dpZDZpRXl0Q0ZpT012eEEySGJpOWdOQkU3Z3hwdk1hZ0NKOGc0R1U2ckE0X0R3bGpfSFUzVDczalV0bFBYaHJiTXVGdjFjS1FUbHdRSU5ReFhZZjd3dENWREN5THUycE9kdVBIMXA1dFk4NWExQWx3OWt3T1Jxa0F0U2gtVlV4SGZUUVVBVGFlUUFkN0VsdTRvWjlDY1k",
-    "badge": "breaking",
-    "at": 1790882160.869381,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
-    "event_key": "ukraine-fp7-missile-combat",
-    "topic": "우크라이나, 실전서 FP-7 탄도미사일 첫 사용 공식 확인",
-    "slug": "2026-10-02-news-ukraine-fp7-missile-combat",
-    "cluster": "CBMi2wFBVV95cUxObkJyb2N6RXY0YjRPVTVPTDd4OFVicGhMdWRkN3dGWFZRNEF5UHZCb25YY2hMQnJWdkYtYVFsSHRKU0MyUXpQaXVxS3dwdXdCMUpFdVVlaVhYbzV4NjRZbGF6RjVnM3Fwb2dJSVVIQTBmMGl4bjZRYUpLdEZDRzBaZElaSEZ4OGZQenZEQy1xbmN2aEhXVFRoRVJqNGNRd3oyRlg2QnFwT2IybE9CT0dIa3YwN1Y0bVlDdUVpdUFrSllCWDlFeFY0YWNJbDNxdG8yajM2UHJRRHFUdTA",
-    "badge": "breaking",
-    "at": 1790883570.7425241,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "putin-kaliningrad-warning",
     "topic": "푸틴 러시아 대통령, 칼리닌그라드 방어 위해 모든 무기 동원 경고",
     "slug": "2026-10-02-news-putin-kaliningrad-warning",
@@ -2997,6 +2977,26 @@
     "badge": "breaking",
     "at": 1792598853.206481,
     "country": "독일",
+    "category": "사고"
+  },
+  {
+    "event_key": "australia_politician_car_attack_2026",
+    "topic": "호주 정치인, 차량 공격으로 두 다리 잃어",
+    "slug": "2026-10-22-news-australia-politician-car-attack-2026",
+    "cluster": "CBMinAFBVV95cUxPbVd2UnVhbVJ3OC1vUXFFU2RfZ1NTNU1uY2xPNFpkVi12X3RIcHpzM2NUcWZBNjJxNkJsRHJTZzY1bEVfanczWDhxVGlaTnNnVUFOVDZzc0RabjJ3ZTN4MzhyUmdYOW5FSE9QTkRVdDFQYW1mdVNfMGd6cW01TExoUnFlSjVFX1l2UWJhcG5nWVFQckNuUm9EUml4WFM",
+    "badge": "breaking",
+    "at": 1792602494.0566583,
+    "country": "호주",
+    "category": "기타 사건"
+  },
+  {
+    "event_key": "russia_su30_fighter_jet_crash_kaliningrad_2026",
+    "topic": "러시아 칼리닌그라드서 전투기 추락",
+    "slug": "2026-10-21-news-russia-su30-fighter-jet-crash-kaliningrad-2026",
+    "cluster": "CBMikgFBVV95cUxPZDN5RUV0S2NxQzg1M3hSTWttZUE2NzdJWkwtdHdENE4zX1FieW04TFF2Yk5lbU5waUl4blNRaDl6bTRUcG1oUFpsRXFueWFQM0dYLWxmMm5vYTF6UFRXRFAxUnlWdXkxQ0xsT1lYRkFfWWtOQTVWbTNnMVVad25tUU9vbWxfNDRsYXRBbUxaVENwZ9IBlwFBVV95cUxNRFRwR0FXRERFMk41WVh4TnBVSUJyWnJ1VEFVcmczeGZFWnpMa2RZdWU1ZFdRS1FjQWRJemgydnJZY3VQZG5hVkphcW16M3M1ZmF1YVhRd1hfS0FUdFBlTFdUWVNCaUphcUVrYmc0cS1wZ3VRUDlNV2hydXdwVGVVWkJacjNvWVdGM096TXNmWUZIWTJOOUhV",
+    "badge": "breaking",
+    "at": 1792602506.5175,
+    "country": "러시아",
     "category": "사고"
   }
 ]

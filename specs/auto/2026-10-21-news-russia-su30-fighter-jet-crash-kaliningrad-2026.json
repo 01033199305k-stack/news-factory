@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-21-news-russia-su30-fighter-jet-crash-kaliningrad-2026",
+  "topic": "러시아 칼리닌그라드서 전투기 추락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.21 23:14 KST",
+  "source": "Reuters·Daily Express·Kyiv Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxPZDN5RUV0S2NxQzg1M3hSTWttZUE2NzdJWkwtdHdENE4zX1FieW04TFF2Yk5lbU5waUl4blNRaDl6bTRUcG1oUFpsRXFueWFQM0dYLWxmMm5vYTF6UFRXRFAxUnlWdXkxQ0xsT1lYRkFfWWtOQTVWbTNnMVVad25tUU9vbWxfNDRsYXRBbUxaVENwZ9IBlwFBVV95cUxNRFRwR0FXRERFMk41WVh4TnBVSUJyWnJ1VEFVcmczeGZFWnpMa2RZdWU1ZFdRS1FjQWRJemgydnJZY3VQZG5hVkphcW16M3M1ZmF1YVhRd1hfS0FUdFBlTFdUWVNCaUphcUVrYmc0cS1wZ3VRUDlNV2hydXdwVGVVWkJacjNvWVdGM096TXNmWUZIWTJOOUhV",
+    "related": [
+      [
+        "Putin hammerblow as £40m Russian fighter jet crashes in huge fireball next to graveyard",
+        "Daily Express"
+      ],
+      [
+        "Russian Su-30 fighter jet crashes in Kaliningrad region, Interfax says",
+        "Reuters"
+      ],
+      [
+        "Russian Su-30SM fighter jet crashes in Kaliningrad Oblast – video",
+        "Українська правда"
+      ],
+      [
+        "Russian Fighter Jet Crashes in Kaliningrad, Both Pilots Survive",
+        "Kyiv Post"
+      ],
+      [
+        "Putin Suffers $36 Million Fireball Humiliation",
+        "The Daily Beast"
+      ]
+    ],
+    "event_key": "russia_su30_fighter_jet_crash_kaliningrad_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 칼리닌그라드서\n[[전투기 추락]]",
+      "sub": "러시아 전투기 1대가 추락했습니다.",
+      "chips": [],
+      "alt": "러시아 칼리닌그라드서 전투기 추락",
+      "map": {
+        "lat": 54.710128,
+        "lon": 20.5105838,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n칼리닌그라드",
+      "video_only": true,
+      "map": {
+        "lat": 54.710128,
+        "lon": 20.5105838,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "칼리닌그라드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기종 및 장소",
+          "d": "러시아 Su-30 전투기가 칼리닌그라드 지역에서 추락했다고 로이터 통신 등이 전했습니다."
+        },
+        {
+          "t": "조종사 생존",
+          "d": "조종사 2명은 생존한 것으로 전해졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 Su-30 전투기 칼리닌그라드 추락",
+        "조종사 2명 생존"
+      ],
+      "unconfirmed": [
+        "정확한 추락 원인",
+        "지상 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daily Express",
+        "Kyiv Post",
+        "Reuters",
+        "The Daily Beast",
+        "Українська правда",
+        "2026.10.22 02:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 칼리닌그라드서 전투기 추락 (로이터·키이우포스트)\n\n· 러시아 Su-30 전투기가 칼리닌그라드 지역에서 추락했습니다\n· 탑승했던 조종사 2명은 생존한 것으로 확인됐습니다\n\n출처: Reuters·Kyiv Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 칼리닌그라드 지역에서 전투기 1대가 추락하는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고 전투기에 탑승했던 조종사 2명이 생존했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 추락 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "러시아 칼리닌그라드서\n일어난 [[전투기 추락]] 사고",
+  "broll": [
+    "fighter jet flying sky",
+    "smoke plume field"
+  ],
+  "place_en": "Kaliningrad, Russia"
+}
