@@ -21294,5 +21294,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792617139
+  },
+  {
+    "slug": "2026-10-22-news-kenya-ebola-outbreak-nine-cases-2026",
+    "event_ms": 1792612260000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 케냐에서 에볼라 확진 환자가 9명으로 늘었습니다.\n\n· 케냐 보건부는 신규 에볼라 확진자가 발생했다고 공식 발표했습니다 (로이터).\n· ABC 뉴스는 모든 감염자가 숨진 첫 환자와 연관돼 있다고 전했습니다.\n· 현지 당국은 실종된 우간다 접촉자를 추적하고 있습니다 (데일리네이션).\n\n출처: 로이터·WSJ·BBC·ABC 뉴스·데일리네이션 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "케냐"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18127268291489121",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DexcnhLo8fS",
+        "kind": "carousel",
+        "at": 1792620576
+      },
+      "instagram": {
+        "id": "18200216737378674",
+        "permalink": "https://www.instagram.com/reel/DexdB1cEr35/",
+        "kind": "reel",
+        "at": 1792620812
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792620822
+      },
+      "tiktok": {
+        "id": "7699247785337556244",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699247785337556244",
+        "kind": "video",
+        "at": 1792620943
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792620953
   }
 ]
