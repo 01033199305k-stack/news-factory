@@ -32,10 +32,14 @@
       "youtube": {
         "skipped": "유튜브는 한국·주요국 관련 소식만",
         "at": 1792567450
+      },
+      "instagram": {
+        "failed": "container 18122846107876789: ERROR ERROR",
+        "at": 1792570299
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 2
     },
     "video": "video.mp4"
