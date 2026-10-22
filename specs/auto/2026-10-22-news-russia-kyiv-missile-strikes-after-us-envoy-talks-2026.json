@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-22-news-russia-kyiv-missile-strikes-after-us-envoy-talks-2026",
+  "topic": "미국 특사 회담 끝나자 러시아, 키이우 공습",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 15:16 KST",
+  "source": "BBC·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMicEFVX3lxTE1CWDY5UWVTTWdsdlBYa3hRdmF6UTJLMnhnb1BHbm1kd0E4end2MlE4VjZNenZNTzhQOWJaTGprSnNZMUpDV3FfQ2w5alpjS05neUR3M0t1d2pObmU3bVZ0ZEx1SXNwNkpWN0ZfYVJxSXM",
+    "related": [
+      [
+        "Russian missiles bombard Kyiv after Witkoff-Putin talks",
+        "Financial Times"
+      ],
+      [
+        "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+        "BBC"
+      ],
+      [
+        "Russia, Ukraine exchange strikes as US envoy leaves after talks",
+        "Reuters"
+      ],
+      [
+        "Russia and Ukraine trade attacks following US envoy visit",
+        "RTE.ie"
+      ],
+      [
+        "US gave us no warning of Russian strikes on Kyiv power plants, Zelenskyy says | Ukraine",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "russia-kyiv-missile-strikes-after-us-envoy-talks-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 특사 회담 끝나자\n러시아, [[키이우 공습]]",
+      "sub": "미 특사 출국 직후 러시아와 우크라이나 상호 공습 교환",
+      "chips": [
+        {
+          "k": "공습 지역",
+          "v": "키이우"
+        },
+        {
+          "k": "공습 시점",
+          "v": "특사 회담 직후"
+        }
+      ],
+      "alt": "미국 특사 회담 끝나자 러시아, 키이우 공습",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "특사 출국 직후 공습",
+          "d": "미국 특사의 푸틴 회담 일정이 끝난 직후 러시아와 우크라이나가 상호 공습을 주고받았습니다 (로이터·RTE)."
+        },
+        {
+          "t": "발전소 공습 피해",
+          "d": "젤렌스키 대통령은 미국 측으로부터 키이우 발전소 공습에 대한 사전 경고를 받지 못했다고 밝혔습니다 (가디언)."
+        },
+        {
+          "t": "정보 공유 제한 주장",
+          "d": "우크라이나 대통령 고문은 미국의 정보 공유 제한으로 자국민이 희생되고 있다고 주장했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아의 키이우 미사일 공습",
+        "미 특사 회담 후 상호 공습"
+      ],
+      "unconfirmed": [
+        "정확한 사상자 규모",
+        "발전소 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Financial Times",
+        "RTE.ie",
+        "Reuters",
+        "The Guardian",
+        "2026.10.22 16:43 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 특사 회담 끝나자 러시아, 키이우 미사일 공습\n\n· 미국 특사의 푸틴 회담 일정이 끝난 직후 러시아와 우크라이나가 상호 공습을 주고받았습니다 (로이터·RTE).\n· 젤렌스키 우크라이나 대통령은 키이우 발전소 공습에 대해 미국에서 사전 경고를 받지 못했다고 밝혔습니다 (가디언).\n· 우크라이나 측은 미국의 정보 공유 제한으로 피해가 커지고 있다고 주장했습니다 (BBC).\n\n특사 회담 직후 이어진 이번 공습, 어떻게 보십니까?\n출처: 파이낸셜타임스·BBC·로이터·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 특사와 푸틴의 회담 직후 러시아가 키이우를 미사일로 공습했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 특사가 떠나자마자 양국이 상호 공습을 주고받았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공습으로 인한 정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "특사 회담 직후 벌어진 이번 군사 충돌, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "특사 회담 직후\n[[키이우]] 폭격?",
+  "broll": [
+    "power plant smoke",
+    "city skyline smoke"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
