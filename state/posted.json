@@ -22054,5 +22054,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792693255
+  },
+  {
+    "slug": "2026-10-23-news-moderna-merck-cancer-vaccine-data-2026",
+    "event_ms": 1792695840000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 모더나와 머크의 암 백신이 흑색종 환자의 사망 또는 재발 위험을 40% 이상 낮췄습니다.\n\n· 상세한 임상 데이터가 공개된 후 모더나와 머크의 주가가 하락했습니다 (WSJ·BioPharma Dive)\n· 양사의 백신은 흑색종 임상 시험에서 주요 목표를 충족했습니다 (STAT)\n\n여러분은 제약사의 신약 임상 데이터 공개와 주가 변동에 대해 어떻게 보십니까?\n\n출처: WSJ·BioPharma Dive·STAT·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18140692273622968",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DezzlPDn-1h",
+        "kind": "carousel",
+        "at": 1792699726
+      },
+      "instagram": {
+        "id": "18092374169204553",
+        "permalink": "https://www.instagram.com/reel/Dezz55LjvEi/",
+        "kind": "reel",
+        "at": 1792699917
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792699927
+      },
+      "tiktok": {
+        "id": "7699587604693404948",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699587604693404948",
+        "kind": "video",
+        "at": 1792700049
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792700059
   }
 ]

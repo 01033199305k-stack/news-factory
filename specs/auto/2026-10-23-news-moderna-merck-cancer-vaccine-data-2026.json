@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-23-news-moderna-merck-cancer-vaccine-data-2026",
+  "topic": "모더나·머크 항암 백신, 흑색종 사망 위험 40% 이상 낮춰",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 04:04 KST",
+  "source": "Reuters·WSJ·BioPharma Dive 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxNN3lFT3FtM2N0ZUk0aDFIMWVOZ25wU1RPcGNpZm54c0NrVmJuTHRXZEtPVVdJcUN0ZC1RangwNWFGWUp4bjdPbEY5VnRZcWo1WlQ3a1UzYkdFWFR3MWh3R3hzcGhpX01WakZzX2JmcnR6M3dwNjVjdGdXajdMSWtWNFA2aDAxRGZBUWdRZzJNUzNQNHRXR2pGejdRNnZxQQ",
+    "related": [
+      [
+        "Moderna’s Shares Plummet After Cancer-Vaccine Data Shared on Social Media",
+        "WSJ"
+      ],
+      [
+        "Moderna stock crashes as leaked melanoma data threatens its record August rally",
+        "Yahoo Finance"
+      ],
+      [
+        "Moderna, Merck shares fall on eagerly anticipated cancer vaccine results",
+        "BioPharma Dive"
+      ],
+      [
+        "Detailed data confirm Moderna and Merck cancer vaccine met key endpoints in melanoma trial",
+        "STAT"
+      ],
+      [
+        "Merck/Moderna cancer vaccine cuts risk of death or recurrence from melanoma by over 40%",
+        "Reuters"
+      ]
+    ],
+    "event_key": "moderna-merck-cancer-vaccine-data-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "모더나·머크 항암 백신,\n흑색종 사망 위험 [[40% 이상]] 낮춰",
+      "sub": "임상 상세 데이터 공개 후 주가 급락",
+      "chips": [
+        {
+          "k": "위험 감소",
+          "v": "40% 이상"
+        },
+        {
+          "k": "대상 질환",
+          "v": "흑색종"
+        }
+      ],
+      "alt": "모더나·머크 항암 백신, 흑색종 사망 위험 40% 이상 낮춰",
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국",
+      "video_only": true,
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "임상 결과",
+          "d": "머크와 모더나의 공동 암 백신이 흑색종 임상 시험에서 주요 목표를 충족했습니다 (STAT)."
+        },
+        {
+          "t": "주가 움직임",
+          "d": "데이터가 공개된 후 모더나와 머크의 주가가 하락했습니다 (WSJ·BioPharma Dive)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "흑색종 재발 및 사망 위험 40% 이상 감소 (로이터)",
+        "임상 주요 목표 달성 확인 (STAT)"
+      ],
+      "unconfirmed": [
+        "정확한 주가 하락 폭과 시장 최종 영향",
+        "한국인 환자 적용 시기 및 국내 도입 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BioPharma Dive",
+        "Reuters",
+        "STAT",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.10.23 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 모더나와 머크의 암 백신이 흑색종 환자의 사망 또는 재발 위험을 40% 이상 낮췄습니다.\n\n· 상세한 임상 데이터가 공개된 후 모더나와 머크의 주가가 하락했습니다 (WSJ·BioPharma Dive)\n· 양사의 백신은 흑색종 임상 시험에서 주요 목표를 충족했습니다 (STAT)\n\n여러분은 제약사의 신약 임상 데이터 공개와 주가 변동에 대해 어떻게 보십니까?\n\n출처: WSJ·BioPharma Dive·STAT·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "모더나와 머크의 암 백신이 흑색종 사망 위험을 40% 이상 낮췄습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터통신은 백신이 재발 위험을 줄였다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "상세한 데이터가 공개된 후 양사의 주가는 하락했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 시장 영향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 신약 임상 결과, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "모더나 암 백신,\n[[흑색종]] 임상 결과는?",
+  "broll": [
+    "medical laboratory research",
+    "science DNA animation"
+  ],
+  "place_en": "United States"
+}

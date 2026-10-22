@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "spain-torrential-rain-flooding",
-    "topic": "스페인 동부 지역 폭우 및 홍수 대비",
-    "slug": "2026-10-03-news-spain-torrential-rain-flooding",
-    "cluster": "CBMiwAFBVV95cUxNaS1CZ25TYk0yZnZJTTRRZGdCVVMtZXVMMGRrUTE2V3hMRDhGU183eGJVZFNQTS02Ull1c1Q3c0RsdldZaFJSNnBQVHhQcEcteFhFUUl5QndTLV80cW1sdWVaMlJCaGp1VW1nSzdDUlZDWlc2Ui1VUkVFYUttOFdMMGdnNWNJWXA1N3N3VkY4di1jUWFiOFR2WWp2bUw1UEhONmxUN2VtQXJ0TGxwbVdpWE5aWmVvVmNsOV9JcVRGd0w",
-    "badge": "brief",
-    "at": 1790969070.672616,
-    "country": "스페인",
-    "category": "재난"
-  },
-  {
     "event_key": "c2",
     "topic": "미국과 동맹국들, 디젤 및 원유 비축유 최대 1억 배럴 방출 합의",
     "slug": "2026-10-03-news-c2",
@@ -2996,6 +2986,16 @@
     "cluster": "CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR",
     "badge": "breaking",
     "at": 1792692520.9542823,
+    "country": "미국",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "moderna-merck-cancer-vaccine-data-2026",
+    "topic": "모더나·머크 항암 백신, 흑색종 사망 위험 40% 이상 낮춰",
+    "slug": "2026-10-23-news-moderna-merck-cancer-vaccine-data-2026",
+    "cluster": "CBMingFBVV95cUxNN3lFT3FtM2N0ZUk0aDFIMWVOZ25wU1RPcGNpZm54c0NrVmJuTHRXZEtPVVdJcUN0ZC1RangwNWFGWUp4bjdPbEY5VnRZcWo1WlQ3a1UzYkdFWFR3MWh3R3hzcGhpX01WakZzX2JmcnR6M3dwNjVjdGdXajdMSWtWNFA2aDAxRGZBUWdRZzJNUzNQNHRXR2pGejdRNnZxQQ",
+    "badge": "breaking",
+    "at": 1792699664.68488,
     "country": "미국",
     "category": "경제·과학"
   }
