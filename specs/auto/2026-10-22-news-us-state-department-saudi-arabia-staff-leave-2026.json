@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-22-news-us-state-department-saudi-arabia-staff-leave-2026",
+  "topic": "미국 정부, 사우디 내 일부 인력 철수 명령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 10:07 KST",
+  "source": "BBC·Fox News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBmeWNaNkZfMWgyVENuck5jTjBjUTZKNWE4V29DcW8xMURzclJjUFJsQk5Jb1pwTFNtcnJsU3R3RXI1YW8wVUxtejV2bFVkXzZrUF94M2tpbm5nQVU",
+    "related": [
+      [
+        "US State Department orders some staff to leave Saudi Arabia as attacks escalate",
+        "BBC"
+      ],
+      [
+        "Oil rises as US orders diplomats to leave Saudi Arabia amid escalating tensions",
+        "Reuters"
+      ],
+      [
+        "Travelers to hot spot sternly warned by State Department as officials deny wider Gulf shutdown",
+        "Fox News"
+      ],
+      [
+        "Some US diplomats told to leave Saudi Arabia amid Houthi attacks",
+        "The Guardian"
+      ],
+      [
+        "Security Alert: U.S. Mission to Saudi Arabia – October 21, 2026",
+        "U.S. Embassy & Consulates in Saudi Arabia (.gov)"
+      ]
+    ],
+    "event_key": "us-state-department-saudi-arabia-staff-leave-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 정부, 사우디 내\n일부 인력 [[철수 명령]]",
+      "sub": "후티 반군 공격 격화에 따른 조치",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "일부 인력"
+        }
+      ],
+      "alt": "미국 정부, 사우디 내 일부 인력 철수 명령",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대상",
+          "d": "미국 국무부는 사우디아라비아 주재 일부 인력에게 출국을 명령했습니다 (BBC)"
+        },
+        {
+          "t": "배경",
+          "d": "최근 후티 반군의 공격이 격화되었습니다 (BBC·가디언)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 국무부의 출국 명령",
+        "사우디 주재 인력 대상",
+        "후티 반군 공격 격화"
+      ],
+      "unconfirmed": [
+        "철수 대상 인원의 정확한 규모",
+        "현지 추가 보안 조치 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Fox News",
+        "Reuters",
+        "The Guardian",
+        "U.S. Embassy & Consulates in Saudi Arabia (.gov)",
+        "2026.10.22 13:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 정부, 사우디 내 일부 인력에게 출국 명령 (BBC)\n\n· 최근 후티 반군의 공격이 격화되었습니다 (BBC·가디언)\n\n여러분은 중동 지역 긴장 고조에 따른 각국의 외교관 철수 조치를 어떻게 보십니까?\n\n출처: BBC·가디언·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 사우디아라비아 주재 일부 인력에게 출국을 명령했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 후티 반군의 공격이 격화되고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 철수 인원 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 중동 지역 긴장 고조에 따른 각국의 외교관 철수 조치를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "사우디아라비아에서\n미국이 내린 [[결정]]은?",
+  "broll": [
+    "us embassy flag",
+    "saudi arabia street night"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}

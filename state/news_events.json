@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_energy_department_employee_houthi_arrest",
-    "topic": "미 에너지부 직원, 후티 반군 지원 혐의로 체포",
-    "slug": "2026-10-02-news-us-energy-department-employee-houthi-arrest",
-    "cluster": "CBMi8AFBVV95cUxQbml5Z0t6OHVCN1NOVVl5dDBRbXVUNDlEdVhDQlF5VlUwQUd5Y3VmTGNSR1EzaXpKRWFVOFh4NG8zWUtXdEFuSXNRU09zM0I0YlRXaU9PUmJkNnBpQVdxOUxfNUktT0k0cGN3OWcySUdfcjJPQmY2Q2trU0xqcHc2TG4yNm9XaVUyRXVtYUxrNldvZ2loMS1kc3cyYTlCblV1Y2hVVC1zekJOMjIza3BJajBaYzh1MUVyWFhrcEpDSjF6NzV4cW5wbnJiMUdEQ05wU2xUeUR2Z012eVJhZkx5TjBnYkx3RDJ6R1VEanhOUTg",
-    "badge": "breaking",
-    "at": 1790909915.174198,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "boeing-engineers-union-approve-contract-2026",
     "topic": "보잉 기술직 노조 계약 가결 우려됐던 파업 위기 모면",
     "slug": "2026-10-02-news-boeing-engineers-union-approve-contract-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792633017.5991886,
     "country": "아이티",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "us-state-department-saudi-arabia-staff-leave-2026",
+    "topic": "미국 정부, 사우디 내 일부 인력 철수 명령",
+    "slug": "2026-10-22-news-us-state-department-saudi-arabia-staff-leave-2026",
+    "cluster": "CBMiW0FVX3lxTFBmeWNaNkZfMWgyVENuck5jTjBjUTZKNWE4V29DcW8xMURzclJjUFJsQk5Jb1pwTFNtcnJsU3R3RXI1YW8wVUxtejV2bFVkXzZrUF94M2tpbm5nQVU",
+    "badge": "breaking",
+    "at": 1792642043.6233077,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]
