@@ -21566,5 +21566,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792653005
+  },
+  {
+    "slug": "2026-10-22-news-russia-kyiv-missile-strikes-after-us-envoy-talks-2026",
+    "event_ms": 1792649782000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 특사 회담 끝나자 러시아, 키이우 미사일 공습\n\n· 미국 특사의 푸틴 회담 일정이 끝난 직후 러시아와 우크라이나가 상호 공습을 주고받았습니다 (로이터·RTE).\n· 젤렌스키 우크라이나 대통령은 키이우 발전소 공습에 대해 미국에서 사전 경고를 받지 못했다고 밝혔습니다 (가디언).\n· 우크라이나 측은 미국의 정보 공유 제한으로 피해가 커지고 있다고 주장했습니다 (BBC).\n\n특사 회담 직후 이어진 이번 공습, 어떻게 보십니까?\n출처: 파이낸셜타임스·BBC·로이터·가디언 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18165058033430471",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DeyeaLAFXcA",
+        "kind": "carousel",
+        "at": 1792655067
+      },
+      "instagram": {
+        "id": "18136279063648594",
+        "permalink": "https://www.instagram.com/reel/DeyerALAl4N/",
+        "kind": "reel",
+        "at": 1792655226
+      },
+      "youtube": {
+        "id": "IT9TvQTVbJE",
+        "permalink": "https://youtube.com/shorts/IT9TvQTVbJE",
+        "kind": "shorts",
+        "at": 1792655333
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ad9c2ef323a3eab8cd0de6f): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1792656223
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792656223
   }
 ]
