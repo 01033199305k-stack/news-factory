@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-22-news-france-shamonda-virus-first-human-death-2026",
+  "topic": "프랑스에서 샤몬다 바이러스 첫 인체 감염 사망자 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 17:36 KST",
+  "source": "Reuters·The Independent·Farmers Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E",
+    "related": [
+      [
+        "France reports first human Shamonda virus case",
+        "Reuters"
+      ],
+      [
+        "France reports first death of human from Shamonda virus",
+        "RTE.ie"
+      ],
+      [
+        "Deadly Shamonda virus detected in human for first time in France",
+        "The Independent"
+      ],
+      [
+        "New cattle disease identified in Jersey",
+        "Jersey Evening Post"
+      ],
+      [
+        "What livestock farmers need to know about Shamonda virus",
+        "Farmers Guardian"
+      ]
+    ],
+    "event_key": "france-shamonda-virus-first-human-death-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스에서 [[샤몬다 바이러스]]\n첫 인체 감염 사망자 발생",
+      "sub": "가축 감염병으로 알려진 바이러스가 사람에게 전염돼 숨졌습니다",
+      "chips": [
+        {
+          "k": "감염",
+          "v": "첫 인체 사례"
+        }
+      ],
+      "alt": "프랑스에서 샤몬다 바이러스 첫 인체 감염 사망자 발생",
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n프랑스 전역",
+      "video_only": true,
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "프랑스 전역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "첫 인체 감염 확인",
+          "d": "프랑스는 가축 감염병인 샤몬다 바이러스의 첫 사람 감염 사례를 보고했습니다 (로이터)."
+        },
+        {
+          "t": "가축 병원체 전파",
+          "d": "샤몬다 바이러스는 주로 가축 사이에서 발견되던 바이러스로 알려져 있습니다 (파머스 가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "프랑스 내 첫 인체 감염",
+        "바이러스 감염 사망자 발생"
+      ],
+      "unconfirmed": [
+        "정확한 감염 경로",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Farmers Guardian",
+        "Jersey Evening Post",
+        "RTE.ie",
+        "Reuters",
+        "The Independent",
+        "2026.10.22 19:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스에서 샤몬다 바이러스 첫 인체 감염 사망자가 나왔습니다.\n\n· 프랑스에서 샤몬다 바이러스의 첫 인체 감염 및 사망 사례가 보고됐습니다 (로이터·RTE).\n· 주로 가축 사이에서 전파되던 바이러스가 사람에게 감염된 첫 사례로 보고됐습니다 (인디펜던트).\n\n출처: 로이터·RTE·인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스에서 샤몬다 바이러스로 첫 사망자가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "프랑스에서 바이러스의 첫 인체 감염이 보고됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 가축 감염병으로 알려진 바이러스가 사람에게 전염됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 감염 경로는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[가축 바이러스]]가\n사람을 숨지게 했다?",
+  "broll": [
+    "medical laboratory microscope",
+    "hospital corridor indoor"
+  ],
+  "place_en": "Paris, France"
+}
