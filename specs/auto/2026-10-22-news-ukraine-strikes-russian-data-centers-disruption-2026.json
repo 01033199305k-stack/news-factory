@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-22-news-ukraine-strikes-russian-data-centers-disruption-2026",
+  "topic": "우크라, 러 데이터센터 타격 은행 계좌·주거 서비스 마비",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 20:44 KST",
+  "source": "AP News·Financial Times·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxQYWpTNEFPQ2s1OU5QRS1HMzBDVExXeFRlOWUxRzNWamxYTjREcENTMmw1VWlrNkRpdnFNRUFXLVZTUjI3SkZqRlhIZVVXc2hhampybC1pbHVkT2Nhd290ZVlOWEt1TDA4YzgwUUxOM2k1OEE2UFZGWi1DRkU2ckwxVHNZR3pQb2tVN3I2MjFfQlhMZjhqSDdXTTFyRUJCUlFueGlF",
+    "related": [
+      [
+        "Ukraine’s strikes on Russian data centers disrupt key services and derail AI research",
+        "AP News"
+      ],
+      [
+        "Russians locked out of bank accounts and apartments as Ukraine hits data centers",
+        "NBC News"
+      ],
+      [
+        "Did Ukraine's data center strikes affect Russia's bot army? We now have better evidence.",
+        "Mashable"
+      ],
+      [
+        "Data centres need protection from drone warfare",
+        "Financial Times"
+      ],
+      [
+        "Ukraine didn’t kill the Putinbots. But it did hand Musk and Trump an excuse",
+        "Crikey"
+      ]
+    ],
+    "event_key": "ukraine-strikes-russian-data-centers-disruption-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라, 러 [[데이터센터]] 타격\n은행 계좌·주거 서비스 마비",
+      "sub": "우크라이나 공습 여파로 러시아 내 핵심 서비스와 AI 연구 차질",
+      "chips": [
+        {
+          "k": "공격 주체",
+          "v": "우크라이나"
+        },
+        {
+          "k": "피해 시설",
+          "v": "데이터센터"
+        }
+      ],
+      "alt": "우크라, 러 데이터센터 타격 은행 계좌·주거 서비스 마비",
+      "map": {
+        "lat": 64.6863136,
+        "lon": 97.7453061,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n러시아 전역",
+      "video_only": true,
+      "map": {
+        "lat": 64.6863136,
+        "lon": 97.7453061,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "러시아 전역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "금융·주거 전산 마비",
+          "d": "러시아 주민들의 은행 계좌 접속이 차단되고 아파트 출입 시스템 등이 멈췄습니다 (NBC 뉴스)."
+        },
+        {
+          "t": "핵심 서비스 및 AI 타격",
+          "d": "데이터센터 피해로 러시아 주요 서비스와 인공지능 연구가 중단됐습니다 (AP 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나의 러시아 데이터센터 타격",
+        "러시아 내 은행 계좌 접속 및 주거 시스템 차질"
+      ],
+      "unconfirmed": [
+        "공격받은 데이터센터 위치 및 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Crikey",
+        "Financial Times",
+        "Mashable",
+        "NBC News",
+        "2026.10.22 22:53 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라, 러 데이터센터 타격에 은행 계좌 마비\n\n· 우크라이나의 데이터센터 공격으로 러시아 핵심 서비스와 인공지능 연구가 중단됐습니다 (AP 통신).\n· 러시아 주민들의 은행 계좌 접속이 끊기고 아파트 출입 통제 등 일상 시스템 차질이 잇따랐습니다 (NBC 뉴스).\n· 드론 공격에 노출된 데이터센터 방어 취약성에 대한 우려가 커지고 있습니다 (파이낸셜 타임스).\n\n출처: AP 통신·NBC 뉴스·파이낸셜 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 러시아 데이터센터를 타격해 핵심 서비스가 마비됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC 뉴스는 주민들의 은행 계좌와 아파트 출입이 차단됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "AP 통신은 이번 공격으로 주요 서비스와 인공지능 연구가 차질을 빚었다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "피해를 입은 데이터센터의 정확한 위치와 피해 규모는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "러시아 [[데이터센터]]에\n무슨 일이?",
+  "broll": [
+    "data center server",
+    "computer screen glitch"
+  ],
+  "place_en": "Russia"
+}
