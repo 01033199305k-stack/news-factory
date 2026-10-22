@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "mecca-defense-alliance-meeting",
-    "topic": "메카 방위 동맹 회의 개최 사우디 왕세자 안보 수호 강조",
-    "slug": "2026-10-02-news-mecca-defense-alliance-meeting",
-    "cluster": "CBMiiwJBVV95cUxQX1EtU1R5ZncyV01hOEw5bTZYZ0NqUmNhZFkxSS0xMEk3bmk5RVM3bHdWa3BhUWg1TEVRR2kxTW5ORVNVVGhkYnBiMlhwMTk2ZTlIZjZYbHlDRXVsUXhHVkNpLWM5dlkxZ0p3Ym1nS3JTdnhic2ttV29RQnhGRS1kd3AwV21hWTF4RzViYlRBSWZpQ2dTTDV0RGpHYy1jOHdIZWQtY2V5U0lYeS1KZEt3UGhmSnJmTUZvX1pGX0pKTFJITDYtU3VRWnlYcVFtN095SjVNa3BRdFdrN21GUUthc1c0TERiOTI1a284WlI2RmRFYUcya0t4dHMwRUJLSk94RTNXRnBaSk9rcnc",
-    "badge": "breaking",
-    "at": 1790949625.8546646,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "us-stock-market-jobs-report-rally",
     "topic": "미국 고용 둔화 발표에 뉴욕증시 상승",
     "slug": "2026-10-02-news-us-stock-market-jobs-report-rally",
@@ -2998,5 +2988,15 @@
     "at": 1792671032.171322,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "france-southern-floods-2026",
+    "topic": "프랑스 남부 폭우로 홍수 최소 1~4명 사망",
+    "slug": "2026-10-22-news-france-southern-floods-2026",
+    "cluster": "CBMiXkFVX3lxTE9MdlUtREVvQzNNdUxmU2pMRjl4MzlqUVpPbXZ0ekF6QUhSaEJ3OUlIbWNOaHdGbzVHR283bHd6ZGI0TEJPeFBmUjFnUzB4TUZaNFYyQklEekRYbXVfQ2c",
+    "badge": "breaking",
+    "at": 1792674599.8932374,
+    "country": "프랑스",
+    "category": "재난"
   }
 ]

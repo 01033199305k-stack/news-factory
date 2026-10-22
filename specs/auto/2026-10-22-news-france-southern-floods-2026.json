@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-22-news-france-southern-floods-2026",
+  "topic": "프랑스 남부 폭우로 홍수 최소 1~4명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 20:23 KST",
+  "source": "BBC·Around Prague·Euronews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE9MdlUtREVvQzNNdUxmU2pMRjl4MzlqUVpPbXZ0ekF6QUhSaEJ3OUlIbWNOaHdGbzVHR283bHd6ZGI0TEJPeFBmUjFnUzB4TUZaNFYyQklEekRYbXVfQ2c",
+    "related": [
+      [
+        "At least four dead after storm brings flooding to southern France",
+        "BBC"
+      ],
+      [
+        "Floods in southern France cause havoc, kill at least one",
+        "Euronews.com"
+      ],
+      [
+        "Pictures: Residents warned to stay home as severe flooding hits south of France",
+        "The Connexion"
+      ],
+      [
+        "Corsica: 416 mm of rain in three hours sets a French record",
+        "Around Prague"
+      ],
+      [
+        "Three people have died in storms, flooding in southern France",
+        "TradingView"
+      ]
+    ],
+    "event_key": "france-southern-floods-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스 남부 폭우로 [[홍수]]\n최소 [[1~4명]] 사망",
+      "sub": "코르시카섬에 3시간 동안 416mm의 비가 내려",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1~4명 (매체별 집계 차이)"
+        }
+      ],
+      "alt": "프랑스 남부 폭우로 홍수 최소 1~4명 사망",
+      "map": {
+        "lat": -49.237442,
+        "lon": 69.622759,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n프랑스 남부",
+      "video_only": true,
+      "map": {
+        "lat": -49.237442,
+        "lon": 69.622759,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "프랑스 남부"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기상 기록",
+          "d": "Around Prague 매체는 코르시카섬에 3시간 동안 416mm의 비가 내려 프랑스 기록을 세웠다고 전했습니다."
+        },
+        {
+          "t": "주민 경보",
+          "d": "The Connexion 매체는 주민들에게 집에 머물도록 경고했다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1~4명 (BBC: 최소 4명, TradingView: 3명, Euronews: 최소 1명 - 매체별 집계 차이 있음)",
+        "코르시카섬 416mm 폭우 기록 (Around Prague)"
+      ],
+      "unconfirmed": [
+        "정확한 실종자 및 부상자 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Around Prague",
+        "BBC",
+        "Euronews.com",
+        "The Connexion",
+        "TradingView",
+        "2026.10.22 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 남부 폭우로 홍수 발생해 사망자 발생 (매체별 최소 1~4명 집계)\n\n· 코르시카섬에 3시간 동안 416mm의 비가 내려 프랑스 기록 경신 (Around Prague)\n· 주민들에게 집에 머물도록 안전 경고 발령 (The Connexion)\n\n출처: BBC·Euronews·The Connexion·Around Prague·TradingView 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 남부 지역에 폭우가 쏟아져 홍수가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신 보도에 따르면 이번 폭우로 최소 1명에서 4명이 숨진 것으로 집계됐으며 매체별 발표에 차이가 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "코르시카섬에는 3시간 동안 416mm의 비가 내려 프랑스 기록을 세웠습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "프랑스 남부에서\n무슨 일이?",
+  "broll": [
+    "heavy rain street",
+    "flooded town aerial"
+  ],
+  "place_en": "Southern France"
+}
