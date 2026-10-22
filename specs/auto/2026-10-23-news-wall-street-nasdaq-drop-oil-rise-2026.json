@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-23-news-wall-street-nasdaq-drop-oil-rise-2026",
+  "topic": "AI 비용 우려와 유가 상승에 나스닥 2% 급락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 01:44 KST",
+  "source": "Reuters·The New York Times·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR",
+    "related": [
+      [
+        "Wall Street sinks as Nasdaq falls over 2% on AI cost worries",
+        "Reuters"
+      ],
+      [
+        "Nasdaq tumbles 2% on AI spending concerns and jump in oil prices: Live updates",
+        "CNBC"
+      ],
+      [
+        "Stock Market Today: Stocks Slide After Mideast Tensions Push Oil Higher — Live Updates",
+        "WSJ"
+      ],
+      [
+        "Stocks Fall and Oil Rises as Investors Retreat from Mounting Risks",
+        "The New York Times"
+      ],
+      [
+        "Stocks retreat as tech mood sours, oil prices jump",
+        "Yahoo Finance"
+      ]
+    ],
+    "event_key": "wall-street-nasdaq-drop-oil-rise-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "AI 비용 우려와 유가 상승에\n나스닥 [[2% 급락]]",
+      "sub": "중동 긴장 고조 속 투자 심리 위축",
+      "chips": [
+        {
+          "k": "나스닥",
+          "v": "2% 하락"
+        }
+      ],
+      "alt": "AI 비용 우려와 유가 상승에 나스닥 2% 급락",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "증시 하락",
+          "d": "인공지능 지출 우려가 겹치며 월스트리트 증시가 하락 마감했습니다 (Reuters)"
+        },
+        {
+          "t": "유가 상승",
+          "d": "중동 지역 긴장으로 유가가 상승했습니다 (WSJ)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "나스닥 지수 2% 이상 하락 (Reuters·CNBC)",
+        "유가 상승 및 주식시장 하락 (WSJ·New York Times)"
+      ],
+      "unconfirmed": [
+        "향후 증시 반등 여부",
+        "원유 가격 추가 변동 폭"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "Reuters",
+        "The New York Times",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.10.23 03:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] AI 비용 우려와 중동 긴장에 나스닥 2% 급락\n\n· 인공지능 투자 비용 부담 우려가 커지면서 월스트리트 나스닥 지수가 2% 이상 떨어졌습니다 (Reuters)\n· 중동 긴장 고조로 유가가 오르며 투자 심리가 위축됐습니다 (WSJ)\n\n· 여러분은 최근 증시와 유가 불안 요인이 경제에 미칠 영향, 어떻게 보십니까?\n출처: Reuters·WSJ·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인공지능 비용 우려와 유가 상승으로 뉴욕 증시 나스닥 지수가 2% 이상 급락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 투자자들이 중동 리스크와 기술주 지출 부담으로 위험 자산에서 발을 빼고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "원유 가격 상승세가 앞으로 증시에 어떤 영향을 미칠지 주목됩니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 증시 변동성 확대, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "시장 변동성 확대"
+    }
+  ],
+  "hook": "AI 비용 우려에\n[[나스닥]]이 떨어진 이유",
+  "broll": [
+    "stock exchange screen",
+    "oil refinery facility"
+  ],
+  "place_en": "New York, USA"
+}

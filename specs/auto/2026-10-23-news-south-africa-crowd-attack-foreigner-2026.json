@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-23-news-south-africa-crowd-attack-foreigner-2026",
+  "topic": "남아공서 50여 명 군중이 습격 외국인 1명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 01:15 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBaRTQxUnZXQ1pvR1dzdWg1Ql9JbF9scHRldVVWcjVsN09BVm9hZTU3LUZuUVdEQkxETWpYUVJRWFRaWE12eXFLQVFKUXJ1UC1UeUR3YUdjSl9icUU",
+    "related": [
+      [
+        "Durban attack: Crowd of 50 beat foreigner to death in South Africa",
+        "BBC"
+      ],
+      [
+        "South African police investigate killing of foreign national by crowd",
+        "Reuters"
+      ],
+      [
+        "Foreign citizen beaten to death during march in South Africa as anti-immigrant tensions flare",
+        "CNN"
+      ],
+      [
+        "Foreign national beaten to death by a mob in South Africa",
+        "Yahoo"
+      ],
+      [
+        "South Africa Migrant Killed",
+        "GazetteXtra"
+      ]
+    ],
+    "event_key": "south-africa-crowd-attack-foreigner-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "남아공서 50여 명 군중이 습격\n[[외국인 1명]] 숨져",
+      "sub": "반이민 정서 속 행진 중 발생한 집단 폭행",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "가해",
+          "v": "군중 50여 명"
+        }
+      ],
+      "alt": "남아공서 50여 명 군중이 습격 외국인 1명 숨져",
+      "map": {
+        "lat": -29.8618145,
+        "lon": 31.009909,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "남아프리카공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "남아프리카공화국\n더반",
+      "video_only": true,
+      "map": {
+        "lat": -29.8618145,
+        "lon": 31.009909,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "더반"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "경찰 수사",
+          "d": "남아공 경찰은 외국인 남성이 무리에게 구타당해 숨진 사건의 경위를 조사하고 있습니다 (Reuters)"
+        },
+        {
+          "t": "발생 배경",
+          "d": "반이민 정서가 고조된 가운데 행진 도중 사건이 일어났습니다 (CNN)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "외국인 1명 사망 (BBC·Reuters·CNN)",
+        "50여 명의 군중 연루 (BBC)"
+      ],
+      "unconfirmed": [
+        "피해자의 신원 및 국적",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "GazetteXtra",
+        "Reuters",
+        "Yahoo",
+        "2026.10.23 03:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 남아공서 50여 명 군중 습격으로 외국인 1명 사망\n\n· 반이민 정서가 고조된 가운데 행진 도중 집단 폭행이 발생했습니다 (CNN)\n· 남아공 경찰은 외국인 국적 남성이 숨진 사건을 수사하고 있습니다 (Reuters)\n\n출처: BBC·Reuters·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "남아프리카공화국에서 군중의 습격으로 외국인 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 50여 명의 무리가 반이민 정서 속에서 행진하던 중 범행을 저질렀다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 경찰은 정확한 사건 경위를 조사하고 있습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "남아공 거리에서\n[[외국인]]이 당한 일",
+  "broll": [
+    "street crowd protest",
+    "police tape street"
+  ],
+  "place_en": "Durban, South Africa"
+}

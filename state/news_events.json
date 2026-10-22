@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "us-patriots-deploy-saudi-qatar",
-    "topic": "미국, 사우디·카타르에 패트리어트 추가 배치 중동 에너지 시설 보호",
-    "slug": "2026-10-02-news-us-patriots-deploy-saudi-qatar",
-    "cluster": "CBMivgFBVV95cUxNSUtuejdkcnZhTGIyb1hTbmJjbjJUWnpvTTQ5ZlhQdjZSQlNYWGd0cWxEbWROREpVaklOQkdOV3JpT0hmaENLNkF0eU43M1lOdXNlcENmdjRQRHlWLTRkdkRFN1c1VUtSUUZKMFl6bUpMQVc3YkZuUDZVYjJJTmxUZVJHb005TzM3NjVHRUJlcy1rc3BCOHZtbm5salVZekxCQk1OdnVEVXZRajVrMERreVdZN2RRNVpySkhrNVdn0gHDAUFVX3lxTE9DODZGYUJPc0hFd0pYdlEtTGx6b0xXQWtRalJZbEFPUzJsNUt5bUZWcEdfb05DYTVmMHNRMlR0bnRmSVNfQXl1aXNaLVptS0FQM01zb2tPWUhJLUJfVHdVNHVZYkFqaTdIVXJUTGJaYndrMFZ5VkJnT0JEaWJUVEdlRE55NWdtd05fSVlIVXQwR0phc09QTHdyNk1RQjZRdDZHTHJYZ205SWphaUtNMllEc05oQVhGcndHS3o3aXNueDZlRQ",
-    "badge": "breaking",
-    "at": 1790957554.978764,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
-    "event_key": "france_student_protests",
-    "topic": "프랑스 전역 학생 시위 격화 도심 곳곳 화재와 최루탄",
-    "slug": "2026-10-02-news-france-student-protests",
-    "cluster": "CBMiqAFBVV95cUxOOE11M0pBUlYzbHZKa0NrTnMzd3JPX3pGM3c0Q1hCVkxXOEdzN01VODdHb0ltYzU0dlZJZ3lWTlY0TnY4b3JLTlNRTng2VGFGdzVQZy1OVjdnSkxEZWZxVHpMLTJBdXF1UFVZSllSdEE3cjhJNl82WGNlNXJIT2JRSkpGV1hFeGxNRTY3N1NIWU5WaHZIUWlNZVhuMWpmWFJPTERyQmpTRTc",
-    "badge": "breaking",
-    "at": 1790961091.8948355,
-    "country": "프랑스",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "spain-torrential-rain-flooding",
     "topic": "스페인 동부 지역 폭우 및 홍수 대비",
     "slug": "2026-10-03-news-spain-torrential-rain-flooding",
@@ -2998,5 +2978,25 @@
     "at": 1792681105.29877,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "south-africa-crowd-attack-foreigner-2026",
+    "topic": "남아공서 50여 명 군중이 습격 외국인 1명 숨져",
+    "slug": "2026-10-23-news-south-africa-crowd-attack-foreigner-2026",
+    "cluster": "CBMiW0FVX3lxTFBaRTQxUnZXQ1pvR1dzdWg1Ql9JbF9scHRldVVWcjVsN09BVm9hZTU3LUZuUVdEQkxETWpYUVJRWFRaWE12eXFLQVFKUXJ1UC1UeUR3YUdjSl9icUU",
+    "badge": "breaking",
+    "at": 1792692449.9952912,
+    "country": "남아프리카공화국",
+    "category": "기타 사건"
+  },
+  {
+    "event_key": "wall-street-nasdaq-drop-oil-rise-2026",
+    "topic": "AI 비용 우려와 유가 상승에 나스닥 2% 급락",
+    "slug": "2026-10-23-news-wall-street-nasdaq-drop-oil-rise-2026",
+    "cluster": "CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR",
+    "badge": "breaking",
+    "at": 1792692520.9542823,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

@@ -21946,5 +21946,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792688999
+  },
+  {
+    "slug": "2026-10-23-news-south-africa-crowd-attack-foreigner-2026",
+    "event_ms": 1792685725000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 남아공서 50여 명 군중 습격으로 외국인 1명 사망\n\n· 반이민 정서가 고조된 가운데 행진 도중 집단 폭행이 발생했습니다 (CNN)\n· 남아공 경찰은 외국인 국적 남성이 숨진 사건을 수사하고 있습니다 (Reuters)\n\n출처: BBC·Reuters·CNN 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "남아프리카공화국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18053671640598459",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dezl8RBFoX-",
+        "kind": "carousel",
+        "at": 1792692570
+      },
+      "instagram": {
+        "id": "18073289504754915",
+        "permalink": "https://www.instagram.com/reel/DezmZeRDNXG/",
+        "kind": "reel",
+        "at": 1792692823
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792692877
+      },
+      "tiktok": {
+        "id": "7699557437736537352",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699557437736537352",
+        "kind": "video",
+        "at": 1792693033
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792693043
+  },
+  {
+    "slug": "2026-10-23-news-wall-street-nasdaq-drop-oil-rise-2026",
+    "event_ms": 1792687491000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] AI 비용 우려와 중동 긴장에 나스닥 2% 급락\n\n· 인공지능 투자 비용 부담 우려가 커지면서 월스트리트 나스닥 지수가 2% 이상 떨어졌습니다 (Reuters)\n· 중동 긴장 고조로 유가가 오르며 투자 심리가 위축됐습니다 (WSJ)\n\n· 여러분은 최근 증시와 유가 불안 요인이 경제에 미칠 영향, 어떻게 보십니까?\n출처: Reuters·WSJ·CNBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18108986267184948",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DezmAZclgCY",
+        "kind": "carousel",
+        "at": 1792692605
+      },
+      "instagram": {
+        "id": "18097338314210444",
+        "permalink": "https://www.instagram.com/reel/DezmeGbkTEY/",
+        "kind": "reel",
+        "at": 1792692867
+      },
+      "youtube": {
+        "id": "iFi-CWsL6eM",
+        "permalink": "https://youtube.com/shorts/iFi-CWsL6eM",
+        "kind": "shorts",
+        "at": 1792692901
+      },
+      "tiktok": {
+        "id": "6ada5334399af6f1f72caec7",
+        "permalink": "",
+        "kind": "video",
+        "at": 1792693245
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792693255
   }
 ]
