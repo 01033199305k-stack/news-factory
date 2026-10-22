@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-22-news-hormuz-strait-tanker-attack-2026",
+  "topic": "호르무즈 해협서 유조선 7척 공격받아",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 20:59 KST",
+  "source": "AP News·Reuters·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag",
+    "related": [
+      [
+        "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
+        "AP News"
+      ],
+      [
+        "Iran's IRGC Navy says seven vessels hit, warns US of wider response",
+        "Reuters"
+      ],
+      [
+        "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "The Jerusalem Post"
+      ],
+      [
+        "Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal",
+        "Yahoo"
+      ],
+      [
+        "Iran Claims Seven Ships Hit in Persian Gulf as Oil Prices Surge",
+        "Crude Oil Prices Today | OilPrice.com"
+      ]
+    ],
+    "event_key": "hormuz_strait_tanker_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈 해협서 [[유조선 7척]] 공격받아",
+      "sub": "이란 혁명수비대, 미국에 대응 경고하며 공격 사실 확인",
+      "chips": [
+        {
+          "k": "피해 선박",
+          "v": "7척"
+        }
+      ],
+      "alt": "호르무즈 해협서 유조선 7척 공격받아",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이란 혁명수비대 발표",
+          "d": "이란 혁명수비대 해군이 유조선 7척이 공격받았다고 발표했습니다 (로이터·AP)."
+        },
+        {
+          "t": "미국 향한 경고",
+          "d": "이란은 이번 사태와 관련해 미국에 더 큰 대응이 있을 것이라고 경고했습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유조선 7척 공격",
+        "이란 혁명수비대 해군 확인"
+      ],
+      "unconfirmed": [
+        "공격 주체",
+        "인명 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Crude Oil Prices Today | OilPrice.com",
+        "Reuters",
+        "The Jerusalem Post",
+        "Yahoo",
+        "2026.10.22 23:58 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협에서 유조선 7척이 공격받았습니다\n\n· 이란 혁명수비대 해군은 유조선 7척이 공격받았다고 밝혔습니다 (로이터·AP)\n· 이란 측은 이번 사태에 대해 미국을 향해 더 넓은 범위의 대응을 경고했습니다 (로이터)\n\n출처: AP·로이터·예루살렘포스트 등 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 유조선 7척이 공격받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란 혁명수비대 해군은 유조선 7척이 피격됐다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란 측은 이번 사태에 대해 미국을 향해 더 큰 대응이 있을 것이라고 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 공격 주체나 인명 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 사태가 중동 원유 공급에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "원유 공급 영향은?"
+    }
+  ],
+  "hook": "호르무즈서\n[[유조선 7척]] 피격",
+  "broll": [
+    "oil tanker sea",
+    "hormuz strait map"
+  ],
+  "place_en": "Strait of Hormuz"
+}
