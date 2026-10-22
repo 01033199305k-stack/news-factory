@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "saudi-medina-power-station-houthi-attack",
-    "topic": "사우디 메디나 발전소 후티 반군 공격 받아",
-    "slug": "2026-10-02-news-saudi-medina-power-station-houthi-attack",
-    "cluster": "CBMitAFBVV95cUxPZnZXZzBwRDQtUGJYZWxuelowY3BQM2prQm43eC0yOTVELWRadi1GRmJWcXAtOU9RXzlrX3ctd3ZmckFmVEtNLXhtQzRhRDNSWkJyc1djUGJ0NFhPUTZPbDR6OVd4QTBlUDh6bEhqUlZEanMzUlRpOVdKeUtyVnRVaHJPT0ZCQy1jcEZwc05aZ0dPY2l3VF9fVmJCZ3BHNGIxUXppQUNlMGlGV1I1SUhPMXYyMHo",
-    "badge": "breaking",
-    "at": 1790902355.9606035,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "us_energy_department_employee_houthi_arrest",
     "topic": "미 에너지부 직원, 후티 반군 지원 혐의로 체포",
     "slug": "2026-10-02-news-us-energy-department-employee-houthi-arrest",
@@ -2998,5 +2988,15 @@
     "at": 1792627701.6538525,
     "country": "사우디아라비아",
     "category": "사고"
+  },
+  {
+    "event_key": "haiti-gang-abducts-foreign-soldiers-salvador-rescue-2026",
+    "topic": "아이티 갱단에 군인 4명 피랍 엘살바도르 군사작전 발표",
+    "slug": "2026-10-22-news-haiti-gang-abducts-foreign-soldiers-salvador-rescue-2026",
+    "cluster": "CBMikAFBVV95cUxNbnNPWk1hOHlha3lWTlRSOC12b2JCeG9XczlqSnZXQXBQZGtZaHQzb1BCOWdsM3JqOFJ4T1dPR29RUDhVTDFNeTE0YUNiVFc3TkZ6NlZrN2xXTld6VTNGM3d3ZzZadWVVWFhwU0Q5N2NKUC1oa0hJWWpVY082cHVWQlk1QXFPRXVoZ2hEMXE0b00",
+    "badge": "breaking",
+    "at": 1792633017.5991886,
+    "country": "아이티",
+    "category": "총격·테러"
   }
 ]

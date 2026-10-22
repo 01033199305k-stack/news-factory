@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-22-news-haiti-gang-abducts-foreign-soldiers-salvador-rescue-2026",
+  "topic": "아이티 갱단에 군인 4명 피랍 엘살바도르 군사작전 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 08:13 KST",
+  "source": "AP News·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxNbnNPWk1hOHlha3lWTlRSOC12b2JCeG9XczlqSnZXQXBQZGtZaHQzb1BCOWdsM3JqOFJ4T1dPR29RUDhVTDFNeTE0YUNiVFc3TkZ6NlZrN2xXTld6VTNGM3d3ZzZadWVVWFhwU0Q5N2NKUC1oa0hJWWpVY082cHVWQlk1QXFPRXVoZ2hEMXE0b00",
+    "related": [
+      [
+        "El Salvador’s President Issues Harsh Warning to Haitian Gangs After 4 Soldiers Are Abducted",
+        "The New York Times"
+      ],
+      [
+        "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission",
+        "Reuters"
+      ],
+      [
+        "El Salvador’s Bukele announces military operation to rescue hostages held by gangs in Haiti",
+        "AP News"
+      ],
+      [
+        "Four international troops missing in Haiti after gang ambush",
+        "The Washington Post"
+      ],
+      [
+        "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations",
+        "CNN"
+      ]
+    ],
+    "event_key": "haiti-gang-abducts-foreign-soldiers-salvador-rescue-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "아이티 갱단에 군인 4명 피랍\n엘살바도르 [[군사작전]] 발표",
+      "sub": "다국적군 매복 기습당해… 부켈레 대통령 구출 작전 선언",
+      "chips": [
+        {
+          "k": "피랍 군인",
+          "v": "4명"
+        }
+      ],
+      "alt": "아이티 갱단에 군인 4명 피랍 엘살바도르 군사작전 발표",
+      "map": {
+        "lat": 18.547327,
+        "lon": -72.3395928,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아이티"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아이티\n포르토프랭스",
+      "video_only": true,
+      "map": {
+        "lat": 18.547327,
+        "lon": -72.3395928,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "포르토프랭스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "다국적군 매복 기습",
+          "d": "아이티 갱단이 다국적군을 기습해 군인 4명을 인질로 잡았다고 외신들이 전했습니다 (워싱턴포스트·CNN)."
+        },
+        {
+          "t": "엘살바도르 군사작전",
+          "d": "부켈레 엘살바도르 대통령은 인질 구출을 위한 군사작전을 발표했습니다 (로이터·AP)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "외국 군인 4명 피랍 (로이터·AP·NYT)",
+        "엘살바도르 구출 작전 발표 (AP)"
+      ],
+      "unconfirmed": [
+        "피랍 군인 정확한 상태 및 위치",
+        "한국인 관련 여부 확인 안 됨"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "The Washington Post",
+        "2026.10.22 10:36 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 아이티 갱단에 군인 4명이 피랍돼 구출 작전이 선포됐습니다.\n\n· 아이티 무장 갱단이 다국적군을 매복 기습해 군인 4명을 인질로 납치했습니다 (워싱턴포스트·CNN)\n· 엘살바도르 부켈레 대통령은 인질 구출을 위한 군사작전을 공식 발표했습니다 (로이터·AP)\n· 피랍 군인들의 구체적인 상태와 소재는 아직 확인되지 않았습니다\n\n출처: NYT·로이터·AP·워싱턴포스트·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아이티에서 군인 4명이 갱단에 납치됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "다국적군이 매복 기습을 당했다고 외신들이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "엘살바도르 부켈레 대통령은 구출 작전을 시작하겠다고 선언했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "피랍된 군인들의 정확한 안전 상태는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "아이티서 군인 피랍\n[[구출 작전]] 발표",
+  "broll": [
+    "military vehicle street",
+    "soldiers patrol night"
+  ],
+  "place_en": "Port-au-Prince, Haiti"
+}
