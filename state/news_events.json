@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "c2",
-    "topic": "미국과 동맹국들, 디젤 및 원유 비축유 최대 1억 배럴 방출 합의",
-    "slug": "2026-10-03-news-c2",
-    "cluster": "CBMikgFBVV95cUxObmhlRXNIUGtuVXo5aWcyUVJQdk5sakdqb0JzWUZKUTdGTUxhQ0hwcTFBcHl3bW0xUEJ5TE9jcWlxclBrbThEaHFDRHlCb0c3eklaVVJYRE43c2k3T2h1RklEVXBERElZY3dVcFNOamJQcGpCX21naDRGOFVDVkg2R2xTS2Rpay1zUjJId1JVQ0NhQQ",
-    "badge": "brief",
-    "at": 1790975450.3275359,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "texas-border-wall-blocked",
     "topic": "미 연방법원, 텍사스주 국경 장벽 건설 공사 일시 중단 명령",
     "slug": "2026-10-03-news-texas-border-wall-blocked",
@@ -2998,5 +2988,15 @@
     "at": 1792699664.68488,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "musk-starlink-ukraine-restored-2026",
+    "topic": "우크라 스타링크 접속 다시 복구",
+    "slug": "2026-10-23-news-musk-starlink-ukraine-restored-2026",
+    "cluster": "CBMiXkFVX3lxTFBGYzFhVE5tenZFZjYwWkxlRFE2bnBRYm1tQklYcU9xSHZvNWpseHR2R3I1RDBJUnkycDhsWW5ZWHZLUHAtdzk5bEN5NUxnYmNNYmxCenFHZjBfRWYtSUE",
+    "badge": "brief",
+    "at": 1792707973.7596464,
+    "country": "미국",
+    "category": "국제"
   }
 ]

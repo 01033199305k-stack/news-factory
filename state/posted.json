@@ -22107,5 +22107,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792700059
+  },
+  {
+    "slug": "2026-10-23-news-musk-starlink-ukraine-restored-2026",
+    "event_ms": 1792707973759,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 우크라이나 스타링크 통신이 다시 복구됐다고 트럼프가 밝혔습니다.\n\n· 트럼프는 일론 머스크가 우크라이나 인터넷 접속을 복구했다고 밝혔습니다 (BBC)\n· 월스트리트저널은 머스크가 우크라이나 측을 당혹게 한 스타링크 감속을 직접 지시했다고 보도했습니다 (WSJ)\n\n민간 기업의 통신망 통제가 전장에 미치는 영향, 어떻게 보십니까?\n출처: BBC·WSJ 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18006886463791272",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De0Da5BHUb6",
+        "kind": "carousel",
+        "at": 1792708027
+      },
+      "instagram": {
+        "id": "18110567609610301",
+        "permalink": "https://www.instagram.com/reel/De0D08Njz9a/",
+        "kind": "reel",
+        "at": 1792708258
+      },
+      "youtube": {
+        "id": "kInY4M6mn-A",
+        "permalink": "https://youtube.com/shorts/kInY4M6mn-A",
+        "kind": "shorts",
+        "at": 1792708275
+      },
+      "tiktok": {
+        "id": "7699623408430025991",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699623408430025991",
+        "kind": "video",
+        "at": 1792708407
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792708417
   }
 ]

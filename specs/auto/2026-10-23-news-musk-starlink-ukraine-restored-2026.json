@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-23-news-musk-starlink-ukraine-restored-2026",
+  "topic": "우크라 스타링크 접속 다시 복구",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 06:42 KST",
+  "source": "BBC·Financial Times·The Economist 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBGYzFhVE5tenZFZjYwWkxlRFE2bnBRYm1tQklYcU9xSHZvNWpseHR2R3I1RDBJUnkycDhsWW5ZWHZLUHAtdzk5bEN5NUxnYmNNYmxCenFHZjBfRWYtSUE",
+    "related": [
+      [
+        "Trump says Musk has restored Ukraine's internet access",
+        "BBC"
+      ],
+      [
+        "Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine",
+        "WSJ"
+      ],
+      [
+        "Opinion | Elon Musk is trying to make himself more powerful than the government",
+        "MS NOW"
+      ],
+      [
+        "Starlink saga shows why Europe must catch up in space",
+        "Financial Times"
+      ],
+      [
+        "The America-Ukraine link grows even spottier",
+        "The Economist"
+      ]
+    ],
+    "event_key": "musk-starlink-ukraine-restored-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라 [[스타링크]]\n접속 다시 복구",
+      "sub": "트럼프 복구 발표·머스크 감속 지시 보도",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "스타링크"
+        },
+        {
+          "k": "지역",
+          "v": "우크라이나"
+        }
+      ],
+      "alt": "우크라 스타링크 접속 다시 복구",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "복구 발표",
+          "d": "트럼프는 일론 머스크가 우크라이나의 인터넷 접속을 복구했다고 밝혔습니다 (BBC)."
+        },
+        {
+          "t": "감속 지시 의혹",
+          "d": "월스트리트저널은 머스크가 우크라이나 측을 당혹게 한 스타링크 속도 저하를 직접 지시했다고 보도했습니다 (WSJ)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프의 스타링크 복구 언급",
+        "머스크의 접속 감속 지시 보도"
+      ],
+      "unconfirmed": [
+        "인터넷 제한의 구체적 배경",
+        "우크라이나 군 작전 영향 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Financial Times",
+        "MS NOW",
+        "The Economist",
+        "WSJ",
+        "2026.10.23 07:25 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 우크라이나 스타링크 통신이 다시 복구됐다고 트럼프가 밝혔습니다.\n\n· 트럼프는 일론 머스크가 우크라이나 인터넷 접속을 복구했다고 밝혔습니다 (BBC)\n· 월스트리트저널은 머스크가 우크라이나 측을 당혹게 한 스타링크 감속을 직접 지시했다고 보도했습니다 (WSJ)\n\n민간 기업의 통신망 통제가 전장에 미치는 영향, 어떻게 보십니까?\n출처: BBC·WSJ 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나의 스타링크 인터넷 접속이 다시 복구되었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "트럼프는 머스크가 인터넷 접속을 복구했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "월스트리트저널은 머스크가 우크라이나 통신 감속을 직접 지시했었다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "일시적인 접속 제한의 정확한 원인은 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "핵심 통신망을 민간 기업이 좌우하는 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "우크라 [[인터넷]]\n갑자기 끊긴 이유",
+  "broll": [
+    "satellite earth orbit",
+    "military antenna field"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
