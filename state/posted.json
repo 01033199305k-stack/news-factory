@@ -21893,5 +21893,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792685856
+  },
+  {
+    "slug": "2026-10-22-news-ukraine-strikes-russian-data-centers-disruption-2026",
+    "event_ms": 1792669440000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라, 러 데이터센터 타격에 은행 계좌 마비\n\n· 우크라이나의 데이터센터 공격으로 러시아 핵심 서비스와 인공지능 연구가 중단됐습니다 (AP 통신).\n· 러시아 주민들의 은행 계좌 접속이 끊기고 아파트 출입 통제 등 일상 시스템 차질이 잇따랐습니다 (NBC 뉴스).\n· 드론 공격에 노출된 데이터센터 방어 취약성에 대한 우려가 커지고 있습니다 (파이낸셜 타임스).\n\n출처: AP 통신·NBC 뉴스·파이낸셜 타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18118027936813185",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DezIt-DFTJY",
+        "kind": "carousel",
+        "at": 1792677260
+      },
+      "youtube": {
+        "id": "jO6sI-SwOAE",
+        "permalink": "https://youtube.com/shorts/jO6sI-SwOAE",
+        "kind": "shorts",
+        "at": 1792677642
+      },
+      "instagram": {
+        "failed": "container 18123166687876789: ERROR ERROR",
+        "at": 1792682828
+      },
+      "tiktok": {
+        "failed": "createPost: Invalid post: Video could not be read from its URL.",
+        "at": 1792688999
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792688999
   }
 ]
