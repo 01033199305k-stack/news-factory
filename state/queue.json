@@ -79,10 +79,14 @@
         "permalink": "https://youtube.com/shorts/jO6sI-SwOAE",
         "kind": "shorts",
         "at": 1792677642
+      },
+      "instagram": {
+        "failed": "container 18123166687876789: ERROR ERROR",
+        "at": 1792682828
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 1
     },
     "video": "video.mp4"
@@ -118,6 +122,12 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DezQNJgm2KH",
         "kind": "carousel",
         "at": 1792681175
+      },
+      "instagram": {
+        "id": "17986900895889176",
+        "permalink": "https://www.instagram.com/reel/DezTfNOgdZ8/",
+        "kind": "reel",
+        "at": 1792682915
       }
     },
     "attempts": {},
@@ -147,7 +157,20 @@
       "04_outro.jpg",
       "video.mp4"
     ],
-    "done": {},
+    "done": {
+      "threads": {
+        "id": "18181077808438126",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DezS9QkHGLx",
+        "kind": "carousel",
+        "at": 1792682619
+      },
+      "instagram": {
+        "id": "17965186422211422",
+        "permalink": "https://www.instagram.com/reel/DezTkeSjgFl/",
+        "kind": "reel",
+        "at": 1792682957
+      }
+    },
     "attempts": {
       "threads": 1
     },
