@@ -20,7 +20,8 @@
       "02_points.jpg",
       "04_outro.jpg",
       "01_cover.jpg",
-      "video.mp4"
+      "video.mp4",
+      "03_check.jpg"
     ],
     "done": {
       "instagram": {
@@ -32,11 +33,17 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (사고)",
         "at": 1792628002
+      },
+      "threads": {
+        "id": "18141225079716144",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DexxJKSFoTu",
+        "kind": "carousel",
+        "at": 1792631332
       }
     },
     "attempts": {
       "threads": 1,
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   }
