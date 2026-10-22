@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-22-news-iran-threatens-undersea-cables-hormuz-2026",
+  "topic": "이란 혁명수비대 해저 케이블 위협",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 18:36 KST",
+  "source": "The Telegraph·The Times of India·Moneycontrol.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8AFBVV95cUxPbUFBX1luaTlDM0ZjV01HTzdYQmV5dEY1aDBZZmE5Tmg5Tjdma0RGMXl3bGh1OFd4QXBIdXFIeElHd1VRalI4bnJuQnVWcFBYX2k0UThubG5aQ1ZvUEZVUTFnTXB4bThEM251RnJMMW1JN01NSkxja2hMdGM5eTVKTGhIOGJSRGNRc1FObkltZUMtWnNMNEpJa3M2NkcyVFZBelJsNF9CZ3Y2M0tHeEZ0SkVaLUVrNzJMbDBab3BFdkFkNlEtMUVmbFNYSXNydGd3alhXQlpWa2wxdHZPRmZGSHJFa1Vrbm9zVnBBNm1fV2HSAfYBQVVfeXFMTkJrVHkxXzNreXAzNG9HQUVKMk1RUlVsM0tjeDF0M1ctM29CNEpkdENfRmYwWnV5Tkp3Y0gwT3hYMUJuNTNheFo2UVlBZnhzbHMzaW5pWXJkMzNieUI1Q01odDItSjVieE0wLWRWNVdWOVh6aUg4bzBKc21qZWVjdFZPMTNRbktFU0poT2VwcGtxcTR4NVlhQV9GUzNkYm1ueFZSMU0xcm0wSmhXNmo2N2hwb2xHTV8yQVkzUTViQmV1RF83QWJLOWwwSXJFLTRRenFNX005WS1PWm9HeFhUZUFoVXdudUVuS09PSXg3TE4wU29nUThB",
+    "related": [
+      [
+        "Iran sets sights on 'valuable targets' as US, Israel mull fresh strikes: 'Haven't used all capabilities...",
+        "Moneycontrol.com"
+      ],
+      [
+        "Undersea Internet Cables in Strait of Hormuz Could Be Targeted If Iran Is Attacked: IRGC Commander",
+        "تسنیم"
+      ],
+      [
+        "Iran's IRGC threatens to cut undersea internet cables in Persian Gulf: What this may mean for internet users across the globe",
+        "The Times of India"
+      ],
+      [
+        "Iran’s IRGC threatens to target subsea cables in Strait of Hormuz",
+        "Saudi Gazette"
+      ],
+      [
+        "Iran threatens to cut Hormuz internet cables",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "iran-threatens-undersea-cables-hormuz-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이란 혁명수비대\n[[해저 케이블]] 위협",
+      "sub": "공격받을 경우 호르무즈 해협 통신선 차단 경고",
+      "chips": [],
+      "alt": "이란 혁명수비대 해저 케이블 위협",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해저 케이블 차단 경고",
+          "d": "이란 혁명수비대는 공격받을 경우 호르무즈 해협 해저 케이블을 차단하겠다고 밝혔습니다 (텔레그래프·사우디 가제트)."
+        },
+        {
+          "t": "통신 인프라 타격 위협",
+          "d": "이란 측은 페르시아만 해저 인터넷 케이블을 차단하겠다고 경고했습니다 (타임스 오브 인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "혁명수비대 해저 케이블 경고",
+        "호르무즈 해협 통신망 타격 가능성"
+      ],
+      "unconfirmed": [
+        "실제 차단 실행 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Moneycontrol.com",
+        "Saudi Gazette",
+        "The Telegraph",
+        "The Times of India",
+        "تسنیم",
+        "2026.10.22 21:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이란이 호르무즈 해협 해저 케이블을 차단하겠다고 위협했습니다.\n\n· 이란 공격받을 경우 호르무즈 해협 해저 인터넷 케이블 차단 경고 (텔레그래프·사우디 가제트)\n· 페르시아만 해저 인터넷 케이블 차단 위협도 제기 (타임스 오브 인디아)\n\n이번 이란의 해저 케이블 차단 위협, 어떻게 보십니까?\n\n출처: 텔레그래프·사우디 가제트·타임스 오브 인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란 혁명수비대가 호르무즈 해협 해저 인터넷 케이블을 차단하겠다고 위협했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신 보도에 따르면 이란 측은 공격받을 경우 해저 통신망을 차단하겠다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 차단 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 위협, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "호르무즈 [[인터넷]]\n차단되나",
+  "broll": [
+    "undersea cable sea",
+    "strait of hormuz ship"
+  ],
+  "place_en": "Strait of Hormuz"
+}

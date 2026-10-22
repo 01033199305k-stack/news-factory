@@ -21674,5 +21674,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792664174
+  },
+  {
+    "slug": "2026-10-22-news-iran-threatens-undersea-cables-hormuz-2026",
+    "event_ms": 1792671032171,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 이란이 호르무즈 해협 해저 케이블을 차단하겠다고 위협했습니다.\n\n· 이란 공격받을 경우 호르무즈 해협 해저 인터넷 케이블 차단 경고 (텔레그래프·사우디 가제트)\n· 페르시아만 해저 인터넷 케이블 차단 위협도 제기 (타임스 오브 인디아)\n\n이번 이란의 해저 케이블 차단 위협, 어떻게 보십니까?\n\n출처: 텔레그래프·사우디 가제트·타임스 오브 인디아 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18160095772505851",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dey88x5nFqF",
+        "kind": "carousel",
+        "at": 1792671089
+      },
+      "instagram": {
+        "id": "17974536111168966",
+        "permalink": "https://www.instagram.com/reel/Dey9MquAaqB/",
+        "kind": "reel",
+        "at": 1792671226
+      },
+      "youtube": {
+        "id": "A9UPu9nA9Ns",
+        "permalink": "https://youtube.com/shorts/A9UPu9nA9Ns",
+        "kind": "shorts",
+        "at": 1792671325
+      },
+      "tiktok": {
+        "id": "7699464783522712839",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699464783522712839",
+        "kind": "video",
+        "at": 1792671497
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792671507
   }
 ]

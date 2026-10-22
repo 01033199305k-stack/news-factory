@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "israel-uae-repatriation-flights",
-    "topic": "이스라엘, 아랍에미리트 체류객 귀환을 위한 구조 항공편 운항",
-    "slug": "2026-10-02-news-israel-uae-repatriation-flights",
-    "cluster": "CBMigAJBVV95cUxONUtQZE9uVjlvQnhURktvZFNkNjJPX084UVpuMFJWMTVpYnotLVhHWXVnT1JLY3RFMm1CdVU4N0xzMm94VERoWjM4c1RtQy1QXzBRWXJLa3BIOXJjNWV3ZHdBWVY3QThOajRLUFBpYlVlWHZnMzhGY0htVXVDM1d1bXdnTlVkZXRmY09mWnUzUmxXbi1Ibk04aGlPWXVOeGY5c282LUdrbVNSS25FbnlWQVJWTGFQRnJ0cVQ5ZkxUeUNSLTdyc3l2RlhfNzNibGJDaTIzTHFRVzlGalFRZTlhcTU0S2tJX25HN3d6ZF9BQzRPdzRvVk5DWkozRW1PYWJj0gGHAkFVX3lxTE5qTXU2ZnZ6OC11N0tXTVc1OVczZGotYWV1Y1dmOEJOb3MyZjNnb0pZNVRmWUJNWGZKY2lBM3BZUXJoWnV5dG5lSndlSzdaTjFkSEhzN3ZlZi1GU20xYTJZekJpNWlOd0MtZ2labWZGQmtXcmVSVW81aDFJVnlwdWZGcUlCUzNuWm1XSzFXUlA4SXUtWXdyalo5ck5RblYwR185RFdnZy1hWEZ5MGpvdlRmWUNfR3dzV1RtSm9STnFqSGxWZjkyYnJRYUZ5YkNfU1k2MzlqZEt6T2JJek5qc2tOYVpsOHNNZnFleHpjV3FHYy03Q0RiNVBNNV9yMzJ4dUZjWDhnZm1J",
-    "badge": "breaking",
-    "at": 1790949561.9644501,
-    "country": "이스라엘",
-    "category": "국제"
-  },
-  {
     "event_key": "mecca-defense-alliance-meeting",
     "topic": "메카 방위 동맹 회의 개최 사우디 왕세자 안보 수호 강조",
     "slug": "2026-10-02-news-mecca-defense-alliance-meeting",
@@ -2998,5 +2988,15 @@
     "at": 1792663798.3728511,
     "country": "프랑스",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "iran-threatens-undersea-cables-hormuz-2026",
+    "topic": "이란 혁명수비대 해저 케이블 위협",
+    "slug": "2026-10-22-news-iran-threatens-undersea-cables-hormuz-2026",
+    "cluster": "CBMi8AFBVV95cUxPbUFBX1luaTlDM0ZjV01HTzdYQmV5dEY1aDBZZmE5Tmg5Tjdma0RGMXl3bGh1OFd4QXBIdXFIeElHd1VRalI4bnJuQnVWcFBYX2k0UThubG5aQ1ZvUEZVUTFnTXB4bThEM251RnJMMW1JN01NSkxja2hMdGM5eTVKTGhIOGJSRGNRc1FObkltZUMtWnNMNEpJa3M2NkcyVFZBelJsNF9CZ3Y2M0tHeEZ0SkVaLUVrNzJMbDBab3BFdkFkNlEtMUVmbFNYSXNydGd3alhXQlpWa2wxdHZPRmZGSHJFa1Vrbm9zVnBBNm1fV2HSAfYBQVVfeXFMTkJrVHkxXzNreXAzNG9HQUVKMk1RUlVsM0tjeDF0M1ctM29CNEpkdENfRmYwWnV5Tkp3Y0gwT3hYMUJuNTNheFo2UVlBZnhzbHMzaW5pWXJkMzNieUI1Q01odDItSjVieE0wLWRWNVdWOVh6aUg4bzBKc21qZWVjdFZPMTNRbktFU0poT2VwcGtxcTR4NVlhQV9GUzNkYm1ueFZSMU0xcm0wSmhXNmo2N2hwb2xHTV8yQVkzUTViQmV1RF83QWJLOWwwSXJFLTRRenFNX005WS1PWm9HeFhUZUFoVXdudUVuS09PSXg3TE4wU29nUThB",
+    "badge": "brief",
+    "at": 1792671032.171322,
+    "country": "이란",
+    "category": "국제"
   }
 ]
