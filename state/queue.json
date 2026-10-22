@@ -32,10 +32,14 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (재난)",
         "at": 1792674774
+      },
+      "instagram": {
+        "failed": "container 18123148168876789: ERROR ERROR",
+        "at": 1792678288
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 2
     },
     "video": "video.mp4"
@@ -78,7 +82,7 @@
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
     },
     "video": "video.mp4"
