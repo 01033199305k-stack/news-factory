@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-22-news-saudi-arabia-airport-attack-2026",
+  "topic": "사우디 킹 파드 공항 공격 사망 1명·부상 8명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 07:21 KST",
+  "source": "AP News·Reuters·The Jerusalem Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuAFBVV95cUxNSGNWYThfTTlBMk0yXzZJMVdvRkp2NDRwOEItSlJxRjN3NE5nVmRMbFkybld2UUFLWHFzel8zTEVMMUt4T3A3QUxMN0dObTR6WHMwOHUwYmh2RGJYX1hIOFBSb1ppQ0VIUW0xdTFzTHB2NENTTElkMTRqOHBVWGFoejRhb3dhclZtS09kNkZra055RUlyVm82M1ZpNmhHZWctLUtfelg5blVrbW5aVHhpSzBvVmsyNVZm",
+    "related": [
+      [
+        "Saudi civil aviation says one killed, eight injured in attack on King Fahd airport",
+        "Reuters"
+      ],
+      [
+        "1 person killed in attack on eastern Saudi airport, authorities say",
+        "AP News"
+      ],
+      [
+        "Saudi Arabia reports 1 killed in attack on Dammam international airport",
+        "The Times of Israel"
+      ],
+      [
+        "Attack on Saudi Arabia's King Fahd Airport",
+        "The Jerusalem Post"
+      ],
+      [
+        "Dammam Took the Strike That Mattered Most",
+        "https://houseofsaud.com/"
+      ]
+    ],
+    "event_key": "saudi_arabia_airport_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "사우디 킹 파드 [[공항]] 공격\n사망 1명·부상 8명 발생",
+      "sub": "담맘 지역 공항 타격",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "8명"
+        }
+      ],
+      "alt": "사우디 킹 파드 공항 공격 사망 1명·부상 8명 발생",
+      "map": {
+        "lat": 26.4367824,
+        "lon": 50.1039991,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n담맘",
+      "video_only": true,
+      "map": {
+        "lat": 26.4367824,
+        "lon": 50.1039991,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "담맘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사우디 공항 타격",
+          "d": "사우디아라비아 민간항공 당국은 킹 파드 공항이 공격받았다고 발표했습니다 (로이터·AP)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명 (로이터·AP)",
+        "부상 8명 (로이터)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "공격 주체 및 정확한 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Reuters",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "https://houseofsaud.com/",
+        "2026.10.22 09:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 킹 파드 공항 공격으로 사망 1명과 부상 8명이 발생했습니다\n\n· 사우디아라비아 민간항공 당국은 동부 지역 공항이 타격을 입었다고 밝혔습니다 (로이터·AP)\n\n출처: 로이터·AP·타임스오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아 킹 파드 공항이 공격받아 사망 1명과 부상 8명이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 동부 지역에 위치한 공항이 타격을 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격 주체와 정확한 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "사우디 [[공항]]에서\n무슨 일이?",
+  "broll": [
+    "airport terminal night",
+    "ambulance lights"
+  ],
+  "place_en": "Dammam, Saudi Arabia"
+}

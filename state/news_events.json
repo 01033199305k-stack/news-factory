@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "nike-revenue-miss-layoffs",
-    "topic": "나이키, 매출 부진에 구조조정 및 감원 발표 주가 13년 만에 최저치로 하락",
-    "slug": "2026-10-02-news-nike-revenue-miss-layoffs",
-    "cluster": "CBMivgFBVV95cUxPYXRicUlOb3RzalpFbGZoQXFjQ2w4d282UDBQWkdJNEVEdGdNaExNemx3TWZjdmtOcEk2SnEzRFZyd0l0eHdwbUJBY1pYcHV1NkVqbHpPa0pvMlFtbDlKdjl5eTFHeTlpMlpUbFAxeENYOWNJZjdycC1tVVRyYmEwLWtaSEZ2LXN3ZkgyTmtkSmxucGlKcjRUMDYwVmxSekFvbkVyem5jZDdoenR0VVBUeERIUFBsbWlWSEo0dEx3",
-    "badge": "breaking",
-    "at": 1790899680.465073,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "saudi-medina-power-station-houthi-attack",
     "topic": "사우디 메디나 발전소 후티 반군 공격 받아",
     "slug": "2026-10-02-news-saudi-medina-power-station-houthi-attack",
@@ -2998,5 +2988,15 @@
     "at": 1792620518.638602,
     "country": "케냐",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "saudi_arabia_airport_attack_2026",
+    "topic": "사우디 킹 파드 공항 공격 사망 1명·부상 8명 발생",
+    "slug": "2026-10-22-news-saudi-arabia-airport-attack-2026",
+    "cluster": "CBMiuAFBVV95cUxNSGNWYThfTTlBMk0yXzZJMVdvRkp2NDRwOEItSlJxRjN3NE5nVmRMbFkybld2UUFLWHFzel8zTEVMMUt4T3A3QUxMN0dObTR6WHMwOHUwYmh2RGJYX1hIOFBSb1ppQ0VIUW0xdTFzTHB2NENTTElkMTRqOHBVWGFoejRhb3dhclZtS09kNkZra055RUlyVm82M1ZpNmhHZWctLUtfelg5blVrbW5aVHhpSzBvVmsyNVZm",
+    "badge": "breaking",
+    "at": 1792627701.6538525,
+    "country": "사우디아라비아",
+    "category": "사고"
   }
 ]
