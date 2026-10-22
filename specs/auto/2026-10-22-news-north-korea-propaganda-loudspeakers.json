@@ -1,0 +1,155 @@
+{
+  "slug": "2026-10-22-news-north-korea-propaganda-loudspeakers",
+  "topic": "북한, 대남 확성기 재개 준비 접경지역 긴장 고조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.22 12:57 KST",
+  "source": "Al Jazeera·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxQZkQ4YTZ2RkV3LTF0ZlJtV1VlX0RjYnNtV2o1WXZ3MmtPUHRTT09FWmdWMzROUHV0OGNoRjdJVEpRaEZkOFVZY0tOeGVfcmE3Q3FzcDdoMUhiZnI0X3V1WUlYdE9kZElmSjhmSV9nYTFEalVIRncwbFp4ZzUwZ0dtR2JCQjhfWWRROExseGZobkQzVE1qR2pZNEV5dkF3UnVEOU5mYXFGcw",
+    "related": [
+      [
+        "North Korea prepares to restart propaganda loudspeakers as ties sour with South",
+        "The Guardian"
+      ],
+      [
+        "Across the Border: North Koreans Work on the Southern Border Fence",
+        "38 North"
+      ],
+      [
+        "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days",
+        "Reuters"
+      ],
+      [
+        "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+        "Al Jazeera"
+      ],
+      [
+        "North Korea tells border troops to take ‘resolute action’ if South threatens their safety",
+        "CNN"
+      ]
+    ],
+    "event_key": "north_korea_propaganda_loudspeakers"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "북한, 대남 확성기 재개 준비\n접경지역 긴장 고조",
+      "sub": "김여정 부부장, 며칠 내 확성기 가동 경고",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "북한"
+        }
+      ],
+      "alt": "북한, 대남 확성기 재개 준비 접경지역 긴장 고조",
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "북한"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "북한\n평양",
+      "video_only": true,
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "평양"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "확성기 재개",
+          "d": "북한이 대남 확성기 방송 재개를 준비하고 있다고 가디언 등이 보도했습니다."
+        },
+        {
+          "t": "김여정 경고",
+          "d": "김여정 북한 노동당 부부장은 며칠 내로 확성기가 준비될 것이라고 경고했습니다 (로이터)."
+        },
+        {
+          "t": "한국 입장",
+          "d": "한국 정부는 북한에 대화를 촉구하고 있습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "대남 확성기 방송 준비",
+        "김여정 부부장 경고 발표",
+        "접경지역 군사 긴장"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "실제 방송 재개 시점과 내용"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "38 North",
+        "Al Jazeera",
+        "CNN",
+        "Reuters",
+        "The Guardian",
+        "2026.10.22 15:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 북한이 대남 확성기 방송 재개를 준비하고 있습니다\n\n· 김여정 북한 노동당 부부장은 며칠 내로 확성기가 준비될 것이라고 밝혔습니다 (로이터)\n· 북한은 접경지역 부대에 한국이 안전을 위협할 경우 결단력 있는 행동을 취하라고 지시했습니다 (CNN)\n· 한국 정부는 북한을 향해 대화를 촉구하고 있습니다 (알자지라)\n\n여러분은 북한의 대남 확성기 재개 움직임에 어떻게 대응해야 한다고 보십니까?\n\n출처: 가디언·로이터·알자지라·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "북한이 대남 확성기 방송 재개를 준비하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 김여정 부부장이 며칠 내로 확성기가 준비될 것이라고 경고했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "북한은 접경지역 부대에 안전 위협 시 단호한 행동을 지시했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 방송이 언제 재개될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "한국 정부는 북한에 대화를 촉구하고 있습니다.",
+      "card": "korea",
+      "screen": "한국 정부 대화 촉구"
+    },
+    {
+      "text": "여러분은 북한의 움직임에 어떻게 대응해야 한다고 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 대응해야 할까?"
+    }
+  ],
+  "hook": "북한이 [[확성기]] 방송\n재개하는 이유는?",
+  "broll": [
+    "border fence military",
+    "loudspeaker system"
+  ],
+  "place_en": "Pyongyang, North Korea"
+}
