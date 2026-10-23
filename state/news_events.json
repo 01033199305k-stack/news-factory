@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "hormuz-strait-tanker-attack-2026",
-    "topic": "호르무즈 해협서 유조선 피격",
-    "slug": "2026-10-03-news-hormuz-strait-tanker-attack-2026",
-    "cluster": "CBMi_wFBVV95cUxQQTg3dW1UM1lja0JWd1NqUVdMaldQeHVLOGN2aW9nMG9CUG8xUmRHZ19ISnFhRDZwX2YtZ0tJMVN1U0N1aWl0eTV0eG5MZUJoMVZZeTVnOVIwZFQzaUtIbzYtQl83VDZCbDk5OHZkMW1NVmY2dFBZMFp1aG56d2NaZ2tfRkZXMXVhekMya3R6NEJKalRaVHRhN3kyb1U3azRNUm1GQks4VzExQTg3RDdPeXJQcF9hNlduTFM4WWpGUEJ3cm8tQ2wxX2pLV1V2LWRqaVktWmdycGFNMEpvNElxbjE2d1E2TU9IZUNSODIyeXMxY3pKenpjT3R5eEplcGc",
-    "badge": "breaking",
-    "at": 1790989721.5602539,
-    "country": "오만",
-    "category": "국제"
-  },
-  {
     "event_key": "thailand-bangkok-floods-thai-airways-ceo",
     "topic": "태국 방콕 홍수 사태 타이항공 CEO 해임",
     "slug": "2026-10-03-news-thailand-bangkok-floods-thai-airways-ceo",
@@ -2998,5 +2988,15 @@
     "at": 1792717779.5737405,
     "country": "대만",
     "category": "재난"
+  },
+  {
+    "event_key": "ukraine_finland_satellite_network_deal_2026",
+    "topic": "우크라, 핀란드와 협력해 독자 위성망 구축 나선다",
+    "slug": "2026-10-23-news-ukraine-finland-satellite-network-deal-2026",
+    "cluster": "CBMi1wFBVV95cUxPVDVLWW42MUJjc2dvbldXMkhnVnNJcnhzQVB1enhueG11UlNaWi1IMG1rNUtJY2RuMlFvTEFpVklWMXBIUE1jbEUxVk1IOXBMeUJ5bWdnN1R0V3RsWVpUWU1RWkM1U0t0dzNKejRuTHdLMnBsZXNmZUJaWHl3eGFlaHJUcDVvYWZyVG9jV0h2ckcwd3hXZUNNS1dLM2dWQmYwNzVYeTZNSlBBeWN3bTNMSlBkN3gwSm5VS2FYcTB5LXBYakI4a205Y0pUWjFEY3JwMElsWnJybw",
+    "badge": "brief",
+    "at": 1792725076.4763103,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,153 @@
+{
+  "slug": "2026-10-23-news-ukraine-finland-satellite-network-deal-2026",
+  "topic": "우크라, 핀란드와 협력해 독자 위성망 구축 나선다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 08:29 KST",
+  "source": "Kyiv Post·Space·SpaceNews 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi1wFBVV95cUxPVDVLWW42MUJjc2dvbldXMkhnVnNJcnhzQVB1enhueG11UlNaWi1IMG1rNUtJY2RuMlFvTEFpVklWMXBIUE1jbEUxVk1IOXBMeUJ5bWdnN1R0V3RsWVpUWU1RWkM1U0t0dzNKejRuTHdLMnBsZXNmZUJaWHl3eGFlaHJUcDVvYWZyVG9jV0h2ckcwd3hXZUNNS1dLM2dWQmYwNzVYeTZNSlBBeWN3bTNMSlBkN3gwSm5VS2FYcTB5LXBYakI4a205Y0pUWjFEY3JwMElsWnJybw",
+    "related": [
+      [
+        "Amid Starlink crisis, Finnish tech giants announce plan to help Ukraine build its own sovereign satellite system",
+        "The Kyiv Independent"
+      ],
+      [
+        "After Starshield interruption, Ukraine wants to build its own satellite communication network with ICEYE and Nokia",
+        "Space"
+      ],
+      [
+        "Zelenskyy: We agreed to make greater use of Finland's satellite capabilities",
+        "Українська правда"
+      ],
+      [
+        "Ukraine Expands Satellite Cooperation With Finland, Signs 7 Deals Worth Nearly €300M",
+        "Kyiv Post"
+      ],
+      [
+        "Ukraine explores its own satellite network after SpaceX disruptions",
+        "SpaceNews"
+      ]
+    ],
+    "event_key": "ukraine_finland_satellite_network_deal_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라, 핀란드와 협력해\n[[독자 위성망]] 구축 나선다",
+      "sub": "스타링크 사태 계기로 약 3억 유로 규모 위성 협약 체결",
+      "chips": [
+        {
+          "k": "협약 규모",
+          "v": "약 3억 유로"
+        },
+        {
+          "k": "체결 건수",
+          "v": "7건"
+        }
+      ],
+      "alt": "우크라, 핀란드와 협력해 독자 위성망 구축 나선다",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "핀란드 기업 협력",
+          "d": "키이우 인디펜던트와 스페이스는 우크라이나가 노키아 및 아이스아이 등 핀란드 기업과 자체 위성 통신망 구축을 추진한다고 전했습니다."
+        },
+        {
+          "t": "3억 유로 협약 체결",
+          "d": "키이우 포스트는 우크라이나가 핀란드와 약 3억 유로 규모의 위성 협약 7건을 체결했다고 보도했습니다."
+        },
+        {
+          "t": "젤렌스키 대통령 발표",
+          "d": "우크라인스카 프라우다는 젤렌스키 대통령이 핀란드의 위성 역량을 더 적극 활용하기로 합의했다고 밝혔다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나·핀란드 위성 협약 7건 체결",
+        "총 규모 약 3억 유로",
+        "노키아·아이스아이 참여"
+      ],
+      "unconfirmed": [
+        "자체 위성망 가동 시점",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "Space",
+        "SpaceNews",
+        "The Kyiv Independent",
+        "Українська правда",
+        "2026.10.23 12:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 우크라이나가 핀란드와 손잡고 독자 위성망 구축에 나섰습니다.\n\n· 우크라이나 정부가 핀란드와 약 3억 유로 규모의 위성 협약 7건을 체결했습니다 (키이우 포스트)\n· 노키아와 아이스아이 등 핀란드 기술 기업들이 자체 위성 통신망 구축을 지원합니다 (키이우 인디펜던트·스페이스)\n· 스타링크와 스페이스X 등 통신망 중단 사태 이후 추진된 조치입니다 (스페이스뉴스)\n\n우크라이나의 독자 위성 통신망 구축, 어떻게 보십니까?\n출처: 키이우 인디펜던트·스페이스·키이우 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 독자 위성 통신망 구축에 나섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "스타링크 중단 사태 이후 핀란드와 손을 잡았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "키이우 포스트는 핀란드와 3억 유로 규모 협약 7건을 맺었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "노키아와 아이스아이가 통신망 구축에 참여합니다.",
+      "card": "points"
+    },
+    {
+      "text": "자체 위성망의 구체적인 가동 시점은 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "스타링크 끊기자\n[[우크라의 선택]]",
+  "broll": [
+    "satellite space",
+    "satellite dish"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
