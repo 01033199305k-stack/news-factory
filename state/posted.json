@@ -22649,5 +22649,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792757916
+  },
+  {
+    "slug": "2026-10-23-news-bahamas-british-mother-drowns-saving-children-2026",
+    "event_ms": 1792743180000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 바하마서 36세 영국인 여성 아이들 구하려다 숨져\n\n· 스노클링 중 두 아들이 바다에 휩쓸려 내려갔습니다 (더 인디펜던트·더 선)\n· 36세 어머니가 아이들을 구하기 위해 바다로 뛰어들었습니다 (데일리 스타·더 선)\n\n출처: 텔레그래프·더 인디펜던트·더 선 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "바하마"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18136744645634946",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De1a_U9oE2o",
+        "kind": "carousel",
+        "at": 1792753938
+      },
+      "instagram": {
+        "id": "17955108873038709",
+        "permalink": "https://www.instagram.com/reel/De1bdQwjwW3/",
+        "kind": "reel",
+        "at": 1792754201
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792754255
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6adb5cb891ffb6bdb085832b): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1792761137
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792761137
   }
 ]
