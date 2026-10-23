@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-camp-david-secret-meeting-iran-yemen",
-    "topic": "미 안보 참모진 캠프 데이비드 비밀 회동",
-    "slug": "2026-10-04-news-us-camp-david-secret-meeting-iran-yemen",
-    "cluster": "CBMiqwFBVV95cUxOUUlNVlE5WmlSSHB6ZVIxb20yMnphd2xnUmdoZHRFd0Nzc1dBRG03eC1Cbjd4dnQwdlhzSHlwMGV3WmNadjg3eGJwMXlXeVYyQ0N5Ty1vNjByUHBoS3NYalR2QmgxNkhfYm56YUlUX0diNVJvM2Jtdkl4Q1JRWUhQQU1CdHJzYTJYYnpOTFBMeVYtUXM5RllNRU5lOGJILVRWWnZlQVRuaXZGRlnSAb4BQVVfeXFMUEgwbW1rb0NKblRHMm1fcThUTzVqaURWbzdScy1taUtUUXYtT2tXOUdzRG16MEswNE9wU0xwbFlIZmZMWFFaeGtFV0w1VEZ2ZU9NOVNGdWdWbENYUHpsNjBzV0NHekdBQnZjcEJZYmt5Mkt6RzZmQkg1Wmo2NERZNkVBWnFtSEZWU0YtVEM0Mmx3V0E5ZXRlYUZ6VVNoMHVCaVlYeGhYNy1acFRmQ2lnNWYybUJlRzBVTGNnT2k0dw",
-    "badge": "brief",
-    "at": 1791090505.2236526,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "okinawa-us-marine-murder-japan-protest-2026",
     "topic": "오키나와 여성 피살 미 해병 체포에 日 항의",
     "slug": "2026-10-04-news-okinawa-us-marine-murder-japan-protest-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792775255.1504524,
     "country": "글로벌",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_doj_alaska_senate_lawsuit_2026",
+    "topic": "미국 법무부, 알래스카 상원 선거 결과 인증 차단 소송 제기",
+    "slug": "2026-10-24-news-us-doj-alaska-senate-lawsuit-2026",
+    "cluster": "CBMipwFBVV95cUxQcWxpNC1vU1lhdHpzWHZjN2JvZzVUVlVhWFA3MlJvVkMtOS0ybGR1NWVnRzJOUm1TdXZqcjJhSzdjQjEwazM0cXZXTnN0bGhYMlJteERaQVAzcVR0LU5TVTNJSHpta0doRWJCLWtibE4tTjJ3ekFmVHI3MGVFV092b0lRZUtIVnF6OXp2ZEV4TC1MQ1BKWThKdTJvdy1VQzJJeHJUUnFGbw",
+    "badge": "breaking",
+    "at": 1792780217.6763673,
+    "country": "미국",
+    "category": "국제"
   }
 ]
