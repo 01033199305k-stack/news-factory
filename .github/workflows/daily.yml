@@ -15,6 +15,10 @@ on:
         description: "private / unlisted / public (비우면 저장소 변수 DAILY_PRIVACY, 그것도 없으면 private)"
         type: string
         default: ""
+      set_privacy:
+        description: "이미 올린 영상의 공개 범위만 바꿀 때: '<영상 id> <public|unlisted|private>' (만들지 않음)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -48,7 +52,10 @@ jobs:
           YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
           DAILY_PRIVACY: ${{ github.event.inputs.privacy || vars.DAILY_PRIVACY || 'private' }}
           DATE: ${{ github.event.inputs.date }}
-        run: python daily_longform.py --upload ${DATE:+--date $DATE}
+          SET_PRIVACY: ${{ github.event.inputs.set_privacy }}
+        run: |
+          if [ -n "$SET_PRIVACY" ]; then python daily_longform.py --set-privacy $SET_PRIVACY; exit; fi
+          python daily_longform.py --upload ${DATE:+--date $DATE}
 
       # 올린 영상을 실행 결과에서 바로 내려받아 볼 수 있게 (7일 보관)
       - uses: actions/upload-artifact@v4

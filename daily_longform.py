@@ -461,8 +461,27 @@ def upload(final, meta, privacy):
     return vid
 
 
+def set_privacy(vid, privacy):
+    """이미 올린 롱폼의 공개 범위만 바꾼다 (비공개로 먼저 올려 확인한 뒤 공개할 때)."""
+    body = {"id": vid, "status": {"privacyStatus": privacy, "selfDeclaredMadeForKids": False}}
+    req = urllib.request.Request("https://www.googleapis.com/youtube/v3/videos?part=status",
+                                 data=json.dumps(body).encode(), method="PUT",
+                                 headers={"Authorization": "Bearer " + yt_access(),
+                                          "Content-Type": "application/json; charset=UTF-8"})
+    with urllib.request.urlopen(req, timeout=60) as r:
+        print("YOUTUBE 공개 범위", vid, json.loads(r.read())["status"]["privacyStatus"])
+    done = json.loads(DAILY.read_text(encoding="utf-8")) if DAILY.exists() else {}
+    for v in done.values():
+        if v.get("id") == vid:
+            v["privacy"] = privacy
+    DAILY.write_text(json.dumps(done, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
 def main():
     a = sys.argv[1:]
+    if "--set-privacy" in a:   # --set-privacy <영상 id> <private|unlisted|public>
+        i = a.index("--set-privacy")
+        return set_privacy(a[i + 1], a[i + 2])
     day = a[a.index("--date") + 1] if "--date" in a else \
         (datetime.datetime.now(KST) - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
     done = json.loads(DAILY.read_text(encoding="utf-8")) if DAILY.exists() else {}
