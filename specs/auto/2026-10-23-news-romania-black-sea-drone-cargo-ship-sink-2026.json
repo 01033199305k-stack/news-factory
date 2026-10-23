@@ -1,0 +1,152 @@
+{
+  "slug": "2026-10-23-news-romania-black-sea-drone-cargo-ship-sink-2026",
+  "topic": "흑해 해상서 화물선 드론 피격 침몰 사망 1명·실종 3명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 22:53 KST",
+  "source": "Bloomberg.com·Reuters·Clinton Herald 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirwFBVV95cUxPOF9iZ3FoTHAycU5fWGxKNWNiYnpvRXlwUWJ2ZVFtQU9IUmF4UWJTU1AwTEFRT21vNWRDNzRjWTgtY0F6Vkp0RkdxeG9xM1A0X1RRX19Eb0RqVG9tbTBNeWFRaXZ2SzEtUUFEc2VjZlZPaUxtR3JGTUNEN3VRdWtRMEdTM21OSTVSQWNJN3FaOWpBNHdld3IyZS1sbVA1a2wxLVJXRm01ejhKWXZzQU5B",
+    "related": [
+      [
+        "Romania blames Russia for drone that sinks cargo ship; 1 killed, 3 missing",
+        "Reuters"
+      ],
+      [
+        "Drone hits another ship in Black Sea near Romania, killing at least 1 sailor",
+        "POLITICO.eu"
+      ],
+      [
+        "Romania and EU accuse Russia of new drone attack as ship capsizes in Black Sea",
+        "Euronews.com"
+      ],
+      [
+        "Black Sea Ship Sinks in New Deadly Drone Strike Blamed on Russia",
+        "Bloomberg.com"
+      ],
+      [
+        "Romania-Black-Sea-Ship-Fire",
+        "Clinton Herald"
+      ]
+    ],
+    "event_key": "romania_black_sea_drone_cargo_ship_sink_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "흑해 해상서 화물선 드론 피격 침몰\n사망 [[1명]]·실종 [[3명]] 발생",
+      "sub": "루마니아와 EU, 러시아의 공격으로 지목",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "실종",
+          "v": "3명"
+        }
+      ],
+      "alt": "흑해 해상서 화물선 드론 피격 침몰 사망 1명·실종 3명 발생",
+      "map": {
+        "lat": 45.6800607,
+        "lon": 25.5868435,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "루마니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "루마니아\n흑해",
+      "video_only": true,
+      "map": {
+        "lat": 45.6800607,
+        "lon": 25.5868435,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "흑해"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "드론 피격",
+          "d": "흑해 루마니아 인근 해상에서 화물선이 드론 공격을 받아 침몰했습니다 (Reuters·POLITICO)."
+        },
+        {
+          "t": "인명 피해",
+          "d": "선원 1명이 숨지고 3명이 실종됐습니다 (Reuters)."
+        },
+        {
+          "t": "책임 공방",
+          "d": "루마니아와 유럽연합은 이번 공격의 배후로 러시아를 지목했습니다 (Reuters·POLITICO)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "화물선 침몰",
+        "사망 1명 및 실종 3명",
+        "루마니아와 EU의 러시아 규탄"
+      ],
+      "unconfirmed": [
+        "정확한 드론 발사 주체와 기종",
+        "실종 선원 수색 진행 상황",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Clinton Herald",
+        "Euronews.com",
+        "POLITICO.eu",
+        "Reuters",
+        "2026.10.24 01:34 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 흑해 인근서 화물선이 드론 공격을 받아 침몰해 사망 1명과 실종 3명이 발생했습니다 (Reuters·POLITICO).\n\n· 루마니아 인근 흑해 해상에서 화물선이 드론 피격으로 침몰했습니다 (Reuters)\n· 선원 1명이 숨지고 3명이 실종됐으며 루마니아와 EU는 러시아를 공격 주체로 지목했습니다 (Reuters·POLITICO)\n\n출처: Reuters·POLITICO·Euronews·Bloomberg 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "흑해 루마니아 인근 해상에서 화물선이 드론 공격을 받아 침몰했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 이번 공격으로 선원 1명이 숨지고 3명이 실종됐다고 전했습니다.",
+      "card": "points",
+      "screen": "사망 1명·실종 3명"
+    },
+    {
+      "text": "루마니아와 유럽연합은 러시아의 소행이라고 비판했습니다.",
+      "card": "points",
+      "screen": "러시아 배후 지목"
+    },
+    {
+      "text": "정확한 공격 주체와 실종자 수색 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "흑해 상선이\n드론에 피격된 이유는?",
+  "broll": [
+    "cargo ship sea",
+    "drone sea waves"
+  ],
+  "place_en": "Black Sea Romania"
+}

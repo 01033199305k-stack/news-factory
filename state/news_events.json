@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "houthi-riyadh-aramco-attack-2026",
-    "topic": "예멘 후티 반군, 사우디 리야드 석유시설 공격",
-    "slug": "2026-10-04-news-houthi-riyadh-aramco-attack-2026",
-    "cluster": "CBMirAFBVV95cUxOUmVOVEVCTVdITFV4aHd1aWM4aC1lZzBQTUIxcG9zSkU0ZXJKbHVRdTRWTUVsRWVsRmZHYlI2ZW01dnp3NlQ4WEV3Wnp0YXpVV2VCQ2RmeVBQQ3BUN0E3S1ZrRkw0ODdkVVJsSnFWWVM5YWVZZExacUlwdGRrc3h1LVJkNHNWY1dZS1F2UE1aR1JHYzNkX0ktS0RIQW4zX3RJUWV4eVBqVFd6X0t1",
-    "badge": "brief",
-    "at": 1791072612.7391357,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "florida-dengue-outbreak-emergency-2026",
     "topic": "미 플로리다 뎅기열 비상 수십 년 만의 최대 확산",
     "slug": "2026-10-04-news-florida-dengue-outbreak-emergency-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792771930.0445771,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "romania_black_sea_drone_cargo_ship_sink_2026",
+    "topic": "흑해 해상서 화물선 드론 피격 침몰 사망 1명·실종 3명 발생",
+    "slug": "2026-10-23-news-romania-black-sea-drone-cargo-ship-sink-2026",
+    "cluster": "CBMirwFBVV95cUxPOF9iZ3FoTHAycU5fWGxKNWNiYnpvRXlwUWJ2ZVFtQU9IUmF4UWJTU1AwTEFRT21vNWRDNzRjWTgtY0F6Vkp0RkdxeG9xM1A0X1RRX19Eb0RqVG9tbTBNeWFRaXZ2SzEtUUFEc2VjZlZPaUxtR3JGTUNEN3VRdWtRMEdTM21OSTVSQWNJN3FaOWpBNHdld3IyZS1sbVA1a2wxLVJXRm01ejhKWXZzQU5B",
+    "badge": "breaking",
+    "at": 1792773286.0176487,
+    "country": "루마니아",
+    "category": "사고"
   }
 ]
