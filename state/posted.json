@@ -23302,5 +23302,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792786532
+  },
+  {
+    "slug": "2026-10-24-news-sicily-earthquakes-tsunami-alert-2026",
+    "event_ms": 1792781512000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이탈리아 시칠리아 인근서 지진 십여 차례 발생해 쓰나미 경보 발령\n\n· 지중해 연안 인근에서 지진이 이어졌다고 매체들이 전했습니다 (Daily Mirror·The Independent)\n· 진앙지 인근 지역에서 학교가 대피했습니다 (Tech Times)\n\n출처: Daily Mirror·The Independent·Tech Times 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "이탈리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18482234017114127",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De2Reo7nWUK",
+        "kind": "carousel",
+        "at": 1792782506
+      },
+      "instagram": {
+        "id": "17949984657343237",
+        "permalink": "https://www.instagram.com/reel/De2RvhnD-it/",
+        "kind": "reel",
+        "at": 1792782662
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792782672
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6adbcc7a3d5b27036b513fe5): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1792789739
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792789739
   }
 ]
