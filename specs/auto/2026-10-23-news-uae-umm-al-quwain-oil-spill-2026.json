@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-23-news-uae-umm-al-quwain-oil-spill-2026",
+  "topic": "UAE 유조선 기름 유출 움알쿠와인 해변 폐쇄",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 13:24 KST",
+  "source": "Hindustan Times·Khaleej Times·The Media Line 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivwFBVV95cUxQaC1uZEZSM2M5ODhmSWVFUi1mMGtwTmRMRlZvcGlhMjRzSE9vOTF4cG40c0YtWGMtSUFja0M2eTM1QjFhODJaYnVXaFpQU1F3NlJtSGJnN1VFM09LUnZBdFlJUUtneHZUSHlZbzZOdnd1dDVOQWIyVHVBbEdNcC1lVlVpclctOV9VRjdNbVNmWEtZWnJoTDlCSWxzZ2tDM1JyeFJaVlp2eklBdUM0LU5LT251cjNkdHNVcE9ON1pMOA",
+    "related": [
+      [
+        "UAE closes all Umm al Quwain beaches after tanker oil spill | World News",
+        "Hindustan Times"
+      ],
+      [
+        "UAE’s air smells like petrol, and no one knows why",
+        "ThePrint"
+      ],
+      [
+        "UAE confirms oil spill off UAQ beaches as cause for smell reported in several emirates",
+        "Khaleej Times"
+      ],
+      [
+        "UAE confirms oil spill off coast causing strong fuel smell",
+        "The National"
+      ],
+      [
+        "From Mystery Fumes in the UAE to Fragrant Apples in Pakistan, 2 Unusual Smells Draw Attention",
+        "The Media Line"
+      ]
+    ],
+    "event_key": "uae_umm_al_quwain_oil_spill_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "UAE [[유조선 기름 유출]]\n움알쿠와인 해변 폐쇄",
+      "sub": "현지 정부는 여러 지역 악취 원인이 기름 유출 때문이라고 밝혔습니다",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "해변 폐쇄"
+        }
+      ],
+      "alt": "UAE 유조선 기름 유출 움알쿠와인 해변 폐쇄",
+      "map": {
+        "lat": 25.5144944,
+        "lon": 55.718292,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n움알쿠와인",
+      "video_only": true,
+      "map": {
+        "lat": 25.5144944,
+        "lon": 55.718292,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "움알쿠와인"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해변 전면 폐쇄",
+          "d": "아랍에미리트 당국은 기름 유출 사고 이후 움알쿠와인의 모든 해변을 폐쇄했습니다 (힌두스탄타임스)."
+        },
+        {
+          "t": "악취 원인 확인",
+          "d": "칼리즈타임스는 여러 토후국에 퍼진 연료 냄새의 원인이 해안 기름 유출로 확인됐다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "움알쿠와인 전 해변 폐쇄 조치",
+        "해안 유조선 기름 유출 공식 확인"
+      ],
+      "unconfirmed": [
+        "기름 유출량 및 사고 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Hindustan Times",
+        "Khaleej Times",
+        "The Media Line",
+        "The National",
+        "ThePrint",
+        "2026.10.23 15:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 아랍에미리트 해안에서 유조선 기름이 유출돼 당국이 해변을 폐쇄했습니다.\n\n· 아랍에미리트 당국은 유조선 기름 유출 사고 이후 움알쿠와인의 모든 해변을 폐쇄했습니다 (힌두스탄타임스).\n· 칼리즈타임스는 여러 지역에 퍼진 강한 연료 냄새의 원인이 이번 유출 사고로 확인됐다고 전했습니다.\n· 기름 유출량과 사고 발생 경위는 아직 공식 확인되지 않았습니다.\n\n출처: 힌두스탄타임스·칼리즈타임스·더내셔널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아랍에미리트 해안에서 유조선 기름이 유출돼 해변이 폐쇄됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 언론은 여러 지역에 퍼진 악취 원인이 이번 기름 유출로 확인됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 기름 유출량과 사고 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[기름 유출]]로\n해변 전면 폐쇄",
+  "broll": [
+    "oil spill ocean",
+    "beach water"
+  ],
+  "place_en": "Umm Al Quwain, United Arab Emirates"
+}
