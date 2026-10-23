@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-24-news-us-lowers-canada-agricultural-tariffs-2026",
+  "topic": "미국, 대캐나다 관세 일부 인하",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 03:39 KST",
+  "source": "Bloomberg.com·NBC News·Politico 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxNVW1QX1NqWUlXQmJ1aHRHUDJLUWZMZDRXVHJmOWl6c20zZVJ1THE0Skl4R184VDZoUndEdENOSEFEOFlBd2Z2NkU3YzAtOGw3UHcwdS15T0NlVkNOallTUlV6WGI4eHZBRzFmRXAwRHZuRmtjcFprZmtDSzhkSTI3RERNWEh0VzlWQ2F3TldqYkg4RjZ2NDZmZGFXQWE",
+    "related": [
+      [
+        "Trump to lower Canada tariffs for certain agricultural goods, Collins says",
+        "Politico"
+      ],
+      [
+        "US to remove 50% tariffs on some Canadian goods to help Republicans in midterms, WSJ reports",
+        "Reuters"
+      ],
+      [
+        "Tariffs to drop on some Canadian goods, says U.S. senator",
+        "CTV News"
+      ],
+      [
+        "Trump to Lower Some Canada Tariffs, Maine Senator Collins Says",
+        "Bloomberg.com"
+      ],
+      [
+        "Trump administration cancels some Canada tariffs, Sen. Susan Collins says",
+        "NBC News"
+      ]
+    ],
+    "event_key": "us_lowers_canada_agricultural_tariffs_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 대캐나다 [[관세]]\n일부 인하",
+      "sub": "일부 농산물 대상 50% 관세 철회 방침",
+      "chips": [
+        {
+          "k": "관세 철회",
+          "v": "일부 농산물"
+        }
+      ],
+      "alt": "미국, 대캐나다 관세 일부 인하",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "50% 관세 철회",
+          "d": "일부 캐나다산 품목에 적용되던 50% 관세를 철회할 예정이라고 로이터 통신이 보도했습니다."
+        },
+        {
+          "t": "상원의원 발표",
+          "d": "수전 콜린스 미 상원의원을 통해 관세 인하 방침이 공개됐다고 폴리티코 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 정부의 캐나다 관세 인하 결정"
+      ],
+      "unconfirmed": [
+        "관세 인하 구체적 적용 시기",
+        "전체 대상 품목 목록"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CTV News",
+        "NBC News",
+        "Politico",
+        "Reuters",
+        "2026.10.24 05:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 정부가 캐나다산 일부 제품에 대한 관세를 인하하기로 결정했습니다.\n\n· 농산물 일부 품목에 적용되던 50% 관세를 철회하는 방침입니다 (로이터)\n· 수전 콜린스 미 상원의원이 관세 인하 소식을 전했습니다 (폴리티코)\n\n여러분은 이번 미국의 관세 인하 결정, 어떻게 보십니까?\n\n출처: 폴리티코·로이터·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 일부 캐나다산 제품에 대한 관세를 인하하기로 했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "농산물 일부 품목에 적용되던 50% 관세가 철회될 방침입니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터 통신은 미 상원의원의 발언을 인용해 관세 인하 소식을 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 시행 시기와 구체적 대상 품목은 아직 확정되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 관세 인하 결정을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "대캐나다 [[관세]]\n인하 배경",
+  "broll": [
+    "cargo container port",
+    "truck highway"
+  ],
+  "place_en": "Washington, D.C., United States"
+}
