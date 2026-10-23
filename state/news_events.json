@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "ethiopia-tigray-offensive-airport-2026",
-    "topic": "에티오피아 정부군 티그라이 공항 탈환",
-    "slug": "2026-10-04-news-ethiopia-tigray-offensive-airport-2026",
-    "cluster": "CBMisAFBVV95cUxNdGZ5bWFYN2pFNUN5TDZ3bm1mQWdPcVlXMWFrS29DNXNRTHZTWEk3S2w1bmdxLTUyLTQtdVFqbXVCZXo3U25RMlhYUzMxUjQ5UXRkdEJuZU5DUFpWUHFuVVV6NlhkeGNSUElmWXFra2tCVE9vUHFOWjBuNHh6amwwbnRpdVFRTjVSWFZkQnFtODU3WHUxbTMyMjNxbl94dU1hdXdSY1BwcDdjbWVzZ09FdtIBtgFBVV95cUxPdzBaTzNWVVUxdXAwUEZvMnVnMzhyc1VKbVp4dHZ1ME9zVDNBNlktemV4bVEtR0ZwS2wybXJuWC10bkNoNldfNURYb0owTHpDU3NsRWRvRHNkUkp2QVhiR3pBLVdpaDNXTTFRSFFEMnhmdHN5TjJuaHFKdWcxNkJUNTB0THUyZ2JkOUxBN3VZTzFiSXpTSTBVUzBqc19zaGNxUEpNZXpTRnJWRHZpSzdUX1hzRjBJdw",
-    "badge": "breaking",
-    "at": 1791047292.6600761,
-    "country": "에티오피아",
-    "category": "국제"
-  },
-  {
-    "event_key": "russia-biolab-plague-death",
-    "topic": "러시아 연구소 직원 폐페스트로 사망",
-    "slug": "2026-10-04-news-russia-biolab-plague-death",
-    "cluster": "CBMijwFBVV95cUxPZmV4eThlV1RleDZmejQ5OXN6aHJfaUtkSWtyZklvLUNqU3JlcVlwNm9tWlgxQkRJZnB1QUVUR2sxZzQxNmgtYnZRMS1jZzBIMkVHejAzNkJBOUpKZlNUN3JhSmRXbVEtVzdpNFNPUzVjX3Naak52cEZ4TWtIYTgxVjVESG1iNmtIb0RPbm1RNA",
-    "badge": "breaking",
-    "at": 1791051077.4823806,
-    "country": "러시아",
-    "category": "재난"
-  },
-  {
     "event_key": "spain_housing_protests",
     "topic": "스페인 주택난 분노 폭발 마드리드서 수십만 명 시위",
     "slug": "2026-10-04-news-spain-housing-protests",
@@ -2998,5 +2978,25 @@
     "at": 1792762411.5283358,
     "country": "요르단",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "west_bank_netanyahu_military_operation_2026",
+    "topic": "이스라엘군 2명 사망 후 서안지구 대규모 작전 개시",
+    "slug": "2026-10-23-news-west-bank-netanyahu-military-operation-2026",
+    "cluster": "CBMiwwFBVV95cUxNSmJyQXhhU1ZfQUJvRVp4cENkNzhMZFl3ajF2UjByeFJGMzdmY2VUdEI1ekRFV1EzZE5KNERXOVFYSTFzckZXYUN4QXc5ZC1CUFl5cGEzOTZ3WnpGa2tLV3NKYW9lZkFGMkFzUl9tekZnM213ZXJOdnJwaTBLMlhlRU5wZEFvYWN6OG9fSDRZMzM0dEw5SFZZX0oza0poNDlCNzhuTlBXSE96UlEyWWtpNkRGZjcySWV6VGx0NndLWkM0c0E",
+    "badge": "breaking",
+    "at": 1792764632.4450672,
+    "country": "팔레스타인",
+    "category": "국제"
+  },
+  {
+    "event_key": "melania_trump_ukraine_ceasefire_2026",
+    "topic": "미국 백악관 발표 오레시키 휴전 성사",
+    "slug": "2026-10-23-news-melania-trump-ukraine-ceasefire-2026",
+    "cluster": "CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR",
+    "badge": "breaking",
+    "at": 1792764655.6925998,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-23-news-west-bank-netanyahu-military-operation-2026",
+  "topic": "이스라엘군 2명 사망 후 서안지구 대규모 작전 개시",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 22:41 KST",
+  "source": "CNN·The Guardian·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwwFBVV95cUxNSmJyQXhhU1ZfQUJvRVp4cENkNzhMZFl3ajF2UjByeFJGMzdmY2VUdEI1ekRFV1EzZE5KNERXOVFYSTFzckZXYUN4QXc5ZC1CUFl5cGEzOTZ3WnpGa2tLV3NKYW9lZkFGMkFzUl9tekZnM213ZXJOdnJwaTBLMlhlRU5wZEFvYWN6OG9fSDRZMzM0dEw5SFZZX0oza0poNDlCNzhuTlBXSE96UlEyWWtpNkRGZjcySWV6VGx0NndLWkM0c0E",
+    "related": [
+      [
+        "Netanyahu vows vast West Bank military operation after Hamas kills two Israeli soldiers",
+        "The Washington Post"
+      ],
+      [
+        "Netanyahu orders closure of West Bank after two soldiers killed in shooting attack",
+        "CNN"
+      ],
+      [
+        "Netanyahu orders ‘very extensive’ operation in West Bank after two Israeli soldiers killed",
+        "The Guardian"
+      ],
+      [
+        "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say",
+        "The New York Times"
+      ],
+      [
+        "Deadly attack in West Bank prompts Israeli operation",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "west_bank_netanyahu_military_operation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘군 2명 사망 후\n[[서안지구]] 대규모 작전 개시",
+      "sub": "네타냐후 총리가 군사 작전과 서안지구 봉쇄를 지시했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "이스라엘군 2명"
+        },
+        {
+          "k": "조치",
+          "v": "대규모 군사작전"
+        }
+      ],
+      "alt": "이스라엘군 2명 사망 후 서안지구 대규모 작전 개시",
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n서안지구",
+      "video_only": true,
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서안지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공격 발생",
+          "d": "하마스의 공격으로 이스라엘 군인 2명이 숨졌다고 워싱턴포스트 등이 보도했습니다."
+        },
+        {
+          "t": "총리 지시",
+          "d": "네타냐후 총리가 서안지구 봉쇄와 매우 광범위한 작전을 명령했다고 가디언 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이스라엘군 2명 사망",
+        "서안지구 군사작전 및 봉쇄"
+      ],
+      "unconfirmed": [
+        "작전의 구체적인 종료 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "The Guardian",
+        "The New York Times",
+        "The Washington Post",
+        "Yahoo",
+        "2026.10.23 23:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군 2명 사망 후 서안지구 대규모 작전 개시\n\n· 하마스의 공격으로 이스라엘 군인 2명이 숨졌습니다 (워싱턴포스트·가디언)\n· 네타냐후 총리가 서안지구 봉쇄와 대규모 군사 작전을 지시했습니다 (CNN·뉴욕타임스)\n\n이스라엘과 팔레스타인 간의 이번 충돌에 대해 어떻게 생각하십니까?\n출처: 워싱턴포스트·CNN·가디언·뉴욕타임스·야후 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "서안지구에서 이스라엘군 2명이 숨진 뒤 대규모 군사 작전이 시작됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "워싱턴포스트 등은 하마스의 공격으로 군인들이 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "네타냐후 총리는 서안지구 봉쇄와 광범위한 작전을 명령했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 충돌 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[서안지구]]에서\n무슨 일이?",
+  "broll": [
+    "military checkpoint road",
+    "soldiers patrol street"
+  ],
+  "place_en": "West Bank"
+}

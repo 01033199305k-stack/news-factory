@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-23-news-melania-trump-ukraine-ceasefire-2026",
+  "topic": "미국 백악관 발표 오레시키 휴전 성사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 22:35 KST",
+  "source": "AP News·Bloomberg.com·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR",
+    "related": [
+      [
+        "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+        "Reuters"
+      ],
+      [
+        "Melania Trump helps forge ceasefire deal in Russian-occupied Oleshky, the White House says",
+        "AP News"
+      ],
+      [
+        "US Says Russia, Ukraine to Let Civilians Leave War-Torn Oleshky",
+        "Bloomberg.com"
+      ],
+      [
+        "Melania Trump secures ceasefire for aid, evacuations in occupied Ukrainian city",
+        "WJLA"
+      ],
+      [
+        "Melania Trump Brokered Ceasefire to Allow for War Zone Evacuation",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "melania_trump_ukraine_ceasefire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 백악관 발표\n[[오레시키]] 휴전 성사",
+      "sub": "민간인 대피를 위한 일시 휴전 합의가 이뤄졌습니다.",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "오레시키"
+        },
+        {
+          "k": "대상",
+          "v": "민간인 대피"
+        }
+      ],
+      "alt": "미국 백악관 발표 오레시키 휴전 성사",
+      "map": {
+        "lat": 46.6260908,
+        "lon": 32.7220187,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n오레시키",
+      "video_only": true,
+      "map": {
+        "lat": 46.6260908,
+        "lon": 32.7220187,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오레시키"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "백악관 발표",
+          "d": "백악관은 러시아와 우크라이나가 민간인 대피를 위한 휴전에 합의했다고 밝혔습니다."
+        },
+        {
+          "t": "중재 역할",
+          "d": "멜라니아 트럼프가 러시아 점령지 오레시키의 휴전을 중재했다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아·우크라이나 민간인 대피 휴전",
+        "백악관 공식 발표"
+      ],
+      "unconfirmed": [
+        "휴전 지속 기간"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Bloomberg.com",
+        "Reuters",
+        "WJLA",
+        "Yahoo",
+        "2026.10.23 23:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 백악관 발표 오레시키 휴전 성사\n\n· 백악관은 러시아와 우크라이나가 민간인 대피를 위한 휴전에 합의했다고 밝혔습니다 (로이터·AP통신)\n· 러시아 점령지 오레시키에서 민간인 구호와 대피가 이뤄질 예정입니다 (블룸버그)\n\n이번 휴전 합의가 향후 평화 협상으로 이어질 수 있다고 보십니까?\n출처: 로이터·AP통신·블룸버그·야후 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아와 우크라이나가 민간인 대피를 위한 일시 휴전에 합의했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "백악관은 러시아 점령지 오레시키에서 대피와 구호가 진행된다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터 통신은 이번 휴전이 성사됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 휴전 지속 기간은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 휴전 합의, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[오레시키]]에서\n이뤄진 일은?",
+  "broll": [
+    "ukraine street sign",
+    "peace talks table"
+  ],
+  "place_en": "Oleshky, Ukraine"
+}

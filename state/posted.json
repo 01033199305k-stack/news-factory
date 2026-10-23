@@ -22702,5 +22702,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792761137
+  },
+  {
+    "slug": "2026-10-23-news-us-treasury-yields-tumble-below-5-percent-2026",
+    "event_ms": 1792747316000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 10년물 국채 금리 5% 아래로 하락 (CNBC·WSJ)\n\n· 미국 10년물 국채 금리가 한 달 만에 최저 수준을 기록했습니다 (CNBC)\n· 투자자들이 안전자산으로 몰렸습니다 (WSJ)\n· 프랑스 정국 불안과 AI 관련 우려가 시장에 영향을 미쳤습니다 (블룸버그·WSJ)\n\n이번 미 국채 금리 하락과 안전자산 선호 현상에 대해 어떻게 생각하십니까?\n출처: 블룸버그·CNBC·파이낸셜타임스·마켓워치·WSJ 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18147821245653987",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De1hgFGIF3g",
+        "kind": "carousel",
+        "at": 1792757351
+      },
+      "instagram": {
+        "id": "17912632644516467",
+        "permalink": "https://www.instagram.com/reel/De1h8KugBm7/",
+        "kind": "reel",
+        "at": 1792757600
+      },
+      "youtube": {
+        "id": "bQ2cWamfZhQ",
+        "permalink": "https://youtube.com/shorts/bQ2cWamfZhQ",
+        "kind": "shorts",
+        "at": 1792757661
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6adb6d1d10223fea5669f729): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1792765328
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792765328
+  },
+  {
+    "slug": "2026-10-23-news-paris-suburb-drive-by-shooting-2026",
+    "event_ms": 1792753776000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 프랑스 파리 근교 차량 총격으로 사망 1명·부상 4명 (BBC·CNN)\n\n· 파리 근교 지역에서 차량에 탄 인물이 총격을 가했습니다 (타임스)\n· 이번 총격으로 최소 1명이 숨지고 4명이 다쳤습니다 (CNN)\n\n출처: BBC·텔레그래프·타임스·CNN·스카이뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "프랑스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18645096646020455",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De1hkl_IJsa",
+        "kind": "carousel",
+        "at": 1792757389
+      },
+      "instagram": {
+        "id": "18012816851960479",
+        "permalink": "https://www.instagram.com/reel/De1iBbUCdp_/",
+        "kind": "reel",
+        "at": 1792757643
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1792757671
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6adb6d916fe59a6ed27b1bb0): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1792765442
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792765442
   }
 ]
