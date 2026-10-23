@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-24-news-ai-discovered-php-vulnerabilities-2026",
+  "topic": "AI가 찾은 보안 취약점, 전 세계 웹사이트 70% 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 00:39 KST",
+  "source": "CNN·NPR·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ",
+    "related": [
+      [
+        "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
+        "Reuters"
+      ],
+      [
+        "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
+        "CNN"
+      ],
+      [
+        "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
+        "The Hacker News"
+      ],
+      [
+        "Hacking attempts rise after flaws found in program affecting 70 percent of websites",
+        "NPR"
+      ],
+      [
+        "PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet",
+        "wiz.io"
+      ]
+    ],
+    "event_key": "ai_discovered_php_vulnerabilities_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "AI가 찾은 [[보안 취약점]],\n전 세계 웹사이트 70% 타격",
+      "sub": "인공지능이 발견한 취약점으로 해킹 시도 급증",
+      "chips": [
+        {
+          "k": "영향",
+          "v": "웹 70%"
+        }
+      ],
+      "alt": "AI가 찾은 보안 취약점, 전 세계 웹사이트 70% 타격",
+      "map": {
+        "lat": 55.702215,
+        "lon": 12.5592485,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "글로벌"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "글로벌\n전 세계",
+      "video_only": true,
+      "map": {
+        "lat": 55.702215,
+        "lon": 12.5592485,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "전 세계"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "위협 증가",
+          "d": "인공지능이 취약점을 발견한 뒤 해킹 시도가 급증하고 있다고 로이터 등이 보도했습니다."
+        },
+        {
+          "t": "긴급 패치",
+          "d": "긴급 패치가 발표된 지 이틀 만에 새로운 원격 코드 실행 위험 경고가 나왔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "전 세계 웹사이트 70% 영향 (CNN·wiz.io)",
+        "AI가 치명적인 취약점 발견 (로이터·CNN)"
+      ],
+      "unconfirmed": [
+        "실제 피해 규모와 확산 범위",
+        "추가 피해 발생 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "NPR",
+        "Reuters",
+        "The Hacker News",
+        "wiz.io",
+        "2026.10.24 02:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] AI가 발견한 보안 취약점으로 전 세계 웹사이트 70%가 위험에 처했습니다\n\n· 인공지능이 취약점을 찾아낸 뒤 해킹 시도가 급증하고 있다고 로이터 등이 보도했습니다 (로이터·CNN)\n· 긴급 패치 발표 이틀 만에 새로운 원격 코드 실행 위험 경고가 추가로 나왔습니다 (The Hacker News)\n\n출처: 로이터·CNN·The Hacker News·NPR·wiz.io 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인공지능이 찾아낸 보안 취약점으로 전 세계 웹사이트의 70퍼센트가 위험에 처했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신 등은 취약점이 발견된 뒤 해킹 시도가 급증하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "긴급 패치가 나온 지 이틀 만에 새로운 원격 코드 실행 위험 경고도 추가됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 피해 규모와 확산 범위는 아직 정확히 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 인공지능이 가져온 보안 위협, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "보안 위협, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "AI가 발견한 [[보안 취약점]],\n웹사이트 70% 타격?",
+  "broll": [
+    "cyber security screen",
+    "computer code dark"
+  ],
+  "place_en": "Global"
+}
