@@ -1,0 +1,146 @@
+{
+  "slug": "2026-10-23-news-jordan-church-shooting-2026",
+  "topic": "요르단 남부 교회서 총기 난동 최소 7명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 22:12 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9PaUdRVmRXdUhxR3haU3dtY0ZUbm96Y2RrYVFQdGd6RVJGR3o3eFMxSldjR3FvQURrdzJONDhmRUNhVDd3TDh2UzVndUtGcG0tNTFoLTlnOXhSaFk",
+    "related": [
+      [
+        "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+        "BBC"
+      ],
+      [
+        "At least 7 people killed in shooting at church in Jordan, state media says",
+        "CNN"
+      ],
+      [
+        "Unidentified gunmen open fire at church in Jordan, causing deaths and injuries, state TV says",
+        "Reuters"
+      ],
+      [
+        "Breaking: Shooter opens fire at church in Jordan",
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      [
+        "7 killed in shooting inside church in southern Jordan",
+        "The Times of Israel"
+      ]
+    ],
+    "event_key": "jordan-church-shooting-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "요르단 남부 교회서 [[총기 난동]]\n최소 7명 숨져",
+      "sub": "장례식 도중 괴한들이 총격을 가했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "7명"
+        },
+        {
+          "k": "장소",
+          "v": "교회"
+        }
+      ],
+      "alt": "요르단 남부 교회서 총기 난동 최소 7명 숨져",
+      "map": {
+        "lat": 31.1667049,
+        "lon": 36.941628,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "요르단"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "요르단",
+      "video_only": true,
+      "map": {
+        "lat": 31.1667049,
+        "lon": 36.941628,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "요르단"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "장례식장 참사",
+          "d": "요르단 남부의 한 교회에서 열린 장례식 도중 총기 난동이 발생했다고 BBC와 CNN 등이 보도했습니다."
+        },
+        {
+          "t": "인명 피해",
+          "d": "이번 총격으로 최소 7명이 사망했다고 현지 매체와 외신들이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 7명 (BBC·CNN·타임스오브이스라엘)",
+        "요르단 교회 장례식장 (BBC·CNN)",
+        "괴한들의 총기 난동 (BBC·로이터)"
+      ],
+      "unconfirmed": [
+        "범인의 신원과 구체적인 범행 동기",
+        "한국인 피해 여부",
+        "정확한 부상자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Times of Israel",
+        "2026.10.23 22:33 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 요르단 남부 교회 장례식장에서 총기 난동이 발생해 최소 7명이 숨졌습니다.\n\n· 교회에서 열린 장례식 도중 괴한들이 총격을 가했습니다 (BBC·CNN)\n· 이번 공격으로 최소 7명이 목숨을 잃었습니다 (로이터·타임스오브이스라엘)\n\n출처: BBC·CNN·로이터·타임스오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "요르단의 한 교회 장례식장에서 총기 난동이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC와 CNN 등은 이번 총격으로 최소 7명이 숨졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "장례식 도중 괴한들이 총격을 가한 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "범인의 신원과 정확한 범행 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "요르단 교회에서\n벌어진 [[총격]]",
+  "broll": [
+    "church building exterior",
+    "police lights night"
+  ],
+  "place_en": "Jordan"
+}

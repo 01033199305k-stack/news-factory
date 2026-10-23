@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bermuda-boston-medical-plane-missing-2026",
-    "topic": "버뮤다발 항공기 해상서 실종",
-    "slug": "2026-10-03-news-bermuda-boston-medical-plane-missing-2026",
-    "cluster": "CBMiqgFBVV95cUxPaEZEZ0RZVkV1UkxGbkdkd2hxQ2FQVWpYSmRiU3FVdE1DTjBzWHFUT2xhSHV2TElXRlhLZUN3MEVWMlNqRnlXeTFLc0wzM3NHdFN2M0JMT0twclZXdVBuRmlROFNYT3h0U1lOWXYzamFvV1p5ZUxsV2kwZXR5ekFlZW1zWFUzRGlWakI3MDloOGQzVldJYUYwMVMwbUM3enpTTzB0VVlYTXFSZw",
-    "badge": "breaking",
-    "at": 1791040191.2671525,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "ethiopia-tigray-offensive-airport-2026",
     "topic": "에티오피아 정부군 티그라이 공항 탈환",
     "slug": "2026-10-04-news-ethiopia-tigray-offensive-airport-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792757300.9534574,
     "country": "프랑스",
+    "category": "총격·테러"
+  },
+  {
+    "event_key": "jordan-church-shooting-2026",
+    "topic": "요르단 남부 교회서 총기 난동 최소 7명 숨져",
+    "slug": "2026-10-23-news-jordan-church-shooting-2026",
+    "cluster": "CBMiW0FVX3lxTE9PaUdRVmRXdUhxR3haU3dtY0ZUbm96Y2RrYVFQdGd6RVJGR3o3eFMxSldjR3FvQURrdzJONDhmRUNhVDd3TDh2UzVndUtGcG0tNTFoLTlnOXhSaFk",
+    "badge": "breaking",
+    "at": 1792762411.5283358,
+    "country": "요르단",
     "category": "총격·테러"
   }
 ]
