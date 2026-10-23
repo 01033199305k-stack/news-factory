@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-23-news-west-bank-judea-junction-shooting-2026",
+  "topic": "서안지구 총격 테러 최소 5명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 13:31 KST",
+  "source": "Reuters·Haaretz·Israel National News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiWkFVX3lxTE9ON3RHdEZWTERxU045SmdZUHhBVVVUbFNBYkRPMnRncl9WQVhfQ2Jqc0c2aFRDLXRWemN2UFcxZ3NWc04zUUY4R29tSXh2Ylh3UUU5N0doMUdsUQ",
+    "related": [
+      [
+        "Initial report | Shooting attack near Judea Junction",
+        "Israel National News"
+      ],
+      [
+        "Israel military: two suspected attackers killed after shooting attack near Judea junction",
+        "Reuters"
+      ],
+      [
+        "Photos show gunman during firefight with IDF troops amid West Bank shooting attack",
+        "The Times of Israel"
+      ],
+      [
+        "Medics: At least five Israelis wounded in West Bank shooting attack near Hebron",
+        "Haaretz"
+      ],
+      [
+        "Several wounded in shooting attack near Judea Junction, IDF launches manhunt for terrorist",
+        "The Jerusalem Post"
+      ]
+    ],
+    "event_key": "west-bank-judea-junction-shooting-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "서안지구 [[총격 테러]]\n최소 5명 부상",
+      "sub": "이스라엘군 \"용의자 2명 사살\"",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "최소 5명"
+        },
+        {
+          "k": "용의자",
+          "v": "2명 사살"
+        }
+      ],
+      "alt": "서안지구 총격 테러 최소 5명 부상",
+      "map": {
+        "lat": 31.528902,
+        "lon": 35.0944873,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n서안지구",
+      "video_only": true,
+      "map": {
+        "lat": 31.528902,
+        "lon": 35.0944873,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서안지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "교차로서 총격 발생",
+          "d": "헤브론 인근 유대 교차로 부근에서 총격이 일어나 최소 5명이 다쳤습니다 (하레츠)."
+        },
+        {
+          "t": "용의자 2명 사살",
+          "d": "이스라엘군은 총격을 가한 용의자 2명을 사살했다고 밝혔습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "서안지구 유대 교차로 총격 발생",
+        "최소 5명 부상 (하레츠)",
+        "용의자 2명 사살 (로이터)"
+      ],
+      "unconfirmed": [
+        "범행 동기 및 배후",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Haaretz",
+        "Israel National News",
+        "Reuters",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "2026.10.23 16:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 요르단강 서안지구서 총격…최소 5명 부상\n\n· 헤브론 인근 유대 교차로에서 총격이 발생해 최소 5명이 다쳤습니다 (하레츠)\n· 이스라엘군은 총격을 가한 용의자 2명을 사살했다고 밝혔습니다 (로이터)\n· 군 당국은 용의자 수색 작전에 나섰습니다 (예루살렘포스트)\n\n출처: 로이터·하레츠·예루살렘포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "요르단강 서안지구에서 총격 사건이 발생해 최소 5명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "하레츠 등은 헤브론 인근 유대 교차로 부근에서 총격이 벌어졌다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이스라엘군은 총격을 가한 용의자 2명을 사살했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 범행 동기와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[서안지구]] 교차로서\n벌어진 총격",
+  "broll": [
+    "police vehicle night",
+    "ambulance emergency"
+  ],
+  "place_en": "Hebron, West Bank"
+}
