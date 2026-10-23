@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-23-news-tibet-earthquake-magnitude-seven-2026",
+  "topic": "중국 티베트서 규모 7.0 강진 최소 16명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 17:25 KST",
+  "source": "BBC·YTN 사이언스·경향신문 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE96eXluYkFQNmgxS2V5eWxNR0x0V2w3U1hjVXBhZm9IZGdRMnFheE0wY08xNV9nRVZ4RTR0TGo3LWNsTjMxZ2NWUXJpQnZmVmFvalhndjVaTXYyTVM4NmfSAWNBVV95cUxNWGJKYlJIZkJreG5USzZ0Rlc2Z3lUTTVHUGc4OHlnT3Jqc29XbXMwTlcwYUpPUWlneFQxZ19XMm5wbWJ5djlKLWtUSDlhMTByeHhTcjBHZkhQZ091amx6Q2xaaHc",
+    "related": [
+      [
+        "중국 언론, ‘티베트서 강력한 지진 발생 … 사상자 다수 발생’",
+        "BBC"
+      ],
+      [
+        "시진핑, \"인명 구조에 총력…지진 피해 최대한 줄여야\" - 머니투데이",
+        "머니투데이"
+      ],
+      [
+        "기상청 \"티베트 규모 7.0 강진, 지각 확장 따른 단층운동\"",
+        "YTN 사이언스"
+      ],
+      [
+        "티베트 7.0 강진에 16명 사망, 수십명 부상…시진핑 “구조 총력”",
+        "경향신문"
+      ],
+      [
+        "“중국 티베트에서 규모 6.7 지진”",
+        "서울경제"
+      ]
+    ],
+    "event_key": "tibet_earthquake_magnitude_seven_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "중국 [[티베트]]서 규모 7.0 강진\n최소 16명 사망",
+      "sub": "지각 확장 따른 단층운동으로 발생했으며 시진핑 주석은 구조 총력을 지시했습니다.",
+      "chips": [
+        {
+          "k": "규모",
+          "v": "7.0"
+        },
+        {
+          "k": "사망",
+          "v": "16명"
+        }
+      ],
+      "alt": "중국 티베트서 규모 7.0 강진 최소 16명 사망",
+      "map": {
+        "lat": 29.8556443,
+        "lon": 90.8749807,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n티베트",
+      "video_only": true,
+      "map": {
+        "lat": 29.8556443,
+        "lon": 90.8749807,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "티베트"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지진 규모",
+          "d": "기상청은 이번 지진의 규모를 7.0으로 분석했습니다 (YTN 사이언스)."
+        },
+        {
+          "t": "피해 상황",
+          "d": "현재까지 16명이 숨지고 수십 명이 부상을 입었습니다 (경향신문)."
+        },
+        {
+          "t": "원인 분석",
+          "d": "기상청은 지각 확장에 따른 단층운동이 원인이라고 밝혔습니다 (YTN 사이언스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "티베트 규모 7.0 지진",
+        "사망 16명",
+        "부상 수십 명"
+      ],
+      "unconfirmed": [
+        "정확한 최종 사상자 규모",
+        "구체적인 재산 피해 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "YTN 사이언스",
+        "경향신문",
+        "머니투데이",
+        "서울경제",
+        "2026.10.23 20:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 중국 티베트서 규모 7.0 강진 최소 16명 사망\n\n· 기상청은 이번 지진의 규모를 7.0으로 분석했습니다 (YTN 사이언스)\n· 현재까지 16명이 숨지고 수십 명이 부상을 입었습니다 (경향신문)\n· 기상청은 지각 확장에 따른 단층운동이 원인이라고 밝혔습니다 (YTN 사이언스)\n\n출처: 경향신문·YTN 사이언스·머니투데이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국 티베트에서 규모 7.0의 강력한 지진이 발생해 사상자가 나왔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경향신문은 이번 지진으로 16명이 숨지고 수십 명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "기상청은 지각 확장에 따른 단층운동이 원인이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 최종 사상자 규모와 구체적인 재산 피해 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "중국 [[티베트]]에서\n무슨 일이?",
+  "broll": [
+    "earthquake damage rubble",
+    "collapsed building ruins"
+  ],
+  "place_en": "Tibet, China"
+}

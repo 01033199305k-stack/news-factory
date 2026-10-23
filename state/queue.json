@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-10-23-news-north-korea-dmz-landmines-estimate-2026",
-    "event_ms": 1792747018577,
-    "category": "국제",
+    "slug": "2026-10-23-news-bahamas-british-mother-drowns-saving-children-2026",
+    "event_ms": 1792743180000,
+    "category": "사고",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[정리] 북한, DMZ 일대에 지뢰 96만 발 매설 추정\n\n· 우리 군 당국은 북한이 2024년 이후 군사분계선 이북 DMZ 일대에 지뢰 약 96만 발을 매설한 것으로 파악했습니다 (한겨레·JTBC·뉴시스)\n· 정부는 DMZ 지뢰 폭발 관련 등에 대해 정전협정 위반이라며 유엔 안보리에 사과 촉구 서한을 보냈습니다 (동아일보·경향신문)\n\n남북 접경지역의 안보 상황, 독자 여러분은 어떻게 보십니까?\n\n출처: 한겨레·JTBC·뉴시스·동아일보·경향신문 보도 종합",
-    "topic_tag": "사건사고",
+    "text": "[속보] 바하마서 36세 영국인 여성 아이들 구하려다 숨져\n\n· 스노클링 중 두 아들이 바다에 휩쓸려 내려갔습니다 (더 인디펜던트·더 선)\n· 36세 어머니가 아이들을 구하기 위해 바다로 뛰어들었습니다 (데일리 스타·더 선)\n\n출처: 텔레그래프·더 인디펜던트·더 선 보도 종합",
+    "topic_tag": "해외사건사고",
     "hashtags": [
-      "사건사고",
-      "국제",
-      "대한민국"
+      "해외사건사고",
+      "사고",
+      "바하마"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,26 +25,71 @@
     ],
     "done": {
       "threads": {
-        "id": "17898229464610021",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/De1N4jUFgWn",
+        "id": "18136744645634946",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De1a_U9oE2o",
         "kind": "carousel",
-        "at": 1792747066
+        "at": 1792753938
       },
       "instagram": {
-        "id": "18142560727586388",
-        "permalink": "https://www.instagram.com/reel/De1ONnPCc6x/",
+        "id": "17955108873038709",
+        "permalink": "https://www.instagram.com/reel/De1bdQwjwW3/",
         "kind": "reel",
-        "at": 1792747264
+        "at": 1792754201
       },
       "youtube": {
-        "id": "3MlNwa6yOUU",
-        "permalink": "https://youtube.com/shorts/3MlNwa6yOUU",
-        "kind": "shorts",
-        "at": 1792747501
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792754255
       }
     },
     "attempts": {
-      "tiktok": 2
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-23-news-tibet-earthquake-magnitude-seven-2026",
+    "event_ms": 1792743957000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 중국 티베트서 규모 7.0 강진 최소 16명 사망\n\n· 기상청은 이번 지진의 규모를 7.0으로 분석했습니다 (YTN 사이언스)\n· 현재까지 16명이 숨지고 수십 명이 부상을 입었습니다 (경향신문)\n· 기상청은 지각 확장에 따른 단층운동이 원인이라고 밝혔습니다 (YTN 사이언스)\n\n출처: 경향신문·YTN 사이언스·머니투데이 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "재난",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17902484988599850",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De1bEGnILRB",
+        "kind": "carousel",
+        "at": 1792753978
+      },
+      "instagram": {
+        "id": "18414421510085304",
+        "permalink": "https://www.instagram.com/reel/De1birGDKCJ/",
+        "kind": "reel",
+        "at": 1792754245
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792754255
+      }
+    },
+    "attempts": {
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

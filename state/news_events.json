@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "lithuania-vilnius-airport-air-alert-nato",
-    "topic": "리투아니아 공항 상공에 미확인 비행체로 폐쇄",
-    "slug": "2026-10-03-news-lithuania-vilnius-airport-air-alert-nato",
-    "cluster": "CBMiugFBVV95cUxOdVY3dE5KcDNhZndxZnJvWTN6Sl9hQVU4cTBBRE00WFUxS2FYc2dHeEtRUG9INlJOOGxHOHIzTEktNFNab3U0ZmtyYVJuazZIU3BkQWdxdkZ4cEJkR3pYZ082NW5kblRQQjdpclI1NjFzb184XzVBUzlOYUxZYUZNTTI3aGdMZE1mWUJCb0JNM1JXWWRoZzZsRnQwYkZDeTFUNnF5b0tjWEh1ZkVwUFJ6UXk3LU1PSzZESVE",
-    "badge": "breaking",
-    "at": 1791018472.2684143,
-    "country": "리투아니아",
-    "category": "국제"
-  },
-  {
-    "event_key": "australia-newcastle-car-crowd-crash",
-    "topic": "호주서 관중 향해 차량 돌진 10명 부상",
-    "slug": "2026-10-03-news-australia-newcastle-car-crowd-crash",
-    "cluster": "CBMi8gFBVV95cUxOUF9jQ1BXMFRnTDh0WFFVZ2ZfdHFjZF9JOXA1S21zWkxJLUZlbTRfQkhnMUg4bVNCdjF5cTFxSVAyemZLNkZBcUFEMXlaMzFMWDRxRkdBQWlYUHN2WmZaMEZ0YklqNXpJS0ZqR2lnRktfUW9BMHljZTN2YWpGdHV1c0EwenFYUE8tcmo4TC02UG93YXAwYTJybldadjlGTkszNmNVN2llUS03RGlEdTUydDVIOGFUV25pd2tjQ3NaOE1FX05URTkwTmRQaXIwVzdsYlpLN2NwRDlnUy1vZlU3VHZ5STM5NU1oZzJrNDBwOHBYUQ",
-    "badge": "breaking",
-    "at": 1791028247.0419562,
-    "country": "호주",
-    "category": "사고"
-  },
-  {
     "event_key": "spain-rioja-bar-collapse",
     "topic": "스페인 관광지 주점 건물 붕괴 10여 명 부상",
     "slug": "2026-10-03-news-spain-rioja-bar-collapse",
@@ -2998,5 +2978,25 @@
     "at": 1792747018.5778315,
     "country": "대한민국",
     "category": "국제"
+  },
+  {
+    "event_key": "bahamas_british_mother_drowns_saving_children_2026",
+    "topic": "바하마서 36세 영국인 여성 아이들 구하려다 숨져",
+    "slug": "2026-10-23-news-bahamas-british-mother-drowns-saving-children-2026",
+    "cluster": "CBMipwFBVV95cUxOZUQ1M2MwOGtfNTBGYlN2bl92UTdLN0ZEVFhGb1ZmdV9HZWZSZzktWllMa0NlNHlEZC1sNHRhb1NNUFlYMGJIdGpCZzI3WUlmUXdVMEZMN3dlSVRXZjlvSmVvME1aVmtMN2xvSkE4RmtJeF9Wbk5CRHMwVWNBc1NxYXhrT3l2QjVyeTZCRmx3Mk9IUjlWUW0wZzFHY0Naa1JlTXFMc1I4Yw",
+    "badge": "breaking",
+    "at": 1792753856.38155,
+    "country": "바하마",
+    "category": "사고"
+  },
+  {
+    "event_key": "tibet_earthquake_magnitude_seven_2026",
+    "topic": "중국 티베트서 규모 7.0 강진 최소 16명 사망",
+    "slug": "2026-10-23-news-tibet-earthquake-magnitude-seven-2026",
+    "cluster": "CBMiXkFVX3lxTE96eXluYkFQNmgxS2V5eWxNR0x0V2w3U1hjVXBhZm9IZGdRMnFheE0wY08xNV9nRVZ4RTR0TGo3LWNsTjMxZ2NWUXJpQnZmVmFvalhndjVaTXYyTVM4NmfSAWNBVV95cUxNWGJKYlJIZkJreG5USzZ0Rlc2Z3lUTTVHUGc4OHlnT3Jqc29XbXMwTlcwYUpPUWlneFQxZ19XMm5wbWJ5djlKLWtUSDlhMTByeHhTcjBHZkhQZ091amx6Q2xaaHc",
+    "badge": "breaking",
+    "at": 1792753884.094535,
+    "country": "중국",
+    "category": "재난"
   }
 ]

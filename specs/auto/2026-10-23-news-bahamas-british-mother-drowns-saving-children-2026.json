@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-23-news-bahamas-british-mother-drowns-saving-children-2026",
+  "topic": "바하마서 36세 영국인 여성 아이들 구하려다 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 17:13 KST",
+  "source": "The Independent·The Telegraph·Daily Star 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxOZUQ1M2MwOGtfNTBGYlN2bl92UTdLN0ZEVFhGb1ZmdV9HZWZSZzktWllMa0NlNHlEZC1sNHRhb1NNUFlYMGJIdGpCZzI3WUlmUXdVMEZMN3dlSVRXZjlvSmVvME1aVmtMN2xvSkE4RmtJeF9Wbk5CRHMwVWNBc1NxYXhrT3l2QjVyeTZCRmx3Mk9IUjlWUW0wZzFHY0Naa1JlTXFMc1I4Yw",
+    "related": [
+      [
+        "British woman drowns in Bahamas while trying to save her children",
+        "The Telegraph"
+      ],
+      [
+        "British woman dies in Bahamas while trying to save sons swept away while snorkelling",
+        "The Independent"
+      ],
+      [
+        "Brit mum 'drowned after jumping in sea to rescue her two children' in Bahamas tragedy",
+        "Daily Star"
+      ],
+      [
+        "Brit mother drowns in Bahamas after 'trying to save her children who were swept out to sea' while snorkelling",
+        "LBC"
+      ],
+      [
+        "Brit mum, 36, drowns in Bahamas while trying to save her two children swept out to sea while snorkelling",
+        "The Sun"
+      ]
+    ],
+    "event_key": "bahamas_british_mother_drowns_saving_children_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "바하마서 36세 [[영국인]] 여성\n아이들 구하려다 숨져",
+      "sub": "스노클링 중 휩쓸린 두 아들을 구조하려 바다에 뛰어들었습니다.",
+      "chips": [
+        {
+          "k": "나이",
+          "v": "36세"
+        },
+        {
+          "k": "국적",
+          "v": "영국"
+        }
+      ],
+      "alt": "바하마서 36세 영국인 여성 아이들 구하려다 숨져",
+      "map": {
+        "lat": 24.7736546,
+        "lon": -78.0000547,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "바하마"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "바하마",
+      "video_only": true,
+      "map": {
+        "lat": 24.7736546,
+        "lon": -78.0000547,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바하마"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 경위",
+          "d": "스노클링을 하던 두 아들이 바다에 휩쓸려 내려갔습니다 (더 인디펜던트·더 선)."
+        },
+        {
+          "t": "구조 시도",
+          "d": "36세 영국인 어머니가 아이들을 구하기 위해 바다로 뛰어들었습니다 (데일리 스타·더 선)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국인 여성 사망",
+        "36세 어머니",
+        "바하마 사고"
+      ],
+      "unconfirmed": [
+        "아이들의 현재 상태",
+        "정확한 사고 발생 시각"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daily Star",
+        "LBC",
+        "The Independent",
+        "The Sun",
+        "The Telegraph",
+        "2026.10.23 20:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 바하마서 36세 영국인 여성 아이들 구하려다 숨져\n\n· 스노클링 중 두 아들이 바다에 휩쓸려 내려갔습니다 (더 인디펜던트·더 선)\n· 36세 어머니가 아이들을 구하기 위해 바다로 뛰어들었습니다 (데일리 스타·더 선)\n\n출처: 텔레그래프·더 인디펜던트·더 선 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "바하마 해역에서 36세 영국인 어머니가 아이들을 구하려다 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "더 선 등 외신은 스노클링을 하던 두 아들이 바다에 휩쓸리자 어머니가 뛰어들었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "아이들의 구체적인 상태와 사고의 정확한 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "바하마 바다에서\n무슨 일이?",
+  "broll": [
+    "ocean beach waves",
+    "tropical sea shore"
+  ],
+  "place_en": "Bahamas"
+}
