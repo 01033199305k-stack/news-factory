@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "slug": "2026-10-23-news-nyc-horse-carriage-ban-2026",
+    "event_ms": 1792708506000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 뉴욕시가 센트럴파크의 마차 운행을 전면 금지했습니다\n\n· 안전 문제와 동물 학대 우려로 170년 전통의 마차가 역사 속으로 사라집니다 (New York Times·BBC)\n· 일부 마차 운전사들은 생계 타격을 호소하며 법적 대응을 예고했습니다 (Fox News·CNN)\n\n출처: New York Times·Fox News·CNN·BBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18113734228868616",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De0Ne6Kjs-p",
+        "kind": "carousel",
+        "at": 1792713308
+      },
+      "instagram": {
+        "id": "17978966414922666",
+        "permalink": "https://www.instagram.com/reel/De0PmhrAS7M/",
+        "kind": "reel",
+        "at": 1792714432
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792714488
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-23-news-tom-skerritt-death-2026",
+    "event_ms": 1792703436000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 영화 '탑건'과 '에이리언'에 출연한 배우 톰 스케릿이 별세했습니다\n\n· 고인은 향년 93세의 나이로 세상을 떠났습니다 (BBC·Hollywood Reporter)\n\n출처: BBC·Hollywood Reporter·CNN·New York Times 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18094707479258662",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De0NkU5DpRl",
+        "kind": "carousel",
+        "at": 1792713346
+      },
+      "instagram": {
+        "id": "17886616002621144",
+        "permalink": "https://www.instagram.com/reel/De0Pr9NjFV6/",
+        "kind": "reel",
+        "at": 1792714478
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792714488
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4"
+  }
+]

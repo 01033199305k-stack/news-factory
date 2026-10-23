@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-23-news-tom-skerritt-death-2026",
+  "topic": "영화 '탑건'·'에이리언' 출연 배우 톰 스케릿 별세",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 06:10 KST",
+  "source": "BBC·CNN·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE5xeXJFcUViWDFOclI5eEZVdVpGdE93Y0w5cHZseGtacURvRUM3SnpxX21QaUE0ZUwta2xzSl9WT0s0OFpsS3RzVnRHYnVEWXdTeHRKZEZORFNpR28",
+    "related": [
+      [
+        "US actor Tom Skerritt, who starred in Top Gun, Steel Magnolias and Alien, dies aged 93",
+        "BBC"
+      ],
+      [
+        "Tom Skerritt, Star of ‘Picket Fences’ and ‘Alien,’ Dies at 93",
+        "The Hollywood Reporter"
+      ],
+      [
+        "Remembering Tom Skerritt: A Career in Photos",
+        "Deadline"
+      ],
+      [
+        "Tom Skerritt, everyman actor of ‘Alien’ and ‘Picket Fences’ fame, dead at 93",
+        "CNN"
+      ],
+      [
+        "Tom Skerritt Has Died. He Was Viper in ‘Top Gun’ and the Captain in ‘Alien.’",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "tom_skerritt_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영화 '탑건'·'에이리언' 출연\n배우 [[톰 스케릿]] 별세",
+      "sub": "영화 '탑건'과 '에이리언' 등으로 유명한 미국 배우 톰 스케릿이 93세를 일기로 사망했습니다",
+      "chips": [
+        {
+          "k": "향년",
+          "v": "93세"
+        }
+      ],
+      "alt": "영화 '탑건'·'에이리언' 출연 배우 톰 스케릿 별세",
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국",
+      "video_only": true,
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "타계 소식",
+          "d": "영화 '탑건'과 '에이리언' 등에 출연한 미국 배우 톰 스케릿이 향년 93세로 세상을 떠났습니다 (BBC·Hollywood Reporter)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "배우 톰 스케릿 사망",
+        "향년 93세"
+      ],
+      "unconfirmed": [
+        "정확한 사인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Deadline",
+        "The Hollywood Reporter",
+        "The New York Times",
+        "2026.10.23 08:54 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영화 '탑건'과 '에이리언'에 출연한 배우 톰 스케릿이 별세했습니다\n\n· 고인은 향년 93세의 나이로 세상을 떠났습니다 (BBC·Hollywood Reporter)\n\n출처: BBC·Hollywood Reporter·CNN·New York Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영화 '탑건'과 '에이리언'에 출연한 배우 톰 스케릿이 별세했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 고인이 향년 93세의 나이로 세상을 떠났다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사인은 아직 보도되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "'탑건'과 '에이리언'의\n배우 [[톰 스케릿]] 별세",
+  "broll": [
+    "cinema film strip",
+    "classic hollywood theater"
+  ],
+  "place_en": "United States"
+}

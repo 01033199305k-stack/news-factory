@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "texas-border-wall-blocked",
-    "topic": "미 연방법원, 텍사스주 국경 장벽 건설 공사 일시 중단 명령",
-    "slug": "2026-10-03-news-texas-border-wall-blocked",
-    "cluster": "CBMieEFVX3lxTE1PNjhmdkU4S2g1XzgzbC1lLV9GQlB2RW9vQTk1d3RpMXpvM2xnN0dqQ2tRbzU2c0ZiUFNfMUlYbTZfYWlIYWMtOUtZY3JxeGg1VlRjSEIxNng2eTEwNTFfcGxMOTRvbUpVenoxeGJYc2xjTFNnNlhidQ",
-    "badge": "breaking",
-    "at": 1790982497.9750054,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
-    "event_key": "hawaii-holei-sea-arch-collapse",
-    "topic": "하와이 500년 명물 호레이 시 아치 붕괴",
-    "slug": "2026-10-03-news-hawaii-holei-sea-arch-collapse",
-    "cluster": "CBMiW0FVX3lxTE1vQnE3NVFENU9GcFhoOUZYUXRXRk1qUHJ4RHdmQi1vSlRvVWlMak90MGdRUklfZXNLSXpiczlMbW5uaTBDamZGOG5QTjhmRE1WaXZrUE9wSkVaNlk",
-    "badge": "breaking",
-    "at": 1790985075.8680415,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "flydubai-cockpit-attack-2026",
     "topic": "여객기 비행 중 조종석 흉기 난동",
     "slug": "2026-10-03-news-flydubai-cockpit-attack-2026",
@@ -2998,5 +2978,25 @@
     "at": 1792707973.7596464,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "nyc_horse_carriage_ban_2026",
+    "topic": "미국 뉴욕시, 마차 운행 전면 금지 170년 만에 센트럴파크 역사 속으로",
+    "slug": "2026-10-23-news-nyc-horse-carriage-ban-2026",
+    "cluster": "CBMijAFBVV95cUxNckdTc2tHclB1RmRzLWhFYmVZMVVvSVpiZXUwZEw5MDh5cW53Tk4yMEhPcFBwYUJhdXNiZENfMXFXeWV3N3BxQm5TR2hLR0pCZ2NSQkdZUGxvSnFWdndZQ3FjYVZfb2xzVzV3alRzemhyYzhmQS0xcjktRnVtU1ZZb2hzQmQ3c1VUWEJIRg",
+    "badge": "breaking",
+    "at": 1792713240.6711762,
+    "country": "미국",
+    "category": "기타 사건"
+  },
+  {
+    "event_key": "tom_skerritt_death_2026",
+    "topic": "영화 '탑건'·'에이리언' 출연 배우 톰 스케릿 별세",
+    "slug": "2026-10-23-news-tom-skerritt-death-2026",
+    "cluster": "CBMiW0FVX3lxTE5xeXJFcUViWDFOclI5eEZVdVpGdE93Y0w5cHZseGtacURvRUM3SnpxX21QaUE0ZUwta2xzSl9WT0s0OFpsS3RzVnRHYnVEWXdTeHRKZEZORFNpR28",
+    "badge": "breaking",
+    "at": 1792713252.9757252,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

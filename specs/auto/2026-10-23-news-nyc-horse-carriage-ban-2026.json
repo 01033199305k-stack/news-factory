@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-23-news-nyc-horse-carriage-ban-2026",
+  "topic": "미국 뉴욕시, 마차 운행 전면 금지 170년 만에 센트럴파크 역사 속으로",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 07:35 KST",
+  "source": "BBC·CNN·Fox News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijAFBVV95cUxNckdTc2tHclB1RmRzLWhFYmVZMVVvSVpiZXUwZEw5MDh5cW53Tk4yMEhPcFBwYUJhdXNiZENfMXFXeWV3N3BxQm5TR2hLR0pCZ2NSQkdZUGxvSnFWdndZQ3FjYVZfb2xzVzV3alRzemhyYzhmQS0xcjktRnVtU1ZZb2hzQmQ3c1VUWEJIRg",
+    "related": [
+      [
+        "New York City Passes Horse Carriage Ban, Ending a Central Park Tradition",
+        "The New York Times"
+      ],
+      [
+        "NYC votes to end nearly 170-year-old horse carriage tradition as Trump blasts ban, drivers threaten lawsuit",
+        "Fox News"
+      ],
+      [
+        "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their future",
+        "CNN"
+      ],
+      [
+        "Breaking news: New York City ends the use of carriage horses",
+        "Humane World for Animals"
+      ],
+      [
+        "New York bans horse-drawn carriages over safety and abuse concerns",
+        "BBC"
+      ]
+    ],
+    "event_key": "nyc_horse_carriage_ban_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 뉴욕시, [[마차 운행]] 전면 금지\n170년 만에 센트럴파크 역사 속으로",
+      "sub": "안전과 학대 우려로 170년 전통의 마차 운행이 중단됩니다",
+      "chips": [
+        {
+          "k": "역사",
+          "v": "170년"
+        }
+      ],
+      "alt": "미국 뉴욕시, 마차 운행 전면 금지 170년 만에 센트럴파크 역사 속으로",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "금지 배경",
+          "d": "안전 문제와 동물 학대 우려로 뉴욕시의회가 마차 운행 금지 법안을 통과시켰습니다 (New York Times·BBC)."
+        },
+        {
+          "t": "반발",
+          "d": "일부 마차 운전사들은 생계 타격을 우려하며 소송을 예고했습니다 (Fox News·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "뉴욕시 마차 운행 금지 통과",
+        "170년 전통 마차 운행 종료"
+      ],
+      "unconfirmed": [
+        "마차 운전사들의 실제 소송 제기 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Fox News",
+        "Humane World for Animals",
+        "The New York Times",
+        "2026.10.23 08:53 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 뉴욕시가 센트럴파크의 마차 운행을 전면 금지했습니다\n\n· 안전 문제와 동물 학대 우려로 170년 전통의 마차가 역사 속으로 사라집니다 (New York Times·BBC)\n· 일부 마차 운전사들은 생계 타격을 호소하며 법적 대응을 예고했습니다 (Fox News·CNN)\n\n출처: New York Times·Fox News·CNN·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 뉴욕시가 센트럴파크의 마차 운행을 전면 금지했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "안전 문제와 동물 학대 우려로 170년 전통의 마차가 역사 속으로 사라진다고 New York Times 등이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "일부 운전사들은 생계 타격을 호소하며 소송을 예고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "마차 운전사들의 구체적인 법적 대응 절차는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "170년 전통 [[뉴욕 마차]],\n갑자기 사라진 이유는?",
+  "broll": [
+    "central park horse carriage",
+    "new york street traffic"
+  ],
+  "place_en": "New York City, USA"
+}
