@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "spain_housing_protests",
-    "topic": "스페인 주택난 분노 폭발 마드리드서 수십만 명 시위",
-    "slug": "2026-10-04-news-spain-housing-protests",
-    "cluster": "CBMiywFBVV95cUxNU04yZFFzZEF3dGl3ellPdlU0VjVRcnZ0OFI4ejRBS1BuVnlwYjlXTHNPX2tfSU91R3BpZnZoWk9JTGxkMHplTlNTZEl0RWRQMkt2MjZ2LWlES3hUWTFVdTVINVBRSVJ1MldvR1NLX1FHcWNYYmQ2MXpCWGxxSkhKSDlBMk1peUFIVzEzWFBDUTRyWjB0VjktNDcwTWtXTk96VWtWSk5OODdUYUVOSmczUlpmeEIzdUVJOFJkc3FHakJGVUpWY1gzeU5rWQ",
-    "badge": "brief",
-    "at": 1791058091.4375958,
-    "country": "스페인",
-    "category": "국제"
-  },
-  {
-    "event_key": "russia-kyiv-diplomat-evacuation-warning",
-    "topic": "대피 경고 발령 러시아, 키이우 공습 예고",
-    "slug": "2026-10-04-news-russia-kyiv-diplomat-evacuation-warning",
-    "cluster": "CBMivgFBVV95cUxNSXNBYUpPd1pPY2dKT0RzdDVqX0U4aGZGeDhHMDlCeUJIRU40Zjh4N1pYcnFEOFBXNEo1MEN1QkwwV2ZLRnpYem9iRnhMcWk0Q3N2Y0QzY0Q0S2lfX1g3ZVdya1RUSlpVQWR2ZGt3SlUxelNKTmlidXJvaUZCOWFlNjJsLUc4MVQxV2c5a0UzUS1sbWdBTHZ1c2NqMlFQbE9hWEZtLWxLczFjbDlCNktHaVMwZ1NVSG5PTmtxY1Vn",
-    "badge": "brief",
-    "at": 1791065351.669203,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "houthi-riyadh-aramco-attack-2026",
     "topic": "예멘 후티 반군, 사우디 리야드 석유시설 공격",
     "slug": "2026-10-04-news-houthi-riyadh-aramco-attack-2026",
@@ -2998,5 +2978,25 @@
     "at": 1792764655.6925998,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "poland_airports_closed_russian_attack_2026",
+    "topic": "폴란드, 공항 폐쇄하고 방공망 가동",
+    "slug": "2026-10-24-news-poland-airports-closed-russian-attack-2026",
+    "cluster": "CBMijAFBVV95cUxQd3VzbnJrcm5RSU1oUklaX2hPbDdDWlp6cVFXQUxDWURSOG5MYmtsRlRpZmxhajMxNzdZWDE2N1lVYkg0U1I3d1BIbkplN29YaWp2TXBMcERyazVZV0N6alc3N3Y0czh5NlgtMUFxUS1ZM0JkVDE4TTVDZUM3ZWZxLThIenQzOWNnYWVPadIBkgFBVV95cUxOcTdsemxEaDhySllUWFZLd1hOS09EandZd1dFdE1aVDVIUEMzTlh1dm91bU5valM2THpqMldncEhjdGtUMHhzVWlDVHFqU21pM3Z1V0oxMEl1YzZoMWs0UXJsR2RldG1zT1J4SG85dnM3ZGNEcXlaN0o2QVpUeEdCQXVGSXFxVWN0VWRlaWxSZWdKUQ",
+    "badge": "breaking",
+    "at": 1792771791.5367699,
+    "country": "폴란드",
+    "category": "국제"
+  },
+  {
+    "event_key": "google_deepmind_employees_resign_pentagon_ai_2026",
+    "topic": "구글 딥마인드 직원들 펜타곤 계약에 반발 사퇴",
+    "slug": "2026-10-23-news-google-deepmind-employees-resign-pentagon-ai-2026",
+    "cluster": "CBMiswFBVV95cUxNT1FZVWZnX2ttejd6Um0wQ0xqZGVuVEt2Y3JaWTVLVXFlRUd0WDVLaUdBeW5BUzc4TURuOWxxU29ZNmdwcks4OFVGUXA3bXkwU0pLLVJla0VpWWRsV0ZvY1lVWGxaOTUyUEVxMzhXUmFWTF82aEF6SG5pbm1ObjRIYzJuUHVYLXhESE1NM083NjM2MEk5Y29weG56OUxOVUgyLWJBVFZhLUU3UWRYRXJmNlpWd9IBuwFBVV95cUxQUklQSzJKcUlTbjFyRFBTdXRVV2JzeXE1MlRfSGpJRnVpdzZJYllLTjkwTm1YWlFSTktWdFI3WVBiQktVNkxkamhieDlPVUkzRUlZX3BSbi1BbEoxM05TUGF4cFZ4X1I5aVB0OFU0Q3VVb3hLNmJ3MDN6YmdOa2hoY0gzdmdtbXJIbTFzdVVaWVdONzZkazRXQzhOczRvalRKbFJtejVIOW1wMzY2N3E5UHlpR28zeHIyTnNB",
+    "badge": "breaking",
+    "at": 1792771930.0445771,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

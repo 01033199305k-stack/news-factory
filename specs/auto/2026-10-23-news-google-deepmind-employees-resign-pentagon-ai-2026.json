@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-23-news-google-deepmind-employees-resign-pentagon-ai-2026",
+  "topic": "구글 딥마인드 직원들 펜타곤 계약에 반발 사퇴",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 23:19 KST",
+  "source": "BBC·NDTV·The Intercept 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxNT1FZVWZnX2ttejd6Um0wQ0xqZGVuVEt2Y3JaWTVLVXFlRUd0WDVLaUdBeW5BUzc4TURuOWxxU29ZNmdwcks4OFVGUXA3bXkwU0pLLVJla0VpWWRsV0ZvY1lVWGxaOTUyUEVxMzhXUmFWTF82aEF6SG5pbm1ObjRIYzJuUHVYLXhESE1NM083NjM2MEk5Y29weG56OUxOVUgyLWJBVFZhLUU3UWRYRXJmNlpWd9IBuwFBVV95cUxQUklQSzJKcUlTbjFyRFBTdXRVV2JzeXE1MlRfSGpJRnVpdzZJYllLTjkwTm1YWlFSTktWdFI3WVBiQktVNkxkamhieDlPVUkzRUlZX3BSbi1BbEoxM05TUGF4cFZ4X1I5aVB0OFU0Q3VVb3hLNmJ3MDN6YmdOa2hoY0gzdmdtbXJIbTFzdVVaWVdONzZkazRXQzhOczRvalRKbFJtejVIOW1wMzY2N3E5UHlpR28zeHIyTnNB",
+    "related": [
+      [
+        "'Ashamed To Work': Google DeepMind Employees Resign Over Pentagon AI Contracts",
+        "NDTV"
+      ],
+      [
+        "Google staff resign in backlash over its AI contracts with military",
+        "BBC"
+      ],
+      [
+        "Google DeepMind Engineer Resigns in Protest of Pentagon Contract",
+        "The Intercept"
+      ],
+      [
+        "DeepMind Researchers Quit Google in Protest of Military A.I. Deals",
+        "www.trendingtopics.eu"
+      ],
+      [
+        "Google Deepmind employees resign in protest over AI deal with Trump’s Pentagon",
+        "WDBO"
+      ]
+    ],
+    "event_key": "google_deepmind_employees_resign_pentagon_ai_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "구글 딥마인드 직원들\n[[펜타곤 계약]]에 반발 사퇴",
+      "sub": "군사 AI 계약 논란으로 직원들 사임",
+      "chips": [
+        {
+          "k": "주체",
+          "v": "딥마인드 직원"
+        }
+      ],
+      "alt": "구글 딥마인드 직원들 펜타곤 계약에 반발 사퇴",
+      "map": {
+        "lat": 37.3893889,
+        "lon": -122.0832101,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n마운틴뷰",
+      "video_only": true,
+      "map": {
+        "lat": 37.3893889,
+        "lon": -122.0832101,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마운틴뷰"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사표 제출",
+          "d": "엔지니어와 연구원들이 미 국방부와의 인공지능 계약에 항의하며 회사를 떠났습니다 (BBC·NDTV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "구글 딥마인드 직원 사직 (BBC)"
+      ],
+      "unconfirmed": [
+        "추가 사립 연구원 동참 여부",
+        "국방부 계약의 향후 수정 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "NDTV",
+        "The Intercept",
+        "WDBO",
+        "www.trendingtopics.eu",
+        "2026.10.24 01:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 구글 딥마인드 직원들 펜타곤 계약에 반발 사퇴\n\n· 엔지니어와 연구원들이 미 국방부와의 인공지능 계약에 항의하며 회사를 떠났습니다 (BBC·NDTV)\n\n출처: BBC·NDTV·The Intercept 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "구글 딥마인드 직원들이 미 국방부와의 인공지능 계약에 반발해 사퇴했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "비비시 등 외신은 엔지니어와 연구원들이 계약에 항의하며 회사를 떠났다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 계약의 구체적인 조건은 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "빅테크 기업의 군사 계약, 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "빅테크 군사 계약"
+    }
+  ],
+  "hook": "구글 연구원들이\n사직한 이유는?",
+  "broll": [
+    "computer screen code",
+    "office building exterior"
+  ],
+  "place_en": "Mountain View, United States"
+}

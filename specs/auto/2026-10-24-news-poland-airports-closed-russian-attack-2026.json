@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-24-news-poland-airports-closed-russian-attack-2026",
+  "topic": "폴란드, 공항 폐쇄하고 방공망 가동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 00:19 KST",
+  "source": "Daily Mirror·London Business News·UA.NEWS 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMijAFBVV95cUxQd3VzbnJrcm5RSU1oUklaX2hPbDdDWlp6cVFXQUxDWURSOG5MYmtsRlRpZmxhajMxNzdZWDE2N1lVYkg0U1I3d1BIbkplN29YaWp2TXBMcERyazVZV0N6alc3N3Y0czh5NlgtMUFxUS1ZM0JkVDE4TTVDZUM3ZWZxLThIenQzOWNnYWVPadIBkgFBVV95cUxOcTdsemxEaDhySllUWFZLd1hOS09EandZd1dFdE1aVDVIUEMzTlh1dm91bU5valM2THpqMldncEhjdGtUMHhzVWlDVHFqU21pM3Z1V0oxMEl1YzZoMWs0UXJsR2RldG1zT1J4SG85dnM3ZGNEcXlaN0o2QVpUeEdCQXVGSXFxVWN0VWRlaWxSZWdKUQ",
+    "related": [
+      [
+        "Poland closes airports and 'air defence system activated' as Russia launches attack",
+        "Daily Mirror"
+      ],
+      [
+        "NATO warplanes scrambled and airports shut down as Russia launches major attack",
+        "Daily Mirror"
+      ],
+      [
+        "Lines at the border with Poland: Trucks Wait Up to 9 Days",
+        "Visit Ukraine"
+      ],
+      [
+        "NATO issues chilling alert of ‘threat of an air attack’ near Ukraine border",
+        "London Business News"
+      ],
+      [
+        "Poland scrambled fighter jets over Russian strikes in western Ukraine — Interia",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "poland_airports_closed_russian_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "폴란드, 공항 폐쇄하고\n[[방공망]] 가동",
+      "sub": "러시아의 우크라이나 서부 공습 대응",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "공항 폐쇄"
+        }
+      ],
+      "alt": "폴란드, 공항 폐쇄하고 방공망 가동",
+      "map": {
+        "lat": 52.2324226,
+        "lon": 20.9848945,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "폴란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "폴란드\n폴란드 국경",
+      "video_only": true,
+      "map": {
+        "lat": 52.2324226,
+        "lon": 20.9848945,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "폴란드 국경"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "나토 전투기",
+          "d": "러시아의 공격에 대응해 나토 전투기가 긴급 출동했습니다 (Daily Mirror·Interia)."
+        },
+        {
+          "t": "국경 대기",
+          "d": "폴란드 국경 지역에서는 트럭들이 최대 9일 동안 대기하고 있습니다 (Visit Ukraine)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "폴란드 공항 폐쇄 (Daily Mirror)",
+        "나토 전투기 긴급 출동 (Interia)"
+      ],
+      "unconfirmed": [
+        "러시아 공습의 정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daily Mirror",
+        "London Business News",
+        "UA.NEWS",
+        "Visit Ukraine",
+        "2026.10.24 01:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 폴란드, 공항 폐쇄하고 방공망 가동\n\n· 러시아의 우크라이나 서부 공습에 대응해 나토 전투기가 긴급 출동했습니다 (Daily Mirror·Interia)\n· 폴란드 국경 지역에서는 트럭들이 최대 9일 동안 대기하고 있습니다 (Visit Ukraine)\n\n출처: Daily Mirror·Visit Ukraine·Interia 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아의 공습에 대응해 폴란드가 공항을 폐쇄하고 방공망을 가동했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "데일리 미러 등은 나토 전투기가 긴급 출동했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "국경 지역에서는 화물 트럭들이 최대 9일 동안 대기하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 공습 상황, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "나토 방공망 가동"
+    }
+  ],
+  "hook": "폴란드 국경에서\n무슨 일이?",
+  "broll": [
+    "military aircraft jet",
+    "airport runway"
+  ],
+  "place_en": "Poland border"
+}
