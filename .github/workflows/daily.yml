@@ -1,0 +1,75 @@
+# 전날(KST) 올린 숏폼을 모아 가로 롱폼 「세계 뉴스 하루 정리」를 만들어 유튜브에 올린다 (daily_longform.py).
+# 영상 재료는 미디어 보관소에 3일만 남아서 자정 직후에 돈다. 공개 범위는 저장소 변수 DAILY_PRIVACY (없으면 private)
+name: daily
+
+on:
+  schedule:
+    - cron: "40 15 * * *"   # 00:40 KST
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "날짜 (YYYY-MM-DD, KST). 비우면 어제"
+        type: string
+        default: ""
+      privacy:
+        description: "private / unlisted / public (비우면 저장소 변수 DAILY_PRIVACY, 그것도 없으면 private)"
+        type: string
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: |
+          pip install --quiet pillow edge-tts
+          command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null)
+
+      - name: 롱폼 만들기 + 유튜브 업로드
+        env:
+          MEDIA_BASE: https://news-factory-watch.alsgur3319.workers.dev/media
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          DAILY_PRIVACY: ${{ github.event.inputs.privacy || vars.DAILY_PRIVACY || 'private' }}
+          DATE: ${{ github.event.inputs.date }}
+        run: python daily_longform.py --upload ${DATE:+--date $DATE}
+
+      # 올린 영상을 실행 결과에서 바로 내려받아 볼 수 있게 (7일 보관)
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: daily-longform
+          path: output/daily/
+          retention-days: 7
+          if-no-files-found: ignore
+
+      - name: 기록 커밋
+        if: always()
+        run: |
+          git config user.name "news-factory-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add state/daily.json 2>/dev/null || exit 0
+          if ! git diff --cached --quiet; then
+            git commit -m "daily: $(date -u +%Y-%m-%dT%H:%MZ)"
+            for i in 1 2 3; do
+              git pull --rebase -q && git push && exit 0
+              git rebase --abort 2>/dev/null; sleep 5
+            done
+            exit 1
+          fi
