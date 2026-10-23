@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "okinawa-us-marine-murder-japan-protest-2026",
-    "topic": "오키나와 여성 피살 미 해병 체포에 日 항의",
-    "slug": "2026-10-04-news-okinawa-us-marine-murder-japan-protest-2026",
-    "cluster": "CBMikgFBVV95cUxOdXlBeHBvRW14WWtyMlNzSVk0TmdtRWJkdVNHcUpNNFdmNnZSOWxyTGlTcHVHbW45elhJWXNQVG53UTAwS3dPXzBZRzhvdmNkdG82Zk1YaU9SS2FDMnBRblRPMXpxdmFDVzN3Xzk2SDdHQng3NHVBQXhPT0Z6em5zQ1dLakM5ek9rd2hjbTlPZ3RuQQ",
-    "badge": "brief",
-    "at": 1791107765.0931025,
-    "country": "일본",
-    "category": "국제"
-  },
-  {
     "event_key": "iran-hormuz-strait-closure-seven-conditions-2026",
     "topic": "이란 호르무즈 해협 봉쇄 '미국 조건 수용 때까지'",
     "slug": "2026-10-04-news-iran-hormuz-strait-closure-seven-conditions-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792780217.6763673,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "sicily_earthquakes_tsunami_alert_2026",
+    "topic": "이탈리아 시칠리아 인근서 지진 십여 차례 발생 쓰나미 경보 발령",
+    "slug": "2026-10-24-news-sicily-earthquakes-tsunami-alert-2026",
+    "cluster": "CBMilAFBVV95cUxOeldiX2tMNHRseFhJdkNaX1lXdWtnalVza0ZlZ1VpUjBrdjZ1VUhONmZleGxCeGVXdzNaZ2E3VlduNFNpMXl1SGQ2TEoxY3FoWUt5UG1ObjlWV3hJaFdxU2NHNWFYMVVOSUNuM2ZQbmU5SHN2cXlYcFBqTFVnSEhmb200OUhwVk52TDNzV0NFLUtSV0hq",
+    "badge": "breaking",
+    "at": 1792782452.4263148,
+    "country": "이탈리아",
+    "category": "재난"
   }
 ]

@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-24-news-sicily-earthquakes-tsunami-alert-2026",
+  "topic": "이탈리아 시칠리아 인근서 지진 십여 차례 발생 쓰나미 경보 발령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 03:51 KST",
+  "source": "The Independent·Daily Mirror·FOX Weather 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilAFBVV95cUxOeldiX2tMNHRseFhJdkNaX1lXdWtnalVza0ZlZ1VpUjBrdjZ1VUhONmZleGxCeGVXdzNaZ2E3VlduNFNpMXl1SGQ2TEoxY3FoWUt5UG1ObjlWV3hJaFdxU2NHNWFYMVVOSUNuM2ZQbmU5SHN2cXlYcFBqTFVnSEhmb200OUhwVk52TDNzV0NFLUtSV0hq",
+    "related": [
+      [
+        "Sicily earthquakes live: Tsunami warning for Italy after 12 quakes near Palermo",
+        "Daily Mirror"
+      ],
+      [
+        "Italy earthquakes: Tsunami alert issued after 12 tremors strike off Mediterranean coast",
+        "The Independent"
+      ],
+      [
+        "Tsunami alert issued after a swarm of nearly 3 dozen earthquakes rattle the Tyrrhenian Sea",
+        "FOX Weather"
+      ],
+      [
+        "Tërmet në Itali, epiqendër zona e Sicilisë",
+        "Reporteri"
+      ],
+      [
+        "Shallow Aeolian Swarm Triggers Tsunami Alert Across Sicily, Schools Evacuated",
+        "Tech Times"
+      ]
+    ],
+    "event_key": "sicily_earthquakes_tsunami_alert_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이탈리아 시칠리아 인근서 [[지진]] 십여 차례 발생\n쓰나미 경보 발령",
+      "sub": "시칠리아 해역서 지진 후 학교 대피 조치",
+      "chips": [
+        {
+          "k": "진동",
+          "v": "12회 이상"
+        }
+      ],
+      "alt": "이탈리아 시칠리아 인근서 지진 십여 차례 발생 쓰나미 경보 발령",
+      "map": {
+        "lat": 37.587794,
+        "lon": 14.155048,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이탈리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이탈리아\n시칠리아",
+      "video_only": true,
+      "map": {
+        "lat": 37.587794,
+        "lon": 14.155048,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "시칠리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지진 떼 발생",
+          "d": "지중해 연안 인근에서 지진이 십여 차례 발생했다고 언론들이 전했습니다."
+        },
+        {
+          "t": "학교 대피",
+          "d": "진앙지 인근 지역에서 학교가 대피했습니다 (Tech Times)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "지중해 연안 지진 발생",
+        "쓰나미 경보 발령"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daily Mirror",
+        "FOX Weather",
+        "Reporteri",
+        "Tech Times",
+        "The Independent",
+        "2026.10.24 04:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이탈리아 시칠리아 인근서 지진 십여 차례 발생해 쓰나미 경보 발령\n\n· 지중해 연안 인근에서 지진이 이어졌다고 매체들이 전했습니다 (Daily Mirror·The Independent)\n· 진앙지 인근 지역에서 학교가 대피했습니다 (Tech Times)\n\n출처: Daily Mirror·The Independent·Tech Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이탈리아 시칠리아 인근 해역에서 지진이 십여 차례 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 매체들은 이로 인해 쓰나미 경보가 발령됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인근 지역에서는 학교가 대피 조치에 나섰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이탈리아 시칠리아\n인근서 일어난 [[지진]]",
+  "broll": [
+    "sea coast waves",
+    "school building exterior"
+  ],
+  "place_en": "Sicily, Italy"
+}
