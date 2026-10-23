@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "spain-rioja-bar-collapse",
-    "topic": "스페인 관광지 주점 건물 붕괴 10여 명 부상",
-    "slug": "2026-10-03-news-spain-rioja-bar-collapse",
-    "cluster": "CBMiiAFBVV95cUxOUnM2MGZsdlkyNWttWGt6R1BSOUN4ZG9lNWxVMzloRkI2c2JUWC1DUmlxZUNhbEFkTmtqQVN4YUx5TDZWNVZNeU9BUWRJZi1ueklkNGNrZDRkbGVycnhPU0hsV0lQTUlIcHlSTDc5ZVVieGxvaFlQY1FSOWlINFp5TjY2T3AxSnBw0gGOAUFVX3lxTE5neFlWcW9adkQ2ck9JZkl1UTE1Vl96YWdRNFZaNFBaYlRUcldtUXljdG9vY09VTUF6MkdzNG5fWWl0UloyMHFyb3FrNjlEbFlQck5URU5jNXo3RkE2SmlQSlZDbERmdmpuNkFMN043Z3prSzBLaHVvZFhxVVlSZGNaMTdRMkdGb3pkNk94Q2c",
-    "badge": "breaking",
-    "at": 1791028280.7561815,
-    "country": "스페인",
-    "category": "사고"
-  },
-  {
-    "event_key": "us-russia-ukraine-lukoil-deal",
-    "topic": "우크라 협상에 수십억달러 석유딜",
-    "slug": "2026-10-03-news-us-russia-ukraine-lukoil-deal",
-    "cluster": "CBMiwwFBVV95cUxPbXFtRVNvb2d6UFFRcG1ER2ZEcTktc3Y3UzZyYjU1QmRJcWdJWE9kNy16bXQyR054ekNKMTFXN2s2RlVVc1RRMTliajBMQTQ2X2wwYnZTdWM2V05aSE53ZzZkd0tBZm5iSUtRQkhqX2tyV2dkRkRCYkNkRXlUdjlCM1U5WHNNeWVWcWFLUFFjZU5BT1ZqbE1iRGxJeTAyUGpBb2Ytdlp1bnExci00R1lSdnRjOWhZMkhlRzRMWEViM3JYaXM",
-    "badge": "brief",
-    "at": 1791036750.007852,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "bermuda-boston-medical-plane-missing-2026",
     "topic": "버뮤다발 항공기 해상서 실종",
     "slug": "2026-10-03-news-bermuda-boston-medical-plane-missing-2026",
@@ -2998,5 +2978,25 @@
     "at": 1792753884.094535,
     "country": "중국",
     "category": "재난"
+  },
+  {
+    "event_key": "us-treasury-yields-tumble-below-5-percent-2026",
+    "topic": "미 10년물 국채 금리 5% 아래로 안전자산 선호 현상 강화",
+    "slug": "2026-10-23-news-us-treasury-yields-tumble-below-5-percent-2026",
+    "cluster": "CBMiswFBVV95cUxOV0dULXFaUm9nREVVNEJjUFlvODVTbkwyV21vZXJ1eVJveDc4cEd4SG5lWEZsRjNxVWNkZWlvRFJPMi10cXhjcldVUkxGd2wtMWtQbzVpYXJLR29taWlmQThpZE5ObWhFSXFpX0VYZlJMZFQ1WFdKYnF4cWhwUDE3b2NueThFenpCWEJSeDg4UzNfRDZleS1qcmpxY2sxWjhwV3ZnUjZqLTRBT2k4bDJoOVc4Zw",
+    "badge": "breaking",
+    "at": 1792757269.7251225,
+    "country": "미국",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "paris-suburb-drive-by-shooting-2026",
+    "topic": "파리 근교서 총격 발생 사망 1명·부상 4명",
+    "slug": "2026-10-23-news-paris-suburb-drive-by-shooting-2026",
+    "cluster": "CBMiXkFVX3lxTE1vZ2tfaFcxb2dpXzN5VEJVWE1jeEFoaVgxSUUtM180aDkyaUgtVTM1TWVaQWtVaFdZMGxLOW03XzNLdHJib2M5Y1pNeWM4NXd0SUtMUnl4bzQ1UHB4a0E",
+    "badge": "breaking",
+    "at": 1792757300.9534574,
+    "country": "프랑스",
+    "category": "총격·테러"
   }
 ]

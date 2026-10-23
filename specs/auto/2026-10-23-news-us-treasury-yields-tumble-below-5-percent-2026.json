@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-23-news-us-treasury-yields-tumble-below-5-percent-2026",
+  "topic": "미 10년물 국채 금리 5% 아래로 안전자산 선호 현상 강화",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 18:21 KST",
+  "source": "Bloomberg.com·Financial Times·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxOV0dULXFaUm9nREVVNEJjUFlvODVTbkwyV21vZXJ1eVJveDc4cEd4SG5lWEZsRjNxVWNkZWlvRFJPMi10cXhjcldVUkxGd2wtMWtQbzVpYXJLR29taWlmQThpZE5ObWhFSXFpX0VYZlJMZFQ1WFdKYnF4cWhwUDE3b2NueThFenpCWEJSeDg4UzNfRDZleS1qcmpxY2sxWjhwV3ZnUjZqLTRBT2k4bDJoOVc4Zw",
+    "related": [
+      [
+        "Treasuries’ Link to AI Shows Sharp Shift as Haven Trade Returns",
+        "Bloomberg.com"
+      ],
+      [
+        "10-year Treasury yield tumbles below 5% to lowest level in nearly a month",
+        "CNBC"
+      ],
+      [
+        "Winter arrives in markets",
+        "Financial Times"
+      ],
+      [
+        "‘AI is on trial’: Bond yields sink below 5% as investors look for safety",
+        "MarketWatch"
+      ],
+      [
+        "U.S. 10-Year Treasury Yield Falls Under 5% as French Turmoil Fuels Flight for Safety",
+        "WSJ"
+      ]
+    ],
+    "event_key": "us-treasury-yields-tumble-below-5-percent-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 10년물 국채 금리 [[5%]] 아래로\n안전자산 선호 현상 강화",
+      "sub": "프랑스 정국 불안과 AI 시장 우려로 채권 시장 변동성 확대",
+      "chips": [
+        {
+          "k": "국채 금리",
+          "v": "5% 하회"
+        },
+        {
+          "k": "매체",
+          "v": "블룸버그·CNBC 등"
+        }
+      ],
+      "alt": "미 10년물 국채 금리 5% 아래로 안전자산 선호 현상 강화",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "금리 하락",
+          "d": "미국 10년물 국채 금리가 한 달 만에 최저 수준으로 떨어졌다고 CNBC 등이 보도했습니다."
+        },
+        {
+          "t": "안전자산 선호",
+          "d": "투자자들이 안전자산으로 몰리면서 채권 수익률이 하락했다고 월스트리트저널이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 10년물 국채 금리 5% 아래로 하락 (CNBC·WSJ 등)",
+        "프랑스 정국 불안 및 AI 시장 우려 복합 작용 (블룸버그·WSJ)"
+      ],
+      "unconfirmed": [
+        "시장 변동성의 향후 지속 기간",
+        "추가적인 통화 정책 대응 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "Financial Times",
+        "MarketWatch",
+        "WSJ",
+        "2026.10.23 21:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 10년물 국채 금리 5% 아래로 하락 (CNBC·WSJ)\n\n· 미국 10년물 국채 금리가 한 달 만에 최저 수준을 기록했습니다 (CNBC)\n· 투자자들이 안전자산으로 몰렸습니다 (WSJ)\n· 프랑스 정국 불안과 AI 관련 우려가 시장에 영향을 미쳤습니다 (블룸버그·WSJ)\n\n이번 미 국채 금리 하락과 안전자산 선호 현상에 대해 어떻게 생각하십니까?\n출처: 블룸버그·CNBC·파이낸셜타임스·마켓워치·WSJ 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 10년물 국채 금리가 5% 아래로 떨어졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 한 달 만에 가장 낮은 수준을 기록했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "월스트리트저널은 투자자들이 안전자산을 찾으면서 채권 수익률이 하락했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "프랑스 정국 불안과 인공지능 관련 우려가 함께 작용했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "시장 변동성이 커진 이번 상황을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "시장 변동성 확대"
+    }
+  ],
+  "hook": "미 10년물 국채 금리가\n[[5%]] 아래로 떨어진 이유",
+  "broll": [
+    "stock exchange screen",
+    "financial district street"
+  ],
+  "place_en": "New York, USA"
+}

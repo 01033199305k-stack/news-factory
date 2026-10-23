@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-23-news-paris-suburb-drive-by-shooting-2026",
+  "topic": "파리 근교서 총격 발생 사망 1명·부상 4명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 20:09 KST",
+  "source": "BBC·CNN·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1vZ2tfaFcxb2dpXzN5VEJVWE1jeEFoaVgxSUUtM180aDkyaUgtVTM1TWVaQWtVaFdZMGxLOW03XzNLdHJib2M5Y1pNeWM4NXd0SUtMUnl4bzQ1UHB4a0E",
+    "related": [
+      [
+        "At least one dead and four injured in Paris suburb shooting",
+        "BBC"
+      ],
+      [
+        "Gunman kills one in Paris drive-by shooting",
+        "The Telegraph"
+      ],
+      [
+        "France shooting: One dead after man fires from car in Paris suburb",
+        "The Times"
+      ],
+      [
+        "One killed, four injured in drive-by shooting near Paris",
+        "CNN"
+      ],
+      [
+        "One dead and several wounded after shooting in Paris suburb",
+        "Sky News"
+      ]
+    ],
+    "event_key": "paris-suburb-drive-by-shooting-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파리 근교서 총격 발생\n[[사망 1명]]·부상 4명",
+      "sub": "차량에서 총격 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "4명"
+        },
+        {
+          "k": "매체",
+          "v": "BBC·CNN 등"
+        }
+      ],
+      "alt": "파리 근교서 총격 발생 사망 1명·부상 4명",
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8588897,
+        "lon": 2.320041,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 발생",
+          "d": "프랑스 파리 근교에서 차량을 이용한 총격이 발생해 1명이 숨졌다고 BBC 등이 보도했습니다."
+        },
+        {
+          "t": "피해 규모",
+          "d": "총격으로 사망자 1명 외에 최소 4명이 다쳤다고 CNN 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명·부상 4명 발생 (BBC·CNN 등)",
+        "파리 근교 차량 총격 사건 (텔레그래프·타임스 등)"
+      ],
+      "unconfirmed": [
+        "총격 용의자의 신원 및 도주 경로",
+        "정확한 범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Sky News",
+        "The Telegraph",
+        "The Times",
+        "2026.10.23 21:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 파리 근교 차량 총격으로 사망 1명·부상 4명 (BBC·CNN)\n\n· 파리 근교 지역에서 차량에 탄 인물이 총격을 가했습니다 (타임스)\n· 이번 총격으로 최소 1명이 숨지고 4명이 다쳤습니다 (CNN)\n\n출처: BBC·텔레그래프·타임스·CNN·스카이뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 파리 근교에서 총격 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 이번 총격으로 1명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "CNN은 부상자 4명이 발생했다고 보도했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "프랑스 [[파리]] 근교서\n발생한 총격 사건",
+  "broll": [
+    "police car lights night",
+    "city street ambulance"
+  ],
+  "place_en": "Paris, France"
+}
