@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-23-news-canada-wainwright-base-fire-2026",
+  "topic": "캐나다 군 기지 화재 군인 4명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 11:50 KST",
+  "source": "BBC·CBS News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxPanMySEgxUHRPaWduM1RDS1UxbHNNWjJKNDJOSzZ4bHc1aERLQXNaNmEwQXVsMlB4OU1DbTRsZEs4WTM0UThXT0pqOG56TTFqTFFFb0NBWlVMWUFCOE5NLVd3Qk93X3RFUDNaNUVRZGZEQmF1OU1McXJxV2dUeUNvVlJwLXF3RGRKLWt0S3ppSFR0RkJLblRvUk15VjFtRTFDUnhaZG1vS2tfVzNPRkE",
+    "related": [
+      [
+        "Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say",
+        "CBS News"
+      ],
+      [
+        "Deadly CFB Wainwright fire started on grenade launcher range firefighters couldn't enter, officials say",
+        "CBC"
+      ],
+      [
+        "Deadly fire at Canada military base was caused by live grenade exercise, army says",
+        "Reuters"
+      ],
+      [
+        "Canada Area Presidency Statement on Tragedy at CFB Wainwright",
+        "news-ca.churchofjesuschrist.org"
+      ],
+      [
+        "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+        "BBC"
+      ]
+    ],
+    "event_key": "canada-wainwright-base-fire-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "캐나다 군 기지 화재\n군인 [[4명 숨져]]",
+      "sub": "유탄 발사 훈련장서 불 시작돼 급속 확산",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "4명"
+        }
+      ],
+      "alt": "캐나다 군 기지 화재 군인 4명 숨져",
+      "map": {
+        "lat": 52.7395927,
+        "lon": -111.0304906,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "캐나다"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "캐나다\n앨버타 웨인라이트",
+      "video_only": true,
+      "map": {
+        "lat": 52.7395927,
+        "lon": -111.0304906,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "앨버타 웨인라이트"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유탄 훈련 중 발화",
+          "d": "캐나다 군 당국은 실탄 유탄 발사 훈련 중에 불이 시작됐다고 밝혔습니다 (로이터)."
+        },
+        {
+          "t": "소방대 진입 불가 구역",
+          "d": "불이 난 지점은 소방관들이 진입할 수 없는 훈련장 구역이었습니다 (CBC)."
+        },
+        {
+          "t": "1분에 1km 번져",
+          "d": "불길이 불과 30초에서 60초 사이에 1킬로미터나 빠르게 번졌습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "군인 4명 사망 (CBS)",
+        "기지 내 유탄 훈련장서 발화",
+        "불길 30~60초에 1km 확산 (BBC)"
+      ],
+      "unconfirmed": [
+        "정확한 발화 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CBC",
+        "CBS News",
+        "Reuters",
+        "news-ca.churchofjesuschrist.org",
+        "2026.10.23 13:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 캐나다 군 기지 화재로 군인 4명이 숨졌습니다.\n\n· 실탄 유탄 발사 훈련 구역에서 불이 시작됐다고 군 당국이 밝혔습니다 (로이터)\n· 화재 구역은 소방관들이 진입할 수 없는 훈련장이었습니다 (CBC)\n· 불길이 30초에서 60초 사이에 1킬로미터를 번지며 급속히 확산했습니다 (BBC)\n\n출처: CBS·CBC·로이터·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "캐나다 군 기지에서 불이 나 군인 4명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 캐나다 웨인라이트 기지에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "캐나다 군은 실탄 유탄 훈련 중 불이 났다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "BBC는 불길이 1분도 안 돼 1킬로미터나 번졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 발화 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "캐나다 군 기지서\n[[무슨 일이?]]",
+  "broll": [
+    "military base field",
+    "military range grass"
+  ],
+  "place_en": "CFB Wainwright, Alberta, Canada"
+}

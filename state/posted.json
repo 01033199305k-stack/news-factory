@@ -22321,5 +22321,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792718123
+  },
+  {
+    "slug": "2026-10-23-news-canada-wainwright-base-fire-2026",
+    "event_ms": 1792723834000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 캐나다 군 기지 화재로 군인 4명이 숨졌습니다.\n\n· 실탄 유탄 발사 훈련 구역에서 불이 시작됐다고 군 당국이 밝혔습니다 (로이터)\n· 화재 구역은 소방관들이 진입할 수 없는 훈련장이었습니다 (CBC)\n· 불길이 30초에서 60초 사이에 1킬로미터를 번지며 급속히 확산했습니다 (BBC)\n\n출처: CBS·CBC·로이터·BBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "캐나다"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18637221469010361",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De0qi31ABTC",
+        "kind": "carousel",
+        "at": 1792728539
+      },
+      "instagram": {
+        "id": "18109344068191193",
+        "permalink": "https://www.instagram.com/reel/De0q0ZVET4k/",
+        "kind": "reel",
+        "at": 1792728699
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1792728709
+      },
+      "tiktok": {
+        "id": "7699711668917456149",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699711668917456149",
+        "kind": "video",
+        "at": 1792728944
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792728954
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "thailand-bangkok-floods-thai-airways-ceo",
-    "topic": "태국 방콕 홍수 사태 타이항공 CEO 해임",
-    "slug": "2026-10-03-news-thailand-bangkok-floods-thai-airways-ceo",
-    "cluster": "CBMioAFBVV95cUxQb1dIZGlVa204ZDcxcHZyWVhlUEVKZHZGQ0wwWGpJMkhYWTdEMGMzZEJxcHJDV0JnbERCc0tXQU1Id3dzUGgtOHlkYnM1Zk43MGdMeml4QmducDRNWmV3SXpPMFdZSC1iNGdOUzIwUXZiZUFZZTdrbkkwVW81Z2RYQjk3T3I0bVhZM2Y3T180N0dzTm9sNFozb056NThIRkVy",
-    "badge": "breaking",
-    "at": 1790998408.6182244,
-    "country": "태국",
-    "category": "재난"
-  },
-  {
     "event_key": "openai-fires-safety-researchers-info-leak",
     "topic": "오픈AI, 연구원 3명 해고 사내 기밀 유출 혐의",
     "slug": "2026-10-03-news-openai-fires-safety-researchers-info-leak",
@@ -2998,5 +2988,15 @@
     "at": 1792725076.4763103,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "canada-wainwright-base-fire-2026",
+    "topic": "캐나다 군 기지 화재 군인 4명 숨져",
+    "slug": "2026-10-23-news-canada-wainwright-base-fire-2026",
+    "cluster": "CBMirgFBVV95cUxPanMySEgxUHRPaWduM1RDS1UxbHNNWjJKNDJOSzZ4bHc1aERLQXNaNmEwQXVsMlB4OU1DbTRsZEs4WTM0UThXT0pqOG56TTFqTFFFb0NBWlVMWUFCOE5NLVd3Qk93X3RFUDNaNUVRZGZEQmF1OU1McXJxV2dUeUNvVlJwLXF3RGRKLWt0S3ppSFR0RkJLblRvUk15VjFtRTFDUnhaZG1vS2tfVzNPRkE",
+    "badge": "breaking",
+    "at": 1792728491.9276502,
+    "country": "캐나다",
+    "category": "폭발·화재"
   }
 ]
