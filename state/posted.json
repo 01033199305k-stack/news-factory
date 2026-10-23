@@ -22268,5 +22268,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792715000
+  },
+  {
+    "slug": "2026-10-23-news-super-typhoon-champi-2026",
+    "event_ms": 1792714720000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 올해 가장 강력한 태풍 '참피'가 대만과 일본을 향해 북상하고 있습니다 (BBC·뉴욕타임스).\n\n· 태풍 접근으로 항공편 운항이 취소되고 미·일 연합 훈련에 차질이 빚어졌습니다 (로이터)\n· 대만과 일본, 중국 동부 지역에 강한 비바람이 예보됐습니다 (야후)\n\n출처: BBC·뉴욕타임스·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "대만"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18130156507880420",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De0WHr1oI16",
+        "kind": "carousel",
+        "at": 1792717827
+      },
+      "instagram": {
+        "id": "17885159376511575",
+        "permalink": "https://www.instagram.com/reel/De0WXH8iOSs/",
+        "kind": "reel",
+        "at": 1792717981
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1792717991
+      },
+      "tiktok": {
+        "id": "7699665121282428161",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7699665121282428161",
+        "kind": "video",
+        "at": 1792718113
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792718123
   }
 ]

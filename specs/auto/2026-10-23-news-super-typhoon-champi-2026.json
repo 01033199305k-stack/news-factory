@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-23-news-super-typhoon-champi-2026",
+  "topic": "태풍 '참피' 대만·일본 향해 북상 올해 가장 강한 태풍으로 발달",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.23 09:18 KST",
+  "source": "BBC·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTE1iU1FsMHlEcURudkgzanNQZ2dUOGtDQ3F5NFFLTHg3eTRMS1EtRWIwdGZLMV8yNE03dzhvZFFGbjdQeXFvRVZvYzRjY2Zqc09kSHo3UWtB",
+    "related": [
+      [
+        "Typhoon Champi roars towards Taiwan, Japan and China bringing heavy rain and wind",
+        "BBC"
+      ],
+      [
+        "Super Typhoon Champi, Churning Over Pacific, Becomes Strongest Storm of 2026",
+        "The New York Times"
+      ],
+      [
+        "Super Typhoon Champi becomes one of 2026’s strongest storms as it heads toward Taiwan and eastern China",
+        "Yahoo"
+      ],
+      [
+        "Large, strong typhoon advancing toward southern Japan, moving to northwest",
+        "Japan Today"
+      ],
+      [
+        "Typhoon Champi nears Taiwan, causing flight cancellations and disrupting US-Japan drills",
+        "Reuters"
+      ]
+    ],
+    "event_key": "super_typhoon_champi_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "태풍 '참피' 대만·일본 향해 북상\n올해 가장 강한 [[태풍]]으로 발달",
+      "sub": "항공편 운항이 취소되고 미·일 연합 훈련에 차질이 빚어졌습니다.",
+      "chips": [
+        {
+          "k": "태풍 등급",
+          "v": "가장 강한 태풍"
+        }
+      ],
+      "alt": "태풍 '참피' 대만·일본 향해 북상 올해 가장 강한 태풍으로 발달",
+      "map": {
+        "lat": 23.9739374,
+        "lon": 120.9820179,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대만"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대만",
+      "video_only": true,
+      "map": {
+        "lat": 23.9739374,
+        "lon": 120.9820179,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "대만"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "항공편 취소",
+          "d": "대만에 접근하면서 항공편 운항이 취소됐습니다 (로이터)."
+        },
+        {
+          "t": "군사 훈련 차질",
+          "d": "미국과 일본의 연합 훈련이 차질을 빚었습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "올해 가장 강한 폭풍으로 발달 (뉴욕타임스)",
+        "대만·일본·중국 향해 북상 (BBC)"
+      ],
+      "unconfirmed": [
+        "정부의 구체적인 대피 명령 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Japan Today",
+        "Reuters",
+        "The New York Times",
+        "Yahoo",
+        "2026.10.23 10:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 올해 가장 강력한 태풍 '참피'가 대만과 일본을 향해 북상하고 있습니다 (BBC·뉴욕타임스).\n\n· 태풍 접근으로 항공편 운항이 취소되고 미·일 연합 훈련에 차질이 빚어졌습니다 (로이터)\n· 대만과 일본, 중국 동부 지역에 강한 비바람이 예보됐습니다 (야후)\n\n출처: BBC·뉴욕타임스·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "올해 가장 강력한 태풍 참피가 대만과 일본을 향해 북상하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터통신은 태풍 접근으로 항공편이 취소되고 미일 연합 훈련에 차질이 빚어졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "대만과 일본, 중국 동부 지역에 강한 비바람이 불 것으로 예보됐습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "올해 가장 강한\n[[태풍]] 북상",
+  "broll": [
+    "typhoon stormy sea",
+    "heavy rain wind"
+  ],
+  "place_en": "Taiwan"
+}
