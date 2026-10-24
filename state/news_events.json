@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-air-force-removes-b1-bombers-uk-base-2026",
-    "topic": "미국, 영국 기지서 B-1 폭격기 철수",
-    "slug": "2026-10-05-news-us-air-force-removes-b1-bombers-uk-base-2026",
-    "cluster": "CBMimAFBVV95cUxNLXlMMHdOTEFJWjZvZFVmMnZvLTdMQ3hlcjdWNDdWX2NtMG95ZTFNeDBwQk1HUG9NQ19OQUpSQWJuUGFIQUVOVzEzUTN1OWhmSWlhcmdVa0wzbXAzTnY2a2t4bVBDTUdVcnUyVW9rM2FCWWlmbU5aYTJxak1YeHdGbnB6eG54NGR3U0NqVnpEdFU3T1ItM2c5ZA",
-    "badge": "breaking",
-    "at": 1791151676.565192,
-    "country": "영국",
-    "category": "국제"
-  },
-  {
     "event_key": "ukraine-first-ballistic-missile-combat-use-2026",
     "topic": "우크라, 자체 개발 탄도미사일 첫 실전 사용",
     "slug": "2026-10-05-news-ukraine-first-ballistic-missile-combat-use-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792826989.956016,
     "country": "중국",
     "category": "국제"
+  },
+  {
+    "event_key": "philippine-air-force-planes-crash-fernando-2026",
+    "topic": "필리핀 공군기 공중 충돌 조종사 4명 숨져",
+    "slug": "2026-10-24-news-philippine-air-force-planes-crash-fernando-2026",
+    "cluster": "CBMixwFBVV95cUxQRl8tcHVGQ3dkOXhSTHJxWjVhcE9pMERkS3d3cXpfTmtWSDJQc3JnWTVVU1NfbVFpV1l6bnExR2h2bHEzNm14bmFnTEhndEVtQTRjdnBnaXh2c2Q3bWZWSDhORGdxSXdPdDU4MFJaM3k5RmdIWnZ1cUJjWWVyUlNLQlh5aTRiNUVmWGVYeUxHb3p3YVBMV0ZLQzdOZmx4eDJNWnk3R01QM3NGa2pSZWhYOTYwdXBEb3RlX3FDUzNwZWM5YnU5V2Vn0gHMAUFVX3lxTE52M2Y5a0pxcUMyRXpTd1ZlX1l5dmpmYmNUMkpWa0FHWWlpY3lJalRwSS1iLS1OVVY2T0JOQWVtcHcwNTdlbDU3MXdwbE9KRm1nR2ZSQUV3VEl6eHJfNVhxbktxTTV6b214TnpfcXJVVjZtYkVsUXFNdGNQZTBPTEhVMzY3YjRyX2hIX3dRanI3TXl3Y3pMaHZWVlYyZ09vdXBRQ19tRWxNQ0Zxclk5TV95b21FQk02SG1nd0dHd2x6dEpfQnA4WEh2em9jdQ",
+    "badge": "breaking",
+    "at": 1792832969.790265,
+    "country": "필리핀",
+    "category": "사고"
   }
 ]

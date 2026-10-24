@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-24-news-philippine-air-force-planes-crash-fernando-2026",
+  "topic": "필리핀 공군기 공중 충돌 조종사 4명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 16:37 KST",
+  "source": "India Today·NDTV·Asianet Newsable 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxQRl8tcHVGQ3dkOXhSTHJxWjVhcE9pMERkS3d3cXpfTmtWSDJQc3JnWTVVU1NfbVFpV1l6bnExR2h2bHEzNm14bmFnTEhndEVtQTRjdnBnaXh2c2Q3bWZWSDhORGdxSXdPdDU4MFJaM3k5RmdIWnZ1cUJjWWVyUlNLQlh5aTRiNUVmWGVYeUxHb3p3YVBMV0ZLQzdOZmx4eDJNWnk3R01QM3NGa2pSZWhYOTYwdXBEb3RlX3FDUzNwZWM5YnU5V2Vn0gHMAUFVX3lxTE52M2Y5a0pxcUMyRXpTd1ZlX1l5dmpmYmNUMkpWa0FHWWlpY3lJalRwSS1iLS1OVVY2T0JOQWVtcHcwNTdlbDU3MXdwbE9KRm1nR2ZSQUV3VEl6eHJfNVhxbktxTTV6b214TnpfcXJVVjZtYkVsUXFNdGNQZTBPTEhVMzY3YjRyX2hIX3dRanI3TXl3Y3pMaHZWVlYyZ09vdXBRQ19tRWxNQ0Zxclk5TV95b21FQk02SG1nd0dHd2x6dEpfQnA4WEh2em9jdQ",
+    "related": [
+      [
+        "Four Pilots Killed As Two Philippine Air Force Jets Crash During Training At Air Base",
+        "News18"
+      ],
+      [
+        "Video: 4 Pilots Killed As 2 Planes Crash Mid-Air During Training In Philippines",
+        "NDTV"
+      ],
+      [
+        "Four Philippine Air Force pilots killed in training accident",
+        "The Economic Times"
+      ],
+      [
+        "4 pilots killed as two Philippine Air Force aircraft crash during training in Manilla",
+        "India Today"
+      ],
+      [
+        "Four Pilots Die After Two Trainer Aircraft Crash at Fernando Air Base",
+        "Asianet Newsable"
+      ]
+    ],
+    "event_key": "philippine-air-force-planes-crash-fernando-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "필리핀 공군기 공중 충돌\n조종사 [[4명 숨져]]",
+      "sub": "페르난도 공군기지서 훈련 도중 2대 추락 (외신)",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "4명 (외신 종합)"
+        },
+        {
+          "k": "기종",
+          "v": "훈련기 2대"
+        }
+      ],
+      "alt": "필리핀 공군기 공중 충돌 조종사 4명 숨져",
+      "map": {
+        "lat": 13.9517747,
+        "lon": 121.1257003,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "필리핀"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "필리핀\n페르난도 공군기지",
+      "video_only": true,
+      "map": {
+        "lat": 13.9517747,
+        "lon": 121.1257003,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "페르난도 공군기지"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "훈련 비행 중 충돌",
+          "d": "필리핀 공군 훈련기 두 대가 훈련 도중 공중에서 충돌해 추락했습니다. (NDTV)"
+        },
+        {
+          "t": "조종사 4명 사망",
+          "d": "공군기지 훈련 도중 발생한 추락 사고로 조종사 4명이 숨졌습니다. (외신 종합)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "필리핀 공군 훈련기 2대 충돌 추락",
+        "조종사 4명 사망 (외신 종합)"
+      ],
+      "unconfirmed": [
+        "공중 충돌 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Asianet Newsable",
+        "India Today",
+        "NDTV",
+        "News18",
+        "The Economic Times",
+        "2026.10.24 18:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 필리핀서 공군 훈련기 2대 공중 충돌… 조종사 4명 사망\n\n· 페르난도 공군기지에서 훈련 중이던 군용기 두 대가 추락했습니다. (Asianet Newsable 등)\n· 공중 충돌 사고로 조종사 4명이 숨졌습니다. (외신 종합)\n· 충돌 경위와 구체적인 사고 원인은 아직 알려지지 않았습니다.\n\n출처: NDTV·인디아투데이·이코노믹타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "필리핀에서 공군 훈련기 두 대가 공중 충돌해 조종사 4명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 페르난도 공군기지에서 훈련 비행을 하던 도중 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "NDTV 등 외신은 공중에서 부딪힌 훈련기 2대가 추락했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "비행기가 부딪힌 정확한 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "필리핀 상공서\n[[공군기]] 2대 충돌",
+  "broll": [
+    "military airbase runway",
+    "air force hanger"
+  ],
+  "place_en": "Fernando Air Base, Lipa, Philippines"
+}
