@@ -1,0 +1,154 @@
+{
+  "slug": "2026-10-25-news-netanyahu-crypto-sanctions-plan-2026",
+  "topic": "이스라엘 총리, 가상화폐 활용 추진 중앙은행은 거부 입장 밝혀",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 04:19 KST",
+  "source": "Bloomberg.com·Financial Times·Anadolu Ajansı 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ",
+    "related": [
+      [
+        "Israeli central bank rejects Benjamin Netanyahu’s plan to use crypto to evade sanctions",
+        "Financial Times"
+      ],
+      [
+        "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
+        "Bloomberg.com"
+      ],
+      [
+        "'Bibicoin will destroy Israel': Eisenkot slams Netanyahu's crypto plan for alternative funding",
+        "The Jerusalem Post"
+      ],
+      [
+        "Netanyahu: Israel should ready for global sanctions, use blockchain to circumvent them",
+        "The Times of Israel"
+      ],
+      [
+        "Netanyahu says end to US military aid to Israel ‘only a matter of time’",
+        "Anadolu Ajansı"
+      ]
+    ],
+    "event_key": "netanyahu_crypto_sanctions_plan_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이스라엘 총리, [[가상화폐]] 활용 추진\n중앙은행은 거부 입장 밝혀",
+      "sub": "글로벌 제재 우회 목적 검토",
+      "chips": [
+        {
+          "k": "통화",
+          "v": "가상화폐"
+        }
+      ],
+      "alt": "이스라엘 총리, 가상화폐 활용 추진 중앙은행은 거부 입장 밝혀",
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n예루살렘",
+      "video_only": true,
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "예루살렘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "제재 대비",
+          "d": "베냐민 네타냐후 이스라엘 총리가 제재 회피를 위해 블록체인과 가상화폐 도입을 검토해야 한다고 밝혔습니다 (파이낸셜타임스·블룸버그·타임스오브이스라엘)."
+        },
+        {
+          "t": "중앙은행 반대",
+          "d": "이스라엘 중앙은행은 총리의 계획을 거절했다고 매체들이 전했습니다 (파이낸셜타임스)."
+        },
+        {
+          "t": "정치적 반발",
+          "d": "정치권에서는 비트코인 도입이 이스라엘을 파괴할 것이라는 강한 비판이 나왔습니다 (예루살렘포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "가상화폐 도입 검토",
+        "이스라엘 중앙은행 거부",
+        "제재 회피 목적"
+      ],
+      "unconfirmed": [
+        "구체적인 도입 방안 및 실현 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Anadolu Ajansı",
+        "Bloomberg.com",
+        "Financial Times",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "2026.10.25 08:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이스라엘 총리가 [[가상화폐]] 활용을 추진하고 있습니다\n\n· 네타냐후 총리는 글로벌 제재를 피하기 위해 블록체인과 가상화폐를 이용해야 한다고 주장했습니다 (파이낸셜타임스·블룸버그)\n· 이스라엘 중앙은행은 해당 계획을 거절한 것으로 확인됐습니다 (파이낸셜타임스)\n· 정치권에서는 이스라엘을 파괴할 것이라는 비판 목소리가 나왔습니다 (예루살렘포스트)\n\n여러분은 제재 회피를 위한 가상화폐 도입에 대해 어떻게 생각하십니까?\n\n출처: 파이낸셜타임스·블룸버그·예루살렘포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘 총리가 제재 회피를 위해 가상화폐 도입을 검토하겠다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "베냐민 네타냐후 총리는 블록체인을 활용해야 한다고 주장했습니다.",
+      "card": "map",
+      "screen": "이스라엘"
+    },
+    {
+      "text": "파이낸셜타임스는 이스라엘 중앙은행이 이 계획을 거절했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정치권에서도 비트코인이 이스라엘을 파괴할 것이라는 반발이 이어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 도입으로 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 가상화폐 추진 계획, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이스라엘 총리가\n[[가상화폐]]를 쓰는 이유",
+  "broll": [
+    "stock exchange screen",
+    "digital currency code"
+  ],
+  "place_en": "Jerusalem"
+}

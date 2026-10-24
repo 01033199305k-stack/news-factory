@@ -24381,5 +24381,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792870833
+  },
+  {
+    "slug": "2026-10-25-news-netanyahu-crypto-sanctions-plan-2026",
+    "event_ms": 1792883330122,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 이스라엘 총리가 가상화폐 활용을 추진하고 있습니다\n\n· 네타냐후 총리는 글로벌 제재를 피하기 위해 블록체인과 가상화폐를 이용해야 한다고 주장했습니다 (파이낸셜타임스·블룸버그)\n· 이스라엘 중앙은행은 해당 계획을 거절한 것으로 확인됐습니다 (파이낸셜타임스)\n· 정치권에서는 이스라엘을 파괴할 것이라는 비판 목소리가 나왔습니다 (예루살렘포스트)\n\n여러분은 제재 회피를 위한 가상화폐 도입에 대해 어떻게 생각하십니까?\n\n출처: 파이낸셜타임스·블룸버그·예루살렘포스트 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "이스라엘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18097088906135983",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De5R4ZrCfam",
+        "kind": "carousel",
+        "at": 1792883377
+      },
+      "instagram": {
+        "id": "17968649211194955",
+        "permalink": "https://www.instagram.com/reel/De5SQNWgev6/",
+        "kind": "reel",
+        "at": 1792883596
+      },
+      "youtube": {
+        "id": "OOc48ejAsgo",
+        "permalink": "https://youtube.com/shorts/OOc48ejAsgo",
+        "kind": "shorts",
+        "at": 1792883615
+      },
+      "tiktok": {
+        "id": "7700376510565322005",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700376510565322005",
+        "kind": "video",
+        "at": 1792883747
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792883757
   }
 ]
