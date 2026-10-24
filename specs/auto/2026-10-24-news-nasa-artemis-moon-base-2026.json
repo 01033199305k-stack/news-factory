@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-24-news-nasa-artemis-moon-base-2026",
+  "topic": "나사, 2년 내 유인 달 착륙 추진 아폴로 방식 속도전 돌입",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 07:00 KST",
+  "source": "AP News·CNN·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3",
+    "related": [
+      [
+        "NASA adopting Apollo’s urgency to build a moon base and land astronauts within two years",
+        "AP News"
+      ],
+      [
+        "‘The most complicated launch campaign ever’: NASA lays out mad dash to test lunar landers",
+        "CNN"
+      ],
+      [
+        "NASA Shares Artemis Acceleration Plans for Moon Missions",
+        "NASA (.gov)"
+      ],
+      [
+        "NASA Is Still Aiming for the Next Moon Landing in 2028",
+        "The New York Times"
+      ],
+      [
+        "NASA lays out plan for Artemis 3 moon-lander test flight — but when will it launch?",
+        "Space"
+      ]
+    ],
+    "event_key": "nasa_artemis_moon_base_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "나사, 2년 내 유인 달 착륙 추진\n아폴로 방식 속도전 돌입",
+      "sub": "아르테미스 3호 착륙선 테스트 비행 계획 발표",
+      "chips": [
+        {
+          "k": "기간",
+          "v": "2년 내"
+        }
+      ],
+      "alt": "나사, 2년 내 유인 달 착륙 추진 아폴로 방식 속도전 돌입",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "아폴로 방식",
+          "d": "미국 항공우주국 나사는 아폴로 계획 당시의 긴박함을 적용해 달 기지 건설과 유인 착륙을 추진한다고 보도되었습니다."
+        },
+        {
+          "t": "테스트 비행",
+          "d": "나사는 아르테미스 3호 유인 달 착륙선 테스트 비행 계획을 공개했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "2년 내 유인 달 착륙 추진",
+        "아르테미스 3호 착륙선 테스트 계획 공개"
+      ],
+      "unconfirmed": [
+        "정확한 테스트 비행 발사 일자"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNN",
+        "NASA (.gov)",
+        "Space",
+        "The New York Times",
+        "2026.10.24 10:40 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 나사, 2년 내 유인 달 착륙 추진\n\n· 미국 항공우주국 나사가 아폴로 방식의 긴박함을 내세워 2년 안에 우주인을 달에 착륙시키겠다고 밝혔습니다 (AP)\n· 나사는 아르테미스 3호 유인 달 착륙선 테스트 비행 계획을 발표했습니다 (NASA)\n\n여러분은 인류의 유인 달 기지 건설 가속화, 어떻게 보십니까?\n\n출처: AP·CNN·NASA·Space 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 항공우주국 나사가 2년 안에 우주인을 달에 착륙시키겠다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신 등은 아폴로 계획 당시의 긴박함을 적용해 달 기지 건설을 추진한다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "나사는 아르테미스 3호 유인 달 착륙선 테스트 비행 계획을 공개했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "테스트 비행의 정확한 발사 일자는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 유인 달 기지 건설 가속화, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "달 기지 건설 가속화"
+    }
+  ],
+  "hook": "나사가 2년 내\n[[달 착륙]] 추진하는 배경은",
+  "broll": [
+    "space station launch",
+    "moon surface crater"
+  ],
+  "place_en": "Washington, D.C., USA"
+}

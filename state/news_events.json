@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-donbas-operation-vivaldi-2026",
-    "topic": "우크라 영토 140㎢ 탈환 러시아군 250명 생포",
-    "slug": "2026-10-04-news-ukraine-donbas-operation-vivaldi-2026",
-    "cluster": "CBMiS0FVX3lxTE55NVByNmluS3lxODBodkFCTDhoTUdiQ0tySkN4M0V5RUs5M05YeWc0R0Nvd1VRNkQwaUNhZktaS1F1UmhDUmlWQXItMA",
-    "badge": "brief",
-    "at": 1791123041.786199,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "baltimore-youth-football-shooting",
     "topic": "유소년 축구장 총격전 12세 소녀 총탄에 사망",
     "slug": "2026-10-04-news-baltimore-youth-football-shooting",
@@ -2996,6 +2986,16 @@
     "cluster": "CBMinAFBVV95cUxNVW1QX1NqWUlXQmJ1aHRHUDJLUWZMZDRXVHJmOWl6c20zZVJ1THE0Skl4R184VDZoUndEdENOSEFEOFlBd2Z2NkU3YzAtOGw3UHcwdS15T0NlVkNOallTUlV6WGI4eHZBRzFmRXAwRHZuRmtjcFprZmtDSzhkSTI3RERNWEh0VzlWQ2F3TldqYkg4RjZ2NDZmZGFXQWE",
     "badge": "breaking",
     "at": 1792786131.17216,
+    "country": "미국",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "nasa_artemis_moon_base_2026",
+    "topic": "나사, 2년 내 유인 달 착륙 추진 아폴로 방식 속도전 돌입",
+    "slug": "2026-10-24-news-nasa-artemis-moon-base-2026",
+    "cluster": "CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3",
+    "badge": "brief",
+    "at": 1792806075.2239661,
     "country": "미국",
     "category": "경제·과학"
   }

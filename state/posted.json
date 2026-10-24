@@ -23410,5 +23410,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792793347
+  },
+  {
+    "slug": "2026-10-24-news-nasa-artemis-moon-base-2026",
+    "event_ms": 1792806075224,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 나사, 2년 내 유인 달 착륙 추진\n\n· 미국 항공우주국 나사가 아폴로 방식의 긴박함을 내세워 2년 안에 우주인을 달에 착륙시키겠다고 밝혔습니다 (AP)\n· 나사는 아르테미스 3호 유인 달 착륙선 테스트 비행 계획을 발표했습니다 (NASA)\n\n여러분은 인류의 유인 달 기지 건설 가속화, 어떻게 보십니까?\n\n출처: AP·CNN·NASA·Space 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18349177708265495",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De2-hs3GgKv",
+        "kind": "carousel",
+        "at": 1792806123
+      },
+      "instagram": {
+        "id": "18083726873392479",
+        "permalink": "https://www.instagram.com/reel/De2-5GLkUxJ/",
+        "kind": "reel",
+        "at": 1792806333
+      },
+      "youtube": {
+        "id": "roors3QjEow",
+        "permalink": "https://youtube.com/shorts/roors3QjEow",
+        "kind": "shorts",
+        "at": 1792806469
+      },
+      "tiktok": {
+        "id": "7700045196439915784",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700045196439915784",
+        "kind": "video",
+        "at": 1792806602
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792806612
   }
 ]
