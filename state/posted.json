@@ -23788,5 +23788,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792822651
+  },
+  {
+    "slug": "2026-10-24-news-kim-jong-un-surprise-china-visit-dandong-2026",
+    "event_ms": 1792820100000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 김정은 북한 국무위원장이 중국을 전격 방문했습니다.\n\n· 신압록강대교를 통해 중국 단둥에 도착한 것으로 파악됐습니다 (동아일보·문화일보)\n· 중국 단둥 현지 교통과 호텔 통제가 진행 중입니다 (경향신문·아시아경제)\n\n이번 전격 방중 행보를 어떻게 보십니까?\n\n출처: 경향신문·한겨레·문화일보·동아일보·아시아경제 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "국제",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18074681270755247",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De3mbJhm-sj",
+        "kind": "carousel",
+        "at": 1792827043
+      },
+      "instagram": {
+        "id": "17938642008390054",
+        "permalink": "https://www.instagram.com/reel/De3mwBcAhNS/",
+        "kind": "reel",
+        "at": 1792827232
+      },
+      "youtube": {
+        "skipped": "하루 업로드 한도 초과",
+        "at": 1792827500
+      },
+      "tiktok": {
+        "id": "7700135504951414037",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700135504951414037",
+        "kind": "video",
+        "at": 1792827622
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792827632
   }
 ]

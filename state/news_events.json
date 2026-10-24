@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bosnia-general-election-2026",
-    "topic": "보스니아 총선 실시 친러 성향 지도자 승리 선언",
-    "slug": "2026-10-05-news-bosnia-general-election-2026",
-    "cluster": "CBMixAFBVV95cUxORHhINTFReXgwUjJYMnlmcGtWXzNzbDZUUXVYN0hzS01HRzh2Z1JwdzZIUTAtVEYtaVZvWWRSMkVVaWlCU2xITkdPN04zOENrY2ZxSFNtRU54bnlsWTF3d3VsdzZsbDI2dlpabFhGa1BDbmtDckpjVTdtcGZrX1RsWjhIcllBQTVmalhlMmNqeGtHQkVDYUtnLTZ6RHRMQzd2YXlUTUdqbWxZY3lnejk1SWwyMFg1dnVEdmhQdllOS2ZBM3FT",
-    "badge": "breaking",
-    "at": 1791144619.0316815,
-    "country": "보스니아헤르체고비나",
-    "category": "국제"
-  },
-  {
     "event_key": "us-air-force-removes-b1-bombers-uk-base-2026",
     "topic": "미국, 영국 기지서 B-1 폭격기 철수",
     "slug": "2026-10-05-news-us-air-force-removes-b1-bombers-uk-base-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1792822269.549907,
     "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "kim_jong_un_surprise_china_visit_dandong_2026",
+    "topic": "김정은 북한 위원장 중국 전격 방문",
+    "slug": "2026-10-24-news-kim-jong-un-surprise-china-visit-dandong-2026",
+    "cluster": "CBMiWkFVX3lxTE5sbUFORVlkZW5NOV9MRkE2SkxTdDlSNzZZcmtmWk0weXZRcHZWUWgyZFN1WEh2MGlPdklub0lpaGR4c1h6bkdSRUFDTGtsRkxYakZpdzBqWDctUQ",
+    "badge": "breaking",
+    "at": 1792826989.956016,
+    "country": "중국",
     "category": "국제"
   }
 ]
