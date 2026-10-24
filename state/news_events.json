@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "brazil-presidential-election-runoff-2026",
-    "topic": "브라질 대선 결선행 룰라·보우소나루 격돌",
-    "slug": "2026-10-05-news-brazil-presidential-election-runoff-2026",
-    "cluster": "CBMivAFBVV95cUxQV3ZLNGdfVjRYSEZjN3ZqNnd5ajJsc0xSVktJbmhxNzZDWWJjdWxESFNIdnc1bTNRa3Q3aWFPSjJ3Wm9wbVZPQXpCZVFLUXYwRHVQbzhFeVV0T2dBQlU4aEJ3OGlMbktrc2FyaFVzcDlYaXRRREFYRzBLSmVKSFZkT1lVdGM5eWFuNGRPWUQxald1UUQ1YmJYWGRrSDJ5dWdvT2pUc2dJYldXU3I2TkotYkRNSW5PNldYdEYzOQ",
-    "badge": "breaking",
-    "at": 1791180519.915774,
-    "country": "브라질",
-    "category": "국제"
-  },
-  {
     "event_key": "pakistan-imran-khan-protest-march",
     "topic": "파키스탄 임란 칸 지지자들 수도 이슬라마바드 향해 대규모 행진",
     "slug": "2026-10-05-news-pakistan-imran-khan-protest-march",
@@ -2998,5 +2988,15 @@
     "at": 1792856497.6959102,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "france-protests-tear-gas-2026",
+    "topic": "프랑스 파리서 대규모 시위 경찰 최루탄 발사",
+    "slug": "2026-10-25-news-france-protests-tear-gas-2026",
+    "cluster": "CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ",
+    "badge": "breaking",
+    "at": 1792858347.1791098,
+    "country": "프랑스",
+    "category": "국제"
   }
 ]

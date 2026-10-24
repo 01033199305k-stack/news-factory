@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-25-news-france-protests-tear-gas-2026",
+  "topic": "프랑스 파리서 대규모 시위 경찰 최루탄 발사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 00:57 KST",
+  "source": "AP News·CBS News·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ",
+    "related": [
+      [
+        "Mass protests challenge Macron as French police use tear gas and water cannons",
+        "AP News"
+      ],
+      [
+        "New Wave of Protests Gets Underway in France After Widespread Violence",
+        "WSJ"
+      ],
+      [
+        "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
+        "The New York Times"
+      ],
+      [
+        "Live updates: More than 100 detained in France with protest underway in Paris",
+        "CNN"
+      ],
+      [
+        "French police fire tear gas, arrest dozens as nation braces for another weekend of protests",
+        "CBS News"
+      ]
+    ],
+    "event_key": "france-protests-tear-gas-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스 파리서 대규모 [[시위]]\n경찰 최루탄 발사",
+      "sub": "프랑스서 100명 이상 구금",
+      "chips": [
+        {
+          "k": "구금",
+          "v": "100명 이상"
+        },
+        {
+          "k": "진압",
+          "v": "최루탄·물대포"
+        }
+      ],
+      "alt": "프랑스 파리서 대규모 시위 경찰 최루탄 발사",
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "경찰 대응",
+          "d": "프랑스 경찰은 최루탄(AP News·CBS News)과 물대포(AP News)를 사용했습니다."
+        },
+        {
+          "t": "구금 규모",
+          "d": "프랑스에서 100명이 넘는 사람이 구금됐습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "최루탄·물대포 사용",
+        "100명 이상 구금"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 규모와 피해 액수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBS News",
+        "CNN",
+        "The New York Times",
+        "WSJ",
+        "2026.10.25 01:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 파리서 대규모 시위 발생, 경찰 최루탄 발사\n\n· 프랑스 경찰은 최루탄(AP News·CBS News)과 물대포(AP News)를 사용했습니다\n· 프랑스에서 100명이 넘는 사람이 구금됐습니다 (CNN)\n\n이번 시위와 관련해 여러분은 어떻게 보십니까?\n\n출처: AP News·WSJ·The New York Times·CNN·CBS News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 파리에서 대규모 시위가 벌어져 경찰이 최루탄을 발사했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN은 프랑스에서 100명이 넘는 사람이 구금됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 시위 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "프랑스 파리서\n벌어진 [[시위]]",
+  "broll": [
+    "protest street smoke",
+    "police riot gear"
+  ],
+  "place_en": "Paris, France"
+}
