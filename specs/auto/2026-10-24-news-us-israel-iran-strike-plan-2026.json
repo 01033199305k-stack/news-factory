@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-24-news-us-israel-iran-strike-plan-2026",
+  "topic": "미·이스라엘, 이란 재공격 계획 수립",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 14:30 KST",
+  "source": "Al Jazeera·Axios·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi6gFBVV95cUxOdFRoenFxUVZOOGh1SjhKMTFWQl9SMks5STh2SVBMYmxOeFRIVHMxN3JpdkotQ0RrOFc3bWdvWjRDMEpxVUxEalhFTEJPRl9vZ2Q3U1RJMUx4WWlaeE5Ob29IMzg3Y3lKYk5FOE5oYVV2dElYRTZLTTBIMTE5MFlRSnhiMUtYM1BMbXc0bzFHenBvbHBZeHhyQ01EbXJqdHpPbTlRSTNTd2FyMVotVzdiOXd1S3JRUS1zWHJfTGRNYmk4ZVhqdEUzbE5jUFN6QXBGR1RPN1EwM0thMUNKM2hTWE93dVhUTnZmTFHSAfABQVVfeXFMTWprUTNQQ3pYUWtvcXFuenpHZVM2UTNVbmZwYVdYRkpQUWFHSTRzTzBkSHFqOUY0OHpibVQzM2tSeUtHd3M4MUJfd0d5OWVLTmw1YmZLaWFlR21tRzdTdk9lRmZid1E4QTlWTnRaMFRiY2hGLWZlN1ExMGZxTDNrcUE5NV9HVS0tdThROWhkZUNBOFNyb3JZN2t6MHcxcXFYbmlQYWlsb09pLWJpZm1Kdk5UU2Y4a3RHcnRpbm9SRVJnWG9TQVNzdEFvbUlreElzRGVZaDUzZTV5Q2syYmt5R2RxZ0EzbTNsV1hJR3h1bDAz",
+    "related": [
+      [
+        "US-Iran War Live Updates: Tehran military chief says US warships will not be allowed into Persian Gulf",
+        "The Indian Express"
+      ],
+      [
+        "U.S. could strike Iran this weekend, envoy says",
+        "The Hindu"
+      ],
+      [
+        "Netanyahu promises Iran regime change: Can Israel topple Tehran government?",
+        "Al Jazeera"
+      ],
+      [
+        "Israeli military conducts massive \"power projection\" operation near Iran's border",
+        "Axios"
+      ],
+      [
+        "U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "us_israel_iran_strike_plan_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미·이스라엘, 이란 [[재공격]]\n계획 수립",
+      "sub": "이스라엘군의 이란 국경 인근 대규모 무력 시위 작전 전개",
+      "chips": [],
+      "alt": "미·이스라엘, 이란 재공격 계획 수립",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미 군함 입항 불허",
+          "d": "이란 군 총사령관은 미국 군함의 페르시아만 입항을 허용하지 않겠다고 밝혔습니다 (인디언 익스프레스)."
+        },
+        {
+          "t": "주말 타격 가능성",
+          "d": "미국 특사는 이번 주말 이란을 타격할 수 있다고 언급했습니다 (더 힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국과 이스라엘의 이란 공격 계획 수립",
+        "이스라엘군의 이란 국경 인근 무력 시위",
+        "이란의 미 군함 페르시아만 입항 금지 경고"
+      ],
+      "unconfirmed": [
+        "구체적인 공격 시기와 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Axios",
+        "The Hindu",
+        "The Indian Express",
+        "The New York Times",
+        "2026.10.24 15:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국과 이스라엘이 이란을 재공격하기 위한 계획 수립에 나섰습니다.\n\n· 이스라엘군이 이란 국경 인근에서 대규모 무력 시위 작전을 전개했습니다 (악시오스)\n· 이란 군 총사령관은 미 군함의 페르시아만 입항을 허용하지 않겠다고 밝혔습니다 (인디언 익스프레스)\n· 미국 특사는 이번 주말 이란을 타격할 수 있다고 말했습니다 (더 힌두)\n\n이번 군사적 긴장 고조에 대해 어떻게 생각하십니까?\n\n출처: 뉴욕타임스·악시오스·인디언 익스프레스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국과 이스라엘이 이란 재공격 계획을 수립했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이스라엘군은 이란 국경 인근에서 대규모 무력 시위 작전을 펼쳤습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이란 군 측은 미 군함의 페르시아만 입항을 막겠다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 공격 시기와 방식은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 중동 정세 변화, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[이란]]을 향한\n미·이스라엘 작전",
+  "broll": [
+    "military warship sea",
+    "fighter jet runway"
+  ],
+  "place_en": "Tehran, Iran"
+}

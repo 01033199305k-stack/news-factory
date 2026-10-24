@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "trump-super-intelligence-force-ai",
-    "topic": "트럼프, AI 전담 초지능 부대 창설",
-    "slug": "2026-10-05-news-trump-super-intelligence-force-ai",
-    "cluster": "CBMitgFBVV95cUxOa19adU9sV0V4bFFRV1BZYlJySTRjbURpekNybjFtZWIzQ3h6LWJrdXRoVG5nSGlMaTh0QlJRZkYwYWczR1JNejNIZ0wwYkFETDhPMVp2c1RrRlhqNFVyMDR1OHJIajljMkgzSEVwOUtEMXY3S2N5UE5KWFpZNExLelNIN0hUSjZhRWRaS0dMd0U0WndnMXpZWjk4UDhGR0daLS1ZV2xUMDBPREJTT3d3VFZKU1FyUQ",
-    "badge": "brief",
-    "at": 1791143092.7577424,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "bosnia-general-election-2026",
     "topic": "보스니아 총선 실시 친러 성향 지도자 승리 선언",
     "slug": "2026-10-05-news-bosnia-general-election-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792811536.5697107,
     "country": "독일",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "us_israel_iran_strike_plan_2026",
+    "topic": "미·이스라엘, 이란 재공격 계획 수립",
+    "slug": "2026-10-24-news-us-israel-iran-strike-plan-2026",
+    "cluster": "CBMi6gFBVV95cUxOdFRoenFxUVZOOGh1SjhKMTFWQl9SMks5STh2SVBMYmxOeFRIVHMxN3JpdkotQ0RrOFc3bWdvWjRDMEpxVUxEalhFTEJPRl9vZ2Q3U1RJMUx4WWlaeE5Ob29IMzg3Y3lKYk5FOE5oYVV2dElYRTZLTTBIMTE5MFlRSnhiMUtYM1BMbXc0bzFHenBvbHBZeHhyQ01EbXJqdHpPbTlRSTNTd2FyMVotVzdiOXd1S3JRUS1zWHJfTGRNYmk4ZVhqdEUzbE5jUFN6QXBGR1RPN1EwM0thMUNKM2hTWE93dVhUTnZmTFHSAfABQVVfeXFMTWprUTNQQ3pYUWtvcXFuenpHZVM2UTNVbmZwYVdYRkpQUWFHSTRzTzBkSHFqOUY0OHpibVQzM2tSeUtHd3M4MUJfd0d5OWVLTmw1YmZLaWFlR21tRzdTdk9lRmZid1E4QTlWTnRaMFRiY2hGLWZlN1ExMGZxTDNrcUE5NV9HVS0tdThROWhkZUNBOFNyb3JZN2t6MHcxcXFYbmlQYWlsb09pLWJpZm1Kdk5UU2Y4a3RHcnRpbm9SRVJnWG9TQVNzdEFvbUlreElzRGVZaDUzZTV5Q2syYmt5R2RxZ0EzbTNsV1hJR3h1bDAz",
+    "badge": "brief",
+    "at": 1792822269.549907,
+    "country": "이란",
+    "category": "국제"
   }
 ]
