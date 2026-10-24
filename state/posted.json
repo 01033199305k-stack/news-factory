@@ -23628,5 +23628,59 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792811023
+  },
+  {
+    "slug": "2026-10-24-usgs-us6000u4jb",
+    "event_ms": 1792809357362,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 바누아투 인근 규모 6.3 지진\n\n한국 시각 10월 24일 11시 35분, 바누아투 Port-Olry에서 북서쪽 170km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u4jb",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "바누아투",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17917923216258699",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De3IEGzG88h",
+        "kind": "carousel",
+        "at": 1792811125
+      },
+      "instagram": {
+        "id": "18110532275523181",
+        "permalink": "https://www.instagram.com/reel/De3IbV8DXxH/",
+        "kind": "reel",
+        "at": 1792811333
+      },
+      "youtube": {
+        "skipped": "하루 업로드 한도 초과",
+        "at": 1792811356
+      },
+      "tiktok": {
+        "id": "7700066158648495361",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700066158648495361",
+        "kind": "video",
+        "at": 1792811478
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792811488
   }
 ]
