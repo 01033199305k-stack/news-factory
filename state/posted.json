@@ -23574,5 +23574,59 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792810547
+  },
+  {
+    "slug": "2026-10-24-usgs-us6000u4j2",
+    "event_ms": 1792809088641,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 바누아투 인근 규모 6.9 지진\n\n한국 시각 10월 24일 11시 31분, 바누아투 Port-Olry에서 서북서쪽 197km. 깊이 10km.\n\n• USGS 피해 추정 등급 '초록' (인명·경제 피해 가능성 낮음)\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u4j2",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "바누아투",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18127293112929329",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De3HK8CDhbe",
+        "kind": "carousel",
+        "at": 1792810657
+      },
+      "instagram": {
+        "id": "17869547898662333",
+        "permalink": "https://www.instagram.com/reel/De3Hj8GASPO/",
+        "kind": "reel",
+        "at": 1792810878
+      },
+      "youtube": {
+        "skipped": "하루 업로드 한도 초과",
+        "at": 1792810891
+      },
+      "tiktok": {
+        "id": "7700064021235420468",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700064021235420468",
+        "kind": "video",
+        "at": 1792811013
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792811023
   }
 ]
