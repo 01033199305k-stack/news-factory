@@ -23465,5 +23465,114 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792806612
+  },
+  {
+    "slug": "2026-10-24-usgs-attne4d5",
+    "event_ms": 1792809113000,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 바누아투 인근 규모 7.2 지진\n\n한국 시각 10월 24일 11시 31분, 바누아투 Sola에서 서쪽 200km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS attne4d5",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "바누아투",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17997009528031636",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De3Fp5DgJ81",
+        "kind": "carousel",
+        "at": 1792809859
+      },
+      "instagram": {
+        "id": "18112492934124650",
+        "permalink": "https://www.instagram.com/reel/De3GLM5AWL6/",
+        "kind": "reel",
+        "at": 1792810157
+      },
+      "youtube": {
+        "id": "wZDKF5AgjGg",
+        "permalink": "https://youtube.com/shorts/wZDKF5AgjGg",
+        "kind": "shorts",
+        "at": 1792810271
+      },
+      "tiktok": {
+        "id": "7700061545505672468",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700061545505672468",
+        "kind": "video",
+        "at": 1792810406
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792810416
+  },
+  {
+    "slug": "2026-10-24-news-us-iran-assassination-plots-intel-2026",
+    "event_ms": 1792801414000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 정보 메모, 이란의 고위 관리 암살 음모 경고 (Axios)\n\n· 이란이 해외 미국 인력을 겨냥한 진화된 음모를 꾸미고 있다고 미국 정보 메모가 경고했습니다 (Axios)\n· 미국은 이란의 위협 증가로 중동 내 4개 대사관의 인력을 축소하고 있습니다 (WRAL)\n\n출처: Axios·WRAL·Yahoo 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18122088548009932",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De3Fuk_gNcH",
+        "kind": "carousel",
+        "at": 1792809898
+      },
+      "instagram": {
+        "id": "18119903263955405",
+        "permalink": "https://www.instagram.com/reel/De3GRIiEpeq/",
+        "kind": "reel",
+        "at": 1792810198
+      },
+      "youtube": {
+        "skipped": "하루 업로드 한도 초과",
+        "at": 1792810284
+      },
+      "tiktok": {
+        "id": "7700062109572467986",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700062109572467986",
+        "kind": "video",
+        "at": 1792810537
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792810547
   }
 ]

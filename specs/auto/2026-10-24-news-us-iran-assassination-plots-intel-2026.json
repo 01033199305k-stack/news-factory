@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-24-news-us-iran-assassination-plots-intel-2026",
+  "topic": "미국 정보 메모 이란 암살 음모 경고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 09:23 KST",
+  "source": "Axios·Yahoo News·Scripps News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMifkFVX3lxTFBNeTEzZmFLRm96a0wwNXV4bTBDU3JHX3Qtc0x3TnVKOW1PbFJ4c1FyNFNncVR0VkpLeUwyX2xGenAwU281WEpFZWRYdTNVaVIxbFRuaFBMRFNWaVI5ZFJBeHhyRll3QWs5aDJYQUtMQUdMMWpnalRPclZ3aDd4dw",
+    "related": [
+      [
+        "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
+        "Axios"
+      ],
+      [
+        "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "The Jerusalem Post"
+      ],
+      [
+        "US is reducing staffing at 4 Middle East embassies over increased threats from Iran",
+        "WRAL"
+      ],
+      [
+        "Iran Assassination Plots at 'Advanced Stages': US Intel",
+        "Yahoo"
+      ],
+      [
+        "New memo to Secretary Marco Rubio warns Iran is working to target US personnel",
+        "Scripps News"
+      ]
+    ],
+    "event_key": "us-iran-assassination-plots-intel-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 정보 메모\n[[이란 암살 음모]] 경고",
+      "sub": "미국 정부, 이란의 위협 증가로 중동 대사관 인력 축소",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "미국 인력"
+        }
+      ],
+      "alt": "미국 정보 메모 이란 암살 음모 경고",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "위협 증가",
+          "d": "미국 정보 메모는 이란이 해외 고위 관리들을 겨냥한 진화된 암살 음모를 꾸미고 있다고 경고했습니다 (Axios)."
+        },
+        {
+          "t": "인력 축소",
+          "d": "미국은 이란의 위협 고조로 중동 내 4개 대사관의 인력을 감축하고 있습니다 (WRAL)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란의 미 관리 암살 음모 경고",
+        "중동 대사관 인력 축소"
+      ],
+      "unconfirmed": [
+        "구체적인 음모 실행 시기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Axios",
+        "Scripps News",
+        "The Jerusalem Post",
+        "WRAL",
+        "Yahoo",
+        "2026.10.24 11:43 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 정보 메모, 이란의 고위 관리 암살 음모 경고 (Axios)\n\n· 이란이 해외 미국 인력을 겨냥한 진화된 음모를 꾸미고 있다고 미국 정보 메모가 경고했습니다 (Axios)\n· 미국은 이란의 위협 증가로 중동 내 4개 대사관의 인력을 축소하고 있습니다 (WRAL)\n\n출처: Axios·WRAL·Yahoo 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정보 메모가 이란의 고위 관리 암살 음모를 경고했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국은 이란의 위협이 커짐에 따라 중동 대사관 인력을 축소하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 음모 실행 시기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 미국의 인력 축소 조치, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 경고한\n[[이란의 암살 음모]]",
+  "broll": [
+    "US embassy building",
+    "government document desk"
+  ],
+  "place_en": "Washington, D.C."
+}
