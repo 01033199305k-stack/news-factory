@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-10-24-news-kenya-nairobi-eastleigh-building-collapse-2026",
-    "event_ms": 1792835041000,
-    "category": "사고",
+    "slug": "2026-10-24-news-pocheon-junkyard-fire-2026",
+    "event_ms": 1792844400000,
+    "category": "폭발·화재",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 케냐 수도 나이로비에서 고층 건물이 무너져 다수가 매몰됐습니다.\n\n· BBC는 7명이 실종됐다고 전했으며, ABC 뉴스는 다수가 잔해에 갇힌 것으로 우려된다고 보도했습니다.\n· 야간까지 구조 작업이 이어지고 있습니다 (데일리 네이션).\n· 케냐 당국은 불량 건축업자에 대한 처벌 강화를 경고했습니다 (시티즌 디지털·피플 데일리).\n\n출처: BBC·ABC News·Daily Nation·Citizen Digital·People Daily 보도 종합",
-    "topic_tag": "해외사건사고",
+    "text": "[속보] 경기 포천 폐차장 화재 5시간여 만에 완진\n\n· 경기 포천시 소흘읍의 한 폐차장에서 불이 났습니다 (경기일보)\n· 소방 당국은 대응 1단계를 발령하고 5시간여 만에 완진했습니다 (경인일보·연합뉴스·경기일보·YTN)\n· 현장에서는 폭발 소리가 잇따라 발생했습니다 (YTN)\n\n출처: KBS·경인일보·연합뉴스·경기일보·YTN 보도 종합",
+    "topic_tag": "사건사고",
     "hashtags": [
-      "해외사건사고",
-      "사고",
-      "케냐"
+      "사건사고",
+      "폭발화재",
+      "대한민국"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,71 +25,24 @@
     ],
     "done": {
       "threads": {
-        "id": "18055463861800071",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/De4AYJgm_zf",
+        "id": "18152646916545355",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De4K5iPINGZ",
         "kind": "carousel",
-        "at": 1792840649
+        "at": 1792846167
       },
       "instagram": {
-        "id": "17995098792105032",
-        "permalink": "https://www.instagram.com/reel/De4A0U8iFEX/",
+        "id": "18639397297006331",
+        "permalink": "https://www.instagram.com/reel/De4LSYHAc2G/",
         "kind": "reel",
-        "at": 1792840896
+        "at": 1792846386
       },
       "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1792840949
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1792846396
       }
     },
     "attempts": {
-      "tiktok": 2
-    },
-    "video": "video.mp4"
-  },
-  {
-    "slug": "2026-10-24-news-saudi-intercepts-houthi-missile-riyadh-2026",
-    "event_ms": 1792839434000,
-    "category": "국제",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 예멘 후티 반군이 쏜 탄도미사일을 사우디아라비아군이 요격했습니다.\n\n· 미사일은 사우디 리야드를 목표로 발사됐습니다 (인디언 익스프레스·걸프 뉴스).\n· 사우디 주도 연합군은 탄도미사일을 요격해 파괴했다고 공식 발표했습니다 (CGTN).\n\n중동 전역으로 확산하는 무력 충돌을 어떻게 보십니까?\n출처: The Indian Express·CGTN·Gulf News 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "국제",
-      "사우디아라비아"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18128968805511139",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/De4Acrrm37b",
-        "kind": "carousel",
-        "at": 1792840685
-      },
-      "instagram": {
-        "id": "18079759070386786",
-        "permalink": "https://www.instagram.com/reel/De4A5eoFP96/",
-        "kind": "reel",
-        "at": 1792840939
-      },
-      "youtube": {
-        "skipped": "하루 업로드 한도 초과",
-        "at": 1792841066
-      }
-    },
-    "attempts": {
-      "tiktok": 2
+      "tiktok": 1
     },
     "video": "video.mp4"
   }
