@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-25-news-us-southwest-severe-flooding-evacuations-2026",
+  "topic": "미국 서남부 대홍수로 대피령 지붕 위 구조 작전 잇따라",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 01:59 KST",
+  "source": "NPR·The Guardian·Albuquerque Journal 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimwFBVV95cUxQZWFtRDhBcFN1UXc1MnlLUlpBdXBjZU9KS3JEdDQ0cFAxNVNmbEEzZ0tPbkQ4bVQ3S1c5TURuSGZONzNJM3FqVW5za1l1d0NxMlhuNV9qdmV1R2FfcWlCRGJtWU9nVU1VS2pBTWhjWGJGdDRlWk9wTEFrVGlhUmNxcUtxa2tnT3FYbjE4cHFqdUxtOS00QmtSVEZTTQ",
+    "related": [
+      [
+        "'Once in a generation' flood event impacts San Juan County",
+        "KOAT"
+      ],
+      [
+        "Residents along multiple rivers in Archuleta County evacuated due to flooding",
+        "Durango Herald"
+      ],
+      [
+        "‘It really is this bad’: Flooding triggers evacuations, rescues across San Juan County",
+        "Albuquerque Journal"
+      ],
+      [
+        "Severe flooding hits Four Corners region, more expected through the weekend",
+        "NPR"
+      ],
+      [
+        "Severe flooding in US west triggers rooftop rescues and evacuation orders",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "us-southwest-severe-flooding-evacuations-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 서남부 [[대홍수]]로 대피령\n지붕 위 [[구조]] 작전 잇따라",
+      "sub": "샌후안 카운티 등 여러 강 유역에서 대피와 구조가 이어지고 있습니다.",
+      "chips": [
+        {
+          "k": "지역",
+          "v": "미국 서부"
+        }
+      ],
+      "alt": "미국 서남부 대홍수로 대피령 지붕 위 구조 작전 잇따라",
+      "map": {
+        "lat": 36.4755752,
+        "lon": -108.3046555,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n샌후안 카운티",
+      "video_only": true,
+      "map": {
+        "lat": 36.4755752,
+        "lon": -108.3046555,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "샌후안 카운티"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주민 대피",
+          "d": "아출레타 카운티와 샌후안 카운티의 여러 강 인근 주민들이 대피했습니다 (Durango Herald·Albuquerque Journal)."
+        },
+        {
+          "t": "지붕 위 구조",
+          "d": "미국 서부 지역에 닥친 심각한 홍수로 지붕 위에서 구조되는 상황이 발생했습니다 (The Guardian)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 서남부 지역 대홍수 발생 (NPR·가디언)",
+        "주민 대피 및 지붕 위 구조 작전 진행 (알부커키 저널)"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Albuquerque Journal",
+        "Durango Herald",
+        "KOAT",
+        "NPR",
+        "The Guardian",
+        "2026.10.25 03:36 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 서남부 대홍수 발생…지붕 위 구조 작전 잇따라\n\n· 샌후안 카운티와 아출레타 카운티 등 여러 강 유역에서 주민 대피령이 내려졌습니다 (KOAT·Durango Herald)\n· 미국 서부 지역에 홍수가 덮치면서 지붕 위 구조가 이어지고 있습니다 (The Guardian·NPR)\n\n출처: KOAT·Durango Herald·The Guardian 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 서남부 지역에 대홍수가 덮치면서 대피령과 구조 작전이 잇따르고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "샌후안 카운티와 아출레타 카운티 주민들이 대피했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "가디언은 홍수로 인해 지붕 위로 피신한 주민들을 구하는 구조 작업이 이어지고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 서남부 [[대홍수]]로\n지붕 위 [[구조]] 나선 상황은?",
+  "broll": [
+    "flood water street",
+    "rescue helicopter"
+  ],
+  "place_en": "San Juan County, New Mexico, USA"
+}

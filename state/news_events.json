@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "pakistan-imran-khan-protest-march",
-    "topic": "파키스탄 임란 칸 지지자들 수도 이슬라마바드 향해 대규모 행진",
-    "slug": "2026-10-05-news-pakistan-imran-khan-protest-march",
-    "cluster": "CBMisgFBVV95cUxNeXJ5YkVWZXoybDJaUkdHRHc5ZHhKb2pielg1bE92MFhVbVNpNXkwNXpQejR1TzBKSVZKdEFUOE1aMU8zdFRiRVhCUms4T1NyQXc0cEtuZFUxeHBrOUhPdC12UEtubmNZWmhyQUdNYTRjSWwyQ19Ib1lhTVYyUjdQX1Z0bThHYkhiWXJoTkxpM0hYbTdFZG95QURXbEhibGtLRXU3akI4ejM5cUF3cHU2a0xR0gG3AUFVX3lxTE5wQzRrakhURkpmVVZhSHpEekdkazduSmlEUlJ6SnVfRzdZQkxGcDAwZnJfZ3FmZlhSQ1Q5bGFncjhEVlZiYlVaMWdQYWNKRVZYYnk0bFl1RDZQNXg1WlBvMGhIV29NRk0tUnFBSmVsbU5wT25XTl9NNDBXMUdjQXNDWk9vRE0zTmlqaHZUekZZM1ppbWFHXzZMX1NKdmE5Wjc4NDJiSXlTYjJLcERkbFVYeW8xckRXRQ",
-    "badge": "breaking",
-    "at": 1791187911.4042754,
-    "country": "파키스탄",
-    "category": "국제"
-  },
-  {
-    "event_key": "gaza-hamas-commander-killed",
-    "topic": "이스라엘군, 가자지구 공습으로 하마스 북부 여단장 제거",
-    "slug": "2026-10-05-news-gaza-hamas-commander-killed",
-    "cluster": "CBMif0FVX3lxTE03cWdIVE4wcG41S2RKSkJ6YTVkNVJQUF9SQzVxQUhWVHRCa2VHcXRXMHBSczRCRUVRNkdMcEw2c3Q0UlVrQldCc2ZUa2lWa1RaYW5aRnlaVUxQdFZSa0xKbkZDcm1xSURPUG1CZFUxT3BRbVpKWXhYX2hJcERENG8",
-    "badge": "breaking",
-    "at": 1791195172.0499444,
-    "country": "팔레스타인",
-    "category": "국제"
-  },
-  {
     "event_key": "c5_nobel_medicine_prize",
     "topic": "2026 노벨 생리의학상 뇌 과학 연구 과학자 3명 공동 수상",
     "slug": "2026-10-05-news-c5-nobel-medicine-prize",
@@ -2998,5 +2978,25 @@
     "at": 1792858347.1791098,
     "country": "프랑스",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine-drone-russia-chemical-plant-2026",
+    "topic": "우크라이나 드론, 러시아 본토 화학공장 타격 국경에서 2,500km 떨어진 시설 공격",
+    "slug": "2026-10-25-news-ukraine-drone-russia-chemical-plant-2026",
+    "cluster": "CBMirAFBVV95cUxQYlpMQjhFYzZKNlhmNjhBNC01S0NrcmpQTzVlOEpuTEcxVms4di15c0tMdm9HZ3lXOG5pNjFQeDJGUHFnenBYQ1ctUGI5SkFIRGdNR3V1bHpGd2hvamdzakRod0w2aU9hUHhHeXBIZDNiVGpfQUhaUGliaTNpZDh0N3dVUHpBSGtCRTMtLVlDbTBjZHpSeEVYU2tNd0sycE85MHRWOERUNlo5blps",
+    "badge": "breaking",
+    "at": 1792866998.9456525,
+    "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "us-southwest-severe-flooding-evacuations-2026",
+    "topic": "미국 서남부 대홍수로 대피령 지붕 위 구조 작전 잇따라",
+    "slug": "2026-10-25-news-us-southwest-severe-flooding-evacuations-2026",
+    "cluster": "CBMimwFBVV95cUxQZWFtRDhBcFN1UXc1MnlLUlpBdXBjZU9KS3JEdDQ0cFAxNVNmbEEzZ0tPbkQ4bVQ3S1c5TURuSGZONzNJM3FqVW5za1l1d0NxMlhuNV9qdmV1R2FfcWlCRGJtWU9nVU1VS2pBTWhjWGJGdDRlWk9wTEFrVGlhUmNxcUtxa2tnT3FYbjE4cHFqdUxtOS00QmtSVEZTTQ",
+    "badge": "breaking",
+    "at": 1792867022.7910712,
+    "country": "미국",
+    "category": "재난"
   }
 ]

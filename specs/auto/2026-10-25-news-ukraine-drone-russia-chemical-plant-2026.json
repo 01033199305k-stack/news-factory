@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-25-news-ukraine-drone-russia-chemical-plant-2026",
+  "topic": "우크라이나 드론, 러시아 본토 화학공장 타격 국경에서 2,500km 떨어진 시설 공격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 01:48 KST",
+  "source": "The Kyiv Independent·The Moscow Times·Ukrinform 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxQYlpMQjhFYzZKNlhmNjhBNC01S0NrcmpQTzVlOEpuTEcxVms4di15c0tMdm9HZ3lXOG5pNjFQeDJGUHFnenBYQ1ctUGI5SkFIRGdNR3V1bHpGd2hvamdzakRod0w2aU9hUHhHeXBIZDNiVGpfQUhaUGliaTNpZDh0N3dVUHpBSGtCRTMtLVlDbTBjZHpSeEVYU2tNd0sycE85MHRWOERUNlo5blps",
+    "related": [
+      [
+        "Ukrainian forces reportedly strike Russian targets 2,500 kilometers from border",
+        "The Kyiv Independent"
+      ],
+      [
+        "Drones attack chemical plant in Russia's Omsk, 2,500 km from Ukraine – OSINT",
+        "Українська правда"
+      ],
+      [
+        "Drones attack Azot chemical plant in Russia's Perm region – media",
+        "Ukrinform"
+      ],
+      [
+        "Ukrainian Drone Attack Hits Perm Region Chemical Plant",
+        "The Moscow Times"
+      ],
+      [
+        "Ukrainian drones reach industrial center in the Russian city of Omsk, western Siberia",
+        "صوت الإمارات"
+      ]
+    ],
+    "event_key": "ukraine-drone-russia-chemical-plant-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 드론, 러시아 본토 [[화학공장]] 타격\n국경에서 [[2,500km]] 떨어진 시설 공격",
+      "sub": "시베리아 옴스크와 페름 지역의 산업 시설이 공격받았습니다.",
+      "chips": [
+        {
+          "k": "거리",
+          "v": "2,500km"
+        },
+        {
+          "k": "대상",
+          "v": "화학공장"
+        }
+      ],
+      "alt": "우크라이나 드론, 러시아 본토 화학공장 타격 국경에서 2,500km 떨어진 시설 공격",
+      "map": {
+        "lat": 54.991375,
+        "lon": 73.371529,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n옴스크",
+      "video_only": true,
+      "map": {
+        "lat": 54.991375,
+        "lon": 73.371529,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "옴스크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "옴스크 공장",
+          "d": "우크라이나 국경에서 2,500km 떨어진 러시아 옴스크의 화학공장이 드론 공격을 받았습니다."
+        },
+        {
+          "t": "페름 지역",
+          "d": "러시아 페름 지역의 아조트 화학공장 등 산업 시설이 공격당했습니다 (Ukrinform)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 본토 화학공장 드론 피격",
+        "공격 지점 국경에서 2,500km 거리"
+      ],
+      "unconfirmed": [
+        "정확한 시설 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "The Kyiv Independent",
+        "The Moscow Times",
+        "Ukrinform",
+        "Українська правда",
+        "صوت الإمارات",
+        "2026.10.25 03:36 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 드론, 국경서 2,500km 떨어진 러시아 화학공장 타격\n\n· 시베리아 옴스크와 페름 지역의 산업 시설이 공격받았습니다 (The Moscow Times·Ukrinform)\n· 우크라이나 군은 러시아 본토 표적을 타격했다고 전했습니다 (The Kyiv Independent)\n\n출처: The Kyiv Independent·Ukrinform·The Moscow Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 드론이 러시아 국경에서 2,500km 떨어진 화학공장을 타격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "시베리아 옴스크와 페름 지역의 산업 시설이 공격받았습니다.",
+      "card": "map"
+    },
+    {
+      "text": "키이우 인디펜던트는 우크라이나 군이 본토 표적을 타격했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 시설 피해 규모는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 공격이 전선에 어떤 영향을 줄 것으로 보십니까?",
+      "card": "ask",
+      "screen": "어떤 영향 줄까?"
+    }
+  ],
+  "hook": "국경에서 [[2500km]] 떨어진\n러시아 [[화학공장]]에 무슨 일이?",
+  "broll": [
+    "chemical plant industrial",
+    "drone sky"
+  ],
+  "place_en": "Omsk, Russia"
+}
