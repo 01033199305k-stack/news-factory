@@ -23682,5 +23682,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792811488
+  },
+  {
+    "slug": "2026-10-24-news-germany-hitler-teahouse-fire-2026",
+    "event_ms": 1792807440000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 독일 히틀러 옛 별장에서 화재가 발생해 방화 용의자 1명이 체포됐습니다\n\n· 독일의 히틀러 옛 산장 '독수리 요새'에서 불이 났습니다 (The Times of India·Der Spiegel)\n· 방화 혐의로 남성 1명이 체포됐습니다 (The Times of India·blue News)\n\n출처: The Times of India·Der Spiegel·Hindustan Times 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "독일"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18109184174216548",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De3I73ml1xP",
+        "kind": "carousel",
+        "at": 1792811579
+      },
+      "instagram": {
+        "id": "18256480330308331",
+        "permalink": "https://www.instagram.com/reel/De3JKlljsVY/",
+        "kind": "reel",
+        "at": 1792811718
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1792811728
+      },
+      "tiktok": {
+        "id": "7700066887018892545",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700066887018892545",
+        "kind": "video",
+        "at": 1792811850
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792811860
   }
 ]

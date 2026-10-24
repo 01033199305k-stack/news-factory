@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "yemen-government-offensive-2026",
-    "topic": "예멘 정부, 후티 반군 영토 탈환 작전 개시",
-    "slug": "2026-10-04-news-yemen-government-offensive-2026",
-    "cluster": "CBMiXkFVX3lxTE1taGViMkRWRlZBZ3ljTDJ3T1lsTlFzcHN6VGNXOUlDUF9kbXVBM3hQU1BZcEJodkNPdmpueVBvRGtrWjBTRlp0LUZjMkJSRlRIYnpfM2s4eFIxcVVDYVE",
-    "badge": "breaking",
-    "at": 1791133833.5181272,
-    "country": "예멘",
-    "category": "국제"
-  },
-  {
     "event_key": "trump-super-intelligence-force-ai",
     "topic": "트럼프, AI 전담 초지능 부대 창설",
     "slug": "2026-10-05-news-trump-super-intelligence-force-ai",
@@ -2998,5 +2988,15 @@
     "at": 1792809814.8263948,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "germany_hitler_teahouse_fire_2026",
+    "topic": "독일 히틀러 옛 별장서 화재 방화 용의자 1명 체포",
+    "slug": "2026-10-24-news-germany-hitler-teahouse-fire-2026",
+    "cluster": "CBMi8AFBVV95cUxOSnZzbG1mS0tZcE04d0tuQURtVUlWWmlPY25zSEh4RUV6ZU5mbENjdWVScllwcnRhbUoyTVdjZjdRbmlVWGY5SEt5X2d0cVU2VkNaTVpkbDF1ZGZYQ3VWLTFWMFY4U0NZTWFVbGtiLU9ySHB1OUFla1dXaVd4UDFoUUJac25HQTJ3OVBycU5LRThNSHBQY2RLemtwWUFjNnYyS3RXVEthbUdsWU1yVmtzLURwZzJYUnM4SGhoYWJpZEc1R21jaFV0SFdzSkNlWm1ZWGczVE1QakR3b2xKXzE5djFTdlhBTHBha2lCZlQ0Zmg",
+    "badge": "breaking",
+    "at": 1792811536.5697107,
+    "country": "독일",
+    "category": "폭발·화재"
   }
 ]

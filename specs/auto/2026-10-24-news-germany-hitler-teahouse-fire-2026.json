@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-24-news-germany-hitler-teahouse-fire-2026",
+  "topic": "독일 히틀러 옛 별장서 화재 방화 용의자 1명 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 11:04 KST",
+  "source": "Hindustan Times·The Times of India·UA.NEWS 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8AFBVV95cUxOSnZzbG1mS0tZcE04d0tuQURtVUlWWmlPY25zSEh4RUV6ZU5mbENjdWVScllwcnRhbUoyTVdjZjdRbmlVWGY5SEt5X2d0cVU2VkNaTVpkbDF1ZGZYQ3VWLTFWMFY4U0NZTWFVbGtiLU9ySHB1OUFla1dXaVd4UDFoUUJac25HQTJ3OVBycU5LRThNSHBQY2RLemtwWUFjNnYyS3RXVEthbUdsWU1yVmtzLURwZzJYUnM4SGhoYWJpZEc1R21jaFV0SFdzSkNlWm1ZWGczVE1QakR3b2xKXzE5djFTdlhBTHBha2lCZlQ0Zmg",
+    "related": [
+      [
+        "Fire engulfs Hitler’s teahouse ‘Eagle’s Nest’ in Germany; man arrested on arson suspicion",
+        "The Times of India"
+      ],
+      [
+        "Kehlsteinhaus on the Obersalzberg is on fire in Germany — Der Spiegel",
+        "UA.NEWS"
+      ],
+      [
+        "Fire breaks out at Kehlsteinhaus, Hitler's former mountaintop retreat in Germany",
+        "Hindustan Times"
+      ],
+      [
+        "Arrest Following Fire at the Kehlsteinhaus",
+        "blue News"
+      ]
+    ],
+    "event_key": "germany_hitler_teahouse_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "독일 히틀러 옛 별장서 화재\n방화 용의자 [[1명 체포]]",
+      "sub": "독재자 산장 화재",
+      "chips": [
+        {
+          "k": "용의자",
+          "v": "1명 체포"
+        }
+      ],
+      "alt": "독일 히틀러 옛 별장서 화재 방화 용의자 1명 체포",
+      "map": {
+        "lat": 47.6307002,
+        "lon": 13.0417664,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n오베르잘츠베르크",
+      "video_only": true,
+      "map": {
+        "lat": 47.6307002,
+        "lon": 13.0417664,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오베르잘츠베르크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "화재 발생지",
+          "d": "독일의 히틀러 옛 산장 '독수리 요새'에서 불이 났습니다 (The Times of India·Der Spiegel)."
+        },
+        {
+          "t": "경찰 조치",
+          "d": "방화 혐의로 남성 1명이 체포됐습니다 (The Times of India·blue News)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "독일 히틀러 옛 별장 화재",
+        "방화 혐의 남성 1명 체포"
+      ],
+      "unconfirmed": [
+        "정확한 재산 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Hindustan Times",
+        "The Times of India",
+        "UA.NEWS",
+        "blue News",
+        "2026.10.24 12:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 독일 히틀러 옛 별장에서 화재가 발생해 방화 용의자 1명이 체포됐습니다\n\n· 독일의 히틀러 옛 산장 '독수리 요새'에서 불이 났습니다 (The Times of India·Der Spiegel)\n· 방화 혐의로 남성 1명이 체포됐습니다 (The Times of India·blue News)\n\n출처: The Times of India·Der Spiegel·Hindustan Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일의 히틀러 옛 산장에서 화재가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "The Times of India 등 외신은 방화 혐의로 남성 1명이 체포됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인과 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "독일 [[히틀러 별장]]에서\n무슨 일이?",
+  "broll": [
+    "mountaintop retreat building fire",
+    "historic house smoke"
+  ],
+  "place_en": "Obersalzberg, Germany"
+}
