@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "flydubai-hijacking-attempt-israel-2026",
-    "topic": "플라이두바이 여객기 납치 시도 발생",
-    "slug": "2026-10-05-news-flydubai-hijacking-attempt-israel-2026",
-    "cluster": "CBMijwFBVV95cUxQeHlVbENWcXJoYlFOV1F2dC1WV1NERnRKeEI0OWliWW9jaUowMnZYMkNHMFEtajZuYUtMT1RJVVVzakhCTmlPV001c292NnBIbXZEd091Qk9PYWtPVkhuTU1mLTVrS1ItQ3JBcWYtTnlRYlI2eTVLZkFfSDFEb1pSNlYycnVGcXRWeWdhWDNhQQ",
-    "badge": "breaking",
-    "at": 1791176915.6156204,
-    "country": "이스라엘",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "us-nvidia-gpu-smuggling-china-arrest-2026",
     "topic": "3억 달러 엔비디아 칩 밀수 혐의 기소",
     "slug": "2026-10-05-news-us-nvidia-gpu-smuggling-china-arrest-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792846113.7625685,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "balochistan-chagai-bla-clash-2026",
+    "topic": "발루치 반군 무장 교전 파키스탄군 등 다수 사망",
+    "slug": "2026-10-24-news-balochistan-chagai-bla-clash-2026",
+    "cluster": "CBMi6gFBVV95cUxQY2hsUTRfUzRLMmRQS0VwUVNFS19mM2JlTjZGYU04X1F1VmNTVS1hdjNUdEQ4aG40TktFeFdNLWRsZnJ2RkRKNkxZNGNnS2VDeG4zTXYyangxS1Zmb2w0Tzg5VHViNVNSd0VNRWZCc2M0ckpONE9hVzJLTzAyLUJka0FnUkoyWkRRX2V6SlMyMDhxNlljci1meTJUclBkTGo3eFZkMU45Q0FKczN0bUwxQ2ZZcjdNdURhU1hSM3RHQk10U0NGS3dUTDlEb29ySFVuWHV3RjRPekFQdmRvcXdFVElSSFlsYmQ5SGc",
+    "badge": "breaking",
+    "at": 1792847407.70238,
+    "country": "파키스탄",
+    "category": "총격·테러"
   }
 ]

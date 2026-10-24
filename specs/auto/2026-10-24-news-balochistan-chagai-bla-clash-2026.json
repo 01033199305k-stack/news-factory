@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-24-news-balochistan-chagai-bla-clash-2026",
+  "topic": "발루치 반군 무장 교전 파키스탄군 등 다수 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 21:23 KST",
+  "source": "The Times of India·Balochwarna News·IBG News 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMi6gFBVV95cUxQY2hsUTRfUzRLMmRQS0VwUVNFS19mM2JlTjZGYU04X1F1VmNTVS1hdjNUdEQ4aG40TktFeFdNLWRsZnJ2RkRKNkxZNGNnS2VDeG4zTXYyangxS1Zmb2w0Tzg5VHViNVNSd0VNRWZCc2M0ckpONE9hVzJLTzAyLUJka0FnUkoyWkRRX2V6SlMyMDhxNlljci1meTJUclBkTGo3eFZkMU45Q0FKczN0bUwxQ2ZZcjdNdURhU1hSM3RHQk10U0NGS3dUTDlEb29ySFVuWHV3RjRPekFQdmRvcXdFVElSSFlsYmQ5SGc",
+    "related": [
+      [
+        "'Pak defeated, cannot fight us': Baloch rebels launch fresh strike; several killed",
+        "The Times of India"
+      ],
+      [
+        "Balochistan: 10 Pakistani Military Personnel and two BLA fighters Killed in Chagai Clash",
+        "Balochwarna News"
+      ],
+      [
+        "Pakistan: BLA claims killing 14 Pakistani military personnel in Balochistan",
+        "thehawk.in"
+      ],
+      [
+        "BLA Reports Deaths of Two Members Following Alleged Clash in Balochistan’s Chagai District during Freedom struggle",
+        "IBG News"
+      ]
+    ],
+    "event_key": "balochistan-chagai-bla-clash-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "발루치 반군 무장 교전\n파키스탄군 등 [[다수 사망]]",
+      "sub": "파키스탄 발루치스탄 차가이 지역서 교전 발생",
+      "chips": [
+        {
+          "k": "발생 지역",
+          "v": "파키스탄 차가이"
+        }
+      ],
+      "alt": "발루치 반군 무장 교전 파키스탄군 등 다수 사망",
+      "map": {
+        "lat": 28.8862314,
+        "lon": 63.441521,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "파키스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파키스탄\n발루치스탄 차가이",
+      "video_only": true,
+      "map": {
+        "lat": 28.8862314,
+        "lon": 63.441521,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "발루치스탄 차가이"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "발루치 반군 공격",
+          "d": "발루치 반군이 새 공격을 감행해 여러 명이 숨졌습니다 (타임스 오브 인디아)."
+        },
+        {
+          "t": "사망자 발생",
+          "d": "파키스탄 군인과 반군 대원이 교전 과정에서 숨졌습니다 (발로치와르나 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "발루치스탄 차가이 교전",
+        "파키스탄군·반군 교전"
+      ],
+      "unconfirmed": [
+        "정확한 사망자 수 (매체별 집계 차이 있음)",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Balochwarna News",
+        "IBG News",
+        "The Times of India",
+        "thehawk.in",
+        "2026.10.24 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파키스탄 발루치스탄서 무장 교전으로 다수 사망\n\n· 발루치 반군이 새 공격을 감행해 여러 명이 숨졌습니다 (타임스 오브 인디아)\n· 교전 과정에서 파키스탄 군인과 반군 대원이 숨졌습니다 (발로치와르나 뉴스)\n\n출처: 타임스 오브 인디아·발로치와르나 뉴스·더 호크 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파키스탄 발루치스탄에서 무장 교전이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "타임스 오브 인디아는 발루치 반군이 새 공격을 감행해 여러 명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "교전으로 파키스탄 군인과 반군 대원이 숨진 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망자 수는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "파키스탄서\n[[무장 교전]] 발생",
+  "broll": [
+    "military truck road",
+    "desert patrol vehicle"
+  ],
+  "place_en": "Chagai, Pakistan"
+}
