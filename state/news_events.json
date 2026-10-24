@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "c5_nobel_medicine_prize",
-    "topic": "2026 노벨 생리의학상 뇌 과학 연구 과학자 3명 공동 수상",
-    "slug": "2026-10-05-news-c5-nobel-medicine-prize",
-    "cluster": "CBMiXkFVX3lxTE1TcTFXcDJYSm5EQ3ZlSHBCLTRXaXRzZUM5TDZRREZiaHdVZXBLdThkMG9hQ0VfdmZtMUhoS09aYXMydjB5aWxRT19RaS1wUDlqRUVSNjdfM25saHhyNXc",
-    "badge": "brief",
-    "at": 1791202143.1084552,
-    "country": "스웨덴",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "russia-tu95-bomber-crash-2026",
     "topic": "러시아 Tu-95 폭격기 추락 참사",
     "slug": "2026-10-05-news-russia-tu95-bomber-crash-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792867022.7910712,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "india_airlines_saudi_flight_suspension_2026",
+    "topic": "인도 항공사들, 사우디 노선 운항 중단 연장",
+    "slug": "2026-10-25-news-india-airlines-saudi-flight-suspension-2026",
+    "cluster": "CBMi-wFBVV95cUxOeU9DYm1kN0lJQmM2NEtKQnFuOHdyWmVFMy1vZ0FsQmVwMnp6bVRoWlRJYkRuM05yYUhLYnRrcXM4Q20zS3BuWS1JdUpBOFJOTVNycmZDelM1Q0ZBVjRSUW9uVkRVSE5rNzFFUTB5cENZNlB5MXB3djJleGN4LUdjckk1WV9WeWV4d1RZYWVDS0gxN2hqb190cWZRVDQtMnIwS1Q3dS1rdWw0QkUxV1JvRFVSeVp5U0p6eDNqeWRIOWgxdjc1V0FvaTE0dEQwTHloWUt2Z2tqaVZfYlhvckxPdEc5QUl2TmNsRGcyQm1zRGEtd0U5TWRBc2pzTQ",
+    "badge": "breaking",
+    "at": 1792870471.5347636,
+    "country": "사우디아라비아",
+    "category": "경제·과학"
   }
 ]

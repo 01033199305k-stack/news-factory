@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-25-news-india-airlines-saudi-flight-suspension-2026",
+  "topic": "인도 항공사들, 사우디 노선 운항 중단 연장",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 02:53 KST",
+  "source": "NDTV·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi-wFBVV95cUxOeU9DYm1kN0lJQmM2NEtKQnFuOHdyWmVFMy1vZ0FsQmVwMnp6bVRoWlRJYkRuM05yYUhLYnRrcXM4Q20zS3BuWS1JdUpBOFJOTVNycmZDelM1Q0ZBVjRSUW9uVkRVSE5rNzFFUTB5cENZNlB5MXB3djJleGN4LUdjckk1WV9WeWV4d1RZYWVDS0gxN2hqb190cWZRVDQtMnIwS1Q3dS1rdWw0QkUxV1JvRFVSeVp5U0p6eDNqeWRIOWgxdjc1V0FvaTE0dEQwTHloWUt2Z2tqaVZfYlhvckxPdEc5QUl2TmNsRGcyQm1zRGEtd0U5TWRBc2pzTQ",
+    "related": [
+      [
+        "Riyadh, Dammam, Jeddah flights hit: Air India, IndiGo extend suspensions, Akasa follows suit",
+        "The Times of India"
+      ],
+      [
+        "Air India extends Saudi flight cancellations to November 7, IndiGo and Akasa also suspend services",
+        "Telegraph India"
+      ],
+      [
+        "IndiGo extends cancellation of Saudi flights as regional tensions escalate: Indian mission",
+        "The Hindu"
+      ],
+      [
+        "IndiGo Extends Saudi Flight Cancellations Till October 27 Amid Houthi Attacks",
+        "NDTV"
+      ],
+      [
+        "Akasa Air Extends Saudi Flight Suspensions Amid Evolving Security Situation",
+        "Deccan Chronicle"
+      ]
+    ],
+    "event_key": "india_airlines_saudi_flight_suspension_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인도 항공사들,\n[[사우디]] 노선 운항 중단 연장",
+      "sub": "지역 긴장 고조와 후티 공격 여파",
+      "chips": [
+        {
+          "k": "운항 중단",
+          "v": "연장"
+        }
+      ],
+      "alt": "인도 항공사들, 사우디 노선 운항 중단 연장",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대상 항공사",
+          "d": "에어 인디아와 인디고 등이 사우디행 항공편 운항 중단을 연장했다고 더 타임스 오브 인도 등이 보도했습니다."
+        },
+        {
+          "t": "배경",
+          "d": "역내 긴장 고조와 안보 상황을 반영한 조치라고 더 Hindu 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 노선 운항 중단 연장 (더 타임스 오브 인도·더 Hindu)",
+        "에어 인디아 및 인디고 등 참여"
+      ],
+      "unconfirmed": [
+        "정확한 운항 재개 시점",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Deccan Chronicle",
+        "NDTV",
+        "Telegraph India",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.25 04:34 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도 항공사들, 사우디 노선 운항 중단 연장\n\n· 에어 인디아와 인디고 등이 사우디행 항공편 운항 중단을 연장했습니다 (더 타임스 오브 인도·더 Hindu)\n· 역내 긴장 고조와 안보 상황을 반영한 조치라고 매체들은 전했습니다 (더 Hindu)\n\n이번 항공편 운항 중단 조치, 어떻게 보십니까?\n\n출처: 더 타임스 오브 인도·The Telegraph·더 Hindu·NDTV·Deccan Chronicle 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도 항공사들이 사우디아라비아 노선 운항 중단을 연장했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 조치는 역내 긴장 고조와 안보 상황에 따른 것입니다.",
+      "card": "points"
+    },
+    {
+      "text": "운항이 언제 재개될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "인도 항공사들이\n[[사우디]] 노선을\n중단한 이유는?",
+  "broll": [
+    "airplane tarmac airport",
+    "flight departure board"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}
