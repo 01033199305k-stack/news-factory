@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "ukraine-first-ballistic-missile-combat-use-2026",
-    "topic": "우크라, 자체 개발 탄도미사일 첫 실전 사용",
-    "slug": "2026-10-05-news-ukraine-first-ballistic-missile-combat-use-2026",
-    "cluster": "CBMiS0FVX3lxTFBfd3hQcnNtTUR1RUFUMFJ6ZkFRczJvVHhDclFaQVJjMFR5Ym1faU9RQlQ0Vnc2a3otMnR2T1FoR1Iwd1RVTWk3RGpOcw",
-    "badge": "breaking",
-    "at": 1791155392.0053387,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
-    "event_key": "france_school_closures_protests",
-    "topic": "프랑스, 학생 시위 확산에 학교 최대 500곳 폐쇄",
-    "slug": "2026-10-05-news-france-school-closures-protests",
-    "cluster": "CBMirAFBVV95cUxNM1NzanU2MkFPdzJUdUhiRGljSzg3b3puQkVyVzVzeTVTQXJUeVFUM0tzR25xM0lxMU9NTi1zR011aE9zWVhLNFl0MlVVUVd0NGxuSDdPdWdBYk1QZ1NCNWxpejZpcUJmU00tc2tBX3F6ejJNMDRENi0zXy1wemREQ291NG5RVUE2bFpHdUE2dVZNNkpmT1FkWFNZS2drd1ZmR0FVZ3A3bGlGMTBf0gGyAUFVX3lxTE0wdXlva2ZjTHpRcUNVeFBhRVFDb3JuY1Z0QmRCRmxyS1lOUXJ3T2hDTExXSy1BaUR5TV9OTlZfUWgzNG1waXl1WHZhQ296cDdSd3JsZGpUSGw0TUhaR2w3QmF4cE9RbUJ6RE1VUG9adHoyMGF3Qkg3RXRSRkItS24zdjhHMm9qd05uSmVZeVhIM0l6bWVDSG1scFhJQWtrQTE3aUgxZWdEU2h6Tk1ESS0tQmc",
-    "badge": "breaking",
-    "at": 1791166015.0929139,
-    "country": "프랑스",
-    "category": "국제"
-  },
-  {
     "event_key": "hormuz-strait-three-oil-tankers-hit-2026",
     "topic": "호르무즈 해협서 유조선 3척 피격",
     "slug": "2026-10-05-news-hormuz-strait-three-oil-tankers-hit-2026",
@@ -2998,5 +2978,25 @@
     "at": 1792832969.790265,
     "country": "필리핀",
     "category": "사고"
+  },
+  {
+    "event_key": "kenya_nairobi_eastleigh_building_collapse_2026",
+    "topic": "케냐 수도서 고층 건물 붕괴 다수 매몰·실종 우려",
+    "slug": "2026-10-24-news-kenya-nairobi-eastleigh-building-collapse-2026",
+    "cluster": "CBMiXkFVX3lxTFBiMTVPUUh5VTFsMGhkcURXRVZ3SVdrdXk1N1RtZ0d4UDVVbDZoel9oanhJYlBqaC1ja0NvbUlZMzdsQ0RoZl81Ni1xcW9nbzBzWW9XT1FuV1pWeTF5ekE",
+    "badge": "breaking",
+    "at": 1792840460.2375987,
+    "country": "케냐",
+    "category": "사고"
+  },
+  {
+    "event_key": "saudi_intercepts_houthi_missile_riyadh_2026",
+    "topic": "사우디 탄도미사일 요격 후티, 리야드 겨냥",
+    "slug": "2026-10-24-news-saudi-intercepts-houthi-missile-riyadh-2026",
+    "cluster": "CBMi6gFBVV95cUxOdFRoenFxUVZOOGh1SjhKMTFWQl9SMks5STh2SVBMYmxOeFRIVHMxN3JpdkotQ0RrOFc3bWdvWjRDMEpxVUxEalhFTEJPRl9vZ2Q3U1RJMUx4WWlaeE5Ob29IMzg3Y3lKYk5FOE5oYVV2dElYRTZLTTBIMTE5MFlRSnhiMUtYM1BMbXc0bzFHenBvbHBZeHhyQ01EbXJqdHpPbTlRSTNTd2FyMVotVzdiOXd1S3JRUS1zWHJfTGRNYmk4ZVhqdEUzbE5jUFN6QXBGR1RPN1EwM0thMUNKM2hTWE93dVhUTnZmTFHSAfABQVVfeXFMTWprUTNQQ3pYUWtvcXFuenpHZVM2UTNVbmZwYVdYRkpQUWFHSTRzTzBkSHFqOUY0OHpibVQzM2tSeUtHd3M4MUJfd0d5OWVLTmw1YmZLaWFlR21tRzdTdk9lRmZid1E4QTlWTnRaMFRiY2hGLWZlN1ExMGZxTDNrcUE5NV9HVS0tdThROWhkZUNBOFNyb3JZN2t6MHcxcXFYbmlQYWlsb09pLWJpZm1Kdk5UU2Y4a3RHcnRpbm9SRVJnWG9TQVNzdEFvbUlreElzRGVZaDUzZTV5Q2syYmt5R2RxZ0EzbTNsV1hJR3h1bDAz",
+    "badge": "breaking",
+    "at": 1792840596.6209471,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]

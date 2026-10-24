@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-24-news-kenya-nairobi-eastleigh-building-collapse-2026",
+  "topic": "케냐 수도서 고층 건물 붕괴 다수 매몰·실종 우려",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 18:44 KST",
+  "source": "ABC News·BBC·Citizen Digital 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBiMTVPUUh5VTFsMGhkcURXRVZ3SVdrdXk1N1RtZ0d4UDVVbDZoel9oanhJYlBqaC1ja0NvbUlZMzdsQ0RoZl81Ni1xcW9nbzBzWW9XT1FuV1pWeTF5ekE",
+    "related": [
+      [
+        "Seven missing after multi-storey building collapses in Kenya's capital",
+        "BBC"
+      ],
+      [
+        "Many feared trapped as a tall building collapses in Kenya",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Eastleigh building collapse: Rescue operations continue into the night",
+        "Daily Nation"
+      ],
+      [
+        "Sakaja seeks tougher penalties for rogue developers after Eastleigh building collapse",
+        "Citizen Digital"
+      ],
+      [
+        "Govt issues fresh warning to developers after Eastleigh building collapse",
+        "People Daily"
+      ]
+    ],
+    "event_key": "kenya_nairobi_eastleigh_building_collapse_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "케냐 수도서 [[고층 건물]] 붕괴\n다수 매몰·실종 우려",
+      "sub": "나이로비 이스틀리 지역서 야간 수색 작업 지속",
+      "chips": [],
+      "alt": "케냐 수도서 고층 건물 붕괴 다수 매몰·실종 우려",
+      "map": {
+        "lat": -1.2743401,
+        "lon": 36.8489576,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "케냐"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "케냐\n나이로비",
+      "video_only": true,
+      "map": {
+        "lat": -1.2743401,
+        "lon": 36.8489576,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "나이로비"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "다수 매몰·실종 추정",
+          "d": "BBC는 7명이 실종됐다고 전했고 ABC 뉴스는 다수가 잔해에 갇힌 것으로 우려된다고 보도했습니다."
+        },
+        {
+          "t": "야간 수색 작업 진행",
+          "d": "야간까지 구조 작업이 계속 이어지고 있습니다 (데일리 네이션)."
+        },
+        {
+          "t": "부실 개발 처벌 경고",
+          "d": "당국은 불량 건축업자에 대한 처벌 강화와 경고에 나섰습니다 (시티즌 디지털·피플 데일리)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "케냐 나이로비 고층 건물 붕괴",
+        "현장 수색 및 구조 작업 진행"
+      ],
+      "unconfirmed": [
+        "정확한 매몰·사상자 규모 (BBC 7명 실종 보도)",
+        "건물 붕괴 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "Citizen Digital",
+        "Daily Nation",
+        "People Daily",
+        "2026.10.24 20:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 케냐 수도 나이로비에서 고층 건물이 무너져 다수가 매몰됐습니다.\n\n· BBC는 7명이 실종됐다고 전했으며, ABC 뉴스는 다수가 잔해에 갇힌 것으로 우려된다고 보도했습니다.\n· 야간까지 구조 작업이 이어지고 있습니다 (데일리 네이션).\n· 케냐 당국은 불량 건축업자에 대한 처벌 강화를 경고했습니다 (시티즌 디지털·피플 데일리).\n\n출처: BBC·ABC News·Daily Nation·Citizen Digital·People Daily 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "케냐 수도 나이로비에서 고층 건물이 무너져 다수가 매몰됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 나이로비 이스틀리 지역에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "BBC는 7명이 실종됐다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 붕괴 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "케냐 수도 [[고층 건물]]\n무너져 내린 현장",
+  "broll": [
+    "collapsed building rubble",
+    "rescue workers night"
+  ],
+  "place_en": "Eastleigh, Nairobi, Kenya"
+}

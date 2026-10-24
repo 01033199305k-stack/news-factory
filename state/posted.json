@@ -23841,5 +23841,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792827632
+  },
+  {
+    "slug": "2026-10-24-news-philippine-air-force-planes-crash-fernando-2026",
+    "event_ms": 1792827430000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 필리핀서 공군 훈련기 2대 공중 충돌… 조종사 4명 사망\n\n· 페르난도 공군기지에서 훈련 중이던 군용기 두 대가 추락했습니다. (Asianet Newsable 등)\n· 공중 충돌 사고로 조종사 4명이 숨졌습니다. (외신 종합)\n· 충돌 경위와 구체적인 사고 원인은 아직 알려지지 않았습니다.\n\n출처: NDTV·인디아투데이·이코노믹타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "필리핀"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18001444742813709",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De3x0jJlSHc",
+        "kind": "carousel",
+        "at": 1792833017
+      },
+      "instagram": {
+        "id": "17918393475456690",
+        "permalink": "https://www.instagram.com/reel/De3yJw5jgL0/",
+        "kind": "reel",
+        "at": 1792833208
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792833218
+      },
+      "tiktok": {
+        "id": "7700193772407196949",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700193772407196949",
+        "kind": "video",
+        "at": 1792841188
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792841198
   }
 ]
