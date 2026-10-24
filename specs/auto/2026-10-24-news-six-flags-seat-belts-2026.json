@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-24-news-six-flags-seat-belts-2026",
+  "topic": "미국 놀이공원 롤러코스터에 안전벨트 추가 설치",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.24 23:56 KST",
+  "source": "CNN·The New York Times·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE55bEZxWjcza1ZzbFlKSmFoWm5GaHVMX0VLNmIyV0trOVJIZEZnR2gyMFdVdWlhZzQyS2l2aTROM3laN0JYNm5iRkRGRzVaMFlZekxyLXFFTXl0TTRzX3lZX29zWmtFTUFKeXZDb2ktWkpNRFZOYlV3",
+    "related": [
+      [
+        "Six Flags signals Goliath roller coaster will reopen — with seat belts — after fatal fall at Georgia park",
+        "CNN"
+      ],
+      [
+        "Six Flags to Add Seat Belts to Rides Following Death",
+        "WSJ"
+      ],
+      [
+        "Six Flags announces major safety change to Goliath coaster, others",
+        "WSB-TV"
+      ],
+      [
+        "Higher, Faster, Gnarlier: Have Roller Coasters Become Too Extreme?",
+        "The New York Times"
+      ],
+      [
+        "Six Flags Over Georgia announces new safety measures following deadly accident",
+        "FOX 5 Atlanta"
+      ]
+    ],
+    "event_key": "six_flags_seat_belts_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 놀이공원 롤러코스터에\n[[안전벨트]] 추가 설치",
+      "sub": "조지아주 공원 등 조치",
+      "chips": [
+        {
+          "k": "놀이기구",
+          "v": "롤러코스터"
+        }
+      ],
+      "alt": "미국 놀이공원 롤러코스터에 안전벨트 추가 설치",
+      "map": {
+        "lat": 33.7544657,
+        "lon": -84.3898151,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n조지아주",
+      "video_only": true,
+      "map": {
+        "lat": 33.7544657,
+        "lon": -84.3898151,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "조지아주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "안전 강화",
+          "d": "식스 플래그는 놀이기구에 안전벨트를 추가하기로 했습니다 (CNN·WSJ)."
+        },
+        {
+          "t": "대상 기구",
+          "d": "골라이트 롤러코스터와 다른 기구들이 대상입니다 (WSB-TV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "안전벨트 추가 설치",
+        "식스 플래그 공원"
+      ],
+      "unconfirmed": [
+        "정확한 적용 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "FOX 5 Atlanta",
+        "The New York Times",
+        "WSB-TV",
+        "WSJ",
+        "2026.10.25 00:41 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 놀이공원 롤러코스터에 안전벨트 추가 설치\n\n· 식스 플래그는 놀이기구에 안전벨트를 추가하기로 했습니다 (CNN·WSJ)\n· 골라이트 롤러코스터와 다른 기구들이 대상입니다 (WSB-TV)\n\n출처: CNN·WSJ·WSB-TV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 놀이공원의 롤러코스터에 안전벨트가 추가로 설치됩니다.",
+      "card": "cover"
+    },
+    {
+      "text": "조지아주 식스 플래그 공원은 골라이트 놀이기구 등에 새로운 안전 조치를 적용한다고 전했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "미국 놀이공원에서\n[[안전벨트]]를?",
+  "broll": [
+    "roller coaster track",
+    "amusement park ride"
+  ],
+  "place_en": "Atlanta, Georgia, USA"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-nvidia-gpu-smuggling-china-arrest-2026",
-    "topic": "3억 달러 엔비디아 칩 밀수 혐의 기소",
-    "slug": "2026-10-05-news-us-nvidia-gpu-smuggling-china-arrest-2026",
-    "cluster": "CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn",
-    "badge": "breaking",
-    "at": 1791176927.0601623,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "brazil-presidential-election-runoff-2026",
     "topic": "브라질 대선 결선행 룰라·보우소나루 격돌",
     "slug": "2026-10-05-news-brazil-presidential-election-runoff-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792847407.70238,
     "country": "파키스탄",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "six_flags_seat_belts_2026",
+    "topic": "미국 놀이공원 롤러코스터에 안전벨트 추가 설치",
+    "slug": "2026-10-24-news-six-flags-seat-belts-2026",
+    "cluster": "CBMid0FVX3lxTE55bEZxWjcza1ZzbFlKSmFoWm5GaHVMX0VLNmIyV0trOVJIZEZnR2gyMFdVdWlhZzQyS2l2aTROM3laN0JYNm5iRkRGRzVaMFlZekxyLXFFTXl0TTRzX3lZX29zWmtFTUFKeXZDb2ktWkpNRFZOYlV3",
+    "badge": "breaking",
+    "at": 1792856497.6959102,
+    "country": "미국",
+    "category": "사고"
   }
 ]
