@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "congo_ebola_outbreak_4000_deaths",
-    "topic": "콩고 에볼라 사망자 4000명 돌파 역대 최단 기간 확산세 기록",
-    "slug": "2026-10-06-news-congo-ebola-outbreak-4000-deaths",
-    "cluster": "CBMihAFBVV95cUxPb1E2QXFfdHh5YVFudTdTUnowN2F0RjBZQVNINDNEaFQ5TWtKc29JdXpZTjhsd1NMMXpwX0t6ajg2WUFYMEpLWVItZjJyQjJYNUZJSDVZVmFISEtXdldqamt3WExucXUxUUNvZkp6emw2bXN2SWhibHpjcGNRZEk4bDF4XzQ",
-    "badge": "breaking",
-    "at": 1791231248.1119592,
-    "country": "콩고민주공화국",
-    "category": "재난"
-  },
-  {
     "event_key": "ukraine-kharkiv-russian-bomb-attack-oct-2026",
     "topic": "우크라이나 하르키우 공습 6명 사망 주거 지역 파괴",
     "slug": "2026-10-06-news-ukraine-kharkiv-russian-bomb-attack-oct-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792890946.7464192,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "audi_us_factory_georgia_2026",
+    "topic": "트럼프 “아우디, 미국 조지아주에 첫 공장 설립할 것”",
+    "slug": "2026-10-25-news-audi-us-factory-georgia-2026",
+    "cluster": "CBMitgFBVV95cUxPWGt1SlVnaVJySEY0YnFSWkdhTjNSeWtxRGxTXzk3MWUtRjVIT0FFVmd5WUhjOENRUTlOMGxpOF9mY2Q4Y1c0V3FaSzJQRGxyVmEzc0J3RElpSHhzRzRTTjhyOWQySWZuWHFsUTEzdTBJcE5QRjFMdFFYXzJlUzlnQ3FDdE1TZXlxQlFFU2xfRkhEdDNhM2pobGZIU3NDOWp0MGFabFBYeWIyd3pubE1KbWZ0ems5dw",
+    "badge": "breaking",
+    "at": 1792893991.8241787,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

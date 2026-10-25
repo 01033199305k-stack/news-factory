@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-25-news-audi-us-factory-georgia-2026",
+  "topic": "트럼프 “아우디, 미국 조지아주에 첫 공장 설립할 것”",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 10:04 KST",
+  "source": "Bloomberg.com·Reuters·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxPWGt1SlVnaVJySEY0YnFSWkdhTjNSeWtxRGxTXzk3MWUtRjVIT0FFVmd5WUhjOENRUTlOMGxpOF9mY2Q4Y1c0V3FaSzJQRGxyVmEzc0J3RElpSHhzRzRTTjhyOWQySWZuWHFsUTEzdTBJcE5QRjFMdFFYXzJlUzlnQ3FDdE1TZXlxQlFFU2xfRkhEdDNhM2pobGZIU3NDOWp0MGFabFBYeWIyd3pubE1KbWZ0ems5dw",
+    "related": [
+      [
+        "Trump Announces Audi’s First-Ever U.S. Factory in Georgia as Tariffs Bite",
+        "WSJ"
+      ],
+      [
+        "Trump set to announce Audi plan to build US factory in Georgia, source says",
+        "Reuters"
+      ],
+      [
+        "Audi adding 4,500 jobs in Central Georgia with new manufacturing plant",
+        "13WMAZ"
+      ],
+      [
+        "Audi to build Georgia factory near Macon",
+        "AJC.com"
+      ],
+      [
+        "Trump Defends Tariffs at Rally as He Says Audi to Build US Plant",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "audi_us_factory_georgia_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "트럼프 “아우디, 미국 조지아주에\n[[첫 공장]] 설립할 것”",
+      "sub": "관세 압박 속 조지아주에 신규 제조 공장 건립 추진",
+      "chips": [
+        {
+          "k": "신규 고용",
+          "v": "4,500명"
+        }
+      ],
+      "alt": "트럼프 “아우디, 미국 조지아주에 첫 공장 설립할 것”",
+      "map": {
+        "lat": 32.3293809,
+        "lon": -83.1137366,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n조지아주",
+      "video_only": true,
+      "map": {
+        "lat": 32.3293809,
+        "lon": -83.1137366,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "조지아주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "신규 일자리 창출",
+          "d": "아우디는 조지아주 중부 지역에 4,500개의 일자리를 추가할 예정이라고 WSJ 등 외신이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "아우디 미국 조지아주 공장 설립",
+        "신규 일자리 4,500개 창출"
+      ],
+      "unconfirmed": [
+        "정확한 투자 총액",
+        "공장 가동 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "13WMAZ",
+        "AJC.com",
+        "Bloomberg.com",
+        "Reuters",
+        "WSJ",
+        "2026.10.25 11:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 트럼프 “아우디, 미국 조지아주에 첫 공장 설립할 것”\n\n· 관세 압박 속에 조지아주에 신규 제조 공장 건립이 추진됩니다 (WSJ·로이터)\n· 이번 공장 설립으로 중부 지역에 4,500개의 신규 일자리가 창출될 예정입니다 (WSJ·13WMAZ)\n\n어떻게 보십니까?\n출처: WSJ·로이터·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 조지아주에 아우디의 첫 현지 공장이 들어섭니다.",
+      "card": "cover"
+    },
+    {
+      "text": "블룸버그 통신은 관세 압박 속에서 신규 공장 건립이 추진된다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 공장 설립으로 4,500개의 새로운 일자리가 만들어질 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 투자 총액은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 해외 기업의 미국 투자 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 조지아주에\n들어서는 [[아우디 첫 공장]]",
+  "broll": [
+    "car manufacturing plant",
+    "industrial factory exterior"
+  ],
+  "place_en": "Georgia, United States"
+}
