@@ -24870,5 +24870,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792909468
+  },
+  {
+    "slug": "2026-10-25-news-france-shamonda-virus-first-human-death-2026",
+    "event_ms": 1792914540000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 프랑스서 가축 바이러스 샤몬다로 첫 인체 감염 사망 1명이 발생했습니다.\n\n· 프랑스에서 소 감염병인 샤몬다 바이러스 환자가 숨졌다고 전해졌습니다 (연합뉴스·동아일보)\n· 가축 바이러스가 사람에게 감염돼 사망에 이른 첫 사례입니다 (서울신문·동아사이언스)\n\n출처: 연합뉴스·동아일보·서울신문 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "기타 사건",
+      "프랑스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18211831909367239",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De6QkNeG_XC",
+        "kind": "carousel",
+        "at": 1792916245
+      },
+      "instagram": {
+        "id": "18045985565826906",
+        "permalink": "https://www.instagram.com/reel/De6Q1Nrj9hA/",
+        "kind": "reel",
+        "at": 1792916402
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792916412
+      },
+      "tiktok": {
+        "id": "7700517396523617556",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700517396523617556",
+        "kind": "video",
+        "at": 1792916534
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792916544
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "jeju-chagwido-fishing-boat-capsule-2026",
-    "topic": "제주 차귀도 해상 어선 전복 선장 등 2명 실종",
-    "slug": "2026-10-06-news-jeju-chagwido-fishing-boat-capsule-2026",
-    "cluster": "CBMidkFVX3lxTE1QamJTcHVWeldPMlN0eTE2d3lIZG8zMlBWM0VuVGdtbHFkT1lVSDd5WEk2cU1Qb2s2QVdqalR6R2VTUUZuV2kxYUlxLTNmUVZUaTZCcEVqdnhkd1kxeGc2Tm9qcjhIbEdZUTMyOEVmSlhhQUhaTnfSAWZBVV95cUxOdDJ0NjFPSmROSVdTVUpOcDV6SDBPZW91SjhVMWFENTFsN1NmY3BPQU9sc1BTUW5DLV9NX0M5SnU0Z01qNU9LRzhYLU1qcTVDYzBUZ2ZCQ0g1LV81TnpSUnoyRWRKVWc",
-    "badge": "breaking",
-    "at": 1791238156.1010563,
-    "country": "대한민국",
-    "category": "사고"
-  },
-  {
     "event_key": "nigeria-military-aircraft-crash-2026",
     "topic": "나이지리아서 군용기 추락… 32명 사망 또는 구조 작업 중",
     "slug": "2026-10-06-news-nigeria-military-aircraft-crash-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792909061.1714056,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "france_shamonda_virus_first_human_death_2026",
+    "topic": "프랑스서 가축 바이러스 샤몬다 첫 인체 사망",
+    "slug": "2026-10-25-news-france-shamonda-virus-first-human-death-2026",
+    "cluster": "CBMiVEFVX3lxTE9wS1ZTUTE4YzcxaFNMMTJxaGJLU1FkXzc0aGRDcHZHQnoxcS1KRjZ2NFBOZE9BRjFLZ3h4Y1phSXU4UmdYdHhjT1ZNRzNFbG9CUjZYSA",
+    "badge": "breaking",
+    "at": 1792916196.1224957,
+    "country": "프랑스",
+    "category": "기타 사건"
   }
 ]
