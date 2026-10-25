@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-26-news-brazil-election-2026",
+  "topic": "브라질 대선 결선 투표 최고법원 투표 시간 연장",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 04:00 KST",
+  "source": "Al Jazeera·BBC·Bloomberg.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxPbUdQc0pRaW13N3B2WHV2eWxyY214dlh6U2h3bXMyS29mT1MxV21EOWIwdkozbWRZMFFtRFVSRE9hR2hmMnlSd0VDTFN4SFdEVzU5SEdEdGdrSkRWMjh1WXY1UmZyVFJwSmY2ODZ0aVhjM2ZiMWtpYUo1UDRDdTJmWnRGa1FGNHVnWkphbDZyOWVqYkVheGVIS19MWVdINXY3UElONUVBS2tGTlVK",
+    "related": [
+      [
+        "Brazil runoff live updates: polls set to close as Flávio Bolsonaro narrowly leads Luiz Inácio Lula da Silva in race for presidency",
+        "The Guardian"
+      ],
+      [
+        "Brazil elections: Polls remain open after last-minute extension in election run-off between Lula and Bolsonaro's son",
+        "BBC"
+      ],
+      [
+        "Brazil election results 2026 live: Top court extends voting for two hours",
+        "Al Jazeera"
+      ],
+      [
+        "Brazil election live: Lula and Bolsonaro face off as Supreme Court extends voting hours",
+        "Reuters"
+      ],
+      [
+        "Brazil Court Extends Voting by Two Hours on Candidate Requests",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "brazil_election_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "브라질 대선 [[결선 투표]]\n최고법원 투표 시간 연장",
+      "sub": "룰라와 볼소나루의 아들 간 대결",
+      "chips": [
+        {
+          "k": "투표 연장",
+          "v": "2시간"
+        }
+      ],
+      "alt": "브라질 대선 결선 투표 최고법원 투표 시간 연장",
+      "map": {
+        "lat": -15.7939869,
+        "lon": -47.8828,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "브라질"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "브라질\n브라질리아",
+      "video_only": true,
+      "map": {
+        "lat": -15.7939869,
+        "lon": -47.8828,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브라질리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "후보 측 요청",
+          "d": "후보 측의 요청에 따라 최고법원이 투표 시간을 2시간 연장했다고 블룸버그 등이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "브라질 대선 결선 투표 진행",
+        "최고법원 투표 시간 2시간 연장"
+      ],
+      "unconfirmed": [
+        "최종 선거 결과",
+        "당선자 윤곽"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Bloomberg.com",
+        "Reuters",
+        "The Guardian",
+        "2026.10.26 05:33 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 브라질 대선 결선 투표서 최고법원이 투표 시간을 2시간 연장했습니다 (로이터·블룸버그)\n\n· 룰라와 볼소나루의 아들 간 접전이 벌어지고 있습니다 (가디언·BBC)\n· 후보 측의 요청에 따라 투표 마감 시간이 연장됐습니다 (블룸버그)\n\n질문: 여러분은 이번 브라질 대선 결과가 남미 정치 지형에 어떤 영향을 미칠 것으로 보십니까?\n출처: 가디언·BBC·알자지라·로이터·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "브라질 대선 결선 투표에서 최고법원이 투표 시간을 2시간 연장했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신 등은 후보 측의 요청에 따른 조치라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현재 룰라와 볼소나루의 아들이 접전을 벌이고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최종 선거 결과와 당선자는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 브라질 대선 결과가 남미 정국에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "브라질 대선 [[결선 투표]],\n투표 연장된 이유는?",
+  "broll": [
+    "election voting ballot",
+    "polling station line"
+  ],
+  "place_en": "Brasilia, Brazil"
+}
