@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-26-news-paris-suburb-shooting-2026",
+  "topic": "프랑스 파리 근교 총격 테러 발생 사망 1명·부상 4명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 00:32 KST",
+  "source": "Al Jazeera·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE0zbkYyUU1ndEh3TmpteGJlX3ZiVTE1aC1DTkZOV0NMcFkwZ1pQaEZBYTVpR2hCMFJGcXNzcUc5dW5QaGpQLTN1d1Z3VGgtNGk5MGdrVXJNX0kwcVE",
+    "related": [
+      [
+        "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+        "BBC"
+      ],
+      [
+        "12-Year-Old Girl Shot 8 Times in Drive-By ‘Racist Terror Attack’ That Left 1 Man Dead and at Least 4 Others Injured",
+        "People.com"
+      ],
+      [
+        "Macron says Paris suburb shooting that killed one person was terrorist and racist act",
+        "CNN"
+      ],
+      [
+        "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+        "Al Jazeera"
+      ],
+      [
+        "Police find Hitler’s ‘Mein Kampf’ in home of suspect in deadly shooting near Paris",
+        "The Times of Israel"
+      ]
+    ],
+    "event_key": "paris_suburb_shooting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스 파리 근교 총격 테러 발생\n[[사망 1명·부상 4명]]",
+      "sub": "마크롱 대통령 \"인종차별적 테러 행위\" 규정",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "4명 이상"
+        }
+      ],
+      "alt": "프랑스 파리 근교 총격 테러 발생 사망 1명·부상 4명",
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "프랑스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "프랑스\n파리",
+      "video_only": true,
+      "map": {
+        "lat": 48.8534951,
+        "lon": 2.3483915,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "피해 규모",
+          "d": "12세 소녀가 총에 8발을 맞은 것으로 전해졌습니다 (People.com)."
+        },
+        {
+          "t": "용의자 압수수색",
+          "d": "경찰은 용의자의 집에서 히틀러의 자서전을 발견했습니다 (The Times of Israel)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명 (CNN·People.com)",
+        "부상 4명 이상 (People.com)",
+        "인종차별적 테러 규정 (CNN)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 범행 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "People.com",
+        "The Times of Israel",
+        "2026.10.26 02:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스 파리 근교 총격 테러 발생, 사망 1명·부상 4명\n\n· 12세 소녀가 총에 8발을 맞는 등 4명 이상이 다쳤습니다 (People.com)\n· 마크롱 대통령은 이번 사건을 인종차별적 테러 행위로 규정했습니다 (CNN)\n· 경찰은 용의자의 집에서 히틀러의 자서전을 발견했습니다 (The Times of Israel)\n\n출처: BBC·CNN·Al Jazeera 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스 파리 근교에서 총격 테러가 발생해 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "People.com은 12세 소녀를 포함해 최소 4명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "마크롱 대통령은 이번 사건을 인종차별적 테러 행위라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경찰은 용의자의 집에서 히틀러의 자서전을 발견했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "프랑스 파리 근교서\n발생한 [[총격 사건]]",
+  "broll": [
+    "police street night",
+    "ambulance lights street"
+  ],
+  "place_en": "Paris, France"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-new-york-measles-disaster-emergency-2026",
-    "topic": "미 뉴욕주, 홍역 확산에 재난 비상사태 선포",
-    "slug": "2026-10-06-news-us-new-york-measles-disaster-emergency-2026",
-    "cluster": "CBMikgFBVV95cUxORlQtSGRYdm01V19yTUtOSjd3aFZVUFRLTm9sLUFuUkdJbnZ1WUZEU3BuMjQ4cTA3TWxVQ2ZnemdCZFlkR0hubGpsSnZPcHpaUzI5TVItcU9jeGk2VTFRTU9IOHVkQ0Y0cEt5aGNEeWUxWFZBU3Q1MFVmLXk2WmhwaUE2ZXRBX0M1Y0NLZHE5ZHctdw",
-    "badge": "breaking",
-    "at": 1791259845.306306,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "yemen-forces-retake-mocha-red-sea-2026",
     "topic": "예멘군 홍해 요충지 모카 항구 탈환",
     "slug": "2026-10-06-news-yemen-forces-retake-mocha-red-sea-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792944436.7710998,
     "country": "세르비아",
     "category": "국제"
+  },
+  {
+    "event_key": "paris_suburb_shooting_2026",
+    "topic": "프랑스 파리 근교 총격 테러 발생 사망 1명·부상 4명",
+    "slug": "2026-10-26-news-paris-suburb-shooting-2026",
+    "cluster": "CBMiW0FVX3lxTE0zbkYyUU1ndEh3TmpteGJlX3ZiVTE1aC1DTkZOV0NMcFkwZ1pQaEZBYTVpR2hCMFJGcXNzcUc5dW5QaGpQLTN1d1Z3VGgtNGk5MGdrVXJNX0kwcVE",
+    "badge": "breaking",
+    "at": 1792948138.280677,
+    "country": "프랑스",
+    "category": "총격·테러"
   }
 ]
