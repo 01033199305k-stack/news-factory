@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-25-news-florida-university-stadium-shooting-2026",
+  "topic": "플로리다 대학교 스타디움 인근 총격 최소 11명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 13:51 KST",
+  "source": "CNN·The Guardian·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMif0FVX3lxTE9ncjRfWHlVVlZRMTVsN3MzenBBX3ZUZmVBdWxKQVJidVhpM0t4MWxSUlRLMjZhRGdVM3RoanktM2JUaU9yZzh3QW95WFdWd0FTQzFfSzFybzJPNnNfMHY3R1M4T1ZScFkyWHJsc1lzVjZFdHpOS2lYcy1aQWY0Wk0",
+    "related": [
+      [
+        "11 people shot near Florida university stadium in Tallahassee",
+        "CNN"
+      ],
+      [
+        "At least 12 injured in shooting near football stadium in Florida",
+        "The Hindu"
+      ],
+      [
+        "TPD: Police investigating shooting at Perry Street and Manatee Street",
+        "WCTV"
+      ],
+      [
+        "BREAKING: TPD says 11 people were shot near FAMU, including 6 juveniles",
+        "WTXL ABC 27 Tallahassee News"
+      ],
+      [
+        "Eleven sustain gunshot wounds in shooting near Florida university",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "florida_university_stadium_shooting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "플로리다 대학교 스타디움 인근 총격\n최소 [[11명]] 부상",
+      "sub": "미국 플로리다주 탤러해시 대학가 인근서 총격 발생",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "11명 이상"
+        },
+        {
+          "k": "청소년",
+          "v": "6명 포함"
+        }
+      ],
+      "alt": "플로리다 대학교 스타디움 인근 총격 최소 11명 부상",
+      "map": {
+        "lat": 30.4380832,
+        "lon": -84.2809332,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n탤러해시",
+      "video_only": true,
+      "map": {
+        "lat": 30.4380832,
+        "lon": -84.2809332,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "탤러해시"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미성년자 피해",
+          "d": "부상자 가운데 청소년 6명이 포함됐다고 WTXL 등이 보도했습니다."
+        },
+        {
+          "t": "경찰 수사",
+          "d": "현지 경찰이 페리 스트리트와 마나티 스트리트 인근 현장을 수사 중입니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "부상 11명 이상 (CNN·가디언)",
+        "청소년 부상자 6명 포함 (WTXL)"
+      ],
+      "unconfirmed": [
+        "정확한 범행 동기",
+        "용의자 신원 및 체포 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "The Guardian",
+        "The Hindu",
+        "WCTV",
+        "WTXL ABC 27 Tallahassee News",
+        "2026.10.25 15:17 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 플로리다 대학교 스타디움 인근 총격 최소 11명 부상\n\n· 미국 플로리다주 탤러해시 대학가 인근서 총격 발생 (CNN·가디언)\n· 부상자 가운데 청소년 6명이 포함됨 (WTXL)\n· 현지 경찰이 페리 스트리트와 마나티 스트리트 인근 현장 수사 중 (WCTV)\n\n출처: CNN·가디언·WTXL·WCTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 플로리다주 대학가 인근에서 총격이 발생해 최소 11명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 부상자 가운데 6명은 청소년이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 경찰은 사건 현장을 수사하고 있습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "플로리다 대학가서\n벌어진 총격",
+  "broll": [
+    "police tape street",
+    "ambulance night"
+  ],
+  "place_en": "Tallahassee, Florida, United States"
+}

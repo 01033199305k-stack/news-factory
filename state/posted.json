@@ -24817,5 +24817,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792898046
+  },
+  {
+    "slug": "2026-10-25-news-florida-university-stadium-shooting-2026",
+    "event_ms": 1792903870000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 플로리다 대학교 스타디움 인근 총격 최소 11명 부상\n\n· 미국 플로리다주 탤러해시 대학가 인근서 총격 발생 (CNN·가디언)\n· 부상자 가운데 청소년 6명이 포함됨 (WTXL)\n· 현지 경찰이 페리 스트리트와 마나티 스트리트 인근 현장 수사 중 (WCTV)\n\n출처: CNN·가디언·WTXL·WCTV 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17952404877339809",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De6C85YlW09",
+        "kind": "carousel",
+        "at": 1792909107
+      },
+      "instagram": {
+        "id": "18092669138204183",
+        "permalink": "https://www.instagram.com/reel/De6DL5hgLNY/",
+        "kind": "reel",
+        "at": 1792909247
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1792909257
+      },
+      "tiktok": {
+        "id": "6add9fca8b3d437ddcf422a1",
+        "permalink": "",
+        "kind": "video",
+        "at": 1792909458
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792909468
   }
 ]
