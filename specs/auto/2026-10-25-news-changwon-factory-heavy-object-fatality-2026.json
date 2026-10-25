@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-25-news-changwon-factory-heavy-object-fatality-2026",
+  "topic": "창원 공장서 낙하물 사고 40대 노동자 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 09:43 KST",
+  "source": "KBS 뉴스·국제신문·문화일보 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBHU1NzcjlGbUw4cUExR25NX3YyVmFURWJhLUM2azBvMTdVMUowT3lXUWJmdFVMMi05TkV2N1ZXV2ZWc0NMYlFqN0E4djZCSUlrcFRvX2JDOWEta2s",
+    "related": [
+      [
+        "창원 한 공장에서 철거 낙하물에 맞은 40대 노동자 숨져",
+        "KBS 뉴스"
+      ],
+      [
+        "경남 창원서 60㎏ 낙하물 맞은 40대 여성 숨져",
+        "연합뉴스TV"
+      ],
+      [
+        "40대 女, 변압기 부품에 맞아 사망…부품 굴러떨어져...고용부 ‘중처법’ 조사",
+        "문화일보"
+      ],
+      [
+        "창원 휴대전화 부품업체서 퇴근길 40대, 낙하물 맞아 숨져",
+        "국제신문"
+      ],
+      [
+        "[속보] 야근하고 낮퇴근하던 40대, 회사건물 60kg 낙하물에 맞아 `참변`",
+        "부산일보"
+      ]
+    ],
+    "event_key": "changwon_factory_heavy_object_fatality_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "창원 공장서 낙하물 사고\n[[40대 노동자]] 사망",
+      "sub": "낙하물에 맞아 숨져",
+      "chips": [],
+      "alt": "창원 공장서 낙하물 사고 40대 노동자 사망",
+      "map": {
+        "lat": 35.227956,
+        "lon": 128.6818586,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n창원",
+      "video_only": true,
+      "map": {
+        "lat": 35.227956,
+        "lon": 128.6818586,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "창원"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 경위",
+          "d": "40대 노동자가 건물에서 떨어진 60kg 낙하물에 맞았습니다 (연합뉴스TV·문화일보)."
+        },
+        {
+          "t": "당국 조사",
+          "d": "고용노동부가 중대처벌법 위반 여부 조사에 나섰습니다 (문화일보)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "40대 노동자 1명 사망 (KBS·연합뉴스TV)",
+        "60kg 낙하물 충돌 (연합뉴스TV·부산일보)",
+        "고용노동부 조사 착수 (문화일보)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인",
+        "추가 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "국제신문",
+        "문화일보",
+        "부산일보",
+        "연합뉴스TV",
+        "2026.10.25 10:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 창원 공장서 낙하물 사고, 40대 노동자 사망\n\n· 40대 노동자가 건물서 떨어진 60kg 낙하물에 맞아 숨져 (연합뉴스TV·부산일보)\n· 고용노동부, 중대재해처벌법 위반 여부 조사 착수 (문화일보)\n\n출처: KBS·연합뉴스TV·문화일보·국제신문·부산일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경남 창원의 한 공장에서 낙하물에 맞아 40대 노동자가 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "노동자는 60킬로그램 무게의 낙하물에 맞았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "고용노동부는 중대재해처벌법 위반 여부에 대한 조사에 나섰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "창원 공장서 발생한\n[[낙하물 사고]]",
+  "broll": [
+    "factory building exterior",
+    "industrial warehouse"
+  ],
+  "place_en": "Changwon, South Korea"
+}

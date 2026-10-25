@@ -24489,5 +24489,61 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792890633
+  },
+  {
+    "slug": "2026-10-25-usgs-us6000u4qq",
+    "event_ms": 1792886376599,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 일본 인근 규모 5.3 지진\n\n한국 시각 10월 25일 08시 59분, 일본 Miyazaki에서 동남동쪽 44km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u4qq",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "일본",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18131899723820313",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De5aSapmFta",
+        "kind": "carousel",
+        "at": 1792887787
+      },
+      "instagram": {
+        "id": "17895751119613824",
+        "permalink": "https://www.instagram.com/reel/De5asaLEt-u/",
+        "kind": "reel",
+        "at": 1792888017
+      },
+      "youtube": {
+        "id": "6cbdAHnxR4I",
+        "permalink": "https://youtube.com/shorts/6cbdAHnxR4I",
+        "kind": "shorts",
+        "at": 1792888064
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6add59b98b3d437ddce7340b): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1792891434
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792891434
   }
 ]

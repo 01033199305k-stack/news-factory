@@ -1,51 +1,95 @@
 [
   {
-    "slug": "2026-10-25-usgs-us6000u4qq",
-    "event_ms": 1792886376599,
+    "slug": "2026-10-25-news-france-spain-protests-riots-2026",
+    "event_ms": 1792884660000,
+    "category": "기타 사건",
     "images": [
       "01_cover.png",
-      "02_map.png",
+      "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 일본 인근 규모 5.3 지진\n\n한국 시각 10월 25일 08시 59분, 일본 Miyazaki에서 동남동쪽 44km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000u4qq",
-    "topic_tag": "지진",
+    "text": "[속보] 프랑스와 스페인서 시위 격화, 1,100명 체포\n\n· 바르셀로나 등지서 상점 약탈과 방화 이어져 (The Times of India·The Jerusalem Post)\n· 마드리드 도심 상점 보안 강화 (Demócrata)\n\n출처: The Times of India·The Jerusalem Post·Demócrata 보도 종합",
+    "topic_tag": "해외사건사고",
     "hashtags": [
-      "지진",
-      "일본",
-      "세계뉴스",
-      "속보",
-      "해외뉴스"
+      "해외사건사고",
+      "기타 사건",
+      "스페인"
     ],
     "uploaded": [
       "01_cover.jpg",
-      "02_map.jpg",
+      "02_points.jpg",
       "03_check.jpg",
       "04_outro.jpg",
       "video.mp4"
     ],
     "done": {
       "threads": {
-        "id": "18131899723820313",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/De5aSapmFta",
+        "id": "18282474376295664",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De5gacZmEag",
         "kind": "carousel",
-        "at": 1792887787
+        "at": 1792890994
       },
       "instagram": {
-        "id": "17895751119613824",
-        "permalink": "https://www.instagram.com/reel/De5asaLEt-u/",
+        "id": "17887164918622572",
+        "permalink": "https://www.instagram.com/reel/De5g4MXiC0V/",
         "kind": "reel",
-        "at": 1792888017
+        "at": 1792891262
       },
       "youtube": {
-        "id": "6cbdAHnxR4I",
-        "permalink": "https://youtube.com/shorts/6cbdAHnxR4I",
-        "kind": "shorts",
-        "at": 1792888064
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1792891320
       }
     },
     "attempts": {
-      "tiktok": 2
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-25-news-changwon-factory-heavy-object-fatality-2026",
+    "event_ms": 1792888980000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 창원 공장서 낙하물 사고, 40대 노동자 사망\n\n· 40대 노동자가 건물서 떨어진 60kg 낙하물에 맞아 숨져 (연합뉴스TV·부산일보)\n· 고용노동부, 중대재해처벌법 위반 여부 조사 착수 (문화일보)\n\n출처: KBS·연합뉴스TV·문화일보·국제신문·부산일보 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18451347583130318",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De5geijmJ5m",
+        "kind": "carousel",
+        "at": 1792891033
+      },
+      "instagram": {
+        "id": "17991100293066543",
+        "permalink": "https://www.instagram.com/reel/De5g9lsAbHC/",
+        "kind": "reel",
+        "at": 1792891310
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792891320
+      }
+    },
+    "attempts": {
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

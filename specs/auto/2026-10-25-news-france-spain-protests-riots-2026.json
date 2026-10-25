@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-25-news-france-spain-protests-riots-2026",
+  "topic": "프랑스와 스페인서 시위 격화 1,100명 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 08:31 KST",
+  "source": "The Times of India·Demócrata·The Jerusalem Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi6gFBVV95cUxPTnp5U1RobU0xMFpFbkhSY0x6Szg1dUJLRUV1cGp4eUZTbmRxazQ4RGpxQ3FFdVBEczRKZ0w2R2RRY0xIVHBrSTVVY1JGM3pJY3NwSkNYQzZUQXJmY0I2S0dUdjdxcFgzQjFrNm1LTXp6a2VwZTlmVEY1U05wWEZrcnZQUUo1b3o5OWNZMXZWOXktLXcwbXhaV0RMOHhnd015VWVqX0NrQ2U5UzNYYUFoR015SUhIcm5RM0FUaV9XSlg0UjJGQzh0UWlDLV9heU5scTZQOFB6bkxnRkN4Y1N2MHVudmhWa0EzU3c",
+    "related": [
+      [
+        "Protests sweep France, Spain as masked mobs loot shops, clash with cops; 1,100 held",
+        "The Times of India"
+      ],
+      [
+        "Hundred arrested in Barcelona as youth-led 'anti-system' riots leave trail of fires, looted shops",
+        "The Jerusalem Post"
+      ],
+      [
+        "Riots in Barcelona: About 100 Arrested During Protests",
+        "blue News"
+      ],
+      [
+        "The shops in downtown Madrid reinforce their security amid a day of disturbances in Barcelona",
+        "Demócrata"
+      ],
+      [
+        "Riots, looting break out at student protest in Barcelona",
+        "Breakingthenews.net"
+      ]
+    ],
+    "event_key": "france_spain_protests_riots_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프랑스와 스페인서 시위 격화\n[[1,100명]] 체포",
+      "sub": "바르셀로나 등지서 상점 약탈과 방화 이어져",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "1,100명"
+        }
+      ],
+      "alt": "프랑스와 스페인서 시위 격화 1,100명 체포",
+      "map": {
+        "lat": 41.3825802,
+        "lon": 2.177073,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n바르셀로나",
+      "video_only": true,
+      "map": {
+        "lat": 41.3825802,
+        "lon": 2.177073,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바르셀로나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "상점 약탈",
+          "d": "시위대 일부가 상점을 약탈하고 경찰과 충돌했습니다 (The Times of India)."
+        },
+        {
+          "t": "보안 강화",
+          "d": "마드리드 도심 상점들은 보안을 강화했습니다 (Demócrata)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "1,100명 체포 (The Times of India)",
+        "바르셀로나 등지 시위 및 마드리드 상점 보안 강화 (The Times of India·Demócrata)"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Breakingthenews.net",
+        "Demócrata",
+        "The Jerusalem Post",
+        "The Times of India",
+        "blue News",
+        "2026.10.25 10:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프랑스와 스페인서 시위 격화, 1,100명 체포\n\n· 바르셀로나 등지서 상점 약탈과 방화 이어져 (The Times of India·The Jerusalem Post)\n· 마드리드 도심 상점 보안 강화 (Demócrata)\n\n출처: The Times of India·The Jerusalem Post·Demócrata 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "프랑스와 스페인에서 시위가 격화하면서 1,100명이 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "바르셀로나 등지에서는 상점 약탈과 방화가 잇따랐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "마드리드 도심 상점들은 보안을 강화했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "프랑스와 스페인서\n[[시위 격화]]",
+  "broll": [
+    "street protest riot",
+    "police crowd control"
+  ],
+  "place_en": "Barcelona, Spain"
+}
