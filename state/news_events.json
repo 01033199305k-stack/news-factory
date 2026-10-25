@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bulgaria-black-sea-drone-attack-ship-sink-2026",
-    "topic": "불가리아 흑해서 드론 공격 선박 침몰",
-    "slug": "2026-10-06-news-bulgaria-black-sea-drone-attack-ship-sink-2026",
-    "cluster": "CBMitwFBVV95cUxQQ0lQYTJMbldZM0szQ0RSaVAzcHY0V1ZxTTctbHJJMWlTYmZfSTVOUldOSVBBejNmR0VfajducEp1WjVtcVd0MEdXU3RsWFZGX3RLZGNsM1Q5a29nWGsyeXVvZkxLSzBUNDhyY0kyUXoyeE1IeU1RanlobVFPcXljUEM3UDB0VEtHQ0hudXRvWm45U25PZHpYTTA4Wmd4YUFscWJUNXhQUE1wMHdmTThIUVpIMXFESTQ",
-    "badge": "breaking",
-    "at": 1791277942.5890493,
-    "country": "불가리아",
-    "category": "국제"
-  },
-  {
     "event_key": "germany-ex-spy-chief-arrest-treason-2026",
     "topic": "전 독일 정보 수장 간첩·반역 혐의 체포",
     "slug": "2026-10-06-news-germany-ex-spy-chief-arrest-treason-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792960432.8724136,
     "country": "브라질",
     "category": "국제"
+  },
+  {
+    "event_key": "us_measles_outbreak_2026",
+    "topic": "미국 내 홍역 환자 4,588명으로 급증 작년 대비 2배 이상 확산",
+    "slug": "2026-10-26-news-us-measles-outbreak-2026",
+    "cluster": "CBMif0FVX3lxTE10dmpQc05kNFNxUnFFY0tJLUtBNkhta21ZTl9SUEd4OGpZZ3czU0M2SUZnTGhzaG40VEJLVFhjN1lBODdROHJHRm8xTHFZNmVjNXJkMlQ1dlFCOFh0OS0ybHRMRmxTcjB1amtQaFZKVUFaRGJzWEw2SUhEVVpQeDQ",
+    "badge": "breaking",
+    "at": 1792965981.2075522,
+    "country": "미국",
+    "category": "사고"
   }
 ]

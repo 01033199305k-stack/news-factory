@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-26-news-us-measles-outbreak-2026",
+  "topic": "미국 내 홍역 환자 4,588명으로 급증 작년 대비 2배 이상 확산",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 05:35 KST",
+  "source": "Financial Times·NPR·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMif0FVX3lxTE10dmpQc05kNFNxUnFFY0tJLUtBNkhta21ZTl9SUEd4OGpZZ3czU0M2SUZnTGhzaG40VEJLVFhjN1lBODdROHJHRm8xTHFZNmVjNXJkMlQ1dlFCOFh0OS0ybHRMRmxTcjB1amtQaFZKVUFaRGJzWEw2SUhEVVpQeDQ",
+    "related": [
+      [
+        "U.S. measles cases more than double what they were last year as outbreak spreads",
+        "NPR"
+      ],
+      [
+        "Measles surge exposes Republicans’ vulnerability on vaccines",
+        "Financial Times"
+      ],
+      [
+        "Deadly measles spread hitting US state's Amish hard amid White House row",
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      [
+        "Additional 178 cases of measles reported by US health authorities amid outbreak",
+        "The Guardian"
+      ],
+      [
+        "US CDC says measles cases rise to 4,588 as outbreak continues",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us_measles_outbreak_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 내 홍역 환자 [[4,588명]]으로 급증\n작년 대비 2배 이상 확산",
+      "sub": "미국질병통제예방센터는 홍역 확산이 지속되고 있다고 밝혔습니다",
+      "chips": [
+        {
+          "k": "환자 수",
+          "v": "4,588명"
+        }
+      ],
+      "alt": "미국 내 홍역 환자 4,588명으로 급증 작년 대비 2배 이상 확산",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "추가 확산",
+          "d": "보건 당국은 추가로 178건의 홍역 환자가 보고됐다고 밝혔습니다 (가디언)"
+        },
+        {
+          "t": "아미시 공동체",
+          "d": "치명적인 홍역 확산이 미국 내 특정 지역 아미시 공동체에 큰 타격을 주고 있습니다 (ABC 뉴스)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "홍역 환자 4,588명 (로이터)",
+        "추가 환자 178명 (가디언)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "확산 원인 및 향후 전망"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "Financial Times",
+        "NPR",
+        "Reuters",
+        "The Guardian",
+        "2026.10.26 07:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 내 홍역 환자가 4,588명으로 집계되며 작년 대비 2배 이상 급증했습니다\n\n· 미국질병통제예방센터는 홍역 확산이 지속되고 있다고 밝혔습니다 (로이터)\n· 보건 당국은 추가로 178건의 환자가 보고됐다고 밝혔습니다 (가디언)\n· 치명적인 홍역 확산이 미국 내 아미시 공동체에 큰 타격을 주고 있습니다 (ABC 뉴스)\n\n출처: 로이터·가디언·ABC 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 내 홍역 환자가 4,588명으로 집계되며 작년 대비 2배 이상 급증했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 보건 당국을 인용해 홍역 확산이 계속 이어지고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "당국은 추가로 178건의 환자가 보고됐다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "치명적인 홍역 확산이 미국 내 아미시 공동체에 큰 타격을 주고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 확산 원인과 추가 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국에서 [[홍역]] 환자가\n급증한 이유는?",
+  "broll": [
+    "hospital building exterior",
+    "medical laboratory interior"
+  ],
+  "place_en": "Washington, USA"
+}
