@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-25-news-el-salvador-troops-haiti-ambush",
+  "topic": "아이티서 피습된 엘살바도르 군인 시신 발견·병력 투입",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 07:21 KST",
+  "source": "BBC·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijgFBVV95cUxPNEhheFZNZ2tfQ1lLWUNHT0c3T29aZ2J1LVhBSmJUczIxNGhSTzFOOUt6M1lPQnZSTnVjaUljQ2w5Rk80UUJ0cndvVzg4ZlJhLU0yUHdNVk9kZld4d2RlbC1WblBPSVRyajlmV1dlMmVXclRxQUZtV2l2ZGluTGhHRDlhNmt2dEx0cW9yd1dB",
+    "related": [
+      [
+        "Remains Found in Haiti Could Be Those of Missing Salvadoran Soldiers",
+        "The New York Times"
+      ],
+      [
+        "Salvadoran troops land in Haiti aboard Pentagon plane amid crisis over ambushed soldiers",
+        "Miami Herald"
+      ],
+      [
+        "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports",
+        "Reuters"
+      ],
+      [
+        "El Salvador's president threatens Haitian gangs over military hostages",
+        "BBC"
+      ],
+      [
+        "El Salvador Sends Troops to Haiti to Rescue Military Personnel After Gang Ambush",
+        "WSJ"
+      ]
+    ],
+    "event_key": "el_salvador_troops_haiti_ambush"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "아이티서 피습된 [[엘살바도르 군인]]\n시신 발견·병력 투입",
+      "sub": "엘살바도르 대통령, 갱단에 경고 메시지",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "아이티"
+        }
+      ],
+      "alt": "아이티서 피습된 엘살바도르 군인 시신 발견·병력 투입",
+      "map": {
+        "lat": 18.547327,
+        "lon": -72.3395928,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아이티"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아이티\n포르토프랭스",
+      "video_only": true,
+      "map": {
+        "lat": 18.547327,
+        "lon": -72.3395928,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "포르토프랭스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "병력 파견",
+          "d": "펜타곤 항공기를 이용해 엘살바도르 군인들이 아이티에 도착했습니다 (마이애미 헤럴드)."
+        },
+        {
+          "t": "대통령 경고",
+          "d": "엘살바도르 대통령은 군인 인질 사태와 관련해 아이티 갱단을 위협했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "아이티 내 엘살바도르 군인 시신 발견",
+        "엘살바도르 군 병력 아이티 파견"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 사망자 규모 및 피습 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Miami Herald",
+        "Reuters",
+        "The New York Times",
+        "WSJ",
+        "2026.10.25 09:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 아이티서 피습된 엘살바도르 군인 시신이 발견되고 병력이 투입됐습니다\n\n· 펜타곤 항공기를 이용해 엘살바도르 군인들이 아이티에 도착했습니다 (마이애미 헤럴드)\n· 엘살바도르 대통령은 군인 인질 사태와 관련해 아이티 갱단을 위협했습니다 (BBC)\n\n출처: 뉴욕타임스·마이애미 헤럴드·로이터·BBC·월스트리트저널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아이티에서 피습된 엘살바도르 군인들의 시신이 발견되고 병력이 투입됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 펜타곤 항공기를 이용해 엘살바도르 군인들이 아이티에 도착했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "엘살바도르 대통령은 군인 인질 사태와 관련해 아이티 갱단을 위협했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피습 경위와 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "아이티에서 피습된\n[[엘살바도르 군인]]들",
+  "broll": [
+    "military transport plane",
+    "caribbean street"
+  ],
+  "place_en": "Port-au-Prince, Haiti"
+}

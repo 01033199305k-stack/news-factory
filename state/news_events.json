@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "romania-black-sea-ship-fire-2026",
-    "topic": "흑해 곡물 운반선서 화재 선원 2명 사망 확인",
-    "slug": "2026-10-05-news-romania-black-sea-ship-fire-2026",
-    "cluster": "CBMirwFBVV95cUxNNzh3OWRHN1ZFNktlZ2ZvdkxzS0Z6WWxqNUEwcVE0TEd6dHVCNmRkTllCQ0ZTR3QwaFNBQnhqSFQxT0ZhM2E0cG12anRLeDQ1M0xkSnotR3BnYXhOLVVwU3hjaE1qYXJmdmdfbHJteEhoX1FzNnNwQU5meWUwOUFFQWwzU0o4ZVF0M2lGdVBHSG05Zk5zdEUzeUpZX1VtbVVHSHhNNXl3UjhBMW9Ed0Nr",
-    "badge": "breaking",
-    "at": 1791212963.2548745,
-    "country": "루마니아",
-    "category": "사고"
-  },
-  {
     "event_key": "c14",
     "topic": "시카고행 여객기 회항, 이륙 직후 급강하",
     "slug": "2026-10-06-news-c14",
@@ -2998,5 +2988,15 @@
     "at": 1792883330.1228037,
     "country": "이스라엘",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "el_salvador_troops_haiti_ambush",
+    "topic": "아이티서 피습된 엘살바도르 군인 시신 발견·병력 투입",
+    "slug": "2026-10-25-news-el-salvador-troops-haiti-ambush",
+    "cluster": "CBMijgFBVV95cUxPNEhheFZNZ2tfQ1lLWUNHT0c3T29aZ2J1LVhBSmJUczIxNGhSTzFOOUt6M1lPQnZSTnVjaUljQ2w5Rk80UUJ0cndvVzg4ZlJhLU0yUHdNVk9kZld4d2RlbC1WblBPSVRyajlmV1dlMmVXclRxQUZtV2l2ZGluTGhHRDlhNmt2dEx0cW9yd1dB",
+    "badge": "breaking",
+    "at": 1792886804.9435072,
+    "country": "아이티",
+    "category": "사고"
   }
 ]
