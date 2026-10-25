@@ -1,0 +1,119 @@
+{
+  "slug": "2026-10-25-news-jordan-church-shooting-2026",
+  "topic": "요르단 교회 총격 사건 발생 사망자 9명으로 늘어나",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 21:45 KST",
+  "source": "NDTV·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxPVTFxbDBEOEdFZFEwX29PZzd0QTNuYm11VXE5ekQ1bUgtQjVGeU1lbHdjVG9BR21DcENBLU5BeWFCeERYd2Y4bWp4OHFEclBuWlRUQ3ltUkduNFlQOXNwSTV6ZHJ4Qi02ZGQyakE1a0lfNldTM2RBQ3dVbEJHcWpSWE96b3FKUWstUjh6aExqcTdPMmdhMkRpbEhjcEtpak5YMmFfOThiTmh4ZGd5Z2lGMk1Ucjh0U2lDQjlRZQ",
+    "related": [
+      [
+        "Jordan church attack survivor says her cousin died before her eyes",
+        "Reuters"
+      ],
+      [
+        "India unequivocally condemns attack on church in Jordan’s Hamoud",
+        "The Hindu"
+      ],
+      [
+        "India condemns attack on church in Jordan, expresses condolences",
+        "News On AIR"
+      ],
+      [
+        "JORDAN'S KING ABDULLAH CALLS FOR PROSECUTION OF ANYONE WHO SUPPORTED OR JUSTIFIED CHURCH ATTACK - ROYAL COURT",
+        "CGTN"
+      ],
+      [
+        "Death Count In Jordan Church Firing Rises To 9",
+        "NDTV"
+      ]
+    ],
+    "event_key": "jordan_church_shooting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "요르단 교회 총격 사건 발생\n사망자 [[9명]]으로 늘어나",
+      "sub": "요르단 국왕은 관련자 처벌을 촉구했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "9명"
+        }
+      ],
+      "alt": "요르단 교회 총격 사건 발생 사망자 9명으로 늘어나"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "국왕 입장",
+          "d": "요르단 국왕은 교회 공격을 지원하거나 정당화한 이들을 처벌하라고 요구했습니다 (CGTN)."
+        },
+        {
+          "t": "인도 반응",
+          "d": "인도 정부는 요르단 교회 공격을 강력히 규탄하고 애도를 표명했습니다 (The Hindu)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망자 9명 (NDTV)",
+        "국왕의 처벌 촉구 (CGTN)"
+      ],
+      "unconfirmed": [
+        "정확한 범행 동기",
+        "용의자 신원 및 검거 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CGTN",
+        "NDTV",
+        "News On AIR",
+        "Reuters",
+        "The Hindu",
+        "2026.10.25 23:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 요르단 교회 총격 사건 사망자 9명으로 증가\n\n· 사망자 수가 9명으로 늘어났다고 보도됐습니다 (NDTV)\n· 요르단 국왕은 공격을 지지하거나 정당화한 자를 처벌하라고 요구했습니다 (CGTN)\n· 인도 정부는 요르단 교회 공격을 규탄하며 애도를 표명했습니다 (The Hindu)\n\n출처: 로이터·The Hindu·CGTN·NDTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "요르단의 한 교회에서 총격 사건이 발생해 사망자가 9명으로 늘어났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NDTV 등 외신은 하무드 지역 교회 총격으로 인명 피해가 커졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "요르단 국왕은 공격을 지지하거나 정당화한 이들을 철저히 처벌하라고 촉구했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 동기와 용의자 신원은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "요르단 교회서 터진\n[[총격]] 사건",
+  "broll": [
+    "church building exterior",
+    "police street night"
+  ],
+  "place_en": "Hamoud, Jordan"
+}

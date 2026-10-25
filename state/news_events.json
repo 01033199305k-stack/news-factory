@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia-siberia-plague-lab-death-2026",
-    "topic": "러 흑사병 연구원 사망 수십 명 격리",
-    "slug": "2026-10-06-news-russia-siberia-plague-lab-death-2026",
-    "cluster": "CBMitgFBVV95cUxOaTY2Sm9xcDdvaWQzcDJlUmVTQ3lJcmJUV2swUGZLM0M5c0szNnlZSlV2Yjc2OUlEdnUtMEtCQ1dXU05CNEEzSnpJNmVNUUFIbHFTelpTenJWb3Y4TDRvbm5lZWZzMGNpd0liNWZZRnJqa0dEUllBZFc4aC1rZDhqZVhzRWxXd2FuU01sV0pIa0pCcERTaXRNZXlGWGZLak40NmQtWnJkMGhyc1VzYm5ULUg0QzRzZw",
-    "badge": "breaking",
-    "at": 1791256047.5281045,
-    "country": "러시아",
-    "category": "재난"
-  },
-  {
     "event_key": "us-fort-hood-shooter-execution-approval-2026",
     "topic": "트럼프, '13명 살해' 포트 후드 총격범 총살 승인",
     "slug": "2026-10-06-news-us-fort-hood-shooter-execution-approval-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792923385.2706456,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "jordan_church_shooting_2026",
+    "topic": "요르단 교회 총격 사건 발생 사망자 9명으로 늘어나",
+    "slug": "2026-10-25-news-jordan-church-shooting-2026",
+    "cluster": "CBMivAFBVV95cUxPVTFxbDBEOEdFZFEwX29PZzd0QTNuYm11VXE5ekQ1bUgtQjVGeU1lbHdjVG9BR21DcENBLU5BeWFCeERYd2Y4bWp4OHFEclBuWlRUQ3ltUkduNFlQOXNwSTV6ZHJ4Qi02ZGQyakE1a0lfNldTM2RBQ3dVbEJHcWpSWE96b3FKUWstUjh6aExqcTdPMmdhMkRpbEhjcEtpak5YMmFfOThiTmh4ZGd5Z2lGMk1Ucjh0U2lDQjlRZQ",
+    "badge": "breaking",
+    "at": 1792937228.7806406,
+    "country": "요르단",
+    "category": "총격·테러"
   }
 ]
