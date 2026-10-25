@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-25-news-ukraine-starlink-restriction-restored-2026",
+  "topic": "우크라 스타링크 접속 제한 후 복구",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 17:15 KST",
+  "source": "BBC·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE4xZ2o0TW9aRHhMdldjN1RpbGRubFJKMVB2Q0ZXZ3U0RGREY2VHdEpvUWxTRTFHYzNIampVT05hNG5DZzBXU2RTRWdVYlRqaDIyUkpRM3I5Sy1Ea2xqeHc",
+    "related": [
+      [
+        "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+        "BBC"
+      ],
+      [
+        "Ukraine says Starshield back to normal, Musk says Kyiv violated terms",
+        "Reuters"
+      ],
+      [
+        "Ukraine’s military says Starlink satellite connection stable after recent restrictions",
+        "The Guardian"
+      ],
+      [
+        "Ukraine’s survival cannot depend on Elon Musk and Donald Trump",
+        "The Independent"
+      ],
+      [
+        "Elon Musk claims Ukraine used Starlink to kill",
+        "The Times"
+      ]
+    ],
+    "event_key": "ukraine_starlink_restriction_restored_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 [[스타링크]]\n접속 제한 후 복구",
+      "sub": "머스크 측은 약관 위반을 주장했으나 위성 서비스는 정상화됐습니다",
+      "chips": [],
+      "alt": "우크라 스타링크 접속 제한 후 복구",
+      "map": {
+        "lat": 49.4871968,
+        "lon": 31.2718321,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나",
+      "video_only": true,
+      "map": {
+        "lat": 49.4871968,
+        "lon": 31.2718321,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "우크라이나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "위성 연결 정상화",
+          "d": "우크라이나 군은 최근 제한되었던 위성 접속이 다시 안정화되었다고 밝혔습니다 (로이터·가디언)."
+        },
+        {
+          "t": "약관 위반 주장",
+          "d": "일론 머스크는 우크라이나 측이 서비스 이용 약관을 위반했다고 주장했습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스타링크 접속 복구",
+        "머스크의 약관 위반 주장"
+      ],
+      "unconfirmed": [
+        "자세한 차단 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "The Independent",
+        "The Times",
+        "2026.10.25 19:16 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나의 스타링크 위성 접속이 제한된 뒤 복구됐습니다.\n\n· 로이터 통신은 우크라이나 군의 위성 연결이 다시 안정적으로 작동하고 있다고 전했습니다 (로이터·가디언)\n· 일론 머스크 측은 우크라이나 군이 이용 약관을 위반했다고 주장했습니다 (로이터)\n\n이번 위성 서비스 차단 사태, 어떻게 보십니까?\n\n출처: BBC·로이터·가디언·타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라 스타링크 접속이 차단 뒤 복구됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 우크라이나 군의 위성 연결이 안정화됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "머스크 측은 우크라이나가 약관을 위반했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "자세한 차단 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 위성 차단 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "우크라 [[스타링크]]\n갑자기 끊긴 이유",
+  "broll": [
+    "satellite antenna night",
+    "military command center"
+  ],
+  "place_en": "Ukraine"
+}
