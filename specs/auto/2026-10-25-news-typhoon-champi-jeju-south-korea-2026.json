@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-25-news-typhoon-champi-jeju-south-korea-2026",
+  "topic": "제주 한라산에 300mm 비 태풍 '참피' 북상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.25 10:58 KST",
+  "source": "KBS 뉴스·경향신문·뉴시스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMic0FVX3lxTE5SR0pYczZnUnFFUkxuTGpadmg2Zl9qdzBZTXJ1aHp2VDU1RW9GRGNrNkh0M2cwR0FDZXpOSEpPWC1zX09oVDFuWXBvTHFncWhGaHlVZWFnN2NEcEFUX0stYkNVd0dwNzdHZGstcHlDQ3NQSEU",
+    "related": [
+      [
+        "북상하는 제30호 태풍 '참피', 현재위치와 예상 경로는?",
+        "헤드라인제주"
+      ],
+      [
+        "태풍 ‘참피’ 북상에···제주·남해안 풍수해 위기경보 ‘관심→주의’ 상향",
+        "경향신문"
+      ],
+      [
+        "제주 한라산에 268㎜ 비 쏟아져…강풍에 피해도 잇따라",
+        "뉴시스"
+      ],
+      [
+        "제주남쪽먼바다 ’태풍경보’…역대 가장 늦은 태풍 영향",
+        "연합뉴스TV"
+      ],
+      [
+        "태풍 ‘참피’ 영향 피해 6건 접수…한라산 강수량 300mm",
+        "KBS 뉴스"
+      ]
+    ],
+    "event_key": "typhoon_champi_jeju_south_korea_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "제주 한라산에 [[300mm]] 비\n태풍 '참피' 북상",
+      "sub": "역대 가장 늦은 태풍 영향으로 남해안 위기경보 상향",
+      "chips": [
+        {
+          "k": "한라산 강수량",
+          "v": "300mm"
+        }
+      ],
+      "alt": "제주 한라산에 300mm 비 태풍 '참피' 북상",
+      "map": {
+        "lat": 33.3803475,
+        "lon": 126.5482545,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n제주도",
+      "video_only": true,
+      "map": {
+        "lat": 33.3803475,
+        "lon": 126.5482545,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "제주도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "위기경보 상향",
+          "d": "제주와 남해안 풍수해 위기경보가 관심에서 주의 단계로 상향됐습니다 (경향신문)."
+        },
+        {
+          "t": "태풍 특보",
+          "d": "제주남쪽먼바다에 태풍경보가 내려졌습니다 (연합뉴스TV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "한라산 강수량 300mm (KBS)",
+        "위기경보 주의 단계 상향 (경향신문)",
+        "제주남쪽먼바다 태풍경보 (연합뉴스TV)"
+      ],
+      "unconfirmed": [
+        "정확한 총 피해 규모",
+        "추가 시설 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "경향신문",
+        "뉴시스",
+        "연합뉴스TV",
+        "헤드라인제주",
+        "2026.10.25 11:27 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 제주 한라산에 300mm 비... 태풍 '참피' 북상\n\n· 제주와 남해안 풍수해 위기경보가 '주의' 단계로 상향됐습니다 (경향신문)\n· 제주남쪽먼바다에 태풍경보가 발령됐습니다 (연합뉴스TV)\n\n출처: 경향신문·KBS·연합뉴스TV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "제주 한라산에 300밀리미터의 비가 쏟아졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경향신문은 태풍 참피의 북상으로 제주와 남해안의 풍수해 위기경보가 주의 단계로 상향됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "제주남쪽먼바다에는 태풍경보가 내려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 총 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "제주 한라산에\n[[300mm]] 비",
+  "broll": [
+    "heavy rain wind",
+    "typhoon weather"
+  ],
+  "place_en": "Jeju Island, South Korea"
+}

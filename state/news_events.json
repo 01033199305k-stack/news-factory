@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-kharkiv-russian-bomb-attack-oct-2026",
-    "topic": "우크라이나 하르키우 공습 6명 사망 주거 지역 파괴",
-    "slug": "2026-10-06-news-ukraine-kharkiv-russian-bomb-attack-oct-2026",
-    "cluster": "CBMiS0FVX3lxTE5JYTlsY2pPZnpFNS1aejF5ZzJBamtJWVA4dDJkeVpBNTFUYTJFV2VHNkRSU2Z3Z2F5MVdrR21RMlNRaGNWR2QwSjg0NA",
-    "badge": "breaking",
-    "at": 1791235153.1023324,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "turkey-pakistan-saudi-mecca-pact-2026",
     "topic": "튀르키예·파키스탄·사우디 메카 방위 협정 가동",
     "slug": "2026-10-06-news-turkey-pakistan-saudi-mecca-pact-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792893991.8241787,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "typhoon_champi_jeju_south_korea_2026",
+    "topic": "제주 한라산에 300mm 비 태풍 '참피' 북상",
+    "slug": "2026-10-25-news-typhoon-champi-jeju-south-korea-2026",
+    "cluster": "CBMic0FVX3lxTE5SR0pYczZnUnFFUkxuTGpadmg2Zl9qdzBZTXJ1aHp2VDU1RW9GRGNrNkh0M2cwR0FDZXpOSEpPWC1zX09oVDFuWXBvTHFncWhGaHlVZWFnN2NEcEFUX0stYkNVd0dwNzdHZGstcHlDQ3NQSEU",
+    "badge": "breaking",
+    "at": 1792895288.953209,
+    "country": "대한민국",
+    "category": "재난"
   }
 ]
