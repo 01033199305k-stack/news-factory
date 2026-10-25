@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-26-news-yangpyeong-expressway-collision-2026",
+  "topic": "중부내륙고속도로서 승합차·화물차 충돌",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 05:23 KST",
+  "source": "KBS 뉴스·MBC 뉴스·SBS 뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBPSGEzVTNsZy16T19RcUhWRG5heVQ0cHNOREFfSUNRYUVhTXJZaGd5T1llNElfOTVxMkZMRmtyUnBwVVJ4MktuRVJhWDJIelIwSExJdmNHWTFxVzg",
+    "related": [
+      [
+        "경기 양평나들목서 승합차·14톤 화물차 충돌…2명 숨져",
+        "KBS 뉴스"
+      ],
+      [
+        "[속보]중부내륙고속도로서 트럭-승합차 추돌…20대 남녀 사망",
+        "문화일보"
+      ],
+      [
+        "경기 양평나들목서 승합차가 14톤 화물차 들이받아..2명 숨져",
+        "MBC 뉴스"
+      ],
+      [
+        "중부내륙고속도로서 차량 추돌 후 화재…2명 사망",
+        "SBS 뉴스"
+      ],
+      [
+        "중부내륙고속도로서 추돌 사고로 20대 남녀 사망",
+        "연합뉴스"
+      ]
+    ],
+    "event_key": "yangpyeong_expressway_collision_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "중부내륙고속도로서\n[[승합차·화물차 충돌]]",
+      "sub": "사고 후 화재 발생하며 2명 사망",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        },
+        {
+          "k": "차량",
+          "v": "2대"
+        }
+      ],
+      "alt": "중부내륙고속도로서 승합차·화물차 충돌",
+      "map": {
+        "lat": 37.4916,
+        "lon": 127.4875,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n양평나들목",
+      "video_only": true,
+      "map": {
+        "lat": 37.4916,
+        "lon": 127.4875,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "양평나들목"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "화재 발생",
+          "d": "추돌 사고 직후 차량에 불이 났습니다 (SBS 뉴스)"
+        },
+        {
+          "t": "사상자",
+          "d": "20대 남녀 2명이 숨졌습니다 (문화일보·연합뉴스)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 2명 (문화일보·연합뉴스)",
+        "승합차 및 14톤 화물차 충돌 (KBS 뉴스·MBC 뉴스)",
+        "차량 추돌 후 화재 (SBS 뉴스)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 경위 및 원인",
+        "차량 탑승자 추가 부상자 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "SBS 뉴스",
+        "문화일보",
+        "연합뉴스",
+        "2026.10.26 08:05 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 중부내륙고속도로서 승합차와 14톤 화물차 추돌 사고 발생해 2명 사망\n\n· 추돌 사고 직후 차량에 불이 났습니다 (SBS 뉴스)\n· 20대 남녀 2명이 목숨을 잃었습니다 (문화일보·연합뉴스)\n\n출처: KBS 뉴스·문화일보·MBC 뉴스·SBS 뉴스·연합뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중부내륙고속도로 양평나들목 부근에서 승합차와 화물차가 부딪히는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "문화일보 등은 이 사고로 20대 남녀 2명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "충돌 직후 차량에 불이 붙었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "중부내륙고속도로서\n[[화물차 추돌]] 사고",
+  "broll": [
+    "highway night traffic",
+    "emergency light road"
+  ],
+  "place_en": "Yangpyeong, South Korea"
+}

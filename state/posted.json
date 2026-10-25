@@ -25292,5 +25292,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792967979
+  },
+  {
+    "slug": "2026-10-26-news-yangpyeong-expressway-collision-2026",
+    "event_ms": 1792959780000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 중부내륙고속도로서 승합차와 14톤 화물차 추돌 사고 발생해 2명 사망\n\n· 추돌 사고 직후 차량에 불이 났습니다 (SBS 뉴스)\n· 20대 남녀 2명이 목숨을 잃었습니다 (문화일보·연합뉴스)\n\n출처: KBS 뉴스·문화일보·MBC 뉴스·SBS 뉴스·연합뉴스 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18035882927668605",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De72YwBjxuK",
+        "kind": "carousel",
+        "at": 1792969630
+      },
+      "instagram": {
+        "id": "18092135957222002",
+        "permalink": "https://www.instagram.com/reel/De72tL1CHV-/",
+        "kind": "reel",
+        "at": 1792969815
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1792969825
+      },
+      "tiktok": {
+        "id": "7700746742546877703",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700746742546877703",
+        "kind": "video",
+        "at": 1792969947
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792969957
   }
 ]

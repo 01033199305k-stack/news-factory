@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "germany-ex-spy-chief-arrest-treason-2026",
-    "topic": "전 독일 정보 수장 간첩·반역 혐의 체포",
-    "slug": "2026-10-06-news-germany-ex-spy-chief-arrest-treason-2026",
-    "cluster": "CBMihAFBVV95cUxNSy1CQnlnLUtOdFJ3aTZtTFVjbzg2RDJncHU3V3RidWl3Zk5aY1BlNUxPU3RaUGI5UGRJQ0NQcEVpenVpZmQxemVPOFhuT2xtUHJMTEQ2OUpkald6ck81VGhoXzZIZWNjM29yYXg0MjZFTnk4ZGVtN09rUDF4VVNVRjZfUjY",
-    "badge": "breaking",
-    "at": 1791281388.4092152,
-    "country": "독일",
-    "category": "국제"
-  },
-  {
     "event_key": "japan-okinawa-us-marine-murder-arrest-2026",
     "topic": "오키나와서 미 해병 체포 살인 혐의에 일본 총리 항의",
     "slug": "2026-10-06-news-japan-okinawa-us-marine-murder-arrest-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1792965981.2075522,
     "country": "미국",
+    "category": "사고"
+  },
+  {
+    "event_key": "yangpyeong_expressway_collision_2026",
+    "topic": "중부내륙고속도로서 승합차·화물차 충돌",
+    "slug": "2026-10-26-news-yangpyeong-expressway-collision-2026",
+    "cluster": "CBMiW0FVX3lxTFBPSGEzVTNsZy16T19RcUhWRG5heVQ0cHNOREFfSUNRYUVhTXJZaGd5T1llNElfOTVxMkZMRmtyUnBwVVJ4MktuRVJhWDJIelIwSExJdmNHWTFxVzg",
+    "badge": "breaking",
+    "at": 1792969575.7208705,
+    "country": "대한민국",
     "category": "사고"
   }
 ]
