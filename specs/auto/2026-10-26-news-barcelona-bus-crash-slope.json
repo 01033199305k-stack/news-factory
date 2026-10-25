@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-26-news-barcelona-bus-crash-slope",
+  "topic": "바르셀로나서 버스 추락 부상 41명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 02:22 KST",
+  "source": "AOL.co.uk·Euro Weekly News·The Sun 등 3개 매체 보도 종합",
+  "news": {
+    "id": "CBMifEFVX3lxTE9GQkxEdDc0UTZXQmpUYzFDaGt0S0hnQ1k2c0RrWlZxSmJRaTd5N1hLU3NCRmgzbGVRaFlMVEU5ZThwTGdxVXRfQ1FaeDMzVktHaWZKMEdCcUdlVURmUXlEV3VueUF5MDdnWnppemhaTVl2RzhVckJWUnBvS2E",
+    "related": [
+      [
+        "At least 20 seriously hurt after bus hits car & plunges down slope in Barcelona",
+        "The Sun"
+      ],
+      [
+        "Barcelona bus crash leaves 41 injured after vehicle plunges down ravine",
+        "AOL.co.uk"
+      ],
+      [
+        "At least 20 people seriously injured after bus and car collide in Barcelona",
+        "The Sun"
+      ],
+      [
+        "Coach crash: 41 injured as bus plunges down embankment",
+        "Euro Weekly News"
+      ]
+    ],
+    "event_key": "barcelona_bus_crash_slope"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "바르셀로나서 버스 추락\n부상 [[41명]] 발생",
+      "sub": "승용차와 충돌 후 경사 아래로 추락",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "41명"
+        },
+        {
+          "k": "중상",
+          "v": "20명 이상"
+        }
+      ],
+      "alt": "바르셀로나서 버스 추락 부상 41명 발생",
+      "map": {
+        "lat": 41.3825802,
+        "lon": 2.177073,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n바르셀로나",
+      "video_only": true,
+      "map": {
+        "lat": 41.3825802,
+        "lon": 2.177073,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바르셀로나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 경위",
+          "d": "버스·승용차 충돌 후 경사 아래로 추락"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "부상 41명 (AOL·유로 위클리 뉴스)",
+        "중상 20명 이상 (더 선)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인",
+        "탑승객 총원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.co.uk",
+        "Euro Weekly News",
+        "The Sun",
+        "2026.10.26 04:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 바르셀로나서 버스 추락 사고로 부상 41명 발생\n\n· 버스와 승용차 충돌 후 차량이 경사 아래로 추락 (더 선)\n· 부상자 중 20명 이상은 상태가 심각한 중상 (더 선)\n\n출처: The Sun·AOL·Euro Weekly News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "바르셀로나에서 버스가 경사 아래로 추락해 부상자가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "더 선 등 외신은 승용차와 충돌한 버스가 경사 아래로 추락했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 사고로 총 41명이 다쳤으며 이 가운데 20명 이상은 중상인 것으로 확인됐습니다.",
+      "card": "points",
+      "screen": "부상 41명"
+    },
+    {
+      "text": "정확한 사고 원인과 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "한국인 피해 여부"
+    }
+  ],
+  "hook": "[[바르셀로나]]서\n버스 추락 사고",
+  "broll": [
+    "bus accident street",
+    "ambulance night"
+  ],
+  "place_en": "Barcelona, Spain"
+}

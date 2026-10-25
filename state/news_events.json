@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "yemen-forces-retake-mocha-red-sea-2026",
-    "topic": "예멘군 홍해 요충지 모카 항구 탈환",
-    "slug": "2026-10-06-news-yemen-forces-retake-mocha-red-sea-2026",
-    "cluster": "CBMipwFBVV95cUxOa0w0ZVR4U0toYjViellrallFRmhET1JQaDV3azRxcGpITmhFRFQwY0h5cjlQaC0zM01ZSURLMzdDRkxTLU8zRzVBZENHRnRuYmUwbE1VR19WbWdZdzZ5SGxVMWUtUTVjdEh3UlJycDhwZG5SSVQzX3ZaeVpfbjVJM3U4eEJiU0hfcmZXTFBNbVJsWkVjeWM3MHZWNWktVFlnQ0g1bGJKTQ",
-    "badge": "brief",
-    "at": 1791271131.3983252,
-    "country": "예멘",
-    "category": "국제"
-  },
-  {
     "event_key": "ukraine-moscow-oil-facility-drone-attack-2026",
     "topic": "우크라, 모스크바 대공습 최대 석유 시설 불길",
     "slug": "2026-10-06-news-ukraine-moscow-oil-facility-drone-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1792948138.280677,
     "country": "프랑스",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "barcelona_bus_crash_slope",
+    "topic": "바르셀로나서 버스 추락 부상 41명 발생",
+    "slug": "2026-10-26-news-barcelona-bus-crash-slope",
+    "cluster": "CBMifEFVX3lxTE9GQkxEdDc0UTZXQmpUYzFDaGt0S0hnQ1k2c0RrWlZxSmJRaTd5N1hLU3NCRmgzbGVRaFlMVEU5ZThwTGdxVXRfQ1FaeDMzVktHaWZKMEdCcUdlVURmUXlEV3VueUF5MDdnWnppemhaTVl2RzhVckJWUnBvS2E",
+    "badge": "breaking",
+    "at": 1792955248.4463308,
+    "country": "스페인",
+    "category": "사고"
   }
 ]
