@@ -1,52 +1,5 @@
 [
   {
-    "slug": "2026-10-25-news-el-salvador-troops-haiti-ambush",
-    "event_ms": 1792880512000,
-    "category": "사고",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 아이티서 피습된 엘살바도르 군인 시신이 발견되고 병력이 투입됐습니다\n\n· 펜타곤 항공기를 이용해 엘살바도르 군인들이 아이티에 도착했습니다 (마이애미 헤럴드)\n· 엘살바도르 대통령은 군인 인질 사태와 관련해 아이티 갱단을 위협했습니다 (BBC)\n\n출처: 뉴욕타임스·마이애미 헤럴드·로이터·BBC·월스트리트저널 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "사고",
-      "아이티"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18113686073268676",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/De5Ygq_EYt6",
-        "kind": "carousel",
-        "at": 1792886857
-      },
-      "instagram": {
-        "id": "18568449940078795",
-        "permalink": "https://www.instagram.com/reel/De5YwZCj9ix/",
-        "kind": "reel",
-        "at": 1792887004
-      },
-      "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1792887014
-      }
-    },
-    "attempts": {
-      "tiktok": 2
-    },
-    "video": "video.mp4"
-  },
-  {
     "slug": "2026-10-25-usgs-us6000u4qq",
     "event_ms": 1792886376599,
     "images": [
@@ -92,7 +45,7 @@
       }
     },
     "attempts": {
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   }
