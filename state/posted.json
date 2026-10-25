@@ -25031,5 +25031,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792937553
+  },
+  {
+    "slug": "2026-10-26-news-serbia-election-2026",
+    "event_ms": 1792944436771,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 세르비아에서 역사적인 선거가 실시됐습니다\n\n· 초기 보도에 따르면 이번 선거는 역대 최고 투표율을 기록했습니다 (BBC·로이터)\n· 학생들이 주도하는 야권이 정권 교체를 노리고 있습니다 (로이터)\n\n여러분은 이번 세르비아 선거 결과가 어떤 영향을 미칠 것으로 보십니까?\n출처: BBC·로이터·텔레그래프·DW·뉴욕타임스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "세르비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18113684930132393",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De7Ga_DlgZS",
+        "kind": "carousel",
+        "at": 1792944477
+      },
+      "instagram": {
+        "id": "18223397068340514",
+        "permalink": "https://www.instagram.com/reel/De7Gq0_jU_M/",
+        "kind": "reel",
+        "at": 1792944626
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792944636
+      },
+      "tiktok": {
+        "id": "7700638598994890002",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700638598994890002",
+        "kind": "video",
+        "at": 1792944759
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792944769
   }
 ]

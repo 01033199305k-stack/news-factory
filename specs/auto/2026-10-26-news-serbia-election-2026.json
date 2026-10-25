@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-26-news-serbia-election-2026",
+  "topic": "세르비아에서 선거 실시 학생 주도 야권 정권교체 도전",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 00:07 KST",
+  "source": "BBC·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE5rY0xMeVEyMGlkVk5Iakpubl9Nc1NVMUZseWdMV09TYVFLcHp3bnpldG1HWDBzSVNucTd2Ni1KbWdqNEEtWWpGblZMckkwUll2OVFTeVpzMk9MNlU",
+    "related": [
+      [
+        "Early reports suggest record high turnout in Serbia elections",
+        "BBC"
+      ],
+      [
+        "Serbia votes in historic election as students seek to end Vucic's long grip on power",
+        "Reuters"
+      ],
+      [
+        "Putin’s last friend in Europe battles for survival after student uprising",
+        "The Telegraph"
+      ],
+      [
+        "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
+        "DW.com"
+      ],
+      [
+        "What to Know as Serbia Votes for a New Parliament",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "serbia_election_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "세르비아에서 [[선거]] 실시\n학생 주도 야권 정권교체 도전",
+      "sub": "초기 보도에 따르면 사상 최고 투표율 기록",
+      "chips": [
+        {
+          "k": "투표",
+          "v": "역대급 기록"
+        }
+      ],
+      "alt": "세르비아에서 선거 실시 학생 주도 야권 정권교체 도전",
+      "map": {
+        "lat": 44.8153318,
+        "lon": 20.4456588,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "세르비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "세르비아\n베오그라드",
+      "video_only": true,
+      "map": {
+        "lat": 44.8153318,
+        "lon": 20.4456588,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베오그라드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "투표율",
+          "d": "초기 보도에 따르면 이번 선거는 역대 최고 투표율을 기록했습니다 (BBC·로이터)."
+        },
+        {
+          "t": "야권 동향",
+          "d": "학생들이 주도하는 야권이 정권 교체를 노리고 있습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "역대 최고 투표율 기록",
+        "학생 주도 야권의 정권 교체 도전"
+      ],
+      "unconfirmed": [
+        "선거 최종 결과",
+        "향후 정치 지형 변화"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "DW.com",
+        "Reuters",
+        "The New York Times",
+        "The Telegraph",
+        "2026.10.26 01:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 세르비아에서 역사적인 [[선거]]가 실시됐습니다\n\n· 초기 보도에 따르면 이번 선거는 역대 최고 투표율을 기록했습니다 (BBC·로이터)\n· 학생들이 주도하는 야권이 정권 교체를 노리고 있습니다 (로이터)\n\n여러분은 이번 세르비아 선거 결과가 어떤 영향을 미칠 것으로 보십니까?\n출처: BBC·로이터·텔레그래프·DW·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "세르비아에서 역사적인 선거가 실시됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 이번 선거 투표율이 역대 최고를 기록했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "학생들이 주도하는 야권이 정권 교체를 노리고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "선거의 최종 결과는 아직 나오지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 세르비아 선거 결과, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "선거 결과는?"
+    }
+  ],
+  "hook": "세르비아에서 열린\n역사적인 [[선거]]",
+  "broll": [
+    "voting booth ballot",
+    "crowd city street"
+  ],
+  "place_en": "Belgrade, Serbia"
+}
