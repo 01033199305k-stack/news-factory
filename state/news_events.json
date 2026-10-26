@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "germany_afd_state_parliament_speaker",
-    "topic": "독일 극우 정당 AfD 주의회 의장직 처음 차지",
-    "slug": "2026-10-07-news-germany-afd-state-parliament-speaker",
-    "cluster": "CBMitwFBVV95cUxOUmlkSUJ6QVZ1WkpOQnZKNmZIbkVMQnFmOWtBSkhoLXAxS19KWXM5RFYyS3M2ei14ZkhDbGlzM3FuXzVCZ0VOZW4xNWFwZXhmZkhkS0FZRWNwbW45TlFja0hjR3lqSDFKLWhWbmVLamlaT3JoMTFXQ3ZXSENmUXktM0xDNm9KYmRvbzhyblpCdHZQNzQ4RkpSWmZEX2hnOUk4OExrTDh3WUpCM2dRZDN5UmhRX0VzbUU",
-    "badge": "brief",
-    "at": 1791331713.0612051,
-    "country": "독일",
-    "category": "국제"
-  },
-  {
     "event_key": "us-stocks-record-high-closing-oct-2026",
     "topic": "미국 S&P·나스닥 사상 최고치 경신",
     "slug": "2026-10-07-news-us-stocks-record-high-closing-oct-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793013076.7197542,
     "country": "아랍에미리트",
+    "category": "사고"
+  },
+  {
+    "event_key": "bremerhaven-cruise-container-collision-2026",
+    "topic": "독일 북부 항구서 크루즈선 컨테이너선 2척과 충돌",
+    "slug": "2026-10-26-news-bremerhaven-cruise-container-collision-2026",
+    "cluster": "CBMiekFVX3lxTE9EazU5SkZoWEg2QkxCZXlYSXZVVUh1TFpYRWM5NE94MFA5LVNpMWMtR1luUk1wVmdGaEdXSjdOcm5PTUlqd05IS253ZnhVd3pQRUVwUUNZenU1amxScEdLOUxpbHRnRW9KUkxYUFNrZFk4Z200LWFjNHh3",
+    "badge": "breaking",
+    "at": 1793016468.9917321,
+    "country": "독일",
     "category": "사고"
   }
 ]

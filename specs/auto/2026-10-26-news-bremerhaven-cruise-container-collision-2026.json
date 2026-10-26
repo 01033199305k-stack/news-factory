@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-26-news-bremerhaven-cruise-container-collision-2026",
+  "topic": "독일 북부 항구서 크루즈선 컨테이너선 2척과 충돌",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 18:43 KST",
+  "source": "Yahoo News·Baird Maritime·Daily Echo 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiekFVX3lxTE9EazU5SkZoWEg2QkxCZXlYSXZVVUh1TFpYRWM5NE94MFA5LVNpMWMtR1luUk1wVmdGaEdXSjdOcm5PTUlqd05IS253ZnhVd3pQRUVwUUNZenU1amxScEdLOUxpbHRnRW9KUkxYUFNrZFk4Z200LWFjNHh3",
+    "related": [
+      [
+        "Shocking moment cruise crashes into two container ships during storm while leaving dock leaving passengers terrified",
+        "The Sun"
+      ],
+      [
+        "Popular cruise ship involved in crash with cargo vessel",
+        "Daily Echo"
+      ],
+      [
+        "MSC boxship gashed in Bremerhaven cruise ship collision",
+        "Splash247"
+      ],
+      [
+        "Cruise ship collides with container vessel at German North Sea port",
+        "Yahoo"
+      ],
+      [
+        "Cruise ship collides with two container vessels in Bremerhaven",
+        "Baird Maritime"
+      ]
+    ],
+    "event_key": "bremerhaven-cruise-container-collision-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "독일 북부 항구서 [[크루즈선]]\n컨테이너선 2척과 충돌",
+      "sub": "출항 중 폭풍 속에서 사고 발생",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "독일 북부 항구"
+        }
+      ],
+      "alt": "독일 북부 항구서 크루즈선 컨테이너선 2척과 충돌",
+      "map": {
+        "lat": 53.5505392,
+        "lon": 8.5851945,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n브레머하펜",
+      "video_only": true,
+      "map": {
+        "lat": 53.5505392,
+        "lon": 8.5851945,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브레머하펜"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "선박 충돌",
+          "d": "독일 북부 항구에서 크루즈선이 컨테이너선 2척과 부딪혔다고 외신이 보도했습니다."
+        },
+        {
+          "t": "기상 악화",
+          "d": "당시 폭풍 속에서 사고가 발생했다고 외신이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "독일 북부 항구",
+        "크루즈선과 컨테이너선 2척 충돌"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "선박 파손 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Baird Maritime",
+        "Daily Echo",
+        "Splash247",
+        "The Sun",
+        "Yahoo",
+        "2026.10.26 21:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 독일 북부 항구서 크루즈선이 컨테이너선 2척과 충돌했습니다\n\n· 출항 중 폭풍 속에서 사고가 발생했다고 외신이 보도했습니다\n· 이번 충돌로 인한 정확한 피해 규모는 아직 확인되지 않았습니다\n\n출처: The Sun·Yahoo·Baird Maritime 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일 북부 항구에서 크루즈선이 컨테이너선 2척과 충돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 폭풍 속에서 출항하던 중 사고가 일어났다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "독일 북부 항구서\n[[크루즈선]] 사고?",
+  "broll": [
+    "container ship port",
+    "cruise ship ocean"
+  ],
+  "place_en": "Bremerhaven, Germany"
+}
