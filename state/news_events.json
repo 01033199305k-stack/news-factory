@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "canada-school-shooting-us-accomplice-arrest",
-    "topic": "캐나다 학교 총격 사건 연루 미국인 체포",
-    "slug": "2026-10-07-news-canada-school-shooting-us-accomplice-arrest",
-    "cluster": "CBMiW0FVX3lxTFBRbS04Y1pvTXZZcjNMUEc0eE1GaERwLXZTV0lLYVg5cnBVcS00NDhJRnA0bUJqY1FhV2xIQ3h5eS1VYUFyeHQ1M01CWVdRcHNreXBaUWNTUkFwNUk",
-    "badge": "breaking",
-    "at": 1791320859.528343,
-    "country": "캐나다",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "germany_afd_state_parliament_speaker",
     "topic": "독일 극우 정당 AfD 주의회 의장직 처음 차지",
     "slug": "2026-10-07-news-germany-afd-state-parliament-speaker",
@@ -2998,5 +2988,15 @@
     "at": 1793006018.4223394,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "uae_oil_spill_beach_closures_2026",
+    "topic": "아랍에미리트 해역서 유출된 기름 해변 폐쇄 확대",
+    "slug": "2026-10-26-news-uae-oil-spill-beach-closures-2026",
+    "cluster": "CBMiygFBVV95cUxQbHhFSkdqM0dlc3lWWVViWVlQMDNlNnRVQkxSUWttcWR5R19wV3dvclAyOGtmNVFZMEI2YVVheGVlLUlJNTB3bzZGeDlqRTEtMGZiRk5ZN0x1dWs4a2VNaElUUW1Yd0lxaFRpTjhtVDdael9uaEpHa2kxTllSWVRHSjVIMUVLQmJSNUlGZDF5S0JEOXJ0Rk5GR1lFN0thcWNqSW15RmVsMUFrOUpGeE9lMm1oNVZVNFdjaVQ2VFJielNUM29rMG1BZUd3",
+    "badge": "breaking",
+    "at": 1793013076.7197542,
+    "country": "아랍에미리트",
+    "category": "사고"
   }
 ]

@@ -1,0 +1,116 @@
+{
+  "slug": "2026-10-26-news-uae-oil-spill-beach-closures-2026",
+  "topic": "아랍에미리트 해역서 유출된 기름 해변 폐쇄 확대",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 18:30 KST",
+  "source": "BBC·Reuters·Gulf News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiygFBVV95cUxQbHhFSkdqM0dlc3lWWVViWVlQMDNlNnRVQkxSUWttcWR5R19wV3dvclAyOGtmNVFZMEI2YVVheGVlLUlJNTB3bzZGeDlqRTEtMGZiRk5ZN0x1dWs4a2VNaElUUW1Yd0lxaFRpTjhtVDdael9uaEpHa2kxTllSWVRHSjVIMUVLQmJSNUlGZDF5S0JEOXJ0Rk5GR1lFN0thcWNqSW15RmVsMUFrOUpGeE9lMm1oNVZVNFdjaVQ2VFJielNUM29rMG1BZUd3",
+    "related": [
+      [
+        "Oil spill off UAE widens, satellite images show, prompting more beach closures",
+        "Reuters"
+      ],
+      [
+        "UAE expands beach closures after oil spill in Persian Gulf raises pollution concern",
+        "ThePrint"
+      ],
+      [
+        "Knowledge Nugget | UAE Oil Spill: What happens when oil spills into the sea?",
+        "The Indian Express"
+      ],
+      [
+        "UAE’s massive beach clean-up after oil spill concerns and mystery smell: All you need to know",
+        "Gulf News"
+      ],
+      [
+        "Oil spill washes up on UAE beaches after tanker strike",
+        "BBC"
+      ]
+    ],
+    "event_key": "uae_oil_spill_beach_closures_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "아랍에미리트 해역서 [[유출된 기름]]\n해변 폐쇄 확대",
+      "sub": "페르시아만 오염 우려로 해변 폐쇄 조치 이어져",
+      "chips": [
+        {
+          "k": "원인",
+          "v": "유조선 피격"
+        }
+      ],
+      "alt": "아랍에미리트 해역서 유출된 기름 해변 폐쇄 확대"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해변 폐쇄",
+          "d": "아랍에미리트는 오염 우려가 커지면서 해변 폐쇄 조치를 확대했습니다 (로이터·걸프뉴스·더프린트)."
+        },
+        {
+          "t": "원인",
+          "d": "이번 유출은 유조선 피격 여파로 바다에 흘러든 기름이 해변으로 밀려든 데 따른 것입니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "해수욕장 및 해변 폐쇄 확대",
+        "유조선 피격에 따른 기름 유출"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 유출 규모 및 방제 완료 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Gulf News",
+        "Reuters",
+        "The Indian Express",
+        "ThePrint",
+        "2026.10.26 20:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 아랍에미리트 해역서 유출된 기름으로 해변 폐쇄가 확대됐습니다\n\n· 페르시아만 인근 해역에서 발생한 유조선 피격 여파로 기름이 해변으로 밀려들었습니다 (BBC)\n· 아랍에미리트 당국은 오염 우려와 의문의 냄새 등으로 해변 폐쇄 조치를 확대하고 있습니다 (걸프뉴스·더프린트·로이터)\n\n출처: BBC·로이터·걸프뉴스·더프린트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아랍에미리트 해역에서 유출된 기름으로 해변 폐쇄 조치가 확대됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 유조선 피격 여파로 기름이 바다에 흘러들었다고 전했습니다.",
+      "card": "cover",
+      "screen": "페르시아만"
+    },
+    {
+      "text": "당국은 오염 우려가 커짐에 따라 인근 해변 폐쇄 조치를 확대하고 있습니다.",
+      "card": "points",
+      "screen": "해변 폐쇄 확대"
+    }
+  ],
+  "hook": "아랍에미리트 [[해변]]에\n밀려든 것은?",
+  "broll": [
+    "oil spill sea",
+    "beach closed barrier"
+  ],
+  "place_en": "Persian Gulf, UAE"
+}
