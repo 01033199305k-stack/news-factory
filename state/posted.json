@@ -26154,5 +26154,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793049363
+  },
+  {
+    "slug": "2026-10-27-news-anthropic-ipo-filing",
+    "event_ms": 1793056228239,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 인공지능 기업 앤스로픽이 사상 최대 규모의 기업공개를 신청했습니다\n\n· 앤스로픽은 미국 증권거래위원회에 관련 서류를 제출했습니다 (AP 통신·로이터)\n· 최고경영자는 인류를 향한 위험 가능성을 함께 경고했습니다 (AP 통신)\n\n여러분은 인공지능 기술의 급격한 성장이 기업공개 시장에 어떤 영향을 미칠 것으로 보십니까?\n출처: AP 통신·로이터·액시오스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18023531216934074",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De-bqHzoFdW",
+        "kind": "carousel",
+        "at": 1793056288
+      },
+      "instagram": {
+        "id": "18136880767565654",
+        "permalink": "https://www.instagram.com/reel/De-b8w5GlQh/",
+        "kind": "reel",
+        "at": 1793056450
+      },
+      "youtube": {
+        "id": "3qU-8KnRVaM",
+        "permalink": "https://youtube.com/shorts/3qU-8KnRVaM",
+        "kind": "shorts",
+        "at": 1793056467
+      },
+      "tiktok": {
+        "id": "7701118957121539336",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701118957121539336",
+        "kind": "video",
+        "at": 1793056598
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793056608
   }
 ]

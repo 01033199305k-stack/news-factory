@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-27-news-anthropic-ipo-filing",
+  "topic": "인공지능 기업 앤스로픽, 사상 최대 규모 기업공개 신청",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 06:31 KST",
+  "source": "AP News·Axios·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM",
+    "related": [
+      [
+        "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+        "AP News"
+      ],
+      [
+        "Anthropic, PBC - S-1 (Q2)",
+        "SEC.gov"
+      ],
+      [
+        "Anthropic IPO could unleash wave of new wealth in San Francisco",
+        "Axios"
+      ],
+      [
+        "I asked Claude to explain Anthropic’s IPO",
+        "CNN"
+      ],
+      [
+        "Anthropic's soaring sales, steep losses put AI frenzy to IPO test",
+        "Reuters"
+      ]
+    ],
+    "event_key": "anthropic_ipo_filing"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "인공지능 기업 앤스로픽,\n사상 최대 규모 [[기업공개]] 신청",
+      "sub": "최고경영자는 인류를 향한 위험 경고",
+      "chips": [
+        {
+          "k": "기업",
+          "v": "앤스로픽"
+        }
+      ],
+      "alt": "인공지능 기업 앤스로픽, 사상 최대 규모 기업공개 신청",
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n샌프란시스코",
+      "video_only": true,
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "샌프란시스코"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기업공개 추진",
+          "d": "앤스로픽이 사상 최대 규모의 기업공개를 위한 서류를 제출했습니다 (AP 통신·로이터)."
+        },
+        {
+          "t": "위험 경고",
+          "d": "최고경영자는 인류를 향한 위험 가능성을 경고했습니다 (AP 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "기업공개 신청",
+        "인류 위험 경고"
+      ],
+      "unconfirmed": [
+        "정확한 상장 시기와 공모가",
+        "향후 규제 당국의 심사 결과"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Axios",
+        "CNN",
+        "Reuters",
+        "SEC.gov",
+        "2026.10.27 08:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 인공지능 기업 앤스로픽이 사상 최대 규모의 기업공개를 신청했습니다\n\n· 앤스로픽은 미국 증권거래위원회에 관련 서류를 제출했습니다 (AP 통신·로이터)\n· 최고경영자는 인류를 향한 위험 가능성을 함께 경고했습니다 (AP 통신)\n\n여러분은 인공지능 기술의 급격한 성장이 기업공개 시장에 어떤 영향을 미칠 것으로 보십니까?\n출처: AP 통신·로이터·액시오스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인공지능 기업 앤스로픽이 사상 최대 규모의 기업공개를 신청했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "최고경영자는 인류를 향한 위험 가능성을 함께 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 상장 시기와 공모가는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 기업공개, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "인공지능 기업\n[[앤스로픽]]의 선택은?",
+  "broll": [
+    "stock exchange screen",
+    "computer server room"
+  ],
+  "place_en": "San Francisco, California"
+}
