@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "kenya-ebola-first-case-2026",
-    "topic": "케냐 사상 첫 에볼라 감염 확인",
-    "slug": "2026-10-06-news-kenya-ebola-first-case-2026",
-    "cluster": "CBMihAFBVV95cUxNa0FnQmRLaFN4d0x1LUdtZnJRSHNBeFhzc2pGc09RU1ZWcDBLdDdRT2Z4S3ZHaURpMEh3STlGdnlVeUlPekJVa0VVOUluZW1QOWhqRjRQUkVYXy1aakpJQ0U1cjJnRGdzc0FQczVWNEJSNHdONWJmVWl3Q1dYV2h1UG16SWk",
-    "badge": "breaking",
-    "at": 1791292102.2797856,
-    "country": "케냐",
-    "category": "재난"
-  },
-  {
     "event_key": "france-school-protests-2026",
     "topic": "프랑스 전역 고교 시위 격화 경찰 최루탄 발사",
     "slug": "2026-10-06-news-france-school-protests-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1792977664.9974246,
     "country": "브라질",
+    "category": "국제"
+  },
+  {
+    "event_key": "venezuela_machado_return_from_exile",
+    "topic": "베네수엘라 야권 지도자 마리아 마차도 망명 생활 마치고 귀국",
+    "slug": "2026-10-26-news-venezuela-machado-return-from-exile",
+    "cluster": "CBMiW0FVX3lxTE9xR2Z4WDJTQ2l5Q2steHAxSU9hZmVsVHFQZEljR0c0ajlIRWZVS2E0QmxRb0tCRF84TWdHLXJTRWRfOEt5V1pQVkdvRGpnWTNPYmdBTHhmS1BObFU",
+    "badge": "brief",
+    "at": 1792983986.4006045,
+    "country": "베네수엘라",
     "category": "국제"
   }
 ]

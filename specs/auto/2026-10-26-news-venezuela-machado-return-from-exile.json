@@ -1,0 +1,146 @@
+{
+  "slug": "2026-10-26-news-venezuela-machado-return-from-exile",
+  "topic": "베네수엘라 야권 지도자 마리아 마차도 망명 생활 마치고 귀국",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 08:33 KST",
+  "source": "AP News·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9xR2Z4WDJTQ2l5Q2steHAxSU9hZmVsVHFQZEljR0c0ajlIRWZVS2E0QmxRb0tCRF84TWdHLXJTRWRfOEt5V1pQVkdvRGpnWTNPYmdBTHhmS1BObFU",
+    "related": [
+      [
+        "Opposition leader María Machado returns to Venezuela",
+        "BBC"
+      ],
+      [
+        "María Corina Machado Returns to Venezuela",
+        "The New York Times"
+      ],
+      [
+        "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
+        "Fox News"
+      ],
+      [
+        "Venezuela's opposition leader Machado returns after months in exile, as doubts over democracy deepen",
+        "AP News"
+      ],
+      [
+        "Opposition leader María Corina Machado returns to Venezuela from exile",
+        "CNN"
+      ]
+    ],
+    "event_key": "venezuela_machado_return_from_exile"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "베네수엘라 야권 지도자 마리아 마차도\n망명 생활 마치고 [[귀국]]",
+      "sub": "약 1년 만에 본국으로 전격 복귀",
+      "chips": [
+        {
+          "k": "체류 기간",
+          "v": "약 1년"
+        }
+      ],
+      "alt": "베네수엘라 야권 지도자 마리아 마차도 망명 생활 마치고 귀국",
+      "map": {
+        "lat": 10.5060934,
+        "lon": -66.9146008,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "베네수엘라"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "베네수엘라\n카라카스",
+      "video_only": true,
+      "map": {
+        "lat": 10.5060934,
+        "lon": -66.9146008,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카라카스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "망명 기간",
+          "d": "해외에서 수개월 동안 망명 생활을 이어왔다고 AP통신 등이 보도했습니다."
+        },
+        {
+          "t": "정치적 파장",
+          "d": "야권 지도자의 귀국으로 민주주의 회복에 대한 기대와 의구심이 커지고 있다고 CNN이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "마리아 마차도 귀국",
+        "베네수엘라 야권 지도자",
+        "해외 망명 후 복귀"
+      ],
+      "unconfirmed": [
+        "정부의 향후 대응 조치",
+        "추가 정치 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "CNN",
+        "Fox News",
+        "The New York Times",
+        "2026.10.26 12:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 베네수엘라 야권 지도자 마리아 마차도가 망명 생활을 끝내고 본국으로 돌아왔습니다.\n\n· 약 1년 만에 해외에서 깜짝 귀국했다고 BBC와 뉴욕타임스가 보도했습니다.\n· 야권 지도자의 복귀로 민주주의 회복에 대한 기대와 의구심이 동시에 깊어지고 있다고 AP통신이 전했습니다.\n\n출처: BBC·뉴욕타임스·AP통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "베네수엘라 야권 지도자 마리아 마차도가 본국으로 전격 귀국했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 마차도가 해외에서 약 1년 동안의 망명 생활을 마치고 돌아왔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "AP통신은 야권 지도자의 복귀로 민주주의 회복에 대한 기대와 의구심이 커지고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정부의 구체적인 대응 조치는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 베네수엘라의 정국 변화를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "정국 변화 전망은?"
+    }
+  ],
+  "hook": "베네수엘라 야권 지도자가\n[[전격 귀국]]한 이유는?",
+  "broll": [
+    "caracas city street",
+    "venezuela flag building"
+  ],
+  "place_en": "Caracas, Venezuela"
+}

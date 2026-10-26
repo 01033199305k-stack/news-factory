@@ -25398,5 +25398,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792978012
+  },
+  {
+    "slug": "2026-10-26-news-venezuela-machado-return-from-exile",
+    "event_ms": 1792983986400,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 베네수엘라 야권 지도자 마리아 마차도가 망명 생활을 끝내고 본국으로 돌아왔습니다.\n\n· 약 1년 만에 해외에서 깜짝 귀국했다고 BBC와 뉴욕타임스가 보도했습니다.\n· 야권 지도자의 복귀로 민주주의 회복에 대한 기대와 의구심이 동시에 깊어지고 있다고 AP통신이 전했습니다.\n\n출처: BBC·뉴욕타임스·AP통신 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "베네수엘라"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18023413880714986",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De8R3oHmoOt",
+        "kind": "carousel",
+        "at": 1792984037
+      },
+      "instagram": {
+        "id": "17970887448180538",
+        "permalink": "https://www.instagram.com/reel/De8SH3RDO1O/",
+        "kind": "reel",
+        "at": 1792984189
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1792984199
+      },
+      "tiktok": {
+        "id": "7700808534031731989",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700808534031731989",
+        "kind": "video",
+        "at": 1792984321
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792984331
   }
 ]
