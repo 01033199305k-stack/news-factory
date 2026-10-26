@@ -25934,5 +25934,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793025324
+  },
+  {
+    "slug": "2026-10-26-news-egypt-parliament-approves-saudi-military-support-2026",
+    "event_ms": 1793023233000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이집트 의회가 사우디아라비아 방어를 위한 군사 지원을 공식 승인했습니다.\n\n· 예멘 후티 반군의 공격이 격화하자 군사 지원 승인이 이뤄졌습니다 (로이터·WRAL)\n· 구체적인 파병 규모와 배치 시기는 아직 확인되지 않았습니다 (블룸버그)\n\n이번 군사 지원 결정, 여러분은 어떻게 보십니까?\n\n출처: 로이터·블룸버그·WRAL 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이집트"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18175647379457525",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De9k9TXm_oA",
+        "kind": "carousel",
+        "at": 1793027601
+      },
+      "instagram": {
+        "id": "18148499521559861",
+        "permalink": "https://www.instagram.com/reel/De9sUZhHI0j/",
+        "kind": "reel",
+        "at": 1793031476
+      },
+      "youtube": {
+        "id": "2Qd9AtxNXPA",
+        "permalink": "https://youtube.com/shorts/2Qd9AtxNXPA",
+        "kind": "shorts",
+        "at": 1793031578
+      },
+      "tiktok": {
+        "id": "7701012051841371412",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701012051841371412",
+        "kind": "video",
+        "at": 1793031710
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793031720
   }
 ]
