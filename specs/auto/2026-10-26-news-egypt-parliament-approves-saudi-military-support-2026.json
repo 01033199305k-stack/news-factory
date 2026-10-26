@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-26-news-egypt-parliament-approves-saudi-military-support-2026",
+  "topic": "이집트 의회, 사우디에 군사 지원 공식 승인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 23:00 KST",
+  "source": "Al Jazeera·Bloomberg.com·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN",
+    "related": [
+      [
+        "Egypt approves military support for Saudi Arabia after Houthi attacks escalate",
+        "Reuters"
+      ],
+      [
+        "Why is Egypt so wary of getting involved in Yemen’s conflict?",
+        "Al Jazeera"
+      ],
+      [
+        "Egypt Parliament Backs El-Sisi’s Offer to Defend Saudi Arabia",
+        "Bloomberg.com"
+      ],
+      [
+        "Africa’s most powerful military commander draws a red line on Yemen as Egypt prepares to defend Saudi Arabia",
+        "Business Insider Africa"
+      ],
+      [
+        "Egypt's parliament authorizes military support for Saudi Arabia to defend against Houthi attacks",
+        "WRAL"
+      ]
+    ],
+    "event_key": "egypt_parliament_approves_saudi_military_support_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이집트 의회, 사우디에\n군사 지원 [[공식 승인]]",
+      "sub": "후티 반군 공격 격화에 방어 지원",
+      "chips": [
+        {
+          "k": "지원 대상",
+          "v": "사우디아라비아"
+        },
+        {
+          "k": "의결 기관",
+          "v": "이집트 의회"
+        }
+      ],
+      "alt": "이집트 의회, 사우디에 군사 지원 공식 승인",
+      "map": {
+        "lat": 30.0443879,
+        "lon": 31.2357257,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이집트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이집트\n카이로",
+      "video_only": true,
+      "map": {
+        "lat": 30.0443879,
+        "lon": 31.2357257,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카이로"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "의회 승인 가결",
+          "d": "이집트 의회가 사우디아라비아 방어를 위한 군사 지원안을 공식 승인했습니다 (로이터·블룸버그)."
+        },
+        {
+          "t": "후티 공격 대응",
+          "d": "예멘 후티 반군의 공격이 격화함에 따라 군사 지원이 추진됐습니다 (로이터·WRAL)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이집트 의회 군사 지원 승인",
+        "사우디아라비아 방어 목적"
+      ],
+      "unconfirmed": [
+        "파병 규모 및 배치 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "Business Insider Africa",
+        "Reuters",
+        "WRAL",
+        "2026.10.27 00:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이집트 의회가 사우디아라비아 방어를 위한 군사 지원을 공식 승인했습니다.\n\n· 예멘 후티 반군의 공격이 격화하자 군사 지원 승인이 이뤄졌습니다 (로이터·WRAL)\n· 구체적인 파병 규모와 배치 시기는 아직 확인되지 않았습니다 (블룸버그)\n\n이번 군사 지원 결정, 여러분은 어떻게 보십니까?\n\n출처: 로이터·블룸버그·WRAL 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이집트 의회가 사우디 군사 지원을 공식 승인했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 후티 반군의 공격이 격화하자 사우디 방어 지원을 결정했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 파병 규모와 배치 시기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 군사 지원 결정, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이집트 의회가\n사우디 군사 지원 [[승인한 이유]]",
+  "broll": [
+    "parliament hall",
+    "military troop tank"
+  ],
+  "place_en": "Cairo, Egypt"
+}
