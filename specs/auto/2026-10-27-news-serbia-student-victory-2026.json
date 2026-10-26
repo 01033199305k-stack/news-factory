@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-27-news-serbia-student-victory-2026",
+  "topic": "세르비아 학생 야권 선거 승리 알레크산다르 부치치 정권 몰락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 04:12 KST",
+  "source": "Reuters·The Economist·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwAFBVV95cUxORGg3em1IdVYyMmdVdUtxRm1LUXpwanNXVWhpOHdtZVlIRmlpYTNRYTBDYV9jdXJxejZDYWNIVTlJU0J3bTk3RTRtR1dIM3lRUjhpTkxVa3ZMRnN3N0U2MlRlZFNSV0trNDgzZk5Ed2d0Wm40U1VVRUdUd3ExLTdXN1NvRUN3VXFWVkVQcE9rbk1sUHRZNXJTaXFmY3c4V3VKVDVtQUVMb1ZZMl8yUEpKNkUxZWtRQjFjbXlSdUZGbmo",
+    "related": [
+      [
+        "Serbian students surge to power with defeat of strongman leader Aleksandar Vucic",
+        "The Washington Post"
+      ],
+      [
+        "As students we never sought power – here’s how we reclaimed Serbia | Novak Simin",
+        "The Guardian"
+      ],
+      [
+        "Serbia’s Election Shows New Vulnerability for Nationalist Populists",
+        "The New York Times"
+      ],
+      [
+        "Aleksandar Vucic, Serbia’s autocrat, loses to a bunch of students",
+        "The Economist"
+      ],
+      [
+        "Gloom in Moscow as Vucic's defeat in Serbia deprives Russia of an ally",
+        "Reuters"
+      ]
+    ],
+    "event_key": "serbia_student_victory_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "세르비아 학생 야권 선거 승리\n[[알레크산다르 부치치]] 정권 몰락",
+      "sub": "러시아의 핵심 동맹국 정권 교체 달성",
+      "chips": [],
+      "alt": "세르비아 학생 야권 선거 승리 알레크산다르 부치치 정권 몰락",
+      "map": {
+        "lat": 44.8153318,
+        "lon": 20.4456588,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "세르비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "세르비아\n베오그라드",
+      "video_only": true,
+      "map": {
+        "lat": 44.8153318,
+        "lon": 20.4456588,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베오그라드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "정권 교체",
+          "d": "학생 주도 야권이 세르비아 선거에서 승리했다고 워싱턴포스트 등이 보도했습니다."
+        },
+        {
+          "t": "러시아 반응",
+          "d": "부치치 대통령의 패배로 러시아가 동맹을 잃었다고 로이터 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "세르비아 선거 야권 승리",
+        "부치치 정권 패배"
+      ],
+      "unconfirmed": [
+        "향후 신임 정부의 구체적 외교 노선",
+        "러시아의 공식 외교적 대응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Reuters",
+        "The Economist",
+        "The Guardian",
+        "The New York Times",
+        "The Washington Post",
+        "2026.10.27 06:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 세르비아 선거에서 학생 주도 야권이 승리했습니다\n\n· 학생들의 참여로 오랫동안 집권한 알레크산다르 부치치 정권이 무너졌다고 워싱턴포스트 등이 보도했습니다\n· 이번 패배로 러시아는 동맹을 잃게 됐다고 로이터 등이 전했습니다\n\n여러분은 이번 정권 교체가 국제 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: 워싱턴포스트·가디언·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "세르비아 선거에서 학생 주도 야권이 승리했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "워싱턴포스트 등은 학생들의 저항으로 부치치 정권이 무너졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터는 이번 패배로 러시아가 동맹을 잃었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "신임 정부의 구체적인 외교 정책은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 세르비아의 정권 교체를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "세르비아에서 일어난\n[[대이변]]의 정체는?",
+  "broll": [
+    "city street crowd",
+    "government building exterior"
+  ],
+  "place_en": "Belgrade, Serbia"
+}
