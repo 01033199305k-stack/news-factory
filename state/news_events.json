@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "saudi-houthi-airport-aramco-attack-2026",
-    "topic": "후티 사우디 공항·정유소 습격 드론·미사일 공격 감행",
-    "slug": "2026-10-07-news-saudi-houthi-airport-aramco-attack-2026",
-    "cluster": "CBMipgFBVV95cUxNb1V3ay1naHVaQ203NzVqdC1peEhfckdfSG9VX2dRU0lkMHNrT2tRT2tfLWtsS0dyb2pNTzVhYnhEMi1ONFc4OTlwTWlmaVVWWF84ZXdNeFBpbFNyT0ltZFJBem0ycklXZFJsSDVpcGVSSXpBUl9JWm9HWEliSEFDZ2FUN3pwLUZVSGVaME1CYWlIMmE4SVpLazNiVGcxZ2lHVjJrOUh3",
-    "badge": "breaking",
-    "at": 1791342494.0424826,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "flydubai-pilot-cockpit-attack-2026",
     "topic": "두바이행 여객기 조종실서 난동 조종사 두개골 골절 중상",
     "slug": "2026-10-07-news-flydubai-pilot-cockpit-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793020233.822026,
     "country": "일본",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "us_evacuates_mideast_iran_threat_2026",
+    "topic": "미국, 이란 위협에 중동 기지·대사관 철수",
+    "slug": "2026-10-26-news-us-evacuates-mideast-iran-threat-2026",
+    "cluster": "CBMixAFBVV95cUxPSHhub0JHVm1Ca0QxUlBiM1hjSjkxZE5ZcHU2RERranBCd0l5X1VTNTI0ZWpiRHdhbG96MmEtUGNnTHZiWUZFM2NRSWdMZjlIaDNORWIzMDAxMVJtQW5sSjgtaUZ2Qm93VFliS255SjZBdUpkaWVjMFdVUnkxOEo0Z0p3dUVnTVlzOXNuLS1saGZCb2JqMmgteG9aeFM5NTg4SEJJM0hsYXdNeTRBbkZmRXVOMHpfaHRmQ3RXQ1BmWlVlZDhB",
+    "badge": "brief",
+    "at": 1793024639.9114995,
+    "country": "미국",
+    "category": "국제"
   }
 ]

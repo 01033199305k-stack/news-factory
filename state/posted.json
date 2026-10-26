@@ -25879,5 +25879,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793020695
+  },
+  {
+    "slug": "2026-10-26-news-us-evacuates-mideast-iran-threat-2026",
+    "event_ms": 1793024639911,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 정부가 이란의 공격 위협으로 중동 주재 대사관 인력을 감축했습니다.\n\n· 이란이 미국 관련 대상을 겨냥해 공격을 계획하고 있다는 정보가 포착됐습니다 (NYT·로이터).\n· 미국 정부는 중동 지역 4개 대사관의 인력을 줄이고 일부 외곽 기지에서 철수했습니다 (AP·WSJ).\n· 인력 감축 대상 기지와 구체적인 철수 규모는 공개되지 않았습니다 (AP).\n\n미국의 이번 대응이 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 월스트리트저널·뉴욕타임스·로이터·AP 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18227540008331150",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De9fad0EYn3",
+        "kind": "carousel",
+        "at": 1793024695
+      },
+      "instagram": {
+        "id": "18108046897973661",
+        "permalink": "https://www.instagram.com/reel/De9fxIMkSCW/",
+        "kind": "reel",
+        "at": 1793024897
+      },
+      "youtube": {
+        "id": "6ekwSGflAIs",
+        "permalink": "https://youtube.com/shorts/6ekwSGflAIs",
+        "kind": "shorts",
+        "at": 1793025102
+      },
+      "tiktok": {
+        "id": "6adf6459845924629ecf8f42",
+        "permalink": "",
+        "kind": "video",
+        "at": 1793025314
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793025324
   }
 ]

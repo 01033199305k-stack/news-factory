@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-26-news-us-evacuates-mideast-iran-threat-2026",
+  "topic": "미국, 이란 위협에 중동 기지·대사관 철수",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 22:18 KST",
+  "source": "AP News·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixAFBVV95cUxPSHhub0JHVm1Ca0QxUlBiM1hjSjkxZE5ZcHU2RERranBCd0l5X1VTNTI0ZWpiRHdhbG96MmEtUGNnTHZiWUZFM2NRSWdMZjlIaDNORWIzMDAxMVJtQW5sSjgtaUZ2Qm93VFliS255SjZBdUpkaWVjMFdVUnkxOEo0Z0p3dUVnTVlzOXNuLS1saGZCb2JqMmgteG9aeFM5NTg4SEJJM0hsYXdNeTRBbkZmRXVOMHpfaHRmQ3RXQ1BmWlVlZDhB",
+    "related": [
+      [
+        "U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans",
+        "WSJ"
+      ],
+      [
+        "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
+        "The New York Times"
+      ],
+      [
+        "Iran has ramped up efforts to target US personnel, intelligence memo warns",
+        "Reuters"
+      ],
+      [
+        "US is reducing staffing at 4 Middle East embassies over increased threats from Iran",
+        "AP News"
+      ],
+      [
+        "New threats could push US and Iran toward war",
+        "Semafor"
+      ]
+    ],
+    "event_key": "us_evacuates_mideast_iran_threat_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국, 이란 위협에\n중동 [[기지·대사관]] 철수",
+      "sub": "이란의 공격 위협 정보에 중동 4개 대사관 인력 감축 조치",
+      "chips": [
+        {
+          "k": "대사관 인력",
+          "v": "감축"
+        }
+      ],
+      "alt": "미국, 이란 위협에 중동 기지·대사관 철수",
+      "map": {
+        "lat": 39.3014159,
+        "lon": -76.5888477,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n중동",
+      "video_only": true,
+      "map": {
+        "lat": 39.3014159,
+        "lon": -76.5888477,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "중동"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이란 공격 정보 포착",
+          "d": "미국 정보 당국은 이란이 미국 관련 대상을 겨냥한 공격을 준비 중이라는 정황을 포착했습니다 (NYT·로이터)."
+        },
+        {
+          "t": "4개 대사관 인력 축소",
+          "d": "미국 정부는 안전을 위해 중동 지역 4개 대사관의 인력을 줄이기로 결정했습니다 (AP)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 정부 중동 대사관 인력 감축",
+        "이란의 미국 대상 공격 위협 정보"
+      ],
+      "unconfirmed": [
+        "구체적인 대피 기지 위치",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Reuters",
+        "Semafor",
+        "The New York Times",
+        "WSJ",
+        "2026.10.26 23:23 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 정부가 이란의 공격 위협으로 중동 주재 대사관 인력을 감축했습니다.\n\n· 이란이 미국 관련 대상을 겨냥해 공격을 계획하고 있다는 정보가 포착됐습니다 (NYT·로이터).\n· 미국 정부는 중동 지역 4개 대사관의 인력을 줄이고 일부 외곽 기지에서 철수했습니다 (AP·WSJ).\n· 인력 감축 대상 기지와 구체적인 철수 규모는 공개되지 않았습니다 (AP).\n\n미국의 이번 대응이 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 월스트리트저널·뉴욕타임스·로이터·AP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 이란의 공격 위협으로 중동 주재 대사관 인력을 감축했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란이 미국인과 미국 인력을 표적으로 공격을 준비 중이라는 정보가 포착됐기 때문입니다.",
+      "card": "map"
+    },
+    {
+      "text": "미국 정부는 중동 지역 4개 대사관의 인력을 줄이고 일부 외곽 기지에서 철수시켰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 기지 위치와 정확한 철수 인원은 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 조치가 중동 지역 정세에 어떤 영향을 가져올까요?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 [[중동 기지]]에서\n철수하는 이유",
+  "broll": [
+    "embassy building entrance",
+    "military base desert"
+  ],
+  "place_en": "Middle East"
+}
