@@ -25665,5 +25665,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793003159
+  },
+  {
+    "slug": "2026-10-26-news-strait-of-hormuz-tanker-explosions-2026",
+    "event_ms": 1792996507000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 호르무즈 해협서 대형 유조선 폭발 사고 발생\n\n· 이란 혁명수비대는 유조선 2대가 기뢰에 부딪혀 폭발했다고 밝혔습니다 (타스님 통신)\n· 이란 당국은 호르무즈 해협에서 선박 7척이 피격됐다고 주장했습니다 (알자지라)\n· 이란이 유조선 폭발을 보고한 가운데 트럼프는 재타격 가능성을 암시했습니다 (CGTN)\n\n해상 주요 수송로의 긴장 고조, 어떻게 보십니까?\n\n출처: 타스님 통신·알자지라·CGTN 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18179989540434855",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De874WCFvXq",
+        "kind": "carousel",
+        "at": 1793006063
+      },
+      "instagram": {
+        "id": "17988041573887892",
+        "permalink": "https://www.instagram.com/reel/De88JuJiWmB/",
+        "kind": "reel",
+        "at": 1793006218
+      },
+      "youtube": {
+        "id": "51d-IcIGTn8",
+        "permalink": "https://youtube.com/shorts/51d-IcIGTn8",
+        "kind": "shorts",
+        "at": 1793006385
+      },
+      "tiktok": {
+        "id": "7700903285712030977",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700903285712030977",
+        "kind": "video",
+        "at": 1793006517
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793006527
   }
 ]

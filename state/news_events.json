@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "pakistan_fatah4_missile_test",
-    "topic": "파키스탄, 개량형 순항미사일 '파타-4' 시험 발사 성공",
-    "slug": "2026-10-07-news-pakistan-fatah4-missile-test",
-    "cluster": "CBMi5wFBVV95cUxOX0NTOXBQT21idXNGLTZ5LW82MmRtajVzOUxqTFVFUWJBenlEUVVGWHBNNkd1bmwya3haMzFxQ1c2MzlYQkpEOE80eU9VdGgtWEFmaFZ5REI0QkRFc3JBRWNLX2RYOWhlZnB6dklNTUFfN0t1RlhTMHJWVzJmZkw1bnc0T2JHXzdNVGJPcVFTc28zSWpTNWlmRWJOSlJhRlVLT3JnRU90U0FUOVZFSU95T3E3TGs5MGpPYmh5VkdaZ0hOQzJiN1c3bWoya0x1cXR3MVcwNU9jQzBtLXRRTkxMWS1oUkJ3UDDSAewBQVVfeXFMT1oxbXUtQm04UW1yRENRaVo4eUt6NmdYeHNTeU1EYXY3bmUyMTRSMzQ1U1RjcGZvT1RQWkRNMHdBSzNkaFBUZUZ6eGI3MFg3NGdSVnNSTHNUNzlmajNHTGlsUXBrT2NMckJVUThkTkFzeldUdGVhMS1TNzNKUXpxZTZNcGYwOFVFbl9BR3lNSEZJOXBRbnYzRVVqek1tc3pKTXZZemJELVdOdE5QbFM1Q3hLT2NWb0hxbGdfeG9vZXQ2QmxCZ0t0MWVLXzEzWW0yZDVrcHM4Z1B1ZTgzVFcxLU1SdVl6YTc5UXI2Wks",
-    "badge": "breaking",
-    "at": 1791317282.2891324,
-    "country": "파키스탄",
-    "category": "국제"
-  },
-  {
     "event_key": "canada-school-shooting-us-accomplice-arrest",
     "topic": "캐나다 학교 총격 사건 연루 미국인 체포",
     "slug": "2026-10-07-news-canada-school-shooting-us-accomplice-arrest",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793002421.3311365,
     "country": "이스라엘",
+    "category": "국제"
+  },
+  {
+    "event_key": "strait_of_hormuz_tanker_explosions_2026",
+    "topic": "호르무즈 해협서 대형 유조선 폭발",
+    "slug": "2026-10-26-news-strait-of-hormuz-tanker-explosions-2026",
+    "cluster": "CBMidkFVX3lxTE0tNTVnUzVyMmExWFFYaU9rN25jZDZJaFZ3cF9ZeW1jSllXT3ZVeEJxNHNZRUVEU1hWdHpPMGdyczd6SFFRQTJCZFNJX1p1dW42WkIyMWJfN0c3ZERSQ2dzS3QwanlPbmg2Nk95bTdGZmZnV1pVR0E",
+    "badge": "breaking",
+    "at": 1793006018.4223394,
+    "country": "이란",
     "category": "국제"
   }
 ]

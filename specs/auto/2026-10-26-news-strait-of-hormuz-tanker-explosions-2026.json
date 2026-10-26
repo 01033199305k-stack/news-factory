@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-26-news-strait-of-hormuz-tanker-explosions-2026",
+  "topic": "호르무즈 해협서 대형 유조선 폭발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 15:35 KST",
+  "source": "Al Jazeera·The Times of India·CGTN 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMidkFVX3lxTE0tNTVnUzVyMmExWFFYaU9rN25jZDZJaFZ3cF9ZeW1jSllXT3ZVeEJxNHNZRUVEU1hWdHpPMGdyczd6SFFRQTJCZFNJX1p1dW42WkIyMWJfN0c3ZERSQ2dzS3QwanlPbmg2Nk95bTdGZmZnV1pVR0E",
+    "related": [
+      [
+        "Inside the worst month for ships in the Strait of Hormuz",
+        "Al Jazeera"
+      ],
+      [
+        "October records highest number of ship attacks in Strait of Hormuz",
+        "The Times of India"
+      ],
+      [
+        "Iran says seven ships hit in Hormuz Strait, warns US of wider response",
+        "Al Jazeera"
+      ],
+      [
+        "Two Supertankers Explode After Hitting Mines in Strait of Hormuz: IRGC - Politics news - Tasnim News Agency",
+        "تسنیم"
+      ],
+      [
+        "Iran reports tanker blasts in Hormuz as Trump hints at renewed strikes",
+        "CGTN"
+      ]
+    ],
+    "event_key": "strait_of_hormuz_tanker_explosions_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈 해협서\n[[대형 유조선 폭발]]",
+      "sub": "이란 혁명수비대 \"기뢰 접촉으로 선박 피격\"",
+      "chips": [
+        {
+          "k": "발생 지역",
+          "v": "호르무즈 해협"
+        }
+      ],
+      "alt": "호르무즈 해협서 대형 유조선 폭발",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기뢰 폭발 주장",
+          "d": "이란 혁명수비대는 유조선 2대가 기뢰에 부딪혀 폭발했다고 밝혔습니다 (타스님 통신)."
+        },
+        {
+          "t": "피격 선박 주장",
+          "d": "이란 당국은 호르무즈 해협에서 총 7척의 선박이 피격됐다고 발표했습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호르무즈 해협 유조선 폭발",
+        "이란 측 피격 공식 발표"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모 및 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CGTN",
+        "The Times of India",
+        "تسنیم",
+        "2026.10.26 18:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협서 대형 유조선 폭발 사고 발생\n\n· 이란 혁명수비대는 유조선 2대가 기뢰에 부딪혀 폭발했다고 밝혔습니다 (타스님 통신)\n· 이란 당국은 호르무즈 해협에서 선박 7척이 피격됐다고 주장했습니다 (알자지라)\n· 이란이 유조선 폭발을 보고한 가운데 트럼프는 재타격 가능성을 암시했습니다 (CGTN)\n\n해상 주요 수송로의 긴장 고조, 어떻게 보십니까?\n\n출처: 타스님 통신·알자지라·CGTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 대형 유조선 폭발 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란 혁명수비대는 유조선 2대가 기뢰 접촉으로 폭발했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이란 당국은 해협 내 선박 7척이 피격됐다며 미국에 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피격 경위와 인명 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "중동 주요 해상 수송로의 긴장 고조, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[호르무즈 해협]]\n유조선 폭발",
+  "broll": [
+    "oil tanker sea",
+    "strait of hormuz"
+  ],
+  "place_en": "Strait of Hormuz"
+}
