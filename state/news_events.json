@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "hormuz-tanker-attack-crew-injured-2026",
-    "topic": "호르무즈 해협서 유조선 피격… 11명 부상",
-    "slug": "2026-10-07-news-hormuz-tanker-attack-crew-injured-2026",
-    "cluster": "CBMirgFBVV95cUxOZWtvNFJvczBTblE5eGRWUzBIUTlINnREWXQ2TWVXR3dzQ05uLUdVZ2JEUDRSZjFhc3FzYlF6cU5LVWR3OWN4X3ZKRGM0ZUdSNjQ1UnBFQzdGYmowQ3laQlc5aEZpV0pIeTFMTlppQUVmejFXb0M1akxpSTVvcGJaQTNSRTNGUmZNWl9Yd2FCVTB2TDRMdlB6U0g3Tk41TW5sOGJwbFZTb2hHZGNqR3fSAbMBQVVfeXFMT2FKTm9vN2pFbG1rLUZPdnVZNFloUVNuU0ZxZFJPZzBPMjA4T3lWVEJEX3QzZXd3RjVlY09SUXBVX0JMRndvNl82VkpnOWhDVzAyWjktSzhuc003bi01MXBEWTFqZjBXamlNTXpXRGZDOHlPSnNpbUdCVzlfRVFWTTg4bVl0TDg3Rzg2czZTdldZRWVnc2NqY1NqZnlBSC1tNm94ZUFRWDVOUVk5c291dkhKS2s",
-    "badge": "brief",
-    "at": 1791357857.5050402,
-    "country": "오만",
-    "category": "국제"
-  },
-  {
-    "event_key": "russia_ukraine_airstrike",
-    "topic": "러시아군 우크라이나 전역 공습 최소 8명 사망",
-    "slug": "2026-10-07-news-russia-ukraine-airstrike",
-    "cluster": "CBMiW0FVX3lxTE1kVG5tcjYxdlB3cTF6UGZaaXFYMG5QQmgweGdVX3YzbzNHcFVrTHVkaEdHeThWeHhERWFYUjhhZEsyUWQyZFVkWFJTQkRRYy1HVVlqUllzOE5uOWfSAWBBVV95cUxOd09vdmhHY21CM1hzR0FVRjlVTkRZSFYxeWR3blh1a19GNmE5NHJjQnY1cFZjVTY2Z2tMZXhlakJXeDZ2UlpLV1V0dV9XMFFtY0dtajRJVFc1SmpIOXJPZl8",
-    "badge": "brief",
-    "at": 1791364802.0026042,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "korea-nuri-rocket-5th-launch-success-2026",
     "topic": "누리호 5차 발사 성공 우주 향해 위성 사출",
     "slug": "2026-10-07-news-korea-nuri-rocket-5th-launch-success-2026",
@@ -2997,6 +2977,26 @@
     "badge": "breaking",
     "at": 1793027521.338546,
     "country": "이집트",
+    "category": "국제"
+  },
+  {
+    "event_key": "iran_saudi_diplomacy_tehran_2026",
+    "topic": "이란·사우디, 테헤란서 회담 평화 추구 합의",
+    "slug": "2026-10-27-news-iran-saudi-diplomacy-tehran-2026",
+    "cluster": "CBMitgFBVV95cUxONk1ubVptNEpFS3lXMGZ6TnEwaHN4aVh1c3ZhMkc3T0xoYzBXWHpJYXgyZ20tMmRhQTQ0X1ptZ3RJd2c0bjVuN19kaDRHS1hKdjM5R1dNbjN2Y1ZCRkhpdndVYXlibUFreS13QmN3dC1NcmJSel9aUHdBcEE0QUxUcTlHS2NkdGhwSjFGc0lGT2lIOWY5OW9aX2dNX3RLdTNvWEF3NVI5dGNIa3pnalFiT0hMVEFoZ9IBuwFBVV95cUxOUEFzeTRiSDlJa0pLZXVPUVI3NVRqSjVfSzlxMnJGQWNtMzNTcmdwVTFkR2dTXzB5MXRzLUF2ZEFqcHVyRDE2Z0IwaW94UUVDQTltQjFKbGNJd1RTRjV3UTBXY0NxQmh1aExGWEVaMnJscUZmRkJLTWJoaG1aU2drSDRMcnJYVXBVUVYxbmZ3MFpnYkFjLWp4b2dSMFdpdkphbE90UHFfZHBVUTJyQXVNcFVGV0JRM2REZ18w",
+    "badge": "breaking",
+    "at": 1793038037.4586952,
+    "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "saudi_houthi_missile_clash_2026",
+    "topic": "사우디 주도 연합군 후티 반군 미사일 시설 타격",
+    "slug": "2026-10-27-news-saudi-houthi-missile-clash-2026",
+    "cluster": "CBMikgFBVV95cUxQQ2ZURmR6T3lKaFZzbDlabVVqcnpoM2FrYnh6YURqOGZlTDlOVFZ0TTFSckF4THV3RUxwcVJySHhmRU9ZdWNycnQ3LVVlY3p5WW1uX1BlSjYtVTN0eGVLZlA5QXFCMGQ0Si1KY3AxZFpRLTdBUE14WmdCLU9xT2tZWnJ0WkpHNDMxd0JwTnFSMnFuUQ",
+    "badge": "breaking",
+    "at": 1793038059.3047721,
+    "country": "사우디아라비아",
     "category": "국제"
   }
 ]

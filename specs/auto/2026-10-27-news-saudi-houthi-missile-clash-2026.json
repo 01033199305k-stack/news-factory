@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-27-news-saudi-houthi-missile-clash-2026",
+  "topic": "사우디 주도 연합군 후티 반군 미사일 시설 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 02:04 KST",
+  "source": "ABC News·AP News·Al Jazeera 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxQQ2ZURmR6T3lKaFZzbDlabVVqcnpoM2FrYnh6YURqOGZlTDlOVFZ0TTFSckF4THV3RUxwcVJySHhmRU9ZdWNycnQ3LVVlY3p5WW1uX1BlSjYtVTN0eGVLZlA5QXFCMGQ0Si1KY3AxZFpRLTdBUE14WmdCLU9xT2tZWnJ0WkpHNDMxd0JwTnFSMnFuUQ",
+    "related": [
+      [
+        "Saudi-led coalition says it destroyed Houthi missile facilities, and other Mideast news",
+        "AP News"
+      ],
+      [
+        "Iran live updates: Houthis claim new attack on Riyadh airport, Saudis report interception",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies",
+        "Reuters"
+      ],
+      [
+        "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis",
+        "CNBC"
+      ],
+      [
+        "Saudi-led coalition says it struck Houthi missile facilities",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "saudi_houthi_missile_clash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "사우디 주도 연합군\n후티 반군 [[미사일 시설]] 타격",
+      "sub": "사우디아라비아와 후티 반군 간 공방 이어져",
+      "chips": [
+        {
+          "k": "공격",
+          "v": "미사일 시설"
+        }
+      ],
+      "alt": "사우디 주도 연합군 후티 반군 미사일 시설 타격",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "시설 타격",
+          "d": "사우디 주도 연합군이 후티 반군의 미사일 시설을 파괴 및 타격했다고 외신들이 보도했습니다."
+        },
+        {
+          "t": "반군 주장",
+          "d": "후티 반군은 리야드 공항과 송유 펌프장을 공격했다고 주장했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 주도 연합군의 미사일 시설 타격",
+        "후티 반군의 리야드 공항 및 송유 펌프장 공격 주장",
+        "사우디의 미사일·드론 요격 발표"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "Al Jazeera",
+        "CNBC",
+        "Reuters",
+        "2026.10.27 03:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 주도 연합군, 후티 반군 미사일 시설 타격 (AP·로이터)\n\n· 사우디아라비아는 이란 지원을 받는 후티 반군의 미사일과 드론을 요격했다고 밝혔습니다 (CNBC)\n· 후티 반군은 리야드 공항과 석유 펌프장을 공격했다고 주장했습니다 (로이터)\n\n출처: AP·로이터·CNBC·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디 주도 연합군이 후티 반군의 미사일 시설을 타격했다고 외신들이 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디 측은 이란이 지원하는 후티 반군의 미사일과 드론을 요격했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "후티 반군은 리야드 공항과 석유 펌프장을 공격했다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "사우디아라비아에서\n[[미사일 시설]]이 타격받은 상황은?",
+  "broll": [
+    "missile defense system",
+    "oil refinery smoke"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}

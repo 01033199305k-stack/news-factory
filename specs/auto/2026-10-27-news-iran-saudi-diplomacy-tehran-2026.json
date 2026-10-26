@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-27-news-iran-saudi-diplomacy-tehran-2026",
+  "topic": "이란·사우디, 테헤란서 회담 평화 추구 합의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 02:48 KST",
+  "source": "Al Jazeera·Reuters·The New York Times 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxONk1ubVptNEpFS3lXMGZ6TnEwaHN4aVh1c3ZhMkc3T0xoYzBXWHpJYXgyZ20tMmRhQTQ0X1ptZ3RJd2c0bjVuN19kaDRHS1hKdjM5R1dNbjN2Y1ZCRkhpdndVYXlibUFreS13QmN3dC1NcmJSel9aUHdBcEE0QUxUcTlHS2NkdGhwSjFGc0lGT2lIOWY5OW9aX2dNX3RLdTNvWEF3NVI5dGNIa3pnalFiT0hMVEFoZ9IBuwFBVV95cUxOUEFzeTRiSDlJa0pLZXVPUVI3NVRqSjVfSzlxMnJGQWNtMzNTcmdwVTFkR2dTXzB5MXRzLUF2ZEFqcHVyRDE2Z0IwaW94UUVDQTltQjFKbGNJd1RTRjV3UTBXY0NxQmh1aExGWEVaMnJscUZmRkJLTWJoaG1aU2drSDRMcnJYVXBVUVYxbmZ3MFpnYkFjLWp4b2dSMFdpdkphbE90UHFfZHBVUTJyQXVNcFVGV0JRM2REZ18w",
+    "related": [
+      [
+        "Mecca defence alliance members in Tehran to defuse Iran-US, Yemen tensions",
+        "Al Jazeera"
+      ],
+      [
+        "Iran war live: Tehran says agreed with Mecca pact states to seek peace",
+        "Al Jazeera"
+      ],
+      [
+        "Saudi defence pact countries push for peace in Tehran as Houthis launch more attacks",
+        "Reuters"
+      ],
+      [
+        "Flurry of Diplomacy in Iran as Regional Countries Try to Stave Off War",
+        "The New York Times"
+      ],
+      [
+        "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate",
+        "CNBC"
+      ]
+    ],
+    "event_key": "iran_saudi_diplomacy_tehran_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란·사우디, 테헤란서 회담\n[[평화 추구]] 합의",
+      "sub": "사우디 국방장관이 이란 대통령을 만나 긴장 완화 논의",
+      "chips": [
+        {
+          "k": "회담",
+          "v": "테헤란"
+        }
+      ],
+      "alt": "이란·사우디, 테헤란서 회담 평화 추구 합의",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "외교 노력",
+          "d": "지역 국가들이 전쟁을 막기 위해 이란에서 외교적 노력을 기울이고 있다고 로이터·알자지라 등이 보도했습니다."
+        },
+        {
+          "t": "유가 움직임",
+          "d": "사우디 국방장관의 이란 방문 소식에 유가가 소폭 하락했다고 CNBC가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 국방장관 테헤란 방문",
+        "이란과 사우디 평화 추구 합의"
+      ],
+      "unconfirmed": [
+        "구체적인 평화 협정 이행 일정",
+        "예멘 및 미국과의 긴장 해소 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNBC",
+        "Reuters",
+        "The New York Times",
+        "2026.10.27 03:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란·사우디, 테헤란서 회담 열고 평화 추구 합의 (알자지라·로이터)\n\n· 사우디 국방장관이 이란 대통령을 만나 긴장 완화 방안을 논의했습니다 (CNBC)\n· 지역 국가들이 전쟁 위기를 막기 위해 외교전을 펼치고 있습니다 (NYT)\n\n이란과 사우디의 이번 외교적 접촉이 중동 긴장을 실제로 낮출 수 있다고 보십니까?\n\n출처: 알자지라·로이터·NYT·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란과 사우디아라비아 측이 테헤란에서 회담을 열고 평화를 추구하기로 합의했다고 알자지라 등이 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디 국방장관은 이란 대통령을 만나 지역 긴장 완화 방안을 논의했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "외교적 노력이 이어지면서 유가는 소폭 하락했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 평화 협정 이행 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 양국의 만남이 중동 평화로 이어질 것으로 보십니까?",
+      "card": "ask",
+      "screen": "평화로 이어질까?"
+    }
+  ],
+  "hook": "이란과 사우디가\n[[테헤란]]에서 만난 이유는?",
+  "broll": [
+    "stock exchange screen",
+    "city skyline sunset"
+  ],
+  "place_en": "Tehran, Iran"
+}
