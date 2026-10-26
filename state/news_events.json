@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "jeffrey-archer-death-2026",
-    "topic": "영국 소설가이자 정치인 제프리 아처 별세",
-    "slug": "2026-10-06-news-jeffrey-archer-death-2026",
-    "cluster": "CBMiW0FVX3lxTFBpck1EYTVFNFNiVmdVX3NuQXRmeFZtcHd2NEZsODVmcHItdGpCS21WWktXRVRJSzBrcEg1a05xdC1weUFEVUNCX05lNklHUWVUcGFvcG15bE9lV28",
-    "badge": "breaking",
-    "at": 1791299437.319368,
-    "country": "영국",
-    "category": "기타 사건"
-  },
-  {
-    "event_key": "us-air-force-b1-uk-withdrawal",
-    "topic": "미국 공군, 영국 기지서 B-1 폭격기 12대 철수",
-    "slug": "2026-10-07-news-us-air-force-b1-uk-withdrawal",
-    "cluster": "CBMiXEFVX3lxTE9WSy1ZcXBPbkw2R1NhM0x6M3Z4ZlY0ZmhXX3RkaklxNlFoOGxCMDZORnBvMjZwT28tYzBKSmNSOTliRExfOXNodGd3NWVxNGtpTzNUTTNSamR4Sjk5",
-    "badge": "brief",
-    "at": 1791313782.7098765,
-    "country": "영국",
-    "category": "국제"
-  },
-  {
     "event_key": "russia_sochi_tanker_fire",
     "topic": "러시아 소치 해상서 유조선 화재 연기 기둥 솟구쳐",
     "slug": "2026-10-07-news-russia-sochi-tanker-fire",
@@ -2998,5 +2978,25 @@
     "at": 1792991234.5349607,
     "country": "미국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "sri_lanka_iranian_sailors_rescue_2026",
+    "topic": "스리랑카 해역서 선원 40명 구조",
+    "slug": "2026-10-26-news-sri-lanka-iranian-sailors-rescue-2026",
+    "cluster": "CBMiW0FVX3lxTE9hWnB4ZmZZUUNvZVpZaVViRVUzS2VRWlNBRG82b0t6WWFobkVUQm1FMFhXVEV0T05sNHN6Q3NGbnJlZ2NxYnpCVzl2dmFxMFBIZ2JYR1ZQbkY0T2M",
+    "badge": "breaking",
+    "at": 1792994927.172512,
+    "country": "스리랑카",
+    "category": "사고"
+  },
+  {
+    "event_key": "ulsan_port_sulfuric_acid_leak_2026",
+    "topic": "울산 부두 정박 선박서 황산 누출 사고",
+    "slug": "2026-10-26-news-ulsan-port-sulfuric-acid-leak-2026",
+    "cluster": "CBMiW0FVX3lxTE9qTEVTUGxROGs5T1k4WVRxdGRSSDZFWm5HVEpoNDlEVDdseHVBSnJ4MHlJMHZNUzJ0T2tNajdlelJ0ME9RRTNqX1FzemdXeVhzU2dibW9tNzVPU1U",
+    "badge": "breaking",
+    "at": 1792994939.7110167,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]

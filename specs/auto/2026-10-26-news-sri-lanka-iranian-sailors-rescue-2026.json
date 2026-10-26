@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-26-news-sri-lanka-iranian-sailors-rescue-2026",
+  "topic": "스리랑카 해역서 선원 40명 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 12:47 KST",
+  "source": "BBC·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9hWnB4ZmZZUUNvZVpZaVViRVUzS2VRWlNBRG82b0t6WWFobkVUQm1FMFhXVEV0T05sNHN6Q3NGbnJlZ2NxYnpCVzl2dmFxMFBIZ2JYR1ZQbkY0T2M",
+    "related": [
+      [
+        "Forty Iranian sailors rescued off Sri Lanka coast after medical emergencies",
+        "BBC"
+      ],
+      [
+        "Sri Lanka treats 40 Iranian sailors after distress call, repatriates them to Tehran",
+        "Telegraph India"
+      ],
+      [
+        "Stranded Iranian sailors receive urgent medical assistance in Sri Lanka",
+        "The Hindu"
+      ],
+      [
+        "Sri Lanka gives medical aid to stranded Iranian sailors",
+        "The Times of India"
+      ],
+      [
+        "Sri Lanka rescues 40 Iranian sailors, spokesman says",
+        "ThePrint"
+      ]
+    ],
+    "event_key": "sri_lanka_iranian_sailors_rescue_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스리랑카 해역서\n선원 [[40명]] 구조",
+      "sub": "의료 긴급 상황 발생한 이란 선박에 응급 지원",
+      "chips": [
+        {
+          "k": "구조",
+          "v": "40명"
+        }
+      ],
+      "alt": "스리랑카 해역서 선원 40명 구조",
+      "map": {
+        "lat": 7.5554942,
+        "lon": 80.7137847,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "스리랑카"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스리랑카\n스리랑카 해역",
+      "video_only": true,
+      "map": {
+        "lat": 7.5554942,
+        "lon": 80.7137847,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "스리랑카 해역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "긴급 신호 후 지원",
+          "d": "스리랑카 당국은 이란 선박의 구조 요청을 받고 긴급 의료 지원을 실시했습니다 (텔레그래프 인디아·BBC)."
+        },
+        {
+          "t": "본국 후송 추진",
+          "d": "치료를 마친 선원들은 테헤란으로 후송 조치될 예정이라고 전했습니다 (텔레그래프 인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 선원 40명 구조 (BBC)",
+        "스리랑카 해역서 응급 지원 (더힌두)"
+      ],
+      "unconfirmed": [
+        "응급 상황 발생 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Telegraph India",
+        "The Hindu",
+        "The Times of India",
+        "ThePrint",
+        "2026.10.26 15:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스리랑카 해역에서 이란 선원 40명이 구조됐습니다.\n\n· 의료 긴급 상황이 발생해 구조 요청을 보낸 이란 선박에 스리랑카 당국이 긴급 의료 지원을 실시했습니다 (BBC·텔레그래프 인디아·더힌두)\n· 치료를 받은 선원들은 테헤란으로 후송 조치될 예정입니다 (텔레그래프 인디아)\n\n출처: BBC·텔레그래프 인디아·더힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스리랑카 해역에서 이란 선원 40명이 구조됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "의료 긴급 상황이 발생한 이란 선박에 스리랑카 당국이 긴급 지원을 실시했다고 BBC가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "선원들은 치료를 받은 뒤 본국으로 후송될 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "의료 긴급 상황의 구체적인 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "스리랑카 해역서\n[[선원]] 구조",
+  "broll": [
+    "ship ocean sea",
+    "rescue boat sea"
+  ],
+  "place_en": "Sri Lanka"
+}
