@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-26-news-okinawa-us-marine-indictment-2026",
+  "topic": "일본 검찰, 오키나와 여성 강도 살해 혐의 미 해병대원 기소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 19:48 KST",
+  "source": "ABC News·CNN·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimwFBVV95cUxQVjgzblpxdF9CdndIRXNyVFdfUlNBeENZVjBPemk4ZWN3QWRSU2dqc3Z5X0x1V2xzSkRuT05nUkg4VE1ScVZOZWliSmxCZFdzQ2hkZEk5Yzk4WXp1WlZNU3NQVVQxZktOWmgwa0tiQ05TTXpWcThlQ3F6dHE1SjZxb1VCSmVTN1Z1OVZpOVJDYXJSZHlvd1dMUmtHQQ",
+    "related": [
+      [
+        "Japan indicts U.S. Marine over Okinawa killing, media say",
+        "NBC News"
+      ],
+      [
+        "US Marine indicted over alleged murder of woman in Okinawa",
+        "CNN"
+      ],
+      [
+        "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+        "The Guardian"
+      ],
+      [
+        "US Marine indicted in alleged Okinawa robbery homicide",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "US expands alcohol restrictions for troops in Japan",
+        "Task & Purpose"
+      ]
+    ],
+    "event_key": "okinawa-us-marine-indictment-2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "일본 검찰, 오키나와 여성 [[강도 살해]] 혐의\n미 해병대원 기소",
+      "sub": "미군 당국, 일본 내 주둔 미군 주류 제한 조치 확대",
+      "chips": [
+        {
+          "k": "혐의",
+          "v": "강도 살해"
+        },
+        {
+          "k": "신분",
+          "v": "미 해병대원"
+        }
+      ],
+      "alt": "일본 검찰, 오키나와 여성 강도 살해 혐의 미 해병대원 기소",
+      "map": {
+        "lat": 26.5707754,
+        "lon": 128.0255901,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "일본"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "일본\n오키나와",
+      "video_only": true,
+      "map": {
+        "lat": 26.5707754,
+        "lon": 128.0255901,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오키나와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기소 내용",
+          "d": "일본 검찰은 여성을 살해하고 금품을 빼앗은 혐의로 미 해병대원을 기소했습니다 (NBC·CNN·가디언)."
+        },
+        {
+          "t": "추가 조치",
+          "d": "미군은 일본 내 주둔 병사들을 대상으로 알코올 제한 조치를 확대했습니다 (Task & Purpose)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 해병대원 강도 살해 혐의 기소",
+        "일본 오키나와 발생",
+        "미군 주둔 병사 음주 제한 강화"
+      ],
+      "unconfirmed": [
+        "구체적인 재판 일정 및 형량",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "CNN",
+        "NBC News",
+        "Task & Purpose",
+        "The Guardian",
+        "2026.10.26 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 일본 검찰, 오키나와 여성 강도 살해 혐의 미 해병대원 기소\n\n· 일본 검찰은 여성을 살해하고 금품을 빼앗은 혐의로 미 해병대원을 기소했습니다 (NBC·CNN·가디언)\n· 미군은 일본 내 주둔 병사들을 대상으로 알코올 제한 조치를 확대했습니다 (Task & Purpose)\n\n출처: NBC·CNN·가디언·ABC뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "일본 검찰이 오키나와에서 여성을 강도 살해한 혐의로 미 해병대원을 기소했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN과 가디언 등 외신은 피의자가 금품을 빼앗고 범행을 저지른 혐의를 받고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미군은 일본 내 주둔 병사들에 대한 음주 제한 조치를 확대했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 재판 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "오키나와서 벌어진\n[[미 해병대원]] 사건",
+  "broll": [
+    "police station exterior",
+    "military base gate"
+  ],
+  "place_en": "Okinawa, Japan"
+}

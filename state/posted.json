@@ -25826,5 +25826,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793017062
+  },
+  {
+    "slug": "2026-10-26-news-okinawa-us-marine-indictment-2026",
+    "event_ms": 1793011683000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 일본 검찰, 오키나와 여성 강도 살해 혐의 미 해병대원 기소\n\n· 일본 검찰은 여성을 살해하고 금품을 빼앗은 혐의로 미 해병대원을 기소했습니다 (NBC·CNN·가디언)\n· 미군은 일본 내 주둔 병사들을 대상으로 알코올 제한 조치를 확대했습니다 (Task & Purpose)\n\n출처: NBC·CNN·가디언·ABC뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "일본"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18141053278620801",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De9W_tNligb",
+        "kind": "carousel",
+        "at": 1793020289
+      },
+      "instagram": {
+        "id": "18038061746849769",
+        "permalink": "https://www.instagram.com/reel/De9Xet7ky08/",
+        "kind": "reel",
+        "at": 1793020552
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1793020562
+      },
+      "tiktok": {
+        "id": "7700964687894154497",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700964687894154497",
+        "kind": "video",
+        "at": 1793020685
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793020695
   }
 ]

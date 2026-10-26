@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-stocks-record-high-closing-oct-2026",
-    "topic": "미국 S&P·나스닥 사상 최고치 경신",
-    "slug": "2026-10-07-news-us-stocks-record-high-closing-oct-2026",
-    "cluster": "CBMixgFBVV95cUxOckY2MEptbmNUdFhJemJ0QzhiN1Bpb3hmZ1dlQlQyT0JYTF9JUUxIdFgxc3plNm5Ib0RESVhoOW1yVGNNVHZQNHdySzZnRFNyTVo3U3RTVUx0bmU5ZWEwbWZqT2RXcEpZOFlTQUN4LURHZFdLM2lGLVlxMGF4dGh6YXQxOVVRNFpoM3pMaEFlUXo4Wjg3aEVNcmx4cnEwVFdlQ0pERFV4WmY5aGtqcHJNcGl1dnY5VXpRenlJTXk4OG5NLTRBMGc",
-    "badge": "breaking",
-    "at": 1791338886.0206428,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "saudi-houthi-airport-aramco-attack-2026",
     "topic": "후티 사우디 공항·정유소 습격 드론·미사일 공격 감행",
     "slug": "2026-10-07-news-saudi-houthi-airport-aramco-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793016468.9917321,
     "country": "독일",
     "category": "사고"
+  },
+  {
+    "event_key": "okinawa-us-marine-indictment-2026",
+    "topic": "일본 검찰, 오키나와 여성 강도 살해 혐의 미 해병대원 기소",
+    "slug": "2026-10-26-news-okinawa-us-marine-indictment-2026",
+    "cluster": "CBMimwFBVV95cUxQVjgzblpxdF9CdndIRXNyVFdfUlNBeENZVjBPemk4ZWN3QWRSU2dqc3Z5X0x1V2xzSkRuT05nUkg4VE1ScVZOZWliSmxCZFdzQ2hkZEk5Yzk4WXp1WlZNU3NQVVQxZktOWmgwa0tiQ05TTXpWcThlQ3F6dHE1SjZxb1VCSmVTN1Z1OVZpOVJDYXJSZHlvd1dMUmtHQQ",
+    "badge": "breaking",
+    "at": 1793020233.822026,
+    "country": "일본",
+    "category": "기타 사건"
   }
 ]
