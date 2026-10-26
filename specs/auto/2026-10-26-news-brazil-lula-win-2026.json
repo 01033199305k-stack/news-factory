@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-26-news-brazil-lula-win-2026",
+  "topic": "브라질 대선 결선 투표서 룰라 대통령 당선",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 09:22 KST",
+  "source": "Al Jazeera·The Guardian·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi2gFBVV95cUxPNDlpazRMRkZENmJfM2hDMzdNWmhXb3NFaXlPRUJQbnFOc0pFaXJQT1EtOGo4TWE3R0dRVUhEYTByUDI0SWdTSVR4dlBBeUk3WW9RbTB1eUt1aDZfczd6akh5bTVqNWZmY2xIZnNuWHJkNGNyc18xSzduRUFidWpNeFl1ek1oOHUwRVd3UzlCYlNyd3k0V0pnWml3TjFwNENQNHFJN2FINnN3V0VjVi1uZTVMcDd4a0JIYkdpbFN0d05icF96TmRJZGw0Q3U3ZXhWNVVPT0ZpZzhMUQ",
+    "related": [
+      [
+        "Brazil’s Lula wins re-election, defeating Trump ally Bolsonaro",
+        "The Times of India"
+      ],
+      [
+        "Brazil's Lula wins presidential election in runoff vote",
+        "CNBC"
+      ],
+      [
+        "Brazil election results 2026 live: Lula beats Bolsonaro in tight race",
+        "Al Jazeera"
+      ],
+      [
+        "Brazil's Lula da Silva defies odds to clinch poll victory against Flavio Bolsonaro",
+        "The Hindu"
+      ],
+      [
+        "Lula wins fourth term as Brazil president after historic upset over far-right Flávio Bolsonaro",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "brazil_lula_win_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "브라질 대선 결선 투표서\n[[룰라]] 대통령 당선",
+      "sub": "볼소나로 측과의 접전 끝에 승리",
+      "chips": [
+        {
+          "k": "당선",
+          "v": "룰라"
+        }
+      ],
+      "alt": "브라질 대선 결선 투표서 룰라 대통령 당선",
+      "map": {
+        "lat": -15.7939869,
+        "lon": -47.8828,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "브라질"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "브라질\n브라질리아",
+      "video_only": true,
+      "map": {
+        "lat": -15.7939869,
+        "lon": -47.8828,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브라질리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "선거 결과",
+          "d": "브라질 대선 결선 투표에서 룰라 대통령이 승리했다고 외신이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "룰라 대선 승리",
+        "볼소나로 패배"
+      ],
+      "unconfirmed": [
+        "최종 득표율 상세 집계",
+        "향후 내각 구성 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNBC",
+        "The Guardian",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.26 10:20 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 브라질 대선 결선 투표서 룰라 대통령 당선\n\n· 볼소나로 측과의 접전 끝에 승리를 확정했습니다 (가디언·알자지라)\n\n여러분은 이번 브라질 대선 결과가 남미 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 가디언·알자지라·CNBC·The Hindu·The Times of India 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "브라질 대선 결선 투표에서 룰라 대통령이 당선됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언 등 외신은 볼소나로 측과의 접전 끝에 승리했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최종 득표율 상세 집계와 향후 내각 구성 계획은 아직 발표되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 브라질 대선 결과, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "브라질 대선에서\n[[누가]] 이겼나?",
+  "broll": [
+    "brazil flag capital",
+    "election crowd cheering"
+  ],
+  "place_en": "Brasilia, Brazil"
+}
