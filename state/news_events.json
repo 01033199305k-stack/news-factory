@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia_sochi_tanker_fire",
-    "topic": "러시아 소치 해상서 유조선 화재 연기 기둥 솟구쳐",
-    "slug": "2026-10-07-news-russia-sochi-tanker-fire",
-    "cluster": "CBMiqgFBVV95cUxPRTZpb0hYbTdhTVdZQWUxdTlobUJ6UmRMaTVOdHd4WlBMOVp5eUhqc1Rudk9Dbk01VEJwX2FOQzhMRzNaY3A2RjZJeE9mRV9kRENleGxrMlMwRzZNY0RaTEdCcWttc2huaEl6ZDZHX2FmcEkwQmVvdUJLTVZuN251b1NPRDN2WXNyM0VxbDEtV0FXcUhjU29vT05MTTlwNXFuVVpYcUFMclFFQdIBrwFBVV95cUxNamJxTGxiMHQtaFdsTFdBRmZsSE1CU1ZfbVppcnlfeHJ0ZkZNc0IwMFNtOFpBN3pNVGdSajVUNGVucU1odmNwYUdfWlA0Z3NNREZlVFctRkJHcFBaMDdkQWJBWHczWUNUYTdvbE9nUUZiRWJQMDBxcFZuMllPWk1HeWhLSGhBaGJGblBpbjJmQlQ2YVZoLUV2TFJxelZILTY4Zjc4bXNGUEdITTNBUW1v",
-    "badge": "breaking",
-    "at": 1791317271.5294235,
-    "country": "러시아",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "pakistan_fatah4_missile_test",
     "topic": "파키스탄, 개량형 순항미사일 '파타-4' 시험 발사 성공",
     "slug": "2026-10-07-news-pakistan-fatah4-missile-test",
@@ -2998,5 +2988,15 @@
     "at": 1792994939.7110167,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "israel_hebron_palestinian_displacement_2026",
+    "topic": "이스라엘군 헤브론 봉쇄 팔레스타인 250가구 퇴거",
+    "slug": "2026-10-26-news-israel-hebron-palestinian-displacement-2026",
+    "cluster": "CBMixwFBVV95cUxONFNBbm1wZmtzVFNpVzExeTc5MTlGaFRhdExKNnItcGNEOHRIUW5TODA5bFRsMHVfNDZicWlGUkhkS0k5LWVIRW9INzlKODFrcGV2OFd1eHFQcW14NzU3T01FR1JELXUwVU51MkFKMmVOcnJ0Mk05RzJtcFlFREpaaTF1X0liY2VKX2dvT2NHcTd5MU1fZ1RnWmwyR2ZVMVZKNWNqVy1zTnNCalllSVpSa0tTMWJHcWEwY193cUdSbWltZldzTnhF",
+    "badge": "breaking",
+    "at": 1793002421.3311365,
+    "country": "이스라엘",
+    "category": "국제"
   }
 ]

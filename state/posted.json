@@ -25610,5 +25610,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792995589
+  },
+  {
+    "slug": "2026-10-26-news-israel-hebron-palestinian-displacement-2026",
+    "event_ms": 1792998120000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘군, 서안지구 헤브론 봉쇄·250가구 퇴거\n\n· 이스라엘군이 요르단강 서안지구 헤브론 주민 약 250가구를 퇴거시켰습니다 (유로뉴스)\n· 군인 사망 사건 이후 단속이 강화되며 주민 2천여 명이 쫓겨났습니다 (가디언)\n· 이스라엘 당국은 선거일을 맞아 서안지구 검문소도 폐쇄하기로 했습니다 (BBC)\n\n서안지구 내 군사적 통제 강화에 대해 어떻게 생각하십니까?\n\n출처: 가디언·BBC·유로뉴스·텔레그래프·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이스라엘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18194071030403237",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De81BqEG349",
+        "kind": "carousel",
+        "at": 1793002470
+      },
+      "instagram": {
+        "id": "18116917385039242",
+        "permalink": "https://www.instagram.com/reel/De81Y6hDFBd/",
+        "kind": "reel",
+        "at": 1793002678
+      },
+      "youtube": {
+        "id": "GrJVTp3EamU",
+        "permalink": "https://youtube.com/shorts/GrJVTp3EamU",
+        "kind": "shorts",
+        "at": 1793003017
+      },
+      "tiktok": {
+        "id": "7700888926445145350",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700888926445145350",
+        "kind": "video",
+        "at": 1793003149
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793003159
   }
 ]

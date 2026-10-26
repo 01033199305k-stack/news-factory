@@ -1,0 +1,153 @@
+{
+  "slug": "2026-10-26-news-israel-hebron-palestinian-displacement-2026",
+  "topic": "이스라엘군 헤브론 봉쇄 팔레스타인 250가구 퇴거",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 16:02 KST",
+  "source": "Al Jazeera·BBC·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxONFNBbm1wZmtzVFNpVzExeTc5MTlGaFRhdExKNnItcGNEOHRIUW5TODA5bFRsMHVfNDZicWlGUkhkS0k5LWVIRW9INzlKODFrcGV2OFd1eHFQcW14NzU3T01FR1JELXUwVU51MkFKMmVOcnJ0Mk05RzJtcFlFREpaaTF1X0liY2VKX2dvT2NHcTd5MU1fZ1RnWmwyR2ZVMVZKNWNqVy1zTnNCalllSVpSa0tTMWJHcWEwY193cUdSbWltZldzTnhF",
+    "related": [
+      [
+        "‘It’s collective punishment’: nearly 2,000 Palestinians in Hebron displaced as Israeli forces take over homes",
+        "The Guardian"
+      ],
+      [
+        "Israel to close West Bank crossings on election day as crackdown escalates",
+        "BBC"
+      ],
+      [
+        "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
+        "Euronews.com"
+      ],
+      [
+        "Israel imposes military lockdown on West Bank",
+        "The Telegraph"
+      ],
+      [
+        "Why Israel’s latest assault on Hebron is so significant for the West Bank",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "israel_hebron_palestinian_displacement_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘군 [[헤브론]] 봉쇄\n팔레스타인 250가구 퇴거",
+      "sub": "군인 사망 사건 후 서안지구 통제 및 주민 퇴거",
+      "chips": [
+        {
+          "k": "퇴거 가구",
+          "v": "약 250가구"
+        },
+        {
+          "k": "피해 주민",
+          "v": "약 2,000명"
+        }
+      ],
+      "alt": "이스라엘군 헤브론 봉쇄 팔레스타인 250가구 퇴거",
+      "map": {
+        "lat": 31.528902,
+        "lon": 35.0944873,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n요르단강 서안지구 헤브론",
+      "video_only": true,
+      "map": {
+        "lat": 31.528902,
+        "lon": 35.0944873,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "요르단강 서안지구 헤브론"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "250가구 퇴거 조치",
+          "d": "이스라엘군이 헤브론에서 팔레스타인 250여 가구를 퇴거시켰습니다 (유로뉴스)."
+        },
+        {
+          "t": "주민 2천 명 영향",
+          "d": "이번 조치로 팔레스타인 주민 2천여 명이 집을 비워야 했습니다 (가디언)."
+        },
+        {
+          "t": "서안지구 검문소 폐쇄",
+          "d": "이스라엘 당국은 선거일을 맞아 서안지구 검문소를 폐쇄하기로 했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이스라엘군의 서안지구 봉쇄 및 헤브론 주택 장악",
+        "팔레스타인 약 250가구 퇴거 (유로뉴스)"
+      ],
+      "unconfirmed": [
+        "봉쇄 조치 해제 시점",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Euronews.com",
+        "The Guardian",
+        "The Telegraph",
+        "2026.10.26 17:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군, 서안지구 헤브론 봉쇄·250가구 퇴거\n\n· 이스라엘군이 요르단강 서안지구 헤브론 주민 약 250가구를 퇴거시켰습니다 (유로뉴스)\n· 군인 사망 사건 이후 단속이 강화되며 주민 2천여 명이 쫓겨났습니다 (가디언)\n· 이스라엘 당국은 선거일을 맞아 서안지구 검문소도 폐쇄하기로 했습니다 (BBC)\n\n서안지구 내 군사적 통제 강화에 대해 어떻게 생각하십니까?\n\n출처: 가디언·BBC·유로뉴스·텔레그래프·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군이 서안지구 헤브론에서 주민 약 250가구를 퇴거시켰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신들은 군인 사망 사건 이후 군사 단속과 봉쇄가 강화됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "가디언은 이번 조치로 팔레스타인 주민 2천여 명이 집을 비워야 했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "봉쇄 조치 해제 시점 등은 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "서안지구 내 군사적 통제 강화에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[헤브론]]을\n막아선 이유",
+  "broll": [
+    "military checkpoint road",
+    "west bank street"
+  ],
+  "place_en": "Hebron, West Bank"
+}
