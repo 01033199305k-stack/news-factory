@@ -25451,5 +25451,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1792984331
+  },
+  {
+    "slug": "2026-10-26-news-oregon-newport-seafood-plant-fire-2026",
+    "event_ms": 1792984275000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 오리건주 수산물 공장서 큰불… 인근 대피령 발령\n\n· 공장 냉동 창고 건물에서 화재가 발생했습니다 (KPTV)\n· 당국은 현장의 암모니아 위협이 통제되었으며 대피령도 완화되었다고 밝혔습니다 (CNN·KOIN.com)\n\n출처: KATU·KPTV·CNN·KVAL·KOIN.com 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18097051247557998",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De8fruFFDN2",
+        "kind": "carousel",
+        "at": 1792991279
+      },
+      "instagram": {
+        "id": "18105720023622364",
+        "permalink": "https://www.instagram.com/reel/De8f--GEicv/",
+        "kind": "reel",
+        "at": 1792991457
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1792991467
+      },
+      "tiktok": {
+        "id": "7700839711153130772",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7700839711153130772",
+        "kind": "video",
+        "at": 1792991589
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1792991599
   }
 ]

@@ -1,0 +1,142 @@
+{
+  "slug": "2026-10-26-news-oregon-newport-seafood-plant-fire-2026",
+  "topic": "오리건주 수산물 공장 화재 대피령과 암모니아 위협",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.26 12:11 KST",
+  "source": "CNN·KATU·KOIN.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxPY1FCRnV0MW4wX24xakZieWdxQWEwNDZNTktzY0c4VnUyQVh3QUlraFhYQXBCcENhMm1wV081bkhuQjlRUExOS0RwbWNyaUxoemZGall2Tk03REl3WVlUTnY0dnViZk5YRnpiTGxGVF9KTi16akZ1UkZLMFYwODVjRm95TWkzdENnRGNWSHh1LXE",
+    "related": [
+      [
+        "Level 3 evacuation issued near Newport Bayfront due to fire",
+        "KATU"
+      ],
+      [
+        "Fire burns freezer building at Pacific Seafood plant on Newport Bayfront",
+        "KPTV"
+      ],
+      [
+        "Ammonia threat contained at burning Oregon seafood plant, officials say",
+        "CNN"
+      ],
+      [
+        "Evacuation orders issued for mile radius around Newport fire",
+        "KVAL"
+      ],
+      [
+        "Officials give update on Newport industrial fire as evacuations scaled down",
+        "KOIN.com"
+      ]
+    ],
+    "event_key": "oregon_newport_seafood_plant_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "오리건주 수산물 공장 화재\n[[대피령]]과 암모니아 위협",
+      "sub": "미국 오리건주 뉴포트의 수산물 가공 공장에서 화재가 발생해 인근 주민에게 대피령이 내려졌습니다.",
+      "chips": [
+        {
+          "k": "대피",
+          "v": "1마일 반경"
+        }
+      ],
+      "alt": "오리건주 수산물 공장 화재 대피령과 암모니아 위협",
+      "map": {
+        "lat": 44.636755,
+        "lon": -124.053442,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴포트",
+      "video_only": true,
+      "map": {
+        "lat": 44.636755,
+        "lon": -124.053442,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴포트"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "암모니아 위협 차단",
+          "d": "당국은 화재 현장의 암모니아 위협이 통제되었다고 밝혔습니다 (CNN)."
+        },
+        {
+          "t": "대피령 하향 조정",
+          "d": "인근 주민에게 내려졌던 대피령은 하향 조정되었습니다 (KOIN.com)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 오리건주 수산물 공장 화재",
+        "인근 지역 대피령 발령",
+        "암모니아 위협 통제 완료"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "재산 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "KATU",
+        "KOIN.com",
+        "KPTV",
+        "KVAL",
+        "2026.10.26 14:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 오리건주 수산물 공장서 큰불… 인근 대피령 발령\n\n· 공장 냉동 창고 건물에서 화재가 발생했습니다 (KPTV)\n· 당국은 현장의 암모니아 위협이 통제되었으며 대피령도 완화되었다고 밝혔습니다 (CNN·KOIN.com)\n\n출처: KATU·KPTV·CNN·KVAL·KOIN.com 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 오리건주 뉴포트의 수산물 공장에서 큰불이 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공장 냉동 창고 건물에서 불이 나며 인근 주민들에게 대피령이 내려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "CNN은 현장의 암모니아 위협이 통제됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현재까지 정확한 화재 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 수산물 공장에서\n[[대피령]] 내려진 이유는?",
+  "broll": [
+    "industrial fire smoke",
+    "fire truck emergency"
+  ],
+  "place_en": "Newport, Oregon, USA"
+}
