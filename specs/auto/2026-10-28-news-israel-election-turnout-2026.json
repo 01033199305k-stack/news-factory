@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-28-news-israel-election-turnout-2026",
+  "topic": "이스라엘 총선 투표 역대 최고 수준 투표율",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.28 00:34 KST",
+  "source": "BBC·France 24·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0gFBVV95cUxOUktvek9pMVV1T2thMEo0SjZQUGJWYWhaNU9WNm9iT1p6NXhRbUg4eFllWHduUU4yTWIxRkdYTXVZMnhjbi1VaUxLczN1T3FJTE5ZMWJ1enppN2lrWVFvOEJSQlNXTTVtMlRISWNjU1dQWG93Q1hNS0pYV2F0aVRfMFVqcFZOemZCRk4xQWNJbTd0STBHVVpteW9XR2l6YjRCbXlVZGxuNm1VZkFrMTMxZmpncTc4NjZ5MUU2aHBlMGhYX29QTXdlM1hnZlUzVUJwRUE",
+    "related": [
+      [
+        "Israel elections latest: Netanyahu urges Israelis to 'go vote' as latest poll indicates he could be ousted",
+        "Sky News"
+      ],
+      [
+        "Turnout so far highest on record as Israelis vote in pivotal election",
+        "BBC"
+      ],
+      [
+        "Israel goes to the polls – in pictures",
+        "The Guardian"
+      ],
+      [
+        "Live: Netanyahu's party asks to extend Israeli election hours amid record turnout",
+        "France 24"
+      ],
+      [
+        "Israel election: Turnout at record levels at halfway stage",
+        "DW.com"
+      ]
+    ],
+    "event_key": "israel_election_turnout_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 [[총선 투표]]\n역대 최고 수준 투표율",
+      "sub": "네타냐후 측 투표 시간 연장 요청",
+      "chips": [],
+      "alt": "이스라엘 총선 투표 역대 최고 수준 투표율",
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n예루살렘",
+      "video_only": true,
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "예루살렘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기록적인 투표율",
+          "d": "이스라엘 총선 중간 집계에서 역대 최고 수준의 투표율을 기록했다고 BBC 등이 보도했습니다."
+        },
+        {
+          "t": "투표 연장 요청",
+          "d": "네타냐후 정당이 투표 시간 연장을 요청했다고 프랑스24가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "역대 최고 수준 투표율 기록 (BBC·프랑스24·DW)",
+        "네타냐후 정당 투표 시간 연장 요청 (프랑스24)"
+      ],
+      "unconfirmed": [
+        "최종 선거 결과"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "DW.com",
+        "France 24",
+        "Sky News",
+        "The Guardian",
+        "2026.10.28 01:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 총선 투표율 역대 최고 수준 기록했습니다\n\n· 이스라엘 총선 중간 집계에서 투표율이 역대 최고 수준을 기록했습니다 (BBC·DW)\n· 네타냐후 정당이 투표 시간 연장을 요청했습니다 (프랑스24)\n\n이번 선거 결과가 중동 정세에 미칠 영향은?\n출처: Sky News·BBC·The Guardian·France 24·DW.com 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘 총선 중간 집계에서 역대 최고 수준의 투표율이 기록됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 투표 열기가 뜨거운 가운데 네타냐후 정당이 투표 시간 연장을 요청했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 이스라엘 총선 결과, 여러분은 어떻게 전망하십니까?",
+      "card": "ask",
+      "screen": "이스라엘 총선 전망은?"
+    }
+  ],
+  "hook": "이스라엘 [[총선 투표]]\n결과는 언제",
+  "broll": [
+    "voting booth ballot box",
+    "election crowd street"
+  ],
+  "place_en": "Jerusalem"
+}

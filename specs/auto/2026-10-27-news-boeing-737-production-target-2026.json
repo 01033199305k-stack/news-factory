@@ -1,0 +1,131 @@
+{
+  "slug": "2026-10-27-news-boeing-737-production-target-2026",
+  "topic": "보잉 737 생산 목표 2027년 초로 연기",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 23:44 KST",
+  "source": "Bloomberg.com·Reuters·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxPNnZ1c1Q5Q2tSYnRpdnppV25UNEpNekRsVGhpbkdLVk95QjBkenF1Ni0tOFJFYThrcXlnYjhRbUJWMlo2WHlkLUIzNlJ5UUpoN1p3VUh3b1p5TlJlZHBpaENqVmY4RDZPVTFsRHhMZXJKQzhseUM1V2U4TjMySHdvNzZ1VE9MbnI4ajV1dklVemhwWFRrZmtYWF9qYUNjUTFLOVRMaGNVUG0wSDhHcEZMbXNjcWpHWGZqeUEzc3puMGZwd2FvVU93",
+    "related": [
+      [
+        "Boeing will not reach 737 production target until early 2027",
+        "Reuters"
+      ],
+      [
+        "Boeing narrows third-quarter loss as defense sales rise, but focus remains on 737 Max production",
+        "CNBC"
+      ],
+      [
+        "Boeing Has Wider-Than Expected Jet-Unit Loss as Deliveries Stall (BA)",
+        "Bloomberg.com"
+      ],
+      [
+        "Boeing Turnaround Shows Progress but Commercial Unit Sputters",
+        "WSJ"
+      ],
+      [
+        "Boeing Stock Plunges. 737 Progress Is Not Fast Enough.",
+        "Barron's"
+      ]
+    ],
+    "event_key": "boeing_737_production_target_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "보잉 737 [[생산 목표]]\n2027년 초로 연기",
+      "sub": "3분기 예상보다 큰 손실 기록",
+      "chips": [],
+      "alt": "보잉 737 생산 목표 2027년 초로 연기",
+      "map": {
+        "lat": 38.8769326,
+        "lon": -77.0893094,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n알링턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8769326,
+        "lon": -77.0893094,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "알링턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "생산 목표 지연",
+          "d": "보잉이 737 생산 목표 달성 시점을 2027년 초로 미뤘다고 로이터가 보도했습니다."
+        },
+        {
+          "t": "실적 부진",
+          "d": "예상보다 큰 제트기 부문 손실을 기록했다고 블룸버그와 CNBC가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "737 생산 목표 2027년 초로 연기 (로이터)",
+        "3분기 예상보다 큰 손실 기록 (블룸버그·CNBC)"
+      ],
+      "unconfirmed": [
+        "향후 공급망 정상화 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Barron's",
+        "Bloomberg.com",
+        "CNBC",
+        "Reuters",
+        "WSJ",
+        "2026.10.28 01:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 보잉 737 생산 목표 2027년 초로 연기됐습니다\n\n· 보잉이 737 기종 생산 목표 달성 시점을 2027년 초로 미뤘습니다 (로이터)\n· 3분기 방산 부문 판매는 늘었으나 예상보다 큰 제트기 부문 손실을 기록했습니다 (CNBC·블룸버그)\n\n의견을 남겨주세요\n출처: Reuters·CNBC·Bloomberg·WSJ·Barron's 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "보잉의 737 생산 목표 달성 시점이 2027년 초로 미뤄졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 3분기 방산 판매가 늘었지만 손실이 커졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "보잉의 생산 차질 장기화, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "보잉 생산 차질"
+    }
+  ],
+  "hook": "보잉 [[737 생산]]\n언제 정상화되나",
+  "broll": [
+    "airplane assembly factory",
+    "boeing jet airplane"
+  ],
+  "place_en": "Arlington, Virginia, USA"
+}

@@ -27023,5 +27023,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793114129
+  },
+  {
+    "slug": "2026-10-27-news-boeing-737-production-target-2026",
+    "event_ms": 1793112280000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 보잉 737 생산 목표 2027년 초로 연기됐습니다\n\n· 보잉이 737 기종 생산 목표 달성 시점을 2027년 초로 미뤘습니다 (로이터)\n· 3분기 방산 부문 판매는 늘었으나 예상보다 큰 제트기 부문 손실을 기록했습니다 (CNBC·블룸버그)\n\n의견을 남겨주세요\n출처: Reuters·CNBC·Bloomberg·WSJ·Barron's 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17955929349031559",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfAQP3wln0n",
+        "kind": "carousel",
+        "at": 1793117404
+      },
+      "instagram": {
+        "id": "18035528345849444",
+        "permalink": "https://www.instagram.com/reel/DfAQqtYlBTH/",
+        "kind": "reel",
+        "at": 1793117641
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793117717
+      },
+      "tiktok": {
+        "id": "7701381807794556212",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701381807794556212",
+        "kind": "video",
+        "at": 1793117870
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793117880
   }
 ]
