@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-mall-of-america-isis-plot-thwarted-2026",
-    "topic": "미국 최대 쇼핑몰 노린 IS 총격 음모 적발",
-    "slug": "2026-10-08-news-us-mall-of-america-isis-plot-thwarted-2026",
-    "cluster": "CBMihgFBVV95cUxNMng2R0x0R19UYkxDSUxsTWQ1RjZKUmJCYzZ3OEVJcHJlY18wM19GTGNINV94aWF5a2QzNXoyZEh1V01xZk9sYmVpcXg0MkdFZzBKcW9RSjMxb3JXdHgwemRKamhGLV9CdnhJdGdIU0I1UHZuam1lNTM0Y2RoUDlNcDFoWnJoUQ",
-    "badge": "brief",
-    "at": 1791421791.1417615,
-    "country": "미국",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "us-military-iran-strike-preparations",
     "topic": "미국 국방부, 이란 공격 대비 군 병력 준비 명령",
     "slug": "2026-10-08-news-us-military-iran-strike-preparations",
@@ -2998,5 +2988,15 @@
     "at": 1793081897.3709862,
     "country": "스페인",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "us_nuclear_submarine_australia_aukus_2026",
+    "topic": "미국, 오커스 협정에 따라 핵잠수함 호주 배치",
+    "slug": "2026-10-27-news-us-nuclear-submarine-australia-aukus-2026",
+    "cluster": "CBMiigFBVV95cUxQeWx3WHZPaVNxRWlTck5MdEhkRkZqLXBfRjdsbVVONHFWSlBQbE9FYXdlUzdockhrZl8tMFk0cEZJSXFaM3dGZVVNbXdFeHdRY2ZXMTk0Y1BFS2x0U3ZrX1R4bUwzdjRUR0xKM0h2ck1WeVJwVjJrZ2dXYXkwS1lqQ1hVMjdNZTlTeEHSAYoBQVVfeXFMUHlsd1h2T2lTcUVpU3JOTHRIZEZGai1wX0Y3bG1VTjRxVkpQUGxPRWF3ZVM3aHJIa2ZfLTBZNHBGSUlxWjN3RmVVTW13RXh3UWNmVzE5NGNQRUtsdFN2a19UeG1MM3Y0VEdMSjNIdnJNVnlScFYya2dnV2F5MEtZakNYVTI3TWU5U3hB",
+    "badge": "breaking",
+    "at": 1793082514.378216,
+    "country": "호주",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-27-news-us-nuclear-submarine-australia-aukus-2026",
+  "topic": "미국, 오커스 협정에 따라 핵잠수함 호주 배치",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 12:47 KST",
+  "source": "ABC News & Headlines·EurAsian Times·SBS 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiigFBVV95cUxQeWx3WHZPaVNxRWlTck5MdEhkRkZqLXBfRjdsbVVONHFWSlBQbE9FYXdlUzdockhrZl8tMFk0cEZJSXFaM3dGZVVNbXdFeHdRY2ZXMTk0Y1BFS2x0U3ZrX1R4bUwzdjRUR0xKM0h2ck1WeVJwVjJrZ2dXYXkwS1lqQ1hVMjdNZTlTeEHSAYoBQVVfeXFMUHlsd1h2T2lTcUVpU3JOTHRIZEZGai1wX0Y3bG1VTjRxVkpQUGxPRWF3ZVM3aHJIa2ZfLTBZNHBGSUlxWjN3RmVVTW13RXh3UWNmVzE5NGNQRUtsdFN2a19UeG1MM3Y0VEdMSjNIdnJNVnlScFYya2dnV2F5MEtZakNYVTI3TWU5U3hB",
+    "related": [
+      [
+        "USS Colorado to Sail into AUKUS History as 1st U.S. Nuclear Submarine for Australia. Will Arrive Late 2027",
+        "EurAsian Times"
+      ],
+      [
+        "US assigns first nuclear-powered submarine to Australian base",
+        "The New Indian Express"
+      ],
+      [
+        "Haines attack shouldn't stop women from entering politics, Plibersek says — as it happened",
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      [
+        "Australia news LIVE: US names first submarine to deploy to WA under AUKUS; Plibersek asked to reassure young women public life is still safe after Haines attack",
+        "The Age"
+      ],
+      [
+        "Five years after AUKUS was signed, the first submarine has been named",
+        "SBS"
+      ]
+    ],
+    "event_key": "us_nuclear_submarine_australia_aukus_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 오커스 협정에 따라\n[[핵잠수함]] 호주 배치",
+      "sub": "콜로라도함 2027년 말 호주 기지 도착 예정",
+      "chips": [
+        {
+          "k": "배치 시기",
+          "v": "2027년 말"
+        }
+      ],
+      "alt": "미국, 오커스 협정에 따라 핵잠수함 호주 배치",
+      "map": {
+        "lat": -24.7761086,
+        "lon": 134.755,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "호주"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "호주",
+      "video_only": true,
+      "map": {
+        "lat": -24.7761086,
+        "lon": 134.755,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "배치 잠수함",
+          "d": "오커스 협정에 따라 배치되는 첫 미 핵잠수함은 콜로라도함입니다 (유라시안 타임스·디 에이지)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "첫 미 핵잠수함 콜로라도함 배정 (유라시안 타임스)",
+        "2027년 말 호주 기지 도착 (유라시안 타임스)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "구체적인 작전 배치 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "EurAsian Times",
+        "SBS",
+        "The Age",
+        "The New Indian Express",
+        "2026.10.27 15:28 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국이 오커스 협정에 따라 호주 기지에 첫 핵잠수함을 배치합니다\n\n· 배치되는 잠수함은 콜로라도함으로 2027년 말 호주 기지에 도착할 예정입니다 (유라시안 타임스·디 에이지)\n· 오커스 서명 이후 첫 핵잠수함 배치입니다 (에스비에스)\n\n의견을 나눠주세요: 미 핵잠수함의 호주 배치가 지역 안보에 어떤 영향을 미칠까요?\n출처: 유라시안 타임스·디 에이지·에스비에스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 오커스 협정에 따라 호주 기지에 첫 핵잠수함을 배치합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유라시안 타임스는 콜로라도함이 2027년 말 호주 기지에 도착할 것이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "오커스 서명 이후 호주에 핵잠수함이 배치되는 것은 이번이 처음입니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 작전 배치 계획은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미 핵잠수함 배치가 지역 안보에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "안보 영향은?"
+    }
+  ],
+  "hook": "미국이 [[호주]]에\n배치하는 것은?",
+  "broll": [
+    "nuclear submarine ocean",
+    "naval base port"
+  ],
+  "place_en": "Australia"
+}
