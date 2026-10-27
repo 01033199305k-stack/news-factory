@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "korea-recalls-ukraine-ambassador-2026",
-    "topic": "우크라 대사 소환 북한 포로 갈등",
-    "slug": "2026-10-08-news-korea-recalls-ukraine-ambassador-2026",
-    "cluster": "CBMivAFBVV95cUxNZDYxcDQ1My1SeHZsUXhFVGFlV19QaEdXN2ZzTktkd2NZMHlGb0dDWGlITXZNQ2tmTF8zLUhINDZzUlBSbmc3ajZNb1B5SUFRZWtXWUlZODRkLVEzeDNkQjB0bGJXT3FleDVLRmZLVnlrWU14TUxDdXhidXV0cHVPckFQQTZmVXd0M0lCODFnQ0hyaU5PZGdGcTBrZTJGU3hJd1BrQXd2OWxIQ0xsQl9hbVVGNFBzd04wSGRPVw",
-    "badge": "breaking",
-    "at": 1791468581.5646248,
-    "country": "대한민국",
-    "category": "국제"
-  },
-  {
     "event_key": "italy-election-law-passed-2026",
     "topic": "이탈리아 선거법 통과 멜로니 총리 판정승",
     "slug": "2026-10-08-news-italy-election-law-passed-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793100326.27316,
     "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "finland_norway_putin_call_2026",
+    "topic": "핀란드·노르웨이 정상, 푸틴 러시아 대통령과 통화",
+    "slug": "2026-10-27-news-finland-norway-putin-call-2026",
+    "cluster": "CBMiqwFBVV95cUxPQlNDamdfUVV3b0U2WE9GWUFkSTZIYUJrU1FrUmJUTFE5WjNIZ3BWVFZNbG16TllSa3VOaHNXeGEyclZraUhFQ3hvcDUxNnZpUWhmbDRVNEZETmVNR1UxT2Y4eVJQbXRnWjh1dUZ3LUdiZHJZZGJHSlI3SGs1TG90WjNaR0d1YUJJWXBKeEp4YWNQSzY4QUV2QU4zMG00ZEpXMG5QWXo3eG5hbTA",
+    "badge": "brief",
+    "at": 1793106429.4490552,
+    "country": "핀란드",
     "category": "국제"
   }
 ]

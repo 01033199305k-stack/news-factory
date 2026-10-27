@@ -1,0 +1,146 @@
+{
+  "slug": "2026-10-27-news-finland-norway-putin-call-2026",
+  "topic": "핀란드·노르웨이 정상, 푸틴 러시아 대통령과 통화",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 19:57 KST",
+  "source": "Bloomberg.com·NBC News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxPQlNDamdfUVV3b0U2WE9GWUFkSTZIYUJrU1FrUmJUTFE5WjNIZ3BWVFZNbG16TllSa3VOaHNXeGEyclZraUhFQ3hvcDUxNnZpUWhmbDRVNEZETmVNR1UxT2Y4eVJQbXRnWjh1dUZ3LUdiZHJZZGJHSlI3SGs1TG90WjNaR0d1YUJJWXBKeEp4YWNQSzY4QUV2QU4zMG00ZEpXMG5QWXo3eG5hbTA",
+    "related": [
+      [
+        "Finland and Norway Hold ‘Frank’ Call With Putin on Ukraine",
+        "Bloomberg.com"
+      ],
+      [
+        "Finnish and Norwegian leaders hold rare ‘frank and substantive’ call with Putin on Ukraine – Europe live",
+        "The Guardian"
+      ],
+      [
+        "Leaders of Norway, Finland hold rare call with Putin in break with previous European stance",
+        "NBC News"
+      ],
+      [
+        "President Stubb and Prime Minister Støre held a phone call with President Putin",
+        "www.presidentti.fi"
+      ],
+      [
+        "Finnish president speaks about talks with Zelenskyy after call with Putin",
+        "Українська правда"
+      ]
+    ],
+    "event_key": "finland_norway_putin_call_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "핀란드·노르웨이 정상,\n푸틴 러시아 대통령과 [[통화]]",
+      "sub": "우크라이나 전쟁 해법 논의",
+      "chips": [
+        {
+          "k": "국가",
+          "v": "3개국"
+        }
+      ],
+      "alt": "핀란드·노르웨이 정상, 푸틴 러시아 대통령과 통화",
+      "map": {
+        "lat": 60.1666204,
+        "lon": 24.9435408,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "핀란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "핀란드\n헬싱키",
+      "video_only": true,
+      "map": {
+        "lat": 60.1666204,
+        "lon": 24.9435408,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "헬싱키"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "우크라이나 논의",
+          "d": "핀란드와 노르웨이 정상은 푸틴 대통령과 우크라이나 사태를 주제로 통화했다고 블룸버그통신 등이 보도했습니다."
+        },
+        {
+          "t": "유럽 기조 변화",
+          "d": "이번 통화는 기존 유럽의 대러시아 강경 기조에서 벗어난 드문 사례라고 NBC뉴스가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "핀란드·노르웨이 정상 통화",
+        "상대국은 푸틴 러시아 대통령",
+        "우크라이나 현안 논의"
+      ],
+      "unconfirmed": [
+        "구체적인 합의 내용",
+        "후속 회담 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "NBC News",
+        "The Guardian",
+        "www.presidentti.fi",
+        "Українська правда",
+        "2026.10.27 22:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 핀란드와 노르웨이 정상이 푸틴 러시아 대통령과 우크라이나 사태를 논의했습니다\n\n· 이번 통화는 기존 유럽의 대러시아 강경 기조에서 벗어난 드문 사례라고 NBC뉴스가 전했습니다 (NBC뉴스·블룸버그통신)\n· 핀란드와 노르웨이 정상은 푸틴 대통령과 우크라이나 현안을 다뤘습니다 (가디언)\n\n여러분은 유럽 국가 정상의 이러한 대화 재개 움직임, 어떻게 보십니까?\n\n출처: 블룸버그통신·가디언·NBC뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "핀란드와 노르웨이 정상이 푸틴 러시아 대통령과 통화했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "블룸버그통신 등은 두 나라 정상이 푸틴 대통령과 우크라이나 사태를 논의했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 통화는 기존 유럽의 강경 기조에서 벗어난 드문 사례라고 NBC뉴스는 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 합의 내용과 후속 회담 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 유럽 국가 정상의 이러한 대화 재개 움직임, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "유럽의 대화 재개, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "핀란드·노르웨이가\n푸틴과 [[통화]]한 이유는?",
+  "broll": [
+    "government building exterior",
+    "phone communication screen"
+  ],
+  "place_en": "Helsinki, Finland"
+}
