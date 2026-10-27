@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-27-news-jordan-syria-airstrikes-2026",
+  "topic": "요르단군, 시리아 공습 단행 IS 무장대원 20명 이상 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 22:43 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizwFBVV95cUxPNk5DZjNTRS1VT1FKalFOVFMtNlNnNzJtSHdtUE8xTVJ1WDZ6S3RYZm1lczdsMEZJSm04WUlXU3F2azVQTFN0RHRtY0hGZTN2ZFBHbFBHRVkwWk1qUnNXZFlqNkFteTBvUWhWVFBGMHBJMjNsd3ByWUx3OVF1N2VHTnMtWmpoOEVsNTVHWkF6YjdISU5QdzVvUTVidy1SVVNqWmlMSUp0cGppcnYyeThFVWlFVlNaWTg3cjdEdk1ZalVrQzhTaUxQemFYVzRkc0E",
+    "related": [
+      [
+        "Jordan says it killed more than 20 Islamic State militants in airstrikes on Syria",
+        "Reuters"
+      ],
+      [
+        "Jordan says 'terrorists' killed in Syria in retaliatory strike over church attack",
+        "BBC"
+      ],
+      [
+        "Syria condemns deadly Jordan strikes as ‘unacceptable violation’",
+        "The Hindu"
+      ],
+      [
+        "Why Jordan has struck Syria: What we know",
+        "Al Jazeera"
+      ],
+      [
+        "Jordan arrests 3 suspects in church attack that killed 9, wounded 40",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "jordan_syria_airstrikes_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "요르단군, 시리아 공습 단행\n[[IS 무장대원 20명 이상]] 사망",
+      "sub": "시리아 정부는 영토 주권 침해라며 강력 반발",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "20명 이상"
+        }
+      ],
+      "alt": "요르단군, 시리아 공습 단행 IS 무장대원 20명 이상 사망",
+      "map": {
+        "lat": 33.5130695,
+        "lon": 36.3095814,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "시리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "시리아\n시리아 남부",
+      "video_only": true,
+      "map": {
+        "lat": 33.5130695,
+        "lon": 36.3095814,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "시리아 남부"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "교회 공격 보복",
+          "d": "요르단 측은 교회 피습 사건에 대한 보복 조치라고 밝혔습니다."
+        },
+        {
+          "t": "시리아 측 반발",
+          "d": "시리아 정부는 이번 공습을 받아들일 수 없는 침해라고 비판했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "요르단군의 시리아 공습",
+        "무장대원 20명 이상 사망"
+      ],
+      "unconfirmed": [
+        "추가 군사 충돌 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Reuters",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.28 00:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 요르단군, 시리아 공습 단행… 무장대원 20명 이상 사망\n\n· 요르단 당국은 최근 발생한 교회 피습 사건에 대한 보복 조치로 공습을 진행했다고 밝혔습니다\n· 시리아 정부는 이번 공습을 용납할 수 없는 침해라고 규탄했습니다\n\n중동 지역의 군사적 긴장이 고조되는 가운데, 이번 공습이 향후 정국에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·BBC·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "요르단군이 시리아를 공습해 무장대원 20명 이상이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 공습은 최근 발생한 교회 공격에 대한 보복 조치라고 요르단 측은 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "시리아 정부는 받아들일 수 없는 침해라고 반발했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 요르단의 군사 행동, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "독자 의견은?"
+    }
+  ],
+  "hook": "요르단군이 감행한\n[[시리아]] 공습의 배경은?",
+  "broll": [
+    "military jet flight sky",
+    "desert landscape smoke"
+  ],
+  "place_en": "Damascus, Syria"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "israel-downgrades-uk-consulate-jerusalem-2026",
-    "topic": "이스라엘, 예루살렘 영국 영사관 격하",
-    "slug": "2026-10-08-news-israel-downgrades-uk-consulate-jerusalem-2026",
-    "cluster": "CBMiqAFBVV95cUxPcXRHN3cySy11S2dPZGl2WUZvMXVnSzR0MTI1Yk5qcDlpaXhSNG1QZFVYZFZvcEljV0F0RGRnNElxQmE5Nm1vT2pfR1ptMGNKQ0FTSEtYMk92WjhmMkRuclB2bFlmcGl3LTFkTkFVY1V2djFfTG5ScFFrWDNUQzhaNThyUVo4NGlScHhaX0dneTN3Szd2a0w5eDQ3QXVINGpoNHN6eTJHdG7SAa4BQVVfeXFMTjY4VU9fb3p6bjhQaFlzYnBfRmV6OExYSlNsUHZfdHB5MVg2WmVPcXZUQXRFZF9yS1JJQ1FHeF81T0JqX0o3QnJhMUdoWVNlWnVwdUVLTEp6dmttOHpQRHJtdXpJX1JyZ1RUamcxdnBlS3RsT25ENlhKOWhZU3dWMjE1aWFLTTlPNDdqWkFqYWNPdHNJVXdaZmZ1anJkc1ZaeG1JRmdtN3J3cWhpc2hn",
-    "badge": "breaking",
-    "at": 1791477526.8353455,
-    "country": "이스라엘",
-    "category": "국제"
-  },
-  {
     "event_key": "venezuela_maduro_torture_charges",
     "topic": "미국 검찰, 마두로 전 베네수엘라 대통령 고문 혐의 기소",
     "slug": "2026-10-09-news-venezuela-maduro-torture-charges",
@@ -2998,5 +2988,15 @@
     "at": 1793108724.7156353,
     "country": "콩고민주공화국",
     "category": "재난"
+  },
+  {
+    "event_key": "jordan_syria_airstrikes_2026",
+    "topic": "요르단군, 시리아 공습 단행 IS 무장대원 20명 이상 사망",
+    "slug": "2026-10-27-news-jordan-syria-airstrikes-2026",
+    "cluster": "CBMizwFBVV95cUxPNk5DZjNTRS1VT1FKalFOVFMtNlNnNzJtSHdtUE8xTVJ1WDZ6S3RYZm1lczdsMEZJSm04WUlXU3F2azVQTFN0RHRtY0hGZTN2ZFBHbFBHRVkwWk1qUnNXZFlqNkFteTBvUWhWVFBGMHBJMjNsd3ByWUx3OVF1N2VHTnMtWmpoOEVsNTVHWkF6YjdISU5QdzVvUTVidy1SVVNqWmlMSUp0cGppcnYyeThFVWlFVlNaWTg3cjdEdk1ZalVrQzhTaUxQemFYVzRkc0E",
+    "badge": "brief",
+    "at": 1793113798.540489,
+    "country": "시리아",
+    "category": "국제"
   }
 ]
