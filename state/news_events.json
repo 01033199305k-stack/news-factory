@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-russia-massive-attack-oct-2026",
-    "topic": "러시아군 우크라이나 대공습 최소 20명 사망",
-    "slug": "2026-10-07-news-ukraine-russia-massive-attack-oct-2026",
-    "cluster": "CBMiW0FVX3lxTFBYdmo0MEpFTVV1M01RemJlVnhuRlJQblVuYXUtSlVLaWRORlBlRHRUMzNXZ1YtMUFVUU9XV0tTR1A0ZXBKSGdtUmxua3o1QmxPc3BGblZONWtqNXc",
-    "badge": "breaking",
-    "at": 1791386083.22345,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "christa_pike_execution_failed_2026",
     "topic": "미 사형수 크리스타 파이크 형 집행 실패 후 법정 출석",
     "slug": "2026-10-08-news-christa-pike-execution-failed-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793056228.2394953,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "jordan_syria_airstrike_2026",
+    "topic": "요르단군, 시리아 남부 공습 테러조직 은신처 타격",
+    "slug": "2026-10-27-news-jordan-syria-airstrike-2026",
+    "cluster": "CBMiZ0FVX3lxTE9sV1JYcXhNSWdHYkRWY3BoYnFmV3EwVkRvTGhqTHA1Z2ljY1pnZTZlS0lvZF9IOFY5ZWNTUlM2bzFPQU9tamVIcGlqT0FQN2Y1dUpQZnUzUjFraHIyM2lBMF95MVZqT2M",
+    "badge": "brief",
+    "at": 1793061196.7688155,
+    "country": "요르단",
+    "category": "국제"
   }
 ]
