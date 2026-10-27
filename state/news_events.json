@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "hurricane-isaias-florida-state-of-emergency",
-    "topic": "대서양 첫 허리케인 ‘이사이아스’ 북상",
-    "slug": "2026-10-08-news-hurricane-isaias-florida-state-of-emergency",
-    "cluster": "CBMiqAFBVV95cUxQSmhvMEhCMEROLWg5bmNKZjIwZlBzWHZvVFM5cUtpUFZzZGFUcDg3Z29Hc20xZE9QS05WZGxPc0pHcHFLelhJbUVzdTEtUzIxTXFCc3FvdjA3Sy10Mk5PV1RoY3k3U1NRU3dNQzVWbG5MbTNzWTNSSzRMMmdmNnl2TllpMWc0WmpDaVlrN1F1dXMwT2dVQ0dpUEwtMFh3M0FSeFl2OEFaSGo",
-    "badge": "brief",
-    "at": 1791436331.2797322,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "world-first-nuclear-clock-vienna-beijing-2026",
     "topic": "빈·베이징 연구진 세계 첫 핵시계 가동",
     "slug": "2026-10-08-news-world-first-nuclear-clock-vienna-beijing-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793088802.5653813,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "hanover_car_ramming_crowd_2026",
+    "topic": "독일 하노버서 차량 돌진 군중 덮쳐 다수 부상",
+    "slug": "2026-10-27-news-hanover-car-ramming-crowd-2026",
+    "cluster": "CBMizwFBVV95cUxObnpMMW1JUEhFdUpnQk44S3l1NUI2YTZRYVptS0ZoQ2xDb2piQWRfRHdsd01iMmptLXB0UTNub0FkaGdOZzlKTW1kR2pYV1UxVkVwY3c5TUtTOUw3ZDExUjJfa1R0b0ZIZmRfa1hJeTBMbFhTVjVDZXFYRHhIaGhuX3V3MXp2YnZqc0Q5MjQ4bVhTNGxHel9wbFJLRjlaMWlER3RrSzhlQy0zbEFlTXEyc2ltMWkyQWRzM0hGMFc4UWVQVVZfWk5ab2kyMHFwZDDSAdQBQVVfeXFMT21LNG5uYnEyNUUxRFBKS0JRUmsxa25LakFBZ0ZwcGZjdFNyOFplNzA0SG9Bbjk5UlYyLVMzcEg1dU5FeHN2MFp3MUdLWkN4THB2TVN1ZmRIOEJmQzZBd25EakY5eGRFN1VkVHJoSWgxa241LUVRalRvQ2hfcVhDNUxoSGpxSmdPbmhFQUxoSldrRXJYd0dmNlVpUklOVjVzWDRRRi1QUDNaTHNvTzgtTUszNVppMDlCcHFnbHpPaV9qTS1MaUZScHZzMVNUSVBLM09WcVM",
+    "badge": "breaking",
+    "at": 1793092117.530573,
+    "country": "독일",
+    "category": "사고"
   }
 ]

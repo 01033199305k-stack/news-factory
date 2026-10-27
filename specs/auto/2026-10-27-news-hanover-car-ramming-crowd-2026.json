@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-27-news-hanover-car-ramming-crowd-2026",
+  "topic": "독일 하노버서 차량 돌진 군중 덮쳐 다수 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 16:37 KST",
+  "source": "Hindustan Times·NDTV·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizwFBVV95cUxObnpMMW1JUEhFdUpnQk44S3l1NUI2YTZRYVptS0ZoQ2xDb2piQWRfRHdsd01iMmptLXB0UTNub0FkaGdOZzlKTW1kR2pYV1UxVkVwY3c5TUtTOUw3ZDExUjJfa1R0b0ZIZmRfa1hJeTBMbFhTVjVDZXFYRHhIaGhuX3V3MXp2YnZqc0Q5MjQ4bVhTNGxHel9wbFJLRjlaMWlER3RrSzhlQy0zbEFlTXEyc2ltMWkyQWRzM0hGMFc4UWVQVVZfWk5ab2kyMHFwZDDSAdQBQVVfeXFMT21LNG5uYnEyNUUxRFBKS0JRUmsxa25LakFBZ0ZwcGZjdFNyOFplNzA0SG9Bbjk5UlYyLVMzcEg1dU5FeHN2MFp3MUdLWkN4THB2TVN1ZmRIOEJmQzZBd25EakY5eGRFN1VkVHJoSWgxa241LUVRalRvQ2hfcVhDNUxoSGpxSmdPbmhFQUxoSldrRXJYd0dmNlVpUklOVjVzWDRRRi1QUDNaTHNvTzgtTUszNVppMDlCcHFnbHpPaV9qTS1MaUZScHZzMVNUSVBLM09WcVM",
+    "related": [
+      [
+        "BMW rams into crowd in Germany; police open fire, several injured, suspects flee",
+        "Moneycontrol.com"
+      ],
+      [
+        "BMW crashes into group in Germany's Hanover, police launch hunt after suspects flee",
+        "The Times of India"
+      ],
+      [
+        "Many Injured As BMW Ploughs Into Group Of People In Northern Germany",
+        "NDTV"
+      ],
+      [
+        "Several injured after car drives into crowd at popular Christmas market in northern Germany",
+        "India TV News"
+      ],
+      [
+        "Several injured after car drives into crowd near Hanover in Germany; occupants flee",
+        "Hindustan Times"
+      ]
+    ],
+    "event_key": "hanover_car_ramming_crowd_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[독일]] 하노버서 차량 돌진\n군중 덮쳐 다수 부상",
+      "sub": "용의자 도주해 경찰 추적 중",
+      "chips": [],
+      "alt": "독일 하노버서 차량 돌진 군중 덮쳐 다수 부상",
+      "map": {
+        "lat": 52.3744779,
+        "lon": 9.7385532,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n하노버",
+      "video_only": true,
+      "map": {
+        "lat": 52.3744779,
+        "lon": 9.7385532,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "하노버"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "용의자 도주",
+          "d": "차량 탑승자 및 용의자들은 도주했습니다."
+        },
+        {
+          "t": "경찰 발포 대응",
+          "d": "현장 근처에서 경찰이 발포했다고 전해졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "독일 하노버 인근서 차량 돌진 사고",
+        "다수 부상자 발생 및 용의자 도주"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수",
+        "용의자 신원 및 범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Hindustan Times",
+        "India TV News",
+        "Moneycontrol.com",
+        "NDTV",
+        "The Times of India",
+        "2026.10.27 18:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 독일 하노버 인근에서 차량이 군중을 덮쳐 다수의 부상자가 발생했습니다.\n\n· 용의자들은 도주했습니다 (타임스오브인디아)\n· 경찰은 발포했습니다 (머니컨트롤)\n\n출처: 머니컨트롤·타임스오브인디아·NDTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일 하노버 인근에서 차량이 군중을 덮쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BMW 차량이 군중을 향해 돌진해 다수가 다쳤습니다.",
+      "card": "map"
+    },
+    {
+      "text": "용의자들은 도주했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경찰은 용의자 추적에 나섰습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[독일]] 하노버서\n무슨 일이?",
+  "broll": [
+    "police car night",
+    "ambulance emergency"
+  ],
+  "place_en": "Hanover, Germany"
+}
