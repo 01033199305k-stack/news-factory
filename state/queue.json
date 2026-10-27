@@ -20,7 +20,8 @@
       "01_cover.jpg",
       "02_points.jpg",
       "03_check.jpg",
-      "04_outro.jpg"
+      "04_outro.jpg",
+      "video.mp4"
     ],
     "done": {
       "threads": {
@@ -32,10 +33,14 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
         "at": 1793094798
+      },
+      "instagram": {
+        "failed": "container 18124426612876789: ERROR ERROR",
+        "at": 1793095746
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 2
     },
     "video": "video.mp4"
