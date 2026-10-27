@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-28-news-tennessee-prison-escape-2026",
+  "topic": "미국 테네시주 교도소서 무기수 1명 탈옥",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.28 01:53 KST",
+  "source": "AP News·CNN·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxNaDhOWURBVzVxMGNQMDF3c1NYejViYTl2WEpwUWc1akt1LXNOWnlaSVF6MTZpQjBjQmFtb1Q0aWh4RFloMzAzWVgxMVhtVEM3N1pDS1lqM3pYb1VCcm90MEdNZ3JOX1pSdmxzZDNhb0ptQTdaREVaOFA5cVVGdUlpNl9rSQ",
+    "related": [
+      [
+        "Man serving life sentence for murder escapes Tennessee prison, slipping through fence, officials say",
+        "The Guardian"
+      ],
+      [
+        "Manhunt underway for convicted killer who escaped through Tennessee prison fence and fled in stolen truck, officials say",
+        "CNN"
+      ],
+      [
+        "Manhunt after murderer escapes Tennessee prison",
+        "The Telegraph"
+      ],
+      [
+        "Manhunt Begins After Convicted Murderer Escapes From Tennessee Prison",
+        "The New York Times"
+      ],
+      [
+        "Man serving a life sentence for murder slips through a fence and escapes a Tennessee prison",
+        "AP News"
+      ]
+    ],
+    "event_key": "tennessee_prison_escape_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 [[테네시주]] 교도소서\n무기수 1명 탈옥",
+      "sub": "울타리 뚫고 훔친 차량으로 도주",
+      "chips": [],
+      "alt": "미국 테네시주 교도소서 무기수 1명 탈옥",
+      "map": {
+        "lat": 35.7730076,
+        "lon": -86.2820081,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n테네시주",
+      "video_only": true,
+      "map": {
+        "lat": 35.7730076,
+        "lon": -86.2820081,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테네시주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "울타리 뚫고 탈옥",
+          "d": "복역 중이던 죄수가 교도소 울타리를 통과해 탈옥했습니다 (AP·CNN)."
+        },
+        {
+          "t": "훔친 트럭 이용 도주",
+          "d": "탈옥 후 훔친 트럭을 타고 도주해 당국이 수색 중입니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 테네시주 교도소 탈옥",
+        "무기징역 수형자 도주"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "도난 차량 이동 경로"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNN",
+        "The Guardian",
+        "The New York Times",
+        "The Telegraph",
+        "2026.10.28 02:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 테네시주 교도소에서 무기수가 탈옥했습니다.\n\n· 복역 중이던 죄수가 교도소 울타리를 뚫고 도주했습니다 (AP·CNN).\n· 훔친 트럭을 타고 도주해 당국이 추적 조사를 벌이고 있습니다 (CNN).\n\n출처: AP·CNN·NYT·가디언·텔레그래프 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 테네시주 교도소에서 무기징역 수형자 1명이 탈옥했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 죄수가 교도소 울타리를 통과해 탈옥했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "탈옥범은 훔친 트럭을 타고 도주한 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현재 수색이 진행 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[교도소]] 울타리 뚫고\n탈옥한 무기수",
+  "broll": [
+    "prison fence wall",
+    "police car night"
+  ],
+  "place_en": "Tennessee, United States"
+}

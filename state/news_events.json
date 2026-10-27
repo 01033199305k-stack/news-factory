@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_sanctions_iran_shadow_fleet",
-    "topic": "미국, 이란 유조선 17척 제재 그림자 함대 겨냥",
-    "slug": "2026-10-09-news-us-sanctions-iran-shadow-fleet",
-    "cluster": "CBMimAFBVV95cUxQUm45bHRGMFlmNEV2d2lTTkFvQURQckhMSGhYRlhxWUtOb1d2cGhCTnVXUEJaMF94S2xZNXFWMF9ONTVraWdWdnVOME04c2xyMk5tRnhHVjI3YVFmQTZIWVR6MXhDUUNram9tRjlsejRlRXVQUERDX3NkY2ZIVmlsOV9Ic0wxOVNPSmVCRmtVVExGcWZNY0tCTw",
-    "badge": "breaking",
-    "at": 1791488719.5288277,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "uk_airbase_breakin_latvians",
     "topic": "미군이 사용하는 영국 공군기지 침입한 라트비아인 2명 체포",
     "slug": "2026-10-09-news-uk-airbase-breakin-latvians",
@@ -2998,5 +2988,15 @@
     "at": 1793117351.422986,
     "country": "이스라엘",
     "category": "국제"
+  },
+  {
+    "event_key": "tennessee_prison_escape_2026",
+    "topic": "미국 테네시주 교도소서 무기수 1명 탈옥",
+    "slug": "2026-10-28-news-tennessee-prison-escape-2026",
+    "cluster": "CBMigwFBVV95cUxNaDhOWURBVzVxMGNQMDF3c1NYejViYTl2WEpwUWc1akt1LXNOWnlaSVF6MTZpQjBjQmFtb1Q0aWh4RFloMzAzWVgxMVhtVEM3N1pDS1lqM3pYb1VCcm90MEdNZ3JOX1pSdmxzZDNhb0ptQTdaREVaOFA5cVVGdUlpNl9rSQ",
+    "badge": "breaking",
+    "at": 1793120982.631533,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]
