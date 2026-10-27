@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-drone-strike-russia-yandex-data-center-2026",
-    "topic": "우크라, 러 얀덱스 데이터센터 드론 타격",
-    "slug": "2026-10-08-news-ukraine-drone-strike-russia-yandex-data-center-2026",
-    "cluster": "CBMiS0FVX3lxTE45M1BqaGkxSUJKZWRweWl6MHpveVRtVHExQ21seEM0N21fbTVmNTVPbURjM2ZzNk1DaFhlQmZtTmswZlRFT3h3UXFOUQ",
-    "badge": "breaking",
-    "at": 1791446867.1794038,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "qatar-tanker-attack-iran-hormuz-2026",
     "topic": "카타르 해상서 유조선 피격 호르무즈 봉쇄 위협",
     "slug": "2026-10-08-news-qatar-tanker-attack-iran-hormuz-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793092960.359094,
     "country": "우간다",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "china_unannounced_missile_drill_2026",
+    "topic": "중국군, 대만 긴장 속 미사일 발사 훈련 공개 사전 경고 없는 훈련 진행",
+    "slug": "2026-10-27-news-china-unannounced-missile-drill-2026",
+    "cluster": "CBMiwgFBVV95cUxOd09NOHA3dExJb3JxWGRIWUxvaC05N2xjRTFMdld6S0dTaXowUjBkQmdkSjc0WXZxV2JoRTQyV0FuOEx4V3RNaWVhSVNYQmhaWFhrd2VfMnh2ZjZTR0k5MEU0bUtudXRVV1M4VjM3ZW14Q3d5azBVR3NzT0gxQWkyTHdZUC15aXpIV2lXcVZBV3E4MnFSYXp2R0xNV0ZqbHk4ZDBacVV1d05RSkp2MXpicTJXY1p4R0Q5MFV4MUNMeVRRZ9IBwgFBVV95cUxPMXhJVEpYYzB6YldNNE1sdUhQM0s5YWhGR09NM0RMLWJtaDZDbk1teDc5a24wOTlEc3NVZ1M2U0c3UjVyYTZZcUNNM3J3bDlVcGJfbUlYT0lvOWh2TnAzVXktaG9wWl81N1Z0NEk0bDU0U2N0U1V6emd5TGs2VnByMFFjZzZINWRfYmxJOUJnTW5jdUFWYVVRTlRqS04yQk1zZmZNc1dzdXlpTWV5RExDVU9jUV9hOE5FWUUwR2pDREFvdw",
+    "badge": "breaking",
+    "at": 1793096549.8403876,
+    "country": "중국",
+    "category": "국제"
   }
 ]

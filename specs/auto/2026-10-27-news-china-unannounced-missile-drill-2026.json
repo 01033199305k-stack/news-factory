@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-27-news-china-unannounced-missile-drill-2026",
+  "topic": "중국군, 대만 긴장 속 미사일 발사 훈련 공개 사전 경고 없는 훈련 진행",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 17:51 KST",
+  "source": "CGTN·South China Morning Post·ThePrint 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwgFBVV95cUxOd09NOHA3dExJb3JxWGRIWUxvaC05N2xjRTFMdld6S0dTaXowUjBkQmdkSjc0WXZxV2JoRTQyV0FuOEx4V3RNaWVhSVNYQmhaWFhrd2VfMnh2ZjZTR0k5MEU0bUtudXRVV1M4VjM3ZW14Q3d5azBVR3NzT0gxQWkyTHdZUC15aXpIV2lXcVZBV3E4MnFSYXp2R0xNV0ZqbHk4ZDBacVV1d05RSkp2MXpicTJXY1p4R0Q5MFV4MUNMeVRRZ9IBwgFBVV95cUxPMXhJVEpYYzB6YldNNE1sdUhQM0s5YWhGR09NM0RMLWJtaDZDbk1teDc5a24wOTlEc3NVZ1M2U0c3UjVyYTZZcUNNM3J3bDlVcGJfbUlYT0lvOWh2TnAzVXktaG9wWl81N1Z0NEk0bDU0U2N0U1V6emd5TGs2VnByMFFjZzZINWRfYmxJOUJnTW5jdUFWYVVRTlRqS04yQk1zZmZNc1dzdXlpTWV5RExDVU9jUV9hOE5FWUUwR2pDREFvdw",
+    "related": [
+      [
+        "What message is China sending with latest footage of ‘no-notice’ DF rocket drill?",
+        "South China Morning Post"
+      ],
+      [
+        "What China’s latest missile footage tells us about its military preparedness",
+        "ThePrint"
+      ],
+      [
+        "PLA Rocket Force conducts unannounced combat launch exercise",
+        "CGTN"
+      ],
+      [
+        "China Conducts Unannounced Missile Drills Amid Taiwan Tensions",
+        "조선일보"
+      ],
+      [
+        "China shows footage of missile launch without warning military — South China Morning Post",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "china_unannounced_missile_drill_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "중국군, 대만 긴장 속 [[미사일]] 발사 훈련 공개\n사전 경고 없는 [[훈련]] 진행",
+      "sub": "로켓군 훈련이 실시됐습니다",
+      "chips": [
+        {
+          "k": "군사 훈련",
+          "v": "미사일 발사"
+        }
+      ],
+      "alt": "중국군, 대만 긴장 속 미사일 발사 훈련 공개 사전 경고 없는 훈련 진행",
+      "map": {
+        "lat": 34.5412252,
+        "lon": 108.9237067,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국",
+      "video_only": true,
+      "map": {
+        "lat": 34.5412252,
+        "lon": 108.9237067,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "중국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "로켓군 훈련",
+          "d": "중국 인민해방군 로켓군이 사전 경고 없는 전투 발사 훈련을 진행했다고 CGTN 등이 보도했습니다."
+        },
+        {
+          "t": "대만 긴장",
+          "d": "이번 훈련은 대만을 둘러싼 긴장 속에서 이뤄졌다고 조선일보 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사전 경고 없는 미사일 발사 훈련",
+        "중국 인민해방군 로켓군 수행"
+      ],
+      "unconfirmed": [
+        "구체적인 발사 훈련 장소와 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CGTN",
+        "South China Morning Post",
+        "ThePrint",
+        "UA.NEWS",
+        "조선일보",
+        "2026.10.27 19:22 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 중국군, 대만 긴장 속 사전 경고 없는 미사일 발사 훈련 공개\n\n· 중국 인민해방군 로켓군이 사전 경고 없이 전투 발사 훈련을 진행했습니다 (CGTN·조선일보)\n· 이번 훈련은 대만을 둘러싼 긴장 속에서 실시됐습니다 (조선일보)\n\n어떻게 보십니까? 이번 중국의 미사일 훈련, 한반도 정세에 어떤 영향을 미칠까요?\n출처: SCMP·CGTN·조선일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국군이 사전 경고 없이 미사일 발사 훈련을 공개했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인민해방군 로켓군이 발사 훈련을 진행했다고 CGTN 등이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 훈련은 대만을 둘러싼 긴장 속에서 이뤄졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 발사 장소는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중국의 군사 행동, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "중국이 [[사전 경고]] 없이\n실시한 훈련은?",
+  "broll": [
+    "military missile launch",
+    "rocket force drill"
+  ],
+  "place_en": "China"
+}

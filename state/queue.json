@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-27-news-china-unannounced-missile-drill-2026",
+    "event_ms": 1793091114000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 중국군, 대만 긴장 속 사전 경고 없는 미사일 발사 훈련 공개\n\n· 중국 인민해방군 로켓군이 사전 경고 없이 전투 발사 훈련을 진행했습니다 (CGTN·조선일보)\n· 이번 훈련은 대만을 둘러싼 긴장 속에서 실시됐습니다 (조선일보)\n\n어떻게 보십니까? 이번 중국의 미사일 훈련, 한반도 정세에 어떤 영향을 미칠까요?\n출처: SCMP·CGTN·조선일보 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18161881726494843",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De_okdKkUbj",
+        "kind": "carousel",
+        "at": 1793096603
+      },
+      "instagram": {
+        "id": "17884888389652495",
+        "permalink": "https://www.instagram.com/reel/De_o19hkwf9/",
+        "kind": "reel",
+        "at": 1793096762
+      },
+      "youtube": {
+        "id": "hogtfomFmNw",
+        "permalink": "https://youtube.com/shorts/hogtfomFmNw",
+        "kind": "shorts",
+        "at": 1793096779
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
