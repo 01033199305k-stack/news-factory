@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-military-iran-strike-preparations",
-    "topic": "미국 국방부, 이란 공격 대비 군 병력 준비 명령",
-    "slug": "2026-10-08-news-us-military-iran-strike-preparations",
-    "cluster": "CBMi0gFBVV95cUxObmlHVDVjMVlRcUJGMWZqUmxTOVlJckVDeDZpZGJfQWdMeG5WanhBRS1uMENUMWF5aDBWWmVyQVY3Tm0xZThQY3FuWjZkeVIxYlZzNnhUNlU0bm5zaVdsMjA1RDNBcEpJM1JwaTZuLVdZdHROWHM3X09rYlZoYThKUVhaaUlHYlJRQWlLRFFfeVVMRnJlVnlxUURQLVpfZmM0ZXFLM1VCQ2FxUzdsaXRzcTdvMGVIQ0N1cWZFRU5IamZ5dHhHbDZEdk1kNUdhNlhYU1HSAdcBQVVfeXFMT29Kekt1LUJfX0JGampjekZtcmtxVjZEQWoyZF9jbjRnSjFoLWRIdGNnYUc2MTNiUXNJTFFNdlBaeUlKZUFBZ3lKc2t3dVV4LUlheUdjS1FvVnM4T2hXNlMzbGtPcWVPbjMtUWRBWXh6NWJ0VFhQM2ZtV3lJdXhvVndjQVI5akhVbnVaY2ZMSFQ2YW5OckJQRnFDTnlCUXlrZ0xmRVByT1ZQUTZvOHA4b0lEYlJGWEE1RlY3dDhFWWhYOGxaTXBBRGRSR1MxYVBWSkIxQWxlMmM",
-    "badge": "brief",
-    "at": 1791428930.9805388,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "hurricane-isaias-florida-state-of-emergency",
     "topic": "대서양 첫 허리케인 ‘이사이아스’ 북상",
     "slug": "2026-10-08-news-hurricane-isaias-florida-state-of-emergency",
@@ -2998,5 +2988,15 @@
     "at": 1793082514.378216,
     "country": "호주",
     "category": "국제"
+  },
+  {
+    "event_key": "seoul_guryong_village_fire_2026",
+    "topic": "서울 구룡마을 화재 소방 대응 2단계 발령",
+    "slug": "2026-10-27-news-seoul-guryong-village-fire-2026",
+    "cluster": "CBMiW0FVX3lxTE4yd2VlY0R6TDFGNkphT1RYUzM4TEFhTXNsZjU0VzJRNUJjc1VkVzhPNEFzcnY2YXlJbWtXSXZUZkFyRFpRSFoxZ1NlYmMyLTdPcEp3QS1VdjdaWDg",
+    "badge": "breaking",
+    "at": 1793088802.5653813,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]
