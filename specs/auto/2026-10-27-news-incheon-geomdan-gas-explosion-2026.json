@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-27-news-incheon-geomdan-gas-explosion-2026",
+  "topic": "인천 검단 상가건물서 가스 폭발 공사 중 인명피해 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 10:20 KST",
+  "source": "MBC 뉴스·SBS 뉴스·YTN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE5NN2ROZ3JPN0p2cGJ3YWpWcFhGQnY3aWEzZkJXQVhhelhsVDB3aFpZSWhfSlRQWWRuaGtJZzJROEY3d1hYcjZKOTlEX3UyUEpjbG1lRk0yWkttd1Iwc1NTLWRkX0VKdzlfZVJIOUx1dzZFdEo3eGl30gF3QVVfeXFMUEd6RnJuWUZGLWQ1RDlUOUhlTDdSWEVHMGt2MzUyYlFiRkxTbnMyOFBpdnpNUUt3N3ozOXpFUjExLS1XV1FZWS1oUW9BUWFvX0ViQktobnU2ZTFpSlkyUUpGb3hXN2dFY29ET1k4QmdFNTJHWk1Pc0E",
+    "related": [
+      [
+        "인천 검단 상가에서 폭발‥4명 부상",
+        "MBC 뉴스"
+      ],
+      [
+        "인천 마전동 상가에서 폭발 사고...4명 부상",
+        "YTN"
+      ],
+      [
+        "인천 검단 상가건물서 가스 폭발…4명 부상",
+        "경향신문"
+      ],
+      [
+        "인테리어 공사하다 '펑'…\"스파크 튀고 폭발\" 얼굴 화상",
+        "SBS 뉴스"
+      ],
+      [
+        "음식점 인테리어 작업 중 가스 폭발…4명 부상(종합)",
+        "연합뉴스"
+      ]
+    ],
+    "event_key": "incheon_geomdan_gas_explosion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인천 검단 상가건물서 [[가스 폭발]]\n공사 중 인명피해 발생",
+      "sub": "인테리어 작업 중 스파크가 튀며 폭발해 4명이 부상했습니다",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "4명"
+        }
+      ],
+      "alt": "인천 검단 상가건물서 가스 폭발 공사 중 인명피해 발생",
+      "map": {
+        "lat": 37.456,
+        "lon": 126.7052,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n인천",
+      "video_only": true,
+      "map": {
+        "lat": 37.456,
+        "lon": 126.7052,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "인천"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 장소",
+          "d": "인천시 검단 마전동의 한 상가건물에서 발생했습니다 (경향신문)"
+        },
+        {
+          "t": "원인 정황",
+          "d": "음식점 인테리어 작업 중 가스가 폭발한 것으로 전해졌습니다 (연합뉴스)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "부상 4명 (MBC·YTN·경향신문·SBS·연합뉴스)",
+        "음식점 인테리어 작업 중 가스 폭발 (연합뉴스)"
+      ],
+      "unconfirmed": [
+        "정확한 가스 누출 경위 및 재산 피해 규모",
+        "부상자들의 구체적인 부상 정도"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "SBS 뉴스",
+        "YTN",
+        "경향신문",
+        "연합뉴스",
+        "2026.10.27 12:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인천 검단 상가 인테리어 공사장서 가스 폭발… 부상 4명\n\n· 인천 마전동 상가건물서 인테리어 작업 중 발생 (경향신문)\n· 스파크가 튀며 폭발해 4명이 얼굴 화상 등 부상 (SBS·연합뉴스)\n\n출처: MBC·YTN·경향신문·SBS·연합뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인천 검단 상가건물에서 가스 폭발이 일어나 4명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "음식점 인테리어 작업 중 스파크가 튀며 폭발한 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 가스 누출 경위와 부상자들의 상태는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "인천 검단 [[상가건물]]에서\n무슨 일이?",
+  "broll": [
+    "commercial building street",
+    "ambulance night"
+  ],
+  "place_en": "Incheon, South Korea"
+}
