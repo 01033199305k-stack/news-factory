@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-27-news-uk-raf-fairford-national-security-charges",
+  "topic": "영국 미군 기지서 일어난 사건 남성 2명 기소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 18:16 KST",
+  "source": "Al Jazeera·BBC·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimwFBVV95cUxOdVZVcmdNX0FzeVJTUW9IdGRsdjdKNFFGNldGeGJwZi1rNFNVeWdPMjVuVWprd0tESDR4Yll6ams1YTdnc2lmM253NTFtcnRJb3V3ZnNqS2hXMzJ2UzlraEJIT3lyNWEtRnFwRVgxT2dRWWJlQjdfVS1KUVpsRFFGZ05OTUw4U0tQU0lvdmZodkpKWWhDeEw5THpoMNIBoAFBVV95cUxPaGJPMDhmTUd4OTRCTkVwSktZTkFoSVdCY3dCZ0JaUURQdVgzaEFuNjZodldkb3NwSnhwNzJqT3VKaGtmVEp5QnZVVmIzRGxKa2pQRzZtcW85ckZSQkdyVUstR0hUYkpPcktTQzduV3V5MjV5U1dDV0JvdDMwcjFfTFRTdmZfUjFoV3AzbkJSZGRZajZ2eV8tYVN0RVgzWE1v",
+    "related": [
+      [
+        "UK prosecutors charge two after RAF Fairford incident",
+        "Al Jazeera"
+      ],
+      [
+        "Two men charged under National Security Act after RAF Fairford incident",
+        "BBC"
+      ],
+      [
+        "2 men charged with with helping Iran over incident at U.S.-run military base in Britain",
+        "NBC News"
+      ],
+      [
+        "Two men charged with national security offences over RAF Fairford incident",
+        "The Guardian"
+      ],
+      [
+        "2 men charged with UK national security offenses over incident at US-run military base in England",
+        "The Hill"
+      ]
+    ],
+    "event_key": "uk_raf_fairford_national_security_charges"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 미군 기지서 일어난 사건\n남성 [[2명]] 기소",
+      "sub": "국가안보법 위반 혐의 적용",
+      "chips": [
+        {
+          "k": "기소",
+          "v": "2명"
+        },
+        {
+          "k": "혐의",
+          "v": "국가안보법"
+        }
+      ],
+      "alt": "영국 미군 기지서 일어난 사건 남성 2명 기소",
+      "map": {
+        "lat": 51.7107733,
+        "lon": -1.782001,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n페어퍼드",
+      "video_only": true,
+      "map": {
+        "lat": 51.7107733,
+        "lon": -1.782001,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "페어퍼드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미군 위탁 기지",
+          "d": "영국 내 미군이 운영하는 군사 기지에서 발생한 사건과 관련되어 있습니다 (NBC News·The Hill)."
+        },
+        {
+          "t": "이란 연계 혐의",
+          "d": "일부 매체는 이란을 도운 혐의가 적용되었다고 보도했습니다 (NBC News)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "남성 2명 기소 (BBC·가디언)",
+        "국가안보법 위반 (BBC·가디언)"
+      ],
+      "unconfirmed": [
+        "구체적인 범행 내용",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "NBC News",
+        "The Guardian",
+        "The Hill",
+        "2026.10.27 19:41 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국 미군 기지 관련 사건으로 남성 2명이 기소됐습니다\n\n· 영국 검찰은 국가안보법 위반 혐의로 남성 2명을 재판에 넘겼습니다 (BBC·가디언)\n· 사건은 영국 내 미군 위탁 군사 기지에서 발생했습니다 (NBC News·The Hill)\n\n출처: BBC·가디언·NBC News·The Hill·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 내 미군 기지에서 일어난 사건과 관련해 남성 2명이 기소됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 영국 검찰이 국가안보법 위반 혐의를 적용했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해당 기지는 미국이 운영하는 군사 시설인 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "영국 미군 기지에서\n무슨 일이?",
+  "broll": [
+    "military base gate",
+    "police station exterior"
+  ],
+  "place_en": "Fairford, United Kingdom"
+}

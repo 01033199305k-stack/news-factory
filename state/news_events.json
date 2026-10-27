@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "qatar-tanker-attack-iran-hormuz-2026",
-    "topic": "카타르 해상서 유조선 피격 호르무즈 봉쇄 위협",
-    "slug": "2026-10-08-news-qatar-tanker-attack-iran-hormuz-2026",
-    "cluster": "CBMiqAFBVV95cUxPWGpBZ3dHeE0yV0pvMTR0VTBMdHpZQUZoWjdneXNyV0d3RWVoZm1TWFJ5cS16Y0lCRk5PM2dEdVp1dlp2ZEJwTkQ5SlR4dVVoYzVwa0pEdjd5OUJCUTZmaVdRTUk4alo5TTJFRlVVV2lkSzl3MU5PMER5WkR1T2tlYVdNNU15cGQxMVViendna1NZRjBxdnUxb2dMZHFua2ZzVFZ4YTJ4cUg",
-    "badge": "breaking",
-    "at": 1791447746.3490958,
-    "country": "카타르",
-    "category": "국제"
-  },
-  {
     "event_key": "us-f35-parts-hong-kong-ups-2026",
     "topic": "이메일 실수로 F-35 스텔스기 부품 중국행",
     "slug": "2026-10-08-news-us-f35-parts-hong-kong-ups-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793096549.8403876,
     "country": "중국",
     "category": "국제"
+  },
+  {
+    "event_key": "uk_raf_fairford_national_security_charges",
+    "topic": "영국 미군 기지서 일어난 사건 남성 2명 기소",
+    "slug": "2026-10-27-news-uk-raf-fairford-national-security-charges",
+    "cluster": "CBMimwFBVV95cUxOdVZVcmdNX0FzeVJTUW9IdGRsdjdKNFFGNldGeGJwZi1rNFNVeWdPMjVuVWprd0tESDR4Yll6ams1YTdnc2lmM253NTFtcnRJb3V3ZnNqS2hXMzJ2UzlraEJIT3lyNWEtRnFwRVgxT2dRWWJlQjdfVS1KUVpsRFFGZ05OTUw4U0tQU0lvdmZodkpKWWhDeEw5THpoMNIBoAFBVV95cUxPaGJPMDhmTUd4OTRCTkVwSktZTkFoSVdCY3dCZ0JaUURQdVgzaEFuNjZodldkb3NwSnhwNzJqT3VKaGtmVEp5QnZVVmIzRGxKa2pQRzZtcW85ckZSQkdyVUstR0hUYkpPcktTQzduV3V5MjV5U1dDV0JvdDMwcjFfTFRTdmZfUjFoV3AzbkJSZGRZajZ2eV8tYVN0RVgzWE1v",
+    "badge": "breaking",
+    "at": 1793097743.6779258,
+    "country": "영국",
+    "category": "기타 사건"
   }
 ]
