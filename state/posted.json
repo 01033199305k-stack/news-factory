@@ -26317,5 +26317,62 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793070801
+  },
+  {
+    "slug": "2026-10-27-news-russia-ukraine-oleshky-ceasefire-2026",
+    "event_ms": 1793068497000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라이나 올레시키 지역에서 국지적 휴전이 발효됐습니다.\n\n· 러시아 군당국은 헤르손 방면 사격을 중단하고 침묵 유지에 들어갔다고 밝혔습니다 (CGTN)\n· 양측은 다음 달 평화회담을 열기로 합의했습니다 (로이터)\n· 이번 휴전은 중재를 거쳐 성사된 것으로 전해졌습니다 (알자지라·NDTV)\n\n여러분은 이번 국지적 휴전이 평화 정착으로 이어질 수 있다고 보십니까?\n\n출처: 알자지라·NDTV·CGTN·로이터·뉴인디언익스프레스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17915365944540901",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De--MfbFlKD",
+        "kind": "carousel",
+        "at": 1793074384
+      },
+      "instagram": {
+        "id": "18137304433735422",
+        "permalink": "https://www.instagram.com/reel/De--f_8D_4P/",
+        "kind": "reel",
+        "at": 1793074561
+      },
+      "youtube": {
+        "id": "hD76NTepI5U",
+        "permalink": "https://youtube.com/shorts/hD76NTepI5U",
+        "kind": "shorts",
+        "at": 1793074590
+      },
+      "tiktok": {
+        "id": "6ae03309e322dad80125227a",
+        "permalink": "",
+        "kind": "video",
+        "at": 1793078226
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793078236
   }
 ]

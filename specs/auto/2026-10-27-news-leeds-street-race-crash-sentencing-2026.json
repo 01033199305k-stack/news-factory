@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-27-news-leeds-street-race-crash-sentencing-2026",
+  "topic": "영국 길거리 자동차 경주로 엄마와 4살 딸 숨지게 한 남성들 징역 28년 선고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 13:12 KST",
+  "source": "BBC·India Today·NDTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi4AFBVV95cUxPM2pvcUpzcy1TejhiT1drMzBNUWlvQkxSZHd5N0xFSFNpMDQydFFQdHlqbUdzWGtjQi1GS2dETU1SZy1vd25PUndlRVBxekgzS1pTUHVXcDd3OXRxcDNaNnVjSjFMZlk0bVJYa3dSYjhTMWlqMmZEMW5MS3lrTkVSY216TG1WbXBVUTRhbGltTldsVjJZdkRwSkZuUVpud2FkN0d2YnpzUENPczJfbWJ6SUYzMHFneXZ1c2hWekphcUVQMXFEYmlmYjQzTFB6S2dxeXdxOE5xSmFWRkkteWxOeA",
+    "related": [
+      [
+        "2 Indian-Origin Men Get 28 Years In Jail After Deadly Car Race On UK Street",
+        "NDTV"
+      ],
+      [
+        "Drivers jailed over deaths of mum and daughter in Leeds",
+        "BBC"
+      ],
+      [
+        "Indian-origin drivers jailed for 28 years over fatal Leeds street race",
+        "India Today"
+      ],
+      [
+        "28 years in jail for 2 Indian-origin men whose high-speed race killed UK mum, daughter",
+        "The Times of India"
+      ],
+      [
+        "Two men sentenced for crash that killed mum and 4-year-old in Leeds",
+        "Rayo"
+      ]
+    ],
+    "event_key": "leeds_street_race_crash_sentencing_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 길거리 자동차 경주로\n엄마와 4살 딸 숨지게 한 남성들 [[징역 28년]] 선고",
+      "sub": "영국 리즈에서 고속 경주를 벌이다 참사를 낸 운전자 2명",
+      "chips": [
+        {
+          "k": "형량",
+          "v": "징역 28년"
+        },
+        {
+          "k": "사망",
+          "v": "2명"
+        }
+      ],
+      "alt": "영국 길거리 자동차 경주로 엄마와 4살 딸 숨지게 한 남성들 징역 28년 선고",
+      "map": {
+        "lat": 53.7974185,
+        "lon": -1.5437941,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n리즈",
+      "video_only": true,
+      "map": {
+        "lat": 53.7974185,
+        "lon": -1.5437941,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리즈"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "고속 경주",
+          "d": "영국 리즈 거리에서 고속으로 자동차 경주를 벌이다 사고를 냈습니다 (BBC·NDTV·India Today)"
+        },
+        {
+          "t": "인명 피해",
+          "d": "이 사고로 엄마와 4살 딸이 숨졌습니다 (BBC·The Times of India·Rayo)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "징역 28년 실형 선고 (NDTV·India Today·The Times of India)",
+        "엄마와 4살 딸 사망 (BBC·The Times of India·Rayo)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "India Today",
+        "NDTV",
+        "Rayo",
+        "The Times of India",
+        "2026.10.27 14:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국서 길거리 자동차 경주로 엄마와 4살 딸 숨지게 한 남성 2명에게 징역 28년이 선고됐습니다\n\n· 영국 리즈 거리에서 고속으로 자동차 경주를 벌이다 참사를 냈습니다 (BBC·NDTV·India Today)\n· 이 사고로 엄마와 4살 딸이 목숨을 잃었습니다 (BBC·The Times of India·Rayo)\n\n출처: BBC·NDTV·India Today·The Times of India·Rayo 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 리즈에서 고속 경주를 벌이다 엄마와 4살 딸을 숨지게 한 운전자 2명에게 징역 28년이 선고됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 언론은 피고인들이 거리에서 고속 자동차 경주를 벌이다 사고를 냈다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 경위와 피고인들의 항소 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "영국 리즈에서\n무슨 일이?",
+  "broll": [
+    "car road street night",
+    "police lights street"
+  ],
+  "place_en": "Leeds, United Kingdom"
+}
