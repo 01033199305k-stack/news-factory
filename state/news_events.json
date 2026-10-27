@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "uk_airbase_breakin_latvians",
-    "topic": "미군이 사용하는 영국 공군기지 침입한 라트비아인 2명 체포",
-    "slug": "2026-10-09-news-uk-airbase-breakin-latvians",
-    "cluster": "CBMivAFBVV95cUxNT29obFFfbmdtbjduSC1qSVFJcnMzbnpteDM1SHdzVTh0WWtvQktyM19BMS1nbnotRU9xT0k4T29FRDBUWGd2WjlIX21rOWR6SXBCalJsOWlyZEVPOHNPZnlEczBGVjZMWVRjLTdJTmRxWmVqc0QwQVA5LUJNTWllZnEyaWtyNnVfUldrWTRSUlpKV3dLb05BNlVLX3I1ZkdWMW80eUJZMG1RNFI3dDQxek84bG40TG9wY051OQ",
-    "badge": "breaking",
-    "at": 1791490036.4341815,
-    "country": "영국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "starbucks_chipotle_takeover_rumor",
     "topic": "스타벅스의 치폴레 인수 검토 소식에 치폴레 주가 급등",
     "slug": "2026-10-09-news-starbucks-chipotle-takeover-rumor",
@@ -2998,5 +2988,15 @@
     "at": 1793120982.631533,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "canada_uae_trade_defence_agreement_2026",
+    "topic": "캐나다·UAE 무역·국방 협정 체결",
+    "slug": "2026-10-28-news-canada-uae-trade-defence-agreement-2026",
+    "cluster": "CBMikgFBVV95cUxNVlZyZUhRTFlaX1JCLVRSSFJCcXFLT2ZCNGhkVTRUcW8xelVUeWZXUlR5cHpIZEg2WDd4UnEtZjZHTUE4NmprZmxJN1hKa0lVdHRCay14czZsdldteVE4VndYbHZtUGpSenFHcElzVnlVUVVXYWRQbUUzVnVZblJSeFZrc21iUk9QYWFfd2lxQ3Vidw",
+    "badge": "breaking",
+    "at": 1793145081.8725944,
+    "country": "캐나다",
+    "category": "국제"
   }
 ]

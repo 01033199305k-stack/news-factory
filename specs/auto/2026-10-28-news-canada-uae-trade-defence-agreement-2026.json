@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-28-news-canada-uae-trade-defence-agreement-2026",
+  "topic": "캐나다·UAE 무역·국방 협정 체결",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.28 06:48 KST",
+  "source": "Reuters·CBC·The Globe and Mail 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxNVlZyZUhRTFlaX1JCLVRSSFJCcXFLT2ZCNGhkVTRUcW8xelVUeWZXUlR5cHpIZEg2WDd4UnEtZjZHTUE4NmprZmxJN1hKa0lVdHRCay14czZsdldteVE4VndYbHZtUGpSenFHcElzVnlVUVVXYWRQbUUzVnVZblJSeFZrc21iUk9QYWFfd2lxQ3Vidw",
+    "related": [
+      [
+        "Canada, UAE sign trade deal as Carney seeks new trading partners",
+        "Reuters"
+      ],
+      [
+        "Business leaders and Emirati officials on guest list for Carney’s dinner with Abu Dhabi Crown Prince",
+        "The Globe and Mail"
+      ],
+      [
+        "Canada, U.A.E. sign defence, energy agreements during crown prince's visit",
+        "CBC"
+      ],
+      [
+        "Canada Signs Military MOU With U.A.E. As It Backs Sudan Massacres",
+        "The Maple"
+      ],
+      [
+        "Canada, UAE to sign economic partnership amid US tariff war fallout",
+        "thecradle.co"
+      ]
+    ],
+    "event_key": "canada_uae_trade_defence_agreement_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "캐나다·UAE\n[[무역·국방 협정]] 체결",
+      "sub": "에너지 분야 포함 양국 협력 공식 서명",
+      "chips": [
+        {
+          "k": "협정 체결",
+          "v": "무역·국방·에너지"
+        }
+      ],
+      "alt": "캐나다·UAE 무역·국방 협정 체결",
+      "map": {
+        "lat": 45.4208777,
+        "lon": -75.6901106,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "캐나다"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "캐나다\n오타와",
+      "video_only": true,
+      "map": {
+        "lat": 45.4208777,
+        "lon": -75.6901106,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오타와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "국방·에너지 포함",
+          "d": "무역 협정과 함께 국방 및 에너지 분야 협력에 서명했습니다 (CBC)."
+        },
+        {
+          "t": "왕세자 방문 계기",
+          "d": "아부다비 왕세자의 캐나다 방문에 맞춰 체결되었습니다 (CBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "캐나다-UAE 무역 협정 체결",
+        "국방·에너지 협력 합의"
+      ],
+      "unconfirmed": [
+        "구체적인 세부 투자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBC",
+        "Reuters",
+        "The Globe and Mail",
+        "The Maple",
+        "thecradle.co",
+        "2026.10.28 08:51 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 캐나다와 아랍에미리트가 무역과 국방·에너지 협정에 서명했습니다.\n\n· 아부다비 왕세자의 캐나다 방문 기간 양국 간 주요 협정이 체결됐습니다 (CBC)\n· 무역뿐만 아니라 국방 및 에너지 분야 협력안도 포함됐습니다 (CBC)\n\n이번 무역·국방 협정이 양국 관계에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·CBC·글로브앤메일 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "캐나다와 아랍에미리트가 무역과 국방, 에너지 분야 협정에 서명했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 협정은 아부다비 왕세자의 캐나다 방문에 맞춰 이뤄졌다고 CBC가 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "양국은 무역 외에도 국방과 에너지 분야 협력을 확대하기로 합의했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 세부 투자 규모는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 무역과 국방 협력 타결, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[캐나다]]와 UAE가\n손잡은 이유",
+  "broll": [
+    "national flags agreement",
+    "press conference podium"
+  ],
+  "place_en": "Ottawa, Canada"
+}

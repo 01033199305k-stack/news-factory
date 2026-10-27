@@ -27188,5 +27188,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793128231
+  },
+  {
+    "slug": "2026-10-28-news-canada-uae-trade-defence-agreement-2026",
+    "event_ms": 1793137715000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 캐나다와 아랍에미리트가 무역과 국방·에너지 협정에 서명했습니다.\n\n· 아부다비 왕세자의 캐나다 방문 기간 양국 간 주요 협정이 체결됐습니다 (CBC)\n· 무역뿐만 아니라 국방 및 에너지 분야 협력안도 포함됐습니다 (CBC)\n\n이번 무역·국방 협정이 양국 관계에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·CBC·글로브앤메일 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "캐나다"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18118444160104651",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfBFIlQoOnH",
+        "kind": "carousel",
+        "at": 1793145132
+      },
+      "instagram": {
+        "id": "18068651807787088",
+        "permalink": "https://www.instagram.com/reel/DfBFexMFGdA/",
+        "kind": "reel",
+        "at": 1793145332
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793145342
+      },
+      "tiktok": {
+        "id": "7701500657311681812",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701500657311681812",
+        "kind": "video",
+        "at": 1793145465
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793145475
   }
 ]
