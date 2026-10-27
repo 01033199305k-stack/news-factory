@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "world-first-nuclear-clock-vienna-beijing-2026",
-    "topic": "빈·베이징 연구진 세계 첫 핵시계 가동",
-    "slug": "2026-10-08-news-world-first-nuclear-clock-vienna-beijing-2026",
-    "cluster": "CBMihwFBVV95cUxQTEdDTHFQam5OWW41dGdVdGh6Sy1EME5ObGdvdWNYc1RIb3RsQUFPWGRlQlhHSms1NmxQQVRCbzBBOVNYXzhObjc5V1g5TmttdUN6ZDFlTTdka2FOdkc2ZlMxX29NQ1hfSFBOem5wRzlBaEhLS0dmTHhKNXFRYzBFTnh4cWRvcXM",
-    "badge": "brief",
-    "at": 1791443618.137395,
-    "country": "오스트리아",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "ukraine-drone-strike-russia-yandex-data-center-2026",
     "topic": "우크라, 러 얀덱스 데이터센터 드론 타격",
     "slug": "2026-10-08-news-ukraine-drone-strike-russia-yandex-data-center-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793092117.530573,
     "country": "독일",
     "category": "사고"
+  },
+  {
+    "event_key": "uganda_cannibal_serial_killer_arrest_2026",
+    "topic": "우간다서 38명 살해 식인 연쇄살인범 체포",
+    "slug": "2026-10-27-news-uganda-cannibal-serial-killer-arrest-2026",
+    "cluster": "CBMi0wFBVV95cUxOVFlXNG1sQzFRNHZkTHFIcHp3c0hQLXFKQ20xbUVmQ1BxaHIyZVB4WTBLcy1oT3BTYzNfU1ZzZnlnb0JZdXRTeXRvWExIcWJNSk9WcV90dnNnUkRBcTd4VEIwWGdiVnNKTEYxaG5VQ2luRWhlcjlnanlyY3FQeXY5aUREdnpHNUNiVmQ0Sk1IbFJDQU9WTFljWnFmbG44WFI0TGtfUWR6ZkVrLVNtMDJUYzVfSHl0QmpZRGFzc1dxT3JLa2lxQkROQ3NzMHpQdmxVQnJN0gHbAUFVX3lxTE1JSENkZWNlUDZESmZRNWRKUkpQUHBMRGljbTZqU1RTRnJhUkd1bjFHUDJGUGUwdDBIa0Vrd0pRSE5BaGxqUTY1b0FNd0ppRGVyNU1JTzdJZWNxbXVUdUoyTjBWZFNvMTd2WHNYMTlFY2VULUx1ajhKa2JuTzJVdGFaOW5QS09hRkFvOFRHaG9rWWxoNjdWdVF1OGpkX211OGRIRUxtMEw5d1ZfMzBabDlwNldNd25wV2tHU2hpTEJUTnhXMHN0WkNJcHdlTDBzQ1dNVU45TldzNjVCdw",
+    "badge": "breaking",
+    "at": 1793092960.359094,
+    "country": "우간다",
+    "category": "기타 사건"
   }
 ]

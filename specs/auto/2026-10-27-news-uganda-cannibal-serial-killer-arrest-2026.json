@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-27-news-uganda-cannibal-serial-killer-arrest-2026",
+  "topic": "우간다서 38명 살해 식인 연쇄살인범 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 16:32 KST",
+  "source": "NDTV·Metro.co.uk·Pulse Uganda 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0wFBVV95cUxOVFlXNG1sQzFRNHZkTHFIcHp3c0hQLXFKQ20xbUVmQ1BxaHIyZVB4WTBLcy1oT3BTYzNfU1ZzZnlnb0JZdXRTeXRvWExIcWJNSk9WcV90dnNnUkRBcTd4VEIwWGdiVnNKTEYxaG5VQ2luRWhlcjlnanlyY3FQeXY5aUREdnpHNUNiVmQ0Sk1IbFJDQU9WTFljWnFmbG44WFI0TGtfUWR6ZkVrLVNtMDJUYzVfSHl0QmpZRGFzc1dxT3JLa2lxQkROQ3NzMHpQdmxVQnJN0gHbAUFVX3lxTE1JSENkZWNlUDZESmZRNWRKUkpQUHBMRGljbTZqU1RTRnJhUkd1bjFHUDJGUGUwdDBIa0Vrd0pRSE5BaGxqUTY1b0FNd0ppRGVyNU1JTzdJZWNxbXVUdUoyTjBWZFNvMTd2WHNYMTlFY2VULUx1ajhKa2JuTzJVdGFaOW5QS09hRkFvOFRHaG9rWWxoNjdWdVF1OGpkX211OGRIRUxtMEw5d1ZfMzBabDlwNldNd25wV2tHU2hpTEJUTnhXMHN0WkNJcHdlTDBzQ1dNVU45TldzNjVCdw",
+    "related": [
+      [
+        "Man Accused Of Killing And Eating 38 People Arrested In Uganda, Top General Says \"Will Be Executed\"",
+        "NDTV"
+      ],
+      [
+        "Serial killer accused of killing and eating 38 people arrested after 15 years!",
+        "Udayavani"
+      ],
+      [
+        "Serial killer cannibal 'who killed and ate 38 people' to be executed",
+        "Metro.co.uk"
+      ],
+      [
+        "\"Worsr serial killer\": Ugandan accused of killing 38 people in 15 years arrested",
+        "Tuko News"
+      ],
+      [
+        "Gen Kainerugaba announces arrest of serial killer accused of eating 38 people",
+        "Pulse Uganda"
+      ]
+    ],
+    "event_key": "uganda_cannibal_serial_killer_arrest_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우간다서 [[38명 살해]]\n식인 연쇄살인범 체포",
+      "sub": "우간다 군 당국이 15년간 범행 혐의를 받는 남성을 체포했다고 밝혔습니다",
+      "chips": [
+        {
+          "k": "피해 혐의",
+          "v": "38명 살해"
+        }
+      ],
+      "alt": "우간다서 38명 살해 식인 연쇄살인범 체포",
+      "map": {
+        "lat": 1.5333554,
+        "lon": 32.2166578,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우간다"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우간다",
+      "video_only": true,
+      "map": {
+        "lat": 1.5333554,
+        "lon": 32.2166578,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "우간다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "15년간 범행 혐의",
+          "d": "용의자는 15년 동안 38명을 살해하고 식인한 혐의를 받고 있습니다 (우다야바니·투코 뉴스)."
+        },
+        {
+          "t": "군 장성 공식 발표",
+          "d": "우간다 군 고위 장성이 체포 사실을 밝히며 용의자가 처형될 것이라고 전했습니다 (NDTV·펄스 우간다)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "38명 살해·식인 혐의 남성 체포",
+        "우간다 군 당국 공식 발표"
+      ],
+      "unconfirmed": [
+        "구체적인 범행 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Metro.co.uk",
+        "NDTV",
+        "Pulse Uganda",
+        "Tuko News",
+        "Udayavani",
+        "2026.10.27 18:22 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우간다에서 38명을 살해한 혐의를 받는 연쇄살인 용의자가 체포됐습니다.\n\n· 우간다 군 고위 장성은 38명을 살해하고 식인한 혐의의 남성을 붙잡았다고 밝혔습니다 (NDTV·메트로)\n· 군 당국은 해당 용의자가 처형될 것이라고 밝혔습니다 (NDTV·메트로)\n\n출처: NDTV·Metro·Pulse Uganda 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우간다에서 38명을 살해한 혐의의 연쇄살인 용의자가 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신들은 15년간 살인과 식인을 저지른 혐의를 받는 남성이 붙잡혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우간다 군 고위 장성은 체포 사실을 알리며 용의자가 처형될 것이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "용의자의 구체적인 범행 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "우간다 [[연쇄살인범]]\n군 당국에 체포",
+  "broll": [
+    "police car night",
+    "handcuffs police"
+  ],
+  "place_en": "Uganda"
+}
