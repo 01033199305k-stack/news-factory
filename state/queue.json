@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-27-news-russia-strike-kyiv-2026",
+    "event_ms": 1793095140000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아군의 키이우 공습으로 사망 4명·부상 28명 발생 (Euronews)\n\n· 수도 키이우에서 여러 차례 폭발음이 확인됨 (로이터)\n· 방공망 지원 지연이 테러를 낳고 있다고 젤렌스키 대통령이 지적함 (ABC뉴스·우크라인폼)\n· 올레시키 지역 휴전 발효를 앞둠 (가디언)\n\n출처: 가디언·Euronews·로이터·ABC뉴스·우크라인폼 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18151930126558971",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De_vxPpEWMm",
+        "kind": "carousel",
+        "at": 1793100377
+      },
+      "instagram": {
+        "id": "18167219827468227",
+        "permalink": "https://www.instagram.com/reel/De_wE8DEgX9/",
+        "kind": "reel",
+        "at": 1793100557
+      },
+      "youtube": {
+        "id": "Q3zyLUV014A",
+        "permalink": "https://youtube.com/shorts/Q3zyLUV014A",
+        "kind": "shorts",
+        "at": 1793100574
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

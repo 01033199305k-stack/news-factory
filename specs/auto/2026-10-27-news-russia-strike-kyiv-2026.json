@@ -1,0 +1,153 @@
+{
+  "slug": "2026-10-27-news-russia-strike-kyiv-2026",
+  "topic": "러시아군의 키이우 공습으로 사망 4명·부상 28명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 18:59 KST",
+  "source": "ABC News·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxPdjZTTXg2eDNMTTdoVUJxdmFaaXVvb0hFdXBQaHJycnhNTU5jM0xtZ0k2VmlEdUIxSWcwZFd5OWRxaEdpTVBMSE9yNU5WTGE0M1RzMjYtS0FOWll6M0U3VHlqcXRLMUw4ZmxiNWc1T0NBS0F3SWkwV1E5X0VDUVEzSzRGVHVZQ3VUOUl4bzlQVXFucl91azBLeXA0RWdNSWNTd1NFRmZKRFl5VHhZ",
+    "related": [
+      [
+        "Ukraine war briefing: Russia strikes Kyiv hours before truce begins in war-ravaged city Oleshky",
+        "The Guardian"
+      ],
+      [
+        "Russian strikes on Ukraine kill four and injure 28, authorities say",
+        "Euronews.com"
+      ],
+      [
+        "Explosions heard in Ukraine's Kyiv, Reuters witness says",
+        "Reuters"
+      ],
+      [
+        "Ukraine must 'unblock' Patriot missile delivery, Zelenskyy says after deadly strikes",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Zelensky after Russian strike on Kyiv: Delays in air defense support Ukraine enable terrorism",
+        "Ukrinform"
+      ]
+    ],
+    "event_key": "russia_strike_kyiv_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아군의 [[키이우]] 공습으로\n사망 4명·부상 28명 발생",
+      "sub": "휴전 발효를 앞두고 타격 이어져",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "4명"
+        },
+        {
+          "k": "부상",
+          "v": "28명"
+        }
+      ],
+      "alt": "러시아군의 키이우 공습으로 사망 4명·부상 28명 발생",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공습 발생",
+          "d": "우크라이나 수도 키이우에서 여러 차례 폭발음이 들렸다고 로이터 통신이 전했습니다."
+        },
+        {
+          "t": "젤렌스키 대통령 입장",
+          "d": "방공망 지원 지연이 테러를 용인하고 있다고 젤렌스키 대통령이 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 4명 (Euronews)",
+        "부상 28명 (Euronews)"
+      ],
+      "unconfirmed": [
+        "정확한 피해 시설 규모",
+        "추가 공습 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Euronews.com",
+        "Reuters",
+        "The Guardian",
+        "Ukrinform",
+        "2026.10.27 20:25 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아군의 키이우 공습으로 사망 4명·부상 28명 발생 (Euronews)\n\n· 수도 키이우에서 여러 차례 폭발음이 확인됨 (로이터)\n· 방공망 지원 지연이 테러를 낳고 있다고 젤렌스키 대통령이 지적함 (ABC뉴스·우크라인폼)\n· 올레시키 지역 휴전 발효를 앞둠 (가디언)\n\n출처: 가디언·Euronews·로이터·ABC뉴스·우크라인폼 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아군의 키이우 공습으로 4명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "Euronews 등 외신은 부상자도 28명에 달한다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "수도 키이우 전역에서 여러 차례 폭발음이 들렸습니다.",
+      "card": "points"
+    },
+    {
+      "text": "젤렌스키 대통령은 방공망 지원 지연이 테러를 용인하고 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 공습의 정확한 피해 시설 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 공습 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "러시아군의 [[키이우]] 공습,\n피해 규모는?",
+  "broll": [
+    "smoke city skyline",
+    "damaged building street"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
