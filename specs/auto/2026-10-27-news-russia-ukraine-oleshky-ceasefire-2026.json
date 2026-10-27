@@ -1,0 +1,146 @@
+{
+  "slug": "2026-10-27-news-russia-ukraine-oleshky-ceasefire-2026",
+  "topic": "우크라 올레시키 휴전 발효 다음 달 평화회담 합의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 11:34 KST",
+  "source": "Al Jazeera·NDTV·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxPRUNVXzhQTkV3bDBvQnd2MnFDY2R5TUxrelhNM3NZTXdQa3RLMmVhMnFRVkJTWW9UX0trdjlNbDRHdHl6VlRxNUJKQklhcU9EaXQydU1uSzFJSVVPaklRWGprUThwUTdoRWZDOWtqX0I5MTBnTlhYdXZBcXJJZWFvTXFUeEU1dVpZQWFHRjFFdlBpbHVvdW9LdTN2alVpWEM3ejlBcHVJU0NUdlNfajItZk9QS01pTXfSAbwBQVVfeXFMTlIyc3FoR0x2Z0xuS0p5UGNHLVIzUWxaZGI1cG8xWTBxUzJPS0RBQ3NORVJ6RDBtWGhTeHhySm4yX01YU0tFcHJjWDA1SGJXTjRYZXlralIzbGVGU3VNZ3FCenBLQUZjR3ZfMFVKdVdsZ0VlaGU0RU9UNEJSUVBzeTJOaWZ6bVhaa2VqWE5FWG5HYlE5azN3a1pic0lDLTJXRC10Q3VyV2Z3WE0xRzhCak4zbmxnbVdJNjZ6Ujg",
+    "related": [
+      [
+        "Russia halts strikes on Ukraine’s Kherson as Oleshky ceasefire takes effect",
+        "Al Jazeera"
+      ],
+      [
+        "Melania Trump-Brokered Truce Begins In Ukrainian Town Of Oleshky",
+        "NDTV"
+      ],
+      [
+        "In connection with preparations for a humanitarian operation in the area of the village of Aleshki, Kherson region, the Armed Forces of the Russian Federation ceased fire in the Kherson direction and introduced a \"silence regime\" from 4:00 Moscow time on Oct",
+        "CGTN"
+      ],
+      [
+        "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
+        "Reuters"
+      ],
+      [
+        "Localized Russia-Ukraine ceasefire starts in deal brokered by Melania Trump, but Kyiv faces fresh attacks",
+        "The New Indian Express"
+      ]
+    ],
+    "event_key": "russia_ukraine_oleshky_ceasefire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 올레시키 [[휴전]] 발효\n다음 달 평화회담 합의",
+      "sub": "러시아군 헤르손 방면 사격 중단하고 침묵 유지",
+      "chips": [
+        {
+          "k": "휴전",
+          "v": "발효"
+        }
+      ],
+      "alt": "우크라 올레시키 휴전 발효 다음 달 평화회담 합의",
+      "map": {
+        "lat": 46.6260908,
+        "lon": 32.7220187,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n올레시키",
+      "video_only": true,
+      "map": {
+        "lat": 46.6260908,
+        "lon": 32.7220187,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "올레시키"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "헤르손 사격 중지",
+          "d": "러시아 군당국은 헤르손 방면 사격을 중단하고 정적 상태에 들어갔다고 밝혔습니다 (CGTN)."
+        },
+        {
+          "t": "다음 달 회담",
+          "d": "양측은 다음 달 평화회담을 개최하기로 합의했습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 올레시키 국지적 휴전 발효",
+        "러시아군 헤르손 방면 사격 중단",
+        "다음 달 평화회담 개최 합의"
+      ],
+      "unconfirmed": [
+        "휴전 지속 여부",
+        "평화회담 세부 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CGTN",
+        "NDTV",
+        "Reuters",
+        "The New Indian Express",
+        "2026.10.27 13:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 올레시키 지역에서 국지적 휴전이 발효됐습니다.\n\n· 러시아 군당국은 헤르손 방면 사격을 중단하고 침묵 유지에 들어갔다고 밝혔습니다 (CGTN)\n· 양측은 다음 달 평화회담을 열기로 합의했습니다 (로이터)\n· 이번 휴전은 중재를 거쳐 성사된 것으로 전해졌습니다 (알자지라·NDTV)\n\n여러분은 이번 국지적 휴전이 평화 정착으로 이어질 수 있다고 보십니까?\n\n출처: 알자지라·NDTV·CGTN·로이터·뉴인디언익스프레스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 올레시키 지역에서 국지적 휴전이 발효됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아 군당국은 헤르손 방면 사격을 중단했다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 양측이 다음 달 평화회담을 열기로 합의했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "휴전 지속 여부와 세부 회담 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 휴전 합의를 어떻게 바라보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "우크라 올레시키\n[[휴전]] 발효",
+  "broll": [
+    "ukraine town road",
+    "humanitarian aid truck"
+  ],
+  "place_en": "Oleshky, Ukraine"
+}

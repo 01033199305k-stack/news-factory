@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "west_bank_settler_clash_oct_2026",
-    "topic": "요르단강 서안 지구 충돌… 1명 사망·16명 부상 발생",
-    "slug": "2026-10-08-news-west-bank-settler-clash-oct-2026",
-    "cluster": "CBMitgFBVV95cUxPbnBjSExsal8wSkw3M2pvNFFFR1YxTkdjZmEyQTN6ZzZjWlVPcVpwUGhQeUUyNk1QV1Rtd3FNVjZ0dTlRUG8yNE1JZkNab2FhVmNidGtWWGRyU3pSM0lKY0RnRWdfQ3VuR043YnBUVUNYZUt0SWhDcnZQd044d2NsRHE2VDdtcFk4bXltd0pCT05FWWtyVHpPLVV1UlBVTV9jSG1EWHFuM2NRTEtRbGhReHRaRUhMQdIBuwFBVV95cUxPNEwwRjZmckFPNUlNcF9GZEtOaHpOa0UxRzBRNTdNZDVSZjVEbkN6WElFSzFJWC1fTkxKd2N3Q200YXlTY2w0NUtBMTRfaFJoZGtxRkVZUFI0V2xsdGdleUd2d2NkS29RYThJb2NGM2l3QkpackdDRDhLQW5peUNBVlJlZ01HeHZfYlBQanhDcFBkYXVZRkdiaUhUYU85Tk5SR25tQWhnNzVQZzhLUXljUHJUWDNXUi1OUWFn",
-    "badge": "breaking",
-    "at": 1791400164.4674652,
-    "country": "팔레스타인",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "russia-ukraine-putin-birthday-strike-2026",
     "topic": "푸틴 생일날 대공습 우크라 최소 26명 사망",
     "slug": "2026-10-08-news-russia-ukraine-putin-birthday-strike-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793070445.513766,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "russia_ukraine_oleshky_ceasefire_2026",
+    "topic": "우크라 올레시키 휴전 발효 다음 달 평화회담 합의",
+    "slug": "2026-10-27-news-russia-ukraine-oleshky-ceasefire-2026",
+    "cluster": "CBMitwFBVV95cUxPRUNVXzhQTkV3bDBvQnd2MnFDY2R5TUxrelhNM3NZTXdQa3RLMmVhMnFRVkJTWW9UX0trdjlNbDRHdHl6VlRxNUJKQklhcU9EaXQydU1uSzFJSVVPaklRWGprUThwUTdoRWZDOWtqX0I5MTBnTlhYdXZBcXJJZWFvTXFUeEU1dVpZQWFHRjFFdlBpbHVvdW9LdTN2alVpWEM3ejlBcHVJU0NUdlNfajItZk9QS01pTXfSAbwBQVVfeXFMTlIyc3FoR0x2Z0xuS0p5UGNHLVIzUWxaZGI1cG8xWTBxUzJPS0RBQ3NORVJ6RDBtWGhTeHhySm4yX01YU0tFcHJjWDA1SGJXTjRYZXlralIzbGVGU3VNZ3FCenBLQUZjR3ZfMFVKdVdsZ0VlaGU0RU9UNEJSUVBzeTJOaWZ6bVhaa2VqWE5FWG5HYlE5azN3a1pic0lDLTJXRC10Q3VyV2Z3WE0xRzhCak4zbmxnbVdJNjZ6Ujg",
+    "badge": "breaking",
+    "at": 1793074337.6590338,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]
