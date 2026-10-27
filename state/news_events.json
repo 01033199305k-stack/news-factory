@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "italy-election-law-passed-2026",
-    "topic": "이탈리아 선거법 통과 멜로니 총리 판정승",
-    "slug": "2026-10-08-news-italy-election-law-passed-2026",
-    "cluster": "CBMiXkFVX3lxTFBaTDM4ZEhMRlgwcDljNFlRUlhnanpDWGJSZ2NfSFZXaHVwMVVOZlBwbjB0WkN6MzFEZnFvYVN4M0tNUks1VVBwN1dBVDhiblNBUkdjRFpvVTJDaU9mcmc",
-    "badge": "breaking",
-    "at": 1791468622.0971386,
-    "country": "이탈리아",
-    "category": "국제"
-  },
-  {
     "event_key": "israel-downgrades-uk-consulate-jerusalem-2026",
     "topic": "이스라엘, 예루살렘 영국 영사관 격하",
     "slug": "2026-10-08-news-israel-downgrades-uk-consulate-jerusalem-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793106429.4490552,
     "country": "핀란드",
     "category": "국제"
+  },
+  {
+    "event_key": "congo_ebola_outbreak_nurse_killed",
+    "topic": "콩고민주공화국 에볼라 환자 1만 명 넘어서",
+    "slug": "2026-10-27-news-congo-ebola-outbreak-nurse-killed",
+    "cluster": "CBMi6wFBVV95cUxQdnRYSnA3MHg1WWsxYUEweGZwclQ5eTA3dEM5V3JvT2lzLV9MTGNnM1JMYjJTaDFGMEJ1dDlEckEydmpuQ19SLVp5ck1HOHQ4bjdXV1ptVHR6Q1ZQdXpkdGlMb1k4d0NKV0NsVW14NW5aY0l6WXhvS2FwZXVTQnVscW9EMmEwT0FITFA0YzNMTGV4MDZHbWxydGN3Vk9zVTgzcDVTXzczQzdSUGNvblBieUdVZGc0MWVuQzdLTkdVVnlEYjUzajNBUGh0UFFiRGxfVWM5OG5QMk9jNThvaEx1eTJBeThQaFJnUVZz",
+    "badge": "breaking",
+    "at": 1793108724.7156353,
+    "country": "콩고민주공화국",
+    "category": "재난"
   }
 ]

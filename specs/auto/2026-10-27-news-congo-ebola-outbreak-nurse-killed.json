@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-27-news-congo-ebola-outbreak-nurse-killed",
+  "topic": "콩고민주공화국 에볼라 환자 1만 명 넘어서",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 20:07 KST",
+  "source": "AP News·BBC·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi6wFBVV95cUxQdnRYSnA3MHg1WWsxYUEweGZwclQ5eTA3dEM5V3JvT2lzLV9MTGNnM1JMYjJTaDFGMEJ1dDlEckEydmpuQ19SLVp5ck1HOHQ4bjdXV1ptVHR6Q1ZQdXpkdGlMb1k4d0NKV0NsVW14NW5aY0l6WXhvS2FwZXVTQnVscW9EMmEwT0FITFA0YzNMTGV4MDZHbWxydGN3Vk9zVTgzcDVTXzczQzdSUGNvblBieUdVZGc0MWVuQzdLTkdVVnlEYjUzajNBUGh0UFFiRGxfVWM5OG5QMk9jNThvaEx1eTJBeThQaFJnUVZz",
+    "related": [
+      [
+        "Ebola cases in Democratic Republic of Congo surpass 10,000 as nurse treating patients is killed by mob",
+        "Sky News"
+      ],
+      [
+        "Ebola outbreak: DR Congo nurse killed in attack as Uganda tightens border",
+        "BBC"
+      ],
+      [
+        "Nurse accused of spreading Ebola murdered by mob",
+        "The Telegraph"
+      ],
+      [
+        "Attackers kill nurse, severely injure health worker responding to Ebola case in eastern Congo",
+        "AP News"
+      ],
+      [
+        "Nurse Killed in Attack; Orthopedist's Drug Charges; Lung Cancers in Non-Smokers",
+        "MedPage Today"
+      ]
+    ],
+    "event_key": "congo_ebola_outbreak_nurse_killed"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "콩고민주공화국 에볼라 환자\n[[1만 명]] 넘어서",
+      "sub": "환자 치료하던 간호사 피습 사망",
+      "chips": [
+        {
+          "k": "누적 환자",
+          "v": "1만 명 이상"
+        }
+      ],
+      "alt": "콩고민주공화국 에볼라 환자 1만 명 넘어서",
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "콩고민주공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "콩고민주공화국",
+      "video_only": true,
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "콩고민주공화국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "간호사 사망",
+          "d": "에볼라 환자를 치료하던 간호사가 군중의 습격을 받아 숨졌습니다 (스카이뉴스·BBC)."
+        },
+        {
+          "t": "인접국 대응",
+          "d": "우간다 당국이 국경을 강화했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에볼라 누적 환자 1만 명 초과 (스카이뉴스)",
+        "치료 중인 간호사 피습 사망 (BBC·텔레그래프·AP)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 습격 배후와 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "MedPage Today",
+        "Sky News",
+        "The Telegraph",
+        "2026.10.27 22:45 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 콩고민주공화국 에볼라 누적 환자가 1만 명을 넘어섰습니다 (스카이뉴스)\n\n· 에볼라 환자를 치료하던 간호사가 군중의 습격을 받아 숨졌습니다 (BBC)\n· 우간다 당국이 국경을 강화했습니다 (BBC)\n\n출처: 스카이뉴스·BBC·텔레그래프·AP 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "콩고민주공화국에서 에볼라 누적 환자가 1만 명을 넘어섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "스카이뉴스는 환자를 치료하던 간호사가 군중의 습격을 받아 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우간다 당국은 국경을 강화했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "에볼라 환자 [[1만 명]] 넘은\n콩고서 무슨 일이?",
+  "broll": [
+    "hospital medical laboratory",
+    "health worker protective gear"
+  ],
+  "place_en": "Democratic Republic of the Congo"
+}
