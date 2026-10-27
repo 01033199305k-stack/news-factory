@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-fbi-arrest-chinese-spy-taiwan-2026",
-    "topic": "대만 총통 아들 사찰한 ‘중국 스파이’ 체포",
-    "slug": "2026-10-08-news-us-fbi-arrest-chinese-spy-taiwan-2026",
-    "cluster": "CBMigwFBVV95cUxPWERCaXk1NHYwSzFZZENXbTBLR3FubG9YdGRNelIzQXlfNmVtV3FUdHZzTnJEV1pMOVFhc285RTFxQWJ5VUo4S1M2bW81UHpJRlZJekY3b2V2VE5EQVFORGFPcUFKUklMWWducllkVHBUOUcycE9BWVQ5SUdJX2tKNFBTdw",
-    "badge": "breaking",
-    "at": 1791414506.9921117,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "us-mall-of-america-isis-plot-thwarted-2026",
     "topic": "미국 최대 쇼핑몰 노린 IS 총격 음모 적발",
     "slug": "2026-10-08-news-us-mall-of-america-isis-plot-thwarted-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793077819.4899454,
     "country": "영국",
     "category": "사고"
+  },
+  {
+    "event_key": "bilbao_student_protest_riots_2026",
+    "topic": "스페인 빌바오 대학가 폭력 시위 차량 방화·경찰 오토바이 전소",
+    "slug": "2026-10-27-news-bilbao-student-protest-riots-2026",
+    "cluster": "CBMi6gFBVV95cUxObllEZ3Z6SzZ6ZXA3YkhudDh4a01FdW43UXBiQnk1dlBTUjFsTURibmpwcWVuYVVfc2hDWUhQTE9xNkdSOHU5cnJXWF9zbU53UTRPX3FETlkxV2I4c0Jld3NIMjNCZWNQSGEzb0VZNEJ3WWVJeXhBRjRGelBWYldiWW1KUkxsN29WSjc2U0pYSmRYY3NVQ2ZxQnp2SWNZQkFlbFBQeUNqeHRXMnctUm9EX3lCTVBYeGJFZlU3WUwtb1loR3diSDg2WlJha1FIVlUwVVo0VnpvenJJYXJKaDhnZzl3RjZfbkFDNEE",
+    "badge": "breaking",
+    "at": 1793081897.3709862,
+    "country": "스페인",
+    "category": "기타 사건"
   }
 ]

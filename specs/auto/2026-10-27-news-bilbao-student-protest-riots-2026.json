@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-27-news-bilbao-student-protest-riots-2026",
+  "topic": "스페인 빌바오 대학가 폭력 시위 차량 방화·경찰 오토바이 전소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.27 14:11 KST",
+  "source": "The Times of India·Demócrata·El Constitucional 등 3개 매체 보도 종합",
+  "news": {
+    "id": "CBMi6gFBVV95cUxObllEZ3Z6SzZ6ZXA3YkhudDh4a01FdW43UXBiQnk1dlBTUjFsTURibmpwcWVuYVVfc2hDWUhQTE9xNkdSOHU5cnJXWF9zbU53UTRPX3FETlkxV2I4c0Jld3NIMjNCZWNQSGEzb0VZNEJ3WWVJeXhBRjRGelBWYldiWW1KUkxsN29WSjc2U0pYSmRYY3NVQ2ZxQnp2SWNZQkFlbFBQeUNqeHRXMnctUm9EX3lCTVBYeGJFZlU3WUwtb1loR3diSDg2WlJha1FIVlUwVVo0VnpvenJJYXJKaDhnZzl3RjZfbkFDNEE",
+    "related": [
+      [
+        "Watch: Cars set ablaze, police motorcycle torched as violence rocks Spain's Bilbao",
+        "The Times of India"
+      ],
+      [
+        "Vito Quiles cancels in Bilbao his event due to the \"very high risk\" of incidents",
+        "Demócrata"
+      ],
+      [
+        "The student movement confronts ultra Vito Quiles in Bilbao ahead of his visit to Deusto: the university suspends classes and closes the campus",
+        "El Constitucional"
+      ],
+      [
+        "Riots in Bilbao after the failed call of ultra agitator Vito Quiles: at least nine arrested and cars burned",
+        "El Constitucional"
+      ],
+      [
+        "The ultra agitator Vito Quiles cancels his event in Bilbao after protests and accuses demonstrators of being \"former ETA members\" and \"street terrorists\"",
+        "El Constitucional"
+      ]
+    ],
+    "event_key": "bilbao_student_protest_riots_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페인 [[빌바오]] 대학가 폭력 시위\n차량 방화·경찰 오토바이 전소",
+      "sub": "극우 인사 행사 반발로 충돌 발생",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "9명 이상"
+        }
+      ],
+      "alt": "스페인 빌바오 대학가 폭력 시위 차량 방화·경찰 오토바이 전소",
+      "map": {
+        "lat": 43.2630018,
+        "lon": -2.9350039,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n빌바오",
+      "video_only": true,
+      "map": {
+        "lat": 43.2630018,
+        "lon": -2.9350039,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "빌바오"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대학 수업 중단",
+          "d": "데우스토 대학교는 수업을 중단하고 캠퍼스를 폐쇄했습니다 (El Constitucional)."
+        },
+        {
+          "t": "행사 취소",
+          "d": "극우 성향 활동가 비토 퀴레스는 높은 위험을 이유로 행사를 취소했습니다 (Demócrata·El Constitucional)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "차량 및 경찰 오토바이 방화",
+        "최소 9명 체포 (El Constitucional)",
+        "대학교 수업 중단 및 캠퍼스 폐쇄"
+      ],
+      "unconfirmed": [
+        "부상자 정확한 규모",
+        "추가 충돌 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Demócrata",
+        "El Constitucional",
+        "The Times of India",
+        "2026.10.27 15:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페인 빌바오 대학가서 폭력 시위로 차량 방화 발생\n\n· 극우 인사 방문 반발로 충돌해 최소 9명 체포 (El Constitucional)\n· 데우스토 대학교는 수업 중단 및 캠퍼스 폐쇄 (El Constitucional)\n· 비토 퀴레스는 매우 높은 위험을 이유로 행사 취소 (Demócrata)\n\n출처: The Times of India·Demócrata·El Constitucional 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인 빌바오 대학가에서 극우 인사 행사를 반발하는 폭력 시위가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "데우스토 대학교는 수업을 중단하고 캠퍼스를 폐쇄했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 매체는 이번 충돌로 차량이 불타고 최소 9명이 체포됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 규모와 피해 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "스페인 [[빌바오]] 대학가서\n벌어진 일은?",
+  "broll": [
+    "university campus street",
+    "police vehicle protest"
+  ],
+  "place_en": "Bilbao, Spain"
+}
