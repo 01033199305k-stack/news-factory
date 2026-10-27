@@ -26647,5 +26647,57 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793094930
+  },
+  {
+    "slug": "2026-10-27-news-uganda-cannibal-serial-killer-arrest-2026",
+    "event_ms": 1793086350000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우간다에서 38명을 살해한 혐의를 받는 연쇄살인 용의자가 체포됐습니다.\n\n· 우간다 군 고위 장성은 38명을 살해하고 식인한 혐의의 남성을 붙잡았다고 밝혔습니다 (NDTV·메트로)\n· 군 당국은 해당 용의자가 처형될 것이라고 밝혔습니다 (NDTV·메트로)\n\n출처: NDTV·Metro·Pulse Uganda 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "우간다"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18155832007521203",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/De_huVDG_pg",
+        "kind": "carousel",
+        "at": 1793093010
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1793094798
+      },
+      "instagram": {
+        "failed": "container 18124426612876789: ERROR ERROR",
+        "at": 1793095746
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ae0789de3a1beb2ea013838): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1793095949
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793095949
   }
 ]
