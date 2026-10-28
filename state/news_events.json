@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "starbucks_chipotle_takeover_rumor",
-    "topic": "스타벅스의 치폴레 인수 검토 소식에 치폴레 주가 급등",
-    "slug": "2026-10-09-news-starbucks-chipotle-takeover-rumor",
-    "cluster": "CBMidkFVX3lxTE1GWU0yZFhTREE0NnhtSjZJX29iVW55QUFINkstWGV2NEhaSmVmNXFDYjYxajItQTNOcmFKclBYckRZVm5maFpTRDhTWGRiV3BtMW8tZXhOX3FwcXJ1Sm5TbnBvVDNwZzVGczJuSUVpWl81SnI4Z3fSAXtBVV95cUxNODB1TEZaQ19hRTBLaU9hQU1jTE5kdTVYSHVpdjJyM0VSVTQzNTBZLURlcDVxMTdmMDFJQ0Jtd1Zpa1RucnNVR2FESFQ5WlBockVaRDhPV2F0eGRMZDZzVVAzOU5qMmFmT3NwTHE5eWVfZWR3NnlVSGc1Z2c",
-    "badge": "breaking",
-    "at": 1791490048.3377378,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "anne_carson_nobel_literature_2026",
     "topic": "2026 노벨문학상 캐나다 앤 카슨 수상",
     "slug": "2026-10-09-news-anne-carson-nobel-literature-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793145081.8725944,
     "country": "캐나다",
     "category": "국제"
+  },
+  {
+    "event_key": "villa_vie_residences_cambodia_suspended_2026",
+    "topic": "연료비 폭등으로 크루즈선 운항 중단 승객 200여 명 캄보디아 하선",
+    "slug": "2026-10-28-news-villa-vie-residences-cambodia-suspended-2026",
+    "cluster": "CBMikgFBVV95cUxQcWI4RUhjcG1nTkdOMzYyQ1NMNTBqWTFCNTlhWjlMMFNnYlZMc3ZMMHpfWGQyZnAxd2ViT2hwSU1uS1FleDl1V0ZkTENPSFdBYVpSR1kxN2k5S2lzbHd4ZUowMkdZRjZhaV9VSS1scERpUTR2dG9xMjJiYlJMZ2hDY2JXc0dyaWJNTHUyRXpqUDFxUQ",
+    "badge": "brief",
+    "at": 1793164414.2480898,
+    "country": "캄보디아",
+    "category": "경제·과학"
   }
 ]

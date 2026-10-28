@@ -1,0 +1,152 @@
+{
+  "slug": "2026-10-28-news-villa-vie-residences-cambodia-suspended-2026",
+  "topic": "연료비 폭등으로 크루즈선 운항 중단 승객 200여 명 캄보디아 하선",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.28 12:37 KST",
+  "source": "AP News·BBC·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxQcWI4RUhjcG1nTkdOMzYyQ1NMNTBqWTFCNTlhWjlMMFNnYlZMc3ZMMHpfWGQyZnAxd2ViT2hwSU1uS1FleDl1V0ZkTENPSFdBYVpSR1kxN2k5S2lzbHd4ZUowMkdZRjZhaV9VSS1scERpUTR2dG9xMjJiYlJMZ2hDY2JXc0dyaWJNTHUyRXpqUDFxUQ",
+    "related": [
+      [
+        "A US cruise ship ends a global voyage in Asia due to fuel costs and 200 passengers lose their homes",
+        "AP News"
+      ],
+      [
+        "They bought cabins to live on a luxury cruise ship. High fuel costs got them kicked off in Cambodia.",
+        "NBC News"
+      ],
+      [
+        "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+        "BBC"
+      ],
+      [
+        "Villa Vie Residences Suspends Operations in Cambodia as It Pursues Restructuring and Recapitalization",
+        "PR Newswire"
+      ],
+      [
+        "A 'never-ending' cruise has halted operations and told residents to disembark in Cambodia after fuel costs rose over 300%",
+        "Business Insider"
+      ]
+    ],
+    "event_key": "villa_vie_residences_cambodia_suspended_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "연료비 폭등으로 [[크루즈선]] 운항 중단\n승객 200여 명 캄보디아 하선",
+      "sub": "연료비 상승 여파로 세계 일주 중단 사태 발생",
+      "chips": [
+        {
+          "k": "연료비 상승",
+          "v": "300% 이상"
+        },
+        {
+          "k": "피해 승객",
+          "v": "200여 명"
+        }
+      ],
+      "alt": "연료비 폭등으로 크루즈선 운항 중단 승객 200여 명 캄보디아 하선",
+      "map": {
+        "lat": 12.5433216,
+        "lon": 104.8144914,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "캄보디아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "캄보디아",
+      "video_only": true,
+      "map": {
+        "lat": 12.5433216,
+        "lon": 104.8144914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캄보디아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "연료비 300% 급등",
+          "d": "연료비가 300퍼센트 이상 급등하면서 크루즈선 운항사가 영업을 중단했다고 비즈니스 인사이더 등이 보도했습니다."
+        },
+        {
+          "t": "아시아 일정 중단",
+          "d": "선상 거주를 목적으로 객실을 분양받았던 승객들이 캄보디아에서 하선하게 됐다고 BBC 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "크루즈선 운항 중단",
+        "승객 200여 명 캄보디아 하선",
+        "연료비 300% 이상 폭등"
+      ],
+      "unconfirmed": [
+        "승객 보상 및 향후 거주 대책",
+        "회사 구조조정 세부 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "Business Insider",
+        "NBC News",
+        "PR Newswire",
+        "2026.10.28 14:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 연료비 폭등으로 세계 일주 크루즈선 운항이 중단되고 승객 200여 명이 캄보디아에서 하선했습니다 (AP·BBC)\n\n· 연료비가 300퍼센트 이상 폭등하면서 선사가 영업을 중단했습니다 (Business Insider)\n· 선상 거주 목적으로 객실을 분양받았던 승객들이 거처를 잃었습니다 (AP 뉴스)\n\n여러분은 주거 목적으로 크루즈선에 거주하는 주거 형태에 대해 어떻게 보십니까?\n\n출처: AP통신·BBC·비즈니스 인사이더 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "연료비 폭등으로 세계 일주 크루즈선 운항이 중단됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "비즈니스 인사이더는 연료비가 300퍼센트 이상 올랐다고 전했습니다.",
+      "card": "points",
+      "screen": "연료비 300% 폭등"
+    },
+    {
+      "text": "선상에 거주하던 승객 200여 명이 캄보디아에서 하선했습니다.",
+      "card": "points",
+      "screen": "승객 200명 하선"
+    },
+    {
+      "text": "승객들의 향후 거주 대책은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 크루즈선 운항 중단 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "연료비 폭등으로\n멈춰 선 [[크루즈선]]",
+  "broll": [
+    "cruise ship ocean",
+    "ship port harbor"
+  ],
+  "place_en": "Cambodia"
+}
