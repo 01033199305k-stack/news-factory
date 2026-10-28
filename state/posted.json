@@ -27619,5 +27619,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793200068
+  },
+  {
+    "slug": "2026-10-28-news-yemen-houthi-aden-airport-2026",
+    "event_ms": 1793188185000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 예멘 아덴 공항에 후티 반군 미사일 공격 발생\n\n· 후티 반군은 아덴 공항의 대피를 촉구했습니다 (로이터)\n· 메카 인근에도 미사일 파편이 떨어졌습니다 (알자지라)\n\n출처: 로이터·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "예멘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18112190030232569",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfCnJbCkSnI",
+        "kind": "carousel",
+        "at": 1793196521
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793200118
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1793200891
+      },
+      "tiktok": {
+        "id": "7701739175891979572",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701739175891979572",
+        "kind": "video",
+        "at": 1793201014
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793201024
   }
 ]
