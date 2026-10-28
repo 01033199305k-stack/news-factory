@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-28-news-global-stock-rally-ai-optimism-2026",
+  "topic": "AI 훈풍 타고 글로벌 증시 일제히 상승",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.28 14:07 KST",
+  "source": "AP News·Al Jazeera·Bloomberg 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf",
+    "related": [
+      [
+        "Asian Stocks Set to Gain on Resurgent AI Optimism: Markets Wrap",
+        "Bloomberg"
+      ],
+      [
+        "Stocks get AI lift, kiwi slides on RBNZ's surprise hold",
+        "Reuters"
+      ],
+      [
+        "Global stock markets rise as investors continue to bet on AI",
+        "Al Jazeera"
+      ],
+      [
+        "Tech stocks soar as SK hynix adds to rising AI confidence",
+        "Yahoo Finance"
+      ],
+      [
+        "US futures and Asian stocks advance following a rally on Wall Street",
+        "AP News"
+      ]
+    ],
+    "event_key": "global_stock_rally_ai_optimism_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "AI 훈풍 타고\n글로벌 증시 [[일제히 상승]]",
+      "sub": "SK하이닉스 등 기술주 AI 기대감에 상승",
+      "chips": [],
+      "alt": "AI 훈풍 타고 글로벌 증시 일제히 상승",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "AI 기대감에 증시 상승",
+          "d": "인공지능 기술주에 대한 투자 심리가 회복되면서 아시아와 글로벌 증시가 일제히 상승했습니다 (블룸버그·로이터)."
+        },
+        {
+          "t": "SK하이닉스 등 기술주 강세",
+          "d": "SK하이닉스가 AI 신뢰감을 더하며 기술주 상승을 이끌었습니다 (야후파이낸스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "AI 기대감에 글로벌 증시 상승",
+        "SK하이닉스 등 기술주 반등"
+      ],
+      "unconfirmed": [
+        "추가 상승세 지속 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "Bloomberg",
+        "Reuters",
+        "Yahoo Finance",
+        "2026.10.28 16:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] AI 훈풍에 글로벌 증시가 일제히 상승했습니다.\n\n· 인공지능 관련 기술주 투자 심리가 회복되며 증시가 오름세를 보였습니다 (블룸버그·로이터).\n· SK하이닉스가 AI 신뢰감을 더하며 기술주 상승을 이끌었습니다 (야후파이낸스).\n\n기술주 중심의 이번 상승세, 당분간 지속될 것으로 보십니까?\n\n출처: 블룸버그·로이터·야후파이낸스·AP통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인공지능 기술주에 대한 기대감으로 글로벌 증시가 일제히 상승했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 기술주 투자 심리가 살아나며 주요 지수가 오름세를 보였다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "SK하이닉스가 AI 기대감을 더하며 기술주 상승을 이끌었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "상승 흐름이 계속 이어질지는 더 지켜봐야 합니다.",
+      "card": "check"
+    },
+    {
+      "text": "기술주 중심의 이번 상승세, 지속될 수 있을까요?",
+      "card": "ask",
+      "screen": "상승세 지속될까?"
+    }
+  ],
+  "hook": "[[기술주]] 일제히 반등\n다음 흐름은?",
+  "broll": [
+    "stock exchange screen",
+    "trading floor"
+  ],
+  "place_en": "New York, USA"
+}

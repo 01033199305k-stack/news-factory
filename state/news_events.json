@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "anne_carson_nobel_literature_2026",
-    "topic": "2026 노벨문학상 캐나다 앤 카슨 수상",
-    "slug": "2026-10-09-news-anne-carson-nobel-literature-2026",
-    "cluster": "CBMiqAFBVV95cUxPY09mUWtpSkRXOWZETlVRbXc2UUF6VzMzYm9TSmcyLVJ6YVlKRVBKODJnMlMweDVZanJuN1V4WFFlbWJCNkROZDU2NUFTeEItbnI3Uy1uNlEwU3BHZ1JYTEViWmxEVWN5NFRCVnpTaUdWS3B6cWZiRDZuSnNBQkk5V1hKR3RXbW9CU2RDbmRkN0R4Mm5pbk1DOU15WDk2cFhYSGlFeE54SF8",
-    "badge": "brief",
-    "at": 1791501020.7008605,
-    "country": "스웨덴",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "nyc_ice_agent_shooting",
     "topic": "미 뉴욕서 연방요원 총격에 1명 부상",
     "slug": "2026-10-09-news-nyc-ice-agent-shooting",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1793164414.2480898,
     "country": "캄보디아",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "global_stock_rally_ai_optimism_2026",
+    "topic": "AI 훈풍 타고 글로벌 증시 일제히 상승",
+    "slug": "2026-10-28-news-global-stock-rally-ai-optimism-2026",
+    "cluster": "CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf",
+    "badge": "brief",
+    "at": 1793171945.7012389,
+    "country": "미국",
     "category": "경제·과학"
   }
 ]

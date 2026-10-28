@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-28-news-global-stock-rally-ai-optimism-2026",
+    "event_ms": 1793171945701,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] AI 훈풍에 글로벌 증시가 일제히 상승했습니다.\n\n· 인공지능 관련 기술주 투자 심리가 회복되며 증시가 오름세를 보였습니다 (블룸버그·로이터).\n· SK하이닉스가 AI 신뢰감을 더하며 기술주 상승을 이끌었습니다 (야후파이낸스).\n\n기술주 중심의 이번 상승세, 당분간 지속될 것으로 보십니까?\n\n출처: 블룸버그·로이터·야후파이낸스·AP통신 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18117462101045537",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfB4XMvFW1d",
+        "kind": "carousel",
+        "at": 1793171990
+      },
+      "youtube": {
+        "id": "R1KVEseMZ0w",
+        "permalink": "https://youtube.com/shorts/R1KVEseMZ0w",
+        "kind": "shorts",
+        "at": 1793172275
+      },
+      "tiktok": {
+        "id": "7701616348752923910",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701616348752923910",
+        "kind": "video",
+        "at": 1793172407
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]
