@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-29-news-apple-touchscreen-macbook-pro-2026",
+    "event_ms": 1793211103089,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 애플이 최초의 터치스크린 맥북 프로를 공개했습니다.\n\n· 화면을 직접 터치할 수 있는 OLED 디스플레이를 탑재했습니다 (더버지·CNBC·아스 테크니카)\n· 차세대 M6 칩이 적용되었으며 10년 만에 로고 조명이 부활했습니다 (PC매거진·맥루머스)\n\n터치스크린을 적용한 새로운 맥북 프로, 어떻게 보십니까?\n\n출처: 더버지·CNBC·아스 테크니카·PC매거진·맥루머스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18029887544882793",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfDDEGvlffp",
+        "kind": "carousel",
+        "at": 1793211168
+      },
+      "youtube": {
+        "id": "N79a3LOKB_k",
+        "permalink": "https://youtube.com/shorts/N79a3LOKB_k",
+        "kind": "shorts",
+        "at": 1793211355
+      },
+      "tiktok": {
+        "id": "7701784224407325973",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701784224407325973",
+        "kind": "video",
+        "at": 1793211490
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]

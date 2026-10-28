@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-pentagon-fort-hood-shooter-firing-squad-livestream-2026",
-    "topic": "포트후드 총격범 총살형 생중계 결정",
-    "slug": "2026-10-09-news-us-pentagon-fort-hood-shooter-firing-squad-livestream-2026",
-    "cluster": "CBMiekFVX3lxTE5VZ1FBY3E4MEJuR0xZS29PS2lLYTliV0lwSnhpZF9tTjhRa0J1cGtyYmN5VFdQWnVveHhTN1JNdTQ2SThXcUNuUXdDNUxKUVZVVGhPRzFyRFBPR3RvVXdtRGZNcUZ4eWxwcExSeUxYdW16czNoM3lBSEFR",
-    "badge": "breaking",
-    "at": 1791533415.9009695,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "nepal_school_bus_plunge_2026",
     "topic": "네팔서 스쿨버스 추락 최소 5명 사망",
     "slug": "2026-10-09-news-nepal-school-bus-plunge-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793196454.0978084,
     "country": "예멘",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "apple_touchscreen_macbook_pro_2026",
+    "topic": "애플 터치스크린 맥북 첫 공개 OLED 디스플레이 탑재",
+    "slug": "2026-10-29-news-apple-touchscreen-macbook-pro-2026",
+    "cluster": "CBMihgFBVV95cUxNdjhRb1VMVVhfVkVFMjBaZDhMeWVhb1JZSzJPcTdXLVl5blpIQXVDOXZ2S0JfNEJFYWN0MlB3b2I1LTc2MVBjYU5nUWxYMkZaMV9DNENsSEluajJJWU15bWFDQnhqclBPdkpLbl9LM25CaUtXOS1uUWhCdDUwNV9KNVViakJXdw",
+    "badge": "brief",
+    "at": 1793211103.0896473,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

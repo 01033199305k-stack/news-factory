@@ -1,0 +1,153 @@
+{
+  "slug": "2026-10-29-news-apple-touchscreen-macbook-pro-2026",
+  "topic": "애플 터치스크린 맥북 첫 공개 OLED 디스플레이 탑재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 02:05 KST",
+  "source": "Ars Technica·CNBC·MacRumors 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxNdjhRb1VMVVhfVkVFMjBaZDhMeWVhb1JZSzJPcTdXLVl5blpIQXVDOXZ2S0JfNEJFYWN0MlB3b2I1LTc2MVBjYU5nUWxYMkZaMV9DNENsSEluajJJWU15bWFDQnhqclBPdkpLbl9LM25CaUtXOS1uUWhCdDUwNV9KNVViakJXdw",
+    "related": [
+      [
+        "Apple announces its first touchscreen MacBook Pro",
+        "The Verge"
+      ],
+      [
+        "Apple brings touch to the Mac, reversing years-old stance on touchscreen laptop",
+        "CNBC"
+      ],
+      [
+        "Apple announces touchscreen MacBook Pro with OLED display",
+        "Ars Technica"
+      ],
+      [
+        "Apple's 'Pro and Tell' Event Live: New M6 Macs, and Everything Else Announced So Far",
+        "PCMag"
+      ],
+      [
+        "Illuminated Apple Logo Returns to MacBook Pro After 10 Years",
+        "MacRumors"
+      ]
+    ],
+    "event_key": "apple_touchscreen_macbook_pro_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "애플 [[터치스크린]] 맥북 첫 공개\nOLED 디스플레이 탑재",
+      "sub": "신형 M6 프로세서 탑재 및 10년 만에 로고 조명 부활",
+      "chips": [
+        {
+          "k": "디스플레이",
+          "v": "OLED"
+        },
+        {
+          "k": "칩셋",
+          "v": "M6"
+        }
+      ],
+      "alt": "애플 터치스크린 맥북 첫 공개 OLED 디스플레이 탑재",
+      "map": {
+        "lat": 37.3228934,
+        "lon": -122.0322895,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n쿠퍼티노",
+      "video_only": true,
+      "map": {
+        "lat": 37.3228934,
+        "lon": -122.0322895,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "쿠퍼티노"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "터치스크린 도입",
+          "d": "애플이 화면을 직접 터치해 조작할 수 있는 맥북 프로를 최초로 발표했습니다 (더버지·CNBC)."
+        },
+        {
+          "t": "OLED 및 M6 칩",
+          "d": "신형 맥북 프로에는 OLED 디스플레이와 차세대 M6 칩이 탑재됐습니다 (아스 테크니카·PC매거진)."
+        },
+        {
+          "t": "빛나는 로고 부활",
+          "d": "맥북 상판에 빛이 들어오는 애플 로고 디자인이 10년 만에 다시 적용됐습니다 (맥루머스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "터치스크린 맥북 프로 발표",
+        "OLED 디스플레이 탑재",
+        "M6 칩셋 적용"
+      ],
+      "unconfirmed": [
+        "정확한 출시일 및 국내 가격"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Ars Technica",
+        "CNBC",
+        "MacRumors",
+        "PCMag",
+        "The Verge",
+        "2026.10.29 03:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 애플이 최초의 터치스크린 맥북 프로를 공개했습니다.\n\n· 화면을 직접 터치할 수 있는 OLED 디스플레이를 탑재했습니다 (더버지·CNBC·아스 테크니카)\n· 차세대 M6 칩이 적용되었으며 10년 만에 로고 조명이 부활했습니다 (PC매거진·맥루머스)\n\n터치스크린을 적용한 새로운 맥북 프로, 어떻게 보십니까?\n\n출처: 더버지·CNBC·아스 테크니카·PC매거진·맥루머스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "애플이 최초로 터치스크린을 탑재한 맥북 프로를 공개했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "새 맥북 프로에는 OLED 디스플레이와 신형 M6 칩이 들어갔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "외관에는 10년 만에 빛나는 애플 로고가 다시 적용됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 출시 일정과 국내 판매 가격은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "터치스크린이 들어간 새로운 맥북, 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[맥북]]에 화면 터치?\n마침내 뚫린 빗장",
+  "broll": [
+    "laptop display screen",
+    "apple store display"
+  ],
+  "place_en": "Cupertino, California, United States"
+}
