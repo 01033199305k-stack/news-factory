@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "trump-fed-governor-lisa-cook-probe-2026",
-    "topic": "트럼프, 연준 이사 조사 착수 위원회 설치",
-    "slug": "2026-10-09-news-trump-fed-governor-lisa-cook-probe-2026",
-    "cluster": "CBMilAFBVV95cUxPdUxOZXh5bm9ERlh0ckdRLUx4bFo2QTNpbHFKcmNHRzJiWE1hME8ydkVyd3hwS01IN1pFeWdYaXh2ZnVxc1BBNHZaMlBnWGZGQjhKeVlGb0x1MmhxZEhmanZTLVBnNUJUNXAtZVdabW1xWTNGWEJtYkxpcjBvRUZHYm13TEtpd2h4eXgxUlBUNUZvODk5",
-    "badge": "breaking",
-    "at": 1791558665.753609,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "canada_assisted_dying_mental_illness_2026",
     "topic": "캐나다, 정신 질환자 조력 사망 보류",
     "slug": "2026-10-10-news-canada-assisted-dying-mental-illness-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793228911.3730156,
     "country": "독일",
     "category": "사고"
+  },
+  {
+    "event_key": "un_general_assembly_cuba_embargo_resolution_2026",
+    "topic": "유엔총회, 미국의 쿠바 제재 중지 결의안 채택",
+    "slug": "2026-10-29-news-un-general-assembly-cuba-embargo-resolution-2026",
+    "cluster": "CBMic0FVX3lxTE9CMFc0TktNbE9TVXozWGN5YnZ2VG5yUEdCWjRzWW9SQVR6ODJpVnJaQ0hseDhmalhuNDlrSWdZenhqajB5Umc5YlozOEVzQndQY2lCV3J3eE9oYVVPMG02dURFTVdfS2dUMWVfdnBITFFCM3fSAWZBVV95cUxOTml0RUtnUU00TDRzVWJxV3lFR1BtdDc4Yzk3Qkh2TVBhZjNKU0Z1R1lpS3IxYVBNc0Z3VFNKN19oSW5kOXJnWjAtNDlyYlgzTWlaZERKXzRWWW43Vm9DRk15VV9FS1E",
+    "badge": "breaking",
+    "at": 1793229445.4170308,
+    "country": "미국",
+    "category": "국제"
   }
 ]
