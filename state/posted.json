@@ -27458,5 +27458,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793185600
+  },
+  {
+    "slug": "2026-10-28-news-spain-high-speed-train-collision-2026",
+    "event_ms": 1793179860000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스페인서 고속열차 충돌로 최소 10명 사망\n\n· 마드리드 남부 톨레도주 노선에서 열차 2대 충돌 (BBC·로이터)\n· 당국은 다수의 부상자가 발생했다고 발표 (스카이 뉴스)\n· 정확한 사고 원인은 아직 확인 안 됨\n\n출처: BBC·가디언·로이터·스카이 뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "스페인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18126518450475018",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfCMFMkFhyy",
+        "kind": "carousel",
+        "at": 1793182328
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793182445
+      },
+      "tiktok": {
+        "id": "6ae1cbc2979a56d9e57d3510",
+        "permalink": "",
+        "kind": "video",
+        "at": 1793182859
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793189201
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793189201
   }
 ]
