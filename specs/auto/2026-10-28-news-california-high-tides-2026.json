@@ -1,0 +1,137 @@
+{
+  "slug": "2026-10-28-news-california-high-tides-2026",
+  "topic": "미국 캘리포니아 해안가 역대급 만조로 침수",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.28 22:04 KST",
+  "source": "CBS News·The New York Times·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxNSTJCNEpoRllFTmdBZWtWTTdlWHZqallxR3FBQUdESkN0a0RWYlVDME1ua2tnaWZaTVBFVE9ZMXAwaGRnM1B4eFhBN2Ftb3Z5ckZONzJCVWdtVnphUkcydk1vQS14ekpLSVowQ00ycXhVU3N6UlFQelc4SUw1QktRaW1ON2RlR0lLNkF5ek9fWVdoZ0tVSGNONk91dG5JRDRJSEREMkF2QmhlZGVxUUlUbTFKeE1SZ1E",
+    "related": [
+      [
+        "Record high tides bring flooding and glimpse of sea-level rise to California",
+        "The Washington Post"
+      ],
+      [
+        "California’s High Tides Set Records This Week. They’re Going to Get Higher.",
+        "The New York Times"
+      ],
+      [
+        "Photos show record-breaking high tides flooding homes, roads in Southern California",
+        "CBS News"
+      ],
+      [
+        "Coastal Flood Warning issued through Thursday with tides peaking in the morning",
+        "cbs8.com"
+      ],
+      [
+        "PCH closed in Huntington Beach, pockets of flooding as string of mega high tides continue Tuesday",
+        "Orange County Register"
+      ]
+    ],
+    "event_key": "california_high_tides_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 [[캘리포니아]] 해안가\n역대급 만조로 침수",
+      "sub": "도로가 폐쇄되고 주택가 물벼락",
+      "chips": [
+        {
+          "k": "지역",
+          "v": "캘리포니아"
+        }
+      ],
+      "alt": "미국 캘리포니아 해안가 역대급 만조로 침수",
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아",
+      "video_only": true,
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해안가 침수",
+          "d": "기록적인 만조로 주택가와 도로가 침수됐다고 워싱턴포스트 등이 보도했습니다."
+        },
+        {
+          "t": "교통 통제",
+          "d": "헌팅턴비치 퍼시픽코스트하이웨이가 폐쇄됐다고 오렌지카운티register가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "기록적인 만조 발생",
+        "해안가 도로 및 주택 침수",
+        "일부 도로 통제"
+      ],
+      "unconfirmed": [
+        "정확한 재산 피해 규모",
+        "만조 추가 상승 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Orange County Register",
+        "The New York Times",
+        "The Washington Post",
+        "cbs8.com",
+        "2026.10.28 22:22 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 캘리포니아 해안가 역대급 만조로 침수\n\n· 기록적인 만조로 주택가와 도로가 침수됐습니다 (워싱턴포스트·뉴욕타임스)\n· 헌팅턴비치 퍼시픽코스트하이웨이 등 일부 도로가 폐쇄됐습니다 (오렌지카운티register)\n\n출처: 워싱턴포스트·뉴욕타임스·CBS뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아 해안가에서 기록적인 만조로 침수 피해가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "워싱턴포스트 등은 주택가와 도로가 물에 잠겼다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "헌팅턴비치 등 일부 해안 도로가 폐쇄됐습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "미국 [[캘리포니아]] 해안가에\n무슨 일이?",
+  "broll": [
+    "coastal flood sea",
+    "ocean waves road"
+  ],
+  "place_en": "California, USA"
+}

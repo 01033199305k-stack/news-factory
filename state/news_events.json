@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "saudi-riyadh-airport-houthi-strike-2026",
-    "topic": "사우디 리야드 공항 피격 사망 3명·운항 전면 중단",
-    "slug": "2026-10-09-news-saudi-riyadh-airport-houthi-strike-2026",
-    "cluster": "CBMioAFBVV95cUxNOE5hMVMtZW5rMU9xblVNLUNVRkhITXNRSzYyUzJnOEZ6M2k5WGlURjdNUzVoSFdyX0VsT0lvSGZhWWFmdGRuZjI3UHNiN0hYeXJ2NzB1TzZVUXpwM2FZanZQem5WSkNQSkNZOWV2c2puU1l0SUJQc3lRTFRTd25VVVdkaE04Q01BQ19KR2ZMR0FiLTROT1ROaWdaRjBOQmM5",
-    "badge": "breaking",
-    "at": 1791518903.1224625,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "kyiv_mayor_evacuation_appeal",
     "topic": "러시아 공습 심화에 키이우 시장 주민 대피 권고",
     "slug": "2026-10-09-news-kyiv-mayor-evacuation-appeal",
@@ -2998,5 +2988,15 @@
     "at": 1793193040.942945,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "california_high_tides_2026",
+    "topic": "미국 캘리포니아 해안가 역대급 만조로 침수",
+    "slug": "2026-10-28-news-california-high-tides-2026",
+    "cluster": "CBMitwFBVV95cUxNSTJCNEpoRllFTmdBZWtWTTdlWHZqallxR3FBQUdESkN0a0RWYlVDME1ua2tnaWZaTVBFVE9ZMXAwaGRnM1B4eFhBN2Ftb3Z5ckZONzJCVWdtVnphUkcydk1vQS14ekpLSVowQ00ycXhVU3N6UlFQelc4SUw1QktRaW1ON2RlR0lLNkF5ek9fWVdoZ0tVSGNONk91dG5JRDRJSEREMkF2QmhlZGVxUUlUbTFKeE1SZ1E",
+    "badge": "breaking",
+    "at": 1793193750.8368473,
+    "country": "미국",
+    "category": "재난"
   }
 ]
