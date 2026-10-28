@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-28-news-qatar-iran-peace-proposal-rejection-2026",
+  "topic": "카타르, 종전안 전달 이란 “수용 불가” 거부",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.28 21:20 KST",
+  "source": "CBS News·Reuters·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg",
+    "related": [
+      [
+        "Iran sees only unacceptable ideas in latest mediation to end war, official says",
+        "Reuters"
+      ],
+      [
+        "Live Updates: Iran rejects \"unacceptable\" ideas as Qatari mediators say they presented new draft deal to Tehran",
+        "CBS News"
+      ],
+      [
+        "Qatari mediators hand Iran new proposal to end the war",
+        "Yahoo"
+      ],
+      [
+        "Iran’s neighbors push diplomacy, prepare for its failure",
+        "Iran International"
+      ],
+      [
+        "Report: Qatar presents Iran new 7-day peace plan to end war with US and Israel",
+        "Ynetnews"
+      ]
+    ],
+    "event_key": "qatar_iran_peace_proposal_rejection_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "카타르, [[종전안]] 전달\n이란 “수용 불가” 거부",
+      "sub": "미국·이스라엘과의 전쟁을 끝내기 위한 평화안 초안입니다",
+      "chips": [],
+      "alt": "카타르, 종전안 전달 이란 “수용 불가” 거부",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "새 종전안 초안 전달",
+          "d": "카타르 중재단은 전쟁 종식을 위한 새 평화안 초안을 이란에 전달했습니다 (CBS·야후)."
+        },
+        {
+          "t": "이란 측의 거부 입장",
+          "d": "이란 관리는 이번 제안에 받아들일 수 없는 내용만 담겼다고 밝혔습니다 (로이터·CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "카타르 중재단의 종전안 초안 전달",
+        "이란 측의 중재안 수용 거부 입장"
+      ],
+      "unconfirmed": [
+        "평화안의 구체적 조항 및 세부 조건",
+        "추가 협상 진행 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Iran International",
+        "Reuters",
+        "Yahoo",
+        "Ynetnews",
+        "2026.10.28 22:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 카타르가 이란에 새 종전 평화안을 전달했으나 이란 측이 거부했습니다.\n\n· 카타르 중재단은 전쟁 종식을 위한 새 평화안 초안을 전달했습니다 (CBS·야후)\n· 이란 관리는 받아들일 수 없는 내용만 포함됐다며 거부 의사를 밝혔습니다 (로이터·CBS)\n· 평화안의 세부 조건과 향후 협상 진행 여부는 아직 확인되지 않았습니다\n\n여러분은 이번 종전 중재 시도와 중동 정세의 향방을 어떻게 보십니까?\n출처: 로이터·CBS·야후·이넷뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "카타르가 이란에 전달한 새 종전 평화안을 이란 측이 거부했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "카타르 중재단은 전쟁을 끝내기 위한 초안을 이란에 전달했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "하지만 이란 관리는 수용할 수 없는 내용이라며 거부했다고 로이터와 CBS가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "평화안의 세부 내용과 추가 협상 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 종전 협상의 향방을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "새 [[종전안]] 나왔지만\n이란의 반응은?",
+  "broll": [
+    "diplomacy meeting table",
+    "middle east map"
+  ],
+  "place_en": "Tehran, Iran"
+}

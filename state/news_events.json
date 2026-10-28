@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "singapore-malaysia-indonesia-wildfire-haze-2026",
-    "topic": "인니 산불 독성 연무 싱가포르·말레이 강타",
-    "slug": "2026-10-09-news-singapore-malaysia-indonesia-wildfire-haze-2026",
-    "cluster": "CBMiVkFVX3lxTFBVeFplcDBzMGstZHoxdThRNXJKdkdwbkk3ZU9zZ2dOSXM5X25GVnc0NTU4cnNsTXVlRDJNWUREaGZxS0kzd1Zob0hYYVFCUzJnSUpVelhB",
-    "badge": "breaking",
-    "at": 1791512098.1079834,
-    "country": "싱가포르",
-    "category": "재난"
-  },
-  {
     "event_key": "saudi-riyadh-airport-houthi-strike-2026",
     "topic": "사우디 리야드 공항 피격 사망 3명·운항 전면 중단",
     "slug": "2026-10-09-news-saudi-riyadh-airport-houthi-strike-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793182284.8720274,
     "country": "스페인",
     "category": "사고"
+  },
+  {
+    "event_key": "qatar_iran_peace_proposal_rejection_2026",
+    "topic": "카타르, 종전안 전달 이란 “수용 불가” 거부",
+    "slug": "2026-10-28-news-qatar-iran-peace-proposal-rejection-2026",
+    "cluster": "CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg",
+    "badge": "brief",
+    "at": 1793193040.942945,
+    "country": "이란",
+    "category": "국제"
   }
 ]
