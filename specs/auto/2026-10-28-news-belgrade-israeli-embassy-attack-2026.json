@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-28-news-belgrade-israeli-embassy-attack-2026",
+  "topic": "세르비아 이스라엘 대사관 흉기 테러 시도",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.28 15:26 KST",
+  "source": "Bloomberg.com·The Telegraph·Euronews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiV0FVX3lxTE9Wb1JNTkpZTHA1TjNJQ0RqUjlYQmJKWDB2cW9WM2N2QmJqUElCRlBVV0lzOGxkOGR6MXRLVDJrWVk3My1jYzFZN1hrdWRDODAtRUJVWnZ0NA",
+    "related": [
+      [
+        "Knife-wielding attacker shot dead outside Israeli Embassy in Belgrade",
+        "Ynetnews"
+      ],
+      [
+        "‘IS terrorist’ shot dead after knife attack at Israeli embassy in Serbia",
+        "The Telegraph"
+      ],
+      [
+        "Foreign Ministry: No embassy staff injured in attempted terror attack on Belgrade embassy; incident under investigation",
+        "The Times of Israel"
+      ],
+      [
+        "Serbian police kill attacker outside Israeli Embassy in suspected ‘terrorist attack’",
+        "Euronews.com"
+      ],
+      [
+        "Serbia Police Says Teenager Killed in Attack on Israeli Embassy",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "belgrade_israeli_embassy_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "세르비아 [[이스라엘 대사관]]\n흉기 테러 시도",
+      "sub": "경찰이 용의자를 사살했습니다",
+      "chips": [],
+      "alt": "세르비아 이스라엘 대사관 흉기 테러 시도",
+      "map": {
+        "lat": 44.8153318,
+        "lon": 20.4456588,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "세르비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "세르비아\n베오그라드",
+      "video_only": true,
+      "map": {
+        "lat": 44.8153318,
+        "lon": 20.4456588,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베오그라드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공관 직원 피해 없음",
+          "d": "이스라엘 외무부는 대사관 직원 가운데 다친 사람은 없다고 밝혔습니다 (타임스 오브 이스라엘)."
+        },
+        {
+          "t": "테러 용의자 사살",
+          "d": "세르비아 경찰은 대사관 밖에서 흉기 공격을 시도한 용의자를 사살했습니다 (유로뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "대사관 직원 부상 없음",
+        "흉기 공격 용의자 사살"
+      ],
+      "unconfirmed": [
+        "범행 동기 및 배후 관계",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Euronews.com",
+        "The Telegraph",
+        "The Times of Israel",
+        "Ynetnews",
+        "2026.10.28 18:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 세르비아 이스라엘 대사관 밖 흉기 테러 시도\n\n· 세르비아 경찰이 대사관 인근에서 흉기를 휘두른 용의자를 사살했습니다 (유로뉴스).\n· 이스라엘 외무부는 대사관 직원 중 다친 사람은 없다고 발표했습니다 (타임스 오브 이스라엘).\n· 현지 당국은 이번 공격을 테러 행위로 보고 조사 중입니다 (블룸버그).\n\n출처: 유로뉴스·타임스 오브 이스라엘·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "세르비아 베오그라드 이스라엘 대사관 밖에서 흉기 테러 시도가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유로뉴스 등에 따르면 경찰이 흉기를 휘두른 용의자를 사살했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "타임스 오브 이스라엘은 대사관 직원 피해는 없다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "범행 동기와 배후 관계는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[대사관]] 앞에서\n벌어진 일",
+  "broll": [
+    "police vehicle street",
+    "embassy building entrance"
+  ],
+  "place_en": "Belgrade, Serbia"
+}

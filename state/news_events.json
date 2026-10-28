@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "nyc_ice_agent_shooting",
-    "topic": "미 뉴욕서 연방요원 총격에 1명 부상",
-    "slug": "2026-10-09-news-nyc-ice-agent-shooting",
-    "cluster": "CBMiX0FVX3lxTE5uQ2NpUzBGOTB4TElDUHpFcDdBMmxEWmtsMjdSdTFmVzhMQkY0Z1czb2Q4ZWhuMjhEZHFxRk94a2lvUnhaZ0J2TGJlcUdpMWVJOWM1MGZxam13d0JlSjU4",
-    "badge": "breaking",
-    "at": 1791504458.7959595,
-    "country": "미국",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "lviv_train_collision",
     "topic": "우크라이나 르비우서 열차 충돌로 8명 부상",
     "slug": "2026-10-09-news-lviv-train-collision",
@@ -2998,5 +2988,15 @@
     "at": 1793171945.7012389,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "belgrade_israeli_embassy_attack_2026",
+    "topic": "세르비아 이스라엘 대사관 흉기 테러 시도",
+    "slug": "2026-10-28-news-belgrade-israeli-embassy-attack-2026",
+    "cluster": "CBMiV0FVX3lxTE9Wb1JNTkpZTHA1TjNJQ0RqUjlYQmJKWDB2cW9WM2N2QmJqUElCRlBVV0lzOGxkOGR6MXRLVDJrWVk3My1jYzFZN1hrdWRDODAtRUJVWnZ0NA",
+    "badge": "breaking",
+    "at": 1793178817.8136277,
+    "country": "세르비아",
+    "category": "총격·테러"
   }
 ]
