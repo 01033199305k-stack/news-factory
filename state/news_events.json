@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "kyiv_mayor_evacuation_appeal",
-    "topic": "러시아 공습 심화에 키이우 시장 주민 대피 권고",
-    "slug": "2026-10-09-news-kyiv-mayor-evacuation-appeal",
-    "cluster": "CBMiXkFVX3lxTE5uSDhsLVh5M1ZZQWhPWWI5eUNoYlYtWFNjaXhyUUdzaXpoUWQ2WU5PRVprbWRJX1huby1pckx6TXhZREFLYWpQRTM3cEhSOXFVXzYtWFFFS2xIbTJPbFE",
-    "badge": "brief",
-    "at": 1791526149.472977,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "us-pentagon-fort-hood-shooter-firing-squad-livestream-2026",
     "topic": "포트후드 총격범 총살형 생중계 결정",
     "slug": "2026-10-09-news-us-pentagon-fort-hood-shooter-firing-squad-livestream-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793193750.8368473,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "yemen_houthi_aden_airport_2026",
+    "topic": "예멘 아덴 공항에 후티 반군 미사일 공격",
+    "slug": "2026-10-28-news-yemen-houthi-aden-airport-2026",
+    "cluster": "CBMiqwFBVV95cUxQQWktallhRGk5Y3p6WmxxWktmYm5sVm5fUlRlWmE3S0t4ZE05QzNxRGFFanQ3c3pTSHpjZ1IzcDY2RUlSSlhaTjFENVExUzJ2Q0UxOGxieGlWZDVadnVsd3N0M0dBWjIxYUcwUGNfQlNVQW0wQjYyUFVubDgwY2JZV3BKa3JHRExXNW00T3lRWDVxLUJwRWVLay1HUjVVcU5wTU5xWlY5dGFxSFE",
+    "badge": "breaking",
+    "at": 1793196454.0978084,
+    "country": "예멘",
+    "category": "총격·테러"
   }
 ]

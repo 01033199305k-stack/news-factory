@@ -27511,5 +27511,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793189201
+  },
+  {
+    "slug": "2026-10-28-news-qatar-iran-peace-proposal-rejection-2026",
+    "event_ms": 1793193040942,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 카타르가 이란에 새 종전 평화안을 전달했으나 이란 측이 거부했습니다.\n\n· 카타르 중재단은 전쟁 종식을 위한 새 평화안 초안을 전달했습니다 (CBS·야후)\n· 이란 관리는 받아들일 수 없는 내용만 포함됐다며 거부 의사를 밝혔습니다 (로이터·CBS)\n· 평화안의 세부 조건과 향후 협상 진행 여부는 아직 확인되지 않았습니다\n\n여러분은 이번 종전 중재 시도와 중동 정세의 향방을 어떻게 보십니까?\n출처: 로이터·CBS·야후·이넷뉴스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119447633054136",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfCgmNyFMxU",
+        "kind": "carousel",
+        "at": 1793193094
+      },
+      "youtube": {
+        "id": "zBhOHyIeLkg",
+        "permalink": "https://youtube.com/shorts/zBhOHyIeLkg",
+        "kind": "shorts",
+        "at": 1793193366
+      },
+      "tiktok": {
+        "id": "7701706936957275399",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701706936957275399",
+        "kind": "video",
+        "at": 1793193498
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793196633
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793196633
   }
 ]
