@@ -27297,5 +27297,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793160416
+  },
+  {
+    "slug": "2026-10-28-news-villa-vie-residences-cambodia-suspended-2026",
+    "event_ms": 1793164414248,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 연료비 폭등으로 세계 일주 크루즈선 운항이 중단되고 승객 200여 명이 캄보디아에서 하선했습니다 (AP·BBC)\n\n· 연료비가 300퍼센트 이상 폭등하면서 선사가 영업을 중단했습니다 (Business Insider)\n· 선상 거주 목적으로 객실을 분양받았던 승객들이 거처를 잃었습니다 (AP 뉴스)\n\n여러분은 주거 목적으로 크루즈선에 거주하는 주거 형태에 대해 어떻게 보십니까?\n\n출처: AP통신·BBC·비즈니스 인사이더 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "캄보디아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18143769055720227",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfBqBwEjjwD",
+        "kind": "carousel",
+        "at": 1793164475
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793164622
+      },
+      "tiktok": {
+        "id": "7701583415417638165",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701583415417638165",
+        "kind": "video",
+        "at": 1793164744
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793167607
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793167607
   }
 ]
