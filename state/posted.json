@@ -27566,5 +27566,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793196633
+  },
+  {
+    "slug": "2026-10-28-news-california-high-tides-2026",
+    "event_ms": 1793192664000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 캘리포니아 해안가 역대급 만조로 침수\n\n· 기록적인 만조로 주택가와 도로가 침수됐습니다 (워싱턴포스트·뉴욕타임스)\n· 헌팅턴비치 퍼시픽코스트하이웨이 등 일부 도로가 폐쇄됐습니다 (오렌지카운티register)\n\n출처: 워싱턴포스트·뉴욕타임스·CBS뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18413849122089150",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfCh9E0Drx7",
+        "kind": "carousel",
+        "at": 1793193797
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1793193920
+      },
+      "tiktok": {
+        "id": "7701709210760858881",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7701709210760858881",
+        "kind": "video",
+        "at": 1793194042
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793200068
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793200068
   }
 ]
