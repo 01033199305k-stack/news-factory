@@ -1,0 +1,136 @@
+{
+  "slug": "2026-10-29-news-germany-wildlife-park-wolf-attack-2026",
+  "topic": "독일 야생동물 공원에서 늑대가 어린이 습격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 07:08 KST",
+  "source": "BBC·AOL.co.uk·Daily Star 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBWSFNhV3N5NklWR2tQNWhMTG5WUzNvVTZCT3RYRGNjcTM5SnA3Mzg0Z0pXVWZUSm1hcWxERmFZNXhQTXduejlnN1RCdHE2NXJCQ19hdkhweVJmQ3BJcUE",
+    "related": [
+      [
+        "Girl seriously injured in wolf attack at German wildlife park",
+        "BBC"
+      ],
+      [
+        "Girl, 8, attacked by wolf in German wildlife park",
+        "RTE.ie"
+      ],
+      [
+        "Girl, 8, mauled by wolves during ‘zookeeper for a day’ experience at wildlife park",
+        "Daily Star"
+      ],
+      [
+        "Girl, 8, mauled by wolf left seriously injured after 'entering animal's enclosure' at wildlife park in Germany",
+        "The Sun"
+      ],
+      [
+        "Child airlifted to hospital after being mauled by wolf in wildlife park",
+        "AOL.co.uk"
+      ]
+    ],
+    "event_key": "germany_wildlife_park_wolf_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "독일 야생동물 공원에서\n[[늑대]]가 어린이 습격",
+      "sub": "8세 여아 중상으로 병원 이송",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "어린이 1명"
+        }
+      ],
+      "alt": "독일 야생동물 공원에서 늑대가 어린이 습격",
+      "map": {
+        "lat": 49.53383,
+        "lon": 8.5169889,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n야생동물 공원",
+      "video_only": true,
+      "map": {
+        "lat": 49.53383,
+        "lon": 8.5169889,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "야생동물 공원"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 장소",
+          "d": "독일의 한 야생동물 공원에서 발생했습니다 (BBC·RTE.ie)."
+        },
+        {
+          "t": "피해 내용",
+          "d": "8세 여아가 심각한 부상을 입고 병원으로 이송됐습니다 (Daily Star·The Sun)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "8세 여아 부상 (BBC·RTE.ie)",
+        "독일 야생동물 공원 발생 (BBC·The Sun)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.co.uk",
+        "BBC",
+        "Daily Star",
+        "RTE.ie",
+        "The Sun",
+        "2026.10.29 08:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 독일 야생동물 공원에서 늑대가 8세 여아를 습격했습니다\n\n· 어린이가 심각한 부상을 입고 헬기로 병원에 이송됐습니다 (AOL.co.uk)\n\n출처: BBC·RTE.ie·Daily Star 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일의 한 야생동물 공원에서 늑대가 어린이를 습격하는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 8세 여아가 심각한 부상을 입고 병원으로 이송됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "독일 야생동물 공원\n[[늑대]] 습격 사건",
+  "broll": [
+    "wildlife park fence",
+    "ambulance night"
+  ],
+  "place_en": "Germany wildlife park"
+}
