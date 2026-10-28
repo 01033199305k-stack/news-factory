@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-28-news-spain-high-speed-train-collision-2026",
+  "topic": "스페인 고속열차 충돌 최소 10명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.28 18:31 KST",
+  "source": "BBC·Reuters·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiAFBVV95cUxONUdwT0xaYXdCRDRhX0dTRkRsV3FuQVNmeFJyUFRNNmVkRHV2Y3pGQVNHanhwN1kzTlc5MFRUT1FXY3RlRUR4eXVHVUIyXzA4bGxDdTJEa3p3RVJadHNHcmRlNGxIYS0wbmNUMHJXQ1lXLVhtWnRSV2VPa1UwSWJ3U20tN0ppYVZU",
+    "related": [
+      [
+        "Spain train crash: at least 10 feared dead after collision in Toledo province",
+        "The Guardian"
+      ],
+      [
+        "At least 10 dead after two trains collide south of Madrid, regional official says",
+        "BBC"
+      ],
+      [
+        "Two high-speed trains collide in Spain, rail operator says",
+        "Reuters"
+      ],
+      [
+        "Spain train crash latest: 'Numerous injuries' reported after high-speed collision on Madrid-Andalusia line",
+        "Sky News"
+      ],
+      [
+        "High-speed trains crash in Spain",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "spain_high_speed_train_collision_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페인 고속열차 충돌\n최소 [[10명]] 사망",
+      "sub": "마드리드 남부 톨레도주서 열차 2대 충돌해 다수 부상",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 10명"
+        }
+      ],
+      "alt": "스페인 고속열차 충돌 최소 10명 사망",
+      "map": {
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n톨레도",
+      "video_only": true,
+      "map": {
+        "lat": 39.8558913,
+        "lon": -4.024265,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "톨레도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "고속열차 충돌",
+          "d": "마드리드와 안달루시아를 잇는 노선에서 고속열차 두 대가 충돌했습니다 (스카이 뉴스)."
+        },
+        {
+          "t": "부상자 다수 발생",
+          "d": "현지 당국은 사망자 외에도 수많은 부상자가 발생했다고 밝혔습니다 (스카이 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "고속열차 2대 충돌",
+        "최소 10명 사망 (BBC·가디언)"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수",
+        "사고 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "Sky News",
+        "The Guardian",
+        "The Telegraph",
+        "2026.10.28 19:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페인서 고속열차 충돌로 최소 10명 사망\n\n· 마드리드 남부 톨레도주 노선에서 열차 2대 충돌 (BBC·로이터)\n· 당국은 다수의 부상자가 발생했다고 발표 (스카이 뉴스)\n· 정확한 사고 원인은 아직 확인 안 됨\n\n출처: BBC·가디언·로이터·스카이 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인에서 고속열차 두 대가 충돌해 최소 10명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 마드리드 남부 톨레도주를 지나는 노선에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "스카이 뉴스는 현장에서 수많은 부상자가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 충돌 원인과 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "스페인 [[고속열차]]\n충돌 사고",
+  "broll": [
+    "train station platform",
+    "railway train night"
+  ],
+  "place_en": "Toledo, Spain"
+}
