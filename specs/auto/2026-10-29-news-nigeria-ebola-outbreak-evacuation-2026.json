@@ -1,0 +1,147 @@
+{
+  "slug": "2026-10-29-news-nigeria-ebola-outbreak-evacuation-2026",
+  "topic": "나이지리아서 에볼라 환자 발생 스위스로 이송",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 03:16 KST",
+  "source": "CNN·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilgFBVV95cUxNMGNYNXMxdzlBUEtISGQ1QlBUbENwNGdzY3NtNGliMVhJMnFtcmtMMDZQeUtuZm1BZzZINEM1WEpyUWoxNnc5bm1wQkFEVWZLOTBSZlN3WXR4d09JUHhxTG5hUHR6R1p1bUVLSkRvMDNibDVMbW14cEkyZXNqMnd2S1lfOHNzSzk2LUZ4dnV6NTBlcjM5cEE",
+    "related": [
+      [
+        "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers",
+        "The New York Times"
+      ],
+      [
+        "Health Alert: U.S. Embassy Abuja, Nigeria (October 27, 2026)",
+        "U.S. Embassy and Consulate in Nigeria (.gov)"
+      ],
+      [
+        "First confirmed Ebola patient in Nigeria evacuated to Switzerland",
+        "CNN"
+      ],
+      [
+        "Swiss woman with Ebola evacuated from Nigeria to Geneva",
+        "Reuters"
+      ],
+      [
+        "European health agency sends experts to Nigeria as Ebola cases spread",
+        "Euronews.com"
+      ]
+    ],
+    "event_key": "nigeria_ebola_outbreak_evacuation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "나이지리아서 [[에볼라]] 환자 발생\n스위스로 이송",
+      "sub": "유럽 보건 당국도 전문가 파견",
+      "chips": [
+        {
+          "k": "환자",
+          "v": "발생"
+        },
+        {
+          "k": "이송",
+          "v": "스위스"
+        }
+      ],
+      "alt": "나이지리아서 에볼라 환자 발생 스위스로 이송",
+      "map": {
+        "lat": 9.0643305,
+        "lon": 7.4892974,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "나이지리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "나이지리아\n아부다비",
+      "video_only": true,
+      "map": {
+        "lat": 9.0643305,
+        "lon": 7.4892974,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아부다비"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "환자 이송",
+          "d": "나이지리아의 첫 확진 에볼라 환자가 스위스로 이송됐다고 CNN 등이 보도했습니다."
+        },
+        {
+          "t": "전문가 파견",
+          "d": "유럽 보건 기관은 에볼라 확산에 대응하기 위해 나이지리아에 전문가들을 파견했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에볼라 환자 발생",
+        "스위스로 이송",
+        "유럽 보건 기관 전문가 파견"
+      ],
+      "unconfirmed": [
+        "정확한 감염 경로",
+        "추가 확진자 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Euronews.com",
+        "Reuters",
+        "The New York Times",
+        "U.S. Embassy and Consulate in Nigeria (.gov)",
+        "2026.10.29 06:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 나이지리아서 에볼라 환자 발생해 스위스로 이송 (CNN·로이터)\n\n· 유럽 보건 기관이 에볼라 확산 대응을 위해 나이지리아에 전문가들을 파견했습니다 (유로뉴스)\n· 나이지리아 주재 미국 대사관이 보건 경보를 발령했습니다 (미국 대사관)\n\n출처: CNN·로이터·유로뉴스·미국 대사관 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "나이지리아에서 에볼라 환자가 발생해 스위스로 이송됐다고 CNN 등이 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "환자는 스위스 제네바로 옮겨졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "유럽 보건 기관은 에볼라 확산 대응을 위해 나이지리아에 전문가들을 파견했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "한국인 피해 여부"
+    }
+  ],
+  "hook": "나이지리아서\n[[에볼라]] 환자 발생",
+  "broll": [
+    "hospital medical laboratory",
+    "health alert sign"
+  ],
+  "place_en": "Abuja, Nigeria"
+}
