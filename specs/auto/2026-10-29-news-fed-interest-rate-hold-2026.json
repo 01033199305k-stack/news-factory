@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-29-news-fed-interest-rate-hold-2026",
+  "topic": "미 연준 기준금리 동결 결정했다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 06:29 KST",
+  "source": "Axios·CNN·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA",
+    "related": [
+      [
+        "Fed leaves rates steady as governor Lisa Cook dissents",
+        "Axios"
+      ],
+      [
+        "Did the Fed just make a huge mistake?",
+        "CNN"
+      ],
+      [
+        "Warsh Says Politics Played No Role in Fed's Rate Decision by Group He Is 'Honored' to Lead",
+        "U.S. News & World Report"
+      ],
+      [
+        "Federal Reserve makes interest rate decision ahead of midterms",
+        "Fox Business"
+      ],
+      [
+        "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+        "CNBC"
+      ]
+    ],
+    "event_key": "fed_interest_rate_hold_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 연준 기준금리\n[[동결]] 결정했다",
+      "sub": "리사 쿡 이사가 동결 결정에 반대했습니다",
+      "chips": [],
+      "alt": "미 연준 기준금리 동결 결정했다",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기준금리 유지",
+          "d": "미국 연방준비제도가 기준금리를 기존 수준으로 동결했습니다 (악시오스)."
+        },
+        {
+          "t": "이사진 반대 표결",
+          "d": "리사 쿡 연준 이사는 이번 동결 결정에 반대 의견을 냈습니다 (악시오스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 연준 기준금리 동결 (악시오스)",
+        "리사 쿡 이사 동결 반대 (악시오스)"
+      ],
+      "unconfirmed": [
+        "향후 금리 조정 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Axios",
+        "CNBC",
+        "CNN",
+        "Fox Business",
+        "U.S. News & World Report",
+        "2026.10.29 07:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 연방준비제도가 기준금리를 동결하기로 결정했습니다.\n\n· 미 연준이 기준금리를 현 수준에서 유지하기로 정했습니다 (악시오스)\n· 리사 쿡 연준 이사는 금리 동결 결정에 반대했습니다 (악시오스)\n\n이번 금리 결정에 대해 어떻게 생각하십니까?\n\n출처: 악시오스·CNN·폭스 비즈니스·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 연방준비제도가 기준금리를 동결하기로 결정했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "연준은 금리를 현 수준으로 유지하기로 정했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "악시오스는 리사 쿡 이사가 이번 결정에 반대 표를 던졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 추가 금리 변동 여부는 아직 확정되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 연준의 금리 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 연준 금리\n[[동결]] 결정, 다음은?",
+  "broll": [
+    "federal reserve building",
+    "stock exchange board"
+  ],
+  "place_en": "Washington D.C., USA"
+}

@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "ethiopia-eritrea-tigray-drone-strike-clash-2026",
-    "topic": "에티오피아, 티그라이 진입한 에리트레아군에 드론 공격",
-    "slug": "2026-10-09-news-ethiopia-eritrea-tigray-drone-strike-clash-2026",
-    "cluster": "CBMiugFBVV95cUxORGFWemFVVDlKWFhiNWRtNXFCTmNyWGhINDBId0VUbUk4bGgta3dwOUlUNXZUZ3pSTmFocG5KY2dkYWRoRktkbDdpX0hiY0w2Si1kWkhfUkhPdHRlX1M1emZVQzBnbkVNU2paNU01RmdiWDZvTHhDaXBqVHN2ZFhud05NeUxJajlJeHVrSDNTeVpFcjA2RXU0THFSeWZDOFJJT0s3UlhHclFKLWJIYmxhdXpTaGcwYm5GWHc",
-    "badge": "breaking",
-    "at": 1791544220.6100895,
-    "country": "에티오피아",
-    "category": "국제"
-  },
-  {
-    "event_key": "nobel-peace-prize-navi-pillay-2026",
-    "topic": "2026 노벨 평화상 남아공 나비 필레이",
-    "slug": "2026-10-09-news-nobel-peace-prize-navi-pillay-2026",
-    "cluster": "CBMilwFBVV95cUxQNlRoWmxDMW0yZ3V4UFd4OWhXaGZQOWJWWnY1QzRFdnRhU0tQalFJbE1ua3hpWFc3ZlAtbERMbl96cG5rUWt1WjJNMFlsUndsN3JsZ1RSUU9CWE9VUVRhdlhwVVZrQ2NLQXRmVWxEdWYwRDFDYkZ5RE9ZeXhOSlBJSkl6b183Q1dXUmJYTHlQcFpqOFM4VHM0",
-    "badge": "brief",
-    "at": 1791551440.204018,
-    "country": "노르웨이",
-    "category": "국제"
-  },
-  {
     "event_key": "ukraine-donbas-counteroffensive-oct-2026",
     "topic": "우크라, 돈바스 영토 일부 탈환 러시아군 밀어내며 전선 돌파",
     "slug": "2026-10-09-news-ukraine-donbas-counteroffensive-oct-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793221627.2917223,
     "country": "나이지리아",
     "category": "재난"
+  },
+  {
+    "event_key": "flavio_bolsonaro_miami_flight_2026",
+    "topic": "브라질 대선 패배 후 마이애미로 이동",
+    "slug": "2026-10-29-news-flavio-bolsonaro-miami-flight-2026",
+    "cluster": "CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk",
+    "badge": "breaking",
+    "at": 1793225268.3620038,
+    "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "fed_interest_rate_hold_2026",
+    "topic": "미 연준 기준금리 동결 결정했다",
+    "slug": "2026-10-29-news-fed-interest-rate-hold-2026",
+    "cluster": "CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA",
+    "badge": "breaking",
+    "at": 1793225355.7665608,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

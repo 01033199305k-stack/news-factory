@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-29-news-flavio-bolsonaro-miami-flight-2026",
+  "topic": "브라질 대선 패배 후 마이애미로 이동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 06:07 KST",
+  "source": "BBC·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk",
+    "related": [
+      [
+        "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+        "BBC"
+      ],
+      [
+        "Flávio Bolsonaro Lands in Miami After Fleeing Brazil",
+        "The New York Times"
+      ],
+      [
+        "Flavio Bolsonaro lands in Miami, declares himself the 'leader' of Brazil",
+        "DW.com"
+      ],
+      [
+        "Flávio Bolsonaro lands in Miami after Brazil election loss",
+        "The Guardian"
+      ],
+      [
+        "Flavio Bolsonaro declares himself rightful president-elect of Brazil",
+        "Reuters"
+      ]
+    ],
+    "event_key": "flavio_bolsonaro_miami_flight_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "브라질 대선 패배 후\n[[마이애미]]로 이동",
+      "sub": "스스로를 브라질 리더라고 주장했습니다",
+      "chips": [],
+      "alt": "브라질 대선 패배 후 마이애미로 이동",
+      "map": {
+        "lat": 25.7741566,
+        "lon": -80.1935973,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n마이애미",
+      "video_only": true,
+      "map": {
+        "lat": 25.7741566,
+        "lon": -80.1935973,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마이애미"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "현지 도착 확인",
+          "d": "플라비우 볼소나루가 브라질 대선 패배 후 미국 마이애미에 도착했습니다 (BBC·NYT)."
+        },
+        {
+          "t": "리더 자임 선언",
+          "d": "마이애미 도착 후 자신이 브라질의 리더라고 선언했습니다 (DW·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플라비우 볼소나루 마이애미 도착 (BBC·NYT)",
+        "자신이 브라질 리더라고 주장 (DW·로이터)"
+      ],
+      "unconfirmed": [
+        "향후 체류 기간 및 귀국 계획",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "DW.com",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.29 07:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 브라질 대선에서 패배한 플라비우 볼소나루가 미국 마이애미에 도착했습니다.\n\n· 대선 패배 후 미국 마이애미로 이동한 사실이 확인됐습니다 (BBC·NYT)\n· 현지 도착 후 자신이 브라질의 리더라고 주장했습니다 (DW·로이터)\n\n이번 상황에 대해 어떻게 보십니까?\n\n출처: BBC·NYT·DW·로이터·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "브라질 대선에서 패배한 플라비우 볼소나루가 미국 마이애미에 도착했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 마이애미에 도착한 사실을 외신들이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 그가 도착 후 스스로를 브라질의 리더라고 주장했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 정치적 행보와 귀국 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 사태에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "대선 패한 후보의\n[[마이애미]] 이동",
+  "broll": [
+    "miami airport terminal",
+    "brazil flag waving"
+  ],
+  "place_en": "Miami, USA"
+}
