@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-29-news-moscow-mass-drone-strike-2026",
+  "topic": "모스크바 겨냥 대규모 드론 공격 주요 공항 운항 중단",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 14:26 KST",
+  "source": "Al Jazeera·Reuters·The Kyiv Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH",
+    "related": [
+      [
+        "Russia says more than 600 drones launched towards Moscow overnight",
+        "Al Jazeera"
+      ],
+      [
+        "Ukraine sends drones towards Moscow, Russia strikes Kharkiv, officials say",
+        "Reuters"
+      ],
+      [
+        "Satellite Images Confirm Damage to Russian Air Defense Repair Workshops in Moscow Region",
+        "Оборонка"
+      ],
+      [
+        "Moscow faces mass drone strike overnight, flights grounded at major airports",
+        "The Kyiv Independent"
+      ],
+      [
+        "Moscow came under a massive drone attack",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "moscow_mass_drone_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[모스크바]] 겨냥 대규모 드론 공격\n주요 공항 운항 중단",
+      "sub": "러시아 측은 하룻밤 새 드론 600여 기가 날아왔다고 주장했습니다",
+      "chips": [],
+      "alt": "모스크바 겨냥 대규모 드론 공격 주요 공항 운항 중단",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대규모 드론 공격 감행",
+          "d": "우크라이나가 러시아 모스크바를 향해 밤사이 대규모 드론 공격을 감행했습니다 (로이터·키이우 인디펜던트)."
+        },
+        {
+          "t": "주요 공항 운항 중단",
+          "d": "드론 공격 여파로 모스크바 일대 주요 공항에서 항공편 운항이 중단됐습니다 (키이우 인디펜던트)."
+        },
+        {
+          "t": "방공 시설 손상 확인",
+          "d": "모스크바 지역의 방공망 수리 작업장이 손상된 사실이 위성 사진으로 확인됐습니다 (오보론카)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "모스크바 향한 대규모 드론 공격",
+        "모스크바 주요 공항 항공편 운항 중단"
+      ],
+      "unconfirmed": [
+        "정확한 인명 및 물적 피해 규모",
+        "드론 발사 및 격추 수량 매체별 집계 차이 있음",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "The Kyiv Independent",
+        "UA.NEWS",
+        "Оборонка",
+        "2026.10.29 16:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 모스크바를 겨냥해 대규모 드론 공격이 발생했습니다.\n\n· 우크라이나가 모스크바를 향해 밤사이 대규모 드론 공격을 단행했습니다 (로이터·키이우 인디펜던트).\n· 러시아 측은 하룻밤 사이 600기 이상의 드론이 날아왔다고 주장했습니다 (알자지라).\n· 공격 여파로 모스크바 주요 공항의 항공편 운항이 중단됐습니다 (키이우 인디펜던트).\n\n격화하는 드론 공방, 앞으로의 전황을 어떻게 보십니까?\n출처: 알자지라·로이터·키이우 인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 모스크바를 향해 대규모 드론 공격이 가해졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 러시아 당국을 인용해 하룻밤 새 600여 기의 드론이 날아왔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 공격으로 모스크바 주요 공항의 항공편 운항이 중단됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 사상자 발생 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "격화하는 드론 공방, 전황에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[모스크바]] 상공에\n무슨 일이?",
+  "broll": [
+    "moscow airport runway",
+    "radar tower night"
+  ],
+  "place_en": "Moscow, Russia"
+}

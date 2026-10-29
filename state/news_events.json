@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "moscow-airports-closed-ukraine-drone-strike-2026",
-    "topic": "우크라 드론 공습에 모스크바 공항 4곳 폐쇄",
-    "slug": "2026-10-10-news-moscow-airports-closed-ukraine-drone-strike-2026",
-    "cluster": "CBMihgFBVV95cUxNUnZaS1J5dUZJZnZIVG5USVo1cGFEODZJYVF5UV85NGRKMmNueWREYlQ3c214WVRuOW05LXp6d0VwVDh4RXFIMmN1NmtuSVlvcXIxQjdOWEViWkRoVDRkQmZ0Y1hLR3RFQmc0UWJueVF5N3FPU2hhZlkxSzRreHE2djBKS2hXQQ",
-    "badge": "breaking",
-    "at": 1791587381.657303,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "congo-erik-prince-forces-ambush-2026",
     "topic": "민주콩고서 사설 용병 피격 특수부대 출신 등 사상",
     "slug": "2026-10-10-news-congo-erik-prince-forces-ambush-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793254170.42701,
     "country": "북한",
+    "category": "국제"
+  },
+  {
+    "event_key": "moscow_mass_drone_strike_2026",
+    "topic": "모스크바 겨냥 대규모 드론 공격 주요 공항 운항 중단",
+    "slug": "2026-10-29-news-moscow-mass-drone-strike-2026",
+    "cluster": "CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH",
+    "badge": "breaking",
+    "at": 1793258011.2295864,
+    "country": "러시아",
     "category": "국제"
   }
 ]
