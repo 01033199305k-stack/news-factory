@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "gyeonggi_gwangju_drunk_driving",
-    "topic": "경기 광주서 만취 운전 추돌 오토바이 운전자 1명 사망",
-    "slug": "2026-10-10-news-gyeonggi-gwangju-drunk-driving",
-    "cluster": "CBMiW0FVX3lxTE8zZEJWQ3pIc29xazlOc1lUN1VZeUdLN2VkcUZFQlBLYU9LekRuLWNTS3ByeE1NX2JGcFQzWkx1VWU0OUZfek43R0FQdGJsME51NEpjWXB0SmxlN1U",
-    "badge": "breaking",
-    "at": 1791608863.695253,
-    "country": "대한민국",
-    "category": "사고"
-  },
-  {
     "event_key": "hurricane-isaias-us-florida-landfall-2026",
     "topic": "허리케인 이사이아스 美 플로리다 상륙",
     "slug": "2026-10-10-news-hurricane-isaias-us-florida-landfall-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793283026.049662,
     "country": "독일",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "italy_dolomites_ww1_munitions_exposed_2026",
+    "topic": "이탈리아 돌로미티 빙하 융해 제1차 세계대전 폭발물 발견",
+    "slug": "2026-10-29-news-italy-dolomites-ww1-munitions-exposed-2026",
+    "cluster": "CBMihAJBVV95cUxPT0x2Q2dDdHdKc0ZjUWdMVjBlMTFEbzFEa2FsejA4Y1BXSm5GZ245dEhfcGxLZXVEc0FCY2lWbk1Sc2FPckhIaGEwSGpvSFhCenRrUkpmN2FDOG9HZGNZVDdvSF9yVFZJY3l4ZmREaEd2bkRrMEZPcXhpZGlhVi0xczFaOUtNNHc2dnFMRlpBTmUyU2tPTU16em4wMmR4Si05TGRkSG1DUWg1NnNGdXlvVEE2WWJzMjlGeklrVmJkZjNsSmVTUFpDNWVhLTZic3V2cGdCTlJlaUM4T0hwNkdWS0FtblRpVXBnNlppUHNvTHIyTm1wbW8wRUNObk5rLWNUdTduSQ",
+    "badge": "breaking",
+    "at": 1793288298.7186306,
+    "country": "이탈리아",
+    "category": "재난"
   }
 ]

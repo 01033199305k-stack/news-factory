@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-29-news-italy-dolomites-ww1-munitions-exposed-2026",
+  "topic": "이탈리아 돌로미티 빙하 융해 제1차 세계대전 폭발물 발견",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 22:42 KST",
+  "source": "CNN·The Guardian·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAJBVV95cUxPT0x2Q2dDdHdKc0ZjUWdMVjBlMTFEbzFEa2FsejA4Y1BXSm5GZ245dEhfcGxLZXVEc0FCY2lWbk1Sc2FPckhIaGEwSGpvSFhCenRrUkpmN2FDOG9HZGNZVDdvSF9yVFZJY3l4ZmREaEd2bkRrMEZPcXhpZGlhVi0xczFaOUtNNHc2dnFMRlpBTmUyU2tPTU16em4wMmR4Si05TGRkSG1DUWg1NnNGdXlvVEE2WWJzMjlGeklrVmJkZjNsSmVTUFpDNWVhLTZic3V2cGdCTlJlaUM4T0hwNkdWS0FtblRpVXBnNlppUHNvTHIyTm1wbW8wRUNObk5rLWNUdTduSQ",
+    "related": [
+      [
+        "A century later, World War bombs still haunt Europe as Italy finds 250 munitions in melting glaciers",
+        "The Times of India"
+      ],
+      [
+        "Hundreds of World War I munitions exposed by melting ice removed from Dolomites",
+        "CNN"
+      ],
+      [
+        "Melting glaciers in Dolomites reveal cache of first world war munitions",
+        "The Guardian"
+      ],
+      [
+        "Melting ice reveals hundreds of World War I explosive devices in Italy.",
+        "Vietnam.vn"
+      ],
+      [
+        "Melting Glaciers Expose More Than 250 Unexploded WWI Bombs in the Dolomites",
+        "Gizmodo"
+      ]
+    ],
+    "event_key": "italy_dolomites_ww1_munitions_exposed_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이탈리아 돌로미티 빙하 융해\n[[제1차 세계대전]] 폭발물 발견",
+      "sub": "녹아내린 얼음 속에서 폭탄 250여 개 노출",
+      "chips": [
+        {
+          "k": "폭발물",
+          "v": "250여 개"
+        }
+      ],
+      "alt": "이탈리아 돌로미티 빙하 융해 제1차 세계대전 폭발물 발견",
+      "map": {
+        "lat": 46.294572,
+        "lon": 12.0513238,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이탈리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이탈리아\n돌로미티",
+      "video_only": true,
+      "map": {
+        "lat": 46.294572,
+        "lon": 12.0513238,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "돌로미티"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "폭발물 발견",
+          "d": "이탈리아 돌로미티 지역의 빙하가 녹으면서 제1차 세계대전 당시 사용된 폭발물 250여 개가 드러났습니다 (타임스오브인디아·기즈모도)."
+        },
+        {
+          "t": "당국 조치",
+          "d": "노출된 폭발물들이 제거되었습니다 (CNN·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이탈리아 돌로미티 빙하 융해 (타임스오브인디아·CNN)",
+        "1차 세계대전 폭발물 250여 개 노출 (타임스오브인디아·기즈모도)"
+      ],
+      "unconfirmed": [
+        "추가 매몰 폭발물 존재 여부",
+        "한국인 피해 여부",
+        "정확한 제거 완료 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Gizmodo",
+        "The Guardian",
+        "The Times of India",
+        "Vietnam.vn",
+        "2026.10.30 00:38 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이탈리아 돌로미티 빙하 녹아내리며 1차 세계대전 폭발물 250여 개 노출\n\n· 녹은 빙하 속에서 폭발물들이 발견됐습니다 (타임스오브인디아·CNN)\n· 당국은 노출된 폭발물들을 제거했습니다 (가디언·기즈모도)\n\n출처: 타임스오브인디아·CNN·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이탈리아 돌로미티 지역의 빙하가 녹으면서 제1차 세계대전 당시의 폭발물이 드러났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 빙하 속에서 폭발물 250여 개가 발견됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "노출된 폭발물들은 제거되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추가로 매몰된 폭발물이 더 있는지 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이탈리아 [[빙하]] 속에서\n쏟아진 것은?",
+  "broll": [
+    "melting glacier mountains",
+    "old military explosive"
+  ],
+  "place_en": "Dolomites, Italy"
+}
