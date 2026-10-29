@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-29-news-north-korea-barrage-missiles-launch-east-sea-2026",
+  "topic": "북한, 동해상으로 탄도미사일 10여 발 발사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 13:00 KST",
+  "source": "The Times of India·Arab News·The Japan Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi2AFBVV95cUxQc21DZ1IwY19UNTBvVDNGRG1OZlBfUHZCRmNoZ1h5cGVVR1hQdjh0b3lCZjEyVmVzaHlsQ042RTluMVhqeDFGRWdXWHNwSVVpOE9CRDVBQVhuVUxCcW9WVVVxS2c2MmR0ellxVmowb2FMTjFvWTNDVVVpajVnTFd4RjY1QkxiLWJSTzZkbjhyWUw5YWJtaEtsV2dVOUFmM2VNQlNKMWdUcHFTVlhTUkhDWmJBdjZLS0FTX2I4a0x0U3k2dlBlamJKUDB3dG8zMWd0NU1HRlVYb0PSAd4BQVVfeXFMTTNsemxGR0VNY1dhME01dzBoUmRueVJJUXBXNWV6UnAzeFAybFI3UVBxaWNEemFsaVJONFJFZUdpT0ZZSkhxRTRCNkhCblAxaG93QlpsSjlmT1huVFB3a3p2SU5jZ1BvU1M0ZUl6aE42NDQzYmIzY0N4ZnFLaFh6TTFuYU82M0RyQmxabDIzLV83UUtoT3Y0dlVZdUdPNnlCN2psQnAtM2VnTkoweVBXNExDS1pKRHVqS1JMQ1VuQ0lZa0d4MXg0Q212b0hsd0JTb1FqXzVwMWVlam1nbnJB",
+    "related": [
+      [
+        "Suspected ballistic missile launched from North Korea: Japan",
+        "The Times of India"
+      ],
+      [
+        "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says",
+        "Arab News"
+      ],
+      [
+        "North Korea fires missile barrage toward the sea as tensions with South rise",
+        "The New Indian Express"
+      ],
+      [
+        "North Korea fires off apparent ballistic missile",
+        "The Japan Times"
+      ],
+      [
+        "South Korea says North Korea has launched an unidentified projectile off the North’s east coast",
+        "WTOP News"
+      ]
+    ],
+    "event_key": "north_korea_barrage_missiles_launch_east_sea_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "북한, 동해상으로\n[[탄도미사일]] 10여 발 발사",
+      "sub": "한국과 일본 당국의 미사일 발사 포착 발표",
+      "chips": [
+        {
+          "k": "발사 규모",
+          "v": "10여 발"
+        }
+      ],
+      "alt": "북한, 동해상으로 탄도미사일 10여 발 발사",
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "북한"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "북한\n평양",
+      "video_only": true,
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "평양"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "동해상 대량 발사",
+          "d": "한국 측은 북한이 동해상으로 탄도미사일 약 10발을 발사했다고 밝혔습니다 (아랍뉴스)."
+        },
+        {
+          "t": "일본 당국도 확인",
+          "d": "일본 정부는 탄도미사일 추정 발사체가 발사된 사실을 확인했습니다 (재팬타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "북한의 동해상 탄도미사일 발사",
+        "한국 및 일본 당국의 발사 포착 발표"
+      ],
+      "unconfirmed": [
+        "발사된 미사일 기종 및 정확한 사거리",
+        "정확한 발사 지점 및 의도"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Arab News",
+        "The Japan Times",
+        "The New Indian Express",
+        "The Times of India",
+        "WTOP News",
+        "2026.10.29 15:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 북한, 동해상으로 탄도미사일 10여 발 발사\n\n· 한국 측은 북한이 동해상으로 미사일 약 10발을 발사했다고 밝혔습니다 (아랍뉴스)\n· 일본 정부도 탄도미사일 추정 발사체가 발사된 사실을 확인했습니다 (재팬타임스)\n· 한국 측은 북한이 동해상으로 미상의 발사체를 발사했다고 밝혔습니다 (WTOP)\n\n북한의 이번 무력 시위, 동북아 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: 아랍뉴스·재팬타임스·더타임스오브인디아·WTOP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "북한이 동해상으로 탄도미사일 10여 발을 발사했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "한국 측은 동해상으로 미사일 약 10발이 발사되었다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "일본 정부도 탄도미사일 추정체가 발사된 사실을 확인했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 미사일 기종과 비행거리는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "북한의 이번 무력 시위, 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "북한이 동해로\n[[미사일]] 쏜 이유",
+  "broll": [
+    "radar screen military",
+    "sea horizon"
+  ],
+  "place_en": "Pyongyang, North Korea"
+}

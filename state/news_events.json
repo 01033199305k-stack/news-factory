@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-russia-diesel-deal-2026",
-    "topic": "미국, 러 디젤 제재 해제 트럼프·푸틴 합의",
-    "slug": "2026-10-10-news-us-russia-diesel-deal-2026",
-    "cluster": "CBMiqwFBVV95cUxQdEM3STdpY1dOZzNkaUtmX3M1RGtmOU5SR0FiakRFeFhGUU1HMjNMVFV2ZTFRR25PRlBmS2hZZEJvOGQ2cTBWU21QUm41WGVGMGZUX1FKREh5SC01UUhhN1JOcnF4VmRRc2hidGstN0lmbmFWelhROEViWEtfM01wRjZva0ZMamZsdTItb3QtZml6clhjYkkxYlg3NmhCaERHMUpNTkFnLXZJTTTSAbABQVVfeXFMTnRxUW9wSHhqSlMtVW1DSUZxMUwtU2hXc21mNF9XNVdGcXhWRDZ5cWpwbnRUSGIxZ2FQQ0dwb0RGSThiZ01MUGZlelRkbXFsNUtLaGp5dFlXd2FVREoxTzE5UHIxMWFkTzc4WDJVam13UXJWbVRWNm1vS21fVm1LRzYxX3NxOWJXSEFQMDhzSFdwaW4xODl5NmEwVHhlOE5hWmRlRTBnV29aU2tnajZHREw",
-    "badge": "breaking",
-    "at": 1791578209.1068697,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "moscow-airports-closed-ukraine-drone-strike-2026",
     "topic": "우크라 드론 공습에 모스크바 공항 4곳 폐쇄",
     "slug": "2026-10-10-news-moscow-airports-closed-ukraine-drone-strike-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793250791.138232,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "north_korea_barrage_missiles_launch_east_sea_2026",
+    "topic": "북한, 동해상으로 탄도미사일 10여 발 발사",
+    "slug": "2026-10-29-news-north-korea-barrage-missiles-launch-east-sea-2026",
+    "cluster": "CBMi2AFBVV95cUxQc21DZ1IwY19UNTBvVDNGRG1OZlBfUHZCRmNoZ1h5cGVVR1hQdjh0b3lCZjEyVmVzaHlsQ042RTluMVhqeDFGRWdXWHNwSVVpOE9CRDVBQVhuVUxCcW9WVVVxS2c2MmR0ellxVmowb2FMTjFvWTNDVVVpajVnTFd4RjY1QkxiLWJSTzZkbjhyWUw5YWJtaEtsV2dVOUFmM2VNQlNKMWdUcHFTVlhTUkhDWmJBdjZLS0FTX2I4a0x0U3k2dlBlamJKUDB3dG8zMWd0NU1HRlVYb0PSAd4BQVVfeXFMTTNsemxGR0VNY1dhME01dzBoUmRueVJJUXBXNWV6UnAzeFAybFI3UVBxaWNEemFsaVJONFJFZUdpT0ZZSkhxRTRCNkhCblAxaG93QlpsSjlmT1huVFB3a3p2SU5jZ1BvU1M0ZUl6aE42NDQzYmIzY0N4ZnFLaFh6TTFuYU82M0RyQmxabDIzLV83UUtoT3Y0dlVZdUdPNnlCN2psQnAtM2VnTkoweVBXNExDS1pKRHVqS1JMQ1VuQ0lZa0d4MXg0Q212b0hsd0JTb1FqXzVwMWVlam1nbnJB",
+    "badge": "breaking",
+    "at": 1793254170.42701,
+    "country": "북한",
+    "category": "국제"
   }
 ]
