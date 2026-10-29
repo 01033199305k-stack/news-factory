@@ -33,10 +33,16 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (사고)",
         "at": 1793297504
+      },
+      "tiktok": {
+        "id": "7702168773377215765",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702168773377215765",
+        "kind": "video",
+        "at": 1793301029
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
     },
     "video": "video.mp4"
