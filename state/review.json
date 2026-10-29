@@ -74,5 +74,24 @@
       "속보",
       "해외뉴스"
     ]
+  },
+  {
+    "slug": "2026-10-29-usgs-us7000ttxz",
+    "event_ms": 1793260190928,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] southeast of Easter Island 인근 규모 6.4 지진\n\n한국 시각 10월 29일 16시 49분, southeast of Easter Island. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us7000ttxz",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "southeastofEasterIsland",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ]
   }
 ]
