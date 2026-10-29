@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "slug": "2026-10-29-news-ukraine-dnipro-train-station-strike-2026",
+    "event_ms": 1793274472000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아군이 우크라이나 드니프로 기차역을 공습해 최소 13명이 숨졌습니다 (알자지라·블룸버그).\n\n· 우크라이나 드니프로 기차역이 러시아군의 공격을 받았습니다 (알자지라).\n· 공습으로 13명 이상이 사망한 것으로 확인됐습니다 (알자지라·블룸버그).\n\n출처: 알자지라·CNN·로이터·NYT·블룸버그 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18109805810577719",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfE-emqEYPV",
+        "kind": "carousel",
+        "at": 1793275871
+      },
+      "youtube": {
+        "id": "Shh-tKqNTUo",
+        "permalink": "https://youtube.com/shorts/Shh-tKqNTUo",
+        "kind": "shorts",
+        "at": 1793276057
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

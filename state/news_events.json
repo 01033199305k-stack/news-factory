@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "seoul-taxi-crash-gwangjin",
-    "topic": "광진구 인도 덮친 택시, 40대 부부 사상",
-    "slug": "2026-10-10-news-seoul-taxi-crash-gwangjin",
-    "cluster": "CBMidkFVX3lxTE5xRG8zYzFuMzVpc0tBeUc1TDdGdlJJZHBxcDFpSzhvUHJ1cDM4VUxoSFl2d2hhSmVGcHNOajhFOHlLR3JqWnhHZm5ySUc1SEV6WXZFcXM2TUczZE9qTnNsMHU1clJ4RzFRbmpOQ2hLVk9JMl9WWmfSAWZBVV95cUxQSk9Wck96WU5TMG51M3FQc0NvRjRCMC0wUk5vbWtjUXdJYk1SMWd6Z1NHQUE5Q1JOQ0pTeGg1cTZzVmxESHJ3YkU3UERqN2xOdmVCM1hQdEp1RWNySVh0bWVQUC0yeHc",
-    "badge": "breaking",
-    "at": 1791598164.2481642,
-    "country": "대한민국",
-    "category": "사고"
-  },
-  {
     "event_key": "daegu-mart-ceiling-collapse-2026",
     "topic": "대구 마트 천장 붕괴 장보던 시민 수십 명 부상",
     "slug": "2026-10-10-news-daegu-mart-ceiling-collapse-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793264950.1642814,
     "country": "미국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "ukraine_dnipro_train_station_strike_2026",
+    "topic": "러시아, 드니프로 기차역 공습 최소 13명 사망",
+    "slug": "2026-10-29-news-ukraine-dnipro-train-station-strike-2026",
+    "cluster": "CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE",
+    "badge": "breaking",
+    "at": 1793275812.224774,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

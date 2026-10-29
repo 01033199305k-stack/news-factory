@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-29-news-ukraine-dnipro-train-station-strike-2026",
+  "topic": "러시아, 드니프로 기차역 공습 최소 13명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 20:47 KST",
+  "source": "Al Jazeera·Bloomberg·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE",
+    "related": [
+      [
+        "At least 13 people killed in Russian attack on Dnipro train station",
+        "Al Jazeera"
+      ],
+      [
+        "Russia strikes Dnipro train station, killing 13",
+        "CNN"
+      ],
+      [
+        "Russian drone attack on train station kills 13 in Ukraine’s Dnipro",
+        "Reuters"
+      ],
+      [
+        "Russian Strike on Ukrainian Train Station Kills 13",
+        "The New York Times"
+      ],
+      [
+        "Ukraine Says Russian Strike Kills At Least 13 at Train Station",
+        "Bloomberg"
+      ]
+    ],
+    "event_key": "ukraine_dnipro_train_station_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아, [[드니프로]] 기차역 공습\n최소 13명 사망",
+      "sub": "우크라이나 기차역에 드론 공격",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 13명"
+        }
+      ],
+      "alt": "러시아, 드니프로 기차역 공습 최소 13명 사망",
+      "map": {
+        "lat": 51.5567163,
+        "lon": 30.6121981,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n드니프로",
+      "video_only": true,
+      "map": {
+        "lat": 51.5567163,
+        "lon": 30.6121981,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "드니프로"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기차역 공습",
+          "d": "러시아군이 우크라이나 드니프로 기차역을 공격했습니다 (알자지라)."
+        },
+        {
+          "t": "13명 이상 사망",
+          "d": "이번 공습으로 최소 13명이 목숨을 잃었습니다 (알자지라·블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아군 드니프로 기차역 공격",
+        "최소 13명 사망 (알자지라·블룸버그)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 부상자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "2026.10.29 21:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아군이 우크라이나 드니프로 기차역을 공습해 최소 13명이 숨졌습니다 (알자지라·블룸버그).\n\n· 우크라이나 드니프로 기차역이 러시아군의 공격을 받았습니다 (알자지라).\n· 공습으로 13명 이상이 사망한 것으로 확인됐습니다 (알자지라·블룸버그).\n\n출처: 알자지라·CNN·로이터·NYT·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 드니프로 기차역이 러시아군의 공습을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공격을 받은 곳은 우크라이나 드니프로 지역입니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라는 이번 공격으로 기차역에서 최소 13명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 피해 상황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[드니프로]] 기차역에\n무슨 일이?",
+  "broll": [
+    "train station platform",
+    "damaged building rubble"
+  ],
+  "place_en": "Dnipro, Ukraine"
+}
