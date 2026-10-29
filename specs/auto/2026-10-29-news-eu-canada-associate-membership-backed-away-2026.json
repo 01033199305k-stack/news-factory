@@ -1,0 +1,139 @@
+{
+  "slug": "2026-10-29-news-eu-canada-associate-membership-backed-away-2026",
+  "topic": "EU, 캐나다 준회원국 구상 철회",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 19:06 KST",
+  "source": "Al Jazeera·The Guardian·DW.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinwFBVV95cUxOMHhBdkU0QU5Ic2U2Q2szRUh0OVQwZE9zdTBOOHNIM1Rram1qUVA5RzdCbW02UThfUTlXN0hwd2tLTXJUeFJVUlhNRHVXVlhpQjNZOTk4SE5lMTIydkNVbmoxbW40NDk3VTZfcl82bWxEUHdPcm9RSjN3akxEWUNvNVA0Y1M2WEtJSllDR1pNcnlOS29abnBmNGxXV2JwOUnSAaQBQVVfeXFMTWNvalV2TzJjQWJrS2FZbzVpUkMtX05nNDg5V0lLTXlYbDVrbXdqWmIxQ3JmV1ExSExGXzduNEVoVGlNdW4zYTBEUWU0bEM3QkJleXBVNHR2dkFFcXkxb3d6b3hwT19idGdYWi03SHFBRWs4cklTNUM3NXZWWEhWejlrN0dReFVESXZ1aUlmdGJnSWNNeUdjcTlmS0Q5bGptRVZSTmk",
+    "related": [
+      [
+        "European Union backtracks on Canada becoming ‘associate member’",
+        "Al Jazeera"
+      ],
+      [
+        "EU backs away from offer to Canada to start ‘associate member’ talks",
+        "The Guardian"
+      ],
+      [
+        "Carney hosts EU leaders as Trump pushes Canada toward Europe",
+        "TribLIVE.com"
+      ],
+      [
+        "Germany and other EU countries block von der Leyen's plan to give Canada 'associate membership'",
+        "DW.com"
+      ],
+      [
+        "Is von der Leyen’s ‘associate membership’ for Canada already dead?",
+        "Euronews.com"
+      ]
+    ],
+    "event_key": "eu_canada_associate_membership_backed_away_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "EU, [[캐나다]] 준회원국\n구상 철회",
+      "sub": "독일 등 주요 회원국 반대로 제안 무산",
+      "chips": [],
+      "alt": "EU, 캐나다 준회원국 구상 철회",
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "벨기에"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "벨기에\n브뤼셀",
+      "video_only": true,
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브뤼셀"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "집행위원장 제안 무산",
+          "d": "폰데어라이엔 EU 집행위원장이 추진한 구상이 회원국 반대에 부딪혔습니다 (DW)."
+        },
+        {
+          "t": "주요국 반대 표명",
+          "d": "독일을 비롯한 EU 국가들이 캐나다에 준회원국 지위를 주는 방안을 차단했습니다 (DW)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "EU의 캐나다 준회원국 제안 철회",
+        "독일 등 회원국의 반대"
+      ],
+      "unconfirmed": [
+        "향후 캐나다 협력 논의 재개 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "DW.com",
+        "Euronews.com",
+        "The Guardian",
+        "TribLIVE.com",
+        "2026.10.29 22:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] EU가 캐나다에 대한 준회원국 지위 추진 구상을 철회했습니다.\n\n· 폰데어라이엔 EU 집행위원장의 제안이었으나 독일 등이 반대했습니다 (DW).\n· EU는 캐나다와의 준회원국 논의 착수를 중단하기로 했습니다 (알자지라·가디언).\n\nEU의 결정과 역외 국가 협력 방식에 대해 어떻게 생각하십니까?\n출처: 알자지라·가디언·DW·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유럽연합이 캐나다의 준회원국 지위 추진 구상을 철회했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "회원국 간 의견이 갈렸습니다.",
+      "card": "map"
+    },
+    {
+      "text": "폰데어라이엔 집행위원장이 제안했으나 독일 등이 반대했다고 DW가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 캐나다와의 협력 논의가 재개될지는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 EU의 결정에 대해 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[캐나다]] 준회원국\n무산된 이유",
+  "broll": [
+    "european union flag",
+    "brussels headquarters"
+  ],
+  "place_en": "Brussels, Belgium"
+}
