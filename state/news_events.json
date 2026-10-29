@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "congo-erik-prince-forces-ambush-2026",
-    "topic": "민주콩고서 사설 용병 피격 특수부대 출신 등 사상",
-    "slug": "2026-10-10-news-congo-erik-prince-forces-ambush-2026",
-    "cluster": "CBMiwAFBVV95cUxPSnRfZTRYeTRDaDlhaTVnODk3Z2xDU2wtSlUzQ0luYmNfZGlTNGRNOVBvVURsTklDYjFSUFRvT2ZEYjd3RUxLSmZQUUlNcGRCS1VYLS1NdUJ6Q0ZoU2RqemlXNWROWHNnYkFBVEc2bmp0T201UnJmaEhhMmhlRTk1c2d5eDBXc2tkcWgweWRmbW8wMThWcHIzUkhpbVZWRjhQRW1JMW1wNU5EeVVJWVhWR3gxblRqaG11UjlzajB3YjI",
-    "badge": "breaking",
-    "at": 1791590847.9048903,
-    "country": "민주콩고",
-    "category": "국제"
-  },
-  {
     "event_key": "seoul-taxi-crash-gwangjin",
     "topic": "광진구 인도 덮친 택시, 40대 부부 사상",
     "slug": "2026-10-10-news-seoul-taxi-crash-gwangjin",
@@ -2998,5 +2988,15 @@
     "at": 1793258011.2295864,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "us_south_carolina_nuclear_site_fire_emergency_2026",
+    "topic": "미국 사우스캐롤라이나 핵시설 화재로 비상 선포",
+    "slug": "2026-10-29-news-us-south-carolina-nuclear-site-fire-emergency-2026",
+    "cluster": "CBMiqAFBVV95cUxPQy0yQlZ3N250LWZEWGlISG11bU9DZk9kTnlidklZc083V3JPLWpDM0xfUGxyNDRfenV2MDh0ZFd6M09tR1FiU0VDZFVMSG1iNVZ4cDNVQ1RpTktPbzFUcmpzUmRNN1pVYWttT2N4VWJ3bWcxaWZ0LUtCbXFsdzk0MjFndjJoekphZDB1QU1KandNUUlhaC15eElJLTIxdDRwcGtxbEtlTEbSAa4BQVVfeXFMTVZfVlNJVUp6MVBTS1JKbEtLWkVBRDE0a1RYNG1zNlpNMGFSdDJ3M0lOV2pnTkpzU2JhWTU0dkM3TFBJejRHXzRjMDhmUnMyRU5QQ3J4OXpHdERmVUlwcUVqbXRMUkJDcGNTTjVvLXh1ZnJmelRXaHJ0U28wNTNYbFNZUFd4eEcwbXhqd19PUjVxcnp5QmFrTUFhOUwwSkpRUURIaS1yVldPSG8zM1RB",
+    "badge": "breaking",
+    "at": 1793264950.1642814,
+    "country": "미국",
+    "category": "폭발·화재"
   }
 ]

@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-29-news-us-south-carolina-nuclear-site-fire-emergency-2026",
+  "topic": "미국 사우스캐롤라이나 핵시설 화재로 비상 선포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 15:11 KST",
+  "source": "CNN·Fox News·Daily Express 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxPQy0yQlZ3N250LWZEWGlISG11bU9DZk9kTnlidklZc083V3JPLWpDM0xfUGxyNDRfenV2MDh0ZFd6M09tR1FiU0VDZFVMSG1iNVZ4cDNVQ1RpTktPbzFUcmpzUmRNN1pVYWttT2N4VWJ3bWcxaWZ0LUtCbXFsdzk0MjFndjJoekphZDB1QU1KandNUUlhaC15eElJLTIxdDRwcGtxbEtlTEbSAa4BQVVfeXFMTVZfVlNJVUp6MVBTS1JKbEtLWkVBRDE0a1RYNG1zNlpNMGFSdDJ3M0lOV2pnTkpzU2JhWTU0dkM3TFBJejRHXzRjMDhmUnMyRU5QQ3J4OXpHdERmVUlwcUVqbXRMUkJDcGNTTjVvLXh1ZnJmelRXaHJ0U28wNTNYbFNZUFd4eEcwbXhqd19PUjVxcnp5QmFrTUFhOUwwSkpRUURIaS1yVldPSG8zM1RB",
+    "related": [
+      [
+        "Panic at massive nuclear plant as airspace locked down and staff ordered to shelter",
+        "Daily Express"
+      ],
+      [
+        "Nuclear emergency warning after radioactive material released in fire at nuke site",
+        "Daily Star"
+      ],
+      [
+        "Fire at South Carolina nuclear site triggers emergency but no contamination found outside lab, officials say",
+        "CNN"
+      ],
+      [
+        "Emergency declared at South Carolina nuclear site after fire erupts at lab",
+        "Fox News"
+      ],
+      [
+        "Fire controlled in a laboratory of the historic Savannah River nuclear complex",
+        "Demócrata"
+      ]
+    ],
+    "event_key": "us_south_carolina_nuclear_site_fire_emergency_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 사우스캐롤라이나\n[[핵시설]] 화재로 비상 선포",
+      "sub": "실험실 화재 진압돼…외부 오염 미발견",
+      "chips": [
+        {
+          "k": "상태",
+          "v": "비상 선포"
+        },
+        {
+          "k": "외부 오염",
+          "v": "미발견"
+        }
+      ],
+      "alt": "미국 사우스캐롤라이나 핵시설 화재로 비상 선포",
+      "map": {
+        "lat": 33.2122041,
+        "lon": -81.6223727,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n사우스캐롤라이나",
+      "video_only": true,
+      "map": {
+        "lat": 33.2122041,
+        "lon": -81.6223727,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "사우스캐롤라이나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "실험실 화재 발생",
+          "d": "사우스캐롤라이나주 핵시설 내 실험실에서 불이 나 비상사태가 선포됐습니다 (CNN·Fox News)."
+        },
+        {
+          "t": "외부 오염 미발견",
+          "d": "당국은 실험실 외부에서 오염은 확인되지 않았다고 밝혔습니다 (CNN)."
+        },
+        {
+          "t": "화재 진압 완료",
+          "d": "실험실에서 발생한 불은 진압된 것으로 전해졌습니다 (데모크라타)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우스캐롤라이나 핵시설 실험실 화재 (CNN·Fox News)",
+        "비상사태 선포 (CNN·Fox News)",
+        "외부 오염 미발견 (CNN)"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Daily Express",
+        "Daily Star",
+        "Demócrata",
+        "Fox News",
+        "2026.10.29 18:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 사우스캐롤라이나 핵시설에서 화재가 발생해 비상사태가 선포됐습니다.\n\n· 사우스캐롤라이나 핵시설 실험실에서 불이 났습니다 (CNN·Fox News).\n· 당국은 비상사태를 선포했으나 실험실 외부에서 오염은 확인되지 않았다고 밝혔습니다 (CNN).\n· 실험실 화재는 진압된 것으로 전해졌습니다 (데모크라타).\n\n출처: CNN·Fox News·데모크라타 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 사우스캐롤라이나의 한 핵시설에서 화재가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN은 사우스캐롤라이나 핵시설 실험실에 불이 나 비상사태가 선포됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "당국은 실험실 외부에서 오염은 확인되지 않았다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "화재가 발생한 정확한 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[핵시설]]에\n비상 선포된 까닭",
+  "broll": [
+    "nuclear facility",
+    "fire engine night"
+  ],
+  "place_en": "Savannah River Site, South Carolina, USA"
+}
