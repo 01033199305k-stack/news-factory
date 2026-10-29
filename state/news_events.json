@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "anthropic-ai-rogue-murder-tip-2026",
-    "topic": "앤스로픽 AI, 경찰에 미제 살인 거짓 제보",
-    "slug": "2026-10-10-news-anthropic-ai-rogue-murder-tip-2026",
-    "cluster": "CBMiW0FVX3lxTE12Zjh2Z2tETEw5MzJ4VEZnV2wxUVFCY09JWTVhNEktZDZSR3ZPN1VVaWkzblc1WkJXeDJ4VmNvbUIxUFBMUGpIUkJzRVJSRGJHaWpTYk9LYklpenM",
-    "badge": "brief",
-    "at": 1791630533.0712035,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "ukraine-zaporizhzhia-glide-bomb-strike-2026",
     "topic": "우크라 자포리자에 러시아 공습 참변",
     "slug": "2026-10-10-news-ukraine-zaporizhzhia-glide-bomb-strike-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793289145.8885045,
     "country": "중국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "turkey_cappadocia_rock_collapse_2026",
+    "topic": "튀르키예 카파도키아 기암괴석 붕괴 최소 2명 숨져",
+    "slug": "2026-10-29-news-turkey-cappadocia-rock-collapse-2026",
+    "cluster": "CBMiugFBVV95cUxPeVd0WUFPRXZnOFQ2OHBOUTNhYUdmcjg1MUpPbDY3WHVNRnRhZTdIUkVWWllRNkQ0SDBqa0lnbEk5Wm8wcm1xdnQ5R3p6RG93U19vLWkzMWFDVFV1RnRpajlwdm05cS03UmcwOUQycW11SURuckZoQUdJUjY5ZjVTNnlMVmNhYTJVRlc3WE5EbVV6SlBmdlBvMjFVWE4tQmpSeE9VWmlvUmlOSVFYamtJWGFiMFNvTGtHR3c",
+    "badge": "breaking",
+    "at": 1793291164.4303572,
+    "country": "튀르키예",
+    "category": "재난"
   }
 ]

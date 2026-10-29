@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-29-news-turkey-cappadocia-rock-collapse-2026",
+  "topic": "튀르키예 카파도키아 기암괴석 붕괴 최소 2명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 22:39 KST",
+  "source": "AP News·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiugFBVV95cUxPeVd0WUFPRXZnOFQ2OHBOUTNhYUdmcjg1MUpPbDY3WHVNRnRhZTdIUkVWWllRNkQ0SDBqa0lnbEk5Wm8wcm1xdnQ5R3p6RG93U19vLWkzMWFDVFV1RnRpajlwdm05cS03UmcwOUQycW11SURuckZoQUdJUjY5ZjVTNnlMVmNhYTJVRlc3WE5EbVV6SlBmdlBvMjFVWE4tQmpSeE9VWmlvUmlOSVFYamtJWGFiMFNvTGtHR3c",
+    "related": [
+      [
+        "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 2",
+        "AP News"
+      ],
+      [
+        "A rock formation collapse in Turkey’s touristic Cappadocia region kills at least 3",
+        "CNN"
+      ],
+      [
+        "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+        "BBC"
+      ],
+      [
+        "Three dead in rock spire collapse at Turkey's touristic Cappadocia",
+        "Yahoo"
+      ],
+      [
+        "At least two killed as rock spire collapses at tourist hotspot in Turkey after heavy rain triggered landslide",
+        "The Sun"
+      ]
+    ],
+    "event_key": "turkey_cappadocia_rock_collapse_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "튀르키예 [[카파도키아]] 기암괴석 붕괴\n최소 [[2명]] 숨져",
+      "sub": "폭우로 인한 산사태가 원인으로 보도됐습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2~3명"
+        },
+        {
+          "k": "원인",
+          "v": "폭우·산사태"
+        }
+      ],
+      "alt": "튀르키예 카파도키아 기암괴석 붕괴 최소 2명 숨져",
+      "map": {
+        "lat": 38.6386124,
+        "lon": 34.8455184,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "튀르키예"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "튀르키예\n카파도키아",
+      "video_only": true,
+      "map": {
+        "lat": 38.6386124,
+        "lon": 34.8455184,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카파도키아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "관광 명소",
+          "d": "관광객이 찾는 튀르키예 카파도키아 지역에서 사고가 발생했습니다 (AP 통신)."
+        },
+        {
+          "t": "산사태 발생",
+          "d": "폭우로 산사태가 발생해 바위 첨탑이 무너졌습니다 (The Sun)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망자 수 매체별 집계 차이 있음 (2~3명) (AP·CNN)",
+        "카파도키아 관광지 바위 붕괴 (BBC)"
+      ],
+      "unconfirmed": [
+        "추가 사상자 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "CNN",
+        "The Sun",
+        "Yahoo",
+        "2026.10.30 01:25 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 튀르키예 카파도키아 기암괴석 붕괴로 최소 2명 숨져\n\n· 폭우로 인한 산사태가 바위 붕괴를 일으켰습니다 (The Sun)\n· 사망자 수는 매체에 따라 2명에서 3명으로 보도되고 있습니다 (AP·CNN)\n\n출처: AP 통신·CNN·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "튀르키예 카파도키아 관광 명소에서 바위가 무너져 최소 2명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "더 선 등 외신은 폭우로 산사태가 발생하면서 바위가 붕괴했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "일부 매체는 사망자가 3명이라고 보도해 정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "튀르키예 [[카파도키아]]에서\n무슨 일이?",
+  "broll": [
+    "rock formation landscape",
+    "tourist destination mountains"
+  ],
+  "place_en": "Cappadocia, Turkey"
+}
