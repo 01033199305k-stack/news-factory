@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-10-29-news-italy-dolomites-ww1-munitions-exposed-2026",
-    "event_ms": 1793281320000,
-    "category": "재난",
+    "slug": "2026-10-29-news-hong-kong-taipo-fire-reforms-2026",
+    "event_ms": 1793282969000,
+    "category": "폭발·화재",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 이탈리아 돌로미티 빙하 녹아내리며 1차 세계대전 폭발물 250여 개 노출\n\n· 녹은 빙하 속에서 폭발물들이 발견됐습니다 (타임스오브인디아·CNN)\n· 당국은 노출된 폭발물들을 제거했습니다 (가디언·기즈모도)\n\n출처: 타임스오브인디아·CNN·가디언 보도 종합",
+    "text": "[속보] 홍콩 대형 화재로 168명 사망… 주택국장 사임\n\n· 화재 조사에서 관리 소홀이 드러나며 주택국장이 사임했습니다 (FOX2548 & WIProud)\n· 홍콩 정부는 화재 이후 건물 공사 입찰 담합을 형사 처벌하기로 했습니다 (MLex)\n· 홍콩 수장이 대형 화재에 대해 공식 사과했습니다 (NBC News)\n\n출처: NBC News·MLex·China Daily Global Edition·FOX2548 & WIProud 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
-      "재난",
-      "이탈리아"
+      "폭발화재",
+      "중국"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,23 +25,19 @@
     ],
     "done": {
       "threads": {
-        "id": "18170021035471164",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfFWS_NkfLn",
+        "id": "17962553156997471",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfFX6JnlqLk",
         "kind": "carousel",
-        "at": 1793288347
+        "at": 1793289204
       },
       "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (재난)",
-        "at": 1793288470
-      },
-      "instagram": {
-        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
-        "at": 1793288956
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1793289325
       }
     },
     "attempts": {
-      "instagram": 3,
-      "tiktok": 2
+      "instagram": 1,
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

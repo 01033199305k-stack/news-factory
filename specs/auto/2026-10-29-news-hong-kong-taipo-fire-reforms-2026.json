@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-29-news-hong-kong-taipo-fire-reforms-2026",
+  "topic": "홍콩 대형 화재로 168명 사망 주택국장 사임",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 23:09 KST",
+  "source": "NBC News·China Daily Global Edition·FOX2548 & WIProud 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxPUV9nbVRLUVFVZE1sUGd2WFV6WlRHV3pYNy1oLTI1MlJaWjFCUXRKT0pSZWgzYXlBaVZvc1NhLTA4X2M5dmxMUmdnNjdxa0NKTUtlWFdZTGRyZXcxdldwTU9qOTZSUVlxTVdtc3RaTjNlTVBlUmVBbFZ2ZWJ2M2c1RUdCaWNjYlhwRk9FZnhLenBQOVBpSmM1UVRDOTdZdG9sdFJUa3VCR0tEZjVQbWRqUmFrRQ",
+    "related": [
+      [
+        "Hong Kong leader apologizes for deadly fire that tested Beijing’s grip on city",
+        "NBC News"
+      ],
+      [
+        "Hong Kong to criminalize bid rigging in building works after fire kills 168",
+        "MLex"
+      ],
+      [
+        "HKSAR unveils reforms after Tai Po fire inquiry",
+        "China Daily Global Edition"
+      ],
+      [
+        "Hong Kong’s housing minister resigns after fire investigation finds inadequate oversight",
+        "FOX2548 & WIProud"
+      ]
+    ],
+    "event_key": "hong_kong_taipo_fire_reforms_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "홍콩 대형 화재로 [[168명]] 사망\n주택국장 사임",
+      "sub": "타이포 화재 조사 결과 관리 소홀 지적",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "168명"
+        }
+      ],
+      "alt": "홍콩 대형 화재로 168명 사망 주택국장 사임",
+      "map": {
+        "lat": 22.4494017,
+        "lon": 114.1711328,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n홍콩 타이포",
+      "video_only": true,
+      "map": {
+        "lat": 22.4494017,
+        "lon": 114.1711328,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "홍콩 타이포"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주택국장 사임",
+          "d": "화재 조사에서 관리 소홀이 드러나며 주택국장이 사임했습니다 (FOX2548 & WIProud)."
+        },
+        {
+          "t": "건축 담합 처벌",
+          "d": "홍콩 정부는 화재 이후 건물 공사 입찰 담합을 형사 처벌하기로 했습니다 (MLex)."
+        },
+        {
+          "t": "정부 사과",
+          "d": "홍콩 수장이 대형 화재에 대해 공식 사과했습니다 (NBC News)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 168명 (MLex)",
+        "주택국장 사임 (FOX2548 & WIProud)",
+        "입찰 담합 형사처벌 추진 (MLex)"
+      ],
+      "unconfirmed": [
+        "정확한 화재 발생 원인",
+        "추가 책임자 처벌 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "China Daily Global Edition",
+        "FOX2548 & WIProud",
+        "MLex",
+        "NBC News",
+        "2026.10.30 00:52 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 홍콩 대형 화재로 168명 사망… 주택국장 사임\n\n· 화재 조사에서 관리 소홀이 드러나며 주택국장이 사임했습니다 (FOX2548 & WIProud)\n· 홍콩 정부는 화재 이후 건물 공사 입찰 담합을 형사 처벌하기로 했습니다 (MLex)\n· 홍콩 수장이 대형 화재에 대해 공식 사과했습니다 (NBC News)\n\n출처: NBC News·MLex·China Daily Global Edition·FOX2548 & WIProud 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "홍콩에서 발생한 대형 화재로 168명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 화재 조사 결과 관리 소홀이 지적되면서 주택국장이 사임했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "홍콩 정부는 건물 공사 입찰 담합을 형사 처벌하는 개혁안을 발표했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "홍콩 대형 화재\n[[168명]] 사망",
+  "broll": [
+    "hong kong city street",
+    "residential building exterior"
+  ],
+  "place_en": "Tai Po, Hong Kong"
+}

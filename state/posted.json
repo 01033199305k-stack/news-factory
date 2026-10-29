@@ -28542,5 +28542,57 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793286827
+  },
+  {
+    "slug": "2026-10-29-news-italy-dolomites-ww1-munitions-exposed-2026",
+    "event_ms": 1793281320000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이탈리아 돌로미티 빙하 녹아내리며 1차 세계대전 폭발물 250여 개 노출\n\n· 녹은 빙하 속에서 폭발물들이 발견됐습니다 (타임스오브인디아·CNN)\n· 당국은 노출된 폭발물들을 제거했습니다 (가디언·기즈모도)\n\n출처: 타임스오브인디아·CNN·가디언 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "이탈리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18170021035471164",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfFWS_NkfLn",
+        "kind": "carousel",
+        "at": 1793288347
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1793288470
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793288956
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6ae36c74f3a8aff3f356e4ca): There appears to be an issue with the attached media or link attachment. This could be due to the file being too large or connection timing out. Please try removing the media or link attachment and try the post again.",
+        "at": 1793289452
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793289452
   }
 ]
