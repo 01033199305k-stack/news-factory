@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "canada_assisted_dying_mental_illness_2026",
-    "topic": "캐나다, 정신 질환자 조력 사망 보류",
-    "slug": "2026-10-10-news-canada-assisted-dying-mental-illness-2026",
-    "cluster": "CBMiekFVX3lxTE5CaHBlTzZyV0NnWHRUTlI2bnJmZWxSd1MtWnVncDR4d3ByRm9IdE10MTNGLVNLc3o0Wll0c3pKY3lTMm5SZUlzMjVmeHB6MDRqdzdtXzQySU11QUtqRnRjSGNtbnczLUNrRE9UdkhkT3MxOWVhMktxMUVR",
-    "badge": "breaking",
-    "at": 1791562962.5717857,
-    "country": "캐나다",
-    "category": "국제"
-  },
-  {
     "event_key": "palestine_elections_postponed_2026",
     "topic": "팔레스타인 자치정부 20년 만의 총선 연기",
     "slug": "2026-10-09-news-palestine-elections-postponed-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793229445.4170308,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "alphabet_shares_sell_off_earnings_2026",
+    "topic": "알파벳 주가 10% 급락 검색 매출 성장 둔화 여파",
+    "slug": "2026-10-29-news-alphabet-shares-sell-off-earnings-2026",
+    "cluster": "CBMid0FVX3lxTE5SalhOeEdhMFUtUWRnVl90YWlHLU90SGt2cmJ2b1Y4aDRmRVZJV3VGS3haNkpEa28wcDMzbGR4dTRtZnNvbUM1WDBDeGtsUkNIN1dOUDdtNXgzV0xaZ3R5ZTk4SEhmRzYyR0dtcGp4RFFEVHA3YzNZ0gF8QVVfeXFMT25jby1VNlpYNGp3ekVGUEVKd29Lanc1bndoVFluRGk0WmhrU08zNDVpVFhOazVlMVE5RkhadGM4VEFhaWREaXJpb09WR0U2LVNHVXBma2NpWHNKUURmVi1hZXNqRXlrZGNUMndNZlFzV2JIdEJfa1hNTkNjYQ",
+    "badge": "breaking",
+    "at": 1793240979.1148677,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

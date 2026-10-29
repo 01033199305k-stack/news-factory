@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-29-news-alphabet-shares-sell-off-earnings-2026",
+  "topic": "알파벳 주가 10% 급락 검색 매출 성장 둔화 여파",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 10:54 KST",
+  "source": "Bloomberg·WSJ·CNBC 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE5SalhOeEdhMFUtUWRnVl90YWlHLU90SGt2cmJ2b1Y4aDRmRVZJV3VGS3haNkpEa28wcDMzbGR4dTRtZnNvbUM1WDBDeGtsUkNIN1dOUDdtNXgzV0xaZ3R5ZTk4SEhmRzYyR0dtcGp4RFFEVHA3YzNZ0gF8QVVfeXFMT25jby1VNlpYNGp3ekVGUEVKd29Lanc1bndoVFluRGk0WmhrU08zNDVpVFhOazVlMVE5RkhadGM4VEFhaWREaXJpb09WR0U2LVNHVXBma2NpWHNKUURmVi1hZXNqRXlrZGNUMndNZlFzV2JIdEJfa1hNTkNjYQ",
+    "related": [
+      [
+        "Nasdaq-100 futures dip as Alphabet shares sell off after earnings report: Live updates",
+        "CNBC"
+      ],
+      [
+        "Alphabet sinks 10% as it holds 2026 capex unchanged, expects significant increase in 2027",
+        "CNBC"
+      ],
+      [
+        "Google Q3 sales fall short of expectations, stock plunges",
+        "Yahoo Finance"
+      ],
+      [
+        "Alphabet Shares Tank on Sales Misses Across Core Businesses",
+        "Bloomberg"
+      ],
+      [
+        "Google Shares Fall 10% as Growth in Search Revenue Slows",
+        "WSJ"
+      ]
+    ],
+    "event_key": "alphabet_shares_sell_off_earnings_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "알파벳 주가 [[10%]] 급락\n검색 매출 성장 둔화 여파",
+      "sub": "구글 3분기 매출 예상치 밑돌아",
+      "chips": [
+        {
+          "k": "주가",
+          "v": "10% 하락"
+        }
+      ],
+      "alt": "알파벳 주가 10% 급락 검색 매출 성장 둔화 여파",
+      "map": {
+        "lat": 37.3893889,
+        "lon": -122.0832101,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n마운틴뷰",
+      "video_only": true,
+      "map": {
+        "lat": 37.3893889,
+        "lon": -122.0832101,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마운틴뷰"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "매출 부진",
+          "d": "구글의 3분기 매출이 예상치에 미치지 못했다고 CNBC 등이 보도했습니다."
+        },
+        {
+          "t": "자본 지출",
+          "d": "알파벳은 2026년 자본 지출을 유지하면서 2027년에는 크게 증가할 것으로 예상한다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "주가 10% 하락 (CNBC·WSJ)",
+        "핵심 사업 매출 미달 (Bloomberg·야후 파이낸스)"
+      ],
+      "unconfirmed": [
+        "정확한 향후 실적 전망",
+        "추가 자본 지출 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg",
+        "CNBC",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.10.29 11:29 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 알파벳 주가 10% 급락\n검색 매출 성장 둔화 여파\n\n· 구글 3분기 매출이 시장 예상치를 밑돌았습니다 (CNBC·야후 파이낸스)\n· 핵심 사업 매출 부진으로 주가가 떨어졌습니다 (Bloomberg·WSJ)\n· 알파벳은 2026년 자본 지출을 유지하고 2027년에는 증가할 것으로 예상했습니다 (CNBC)\n\n이번 알파벳 실적 부진이 글로벌 기술주에 미칠 영향, 어떻게 보십니까?\n\n출처: CNBC·Bloomberg·WSJ·야후 파이낸스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "구글 모기업 알파벳의 주가가 10% 급락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "3분기 매출이 예상치를 밑돌았다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "검색 매출 성장이 둔화되면서 핵심 사업 매출이 부진했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "알파벳은 2027년 자본 지출이 크게 증가할 것이라고 예상했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 향후 실적 전망은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 알파벳 실적 부진을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "실적 부진 영향"
+    }
+  ],
+  "hook": "구글 모기업 [[알파벳]] 주가가\n폭락한 이유는?",
+  "broll": [
+    "stock exchange screen",
+    "computer monitor code"
+  ],
+  "place_en": "Mountain View, California"
+}
