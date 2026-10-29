@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-29-news-ecb-president-christine-lagarde-resigns-early-2026",
+  "topic": "크리스틴 라가르드 ECB 총재 조기 사임",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 22:37 KST",
+  "source": "Reuters·The Economist·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxQMmhhd2Zxb2hFMmlvTk9vSWhySGhJZWszVmx5T0M0TlE1TEMwTVowcFpXZDVpQVlGSjBPeEdhSVUtOE4tMk42N3JxN1BhR29JVDVBSF9HQUJydGFrRnFnMXkwRHZSX3N3c2xtdVNNSWl3OFZIYzFuakh0NklJRy1RbVQ3Nm9EcTNMbFppc0lLdkdSUTQ5N2pheU04NFltcmpyZWYtT2psRk9QQ1hZOUpYd2QzbjlvZkhuSmtPbA",
+    "related": [
+      [
+        "ECB President Christine Lagarde to step down in February 2027",
+        "Euronews.com"
+      ],
+      [
+        "ECB President Lagarde resigns at time of mounting challenges for Europe",
+        "Reuters"
+      ],
+      [
+        "Christine Lagarde to Resign Early as ECB President",
+        "WSJ"
+      ],
+      [
+        "European bonds and stocks rally; ECB meeting in focus as Lagarde confirms early exit",
+        "Yahoo Finance"
+      ],
+      [
+        "Christine Lagarde departs at a moment of peril",
+        "The Economist"
+      ]
+    ],
+    "event_key": "ecb_president_christine_lagarde_resigns_early_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "크리스틴 [[라가르드]]\nECB 총재 조기 사임",
+      "sub": "유럽중앙은행 수장 2027년 2월 중도 퇴임 결정",
+      "chips": [
+        {
+          "k": "퇴임 예정",
+          "v": "2027년 2월"
+        }
+      ],
+      "alt": "크리스틴 라가르드 ECB 총재 조기 사임",
+      "map": {
+        "lat": 50.1106444,
+        "lon": 8.6820917,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n프랑크푸르트",
+      "video_only": true,
+      "map": {
+        "lat": 50.1106444,
+        "lon": 8.6820917,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "프랑크푸르트"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "조기 사임 공식화",
+          "d": "로이터와 WSJ 등은 라가르드 총재가 임기를 다 채우지 않고 2027년 2월 물러난다고 보도했습니다."
+        },
+        {
+          "t": "유럽 금융시장 반응",
+          "d": "야후 파이낸스는 조기 사임 소식 이후 유럽 채권과 주식 시장이 상승세를 보였다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "크리스틴 라가르드 ECB 총재 조기 사임",
+        "2027년 2월 퇴임 일정"
+      ],
+      "unconfirmed": [
+        "차기 유럽중앙은행(ECB) 총재 후보"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Euronews.com",
+        "Reuters",
+        "The Economist",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.10.29 23:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 크리스틴 라가르드 유럽중앙은행(ECB) 총재가 조기 사임합니다.\n\n· 로이터와 WSJ 등은 라가르드 총재가 2027년 2월에 자리에서 물러난다고 전했습니다.\n· 야후 파이낸스는 사임 소식이 전해진 뒤 유럽 증시와 채권 시장이 반등했다고 보도했습니다.\n· 차기 유럽중앙은행 총재 후보와 후임 인선 일정은 아직 공개되지 않았습니다.\n\n유럽 통화정책을 이끌어온 수장의 조기 퇴임, 어떻게 보십니까?\n출처: 유로뉴스·로이터·WSJ·야후파이낸스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "크리스틴 라가르드 유럽중앙은행 총재가 조기 사임을 공식화했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터와 WSJ은 라가르드 총재가 2027년 2월에 물러난다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "차기 유럽중앙은행 총재가 누가 될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "유럽 경제의 큰 변수가 될 이번 결정, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "유럽중앙은행\n[[수장 교체]], 왜?",
+  "broll": [
+    "central bank building",
+    "stock exchange screen"
+  ],
+  "place_en": "Frankfurt, Germany"
+}
