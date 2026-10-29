@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-30-news-bulgaria-black-sea-container-ship-drone-attack-2026",
+  "topic": "불가리아 해상서 컨테이너선 드론 공격 받아 침몰",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 02:21 KST",
+  "source": "AP News·Reuters·Defense News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxQZDBoQmhOeXpHRkV2bGdQRVY0dWpCdG9wSk1rM2hvSmhLYmpXOFNYYU9ONTFaVmwybDBNTmQ1bTItWXByOW80YzVObnJUamFzc1VBbTB4cHJ3Z19QWHQ2a1lfSGt2X0NVWEJaVWY0XzNyNFMxU3YzOTFpUmMxNkhfTWhoSkhWRTR6TkZMbTJ2dlZJbHEyeHFsYmNseFZNX1NkVF9nQUw1S0NoU2c",
+    "related": [
+      [
+        "Greek container ship sinks after drone attack off Bulgaria",
+        "Reuters"
+      ],
+      [
+        "Drones strike a container ship off Bulgaria's Black Sea coast and its crew members are rescued",
+        "AP News"
+      ],
+      [
+        "NATO’s Black Sea nations decry Ukraine war spillover endangering commercial ship traffic",
+        "Defense News"
+      ],
+      [
+        "Naval drones sink Greek container ship sailing from Israel off Bulgaria's coast",
+        "Ynetnews"
+      ],
+      [
+        "ZIM-operated ship sinks in Black Sea after drone strike",
+        "Globes - Israel Business News"
+      ]
+    ],
+    "event_key": "bulgaria_black_sea_container_ship_drone_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "불가리아 해상서 컨테이너선\n[[드론 공격]] 받아 침몰",
+      "sub": "이스라엘 출발 그리스 선박 피격",
+      "chips": [
+        {
+          "k": "승조원",
+          "v": "구조"
+        }
+      ],
+      "alt": "불가리아 해상서 컨테이너선 드론 공격 받아 침몰",
+      "map": {
+        "lat": 42.7088042,
+        "lon": 27.7185938,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "불가리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "불가리아\n흑해",
+      "video_only": true,
+      "map": {
+        "lat": 42.7088042,
+        "lon": 27.7185938,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "흑해"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "그리스 선박",
+          "d": "이스라엘을 떠나 항해하던 그리스 선박이 공격을 받았습니다 (로이터·AP통신)."
+        },
+        {
+          "t": "승조원 구조",
+          "d": "승조원들은 구조됐습니다 (AP통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "불가리아 앞바다 흑해 해상",
+        "컨테이너선 침몰 및 승조원 구조"
+      ],
+      "unconfirmed": [
+        "공격 주체",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Defense News",
+        "Globes - Israel Business News",
+        "Reuters",
+        "Ynetnews",
+        "2026.10.30 03:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 불가리아 해상서 컨테이너선이 드론 공격으로 침몰했습니다\n\n· 이스라엘을 떠나 항해하던 그리스 선박이 피격됐습니다 (로이터·AP통신)\n· 승조원들은 구조됐습니다 (AP통신)\n\n출처: 로이터·AP통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "불가리아 흑해 해상에서 컨테이너선이 드론 공격을 받아 침몰했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP통신은 이스라엘을 떠나 항해하던 그리스 선박이 피격됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "승조원들은 구조됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격 주체는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "불가리아 해상서\n[[컨테이너선]] 피격",
+  "broll": [
+    "cargo ship sea",
+    "black sea water"
+  ],
+  "place_en": "Black Sea, Bulgaria"
+}

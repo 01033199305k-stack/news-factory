@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-zaporizhzhia-glide-bomb-strike-2026",
-    "topic": "우크라 자포리자에 러시아 공습 참변",
-    "slug": "2026-10-10-news-ukraine-zaporizhzhia-glide-bomb-strike-2026",
-    "cluster": "CBMiXkFVX3lxTE40U01GLWhnSGZ5aHJobXRYMFpDa21RNDMwTHkzSlg3aXJJXzZfbjgyTlU2YWtTRnBGTzQxZnVsNTlTMk1rOEROYXI4UG1WVERVSzhrWHN1MWlmRzBJNXc",
-    "badge": "breaking",
-    "at": 1791634097.2132723,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "italy-sicily-tornado-damage-2026",
     "topic": "伊 시칠리아 강타한 쌍둥이 토네이도",
     "slug": "2026-10-10-news-italy-sicily-tornado-damage-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793291164.4303572,
     "country": "튀르키예",
     "category": "재난"
+  },
+  {
+    "event_key": "bulgaria_black_sea_container_ship_drone_attack_2026",
+    "topic": "불가리아 해상서 컨테이너선 드론 공격 받아 침몰",
+    "slug": "2026-10-30-news-bulgaria-black-sea-container-ship-drone-attack-2026",
+    "cluster": "CBMiqwFBVV95cUxQZDBoQmhOeXpHRkV2bGdQRVY0dWpCdG9wSk1rM2hvSmhLYmpXOFNYYU9ONTFaVmwybDBNTmQ1bTItWXByOW80YzVObnJUamFzc1VBbTB4cHJ3Z19QWHQ2a1lfSGt2X0NVWEJaVWY0XzNyNFMxU3YzOTFpUmMxNkhfTWhoSkhWRTR6TkZMbTJ2dlZJbHEyeHFsYmNseFZNX1NkVF9nQUw1S0NoU2c",
+    "badge": "breaking",
+    "at": 1793297359.2099175,
+    "country": "불가리아",
+    "category": "사고"
   }
 ]
