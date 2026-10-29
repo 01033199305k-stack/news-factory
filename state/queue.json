@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-30-news-us-q3-gdp-growth-3-4-percent-2026",
+    "event_ms": 1793308095336,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 3분기 GDP 성장률 3.4% 기록\n\n· 미국 3분기 GDP 증가율이 3.4%로 집계되어 시장 전망을 상회했습니다 (CNBC·아시오스)\n· 견조한 소비 지출과 AI 관련 투자 확대가 성장을 견인했습니다 (로이터·NYT)\n\n미국 경제의 예상 밖 호조세, 향후 금리 정책에 어떤 영향을 미칠까요?\n\n출처: 로이터·NYT·CNBC·NPR·아시오스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18403988572201660",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfF8DkyCSTR",
+        "kind": "carousel",
+        "at": 1793308144
+      },
+      "youtube": {
+        "id": "I1IOHjpePIE",
+        "permalink": "https://youtube.com/shorts/I1IOHjpePIE",
+        "kind": "shorts",
+        "at": 1793308265
+      },
+      "tiktok": {
+        "id": "7702200402938252562",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702200402938252562",
+        "kind": "video",
+        "at": 1793308396
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]

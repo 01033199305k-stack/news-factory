@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-30-news-us-q3-gdp-growth-3-4-percent-2026",
+  "topic": "미국 3분기 GDP 3.4% 상승 소비·AI 투자 호조 영향",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 05:29 KST",
+  "source": "Axios·NPR·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU",
+    "related": [
+      [
+        "Robust consumer spending, AI-related investment power US economy in third quarter",
+        "Reuters"
+      ],
+      [
+        "Consumers and A.I. Spending Push U.S. Economic Growth Higher",
+        "The New York Times"
+      ],
+      [
+        "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+        "CNBC"
+      ],
+      [
+        "With days to go before the midterms, data shows the U.S. economy is doing well",
+        "NPR"
+      ],
+      [
+        "U.S. economy races ahead with 3.4% growth in third quarter",
+        "Axios"
+      ]
+    ],
+    "event_key": "us_q3_gdp_growth_3_4_percent_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 3분기 [[GDP 3.4%]] 상승\n소비·AI 투자 호조 영향",
+      "sub": "시장 전망치를 웃돌며 강한 경제 성장세를 이어갔습니다.",
+      "chips": [
+        {
+          "k": "성장률",
+          "v": "3.4%"
+        },
+        {
+          "k": "분기",
+          "v": "3분기"
+        }
+      ],
+      "alt": "미국 3분기 GDP 3.4% 상승 소비·AI 투자 호조 영향",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "3분기 GDP 3.4% 증가",
+          "d": "미국 3분기 실질 국내총생산(GDP) 증가율이 3.4%를 기록했습니다 (CNBC·아시오스)."
+        },
+        {
+          "t": "소비·AI 투자가 견인",
+          "d": "견조한 소비 지출과 AI 관련 투자 확대가 성장을 이끌었습니다 (로이터·NYT)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 3분기 GDP 3.4% 증가",
+        "소비 지출 및 AI 투자 확대"
+      ],
+      "unconfirmed": [
+        "4분기 인플레이션 및 금리 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Axios",
+        "CNBC",
+        "NPR",
+        "Reuters",
+        "The New York Times",
+        "2026.10.30 06:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 3분기 GDP 성장률 3.4% 기록\n\n· 미국 3분기 GDP 증가율이 3.4%로 집계되어 시장 전망을 상회했습니다 (CNBC·아시오스)\n· 견조한 소비 지출과 AI 관련 투자 확대가 성장을 견인했습니다 (로이터·NYT)\n\n미국 경제의 예상 밖 호조세, 향후 금리 정책에 어떤 영향을 미칠까요?\n\n출처: 로이터·NYT·CNBC·NPR·아시오스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국의 올해 3분기 GDP 성장률이 3.4%를 기록했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 소비 지출과 AI 관련 투자가 성장을 끌어올렸다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "시장 전망치를 웃도는 수치로 강한 성장세를 보였습니다.",
+      "card": "points"
+    },
+    {
+      "text": "물가 상승과 향후 금리 정책에 미칠 영향은 지켜봐야 합니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미국 경제 지표를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 [[경제 성장률]]\n예상 밖 결과",
+  "broll": [
+    "stock exchange screen",
+    "wall street street sign"
+  ],
+  "place_en": "Washington, D.C., USA"
+}

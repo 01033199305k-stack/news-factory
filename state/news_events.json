@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "italy-sicily-tornado-damage-2026",
-    "topic": "伊 시칠리아 강타한 쌍둥이 토네이도",
-    "slug": "2026-10-10-news-italy-sicily-tornado-damage-2026",
-    "cluster": "CBMikgFBVV95cUxOTWRKcEppUHd4VVNDeGxUcV93STlFd3ZVb0tCcElrb096dGtqXzJPd3ZFSUpfRmw4T0QyVzBIeXRZNmN6Nm5ORDVRUFJIWi1jZF80emJuMGt3Z0pTQUVtdlFzRHdzeEdHWmdrd19CZVBCZ25uLXlzWnVzbVVWdmxFMXhZVzZqWmZKTmVZNHZpRFJfZw",
-    "badge": "breaking",
-    "at": 1791634161.4595647,
-    "country": "이탈리아",
-    "category": "재난"
-  },
-  {
     "event_key": "hurricane-simon-mexico-category-4-2026",
     "topic": "4등급 허리케인 사이먼 멕시코 해안 접근",
     "slug": "2026-10-10-news-hurricane-simon-mexico-category-4-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793297359.2099175,
     "country": "불가리아",
     "category": "사고"
+  },
+  {
+    "event_key": "us_q3_gdp_growth_3_4_percent_2026",
+    "topic": "미국 3분기 GDP 3.4% 상승 소비·AI 투자 호조 영향",
+    "slug": "2026-10-30-news-us-q3-gdp-growth-3-4-percent-2026",
+    "cluster": "CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU",
+    "badge": "brief",
+    "at": 1793308095.33651,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
