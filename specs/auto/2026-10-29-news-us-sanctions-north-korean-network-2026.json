@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-29-news-us-sanctions-north-korean-network-2026",
+  "topic": "미국 정부, 미국 기업 침투한 북한 네트워크 제재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 11:09 KST",
+  "source": "CBS News·NBC News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwgFBVV95cUxPSFBwd05zdzczbzhraDVqaWc4ZTI1SWtvSFo0ZUpMS3VjUno4NTNDbUJpdUp5aF9TR01RN0xCSWpEMGFQaTJVZ1dxRkFZYWx0bDRYYzh3Q2VHUUR6X2lVeTJjRzFsYnhieG53NlBrUVdfOXVtMGxtZEJrejlCUURYUlRUTE85ZnhXY1FjclpQRElmb3B0dkFTM3VibFFXWXRCMEc2eGR5cGRZVHZJTHM3X3BWS0ZudTdZOWkxbUNZUWkxQdIBxwFBVV95cUxQdDcwdmphUkhNWU5neVJvaTJxZGd3cTJ1R3FHNnJhcmJpeXhzWkhHWHVOQl82Wm0tTGdLdURBMFpOeldTNTRkM0lxRmFzWUN2Wm5mS2l2Mm9fSlg1dGJQQ0VHbXd6aFBfOU55Q3c1Z2NrTlN4NU81dEhzZU9qVDE4UEMyWHhnclZtSG5lbGhndlFIbDU0aEUxWDhPZDhCMm1feXZNYkRJdTZZT3JRbEM3RFowYmY1bWVSZUVyRGp5eF9xNUl4cUxJ",
+    "related": [
+      [
+        "Trump administration sanctions North Korean network accused of infiltrating US companies",
+        "Fox Business"
+      ],
+      [
+        "North Korea targeting cash-strapped Americans in expanding job scam: FBI",
+        "KTLA"
+      ],
+      [
+        "Treasury sanctions 10 North Koreans and Russians over IT worker fraud scheme",
+        "CBS News"
+      ],
+      [
+        "US sanctions North Korean network accused of defrauding businesses",
+        "Reuters"
+      ],
+      [
+        "U.S. imposes new North Korea sanctions amid stalled diplomatic talks",
+        "NBC News"
+      ]
+    ],
+    "event_key": "us_sanctions_north_korean_network_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 정부, [[미국 기업]] 침투한\n북한 네트워크 제재",
+      "sub": "재무부, IT 인력 사기 연루 10명 제재",
+      "chips": [
+        {
+          "k": "제재 대상",
+          "v": "10명"
+        },
+        {
+          "k": "관련국",
+          "v": "북한·러시아"
+        }
+      ],
+      "alt": "미국 정부, 미국 기업 침투한 북한 네트워크 제재",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미국 기업 침투",
+          "d": "미국 기업에 침투하거나 사기를 친 혐의를 받는 북한 네트워크를 대상으로 제재를 부과했습니다 (Fox Business·Reuters)."
+        },
+        {
+          "t": "IT worker 사기",
+          "d": "재무부는 IT 인력 사기 행각에 연루된 북한인과 러시아인 10명을 제재했습니다 (CBS News)."
+        },
+        {
+          "t": "FBI 경고",
+          "d": "FBI는 북한이 자금이 부족한 미국인들을 겨냥해 구직 사기를 확대하고 있다고 밝혔습니다 (KTLA)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "북한 네트워크 및 IT 인력 사기 연루 북한인·러시아인 10명 제재",
+        "미국 재무부 제재 부과 및 FBI 발표"
+      ],
+      "unconfirmed": [
+        "외교적 대화 재개 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Fox Business",
+        "KTLA",
+        "NBC News",
+        "Reuters",
+        "2026.10.29 14:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 정부, 미국 기업에 침투한 혐의를 받는 북한 네트워크를 제재했습니다\n\n· 재무부, IT 인력 사기 행각에 연루된 북한인과 러시아인 10명 제재 (CBS News)\n· FBI, 북한이 자금이 부족한 미국인들을 겨냥해 구직 사기를 확대하고 있다고 경고 (KTLA)\n\n🇰🇷 북한 네트워크를 겨냥한 이번 제재 조치, 여러분은 어떻게 보십니까?\n\n출처: Fox Business·KTLA·CBS News·Reuters·NBC News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 미국 기업에 침투한 북한 네트워크를 제재했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS는 재무부가 IT 사기에 연루된 10명을 제재했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "FBI는 북한이 구직 사기를 확대하고 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국의 이번 대북 제재 조치, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 [[북한 네트워크]]를\n상대로 내린 조치는?",
+  "broll": [
+    "us department of the treasury seal",
+    "fbi headquarters building exterior"
+  ],
+  "place_en": "Washington, D.C., USA"
+}

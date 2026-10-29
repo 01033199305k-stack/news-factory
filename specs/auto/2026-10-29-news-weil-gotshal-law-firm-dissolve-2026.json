@@ -1,0 +1,152 @@
+{
+  "slug": "2026-10-29-news-weil-gotshal-law-firm-dissolve-2026",
+  "topic": "대형 로펌 웨일 것셜, 법무법인 해산 추진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.29 12:25 KST",
+  "source": "CNN·The Economist·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimAFBVV95cUxONFUyQVI3VGZ3WF9abnJQX01sMVB6djByZDBvZzlETVhXWWlWbDNrWDVMeDZYUXlWd1BNbG00aTM0N0ZBbzQ4TWlsQ05BSWx4Z0NBbWVtN1hiQlNzZGVPbTUwT29zSWZjbnBtNGQ3dUtTMjFUVmZTZHV1TzJTRjJCUGVOdlFnSmhzVXgtRnZPYll6R20ta24yQQ",
+    "related": [
+      [
+        "Exclusive | Weil Gotshal Taps AlixPartners to Steer Wind-Down",
+        "WSJ"
+      ],
+      [
+        "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
+        "The New York Times"
+      ],
+      [
+        "Law firm that handled Lehman, Enron bankruptcies plans to wind down",
+        "CNN"
+      ],
+      [
+        "Weil’s collapse and the death of corporate loyalty",
+        "The Economist"
+      ],
+      [
+        "Asia Legal Briefing: Weil's Unraveling Is a Warning for Big Law in Asia",
+        "Law.com"
+      ]
+    ],
+    "event_key": "weil_gotshal_law_firm_dissolve_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "대형 로펌 [[웨일 것셜]],\n법무법인 해산 추진",
+      "sub": "알릭스파트너스 선임해 청산 절차 돌입",
+      "chips": [
+        {
+          "k": "대상 기업",
+          "v": "웨일 것셜"
+        },
+        {
+          "k": "선임 기관",
+          "v": "알릭스파트너스"
+        }
+      ],
+      "alt": "대형 로펌 웨일 것셜, 법무법인 해산 추진",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "청산 절차 진행",
+          "d": "과거 대형 파산 사건을 맡았던 로펌 웨일 것셜이 청산 절차를 밟기 위해 알릭스파트너스를 선임했습니다 (WSJ·CNN)."
+        },
+        {
+          "t": "로펌 해산 계획",
+          "d": "법조계의 거물로 꼽히던 해당 로펌이 해산을 계획하고 있습니다 (The New York Times)."
+        },
+        {
+          "t": "업계 파장",
+          "d": "이번 사태가 대형 로펌 시장에 큰 경고가 되고 있다는 분석도 나옵니다 (The Economist·Law.com)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "웨일 것셜 로펌 해산 및 청산 절차 추진",
+        "알릭스파트너스 선임"
+      ],
+      "unconfirmed": [
+        "구체적인 해산 일정 및 자산 처리 방식"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Law.com",
+        "The Economist",
+        "The New York Times",
+        "WSJ",
+        "2026.10.29 14:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 대형 로펌 웨일 것셜이 해산을 계획하고 청산 절차에 돌입했습니다\n\n· 로펌 측은 청산 관리를 위해 알릭스파트너스를 선임했습니다 (WSJ)\n· 과거 대형 파산 사건을 맡았던 거물급 로펌의 해산 소식에 업계가 주목하고 있습니다 (The New York Times·CNN·The Economist·Law.com)\n\n출처: WSJ·The New York Times·CNN·The Economist·Law.com 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "과거 대형 파산 사건을 처리했던 로펌 웨일 것셜이 해산을 추진합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "월스트리트저널은 로펌이 청산을 위해 알릭스파트너스를 선임했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 사태가 대형 로펌업계에 경고가 되고 있다는 지적도 나옵니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 청산 일정과 자산 처리 방식은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "대형 로펌의 이 같은 해산 결정, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "대형 로펌 [[웨일 것셜]]이\n해산을 추진하는 이유는?",
+  "broll": [
+    "law firm office building exterior",
+    "corporate lawyer desk documents"
+  ],
+  "place_en": "New York, USA"
+}
