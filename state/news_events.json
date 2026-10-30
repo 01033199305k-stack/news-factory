@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "hormuz-supertanker-mine-explosion-2026",
-    "topic": "호르무즈 해협서 유조선 기뢰 폭발 화재 발생",
-    "slug": "2026-10-11-news-hormuz-supertanker-mine-explosion-2026",
-    "cluster": "CBMirgFBVV95cUxQRVRnMFdZam9SUHhBejJXM3JNampibU1VNFNnU0tIYUFpTkp6LVpfa1dBaG45dU9JUDEzSkZPemxzY1RiSmhsVFRnQUViWmFObXZxUjQ2cE1YdkFTaDZUZk9yX044eGpMT2ZsUmxtR3N2cDJhOVNyb1ZSNUFyOV9qalR0OHZPeTFrZ0h4MTA1OUd2WlpPU2ViNlZuczhkUml5WTNwYl80aVhVZHc4VEHSAbYBQVVfeXFMTUtXYmVHRzM3LXZpVkF5TEJsQzJyNkowbkJVNUFrLTZScVdORXU3b3RmZzA0bGZGTm56TjBZMi1SQW8zVFNEdDRmS1hnbXFmNDZpNlNObnlFSGNGX0hPNFlyQXFrRHI1bWtWUzlvZUxqWm9uc2RNSkZFNV9lUGRfZ013dzI1OWdkSWYxQ3NZUzQwQXBjR1BIaHRWV3J5STFtRDBIX0gtU3lFUGNrYlNCME1CdlhiZnc",
-    "badge": "breaking",
-    "at": 1791701565.4818947,
-    "country": "이란",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "nepal-budhi-gandaki-flash-flood-evacuation-2026",
     "topic": "산사태 이어 돌발 홍수 네팔 북부 주민 대피령",
     "slug": "2026-10-11-news-nepal-budhi-gandaki-flash-flood-evacuation-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793358854.9453533,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "ukraine_russia_oleshky_truce_evacuation_2026",
+    "topic": "러·우크라 일시 휴전 올레슈키 주민 대피 시작",
+    "slug": "2026-10-30-news-ukraine-russia-oleshky-truce-evacuation-2026",
+    "cluster": "CBMiW0FVX3lxTFB3UkpoZS02YnR1RFJfOG03U3NnUnZaMEF3ZFgxNENoc3JLS0ZGRkYzb1ZrZTVzTEhXOG5aaTEwQ0VvbVY2Y1J5WW4ybGZKcHBveXpBT2owSmZWc0k",
+    "badge": "breaking",
+    "at": 1793365759.2013066,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

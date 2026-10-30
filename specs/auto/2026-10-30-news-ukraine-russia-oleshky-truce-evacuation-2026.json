@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-30-news-ukraine-russia-oleshky-truce-evacuation-2026",
+  "topic": "러·우크라 일시 휴전 올레슈키 주민 대피 시작",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 19:32 KST",
+  "source": "AP News·BBC·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFB3UkpoZS02YnR1RFJfOG03U3NnUnZaMEF3ZFgxNENoc3JLS0ZGRkYzb1ZrZTVzTEhXOG5aaTEwQ0VvbVY2Y1J5WW4ybGZKcHBveXpBT2owSmZWc0k",
+    "related": [
+      [
+        "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+        "BBC"
+      ],
+      [
+        "Opinion | The terrifying catch in Melania Trump’s Ukraine ceasefire",
+        "The Washington Post"
+      ],
+      [
+        "Russian Occupation Update, October 29, 2026",
+        "Institute for the Study of War"
+      ],
+      [
+        "Melania Trump-brokered evacuation begins in Ukraine amid fears over escape route",
+        "NBC News"
+      ],
+      [
+        "A rare Russia-Ukraine truce allows a humanitarian mission to reach the stricken city of Oleshky",
+        "AP News"
+      ]
+    ],
+    "event_key": "ukraine_russia_oleshky_truce_evacuation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러·우크라 [[일시 휴전]]\n올레슈키 주민 대피 시작",
+      "sub": "러시아 점령 도시서 인도주의 통로 열려",
+      "chips": [],
+      "alt": "러·우크라 일시 휴전 올레슈키 주민 대피 시작",
+      "map": {
+        "lat": 46.6260908,
+        "lon": 32.7220187,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n올레슈키",
+      "video_only": true,
+      "map": {
+        "lat": 46.6260908,
+        "lon": 32.7220187,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "올레슈키"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이례적 일시 휴전 합의",
+          "d": "러시아와 우크라이나가 이례적인 일시 휴전에 합의하면서 구호 활동이 시작됐습니다 (AP)."
+        },
+        {
+          "t": "주민 대피 통로 가동",
+          "d": "러시아 점령지인 올레슈키에 대피 통로가 열리며 피해 지역 주민들이 빠져나오기 시작했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아·우크라이나 간 일시 휴전 성립",
+        "올레슈키 주민 대피 통로 개통"
+      ],
+      "unconfirmed": [
+        "정확한 대피 인원 규모",
+        "대피로의 지속적인 안전 보장 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "Institute for the Study of War",
+        "NBC News",
+        "The Washington Post",
+        "2026.10.30 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아와 우크라이나가 일시 휴전에 합의하고 대피 통로를 열었습니다.\n\n· 러시아 점령지인 올레슈키에서 피해 주민들의 대피가 시작됐습니다 (BBC)\n· 양측의 이례적인 휴전 합의로 인도주의 임무가 현장에 투입됐습니다 (AP)\n\n이번 일시 휴전이 추가적인 외교적 진전으로 이어질 수 있을까요?\n\n출처: AP·BBC·NBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아와 우크라이나가 이례적인 일시 휴전에 합의했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "우크라이나의 러시아 점령 도시 올레슈키에서 인도주의 통로가 열렸습니다.",
+      "card": "map"
+    },
+    {
+      "text": "AP 통신은 이번 휴전으로 고립됐던 현지 주민들의 대피가 시작됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "대피 경로가 안전하게 유지될지는 아직 확실하지 않습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 인도주의 휴전, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "포화 멈춘 도시\n[[올레슈키]]서 무슨 일?",
+  "broll": [
+    "evacuation bus road",
+    "ruined city buildings"
+  ],
+  "place_en": "Oleshky, Ukraine"
+}

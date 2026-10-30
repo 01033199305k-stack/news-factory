@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-10-30-news-intel-stock-plunges-pc-softness-2026",
-    "event_ms": 1793351700000,
-    "category": "경제·과학",
+    "slug": "2026-10-30-news-ukraine-russia-oleshky-truce-evacuation-2026",
+    "event_ms": 1793356326000,
+    "category": "국제",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 인텔 주가가 실적 전망 악화로 21% 폭락했습니다.\n\n· CNBC는 PC 시장 수요 둔화가 실적 가이던스 하락으로 이어졌다고 전했습니다. (CNBC)\n· 뉴욕타임스는 AI 관련 사업 부진도 주가 하락에 영향을 주었다고 보도했습니다. (뉴욕타임스)\n\n질문: 글로벌 반도체 시장의 미래, 어떻게 보십니까?\n\n출처: CNBC·뉴욕타임스·바론스 보도 종합",
+    "text": "[속보] 러시아와 우크라이나가 일시 휴전에 합의하고 대피 통로를 열었습니다.\n\n· 러시아 점령지인 올레슈키에서 피해 주민들의 대피가 시작됐습니다 (BBC)\n· 양측의 이례적인 휴전 합의로 인도주의 임무가 현장에 투입됐습니다 (AP)\n\n이번 일시 휴전이 추가적인 외교적 진전으로 이어질 수 있을까요?\n\n출처: AP·BBC·NBC 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
-      "경제과학",
-      "미국"
+      "국제",
+      "우크라이나"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,24 +25,14 @@
     ],
     "done": {
       "threads": {
-        "id": "18113513134893588",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfHc3SfFplM",
+        "id": "18119617159961435",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfHqCpAG2h-",
         "kind": "carousel",
-        "at": 1793358898
-      },
-      "youtube": {
-        "skipped": "유튜브는 한국·주요국 관련 소식만",
-        "at": 1793359040
-      },
-      "tiktok": {
-        "id": "7702418375091309876",
-        "permalink": "https://tiktok.com/@jigeum.segye/video/7702418375091309876",
-        "kind": "video",
-        "at": 1793359162
+        "at": 1793365809
       }
     },
     "attempts": {
-      "instagram": 2
+      "instagram": 1
     },
     "video": "video.mp4"
   }

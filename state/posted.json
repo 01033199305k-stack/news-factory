@@ -29282,5 +29282,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793362184
+  },
+  {
+    "slug": "2026-10-30-news-intel-stock-plunges-pc-softness-2026",
+    "event_ms": 1793351700000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 인텔 주가가 실적 전망 악화로 21% 폭락했습니다.\n\n· CNBC는 PC 시장 수요 둔화가 실적 가이던스 하락으로 이어졌다고 전했습니다. (CNBC)\n· 뉴욕타임스는 AI 관련 사업 부진도 주가 하락에 영향을 주었다고 보도했습니다. (뉴욕타임스)\n\n질문: 글로벌 반도체 시장의 미래, 어떻게 보십니까?\n\n출처: CNBC·뉴욕타임스·바론스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18113513134893588",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfHc3SfFplM",
+        "kind": "carousel",
+        "at": 1793358898
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793359040
+      },
+      "tiktok": {
+        "id": "7702418375091309876",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702418375091309876",
+        "kind": "video",
+        "at": 1793359162
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793365940
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793365940
   }
 ]
