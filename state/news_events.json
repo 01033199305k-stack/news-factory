@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-military-strikes-cargo-vessel-iran-blockade-2026",
-    "topic": "미군, 오만만에서 이란행 화물선 타격",
-    "slug": "2026-10-11-news-us-military-strikes-cargo-vessel-iran-blockade-2026",
-    "cluster": "CBMirAFBVV95cUxPV2Nqd2RXZnpaY3lzeHVxN2Y0VC1ZZEpTSlFVeFpYbW1nQUZqRE5kSGt1NXo0TTFQQmtLSnFFX045Qk1pc2lpMWxXaGxfVkxxazIwNVdVYl82TWJZa2VURkhNWllYX1I1Vk00OFZoNzNNRmRQLURKVFpKbVVaVzZ4SjloWnB0SE1WTi1MWEp3TWttQ1h3MkpDcktydGU4MzdvVDlJS0V3Zk8xRkpp",
-    "badge": "breaking",
-    "at": 1791691700.7289238,
-    "country": "오만",
-    "category": "국제"
-  },
-  {
     "event_key": "riyadh-airport-attack-2026",
     "topic": "사우디 킹칼리드 공항 공격으로 12명 숨져",
     "slug": "2026-10-11-news-riyadh-airport-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793336972.8002155,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "us_pentagon_tells_europeans_cool_rhetoric_russia_2026",
+    "topic": "미국, 유럽 동맹국에 대러 발언 자제 요청",
+    "slug": "2026-10-30-news-us-pentagon-tells-europeans-cool-rhetoric-russia-2026",
+    "cluster": "CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE",
+    "badge": "brief",
+    "at": 1793355103.1311932,
+    "country": "미국",
+    "category": "국제"
   }
 ]
