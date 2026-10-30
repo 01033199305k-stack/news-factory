@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "hurricane-simon-mexico-category-4-2026",
-    "topic": "4등급 허리케인 사이먼 멕시코 해안 접근",
-    "slug": "2026-10-10-news-hurricane-simon-mexico-category-4-2026",
-    "cluster": "CBMiqgFBVV95cUxPcWJablM4MlJ5LUFJLXRPLThtTmhTTTRqdFJ3SDdtUFVDeUhTOU9WNnhUa2NoMXNPeUQzTnJJUnpoSkRsSkxmUFZaYkwzaGtHTi1lWGotdmRPdDFvelNXWDBxUGREM3daa0hpbVNXcDllQzJBUTRmNURJMVlVSXFGUmtBMUctRkpmeldocnByV2MzSW9vaW9MRVBvaTV2TXQ5MWJSLVZzejhHZw",
-    "badge": "breaking",
-    "at": 1791637803.134172,
-    "country": "멕시코",
-    "category": "재난"
-  },
-  {
     "event_key": "sudan-drone-strike-2026",
     "topic": "수단 블루나일주서 드론 공습… 민간인 40명 숨져",
     "slug": "2026-10-10-news-sudan-drone-strike-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793308095.33651,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "el_salvador_haiti_troop_deployment_2026",
+    "topic": "엘살바도르, 아이티에 2천 명 파병",
+    "slug": "2026-10-30-news-el-salvador-haiti-troop-deployment-2026",
+    "cluster": "CBMirAFBVV95cUxQRy1Tak1lODhxWnQzOGpjcXltb3ltcFFKME11ZnRfT2RJbnJBenpWNTRRQUlOZkZxWlJFSXpiMktlVmdkSkptVVZfM3Y5MHlFQjhvSWltd19oLVdyUTl5NTY4OExHaWphcVBTVDk0VFlzbWxHQ1A3aG54X0d1Y3FiZUZWXzU4UU5HMmk4V21oWmlQMlQ1ZmxKM0ZYbVUtN2stQUQxdW10eWtSaTFi",
+    "badge": "breaking",
+    "at": 1793318968.3524652,
+    "country": "아이티",
+    "category": "국제"
   }
 ]

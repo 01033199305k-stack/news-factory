@@ -1,0 +1,145 @@
+{
+  "slug": "2026-10-30-news-el-salvador-haiti-troop-deployment-2026",
+  "topic": "엘살바도르, 아이티에 2천 명 파병",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 07:33 KST",
+  "source": "AP News·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxQRy1Tak1lODhxWnQzOGpjcXltb3ltcFFKME11ZnRfT2RJbnJBenpWNTRRQUlOZkZxWlJFSXpiMktlVmdkSkptVVZfM3Y5MHlFQjhvSWltd19oLVdyUTl5NTY4OExHaWphcVBTVDk0VFlzbWxHQ1A3aG54X0d1Y3FiZUZWXzU4UU5HMmk4V21oWmlQMlQ1ZmxKM0ZYbVUtN2stQUQxdW10eWtSaTFi",
+    "related": [
+      [
+        "Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs",
+        "AP News"
+      ],
+      [
+        "Analysis: El Salvador’s Nayib Bukele adds a wildcard to Haiti’s fractured security landscape",
+        "CNN"
+      ],
+      [
+        "As Salvadoran troops flood into Haiti, some feel hope, but others see pitfalls",
+        "Miami Herald"
+      ],
+      [
+        "El Salvador to send over 2,000 soldiers to Haiti for rescue while elections postponed",
+        "Reuters"
+      ],
+      [
+        "El Salvador sends 2,000 troops to Haiti to rescue four missing soldiers",
+        "BBC"
+      ]
+    ],
+    "event_key": "el_salvador_haiti_troop_deployment_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[엘살바도르]], 아이티에\n2천 명 파병",
+      "sub": "실종 군인 수색 및 갱단 소탕 목적",
+      "chips": [
+        {
+          "k": "파병 규모",
+          "v": "2,000명 이상"
+        }
+      ],
+      "alt": "엘살바도르, 아이티에 2천 명 파병",
+      "map": {
+        "lat": 18.547327,
+        "lon": -72.3395928,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아이티"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아이티\n포르토프랭스",
+      "video_only": true,
+      "map": {
+        "lat": 18.547327,
+        "lon": -72.3395928,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "포르토프랭스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "실종 군인 수색 및 갱단 소탕",
+          "d": "실종된 군인 4명 구출 및 갱단 소탕 지원을 위해 파병했습니다 (AP·BBC·로이터)."
+        },
+        {
+          "t": "선거 일정 연기",
+          "d": "아이티 정부는 새 대선 일정을 발표했습니다 (AP·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "엘살바도르군 2,000명 이상 파병",
+        "아이티 대선 일정 발표"
+      ],
+      "unconfirmed": [
+        "파병군의 정확한 작전 기간",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "CNN",
+        "Miami Herald",
+        "Reuters",
+        "2026.10.30 09:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 엘살바도르가 아이티에 2,000명 이상을 파병했습니다.\n\n· 갱단 소탕 지원 및 실종 군인 4명 구출 목적 (AP·BBC·로이터)\n· 아이티 정부는 새 대선 일정을 발표했습니다 (AP·로이터)\n\n질문: 국제사회의 군사 지원으로 아이티 치안이 회복될 수 있을까요?\n\n출처: AP·로이터·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "엘살바도르가 아이티에 2천 명 이상의 군인을 파병했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "엘살바도르 군 부대가 아이티에 투입됩니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신은 갱단 소탕과 실종된 군인 4명을 구출하기 위한 파병이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 작전 기간은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 군사 지원으로 아이티 상황이 변화할 수 있을까요?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[아이티]]에 군대\n보낸 이 나라",
+  "broll": [
+    "military soldiers street",
+    "armored vehicle city"
+  ],
+  "place_en": "Port-au-Prince, Haiti"
+}
