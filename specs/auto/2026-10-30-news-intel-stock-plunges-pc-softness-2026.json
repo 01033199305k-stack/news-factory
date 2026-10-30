@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-30-news-intel-stock-plunges-pc-softness-2026",
+  "topic": "인텔 주가 21% 폭락 PC 시장 둔화 여파",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 18:15 KST",
+  "source": "The New York Times·Barron's·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE9yZXdLdExYS3hHN19GX0xPbTJSa0h4MTUyUm9oejU5UGEyaVl0RmhnaGMzdXBjbmJtbnNhMGdEYXpPaHdTMzk1d1hZM3BXLVhOdEJ0QzVzTExWNzFZbzZRSmd3dkZfTkdsOC10eXN4UkhpTjAwTVZn",
+    "related": [
+      [
+        "Intel Earnings: 2 Reasons the Stock Is Down So Much",
+        "Barron's"
+      ],
+      [
+        "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance",
+        "CNBC"
+      ],
+      [
+        "INTC Stock Craters Premarket After Q3 Report: Analyst Says PC Market Softness Will Stunt Growth, Slashes Price Target",
+        "Yahoo Finance"
+      ],
+      [
+        "Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business",
+        "The New York Times"
+      ],
+      [
+        "The Fab Explosion That Halted Intel's Recovery",
+        "Seeking Alpha"
+      ]
+    ],
+    "event_key": "intel_stock_plunges_pc_softness_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인텔 주가 [[21% 폭락]]\nPC 시장 둔화 여파",
+      "sub": "약한 실적 전망 발표 이후 주가가 크게 떨어졌습니다.",
+      "chips": [
+        {
+          "k": "주가 하락률",
+          "v": "21%"
+        }
+      ],
+      "alt": "인텔 주가 21% 폭락 PC 시장 둔화 여파",
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n산타클라라",
+      "video_only": true,
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "산타클라라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "실적 전망 악화",
+          "d": "CNBC는 PC 시장 수요 둔화로 실적 가이던스가 낮아지며 주가가 급락했다고 보도했습니다."
+        },
+        {
+          "t": "AI 사업 부진",
+          "d": "뉴욕타임스는 인공지능 분야 부진이 일부 사업에 악영향을 주었다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "주가 20~21% 폭락 (CNBC·NYT)"
+      ],
+      "unconfirmed": [
+        "향후 실적 회복 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Barron's",
+        "CNBC",
+        "Seeking Alpha",
+        "The New York Times",
+        "Yahoo Finance",
+        "2026.10.30 20:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인텔 주가가 실적 전망 악화로 21% 폭락했습니다.\n\n· CNBC는 PC 시장 수요 둔화가 실적 가이던스 하락으로 이어졌다고 전했습니다. (CNBC)\n· 뉴욕타임스는 AI 관련 사업 부진도 주가 하락에 영향을 주었다고 보도했습니다. (뉴욕타임스)\n\n질문: 글로벌 반도체 시장의 미래, 어떻게 보십니까?\n\n출처: CNBC·뉴욕타임스·바론스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 반도체 기업 인텔의 주가가 20% 넘게 폭락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 PC 시장 둔화로 실적 전망이 약화하며 주가가 21% 급락했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "뉴욕타임스는 인공지능 사업 부진도 악영향을 미쳤다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "주가 회복 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "글로벌 반도체 시장 흐름, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[인텔]] 주가 폭락\n무슨 일?",
+  "broll": [
+    "semiconductor chip plant",
+    "stock exchange screen"
+  ],
+  "place_en": "Santa Clara, California, USA"
+}
