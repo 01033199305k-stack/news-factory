@@ -1,53 +1,5 @@
 [
   {
-    "slug": "2026-10-31-news-us-pennsylvania-measles-outbreak-2026",
-    "event_ms": 1793376780000,
-    "category": "재난",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 미국 펜실베이니아주 아미시 지역에서 홍역 확산으로 사망 5명이 발생했습니다 (인디펜던트)\n\n· 지역 내 홍역 확진 사례는 1,350건을 넘어섰다고 전했습니다 (인디펜던트)\n· 질병통제예방센터는 미국 전역의 홍역 환자가 4,852명으로 집계됐다고 밝혔습니다 (마이애미 헤럴드)\n· 한국인 피해 여부는 아직 확인되지 않았습니다\n\n출처: AP 통신·인디펜던트·로이터·마이애미 헤럴드 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "재난",
-      "미국"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18097275836442795",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfIMpxIHFS4",
-        "kind": "carousel",
-        "at": 1793383954
-      },
-      "youtube": {
-        "id": "OAScIexrx74",
-        "permalink": "https://youtube.com/shorts/OAScIexrx74",
-        "kind": "shorts",
-        "at": 1793384108
-      },
-      "instagram": {
-        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
-        "at": 1793391128
-      }
-    },
-    "attempts": {
-      "instagram": 3,
-      "tiktok": 2
-    },
-    "video": "video.mp4"
-  },
-  {
     "slug": "2026-10-31-news-strait-of-hormuz-tanker-mine-attack-2026",
     "event_ms": 1793381940000,
     "category": "국제",
@@ -77,10 +29,17 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfIaI5_oHGA",
         "kind": "carousel",
         "at": 1793391023
+      },
+      "youtube": {
+        "id": "ZNNMWZk4Jkc",
+        "permalink": "https://youtube.com/shorts/ZNNMWZk4Jkc",
+        "kind": "shorts",
+        "at": 1793393870
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2,
+      "tiktok": 1
     },
     "video": "video.mp4"
   }
