@@ -1,54 +1,5 @@
 [
   {
-    "slug": "2026-10-30-news-us-pentagon-tells-europeans-cool-rhetoric-russia-2026",
-    "event_ms": 1793355103131,
-    "category": "국제",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[정리] 미국 국방부가 유럽 동맹국에 대러시아 비판 수위를 낮추라고 요청했습니다.\n\n· 미 국방부가 유럽 동맹국들에 대러시아 강경 발언 자제를 요구했다고 보도됐습니다 (로이터 통신)\n· NATO 회원국과 발트국 등을 향해 비판 수위 조절을 당부한 것으로 알려졌습니다\n\n이번 요구에 대한 유럽 동맹국들의 향후 대응을 어떻게 예상하십니까?\n\n출처: 로이터·TVP 월드·아이리시 타임스 보도 종합",
-    "topic_tag": "세계뉴스",
-    "hashtags": [
-      "세계뉴스",
-      "국제",
-      "미국"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18127831447890677",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfHVtsOlsaX",
-        "kind": "carousel",
-        "at": 1793355149
-      },
-      "youtube": {
-        "id": "9HJLsdxvP0w",
-        "permalink": "https://youtube.com/shorts/9HJLsdxvP0w",
-        "kind": "shorts",
-        "at": 1793355453
-      },
-      "tiktok": {
-        "id": "7702403102472785160",
-        "permalink": "https://tiktok.com/@jigeum.segye/video/7702403102472785160",
-        "kind": "video",
-        "at": 1793355585
-      }
-    },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": "video.mp4"
-  },
-  {
     "slug": "2026-10-30-news-intel-stock-plunges-pc-softness-2026",
     "event_ms": 1793351700000,
     "category": "경제·과학",
@@ -91,7 +42,7 @@
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
