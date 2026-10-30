@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-30-news-israel-election-final-results-no-majority-2026",
+  "topic": "이스라엘 총선 최종 결과 과반 확보 실패",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 08:07 KST",
+  "source": "CNN·NBC News·Reuters 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMioAFBVV95cUxQeVAzV3M3QjRGcmd3XzBaeU9UbHU3TGY2VXpFc1FEOUxNaGZUMWxOUnlhZnVtdzc3WVJucUw4dlVCeFVKdHRBOFBxQ3NpV0VfR0xsODY4NzRBRG9wN2hhZkxfZ3E5WFJESUlzV21oQUVsR0VOeFBBTUpieENteW83ZmwxQlBoaUNkaDNwV01hSzRUaExTdWx4eXJyTFFBTmJR",
+    "related": [
+      [
+        "No Clear Winner in Israel Election, Final Results Show",
+        "The New York Times"
+      ],
+      [
+        "Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties",
+        "Reuters"
+      ],
+      [
+        "Israel’s final election results show neither Netanyahu nor rival can immediately form government",
+        "NBC News"
+      ],
+      [
+        "With No Clear Winner, How Could Israel Get a Prime Minister?",
+        "The New York Times"
+      ],
+      [
+        "The final Israeli election results are in. Netanyahu hasn’t won – but he hasn’t lost either",
+        "CNN"
+      ]
+    ],
+    "event_key": "israel_election_final_results_no_majority_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 총선 최종 결과\n[[과반 확보 실패]]",
+      "sub": "네타냐후와 야권 모두 단독 집권 불가능",
+      "chips": [],
+      "alt": "이스라엘 총선 최종 결과 과반 확보 실패",
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n예루살렘",
+      "video_only": true,
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "예루살렘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "연정 구성 난항",
+          "d": "네타냐후 총리와 야권 모두 즉각 연립정부를 구성하지 못했습니다 (NBC·CNN)."
+        },
+        {
+          "t": "과반 의석 미달",
+          "d": "어느 세력도 과반 의석을 차지하지 못한 것으로 집계됐습니다 (NYT·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이스라엘 총선 최종 결과 발표",
+        "과반 의석 확보 정당 없음"
+      ],
+      "unconfirmed": [
+        "향후 연립정부 구성 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "NBC News",
+        "Reuters",
+        "The New York Times",
+        "2026.10.30 11:01 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 총선 결과 과반을 확보한 정당이 없었습니다.\n\n· 네타냐후 총리와 야권 모두 즉각 연립정부를 구성하지 못했습니다 (NBC·CNN)\n· 어느 세력도 과반 의석을 확보하지 못했습니다 (NYT·로이터)\n\n독자 여러분은 이번 선거 결과에 대해 어떻게 보십니까?\n\n출처: NYT·NBC·CNN·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘 총선 결과 과반 의석을 차지한 정당이 나오지 않았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "네타냐후 총리와 야권 모두 연립정부 구성에 실패했다고 NBC가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 연정 구성 향방은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 이스라엘 총선 결과, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이스라엘 총선\n[[다음 총리]]는?",
+  "broll": [
+    "parliament building",
+    "voting booth"
+  ],
+  "place_en": "Jerusalem, Israel"
+}
