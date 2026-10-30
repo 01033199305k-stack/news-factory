@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "us-sanctions-icc-nobel-peace-prize-2026",
-    "topic": "미국, 국제형사재판소에 전격 제재 부과",
-    "slug": "2026-10-10-news-us-sanctions-icc-nobel-peace-prize-2026",
-    "cluster": "CBMiogFBVV95cUxPT29SMHVPVGc5OUxjT2plSDN3ZkNLVTF6c25wSDZlZW5TcE5reTJTU0ZIUS1RTEdnTld6YjU1c2pnNE5NTTV2R1VVZ2R3VFdDWjVDVnJ5dTJTdHJyRC1XaWphTWtUdk01V2s5NUdrV04xdzJrVG52bkxKa2w1elJQcXdBcS1fRGlNSENIN2tTTFk2b2VNQ1o4bXFiaU5rRGJpOUHSAacBQVVfeXFMTmJPeDBjZjdYYklhY3VFYWQ1UmtjNGItczB3UVZaaEhfaEktY2VPbE5wcTA2UzlTRV9DZzNLb3c4ODM5Z2Mtc0lyVzkyNnhjYXVFQ0RwaWU2YUJHWmR3UmhNS3VQUE1ma29VS3kzSGJzd2t0RXZsVklOYV8yaWRjZXhONXRIcnR1aWdRMGF2WXBDeER6bGQzSFQ5VlYtZVlEMDZxMUlmVHM",
-    "badge": "brief",
-    "at": 1791662974.2878728,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
-    "event_key": "brazil_school_hostage_suspect_killed",
-    "topic": "브라질 학교서 인질극 범인 사살·어린이 구조",
-    "slug": "2026-10-11-news-brazil-school-hostage-suspect-killed",
-    "cluster": "CBMisgFBVV95cUxOWTZ5dWRSN3RGRVNQa01yVmhROG45MmRQNS1VNDdITE0xVEp0NUV3SEdPX3Q5UTRjNHVBdjJ6TTRWWnNTMHlaeUVDV3VuNkExejB5d1Q1S1VpQjBmS1JDNEY2b0RtZVZENmZaeHdnZHE1YmRJbjJCUmVaU1dYNmhKYl94eTVKZU5MYTJvNUV5eFc4Y0VKN0Vra3R6ZEowczAzVFJqellyTEVnbks4bGhWTk9B0gG3AUFVX3lxTE5YZEdYVDBYVWEzUWNLSFE5Ny05UHZrdzJFQmxxUjJMZTBBa3M1T2gxVFlaRFdXaHgwenF5MzFVZVNmZU1KSGVkbU5oVXRNRERFLU1MNmFQWVNDZGd5RjdEMlJ3MTRqdkRPbmRhYVpzZjVDYmZka2JlNlJfZDUyVGZNZEo1LUZTckNnbE43ZzB4bUNCN1pIU2dsZ3FYRjBHZTV0OE1UU24tVHVEMHRQMnQtVlFjdndyOA",
-    "badge": "breaking",
-    "at": 1791666442.3015707,
-    "country": "브라질",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "trump-zelenskyy-russia-diesel-deal",
     "topic": "트럼프는 우크라이나가 새로운 지도자를 뽑아야 한다고 밝혔습니다",
     "slug": "2026-10-11-news-trump-zelenskyy-russia-diesel-deal",
@@ -2998,5 +2978,25 @@
     "at": 1793325703.1593578,
     "country": "이스라엘",
     "category": "국제"
+  },
+  {
+    "event_key": "patrick_stuart_death_2026",
+    "topic": "스타트렉 패트릭 스튜어트 별세, 향년 86세",
+    "slug": "2026-10-30-news-patrick-stuart-death-2026",
+    "cluster": "CBMiqgFBVV95cUxPMkg2OXdBV1phN2haNVVzc1JuYzhISXF0bV9NaWpsYTFsLWI1ZjhHZGF0T2k4NXV2SXZ1OW5kWjM2M2M5VlItWWtJdVRlVkM2OGdzSzdjYjRqbmg0Z2NKMVJhN0Z1WVhPdjhSTF91b0ctdzE2STNXSllQeUdxWkFzeldQZU5pRjgteE9JNzhUNWNRTXd0Vl9SNmhRbWlydXkzYS00NHBnWG1Udw",
+    "badge": "breaking",
+    "at": 1793326060.691128,
+    "country": "영국",
+    "category": "기타 사건"
+  },
+  {
+    "event_key": "erin_patterson_appeal_denied_2026",
+    "topic": "호주 독버섯 살인범 항소 기각으로 종신형",
+    "slug": "2026-10-30-news-erin-patterson-appeal-denied-2026",
+    "cluster": "CBMiVkFVX3lxTFAzeEFveEVQNTMyMDF6Sk5Db1ZoZW1HSjd2WXc5WDQyeHhObk1fNU55d241VFZyNEdjMGREYXZybzlpYWRWa0Nod29RTEFBTWVuSUpYRDhR",
+    "badge": "breaking",
+    "at": 1793326073.50953,
+    "country": "호주",
+    "category": "기타 사건"
   }
 ]

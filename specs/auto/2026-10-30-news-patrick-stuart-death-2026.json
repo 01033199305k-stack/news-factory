@@ -1,0 +1,134 @@
+{
+  "slug": "2026-10-30-news-patrick-stuart-death-2026",
+  "topic": "스타트렉 패트릭 스튜어트 별세, 향년 86세",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 10:24 KST",
+  "source": "The New York Times·Los Angeles Times·The Hollywood Reporter 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxPMkg2OXdBV1phN2haNVVzc1JuYzhISXF0bV9NaWpsYTFsLWI1ZjhHZGF0T2k4NXV2SXZ1OW5kWjM2M2M5VlItWWtJdVRlVkM2OGdzSzdjYjRqbmg0Z2NKMVJhN0Z1WVhPdjhSTF91b0ctdzE2STNXSllQeUdxWkFzeldQZU5pRjgteE9JNzhUNWNRTXd0Vl9SNmhRbWlydXkzYS00NHBnWG1Udw",
+    "related": [
+      [
+        "‘X-Men’ Stars Hugh Jackman, Rebecca Romijn, Famke Janssen Honor “Fellow Mutant” Patrick Stewart: “One of the Greats”",
+        "The Hollywood Reporter"
+      ],
+      [
+        "Patrick Stewart, ‘Star Trek’ Captain and ‘X-Men’ Superhero, Dies at 86",
+        "The Hollywood Reporter"
+      ],
+      [
+        "What is Lewy body dementia? About the condition Patrick Stewart had",
+        "Los Angeles Times"
+      ],
+      [
+        "Tributes Pour In for Patrick Stewart, Who Has Died at 86",
+        "Time Magazine"
+      ],
+      [
+        "Patrick Stewart: A Life in Pictures",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "patrick_stuart_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스타트렉 [[패트릭 스튜어트]]\n별세, 향년 [[86세]]",
+      "sub": "영화계 추모 물결 이어져",
+      "chips": [
+        {
+          "k": "향년",
+          "v": "86세"
+        }
+      ],
+      "alt": "스타트렉 패트릭 스튜어트 별세, 향년 86세",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "스타트렉과 엑스맨",
+          "d": "스타트렉 선장과 엑스맨 슈퍼히어로로 잘 알려졌습니다 (할리우드 리포터)."
+        },
+        {
+          "t": "투병 생활",
+          "d": "루이체 치매를 앓아온 것으로 전해졌습니다 (로스앤젤레스 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 향년 86세 (할리우드 리포터)",
+        "루이체 치매 투병 (로스앤젤레스 타임스)"
+      ],
+      "unconfirmed": [
+        "추가 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Los Angeles Times",
+        "The Hollywood Reporter",
+        "The New York Times",
+        "Time Magazine",
+        "2026.10.30 11:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스타트렉 배우 패트릭 스튜어트가 향년 86세로 별세했습니다\n\n· 스타트렉 선장과 엑스맨 슈퍼히어로로 활약했습니다 (할리우드 리포터)\n· 루이체 치매를 앓아온 것으로 전해졌습니다 (로스앤젤레스 타임스)\n· 할리우드 동료들의 추모가 이어지고 있습니다 (타임)\n\n출처: 할리우드 리포터·로스앤젤레스 타임스·타임 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스타트렉과 엑스맨에 출연한 배우 패트릭 스튜어트가 향년 86세로 별세했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "할리우드 리포터 등 외신은 고인이 루이체 치매를 앓아왔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "동료 배우들과 영화계의 추모 물결이 이어지고 있습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "스타트렉 [[패트릭 스튜어트]]\n세상 떠난 이유는?",
+  "broll": [
+    "film set studio lights",
+    "cinema auditorium seats"
+  ],
+  "place_en": "London, United Kingdom"
+}

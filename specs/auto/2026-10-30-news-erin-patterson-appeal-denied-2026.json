@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-30-news-erin-patterson-appeal-denied-2026",
+  "topic": "호주 독버섯 살인범 항소 기각으로 종신형",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 09:34 KST",
+  "source": "BBC·CNN·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTFAzeEFveEVQNTMyMDF6Sk5Db1ZoZW1HSjd2WXc5WDQyeHhObk1fNU55d241VFZyNEdjMGREYXZybzlpYWRWa0Nod29RTEFBTWVuSUpYRDhR",
+    "related": [
+      [
+        "Australian mushroom murderer Erin Patterson loses appeal to overturn convictions - follow live",
+        "BBC"
+      ],
+      [
+        "Mushroom killer must never be released from prison, court says",
+        "Sky News"
+      ],
+      [
+        "Mushroom killer to be jailed for life after appeals court finds sentence too light",
+        "CNN"
+      ],
+      [
+        "Killer mushroom cook given harsher penalty after appeal denied",
+        "The Telegraph"
+      ],
+      [
+        "Mushroom killer Erin Patterson loses appeal, has harsher sentence imposed — as it happened",
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ]
+    ],
+    "event_key": "erin_patterson_appeal_denied_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호주 [[독버섯 살인]]범\n항소 기각으로 [[종신형]]",
+      "sub": "법원, 형량이 너무 가볍다 판단",
+      "chips": [
+        {
+          "k": "형벌",
+          "v": "종신형"
+        }
+      ],
+      "alt": "호주 독버섯 살인범 항소 기각으로 종신형",
+      "map": {
+        "lat": -37.8142454,
+        "lon": 144.9631732,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "호주"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "호주\n멜버른",
+      "video_only": true,
+      "map": {
+        "lat": -37.8142454,
+        "lon": 144.9631732,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "멜버른"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "항소 기각",
+          "d": "에린 패터슨이 유죄 판결 불복 항소에서 패소했습니다 (BBC)."
+        },
+        {
+          "t": "형량 가중",
+          "d": "항소법원은 기존 형량이 너무 가볍다며 더 무거운 형을 선고했습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "항소 기각 (BBC)",
+        "종신형 선고 (CNN)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "BBC",
+        "CNN",
+        "Sky News",
+        "The Telegraph",
+        "2026.10.30 11:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호주 독버섯 살인 사건 범인 에린 패터슨의 항소가 기각됐습니다\n\n· 항소법원은 기존 형량이 너무 가볍다고 판단했습니다 (CNN)\n· 피고인은 가중된 처벌과 함께 종신형을 선고받았습니다 (더 텔레그래프)\n\n출처: BBC·CNN·더 텔레그래프 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호주에서 독버섯 요리로 살인죄를 선고받은 에린 패터슨의 항소가 기각됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN 등 외신은 항소법원이 기존 형량이 너무 가볍다고 판단해 더 무거운 형을 내렸다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "피고인은 가중된 처벌과 함께 종신형에 처해졌습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "호주 [[독버섯 살인]]범\n결국 내려진 처벌은?",
+  "broll": [
+    "courtroom exterior building",
+    "prison fence security"
+  ],
+  "place_en": "Melbourne, Australia"
+}
