@@ -1,0 +1,149 @@
+{
+  "slug": "2026-10-30-news-yemen-houthi-saudi-missile-attack-2026",
+  "topic": "후티 반군, 사우디 향해 탄도미사일 발사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 09:15 KST",
+  "source": "Al Jazeera·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv",
+    "related": [
+      [
+        "Houthi forces claim six attacks on Saudi airports, oil facilities",
+        "Al Jazeera"
+      ],
+      [
+        "Yemen's Houthis say they hit Saudi Ras Tanura oil refinery with missile",
+        "Reuters"
+      ],
+      [
+        "Explosions heard over Riyadh as Saudi authorities say Houthi missiles downed",
+        "The Hindu"
+      ],
+      [
+        "Middle East War: Saudi intercepts Houthi missile as Iran warns Israel against strikes",
+        "Gulf News"
+      ],
+      [
+        "Saudi-led coalition: Air defenses intercepted and destroyed a ballistic missile launched by Houthi toward the eastern region.",
+        "CGTN"
+      ]
+    ],
+    "event_key": "yemen_houthi_saudi_missile_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "후티 반군, 사우디 향해\n[[탄도미사일]] 발사",
+      "sub": "사우디 당국은 방공망으로 미사일을 요격했다고 밝혔습니다.",
+      "chips": [
+        {
+          "k": "공격",
+          "v": "사우디 공항·석유시설"
+        }
+      ],
+      "alt": "후티 반군, 사우디 향해 탄도미사일 발사",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미사일 요격",
+          "d": "사우디-주도 연합군은 동부 지역을 향해 발사된 탄도미사일을 요격해 파괴했다고 발표했습니다 (CGTN·Gulf News)."
+        },
+        {
+          "t": "후티 주장",
+          "d": "후티 반군 측은 사우디 공항과 석유 시설 등을 겨냥해 6차례 공격을 감행했다고 주장했습니다 (Al Jazeera·Reuters)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 동부 지역 향한 탄도미사일 발사",
+        "사우디 방공망의 미사일 요격 파괴"
+      ],
+      "unconfirmed": [
+        "후티 반군 공격에 따른 정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CGTN",
+        "Gulf News",
+        "Reuters",
+        "The Hindu",
+        "2026.10.30 12:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 후티 반군, 사우디 향해 탄도미사일 발사\n\n· 사우디-주도 연합군은 동부 지역을 향해 날아온 탄도미사일을 방공망으로 요격해 파괴했다고 밝혔습니다 (CGTN·Gulf News)\n· 후티 반군 측은 사우디 공항과 석유 시설 등을 겨냥해 6차례 공격을 감행했다고 주장했습니다 (Al Jazeera·Reuters)\n\n이번 중동 지역의 군사적 충돌 격화에 대해 여러분은 어떻게 보십니까?\n\n출처: Al Jazeera·Reuters·CGTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "후티 반군이 사우디아라비아를 향해 탄도미사일을 발사했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디아라비아 리야드 상공에서 폭발음이 들렸습니다.",
+      "card": "map"
+    },
+    {
+      "text": "사우디 연합군은 동부 지역을 향한 미사일을 요격했다고 발표했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "후티 반군은 공항과 석유 시설을 공격했다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 공격으로 인한 정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "중동 지역의 군사적 충돌 격화, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "중동 충돌 격화"
+    }
+  ],
+  "hook": "사우디를 향해 날아온\n[[미사일]]의 정체는?",
+  "broll": [
+    "missile launch desert",
+    "air defense system night"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "trump-zelenskyy-russia-diesel-deal",
-    "topic": "트럼프는 우크라이나가 새로운 지도자를 뽑아야 한다고 밝혔습니다",
-    "slug": "2026-10-11-news-trump-zelenskyy-russia-diesel-deal",
-    "cluster": "CBMitwFBVV95cUxQYjNZS0tReXlIazNiY0piTTZfWXFtSF84b1pMUlVUdWFNYWxXUTNxc1FRUG44dGxubjZxeXRSeVl6RHhwN3NBN213Zkx1VlgwZ0h6RlVlUVV2UHpQM3FxUHU2ejM4UDVoYndJOWlqdlNLR3RYa2ZnRXNPaE1JajgxNUJobTVQdTRabG80QzVwQi1wT1owQWh3MmhEaDVQNnNkRmpLcEtuMVdWXzlJUUtKblREd2hUMkU",
-    "badge": "brief",
-    "at": 1791680861.9154046,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "uk-yorkshire-zoo-tiger-attack-2026",
     "topic": "영국 야생동물 공원에서 호랑이 습격으로 사망자 발생",
     "slug": "2026-10-11-news-uk-yorkshire-zoo-tiger-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793326073.50953,
     "country": "호주",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "yemen_houthi_saudi_missile_attack_2026",
+    "topic": "후티 반군, 사우디 향해 탄도미사일 발사",
+    "slug": "2026-10-30-news-yemen-houthi-saudi-missile-attack-2026",
+    "cluster": "CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv",
+    "badge": "breaking",
+    "at": 1793329761.7712417,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]
