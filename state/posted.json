@@ -29335,5 +29335,109 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793365940
+  },
+  {
+    "slug": "2026-10-30-news-ukraine-russia-oleshky-truce-evacuation-2026",
+    "event_ms": 1793356326000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아와 우크라이나가 일시 휴전에 합의하고 대피 통로를 열었습니다.\n\n· 러시아 점령지인 올레슈키에서 피해 주민들의 대피가 시작됐습니다 (BBC)\n· 양측의 이례적인 휴전 합의로 인도주의 임무가 현장에 투입됐습니다 (AP)\n\n이번 일시 휴전이 추가적인 외교적 진전으로 이어질 수 있을까요?\n\n출처: AP·BBC·NBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119617159961435",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfHqCpAG2h-",
+        "kind": "carousel",
+        "at": 1793365809
+      },
+      "youtube": {
+        "id": "58khV7QUVeE",
+        "permalink": "https://youtube.com/shorts/58khV7QUVeE",
+        "kind": "shorts",
+        "at": 1793373210
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793376029
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "expired",
+    "at": 1793380011
+  },
+  {
+    "slug": "2026-10-30-news-spain-high-speed-train-crash-2026",
+    "event_ms": 1793365414000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스페인 고속열차 탈선 사고로 사망자 69명으로 늘었습니다\n\n· 올해 두 번째 발생한 치명적인 사고로 철도 신뢰가 무너졌다고 스페인 총리가 밝혔습니다 (가디언)\n· 교통장관은 이번 참사와 관련해 사퇴하지 않겠다는 입장을 밝혔습니다 (BBC)\n\n출처: BBC·가디언·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "스페인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18480414088116218",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfH38hWFLve",
+        "kind": "carousel",
+        "at": 1793373096
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793373220
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793376399
+      },
+      "tiktok": {
+        "id": "7702508523644521735",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702508523644521735",
+        "kind": "video",
+        "at": 1793380133
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793380143
   }
 ]
