@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-30-news-bosnia-eufor-helicopter-crash-2026",
+  "topic": "보스니아 평화유지군 헬기 추락 사상자 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 09:00 KST",
+  "source": "Reuters·Euronews.com·RTE.ie 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxNeU9kNC1ia1Y1TFJVR05wejBNTlV2Z1U2c2c2TXl5OUFYNnNmUTdFTmMxWGljSUFkSGt2N0pPSFZ1YTdDRXdWTVJSRm4zWXBjTXRBVnQ1c0tWVGx4T3l0TG56T1ZSRWI5d0M1NUZrWUVXV1Z1WEdQT3NEY3FFWkhJRmg1Zk5ialhYbHVTbGdBQdIBlAFBVV95cUxQSTdEUFBhbTNIVVRtVUJ3SlRFQ1ItNWhoVDAyYktuRnU5TnVSbTFnOFRiaUR6b3FiR1NBUEVNWm1PYXdjQzl2clNyT3BFLU5VdU03NE81VEt5RENTcmJGQ2RJVzRUOElkbXFZdEVCNWRVUXRMbWdoRUs4SHBXMGc3bHRyMlJsXzFEdVVUQkdZOUNnSDkt",
+    "related": [
+      [
+        "At least four killed as EUFOR helicopter crashes in Bosnia and Herzegovina",
+        "The Mirror"
+      ],
+      [
+        "Four killed in crash of Italian helicopter on EU mission in Bosnia",
+        "Reuters"
+      ],
+      [
+        "EU peacekeeping helicopter crash in Bosnia kills at least four",
+        "Euronews.com"
+      ],
+      [
+        "EU force helicopter crash in Bosnia kills four crew",
+        "RTE.ie"
+      ],
+      [
+        "Three reportedly dead, 12 injured as EU peacekeeping helicopter crashes in Bosnia",
+        "TRT World"
+      ]
+    ],
+    "event_key": "bosnia_eufor_helicopter_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "보스니아 평화유지군\n헬기 추락 [[사상자 발생]]",
+      "sub": "EU 군사 임무 수행 중 추락… 사상자 수 매체별 집계 차이 있어",
+      "chips": [
+        {
+          "k": "사고",
+          "v": "헬기 추락"
+        }
+      ],
+      "alt": "보스니아 평화유지군 헬기 추락 사상자 발생",
+      "map": {
+        "lat": 44.3053476,
+        "lon": 17.5961467,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "보스니아 헤르체고비나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "보스니아 헤르체고비나\n보스니아",
+      "video_only": true,
+      "map": {
+        "lat": 44.3053476,
+        "lon": 17.5961467,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "보스니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "EU 임무 수행 중 추락",
+          "d": "보스니아에서 임무를 수행하던 유럽연합 평화유지군 헬기가 추락했습니다 (로이터·유로뉴스)."
+        },
+        {
+          "t": "이탈리아 헬기로 전해져",
+          "d": "추락한 기체는 이탈리아 소속 헬리콥터로 알려졌습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "EU 평화유지군 헬기 추락",
+        "인명 피해 발생"
+      ],
+      "unconfirmed": [
+        "사망자 수 매체별 집계 차이 있음 (3~4명)",
+        "추락 원인",
+        "한국인 탑승 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Euronews.com",
+        "RTE.ie",
+        "Reuters",
+        "TRT World",
+        "The Mirror",
+        "2026.10.30 10:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 보스니아에서 EU 평화유지군 헬기 추락해 사상자 발생\n\n· 보스니아 헤르체고비나에서 임무를 수행하던 유럽연합 평화유지군 헬리콥터가 추락했습니다 (로이터·유로뉴스).\n· 4명이 숨졌다는 보도가 나온 가운데, 3명 사망 12명 부상 등 매체별 사상자 집계에 차이가 있습니다 (로이터·TRT월드).\n· 정확한 사고 원인은 아직 확인되지 않았습니다.\n\n출처: 로이터·유로뉴스·TRT월드 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "보스니아에서 유럽연합 평화유지군 헬리콥터가 추락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 4명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "일부 매체는 3명이 숨지고 12명이 다쳤다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 추락 원인과 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[평화유지군]] 헬기\n보스니아 추락",
+  "broll": [
+    "military helicopter",
+    "ambulance night"
+  ],
+  "place_en": "Bosnia and Herzegovina"
+}
