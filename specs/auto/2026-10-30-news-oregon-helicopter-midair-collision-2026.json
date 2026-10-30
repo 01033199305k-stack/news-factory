@@ -1,0 +1,143 @@
+{
+  "slug": "2026-10-30-news-oregon-helicopter-midair-collision-2026",
+  "topic": "미국 오리건주서 헬기 2대 공중 충돌… 3명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 11:35 KST",
+  "source": "CNN·Hindustan Times·NDTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8wFBVV95cUxNbVZ3c2lzYThpMzFxTWhfcjBJNWNSdzhmbVpTZzNOZVU0UFpzVFlpQWlFUlI4N0IyaXFGWTVpcEYyOWxkUDFGNHBEcU9aWUZ6bVJXa043d1JxOFRaaFB0RWlNV0RnLWVhQkVON2xndmZZOVZDVnFkVk8ycnVZd2VGam52aWNtR1JzOHI4ZnhRLVNFVjVNRE5rM0V5VWJTR2JUVHN0VDI1SXFCdDRMekRSUkF4R1ZtTGJsakpyUGdCNVp5dEdiM3pwQWtac1BTRGVEVzJjV3BQR0k4UXdwTWVRYnBZckU3a2pMZzNlc1ZRd0R2TG8",
+    "related": [
+      [
+        "Mid-air collision near Oregon airport: 3 killed as two helicopters crash into each other US",
+        "The Times of India"
+      ],
+      [
+        "2 helicopters carrying 3 people collide in Oregon, shutting down highway",
+        "The Hindu"
+      ],
+      [
+        "3 dead after 2 helicopters collide midair near Oregon airport, sheriff says",
+        "CNN"
+      ],
+      [
+        "Maddie Aasbo and Tyler Delane Sturdevant are two of the three victims killed in midair helicopter crash in Oregon",
+        "Hindustan Times"
+      ],
+      [
+        "3 Killed As 2 Helicopters Collide Mid-Air Near Oregon Airport In US",
+        "NDTV"
+      ]
+    ],
+    "event_key": "oregon_helicopter_midair_collision_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 오리건주서 헬기 [[2대 공중 충돌]]… [[3명 사망]]",
+      "sub": "공항 인근 상공에서 충돌 사고 발생해 고속도로 통행 차단",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "3명"
+        },
+        {
+          "k": "사고",
+          "v": "헬기 2대"
+        }
+      ],
+      "alt": "미국 오리건주서 헬기 2대 공중 충돌… 3명 사망",
+      "map": {
+        "lat": 43.9792797,
+        "lon": -120.737257,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오리건주",
+      "video_only": true,
+      "map": {
+        "lat": 43.9792797,
+        "lon": -120.737257,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오리건주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "탑승 인원",
+          "d": "충돌한 헬기 두 대에는 총 3명이 탑승하고 있었습니다 (더 타임스 오브 인디아·CNN)"
+        },
+        {
+          "t": "도로 통제",
+          "d": "사고 여파로 인근 고속도로 통행이 차단됐습니다 (더 힌두)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "헬기 2대 공중 충돌 발생 (CNN·더 타임스 오브 인디아)",
+        "사망자 3명 확인 (CNN)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Hindustan Times",
+        "NDTV",
+        "The Hindu",
+        "The Times of India",
+        "2026.10.30 14:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 오리건주서 헬기 2대 공중 충돌… 3명 사망 (CNN·더 타임스 오브 인디아)\n\n· 오리건주 공항 인근 상공에서 헬기 2대가 충돌했습니다 (CNN)\n· 탑승자 3명 전원이 숨졌다고 보안관실이 밝혔습니다 (CNN)\n· 사고 여파로 인근 고속도로 통행이 차단됐습니다 (더 힌두)\n\n출처: CNN·더 타임스 오브 인디아·더 힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 오리건주 공항 인근 상공에서 헬기 두 대가 공중에서 충돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN은 보안관실을 인용해 탑승자 3명이 숨졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "충돌한 헬기에는 총 3명이 타고 있었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사고 여파로 인근 고속도로 통행이 차단됐습니다.",
+      "card": "map"
+    }
+  ],
+  "hook": "미국 [[오리건주]] 상공에서\n무슨 일이?",
+  "broll": [
+    "helicopter flying sky",
+    "police tape road"
+  ],
+  "place_en": "Oregon, USA"
+}

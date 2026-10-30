@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "uk-yorkshire-zoo-tiger-attack-2026",
-    "topic": "영국 야생동물 공원에서 호랑이 습격으로 사망자 발생",
-    "slug": "2026-10-11-news-uk-yorkshire-zoo-tiger-attack-2026",
-    "cluster": "CBMiW0FVX3lxTE1hNVE4NkdyTkFGQVVpeEh4aDBpQWRjT0FBN0xKRV9BdWtWbWg0NjNlV24zWndpRklocW45UllwTGZnZkozbi1sZWsxVDZtNmhqMUxyM3BPdmVpZjg",
-    "badge": "breaking",
-    "at": 1791684434.7298265,
-    "country": "영국",
-    "category": "사고"
-  },
-  {
     "event_key": "us-military-strikes-cargo-vessel-iran-blockade-2026",
     "topic": "미군, 오만만에서 이란행 화물선 타격",
     "slug": "2026-10-11-news-us-military-strikes-cargo-vessel-iran-blockade-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793329761.7712417,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "oregon_helicopter_midair_collision_2026",
+    "topic": "미국 오리건주서 헬기 2대 공중 충돌… 3명 사망",
+    "slug": "2026-10-30-news-oregon-helicopter-midair-collision-2026",
+    "cluster": "CBMi8wFBVV95cUxNbVZ3c2lzYThpMzFxTWhfcjBJNWNSdzhmbVpTZzNOZVU0UFpzVFlpQWlFUlI4N0IyaXFGWTVpcEYyOWxkUDFGNHBEcU9aWUZ6bVJXa043d1JxOFRaaFB0RWlNV0RnLWVhQkVON2xndmZZOVZDVnFkVk8ycnVZd2VGam52aWNtR1JzOHI4ZnhRLVNFVjVNRE5rM0V5VWJTR2JUVHN0VDI1SXFCdDRMekRSUkF4R1ZtTGJsakpyUGdCNVp5dEdiM3pwQWtac1BTRGVEVzJjV3BQR0k4UXdwTWVRYnBZckU3a2pMZzNlc1ZRd0R2TG8",
+    "badge": "breaking",
+    "at": 1793336972.8002155,
+    "country": "미국",
+    "category": "사고"
   }
 ]
