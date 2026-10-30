@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-dod-iran-war-casualties-update-2026",
-    "topic": "미 국방부 이란전 사망 21명으로 수정",
-    "slug": "2026-10-11-news-us-dod-iran-war-casualties-update-2026",
-    "cluster": "CBMidEFVX3lxTE0ybF9zYzlGQjlZQXBoS0dXb21FWkRRa0IwSWFCX0VKTFVOQkpZLUlkMWNtbGx5ZVphamJwMnhiMVV5ZmsydG92ZF9IR05xcGRjR094WnBCZ1RXVW1mV19OUHRORDVoZXB4U2xIUjB5TkU3LTM10gF0QVVfeXFMTWxXWHJISGp5cEFHYUVzQnYxdFhuRUxYUl9USnhDbWlTTUNUTlFYTXVfdFNodWtqa3JrMXF6RGpUSkt6WTJlSHB6NEdfbWlocl9YVHFJVVE0eWk3OVM5SlRHRmZfbGotMFY4WUJHcEZoTlZ6dWQ",
-    "badge": "brief",
-    "at": 1791709942.5527194,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "pakistan-khyber-pakhtunkhwa-emergency-rule-2026",
     "topic": "파키스탄 카이베르파크툰크와주에 비상사태 선포",
     "slug": "2026-10-11-news-pakistan-khyber-pakhtunkhwa-emergency-rule-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793372976.8073683,
     "country": "스페인",
     "category": "사고"
+  },
+  {
+    "event_key": "us_pennsylvania_measles_outbreak_2026",
+    "topic": "미국 펜실베이니아주 홍역 확진자 급증",
+    "slug": "2026-10-31-news-us-pennsylvania-measles-outbreak-2026",
+    "cluster": "CBMiuAFBVV95cUxPaFhlMGw2LWVlLVYxbWZ0OXo3aFhYb3ZWYXV0TEpzX19NdHJ5VTNsRF9EYjVONjBXUlFjQUVXT1J5SC1PODJEazltN2NvVkFERWRKeUVyaUdsM2FZcmd0VWxWeXNkNVBGVVdCZnR1R3lraThTOFZSbHRhRF9pb2JoNjFJTkxSTG1ERzBZMktjaVVMNzlKY1ktWnB6UFUzY3ZOMWVnVEFFOUJsOFBQQXE1ZkRoZ0ZQZ2ZO",
+    "badge": "breaking",
+    "at": 1793383784.9294798,
+    "country": "미국",
+    "category": "재난"
   }
 ]

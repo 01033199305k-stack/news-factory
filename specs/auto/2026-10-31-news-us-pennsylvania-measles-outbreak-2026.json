@@ -1,0 +1,144 @@
+{
+  "slug": "2026-10-31-news-us-pennsylvania-measles-outbreak-2026",
+  "topic": "미국 펜실베이니아주 홍역 확진자 급증",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 01:13 KST",
+  "source": "AP News·Reuters·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuAFBVV95cUxPaFhlMGw2LWVlLVYxbWZ0OXo3aFhYb3ZWYXV0TEpzX19NdHJ5VTNsRF9EYjVONjBXUlFjQUVXT1J5SC1PODJEazltN2NvVkFERWRKeUVyaUdsM2FZcmd0VWxWeXNkNVBGVVdCZnR1R3lraThTOFZSbHRhRF9pb2JoNjFJTkxSTG1ERzBZMktjaVVMNzlKY1ktWnB6UFUzY3ZOMWVnVEFFOUJsOFBQQXE1ZkRoZ0ZQZ2ZO",
+    "related": [
+      [
+        "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines",
+        "AP News"
+      ],
+      [
+        "'No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases",
+        "The Independent"
+      ],
+      [
+        "A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say",
+        "CNBC"
+      ],
+      [
+        "Pennsylvania measles cases near 1,400, state health department says",
+        "Reuters"
+      ],
+      [
+        "US measles cases rise to 4,852, CDC says",
+        "Miami Herald"
+      ]
+    ],
+    "event_key": "us_pennsylvania_measles_outbreak_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 [[펜실베이니아]]주\n홍역 확진자 급증",
+      "sub": "사망자 5명 발생 및 1,350건 넘는 감염 보고",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "5명"
+        },
+        {
+          "k": "확진",
+          "v": "1,350명 이상"
+        }
+      ],
+      "alt": "미국 펜실베이니아주 홍역 확진자 급증",
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n펜실베이니아",
+      "video_only": true,
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "펜실베이니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "확산 지역",
+          "d": "펜실베이니아주의 아미시 지역을 중심으로 역사적인 홍역 유행이 발생했다고 AP 통신이 보도했습니다."
+        },
+        {
+          "t": "전국 통계",
+          "d": "질병통제예방센터는 미국 전역의 홍역 환자가 4,852명으로 늘었다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 5명 (인디펜던트)",
+        "펜실베이니아 홍역 환자 1,350명 이상 (인디펜던트)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "홍역 확산의 정확한 최종 규모와 추가 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNBC",
+        "Miami Herald",
+        "Reuters",
+        "The Independent",
+        "2026.10.31 03:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 펜실베이니아주 아미시 지역에서 홍역 확산으로 사망 5명이 발생했습니다 (인디펜던트)\n\n· 지역 내 홍역 확진 사례는 1,350건을 넘어섰다고 전했습니다 (인디펜던트)\n· 질병통제예방센터는 미국 전역의 홍역 환자가 4,852명으로 집계됐다고 밝혔습니다 (마이애미 헤럴드)\n· 한국인 피해 여부는 아직 확인되지 않았습니다\n\n출처: AP 통신·인디펜던트·로이터·마이애미 헤럴드 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펜실베이니아주 아미시 지역에서 홍역이 확산하면서 5명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인디펜던트는 해당 지역의 홍역 확진 사례가 1,350건을 넘어섰다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "질병통제예방센터는 미국 전역의 홍역 환자가 4,852명으로 늘었다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[펜실베이니아]]주에서\n확산 중인 감염병은?",
+  "broll": [
+    "hospital building exterior",
+    "medical center sign"
+  ],
+  "place_en": "Pennsylvania, USA"
+}
