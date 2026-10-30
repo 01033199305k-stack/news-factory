@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "pakistan-khyber-pakhtunkhwa-emergency-rule-2026",
-    "topic": "파키스탄 카이베르파크툰크와주에 비상사태 선포",
-    "slug": "2026-10-11-news-pakistan-khyber-pakhtunkhwa-emergency-rule-2026",
-    "cluster": "CBMi6wFBVV95cUxPNk12TGJyX0gxbm0xRUM4V0xmdVlYaWxwVHE4cXhtaTJGdUt1RTNFRjVaWUZlcGRMWXNXcThmWm9NcTlXSy1lVUFIYmgzb1FQRFdpRElLUDRQMU1mMXBLUDJUQVdJNmZhamtkaDVlYTZYRGx6ZU04YXBfSzJDRzJrYWdWMHAwUVBwd0hoYzd5NjR1V2lxdllrSEYtNkEyeUowREpGOE15NHlYN0pkTTlLZG0yXzdmQUg2UnRBWjdTcFYxUlBzUElnSzVpWm9GTVBiVTZfX2IyZkx5dE1MOHZoMDZFMk12QjdiZEZz",
-    "badge": "breaking",
-    "at": 1791716987.493414,
-    "country": "파키스탄",
-    "category": "국제"
-  },
-  {
     "event_key": "ukraine-drone-strikes-russia-yandex-datacenter-2026",
     "topic": "우크라, 러 데이터센터 타격 '러시아의 구글' 마비",
     "slug": "2026-10-11-news-ukraine-drone-strikes-russia-yandex-datacenter-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793383784.9294798,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "strait_of_hormuz_tanker_mine_attack_2026",
+    "topic": "호르무즈 유조선 폭발 기뢰 공격으로 화재",
+    "slug": "2026-10-31-news-strait-of-hormuz-tanker-mine-attack-2026",
+    "cluster": "CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ",
+    "badge": "breaking",
+    "at": 1793390976.9963984,
+    "country": "이란",
+    "category": "국제"
   }
 ]

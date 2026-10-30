@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-31-news-strait-of-hormuz-tanker-mine-attack-2026",
+  "topic": "호르무즈 유조선 폭발 기뢰 공격으로 화재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 02:39 KST",
+  "source": "AP News·Al Jazeera·Bloomberg.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ",
+    "related": [
+      [
+        "Iran says 3 tankers strike mines and catch fire in Strait of Hormuz, and other Mideast news",
+        "AP News"
+      ],
+      [
+        "Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms",
+        "CNBC"
+      ],
+      [
+        "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+        "Al Jazeera"
+      ],
+      [
+        "Rare Speedboat Attack in Hormuz Ignites Tanker’s Engine Room",
+        "Bloomberg.com"
+      ],
+      [
+        "Tanker in Strait of Hormuz hit by limpet mines, security sources say",
+        "Reuters"
+      ]
+    ],
+    "event_key": "strait_of_hormuz_tanker_mine_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[호르무즈]] 유조선 폭발\n기뢰 공격으로 화재",
+      "sub": "중동 해상 요충지서 공격 받아 선원 25명 구조",
+      "chips": [
+        {
+          "k": "구조",
+          "v": "25명"
+        }
+      ],
+      "alt": "호르무즈 유조선 폭발 기뢰 공격으로 화재",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유조선 기뢰 공격",
+          "d": "호르무즈 해협을 지나던 유조선이 기뢰 공격을 받아 엔진룸에 불이 났습니다 (로이터·블룸버그)."
+        },
+        {
+          "t": "선원 25명 구조",
+          "d": "오만 당국은 불이 난 유조선에서 선원 25명을 구조했다고 밝혔습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호르무즈 해협 유조선 기뢰 공격 및 화재",
+        "선원 25명 구조"
+      ],
+      "unconfirmed": [
+        "공격 주체 및 배후",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "Bloomberg.com",
+        "CNBC",
+        "Reuters",
+        "2026.10.31 05:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협에서 유조선이 기뢰 공격을 받아 화재가 발생했습니다.\n\n· 호르무즈 해협에서 유조선이 기뢰 공격을 받아 엔진룸에 불이 났습니다 (로이터·블룸버그).\n· 오만 당국은 불타는 유조선에서 선원 25명을 구조했습니다 (알자지라).\n· 이란 측은 해당 해협에서 유조선들이 기뢰 피해를 입었다고 주장했습니다 (AP·CNBC).\n\n질문: 중동 해상 요충지 호르무즈 해협의 상황, 어떻게 보십니까?\n\n출처: AP·로이터·블룸버그·알자지라·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 유조선이 기뢰 공격을 받아 불이 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "오만 당국은 알자지라를 통해 불타는 유조선에서 선원 25명을 구조했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 공격 주체는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중동 해상 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[호르무즈]] 유조선\n폭발한 이유는?",
+  "broll": [
+    "oil tanker sea",
+    "coast guard rescue boat"
+  ],
+  "place_en": "Strait of Hormuz"
+}
