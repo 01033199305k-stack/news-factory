@@ -81,10 +81,14 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (사고)",
         "at": 1793373220
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793376399
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 1
     },
     "video": "video.mp4"
