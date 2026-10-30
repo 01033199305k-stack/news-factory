@@ -1,169 +1,5 @@
 [
   {
-    "slug": "2026-10-30-news-israel-election-final-results-no-majority-2026",
-    "event_ms": 1793315269000,
-    "category": "국제",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 이스라엘 총선 결과 과반을 확보한 정당이 없었습니다.\n\n· 네타냐후 총리와 야권 모두 즉각 연립정부를 구성하지 못했습니다 (NBC·CNN)\n· 어느 세력도 과반 의석을 확보하지 못했습니다 (NYT·로이터)\n\n독자 여러분은 이번 선거 결과에 대해 어떻게 보십니까?\n\n출처: NYT·NBC·CNN·로이터 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "국제",
-      "이스라엘"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "17914672725515692",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfGdu0PjHYZ",
-        "kind": "carousel",
-        "at": 1793325799
-      },
-      "instagram": {
-        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
-        "at": 1793329992
-      }
-    },
-    "attempts": {
-      "instagram": 3
-    },
-    "video": "video.mp4"
-  },
-  {
-    "slug": "2026-10-30-news-patrick-stuart-death-2026",
-    "event_ms": 1793323451000,
-    "category": "기타 사건",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 스타트렉 배우 패트릭 스튜어트가 향년 86세로 별세했습니다\n\n· 스타트렉 선장과 엑스맨 슈퍼히어로로 활약했습니다 (할리우드 리포터)\n· 루이체 치매를 앓아온 것으로 전해졌습니다 (로스앤젤레스 타임스)\n· 할리우드 동료들의 추모가 이어지고 있습니다 (타임)\n\n출처: 할리우드 리포터·로스앤젤레스 타임스·타임 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "기타 사건",
-      "영국"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "17956645389032249",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfGeWiJjUIu",
-        "kind": "carousel",
-        "at": 1793326126
-      },
-      "instagram": {
-        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
-        "at": 1793333208
-      }
-    },
-    "attempts": {
-      "instagram": 3
-    },
-    "video": "video.mp4"
-  },
-  {
-    "slug": "2026-10-30-news-erin-patterson-appeal-denied-2026",
-    "event_ms": 1793320456000,
-    "category": "기타 사건",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 호주 독버섯 살인 사건 범인 에린 패터슨의 항소가 기각됐습니다\n\n· 항소법원은 기존 형량이 너무 가볍다고 판단했습니다 (CNN)\n· 피고인은 가중된 처벌과 함께 종신형을 선고받았습니다 (더 텔레그래프)\n\n출처: BBC·CNN·더 텔레그래프 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "기타 사건",
-      "호주"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18143611540524979",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfGeazqDVtR",
-        "kind": "carousel",
-        "at": 1793326160
-      },
-      "instagram": {
-        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
-        "at": 1793333208
-      }
-    },
-    "attempts": {
-      "instagram": 3
-    },
-    "video": "video.mp4"
-  },
-  {
-    "slug": "2026-10-30-news-yemen-houthi-saudi-missile-attack-2026",
-    "event_ms": 1793319313000,
-    "category": "국제",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 후티 반군, 사우디 향해 탄도미사일 발사\n\n· 사우디-주도 연합군은 동부 지역을 향해 날아온 탄도미사일을 방공망으로 요격해 파괴했다고 밝혔습니다 (CGTN·Gulf News)\n· 후티 반군 측은 사우디 공항과 석유 시설 등을 겨냥해 6차례 공격을 감행했다고 주장했습니다 (Al Jazeera·Reuters)\n\n이번 중동 지역의 군사적 충돌 격화에 대해 여러분은 어떻게 보십니까?\n\n출처: Al Jazeera·Reuters·CGTN 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "국제",
-      "사우디아라비아"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "17936960088407052",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfGlYUCjaxA",
-        "kind": "carousel",
-        "at": 1793329808
-      },
-      "instagram": {
-        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
-        "at": 1793337163
-      }
-    },
-    "attempts": {
-      "instagram": 3
-    },
-    "video": "video.mp4"
-  },
-  {
     "slug": "2026-10-30-news-oregon-helicopter-midair-collision-2026",
     "event_ms": 1793327700000,
     "category": "사고",
@@ -193,10 +29,20 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfGzIM-HFPI",
         "kind": "carousel",
         "at": 1793337019
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793339766
+      },
+      "tiktok": {
+        "id": "7702337374243671314",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702337374243671314",
+        "kind": "video",
+        "at": 1793340283
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
