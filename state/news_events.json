@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "nepal-budhi-gandaki-flash-flood-evacuation-2026",
-    "topic": "산사태 이어 돌발 홍수 네팔 북부 주민 대피령",
-    "slug": "2026-10-11-news-nepal-budhi-gandaki-flash-flood-evacuation-2026",
-    "cluster": "CBMi5AFBVV95cUxOWXpKd0gwRmJKeE9VRHIwTXRCaE9xV2RkOFNmZnp2RHFIWEZTaUpGSm1zWW5mMHBVVWoxbUs1Qlp0bW9xNHZNeW9tQW03bWhncEZpTERidkpQbnJ6bVJTQUlxdTNoZGJBZXlBdjJVSXY3OXplcnA0SWVuaW5HMWxjaWc1VFJKRjlHSDJ1ekxOc3VGNUUxUDdBeTdOb3d4Z1hsN01qMWFJSVJGcXJ5dktqaWNOR1dOMjlkZlpyVXNZS1FySEtnRHl4RzlPWm9la1VIQ1hpYmx5UHZETXFvWVktLTJpckfSAewBQVVfeXFMUDk1dFVTTjQzTWZwdnAzdDk0YTFCV3RPQ1BUclNZSUhYZHhGR2pLcER2TnBzdzFrWDZ2QTM5ckRQVUh4VjBYdGNlS29ETW55YTNpZm1SbkU1OFoxTWFMMXRBS2FQYkl2dlkxTFhobDNlY3lLb25qcG9leDd3dHh1ZDZfM2g1bFI1cnZxSzFVdkNlYU1KYVhoM3YyanJNakc4Q1UtenRYT0RSOGxNMjMtN0J2ZldxdE9lN1h0QllvWlRNV3BBblViVWtwdHpzZzVES0pGa2VEc1BjQ0tZb2d2dDJVTFk0WWtQNi1rR2k",
-    "badge": "breaking",
-    "at": 1791705167.823104,
-    "country": "네팔",
-    "category": "재난"
-  },
-  {
     "event_key": "us-dod-iran-war-casualties-update-2026",
     "topic": "미 국방부 이란전 사망 21명으로 수정",
     "slug": "2026-10-11-news-us-dod-iran-war-casualties-update-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793365759.2013066,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "spain_high_speed_train_crash_2026",
+    "topic": "스페인 고속열차 탈선 사고 사망자 69명으로 늘어",
+    "slug": "2026-10-30-news-spain-high-speed-train-crash-2026",
+    "cluster": "CBMiW0FVX3lxTE1ObF9kR1luX05CcDkxYjVSclhLWmJsYmNzQm1Zbi1Vb0IyTFRJZENrWVVtTkxzMUxqWjV4b1dKVXhrbmd3MlQ0Z1A1S0Z3cWVEdEp0U1dVYUZfelE",
+    "badge": "breaking",
+    "at": 1793372976.8073683,
+    "country": "스페인",
+    "category": "사고"
   }
 ]

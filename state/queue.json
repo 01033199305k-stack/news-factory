@@ -29,10 +29,59 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfHqCpAG2h-",
         "kind": "carousel",
         "at": 1793365809
+      },
+      "youtube": {
+        "id": "58khV7QUVeE",
+        "permalink": "https://youtube.com/shorts/58khV7QUVeE",
+        "kind": "shorts",
+        "at": 1793373210
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-30-news-spain-high-speed-train-crash-2026",
+    "event_ms": 1793365414000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스페인 고속열차 탈선 사고로 사망자 69명으로 늘었습니다\n\n· 올해 두 번째 발생한 치명적인 사고로 철도 신뢰가 무너졌다고 스페인 총리가 밝혔습니다 (가디언)\n· 교통장관은 이번 참사와 관련해 사퇴하지 않겠다는 입장을 밝혔습니다 (BBC)\n\n출처: BBC·가디언·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "스페인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18480414088116218",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfH38hWFLve",
+        "kind": "carousel",
+        "at": 1793373096
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793373220
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

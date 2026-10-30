@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-30-news-spain-high-speed-train-crash-2026",
+  "topic": "스페인 고속열차 탈선 사고 사망자 69명으로 늘어",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.30 22:03 KST",
+  "source": "BBC·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1ObF9kR1luX05CcDkxYjVSclhLWmJsYmNzQm1Zbi1Vb0IyTFRJZENrWVVtTkxzMUxqWjV4b1dKVXhrbmd3MlQ0Z1A1S0Z3cWVEdEp0U1dVYUZfelE",
+    "related": [
+      [
+        "Spain transport minister says he won't resign over high-speed rail disaster",
+        "BBC"
+      ],
+      [
+        "Spain’s trust in high-speed rail ‘broken’ after second deadly crash this year, says PM",
+        "The Guardian"
+      ],
+      [
+        "Why Does Spain Keep Having Deadly Rail Accidents?",
+        "WSJ"
+      ],
+      [
+        "Spanish train crash death toll rises to 69 in grim search for victims",
+        "Reuters"
+      ],
+      [
+        "Spain’s latest deadly train crash puts human error and systemic failure under scrutiny",
+        "The Seattle Times"
+      ]
+    ],
+    "event_key": "spain_high_speed_train_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페인 고속열차 탈선 사고\n사망자 [[69명]]으로 늘어",
+      "sub": "스페인 총리, 올해 두 번째 대형 참사로 철도 신뢰 무너졌다고 밝혀",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "69명"
+        },
+        {
+          "k": "사고",
+          "v": "고속열차"
+        }
+      ],
+      "alt": "스페인 고속열차 탈선 사고 사망자 69명으로 늘어",
+      "map": {
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n마드리드",
+      "video_only": true,
+      "map": {
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마드리드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 69명",
+          "d": "희생자 수색 작업이 이어지는 가운데 사망자가 69명으로 늘었습니다 (로이터)."
+        },
+        {
+          "t": "철도 신뢰 붕괴",
+          "d": "스페인 총리는 올해 두 번째 발생한 치명적인 사고로 철도에 대한 신뢰가 깨졌다고 밝혔습니다 (가디언)."
+        },
+        {
+          "t": "장관 거부",
+          "d": "스페인 교통장관은 고속열차 참사에 책임을 지고 사퇴하지 않겠다고 밝혔습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망자 69명 (로이터)",
+        "교통장관 사퇴 거부 (BBC)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "The Seattle Times",
+        "WSJ",
+        "2026.10.31 00:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페인 고속열차 탈선 사고로 사망자 69명으로 늘었습니다\n\n· 올해 두 번째 발생한 치명적인 사고로 철도 신뢰가 무너졌다고 스페인 총리가 밝혔습니다 (가디언)\n· 교통장관은 이번 참사와 관련해 사퇴하지 않겠다는 입장을 밝혔습니다 (BBC)\n\n출처: BBC·가디언·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인에서 고속열차 탈선 사고로 사망자가 69명으로 늘었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 희생자 수색 작업이 이어지며 인명 피해가 커졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "스페인 총리는 올해 두 번째 대형 참사로 철도 신뢰가 무너졌다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "스페인 [[고속열차]] 탈선\n사망자 69명",
+  "broll": [
+    "train crash railway",
+    "emergency responders night"
+  ],
+  "place_en": "Madrid, Spain"
+}
