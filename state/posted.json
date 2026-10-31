@@ -29551,5 +29551,56 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793398282
+  },
+  {
+    "slug": "2026-10-31-news-poland-court-crisis-president-return",
+    "event_ms": 1793408193200,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 폴란드 대통령이 사법부 갈등 여파로 해외 순방 중 비행기를 돌렸습니다\n\n· 최고법원장이 정직 처분을 받으며 권력 다툼이 격화됐습니다 (로이터·파이낸셜 타임스)\n· 최고법원 통제권을 둘러싼 대치로 경찰이 배치됐습니다 (BBC)\n· 대통령은 세네갈 방문길에 오르던 중 비행기를 회항했습니다 (유로뉴스)\n\n이번 폴란드 사법부 갈등, 어떻게 보십니까?\n\n출처: 로이터·BBC·폴리티코 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "폴란드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18129307646477415",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfI6-X-DE23",
+        "kind": "carousel",
+        "at": 1793408239
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793408421
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793412844
+      },
+      "tiktok": {
+        "failed": "createPost: Invalid post: Video could not be read from its URL.",
+        "at": 1793416370
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793416370
   }
 ]

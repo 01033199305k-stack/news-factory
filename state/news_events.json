@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "djibouti-yemen-migrant-boat-capsizes-2026",
-    "topic": "이주민 보트 전복 참사 어린이 포함 109명 사망",
-    "slug": "2026-10-11-news-djibouti-yemen-migrant-boat-capsizes-2026",
-    "cluster": "CBMixAFBVV95cUxOa3otdUpMV081a0ZSLTRCeHRwM2ZRV05qYi1nUHgtSHpjMnVPU2FXUV9jZ0JCYjFsTC1xN2lBUzNGTE9JeFNUMmlpV01pcnNkejk2TFdSMkp2WURRRWhNZloyRVRaTEYzamRTNXUwTV80ZkhoUE9OR1gwYWJVMUpwemhuMkVZT2dYLVF5NVUwSnJWNngtRFhJcDFHWkxjNmlDSDZEUlJ4R0hSQTBtN2JXb2s3MmUyaFBMSlJmNHc1WGdJVXEt",
-    "badge": "breaking",
-    "at": 1791724093.8496163,
-    "country": "지부티",
-    "category": "사고"
-  },
-  {
     "event_key": "trump-announces-russia-ukraine-energy-ceasefire-2026",
     "topic": "트럼프, 러·우크라 에너지 휴전 발표",
     "slug": "2026-10-11-news-trump-announces-russia-ukraine-energy-ceasefire-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793408193.2003853,
     "country": "폴란드",
     "category": "국제"
+  },
+  {
+    "event_key": "incheon_yeongheungdo_fishing_boat_fire_2026",
+    "topic": "인천 해상 낚시어선 화재 22명 전원 구조",
+    "slug": "2026-10-31-news-incheon-yeongheungdo-fishing-boat-fire-2026",
+    "cluster": "CBMiW0FVX3lxTE9MWTI0LWdJTnd5NGw3Zm1PUzMyUS1ySzUtVTl4ZDh1RUQxLWR5c2VnNEhrV0lCcTJCQnU5M1NjLU9GNUNXMGRFa0JnRXlvNGpyTEd4Y3Uza0JXU3M",
+    "badge": "breaking",
+    "at": 1793416031.4543831,
+    "country": "한국",
+    "category": "폭발·화재"
   }
 ]
