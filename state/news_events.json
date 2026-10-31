@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "turkiye-bus-truck-crash-2026",
-    "topic": "튀르키예서 버스 트럭 추돌 사망 11명 발생",
-    "slug": "2026-10-12-news-turkiye-bus-truck-crash-2026",
-    "cluster": "CBMirgFBVV95cUxNcVNoWVpoeGVXbWtSd3dhVHJTRG5TRU9xNHA1c0xuNlpxcHdfLXhENTVSUlVjbmRqaGR3TF9QNnJucUJHXzJaNERaYVFkZGRGVFdzcnRGc3ZEVmhYMmI5U0N0MWRWTDhLMzNwdnhaMzR6MTBqdldzR21kbzVwMFUtWUloY0U4V1loYkU1QWdrcWtIbDEyc2VlZk91RmdOenJPNEpRWS1RalB5ZWJMTFHSAbMBQVVfeXFMTmxxWTVOaV9XVmE0V0pERUZIRU1Kd2czRHk2MzBkVEpjOGJfMmxSVExGQlBuQ1Z5MWdqd2xMU0lMTUdCalpfWTJqOUpDdlhsVGtXVW9LcHkxcDd0SkxoT2E2NVo2OG0zRzdqRC1CcXZHaFRzNVpJcGlTU1RObEpGMTBKTUVCV3hZOWNJU3BCb2tpeWNvcTBhX2J3SU9FZ1V2TmlBZkFlWFlDMm41SUdzTVRfQ0k",
-    "badge": "breaking",
-    "at": 1791742979.9727843,
-    "country": "튀르키예",
-    "category": "사고"
-  },
-  {
     "event_key": "sudan-egypt-border-mine-airstrike-2026",
     "topic": "수단·이집트 국경 금광 공습으로 72명 사망",
     "slug": "2026-10-12-news-sudan-egypt-border-mine-airstrike-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793441490.318667,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "iran_us_qatar_talks_2026",
+    "topic": "카타르 중재로 테헤란서 회담 미·이란 협상 재개 추진",
+    "slug": "2026-10-31-news-iran-us-qatar-talks-2026",
+    "cluster": "CBMidEFVX3lxTFBiRHpqS0x5SmJQb3ZZSFpkMXZXS0lVdzl4NTdaWGltUWdRWFpOOU1CbGFXVFNZSnNiZlRyMC1YQ0hGb0NDQjdOSGRQQVJpS2ZqR3ZBLUFhTEhhNnVPUEp5QTlTY0dTTU1wUGlWc29uc1NLeDBS0gF6QVVfeXFMUG4zZG1qRkdIS3diX2R1Qkt2dTIxc2Y1R3E1MG4wSFBVcktzUmRfdXVVRmNTSm44ZjBIZ01fbWpCVF84LXpPd29RSjIzMmMxcVh0WlhUWld6N1RNRGEzTWtPcHhmWWczMEVNY2ktamdrdXd3QjYtZG5HLVE",
+    "badge": "brief",
+    "at": 1793452090.7977145,
+    "country": "이란",
+    "category": "국제"
   }
 ]

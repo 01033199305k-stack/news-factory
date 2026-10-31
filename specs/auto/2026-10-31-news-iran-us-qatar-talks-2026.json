@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-31-news-iran-us-qatar-talks-2026",
+  "topic": "카타르 중재로 테헤란서 회담 미·이란 협상 재개 추진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 21:11 KST",
+  "source": "Al Jazeera·Reuters·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMidEFVX3lxTFBiRHpqS0x5SmJQb3ZZSFpkMXZXS0lVdzl4NTdaWGltUWdRWFpOOU1CbGFXVFNZSnNiZlRyMC1YQ0hGb0NDQjdOSGRQQVJpS2ZqR3ZBLUFhTEhhNnVPUEp5QTlTY0dTTU1wUGlWc29uc1NLeDBS0gF6QVVfeXFMUG4zZG1qRkdIS3diX2R1Qkt2dTIxc2Y1R3E1MG4wSFBVcktzUmRfdXVVRmNTSm44ZjBIZ01fbWpCVF84LXpPd29RSjIzMmMxcVh0WlhUWld6N1RNRGEzTWtPcHhmWWczMEVNY2ktamdrdXd3QjYtZG5HLVE",
+    "related": [
+      [
+        "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+        "CNBC"
+      ],
+      [
+        "Qatari mediators return to Tehran to push for US-Iran deal, official says",
+        "Reuters"
+      ],
+      [
+        "Iran to shift uranium stockpile abroad, reopen Hormuz within 7 days under draft deal: Report",
+        "The Times of India"
+      ],
+      [
+        "Diplomacy or war? Qatar signals Iran breakthrough as US warns Gulf states to prepare for war",
+        "Ynetnews"
+      ],
+      [
+        "Qatari officials in Iran in bid to revive ceasefire deal with US",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "iran_us_qatar_talks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "카타르 중재로 테헤란서 회담\n미·이란 [[협상 재개]] 추진",
+      "sub": "이란의 우라늄 국외 이전 등 초안 거론",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "테헤란"
+        }
+      ],
+      "alt": "카타르 중재로 테헤란서 회담 미·이란 협상 재개 추진",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "회담 재개",
+          "d": "카타르 중재자들이 테헤란에서 미국과 이란의 직접 협상 재개를 위한 회담을 열었습니다 (CNBC·로이터)."
+        },
+        {
+          "t": "초안 내용",
+          "d": "일부 보도에 따르면 우라늄 비축분을 해외로 이전하고 호르무즈 해협을 다시 여는 방안이 초안에 포함됐습니다 (타임스오브인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "카타르 중재자 테헤란 방문",
+        "미·이란 협상 재개 타진"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "초안 합의 최종 서명 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNBC",
+        "Reuters",
+        "The Times of India",
+        "Ynetnews",
+        "2026.10.31 22:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 카타르 중재로 테헤란서 회담…미·이란 협상 재개 추진\n\n· 카타르 중재자들이 테헤란을 방문해 미국과 이란의 직접 협상 재개를 위한 회담을 열었습니다 (CNBC·로이터)\n· 우라늄 비축분을 해외로 이전하고 호르무즈 해협을 다시 여는 방안 등이 초안으로 거론되고 있습니다 (타임스오브인디아·와이넷뉴스)\n\n여러분은 이번 미국과 이란의 협상 재개 움직임, 어떻게 보십니까?\n\n출처: CNBC·로이터·타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "카타르 중재자들이 테헤란에서 미국과 이란의 협상 재개를 위한 회담을 열었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신 등은 우라늄 비축분 국외 이전과 호르무즈 해협 재개방 방안이 거론되고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "합의 초안이 실제로 성사될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미국과 이란의 협상 재개 움직임, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "협상 재개, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "테헤란에서 열린\n[[회담]]의 결과는?",
+  "broll": [
+    "diplomatic meeting room",
+    "government building exterior"
+  ],
+  "place_en": "Tehran, Iran"
+}
