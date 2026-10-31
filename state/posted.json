@@ -29818,5 +29818,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793448469
+  },
+  {
+    "slug": "2026-10-31-news-iran-us-qatar-talks-2026",
+    "event_ms": 1793452090797,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 카타르 중재로 테헤란서 회담…미·이란 협상 재개 추진\n\n· 카타르 중재자들이 테헤란을 방문해 미국과 이란의 직접 협상 재개를 위한 회담을 열었습니다 (CNBC·로이터)\n· 우라늄 비축분을 해외로 이전하고 호르무즈 해협을 다시 여는 방안 등이 초안으로 거론되고 있습니다 (타임스오브인디아·와이넷뉴스)\n\n여러분은 이번 미국과 이란의 협상 재개 움직임, 어떻게 보십니까?\n\n출처: CNBC·로이터·타임스오브인디아 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18222706189339851",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfKOs-7Fjao",
+        "kind": "carousel",
+        "at": 1793452139
+      },
+      "youtube": {
+        "id": "rgFzOBxXQec",
+        "permalink": "https://youtube.com/shorts/rgFzOBxXQec",
+        "kind": "shorts",
+        "at": 1793452258
+      },
+      "tiktok": {
+        "id": "7702818864442182932",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702818864442182932",
+        "kind": "video",
+        "at": 1793452389
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793455602
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793455602
   }
 ]
