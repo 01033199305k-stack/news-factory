@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-01-news-un-security-council-western-sahara-resolutions-fail-2026",
+  "topic": "유엔 서사하라 결의안 미·러 안보리서 모두 부결",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.01 03:24 KST",
+  "source": "Al Jazeera·Bloomberg.com·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxQRlBQdEZ2VF9xdmV6cGNZeUdmVG53ZnNKOEhBMG4tMzFPRzNCNUt0eWRLdk9nSnlLLUNVbW9OQV95LUxPcU9oTDEyVVpvMnFBTjlITmNiREhaWW41YzlpUjA5NzZNQkVSMndBSGhiaWxPZmJRUnpMcDlyNWZEXzdhT0oxWWV5dGxZbll4TWpsajNZVEhadTJkV2IzbGRzM3NOMEpldDJn0gGrAUFVX3lxTFBNRGNTd3BPNmo4Z3hMWDZ6VTA0aU1aTEluYVhKTHFvMF9yZFJiSHVFaFlrVUlLZWF6VG1VNGpRTFNobUw3eGY1Zk95OC1mY0puS3pKX01OSElLcjNwSEd4d3otd3kzamlfV3hJNTluZFRuVEhDazlkeXRvc0RRSnVVVlZKNGhPRFFHUTZnNW04MU9Ub25rN0g3QnlJdVVKMW9DVzBCVUk1MzA3SQ",
+    "related": [
+      [
+        "Rival US and Russian resolutions on Western Sahara fail at UN",
+        "Al Jazeera"
+      ],
+      [
+        "Competing US, Russia resolutions on Western Sahara defeated in UN Security Council",
+        "Reuters"
+      ],
+      [
+        "Statement on a U.S.-Drafted UN Security Council Resolution on the Western Sahara Vetoed by the Russian Federation",
+        "United States Mission to the United Nations (.gov)"
+      ],
+      [
+        "US and Russia clash at UN Security Council, leaving North Africa peacekeeping mission on brink of total shutdown",
+        "Business Insider Africa"
+      ],
+      [
+        "UN Peace Mission to Western Sahara Hits Unprecedented Standoff",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "un_security_council_western_sahara_resolutions_fail_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "유엔 서사하라 결의안\n미·러 안보리서 [[모두 부결]]",
+      "sub": "북아프리카 평화유지군 임무 중단 위기에 놓였습니다",
+      "chips": [],
+      "alt": "유엔 서사하라 결의안 미·러 안보리서 모두 부결",
+      "map": {
+        "lat": 40.7496292,
+        "lon": -73.96739,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7496292,
+        "lon": -73.96739,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "양국 결의안 동반 부결",
+          "d": "미국과 러시아가 각각 제출한 서사하라 관련 안보리 결의안이 모두 채택되지 못했다고 로이터가 보도했습니다."
+        },
+        {
+          "t": "러시아 거부권 행사",
+          "d": "미국이 주도한 안보리 결의안에 러시아가 거부권을 행사했다고 유엔 주재 미국 대표부가 밝혔습니다."
+        },
+        {
+          "t": "평화유지군 파행 위기",
+          "d": "안보리 충돌로 북아프리카 평화유지 임무가 전면 중단될 위기에 처했다고 비즈니스 인사이더 아프리카가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국·러시아 결의안 동반 부결",
+        "러시아의 미국 결의안 거부권 행사"
+      ],
+      "unconfirmed": [
+        "서사하라 평화유지군 활동 지속 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "Business Insider Africa",
+        "Reuters",
+        "United States Mission to the United Nations (.gov)",
+        "2026.11.01 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 유엔 안보리에서 서사하라 결의안이 모두 부결됐습니다\n\n· 미국과 러시아가 각각 제안한 결의안이 모두 채택에 실패했습니다 (로이터)\n· 미국 측 결의안에는 러시아가 거부권을 행사했습니다 (미국 유엔 대표부)\n· 양국 대립으로 북아프리카 평화유지군 활동이 전면 중단될 위기입니다 (비즈니스 인사이더 아프리카)\n\n서사하라 평화유지 임무를 둘러싼 이번 안보리 표결, 어떻게 보십니까?\n출처: 알자지라·로이터·블룸버그·비즈니스 인사이더 아프리카 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유엔 안보리에서 서사하라 결의안이 모두 부결됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유엔 안보리에서 미·러 양측 안이 무산됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 양국 대립으로 표결이 통과되지 못했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "북아프리카 평화유지군 활동이 중단될지는 미지수입니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 안보리 충돌, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[유엔 안보리]]에서\n일어난 충돌",
+  "broll": [
+    "un headquarters building",
+    "security council chamber"
+  ],
+  "place_en": "United Nations Headquarters, New York"
+}

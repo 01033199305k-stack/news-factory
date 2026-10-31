@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "paris-marche-enfants-rouges-fire-destroyed-2026",
-    "topic": "파리 최고 시장 대형 화재로 전소",
-    "slug": "2026-10-12-news-paris-marche-enfants-rouges-fire-destroyed-2026",
-    "cluster": "CBMifkFVX3lxTE5objg4d3RDVTc3TmFvczhuSGwtajI4WFBJNnN4UGhTeXZEZ3VEdU1XbXpROVZZUVpfc0xOUlJmcnVWMG1zV3hzZnNsSUJhekJkNlhXeVoxb3hycUpxeUNPdXEtclprVmUtOXZmSDRmbXVKcllFdGdhZlRxcmZiZw",
-    "badge": "brief",
-    "at": 1791796168.7174144,
-    "country": "프랑스",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "flydubai-hijacking-attempt-9-11-style-israel-2026",
     "topic": "플라이두바이 부기장, 이스라엘 공항 자살 테러 모의",
     "slug": "2026-10-12-news-flydubai-hijacking-attempt-9-11-style-israel-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793470090.138451,
     "country": "프랑스",
+    "category": "국제"
+  },
+  {
+    "event_key": "un_security_council_western_sahara_resolutions_fail_2026",
+    "topic": "유엔 서사하라 결의안 미·러 안보리서 모두 부결",
+    "slug": "2026-11-01-news-un-security-council-western-sahara-resolutions-fail-2026",
+    "cluster": "CBMipgFBVV95cUxQRlBQdEZ2VF9xdmV6cGNZeUdmVG53ZnNKOEhBMG4tMzFPRzNCNUt0eWRLdk9nSnlLLUNVbW9OQV95LUxPcU9oTDEyVVpvMnFBTjlITmNiREhaWW41YzlpUjA5NzZNQkVSMndBSGhiaWxPZmJRUnpMcDlyNWZEXzdhT0oxWWV5dGxZbll4TWpsajNZVEhadTJkV2IzbGRzM3NOMEpldDJn0gGrAUFVX3lxTFBNRGNTd3BPNmo4Z3hMWDZ6VTA0aU1aTEluYVhKTHFvMF9yZFJiSHVFaFlrVUlLZWF6VG1VNGpRTFNobUw3eGY1Zk95OC1mY0puS3pKX01OSElLcjNwSEd4d3otd3kzamlfV3hJNTluZFRuVEhDazlkeXRvc0RRSnVVVlZKNGhPRFFHUTZnNW04MU9Ub25rN0g3QnlJdVVKMW9DVzBCVUk1MzA3SQ",
+    "badge": "breaking",
+    "at": 1793477284.4900386,
+    "country": "미국",
     "category": "국제"
   }
 ]

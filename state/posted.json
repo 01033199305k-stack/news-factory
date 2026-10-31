@@ -30036,5 +30036,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793471996
+  },
+  {
+    "slug": "2026-11-01-news-france-protests-halloween-2026",
+    "event_ms": 1793468598000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 프랑스 등 유럽서 대규모 시위… 경찰과 충돌해 최루탄 발사\n\n· 독일과 프랑스 등 유럽 전역에서 청년층 주도의 시위가 이어졌습니다 (PBS·가디언)\n· 프랑스 경찰은 시위대를 향해 최루탄을 발사하며 충돌했습니다 (타임스오브이스라엘)\n\n여러분은 이번 유럽 청년층의 연속 시위가 향후 정국에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 뉴욕타임스·로이터·PBS·가디언·타임스오브이스라엘 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "프랑스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18158282821519402",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfKxCFPiQRp",
+        "kind": "carousel",
+        "at": 1793470136
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793473733
+      },
+      "youtube": {
+        "id": "7S3TsOTEdpw",
+        "permalink": "https://youtube.com/shorts/7S3TsOTEdpw",
+        "kind": "shorts",
+        "at": 1793477568
+      },
+      "tiktok": {
+        "id": "7702927844430581000",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702927844430581000",
+        "kind": "video",
+        "at": 1793477776
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793477786
   }
 ]
