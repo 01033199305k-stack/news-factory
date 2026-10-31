@@ -1,0 +1,141 @@
+{
+  "slug": "2026-10-31-news-fairfield-mall-shooting-2026",
+  "topic": "미국 캘리포니아 쇼핑몰 총기 난동 사망 1명·부상 6명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 16:08 KST",
+  "source": "ABC News·CBS News·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimgFBVV95cUxOV3djbHFvT0xOQ1ptZWdqdzlDZS1uSjVTY3RpTnhIOXlFdll5WFkzQUllQ1RfS29qc2NYdVZWYWNHdEtSRHdlenBCay0zczhfOEFKeEVrS29TRGdOR2NWbEFFNDFPS3V1YVJEVUNPaHZMdVV1ak5WTXF2dGhmR2NtZzl6U1RXTDhmVGowQzE4MW9XTGFvbWw3Vl9n",
+    "related": [
+      [
+        "1 dead, 6 others hurt in shooting at Spirit Halloween in Fairfield, police say",
+        "KCRA"
+      ],
+      [
+        "Manhunt launched after California Spirit Halloween shooting leaves 1 dead, 6 injured",
+        "NBC News"
+      ],
+      [
+        "1 dead, 6 hurt following shooting at Solano Town Center in Fairfield",
+        "NBC Bay Area"
+      ],
+      [
+        "1 dead, 6 injured in shooting at California Halloween store, police say",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "1 dead, 6 injured in mass shooting at Solano Town Center mall, Fairfield police say",
+        "CBS News"
+      ]
+    ],
+    "event_key": "fairfield_mall_shooting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 캘리포니아 쇼핑몰 총기 난동\n[[사망 1명]]·부상 6명 발생",
+      "sub": "할로윈 매장 총격 후 용의자 추적 중",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "6명"
+        }
+      ],
+      "alt": "미국 캘리포니아 쇼핑몰 총기 난동 사망 1명·부상 6명 발생",
+      "map": {
+        "lat": 38.2493581,
+        "lon": -122.039966,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아 페어필드",
+      "video_only": true,
+      "map": {
+        "lat": 38.2493581,
+        "lon": -122.039966,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아 페어필드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 장소",
+          "d": "솔라노 타운 센터 쇼핑몰 내 할로윈 매장에서 발생했습니다 (NBC News·CBS News)."
+        },
+        {
+          "t": "경찰 대응",
+          "d": "용의자를 쫓고 있습니다 (NBC News)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명 (NBC News·CBS News)",
+        "부상 6명 (NBC News·CBS News)",
+        "캘리포니아 페어필드 쇼핑몰 (NBC News·CBS News)"
+      ],
+      "unconfirmed": [
+        "총격 원인과 용의자 신원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "CBS News",
+        "KCRA",
+        "NBC Bay Area",
+        "NBC News",
+        "2026.10.31 19:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 캘리포니아 쇼핑몰 총기 난동으로 1명 사망 (NBC News·CBS News)\n\n· 솔라노 타운 센터 쇼핑몰 내 할로윈 매장 총격 발생 (NBC News·CBS News)\n· 총격으로 6명 부상 (NBC News·CBS News)\n· 용의자를 찾아 경찰이 추적 수사 진행 중 (NBC News)\n\n출처: NBC News·CBS News·ABC News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아 쇼핑몰에서 총기 난동이 발생해 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC News 등 외신은 페어필드 솔라노 타운 센터에서 총격으로 6명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "용의자는 달아났으며 현지 경찰이 추적에 나섰습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "미국 [[쇼핑몰]]에서\n벌어진 총격?",
+  "broll": [
+    "shopping mall exterior night",
+    "police tape street"
+  ],
+  "place_en": "Fairfield, California"
+}

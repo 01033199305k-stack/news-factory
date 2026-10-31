@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "poland-pm-assassination-plot-arrest-2026",
-    "topic": "폴란드 총리 암살 모의 용의자 체포",
-    "slug": "2026-10-12-news-poland-pm-assassination-plot-arrest-2026",
-    "cluster": "CBMijAFBVV95cUxQZTIzQUpVeFE2UXR6MHU5cFd5WDl1dDZzRENxMG40bkItZFVVN0J5bm9MblF1cjMyQWRZWENFUHJZRF8zTGhsVXYtc2hkTDlrU2oySWlTcmt1cF95MUVQbG1oWklXcE9KSlFTdjh5VHg4NXpmQmw1WGh1SjBZa1FPUk9nb3ZPOVBoY3QtatIBjAFBVV95cUxQNHFTOGZPMFgybVlXRlNIQTRvd3ZONlItQTlmRll5RFFhYnVXSHFsVU5teVF0WEVVV0Y3bTNUbEI0Y0pWWHloME1OMUFTVWJubldMVDV4S01laGpqbXZyZnVrSUhXV2NDUkVNdksyenRBcElWa1F2NGtPdG02YmFWaEt6RlFlU3R1ZFlsRQ",
-    "badge": "brief",
-    "at": 1791742493.8486795,
-    "country": "폴란드",
-    "category": "국제"
-  },
-  {
     "event_key": "turkiye-bus-truck-crash-2026",
     "topic": "튀르키예서 버스 트럭 추돌 사망 11명 발생",
     "slug": "2026-10-12-news-turkiye-bus-truck-crash-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793437852.3210971,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "fairfield_mall_shooting_2026",
+    "topic": "미국 캘리포니아 쇼핑몰 총기 난동 사망 1명·부상 6명 발생",
+    "slug": "2026-10-31-news-fairfield-mall-shooting-2026",
+    "cluster": "CBMimgFBVV95cUxOV3djbHFvT0xOQ1ptZWdqdzlDZS1uSjVTY3RpTnhIOXlFdll5WFkzQUllQ1RfS29qc2NYdVZWYWNHdEtSRHdlenBCay0zczhfOEFKeEVrS29TRGdOR2NWbEFFNDFPS3V1YVJEVUNPaHZMdVV1ak5WTXF2dGhmR2NtZzl6U1RXTDhmVGowQzE4MW9XTGFvbWw3Vl9n",
+    "badge": "breaking",
+    "at": 1793441490.318667,
+    "country": "미국",
+    "category": "총격·테러"
   }
 ]
