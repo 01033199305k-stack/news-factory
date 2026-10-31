@@ -44,6 +44,53 @@
       }
     },
     "attempts": {
+      "instagram": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-31-news-dr-congo-ebola-outbreak-surpasses-5000-deaths-2026",
+    "event_ms": 1793458129000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 콩고 에볼라 확산으로 사망자 5,000명을 넘었습니다.\n\n· 콩고민주공화국 에볼라 사망자가 5,000명을 돌파했습니다 (BBC·알자지라)\n· 누적 감염 사례는 1만 건을 넘어섰습니다 (CBC)\n· 보건 당국자들은 다른 국가로 번질 가능성을 경고했습니다 (가디언)\n\n출처: BBC·NBC News·알자지라·The Guardian·CBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "콩고민주공화국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18146129161501610",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfKqSbHHEVj",
+        "kind": "carousel",
+        "at": 1793466602
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1793466711
+      },
+      "tiktok": {
+        "id": "7702880900593356052",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702880900593356052",
+        "kind": "video",
+        "at": 1793466913
+      }
+    },
+    "attempts": {
       "instagram": 1
     },
     "video": "video.mp4"

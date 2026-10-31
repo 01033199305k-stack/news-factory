@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "tropical-storm-rachel-las-vegas-flooding-2026",
-    "topic": "열대성 폭풍 레이첼 영향 미 라스베이거스 기록적 폭우",
-    "slug": "2026-10-12-news-tropical-storm-rachel-las-vegas-flooding-2026",
-    "cluster": "CBMinAFBVV95cUxOdXlXZmIwdElzeWxaeEMySFNMNFR1T3V5clJ3dVFyZU5pYzZDRVZySjFaMVd6Smx3UGlqa1g1NHpIb0tkZ0xwM0x2UU9rR0tZOG81NXF5U2JlUGlOaGpKZ29yRkliY0s0QWJ5QjVYUk16UmhSWFRTNV9hUi1rS3JORUJ1c1ZWZlBTZUh6QThRclFKcXplTExTWk9RZzc",
-    "badge": "breaking",
-    "at": 1791786247.162705,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "tongyeong-daejeon-highway-crash-2026",
     "topic": "통영대전고속도로서 5중 추돌 2명 사망·11명 부상",
     "slug": "2026-10-12-news-tongyeong-daejeon-highway-crash-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793463069.7126434,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "dr_congo_ebola_outbreak_surpasses_5000_deaths_2026",
+    "topic": "콩고 에볼라 확산 사망자 5,000명 넘어",
+    "slug": "2026-10-31-news-dr-congo-ebola-outbreak-surpasses-5000-deaths-2026",
+    "cluster": "CBMiW0FVX3lxTE5jNU5SVHJ6R1hPT1VhOS02QU9URWQwR0htNnBXeEg1UXNWOGV3T25BbTVhZXJXVDdhV3hRVy01RWItVTR4eWRSWGdWWlNTdjd5QnB4MlA5Wmw1M28",
+    "badge": "breaking",
+    "at": 1793466556.446214,
+    "country": "콩고민주공화국",
+    "category": "재난"
   }
 ]

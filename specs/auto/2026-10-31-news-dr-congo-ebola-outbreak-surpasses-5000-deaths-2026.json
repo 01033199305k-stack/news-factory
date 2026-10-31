@@ -1,0 +1,148 @@
+{
+  "slug": "2026-10-31-news-dr-congo-ebola-outbreak-surpasses-5000-deaths-2026",
+  "topic": "콩고 에볼라 확산 사망자 5,000명 넘어",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 23:48 KST",
+  "source": "Al Jazeera·BBC·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE5jNU5SVHJ6R1hPT1VhOS02QU9URWQwR0htNnBXeEg1UXNWOGV3T25BbTVhZXJXVDdhV3hRVy01RWItVTR4eWRSWGdWWlNTdjd5QnB4MlA5Wmw1M28",
+    "related": [
+      [
+        "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+        "BBC"
+      ],
+      [
+        "Congo Ebola outbreak deaths top 5,000 as fear of continent-wide spread mounts",
+        "NBC News"
+      ],
+      [
+        "Ebola death toll in DR Congo passes 5,000",
+        "Al Jazeera"
+      ],
+      [
+        "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+        "The Guardian"
+      ],
+      [
+        "'No one is safe' as Ebola outbreak surges to more than 10,000 cases, Africa's top doctor warns Canada",
+        "CBC"
+      ]
+    ],
+    "event_key": "dr_congo_ebola_outbreak_surpasses_5000_deaths_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "콩고 에볼라 확산\n사망자 [[5,000명]] 넘어",
+      "sub": "감염자 1만 명 넘어 대륙 간 확산 우려",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "5,000명 돌파"
+        },
+        {
+          "k": "누적 감염",
+          "v": "1만 건 이상"
+        }
+      ],
+      "alt": "콩고 에볼라 확산 사망자 5,000명 넘어",
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "콩고민주공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "콩고민주공화국\n킨샤사",
+      "video_only": true,
+      "map": {
+        "lat": -2.9814344,
+        "lon": 23.8222636,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "킨샤사"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 5,000명 돌파",
+          "d": "콩고민주공화국에서 발생한 에볼라 바이러스로 인한 사망자가 5,000명을 넘었다고 BBC와 알자지라가 전했습니다."
+        },
+        {
+          "t": "감염 사례 1만 건 넘어",
+          "d": "누적 감염 사례가 1만 건을 넘어섰다고 CBC가 보도했습니다."
+        },
+        {
+          "t": "국제 확산 위험 경고",
+          "d": "보건 당국자들은 에볼라 확산세가 다른 대륙이나 국가로 번질 위험을 경고했다고 가디언이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망자 5,000명 초과",
+        "감염자 1만 명 초과"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "국제 확산 차단 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CBC",
+        "NBC News",
+        "The Guardian",
+        "2026.11.01 02:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 콩고 에볼라 확산으로 사망자 5,000명을 넘었습니다.\n\n· 콩고민주공화국 에볼라 사망자가 5,000명을 돌파했습니다 (BBC·알자지라)\n· 누적 감염 사례는 1만 건을 넘어섰습니다 (CBC)\n· 보건 당국자들은 다른 국가로 번질 가능성을 경고했습니다 (가디언)\n\n출처: BBC·NBC News·알자지라·The Guardian·CBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "콩고민주공화국에서 에볼라 사망자가 5,000명을 넘어섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC와 알자지라는 이번 사태로 인한 희생자가 급증했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "누적 감염자도 1만 건을 돌파해 주변국 확산 우려가 커지고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "국제 보건 당국의 확산 차단 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "치명적 [[에볼라]]\n멈추지 않는 확산",
+  "broll": [
+    "hospital ward interior",
+    "laboratory microscope test"
+  ],
+  "place_en": "Democratic Republic of the Congo"
+}
