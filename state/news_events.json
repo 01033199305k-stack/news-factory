@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "tongyeong-daejeon-highway-crash-2026",
-    "topic": "통영대전고속도로서 5중 추돌 2명 사망·11명 부상",
-    "slug": "2026-10-12-news-tongyeong-daejeon-highway-crash-2026",
-    "cluster": "CBMiW0FVX3lxTE9PZVNTakdvZW9lWWxaeE5VeTQydVdaeWViRmxTNTBrRnR6bVItX2pVcThPYjdhc2JjVVpZcVJDSGZaNkNfYnRlcG1WdFNyR3FIdmJsQ054dDczYzA",
-    "badge": "breaking",
-    "at": 1791786710.8489046,
-    "country": "대한민국",
-    "category": "사고"
-  },
-  {
     "event_key": "paris-marche-enfants-rouges-fire-destroyed-2026",
     "topic": "파리 최고 시장 대형 화재로 전소",
     "slug": "2026-10-12-news-paris-marche-enfants-rouges-fire-destroyed-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793466556.446214,
     "country": "콩고민주공화국",
     "category": "재난"
+  },
+  {
+    "event_key": "france_protests_halloween_2026",
+    "topic": "프랑스 등 유럽서 대규모 시위 경찰과 충돌해 최루탄 발사",
+    "slug": "2026-11-01-news-france-protests-halloween-2026",
+    "cluster": "CBMihgFBVV95cUxPLVpZYzZlRmU2d3VWb1JHXzd4MThSUlRfVmt1NzVPVWhEWEcwOFN2dU9oT1hSMkFodG90UEdkdFNldU45Tkx0Q3c4N1U5U0kzWmpPRExqcEltempmN2hLUXZXUmJITHdvOVRQQU4xazFzVlp5MnZxeTRMYUVIek5aNi1pSWktUQ",
+    "badge": "breaking",
+    "at": 1793470090.138451,
+    "country": "프랑스",
+    "category": "국제"
   }
 ]
