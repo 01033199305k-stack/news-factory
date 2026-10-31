@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-01-news-london-palestine-action-protest-arrests-2026",
+  "topic": "런던 미 대사관 앞 시위 139명 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.01 04:01 KST",
+  "source": "Al Jazeera·CBS News·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxNam1UMDNjenNVXzcybTdDd0twaF9lLVNwTzB3V1JVSUNSZlA1UFlKZUZJREtOYVBLbnBLYV91Q2JyenU4NGozZ3R3ejJudVh1TGxTeHgtWHR1eng4MHFmX2lDbVNMZzJQOWh6QjZ4NUJjVVZseVg2UmJVd25LREg2OVRSZjB0eWtoYWhQVW5nVmgzdDFWaUdTRlB6OE1teFJQYlo2bkVVSkx0Z9IBrwFBVV95cUxNdVNqNXZDOU9UMDlNNl9qU3hibWJVNDhLT3dScUFLZHdhN05kbkQ5bGJ6NVVwclliVDZHQ3k2ZnZYTzJtZUw4SVhLZzZnTUhqSTRPWWg0NjI3RE5KaUVQNFQyc3RfUkxiOXd6TnhqQlpkTk1yS0hQcWtSNUdwTWthUUZmMlJ5UFJ1ZGZkdXpUTlpIWHNCbHZpTXRvOUlXeDVma1ZtMTJBaVA3MDlfZFow",
+    "related": [
+      [
+        "London police arrest 139 as hundreds protest Palestine Action ban",
+        "Al Jazeera"
+      ],
+      [
+        "Almost 140 arrested at protest against Palestine Action ban outside US embassy in London",
+        "The Guardian"
+      ],
+      [
+        "London police arrest 139 people outside US Embassy supporting banned pro-Palestinian group",
+        "WJLA"
+      ],
+      [
+        "Police arrest 139 people during Palestine Action protest",
+        "Sky News"
+      ],
+      [
+        "Dozens arrested outside U.S. Embassy in London for supporting pro-Palestinian group",
+        "CBS News"
+      ]
+    ],
+    "event_key": "london_palestine_action_protest_arrests_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "런던 미 대사관 앞 시위\n[[139명]] 체포",
+      "sub": "팔레스타인 액션 금지 조치 반발 집회",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "139명"
+        },
+        {
+          "k": "장소",
+          "v": "미 대사관 앞"
+        }
+      ],
+      "alt": "런던 미 대사관 앞 시위 139명 체포",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "시위 배경",
+          "d": "팔레스타인 액션 단체 금지 조치에 반발해 열렸다고 가디언 등이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "체포 139명 (알자지라·WJLA·스카이뉴스)",
+        "런던 미국 대사관 인근 (가디언·WJLA·CBS)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "부상자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CBS News",
+        "Sky News",
+        "The Guardian",
+        "WJLA",
+        "2026.11.01 06:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 런던 미 대사관 앞 시위에서 139명 체포\n\n· 팔레스타인 액션 금지 조치에 반발해 집회가 열렸습니다 (가디언)\n· 런던 경찰이 대사관 인근에서 이들을 연행했습니다 (가디언·WJLA·CBS)\n\n이번 시위 사태에 대해 어떻게 보십니까?\n\n출처: 알자지라·가디언·WJLA·스카이뉴스·CBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "런던 미국 대사관 앞에서 열린 시위에서 백 명이 넘는 사람들이 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라와 스카이뉴스 등은 139명이 연행됐다고 보도했습니다.",
+      "card": "points",
+      "screen": "139명 체포"
+    },
+    {
+      "text": "이번 집회는 팔레스타인 액션 단체 금지 조치에 반발해 일어났습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 규모와 추가 충돌 가능성은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 시위 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "런던 [[미 대사관]] 앞에서\n무슨 일이?",
+  "broll": [
+    "protest crowd street",
+    "police officers line street"
+  ],
+  "place_en": "London, United Kingdom"
+}

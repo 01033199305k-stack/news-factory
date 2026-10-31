@@ -44,6 +44,53 @@
       }
     },
     "attempts": {
+      "instagram": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-01-news-london-palestine-action-protest-arrests-2026",
+    "event_ms": 1793473305000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 런던 미 대사관 앞 시위에서 139명 체포\n\n· 팔레스타인 액션 금지 조치에 반발해 집회가 열렸습니다 (가디언)\n· 런던 경찰이 대사관 인근에서 이들을 연행했습니다 (가디언·WJLA·CBS)\n\n이번 시위 사태에 대해 어떻게 보십니까?\n\n출처: 알자지라·가디언·WJLA·스카이뉴스·CBS 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "영국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18125002078899741",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfLFiaIgZ1Q",
+        "kind": "carousel",
+        "at": 1793480891
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793481015
+      },
+      "tiktok": {
+        "id": "7702942339253177601",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702942339253177601",
+        "kind": "video",
+        "at": 1793481137
+      }
+    },
+    "attempts": {
       "instagram": 1
     },
     "video": "video.mp4"
