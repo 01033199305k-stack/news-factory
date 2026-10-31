@@ -1,0 +1,140 @@
+{
+  "slug": "2026-10-31-news-iran-supreme-leader-warning-2026",
+  "topic": "이란 최고지도자, 미국과 이스라엘 향해 최대 대응 경고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 23:18 KST",
+  "source": "AP News·Al Jazeera·Axios 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxQOU84MUlJV2w4ZEtpaS1ndkJieWpObTZJUzloRl8yUV9DSE54RFkyTklLUm1RSzVwUVNzMWQtNWRMc0RpLTZJQVRieS1qbVNLRGpRbnpYa3NxLUczeDdYdzBQUEtJTVg0NUlEbHZOaGJfQ2plTHFvTmZ0d2ZkMFo2aXNGWXY4SzNVRncxYUMwWVk",
+    "related": [
+      [
+        "Live Updates: Iran's supreme leader warns U.S., Israel against new attacks",
+        "CBS News"
+      ],
+      [
+        "Iran's supreme leader orders \"maximum\" response to any U.S. attack",
+        "Axios"
+      ],
+      [
+        "Iran's IRGC says it is 'closely monitoring America's movements in the region'",
+        "Fox News"
+      ],
+      [
+        "Iranian leader threatens response to potential attack as fears of war mount, and other Mideast news",
+        "AP News"
+      ],
+      [
+        "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "iran_supreme_leader_warning_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이란 최고지도자, 미국과 이스라엘 향해\n[[최대 대응]] 경고",
+      "sub": "새로운 공격 시 무제한 보복 방침을 밝혔습니다",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "최대 대응"
+        }
+      ],
+      "alt": "이란 최고지도자, 미국과 이스라엘 향해 최대 대응 경고",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미·이스라엘 경고",
+          "d": "이란 최고지도자가 미국과 이스라엘의 새로운 공격에 경고를 보냈다고 AP 통신 등이 전했습니다."
+        },
+        {
+          "t": "무제한 보복 방침",
+          "d": "공격을 받을 경우 무제한적인 보복에 나서겠다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 최고지도자의 경고 성명",
+        "미국·이스라엘 대상 최대 대응 지시"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "구체적인 보복 실행 시기와 방법"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "Axios",
+        "CBS News",
+        "Fox News",
+        "2026.11.01 01:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이란 최고지도자가 미국과 이스라엘을 향해 최대 대응을 지시했습니다\n\n· 이란 최고지도자가 새로운 공격에 맞서 무제한 보복에 나서겠다고 경고했습니다 (AP·알자지라)\n· 이란 혁명수비대는 지역 내 미군 동향을 면밀히 감시하고 있다고 밝혔습니다 (폭스뉴스)\n\n출처: AP·알자지라·폭스뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란 최고지도자가 미국과 이스라엘을 향해 최대 대응을 지시했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 이란이 새로운 공격에 맞서 무제한 보복에 나서겠다고 경고했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란 혁명수비대는 지역 내 미군 동향을 면밀히 감시하고 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 보복 실행 시기와 방법은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이란 최고지도자가\n[[미국과 이스라엘]]에 경고한 이유는?",
+  "broll": [
+    "military defense control room",
+    "missile launcher system"
+  ],
+  "place_en": "Tehran, Iran"
+}
