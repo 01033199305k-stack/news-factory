@@ -44,6 +44,55 @@
       }
     },
     "attempts": {
+      "instagram": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-10-31-news-ukraine-missile-strike-russian-defense-plant-2026",
+    "event_ms": 1793447496000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라이나군이 러시아 군수 공장에 넵튠 미사일 공격을 감행했습니다.\n\n· 러시아 리페츠크주 예레츠의 에네르기야 방산 공장이 타격받았습니다 (우크린포름·키이우 포스트)\n· 공중 폭탄 모듈용 전력 배터리 생산 작업장 4곳이 손상되었습니다 (유나이티드24·우크라인스카 프라우다)\n· 인명 피해 및 피해 규모는 확인 중입니다\n\n질문: 이번 군수 시설 타격이 향후 전황에 어떤 영향을 줄 것이라 보십니까?\n\n출처: 유나이티드24·우크린포름·키이우 포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17984839724898431",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfKTN1wFJhR",
+        "kind": "carousel",
+        "at": 1793454505
+      },
+      "youtube": {
+        "id": "5q2rfypE7s4",
+        "permalink": "https://youtube.com/shorts/5q2rfypE7s4",
+        "kind": "shorts",
+        "at": 1793454816
+      },
+      "tiktok": {
+        "id": "6ae5f2ebab019b9087071646",
+        "permalink": "",
+        "kind": "video",
+        "at": 1793455028
+      }
+    },
+    "attempts": {
       "instagram": 1
     },
     "video": "video.mp4"

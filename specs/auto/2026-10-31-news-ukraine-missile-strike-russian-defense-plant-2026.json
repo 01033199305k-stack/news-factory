@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-31-news-ukraine-missile-strike-russian-defense-plant-2026",
+  "topic": "우크라 넵튠 미사일 러 군수 공장 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 20:51 KST",
+  "source": "Kyiv Post·UNITED24 Media·Ukrinform 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi2gFBVV95cUxQLXFLa1pSNVlmMTFDRjR3MG5RaHpvNTVTN3Y2ZjkxTHFyRGZGN1FETFg5RTQweFFXVlJFT2ZHR0tsbk1zckl3QlBFZHBCMlV4eXV1dDY5VEI2czNnVzgtaU1NeWtqV1hQbkNKYzhDc2xJYkxtWE1TN0hVWVdDbkVnMWtPV0RGaUJ6TTduQ1VOV3lNLXlIQTdMSXhNcW16cVZ6ZVV4aDVnZmc1bUVGRm1OdndWRS1jZXUzUWx5cnB6UmRvMF9CUGZ6RVlNaE9kSGxsRC13SGlka0czQQ",
+    "related": [
+      [
+        "Ukraine’s Neptune Missiles Hit Russia Where Its Rockets Are Born, Damaging Four Factory Workshops",
+        "UNITED24 Media"
+      ],
+      [
+        "Ukraine confirms strike on Russia's sole manufacturer of power batteries for aerial bomb modules",
+        "Українська правда"
+      ],
+      [
+        "Missile strike hits Russian defense plant Energia in Lipetsk region – media",
+        "Ukrinform"
+      ],
+      [
+        "Missiles Strike Energiya Defense Battery Plant in Yelets",
+        "Kyiv Post"
+      ],
+      [
+        "Defense forces struck a rocket fuel production plant in Russia and four military depots in the occupied territories",
+        "shelter.in.ua"
+      ]
+    ],
+    "event_key": "ukraine_missile_strike_russian_defense_plant_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 [[넵튠 미사일]]\n러 군수 공장 타격",
+      "sub": "리페츠크주 에너지 방산 시설 피해",
+      "chips": [
+        {
+          "k": "공격 주체",
+          "v": "우크라이나군"
+        },
+        {
+          "k": "사용 무기",
+          "v": "넵튠 미사일"
+        }
+      ],
+      "alt": "우크라 넵튠 미사일 러 군수 공장 타격",
+      "map": {
+        "lat": 52.6150528,
+        "lon": 38.5290418,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n리페츠크주 예레츠",
+      "video_only": true,
+      "map": {
+        "lat": 52.6150528,
+        "lon": 38.5290418,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리페츠크주 예레츠"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "방산 공장 타격",
+          "d": "우크라이나군이 러시아 예레츠의 군수 공장 에네르기야를 미사일로 타격했습니다 (우크린포름·키이우 포스트)."
+        },
+        {
+          "t": "작업장 4곳 손상",
+          "d": "공중 폭탄 모듈용 전력 배터리를 생산하는 작업장 4곳이 손상되었습니다 (유나이티드24·우크라인스카 프라우다)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나군 넵튠 미사일 공격",
+        "러시아 군수 공장 타격",
+        "생산 작업장 4곳 손상"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "공장 가동 중단 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "UNITED24 Media",
+        "Ukrinform",
+        "shelter.in.ua",
+        "Українська правда",
+        "2026.10.31 22:47 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나군이 러시아 군수 공장에 넵튠 미사일 공격을 감행했습니다.\n\n· 러시아 리페츠크주 예레츠의 에네르기야 방산 공장이 타격받았습니다 (우크린포름·키이우 포스트)\n· 공중 폭탄 모듈용 전력 배터리 생산 작업장 4곳이 손상되었습니다 (유나이티드24·우크라인스카 프라우다)\n· 인명 피해 및 피해 규모는 확인 중입니다\n\n질문: 이번 군수 시설 타격이 향후 전황에 어떤 영향을 줄 것이라 보십니까?\n\n출처: 유나이티드24·우크린포름·키이우 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나군이 러시아 리페츠크주의 군수 공장을 넵튠 미사일로 타격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "타격받은 곳은 예레츠에 위치한 에네르기야 방산 시설입니다.",
+      "card": "map"
+    },
+    {
+      "text": "유나이티드24는 공중 폭탄 모듈용 배터리 생산 작업장 4곳이 손상됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해와 공장 파손 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 공습 여파에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[넵튠 미사일]]\n러 공장 타격",
+  "broll": [
+    "missile strike factory",
+    "smoke industry facility"
+  ],
+  "place_en": "Yelets, Lipetsk Oblast, Russia"
+}

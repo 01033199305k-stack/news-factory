@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "sudan-egypt-border-mine-airstrike-2026",
-    "topic": "수단·이집트 국경 금광 공습으로 72명 사망",
-    "slug": "2026-10-12-news-sudan-egypt-border-mine-airstrike-2026",
-    "cluster": "CBMiXkFVX3lxTE4yY3BJRXNwTjUzc3pISmNsNGNqWTRfNXIwQnVTVjlWVDNpczBJYXNBTTRmakhDa2JxZU5hNWtLb0J4NlNPZFRCS1NPTUdxeGtLaThvZnpDcnQydFBncEE",
-    "badge": "breaking",
-    "at": 1791760072.6360917,
-    "country": "수단",
-    "category": "국제"
-  },
-  {
     "event_key": "north-korea-missile-launch-oct-2026",
     "topic": "북한, 해상으로 탄도미사일 발사",
     "slug": "2026-10-12-news-north-korea-missile-launch-oct-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1793452090.7977145,
     "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_missile_strike_russian_defense_plant_2026",
+    "topic": "우크라 넵튠 미사일 러 군수 공장 타격",
+    "slug": "2026-10-31-news-ukraine-missile-strike-russian-defense-plant-2026",
+    "cluster": "CBMi2gFBVV95cUxQLXFLa1pSNVlmMTFDRjR3MG5RaHpvNTVTN3Y2ZjkxTHFyRGZGN1FETFg5RTQweFFXVlJFT2ZHR0tsbk1zckl3QlBFZHBCMlV4eXV1dDY5VEI2czNnVzgtaU1NeWtqV1hQbkNKYzhDc2xJYkxtWE1TN0hVWVdDbkVnMWtPV0RGaUJ6TTduQ1VOV3lNLXlIQTdMSXhNcW16cVZ6ZVV4aDVnZmc1bUVGRm1OdndWRS1jZXUzUWx5cnB6UmRvMF9CUGZ6RVlNaE9kSGxsRC13SGlka0czQQ",
+    "badge": "breaking",
+    "at": 1793454459.4248958,
+    "country": "러시아",
     "category": "국제"
   }
 ]
