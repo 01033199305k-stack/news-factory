@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "trump-announces-russia-ukraine-energy-ceasefire-2026",
-    "topic": "트럼프, 러·우크라 에너지 휴전 발표",
-    "slug": "2026-10-11-news-trump-announces-russia-ukraine-energy-ceasefire-2026",
-    "cluster": "CBMiXkFVX3lxTE15bmlBSGQ0Y0gxLWpoZ3JsMWQxbUZOTHhSeE9GQUQ2Qm5NQk80Qm13d2hTTFNhSWhWLXpWUWZjRXhqeVBxbFRHV3hBWGVfZ3ZPY0VLUUVuM2pLdGhBSGc",
-    "badge": "breaking",
-    "at": 1791731287.8095603,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "pope-leo-lung-surgery-2026",
     "topic": "교황 레오 폐 결절 수술 예정",
     "slug": "2026-10-12-news-pope-leo-lung-surgery-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793416031.4543831,
     "country": "한국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "g20_family_photo_cancelled_russia_2026",
+    "topic": "러시아 장관 참석 반발로 G20 단체 사진 촬영 취소",
+    "slug": "2026-10-31-news-g20-family-photo-cancelled-russia-2026",
+    "cluster": "CBMizAFBVV95cUxQaENwN21qQkg0bzFXbGU4UXdDSi1pWXJMRjFfWFVoS1REb3BGUWFvMndKb2Y5M1FPbzM4d2M2NmloWVE1UjREOXc0aGFKYS1wa21DVDg1Q0I4NkpYc3NlNzU4elc5cFZmQnFQNi12VlNZMVU4TDFYX1dHREttTlBzb0tNaDhDS1Z0R2d1emw2NGU0QVpmaFJTOFBrZS00bTlwaEtQbjI5bTRUQlJ3aHFud0dxalhYanllYldueDJDZDNNa0YwSUU0QlQxX3A",
+    "badge": "brief",
+    "at": 1793427024.4042618,
+    "country": "미국",
+    "category": "국제"
   }
 ]

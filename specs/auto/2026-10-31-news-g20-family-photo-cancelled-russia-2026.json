@@ -1,0 +1,153 @@
+{
+  "slug": "2026-10-31-news-g20-family-photo-cancelled-russia-2026",
+  "topic": "러시아 장관 참석 반발로 G20 단체 사진 촬영 취소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 11:55 KST",
+  "source": "BBC·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizAFBVV95cUxQaENwN21qQkg0bzFXbGU4UXdDSi1pWXJMRjFfWFVoS1REb3BGUWFvMndKb2Y5M1FPbzM4d2M2NmloWVE1UjREOXc0aGFKYS1wa21DVDg1Q0I4NkpYc3NlNzU4elc5cFZmQnFQNi12VlNZMVU4TDFYX1dHREttTlBzb0tNaDhDS1Z0R2d1emw2NGU0QVpmaFJTOFBrZS00bTlwaEtQbjI5bTRUQlJ3aHFud0dxalhYanllYldueDJDZDNNa0YwSUU0QlQxX3A",
+    "related": [
+      [
+        "US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia",
+        "The Guardian"
+      ],
+      [
+        "WATCH: Rubio welcomes G20 foreign ministers to Atlanta at 'critical moment'",
+        "PBS"
+      ],
+      [
+        "G20 'family photo' cancelled after protests over presence of Russian minister",
+        "BBC"
+      ],
+      [
+        "G20 foreign ministers skip photo-op amid objections over Russia",
+        "Reuters"
+      ],
+      [
+        "Distaste for Lavrov Forces U.S. to Cancel G20 Photo Session in Atlanta",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "g20_family_photo_cancelled_russia_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아 장관 참석 반발로\n[[G20]] 단체 사진 촬영 취소",
+      "sub": "호주·영국 등의 거부로 아틀란타 회의에서 취소",
+      "chips": [
+        {
+          "k": "회의",
+          "v": "G20 외교장관"
+        }
+      ],
+      "alt": "러시아 장관 참석 반발로 G20 단체 사진 촬영 취소",
+      "map": {
+        "lat": 33.7544657,
+        "lon": -84.3898151,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n아틀란타",
+      "video_only": true,
+      "map": {
+        "lat": 33.7544657,
+        "lon": -84.3898151,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아틀란타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "촬영 거부",
+          "d": "호주, 영국 등이 러시아 장관과 함께 찍는 것을 거부했습니다 (가디언)."
+        },
+        {
+          "t": "미국 조치",
+          "d": "참석 반발로 인해 미국이 G20 단체 사진 세션을 취소했습니다 (뉴욕타임스·로이터·BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "G20 외교장관회의 단체 사진 취소",
+        "러시아 장관 참석 반발"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "향후 회의 일정 조정 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "PBS",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "2026.10.31 15:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아 장관 참석 반발로 G20 단체 사진 촬영이 취소됐습니다\n\n· 호주, 영국 등이 러시아 장관과 함께 사진을 찍는 것을 거부했습니다 (가디언)\n· 반발이 이어지면서 미국은 아틀란타에서 열린 G20 외교장관회의 단체 사진 세션을 취소했습니다 (뉴욕타임스·로이터·BBC)\n\n여러분은 이번 G20 회의의 외교적 갈등, 어떻게 보십니까?\n\n출처: 가디언·BBC·로이터·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 장관 참석 반발로 G20 단체 사진 촬영이 취소됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 아틀란타에서 G20 외교장관회의가 열렸습니다.",
+      "card": "map",
+      "screen": "미국 아틀란타"
+    },
+    {
+      "text": "가디언은 호주와 영국 등이 러시아 장관과 함께 사진 찍는 것을 거부했다고 전했습니다.",
+      "card": "points",
+      "screen": "호주·영국 등 촬영 거부"
+    },
+    {
+      "text": "반발이 이어지자 미국은 공식 단체 사진 세션을 취소했습니다.",
+      "card": "points",
+      "screen": "단체 사진 세션 취소"
+    },
+    {
+      "text": "참석국 간의 갈등이 어떻게 해결될지는 아직 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "향후 조율 여부 미지수"
+    },
+    {
+      "text": "여러분은 이번 G20 회의의 외교적 갈등, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "러시아 장관 때문에\n[[G20]]에서 무슨 일이?",
+  "broll": [
+    "diplomatic meeting conference room",
+    "flags international summit"
+  ],
+  "place_en": "Atlanta, United States"
+}

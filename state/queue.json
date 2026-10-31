@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-31-news-g20-family-photo-cancelled-russia-2026",
+    "event_ms": 1793427024404,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 러시아 장관 참석 반발로 G20 단체 사진 촬영이 취소됐습니다\n\n· 호주, 영국 등이 러시아 장관과 함께 사진을 찍는 것을 거부했습니다 (가디언)\n· 반발이 이어지면서 미국은 아틀란타에서 열린 G20 외교장관회의 단체 사진 세션을 취소했습니다 (뉴욕타임스·로이터·BBC)\n\n여러분은 이번 G20 회의의 외교적 갈등, 어떻게 보십니까?\n\n출처: 가디언·BBC·로이터·뉴욕타임스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18135926449656144",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfJe5MYmyOo",
+        "kind": "carousel",
+        "at": 1793427074
+      },
+      "youtube": {
+        "id": "CP1h5NDPkCw",
+        "permalink": "https://youtube.com/shorts/CP1h5NDPkCw",
+        "kind": "shorts",
+        "at": 1793427268
+      },
+      "tiktok": {
+        "id": "7702710894177848577",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702710894177848577",
+        "kind": "video",
+        "at": 1793427400
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]
