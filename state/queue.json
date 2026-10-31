@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-10-31-news-us-sk-japan-north-korea-denuclearization-statement-2026",
+    "event_ms": 1793437852321,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 한미일이 북한의 완전한 비핵화 목표를 재확인했습니다.\n\n· 한미일 3국 외교장관, 북한 완전한 비핵화 공조 약속 (알자지라)\n· 북한측, 제재 무효 주장하며 핵보유국 지위 강조 (로이터)\n\n이번 한미일 3국의 비핵화 공조 재확인, 어떻게 보십니까?\n\n출처: 알자지라·로이터·연합뉴스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18097107503670144",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfJzi_KnP36",
+        "kind": "carousel",
+        "at": 1793437902
+      },
+      "youtube": {
+        "id": "6FwOn8HCEM0",
+        "permalink": "https://youtube.com/shorts/6FwOn8HCEM0",
+        "kind": "shorts",
+        "at": 1793438046
+      },
+      "tiktok": {
+        "id": "7702757817198923028",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7702757817198923028",
+        "kind": "video",
+        "at": 1793438178
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]

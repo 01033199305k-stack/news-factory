@@ -1,0 +1,135 @@
+{
+  "slug": "2026-10-31-news-us-sk-japan-north-korea-denuclearization-statement-2026",
+  "topic": "한미일 비핵화 재확인 북한은 반발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 16:23 KST",
+  "source": "Al Jazeera·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxQNk54ZVpjVUFheEdZN0lNakY0NVh4TjZqMGpIcFIybzJrcVlrNV9oV2dIUGxGcTE0VzB3ODhVaHYyenVqUU12MEZUR3RKQld4VTdxRndlVGxUcWRWZWFQcUotZFIwT3JGa3RycUZfZkJ6UWNfNG15cDQ5WEJyRTVENmNaczJIVkIzT0FVN2xTV1NhMDJPbWF6dzlqdndoSWVzNGxfSlN4OUstajlkemZvaHln0gG3AUFVX3lxTE9HNUdMQnljdnpJT1hQNjZ3Y29NQnU4SElnQjdMLXFaQkFySlpvd2dnMGE2RkVqc3hoYTBmLV9KX2dldW9MRlpsRFRGRFV1U092eXRJZHU3cWk5WnJWNGt3eDVINzU3RDh5V2VSdk1hZDhIVTBBaFNpdWthcDhaLTdZdTUxOVIyYkNlR2wwTkc3c0pzSVlqekRqcmhjOEVuUElubVlvdXZMTy1QbGRfakVtT1hRNUtNWQ",
+    "related": [
+      [
+        "US, South Korea, Japan call for ‘complete denuclearisation’ of North Korea",
+        "Al Jazeera"
+      ],
+      [
+        "U.S., South Korea, Japan vow ‘complete’ North Korea’s denuclearisation",
+        "The Hindu"
+      ],
+      [
+        "US, South Korea, Japan committed to ‘complete’ North Korea denuclearization",
+        "The Times of Israel"
+      ],
+      [
+        "US, SOUTH KOREA, JAPAN FOREIGN MINISTERS REAFFIRM COMMITMENT TO COMPLETE DENUCLEARISATION OF DPRK: YONHAP",
+        "CGTN"
+      ],
+      [
+        "North Korea says sanctions don't work to deny its status as nuclear weapons state",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us_sk_japan_north_korea_denuclearization_statement_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "한미일 [[비핵화]] 재확인\n북한은 반발",
+      "sub": "3국 외교장관 완전한 공조 약속… 북한은 제재 무용론 주장",
+      "chips": [],
+      "alt": "한미일 비핵화 재확인 북한은 반발",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "3국 외교장관 공동입장",
+          "d": "한미일 3국 외교장관이 북한의 완전한 비핵화 공조를 재확인했습니다 (알자지라·연합뉴스)."
+        },
+        {
+          "t": "북한측 반발 주장",
+          "d": "북한측은 제재가 효력 없으며 핵보유국 지위를 부정할 수 없다고 밝혔습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "한미일 완전한 비핵화 공조",
+        "북한 핵보유국 지위 주장"
+      ],
+      "unconfirmed": [
+        "향후 3국 추가 제재 조치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CGTN",
+        "Reuters",
+        "The Hindu",
+        "The Times of Israel",
+        "2026.10.31 18:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 한미일이 북한의 완전한 비핵화 목표를 재확인했습니다.\n\n· 한미일 3국 외교장관, 북한 완전한 비핵화 공조 약속 (알자지라)\n· 북한측, 제재 무효 주장하며 핵보유국 지위 강조 (로이터)\n\n이번 한미일 3국의 비핵화 공조 재확인, 어떻게 보십니까?\n\n출처: 알자지라·로이터·연합뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "한미일이 북한의 완전한 비핵화를 재확인했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 북한측이 제재 무용론을 펴며 핵보유국 지위를 주장했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 후속 대응 조치는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 3국 발표, 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "한미일 [[비핵화]]에\n북한 반응은?",
+  "broll": [
+    "press conference microphone",
+    "flag banner"
+  ],
+  "place_en": "Washington D.C., USA"
+}
