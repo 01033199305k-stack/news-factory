@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-drone-strikes-russia-yandex-datacenter-2026",
-    "topic": "우크라, 러 데이터센터 타격 '러시아의 구글' 마비",
-    "slug": "2026-10-11-news-ukraine-drone-strikes-russia-yandex-datacenter-2026",
-    "cluster": "CBMiowFBVV95cUxPamZWc0pzUzdKd3YzOVM2MXRGdTc1akUwMDBma1pxUkt1OXd3ajk5RUlhLS1xaHJsVVdwVXk5cDVaMlFIcGxqSWtpelg1UUsydjFIZ3VpSXBKMTBnVlh3TTFUMGdjNlBtMWhEZmFpSnFTNVBDMWx1OVN5X2xGQS1DUndqS2RPQ2FBWXIxNGE5QzFhX0wzaW9vWUkwb2VoUHhGZU5Z",
-    "badge": "breaking",
-    "at": 1791720748.1268024,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "djibouti-yemen-migrant-boat-capsizes-2026",
     "topic": "이주민 보트 전복 참사 어린이 포함 109명 사망",
     "slug": "2026-10-11-news-djibouti-yemen-migrant-boat-capsizes-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793390976.9963984,
     "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "poland_court_crisis_president_return",
+    "topic": "폴란드 사법부 통제 갈등 격화 대통령, 순방 중 회항",
+    "slug": "2026-10-31-news-poland-court-crisis-president-return",
+    "cluster": "CBMipAFBVV95cUxOR0J3dEdIZENudE1YUUk5YUFMRzFwQnFfWjZ2TkxyS2U2OXJJQnl3dEpiV2RmRXpjeEdrdUNvVkZjM01pQnRNSVJ5Tm9fTVFES0NKejRwUlNqelgydGhsQjNyQlRGOHJsTzBWYWFuRkFrZktvN0pVcGttYU8xcE5aeHZBZXdFcW5JeFdNWnFpMnAxd2VtUndEcnQxM2dGMU82QzdPMQ",
+    "badge": "brief",
+    "at": 1793408193.2003853,
+    "country": "폴란드",
     "category": "국제"
   }
 ]

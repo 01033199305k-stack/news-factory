@@ -1,0 +1,150 @@
+{
+  "slug": "2026-10-31-news-poland-court-crisis-president-return",
+  "topic": "폴란드 사법부 통제 갈등 격화 대통령, 순방 중 회항",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.10.31 05:43 KST",
+  "source": "BBC·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxOR0J3dEdIZENudE1YUUk5YUFMRzFwQnFfWjZ2TkxyS2U2OXJJQnl3dEpiV2RmRXpjeEdrdUNvVkZjM01pQnRNSVJ5Tm9fTVFES0NKejRwUlNqelgydGhsQjNyQlRGOHJsTzBWYWFuRkFrZktvN0pVcGttYU8xcE5aeHZBZXdFcW5JeFdNWnFpMnAxd2VtUndEcnQxM2dGMU82QzdPMQ",
+    "related": [
+      [
+        "Polish president turns back mid-flight amid court 'coup d'état' claims",
+        "Euronews.com"
+      ],
+      [
+        "Police deployed during stand-off over control of top Poland court",
+        "BBC"
+      ],
+      [
+        "Polish president turns back from Senegal trip after top court chief suspended",
+        "Reuters"
+      ],
+      [
+        "Poland suspends top judges as battle over rule of law escalates",
+        "Financial Times"
+      ],
+      [
+        "Tusk-Nawrocki battle escalates as chief judge is ousted from Poland’s top court",
+        "POLITICO.eu"
+      ]
+    ],
+    "event_key": "poland_court_crisis_president_return"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "폴란드 사법부 통제 갈등 격화\n대통령, 순방 중 [[회항]]",
+      "sub": "최고법원장 직무 정지 여파로 경찰 배치",
+      "chips": [],
+      "alt": "폴란드 사법부 통제 갈등 격화 대통령, 순방 중 회항",
+      "map": {
+        "lat": 52.2333742,
+        "lon": 21.0711489,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "폴란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "폴란드\n바르샤바",
+      "video_only": true,
+      "map": {
+        "lat": 52.2333742,
+        "lon": 21.0711489,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바르샤바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대통령 회항",
+          "d": "폴란드 대통령은 세네갈로 향하던 중 비행기를 돌려 귀국했습니다 (로이터·BBC)"
+        },
+        {
+          "t": "사법부 대립",
+          "d": "최고법원장이 정직 처분을 받으면서 법원 통제를 둘러싼 권력 다툼이 심화됐습니다 (파이낸셜 타임스·폴리티코)"
+        },
+        {
+          "t": "경찰 배치",
+          "d": "최고법원 통제권을 두고 대치가 벌어지면서 경찰이 배치됐습니다 (BBC)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "대통령 세네갈 순방 중 회항",
+        "최고법원장 직무 정지",
+        "폴란드 사법부 갈등 고조"
+      ],
+      "unconfirmed": [
+        "사법부 통제권 향방",
+        "추가적인 정치적 충돌 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Euronews.com",
+        "Financial Times",
+        "POLITICO.eu",
+        "Reuters",
+        "2026.10.31 09:56 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 폴란드 대통령이 사법부 갈등 여파로 해외 순방 중 비행기를 돌렸습니다\n\n· 최고법원장이 정직 처분을 받으며 권력 다툼이 격화됐습니다 (로이터·파이낸셜 타임스)\n· 최고법원 통제권을 둘러싼 대치로 경찰이 배치됐습니다 (BBC)\n· 대통령은 세네갈 방문길에 오르던 중 비행기를 회항했습니다 (유로뉴스)\n\n이번 폴란드 사법부 갈등, 어떻게 보십니까?\n\n출처: 로이터·BBC·폴리티코 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "폴란드 대통령이 사법부 갈등 여파로 해외 순방 중 비행기를 돌렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "대통령이 세네갈 방문길에 오르던 중 귀국했다고 전했습니다.",
+      "card": "map",
+      "screen": "폴란드"
+    },
+    {
+      "text": "최고법원장이 정직 처분을 받으면서 법원 통제를 둘러싼 권력 다툼이 심화됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "통제권을 두고 대치가 벌어지면서 경찰이 배치됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "갈등이 어떻게 전개될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 폴란드 사법부 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "폴란드 대통령이\n순방 중 [[회항]]한 이유는?",
+  "broll": [
+    "government building police",
+    "court house exterior"
+  ],
+  "place_en": "Warsaw, Poland"
+}
