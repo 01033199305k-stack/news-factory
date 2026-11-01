@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-01-news-seongju-expressway-triple-crash-2026",
+  "topic": "성주 고속도로서 3중 추돌 사고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.01 07:25 KST",
+  "source": "MBC 뉴스·SBS 뉴스·문화일보 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTFBlS0pia1JQazlkbUhFS0djOU5HSkJTU01rVk1NemxuamU5S0RRWURCVU1yejFTb3RrMFFvOEFjUFFEMmhkQnZvNFcyYnNGdEZybnB3SXAyRkkyYXVGUjg4WUZGTmJKaldBNUNtUWliUVd1QzZ3TURj0gF3QVVfeXFMTk9ldW9WV3ZnbTdOaG8wNndIay1RSjllV0VRVkxfM21GLWpBa1l3Nm1pWlpoSTdkdm81cjNkWThWeHl2SjhGZlAxSWhVMVc5Uk1ueFo1ejZtWFNBQlphV2lOc0xlXzEtRmk0dVE2YUphaTJ1a0RqVms",
+    "related": [
+      [
+        "중부내륙고속도로 성주휴게소 부근서 2차 사고로 2명 심정지·4명 경상",
+        "MBC 뉴스"
+      ],
+      [
+        "[속보]모닝 탄 모녀, 9t화물차 치여 심정지 이송",
+        "문화일보"
+      ],
+      [
+        "성주 중부내륙고속고로소 차량 3대 추돌…\"2명 심정지\"",
+        "SBS 뉴스"
+      ],
+      [
+        "[속보] 경차 탄 모녀, 9t 화물차에 치여 심정지 병원 이송… 고속도로서 SUV까지 3중 추돌",
+        "서울신문"
+      ],
+      [
+        "‘모닝’ 탄 모녀, 화물차∙SUV에 연쇄추돌…심정지 병원 이송",
+        "미주중앙일보"
+      ]
+    ],
+    "event_key": "seongju_expressway_triple_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "성주 고속도로서\n[[3중 추돌]] 사고",
+      "sub": "화물차·경차·SUV 연쇄 충돌로 2명 심정지 (SBS·서울신문)",
+      "chips": [
+        {
+          "k": "심정지",
+          "v": "2명"
+        },
+        {
+          "k": "부상",
+          "v": "4명"
+        }
+      ],
+      "alt": "성주 고속도로서 3중 추돌 사고",
+      "map": {
+        "lat": 35.9190065,
+        "lon": 128.283486,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n성주",
+      "video_only": true,
+      "map": {
+        "lat": 35.9190065,
+        "lon": 128.283486,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "성주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "경차 탄 모녀 심정지",
+          "d": "중부내륙고속도로 성주휴게소 인근에서 경차에 타고 있던 모녀 2명이 심정지 상태로 병원에 이송됐습니다 (MBC·문화일보·서울신문)."
+        },
+        {
+          "t": "화물차 등 3대 추돌",
+          "d": "9톤 화물차와 경차, SUV 등 차량 3대가 연쇄 추돌하며 사고가 발생했습니다 (서울신문)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "성주휴게소 부근 3중 추돌",
+        "모녀 2명 심정지 이송 (문화일보·서울신문)",
+        "4명 경상 (MBC)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인 및 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "SBS 뉴스",
+        "문화일보",
+        "미주중앙일보",
+        "서울신문",
+        "2026.11.01 11:23 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 중부내륙고속도로 성주휴게소 부근서 3중 추돌 사고로 2명 심정지 (MBC·SBS)\n\n· 9톤 화물차와 경차, SUV 등 차량 3대가 추돌했습니다 (서울신문).\n· 경차에 타고 있던 모녀 2명이 심정지 상태로 이송되고(문화일보·서울신문), 4명이 경상을 입었습니다 (MBC).\n\n출처: MBC·SBS·문화일보·서울신문 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "성주 고속도로 부근에서 차량 3대가 추돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "9톤 화물차와 경차, SUV 등 차량 3대가 연쇄 충돌했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "문화일보는 경차에 타고 있던 모녀 2명이 심정지 상태로 병원에 옮겨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추가로 4명이 경상을 입고 치료를 받고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "성주 고속도로서\n[[무슨 일이]]",
+  "broll": [
+    "expressway traffic night",
+    "highway accident site"
+  ],
+  "place_en": "Seongju-gun, South Korea"
+}
