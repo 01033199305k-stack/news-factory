@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-02-news-us-southwest-flash-floods-2026",
+  "topic": "미국 애리조나·콜로라도서 폭우로 긴급 대피령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 07:18 KST",
+  "source": "ABC News·The New York Times·Coconino.az.gov 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijgFBVV95cUxNcDIxNWNndWdEdGtBdHlfSl9YOTg2aDlqYXZqMTRPSzBJUlR5SmdISW5OaUFuWGRMTEpXbnczcVg0b21ENWQ5MzV6c0Mzc0FiVlVZTllDcDl6LWU0RzduNVFPN1lrX2tkYW1laENoRTFLdmxoTFppVkVlNElsbGpGSHFRUjdNZDRrdXl6aUJ3",
+    "related": [
+      [
+        "Flooding in Parts of Arizona and Colorado Prompts Evacuation Orders",
+        "The New York Times"
+      ],
+      [
+        "Flash floods trigger evacuations in Arizona and Colorado amid heavy rains in southwest",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "RAW: AZ: VEHICLES SUBMERGED IN FLASH FLOODING",
+        "KXLY.com"
+      ],
+      [
+        "EVACUATION ORDER: Sedona Zones 8, 9, and 10 are now in GO - Get Out Now!",
+        "Coconino.az.gov"
+      ],
+      [
+        "Pineapple express fuels a flood threat in Southwest",
+        "The Weather Channel"
+      ]
+    ],
+    "event_key": "us_southwest_flash_floods_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 애리조나·콜로라도서\n[[폭우]]로 긴급 대피령",
+      "sub": "갑작스러운 홍수로 차량들이 물에 잠겼습니다.",
+      "chips": [
+        {
+          "k": "지역",
+          "v": "애리조나·콜로라도"
+        }
+      ],
+      "alt": "미국 애리조나·콜로라도서 폭우로 긴급 대피령",
+      "map": {
+        "lat": 39.6948122,
+        "lon": -104.9910609,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n애리조나·콜로라도",
+      "video_only": true,
+      "map": {
+        "lat": 39.6948122,
+        "lon": -104.9910609,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "애리조나·콜로라도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대피령 발령",
+          "d": "미국 남서부 지역에 내린 폭우로 홍수가 발생해 대피 명령이 내려졌다고 뉴욕타임스가 보도했습니다."
+        },
+        {
+          "t": "차량 침수",
+          "d": "갑작스러운 홍수로 인해 차량들이 물에 잠기는 피해가 발생했다고 KXLY가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "애리조나 및 콜로라도 홍수 발생 (뉴욕타임스)",
+        "주민 대피령 발령 (ABC 뉴스)"
+      ],
+      "unconfirmed": [
+        "정확한 강수량",
+        "인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Coconino.az.gov",
+        "KXLY.com",
+        "The New York Times",
+        "The Weather Channel",
+        "2026.11.02 08:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 애리조나·콜로라도서 폭우로 긴급 대피령\n\n· 미국 남서부 지역에 내린 폭우로 홍수가 발생해 주민 대피 명령이 내려졌습니다 (뉴욕타임스)\n· 갑작스러운 홍수로 차량들이 물에 잠기는 피해가 발생했습니다 (KXLY)\n\n출처: 뉴욕타임스·ABC뉴스·KXLY·웨더채널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 애리조나와 콜로라도주에 폭우가 내려 긴급 대피령이 내려졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스는 남서부 지역의 갑작스러운 홍수로 주민들에게 대피하라는 명령이 내려졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "차량들이 물에 잠기는 피해가 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[애리조나]]에\n내린 폭우는?",
+  "broll": [
+    "flood water street",
+    "submerged cars street"
+  ],
+  "place_en": "Arizona and Colorado, USA"
+}

@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-02-news-wall-street-ai-stock-selloff-hedge-2026",
+  "topic": "월스트리트, AI 주식 폭락에 손실 방어 나서",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 05:38 KST",
+  "source": "WSJ·Investing.com·Seeking Alpha 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxQUHV1YV9iTlhJU1IzNmJPU1JOb2hiZUVlWWxWa3QtMGVLUDJORS11eUlkZ2VYSkg4dnB0dDdPYXpsNUJTRkZCS0o3SkZhOGM4NkdBek1QcFUwNFBwZlVPZUpTaUg0azI1TjdSUG9TNzdnTFRsZkRkVVgxSEFwdUl6RFY4Z1Y2Zms",
+    "related": [
+      [
+        "AI investors hedge against losses amid tech stock selloff",
+        "The Jerusalem Post"
+      ],
+      [
+        "AI stocks just lost $5 trillion — but history says the stock market's sweetest stretch starts now",
+        "Yahoo Finance"
+      ],
+      [
+        "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History",
+        "WSJ"
+      ],
+      [
+        "Wall Street scrambles for protection as AI investment risks mount (XLK:NYSEARCA)",
+        "Seeking Alpha"
+      ],
+      [
+        "AI investors rush to hedge against potential tech market downturn - WSJ",
+        "Investing.com"
+      ]
+    ],
+    "event_key": "wall_street_ai_stock_selloff_hedge_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "월스트리트, [[AI 주식]] 폭락에\n손실 방어 나서",
+      "sub": "기술주 매도세가 이어지며 투자자들이 손실 방어에 나서고 있습니다.",
+      "chips": [
+        {
+          "k": "시장",
+          "v": "월스트리트"
+        }
+      ],
+      "alt": "월스트리트, AI 주식 폭락에 손실 방어 나서",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "투자자 움직임",
+          "d": "기술주 매도세 속에서 투자자들이 손실을 막기 위한 헤지 전략에 나섰다고 월스트리트저널이 보도했습니다."
+        },
+        {
+          "t": "시장 상황",
+          "d": "AI 투자 리스크가 커지면서 시장 참여자들이 보호 장치를 마련하고 있다고 보도되었습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "AI 주식 매도세 및 손실 발생",
+        "투자자들의 리스크 헤지 움직임"
+      ],
+      "unconfirmed": [
+        "향후 증시 반등 시점",
+        "추가 시장 하락 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Investing.com",
+        "Seeking Alpha",
+        "The Jerusalem Post",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.11.02 08:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 월스트리트, AI 주식 폭락에 손실 방어 나서\n\n· 기술주 매도세가 이어지면서 투자자들이 손실을 막기 위한 헤지 전략에 집중하고 있습니다 (월스트리트저널)\n· AI 투자 리스크가 커지면서 시장 참여자들이 보호 장치 마련에 나섰습니다\n\n국제 경제 상황, 여러분은 어떻게 보십니까?\n\n출처: 월스트리트저널·인베스팅닷컴·야후파이낸스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "월스트리트 투자자들이 AI 주식 폭락에 대비해 손실 방어에 나섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "월스트리트저널은 기술주 매도세 속에서 투자자들이 리스크 헤지를 서두르고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "AI 투자 리스크가 커지며 시장 참여자들이 보호 장치를 찾고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추가적인 시장 하락 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "글로벌 증시 변동성, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "시장 변동성 전망은?"
+    }
+  ],
+  "hook": "월스트리트가 [[AI 주식]]\n폭락에 손실 방어에 나선 이유는?",
+  "broll": [
+    "stock exchange screen",
+    "financial market chart"
+  ],
+  "place_en": "New York, USA"
+}

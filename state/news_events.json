@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "georgia-six-flags-goliath-accident",
-    "topic": "조지아주 식스플래그 놀이기구서 사망 사고 발생",
-    "slug": "2026-10-13-news-georgia-six-flags-goliath-accident",
-    "cluster": "CBMiqgFBVV95cUxNa2VBYnBBb3VvczFxcEtzdVJzOWRlTTdBTFFFaGRTejh2eGMtN1NucWRNcXAwRHhhbFBndk5lejJHRUhNQVFIRVNEUWd6dVVkd2dLa1VUTWxaQzlDQUp5RXU4WUpzUkJNV1ZiMHBzaDNBc2RiaFdrTmVFYlhfcDI0N3FCWkQ0MXhOU1l3YXhsNDdkZ1hTQUVMVjl3OXFjNGdsQnZQejVFbG1BQdIBrwFBVV95cUxQQlllQnV0SW5IOUhvODd2WGpXNmUtbDNCX2V6T21fU0pvelE1c0tjRWxLSGNPSnV3S1daMHZNZDdLSHBuMEdOVi1SZTVENERVejNNakRZVWk2NzBrbndJSUMyeXFjSlRiYm82OXF3b3RXWTNja2k2RnhRTzV4QVdPdUhJTDNQUFA5d0hGTG5Dc0tCb3p5RUFsM1NLY2VISEdFdW4xb0VTcHhBTkM4ZUtB",
-    "badge": "breaking",
-    "at": 1791848247.8346176,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
-    "event_key": "india-flight-battery-fire-evacuation-2026",
-    "topic": "인도 여객기 선반서 보조배터리 불붙어 비상 착륙·긴급 회항",
-    "slug": "2026-10-13-news-india-flight-battery-fire-evacuation-2026",
-    "cluster": "CBMiW0FVX3lxTE1RXzZ3R28xVzBXckIzUWhhUUhCamwzX0FkSVVlak9OcldTSlNpbFo4eWJzWktoVkRVOXpBOThWVTdKZ2djaWNkUUZJQTZCeUpDQXZqeEYwOUR4dkU",
-    "badge": "breaking",
-    "at": 1791850075.3262448,
-    "country": "인도",
-    "category": "사고"
-  },
-  {
     "event_key": "kospi-plunges-sell-sidecar-activated-2026",
     "topic": "코스피 장중 급락 매도 사이드카 발동",
     "slug": "2026-10-13-news-kospi-plunges-sell-sidecar-activated-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793567851.0979688,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "us_southwest_flash_floods_2026",
+    "topic": "미국 애리조나·콜로라도서 폭우로 긴급 대피령",
+    "slug": "2026-11-02-news-us-southwest-flash-floods-2026",
+    "cluster": "CBMijgFBVV95cUxNcDIxNWNndWdEdGtBdHlfSl9YOTg2aDlqYXZqMTRPSzBJUlR5SmdISW5OaUFuWGRMTEpXbnczcVg0b21ENWQ5MzV6c0Mzc0FiVlVZTllDcDl6LWU0RzduNVFPN1lrX2tkYW1laENoRTFLdmxoTFppVkVlNElsbGpGSHFRUjdNZDRrdXl6aUJ3",
+    "badge": "breaking",
+    "at": 1793574160.0639622,
+    "country": "미국",
+    "category": "재난"
+  },
+  {
+    "event_key": "wall_street_ai_stock_selloff_hedge_2026",
+    "topic": "월스트리트, AI 주식 폭락에 손실 방어 나서",
+    "slug": "2026-11-02-news-wall-street-ai-stock-selloff-hedge-2026",
+    "cluster": "CBMihwFBVV95cUxQUHV1YV9iTlhJU1IzNmJPU1JOb2hiZUVlWWxWa3QtMGVLUDJORS11eUlkZ2VYSkg4dnB0dDdPYXpsNUJTRkZCS0o3SkZhOGM4NkdBek1QcFUwNFBwZlVPZUpTaUg0azI1TjdSUG9TNzdnTFRsZkRkVVgxSEFwdUl6RFY4Z1Y2Zms",
+    "badge": "breaking",
+    "at": 1793574172.0153642,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
