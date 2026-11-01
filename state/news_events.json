@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "uk-summons-iran-ambassador-sanctions",
-    "topic": "영국, 이란 대사 소환 추가 제재 공식 발표",
-    "slug": "2026-10-13-news-uk-summons-iran-ambassador-sanctions",
-    "cluster": "CBMiW0FVX3lxTE94d0c0YnY3VzBzNEdPTkZ1WEg1cmhHMlpqN3Z0TE5BLVpVeHF0VkJBdVJBc0JhcjV6dWl1ZU55Z2ZYUnJ6TEtfRzhkWnZGbG9DWnhaRFNnU2NlY1U",
-    "badge": "breaking",
-    "at": 1791828545.079172,
-    "country": "영국",
-    "category": "국제"
-  },
-  {
-    "event_key": "pennsylvania-erie-mass-shooting-2026",
-    "topic": "미국 펜실베이니아 총격 친척 등 8명 숨져",
-    "slug": "2026-10-13-news-pennsylvania-erie-mass-shooting-2026",
-    "cluster": "CBMitwFBVV95cUxPS0dKSmc0cU9LZ3kyRGdiZ3VvOGpOdk1DS2JXdWtFWE9uVmFFNkFmSVNlUDZkaDFMSjhxeHhMbWJQUHB0NnFsa0R6eGpDdGJLUE5aV00tT0hRN3UxMzVkVW9rdmI1eU9uRERvYzNhaG5PbEFZQkY2b0l5bkFzdU9nUjBlZk5TLXBTYXczSlV5YWpPSkZQajBuNnA0aU81aEZaZ3hJdExYS01qT083OU1BXzV2V1g2Tnc",
-    "badge": "breaking",
-    "at": 1791832079.4773943,
-    "country": "미국",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "sardinia-cave-rescue-2026",
     "topic": "이탈리아 사르데냐 동굴서 낙반 사고로 매몰된 탐험가 구조",
     "slug": "2026-10-13-news-sardinia-cave-rescue-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793535249.7451897,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "india_new_delhi_modi_protest_2026",
+    "topic": "인도 뉴델리서 모디 정권 규탄 선거관리위원장 사퇴 촉구 시위",
+    "slug": "2026-11-02-news-india-new-delhi-modi-protest-2026",
+    "cluster": "CBMikgFBVV95cUxPUUxyZDlDU1ZkMVd1bDREUFVvWkFzZlJwN2dLNUxmWG1FRVJNeEhoaHlzTHBJRFFLRWRyZk5zRTYwb3FzMmZXbXZVS0FxRVBNRFpMMjZXTzIwTHFlX2VtSjBraEJvZmkwc2l1aUJRV0R6ZXZsSDM2NHYtSXN5QjZUNEsyc2JkMlZFdkFISWxYMjJ5Zw",
+    "badge": "breaking",
+    "at": 1793556519.3622873,
+    "country": "인도",
+    "category": "국제"
+  },
+  {
+    "event_key": "israel_gaza_strikes_eight_killed_2026",
+    "topic": "이스라엘군 가자지구 공습으로 어린이 포함 사망 8명 발생",
+    "slug": "2026-11-02-news-israel-gaza-strikes-eight-killed-2026",
+    "cluster": "CBMiXkFVX3lxTE5lYktudFBjelpqdDh0SzNDZ0tTLXp4dGFWQnlHWFFOSEFSN3pjdnFKWUFZR01fM3RpX2tzSFBDWU1rc1ZNUUVZbG5HcGg0aGd3dVJ5VGFSMTQ3MkM4U1E",
+    "badge": "breaking",
+    "at": 1793556531.7060359,
+    "country": "팔레스타인",
+    "category": "사고"
   }
 ]

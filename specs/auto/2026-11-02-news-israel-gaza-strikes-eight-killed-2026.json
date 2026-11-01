@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-02-news-israel-gaza-strikes-eight-killed-2026",
+  "topic": "이스라엘군 가자지구 공습으로 어린이 포함 사망 8명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 01:25 KST",
+  "source": "Al Jazeera·BBC·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE5lYktudFBjelpqdDh0SzNDZ0tTLXp4dGFWQnlHWFFOSEFSN3pjdnFKWUFZR01fM3RpX2tzSFBDWU1rc1ZNUUVZbG5HcGg0aGd3dVJ5VGFSMTQ3MkM4U1E",
+    "related": [
+      [
+        "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "BBC"
+      ],
+      [
+        "At least eight Palestinians killed in Israeli attacks across Gaza",
+        "Al Jazeera"
+      ],
+      [
+        "Israeli strike kills boy in Gaza as Qataris say vessel struck in Gulf, and other Mideast news",
+        "巴士的報"
+      ],
+      [
+        "Israeli strikes kill at least eight Palestinians in the Gaza Strip",
+        "The Independent"
+      ],
+      [
+        "Palestinian Killed by Israeli Occupation Gunfire in Central Gaza",
+        "Fana News -"
+      ]
+    ],
+    "event_key": "israel_gaza_strikes_eight_killed_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘군 [[가자지구]] 공습으로\n어린이 포함 사망 [[8명]] 발생",
+      "sub": "가자지구에 대한 이스라엘의 공격으로 사상자가 발생했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "8명"
+        },
+        {
+          "k": "부상",
+          "v": "조사 중"
+        }
+      ],
+      "alt": "이스라엘군 가자지구 공습으로 어린이 포함 사망 8명 발생",
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "가자지구 공습",
+          "d": "이스라엘의 가자지구 공습으로 어린이를 포함해 8명이 숨졌습니다 (BBC)."
+        },
+        {
+          "t": "병원 집계",
+          "d": "현지 병원은 사망자 수를 이같이 확인했습니다 (BBC·알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "가자지구 공습 사망자 8명",
+        "어린이 사망 포함"
+      ],
+      "unconfirmed": [
+        "전체 부상자 규모 및 정확한 피해 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Fana News -",
+        "The Independent",
+        "巴士的報",
+        "2026.11.02 03:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군 가자지구 공습으로 어린이 포함 사망 8명 발생\n\n· 이스라엘의 가자지구 공습으로 어린이를 포함해 8명이 숨졌습니다 (BBC)\n· 현지 병원은 사망자 수를 이같이 집계했습니다 (BBC·알자지라)\n\n출처: BBC·알자지라·더인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군의 가자지구 공습으로 어린이를 포함해 8명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 병원 집계를 인용해 이같이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "가자지구에서 이스라엘의 공격이 이어지고 있습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "이스라엘군의 [[가자지구]] 공습\n어린이 포함 사망 [[8명]]",
+  "broll": [
+    "destroyed building smoke",
+    "ambulance emergency"
+  ],
+  "place_en": "Gaza Strip"
+}

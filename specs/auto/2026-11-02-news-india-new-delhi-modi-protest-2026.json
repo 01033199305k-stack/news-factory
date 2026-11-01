@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-02-news-india-new-delhi-modi-protest-2026",
+  "topic": "인도 뉴델리서 모디 정권 규탄 선거관리위원장 사퇴 촉구 시위",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 01:51 KST",
+  "source": "ABC News·Al Jazeera·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxPUUxyZDlDU1ZkMVd1bDREUFVvWkFzZlJwN2dLNUxmWG1FRVJNeEhoaHlzTHBJRFFLRWRyZk5zRTYwb3FzMmZXbXZVS0FxRVBNRFpMMjZXTzIwTHFlX2VtSjBraEJvZmkwc2l1aUJRV0R6ZXZsSDM2NHYtSXN5QjZUNEsyc2JkMlZFdkFISWxYMjJ5Zw",
+    "related": [
+      [
+        "Large Crowds Protest in New Delhi Over Modi and Voter Roll Changes",
+        "The New York Times"
+      ],
+      [
+        "Rahul Gandhi: India's opposition rallies against voter roll revision exercise",
+        "BBC"
+      ],
+      [
+        "Tens of thousands protest against Narendra Modi regime in Delhi",
+        "The Guardian"
+      ],
+      [
+        "Thousands rally in New Delhi to demand India’s election chief resign",
+        "Al Jazeera"
+      ],
+      [
+        "Indian opposition parties stage new protest against the elections chief",
+        "ABC News - Breaking News, Latest News and Videos"
+      ]
+    ],
+    "event_key": "india_new_delhi_modi_protest_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인도 뉴델리서 [[모디 정권]] 규탄\n선거관리위원장 사퇴 촉구 시위",
+      "sub": "야권과 수만 명의 시민이 선거인명부 개정안에 반발하며 거리로 나섰습니다.",
+      "chips": [
+        {
+          "k": "시위",
+          "v": "수만 명"
+        },
+        {
+          "k": "요구",
+          "v": "선관위원장 사퇴"
+        }
+      ],
+      "alt": "인도 뉴델리서 모디 정권 규탄 선거관리위원장 사퇴 촉구 시위",
+      "map": {
+        "lat": 28.6138954,
+        "lon": 77.2090057,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "인도"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "인도\n뉴델리",
+      "video_only": true,
+      "map": {
+        "lat": 28.6138954,
+        "lon": 77.2090057,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴델리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "선거인명부 반발",
+          "d": "야권 등이 선거인명부 수정 작업 반대 시위가 벌어졌습니다 (BBC·가디언)."
+        },
+        {
+          "t": "사퇴 요구",
+          "d": "시위대는 인도의 선거관리위원장 사퇴를 요구했습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "뉴델리 대규모 반정부 시위",
+        "선관위원장 사퇴 촉구"
+      ],
+      "unconfirmed": [
+        "시위 관련 부상자나 연행자 규모",
+        "인도 정부의 공식 입장"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Al Jazeera",
+        "BBC",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.02 03:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도 뉴델리서 모디 정권 규탄 및 선거관리위원장 사퇴 촉구 시위\n\n· 인도 야권과 수만 명의 시민이 선거인명부 개정안에 반발해 거리로 나섰습니다 (뉴욕타임스·가디언)\n· 시위대는 인도 선거관리위원장의 사퇴를 요구하며 정권 규탄 집회를 열었습니다 (알자지라·BBC)\n\n여러분은 인도의 이번 정국 혼란을 어떻게 보십니까?\n출처: 뉴욕타임스·BBC·가디언·알자지라·ABC뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도 뉴델리에서 모디 정권을 규탄하는 시위가 벌어졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "야권과 수만 명의 시민이 거리로 나와 선거인명부 개정안에 반발했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "알자지라는 시위대가 인도의 선거관리위원장 사퇴를 요구했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인도 정부의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 정국 혼란을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "인도 뉴델리서\n[[모디 정권]] 규탄 시위",
+  "broll": [
+    "protest crowd street",
+    "election banner rally"
+  ],
+  "place_en": "New Delhi, India"
+}
