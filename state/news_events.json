@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "sardinia-cave-rescue-2026",
-    "topic": "이탈리아 사르데냐 동굴서 낙반 사고로 매몰된 탐험가 구조",
-    "slug": "2026-10-13-news-sardinia-cave-rescue-2026",
-    "cluster": "CBMikgFBVV95cUxOSGsxVFo0NVFmQkdKblNRZE9oRFY2c0gyakhaTlhCZnBINEg4MS16UE90Rkh2Nmp0dUU0b3JYRjFJbnI3Yzdid0E2Z3hXVGkzQTZDaGctOF9PNHU0dHBQaHBlcmEwWXV5aVhQX3FUdTRuNGtiYm1CQ04xTzBpVFpoSjVpS1dQblZGRWlEdC1aWDUydw",
-    "badge": "breaking",
-    "at": 1791835705.251787,
-    "country": "이탈리아",
-    "category": "사고"
-  },
-  {
     "event_key": "nato-russia-defense-plan-2026",
     "topic": "나토 최고사령관, 러시아의 공격을 막을 대응 계획 발표",
     "slug": "2026-10-13-news-nato-russia-defense-plan-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793556531.7060359,
     "country": "팔레스타인",
     "category": "사고"
+  },
+  {
+    "event_key": "russia_ukraine_strikes_power_outage_2026",
+    "topic": "우크라이나 수만 가구 정전 발생 러시아 공습",
+    "slug": "2026-11-02-news-russia-ukraine-strikes-power-outage-2026",
+    "cluster": "CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk",
+    "badge": "breaking",
+    "at": 1793567341.1270113,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

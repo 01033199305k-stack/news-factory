@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-02-news-russia-ukraine-strikes-power-outage-2026",
+  "topic": "우크라이나 수만 가구 정전 발생 러시아 공습",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 04:48 KST",
+  "source": "BBC·NBC News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk",
+    "related": [
+      [
+        "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+        "BBC"
+      ],
+      [
+        "Russian strikes cut power to thousands in Ukraine as drones damage Russian facility",
+        "Reuters"
+      ],
+      [
+        "Ukraine news: Russian attacks leave tens of thousands without power as Kherson ceasefire set to end",
+        "DW.com"
+      ],
+      [
+        "Russian strikes cut power to thousands in Ukraine, despite Trump’s energy ceasefire push",
+        "NBC News"
+      ],
+      [
+        "Russian strikes leave thousands without power in Ukraine, says Zelenskyy",
+        "POLITICO.eu"
+      ]
+    ],
+    "event_key": "russia_ukraine_strikes_power_outage_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[우크라이나]] 수만 가구 정전 발생\n러시아 공습",
+      "sub": "수만 가구의 전력 공급이 중단되었습니다",
+      "chips": [
+        {
+          "k": "피해",
+          "v": "수만 가구 정전"
+        }
+      ],
+      "alt": "우크라이나 수만 가구 정전 발생 러시아 공습",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공습 발생",
+          "d": "러시아의 공습으로 우크라이나에서 수만 가구의 전력이 중단되었습니다 (BBC·DW)."
+        },
+        {
+          "t": "휴전 종료 직전",
+          "d": "헤르손 휴전 종료를 수 시간 앞두고 공습이 이뤄졌습니다 (BBC·DW)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 공습",
+        "수만 가구 전력 공급 중단"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "DW.com",
+        "NBC News",
+        "POLITICO.eu",
+        "Reuters",
+        "2026.11.02 06:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아의 공습으로 우크라이나에서 수만 가구가 정전됐습니다.\n\n· 러시아의 공습으로 우크라이나에서 수천에서 수만 가구가 정전됐습니다 (BBC·DW)\n· 헤르손 지역 휴전 시한 만료를 앞두고 공습이 이뤄졌습니다 (BBC·DW)\n\n출처: BBC·DW 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아의 공습으로 우크라이나에서 수만 가구가 정전됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "헤르손 지역의 휴전 종료를 수 시간 앞두고 공격이 감행됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[우크라이나]]\n갑자기 정전된 이유",
+  "broll": [
+    "power plant night",
+    "damaged building aerial"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
