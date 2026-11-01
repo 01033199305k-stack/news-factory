@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-01-news-iran-designates-uk-navy-raf-terrorist-2026",
+  "topic": "이란, 영국 해·공군 테러 조직 지정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.01 18:52 KST",
+  "source": "The Times of India·CGTN·Mehr News Agency 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi6AFBVV95cUxOQlhVNmNNY1htR1NYbTJ6WXRzMkxGdTBoUGR3clExRm41TFBpMVdmaWtmaHprdVJQWVF6QnBOWXZuT2dwSE9qVkZhNjNIZ01meDJOaHJsQTdCV3hNTEkxUV9LMmZab2dNZlZ4M3N6UHMzSHk5TnBxblhtbEM3dTJucGRTTVlwUk9CcGZPdHFyaWZ1aUZZaVBWVF9sUUVsazBweEYtS1lTMmZHQVoxMW5qMFNjRzkwTW9vekQ4U0NseWExWEJuNllRV2dvUEZ3ZGdZNmRxWVRxajU0djFiQ2R4VHl0Uk5kZkZh",
+    "related": [
+      [
+        "Iran declares UK navy, air force 'terrorist' groups, puts MI6 in hostile list",
+        "The Times of India"
+      ],
+      [
+        "Iran Condemns UK’s Hostile Measures, Designates MI6, Royal Navy, RAF as Terrorist Entities",
+        "تسنیم"
+      ],
+      [
+        "Iran’s Foreign Ministry designates British Navy and Air Force as “terrorist organizations”",
+        "CGTN"
+      ],
+      [
+        "Iran labels UK Royal Navy and RAF 'terrorist organizations'",
+        "NewsBytes"
+      ],
+      [
+        "Iran FM designates British Royal Navy, Air Force as terrorist",
+        "Mehr News Agency"
+      ]
+    ],
+    "event_key": "iran_designates_uk_navy_raf_terrorist_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, 영국 해·공군\n[[테러 조직]] 지정",
+      "sub": "정보기관 MI6도 적대 목록에 공식 추가",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "영국 해·공군"
+        },
+        {
+          "k": "조치",
+          "v": "테러 조직 지정"
+        }
+      ],
+      "alt": "이란, 영국 해·공군 테러 조직 지정",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "정보기관 MI6 포함",
+          "d": "이란 외무부는 영국 비밀정보국 MI6도 적대 목록에 올렸습니다 (타임스오브인디아)."
+        },
+        {
+          "t": "적대적 조치 규탄",
+          "d": "이란 측은 영국의 적대적 조치를 규탄하며 테러 조직으로 지정했습니다 (타스님통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국 해군·공군 테러 조직 지정",
+        "영국 MI6 적대 목록 포함"
+      ],
+      "unconfirmed": [
+        "영국 정부의 공식 대응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CGTN",
+        "Mehr News Agency",
+        "NewsBytes",
+        "The Times of India",
+        "تسنیم",
+        "2026.11.01 21:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란 정부, 영국 해·공군 테러 조직으로 공식 지정\n\n· 영국 해군과 공군을 테러 조직 목록에 추가 (CGTN·메흐르통신)\n· 영국 대외정보국 MI6도 적대 목록에 포함 (타임스오브인디아)\n· 영국의 적대적 조치를 규탄하며 지정 (타스님통신)\n\n양국 간 외교 갈등의 여파를 어떻게 보십니까?\n\n출처: 타임스오브인디아·타스님통신·CGTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 영국 해군과 공군을 테러 조직으로 공식 지정했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란 외무부는 영국 대외정보국 MI6도 적대 목록에 올렸다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "영국 정부의 구체적인 대응 조치는 아직 나오지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "양국 사이 갈등 심화, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이란이 [[영국군]]을\n겨눈 까닭",
+  "broll": [
+    "government building flag",
+    "military naval base"
+  ],
+  "place_en": "Tehran, Iran"
+}
