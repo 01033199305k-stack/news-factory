@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france-marseille-school-shooting-2026",
-    "topic": "프랑스 학교서 총격 교사 2명 부상",
-    "slug": "2026-10-12-news-france-marseille-school-shooting-2026",
-    "cluster": "CBMie0FVX3lxTE9LZms4Ynh0ZDRlQVNpNjMzdi1ROUduUnY4cEZFZV85a1pEOGxLOHJEWG1oU0JHRmtfanJoLUVTb2xyVVMwZHY4cl9rT1g5YUlFTmhKbVFndGtoZDBQa2ZwUEJOOGNkSV9qdEY2eUxFWkFCWU9TWGFYbS01cw",
-    "badge": "breaking",
-    "at": 1791803764.1956606,
-    "country": "프랑스",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "iran-saudi-houthi-mediation-2026",
     "topic": "이란, 후티 반군과 사우디 간 중재 제안 나서",
     "slug": "2026-10-12-news-iran-saudi-houthi-mediation-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793499819.4844854,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "trump_iran_strikes_threat_2026",
+    "topic": "미국 트럼프 대통령은 이란 추가 타격 시사",
+    "slug": "2026-11-01-news-trump-iran-strikes-threat-2026",
+    "cluster": "CBMi9wFBVV95cUxOdVZrUC1lUVhFNVlSTTJuT2xuUWpCUVJScldVdlJ5WEN1aHZxbV96RFJwLUsyeElRakRjSmtDTHAzcXpTY2JlUlpTMXVMU1RsUHI3OWtjMUY0YkdWbDB1ZG1yVER6Tm1YQWFkLTMyZmRzenNEM01PNXY0QThSa25DMXZCcGFYbUtGekJXY18tcHF5NzdCVEp4TVdzU21rNGk4SG52eW5GZTBNM1k5U25tUElFOUZfV1VoS2ZRc3dWd0VzWFJEVmZsRUNOcnp4YjBPSE50enI4SmJ5MUZFRk92amlXWGlCRmFfNDdLQ2FGZkplU1FnaGRr",
+    "badge": "brief",
+    "at": 1793509605.8683522,
+    "country": "미국",
+    "category": "국제"
   }
 ]

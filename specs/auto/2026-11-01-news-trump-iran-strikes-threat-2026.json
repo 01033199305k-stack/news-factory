@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-01-news-trump-iran-strikes-threat-2026",
+  "topic": "미국 트럼프 대통령은 이란 추가 타격 시사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.01 12:09 KST",
+  "source": "NDTV·Reuters·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi9wFBVV95cUxOdVZrUC1lUVhFNVlSTTJuT2xuUWpCUVJScldVdlJ5WEN1aHZxbV96RFJwLUsyeElRakRjSmtDTHAzcXpTY2JlUlpTMXVMU1RsUHI3OWtjMUY0YkdWbDB1ZG1yVER6Tm1YQWFkLTMyZmRzenNEM01PNXY0QThSa25DMXZCcGFYbUtGekJXY18tcHF5NzdCVEp4TVdzU21rNGk4SG52eW5GZTBNM1k5U25tUElFOUZfV1VoS2ZRc3dWd0VzWFJEVmZsRUNOcnp4YjBPSE50enI4SmJ5MUZFRk92amlXWGlCRmFfNDdLQ2FGZkplU1FnaGRr",
+    "related": [
+      [
+        "Trump Says US Still Has 'One Or Two' Targets In Iran, Mojtaba Khamenei Warns Of 'Quick' Reply",
+        "NDTV"
+      ],
+      [
+        "‘We can do it in ten minutes’: Trump signals fresh US strikes on Iran, names Pickaxe Mountain",
+        "The Times of India"
+      ],
+      [
+        "Trump on Iran war: It's going to get wrapped up soon",
+        "Reuters"
+      ],
+      [
+        "Trump says remaining Iran nuclear sites can be hit “in 10 minutes,” claims Tehran wants to “make a deal”",
+        "Rising Kashmir"
+      ],
+      [
+        "Trump says US still has to 'take care' of one or two targets in Iran",
+        "The New Indian Express"
+      ]
+    ],
+    "event_key": "trump_iran_strikes_threat_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 트럼프 대통령은\n[[이란]] 추가 타격 시사",
+      "sub": "남은 목표물은 1~2개뿐이며 10분 안에도 타격할 수 있다고 밝혔습니다",
+      "chips": [
+        {
+          "k": "목표물",
+          "v": "1~2개"
+        },
+        {
+          "k": "시간",
+          "v": "10분"
+        }
+      ],
+      "alt": "미국 트럼프 대통령은 이란 추가 타격 시사",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "추가 타격 경고",
+          "d": "미국 트럼프 대통령은 이란에 남은 목표물이 1~2개 있다고 밝혔습니다 (로이터·NDTV)"
+        },
+        {
+          "t": "대응 발언",
+          "d": "이란 모즈타바 하메네이는 신속한 대응을 경고했습니다 (NDTV)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 트럼프 대통령의 이란 타격 시사",
+        "남은 목표물 1~2개 언급"
+      ],
+      "unconfirmed": [
+        "실제 군사 행동 개시 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "NDTV",
+        "Reuters",
+        "Rising Kashmir",
+        "The New Indian Express",
+        "The Times of India",
+        "2026.11.01 14:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 트럼프 대통령은 이란에 대한 추가 타격을 시사했습니다\n\n· 미국 트럼프 대통령은 남은 목표물이 1~2개라고 밝혔습니다 (로이터·NDTV)\n· 이란 모즈타바 하메네이는 신속한 대응을 경고했습니다 (NDTV)\n\n여러분은 미국의 대이란 추가 압박 움직임, 어떻게 보십니까?\n출처: 로이터·NDTV·타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 트럼프 대통령이 이란에 대한 추가 타격을 시사했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 남은 목표물이 1~2개뿐이라고 보도했습니다.",
+      "card": "points",
+      "screen": "목표물 1~2개"
+    },
+    {
+      "text": "이란 측은 신속한 대응으로 맞설 것이라고 밝혔습니다.",
+      "card": "points",
+      "screen": "신속한 대응 경고"
+    },
+    {
+      "text": "구체적인 군사 행동 계획은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 대이란 압박 움직임, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "미국이 [[이란]]을 향해\n꺼낸 경고는?",
+  "broll": [
+    "oil refinery plant",
+    "military radar station"
+  ],
+  "place_en": "Washington, DC, USA"
+}
