@@ -30363,5 +30363,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793517397
+  },
+  {
+    "slug": "2026-11-01-news-bolivia-state-of-emergency-el-nino-2026",
+    "event_ms": 1793506093000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 볼리비아 정부가 엘니뇨 여파로 전국에 국가 비상사태를 선포했습니다.\n\n· 가뭄과 홍수 등 극심한 기상 이변 위험에 대응하기 위한 조치입니다 (알자지라·DW)\n· 볼리비아 당국은 전국적인 비상 대응 체계를 가동했습니다 (비즈니스 스탠다드)\n\n출처: 알자지라·DW·비즈니스 스탠다드 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "볼리비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18215245630362795",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfMK8TLFgqf",
+        "kind": "carousel",
+        "at": 1793517274
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1793520481
+      },
+      "tiktok": {
+        "id": "7703111837209873672",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703111837209873672",
+        "kind": "video",
+        "at": 1793520604
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793524153
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793524153
   }
 ]
