@@ -29,10 +29,20 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfMK8TLFgqf",
         "kind": "carousel",
         "at": 1793517274
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1793520481
+      },
+      "tiktok": {
+        "id": "7703111837209873672",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703111837209873672",
+        "kind": "video",
+        "at": 1793520604
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
