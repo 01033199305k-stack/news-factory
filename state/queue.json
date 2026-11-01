@@ -44,6 +44,53 @@
       }
     },
     "attempts": {
+      "instagram": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-02-news-us-florida-palm-beach-plane-crash-2026",
+    "event_ms": 1793565068000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 플로리다주 팜비치 카운티에서 항공기가 추락해 화재가 발생했습니다.\n\n· 사고 비행기에는 모두 9명이 탑승하고 있었던 것으로 파악됐습니다. (야후)\n· 화재를 동반한 항공기 사고에 당국이 출동해 대응에 나섰습니다. (NBC)\n· 당국은 비행기 추락 사고에 대한 조사에 착수했습니다. (CNN)\n\n출처: 야후·NBC·CNN 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18179735818450059",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfNrfpLCaxt",
+        "kind": "carousel",
+        "at": 1793567898
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793568037
+      },
+      "tiktok": {
+        "id": "7703316076385291540",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703316076385291540",
+        "kind": "video",
+        "at": 1793568159
+      }
+    },
+    "attempts": {
       "instagram": 1
     },
     "video": "video.mp4"

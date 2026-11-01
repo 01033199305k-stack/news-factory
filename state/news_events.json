@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "nato-russia-defense-plan-2026",
-    "topic": "나토 최고사령관, 러시아의 공격을 막을 대응 계획 발표",
-    "slug": "2026-10-13-news-nato-russia-defense-plan-2026",
-    "cluster": "CBMirgFBVV95cUxNOVIwNmNCdG1jLWtWYkNTZW9EOGM1MnozMGlWTXNBVEFiaWlXU28yc3NjWVlXMkF0SXJJXzFlSllzZ24tRWVTTHhRcFN0RTk1NHlHWEwwQWN1SG5lWExtc1paNHhHNHhxa01uekw3Zk9BR3ZMNzQ0T0k1YkZlNXpVelU1MVB3VTl2c3dwWlZSOFRvNnhRWXZlTHpORXZoYnlCS2s3RXB5c2s1QXFwN1E",
-    "badge": "brief",
-    "at": 1791846607.1650586,
-    "country": "벨기에",
-    "category": "국제"
-  },
-  {
     "event_key": "georgia-six-flags-goliath-accident",
     "topic": "조지아주 식스플래그 놀이기구서 사망 사고 발생",
     "slug": "2026-10-13-news-georgia-six-flags-goliath-accident",
@@ -2998,5 +2988,15 @@
     "at": 1793567341.1270113,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "us_florida_palm_beach_plane_crash_2026",
+    "topic": "미국 플로리다서 비행기 추락 화재",
+    "slug": "2026-11-02-news-us-florida-palm-beach-plane-crash-2026",
+    "cluster": "CBMia0FVX3lxTFBTcWQ5OXN3NllJNlVibFNZdm95OURiTUxLVThOdHhwQ2RfdmlSRHRYV1F1QlpXZVFTSjVGaTNaZFFUVlcwd1hWVmVQU2NhcXFLS2ZTd0R4aDJqbVZtRklidXR2X1J3V1FlWDNr",
+    "badge": "breaking",
+    "at": 1793567851.0979688,
+    "country": "미국",
+    "category": "사고"
   }
 ]

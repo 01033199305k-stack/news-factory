@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-02-news-us-florida-palm-beach-plane-crash-2026",
+  "topic": "미국 플로리다서 비행기 추락 화재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 05:31 KST",
+  "source": "CNN·Yahoo News·NBC 6 South Florida 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMia0FVX3lxTFBTcWQ5OXN3NllJNlVibFNZdm95OURiTUxLVThOdHhwQ2RfdmlSRHRYV1F1QlpXZVFTSjVGaTNaZFFUVlcwd1hWVmVQU2NhcXFLS2ZTd0R4aDJqbVZtRklidXR2X1J3V1FlWDNr",
+    "related": [
+      [
+        "Authorities investigating after plane crashes in Palm Beach County, Florida",
+        "CNN"
+      ],
+      [
+        "Fiery incident reported near Military Trail and 10th Avenue",
+        "WPTV"
+      ],
+      [
+        "Emergency crews respond to aircraft incident near Military Trail and 10th Avenue North",
+        "WPBF"
+      ],
+      [
+        "Plane that crashed near Greenacres had nine on board, officials said",
+        "Yahoo"
+      ],
+      [
+        "Officials respond to fiery aircraft incident in Palm Beach County",
+        "NBC 6 South Florida"
+      ]
+    ],
+    "event_key": "us_florida_palm_beach_plane_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 플로리다서\n[[비행기 추락]] 화재",
+      "sub": "탑승자 9명 태운 항공기 추락해 당국 조사 착수",
+      "chips": [
+        {
+          "k": "탑승자",
+          "v": "9명 (야후)"
+        }
+      ],
+      "alt": "미국 플로리다서 비행기 추락 화재",
+      "map": {
+        "lat": 26.6279798,
+        "lon": -80.4494174,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다주 팜비치 카운티",
+      "video_only": true,
+      "map": {
+        "lat": 26.6279798,
+        "lon": -80.4494174,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다주 팜비치 카운티"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "9명 탑승 확인",
+          "d": "야후는 사고 항공기에 9명이 탑승하고 있었다고 당국 관계자를 인용해 보도했습니다."
+        },
+        {
+          "t": "화재 동반 사고 대응",
+          "d": "NBC와 WPTV는 팜비치 카운티의 도로 인근에서 화재를 동반한 항공기 사고가 보고돼 당국이 출동했다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플로리다주 팜비치 카운티서 비행기 추락",
+        "사고 비행기에 9명 탑승",
+        "화재를 동반한 사고에 당국 출동 및 조사 착수"
+      ],
+      "unconfirmed": [
+        "정확한 사상자 수",
+        "한국인 피해 여부",
+        "비행기 추락 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "NBC 6 South Florida",
+        "WPBF",
+        "WPTV",
+        "Yahoo",
+        "2026.11.02 06:17 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 플로리다주 팜비치 카운티에서 항공기가 추락해 화재가 발생했습니다.\n\n· 사고 비행기에는 모두 9명이 탑승하고 있었던 것으로 파악됐습니다. (야후)\n· 화재를 동반한 항공기 사고에 당국이 출동해 대응에 나섰습니다. (NBC)\n· 당국은 비행기 추락 사고에 대한 조사에 착수했습니다. (CNN)\n\n출처: 야후·NBC·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 플로리다주에서 비행기가 추락해 화재가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 플로리다주 팜비치 카운티의 도로 인근에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "야후는 사고 항공기에 모두 9명이 탑승하고 있었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "탑승자들의 인명 피해 여부와 정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "플로리다서\n[[비행기 추락]]",
+  "broll": [
+    "airplane wreckage smoke",
+    "ambulance siren"
+  ],
+  "place_en": "Palm Beach County, Florida, United States"
+}
