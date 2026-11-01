@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-01-news-bolivia-state-of-emergency-el-nino-2026",
+  "topic": "볼리비아 전국에 국가 비상사태 선포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.01 13:08 KST",
+  "source": "Al Jazeera·DW.com·Inquirer.net 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxNQjhNQVZoVXhtYXI4RGx2Q1NfcFRvMnFrSzRqV3lqOTFVcU85YUgyQmw3QWZJWHVLcmFTcmpRX01DcmxxOVBNc1ROSDlFZUJEUXBMY00wT0RCamdTMW5aYVJPNkljMlZmUC0wTWhhWXRja0ZJVkRJZWZsazJIbjExS1BoaURjVXQxR3ZpcHlqN1FoN2l6OTBpMkNZSUhZZ1J6VDZNQUV1OEzSAa4BQVVfeXFMTmp6MnhUenBXRmR4X1ZoaGh0S2REMk9oZDh5eTdQdVJmeGZ4N1l1ZkR3RVVkS2tsMkp1dmFPdGc1NGE1NHJtN2xZZTVOdjNENnRxTnFiRFdidDRHRXd4QmxmYkNIYXE3Slh3VGNNNTFKbHcxLVZpSXRPWnpWMUNLbV9kNGJTVlhpMmxrVzFoU2I0Q1RjMHdjZWo3TFF2b2ZrY2E1WXctRGk1RnEtbGx3",
+    "related": [
+      [
+        "Bolivia declares state of emergency over El Nino weather pattern",
+        "Al Jazeera"
+      ],
+      [
+        "Bolivia declares emergency as El Nino intensifies, threatens severe weather",
+        "DW.com"
+      ],
+      [
+        "Bolivia declares state of emergency over El Niño",
+        "Inquirer.net"
+      ],
+      [
+        "Bolivia declares nationwide state of emergency over drought and flood risks",
+        "The Business Standard"
+      ],
+      [
+        "Bolivia declares state of emergency over El Niño — Channel NewsAsia",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "bolivia_state_of_emergency_el_nino_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "볼리비아 전국에\n[[국가 비상사태]] 선포",
+      "sub": "엘니뇨 심화에 가뭄·홍수 피해 우려로 대응 수위 격상",
+      "chips": [],
+      "alt": "볼리비아 전국에 국가 비상사태 선포",
+      "map": {
+        "lat": -17.0568696,
+        "lon": -64.9912286,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "볼리비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "볼리비아",
+      "video_only": true,
+      "map": {
+        "lat": -17.0568696,
+        "lon": -64.9912286,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "볼리비아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기상 이변 대응",
+          "d": "볼리비아 정부가 엘니뇨로 인한 기상 이변 피해에 대응하기 위해 비상사태를 선포했습니다 (알자지라·DW)."
+        },
+        {
+          "t": "가뭄·홍수 위험",
+          "d": "전국적인 가뭄과 홍수 위험이 동시에 높아지면서 비상 대응체계에 들어갔습니다 (비즈니스 스탠다드)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "볼리비아 국가 비상사태 선포",
+        "엘니뇨 기후 기상 위험 증대"
+      ],
+      "unconfirmed": [
+        "정확한 피해보상 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "DW.com",
+        "Inquirer.net",
+        "The Business Standard",
+        "UA.NEWS",
+        "2026.11.01 16:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 볼리비아 정부가 엘니뇨 여파로 전국에 국가 비상사태를 선포했습니다.\n\n· 가뭄과 홍수 등 극심한 기상 이변 위험에 대응하기 위한 조치입니다 (알자지라·DW)\n· 볼리비아 당국은 전국적인 비상 대응 체계를 가동했습니다 (비즈니스 스탠다드)\n\n출처: 알자지라·DW·비즈니스 스탠다드 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "볼리비아 정부가 전국에 국가 비상사태를 선포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "엘니뇨 현상이 심화하면서 가뭄과 홍수 위험이 급격히 커졌기 때문입니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라 등 외신은 기상 이변 피해에 대응해 비상 체계가 가동됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부와 정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[볼리비아]] 전국에\n비상사태 왜?",
+  "broll": [
+    "bolivia street",
+    "dry river bed"
+  ],
+  "place_en": "Bolivia"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "iran-saudi-houthi-mediation-2026",
-    "topic": "이란, 후티 반군과 사우디 간 중재 제안 나서",
-    "slug": "2026-10-12-news-iran-saudi-houthi-mediation-2026",
-    "cluster": "CBMilAFBVV95cUxNaWJtcHhwd0pBWHVROHMwYl9XUTN3bG9uWFc2QXVURFYxUUNGRHJRaDVxNEdQQmR4TTB5cHVmQkVDcERpRnB0ZVZFTUJyRmRtUXJoS2QtYllhY1FJY3k0eEE2SXhzck1pdTZieUhQM3pPdGJSSlgyRXJHTUVFaGcteHBpemc3a0ZMTXJpamxPck8tdmk5",
-    "badge": "breaking",
-    "at": 1791814200.0125546,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "hurricane-simon-mexico-2026",
     "topic": "허리케인 사이먼 북상에 멕시코 해안 대피령",
     "slug": "2026-10-12-news-hurricane-simon-mexico-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793509605.8683522,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "bolivia_state_of_emergency_el_nino_2026",
+    "topic": "볼리비아 전국에 국가 비상사태 선포",
+    "slug": "2026-11-01-news-bolivia-state-of-emergency-el-nino-2026",
+    "cluster": "CBMiqAFBVV95cUxNQjhNQVZoVXhtYXI4RGx2Q1NfcFRvMnFrSzRqV3lqOTFVcU85YUgyQmw3QWZJWHVLcmFTcmpRX01DcmxxOVBNc1ROSDlFZUJEUXBMY00wT0RCamdTMW5aYVJPNkljMlZmUC0wTWhhWXRja0ZJVkRJZWZsazJIbjExS1BoaURjVXQxR3ZpcHlqN1FoN2l6OTBpMkNZSUhZZ1J6VDZNQUV1OEzSAa4BQVVfeXFMTmp6MnhUenBXRmR4X1ZoaGh0S2REMk9oZDh5eTdQdVJmeGZ4N1l1ZkR3RVVkS2tsMkp1dmFPdGc1NGE1NHJtN2xZZTVOdjNENnRxTnFiRFdidDRHRXd4QmxmYkNIYXE3Slh3VGNNNTFKbHcxLVZpSXRPWnpWMUNLbV9kNGJTVlhpMmxrVzFoU2I0Q1RjMHdjZWo3TFF2b2ZrY2E1WXctRGk1RnEtbGx3",
+    "badge": "breaking",
+    "at": 1793517232.348214,
+    "country": "볼리비아",
+    "category": "재난"
   }
 ]
