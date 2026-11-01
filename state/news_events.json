@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "hurricane-simon-mexico-2026",
-    "topic": "허리케인 사이먼 북상에 멕시코 해안 대피령",
-    "slug": "2026-10-12-news-hurricane-simon-mexico-2026",
-    "cluster": "CBMiqwFBVV95cUxPTHEtSXcxVFNmdjdoYV85TlRyelJhOGhSUmR2Qm5obVFfQTZmMjdlRExOcDF0SHB1c2lVN1BYWHRFSEsxc3F1dHhjVFlJbzZaaGE4NUpIUU5zX3BQUkhDZmxqblMycGNZUWNOLVFMRmVZTHRiTFFRYzZvWXBieEI1MHljTndKNmx5ZHdYckN3b1FCN082TmpHNjljRVVNSXBkcWJ3eW9RdS1uQUE",
-    "badge": "breaking",
-    "at": 1791821329.8180559,
-    "country": "멕시코",
-    "category": "재난"
-  },
-  {
     "event_key": "israel-lebanon-border-munition-explosion",
     "topic": "이스라엘 국경서 폭발물 터져 학생 1명 사망·24명 부상",
     "slug": "2026-10-13-news-israel-lebanon-border-munition-explosion",
@@ -2998,5 +2988,15 @@
     "at": 1793517232.348214,
     "country": "볼리비아",
     "category": "재난"
+  },
+  {
+    "event_key": "bangladesh_garment_workers_protest_wage_board_2026",
+    "topic": "방글라데시 임금위 구성 의류 시위 격화",
+    "slug": "2026-11-01-news-bangladesh-garment-workers-protest-wage-board-2026",
+    "cluster": "CBMingFBVV95cUxPa0ZJUGJXU29Va0s3M2VnM2lFNHo5cEw0NkhvQ0FJYjdqb3Y3UlJXS3BCLTRiSTZYMVVQeEIyeTk4UDhENmZvalFEdFd2OWQzdU5LYlp6QW5wWFR2MWxtUDNxTEJuWmhILUtYajUxYTJKVU1YZmwwR2tVWHZqQWMyUDVNRlg4SlUyUjRsdkw0VTFHSUtIckZGZnhzNi1EUdIBowFBVV95cUxQYWFxOUlvT1l6d1NIZWFGajJ5UVZwREM4dDcyblBnWHVBaVppWjQwRHlRTXRNc0RraWF6TVJYYm1kVno0WnFPVDdocUtYbDZ5Tm9CbmtIeVFFTXVEaC0yT3Z3eUJLOHdERWtwbzFFSFdiVk84RFJ4d1FITDN6d1I2N25yT3hjdzVYcklieEd2NWZoajRPU2w1OHc3czZYcm9KTzg0",
+    "badge": "breaking",
+    "at": 1793529921.7953787,
+    "country": "방글라데시",
+    "category": "경제·과학"
   }
 ]

@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-01-news-bangladesh-garment-workers-protest-wage-board-2026",
+  "topic": "방글라데시 임금위 구성 의류 시위 격화",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.01 17:15 KST",
+  "source": "Al Jazeera·Reuters·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxPa0ZJUGJXU29Va0s3M2VnM2lFNHo5cEw0NkhvQ0FJYjdqb3Y3UlJXS3BCLTRiSTZYMVVQeEIyeTk4UDhENmZvalFEdFd2OWQzdU5LYlp6QW5wWFR2MWxtUDNxTEJuWmhILUtYajUxYTJKVU1YZmwwR2tVWHZqQWMyUDVNRlg4SlUyUjRsdkw0VTFHSUtIckZGZnhzNi1EUdIBowFBVV95cUxQYWFxOUlvT1l6d1NIZWFGajJ5UVZwREM4dDcyblBnWHVBaVppWjQwRHlRTXRNc0RraWF6TVJYYm1kVno0WnFPVDdocUtYbDZ5Tm9CbmtIeVFFTXVEaC0yT3Z3eUJLOHdERWtwbzFFSFdiVk84RFJ4d1FITDN6d1I2N25yT3hjdzVYcklieEd2NWZoajRPU2w1OHc3czZYcm9KTzg0",
+    "related": [
+      [
+        "Bangladesh forms wage board as garment workers protest",
+        "Al Jazeera"
+      ],
+      [
+        "Bangladesh forms wage board as garment protests turn violent",
+        "Reuters"
+      ],
+      [
+        "Wage unrest grips Bangladesh garment sector; dozens of factories shut",
+        "The Times of India"
+      ],
+      [
+        "Garment workers block Dhaka-Tangail highway, set police box on fire",
+        "Dhaka Tribune"
+      ],
+      [
+        "Bangladesh to form wage board as garment workers keep up protests",
+        "The New Indian Express"
+      ]
+    ],
+    "event_key": "bangladesh_garment_workers_protest_wage_board_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "방글라데시 [[임금위]] 구성\n의류 시위 격화",
+      "sub": "수십 개 공장 가동 중단과 도로 봉쇄 이어져",
+      "chips": [
+        {
+          "k": "정부 대응",
+          "v": "임금위원회 구성"
+        }
+      ],
+      "alt": "방글라데시 임금위 구성 의류 시위 격화",
+      "map": {
+        "lat": 23.7643863,
+        "lon": 90.3890144,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "방글라데시"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "방글라데시\n다카",
+      "video_only": true,
+      "map": {
+        "lat": 23.7643863,
+        "lon": 90.3890144,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "다카"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "임금위원회 구성",
+          "d": "방글라데시 정부가 의류 노동자 시위 대응을 위해 임금위원회를 구성하기로 했습니다 (로이터·알자지라)."
+        },
+        {
+          "t": "공장 중단 및 충돌",
+          "d": "시위 여파로 수십 개 의류 공장이 문을 닫고 도로 봉쇄와 충돌이 발생했습니다 (타임스오브인디아·다카트리뷴)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "방글라데시 임금위원회 구성 발표",
+        "의류 공장 가동 중단"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "최종 임금 인상 폭"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Dhaka Tribune",
+        "Reuters",
+        "The New Indian Express",
+        "The Times of India",
+        "2026.11.01 19:45 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 방글라데시 정부가 의류 노동자 시위에 대응해 임금위원회를 구성했습니다.\n\n· 시위 여파로 수십 개 의류 공장이 가동을 중단했습니다 (타임스오브인디아).\n· 도로 봉쇄와 치안 당국 충돌이 이어졌습니다 (다카트리뷴).\n\n질문: 이번 임금 조정이 세계 의류 시장에 어떤 영향을 줄 것으로 보십니까?\n\n출처: 로이터·알자지라·타임스오브인디아·다카트리뷴 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "방글라데시 정부가 의류 노동자 시위에 대응해 임금위원회를 구성했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "방글라데시 다카 일대에서 임금 인상을 요구하는 시위가 이어졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "시위 확산으로 수십 개 의류 공장이 문을 닫았다고 타임스오브인디아는 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최종 임금 인상 폭과 조업 정상화 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 대응을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[의류 공장]] 멈춘\n방글라데시 상황",
+  "broll": [
+    "garment factory building",
+    "street protest police"
+  ],
+  "place_en": "Dhaka, Bangladesh"
+}
