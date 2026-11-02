@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-major-banks-earnings-2026",
-    "topic": "미국 대형 은행들 실적 발표 고금리 여파로 JP모건 이익 감소",
-    "slug": "2026-10-13-news-us-major-banks-earnings-2026",
-    "cluster": "CBMilwFBVV95cUxQRWthN0FFWDQyd3RDcEtibDVnM2NwZFYyc1p3WXRXcTlOeFJtQUYyZG5ybExDekhqYTdtYmcybElvQ24zT2RnWWxZa3hxV3hRejlTRWJJN1ZNbkdXeVd5XzJwTWd0VDl3Ym5IVzBmMldPbnJ3N3N3UkFfSFN0dzMtNkRxNl9CYXRzRElZeEVHbnZGSEVjYlZV",
-    "badge": "breaking",
-    "at": 1791907953.050585,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "houthi-strike-riyadh-saudi-arabia-2026",
     "topic": "후티 반군, 사우디 리야드 공격 미국과 사우디에 안보 딜레마",
     "slug": "2026-10-14-news-houthi-strike-riyadh-saudi-arabia-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793628440.209968,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "us_halloween_weekend_shootings_2026",
+    "topic": "미국 할로윈 주말 총격으로 수십 명 사망",
+    "slug": "2026-11-02-news-us-halloween-weekend-shootings-2026",
+    "cluster": "CBMilgFBVV95cUxPUlVpWVB4clVmcXBEY3pYdFp2RUtrRkozVDR4WFMzd21UdXQtYnhJSmJycWQwc09hd0FTVHQtaUhEY1JRQU81R0JxVEN5dGZSaUhhVDZyWkZDbTFXNko2MkJqcVZuVk5FN3FOd3Rnb3lOaGV6Y0l3ejFQYU5vZWFNdk1mckxnRElGRUpSeTFjUFpzZ21lV1E",
+    "badge": "breaking",
+    "at": 1793635871.1272154,
+    "country": "미국",
+    "category": "총격·테러"
   }
 ]

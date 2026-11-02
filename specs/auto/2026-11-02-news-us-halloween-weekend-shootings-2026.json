@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-02-news-us-halloween-weekend-shootings-2026",
+  "topic": "미국 할로윈 주말 총격으로 수십 명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 22:28 KST",
+  "source": "CBS News·CNN·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilgFBVV95cUxPUlVpWVB4clVmcXBEY3pYdFp2RUtrRkozVDR4WFMzd21UdXQtYnhJSmJycWQwc09hd0FTVHQtaUhEY1JRQU81R0JxVEN5dGZSaUhhVDZyWkZDbTFXNko2MkJqcVZuVk5FN3FOd3Rnb3lOaGV6Y0l3ejFQYU5vZWFNdk1mckxnRElGRUpSeTFjUFpzZ21lV1E",
+    "related": [
+      [
+        "Two victims identified in deadly Deep Ellum shootings that left four dead and 15 wounded",
+        "FOX 4 News Dallas-Fort Worth"
+      ],
+      [
+        "Halloween Shootings Leave at Least 24 Dead and 94 Wounded Nationwide",
+        "The New York Times"
+      ],
+      [
+        "12 killed, more than 60 injured in Halloween weekend shootings across seven states",
+        "NBC News"
+      ],
+      [
+        "Violent Halloween weekend in US with more than a dozen killed, over 90 injured in shootings",
+        "CNN"
+      ],
+      [
+        "Federal prosecutors to discuss actions tied to Deep Ellum Halloween shootings",
+        "CBS News"
+      ]
+    ],
+    "event_key": "us_halloween_weekend_shootings_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 할로윈 주말\n[[총격]]으로 수십 명 사망",
+      "sub": "최소 7개 주에서 잇따라 총격 사건이 발생했습니다.",
+      "chips": [],
+      "alt": "미국 할로윈 주말 총격으로 수십 명 사망",
+      "map": {
+        "lat": 32.7762719,
+        "lon": -96.7968559,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n댈러스",
+      "video_only": true,
+      "map": {
+        "lat": 32.7762719,
+        "lon": -96.7968559,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "댈러스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "댈러스 딥엘름 총격",
+          "d": "댈러스 딥엘름 지역 총격으로 4명이 숨지고 15명이 다쳤습니다 (FOX4)."
+        },
+        {
+          "t": "연방 검찰 대응",
+          "d": "미 연방 검찰은 딥엘름 총격 사건 관련 조치를 논의할 예정입니다 (CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "할로윈 주말 연쇄 총격 발생",
+        "최소 7개 주에서 총격 보고"
+      ],
+      "unconfirmed": [
+        "전국 정확한 인명 피해 규모 매체별 집계 차이 있음 (사망 12~24명)",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "CNN",
+        "FOX 4 News Dallas-Fort Worth",
+        "NBC News",
+        "The New York Times",
+        "2026.11.03 01:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 할로윈 주말 동안 7개 주 이상에서 연쇄 총격이 발생해 수십 명이 숨졌습니다.\n\n· 댈러스 딥엘름 지역에서는 총격으로 4명이 숨지고 15명이 다쳤습니다 (FOX4).\n· 뉴욕타임스는 전국에서 최소 24명이 숨지고 94명이 다쳤다고 전했습니다 (NYT).\n· 미 연방 검찰은 딥엘름 사건과 관련해 조치를 논의할 예정이라고 밝혔습니다 (CBS).\n\n출처: FOX4·뉴욕타임스·NBC·CNN·CBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 할로윈 주말 동안 전국 곳곳에서 연쇄 총격 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "댈러스를 비롯해 최소 7개 주에서 총격이 잇따랐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "뉴욕타임스는 24명이 숨졌다고 전했고 NBC는 12명이 사망했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "딥엘름 총격과 관련해 미 연방 검찰도 관련 조치를 논의할 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 전체 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "할로윈 주말 미국\n[[연쇄 총격]] 발생",
+  "broll": [
+    "police car night",
+    "ambulance street"
+  ],
+  "place_en": "Dallas, United States"
+}
