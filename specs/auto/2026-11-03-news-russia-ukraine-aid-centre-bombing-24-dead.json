@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-03-news-russia-ukraine-aid-centre-bombing-24-dead",
+  "topic": "우크라이나 남부 구호센터 공습 사망 24명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 03:01 KST",
+  "source": "AP News·Al Jazeera·BBC 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE9QOHlsd3Z6cjJUeENVUXpQM3ozbFYzRnBMQmhWcWxTV2VmUm4tWUNJRUQ5STVmOW01VC1qRXFNN1praFpQOUM0c3Eyc1VLb0d6SnpxS0dlSHdqMmVtSmc",
+    "related": [
+      [
+        "Russian bombing kills 24 people at Ukraine aid centre, Kyiv says",
+        "BBC"
+      ],
+      [
+        "Russian bombing of Ukrainian aid centre kills 24 people",
+        "Al Jazeera"
+      ],
+      [
+        "Russian forces strike Zaporizhzhia region 699 times in past 24 hours, six injured",
+        "Ukrinform"
+      ],
+      [
+        "Russia bombs aid center and shelter in southern Ukraine, killing 24, authorities say",
+        "AP News"
+      ],
+      [
+        "Russian bombing kills 18 people at humanitarian aid centre in Ukraine, Kyiv says",
+        "BBC"
+      ]
+    ],
+    "event_key": "russia_ukraine_aid_centre_bombing_24_dead"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 남부 구호센터 공습\n사망 [[24명]] 발생",
+      "sub": "러시아군의 폭격으로 인도주의 지원 센터가 타격받았습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "24명"
+        }
+      ],
+      "alt": "우크라이나 남부 구호센터 공습 사망 24명 발생",
+      "map": {
+        "lat": 47.8507859,
+        "lon": 35.1182867,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n자포리자",
+      "video_only": true,
+      "map": {
+        "lat": 47.8507859,
+        "lon": 35.1182867,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "자포리자"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사상자 발생",
+          "d": "자포리자 지역 등에서 부상자 6명이 발생했다고 당국이 밝혔습니다."
+        },
+        {
+          "t": "공습 지속",
+          "d": "우크라이나 남부 지역에 러시아군의 포격과 공습이 집중됐습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 24명 (BBC·Al Jazeera·AP 통신)",
+        "우크라이나 남부 구호센터 타격"
+      ],
+      "unconfirmed": [
+        "정확한 공격 무기 종류",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "BBC",
+        "Ukrinform",
+        "2026.11.03 05:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 남부 구호센터 공습으로 사망 24명 발생\n\n· 러시아군의 폭격으로 인도주의 지원 센터가 타격받았습니다 (BBC·Al Jazeera)\n· 자포리자 등 남부 지역에 포격과 공습이 집중됐습니다 (AP 통신·Ukrinform)\n\n출처: BBC·Al Jazeera·AP 통신·Ukrinform 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 남부 구호센터가 공습을 받아 24명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 러시아군의 폭격으로 인도주의 지원 시설이 타격당했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "자포리자 지역을 비롯한 일대에 포격이 집중됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "정확한 공격 무기와 피해 규모는 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "우크라이나 [[구호센터]]에서\n무슨 일이?",
+  "broll": [
+    "ambulance night",
+    "city street damage"
+  ],
+  "place_en": "Zaporizhzhia, Ukraine"
+}

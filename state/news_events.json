@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "pakistan-emergency-rule-khyber-pakhtunkhwa-2026",
-    "topic": "파키스탄, 야당 근거지에 비상통치령 선포",
-    "slug": "2026-10-14-news-pakistan-emergency-rule-khyber-pakhtunkhwa-2026",
-    "cluster": "CBMiXkFVX3lxTE5vUXZaZjdCQVBrOXBMWWlsN05jcXhJX0Q5UGg0N0E4OFY1WU1keXdsdndmN2x6LThfZlpPUW80V09sSGhXaFdDNWlIdzAySW5MZk1rTjV1TFQ0Um5fdXc",
-    "badge": "breaking",
-    "at": 1791940267.5034683,
-    "country": "파키스탄",
-    "category": "국제"
-  },
-  {
     "event_key": "strait-of-hormuz-missile-attack-2026",
     "topic": "호르무즈 해협서 선박 2척 피격",
     "slug": "2026-10-14-news-strait-of-hormuz-missile-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793642948.1221495,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "russia_ukraine_aid_centre_bombing_24_dead",
+    "topic": "우크라이나 남부 구호센터 공습 사망 24명 발생",
+    "slug": "2026-11-03-news-russia-ukraine-aid-centre-bombing-24-dead",
+    "cluster": "CBMiXkFVX3lxTE9QOHlsd3Z6cjJUeENVUXpQM3ozbFYzRnBMQmhWcWxTV2VmUm4tWUNJRUQ5STVmOW01VC1qRXFNN1praFpQOUM0c3Eyc1VLb0d6SnpxS0dlSHdqMmVtSmc",
+    "badge": "breaking",
+    "at": 1793650293.2339098,
+    "country": "우크라이나",
+    "category": "사고"
   }
 ]
