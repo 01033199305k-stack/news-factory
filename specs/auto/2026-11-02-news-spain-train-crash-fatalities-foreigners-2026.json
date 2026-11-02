@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-02-news-spain-train-crash-fatalities-foreigners-2026",
+  "topic": "스페인 열차 참사 발생 미국인 등 외국인도 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 10:06 KST",
+  "source": "BBC·Bloomberg.com·CBS News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimAFBVV95cUxPS3JjUHBVQlZtX0pqdlE3aTNvTWJzTDBQdnVqNkZkRFNxeXlqLUs3eXVIVUZNN1I3cU5TSExmeG0wN0NhU21FOV9IZTBsRnV0SloyUG55Sl9WR3lCaDBKbU5jeHFpeXJMQkZOTm5xWFVRaDFhRFZDdTNJVnRjYjA3ZUlVOVd1TUJYbjdmRVlMWFNOLWlvbDBNUA",
+    "related": [
+      [
+        "Spain train crash: four US citizens, and nationals from Japan, Canada among dead, authorities say",
+        "The Guardian"
+      ],
+      [
+        "4 Americans among 69 people killed in train crash in Spain, officials say",
+        "CBS News"
+      ],
+      [
+        "Sánchez Rethinks Reelection Plan After Spain’s Rail Disaster",
+        "Bloomberg.com"
+      ],
+      [
+        "Families desperate for news as rescuers work to identify Spanish train crash victims",
+        "BBC"
+      ],
+      [
+        "Traffic Control Errors Caused Spain’s Deadly Train Crash, Official Says",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "spain_train_crash_fatalities_foreigners_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페인 [[열차 참사]] 발생\n미국인 등 외국인도 사망",
+      "sub": "관제 오류가 원인으로 지목된 가운데 신원 확인 이어져",
+      "chips": [
+        {
+          "k": "확인 희생",
+          "v": "미국인 4명"
+        }
+      ],
+      "alt": "스페인 열차 참사 발생 미국인 등 외국인도 사망",
+      "map": {
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인",
+      "video_only": true,
+      "map": {
+        "lat": 39.3260685,
+        "lon": -4.8379791,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "스페인"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "외국인 사망자 확인",
+          "d": "가디언은 사망자 가운데 미국인 4명과 일본·캐나다 국적자가 포함됐다고 전했습니다."
+        },
+        {
+          "t": "관제 시스템 오류 지목",
+          "d": "뉴욕타임스는 당국자를 인용해 열차 운행 관제 시스템의 오류가 충돌 원인으로 지목됐다고 보도했습니다."
+        },
+        {
+          "t": "희생자 신원 확인 중",
+          "d": "BBC는 현장 구조 당국이 희생자들의 신원을 확인하기 위한 작업을 계속 진행 중이라고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스페인 열차 충돌 사고 발생",
+        "미국인 4명 등 외국인 사망 확인"
+      ],
+      "unconfirmed": [
+        "전체 최종 사망자 집계",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bloomberg.com",
+        "CBS News",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.02 11:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페인에서 열차 충돌 참사로 대규모 사상자가 발생했습니다.\n\n· 미국인 4명을 비롯해 일본과 캐나다 국적자 등 외국인 사망자가 확인됐습니다 (가디언)\n· 당국자는 열차 관제 시스템의 오류가 이번 충돌 사고를 일으켰다고 밝혔습니다 (뉴욕타임스)\n· 현장 구조대는 희생자들의 신원 확인 작업을 이어가고 있습니다 (BBC)\n\n출처: 가디언·CBS·뉴욕타임스·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인에서 열차 충돌 참사가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 당국은 미국인 4명을 포함해 외국인 사망자가 확인됐다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "뉴욕타임스는 관제 시스템 오류가 원인으로 지목됐다고 전했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "[[스페인]] 열차 참사\n밝혀진 충돌 원인?",
+  "broll": [
+    "train tracks railway",
+    "emergency rescue night"
+  ],
+  "place_en": "Spain"
+}
