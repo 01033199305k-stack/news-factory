@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-03-news-oil-prices-plunge-us-iran-peace-hopes-2026",
+  "topic": "유가 7% 폭락하고 증시 반등 미-이란 평화 기대감",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 02:55 KST",
+  "source": "Reuters·WSJ·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTFBrbkQzMEJlOVN5RDBtcEZuU2VQSkZydW01ejJqY2hObWJXOUl0dUhUMWVoVXRwZWhsU3BIRkVGR0lhc3JmM0w4ak5ybUpCVElXOWxKMm1tQ3ByOE5TNzNJQm5YUDFaa2hRNENZNDJacnlMci1tZmU00gF8QVVfeXFMUHRLQWRCRkw3cUdsOVZINFdPc1VsLVN4UzJKT1BmX2ZaMlBrcDM2WER5cXY1LTdZQjZXMy1FVUU3RFhFcHVxcXA5eEx0a041Vlo2Y3BlVXN2S0hpTG9tVVV3SndoWVRMU2JweGZKUVNpVWxJeXk4Sno4a2hmZQ",
+    "related": [
+      [
+        "Stocks rise as oil prices slide before midterms: Live updates",
+        "CNBC"
+      ],
+      [
+        "Dow pops 500 points, oil tumbles on hopes of a US-Iran peace deal",
+        "New York Post"
+      ],
+      [
+        "Stock Market Today: Oil Prices Slide on Mideast Hopes; Stocks Rebound After Friday's Selloff",
+        "WSJ"
+      ],
+      [
+        "Stock market today: Dow, S&P 500, Nasdaq recover from bruising sell-off as oil prices fall",
+        "Yahoo Finance"
+      ],
+      [
+        "Oil drops 7% as Iran signals openness to peace talks",
+        "Reuters"
+      ]
+    ],
+    "event_key": "oil_prices_plunge_us_iran_peace_hopes_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "유가 [[7% 폭락]]하고 증시 반등\n미-이란 평화 기대감",
+      "sub": "중동 평화 협상 기대감에 국제 유가가 급락하고 뉴욕증시가 반등했습니다.",
+      "chips": [
+        {
+          "k": "유가",
+          "v": "7% 하락"
+        },
+        {
+          "k": "증시",
+          "v": "상승 반등"
+        }
+      ],
+      "alt": "유가 7% 폭락하고 증시 반등 미-이란 평화 기대감",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유가 하락",
+          "d": "이란의 평화 회담 시그널에 유가가 7% 급락했습니다 (로이터)."
+        },
+        {
+          "t": "증시 반응",
+          "d": "다우지수 등 주요 증시가 급락세에서 벗어나 반등했습니다 (CNBC·WSJ)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "국제 유가 7% 하락",
+        "미국 뉴욕증시 반등"
+      ],
+      "unconfirmed": [
+        "미-이란 평화 협상 타결 여부",
+        "향후 유가 추가 변동 추이",
+        "한국 경제에 미칠 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "New York Post",
+        "Reuters",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.11.03 03:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 유가 [[7% 폭락]]하고 증시 반등\n미-이란 평화 기대감\n\n· 이란이 평화 회담에 열린 태도를 보이면서 국제 유가가 7% 급락했습니다 (로이터)\n· 직전 거래일 급락했던 뉴욕증시는 유가 하락 안정 속에 반등했습니다 (CNBC·WSJ)\n\n여러분은 이번 중동 평화 기대감이 증시에 미칠 영향에 대해 어떻게 보십니까?\n출처: 로이터·CNBC·월스트리트저널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란의 평화 회담 시그널에 국제 유가가 7% 급락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 중동 긴장 완화 기대감으로 유가가 크게 떨어졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "직전 거래일 큰 폭으로 하락했던 뉴욕증시는 유가 안정 속에 반등했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국과 이란의 평화 협상이 실제로 타결될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중동 평화 기대감이 증시에 미칠 영향에 대해 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "국제 유가 [[7% 폭락]]\n증시가 반등한 이유는?",
+  "broll": [
+    "stock exchange screen",
+    "oil refinery pipeline"
+  ],
+  "place_en": "New York, USA"
+}

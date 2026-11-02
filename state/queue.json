@@ -33,10 +33,14 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
         "at": 1793639775
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793643257
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 1
     },
     "video": "video.mp4"
@@ -79,7 +83,7 @@
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
     },
     "video": "video.mp4"
@@ -120,8 +124,45 @@
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-03-news-oil-prices-plunge-us-iran-peace-hopes-2026",
+    "event_ms": 1793642100000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 유가 7% 폭락하고 증시 반등\n미-이란 평화 기대감\n\n· 이란이 평화 회담에 열린 태도를 보이면서 국제 유가가 7% 급락했습니다 (로이터)\n· 직전 거래일 급락했던 뉴욕증시는 유가 하락 안정 속에 반등했습니다 (CNBC·WSJ)\n\n여러분은 이번 중동 평화 기대감이 증시에 미칠 영향에 대해 어떻게 보십니까?\n출처: 로이터·CNBC·월스트리트저널 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18071557016506753",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfP6w_-FZwK",
+        "kind": "carousel",
+        "at": 1793643020
+      }
+    },
+    "attempts": {
+      "instagram": 1
     },
     "video": "video.mp4"
   }

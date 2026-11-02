@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "openai-employee-arrested-bugging-device-2026",
-    "topic": "오픈AI 회의실에 도청 장치 사우디 국적 직원 체포",
-    "slug": "2026-10-14-news-openai-employee-arrested-bugging-device-2026",
-    "cluster": "CBMihAFBVV95cUxNckJQNWJCVWJZSzdEUVRzWHZyZ2I0amJxTVVqX1ltcmZtSGxKWkRUVUdEWnp4Wm9HSUctWlFGNk9mOTQwVXBVd3A4SzQ0YXB3WHFfaE9YaE1mX3ZUZ1BpWWU2dDhIRXd1NENRaTAxdHdaRTFYNm5tVEZxWFQ4anpvdXo2anrSAYoBQVVfeXFMTzdwQXJjWlRmTlVDNXhWSzhsOTBHbjJpVENKRXVsUzhOR28zMjhIbGJxRFNtMTVxQVpqZlFscXhFMmx5eFhJcHRiLXJuSkhiQkZRV0tqSENqdE5TMXpxNy02c1pZb1UxNldGUkIzc3lLNTJaN1Q1QzNfVF9MX1N6bzc3dkRkNGQ0WU53",
-    "badge": "breaking",
-    "at": 1791929297.3588965,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "pakistan-emergency-rule-khyber-pakhtunkhwa-2026",
     "topic": "파키스탄, 야당 근거지에 비상통치령 선포",
     "slug": "2026-10-14-news-pakistan-emergency-rule-khyber-pakhtunkhwa-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793639390.081353,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "oil_prices_plunge_us_iran_peace_hopes_2026",
+    "topic": "유가 7% 폭락하고 증시 반등 미-이란 평화 기대감",
+    "slug": "2026-11-03-news-oil-prices-plunge-us-iran-peace-hopes-2026",
+    "cluster": "CBMid0FVX3lxTFBrbkQzMEJlOVN5RDBtcEZuU2VQSkZydW01ejJqY2hObWJXOUl0dUhUMWVoVXRwZWhsU3BIRkVGR0lhc3JmM0w4ak5ybUpCVElXOWxKMm1tQ3ByOE5TNzNJQm5YUDFaa2hRNENZNDJacnlMci1tZmU00gF8QVVfeXFMUHRLQWRCRkw3cUdsOVZINFdPc1VsLVN4UzJKT1BmX2ZaMlBrcDM2WER5cXY1LTdZQjZXMy1FVUU3RFhFcHVxcXA5eEx0a041Vlo2Y3BlVXN2S0hpTG9tVVV3SndoWVRMU2JweGZKUVNpVWxJeXk4Sno4a2hmZQ",
+    "badge": "breaking",
+    "at": 1793642948.1221495,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
