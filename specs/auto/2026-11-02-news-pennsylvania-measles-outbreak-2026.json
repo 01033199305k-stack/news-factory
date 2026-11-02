@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-02-news-pennsylvania-measles-outbreak-2026",
+  "topic": "미국 펜실베이니아주서 홍역 확산 사망자 5명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 22:00 KST",
+  "source": "AP News·The Guardian·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiwFBVV95cUxPZ2dwNUwwVmVRS0NLODVpMHY4WlNIVVBEOFA1aEtuN29tZHZXcEtGdTNvVmRDOEpheUFQc3dDb0REOFBOcFVpdW5SMUZPNXl6SkF6RmhHSUJlYkx6TmR5RTM1ZVl1T2poNGxXYW9ubmxuOXp0cjIwRnMtUlJiRFRDZzJ5eXZiSjVvd3BJ",
+    "related": [
+      [
+        "‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak",
+        "The Guardian"
+      ],
+      [
+        "As a historic measles outbreak hits Pennsylvania Amish country, more show openness to vaccines",
+        "AP News"
+      ],
+      [
+        "Amid Measles Surge, Amish Country Opens Up to Vaccines",
+        "Newser"
+      ],
+      [
+        "US measles cases top 4,800 as the disease surges in multiple states",
+        "CIDRAP"
+      ],
+      [
+        "'No one should feel safe': 5 dead as Amish country measles horror explodes past 1,350 cases",
+        "The Independent"
+      ]
+    ],
+    "event_key": "pennsylvania_measles_outbreak_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 펜실베이니아주서 [[홍역]] 확산\n사망자 5명 발생",
+      "sub": "아미쉬 지역을 중심으로 환자가 급증하고 있습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "5명"
+        },
+        {
+          "k": "환자",
+          "v": "1,350명 이상"
+        }
+      ],
+      "alt": "미국 펜실베이니아주서 홍역 확산 사망자 5명 발생",
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n펜실베이니아",
+      "video_only": true,
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "펜실베이니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "확진 규모",
+          "d": "미국 전역의 홍역 환자가 4,800명을 넘어섰습니다 (CIDRAP)."
+        },
+        {
+          "t": "백신 접종",
+          "d": "아미쉬 공동체 내에서 백신 접종에 대한 개방적인 태도가 나타나고 있습니다 (AP 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 5명 (The Independent)",
+        "환자 1,350명 이상 (The Independent)",
+        "미국 전역 환자 4,800명 초과 (CIDRAP)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "확산 원인 및 추가 감염 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CIDRAP",
+        "Newser",
+        "The Guardian",
+        "The Independent",
+        "2026.11.02 23:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 펜실베이니아주서 홍역 확산으로 사망 5명 발생\n\n· 환자가 1,350명을 넘어선 가운데 미국 전역의 총 환자 수는 4,800명을 초과했습니다 (The Independent·CIDRAP)\n· 아미쉬 공동체 내에서 백신 접종에 대한 개방적인 태도가 나타나고 있습니다 (AP 통신)\n\n출처: The Independent·AP 통신·CIDRAP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펜실베이니아주에서 홍역이 확산해 5명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "The Independent는 해당 지역의 환자가 1,350명을 넘었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 전역의 홍역 환자는 4,800명을 넘어섰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 펜실베이니아주서\n발생한 [[홍역]] 확산",
+  "broll": [
+    "hospital building exterior",
+    "medical center sign"
+  ],
+  "place_en": "Pennsylvania, USA"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "yemen-saudi-oil-facility-airstrike-2026",
-    "topic": "사우디 주도 연합군, 예멘 사나 유조 시설 공습 후티 반군은 '가혹한 대응' 경고",
-    "slug": "2026-10-13-news-yemen-saudi-oil-facility-airstrike-2026",
-    "cluster": "CBMiygFBVV95cUxPUHZtMnk3dUVFWmVkT2FmZVRqNWNrUUc5YkNkWVJMOEhWMmo1dnc2S3FlUlExbjFscTdlY3NQcExPejdxUlF1clZ5S1BKQ1JLdjhzaFdXT2l1YVBmN2VVSkFOSlJNNmlTR2w5d082MDR2b3RkY1VrTTlwWFhuclBteVRaTmtMRUczY0VPaWxBeVV1RE9vUE9kRFZaUlZEX0NnOXZqVnNtNlJIcFU3cnE2VVFTNzhfNVZ0TzZiQWFtSUJCdXJXYU5rU0JB",
-    "badge": "breaking",
-    "at": 1791907860.5068104,
-    "country": "예멘",
-    "category": "국제"
-  },
-  {
     "event_key": "us-major-banks-earnings-2026",
     "topic": "미국 대형 은행들 실적 발표 고금리 여파로 JP모건 이익 감소",
     "slug": "2026-10-13-news-us-major-banks-earnings-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793625018.28435,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "pennsylvania_measles_outbreak_2026",
+    "topic": "미국 펜실베이니아주서 홍역 확산 사망자 5명 발생",
+    "slug": "2026-11-02-news-pennsylvania-measles-outbreak-2026",
+    "cluster": "CBMiiwFBVV95cUxPZ2dwNUwwVmVRS0NLODVpMHY4WlNIVVBEOFA1aEtuN29tZHZXcEtGdTNvVmRDOEpheUFQc3dDb0REOFBOcFVpdW5SMUZPNXl6SkF6RmhHSUJlYkx6TmR5RTM1ZVl1T2poNGxXYW9ubmxuOXp0cjIwRnMtUlJiRFRDZzJ5eXZiSjVvd3BJ",
+    "badge": "breaking",
+    "at": 1793628440.209968,
+    "country": "미국",
+    "category": "사고"
   }
 ]
