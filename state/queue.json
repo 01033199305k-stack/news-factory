@@ -29,10 +29,22 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfN_DL6DepW",
         "kind": "carousel",
         "at": 1793578161
+      },
+      "youtube": {
+        "id": "uZhQj1D0SIM",
+        "permalink": "https://youtube.com/shorts/uZhQj1D0SIM",
+        "kind": "shorts",
+        "at": 1793580982
+      },
+      "tiktok": {
+        "id": "7703371695561739540",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703371695561739540",
+        "kind": "video",
+        "at": 1793581114
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
