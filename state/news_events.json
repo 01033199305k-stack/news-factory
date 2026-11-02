@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "kyiv_missile_attack_oct_2026",
-    "topic": "우크라이나 키이우 공습 경보 없이 미사일 타격",
-    "slug": "2026-10-13-news-kyiv-missile-attack-oct-2026",
-    "cluster": "CBMiigFBVV95cUxNTEJpR01oRHFoV3FYSGl5ZHlEbFNiNGZ3RUZKT1IwZDczbUZlYkt6dGZfMUNTX2hvM2RGTXhNQUhsV2xuem50a253TjlGaG1kMTM5M0RYcTA4QzhsVW5tcW9oZXRldWNJUDFvRzhVVnk5Z25Qay1rWFZMVy1NRGNjSW1waXBLcnJSSnc",
-    "badge": "breaking",
-    "at": 1791890191.335768,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "germany-nuremberg-airport-closure-drone-2026",
     "topic": "독일 뉘른베르크 공항 폐쇄 드론 목격으로 비행 중단",
     "slug": "2026-10-13-news-germany-nuremberg-airport-closure-drone-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793592726.8576503,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "koreazinc_onsan_smelter_fire_2026",
+    "topic": "울산 고려아연 온산제련소 공장에서 불이 났습니다",
+    "slug": "2026-11-02-news-koreazinc-onsan-smelter-fire-2026",
+    "cluster": "CBMiW0FVX3lxTE4wdkM4WDBabnlNY19XVzdJTkJweTdYOUZRVUhHMXBIaEZFb1YwSUl4M3lxQnZ1Ri1aSHdSTkxoVVVBYktVeWhHN0FmYkVWSDVfVmlEXzRwamFtSkk",
+    "badge": "breaking",
+    "at": 1793593998.784437,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]

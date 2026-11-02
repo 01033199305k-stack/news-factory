@@ -1,0 +1,137 @@
+{
+  "slug": "2026-11-02-news-koreazinc-onsan-smelter-fire-2026",
+  "topic": "울산 고려아연 온산제련소 공장에서 불이 났습니다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 11:58 KST",
+  "source": "KBS 뉴스·경상일보·국제뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE4wdkM4WDBabnlNY19XVzdJTkJweTdYOUZRVUhHMXBIaEZFb1YwSUl4M3lxQnZ1Ri1aSHdSTkxoVVVBYktVeWhHN0FmYkVWSDVfVmlEXzRwamFtSkk",
+    "related": [
+      [
+        "고려아연 공장서 불…40분만 초진",
+        "KBS 뉴스"
+      ],
+      [
+        "울산 고려아연 온산제련소 공장에 화재…소방 당국 진화 중",
+        "연합뉴스"
+      ],
+      [
+        "울산 울주군 비철금속 공장에서 화재…진화중",
+        "뉴스1"
+      ],
+      [
+        "고려아연 온산제련소 화재… 인명·유해물질 피해 없이 진화",
+        "경상일보"
+      ],
+      [
+        "울산 울주군 공장서 화재… \"불 피해 주의\"",
+        "국제뉴스"
+      ]
+    ],
+    "event_key": "koreazinc_onsan_smelter_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "울산 고려아연 온산제련소 공장에서\n[[불]]이 났습니다",
+      "sub": "소방 당국이 진화에 나서 인명 및 유해물질 피해는 없는 것으로 확인됐습니다.",
+      "chips": [
+        {
+          "k": "피해",
+          "v": "인명·유해물질 없음 (경상일보)"
+        }
+      ],
+      "alt": "울산 고려아연 온산제련소 공장에서 불이 났습니다",
+      "map": {
+        "lat": 35.5391697,
+        "lon": 129.3119136,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n울산",
+      "video_only": true,
+      "map": {
+        "lat": 35.5391697,
+        "lon": 129.3119136,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "울산"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "진화 작업",
+          "d": "소방 당국이 출동해 화재 발생 40분 만에 초진을 완료했습니다 (KBS·연합뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "고려아연 온산제련소 공장 화재 발생",
+        "인명 및 유해물질 피해 없음",
+        "40분 만에 초진 완료"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "경상일보",
+        "국제뉴스",
+        "뉴스1",
+        "연합뉴스",
+        "2026.11.02 13:33 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 울산 고려아연 온산제련소 공장에서 불이 났습니다\n\n· 소방 당국이 출동해 화재 발생 40분 만에 초진을 완료했습니다 (KBS·연합뉴스)\n· 이번 화재로 인한 인명 및 유해물질 피해는 없는 것으로 확인됐습니다 (경상일보)\n\n출처: KBS·연합뉴스·뉴스1·경상일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "울산 고려아연 온산제련소 공장에서 불이 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "소방 당국이 출동해 화재 발생 40분 만에 초진을 완료했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경상일보는 이번 화재로 인한 인명 및 유해물질 피해는 없다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "울산 고려아연 공장에서\n일어난 일은?",
+  "broll": [
+    "industrial factory smoke",
+    "fire engine emergency"
+  ],
+  "place_en": "Ulsan, South Korea"
+}
