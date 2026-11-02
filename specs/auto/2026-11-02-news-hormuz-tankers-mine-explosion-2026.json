@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-02-news-hormuz-tankers-mine-explosion-2026",
+  "topic": "호르무즈서 유조선 2척 기뢰 폭발 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 08:17 KST",
+  "source": "KBS 뉴스·뉴시스·마켓인 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBDSHR3ajQ3R0VWMmUydXU5VEpTLUx4ajB6czduNDVrOVBGWHFPVDBweTd2UzU5T2J4QVlSR2RjQ3lvQnpGeHZDWXNhc2Uta2kxU3VBUlhLVmZKbFnSAWBBVV95cUxQeTBGSnpMWUNPam1LcTBtdkM1Q3VBX1pOTkpqbWdQV3NCV1JDa0M1YlYyeTRYR09SQ0ZyYnpzeFViV0xQaFpGRU43cHZQeGlUY2JxcUVmUnBHb2JyLVctbjI",
+    "related": [
+      [
+        "이란 \"호르무즈 해협서 유조선 2척 기뢰에 폭발…1척 화재\"",
+        "연합뉴스"
+      ],
+      [
+        "[속보] 이란IRGC ,호르무즈서 \"위반\"유조선들 2척 또 기뢰 충돌 폭발 주장",
+        "뉴시스"
+      ],
+      [
+        "따개비처럼 선체에 붙여 폭발…이란, 7년만에 부착식 기뢰 공격",
+        "KBS 뉴스"
+      ],
+      [
+        "호르무즈서 유조선 2척 또 '기뢰 폭발'…이란 \"허가 없는 항로 탔다\"",
+        "마켓인"
+      ],
+      [
+        "이란 공격 영향 없네...호르무즈 원유수송 현상 유지",
+        "파이낸셜뉴스"
+      ]
+    ],
+    "event_key": "hormuz_tankers_mine_explosion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈서 [[유조선 2척]]\n기뢰 폭발 발생",
+      "sub": "이란 혁명수비대 \"위반 선박에 기뢰 폭발\" 주장",
+      "chips": [
+        {
+          "k": "피해 선박",
+          "v": "2척"
+        }
+      ],
+      "alt": "호르무즈서 유조선 2척 기뢰 폭발 발생",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "1척에서 화재 발생",
+          "d": "폭발한 선박 가운데 1척에서 불길이 치솟았다고 연합뉴스가 전했습니다."
+        },
+        {
+          "t": "부착식 기뢰 사용",
+          "d": "선체에 기뢰를 부착해 폭발시킨 것으로 파악됐다고 KBS가 보도했습니다."
+        },
+        {
+          "t": "이란 규정 위반 주장",
+          "d": "이란 측은 선박들이 허가받지 않은 항로를 이용했다고 뉴시스가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유조선 2척 기뢰 폭발",
+        "유조선 1척 화재 발생"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "해당 유조선들의 국적"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "뉴시스",
+        "마켓인",
+        "연합뉴스",
+        "파이낸셜뉴스",
+        "2026.11.02 09:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협서 유조선 2척 기뢰 폭발\n\n· 유조선 2척이 기뢰와 충돌해 폭발했으며 1척에서 화재가 발생했습니다 (연합뉴스)\n· 이란 혁명수비대는 해당 선박들이 규정을 위반한 항로를 운항했다고 주장했습니다 (뉴시스)\n· 선체에 직접 부착하는 방식의 기뢰가 사용된 것으로 전해졌습니다 (KBS)\n\n주요 원유 수송로인 호르무즈 해협의 이번 사태를 어떻게 보십니까?\n출처: 연합뉴스·뉴시스·KBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 유조선 2척이 기뢰 폭발로 파손됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란 혁명수비대는 허가받지 않은 항로를 운항한 선박을 공격했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "연합뉴스는 폭발한 선박 가운데 1척에서 화재가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "핵심 해상 수송로에서 벌어진 이번 사태, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[호르무즈 해협]]서\n유조선에 무슨 일이?",
+  "broll": [
+    "oil tanker sea",
+    "naval ship patrol"
+  ],
+  "place_en": "Strait of Hormuz"
+}

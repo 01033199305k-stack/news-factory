@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "kospi-plunges-sell-sidecar-activated-2026",
-    "topic": "코스피 장중 급락 매도 사이드카 발동",
-    "slug": "2026-10-13-news-kospi-plunges-sell-sidecar-activated-2026",
-    "cluster": "CBMidEFVX3lxTE1pWkJ3X3R3RDJSVVpaOVU5OXVsNV9ZWGFhU1kzRTgwMDVvR3RMNEJoazlEME92QnRQMlBrTlpSc1dGOWJJZUdmTXJPNmhDWUZRMVNrT3QtbWVGMzAzUFRlQU1fZUxWbWdHdE9RemJsMGhCcjFS0gF0QVVfeXFMUGQ3QTctNWRfT240UVVaeGFEUTVYMDg2YmRCY01ZNlUxRnYyc041VlhTazM0aFFEZy1tLXdFYkxTdXktTmZ2RElPSGxESDJVeXpvS1Qtb2Rzd0p4Mlo5S2xreEI0NmtDWWNYQk1iemFkTXB6WHE",
-    "badge": "brief",
-    "at": 1791860945.872896,
-    "country": "대한민국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "black-sea-ship-attack-bulgaria",
     "topic": "흑해서 선박 공격받아 사망 1명·부상 7명",
     "slug": "2026-10-13-news-black-sea-ship-attack-bulgaria",
@@ -2998,5 +2988,15 @@
     "at": 1793574172.0153642,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "hormuz_tankers_mine_explosion_2026",
+    "topic": "호르무즈서 유조선 2척 기뢰 폭발 발생",
+    "slug": "2026-11-02-news-hormuz-tankers-mine-explosion-2026",
+    "cluster": "CBMiW0FVX3lxTFBDSHR3ajQ3R0VWMmUydXU5VEpTLUx4ajB6czduNDVrOVBGWHFPVDBweTd2UzU5T2J4QVlSR2RjQ3lvQnpGeHZDWXNhc2Uta2kxU3VBUlhLVmZKbFnSAWBBVV95cUxQeTBGSnpMWUNPam1LcTBtdkM1Q3VBX1pOTkpqbWdQV3NCV1JDa0M1YlYyeTRYR09SQ0ZyYnpzeFViV0xQaFpGRU43cHZQeGlUY2JxcUVmUnBHb2JyLVctbjI",
+    "badge": "breaking",
+    "at": 1793578103.0849664,
+    "country": "이란",
+    "category": "국제"
   }
 ]
