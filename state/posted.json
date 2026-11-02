@@ -31116,5 +31116,59 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793596048
+  },
+  {
+    "slug": "2026-11-02-news-koreazinc-onsan-smelter-fire-2026",
+    "event_ms": 1793588280000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 울산 고려아연 온산제련소 공장에서 불이 났습니다\n\n· 소방 당국이 출동해 화재 발생 40분 만에 초진을 완료했습니다 (KBS·연합뉴스)\n· 이번 화재로 인한 인명 및 유해물질 피해는 없는 것으로 확인됐습니다 (경상일보)\n\n출처: KBS·연합뉴스·뉴스1·경상일보 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18100346348407706",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfOdXsMEY1Q",
+        "kind": "carousel",
+        "at": 1793594048
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1793594174
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793598596
+      },
+      "tiktok": {
+        "id": "7703446823784041780",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703446823784041780",
+        "kind": "video",
+        "at": 1793598783
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793598793
   }
 ]
