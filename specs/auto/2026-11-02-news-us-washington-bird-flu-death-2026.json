@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-02-news-us-washington-bird-flu-death-2026",
+  "topic": "미국 워싱턴주서 올해 첫 조류인플루엔자 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 23:09 KST",
+  "source": "CNN·Yahoo News·9News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiaEFVX3lxTE9VaENkNHpqVUYzUnRGcDU3UWw0SS1vR3NzTmJ3VWxOenhrOFN6UWx0N3hPSEtKUEg5WFNDVGw5Z0R0X1ZMb3ZUaTF4OUxvUEJhaGlfTVpTbDMtdGRSaEx5UkJ0SWR0Wnli",
+    "related": [
+      [
+        "Washington reports first US bird flu death of 2026; health officials say risk to the public is low",
+        "CNN"
+      ],
+      [
+        "Yakima County resident dies after contracting bird flu at dairy",
+        "KING5.com"
+      ],
+      [
+        "An mRNA–lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection",
+        "Nature"
+      ],
+      [
+        "Bird flu detected at Colorado dairy for first time since 2024 outbreak",
+        "9News"
+      ],
+      [
+        "US has its first human death this season connected to bird flu as virus spreads across nation",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "us_washington_bird_flu_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 워싱턴주서\n올해 첫 [[조류인플루엔자]] 사망",
+      "sub": "야키마 카운티 목장에서 감염 후 사망 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "미국 워싱턴주서 올해 첫 조류인플루엔자 사망",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "올해 첫 사망",
+          "d": "워싱턴주에서 올해 첫 조류인플루엔자 인명 피해가 발생했습니다 (CNN)."
+        },
+        {
+          "t": "감염 장소",
+          "d": "야키마 카운티의 한 낙농장에서 감염된 것으로 확인됐습니다 (KING5.com)."
+        },
+        {
+          "t": "보건 당국",
+          "d": "보건 당국은 일반 대중을 향한 위험성은 낮은 수준이라고 밝혔습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "워싱턴주 조류인플루엔자 사망 1명"
+      ],
+      "unconfirmed": [
+        "추가 감염 확산 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "9News",
+        "CNN",
+        "KING5.com",
+        "Nature",
+        "Yahoo",
+        "2026.11.03 02:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 워싱턴주서 올해 첫 조류인플루엔자 사망 발생 (CNN)\n\n· 야키마 카운티의 한 낙농장에서 감염된 주민이 사망했습니다 (KING5.com·CNN)\n· 보건 당국은 일반 대중을 향한 위험성은 낮다고 밝혔습니다 (CNN)\n\n출처: CNN·KING5.com·9News·Yahoo 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 워싱턴주에서 올해 첫 조류인플루엔자 사망자가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN은 야키마 카운티의 한 낙농장에서 감염된 주민이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "보건 당국은 일반 대중을 향한 감염 위험성은 낮은 수준이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "바이러스의 추가 확산 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 워싱턴주서\n[[조류인플루엔자]] 사망?",
+  "broll": [
+    "dairy farm cattle",
+    "medical laboratory science"
+  ],
+  "place_en": "Washington, USA"
+}

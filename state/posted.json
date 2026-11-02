@@ -31281,5 +31281,202 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793625318
+  },
+  {
+    "slug": "2026-11-02-news-saudi-led-coalition-yemen-missile-interception-2026",
+    "event_ms": 1793614448000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 사우디 주도 연합군\n예멘서 미사일 요격\n\n· 사우디 주도 연합군이 예멘 알자우프 지역 등에서 미사일을 요격했습니다 (알자지라·사우디 가제트)\n· 연합군은 후티 반군의 군사 자원을 무력화하기 위한 특수 군사 작전을 개시했습니다 (아나돌루 통신·아샤르크 알바사트)\n\n출처: 알자지라·사우디 가제트·아나돌루 통신 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18080811899397717",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfPYnYzm0Pl",
+        "kind": "carousel",
+        "at": 1793625109
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793632100
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "expired",
+    "at": 1793639775
+  },
+  {
+    "slug": "2026-11-02-news-bulgaria-presidential-election-2026",
+    "event_ms": 1793614321000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 일리아나 요토바가 불가리아 첫 여성 대통령으로 선출되었습니다.\n\n· 결선 투표에서 당선을 확정 지으며 불가리아 첫 여성 대통령이 되었습니다 (로이터·10TV).\n· 라데프 총리의 측근인 요토바는 친러 성향으로 분류됩니다 (로이터·파이낸셜타임스).\n\n이번 대선 결과가 향후 불가리아의 외교 노선에 어떤 영향을 줄 것으로 보십니까?\n\n출처: 로이터·유로뉴스·알자지라·파이낸셜타임스·10TV 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "불가리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18148885366603344",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfPR18UGxwm",
+        "kind": "carousel",
+        "at": 1793621557
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793621700
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793628603
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "expired",
+    "at": 1793639793
+  },
+  {
+    "slug": "2026-11-02-news-europe-supermarket-freezer-cyberattack-2026",
+    "event_ms": 1793618490000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 유럽 슈퍼마켓 냉장고 연쇄 마비\n사이버 공격 받아\n\n· 유럽 여러 국가의 상점 냉동 시스템이 사이버 공격을 받았습니다 (BBC·더 텔레그래프)\n· 아일랜드를 포함한 유럽 여러 국가의 매장들이 영향을 받았습니다 (스카이 뉴스·RTE)\n\n출처: BBC·스카이 뉴스·더 텔레그래프 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "유럽"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17997191373058575",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfPYi3ZGzDk",
+        "kind": "carousel",
+        "at": 1793625071
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793632100
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793639775
+      },
+      "tiktok": {
+        "id": "6ae8c573f7f868563fec1491",
+        "permalink": "",
+        "kind": "video",
+        "at": 1793639996
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793640006
+  },
+  {
+    "slug": "2026-11-02-news-pennsylvania-measles-outbreak-2026",
+    "event_ms": 1793624400000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 펜실베이니아주서 홍역 확산으로 사망 5명 발생\n\n· 환자가 1,350명을 넘어선 가운데 미국 전역의 총 환자 수는 4,800명을 초과했습니다 (The Independent·CIDRAP)\n· 아미쉬 공동체 내에서 백신 접종에 대한 개방적인 태도가 나타나고 있습니다 (AP 통신)\n\n출처: The Independent·AP 통신·CIDRAP 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18098566718427684",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfPfEalG-4g",
+        "kind": "carousel",
+        "at": 1793628492
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793636099
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793639775
+      },
+      "tiktok": {
+        "id": "7703625212423671061",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703625212423671061",
+        "kind": "video",
+        "at": 1793640128
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793640138
   }
 ]

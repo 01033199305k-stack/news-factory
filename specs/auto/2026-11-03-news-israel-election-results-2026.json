@@ -1,0 +1,153 @@
+{
+  "slug": "2026-11-03-news-israel-election-results-2026",
+  "topic": "이스라엘 총선서 네타냐후 블록 53석",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 00:27 KST",
+  "source": "Al Jazeera·The New York Times·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxNam5ieDJudjhFckV1ay1jVlMwbGtIRGxMUURpNDIxdm9mcnROc1BGOHd1VExVR05rN05LaUl0TGV6bXNvaHZ0TUUwNVlYUTc5eFlEQkp3VlVvazl3bFM3T1FHY0ZTR2NmUlloeHRXM2d2X0M2Ujd6U2YzUDN1MkdPVW9uUDZjVzFleXk3T19KWXQ",
+    "related": [
+      [
+        "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
+        "The New York Times"
+      ],
+      [
+        "Gadi Eisenkot is the bereaved general trying to outmaneuver Netanyahu",
+        "The Washington Post"
+      ],
+      [
+        "With all votes counted, Netanyahu’s bloc has 53 seats, Eisenkot’s 48, Arab parties 19",
+        "The Times of Israel"
+      ],
+      [
+        "Netanyahu's bloc finishes ahead in Israel election, but well short of majority",
+        "Dawn"
+      ],
+      [
+        "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "israel_election_results_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 총선서\n[[네타냐후 블록]] 53석",
+      "sub": "아이젠코트 블록 48석, 아랍 정당 19석 기록",
+      "chips": [
+        {
+          "k": "네타냐후",
+          "v": "53석"
+        },
+        {
+          "k": "아이젠코트",
+          "v": "48석"
+        },
+        {
+          "k": "아랍 정당",
+          "v": "19석"
+        }
+      ],
+      "alt": "이스라엘 총선서 네타냐후 블록 53석",
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n예루살렘",
+      "video_only": true,
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "예루살렘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "과반 미달",
+          "d": "네타냐후 블록이 선두를 차지했지만 과반에는 미치지 못했습니다 (Dawn)."
+        },
+        {
+          "t": "의석 분포",
+          "d": "전체 개표 결과 네타냐후 블록 53석, 아이젠코트 블록 48석, 아랍 정당 19석으로 집계됐습니다 (The Times of Israel)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "네타냐후 블록 53석",
+        "아이젠코트 블록 48석",
+        "아랍 정당 19석"
+      ],
+      "unconfirmed": [
+        "최종 연립 정부 구성 결과"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Dawn",
+        "The New York Times",
+        "The Times of Israel",
+        "The Washington Post",
+        "2026.11.03 02:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 총선서 네타냐후 블록 53석 (The Times of Israel)\n\n· 아이젠코트 블록은 48석을 차지했습니다 (The Times of Israel)\n· 아랍 정당은 19석을 기록했습니다 (The Times of Israel)\n· 네타냐후 블록이 선두를 차지했으나 과반에는 미치지 못했습니다 (Dawn)\n\n독자 여러분은 이번 이스라엘 총선 결과가 향후 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: The New York Times·The Washington Post·The Times of Israel·Dawn·Al Jazeera 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘 총선에서 네타냐후 블록이 53석을 차지했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "The Times of Israel은 아이젠코트 블록이 48석, 아랍 정당이 19석을 기록했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "네타냐후 블록이 선두를 차지했으나 과반에는 미치지 못했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 연립 정부 구성 결과는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 총선 결과에 대해 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이스라엘 총선서\n[[네타냐후]]의 운명은?",
+  "broll": [
+    "parliament building israel",
+    "election ballot box"
+  ],
+  "place_en": "Jerusalem, Israel"
+}
