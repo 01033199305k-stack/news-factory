@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france-supermarket-cyberattack-fridges",
-    "topic": "프랑스 마트 400여곳서 해킹 냉장고 온도가 50도 치솟아",
-    "slug": "2026-10-13-news-france-supermarket-cyberattack-fridges",
-    "cluster": "CBMiggFBVV95cUxQUklKdUM0aGlIMktIODYwOTZOMHBGTm9PVEpMU2txZlpmQVgzSEh5dnIzbGNqRHFTeXFmQUNGVkNRVEhZOFFLUi1Gek9LN3Bwa1BmaXBKU3BVd1lhTzRuaHF3aVNTTEdOOGxUVlBFaXNTMDVkcURFMVdPLTNZckhxdHFR",
-    "badge": "breaking",
-    "at": 1791897080.9181974,
-    "country": "프랑스",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "ukraine-drone-strike-yandex-data-center",
     "topic": "우크라이나 드론 공습에 러시아 얀덱스 데이터센터 마비",
     "slug": "2026-10-13-news-ukraine-drone-strike-yandex-data-center",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1793618008.0658963,
     "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "bulgaria_presidential_election_2026",
+    "topic": "불가리아 대통령 선거 일리아나 요토바 당선",
+    "slug": "2026-11-02-news-bulgaria-presidential-election-2026",
+    "cluster": "CBMirAFBVV95cUxOQU5tTzU2UGJGUDFlWmFJWG1TWUpGWHRldjAtbkJoRGpKcTlMQUNkQlkyRWxfRUZUZVFLXy1oeUMzWkhITXpQTlhkWWk2X3V5bmJzVzZScVVnVTBWN25IUFZYWjlpTlBscU1EemtzckdFemRJTVpBNEFzc3hRTzBhalNWODBGTkVkaHhHZF91VnVXVkVLOHRvWWFxb2QydlJ3b282bnhMX213MnZJ",
+    "badge": "breaking",
+    "at": 1793621509.8753474,
+    "country": "불가리아",
     "category": "국제"
   }
 ]

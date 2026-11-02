@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-02-news-bulgaria-presidential-election-2026",
+  "topic": "불가리아 대통령 선거 일리아나 요토바 당선",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 19:12 KST",
+  "source": "Al Jazeera·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxOQU5tTzU2UGJGUDFlWmFJWG1TWUpGWHRldjAtbkJoRGpKcTlMQUNkQlkyRWxfRUZUZVFLXy1oeUMzWkhITXpQTlhkWWk2X3V5bmJzVzZScVVnVTBWN25IUFZYWjlpTlBscU1EemtzckdFemRJTVpBNEFzc3hRTzBhalNWODBGTkVkaHhHZF91VnVXVkVLOHRvWWFxb2QydlJ3b282bnhMX213MnZJ",
+    "related": [
+      [
+        "Initial results show Bulgaria's president Yotova wins runoff election",
+        "Euronews.com"
+      ],
+      [
+        "Bulgaria elects Iliana Iotova, ally of PM Radev, as its first female president",
+        "Reuters"
+      ],
+      [
+        "Iliana Yotova wins runoff to become Bulgaria’s first elected female president",
+        "10TV"
+      ],
+      [
+        "Initial results indicate victory for Iotova in Bulgarian presidential vote",
+        "Al Jazeera"
+      ],
+      [
+        "Bulgarians re-elect pro-Russian president",
+        "Financial Times"
+      ]
+    ],
+    "event_key": "bulgaria_presidential_election_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "불가리아 대통령 선거\n[[일리아나 요토바]] 당선",
+      "sub": "불가리아 역사상 첫 여성 대통령이 탄생했습니다.",
+      "chips": [],
+      "alt": "불가리아 대통령 선거 일리아나 요토바 당선",
+      "map": {
+        "lat": 42.6977028,
+        "lon": 23.3217359,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "불가리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "불가리아\n소피아",
+      "video_only": true,
+      "map": {
+        "lat": 42.6977028,
+        "lon": 23.3217359,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "소피아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "첫 여성 대통령",
+          "d": "일리아나 요토바가 불가리아 최초의 여성 대통령으로 선출됐습니다 (로이터·10TV)."
+        },
+        {
+          "t": "대선 결과",
+          "d": "결선 투표 결과 라데프 총리의 측근인 요토바가 당선됐습니다 (로이터·알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "일리아나 요토바 대통령 당선",
+        "불가리아 첫 여성 대통령"
+      ],
+      "unconfirmed": [
+        "후속 공식 발표"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "10TV",
+        "Al Jazeera",
+        "Euronews.com",
+        "Financial Times",
+        "Reuters",
+        "2026.11.02 21:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 일리아나 요토바가 불가리아 첫 여성 대통령으로 선출되었습니다.\n\n· 결선 투표에서 당선을 확정 지으며 불가리아 첫 여성 대통령이 되었습니다 (로이터·10TV).\n· 라데프 총리의 측근인 요토바는 친러 성향으로 분류됩니다 (로이터·파이낸셜타임스).\n\n이번 대선 결과가 향후 불가리아의 외교 노선에 어떤 영향을 줄 것으로 보십니까?\n\n출처: 로이터·유로뉴스·알자지라·파이낸셜타임스·10TV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "불가리아에서 역사상 첫 여성 대통령이 탄생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "결선 투표 결과 일리아나 요토바가 새로운 대통령으로 당선되었다고 외신들이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "요토바 당선인은 라데프 총리의 측근이자 친러 성향으로 알려진 인물입니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 선거 결과가 향후 유럽 정세에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "불가리아의\n[[첫 여성 대통령]]은?",
+  "broll": [
+    "bulgaria parliament building",
+    "voter ballot box"
+  ],
+  "place_en": "Sofia, Bulgaria"
+}
