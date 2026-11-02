@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "delta-flight-ben-gurion-bomb-threat-2026",
-    "topic": "이스라엘 공항 도착 델타 항공기 폭탄 위협으로 격리",
-    "slug": "2026-10-13-news-delta-flight-ben-gurion-bomb-threat-2026",
-    "cluster": "CBMiXEFVX3lxTE1iRE0yazVGc2VCV2Vfam9oRU5scEtJWjQ0b3B6dlRheDg0S0RMYzJtb2x1a2ZHVkVBeU1Nd1E4anZvN2NDRE1GOEtCS1M3RGV3MWw5RmU1bm9yNVhR",
-    "badge": "breaking",
-    "at": 1791879375.6076748,
-    "country": "이스라엘",
-    "category": "사고"
-  },
-  {
     "event_key": "kyiv_missile_attack_oct_2026",
     "topic": "우크라이나 키이우 공습 경보 없이 미사일 타격",
     "slug": "2026-10-13-news-kyiv-missile-attack-oct-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793585478.3239818,
     "country": "스페인",
     "category": "사고"
+  },
+  {
+    "event_key": "binance_crypto_record_hack_north_korea_2026",
+    "topic": "가상자산 바이낸스 사상 최대 해킹 발생",
+    "slug": "2026-11-02-news-binance-crypto-record-hack-north-korea-2026",
+    "cluster": "CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ",
+    "badge": "breaking",
+    "at": 1793592726.8576503,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

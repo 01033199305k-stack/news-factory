@@ -1,0 +1,154 @@
+{
+  "slug": "2026-11-02-news-binance-crypto-record-hack-north-korea-2026",
+  "topic": "가상자산 바이낸스 사상 최대 해킹 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 12:32 KST",
+  "source": "BBC·Reuters·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ",
+    "related": [
+      [
+        "Binance users withdraw $3.6bn after record crypto hack",
+        "BBC"
+      ],
+      [
+        "North Korea responsible for $6 billion Binance cryptocurrency hack, FBI says",
+        "Fox Business"
+      ],
+      [
+        "Binance sees outflows stabilising as exchange returns online after $6.3 billion heist",
+        "Reuters"
+      ],
+      [
+        "Binance sees $3.64 billion in net outflows as withdrawals resume after massive hack",
+        "CNBC"
+      ],
+      [
+        "Behind the Scenes of Crypto’s Biggest Nightmare: a Record-Breaking Cyber Heist",
+        "WSJ"
+      ]
+    ],
+    "event_key": "binance_crypto_record_hack_north_korea_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "가상자산 [[바이낸스]]\n사상 최대 해킹 발생",
+      "sub": "미 FBI는 이번 사이버 공격의 배후로 북한을 지목했습니다.",
+      "chips": [
+        {
+          "k": "배후 지목",
+          "v": "북한"
+        },
+        {
+          "k": "수사 기관",
+          "v": "미 FBI"
+        }
+      ],
+      "alt": "가상자산 바이낸스 사상 최대 해킹 발생",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "북한 배후 지목",
+          "d": "미 연방수사국 FBI는 바이낸스 해킹 사건의 배후로 북한을 지목했습니다. (폭스비즈니스)"
+        },
+        {
+          "t": "대규모 자금 유출",
+          "d": "해킹 보도 이후 바이낸스 거래소에서 대규모 자금 인출이 이어졌습니다. (BBC·로이터)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "바이낸스 대규모 해킹 발생",
+        "미 FBI 북한 배후 지목"
+      ],
+      "unconfirmed": [
+        "피해 및 유출 규모 매체별 집계 차이 있음 ($36억~$63억)",
+        "탈취 자금 회수 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNBC",
+        "Fox Business",
+        "Reuters",
+        "WSJ",
+        "2026.11.02 13:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 가상자산 거래소 바이낸스에서 사상 최대 규모의 해킹 사건이 발생했습니다.\n\n· 미 연방수사국 FBI는 이번 사이버 공격의 배후로 북한을 지목했습니다 (폭스비즈니스)\n· 해킹 소식이 전해진 뒤 바이낸스에서 대규모 자금 인출 사태가 이어졌습니다 (BBC·로이터)\n\n🇰🇷 미 당국은 북한 해킹 조직의 개입 사실을 발표했습니다\n이번 해킹 사건과 가상자산 보안 문제, 어떻게 보십니까?\n\n출처: BBC·폭스비즈니스·로이터·CNBC·WSJ 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "가상자산 거래소 바이낸스가 해킹을 당했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미 FBI는 이번 공격의 배후로 북한을 지목했다고 폭스비즈니스가 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "해킹 소식에 거래소에서 대규모 자금 유출이 이어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "피해액과 자금 유출 규모는 매체별로 집계 차이가 있습니다.",
+      "card": "check"
+    },
+    {
+      "text": "미 당국은 북한의 사이버 공격 개입을 공식 발표했습니다.",
+      "card": "korea",
+      "screen": "북한 배후 지목"
+    },
+    {
+      "text": "가상자산 시장의 안전성 문제, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[바이낸스]] 해킹\n배후는 누구?",
+  "broll": [
+    "cryptocurrency exchange screen",
+    "cyber security network"
+  ],
+  "place_en": "Washington, D.C., United States"
+}
