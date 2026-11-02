@@ -35,10 +35,16 @@
         "permalink": "https://youtube.com/shorts/9Gn-gjxHK4U",
         "kind": "shorts",
         "at": 1793605941
+      },
+      "tiktok": {
+        "id": "7703483047009586484",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703483047009586484",
+        "kind": "video",
+        "at": 1793607043
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
     },
     "video": "video.mp4"
