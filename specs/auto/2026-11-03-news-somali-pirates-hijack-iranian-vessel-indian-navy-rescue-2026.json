@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-03-news-somali-pirates-hijack-iranian-vessel-indian-navy-rescue-2026",
+  "topic": "소말리아 해역서 피랍 이란 어선 선원 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 04:05 KST",
+  "source": "CNN·Hindustan Times·Mehr News Agency 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxOZHNrVy0xU2ZvekJjbm9oVGZ1M09FU3pWV2lOU3J4N1dPZEVfaWtwS2U3RWYxOU5pdDJIejBrejZYY0gzNHFsRFR2NnU2akUxWmNiRGpXd09NY0U0eG9Ua0xCbHZNUTBuQ2Z0Y3dmNVRYSXduWmNHZG5DMm5wbkkyd01NTE1hM2FHU2tKWWRITmEyZmRwYkZGOV9uWnRSbk9YN0lvRm9LZG10THpOdmxJb0xMQ05uRnVKSUUyVNIBwgFBVV95cUxNNF9aNFp3NzI0RG43dUVsbEk4dFZFUWllb29PVGxWNElDdVlGdjJBd0FuMnliNkZTTlpJV1cwY05FLUo4S1BMNjVIZlpyNG5tSm5TX1NtMmpIRFB4Mm93MjlGRXZudFo3SF9HYmcwSUN6aThjbDhIdGZYYmZRLWVZdFUxZ0NjM0wweDVMTVk3NHRxTU43X3ZLMkJvemQyZlBJVThYSzE4LURCMXZvN205VmpmOFd2RV96ZVZROWp4S3pBUQ",
+    "related": [
+      [
+        "Indian Navy rescues 20 crew members from hijacked Iranian vessel after 48-hour operation | India News",
+        "Hindustan Times"
+      ],
+      [
+        "Pirates Hijack Iranian Fishing Vessel off Somalia",
+        "The Maritime Executive"
+      ],
+      [
+        "‘If you don’t stop, they’ll kill all of us’: Somali pirates are back with a vengeance",
+        "CNN"
+      ],
+      [
+        "Indian Navy flexes blue-water muscle, rescues 20 crew from pirates 3,000km away",
+        "The New Indian Express"
+      ],
+      [
+        "Somali pirates hijack Iranian vessel with 23 crew",
+        "Mehr News Agency"
+      ]
+    ],
+    "event_key": "somali_pirates_hijack_iranian_vessel_indian_navy_rescue_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "소말리아 해역서 [[피랍]]\n이란 어선 선원 구조",
+      "sub": "인도 해군이 48시간 작전 끝에 선원 20명을 구출했습니다",
+      "chips": [
+        {
+          "k": "구조 선원",
+          "v": "20명"
+        }
+      ],
+      "alt": "소말리아 해역서 피랍 이란 어선 선원 구조",
+      "map": {
+        "lat": 8.3676771,
+        "lon": 49.083416,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "소말리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "소말리아\n소말리아 해역",
+      "video_only": true,
+      "map": {
+        "lat": 8.3676771,
+        "lon": 49.083416,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "소말리아 해역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "48시간 구조 작전",
+          "d": "인도 해군은 피랍된 이란 어선에서 48시간 작전 끝에 선원들을 구조했습니다 (힌두스탄 타임스)."
+        },
+        {
+          "t": "소말리아 어선 피랍",
+          "d": "소말리아 해적들이 이란 어선을 납치하는 사건이 발생했습니다 (더 마리타임 엑제큐티브)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인도 해군 선원 20명 구조 (힌두스탄 타임스)",
+        "소말리아 해역 이란 어선 피랍 (더 마리타임 엑제큐티브)"
+      ],
+      "unconfirmed": [
+        "전체 선원 수 매체별 집계 차이 있음 (20~23명)",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Hindustan Times",
+        "Mehr News Agency",
+        "The Maritime Executive",
+        "The New Indian Express",
+        "2026.11.03 06:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 소말리아 해역에서 피랍된 이란 어선 선원 20명이 인도 해군에 구조됐습니다.\n\n· 인도 해군은 해적에게 납치된 이란 어선에서 48시간 만에 선원 구조 작전을 마쳤습니다 (힌두스탄 타임스).\n· 소말리아 인근 해역에서 해적들이 이란 어선을 납치했습니다 (더 마리타임 엑제큐티브).\n\n출처: 힌두스탄 타임스·더 마리타임 엑제큐티브·CNN·신인도익스프레스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "소말리아 해역에서 피랍된 이란 어선 선원 20명이 인도 해군에 구출됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인도 해군은 피랍된 어선에서 48시간 동안 구조 작전을 펼쳤습니다.",
+      "card": "map"
+    },
+    {
+      "text": "힌두스탄 타임스는 인도 해군이 선원 20명을 구조했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 전체 탑승 선원 수는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "소말리아 해적에 [[피랍]]\n해군의 선원 구조",
+  "broll": [
+    "navy ship sea",
+    "fishing vessel ocean"
+  ],
+  "place_en": "Somalia"
+}

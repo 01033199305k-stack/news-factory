@@ -31628,5 +31628,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793650821
+  },
+  {
+    "slug": "2026-11-03-news-israel-election-results-2026",
+    "event_ms": 1793633278000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘 총선서 네타냐후 블록 53석 (The Times of Israel)\n\n· 아이젠코트 블록은 48석을 차지했습니다 (The Times of Israel)\n· 아랍 정당은 19석을 기록했습니다 (The Times of Israel)\n· 네타냐후 블록이 선두를 차지했으나 과반에는 미치지 못했습니다 (Dawn)\n\n독자 여러분은 이번 이스라엘 총선 결과가 향후 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: The New York Times·The Washington Post·The Times of Israel·Dawn·Al Jazeera 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이스라엘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18202343881388761",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfPz9A_Gqra",
+        "kind": "carousel",
+        "at": 1793639441
+      },
+      "youtube": {
+        "id": "31G5gNMQQho",
+        "permalink": "https://youtube.com/shorts/31G5gNMQQho",
+        "kind": "shorts",
+        "at": 1793639783
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793644516
+      },
+      "tiktok": {
+        "failed": "createPost: Invalid post: Video could not be read from its URL.",
+        "at": 1793654062
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793654062
   }
 ]
