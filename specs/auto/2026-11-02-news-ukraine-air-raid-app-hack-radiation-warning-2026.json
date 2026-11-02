@@ -1,0 +1,130 @@
+{
+  "slug": "2026-11-02-news-ukraine-air-raid-app-hack-radiation-warning-2026",
+  "topic": "우크라이나 공습 경보 앱 해킹 가짜 방사능 경보 발령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 07:28 KST",
+  "source": "BBC·Reuters·The Guardian 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE9kSjY1N0lKb1J0RWpPVGFBNjNTN0N0QVNJNjl3QnhFN0hvUTYzUGlfVjZtSGFpbTUxa2tBcC1aV0FQaFhoS1Q3bG1YMnQyX2JSalhMdEhKczBXdlVEMVE",
+    "related": [
+      [
+        "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "BBC"
+      ],
+      [
+        "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts",
+        "The Guardian"
+      ],
+      [
+        "Ukrainian air force says public air raid alert app sent erroneous alerts after being hacked",
+        "Reuters"
+      ],
+      [
+        "Ukrainians sent false nuclear attack warning in suspected Russian hack",
+        "The Telegraph"
+      ],
+      [
+        "Ukraine air raid app apparently hacked as users receive false radiation alert, Air Force says",
+        "BBC"
+      ]
+    ],
+    "event_key": "ukraine_air_raid_app_hack_radiation_warning_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 공습 경보 앱 해킹\n가짜 [[방사능]] 경보 발령",
+      "sub": "우크라이나 공군 당국, 공습 경보 앱 해킹으로 인한 가짜 경보 발령 공식 확인",
+      "chips": [],
+      "alt": "우크라이나 공습 경보 앱 해킹 가짜 방사능 경보 발령",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해킹 피해",
+          "d": "우크라이나 공습 경보 앱 사용자들에게 잘못된 방사능 위협 경보가 전송되었습니다 (BBC·The Telegraph)."
+        },
+        {
+          "t": "공군 입장",
+          "d": "우크라이나 공군은 공식 앱이 해킹당해 오류 경보가 울린 것으로 보인다고 밝혔습니다 (BBC·Reuters)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 공습 경보 앱 해킹 (BBC·Reuters)",
+        "가짜 방사능 위협 경보 전송 (The Telegraph)"
+      ],
+      "unconfirmed": [
+        "정확한 해킹 배후 및 피해 범위",
+        "시스템 복구 완료 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "The Telegraph",
+        "2026.11.02 10:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 공습 경보 앱 해킹…가짜 방사능 경보 발령\n\n· 우크라이나 공습 경보 앱 사용자들에게 잘못된 방사능 위협 경보가 전송되었습니다 (BBC·The Telegraph)\n· 우크라이나 공군은 공식 앱이 해킹당해 오류 경보가 울린 것으로 보인다고 밝혔습니다 (BBC·Reuters)\n\n❓ 이번 사이버 공격과 가짜 경보 발령에 대해 어떻게 보십니까?\n출처: BBC·The Guardian·Reuters·The Telegraph 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나의 공습 경보 앱이 해킹되어 사용자들에게 가짜 방사능 경보가 전송되었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 우크라이나 공군이 공식 앱을 통한 오류 경보가 해킹에 의한 것이라고 밝혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 해킹 배후는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "우크라이나 앱 해킹\n가짜 [[방사능]] 경보?",
+  "broll": [
+    "smartphone screen app",
+    "kyiv city street"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}

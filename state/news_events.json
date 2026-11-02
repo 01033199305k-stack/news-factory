@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "black-sea-ship-attack-bulgaria",
-    "topic": "흑해서 선박 공격받아 사망 1명·부상 7명",
-    "slug": "2026-10-13-news-black-sea-ship-attack-bulgaria",
-    "cluster": "CBMioAFBVV95cUxOSnZnRUxZMGpxbDRKYm9iT21oRTVEV250YWxKM1g4QThNX2UtejJiYjgzWnBpNDBYTnZ1T0tqS2pQRFdTR1ZNZk1PVUp6SjhTUlJHMmJhTzQwNGc4TUxNTnMyVXJuRDdnRWFPZExHUmtFUWJmUWx2QkItU2c0VFFxTlFzOXZlcXRBcmMzLU1MbkZMSUNzQXVsMktKdlpzeTct",
-    "badge": "breaking",
-    "at": 1791875925.747902,
-    "country": "불가리아",
-    "category": "국제"
-  },
-  {
     "event_key": "incheon-guwol-dong-stabbing",
     "topic": "인천 상가서 흉기 난동 1명 심정지·다수 부상",
     "slug": "2026-10-13-news-incheon-guwol-dong-stabbing",
@@ -2998,5 +2988,15 @@
     "at": 1793578103.0849664,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine_air_raid_app_hack_radiation_warning_2026",
+    "topic": "우크라이나 공습 경보 앱 해킹 가짜 방사능 경보 발령",
+    "slug": "2026-11-02-news-ukraine-air-raid-app-hack-radiation-warning-2026",
+    "cluster": "CBMiXkFVX3lxTE9kSjY1N0lKb1J0RWpPVGFBNjNTN0N0QVNJNjl3QnhFN0hvUTYzUGlfVjZtSGFpbTUxa2tBcC1aV0FQaFhoS1Q3bG1YMnQyX2JSalhMdEhKczBXdlVEMVE",
+    "badge": "breaking",
+    "at": 1793581729.146432,
+    "country": "우크라이나",
+    "category": "기타 사건"
   }
 ]
