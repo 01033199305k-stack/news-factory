@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "uk-iran-raf-fairford-terror-plot",
-    "topic": "영국, 이란의 테러 모의 연루 규탄 이란 대사 소환",
-    "slug": "2026-10-13-news-uk-iran-raf-fairford-terror-plot",
-    "cluster": "CBMiXkFVX3lxTE0zb2tsTFBVeFByajFIM05IU2RqVjFNSnZMclM1eUJlREJaSXBtOW02RWRSWDBCbzFYM19IeXFrd2tCWlgxOWdCU2RjTUZfdlM1VVQ2bEppbDlRcUdXMEE",
-    "badge": "breaking",
-    "at": 1791895030.5002222,
-    "country": "영국",
-    "category": "국제"
-  },
-  {
     "event_key": "france-supermarket-cyberattack-fridges",
     "topic": "프랑스 마트 400여곳서 해킹 냉장고 온도가 50도 치솟아",
     "slug": "2026-10-13-news-france-supermarket-cyberattack-fridges",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1793605725.4614127,
     "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "iran_hormuz_reopening_proposal_2026",
+    "topic": "이란 \"미국 합의 시 호르무즈 이틀 내 재개방\"",
+    "slug": "2026-11-02-news-iran-hormuz-reopening-proposal-2026",
+    "cluster": "CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA",
+    "badge": "brief",
+    "at": 1793618008.0658963,
+    "country": "이란",
     "category": "국제"
   }
 ]

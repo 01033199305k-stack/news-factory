@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-02-news-iran-hormuz-reopening-proposal-2026",
+  "topic": "이란 \"미국 합의 시 호르무즈 이틀 내 재개방\"",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 19:22 KST",
+  "source": "Al Jazeera·Hindustan Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA",
+    "related": [
+      [
+        "Iranians have left Doha talks, draft proposal for US deal being circulated, official says",
+        "Reuters"
+      ],
+      [
+        "Iran war live: Tehran says Hormuz ‘security restored’ if US agrees to plan",
+        "Al Jazeera"
+      ],
+      [
+        "Iran says considering two-day plan to reopen Hormuz",
+        "The Hindu"
+      ],
+      [
+        "Iran, Qatari mediators hold third day of talks to end U.S.-Iran war",
+        "CNBC"
+      ],
+      [
+        "Iran says ready to reopen Strait of Hormuz in two days: 'Everything depends on US'",
+        "Hindustan Times"
+      ]
+    ],
+    "event_key": "iran_hormuz_reopening_proposal_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "이란 \"미국 합의 시\n[[호르무즈]] 이틀 내 재개방\"",
+      "sub": "카타르 도하 회담 후 미·이란 합의 초안 마련",
+      "chips": [
+        {
+          "k": "재개방 추진",
+          "v": "2일 이내"
+        }
+      ],
+      "alt": "이란 \"미국 합의 시 호르무즈 이틀 내 재개방\"",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미국 합의 조건",
+          "d": "이란 측은 미국이 합의안에 동의해야 해협 안전이 회복된다고 밝혔습니다 (알자지라)."
+        },
+        {
+          "t": "협상 초안 공유",
+          "d": "카타르 도하 회담 후 미·이란 합의 초안이 순환되고 있습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란의 호르무즈 해협 재개방 제안 (더힌두)",
+        "도하 회담 후 미·이란 합의 초안 유포 (로이터)"
+      ],
+      "unconfirmed": [
+        "미국 정부의 합의안 수용 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNBC",
+        "Hindustan Times",
+        "Reuters",
+        "The Hindu",
+        "2026.11.02 20:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 이란이 미국 합의를 전제로 호르무즈 해협의 이틀 내 재개방을 제안했습니다.\n\n· 이란 측은 미국이 합의안에 동의해야 해협의 안전이 회복된다고 주장했습니다 (알자지라)\n· 카타르 도하 회담 후 미·이란 합의 초안이 공유되고 있습니다 (로이터)\n· 미국 정부의 합의 수용 여부는 아직 확인되지 않았습니다\n\n호르무즈 해협 재개방 협상이 타결될 수 있을까요?\n\n출처: 더힌두·로이터·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 호르무즈 해협을 이틀 내 재개방하겠다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 이란이 미국 측의 합의안 동의를 조건으로 제시했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "카타르 도하 회담 후 미·이란 합의 초안이 전달됐다고 로이터 통신이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 정부가 이 제안을 수용할지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 협상으로 호르무즈 해협이 다시 열릴 수 있을까요?",
+      "card": "ask",
+      "screen": "호르무즈 재개방될까?"
+    }
+  ],
+  "hook": "[[호르무즈]] 해협\n다시 열릴까?",
+  "broll": [
+    "oil tanker sea",
+    "cargo ship strait"
+  ],
+  "place_en": "Strait of Hormuz"
+}
