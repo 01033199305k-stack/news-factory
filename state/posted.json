@@ -31008,5 +31008,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793588895
+  },
+  {
+    "slug": "2026-11-02-news-spain-train-crash-fatalities-foreigners-2026",
+    "event_ms": 1793581579000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스페인에서 열차 충돌 참사로 대규모 사상자가 발생했습니다.\n\n· 미국인 4명을 비롯해 일본과 캐나다 국적자 등 외국인 사망자가 확인됐습니다 (가디언)\n· 당국자는 열차 관제 시스템의 오류가 이번 충돌 사고를 일으켰다고 밝혔습니다 (뉴욕타임스)\n· 현장 구조대는 희생자들의 신원 확인 작업을 이어가고 있습니다 (BBC)\n\n출처: 가디언·CBS·뉴욕타임스·BBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "스페인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18007122993006883",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfONS6mkZhs",
+        "kind": "carousel",
+        "at": 1793585619
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793585726
+      },
+      "tiktok": {
+        "id": "7703392614841683208",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703392614841683208",
+        "kind": "video",
+        "at": 1793585980
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793592519
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793592519
   }
 ]
