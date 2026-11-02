@@ -31226,5 +31226,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793610725
+  },
+  {
+    "slug": "2026-11-02-news-iran-hormuz-reopening-proposal-2026",
+    "event_ms": 1793618008065,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 이란이 미국 합의를 전제로 호르무즈 해협의 이틀 내 재개방을 제안했습니다.\n\n· 이란 측은 미국이 합의안에 동의해야 해협의 안전이 회복된다고 주장했습니다 (알자지라)\n· 카타르 도하 회담 후 미·이란 합의 초안이 공유되고 있습니다 (로이터)\n· 미국 정부의 합의 수용 여부는 아직 확인되지 않았습니다\n\n호르무즈 해협 재개방 협상이 타결될 수 있을까요?\n\n출처: 더힌두·로이터·알자지라 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17885662518515053",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfPLKkcnPQR",
+        "kind": "carousel",
+        "at": 1793618056
+      },
+      "youtube": {
+        "id": "dxpWH8icnNw",
+        "permalink": "https://youtube.com/shorts/dxpWH8icnNw",
+        "kind": "shorts",
+        "at": 1793618240
+      },
+      "tiktok": {
+        "id": "7703531735094414610",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703531735094414610",
+        "kind": "video",
+        "at": 1793618372
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793625318
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793625318
   }
 ]

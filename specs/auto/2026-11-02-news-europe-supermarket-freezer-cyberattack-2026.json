@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-02-news-europe-supermarket-freezer-cyberattack-2026",
+  "topic": "유럽 슈퍼마켓 냉장고 연쇄 마비 사이버 공격 받아",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 20:21 KST",
+  "source": "BBC·Sky News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1qQUt3Z1M4Rl9EemptZWhoT2t1QmVldjhGbFdJZmxsM1BoYVI0ZFY5UFRKWFBYOTNEdlo1M0NFU0xYOVFqQzFGTWdMRDEzbU5kRUJkQThlVlZDWS1RUXc",
+    "related": [
+      [
+        "Shop freezers in six European countries hit by suspected cyber-attack",
+        "BBC"
+      ],
+      [
+        "Hackers target refrigerators in Ireland and European countries in new wave of cyber attacks",
+        "Sky News"
+      ],
+      [
+        "Supermarket freezers across Europe hit by second suspected cyber-attack",
+        "The Guardian"
+      ],
+      [
+        "Britain on alert as hackers shut down supermarket fridges across Europe",
+        "The Telegraph"
+      ],
+      [
+        "Refrigeration systems at 13 SuperValu stores hit by suspected cyber attack",
+        "RTE.ie"
+      ]
+    ],
+    "event_key": "europe_supermarket_freezer_cyberattack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "유럽 [[슈퍼마켓]] 냉장고 연쇄 마비\n사이버 공격 받아",
+      "sub": "영국 등 여러 국가의 상점 냉동 시스템 멈춰",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "냉장고"
+        },
+        {
+          "k": "지역",
+          "v": "유럽 6개국"
+        }
+      ],
+      "alt": "유럽 슈퍼마켓 냉장고 연쇄 마비 사이버 공격 받아",
+      "map": {
+        "lat": 51.0,
+        "lon": 10.0,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "유럽"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "유럽",
+      "video_only": true,
+      "map": {
+        "lat": 51.0,
+        "lon": 10.0,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "유럽"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사이버 공격",
+          "d": "유럽 여러 국가의 상점 냉동 시스템이 사이버 공격을 받았습니다 (BBC·더 텔레그래프)."
+        },
+        {
+          "t": "대상 지역",
+          "d": "아일랜드를 포함한 유럽 여러 국가의 매장들이 영향을 받았습니다 (스카이 뉴스·RTE)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유럽 상점 냉동 시스템 마비",
+        "사이버 공격 의심"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 피해 규모",
+        "공격 주체 및 배후"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "RTE.ie",
+        "Sky News",
+        "The Guardian",
+        "The Telegraph",
+        "2026.11.02 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 유럽 [[슈퍼마켓]] 냉장고 연쇄 마비\n사이버 공격 받아\n\n· 유럽 여러 국가의 상점 냉동 시스템이 사이버 공격을 받았습니다 (BBC·더 텔레그래프)\n· 아일랜드를 포함한 유럽 여러 국가의 매장들이 영향을 받았습니다 (스카이 뉴스·RTE)\n\n출처: BBC·스카이 뉴스·더 텔레그래프 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유럽 여러 국가의 슈퍼마켓 냉장고가 사이버 공격으로 멈춰 섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 아일랜드를 비롯한 유럽 매장들의 냉동 시스템이 연쇄 타격을 입었다고 전했습니다.",
+      "card": "points",
+      "screen": "유럽 6개국 피해"
+    },
+    {
+      "text": "이번 사이버 공격의 배후와 정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "유럽 [[슈퍼마켓]]에서\n무슨 일이?",
+  "broll": [
+    "supermarket refrigerator aisle",
+    "grocery store freezer"
+  ],
+  "place_en": "Europe"
+}

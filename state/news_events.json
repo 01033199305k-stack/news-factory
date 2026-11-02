@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "ukraine-drone-strike-yandex-data-center",
-    "topic": "우크라이나 드론 공습에 러시아 얀덱스 데이터센터 마비",
-    "slug": "2026-10-13-news-ukraine-drone-strike-yandex-data-center",
-    "cluster": "CBMiW0FVX3lxTFBJb2s3SmRKRGl0andwc3h0Y3NpcXVoVnIyYWtpWGQxa2Qyd3FlUl94c185RmNsTmdjLVN5UGxxSUhlcWhHUHNSb0ZwMU1DTVk1eWNnSWVNMlRlYzA",
-    "badge": "breaking",
-    "at": 1791904317.23496,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
-    "event_key": "white-house-asks-guilfoyle-resign",
-    "topic": "백악관, 킴벌리 길포일 주그리스 대사 사임 요구",
-    "slug": "2026-10-13-news-white-house-asks-guilfoyle-resign",
-    "cluster": "CBMitAFBVV95cUxOa0QtQnJyNUhDbjlLeVE2NEczcEhMR19SV2s3bjc2V1U1bXRkcUtBemctSE9HeXlMSHNZd0lnNmRhZFVjOUg5R0NEWW1oWUpWbHZ5NTRtd1VPZzNLbE44bDJwM04yTlV2a0xBWnNJUnUzVDdKZzVPQkRXY1NJZ0Iza2FTdDJHTVJkS0czNEtXVEhwR0ZENW81bnRha2cwc2hMRzZacFdPRC16TFlMaEZjRVdsQ3U",
-    "badge": "breaking",
-    "at": 1791904403.207364,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "yemen-saudi-oil-facility-airstrike-2026",
     "topic": "사우디 주도 연합군, 예멘 사나 유조 시설 공습 후티 반군은 '가혹한 대응' 경고",
     "slug": "2026-10-13-news-yemen-saudi-oil-facility-airstrike-2026",
@@ -2997,6 +2977,26 @@
     "badge": "breaking",
     "at": 1793621509.8753474,
     "country": "불가리아",
+    "category": "국제"
+  },
+  {
+    "event_key": "europe_supermarket_freezer_cyberattack_2026",
+    "topic": "유럽 슈퍼마켓 냉장고 연쇄 마비 사이버 공격 받아",
+    "slug": "2026-11-02-news-europe-supermarket-freezer-cyberattack-2026",
+    "cluster": "CBMiXkFVX3lxTE1qQUt3Z1M4Rl9EemptZWhoT2t1QmVldjhGbFdJZmxsM1BoYVI0ZFY5UFRKWFBYOTNEdlo1M0NFU0xYOVFqQzFGTWdMRDEzbU5kRUJkQThlVlZDWS1RUXc",
+    "badge": "breaking",
+    "at": 1793624996.470805,
+    "country": "유럽",
+    "category": "사고"
+  },
+  {
+    "event_key": "saudi_led_coalition_yemen_missile_interception_2026",
+    "topic": "사우디 주도 연합군 예멘서 미사일 요격",
+    "slug": "2026-11-02-news-saudi-led-coalition-yemen-missile-interception-2026",
+    "cluster": "CBMiuAFBVV95cUxQcDdybGI4VjV5MVJtOTMwR21NUVVYZnNDLUVSVW1va2VBOVpmeTZrR3lBUnVjb1ViN2xoeEFvMXhJanlLel9XWHY4Njl1MHpKX1U3c0h3S1VuTVRMTlhuYWtwZ1JjaTFVWk1Da2lqd09fTVdMNWF5X0kyXzVtZHhmU2ZBMlZlajFjSkZieFhmd092ckw5Ty1WZEtYd0VOa2U0dXVycVlhaFFNckd1RUVmaVV3T1RQMFpL0gG-AUFVX3lxTE1ReEZ6dGplTGlsSGk2V3lNZ3hMTEo1X00yYmwzc0RkUDVTcHByRUtCT3U5LTB0dUVCazY3UVhNaGtkdDRaVXRVaFFFdWt2R3VtM2lzbTJpZTJFMlRiOEo3N3hUY3BCNENxOWI0ZzR1TlhqRGZpQW42SUw0bjZ1amlxNDB1M0w5STVMRFBUaXIyZkp5VF9XaW94eXh1dGtudU1QSHA0R2dMWE0tYnRrZjRoM3BzXzBNNDAzR0V1aFE",
+    "badge": "breaking",
+    "at": 1793625018.28435,
+    "country": "사우디아라비아",
     "category": "국제"
   }
 ]
