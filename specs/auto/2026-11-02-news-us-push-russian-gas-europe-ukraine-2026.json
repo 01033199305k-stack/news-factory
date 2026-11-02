@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-02-news-us-push-russian-gas-europe-ukraine-2026",
+  "topic": "미국, 우크라 거쳐 러 가스 공급 추진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.02 12:10 KST",
+  "source": "Hindustan Times·NDTV·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi5gFBVV95cUxOdzB0cVVzUjBIcExFQTUtbjhMMzktdWExQVItUUVaOUNxenp5S1cyZW1VaEYySDROQ1o5M0VzeDRfZ0doMkpsb0ppU3NZMjl5RWFJMlhDMldZUkhsalUyYXlBLXppUk1QMVdDeTdVRTlJVld5dVoxTUloM2Q3SG81NThlS19fTEJsdjM4THh4LTVNQmVzYjhkcmIzZWZiaTIyYUNtUDNkTUdkOW9rdlNZVzI3cjNkQWFPOElOS054cUFOSHRSZzFETG9wZExGQWpsSmlLajdnUzRFT3Rla1lKZzZaZmlrdw",
+    "related": [
+      [
+        "US explores route to bring Russian gas back to Europe through Ukraine: Report",
+        "The Times of India"
+      ],
+      [
+        "Exclusive | U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
+        "WSJ"
+      ],
+      [
+        "Trump Eyes Oil Deals With Putin To End Ukraine War: Report",
+        "NDTV"
+      ],
+      [
+        "Trump admin pushes to resume Russian natural gas to Europe via Ukraine in bid to reach peace deal",
+        "Hindustan Times"
+      ],
+      [
+        "US pushes to restore Russian gas sales to Europe via Ukraine, WSJ reports",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us_push_russian_gas_europe_ukraine_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국, 우크라 거쳐\n러 [[가스 공급]] 추진",
+      "sub": "유럽 수출 재개안 논의 중 (WSJ·로이터)",
+      "chips": [
+        {
+          "k": "경로",
+          "v": "우크라이나"
+        }
+      ],
+      "alt": "미국, 우크라 거쳐 러 가스 공급 추진",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "평화 협상 추진",
+          "d": "미국이 우크라이나 전쟁 평화 협상 달성을 위해 러시아 천연가스의 유럽 공급 재개를 추진하고 있습니다."
+        },
+        {
+          "t": "유럽 가스 공급 재개",
+          "d": "우크라이나를 거쳐 유럽으로 러시아 천연가스를 다시 수송하는 방식이 논의되고 있습니다 (WSJ·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국의 러시아 가스 유럽 공급 재개 추진 (WSJ·로이터)"
+      ],
+      "unconfirmed": [
+        "종전 협상 타결 여부 및 당사국 최종 합의"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Hindustan Times",
+        "NDTV",
+        "Reuters",
+        "The Times of India",
+        "WSJ",
+        "2026.11.02 16:48 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국이 우크라이나를 거쳐 러시아산 가스를 유럽에 다시 공급하는 방안을 추진 중입니다.\n\n· 월스트리트저널은 미국이 평화 협상 달성을 위해 가스 공급 재개를 추진하고 있다고 전했습니다 (WSJ).\n· 우크라이나를 거쳐 유럽으로 러시아 천연가스를 수송하는 방식입니다 (로이터).\n\n미국의 이번 종전 협상 구상, 어떻게 생각하십니까?\n\n출처: 월스트리트저널·로이터·NDTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 우크라이나를 거쳐 러시아산 가스를 유럽에 다시 공급하는 방안을 추진합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 정부가 평화 협상 달성을 위해 이번 방안을 추진하고 있는 것으로 전해졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "월스트리트저널은 우크라이나를 거쳐 유럽 수송을 재개하는 방식이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "당사국들의 최종 합의 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "미국의 이번 종전 협상 구상, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 [[러시아 가스]]를\n다시 튼 이유",
+  "broll": [
+    "gas pipeline field",
+    "natural gas facility"
+  ],
+  "place_en": "Washington, D.C., United States"
+}

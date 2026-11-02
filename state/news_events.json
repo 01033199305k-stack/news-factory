@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "germany-nuremberg-airport-closure-drone-2026",
-    "topic": "독일 뉘른베르크 공항 폐쇄 드론 목격으로 비행 중단",
-    "slug": "2026-10-13-news-germany-nuremberg-airport-closure-drone-2026",
-    "cluster": "CBMilAFBVV95cUxNakt4aV9UeklWZ3FOMFdQUmFYNGRqQWljdURlQlpLbnE3RTcxMjV6bEprSGdmRFAtZUNqSzQyNUs0R3hucWVMTy1PTFFQZXIySVNoM3V1Z1VabGItNUlpVFRydkt5dzBtWjJuWU1RWHpGejZnZHQ4b2kwcGJvazA5ZTlvc2NCVnN6N3ZFamk0SXBVd19q",
-    "badge": "breaking",
-    "at": 1791891092.1073406,
-    "country": "독일",
-    "category": "사고"
-  },
-  {
     "event_key": "uk-iran-raf-fairford-terror-plot",
     "topic": "영국, 이란의 테러 모의 연루 규탄 이란 대사 소환",
     "slug": "2026-10-13-news-uk-iran-raf-fairford-terror-plot",
@@ -2998,5 +2988,15 @@
     "at": 1793593998.784437,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "us_push_russian_gas_europe_ukraine_2026",
+    "topic": "미국, 우크라 거쳐 러 가스 공급 추진",
+    "slug": "2026-11-02-news-us-push-russian-gas-europe-ukraine-2026",
+    "cluster": "CBMi5gFBVV95cUxOdzB0cVVzUjBIcExFQTUtbjhMMzktdWExQVItUUVaOUNxenp5S1cyZW1VaEYySDROQ1o5M0VzeDRfZ0doMkpsb0ppU3NZMjl5RWFJMlhDMldZUkhsalUyYXlBLXppUk1QMVdDeTdVRTlJVld5dVoxTUloM2Q3SG81NThlS19fTEJsdjM4THh4LTVNQmVzYjhkcmIzZWZiaTIyYUNtUDNkTUdkOW9rdlNZVzI3cjNkQWFPOElOS054cUFOSHRSZzFETG9wZExGQWpsSmlLajdnUzRFT3Rla1lKZzZaZmlrdw",
+    "badge": "brief",
+    "at": 1793605725.4614127,
+    "country": "미국",
+    "category": "국제"
   }
 ]
