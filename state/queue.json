@@ -1,101 +1,5 @@
 [
   {
-    "slug": "2026-11-03-news-el-salvador-troops-haiti-gang-clashes-2026",
-    "event_ms": 1793661000000,
-    "category": "국제",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 엘살바도르가 실종 군인 구조를 위해 아이티에 병력 2,000명을 파견했습니다 (BBC)\n\n· 아이티의 한 갱단 지도자는 충돌이 격화되자 대화를 위해 유엔에 연락했다고 밝혔습니다 (AP)\n\n출처: AP·BBC·로이터 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "국제",
-      "아이티"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18117471173144485",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfQxgVrkakx",
-        "kind": "carousel",
-        "at": 1793671711
-      },
-      "youtube": {
-        "skipped": "유튜브는 한국·주요국 관련 소식만",
-        "at": 1793672057
-      },
-      "tiktok": {
-        "id": "7703762879522049300",
-        "permalink": "https://tiktok.com/@jigeum.segye/video/7703762879522049300",
-        "kind": "video",
-        "at": 1793672195
-      }
-    },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": "video.mp4"
-  },
-  {
-    "slug": "2026-11-03-news-european-troops-ukraine-deployment-rehearsal-2026",
-    "event_ms": 1793664425000,
-    "category": "국제",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 수천 명의 유럽 군대가 평화 시 우크라이나 배치를 대비한 대규모 훈련을 시작했습니다 (BBC)\n\n· 영국이 다국적 군사 훈련을 이끌며 폴란드 등지에서 작전 연습을 진행하고 있습니다 (BBC)\n\n· 러시아가 공격할 경우 영국군은 반격할 수 있도록 허용됐습니다 (타임스)\n\n출처: BBC·영국정부·타임스 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "국제",
-      "영국"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18022983116947936",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfQxlSZkShc",
-        "kind": "carousel",
-        "at": 1793671750
-      },
-      "youtube": {
-        "id": "MaLle5opESc",
-        "permalink": "https://youtube.com/shorts/MaLle5opESc",
-        "kind": "shorts",
-        "at": 1793672064
-      },
-      "tiktok": {
-        "id": "6ae9440f41f57fdb742deea6",
-        "permalink": "",
-        "kind": "video",
-        "at": 1793672408
-      }
-    },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": "video.mp4"
-  },
-  {
     "slug": "2026-11-03-news-us-strikes-iran-qeshm-island-2026",
     "event_ms": 1793670382000,
     "category": "국제",
@@ -140,7 +44,7 @@
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
