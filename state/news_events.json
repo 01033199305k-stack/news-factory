@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "pennsylvania-measles-outbreak-deaths",
-    "topic": "미국 펜실베이니아주 홍역 확산 사망자 6명으로 늘어",
-    "slug": "2026-10-15-news-pennsylvania-measles-outbreak-deaths",
-    "cluster": "CBMiwAFBVV95cUxPYTJHc1J4YXFlbTNvWkdjWC1qS1FHclFBZlQwaDVuNHUxN2NxNXRxamlwYUdGYWhmTnNpQTZFd2c4cElFck1jT25xOGhlU3hKZmgxMjFrZlVoc0RFREcxUXRIaUx3MXBmOGZMR3dLekt6aTNYT1F4bXpmeEF1Y1ljT0NKbHRSbFhlb21nWjZwdXk4MFdCRUNhSmxjOW5PSkg0S1drVnEwZXFkTjNwYnJEUkxwenVMZTVrQXlISzZTN24",
-    "badge": "breaking",
-    "at": 1792016639.3376153,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "c1-six-flags-roller-coaster-death",
     "topic": "미국 식스 플래그 놀이공원서 롤러코스터 탑승객 사망 사고",
     "slug": "2026-10-15-news-c1-six-flags-roller-coaster-death",
@@ -2998,5 +2988,15 @@
     "at": 1793725856.250948,
     "country": "키리바시",
     "category": "사고"
+  },
+  {
+    "event_key": "us_midterm_elections_2026",
+    "topic": "미국 중간선거 시작 상하원 통제권 결정",
+    "slug": "2026-11-04-news-us-midterm-elections-2026",
+    "cluster": "CBMickFVX3lxTFBmeUkyaWFmdkRxSjlFMlFtY3BBTFN0dFFfN1p0S1g1MWRHem9RYWtuT28xenRmenNxSS10LVVvVFhCYmwzVTZIdDEyR0FQOG14Y3ZOWXBXUTBPb3VDb0ZnMGN4anAydVRkTTVkSUhuSnllUQ",
+    "badge": "brief",
+    "at": 1793732967.274012,
+    "country": "미국",
+    "category": "국제"
   }
 ]

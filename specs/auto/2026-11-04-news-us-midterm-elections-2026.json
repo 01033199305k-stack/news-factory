@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-04-news-us-midterm-elections-2026",
+  "topic": "미국 중간선거 시작 상하원 통제권 결정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 03:57 KST",
+  "source": "AP News·CBS News·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMickFVX3lxTFBmeUkyaWFmdkRxSjlFMlFtY3BBTFN0dFFfN1p0S1g1MWRHem9RYWtuT28xenRmenNxSS10LVVvVFhCYmwzVTZIdDEyR0FQOG14Y3ZOWXBXUTBPb3VDb0ZnMGN4anAydVRkTTVkSUhuSnllUQ",
+    "related": [
+      [
+        "2026 elections live updates as Americans vote in midterm battle for Senate and House control",
+        "CBS News"
+      ],
+      [
+        "2026 Midterm Elections Live Updates: Voters Head to the Polls to Decide Control of Congress",
+        "The New York Times"
+      ],
+      [
+        "US midterm election: How it works, why it's important and races to watch",
+        "DW.com"
+      ],
+      [
+        "Midterm elections live updates: Voters will decide control of Congress in major test of Trump's second term",
+        "AP News"
+      ],
+      [
+        "Election 2026 live updates: Voters go to the polls in a midterm battle for House and Senate control",
+        "NBC News"
+      ]
+    ],
+    "event_key": "us_midterm_elections_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 [[중간선거]] 시작\n상하원 통제권 결정",
+      "sub": "미국 전역에서 의회 권력을 결정할 중간선거 투표가 시작됐습니다.",
+      "chips": [
+        {
+          "k": "선거",
+          "v": "미국 중간선거"
+        },
+        {
+          "k": "대상",
+          "v": "상하원 의원"
+        }
+      ],
+      "alt": "미국 중간선거 시작 상하원 통제권 결정",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "투표 진행",
+          "d": "미국 전역의 유권자들이 의회 통제권을 결정하기 위해 투표소로 향하고 있습니다 (AP·CBS News)."
+        },
+        {
+          "t": "정치적 의미",
+          "d": "이번 선거는 트럼프 2기 정부의 국정 운영을 가름할 중요한 시험대가 될 것으로 전망됩니다 (AP News)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 중간선거 투표 시작",
+        "상하원 의회 통제권 결정",
+        "트럼프 2기 정부 중간 평가"
+      ],
+      "unconfirmed": [
+        "최종 선거 결과 및 의석 분포",
+        "투표율 최종 집계"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBS News",
+        "DW.com",
+        "NBC News",
+        "The New York Times",
+        "2026.11.04 04:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 상하원 통제권을 결정할 중간선거 투표가 시작됐습니다\n\n· 미국 전역의 유권자들이 의회 권력을 결정하기 위해 투표소로 향하고 있습니다 (AP·CBS News)\n· 이번 선거는 트럼프 2기 정부의 국정 운영을 가름할 중요한 시험대가 될 것으로 전망됩니다 (AP News)\n\n이번 미국 중간선거 결과가 향후 정국에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: AP News·CBS News·The New York Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 상하원 통제권을 결정할 중간선거 투표가 시작됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 미국 전역의 유권자들이 의회 권력을 결정하기 위해 투표소로 향하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 선거는 트럼프 2기 정부의 국정 운영을 가름할 중요한 시험대가 될 전망입니다.",
+      "card": "points"
+    },
+    {
+      "text": "최종 선거 결과와 의석 분포는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미국 중간선거 결과가 향후 정국에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "중간선거 결과 전망은?"
+    }
+  ],
+  "hook": "미국 [[중간선거]]\n투표 시작",
+  "broll": [
+    "voting ballot box",
+    "election polling station"
+  ],
+  "place_en": "Washington, DC, USA"
+}
