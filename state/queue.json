@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "slug": "2026-11-04-news-kiribati-pacific-drift-rescue-2026",
+    "event_ms": 1793719117000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 태평양 표류 5명 구조, 어린이 2명 포함\n\n· 작은 배를 타고 태평양에서 수개월 동안 표류한 끝에 발견됐다고 CBS 뉴스가 전했습니다.\n· 구조된 5명 중 2명은 어린이며 4명은 실종 상태라고 뉴욕 포스트가 보도했습니다.\n\n출처: CBS 뉴스·워싱턴 포스트·뉴욕 포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "키리바시"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18183936673382757",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfSY3ghld-k",
+        "kind": "carousel",
+        "at": 1793725904
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793726044
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

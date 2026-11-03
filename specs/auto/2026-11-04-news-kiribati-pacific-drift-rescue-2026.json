@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-04-news-kiribati-pacific-drift-rescue-2026",
+  "topic": "태평양 표류 5명 구조 어린이 2명 포함",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 00:18 KST",
+  "source": "CBS News·NBC News·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMifkFVX3lxTE5WMlktTlVSbXltR3ZrNEVkcGZiX0M5X2h5X0IxYmlfR3k5UmZ3dVozdUhVOUtzc2tPN1pKY0hVUXoyanRtdmpYMjNaOTJpdnJHMUdPcVJwTWhTQmYtbTJXUjJWS2FwQkpuLVZSWjZ4MTlXbGJSUG5sUldlM0FWdw",
+    "related": [
+      [
+        "5 people rescued in South Pacific after months adrift at sea, 4 others missing",
+        "CBS News"
+      ],
+      [
+        "Five rescued from small boat after months adrift in Pacific",
+        "The Washington Post"
+      ],
+      [
+        "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
+        "NBC News"
+      ],
+      [
+        "Kiribati fishermen find man alone, dehydrated and lost at sea",
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      [
+        "Two children among 5 rescued after being stranded in Pacific Ocean for three months: officials",
+        "New York Post"
+      ]
+    ],
+    "event_key": "kiribati_pacific_drift_rescue_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "태평양 표류 [[5명]] 구조\n어린이 2명 포함",
+      "sub": "수개월 만에 발견",
+      "chips": [
+        {
+          "k": "구조",
+          "v": "5명"
+        },
+        {
+          "k": "실종",
+          "v": "4명"
+        }
+      ],
+      "alt": "태평양 표류 5명 구조 어린이 2명 포함",
+      "map": {
+        "lat": 0.3448612,
+        "lon": 173.6641773,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "키리바시"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "키리바시",
+      "video_only": true,
+      "map": {
+        "lat": 0.3448612,
+        "lon": 173.6641773,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키리바시"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "표류 기간",
+          "d": "작은 배를 타고 태평양에서 수개월 동안 표류한 끝에 발견됐다고 CBS 뉴스가 전했습니다."
+        },
+        {
+          "t": "인명 피해",
+          "d": "구조된 5명 중 2명은 어린이며 4명은 실종 상태라고 뉴욕 포스트가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "구조 5명 (CBS 뉴스·워싱턴 포스트)",
+        "실종 4명 (CBS 뉴스)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 표류 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "CBS News",
+        "NBC News",
+        "New York Post",
+        "The Washington Post",
+        "2026.11.04 02:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 태평양 표류 5명 구조, 어린이 2명 포함\n\n· 작은 배를 타고 태평양에서 수개월 동안 표류한 끝에 발견됐다고 CBS 뉴스가 전했습니다.\n· 구조된 5명 중 2명은 어린이며 4명은 실종 상태라고 뉴욕 포스트가 보도했습니다.\n\n출처: CBS 뉴스·워싱턴 포스트·뉴욕 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "태평양 해역에서 5명이 구조됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS 뉴스는 작은 배에 탄 사람들이 수개월 만에 발견됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구조된 이들 중에는 어린이 2명이 포함됐으며 4명은 실종 상태입니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 표류 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "태평양에서 [[발견된]]\n이들에게 무슨 일이?",
+  "broll": [
+    "ocean waves horizon",
+    "small boat sea"
+  ],
+  "place_en": "Kiribati"
+}
