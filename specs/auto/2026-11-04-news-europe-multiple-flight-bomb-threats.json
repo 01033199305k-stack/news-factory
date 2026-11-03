@@ -1,0 +1,137 @@
+{
+  "slug": "2026-11-04-news-europe-multiple-flight-bomb-threats",
+  "topic": "유럽 전역 항공편 폭탄 위협 여객기 잇따라 비상 착륙",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 00:39 KST",
+  "source": "BBC·NBC News·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiWEFVX3lxTE5abnlJYXppZ0FzU2dfa0V2SFVSQnNDUDFhNC1IN19VOEtCdVptTTg4NXEtSk5TTG50VHZtX0hDT2dqdVVGVHFOV0JhUFFXajJDZlhWY0NsbGk",
+    "related": [
+      [
+        "Seven planes searched after suspected bomb threats across Europe",
+        "BBC"
+      ],
+      [
+        "Multiple bomb threats disrupt flights across Europe",
+        "NBC News"
+      ],
+      [
+        "Bulgaria confirms bomb threats against flights from Bergamo and Dublin – Europe live",
+        "The Guardian"
+      ],
+      [
+        "Heathrow flight diverted in Warsaw as bomb threats investigated",
+        "The Times"
+      ],
+      [
+        "Bomb threats reported on multiple flights, including two from UK airports",
+        "Sky News"
+      ]
+    ],
+    "event_key": "europe_multiple_flight_bomb_threats"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "유럽 전역 항공편 [[폭탄 위협]]\n여객기 잇따라 비상 착륙",
+      "sub": "유럽 각국에서 항공기 대상 폭파 협박이 발생했습니다.",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "항공편 7대"
+        }
+      ],
+      "alt": "유럽 전역 항공편 폭탄 위협 여객기 잇따라 비상 착륙",
+      "map": {
+        "lat": 51.0,
+        "lon": 10.0,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "유럽"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "유럽",
+      "video_only": true,
+      "map": {
+        "lat": 51.0,
+        "lon": 10.0,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "유럽"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "비상 착륙 및 수색",
+          "d": "영국발 항공기를 포함해 유럽 여러 지역에서 폭발물 위협으로 비상 착륙과 수색이 진행됐습니다 (BBC·NBC 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유럽 항공편 폭탄 위협 (BBC·NBC 뉴스)",
+        "항공기 7대 수색 (BBC)"
+      ],
+      "unconfirmed": [
+        "폭발물 실제 설치 여부",
+        "협박 발신자 및 배후",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "NBC News",
+        "Sky News",
+        "The Guardian",
+        "The Times",
+        "2026.11.04 00:46 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 유럽 전역 항공편 폭탄 위협으로 여객기 잇따라 비상 착륙했습니다.\n\n· 영국발 항공기를 포함해 유럽 여러 지역에서 폭발물 위협으로 비상 착륙과 수색이 진행됐습니다 (BBC·NBC 뉴스)\n· 관련 항공편 7대가 조사를 위해 수색을 받았습니다 (BBC)\n\n출처: BBC·NBC 뉴스·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유럽 전역의 항공편이 폭탄 위협으로 잇따라 비상 착륙했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 영국발 항공기를 포함해 여러 항공편이 폭발물 협박을 받았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 당국은 최소 7대의 비행기를 대상으로 수색 작업을 벌였습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 폭발물이 있었는지와 구체적인 협박 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "유럽 전역 항공편\n[[폭탄 위협]]의 전말",
+  "broll": [
+    "airplane runway emergency",
+    "airport terminal police"
+  ],
+  "place_en": "Europe"
+}
