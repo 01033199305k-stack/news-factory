@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "paris-austerlitz-train-station-fire-2026",
-    "topic": "파리 주요 기차역 인근 대형 화재 발생",
-    "slug": "2026-10-14-news-paris-austerlitz-train-station-fire-2026",
-    "cluster": "CBMigwFBVV95cUxPODdFZnNKNllQLXF3OHRJTjhxa2xfd1RPX3VGQmVoQXlrN1oyVV9qY3ZoYnI5T1FBVmd1d0NYVzNfeHY1WEpvM3VZOHJEODJnbkZPMjE2N05GLWV5ZHlrRllySXVUQThXZVBoc2dtNDN4eFJ3TEVDWHpMRnZwc2tqNWVaRdIBiAFBVV95cUxNRnRQZjVBSjVTOHc2UHoyY1NvejhZemFhRDczOGlBZkxWNTdRc1QtNDl5RFVLaGlCbWNKbERYSWM2Yk9NZG9PVHhvakdvR1c1SGdnT1lGaEZJRmR6Y2Q1aG80TlNQWTRRaFVPZkFBODlDQzlzOWZlXy02Wkp4NTJ3V1pGTmtoNFVL",
-    "badge": "breaking",
-    "at": 1791971942.3186731,
-    "country": "프랑스",
-    "category": "폭발·화재"
-  },
-  {
-    "event_key": "strait-of-hormuz-ship-sinking-2026",
-    "topic": "호르무즈 해협서 선박 피격… 컨테이너선 침몰 발생",
-    "slug": "2026-10-14-news-strait-of-hormuz-ship-sinking-2026",
-    "cluster": "CBMi1gFBVV95cUxPYWRvUlkzaVJ2NkowN0xDQ0FEWUZkMjdkbmlVWElycXZoX1JRTkdseVAzMmhTY3hUX1R6Qk1rVzlTaXRQR1U1RmozU3VNQlFvdHd2ODhWUjNxOHVJbWNEeHVCR3N0UzJBWlQ2Sy1KeHppTWhRTEZRb0hqS1hSYTNFcVFpVEwzbkZidTNNQ2xRTFA1ZU9EWDdoRFlpYjhWdW9tUEVHMVV2bFB5VmtaZGFRei01VVctWVJVZXRWTk1CZHM0U285Q0QyWnpCNUxYTGs5bEFnUUJR0gHcAUFVX3lxTE56Z2tjTm9CcHBlQkowRGc2S1FDcklQNlVqUEp0RHZLOTJGUmVXNmllQ1RYdE5OVVc4QVBvazZpd01IQmlwbHh4SzhkT292YWd5SlhnTWlod1ZRSlVVVmhpRWJwRmlkcUFjS3ZtbEtjZnpnS2gtRUNZS2ozY0tDMXM3bmdFR2tVOVAyeGxMZUpzYng5RnVuM0Z2bTZTcTFtU19YdHFpX085R19MSTlGeEdrRDhoc1JWTDRRSmpIcWNTRUNyamNXbmROMl9ab0pMWVF6SGdpbG1scG1abDQ",
-    "badge": "brief",
-    "at": 1791979831.4393556,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "mauritius-riots-state-emergency-2026",
     "topic": "모리셔스서 최악 폭동 발생… 통행금지 선포",
     "slug": "2026-10-14-news-mauritius-riots-state-emergency-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793675423.9221141,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "australia_rba_interest_rate_hike_4_85_2026",
+    "topic": "호주중앙은행, 기준금리 4.85%로 인상 18년 만에 최고치 기록",
+    "slug": "2026-11-03-news-australia-rba-interest-rate-hike-4-85-2026",
+    "cluster": "CBMiigFBVV95cUxQOVF0RkNGUTNUYmFYajhocUI2NlZIREUwR0NIMWZkQUZKX0JDUzlmVUF5MjVHSXBkRFdTN2ZfNEhFNWZPTlVwOGhsVVdQVXFLWlFucll1eERYV1U1RFAxbDB4TWdSZXluajhFak1Va3RONnhfMlFpTWNXSDc3dUJTYlNITENPQUM3OVHSAY8BQVVfeXFMUGxxTzhhSzZVajEwWVM0VXpjb0ZySmFoS2oyRmtXWl9GcHVsdm0tVXNYQkNVQkdxeU93a2JEQjZ4aHYyeWhMVHdXdHJSR3h5cmZLbnRreHlyUGdwNi0tbDFNdk0yYnoyekJIaVgtSl9kbkdCU2s0VHJIalVvcW5RcWpqdzhwVEVMUVFhRks1OTA",
+    "badge": "breaking",
+    "at": 1793686033.3127341,
+    "country": "호주",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "nepal_everest_helicopter_collision_2026",
+    "topic": "네팔 에베레스트 인근서 헬기 2대 공중 충돌",
+    "slug": "2026-11-03-news-nepal-everest-helicopter-collision-2026",
+    "cluster": "CBMi1gFBVV95cUxPWkRRaE1BM3l6QnJteHNTUHFQRmVHMm5ob0NMSHlYRDJrcVZ3QXhZTzlOY09udFE1RWZxdW9kYVV3NHNTUnI5T0ZkQkZ3Sk5BazJYVnlVdm5NZmlwZEtRMXlVVWFrdTJidkdtZmRNa0xoUlBvUFJJRTdLMHFHdW5JWW9SWWpKZ3pjb0djZWRvYk1uRGJnSjFESEdjRkxFd3dhVTI5a3ZYWnB1VnZ3SFd4OFM0WjJZTmtha0o5dXhXNVNKaXl4MVdNY3BtN0RKcHZpeDZzY1JB0gHbAUFVX3lxTE5jS3FMXzV2UURCN0hfdzZ3RXdPbWRHTTZBV1FrSmpYTVV3dEpkSXUtbXlKOG51Qmp0aVZWRWpQN3VlZVYyUFhlc2lVWFVyc3JqTV93WEg4NmxRaVpBVjNMc25IekpmUTlHTkNfS0dsakdXZkR6VUNGa0RjREgzR2JLMkVuM0hwWkFVcG43enNGNV9RUnhLbzZYMjJWSUI3UFhjM0lPTE80aGJ4aEhxNGR1VHJDeHJkNG1FNko1SWRWTEFfU1ljRVgxaTF0b1JMYXhOeDhGTjBMb2Q0SQ",
+    "badge": "breaking",
+    "at": 1793686070.5148177,
+    "country": "네팔",
+    "category": "사고"
   }
 ]

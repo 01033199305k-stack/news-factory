@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-03-news-nepal-everest-helicopter-collision-2026",
+  "topic": "네팔 에베레스트 인근서 헬기 2대 공중 충돌",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 13:23 KST",
+  "source": "Hindustan Times·India Today·Telegraph India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi1gFBVV95cUxPWkRRaE1BM3l6QnJteHNTUHFQRmVHMm5ob0NMSHlYRDJrcVZ3QXhZTzlOY09udFE1RWZxdW9kYVV3NHNTUnI5T0ZkQkZ3Sk5BazJYVnlVdm5NZmlwZEtRMXlVVWFrdTJidkdtZmRNa0xoUlBvUFJJRTdLMHFHdW5JWW9SWWpKZ3pjb0djZWRvYk1uRGJnSjFESEdjRkxFd3dhVTI5a3ZYWnB1VnZ3SFd4OFM0WjJZTmtha0o5dXhXNVNKaXl4MVdNY3BtN0RKcHZpeDZzY1JB0gHbAUFVX3lxTE5jS3FMXzV2UURCN0hfdzZ3RXdPbWRHTTZBV1FrSmpYTVV3dEpkSXUtbXlKOG51Qmp0aVZWRWpQN3VlZVYyUFhlc2lVWFVyc3JqTV93WEg4NmxRaVpBVjNMc25IekpmUTlHTkNfS0dsakdXZkR6VUNGa0RjREgzR2JLMkVuM0hwWkFVcG43enNGNV9RUnhLbzZYMjJWSUI3UFhjM0lPTE80aGJ4aEhxNGR1VHJDeHJkNG1FNko1SWRWTEFfU1ljRVgxaTF0b1JMYXhOeDhGTjBMb2Q0SQ",
+    "related": [
+      [
+        "Indian killed as 2 helicopters collide mid-air in Nepal, video captures accident",
+        "India Today"
+      ],
+      [
+        "Indian tourist killed, New Zealander injured as two helicopters collide near Mount Everest in Nepal",
+        "Telegraph India"
+      ],
+      [
+        "Indian tourist killed, three injured as two helicopters collide in Nepal's Mount Everest region",
+        "Hindustan Times"
+      ],
+      [
+        "One killed after helicopters collide in Nepal",
+        "The New Indian Express"
+      ],
+      [
+        "Two helicopters collide in Nepal's Everest helipad, one dead; video goes viral",
+        "WION"
+      ]
+    ],
+    "event_key": "nepal_everest_helicopter_collision_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "네팔 에베레스트 인근서\n헬기 2대 [[공중 충돌]]",
+      "sub": "헬기 2대가 충돌해 인도인 관광객 등 사상자가 발생했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "3명"
+        }
+      ],
+      "alt": "네팔 에베레스트 인근서 헬기 2대 공중 충돌",
+      "map": {
+        "lat": 27.9880614,
+        "lon": 86.92521,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "네팔"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네팔\n에베레스트",
+      "video_only": true,
+      "map": {
+        "lat": 27.9880614,
+        "lon": 86.92521,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "에베레스트"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "헬기 충돌 사고",
+          "d": "네팔 에베레스트 지역에서 헬기 2대가 공중 충돌하는 사고가 발생했다고 인디아투데이 등이 보도했습니다."
+        },
+        {
+          "t": "사상자 발생",
+          "d": "이번 사고로 인도인 관광객 1명이 숨지고 뉴질랜드인을 포함해 여러 명이 다쳤다고 힌두스탄타임스와 텔레그래프인디아 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "헬기 2대 공중 충돌 (인디아투데이·WION)",
+        "사망 1명 발생 (인디아투데이·힌두스탄타임스)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인",
+        "부상자들의 상세한 부상 정도",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Hindustan Times",
+        "India Today",
+        "Telegraph India",
+        "The New Indian Express",
+        "WION",
+        "2026.11.03 15:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 네팔 에베레스트 인근서 헬기 2대 공중 충돌…사망 1명 발생\n\n· 네팔 에베레스트 지역 헬리패드 부근에서 헬기 2대가 공중 충돌했습니다 (인디아투데이·WION)\n· 이번 사고로 인도인 관광객 1명이 숨지고 여러 명이 다쳤습니다 (힌두스탄타임스·텔레그래프인디아)\n\n출처: 인디아투데이·텔레그래프인디아·힌두스탄타임스·WION 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "네팔 에베레스트 인근에서 헬기 2대가 공중 충돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인디아투데이는 공중 충돌 사고로 1명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "힌두스탄타임스와 텔레그래프인디아는 인도인 관광객이 사망하고 뉴질랜드인을 포함해 여러 명이 부상당했다고 보도했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "에베레스트 인근에서\n헬기가 [[충돌한]] 이유는?",
+  "broll": [
+    "helicopter flying mountain",
+    "snow mountain aerial"
+  ],
+  "place_en": "Mount Everest, Nepal"
+}

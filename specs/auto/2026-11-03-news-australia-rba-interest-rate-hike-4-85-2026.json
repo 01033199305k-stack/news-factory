@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-03-news-australia-rba-interest-rate-hike-4-85-2026",
+  "topic": "호주중앙은행, 기준금리 4.85%로 인상 18년 만에 최고치 기록",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 12:32 KST",
+  "source": "Financial Times·The Guardian·ABC News & Headlines 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiigFBVV95cUxQOVF0RkNGUTNUYmFYajhocUI2NlZIREUwR0NIMWZkQUZKX0JDUzlmVUF5MjVHSXBkRFdTN2ZfNEhFNWZPTlVwOGhsVVdQVXFLWlFucll1eERYV1U1RFAxbDB4TWdSZXluajhFak1Va3RONnhfMlFpTWNXSDc3dUJTYlNITENPQUM3OVHSAY8BQVVfeXFMUGxxTzhhSzZVajEwWVM0VXpjb0ZySmFoS2oyRmtXWl9GcHVsdm0tVXNYQkNVQkdxeU93a2JEQjZ4aHYyeWhMVHdXdHJSR3h5cmZLbnRreHlyUGdwNi0tbDFNdk0yYnoyekJIaVgtSl9kbkdCU2s0VHJIalVvcW5RcWpqdzhwVEVMUVFhRks1OTA",
+    "related": [
+      [
+        "Australia hikes rates to 18-year high to fight inflation",
+        "CNBC"
+      ],
+      [
+        "AUSSIES HIT WHERE IT HURTS: RBA makes seismic call on rates",
+        "News.com.au"
+      ],
+      [
+        "Australia raises rates to highest level since 2008 financial crisis",
+        "Financial Times"
+      ],
+      [
+        "Tough Christmas looms as rates and inflation hit household budgets",
+        "ABC News & Headlines – Australian Broadcasting Corporation"
+      ],
+      [
+        "RBA interest rates live updates: Reserve Bank of Australia hikes rate to 4.85% in blow to mortgage holders – latest news",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "australia_rba_interest_rate_hike_4_85_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호주중앙은행, 기준금리 [[4.85%]]로 인상\n18년 만에 최고치 기록",
+      "sub": "물가 안정을 위해 기준금리를 4.85%로 인상했다고 밝혔습니다",
+      "chips": [
+        {
+          "k": "기준금리",
+          "v": "4.85%"
+        },
+        {
+          "k": "금리 인상",
+          "v": "18년 최고"
+        }
+      ],
+      "alt": "호주중앙은행, 기준금리 4.85%로 인상 18년 만에 최고치 기록",
+      "map": {
+        "lat": -33.8698439,
+        "lon": 151.2082848,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "호주"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "호주\n시드니",
+      "video_only": true,
+      "map": {
+        "lat": -33.8698439,
+        "lon": 151.2082848,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "시드니"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "18년 만에 최고치",
+          "d": "호주중앙은행은 인플레이션에 대응하기 위해 기준금리를 2008년 이후 가장 높은 수준인 4.85%로 올렸다고 CNBC 등이 보도했습니다."
+        },
+        {
+          "t": "가계 부담 가중",
+          "d": "이번 금리 인상으로 주택담보대출 보유자와 가계 예산에 큰 타격이 될 것이라고 가디언 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "기준금리 4.85%로 인상 (CNBC·가디언·파이낸셜타임스)",
+        "2008년 이후 최고치 기록 (파이낸셜타임스)"
+      ],
+      "unconfirmed": [
+        "향후 추가 금리 인상 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "CNBC",
+        "Financial Times",
+        "News.com.au",
+        "The Guardian",
+        "2026.11.03 15:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호주중앙은행, 기준금리 4.85%로 인상…18년 만에 최고치\n\n· 호주중앙은행은 물가 안정을 위해 기준금리를 4.85%로 올렸다고 밝혔습니다 (CNBC·파이낸셜타임스)\n· 이번 금리 인상으로 주택담보대출 보유자와 가계 예산에 큰 타격이 될 전망입니다 (가디언·ABC)\n\n독자 여러분은 최근 각국의 금리 인상 기조, 어떻게 보고 계십니까?\n\n출처: CNBC·가디언·파이낸셜타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호주중앙은행이 기준금리를 4.85퍼센트로 인상했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이낸셜타임스는 2008년 이후 18년 만에 가장 높은 수준이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "가디언은 주택담보대출 보유자와 가계 예산에 큰 타격이 될 것이라고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 금리 인상 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "금리 인상, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "호주가 기준금리를\n[[18년 만에]] 최고로?",
+  "broll": [
+    "stock exchange screen",
+    "financial chart"
+  ],
+  "place_en": "Sydney, Australia"
+}
