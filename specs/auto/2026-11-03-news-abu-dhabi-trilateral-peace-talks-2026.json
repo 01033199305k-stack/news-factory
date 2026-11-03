@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-03-news-abu-dhabi-trilateral-peace-talks-2026",
+  "topic": "미·우크라·러시아 아부다비 평화 협상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 19:29 KST",
+  "source": "Financial Times·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi2wFBVV95cUxPXzVEeFJxc0VZdlI2WG5FRWVweTBJOHlVVU9WNjdLc3NMb1pnd2ZjdmFzOW1TS2NGZUh0WHQtQkw3WDh6SU9COHJfRUZrOVRCMzNuV2FqRTZBakVjWWZEN1llYm9nc1loNUZabktaa1ZmS1BMVFdxODNlWFgwRl9xa0F5U1VGVml1V2l6ckR5anV5TGlFUHFKVE5VTVVrQThwTndRVEZkMzdRMUg3cHpBVjNEQzZqX1RuVmwwaW1Xc0FmaExhNXJoU3Z2QS1TUGRVcTgzS3RBSVFPTW8",
+    "related": [
+      [
+        "Ukraine war briefing: US to mediate talks with Kyiv and Moscow in Abu Dhabi next week, says Witkoff",
+        "The Guardian"
+      ],
+      [
+        "Witkoff reveals location, date for new trilateral peace deal negotiations",
+        "The Kyiv Independent"
+      ],
+      [
+        "US to hold first talks with Russia and Ukraine since February",
+        "Financial Times"
+      ],
+      [
+        "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
+        "Reuters"
+      ],
+      [
+        "Ukraine and Russia will hold talks in Abu Dhabi with US mediation – Witkoff",
+        "Українська правда"
+      ]
+    ],
+    "event_key": "abu_dhabi_trilateral_peace_talks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미·우크라·러시아\n아부다비 [[평화 협상]]",
+      "sub": "미국 중재로 다음 주 삼자 회담 개최 확정",
+      "chips": [],
+      "alt": "미·우크라·러시아 아부다비 평화 협상",
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n아부다비",
+      "video_only": true,
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아부다비"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "회담 장소와 시기",
+          "d": "다음 주 아부다비에서 회담이 열린다고 가디언과 로이터가 보도했습니다."
+        },
+        {
+          "t": "미국 중재",
+          "d": "미국이 회담을 중재할 예정이라고 파이낸셜 타임스가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "아부다비 삼자 회담 개최 (가디언·로이터·키이우 인디펜던트)",
+        "미국 중재 참여 (가디언·파이낸셜 타임스)"
+      ],
+      "unconfirmed": [
+        "구체적인 의제",
+        "회담 세부 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Financial Times",
+        "Reuters",
+        "The Guardian",
+        "The Kyiv Independent",
+        "Українська правда",
+        "2026.11.03 22:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 중재로 우크라이나·러시아 아부다비 평화 협상 개최 (가디언·로이터·파이낸셜 타임스)\n\n· 다음 주 아부다비에서 삼자 회담 진행 (가디언·로이터)\n· 크렘린궁도 회담 개최 사실을 확인 (로이터)\n\n질문: 이번 3자 회담이 평화로 이어질 수 있다고 보십니까?\n\n출처: 가디언·로이터·파이낸셜 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국의 중재로 우크라이나와 러시아가 다음 주 아부다비에서 평화 협상을 엽니다.",
+      "card": "cover"
+    },
+    {
+      "text": "크렘린궁도 아부다비 삼자 회담 개최를 확인했다고 로이터가 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "회담의 구체적인 의제는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 삼자 회담이 평화의 계기가 될 것으로 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "아부다비서 열리는\n[[삼자 회담]]",
+  "broll": [
+    "diplomatic meeting room flags",
+    "city skyline aerial"
+  ],
+  "place_en": "Abu Dhabi, United Arab Emirates"
+}

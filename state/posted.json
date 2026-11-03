@@ -32162,5 +32162,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793700545
+  },
+  {
+    "slug": "2026-11-03-news-saudi-aramco-q3-profit-2026",
+    "event_ms": 1793701169000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 사우디 아람코 3분기 순이익 3분의 1 증가 (로이터)\n\n· 파이프라인과 정유시설 공격 피해에도 이익 증가 (뉴욕타임스)\n· 정제 마진 강세와 유가 상승이 실적 견인 (CNBC·블룸버그)\n\n여러분은 이번 실적 발표 결과, 어떻게 보십니까?\n출처: 뉴욕타임스·로이터·블룸버그통신·CNBC·월스트리트저널 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18057876929803816",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfRvrVsG3Z3",
+        "kind": "carousel",
+        "at": 1793704308
+      },
+      "youtube": {
+        "id": "1HaAx2__qGM",
+        "permalink": "https://youtube.com/shorts/1HaAx2__qGM",
+        "kind": "shorts",
+        "at": 1793704605
+      },
+      "tiktok": {
+        "id": "7703902707848842503",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703902707848842503",
+        "kind": "video",
+        "at": 1793704737
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793711426
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793711426
+  },
+  {
+    "slug": "2026-11-03-news-warsaw-airport-bomb-threat-2026",
+    "event_ms": 1793698560000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 런던발 여객기 폭발물 협박 접수 후 바르샤바 공항 임시 폐쇄 (인디펜던트)\n\n· 탑승객 181명이 탄 런던발 항공기 비상착륙 (메트로)\n· 최근 유럽 내 항공편 대상 위협 잇따라 발생 (사이프러스 메일)\n\n출처: 인디펜던트·메트로 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "폴란드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18073040315780891",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfRvwGfm4OT",
+        "kind": "carousel",
+        "at": 1793704342
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793704615
+      },
+      "tiktok": {
+        "id": "7703903260075134229",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703903260075134229",
+        "kind": "video",
+        "at": 1793704869
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793711427
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793711427
   }
 ]
