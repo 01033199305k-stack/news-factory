@@ -31787,5 +31787,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793660922
+  },
+  {
+    "slug": "2026-11-03-news-park-hang-seo-racism-thailand",
+    "event_ms": 1793664426914,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 태국 축구장서 나온 '김치맨' 발언에 박항서 감독이 격분했습니다\n\n· 태국 프로축구 경기 중 관중석에서 인종차별적 욕설이 나왔습니다 (KBS 뉴스·JTBC)\n· 현지 매체는 문제의 남성이 외국인이며 관련 사안에 대한 징계 조치가 검토 중이라고 전했습니다 (경향신문·조선일보)\n\n출처: 경향신문·KBS 뉴스·JTBC·조선일보·머니투데이 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "국제",
+      "태국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18093801107678022",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfQjufSmCx7",
+        "kind": "carousel",
+        "at": 1793664483
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793664613
+      },
+      "tiktok": {
+        "id": "7703730894602800404",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703730894602800404",
+        "kind": "video",
+        "at": 1793664735
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793664966
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793664966
   }
 ]
