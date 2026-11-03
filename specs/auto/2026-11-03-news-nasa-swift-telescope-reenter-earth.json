@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-03-news-nasa-swift-telescope-reenter-earth",
+  "topic": "수명 다한 나사 우주망원경 지구 대기 진입해 추락 중",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 22:02 KST",
+  "source": "CBS News·USA Today·NASA Science (.gov) 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisAFBVV95cUxPcS1kX3RpVldFQko5Yk9yTEFuRlVzWjFsS1ZfaXNhMDJlOFJNVWMzNGlVaDBTZ2pvU0VQQzdndzBrdWZ4eEEtellqUEVEWUF0RkZENjdtZDQ4TXdBNVkwZWJMQmc0OXhtLVE4VUFDNnY2U0xCUUpoYVFNU3ljZmtac0JZNFJ4MlpXclNGcFNCdXhHNTlwZ2I5aHFMMXRUYVUtRHhSODJoVlozbUtRZ3JMMQ",
+    "related": [
+      [
+        "Aging NASA telescope crashing to Earth after rescue mission fails",
+        "USA Today"
+      ],
+      [
+        "NASA’s Swift Observatory to Re-Enter Atmosphere",
+        "NASA Science (.gov)"
+      ],
+      [
+        "Death Approaches for NASA's Sinking Telescope",
+        "Newser"
+      ],
+      [
+        "An aging NASA space telescope is plunging back to Earth. Officials say the \"risk of harm...is unlikely.\"",
+        "CBS News"
+      ],
+      [
+        "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
+        "Space"
+      ]
+    ],
+    "event_key": "nasa_swift_telescope_reenter_earth"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "수명 다한 [[나사]] 우주망원경\n지구 대기 진입해 추락 중",
+      "sub": "관계자들은 지상 피해 위험이 희박하다고 밝혔습니다.",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "스위프트 우주망원경"
+        }
+      ],
+      "alt": "수명 다한 나사 우주망원경 지구 대기 진입해 추락 중",
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국",
+      "video_only": true,
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "복구 임무 실패",
+          "d": "복구 임무가 실패한 뒤 노후 망원경이 지구로 추락하고 있습니다 (USA Today)"
+        },
+        {
+          "t": "추락 위험",
+          "d": "관계자들은 지상에 피해를 줄 위험은 희박하다고 전했습니다 (CBS News)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스위프트 우주망원경 지구 추락",
+        "복구 임무 실패"
+      ],
+      "unconfirmed": [
+        "정확한 추락 지점",
+        "지구 대기 진입 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "NASA Science (.gov)",
+        "Newser",
+        "Space",
+        "USA Today",
+        "2026.11.04 00:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 수명이 다한 나사 우주망원경이 지구 대기로 진입해 추락하고 있습니다\n\n· 복구 임무가 실패한 노후 망원경이 지구를 향해 떨어지고 있습니다 (USA Today)\n· 관계자들은 지상에 피해를 줄 위험은 희박하다고 전했습니다 (CBS News)\n\n여러분은 노후 인공위성과 우주 쓰레기 문제, 어떻게 보십니까?\n\n출처: USA Today·NASA·CBS News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "수명이 다한 나사 우주망원경이 지구 대기로 진입해 추락하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "복구 임무가 실패한 노후 망원경이 지구를 향해 떨어지고 있다고 USA Today 등이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "관계자들은 지상에 피해를 줄 위험은 희박하다고 밝혔습니다.",
+      "card": "check"
+    },
+    {
+      "text": "정확한 추락 장소는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 노후 인공위성과 우주 쓰레기 문제, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "우주 쓰레기 위험"
+    }
+  ],
+  "hook": "추락하는 [[나사]] 망원경\n어디로 떨어지나",
+  "broll": [
+    "space telescope earth",
+    "atmosphere re-entry"
+  ],
+  "place_en": "United States"
+}
