@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-03-news-us-strikes-iran-qeshm-island-2026",
+  "topic": "미국, 이란 퀘섬섬 공습 호르무즈 인근 표적 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 10:46 KST",
+  "source": "Al Jazeera·NDTV·The Hindu 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiogFBVV95cUxQbWdibC16VWNfLUFoa1NNRmFoMWcwUUdRN09UcHZfb2FURlJIQUE3bWhpbWFheUV2aUZIV3U3ZmNFYnpzOEx2UG1mZlhJNVRLVUoxaS1JT2JVNjJWTl94WTEwb1U1XzRsZUI1QTQ5dVJNODRodlNxcUY2TXFid1hXZklLR0xURldNaUx2NnNiUTNvSkJGeU13ZG9ZNjN1ZnVkNlHSAagBQVVfeXFMUGswSHcyUGJ0Mkc5cFlOWjJ5M0YzQ1puMTE1Yi1yRHlXZEVnNmd3eHMxb0NqUXMySk03QU9MelBnVkl3eXFHU3lHYkVudFkzNGk5R3FOVHVzR3M2aTR0ek1fXzMtcWQtQTRmbVIxT1dZS0pteEpyeXdYdURNVjJteVgxWnpxM2JqeXZOYUNwT2xJWE1Lc3ZJVGF0OUdaQkR4dFI5Ql91RjEx",
+    "related": [
+      [
+        "U.S. strikes Iran's Qeshm Island: report",
+        "The Hindu"
+      ],
+      [
+        "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+        "WSJ"
+      ],
+      [
+        "U.S. has conducted defensive strikes on some Iranian targets in Strait of Hormuz: official ahead of midterm elections",
+        "The Hindu"
+      ],
+      [
+        "Multiple Explosions Heard On Qeshm Island, Bandar Lengeh In Iran: Report",
+        "NDTV"
+      ],
+      [
+        "Explosions hit Iran’s Qeshm Island as US media report US strikes in Hormuz",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "us_strikes_iran_qeshm_island_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 이란 [[퀘섬섬]] 공습\n호르무즈 인근 표적 타격",
+      "sub": "이란 반다르렌게 등지에서 연쇄 폭발음이 포착됐습니다",
+      "chips": [
+        {
+          "k": "공습 주체",
+          "v": "미군"
+        },
+        {
+          "k": "피격 지역",
+          "v": "퀘섬섬"
+        }
+      ],
+      "alt": "미국, 이란 퀘섬섬 공습 호르무즈 인근 표적 타격",
+      "map": {
+        "lat": 26.7687296,
+        "lon": 55.8476653,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n퀘섬섬",
+      "video_only": true,
+      "map": {
+        "lat": 26.7687296,
+        "lon": 55.8476653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "퀘섬섬"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "호르무즈 인근 타격",
+          "d": "미국이 호르무즈 해협 일대의 이란 표적을 방어 차원에서 타격했다고 더힌두와 알자지라 등이 전했습니다."
+        },
+        {
+          "t": "현지 연쇄 폭발",
+          "d": "이란 퀘섬섬과 반다르렌게 지역에서 연쇄 폭발음이 들렸다고 NDTV와 알자지라가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미군의 이란 퀘섬섬 공습",
+        "호르무즈 해협 이란 표적 타격"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모 및 인명 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "NDTV",
+        "The Hindu",
+        "WSJ",
+        "2026.11.03 12:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미군이 이란 퀘섬섬과 호르무즈 해협 일대를 공습했습니다.\n\n· 더힌두는 미군이 호르무즈 해협 인근 이란 표적을 방어 차원에서 타격했다고 전했습니다. (더힌두·알자지라)\n· 이란 퀘섬섬과 반다르렌게 등지에서 연쇄 폭발음이 포착됐습니다. (NDTV·알자지라)\n\n이번 미군의 공습이 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 월스트리트저널·알자지라·NDTV·더힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미군이 이란 퀘섬섬과 호르무즈 해협 일대를 공습했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공습이 이뤄진 퀘섬섬과 반다르렌게 일대에서 연쇄 폭발음이 포착됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "더힌두는 미군이 방어 차원에서 이란 표적을 타격했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 피해 규모와 인명 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 공습이 중동 정세에 어떤 영향을 줄 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국, 이란 [[퀘섬섬]] 공습\n현지 상황은?",
+  "broll": [
+    "military ship sea",
+    "middle east coast night"
+  ],
+  "place_en": "Qeshm Island, Iran"
+}

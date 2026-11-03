@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "spacex-limits-starlink-ukraine-military-2026",
-    "topic": "스페이스X, 스타링크 제한 우크라 군 작전 차질",
-    "slug": "2026-10-14-news-spacex-limits-starlink-ukraine-military-2026",
-    "cluster": "CBMiuwFBVV95cUxNV2VEUDcwZ1kydUhNRmMzSjVVTEdoLUNlS3FVUjctT1JONXNOZjJzS2wwZ21kOVJwakRkbmU4Mnc0THVxMDAwejAyak90aDNWd0N5SElDRF9sbXVUVk54RGUwUko3Z1FlR0RVQlJFTG5LWVdhY2wtdEtmaFp3WEtzZDZoMTNNYnY5WEhyUXczamlWYVNHMzVTczVST2twUkZGMVI3UGZJODdCSGlfZEZzek94bjROQUc0ZnAw",
-    "badge": "breaking",
-    "at": 1791968875.014682,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "paris-austerlitz-train-station-fire-2026",
     "topic": "파리 주요 기차역 인근 대형 화재 발생",
     "slug": "2026-10-14-news-paris-austerlitz-train-station-fire-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793671655.5546,
     "country": "영국",
+    "category": "국제"
+  },
+  {
+    "event_key": "us_strikes_iran_qeshm_island_2026",
+    "topic": "미국, 이란 퀘섬섬 공습 호르무즈 인근 표적 타격",
+    "slug": "2026-11-03-news-us-strikes-iran-qeshm-island-2026",
+    "cluster": "CBMiogFBVV95cUxQbWdibC16VWNfLUFoa1NNRmFoMWcwUUdRN09UcHZfb2FURlJIQUE3bWhpbWFheUV2aUZIV3U3ZmNFYnpzOEx2UG1mZlhJNVRLVUoxaS1JT2JVNjJWTl94WTEwb1U1XzRsZUI1QTQ5dVJNODRodlNxcUY2TXFid1hXZklLR0xURldNaUx2NnNiUTNvSkJGeU13ZG9ZNjN1ZnVkNlHSAagBQVVfeXFMUGswSHcyUGJ0Mkc5cFlOWjJ5M0YzQ1puMTE1Yi1yRHlXZEVnNmd3eHMxb0NqUXMySk03QU9MelBnVkl3eXFHU3lHYkVudFkzNGk5R3FOVHVzR3M2aTR0ek1fXzMtcWQtQTRmbVIxT1dZS0pteEpyeXdYdURNVjJteVgxWnpxM2JqeXZOYUNwT2xJWE1Lc3ZJVGF0OUdaQkR4dFI5Ql91RjEx",
+    "badge": "breaking",
+    "at": 1793675423.9221141,
+    "country": "이란",
     "category": "국제"
   }
 ]
