@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ulsan-onsan-chemical-plant-fire",
-    "topic": "울산 온산읍 화학공장서 폭발·화재 발생",
-    "slug": "2026-10-14-news-ulsan-onsan-chemical-plant-fire",
-    "cluster": "CBMid0FVX3lxTE9xZ25EN3hYNlBZZE8yUmZCSHByRkdsbnMyNHA1eGt5VzdrUzV2djlqamdlUUVUWUlFT2k3cjVkSXFTY1hfVThBSGFDaHlTZC1GMlNHa09mQzJGMUxmNjUwYVhkbTdaOGhxS1ZDLTc1QmMyNzlTZkJN",
-    "badge": "breaking",
-    "at": 1791947276.8593137,
-    "country": "대한민국",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "trump_greenland_exploration",
     "topic": "도널드 트럼프, 그린란드서 자원 탐사 본격 착수",
     "slug": "2026-10-14-news-trump-greenland-exploration",
@@ -2998,5 +2988,15 @@
     "at": 1793653756.6183765,
     "country": "소말리아",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "park_hang_seo_racism_thailand",
+    "topic": "태국 축구장서 나온 김치맨 발언 박항서 감독 관중과 충돌",
+    "slug": "2026-11-03-news-park-hang-seo-racism-thailand",
+    "cluster": "CBMiWkFVX3lxTE1KZEdHc28xWG9aR0ZwZkM3VGEzQnJWZEVabnI3M2gxbzgtTkUyaHBfV0FvZFNzRUhhd3NwbzhwQnlXd0NQQm82ejFTUEJHT0xNZ1JlVzM3NGxUUdIBX0FVX3lxTE5TaGc3Q2x3dDhwTWhZOVBacndhelBWajlnQVpWSlF3VDhwc29DQ2Y2QWVBbU9JLUJiTHowOE4zT3pkWUpWc2lWbktGNUt3Y05TUUw5SHVUUjcyR2ZTTEtn",
+    "badge": "brief",
+    "at": 1793664426.914604,
+    "country": "태국",
+    "category": "국제"
   }
 ]
