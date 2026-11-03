@@ -1,0 +1,122 @@
+{
+  "slug": "2026-11-03-news-us-florida-space-coast-flash-floods-2026",
+  "topic": "미국 플로리다주에 반년치 폭우 쏟아져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 23:35 KST",
+  "source": "The Washington Post·Florida Today·Newser 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilAFBVV95cUxOdURXNVJaOUpGT1BoVG03d1cxMGZZYnY4YTZwaHZOSXY2YkFGcE9iOU9vSndiVjVBNmMzOG1JaDZHU1oxWUJKM0RaZW9XWF9sOVNoRG1tMHdlTGN3dFRKdk9lREdQQUl2RGZGRnhoc01kaVRBb1p6cW0xZ3ZUQXdtVGFVeUZGQlEtYnE4UnpHVVNKcndE",
+    "related": [
+      [
+        "Parts of Florida see half a year’s worth of rain in 36 hours",
+        "The Washington Post"
+      ],
+      [
+        "Historic Flooding Event: Here is how much rain fell across Central Florida.",
+        "WKMG"
+      ],
+      [
+        "Deadly flash floods hit Florida's Space Coast amid heavy rainfall",
+        "The Weather Channel"
+      ],
+      [
+        "'Life-threatening conditions': Heavy rains trigger flooding across Brevard",
+        "Florida Today"
+      ],
+      [
+        "Deluge Slams Florida Space Coast With Up to 28 Inches",
+        "Newser"
+      ]
+    ],
+    "event_key": "us_florida_space_coast_flash_floods_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 플로리다주에\n[[반년치 폭우]] 쏟아져",
+      "sub": "브레바드 카운티 등지에 생명을 위협하는 홍수 발생",
+      "chips": [
+        {
+          "k": "기간",
+          "v": "36시간"
+        },
+        {
+          "k": "강수량",
+          "v": "최대 28인치"
+        }
+      ],
+      "alt": "미국 플로리다주에 반년치 폭우 쏟아져"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "집중호우",
+          "d": "36시간 동안 반년 치에 달하는 비가 내렸다고 워싱턴포스트 등이 보도했습니다."
+        },
+        {
+          "t": "상황",
+          "d": "생명을 위협하는 위험한 홍수 상황이 발생했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플로리다주 브레바드 카운티 집중호우",
+        "36시간 동안 최대 28인치 강수"
+      ],
+      "unconfirmed": [
+        "정확한 인명 및 재산 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Florida Today",
+        "Newser",
+        "The Washington Post",
+        "The Weather Channel",
+        "WKMG",
+        "2026.11.04 00:03 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 플로리다주에 반년치 폭우 쏟아져\n\n· 36시간 동안 최대 28인치의 비가 내렸다고 외신들이 보도했습니다.\n· 브레바드 카운티 등지에서 생명을 위협하는 홍수가 발생했습니다.\n\n출처: 워싱턴포스트·웨더채널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 플로리다주에 반년 치에 달하는 폭우가 쏟아졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신 보도에 따르면 36시간 동안 최대 28인치의 비가 내렸습니다.",
+      "card": "points"
+    },
+    {
+      "text": "브레바드 카운티 등지에는 생명을 위협하는 홍수가 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[플로리다주]]에\n쏟아진 폭우는?",
+  "broll": [
+    "heavy rain street flood",
+    "flooded city road water"
+  ],
+  "place_en": "Florida Space Coast, USA"
+}

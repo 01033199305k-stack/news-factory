@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-inflation-rise-3-7-percent-2026",
-    "topic": "미국 지난달 물가상승률 3.7퍼센트로 치솟아",
-    "slug": "2026-10-15-news-us-inflation-rise-3-7-percent-2026",
-    "cluster": "CBMivgFBVV95cUxQSm5KMGt6cDh1MzYtYXZjTnYxMVcyUXl0VnlZNUtvSVNpZWR6NXRYZ1Eyc0E0X0t6dXVPUXVBX1Fzb1I4aE4zVUxNVGtpdlVZUXk0ZF9yWDl1OG5FWkFSSFItS3lLdlRDVHJodkFzakY1RGtZaGctR2c0aUVVWmRBdURha0hERGpCbkx0UWxDd0MyS1FtQVdQMlg4YnRtdXdQM1VGXzcxWWdoZ01zY3plRldhQU5Qa1k5bkRNWkN3",
-    "badge": "breaking",
-    "at": 1791997701.1316905,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "kenya-second-ebola-case",
     "topic": "케냐에서 에볼라 두 번째 확진자 발생",
     "slug": "2026-10-15-news-kenya-second-ebola-case",
@@ -2998,5 +2988,15 @@
     "at": 1793711263.64135,
     "country": "아랍에미리트",
     "category": "국제"
+  },
+  {
+    "event_key": "us_florida_space_coast_flash_floods_2026",
+    "topic": "미국 플로리다주에 반년치 폭우 쏟아져",
+    "slug": "2026-11-03-news-us-florida-space-coast-flash-floods-2026",
+    "cluster": "CBMilAFBVV95cUxOdURXNVJaOUpGT1BoVG03d1cxMGZZYnY4YTZwaHZOSXY2YkFGcE9iOU9vSndiVjVBNmMzOG1JaDZHU1oxWUJKM0RaZW9XWF9sOVNoRG1tMHdlTGN3dFRKdk9lREdQQUl2RGZGRnhoc01kaVRBb1p6cW0xZ3ZUQXdtVGFVeUZGQlEtYnE4UnpHVVNKcndE",
+    "badge": "breaking",
+    "at": 1793718242.8530781,
+    "country": "미국",
+    "category": "재난"
   }
 ]
