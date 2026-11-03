@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-03-news-warsaw-airport-bomb-threat-2026",
+  "topic": "폴란드 바르샤바 공항 임시 폐쇄 런던발 항공기 폭발물 협박 접수",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 18:36 KST",
+  "source": "The Independent·AOL.com·Cyprus Mail 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxNXy1qWUgyS1FJRmV1ajNQbW5ObzZLV090VmtiMm9NUGxWT1JEc1RWaXV3UFFMdk5wb0l5ZlRDazI1TmMzUmJnUFlmZFFwQWJkNE9HVzg2dEVpN183Qk1lVGNaN0Ffdk1MR2Y2QXVNTmlYVkhsWE91Vm9BbV9DSDQ4Xy1hRnhuR3FrRHBrVHdPczFkdnNKejBRVTdwdjR4SXJzRU5Mdw",
+    "related": [
+      [
+        "Bomb alert on London Heathrow plane closes Warsaw airport",
+        "The Independent"
+      ],
+      [
+        "Bomb threat forces emergency landing of London flight with 181 people on board",
+        "Metro.co.uk"
+      ],
+      [
+        "Three European flights hit by bomb threats in two days",
+        "Cyprus Mail"
+      ],
+      [
+        "Polish airport closed after reports of explosive device on London plane",
+        "cedarnews.net"
+      ],
+      [
+        "Horror bomb threat on London flight as major airport closed in huge emergency",
+        "AOL.com"
+      ]
+    ],
+    "event_key": "warsaw_airport_bomb_threat_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "폴란드 바르샤바 공항 임시 폐쇄\n런던발 항공기 [[폭발물]] 협박 접수",
+      "sub": "런던 히스로발 여객기 비상착륙 및 긴급 대응",
+      "chips": [
+        {
+          "k": "탑승객",
+          "v": "181명"
+        }
+      ],
+      "alt": "폴란드 바르샤바 공항 임시 폐쇄 런던발 항공기 폭발물 협박 접수",
+      "map": {
+        "lat": 52.2319581,
+        "lon": 21.0067249,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "폴란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "폴란드\n바르샤바",
+      "video_only": true,
+      "map": {
+        "lat": 52.2319581,
+        "lon": 21.0067249,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바르샤바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "비상착륙",
+          "d": "폭발물 위협으로 181명이 탑승한 런던발 항공기가 비상착륙했다고 메트로 등이 보도했습니다."
+        },
+        {
+          "t": "공항 폐쇄",
+          "d": "위협 신고 접수 후 바르샤바 공항이 일시 폐쇄됐다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "런던발 항공기 폭발물 협박 접수 (인디펜던트·메트로)",
+        "탑승객 181명 (메트로.co.uk)",
+        "바르샤바 공항 일시 폐쇄"
+      ],
+      "unconfirmed": [
+        "폭발물 실제 존재 여부 및 협박범 신원"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AOL.com",
+        "Cyprus Mail",
+        "Metro.co.uk",
+        "The Independent",
+        "cedarnews.net",
+        "2026.11.03 20:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 런던발 여객기 폭발물 협박 접수 후 바르샤바 공항 임시 폐쇄 (인디펜던트)\n\n· 탑승객 181명이 탄 런던발 항공기 비상착륙 (메트로)\n· 최근 유럽 내 항공편 대상 위협 잇따라 발생 (사이프러스 메일)\n\n출처: 인디펜던트·메트로 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "폴란드 바르샤바 공항이 폭발물 협박으로 일시 폐쇄됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인디펜던트는 런던에서 출발한 항공기에 폭발물 위협이 접수됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해당 항공기에는 181명이 타고 있었으며 비상착륙했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폭발물이 실제 있었는지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "바르샤바 공항이\n갑자기 [[폐쇄]]된 이유는?",
+  "broll": [
+    "airport terminal runway",
+    "police emergency lights"
+  ],
+  "place_en": "Warsaw, Poland"
+}

@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "royal-caribbean-cruise-passenger-rescue-2026",
-    "topic": "그리스 해역서 추락한 크루즈 승객, 20시간 만에 생존 구조",
-    "slug": "2026-10-14-news-royal-caribbean-cruise-passenger-rescue-2026",
-    "cluster": "CBMinAFBVV95cUxPblBmb2NDaHhFa2VhcVNPak00amx6S2xiaHNxWjFvZzZxSTcxZTVJbEFVTHd3VGN1RVdSRXdIVUE4SE5vU3hBQ2d3NGZkUVFmYkdXd1EtT1RJaklwMV9xNWszVHZMM0ZlN2FXWFFfaTZEaEVyZzVPUGQ3OUJjNG9VS21XcEFTWmQ2aENHWWRYb293SEg4dnN3cWhEWTY",
-    "badge": "breaking",
-    "at": 1791986867.0590677,
-    "country": "그리스",
-    "category": "사고"
-  },
-  {
-    "event_key": "germany-building-fire-indians-killed-2026",
-    "topic": "독일 아파트 화재로 인도인 3명 숨져 주민 1명은 살인 혐의 체포",
-    "slug": "2026-10-14-news-germany-building-fire-indians-killed-2026",
-    "cluster": "CBMixgFBVV95cUxPM1I5TXVERnJCZVRScDJfOUdZMXAxMHhTOFl0UlNUYlV2YlVHdWZUY2NiNkJ3dkFjdVY1R3BtUnlmcUlTMDR2ampDcGNDV1JJWGhhMm8tMzYzSDdpMmhxRXdCYVZFaXJ3VlpZeWp5MUVxSkJnd1lKNFZZZ244MTdZSTRzaF9UQTRhOWxqcW9xWDJ5NThZTHEzbzBnb3BlWTFiMHl5X2hjLWJFbWpsWkFLRnpPTUNtVmZPU1o3eFRiNmZoZE1yblHSAc4BQVVfeXFMTS1TMUxWNFJ1RnBxU0FIRElzNmRmTDdJY1BOZHJRTWdIWVFzc3lVTWluMlJxTVVMeUs4Z1lGTjRSa2NpNVRSbnRpSkp2bkp1d3lGaEY5SGptMDh2bmhlcENPeEcyM19hZnU0Q0NKV1FILXdrSmszOTdPbkpudnBpUVJJVmtDTU84V3dOWXF4aHJ1WUphUFRQNUN2QUpodVpwSXZMY1RlaFdVOVVhOGJRY1I0cjFuTWg5c090bGt0ZzNmUzZIMlFiU1ozS2IxRkE",
-    "badge": "breaking",
-    "at": 1791994103.4700785,
-    "country": "독일",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "albania-education-ministry-fire-protest",
     "topic": "알바니아 교육부 건물서 화재 학생 시위 중 발생",
     "slug": "2026-10-15-news-albania-education-ministry-fire-protest",
@@ -2998,5 +2978,25 @@
     "at": 1793697040.0693362,
     "country": "그리스",
     "category": "국제"
+  },
+  {
+    "event_key": "saudi_aramco_q3_profit_2026",
+    "topic": "사우디 아람코 3분기 순이익 3분의 1 증가 파이프라인 공격에도 정제 마진 강세",
+    "slug": "2026-11-03-news-saudi-aramco-q3-profit-2026",
+    "cluster": "CBMifkFVX3lxTE8yNWtyRjVSdzJFSk4xeXctTEFXSloyU0VMWk11R0libnQ2ZnRkRVZfNkJTaGtYSng0akhzT21GSFRfTkRQNG80WDFubEpUWmVRbDJUa0RhcU0zMXFOdWFrc2dGS2dlOHMxQ2NoVGU4M3JUSTNtbzFCbGJvWVBqdw",
+    "badge": "breaking",
+    "at": 1793704241.256593,
+    "country": "사우디아라비아",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "warsaw_airport_bomb_threat_2026",
+    "topic": "폴란드 바르샤바 공항 임시 폐쇄 런던발 항공기 폭발물 협박 접수",
+    "slug": "2026-11-03-news-warsaw-airport-bomb-threat-2026",
+    "cluster": "CBMipAFBVV95cUxNXy1qWUgyS1FJRmV1ajNQbW5ObzZLV090VmtiMm9NUGxWT1JEc1RWaXV3UFFMdk5wb0l5ZlRDazI1TmMzUmJnUFlmZFFwQWJkNE9HVzg2dEVpN183Qk1lVGNaN0Ffdk1MR2Y2QXVNTmlYVkhsWE91Vm9BbV9DSDQ4Xy1hRnhuR3FrRHBrVHdPczFkdnNKejBRVTdwdjR4SXJzRU5Mdw",
+    "badge": "breaking",
+    "at": 1793704254.298518,
+    "country": "폴란드",
+    "category": "사고"
   }
 ]
