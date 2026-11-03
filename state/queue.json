@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-11-03-news-greece-embraer-kc390-deal-2026",
+    "event_ms": 1793693280000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 그리스, 다목적 수송기 최대 6대 도입 계약\n\n· 그리스가 전투기 작전 반경 확장을 위해 KC-390 밀레니엄 수송기 도입 계약을 체결함 (eKathimerini.com·Embraer)\n· 포르투갈 측과의 회동을 통해 관련 협정이 진행될 예정임 (마케도니아 통신사)\n\n❓ 이번 그리스의 다목적 수송기 도입 결정, 여러분은 어떻게 보십니까?\n출처: The Times of India·Embraer·마케도니아 통신사·Cyprus Mail·eKathimerini.com 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "그리스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18077301011466748",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfRh6a_EUdu",
+        "kind": "carousel",
+        "at": 1793697093
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793697238
+      },
+      "tiktok": {
+        "id": "7703870991449132309",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7703870991449132309",
+        "kind": "video",
+        "at": 1793697360
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]

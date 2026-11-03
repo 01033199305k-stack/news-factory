@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-03-news-greece-embraer-kc390-deal-2026",
+  "topic": "그리스, 다목적 수송기 최대 6대 도입 계약",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 17:08 KST",
+  "source": "The Times of India·Cyprus Mail·Embraer 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggJBVV95cUxPckY5enB2UjlvVDBla0NVZnhSZjVDdkoyNUt4YTBOcHVUYzhfTUExUXNoQVdpWkpRczNGWkYxelRtb2dRYkZpMXkwRlpSRUx2WmtncnUtekxXZXpnbkczd0dLWW9GUjVrTFJJQnhsazVibnJSWWpDc0pBMmtwcmQyZlBBZGR0UC16aUJQWFhVeWI5WElUdEdBX2kzOEdSYU92eDdDdzhTVlFyV2xFWThxdnljeTRmRE1nN1ZKdGRKTWQtQ0RESHdLbmxkNXhJaF9iR2pnbkRuN0ZYSFV1WV9aOVMxanRGMy0tY09FRzRqc1BTS3YwWGVTdWJLWVEwa093akHSAYcCQVVfeXFMT1JOYnpGRFVHdjNNcEJpWnhSbWdaNkxjbmxRalpkSk11TlhYdk9TeVNiSjBPcF95bjYxMk5NeHc0WDNuME9nQm9JNldDWW9KRmJIY0xsMTFTZnZrcGp2R0VKcXJkb2lqdzN3dENEQW9PMEhseFpKVFR6TWxta1d6VXVFR0J6TTBvb0xXLURvRVZaOXhXV25pc1FRMG9hX1FXUmZrdkdrMy1VWGlYVC1iTlg5d3J0bjJpc0dqbGY3dXJRcFIwYXp5OEFqT01XSFpUXzU1QmV0cUhLYlJqUzlZRFE3THVXeEx5cl9OaUpiLVdrYzgxejZhN1hyN2NsZlg2MjhycWdnVTA",
+    "related": [
+      [
+        "Greece picks Embraer's C-390 transport aircraft: Why it matters for India's Rs 1 lakh crore IAF deal",
+        "The Times of India"
+      ],
+      [
+        "Greece acquires up to six Embraer KC-390 Millennium Multi-Mission Aircraft",
+        "Embraer"
+      ],
+      [
+        "Dendias to receive Portuguese counterpart on Monday; agreement for three aircraft to be signed",
+        "Μακεδονικό Πρακτορείο Ειδήσεων"
+      ],
+      [
+        "Dendias: Turkish invasion could have been prevented with refuelling aircraft",
+        "Cyprus Mail"
+      ],
+      [
+        "Greece signs landmark flying tanker deal to expand fighter range",
+        "eKathimerini.com"
+      ]
+    ],
+    "event_key": "greece_embraer_kc390_deal_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "그리스, [[다목적 수송기]]\n최대 6대 도입 계약",
+      "sub": "전투기 작전 반경 확장을 위한 공중급유기 도입",
+      "chips": [
+        {
+          "k": "기종",
+          "v": "KC-390"
+        },
+        {
+          "k": "도입",
+          "v": "최대 6대"
+        }
+      ],
+      "alt": "그리스, 다목적 수송기 최대 6대 도입 계약",
+      "map": {
+        "lat": 37.9755648,
+        "lon": 23.7348324,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "그리스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "그리스\n아테네",
+      "video_only": true,
+      "map": {
+        "lat": 37.9755648,
+        "lon": 23.7348324,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아테네"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "계약 규모",
+          "d": "그리스는 엠브라에르사의 C-390 밀레니엄 다목적 수송기를 도입하기로 했다고 제작사가 밝혔습니다."
+        },
+        {
+          "t": "추가 일정",
+          "d": "그리스 국방장관은 월요일 포르투갈 카운터파트와 만나 항공기 관련 협정을 체결할 예정입니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "그리스, KC-390 수송기 도입 (Embraer)",
+        "최대 6대 규모 (Embraer)"
+      ],
+      "unconfirmed": [
+        "정확한 계약 금액",
+        "인도 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Cyprus Mail",
+        "Embraer",
+        "The Times of India",
+        "eKathimerini.com",
+        "Μακεδονικό Πρακτορείο Ειδήσεων",
+        "2026.11.03 18:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 그리스, 다목적 수송기 최대 6대 도입 계약\n\n· 그리스가 전투기 작전 반경 확장을 위해 KC-390 밀레니엄 수송기 도입 계약을 체결함 (eKathimerini.com·Embraer)\n· 포르투갈 측과의 회동을 통해 관련 협정이 진행될 예정임 (마케도니아 통신사)\n\n❓ 이번 그리스의 다목적 수송기 도입 결정, 여러분은 어떻게 보십니까?\n출처: The Times of India·Embraer·마케도니아 통신사·Cyprus Mail·eKathimerini.com 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "그리스가 전투기 작전 반경을 넓히기 위해 다목적 수송기 최대 6대를 도입합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "Embraer사는 그리스가 KC-390 밀레니엄 항공기 도입 계약을 체결했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "그리스 국방장관은 포르투갈 측과 만나 관련 협정을 맺을 예정입니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 인도 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 그리스의 군용기 도입 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "그리스가 추진하는\n새로운 [[군용기]] 도입",
+  "broll": [
+    "military transport plane",
+    "airforce base runway"
+  ],
+  "place_en": "Athens, Greece"
+}
