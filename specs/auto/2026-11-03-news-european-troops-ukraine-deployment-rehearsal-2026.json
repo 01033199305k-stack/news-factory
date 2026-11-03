@@ -1,0 +1,154 @@
+{
+  "slug": "2026-11-03-news-european-troops-ukraine-deployment-rehearsal-2026",
+  "topic": "유럽 군대, 우크라 배치 대비 대규모 훈련 실시",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.03 09:07 KST",
+  "source": "BBC·The Times·GOV.UK 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE51c3pfSDJ1enRJX1FiTURXMGtUQ3B3VDA4MVVYOHBZMjN1eVVxSXhiak5GZWs2eUtNWGdfRERWUkhlSkZMZDh3OFp6MjRQc2pyaGs0bzFoNV9EM3J1S2c",
+    "related": [
+      [
+        "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+        "BBC"
+      ],
+      [
+        "UK to lead multinational military training exercise to prepare for peace in Ukraine",
+        "GOV.UK"
+      ],
+      [
+        "Germany’s Merz Announces Berlin Summit to Coordinate Ukraine Aid",
+        "Kyiv Post"
+      ],
+      [
+        "British troops ‘allowed to fire back’ if Russia attacks Ukraine mission",
+        "The Times"
+      ],
+      [
+        "British troops in Poland for major wargame preparing for peace in Ukraine",
+        "The National Scot"
+      ]
+    ],
+    "event_key": "european_troops_ukraine_deployment_rehearsal_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "유럽 군대, 우크라 배치 대비\n[[대규모 훈련]] 실시",
+      "sub": "영국 주도 다국적 군사 훈련 진행",
+      "chips": [
+        {
+          "k": "참여",
+          "v": "수천 명"
+        },
+        {
+          "k": "장소",
+          "v": "폴란드 등"
+        }
+      ],
+      "alt": "유럽 군대, 우크라 배치 대비 대규모 훈련 실시",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "훈련 실시",
+          "d": "수천 명의 유럽 군대가 평화 정착 시 우크라이나 배치를 가정한 훈련을 진행한다고 BBC가 보도했습니다."
+        },
+        {
+          "t": "영국 주도",
+          "d": "영국이 다국적 군사 훈련을 이끌며 폴란드 등에서 작전 연습을 벌이고 있습니다."
+        },
+        {
+          "t": "교전 수칙",
+          "d": "러시아가 임무 수행 중 공격할 경우 영국군은 반격이 허용된다고 타임스가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "평화 대비 유럽 군대 우크라이나 배치 훈련 (BBC)",
+        "영국 주도 다국적 군사 훈련 (영국 정부)",
+        "공격 시 반격 허용 지침 (타임스)"
+      ],
+      "unconfirmed": [
+        "실제 파병 시기와 규모",
+        "향후 평화 협정 체결 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "GOV.UK",
+        "Kyiv Post",
+        "The National Scot",
+        "The Times",
+        "2026.11.03 11:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 수천 명의 유럽 군대가 평화 시 우크라이나 배치를 대비한 대규모 훈련을 시작했습니다 (BBC)\n\n· 영국이 다국적 군사 훈련을 이끌며 폴란드 등지에서 작전 연습을 진행하고 있습니다 (BBC)\n\n· 러시아가 공격할 경우 영국군은 반격할 수 있도록 허용됐습니다 (타임스)\n\n출처: BBC·영국정부·타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "수천 명의 유럽 군대가 평화 시 우크라이나 배치를 대비한 훈련에 돌입했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 영국이 주도하는 다국적 군사 훈련이 폴란드 등에서 진행되고 있다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "러시아가 공격할 경우 영국군은 반격하도록 허용됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 파병 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 다국적 군사 훈련, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "다국적 군사 훈련 어떻게 보십니까?"
+    }
+  ],
+  "hook": "우크라이나 평화 대비해\n[[유럽 군대]]가 벌인 일",
+  "broll": [
+    "military soldiers marching",
+    "training camp field"
+  ],
+  "place_en": "London, United Kingdom"
+}

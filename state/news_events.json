@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "trump_greenland_exploration",
-    "topic": "도널드 트럼프, 그린란드서 자원 탐사 본격 착수",
-    "slug": "2026-10-14-news-trump-greenland-exploration",
-    "cluster": "CBMif0FVX3lxTE9WY3BGUktqdGg1Y3hwMm1nWkc0aC11T004NEtsM3FrRkRKSWwzcVM5SjhveGQ2V1lzOEZ6N1FKM0dFaFd0d2g0S1A4eEZ3eHFxLUNnTFVrQzh6NGpERGp3TkpLZXhHYW1QVnFvdUhQRDJKUHZNQ0xaRHRFOGIyekk",
-    "badge": "brief",
-    "at": 1791964601.7143085,
-    "country": "그린란드",
-    "category": "국제"
-  },
-  {
-    "event_key": "asml-earnings-outlook-2026",
-    "topic": "반도체 장비사 ASML 2030년까지 주문 증가",
-    "slug": "2026-10-14-news-asml-earnings-outlook-2026",
-    "cluster": "CBMihgFBVV95cUxOSDQ3Zy1uUWZHZDRSQmVCRGY2VEpzVHZOZkNBQ29vM2sxbkpqRFlQTFlXX1Zub1otNmREVGFyMFVucU9KZXRWOFJCSUo5N1JBNGprZUtsYlJXX1A2N3ZJX2ZBeE1KbjlGRUtEakNwZjVWQVlYLWdMeVExODZzYmFqX2Z6QzZuUdIBiwFBVV95cUxPYXpNR093eFN2OXh5eGdjX1JZM3hDQURoa3VhOWZPUzBjaFkwTXRFVVlPbXo1WlVPQ2diYmotb0pCSmNyeERpOVpJNUtYa1JzR0NVRnFjSzVGaGdkRktPWHhyNllYdHhMbEJ1RGhPY2JqaWYyUExCeFlFZjJ1cDJVVXNQal9ZeURTMU5Z",
-    "badge": "breaking",
-    "at": 1791965543.8179398,
-    "country": "네덜란드",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "spacex-limits-starlink-ukraine-military-2026",
     "topic": "스페이스X, 스타링크 제한 우크라 군 작전 차질",
     "slug": "2026-10-14-news-spacex-limits-starlink-ukraine-military-2026",
@@ -2997,6 +2977,26 @@
     "badge": "brief",
     "at": 1793664426.914604,
     "country": "태국",
+    "category": "국제"
+  },
+  {
+    "event_key": "el_salvador_troops_haiti_gang_clashes_2026",
+    "topic": "엘살바도르, 하이티에 군대 파견 병력 2,000명 투입",
+    "slug": "2026-11-03-news-el-salvador-troops-haiti-gang-clashes-2026",
+    "cluster": "CBMirgFBVV95cUxQeFFIaW1Ya0Q0cVFzUkVrYWNQRzBZYktPQlpOVm1yeEVZYzhNT0RJNVdKVGMwbXUtZ1dtZHZBUXI2emF0d0tFSGU5NEoxd1diLUdJSERoNEw0d2twVHpNejI2ZXNzeC0zMGRlcC1BdkQ4MUk1WkNQQklReXF6bml3aGVOOEpmOG40MC1XV3FnLXp1d1JCVXNZRHFlYzVndGlxMFlDaElfU2lzYXRKZ1E",
+    "badge": "breaking",
+    "at": 1793671635.0164087,
+    "country": "아이티",
+    "category": "국제"
+  },
+  {
+    "event_key": "european_troops_ukraine_deployment_rehearsal_2026",
+    "topic": "유럽 군대, 우크라 배치 대비 대규모 훈련 실시",
+    "slug": "2026-11-03-news-european-troops-ukraine-deployment-rehearsal-2026",
+    "cluster": "CBMiXkFVX3lxTE51c3pfSDJ1enRJX1FiTURXMGtUQ3B3VDA4MVVYOHBZMjN1eVVxSXhiak5GZWs2eUtNWGdfRERWUkhlSkZMZDh3OFp6MjRQc2pyaGs0bzFoNV9EM3J1S2c",
+    "badge": "breaking",
+    "at": 1793671655.5546,
+    "country": "영국",
     "category": "국제"
   }
 ]
