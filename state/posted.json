@@ -33292,5 +33292,111 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793822976
+  },
+  {
+    "slug": "2026-11-05-news-canada-grizzly-bear-attack-2026",
+    "event_ms": 1793821380000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 캐나다서 회색곰 습격으로 엄마와 딸 사망 (가디언·CBS)\n\n· 캐나다 벨라쿨라 지역의 집 근처에서 변고를 당했습니다\n· 당국과 유족들이 모녀의 사망을 공식 확인했습니다\n\n출처: The Guardian·CBS News·New York Post·Vancouver Sun·CBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "캐나다"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18133661995606405",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfVZFwvFoLo",
+        "kind": "carousel",
+        "at": 1793826694
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1793826887
+      },
+      "tiktok": {
+        "id": "7704427803671891221",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704427803671891221",
+        "kind": "video",
+        "at": 1793827008
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793833708
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793833708
+  },
+  {
+    "slug": "2026-11-05-news-nfl-ravens-acquire-qb-brissett-2026",
+    "event_ms": 1793822452000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 볼티모어 레이븐스, 쿼터백 제이코비 브리셋 영입 (CBS 스포츠·ESPN)\n\n· 레이븐스가 카디널스와 선수 트레이드 합의를 마쳤습니다 (ESPN)\n· 주전 선수들의 부상 위기를 대응하기 위한 조치입니다 (CBS 스포츠)\n\n출처: CBS Sports·ESPN·NFL.com·Baltimore Ravens·Yahoo Sports 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18139016716630078",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfVZK8WFlET",
+        "kind": "carousel",
+        "at": 1793826725
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1793826887
+      },
+      "tiktok": {
+        "id": "7704428372016844052",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704428372016844052",
+        "kind": "video",
+        "at": 1793827140
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793833708
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793833708
   }
 ]
