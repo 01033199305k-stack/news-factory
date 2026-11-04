@@ -20,7 +20,8 @@
       "01_cover.jpg",
       "02_points.jpg",
       "03_check.jpg",
-      "04_outro.jpg"
+      "04_outro.jpg",
+      "video.mp4"
     ],
     "done": {
       "threads": {
@@ -28,9 +29,24 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfU2qYLlXC_",
         "kind": "carousel",
         "at": 1793808633
+      },
+      "youtube": {
+        "id": "s7RpjGI4xVU",
+        "permalink": "https://youtube.com/shorts/s7RpjGI4xVU",
+        "kind": "shorts",
+        "at": 1793812184
+      },
+      "tiktok": {
+        "id": "7704365252988751110",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704365252988751110",
+        "kind": "video",
+        "at": 1793812399
       }
     },
-    "attempts": {}
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
   },
   {
     "slug": "2026-11-04-news-javits-frimpong-bronx-shooting-2026",
@@ -53,7 +69,8 @@
       "01_cover.jpg",
       "02_points.jpg",
       "03_check.jpg",
-      "04_outro.jpg"
+      "04_outro.jpg",
+      "video.mp4"
     ],
     "done": {
       "threads": {
@@ -61,8 +78,21 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfU2vTElWbx",
         "kind": "carousel",
         "at": 1793808674
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1793812194
+      },
+      "tiktok": {
+        "id": "7704365663468473606",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704365663468473606",
+        "kind": "video",
+        "at": 1793812571
       }
     },
-    "attempts": {}
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
   }
 ]
