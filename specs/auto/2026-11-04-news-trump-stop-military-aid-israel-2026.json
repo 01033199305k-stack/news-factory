@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-04-news-trump-stop-military-aid-israel-2026",
+  "topic": "트럼프, 이스라엘에 군사 지원 중단 선언",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 23:56 KST",
+  "source": "BBC·CNN·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxNaV8xVTQ2RFpVRUt2cHZKcDZsSzBvMk9vYUFXaWUyd3J5STBBVmZ0RGQtdUJyRUg0N0JzREJTUkVjNmxWUGRpblpVZE9EY2VZZXpKb3RWODhxVG5jQzZRdi1RNWR5QWRyM0hkdk5oYU5HazJlZkNHYmhiekRsTXRrYS1OeGlEOTZZMHNSanpfczdkZ0F2ZkQxdGpnT05PaE05V1Y0QXlPYlJOQ3RC0gGyAUFVX3lxTE5nMkw1ZENrbDFEcXlNTXNvMFhVaGxpREFLNU1WbXNVQ0hNR0czWFJObFZIbk9mX0VhcnBBZHhXRjRsWV91SVJpTEd6eVVwN0ZoU0YwaWZ3X1dzS1hTd2JCRld4SmdpcFhYZW5zNFJOTzRvNTdTU0JIUTh5X0phc3VKUnlaWExoV0dCeHFycjllOWs5VEtCQ1VTV2R4dlcwSWdxbUVweDBSeWpnS244RmltTWc",
+    "related": [
+      [
+        "Trump aid bombshell could set off scramble to reprioritize upcoming arms buys",
+        "The Times of Israel"
+      ],
+      [
+        "Trump says US will stop providing aid to Israel after year-end",
+        "BBC"
+      ],
+      [
+        "Trump claims US will end military aid to Israel by end of this year",
+        "The Guardian"
+      ],
+      [
+        "Trump’s Election Day bombshell on Israel points to historic shift in US politics",
+        "CNN"
+      ],
+      [
+        "Trump’s election day gamble over Israel backs Vance into a corner",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "trump_stop_military_aid_israel_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "트럼프, 이스라엘에\n[[군사 지원]] 중단 선언",
+      "sub": "미국 정치권에 큰 파장 예상",
+      "chips": [
+        {
+          "k": "시기",
+          "v": "올해 말"
+        }
+      ],
+      "alt": "트럼프, 이스라엘에 군사 지원 중단 선언",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지원 중단",
+          "d": "도널드 트럼프가 올해 말 이후 이스라엘에 대한 지원을 중단하겠다고 밝혔습니다 (BBC·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "도널드 트럼프",
+        "이스라엘 군사 지원 중단 주장",
+        "올해 말 시한"
+      ],
+      "unconfirmed": [
+        "향후 무기 구매 계획 변경 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "The Guardian",
+        "The Telegraph",
+        "The Times of Israel",
+        "2026.11.05 02:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 트럼프가 올해 말까지만 이스라엘에 지원을 제공하겠다고 밝혔습니다.\n\n· 미국이 올해 말 이후 이스라엘에 대한 군사 지원을 중단할 것이라고 주장했습니다 (BBC·가디언)\n· 이번 발표로 다가오는 무기 구매 우선순위 재조정이 촉발될 수 있다는 관측이 나옵니다 (타임스 오브 이스라엘)\n\n여러분은 미국의 이번 이스라엘 지원 중단 발언이 중동 정세에 어떤 파장을 낳을 것으로 보십니까?\n\n출처: BBC·가디언·타임스 오브 이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "트럼프가 이스라엘에 대한 군사 지원을 중단하겠다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 올해 말까지만 지원을 제공하고 이후 중단할 것이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 발표로 다가오는 무기 구매의 우선순위 재조정이 촉발될 수 있다는 전망도 나왔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 후속 조치와 영향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 이번 결정이 중동 정세에 어떤 파장을 낳을 것으로 보십니까?",
+      "card": "ask",
+      "screen": "이스라엘 지원 중단"
+    }
+  ],
+  "hook": "트럼프의 이스라엘\n[[지원 중단 선언]], 파장은?",
+  "broll": [
+    "military map defense",
+    "white house washington"
+  ],
+  "place_en": "Washington, D.C., USA"
+}

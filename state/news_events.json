@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "black-sea-drone-attack-ship-sinking-2026",
-    "topic": "흑해서 드론 공격으로 선박 침몰 · 실종 11명",
-    "slug": "2026-10-15-news-black-sea-drone-attack-ship-sinking-2026",
-    "cluster": "CBMiekFVX3lxTE9XVDNwb2E1TmtfTF8yRlY1NTAwWXpCUW85T1lvMUdGWWFnclZsTjJ3NVVKTkU5bzEyNU42UlF0bjdvbV94OEk4N01WdWhIY0hxcER1TnFqSnJmLXRGbnpFUzRVd0lYSEY0RXphYmNHV2RJdkEtVWVLamlR",
-    "badge": "breaking",
-    "at": 1792080240.9627728,
-    "country": "불가리아",
-    "category": "사고"
-  },
-  {
-    "event_key": "neanderthal-spear-injury-iraq-2026",
-    "topic": "이라크 동굴 네안데르탈인 뼈에서 고대 창 흔적 발견",
-    "slug": "2026-10-16-news-neanderthal-spear-injury-iraq-2026",
-    "cluster": "CBMizAFBVV95cUxONm9md2lxTWQ2OHhpbWV0TGVpVHNvRE94ejRhQmFaejFzOEFwNzF5ZG1YbXI4MDVJQU9UMGtZdEo4dUxmQ25Vc2Q3OU9qM1hWWDg4UTRoX3FSLTRxa1h3OFBFZnR2WGF1OUVtcEtNZ2dtRlpZQkpBdjF1NE9tdk93RGpRaGtfQnJYbktVeUQ4eGlXcjZHR2RmZHQtX1pVNWZ5Yi11TTdZSTFpdHBmcWItR29YM2xrSEVha0ZST2dTTnBFNkE1U2VvWk1rQnU",
-    "badge": "breaking",
-    "at": 1792081328.09362,
-    "country": "이라크",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "yemen-houthi-missile-attack-2026",
     "topic": "예멘 대통령궁 미사일 공격 2명 사망 보도",
     "slug": "2026-10-16-news-yemen-houthi-missile-attack-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793808585.5721326,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "us_house_speaker_johnson_resign_2026",
+    "topic": "미국 하원의장, 선거 패배로 사퇴",
+    "slug": "2026-11-05-news-us-house-speaker-johnson-resign-2026",
+    "cluster": "CBMigwFBVV95cUxNXzJwMmxhRVJBQ3lHd1NQbWFlSmJaZ0RtY2g5dm1OcWF2VmpBWGRkeDNsb2dNUnRndXVtVkRhYURGdjlBN1NBVmhCT3NCaVdSZG5uTWxPNV9ybXF5OHQ4cnV5ZkN4Vnd3aXU1ZHo2S0FERENRd1VOMGZrTzZaeU8xeDlfQQ",
+    "badge": "breaking",
+    "at": 1793812716.9522336,
+    "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "trump_stop_military_aid_israel_2026",
+    "topic": "트럼프, 이스라엘에 군사 지원 중단 선언",
+    "slug": "2026-11-04-news-trump-stop-military-aid-israel-2026",
+    "cluster": "CBMirAFBVV95cUxNaV8xVTQ2RFpVRUt2cHZKcDZsSzBvMk9vYUFXaWUyd3J5STBBVmZ0RGQtdUJyRUg0N0JzREJTUkVjNmxWUGRpblpVZE9EY2VZZXpKb3RWODhxVG5jQzZRdi1RNWR5QWRyM0hkdk5oYU5HazJlZkNHYmhiekRsTXRrYS1OeGlEOTZZMHNSanpfczdkZ0F2ZkQxdGpnT05PaE05V1Y0QXlPYlJOQ3RC0gGyAUFVX3lxTE5nMkw1ZENrbDFEcXlNTXNvMFhVaGxpREFLNU1WbXNVQ0hNR0czWFJObFZIbk9mX0VhcnBBZHhXRjRsWV91SVJpTEd6eVVwN0ZoU0YwaWZ3X1dzS1hTd2JCRld4SmdpcFhYZW5zNFJOTzRvNTdTU0JIUTh5X0phc3VKUnlaWExoV0dCeHFycjllOWs5VEtCQ1VTV2R4dlcwSWdxbUVweDBSeWpnS244RmltTWc",
+    "badge": "breaking",
+    "at": 1793812745.8319275,
+    "country": "미국",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-05-news-us-house-speaker-johnson-resign-2026",
+  "topic": "미국 하원의장, 선거 패배로 사퇴",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 00:36 KST",
+  "source": "NBC News·Politico·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxNXzJwMmxhRVJBQ3lHd1NQbWFlSmJaZ0RtY2g5dm1OcWF2VmpBWGRkeDNsb2dNUnRndXVtVkRhYURGdjlBN1NBVmhCT3NCaVdSZG5uTWxPNV9ybXF5OHQ4cnV5ZkN4Vnd3aXU1ZHo2S0FERENRd1VOMGZrTzZaeU8xeDlfQQ",
+    "related": [
+      [
+        "Mike Johnson says he will not pursue House minority leader role – reports",
+        "The Guardian"
+      ],
+      [
+        "Jim Jordan launches bid to lead House GOP , promises ‘straight-shooting’",
+        "Politico"
+      ],
+      [
+        "House Speaker Mike Johnson will not stay on as Republican leader after GOP losses",
+        "NBC News"
+      ],
+      [
+        "Election 2026 live updates: Johnson to quit as GOP leader after Democrats take Congress",
+        "The Washington Post"
+      ],
+      [
+        "Following losses, Speaker Johnson to give up leadership post, sparking new GOP fight",
+        "MS NOW"
+      ]
+    ],
+    "event_key": "us_house_speaker_johnson_resign_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 [[하원의장]],\n선거 패배로 사퇴",
+      "sub": "공화당 하원 지도부 교체 불가피",
+      "chips": [
+        {
+          "k": "직책",
+          "v": "하원의장"
+        }
+      ],
+      "alt": "미국 하원의장, 선거 패배로 사퇴",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사퇴 선언",
+          "d": "마이크 존슨 미 하원의장이 선거 패배 여파로 공화당 하원 소수당 원내대표직에 도전하지 않겠다고 밝혔습니다 (NBC 뉴스·워싱턴 포스트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "마이크 존슨 하원의장",
+        "공화당 선거 패배",
+        "소수당 원내대표 불출마"
+      ],
+      "unconfirmed": [
+        "후임 지도부 선출 일정",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MS NOW",
+        "NBC News",
+        "Politico",
+        "The Guardian",
+        "The Washington Post",
+        "2026.11.05 02:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 마이크 존슨 미 하원의장이 선거 패배로 사퇴를 선언했습니다.\n\n· 공화당의 선거 패배 여파로 하원 소수당 원내대표직에 도전하지 않기로 했습니다 (NBC 뉴스·워싱턴 포스트)\n· 선거 참패 이후 공화당 내 새로운 지도부 선출을 둘러싼 당내 경쟁이 벌어질 전망입니다 (MS 나우)\n\n여러분은 이번 미국의 정국 변화가 국제 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: NBC 뉴스·워싱턴 포스트·MS 나우 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 마이크 존슨 하원의장이 선거 패배 여파로 사퇴를 선언했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공화당 하원 소수당 원내대표직에 도전하지 않겠다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "참패 이후 공화당 내 새로운 지도부 선출을 위한 경쟁이 벌어질 전망입니다.",
+      "card": "points"
+    },
+    {
+      "text": "후임 지도부 선출 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미국의 정국 변화가 국제 정세에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "미국 정국 변화"
+    }
+  ],
+  "hook": "미국 [[하원의장이]]\n물러난 이유는?",
+  "broll": [
+    "government building washington",
+    "politician speaking podium"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
