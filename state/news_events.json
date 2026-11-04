@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "ukraine-resumes-strikes-russian-refineries-2026",
-    "topic": "우크라, 러시아 정유소 공격 재개 선언",
-    "slug": "2026-10-15-news-ukraine-resumes-strikes-russian-refineries-2026",
-    "cluster": "CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms",
-    "badge": "breaking",
-    "at": 1792062738.6459973,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
-    "event_key": "global_tech_selloff_ai_2026",
-    "topic": "글로벌 증시, 인공지능 투자 과열 우려에 반도체주 중심으로 급락",
-    "slug": "2026-10-15-news-global-tech-selloff-ai-2026",
-    "cluster": "CBMihwFBVV95cUxOX2pSZmFBRTNfZ0ZmczFBcXBBRlUxV3RNTkV6ZzJiN2s4UGhod3RwVVZLbWY2YVNqejB1ZE9adDVyTDBXUnFsY3VGTHI3clVCUmlHUzBIcVFYTmt4T3FxMkxkdkd2eTgwZDNQbENLUGNnU3JJU0JnNW1odEF5bTgzemd3RGphTjg",
-    "badge": "breaking",
-    "at": 1792066373.711278,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "istanbul_heavy_rain_flood_2026",
     "topic": "튀르키예 이스탄불, 84년 만의 폭우로 인명 피해 발생",
     "slug": "2026-10-15-news-istanbul-heavy-rain-flood-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793790596.3616378,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "israel_election_results_certified_2026",
+    "topic": "이스라엘 총선 결과 공식 확정 네타냐후의 부정 선거 주장 일축",
+    "slug": "2026-11-04-news-israel-election-results-certified-2026",
+    "cluster": "CBMiugFBVV95cUxNV21MWjhQNFltc0NQaE1BNlhDenNma1JNU0xmNHBoRkZ2Z0l0YVlUZUgyeE0tVFd1QmhzX3Y0X1hzNWF1cV8wRjd6VDdEZzZWYkd0dEZBNTlUOWlqdWFlX1N4djBxTGlMRFU5YlI5R3JTN1JxdVozZkF6NUdmLXlPbmR4TFp1Q3FfVmNSdjZBandIS2dzelZmTE01MzhVWFo3ZFd0aXlXbWpHWmZxWWZ1WVFyV2VjWDhaR2c",
+    "badge": "breaking",
+    "at": 1793797796.581558,
+    "country": "이스라엘",
+    "category": "국제"
+  },
+  {
+    "event_key": "france_blood_bank_cyberattack_2026",
+    "topic": "프랑스 혈액 은행 사이버 공격 냉동고 온도 조작 시도",
+    "slug": "2026-11-04-news-france-blood-bank-cyberattack-2026",
+    "cluster": "CBMihwFBVV95cUxPODlielNtX0luay1MTkpUamljcGhXNGZiZjNOTzItSkl0dkNneE0zQUt3cXFGQ0hzbTE3aFRwYktUNURxbWNBZTVSNV9NeUdvR1dKbTFHNWVoV2p5SE5qeFNHNTNRT0ZsdnNzV3dnZWdvOVpuV05nVC1IbUwxRWk3dXFKQkVaR0U",
+    "badge": "breaking",
+    "at": 1793797928.6118398,
+    "country": "프랑스",
+    "category": "기타 사건"
   }
 ]

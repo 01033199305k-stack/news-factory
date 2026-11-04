@@ -32804,5 +32804,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793790841
+  },
+  {
+    "slug": "2026-11-04-news-us-senate-first-muslim-abdul-elsayed",
+    "event_ms": 1793789229000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 상원에서 첫 무슬림 의원이 탄생했습니다\n\n· 민주당 소속 압둘 엘사예드가 미시간주에서 승리했습니다 (로이터·BBC)\n\n출처: 로이터·BBC·더힌두 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18414995602089135",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfUUWeJIKzH",
+        "kind": "carousel",
+        "at": 1793790645
+      },
+      "youtube": {
+        "id": "Bd70_zSAeUw",
+        "permalink": "https://youtube.com/shorts/Bd70_zSAeUw",
+        "kind": "shorts",
+        "at": 1793794088
+      },
+      "tiktok": {
+        "id": "7704287017546419476",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704287017546419476",
+        "kind": "video",
+        "at": 1793794219
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793798213
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793798213
+  },
+  {
+    "slug": "2026-11-04-news-gwangju-high-school-science-lab-explosion",
+    "event_ms": 1793782258000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 고등학교 과학실에서 화학 실험 중 폭발 사고가 일어났습니다\n\n· 학생 2명이 화상을 입는 등 총 7명이 다쳐 병원으로 이송됐습니다 (KBS·뉴스1)\n· 고등학교 과학실에서 발생했습니다 (KBS·뉴스1)\n\n출처: KBS·뉴스1·경향신문 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18017164727974686",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfUUbA8oOMx",
+        "kind": "carousel",
+        "at": 1793790680
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1793794098
+      },
+      "tiktok": {
+        "id": "6aeb20b619ea7ee3e9340edb",
+        "permalink": "",
+        "kind": "video",
+        "at": 1793794431
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793798213
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793798213
   }
 ]

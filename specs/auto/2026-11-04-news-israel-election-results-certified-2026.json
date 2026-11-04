@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-04-news-israel-election-results-certified-2026",
+  "topic": "이스라엘 총선 결과 공식 확정 네타냐후의 부정 선거 주장 일축",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 21:39 KST",
+  "source": "Al Jazeera·Bloomberg.com·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiugFBVV95cUxNV21MWjhQNFltc0NQaE1BNlhDenNma1JNU0xmNHBoRkZ2Z0l0YVlUZUgyeE0tVFd1QmhzX3Y0X1hzNWF1cV8wRjd6VDdEZzZWYkd0dEZBNTlUOWlqdWFlX1N4djBxTGlMRFU5YlI5R3JTN1JxdVozZkF6NUdmLXlPbmR4TFp1Q3FfVmNSdjZBandIS2dzelZmTE01MzhVWFo3ZFd0aXlXbWpHWmZxWWZ1WVFyV2VjWDhaR2c",
+    "related": [
+      [
+        "Israel’s president accepts certified election results in a blow to Netanyahu’s claim of vote fraud",
+        "NBC News"
+      ],
+      [
+        "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
+        "The New York Times"
+      ],
+      [
+        "Israel vote results confirmed as election commission rejects fraud claims",
+        "Al Jazeera"
+      ],
+      [
+        "Israel Edges Toward Coalition Talks Even as Netanyahu Cries Foul",
+        "Bloomberg.com"
+      ],
+      [
+        "Elections chief presents results to president, says casting doubt on them poses ‘real danger’ to democracy",
+        "The Times of Israel"
+      ]
+    ],
+    "event_key": "israel_election_results_certified_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 총선 결과 [[공식 확정]]\n네타냐후의 부정 선거 주장 일축",
+      "sub": "헤르조그 대통령이 공식 결과를 수락하며 차기 정부 구성 논의에 착수했습니다.",
+      "chips": [
+        {
+          "k": "총선",
+          "v": "공식 확정"
+        }
+      ],
+      "alt": "이스라엘 총선 결과 공식 확정 네타냐후의 부정 선거 주장 일축",
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n예루살렘",
+      "video_only": true,
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "예루살렘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "부정 선거 논란",
+          "d": "선거관리위원회는 네타냐후 측의 부정 선거 주장을 기각했습니다 (알자지라)."
+        },
+        {
+          "t": "정부 구성 논의",
+          "d": "대통령은 아이젠코트와 네타냐후 중 누가 정부를 구성할 수 있는지 논의를 시작합니다 (뉴욕타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "선거 결과 공식 확정",
+        "부정 선거 주장 기각",
+        "정부 구성 논의 착수"
+      ],
+      "unconfirmed": [
+        "차기 총리 임명 대상"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "NBC News",
+        "The New York Times",
+        "The Times of Israel",
+        "2026.11.04 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 총선 결과가 공식 확정됐습니다. 네타냐후 측의 부정 선거 주장은 선관위에 의해 기각됐습니다.\n\n· 이스라엘 선거관리위원회는 선거 결과에 의문을 제기하는 것이 민주주의에 실질적인 위험을 초래한다고 밝혔습니다 (타임스오브이스라엘)\n· 헤르조그 대통령은 네타냐후와 아이젠코트 중 누가 정부를 구성할 수 있는지 논의를 시작합니다 (뉴욕타임스)\n\n차기 정부 구성권은 누구에게 돌아갈까요?\n\n출처: NBC·뉴욕타임스·알자지라·블룸버그·타임스오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘 총선 결과가 공식 확정됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "선거관리위원회는 네타냐후 측의 부정 선거 주장을 일축했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "헤르조그 대통령은 아이젠코트와 네타냐후 중 누가 정부를 구성할 수 있는지 논의를 시작합니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 총선 결과, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이스라엘 [[총선]] 결과\n최종 확정",
+  "broll": [
+    "israel flag",
+    "parliament building"
+  ],
+  "place_en": "Jerusalem"
+}
