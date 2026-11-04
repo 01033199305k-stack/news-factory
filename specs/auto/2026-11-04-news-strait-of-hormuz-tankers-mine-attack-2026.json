@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-04-news-strait-of-hormuz-tankers-mine-attack-2026",
+  "topic": "호르무즈해협서 유조선 피격 해군 기뢰 폭발로 유조선 4척 파괴",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 16:17 KST",
+  "source": "BBC·Reuters·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1TQUxQNVBvM2RuXzZnTWxjS1VPRHo5dHR3S25zZVFJeFhJYzVnSHJMcGMyb1JpODhEOG5ScDlHb3d3M3Jqbm1FRjR1OUlESElyUVFvLXJmbFFlWkU",
+    "related": [
+      [
+        "Four tankers destroyed by naval mines in Strait of Hormuz, Iran's IRGC says",
+        "BBC"
+      ],
+      [
+        "Iran's IRGC says four tankers ablaze after hitting mines near Strait of Hormuz",
+        "Reuters"
+      ],
+      [
+        "Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz",
+        "WSJ"
+      ],
+      [
+        "Two oil tankers explode after hitting mine in Hormuz Strait, IRGC spokesperson says",
+        "The Jerusalem Post"
+      ],
+      [
+        "11 Tankers Caught Fire in Hormuz in 9 Days: IRGC Navy",
+        "تسنیم"
+      ]
+    ],
+    "event_key": "strait_of_hormuz_tankers_mine_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈해협서 유조선 피격\n해군 기뢰 폭발로 [[유조선 4척]] 파괴",
+      "sub": "이란 혁명수비대 \"9일 동안 유조선 11척 화재 발생\"",
+      "chips": [
+        {
+          "k": "파괴 유조선",
+          "v": "4척"
+        },
+        {
+          "k": "화재 유조선",
+          "v": "11척"
+        },
+        {
+          "k": "기간",
+          "v": "9일간"
+        }
+      ],
+      "alt": "호르무즈해협서 유조선 피격 해군 기뢰 폭발로 유조선 4척 파괴",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해군 기뢰 폭발",
+          "d": "이란 혁명수비대는 호르무즈해협 인근에서 해군 기뢰 폭발로 유조선 4척이 파괴됐다고 밝혔습니다 (BBC·로이터)."
+        },
+        {
+          "t": "게릴라 전술 전환",
+          "d": "월스트리트저널은 이란이 호르무즈해협 통제권을 되찾기 위해 게릴라 전술로 선회했다고 보도했습니다 (WSJ)."
+        },
+        {
+          "t": "연쇄 화재 발생",
+          "d": "타스님 통신은 최근 9일 동안 호르무즈 해역에서 유조선 11척에 불이 났다고 전했습니다 (타스님)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "해군 기뢰 폭발로 유조선 4척 파괴",
+        "9일간 유조선 11척 화재 발생",
+        "이란 혁명수비대 발표"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "추가 공격 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "The Jerusalem Post",
+        "WSJ",
+        "تسنیم",
+        "2026.11.04 17:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈해협서 기뢰 폭발로 유조선 4척 파괴 (BBC·로이터)\n\n· 이란 혁명수비대는 최근 9일 동안 호르무즈 해역에서 유조선 11척에 불이 났다고 밝혔습니다 (타스님)\n· 월스트리트저널은 이란이 통제권을 되찾기 위해 게릴라 전술로 선회했다고 보도했습니다 (WSJ)\n\n출처: BBC·로이터·WSJ·The Jerusalem Post·타스님 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈해협에서 기뢰 폭발로 유조선 4척이 파괴됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란 혁명수비대는 최근 9일 동안 유조선 11척에 불이 났다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "외신은 이란이 통제권을 되찾기 위해 게릴라 전술로 선회했다고 보도했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "호르무즈해협에서\n[[유조선]] 4척 파괴",
+  "broll": [
+    "oil tanker sea",
+    "cargo ship ocean"
+  ],
+  "place_en": "Strait of Hormuz"
+}

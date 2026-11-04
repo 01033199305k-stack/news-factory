@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "romania-scrambles-f16-russian-drone",
-    "topic": "러 드론 영공 침범에 루마니아 F-16 출격",
-    "slug": "2026-10-15-news-romania-scrambles-f16-russian-drone",
-    "cluster": "CBMihgFBVV95cUxQTEZUOVFGUnByaHVwU3ExaTRqbTZFcUUxbV9WMzczckJWUTZNbFFvMFBTZVgwLVdNYTFqQXZDMXR6NjdlQV9Sbmc4WEZ0VDFhUDRyQWJkRnJFSWFnZndGUnI3VVFGSmk1TjEwSmZBNUxVd0lJWi1ISklqUllUQm9ES2JnbUYwQdIBiwFBVV95cUxQZEdRYnNreXNWajY3MWp0SmxjS29RMkhFM0JpaVlwWVRKM0N6c3dXUE9LdXROTGV3YXdQZU9teTVELW1LTksxRFhNeXM0eEhFREMyTkZrQmJzcnA0emZ2UWlia2xHakp3YVBmX18zeHhvcUhqNDRva1FpaGpEcHFEeVp5TC1CdUJlcnZN",
-    "badge": "breaking",
-    "at": 1792048101.2654223,
-    "country": "루마니아",
-    "category": "국제"
-  },
-  {
     "event_key": "pakistan_school_roof_collapse_2026",
     "topic": "파키스탄 페샤와르 학교 붕괴로 학생과 교사 등 다수 사망",
     "slug": "2026-10-15-news-pakistan-school-roof-collapse-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793761897.2845805,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "strait_of_hormuz_tankers_mine_attack_2026",
+    "topic": "호르무즈해협서 유조선 피격 해군 기뢰 폭발로 유조선 4척 파괴",
+    "slug": "2026-11-04-news-strait-of-hormuz-tankers-mine-attack-2026",
+    "cluster": "CBMiW0FVX3lxTE1TQUxQNVBvM2RuXzZnTWxjS1VPRHo5dHR3S25zZVFJeFhJYzVnSHJMcGMyb1JpODhEOG5ScDlHb3d3M3Jqbm1FRjR1OUlESElyUVFvLXJmbFFlWkU",
+    "badge": "breaking",
+    "at": 1793779907.44555,
+    "country": "이란",
+    "category": "사고"
   }
 ]
