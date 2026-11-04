@@ -33128,5 +33128,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793813456
+  },
+  {
+    "slug": "2026-11-05-news-us-house-speaker-johnson-resign-2026",
+    "event_ms": 1793806560000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 마이크 존슨 미 하원의장이 선거 패배로 사퇴를 선언했습니다.\n\n· 공화당의 선거 패배 여파로 하원 소수당 원내대표직에 도전하지 않기로 했습니다 (NBC 뉴스·워싱턴 포스트)\n· 선거 참패 이후 공화당 내 새로운 지도부 선출을 둘러싼 당내 경쟁이 벌어질 전망입니다 (MS 나우)\n\n여러분은 이번 미국의 정국 변화가 국제 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: NBC 뉴스·워싱턴 포스트·MS 나우 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18064042526797773",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfU-mujkWIL",
+        "kind": "carousel",
+        "at": 1793812799
+      },
+      "youtube": {
+        "id": "NUdhjMIFaN4",
+        "permalink": "https://youtube.com/shorts/NUdhjMIFaN4",
+        "kind": "shorts",
+        "at": 1793813123
+      },
+      "tiktok": {
+        "id": "7704369287112461586",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704369287112461586",
+        "kind": "video",
+        "at": 1793813379
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793816325
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793816325
   }
 ]

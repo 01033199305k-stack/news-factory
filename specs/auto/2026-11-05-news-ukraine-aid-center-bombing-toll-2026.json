@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-05-news-ukraine-aid-center-bombing-toll-2026",
+  "topic": "러시아의 우크라이나 구호센터 공습으로 40명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 02:15 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw",
+    "related": [
+      [
+        "Dozens dead and missing after Russian strike on Ukrainian aid centre, officials say",
+        "Reuters"
+      ],
+      [
+        "Russian bombing of Ukrainian aid center is one of the war’s ‘deadliest attacks,’ Zelensky says",
+        "CNN"
+      ],
+      [
+        "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+        "BBC"
+      ],
+      [
+        "Zelenskyy says 40 now confirmed dead after ‘insane’ Russian attack on school – Europe live",
+        "The Guardian"
+      ],
+      [
+        "Strike on Ukraine Humanitarian Hub Is Feared to Be Among War’s Deadliest",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "ukraine_aid_center_bombing_toll_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아의 우크라이나 구호센터 공습으로\n[[40명]] 사망",
+      "sub": "젤렌스키 대통령은 전쟁 중 가장 치명적인 공격 중 하나라고 규탄했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "40명"
+        }
+      ],
+      "alt": "러시아의 우크라이나 구호센터 공습으로 40명 사망",
+      "map": {
+        "lat": 49.4871968,
+        "lon": 31.2718321,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나",
+      "video_only": true,
+      "map": {
+        "lat": 49.4871968,
+        "lon": 31.2718321,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "우크라이나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이중 폭격 정황",
+          "d": "바디캠 영상에서 치명적인 러시아의 이중 폭격 정황이 확인됐다고 우크라이나는 밝혔습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 40명 (가디언)",
+        "우크라이나 구호센터 공습"
+      ],
+      "unconfirmed": [
+        "정확한 실종자 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.05 03:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아의 우크라이나 구호센터 공습으로 40명 사망\n\n· 우크라이나 구호센터 공격으로 수십 명이 숨지거나 실종됐다고 당국이 밝혔습니다 (로이터)\n· 젤렌스키 대통령은 이번 공격을 전쟁 중 가장 치명적인 공격 중 하나라고 규탄했습니다 (CNN)\n· 바디캠 영상에서 치명적인 러시아의 이중 폭격 정황이 확인됐다고 우크라이나는 밝혔습니다 (BBC)\n\n출처: 로이터·CNN·BBC·가디언·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아의 우크라이나 구호센터 공습으로 40명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN 등 외신은 이번 공격이 전쟁 중 가장 치명적인 타격 중 하나라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나 당국은 바디캠 영상에 치명적인 이중 폭격 정황이 담겼다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사상자 규모와 피해 상세 경위는 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "우크라이나 [[구호센터]]에서\n무슨 일이?",
+  "broll": [
+    "ambulance night",
+    "ruined building rubble"
+  ],
+  "place_en": "Ukraine"
+}

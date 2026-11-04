@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "yemen-houthi-missile-attack-2026",
-    "topic": "예멘 대통령궁 미사일 공격 2명 사망 보도",
-    "slug": "2026-10-16-news-yemen-houthi-missile-attack-2026",
-    "cluster": "CBMiW0FVX3lxTE9fNUFycEtoM2tnclA4RkVaZHh0bkZJanktTm9YdmdEYkI2WFJMQTBaOS1BS19uZ3c2a18tMS1BSFpqcGlfUkRuaVlOWkNNZlBvcTNNWWxJbjFqblU",
-    "badge": "breaking",
-    "at": 1792085240.4116137,
-    "country": "예멘",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "channel-tunnel-bus-train-crash-2026",
     "topic": "해저터널 입구서 버스·열차 충돌",
     "slug": "2026-10-16-news-channel-tunnel-bus-train-crash-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793812745.8319275,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "ukraine_aid_center_bombing_toll_2026",
+    "topic": "러시아의 우크라이나 구호센터 공습으로 40명 사망",
+    "slug": "2026-11-05-news-ukraine-aid-center-bombing-toll-2026",
+    "cluster": "CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw",
+    "badge": "breaking",
+    "at": 1793815658.3049254,
+    "country": "우크라이나",
+    "category": "총격·테러"
   }
 ]
