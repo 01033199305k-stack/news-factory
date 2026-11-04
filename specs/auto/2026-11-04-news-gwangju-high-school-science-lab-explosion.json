@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-04-news-gwangju-high-school-science-lab-explosion",
+  "topic": "고등학교 과학실서 화학 실험 중 폭발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 17:50 KST",
+  "source": "KBC광주방송·KBS 뉴스·SBS 뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiYkFVX3lxTFBjMjloRkNTVjhqLVpvbGZhVkw4MU9peHl4MXpabnI3M25nbXR5aXAwcE8tRnBEazFFenI0X0F2RmVYRkRZNlBJR0NGeHZ3QnZCMktacEVQN0RrMXhOc2M0RER3",
+    "related": [
+      [
+        "고등학교 과학실서 폭발 사고...학생 7명 얼굴 등 부상",
+        "KBC광주방송"
+      ],
+      [
+        "전남광주 고교 화학실험 중 폭발···학생 7명 병원 이송",
+        "경향신문"
+      ],
+      [
+        "광주 고교서 화학수업 중 폭발 사고…학생 2명 화상",
+        "SBS 뉴스"
+      ],
+      [
+        "광주 고교 과학실서 실험물 폭발…학생 2명 화상·5명 경상",
+        "뉴스1"
+      ],
+      [
+        "전남광주 고교 과학실험 중 폭발…학생 7명 다쳐",
+        "KBS 뉴스"
+      ]
+    ],
+    "event_key": "gwangju_high_school_science_lab_explosion"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "고등학교 과학실서 [[화학 실험]] 중 폭발",
+      "sub": "학생 7명 부상…병원 이송",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "7명"
+        }
+      ],
+      "alt": "고등학교 과학실서 화학 실험 중 폭발",
+      "map": {
+        "lat": 35.1558147,
+        "lon": 126.8306362,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n광주",
+      "video_only": true,
+      "map": {
+        "lat": 35.1558147,
+        "lon": 126.8306362,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "광주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "장소",
+          "d": "고등학교 과학실에서 사고가 발생했습니다 (KBS·뉴스1)."
+        },
+        {
+          "t": "피해",
+          "d": "학생 2명이 화상을 입는 등 총 7명이 다쳐 병원으로 옮겨졌습니다 (KBS·경향신문)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "고등학교 과학실 폭발 사고",
+        "학생 7명 부상 (KBS·뉴스1)"
+      ],
+      "unconfirmed": [
+        "정확한 폭발 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBC광주방송",
+        "KBS 뉴스",
+        "SBS 뉴스",
+        "경향신문",
+        "뉴스1",
+        "2026.11.04 20:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 고등학교 과학실에서 [[화학 실험]] 중 폭발 사고가 일어났습니다\n\n· 학생 2명이 화상을 입는 등 총 7명이 다쳐 병원으로 이송됐습니다 (KBS·뉴스1)\n· 고등학교 과학실에서 발생했습니다 (KBS·뉴스1)\n\n출처: KBS·뉴스1·경향신문 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "고등학교 과학실에서 화학 실험 중 폭발 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "KBS 등은 학생 2명이 화상을 입는 등 총 7명이 다쳐 병원으로 이송됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "고등학교 과학실서\n일어난 [[폭발 사고]]",
+  "broll": [
+    "science laboratory classroom",
+    "ambulance emergency lights"
+  ],
+  "place_en": "Gwangju, South Korea"
+}

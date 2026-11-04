@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "pakistan_school_roof_collapse_2026",
-    "topic": "파키스탄 페샤와르 학교 붕괴로 학생과 교사 등 다수 사망",
-    "slug": "2026-10-15-news-pakistan-school-roof-collapse-2026",
-    "cluster": "CBMiWEFVX3lxTE51aUI0LXBZdEFtMndFVlloNlhUdVoxbDlhc3ZnQ19CT3NsNEdyR0lpaFVKNzBRaURFRm5LcTctSFMySl9OUHRGSkgwUUpzSGZKR1ptc2NPM1k",
-    "badge": "breaking",
-    "at": 1792050059.7533774,
-    "country": "파키스탄",
-    "category": "사고"
-  },
-  {
-    "event_key": "us-doj-charges-north-korean-it-worker-fraud-2026",
-    "topic": "미 법무부, 북한 IT 취업 연루 혐의자 14명 기소",
-    "slug": "2026-10-15-news-us-doj-charges-north-korean-it-worker-fraud-2026",
-    "cluster": "CBMivgJBVV95cUxQRU5LWTNFQTRvS1cyQnV0TVVSTTdnMm1sb0lRaWdxM2U5YUF3c3JaWWNjVzYwUXVWR0t5R18yU3BpYUVtcjJvYldaUGRYLU1NOEN1anJjcUF3WnA5TlY0QkFzeWVYZ0FmdUJPUFJ3SXB0OW44N1NsX0cxeHh0OTJkY3MzUEhJYVloY3g3TldsYThzVUsxUGM2dUIweVNNR0xYUEI0d19HMWxqcGlxUUdIVzBEd1hBbGRfOVBpSGJ0bHVES3pydEdrQmFuRThhSHRVWXlDX1NtWnJNSVFuMms4RUtjUDNQLXdPQ3RUVTMwdFFzQTl1NW1XdUpqbVBaUkt1NzFwMnhYMVlfYmJnTlRxaUtOY25jSmRsdGFMY2xjeEo4VWZmaTY2WXVIcmlJRF9qSHh1X1VzdlJmSER1X3fSAcMCQVVfeXFMTVBPS2QtS3Q3S3hKQXlLWFBJemliQjU0VDloWDFDTklmblZnTG5fVDdnTjJzWkhHTXRBb1k3bC1sNXJEeE1hMkd6U1VTbkVFcnlLbTgxcE43Qk5rT0J4RnhoU2dad2cxYS03eUxUS05nRmpzb3RMcnBjQzlRVGhRMEFxUm9xcUZfZjlmUWxmVVJYX2s5eUxXX2Q3Z3ZRNXRGNnZ1WjN4UG0xc25jc2d2ZGh3dHo1RzNXR2JfdW16ek9kbm1SclVxUFljcUhHQlVJU0tRZC1qaFZ0MTJGVXFsdzRIYmh3cHpOUElUSHRkTHFnQjl2VG84R3NpTjE1LXNobFh3ZXRxeUYtNEdsaWFEbWZ1VGliMm9lUHRaUDlBaWNxdFpnbkluOXV4VWhOTUJaOVFlM1F0MnU2NTZRZWhjaDVURU0",
-    "badge": "breaking",
-    "at": 1792058925.7757227,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "ukraine-resumes-strikes-russian-refineries-2026",
     "topic": "우크라, 러시아 정유소 공격 재개 선언",
     "slug": "2026-10-15-news-ukraine-resumes-strikes-russian-refineries-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793779907.44555,
     "country": "이란",
     "category": "사고"
+  },
+  {
+    "event_key": "us_senate_first_muslim_abdul_elsayed",
+    "topic": "미국 상원에 첫 무슬림 의원 탄생",
+    "slug": "2026-11-04-news-us-senate-first-muslim-abdul-elsayed",
+    "cluster": "CBMi0wFBVV95cUxPYXNLTnQ0TERBQzFabloyZFBDTUtKUVJHOWZlRURxZ2NGLU8waTNMWXExanpHeHVHU3B5RWZ2ekpuRjllWlZKcTFWVW13V2xEak9qRkp3ZkNEUjdoSVNoR0tnbjRnMjBETGZ6QVBsYTlwcnJuMm1xQjZGS0xHWGRnNmFFQlo2eUpkdFpoLW1zcnRZWWdKM0FqS2gxUmNZMGkycFpyODFuWHB5emRDaUlrOWt3OE9xaTBUUHlNeEZZaV9Pc3ZwMmpjZ29DalR0d0ZyOUJz",
+    "badge": "breaking",
+    "at": 1793790558.3766851,
+    "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "gwangju_high_school_science_lab_explosion",
+    "topic": "고등학교 과학실서 화학 실험 중 폭발",
+    "slug": "2026-11-04-news-gwangju-high-school-science-lab-explosion",
+    "cluster": "CBMiYkFVX3lxTFBjMjloRkNTVjhqLVpvbGZhVkw4MU9peHl4MXpabnI3M25nbXR5aXAwcE8tRnBEazFFenI0X0F2RmVYRkRZNlBJR0NGeHZ3QnZCMktacEVQN0RrMXhOc2M0RER3",
+    "badge": "breaking",
+    "at": 1793790596.3616378,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]

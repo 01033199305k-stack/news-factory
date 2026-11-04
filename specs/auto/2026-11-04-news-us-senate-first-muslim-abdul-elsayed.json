@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-04-news-us-senate-first-muslim-abdul-elsayed",
+  "topic": "미국 상원에 첫 무슬림 의원 탄생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 19:47 KST",
+  "source": "BBC·NDTV·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0wFBVV95cUxPYXNLTnQ0TERBQzFabloyZFBDTUtKUVJHOWZlRURxZ2NGLU8waTNMWXExanpHeHVHU3B5RWZ2ekpuRjllWlZKcTFWVW13V2xEak9qRkp3ZkNEUjdoSVNoR0tnbjRnMjBETGZ6QVBsYTlwcnJuMm1xQjZGS0xHWGRnNmFFQlo2eUpkdFpoLW1zcnRZWWdKM0FqS2gxUmNZMGkycFpyODFuWHB5emRDaUlrOWt3OE9xaTBUUHlNeEZZaV9Pc3ZwMmpjZ29DalR0d0ZyOUJz",
+    "related": [
+      [
+        "US Gets 1st Muslim Senator As Abdul El-Sayed Wins Michigan Senate Race",
+        "NDTV"
+      ],
+      [
+        "Progressive Democrat Abdul El-Sayed wins Michigan Senate race",
+        "BBC"
+      ],
+      [
+        "Who is Abdul El-Sayed, first Muslim U.S. Senator-elect?",
+        "The Hindu"
+      ],
+      [
+        "US midterm election results 2026: Abdul El-Sayed, first Muslim set to enter Senate has a Karnataka connection",
+        "Deccan Herald"
+      ],
+      [
+        "Abdul El-Sayed becomes first Muslim elected to US Senate",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us_senate_first_muslim_abdul_elsayed"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 상원에 [[첫 무슬림]]\n의원 탄생",
+      "sub": "민주당 압둘 엘사예드 미시간주 승리",
+      "chips": [
+        {
+          "k": "당선",
+          "v": "첫 무슬림 상원의원"
+        }
+      ],
+      "alt": "미국 상원에 첫 무슬림 의원 탄생",
+      "map": {
+        "lat": 43.6211955,
+        "lon": -84.6824346,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n미시간",
+      "video_only": true,
+      "map": {
+        "lat": 43.6211955,
+        "lon": -84.6824346,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미시간"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "당선자",
+          "d": "민주당 소속 압둘 엘사예드가 미시간주 상원의원 선거에서 승리했습니다 (로이터·BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 상원 첫 무슬림 의원",
+        "민주당 압둘 엘사예드 승리"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Deccan Herald",
+        "NDTV",
+        "Reuters",
+        "The Hindu",
+        "2026.11.04 20:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 상원에서 [[첫 무슬림]] 의원이 탄생했습니다\n\n· 민주당 소속 압둘 엘사예드가 미시간주에서 승리했습니다 (로이터·BBC)\n\n출처: 로이터·BBC·더힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 상원에서 처음으로 무슬림 의원이 탄생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 민주당 압둘 엘사예드가 미시간주 상원의원 선거에서 승리했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 득표율은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 선거 결과에 대해 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 상원에 탄생한\n[[첫 무슬림]] 의원",
+  "broll": [
+    "us capitol building Washington",
+    "election results screen"
+  ],
+  "place_en": "Michigan, USA"
+}
