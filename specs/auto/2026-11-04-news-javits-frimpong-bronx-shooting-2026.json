@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-04-news-javits-frimpong-bronx-shooting-2026",
+  "topic": "뉴욕 브롱크스 등교 길에 15세 소년 총에 맞아 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 23:01 KST",
+  "source": "BBC·CNN·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1RWDlTM0dEY2x5dlFSMGFlbl9mNDhyT0lHNDBIUXB2WjlNTTBZZGxhamt5SW81WEM2bDNabldROGRQY1BKbWFod29PSjBVV1J4Z3R4Y19qdG42cHM5WlE",
+    "related": [
+      [
+        "Javits Frimpong: Mother flies from Ghana to the US to seek justice",
+        "BBC"
+      ],
+      [
+        "Teen boy from Ghana chased and fatally shot on way to school in New York City",
+        "The Guardian"
+      ],
+      [
+        "Mamdani says Trump agrees to grant visa to mother of teen from Ghana killed in Bronx shooting",
+        "CNN"
+      ],
+      [
+        "Bronx students stage walkout after shooting murder of 15-year-old Javits Frimpong",
+        "ABC7 New York"
+      ],
+      [
+        "Why must Black parents have to prove their sons’ innocence, even in death?",
+        "The Voice Online"
+      ]
+    ],
+    "event_key": "javits_frimpong_bronx_shooting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "뉴욕 브롱크스 등교 길에\n15세 소년 총에 맞아 [[사망]]",
+      "sub": "가나에서 온 어머니가 미국을 찾아 진상 규명을 요구했습니다",
+      "chips": [
+        {
+          "k": "나이",
+          "v": "15세"
+        }
+      ],
+      "alt": "뉴욕 브롱크스 등교 길에 15세 소년 총에 맞아 사망",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "총격 사망 사건",
+          "d": "가나 출신의 15세 소년 자비츠 프림퐁이 뉴욕에서 등교하던 중 쫓기다 총에 맞아 숨졌습니다 (가디언·BBC)."
+        },
+        {
+          "t": "학생들 동맹 휴업",
+          "d": "사건 이후 브롱크스 지역 학생들이 항의하며 동맹 휴업에 나섰습니다 (ABC7 뉴욕)."
+        },
+        {
+          "t": "어머니의 방미",
+          "d": "가나에 있던 어머니가 아들의 죽음에 대한 진실을 밝히기 위해 미국으로 입국했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "15세 소년 자비츠 프림퐁 총격 사망",
+        "가나 출신 어머니의 미국 입국 및 진상 규명 요구"
+      ],
+      "unconfirmed": [
+        "정확한 범행 동기와 용의자 검거 상황",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 New York",
+        "BBC",
+        "CNN",
+        "The Guardian",
+        "The Voice Online",
+        "2026.11.05 01:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 뉴욕 브롱크스 등교 길에 15세 소년 총에 맞아 사망\n\n· 가나 출신의 15세 소년 자비츠 프림퐁이 등교 길에 총격을 받아 숨졌습니다 (가디언·BBC)\n· 아들의 죽음에 진실을 밝히기 위해 가나에 있던 어머니가 미국을 찾았습니다 (BBC)\n· 사건 이후 브롱크스 지역 학생들이 항의 동맹 휴업에 돌입했습니다 (ABC7 뉴욕)\n\n출처: BBC·가디언·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 뉴욕 브롱크스에서 등교하던 15세 소년이 총에 맞아 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언은 가나 출신의 자비츠 프림퐁이 쫓기다 총격을 받아 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "가나에 있던 어머니가 진실을 밝히기 위해 직접 미국으로 입국했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 동기와 용의자 추적 상황은 아직 완전히 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "뉴욕 [[등교길]]에서\n일어난 총격 사건",
+  "broll": [
+    "police tape street",
+    "school building exterior"
+  ],
+  "place_en": "New York, USA"
+}

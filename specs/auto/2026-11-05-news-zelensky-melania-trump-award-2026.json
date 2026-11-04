@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-05-news-zelensky-melania-trump-award-2026",
+  "topic": "우크라이나 젤렌스키 대통령 멜라니아 트럼프에 최고훈장 수여",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 00:01 KST",
+  "source": "BBC·Reuters·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE52Zk5KbmktYXNrNnVQell0YzlwM0lJRkxUV21mZEUwaG1oa3RDZ0JvS3hpYWIwMERCOUhZenhCOHBEQzd0dUc3OFpuaHU0aENJbmItU2JaWU1meWU3amc",
+    "related": [
+      [
+        "Zelensky awards Melania Trump Ukraine's highest award after Oleshky ceasefire",
+        "BBC"
+      ],
+      [
+        "Ukraine's Zelenskiy awards Melania Trump state honour",
+        "Reuters"
+      ],
+      [
+        "Zelensky has awarded Melania Trump one of Ukraine's highest honours. Here's why",
+        "The Independent"
+      ],
+      [
+        "Zelensky awards Melania Trump Ukraine's Order of Princess Olga for humanitarian work",
+        "The Kyiv Independent"
+      ],
+      [
+        "Zelenskyy presented the First Lady of the United States' advisor with the \"Golden Heart\" award",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "zelensky_melania_trump_award_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 젤렌스키 대통령\n[[멜라니아 트럼프]]에 최고훈장 수여",
+      "sub": "오레시우 휴전 이후 수여가 이루어졌습니다",
+      "chips": [
+        {
+          "k": "수훈자",
+          "v": "멜라니아 트럼프"
+        }
+      ],
+      "alt": "우크라이나 젤렌스키 대통령 멜라니아 트럼프에 최고훈장 수여",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "최고훈장 수여",
+          "d": "우크라이나 젤렌스키 대통령이 멜라니아 트럼프에게 최고훈장을 수여했습니다 (BBC·로이터·키이우 인디펜던트)."
+        },
+        {
+          "t": "수여 배경",
+          "d": "인도주의적 활동 등을 이유로 수여가 이루어졌습니다 (키이우 인디펜던트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 젤렌스키 대통령의 멜라니아 트럼프 훈장 수여"
+      ],
+      "unconfirmed": [
+        "훈장 수여의 상세한 배경과 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "The Independent",
+        "The Kyiv Independent",
+        "UA.NEWS",
+        "2026.11.05 01:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 젤렌스키 대통령, 멜라니아 트럼프에 최고훈장 수여\n\n· 우크라이나 젤렌스키 대통령이 멜라니아 트럼프에게 최고훈장을 수여했습니다 (BBC·로이터·키이우 인디펜던트)\n· 인도주의적 활동 등을 이유로 수여가 이루어졌습니다 (키이우 인디펜던트)\n\n이번 훈장 수여, 여러분은 어떻게 보십니까?\n\n출처: BBC·로이터·키이우 인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 젤렌스키 대통령이 멜라니아 트럼프에게 최고훈장을 수여했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인도주의적 활동 등에 대한 기여로 훈장이 수여됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 배경은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "우크라이나의 이번 결정, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "젤렌스키가 [[멜라니아]]에게\n훈장을 준 이유는?",
+  "broll": [
+    "ukraine presidential palace",
+    "medal award ceremony"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}

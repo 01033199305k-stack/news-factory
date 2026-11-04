@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "istanbul_heavy_rain_flood_2026",
-    "topic": "튀르키예 이스탄불, 84년 만의 폭우로 인명 피해 발생",
-    "slug": "2026-10-15-news-istanbul-heavy-rain-flood-2026",
-    "cluster": "CBMiXkFVX3lxTE9tUzgtRlNNRW9Fdy1aZjRza1ZEUUUxUnU5S0J5d1o0ZjhycVl3ODQ3QkJZUVp4VzNGdldJNmlBRzRQWmNQRS1lTzlkZGhFZzB0VEE1aGZrTDYzTUxENHc",
-    "badge": "breaking",
-    "at": 1792066497.1577628,
-    "country": "튀르키예",
-    "category": "재난"
-  },
-  {
-    "event_key": "fort-hood-shooter-execution-livestream-cancelled",
-    "topic": "미국, 총기 난동범 사형 생중계 계획 철회",
-    "slug": "2026-10-15-news-fort-hood-shooter-execution-livestream-cancelled",
-    "cluster": "CBMihAFBVV95cUxPY1NSSklpdXpTUm80bEo1T3pibHNjTzF1Z2pBaHNpeWstOXIydW1ILUN4WlVWNUtCaDdJcWNjbEJGSjFKWUxPT2xRaHFHNlQtdlNHSEVvOGFLU0E2NDVjU08tUnVXdkZTY3Z3Vmk1VERPR0lLUEhrSW1ELWxYS0NIX3NwZFE",
-    "badge": "breaking",
-    "at": 1792077713.021961,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "black-sea-drone-attack-ship-sinking-2026",
     "topic": "흑해서 드론 공격으로 선박 침몰 · 실종 11명",
     "slug": "2026-10-15-news-black-sea-drone-attack-ship-sinking-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793797928.6118398,
     "country": "프랑스",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "zelensky_melania_trump_award_2026",
+    "topic": "우크라이나 젤렌스키 대통령 멜라니아 트럼프에 최고훈장 수여",
+    "slug": "2026-11-05-news-zelensky-melania-trump-award-2026",
+    "cluster": "CBMiXkFVX3lxTE52Zk5KbmktYXNrNnVQell0YzlwM0lJRkxUV21mZEUwaG1oa3RDZ0JvS3hpYWIwMERCOUhZenhCOHBEQzd0dUc3OFpuaHU0aENJbmItU2JaWU1meWU3amc",
+    "badge": "breaking",
+    "at": 1793808559.4086802,
+    "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "javits_frimpong_bronx_shooting_2026",
+    "topic": "뉴욕 브롱크스 등교 길에 15세 소년 총에 맞아 사망",
+    "slug": "2026-11-04-news-javits-frimpong-bronx-shooting-2026",
+    "cluster": "CBMiXkFVX3lxTE1RWDlTM0dEY2x5dlFSMGFlbl9mNDhyT0lHNDBIUXB2WjlNTTBZZGxhamt5SW81WEM2bDNabldROGRQY1BKbWFod29PSjBVV1J4Z3R4Y19qdG42cHM5WlE",
+    "badge": "breaking",
+    "at": 1793808585.5721326,
+    "country": "미국",
+    "category": "총격·테러"
   }
 ]
