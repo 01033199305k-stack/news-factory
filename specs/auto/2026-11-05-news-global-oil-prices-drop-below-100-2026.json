@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-05-news-global-oil-prices-drop-below-100-2026",
+  "topic": "국제 유가 배럴당 100달러 아래 하락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 04:56 KST",
+  "source": "Bloomberg·NBC News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxPSGJKNnFMbzBpa0NfandzTGhDY0N4ZHZZMjBRbkRkbGJiUWZyeUR6aXo1b3FRSVhCVDZjdzY3N1BLQkw1VGtHZVBBYjJ6NEVHS1A4cUluRkt3eFJuNkxoeDVvY2s1R3NvY2FlNXRkZTdfblhMM09FaGNpOVh1cnljczg3bnhvZw",
+    "related": [
+      [
+        "Oil prices drop below $100 as midterms fuel hope for an end to the Iran war",
+        "NBC News"
+      ],
+      [
+        "Oil Prices Sink as U.S. Midterms Raise Market Hopes for Middle East Solution",
+        "WSJ"
+      ],
+      [
+        "Oil falls on Iran war uncertainty, US Democrats' midterm sweep",
+        "CNBC"
+      ],
+      [
+        "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit",
+        "Reuters"
+      ],
+      [
+        "Oil Falls as Traders Parse Iran War Outlook After Midterms",
+        "Bloomberg"
+      ]
+    ],
+    "event_key": "global_oil_prices_drop_below_100_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "국제 유가 배럴당\n[[100달러]] 아래 하락",
+      "sub": "미국 중간선거 결과 발표 후 중동 정세 안정 기대감 반영",
+      "chips": [
+        {
+          "k": "유가",
+          "v": "100달러 미만"
+        }
+      ],
+      "alt": "국제 유가 배럴당 100달러 아래 하락",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "선거 결과 여파",
+          "d": "미국 중간선거 결과가 나오면서 이란 전쟁 종전에 대한 시장의 기대감이 높아졌습니다 (NBC·WSJ)."
+        },
+        {
+          "t": "시장 거래 동향",
+          "d": "트레이더들이 선거 이후 이란 전쟁 전망을 주시하면서 유가가 내림세를 보였습니다 (블룸버그·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "국제 유가 배럴당 100달러 미만 하락 (NBC)",
+        "미국 중간선거 후 시장 기대감 형성에 따른 유가 급락 (WSJ·CNBC)"
+      ],
+      "unconfirmed": [
+        "향후 중동 정세 변화 및 유가 하락세 지속 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg",
+        "CNBC",
+        "NBC News",
+        "Reuters",
+        "WSJ",
+        "2026.11.05 07:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 국제 유가가 배럴당 100달러 아래로 떨어졌습니다.\n\n· 미국 중간선거 결과 발표 이후 이란 전쟁 종전에 대한 시장 기대감이 높아졌습니다 (NBC·WSJ).\n· 트레이더들이 선거 이후 중동 정세 변화를 주시하면서 유가 급락세가 이어졌습니다 (블룸버그·로이터).\n\n이번 유가 하락세가 계속될 것으로 보십니까?\n출처: NBC·WSJ·CNBC·로이터·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "국제 유가가 배럴당 100달러 아래로 떨어졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC 통신 등은 미국 중간선거 발표 뒤 이란 전쟁 종전 기대가 반영됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 중동 정세 변화와 유가 추이는 더 두고봐야 합니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 유가 하락세, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "국제 [[유가]]가\n갑자기 떨어진 이유",
+  "broll": [
+    "oil barrel refinery",
+    "stock exchange screen"
+  ],
+  "place_en": "New York, United States"
+}

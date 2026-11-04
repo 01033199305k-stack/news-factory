@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-considers-moab-strike-iran-2026",
-    "topic": "미국, 이란에 ‘모든 폭탄의 어머니’ 검토",
-    "slug": "2026-10-16-news-us-considers-moab-strike-iran-2026",
-    "cluster": "CBMivgFBVV95cUxQQWliX25LbmxpYjhLUDE1MVE5ZnNZUmFpZXYwbUdIQWdETW82SVlZaURveWJoVnRlRWJ6ZE5sNGhmdFJNeWhlQ0NtVmJWZlFhMzl0S044UXkxWWg5ZDdCR3h5NlVZTUhfQ3ZtZllSNlBUeXhaSkptcnRUWkNIaFRWQ2JNOF8yVDNJdU1vQ1FCeHUyX1pFWXZGYkJfTEQyR1FmR3JsOUxHRGZVM1BHcjFjOGRnWGpvVDVtVDhtc0Rn0gHEAUFVX3lxTE1pblp3WnJBclN6VTZrcUhoOWpxaTBibFk3WHJmSlJEd2xDNmVjLXU0M0h3ZnhMWmtYUl9scmVOb0JHS2hUUnlGelY3T294VG94c21MNFBzQ19SanlhM3lpMGpiQ2lsU2IxbmFxOVdtWmU4SnZJdmNfRWQxVWJyYVh3aUh6cERrY05MajV0bW1jMGhwektVSlZ2VzFmTzV0SHZ3dmhPdGVKUHZMb3pJUHZZLWVXR2RERUZhNTdMcVFNeFAwbUk",
-    "badge": "brief",
-    "at": 1792114110.4216194,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "bucheon-factory-fire-2026",
     "topic": "부천 공장서 대형 화재 소방대원 심정지 발생",
     "slug": "2026-10-16-news-bucheon-factory-fire-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793826635.624506,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "global_oil_prices_drop_below_100_2026",
+    "topic": "국제 유가 배럴당 100달러 아래 하락",
+    "slug": "2026-11-05-news-global-oil-prices-drop-below-100-2026",
+    "cluster": "CBMihgFBVV95cUxPSGJKNnFMbzBpa0NfandzTGhDY0N4ZHZZMjBRbkRkbGJiUWZyeUR6aXo1b3FRSVhCVDZjdzY3N1BLQkw1VGtHZVBBYjJ6NEVHS1A4cUluRkt3eFJuNkxoeDVvY2s1R3NvY2FlNXRkZTdfblhMM09FaGNpOVh1cnljczg3bnhvZw",
+    "badge": "breaking",
+    "at": 1793830204.193252,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
