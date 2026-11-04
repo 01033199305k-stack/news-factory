@@ -32912,5 +32912,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793798213
+  },
+  {
+    "slug": "2026-11-04-news-israel-election-results-certified-2026",
+    "event_ms": 1793795975000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘 총선 결과가 공식 확정됐습니다. 네타냐후 측의 부정 선거 주장은 선관위에 의해 기각됐습니다.\n\n· 이스라엘 선거관리위원회는 선거 결과에 의문을 제기하는 것이 민주주의에 실질적인 위험을 초래한다고 밝혔습니다 (타임스오브이스라엘)\n· 헤르조그 대통령은 네타냐후와 아이젠코트 중 누가 정부를 구성할 수 있는지 논의를 시작합니다 (뉴욕타임스)\n\n차기 정부 구성권은 누구에게 돌아갈까요?\n\n출처: NBC·뉴욕타임스·알자지라·블룸버그·타임스오브이스라엘 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이스라엘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18418510792087957",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfUiV8nkd3u",
+        "kind": "carousel",
+        "at": 1793797979
+      },
+      "youtube": {
+        "id": "lLnXyCw6rmc",
+        "permalink": "https://youtube.com/shorts/lLnXyCw6rmc",
+        "kind": "shorts",
+        "at": 1793801376
+      },
+      "tiktok": {
+        "id": "7704318319809154311",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704318319809154311",
+        "kind": "video",
+        "at": 1793801507
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793805083
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793805083
+  },
+  {
+    "slug": "2026-11-04-news-france-blood-bank-cyberattack-2026",
+    "event_ms": 1793791260000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 프랑스의 한 혈액 은행이 사이버 공격을 받았습니다. 해커들은 혈액 보관용 냉동고의 온도를 조작하려 했습니다.\n\n· 해커들은 냉동고 온도를 영하 30도에서 110도까지 올리려 했습니다 (사이버시큐리티뉴스)\n· 관계 당국은 이번 공격으로 인해 실제 혈액 제품이 손상되지는 않았다고 밝혔습니다 (AP)\n\n출처: 텔레그래프·스카이뉴스·사이버시큐리티뉴스·AP 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "프랑스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18643223773005595",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfUiak-EQOp",
+        "kind": "carousel",
+        "at": 1793798020
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1793801386
+      },
+      "tiktok": {
+        "id": "7704318833334455553",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704318833334455553",
+        "kind": "video",
+        "at": 1793801639
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793805083
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793805083
   }
 ]
