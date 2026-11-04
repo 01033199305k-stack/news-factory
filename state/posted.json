@@ -33239,5 +33239,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793819447
+  },
+  {
+    "slug": "2026-11-05-news-ukraine-aid-center-bombing-toll-2026",
+    "event_ms": 1793812545000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아의 우크라이나 구호센터 공습으로 40명 사망\n\n· 우크라이나 구호센터 공격으로 수십 명이 숨지거나 실종됐다고 당국이 밝혔습니다 (로이터)\n· 젤렌스키 대통령은 이번 공격을 전쟁 중 가장 치명적인 공격 중 하나라고 규탄했습니다 (CNN)\n· 바디캠 영상에서 치명적인 러시아의 이중 폭격 정황이 확인됐다고 우크라이나는 밝혔습니다 (BBC)\n\n출처: 로이터·CNN·BBC·가디언·뉴욕타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18146252161589845",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfVEN3nGK0w",
+        "kind": "carousel",
+        "at": 1793815746
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1793819314
+      },
+      "tiktok": {
+        "id": "7704395632856894726",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704395632856894726",
+        "kind": "video",
+        "at": 1793819569
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793822976
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793822976
   }
 ]
