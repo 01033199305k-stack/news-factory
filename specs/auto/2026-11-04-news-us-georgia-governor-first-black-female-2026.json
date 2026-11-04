@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-04-news-us-georgia-governor-first-black-female-2026",
+  "topic": "조지아 주지사에 바텀스 첫 흑인 여성 주지사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.04 11:04 KST",
+  "source": "ABC News·NBC News·NPR 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivwFBVV95cUxNQ2NWd1NDclRwUHdBVF9Xd2F0WGpQRGw0NC1PYXdXa2VtX3pScEFTRXBOdWl6VUNnTHdiREZZZDBJQ0ctcUVjbzRaWkNYMDVqYldDdmdWY3FmekVpYWY1bE5NMmtEN01EVkVMV0V2OXBzX25SaVo4eXFBM1U4VlpyZklvTldoMWNrcm9Yb0NMel9zaUg5aC1Ea3Z2YzVBMVpsZkRRWHNQdjNBUHg3SDRNQm04OHdwVjVMeTkxdzM2UQ",
+    "related": [
+      [
+        "Keisha Lance Bottoms wins the Georgia governor’s race, flipping the office for Democrats",
+        "NBC News"
+      ],
+      [
+        "Georgia elects the nation’s first Black female governor",
+        "NPR"
+      ],
+      [
+        "Georgia 2026: Live Midterm Election Results",
+        "The New York Times"
+      ],
+      [
+        "Keisha Lance Bottoms elected Georgia governor, a first for a Black woman in US",
+        "The Atlanta Journal-Constitution"
+      ],
+      [
+        "Election 2026 live results: Democrat Keisha Lance Bottoms projected to be 1st Black woman governor",
+        "ABC News - Breaking News, Latest News and Videos"
+      ]
+    ],
+    "event_key": "us_georgia_governor_first_black_female_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "조지아 주지사에 [[바텀스]]\n첫 흑인 여성 주지사",
+      "sub": "민주당 키샤 랜스 바텀스 당선 확정",
+      "chips": [
+        {
+          "k": "선거",
+          "v": "당선 확정"
+        }
+      ],
+      "alt": "조지아 주지사에 바텀스 첫 흑인 여성 주지사",
+      "map": {
+        "lat": 32.3293809,
+        "lon": -83.1137366,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n조지아주",
+      "video_only": true,
+      "map": {
+        "lat": 32.3293809,
+        "lon": -83.1137366,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "조지아주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역사적 최초 기록",
+          "d": "미국 역사상 처음으로 흑인 여성 주지사가 배출됐습니다 (NPR·AJC·ABC)."
+        },
+        {
+          "t": "민주당 승리",
+          "d": "민주당이 조지아주 주지사 자리를 가져왔습니다 (NBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "키샤 랜스 바텀스 당선",
+        "미국 최초 흑인 여성 주지사"
+      ],
+      "unconfirmed": [
+        "최종 득표율 격차"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "NBC News",
+        "NPR",
+        "The Atlanta Journal-Constitution",
+        "The New York Times",
+        "2026.11.04 12:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국에서 역사상 첫 흑인 여성 주지사가 탄생했습니다.\n\n· 민주당 키샤 랜스 바텀스 후보 당선 (NPR·AJC·ABC)\n· 민주당이 조지아 주지사직을 가져옴 (NBC)\n\n이번 선거 결과에 대해 어떻게 생각하십니까?\n\n출처: NBC·NPR·NYT·AJC·ABC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국에서 역사상 첫 흑인 여성 주지사가 탄생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 조지아주 선거에서 민주당 키샤 랜스 바텀스 후보의 당선이 확정됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "NBC 방송 등은 민주당이 주지사직을 가져왔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 최종 득표율은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "미국 정치의 새 역사를 쓴 이번 결과, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 역사상 [[첫]]\n흑인 여성 주지사",
+  "broll": [
+    "voting booth election",
+    "georgia capitol building"
+  ],
+  "place_en": "Georgia, USA"
+}
