@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia_detains_japanese_journalist",
-    "topic": "러시아 정부가 일본 기자를 간첩 혐의로 체포했습니다",
-    "slug": "2026-10-15-news-russia-detains-japanese-journalist",
-    "cluster": "CBMipAFBVV95cUxNYjRfd1dVd1puM3BORXMtdXFfQ3dmWURILUJnZ2RXZDU3UTlBZThreFA5aE9sMUtlMTVablNHNVNFalBXYUlSb1dRTktUWkhLQkNtQVUzRUtoZHVrenBnOE9LZjcybkljcVJueW9sa3MtVERBVUN5VzFQaF9kSjUxbzR1ODBPY2VTNHFRMVJvdVVsdVVtU0YwRjdzQkNSenIxSVlWNg",
-    "badge": "brief",
-    "at": 1792037357.6313884,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "asian-stock-market-chip-selloff-cpi",
     "topic": "미국 물가 상승에 아시아 증시 폭락 한국 코스피 7% 이상 급락",
     "slug": "2026-10-15-news-asian-stock-market-chip-selloff-cpi",
@@ -2998,5 +2988,15 @@
     "at": 1793743755.3822906,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "spain_football_player_collision_death_2026",
+    "topic": "스페인 프로축구 선수 골키퍼와 충돌해 숨져",
+    "slug": "2026-11-04-news-spain-football-player-collision-death-2026",
+    "cluster": "CBMiZ0FVX3lxTFA2SHhuTTZrUGhadHU5N3ZndWtLQW9ZdF9kMVlhSXFzRjFWZTg2cWdJLWZfQ0VrSjRvWHI0cHpnVkowX1F3Z2pXS0MzSEloSEVVQjdpeGRIQkY0cjk3cXc2djMtSnFYd28",
+    "badge": "breaking",
+    "at": 1793754519.5829823,
+    "country": "스페인",
+    "category": "사고"
   }
 ]
