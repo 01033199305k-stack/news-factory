@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-05-news-canada-grizzly-bear-attack-2026",
+  "topic": "캐나다서 회색곰 습격으로 엄마와 딸 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 04:43 KST",
+  "source": "CBS News·The Guardian·CBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxOTXJVb3lFbG9abXNsM2xJVnRjM1N2MlZObHpwU0x3SjhIaWpsMlFiVXdIRjN1enRLd25QdUE4R1Zjd2szRXpTR2RfSUdJTjdlSlhRaFlZYkNsWTZUQk5HQk5sUzlLa3RvdG9STHYzRHdVc19WZmlSTGFmZ1g4WEVEZEJlTzdCUGRXOEZKWnFrWTQ",
+    "related": [
+      [
+        "Mother and daughter both killed in grizzly bear attack, Canadian authorities confirm",
+        "The Guardian"
+      ],
+      [
+        "Mother, daughter dead in suspected grizzly bear attack in Canada",
+        "CBS News"
+      ],
+      [
+        "Mom and daughter killed in suspected bear attack on ‘casual walk’ minutes from home",
+        "New York Post"
+      ],
+      [
+        "Mother and daughter dead after suspected grizzly attack in Bella Coola",
+        "Vancouver Sun"
+      ],
+      [
+        "Mother and daughter killed in suspected grizzly attack were 'two peas in a pod,' family says",
+        "CBC"
+      ]
+    ],
+    "event_key": "canada_grizzly_bear_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "캐나다서 회색곰 습격으로\n엄마와 딸 [[사망]]",
+      "sub": "집 근처 산책 중 사망",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        }
+      ],
+      "alt": "캐나다서 회색곰 습격으로 엄마와 딸 사망",
+      "map": {
+        "lat": 52.3723035,
+        "lon": -126.7556778,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "캐나다"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "캐나다\n벨라쿨라",
+      "video_only": true,
+      "map": {
+        "lat": 52.3723035,
+        "lon": -126.7556778,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "벨라쿨라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 장소",
+          "d": "캐나다 벨라쿨라 지역의 집 근처에서 발생했다고 전했습니다."
+        },
+        {
+          "t": "피해자 관계",
+          "d": "유족들은 숨진 모녀가 매우 다정한 사이였다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "회색곰 습격 발생",
+        "어머니와 딸 사망",
+        "캐나다 당국 확인"
+      ],
+      "unconfirmed": [
+        "정확한 습격 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBC",
+        "CBS News",
+        "New York Post",
+        "The Guardian",
+        "Vancouver Sun",
+        "2026.11.05 06:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 캐나다서 회색곰 습격으로 엄마와 딸 사망 (가디언·CBS)\n\n· 캐나다 벨라쿨라 지역의 집 근처에서 변고를 당했습니다\n· 당국과 유족들이 모녀의 사망을 공식 확인했습니다\n\n출처: The Guardian·CBS News·New York Post·Vancouver Sun·CBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "캐나다에서 회색곰의 습격으로 어머니와 딸이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 벨라쿨라 지역의 집 근처에서 변고를 당했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "캐나다 당국과 유족들은 모녀의 사망을 공식 확인했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 습격 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "캐나다 집 근처서\n[[회색곰]]의 습격?",
+  "broll": [
+    "grizzly bear nature",
+    "forest trail trees"
+  ],
+  "place_en": "Bella Coola, Canada"
+}

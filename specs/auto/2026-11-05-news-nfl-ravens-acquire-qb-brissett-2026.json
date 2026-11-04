@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-05-news-nfl-ravens-acquire-qb-brissett-2026",
+  "topic": "볼티모어 레이븐스, 쿼터백 제이코비 브리셋 영입",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 05:00 KST",
+  "source": "Baltimore Ravens·CBS Sports·ESPN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikgFBVV95cUxPLUk4el9DRjZnYTFIWnozdXY3YkpFZWhacFM2ZWJQRXRBUkxpb2JLUjRBLVFvOWJiTTlKMmI0SUJBQ2lrOTdEaFJhRWdpYzU4cTFQRWJiazF2OGduV0M5NjhlLVdnVmhjaTl2eWVGMklOQ3BwVG5odkt3ODFNZUxCeDJLMjMyRG8wYTB5MElHWjBYQQ",
+    "related": [
+      [
+        "Jacoby Brissett trade: Ravens strike deal for Cardinals QB amid injury crisis",
+        "CBS Sports"
+      ],
+      [
+        "Sources - Ravens finalizing trade with Cardinals for QB Brissett",
+        "ESPN"
+      ],
+      [
+        "NFL Network: Cardinals to trade QB Jacoby Brissett to Ravens",
+        "NFL.com"
+      ],
+      [
+        "Ravens Reportedly Trading for Quarterback Jacoby Brissett",
+        "Baltimore Ravens"
+      ],
+      [
+        "Ravens reportedly acquire QB Jacoby Brissett from Cardinals to make up for Lamar Jackson, Tyler Huntley injuries",
+        "Yahoo Sports"
+      ]
+    ],
+    "event_key": "nfl_ravens_acquire_qb_brissett_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "볼티모어 레이븐스,\n쿼터백 [[제이코비 브리셋]] 영입",
+      "sub": "주전 선수 부상 공백 메우기 위한 트레이드",
+      "chips": [
+        {
+          "k": "영입",
+          "v": "쿼터백"
+        }
+      ],
+      "alt": "볼티모어 레이븐스, 쿼터백 제이코비 브리셋 영입",
+      "map": {
+        "lat": 39.2908816,
+        "lon": -76.610759,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n볼티모어",
+      "video_only": true,
+      "map": {
+        "lat": 39.2908816,
+        "lon": -76.610759,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "볼티모어"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "구단 조치",
+          "d": "CBS 스포츠 등은 레이븐스가 애리조나 카디널스와 트레이드 계약을 마쳤다고 보도했습니다."
+        },
+        {
+          "t": "배경",
+          "d": "주전 쿼터백 등의 부상 위기를 극복하기 위한 조치라고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "볼티모어 레이븐스 쿼터백 영입",
+        "애리조나 카디널스와의 트레이드",
+        "부상 공백 대응"
+      ],
+      "unconfirmed": [
+        "구체적인 계약 조건",
+        "출전 경기 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Baltimore Ravens",
+        "CBS Sports",
+        "ESPN",
+        "NFL.com",
+        "Yahoo Sports",
+        "2026.11.05 06:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 볼티모어 레이븐스, 쿼터백 제이코비 브리셋 영입 (CBS 스포츠·ESPN)\n\n· 레이븐스가 카디널스와 선수 트레이드 합의를 마쳤습니다 (ESPN)\n· 주전 선수들의 부상 위기를 대응하기 위한 조치입니다 (CBS 스포츠)\n\n출처: CBS Sports·ESPN·NFL.com·Baltimore Ravens·Yahoo Sports 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 프로풋볼 구단 볼티모어 레이븐스가 쿼터백 제이코비 브리셋을 영입했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "ESPN 등 외신은 레이븐스가 애리조나 카디널스와 트레이드 계약을 마무리했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "주전 선수들의 부상 위기를 극복하기 위한 조치라고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 계약 세부 조건은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 프로풋볼 구단이\n[[쿼터백]]을 급히 산 이유",
+  "broll": [
+    "american football stadium",
+    "football field lights"
+  ],
+  "place_en": "Baltimore, USA"
+}
