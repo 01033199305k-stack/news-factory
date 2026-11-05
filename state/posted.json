@@ -33398,5 +33398,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793833708
+  },
+  {
+    "slug": "2026-11-05-news-global-oil-prices-drop-below-100-2026",
+    "event_ms": 1793822207000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 국제 유가가 배럴당 100달러 아래로 떨어졌습니다.\n\n· 미국 중간선거 결과 발표 이후 이란 전쟁 종전에 대한 시장 기대감이 높아졌습니다 (NBC·WSJ).\n· 트레이더들이 선거 이후 중동 정세 변화를 주시하면서 유가 급락세가 이어졌습니다 (블룸버그·로이터).\n\n이번 유가 하락세가 계속될 것으로 보십니까?\n출처: NBC·WSJ·CNBC·로이터·블룸버그 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18094414394687319",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfVf56xgaRT",
+        "kind": "carousel",
+        "at": 1793830257
+      },
+      "youtube": {
+        "id": "BhDnRQEH89Q",
+        "permalink": "https://youtube.com/shorts/BhDnRQEH89Q",
+        "kind": "shorts",
+        "at": 1793837389
+      },
+      "tiktok": {
+        "id": "7704472920675994898",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704472920675994898",
+        "kind": "video",
+        "at": 1793837521
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793840766
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793840766
   }
 ]
