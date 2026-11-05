@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "pope-leo-calls-putin-ukraine-truce",
-    "topic": "교황, 병상서 푸틴에 전화 우크라이나 휴전 촉구",
-    "slug": "2026-10-17-news-pope-leo-calls-putin-ukraine-truce",
-    "cluster": "CBMivAFBVV95cUxPYllmQno5OHdDZjBvZklLVUlMUUhGLVphOWtsSnRLUTctdGZhQkFHTVZWVW9iNWJBVDExNmowVXN1X3FwOF9VVTIycmFZODlkYWJSWjZYc1o2bUR2TFZJSS1RSXVkcldfZ2JKODBFYXVGM1hkc2ljV0tFdVdubERndlYwSHZGeV9fS0lWRWVjeU05TndSWXlBSzZOTnF0bmhjbkMzMXYybk9hM2k2MTFOSXluenktbWNEa0stQw",
-    "badge": "brief",
-    "at": 1792184837.824664,
-    "country": "바티칸",
-    "category": "국제"
-  },
-  {
     "event_key": "oil-prices-surge-110-dollars-2026",
     "topic": "국제 유가 급등 배럴당 110달러 돌파",
     "slug": "2026-10-17-news-oil-prices-surge-110-dollars-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793909291.7809677,
     "country": "튀르키예",
+    "category": "총격·테러"
+  },
+  {
+    "event_key": "europe_flight_hoax_bomb_threats_2026",
+    "topic": "유럽 항공기 25편 이상 폭탄 위협에 회항",
+    "slug": "2026-11-06-news-europe-flight-hoax-bomb-threats-2026",
+    "cluster": "CBMiXkFVX3lxTE1vSzJhcEUwc0IxejBWV3kzYkRTNXlfN0tOM0NaLW82YmhGazB6YVhOZnZhRmZiRXhOb1RGSGFJbEVISUlYY0dpNUJrZkRNMEh4QXhzaU02TWVCcmVDU1E",
+    "badge": "breaking",
+    "at": 1793916605.0844936,
+    "country": "유럽",
     "category": "총격·테러"
   }
 ]

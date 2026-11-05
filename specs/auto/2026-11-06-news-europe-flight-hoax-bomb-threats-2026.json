@@ -1,0 +1,138 @@
+{
+  "slug": "2026-11-06-news-europe-flight-hoax-bomb-threats-2026",
+  "topic": "유럽 항공기 25편 이상 폭탄 위협에 회항",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 04:58 KST",
+  "source": "BBC·Reuters·The Guardian 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1vSzJhcEUwc0IxejBWV3kzYkRTNXlfN0tOM0NaLW82YmhGazB6YVhOZnZhRmZiRXhOb1RGSGFJbEVISUlYY0dpNUJrZkRNMEh4QXhzaU02TWVCcmVDU1E",
+    "related": [
+      [
+        "Who could be behind hoax bomb threats to European air travel?",
+        "BBC"
+      ],
+      [
+        "Hoax bomb threats target European airlines and airports for second time in a week",
+        "BBC"
+      ],
+      [
+        "Bomb threats disrupt at least 25 flights across Europe, raising hybrid war fears",
+        "The Guardian"
+      ],
+      [
+        "New wave of bomb hoaxes hits at least 27 passenger flights across Europe",
+        "Reuters"
+      ],
+      [
+        "Twelve flights diverted across Europe after bomb threats",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "europe_flight_hoax_bomb_threats_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "유럽 항공기 [[25편]] 이상\n폭탄 위협에 회항",
+      "sub": "허위 폭탄 위협으로 항공 운항 차질이 잇따랐습니다",
+      "chips": [
+        {
+          "k": "피해 항공편",
+          "v": "25편 이상"
+        }
+      ],
+      "alt": "유럽 항공기 25편 이상 폭탄 위협에 회항",
+      "map": {
+        "lat": 51.0,
+        "lon": 10.0,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "유럽"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "유럽\n유럽 전역",
+      "video_only": true,
+      "map": {
+        "lat": 51.0,
+        "lon": 10.0,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "유럽 전역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "폭탄 위협 접수",
+          "d": "유럽 전역에서 최소 25개 넘는 여객기에 폭탄 위협이 전달됐습니다 (가디언·로이터)."
+        },
+        {
+          "t": "비상 회항 잇따라",
+          "d": "최소 12개 항공편이 비상 회항하거나 경로를 변경했습니다 (텔레그래프)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유럽 여객기 25편 이상 폭탄 위협 받음"
+      ],
+      "unconfirmed": [
+        "위협 발신자 신원",
+        "한국인 탑승객 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "The Telegraph",
+        "2026.11.06 07:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 유럽 전역에서 여객기 25편 이상을 노린 허위 폭탄 위협이 발생해 항공 운항이 차질을 빚었습니다.\n\n· 최소 25개 이상의 여객기가 폭탄 위협을 받았습니다 (가디언·로이터)\n· 최소 12개 항공편이 비상 회항하거나 경로를 변경했습니다 (텔레그래프)\n\n출처: BBC·가디언·로이터·텔레그래프 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유럽 전역에서 여객기 25편 이상이 폭탄 위협을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유럽 각국 공항과 하늘길에서 항공기 회항이 잇따랐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 최소 27개 항공편이 허위 폭파 위협으로 비상 상황을 맞았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "위협을 가한 발신자 신원과 한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "유럽 하늘길\n[[폭탄 위협]] 비상",
+  "broll": [
+    "passenger airplane sky",
+    "airport terminal screen"
+  ],
+  "place_en": "Europe"
+}
