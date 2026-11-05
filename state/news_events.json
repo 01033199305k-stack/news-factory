@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia-seizes-five-european-firms-assets-2026",
-    "topic": "푸틴, 타르켓 등 유럽 기업 5곳 압류",
-    "slug": "2026-10-16-news-russia-seizes-five-european-firms-assets-2026",
-    "cluster": "CBMitwFBVV95cUxNWW56anU3c2VHOTBPUTNxdkdXS2MtS1d1bEVNYVRCUUdCWG90X0pUSnNFdUl6R1BkeElQYXZLUkFlOEJpRHZMTlh1cEpsY0kteTFEZ21yaTVENEFtSDJlRklSNXh0V0kyMnY2TVM0NXVMd09wdm1TdmM4Rnl5bXpFLUhoQTBfTzNJSENUQ25LTExFaUV1VTdTZWU2MTRyV2VfRWdORS1jcFdHX0k2WjhjaExDNTdqVWM",
-    "badge": "brief",
-    "at": 1792152542.025618,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "gwangju_knife_threat_2026",
     "topic": "광주 도심서 흉기 난동 50대 여성 현행범 체포",
     "slug": "2026-10-16-news-gwangju-knife-threat-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793862405.3944206,
     "country": "대한민국",
+    "category": "기타 사건"
+  },
+  {
+    "event_key": "germany_bavaria_deputy_premier_found_dead_2026",
+    "topic": "독일 바이에른 부총리 호텔서 숨진 채 발견",
+    "slug": "2026-11-05-news-germany-bavaria-deputy-premier-found-dead-2026",
+    "cluster": "CBMimwFBVV95cUxOLXFlX2RWNDhlTkxZYUgzcklaYU5Ccl9ZdDYzeWZTZXV4czBnZ2lWUE01dHBRdkowa1NNR1o3RFZrRElXUE9iOGZvT2JPdEp3UGNTRDNWUkZSSTAtejN0a3BFd0xwa2x5YXVrOHB5TkxIb3h0RzhBaWZFLXUySGhRVjhfdGlfMVJLWlNJODRKZ0o5OGlBbFpnSlZMSdIBmwFBVV95cUxNeHA2RGZ2U1dfTjBOU01zUzY0bWtpdXFyMGR1Y0FsbjZRLWpUTnIzLWVaMjhnMzdZV0FOdWVUT3JlMnE4WVAxZW9iWkhydXRJamdQd3o1Z2lpZVZ6WmlWVGRsTGlNNklHd3l5aHlMUC0zN2U4VWZvMnZFVzZyNXdwQ2k1UmpoOFFmWEwxcUI0eXoyb2dteEJwTHhNNA",
+    "badge": "brief",
+    "at": 1793873494.494153,
+    "country": "독일",
     "category": "기타 사건"
   }
 ]

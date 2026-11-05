@@ -1,0 +1,131 @@
+{
+  "slug": "2026-11-05-news-germany-bavaria-deputy-premier-found-dead-2026",
+  "topic": "독일 바이에른 부총리 호텔서 숨진 채 발견",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 15:34 KST",
+  "source": "ABC News·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimwFBVV95cUxOLXFlX2RWNDhlTkxZYUgzcklaYU5Ccl9ZdDYzeWZTZXV4czBnZ2lWUE01dHBRdkowa1NNR1o3RFZrRElXUE9iOGZvT2JPdEp3UGNTRDNWUkZSSTAtejN0a3BFd0xwa2x5YXVrOHB5TkxIb3h0RzhBaWZFLXUySGhRVjhfdGlfMVJLWlNJODRKZ0o5OGlBbFpnSlZMSdIBmwFBVV95cUxNeHA2RGZ2U1dfTjBOU01zUzY0bWtpdXFyMGR1Y0FsbjZRLWpUTnIzLWVaMjhnMzdZV0FOdWVUT3JlMnE4WVAxZW9iWkhydXRJamdQd3o1Z2lpZVZ6WmlWVGRsTGlNNklHd3l5aHlMUC0zN2U4VWZvMnZFVzZyNXdwQ2k1UmpoOFFmWEwxcUI0eXoyb2dteEJwTHhNNA",
+    "related": [
+      [
+        "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
+        "DW.com"
+      ],
+      [
+        "Hubert Aiwanger, prominent German politician, found dead in Berlin hotel",
+        "The Guardian"
+      ],
+      [
+        "The leader of a German conservative party is found dead at a Berlin hotel",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "German police investigate death of Bavaria deputy premier, found in hotel room",
+        "Reuters"
+      ],
+      [
+        "Bavaria's Deputy Premier Hubert Aiwanger found dead in Berlin hotel",
+        "Le Monde.fr"
+      ]
+    ],
+    "event_key": "germany_bavaria_deputy_premier_found_dead_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "독일 [[바이에른]] 부총리\n호텔서 숨진 채 발견",
+      "sub": "베를린 한 호텔서 발견… 현지 경찰 조사 착수",
+      "chips": [],
+      "alt": "독일 바이에른 부총리 호텔서 숨진 채 발견",
+      "map": {
+        "lat": 52.5173885,
+        "lon": 13.3951309,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n베를린",
+      "video_only": true,
+      "map": {
+        "lat": 52.5173885,
+        "lon": 13.3951309,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베를린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "베를린 호텔서 사망",
+          "d": "독일 바이에른주 부총리 후베르트 아이방거가 베를린의 한 호텔 방에서 숨진 채 발견됐습니다."
+        },
+        {
+          "t": "경찰 원인 조사",
+          "d": "독일 경찰은 사망 원인과 정확한 경위를 조사 중이라고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "바이에른주 부총리 사망",
+        "베를린 호텔 방서 시신 발견"
+      ],
+      "unconfirmed": [
+        "정확한 사망 원인 및 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "DW.com",
+        "Le Monde.fr",
+        "Reuters",
+        "The Guardian",
+        "2026.11.05 19:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 독일 바이에른주 부총리가 베를린의 한 호텔에서 숨진 채 발견됐습니다.\n\n· 후베르트 아이방거 부총리가 베를린 호텔 방에서 사망한 상태로 발견됐습니다 (DW·로이터)\n· 현지 경찰은 사망 원인과 정확한 경위를 조사하고 있다고 밝혔습니다 (로이터)\n\n출처: DW·가디언·ABC뉴스·로이터·르몽드 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일 바이에른주의 부총리가 베를린의 한 호텔에서 숨진 채 발견됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 경찰은 정확한 사망 원인과 경위를 조사하고 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[바이에른 부총리가]]\n호텔서 숨진 이유",
+  "broll": [
+    "berlin police car",
+    "hotel exterior night"
+  ],
+  "place_en": "Berlin, Germany"
+}
