@@ -33883,5 +33883,56 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793905888
+  },
+  {
+    "slug": "2026-11-06-news-indonesia-president-wiretap-scandal-2026",
+    "event_ms": 1793895360000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 인도네시아에서 대통령 도청 파문으로 참모장이 해임되고 군 병력이 동원됐습니다.\n\n· 프라보워 대통령 도청 혐의로 참모장이 해임됐습니다 (닛케이·블룸버그)\n· 정국 긴장이 고조되자 군 병력이 동원됐습니다 (AP·파이낸셜 타임스)\n\n이번 사태가 인도네시아 정국에 어떤 파장을 불러올 것으로 보십니까?\n\n출처: AP·블룸버그·파이낸셜 타임스·닛케이 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "인도네시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18099612110418628",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfXiZh7lDEU",
+        "kind": "carousel",
+        "at": 1793898671
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1793899096
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793902235
+      },
+      "tiktok": {
+        "failed": "createPost: Invalid post: Video could not be read from its URL.",
+        "at": 1793913181
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793913181
   }
 ]
