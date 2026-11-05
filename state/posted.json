@@ -33507,5 +33507,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793847137
+  },
+  {
+    "slug": "2026-11-05-news-china-canada-tariff-relief-extension-2026",
+    "event_ms": 1793838840000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 중국이 캐나다산 농수산물 관세 감면 조치를 2년 연장했습니다.\n\n· 카놀라, 랍스터, 게 등의 관세 유예 조치가 연장됐습니다 (CBC·글로브앤메일)\n· 양국은 무역 증진을 위해 고위급 논의를 이어가고 있습니다 (블룸버그·캐나다통신)\n\n중국의 이번 관세 연장 결정에 대해 어떻게 보십니까?\n\n출처: 블룸버그·CBC·글로브앤메일 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119142452517428",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfV7U_RkYfH",
+        "kind": "carousel",
+        "at": 1793844636
+      },
+      "youtube": {
+        "id": "Bvz73KHnyNA",
+        "permalink": "https://youtube.com/shorts/Bvz73KHnyNA",
+        "kind": "shorts",
+        "at": 1793846995
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793848282
+      },
+      "tiktok": {
+        "failed": "createPost: Invalid post: Video could not be read from its URL.",
+        "at": 1793855507
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793855507
   }
 ]
