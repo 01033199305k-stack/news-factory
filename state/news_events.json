@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "west_bank_settler_attack_journalist_2026",
-    "topic": "요르단강 서안 지구서 정착촌 주민 폭력 공격",
-    "slug": "2026-10-16-news-west-bank-settler-attack-journalist-2026",
-    "cluster": "CBMirwFBVV95cUxQVEc2RFdEdThxcUZmbVZGR2ZXUkRfUlU2Q2VLNHM3c3Z0Ry1hNmJKYTdsN1BqUVhxNkNWNHpKbzVmbVZYNXE1NTBEb2pLUnY5enhGTXlXcGNOd0tuWmpfU21lLVpqRFQ4UW1HYkV0V0lzUV85dFpNbnNEOGdjb2c0Q1Myek5va2xBSXhTNHIyemR2cmYyUVBMZzFGMF8wMmw3UHFlSTQtZDNoQ0lRTjZ30gG0AUFVX3lxTE1sRE5ZUTdiSXhsRVM5MDluRVVKVnRFZWVxUmduYnJJc2tCS3I1dl9fM2FwRWRhVXZlelE2OFJiVzhicVVXOU1hdVgta3llR2hjUE9tVDEzTXBzVlR4OGZPVXdoRDh0WGdqVllWS25pRnlhTEEtMHpiaUFpYU13ekczQ1Zza09NOUtwcHk5alNuSWlsOEttWEZ2OEF5bzRSU1pidzNwajQwdjFfR3RFUnVoa2V3Rg",
-    "badge": "breaking",
-    "at": 1792166927.332279,
-    "country": "팔레스타인",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "ukraine-territory-gains-donetsk-2026",
     "topic": "우크라이나군, 도네츠크 지역서 반격 통해 영토 탈환",
     "slug": "2026-10-17-news-ukraine-territory-gains-donetsk-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793895033.8859348,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "indonesia_president_wiretap_scandal_2026",
+    "topic": "인도네시아 도청 파문 대통령 도청 혐의 참모장 해임",
+    "slug": "2026-11-06-news-indonesia-president-wiretap-scandal-2026",
+    "cluster": "CBMirAFBVV95cUxOX2Z6S2RHWk5UUnUwWXQtV0VPZ2RpTm9hNjR3d2RKM0ZtdzMwdGNOcEhsSk1sUEI3TGlTdkJMcEJFQ0FkZ0pDYnVjLXdhd0dweWVUcDdxVkV4cUNsUE9nTGk4QUZtZ2l2WXktZmZPemFKU0J1WHJYTGoyRDlKRnQyc2hNaEoyWTFMeTBUTUlpcnRCWW9VTnA2MllDdjZ3QUVBRGxRVlRUYmpRWFFh",
+    "badge": "breaking",
+    "at": 1793898624.4156034,
+    "country": "인도네시아",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-06-news-indonesia-president-wiretap-scandal-2026",
+  "topic": "인도네시아 도청 파문 대통령 도청 혐의 참모장 해임",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 01:16 KST",
+  "source": "AP News·Bloomberg.com·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxOX2Z6S2RHWk5UUnUwWXQtV0VPZ2RpTm9hNjR3d2RKM0ZtdzMwdGNOcEhsSk1sUEI3TGlTdkJMcEJFQ0FkZ0pDYnVjLXdhd0dweWVUcDdxVkV4cUNsUE9nTGk4QUZtZ2l2WXktZmZPemFKU0J1WHJYTGoyRDlKRnQyc2hNaEoyWTFMeTBUTUlpcnRCWW9VTnA2MllDdjZ3QUVBRGxRVlRUYmpRWFFh",
+    "related": [
+      [
+        "Thousands of troops secure Indonesia trial as tensions run high over wiretap scandal",
+        "AP News"
+      ],
+      [
+        "Indonesian police say wiretapping probe a matter for law enforcement, as parliament considers inquiry into VP",
+        "Reuters"
+      ],
+      [
+        "Prabowo Wiretap Arrest Spills Top Indonesia Rivalry Into Public",
+        "Bloomberg.com"
+      ],
+      [
+        "Indonesia deploys 20,000 soldiers as wiretapping scandal erupts",
+        "Financial Times"
+      ],
+      [
+        "Indonesia chief of staff sacked for allegedly wiretapping President Prabowo",
+        "Nikkei Asia"
+      ]
+    ],
+    "event_key": "indonesia_president_wiretap_scandal_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인도네시아 [[도청 파문]]\n대통령 도청 혐의 참모장 해임",
+      "sub": "정국 긴장이 고조되며 군 병력이 배치됐습니다",
+      "chips": [],
+      "alt": "인도네시아 도청 파문 대통령 도청 혐의 참모장 해임",
+      "map": {
+        "lat": -6.1754049,
+        "lon": 106.827168,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "인도네시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "인도네시아\n자카르타",
+      "video_only": true,
+      "map": {
+        "lat": -6.1754049,
+        "lon": 106.827168,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "자카르타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대통령 도청 파문",
+          "d": "프라보워 대통령을 도청한 혐의로 참모장이 해임됐습니다 (닛케이·블룸버그)."
+        },
+        {
+          "t": "군 병력 동원",
+          "d": "정국 긴장 속에 군 병력이 배치됐습니다 (AP·파이낸셜 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "프라보워 대통령 도청 파문",
+        "참모장 해임",
+        "군 병력 배치"
+      ],
+      "unconfirmed": [
+        "도청 범행의 구체적 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Bloomberg.com",
+        "Financial Times",
+        "Nikkei Asia",
+        "Reuters",
+        "2026.11.06 02:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도네시아에서 대통령 도청 파문으로 참모장이 해임되고 군 병력이 동원됐습니다.\n\n· 프라보워 대통령 도청 혐의로 참모장이 해임됐습니다 (닛케이·블룸버그)\n· 정국 긴장이 고조되자 군 병력이 동원됐습니다 (AP·파이낸셜 타임스)\n\n이번 사태가 인도네시아 정국에 어떤 파장을 불러올 것으로 보십니까?\n\n출처: AP·블룸버그·파이낸셜 타임스·닛케이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도네시아에서 대통령 도청 파문으로 참모장이 해임되고 군 병력이 동원됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "닛케이는 프라보워 대통령을 도청한 혐의로 참모장이 해임됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "AP 통신과 파이낸셜 타임스는 정국 긴장이 고조되며 군 병력이 동원됐다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "도청 사건의 구체적인 경위와 배후는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 사태가 인도네시아 정국에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[대통령]] 도청 파문에\n군대까지 동원된 이유",
+  "broll": [
+    "soldier march",
+    "government building"
+  ],
+  "place_en": "Jakarta, Indonesia"
+}
