@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia-g20-return-us-invitation-bangkok-2026",
-    "topic": "미국 초청으로 러시아 G20 복귀",
-    "slug": "2026-10-16-news-russia-g20-return-us-invitation-bangkok-2026",
-    "cluster": "CBMiggFBVV95cUxNSy1tVnlnWUN4eVRxV0lJNkZ0eldaWU9WbmhuS2o0YmZaVk1adGljWFlDb0JSMjM4WE9SMGdBRjJFbmFQZ1hlcGNWWC1BWnlzY3BlQXE3SmF4Y0MwQlg4dmZLMUZtZ2V0NTB4UW1sUnI4R0R6TDNqTVdZd29HcjVsdmNn0gGHAUFVX3lxTFBXYW01S2RqV0VOazhVQ3Q5WHFvNHdGVVRtbjNreEpCWnFtNm5BWlJMUVctUHVXOExiQ1dsQUZIdzBka3Bja2EwNkZXZk5PTXh5UTh4TTVwdEZIX3ZvWFVrdDM1MThyOVVIUGN2OXJNSUFyLXdHNXlla2Y2c3BDN1ctd0ZVVEFfVQ",
-    "badge": "brief",
-    "at": 1792138186.8586862,
-    "country": "태국",
-    "category": "국제"
-  },
-  {
     "event_key": "china-north-korea-bridge-opens-2026",
     "topic": "북한·중국 새 국경 다리 12년 만에 개통",
     "slug": "2026-10-16-news-china-north-korea-bridge-opens-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793837233.6599607,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "china_canada_tariff_relief_extension_2026",
+    "topic": "중국, 캐나다산 품목 관세 감면 2년 연장",
+    "slug": "2026-11-05-news-china-canada-tariff-relief-extension-2026",
+    "cluster": "CBMisgFBVV95cUxNVW9jSTEyNEUzdGFzNXppcElseDVIRE5hN0t5c0NhMVRjZEVjT0YxWXBXamFiWlFXRHliYmVYRE9Hb3ZrWUhHODU2U3VwSnE1YWJnSWFialRWa3NvLXlaYnhYVTJ6S0V2dERBOGY2NF80Tml2MlRNZkRGQWY5eEdMcExvU29Ea2ItcktDU1lUby1uV0c3c1dBQTZGeEthRW9nM1RSNDk0YmxVbjhSU29XUDRn",
+    "badge": "breaking",
+    "at": 1793844586.7798777,
+    "country": "중국",
+    "category": "경제·과학"
   }
 ]

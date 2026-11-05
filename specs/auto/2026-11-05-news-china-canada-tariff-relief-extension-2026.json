@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-05-news-china-canada-tariff-relief-extension-2026",
+  "topic": "중국, 캐나다산 품목 관세 감면 2년 연장",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 09:34 KST",
+  "source": "Bloomberg.com·650 CKOM·CBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxNVW9jSTEyNEUzdGFzNXppcElseDVIRE5hN0t5c0NhMVRjZEVjT0YxWXBXamFiWlFXRHliYmVYRE9Hb3ZrWUhHODU2U3VwSnE1YWJnSWFialRWa3NvLXlaYnhYVTJ6S0V2dERBOGY2NF80Tml2MlRNZkRGQWY5eEdMcExvU29Ea2ItcktDU1lUby1uV0c3c1dBQTZGeEthRW9nM1RSNDk0YmxVbjhSU29XUDRn",
+    "related": [
+      [
+        "Canada, China Extend Tariff Deal, Aim to Boost Canadian Exports",
+        "Bloomberg.com"
+      ],
+      [
+        "China extends tariff relief for Canadian canola, lobster and crab",
+        "CBC"
+      ],
+      [
+        "China extends tariff relief for some Canadian farm, seafood products by two years",
+        "The Globe and Mail"
+      ],
+      [
+        "China's vice-premier visiting Vancouver before Carney's trip to Shenzhen",
+        "thecanadianpressnews.ca"
+      ],
+      [
+        "Ministers MacDonald, Sidhu lead dual trade push in China as year-end tariff deadline looms",
+        "650 CKOM"
+      ]
+    ],
+    "event_key": "china_canada_tariff_relief_extension_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "중국, 캐나다산 품목\n[[관세 감면]] 2년 연장",
+      "sub": "카놀라·랍스터·게 등 농수산물 유예 조치 연장",
+      "chips": [
+        {
+          "k": "연장 기간",
+          "v": "2년"
+        }
+      ],
+      "alt": "중국, 캐나다산 품목 관세 감면 2년 연장",
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n베이징",
+      "video_only": true,
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베이징"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대상 품목 연장",
+          "d": "카놀라와 랍스터, 게 등 캐나다산 주요 농수산물 관세 감면이 연장됩니다 (CBC·글로브앤메일)."
+        },
+        {
+          "t": "무역 증진 협의",
+          "d": "양국은 캐나다산 수출 확대를 목적으로 관세 협약을 연장하기로 합의했습니다 (블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "중국 캐나다 관세 감면 2년 연장 (CBC·글로브앤메일)"
+      ],
+      "unconfirmed": [
+        "품목별 구체적 수출 목표치 (블룸버그)"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "650 CKOM",
+        "Bloomberg.com",
+        "CBC",
+        "The Globe and Mail",
+        "thecanadianpressnews.ca",
+        "2026.11.05 11:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 중국이 캐나다산 농수산물 관세 감면 조치를 2년 연장했습니다.\n\n· 카놀라, 랍스터, 게 등의 관세 유예 조치가 연장됐습니다 (CBC·글로브앤메일)\n· 양국은 무역 증진을 위해 고위급 논의를 이어가고 있습니다 (블룸버그·캐나다통신)\n\n중국의 이번 관세 연장 결정에 대해 어떻게 보십니까?\n\n출처: 블룸버그·CBC·글로브앤메일 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국이 캐나다산 농수산물에 대한 관세 감면 조치를 2년 연장했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBC 보도에 따르면 카놀라와 랍스터, 게 등의 관세 유예 조치가 연장됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "양국은 농수산물 수출을 늘리기 위해 관련 무역 협약을 연장하기로 합의했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 품목별 세부 수출 규모는 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "중국의 이번 관세 연장 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[중국-캐나다]] 관세\n연장의 이유",
+  "broll": [
+    "cargo ship port",
+    "seafood market"
+  ],
+  "place_en": "Beijing, China"
+}
