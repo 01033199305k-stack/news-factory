@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-06-news-paraguay-president-resign-bank-collapse-2026",
+  "topic": "파라과이 대통령,  은행 붕괴로 사임",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 01:41 KST",
+  "source": "AP News·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxOaVlqaXBtVmt2RkVpYU9PY3VtbTlEeWd0RWw1S3ZZQmp6MVV4TWNraGlMd3dqVHBrdWFWLTU2ZGFxcS1UR0VEQmNkcmVlSmFicm1aZkZCV29mNHgySUI2b2o1dElzb0hBckhLeDJFRlpLLXRKTkpIVmNGQ2xLSFgzb2hYVQ",
+    "related": [
+      [
+        "President of Paraguay resigns amid crisis over bank collapse that left millions unable to access their money",
+        "CNN"
+      ],
+      [
+        "Paraguay President Santiago Peña resigns after bank collapse",
+        "BBC"
+      ],
+      [
+        "Paraguay’s swaggering digital bank has fallen",
+        "The Economist"
+      ],
+      [
+        "Paraguay bank crisis spurs lawmakers' calls to impeach president",
+        "Reuters"
+      ],
+      [
+        "How one bank’s collapse is upending Paraguay, trapping savings and threatening its president",
+        "AP News"
+      ]
+    ],
+    "event_key": "paraguay_president_resign_bank_collapse_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파라과이 대통령, \n[[은행 붕괴]]로 사임",
+      "sub": "은행 붕괴 사태로 정국 위기를 맞았습니다.",
+      "chips": [],
+      "alt": "파라과이 대통령,  은행 붕괴로 사임",
+      "map": {
+        "lat": -25.2800459,
+        "lon": -57.6343814,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "파라과이"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파라과이\n아순시온",
+      "video_only": true,
+      "map": {
+        "lat": -25.2800459,
+        "lon": -57.6343814,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아순시온"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "예금 인출 불가",
+          "d": "디지털 은행 붕괴로 수백만 명의 고객이 예금을 찾지 못하는 사태가 벌어졌습니다 (CNN)."
+        },
+        {
+          "t": "대통령 사임",
+          "d": "산티아고 페냐 대통령이 사임했습니다 (BBC·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "산티아고 페냐 대통령 사임",
+        "은행 붕괴에 따른 정국 위기"
+      ],
+      "unconfirmed": [
+        "은행 붕괴의 구체적 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Economist",
+        "2026.11.06 02:45 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 산티아고 페냐 파라과이 대통령이 은행 붕괴 사태로 사임했습니다.\n\n· 디지털 은행이 붕괴하며 수백만 명의 고객이 예금을 인출하지 못하는 위기가 발생했습니다 (CNN·AP)\n· 대통령직에서 물러났습니다 (BBC·로이터)\n\n출처: CNN·BBC·로이터·AP통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파라과이 산티아고 페냐 대통령이 은행 붕괴 사태로 사임했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "디지털 은행이 무너지면서 수백만 명의 고객이 예금을 찾지 못하는 사태가 발생했다고 CNN이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "대통령이 직을 내려놓았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "은행 붕괴의 구체적인 원인은 아직 밝혀지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 사태로 인한 정치적 혼란, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "파라과이 [[대통령]]이\n왜 사임했나?",
+  "broll": [
+    "paraguay capital",
+    "bank building"
+  ],
+  "place_en": "Asuncion, Paraguay"
+}

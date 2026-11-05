@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-territory-gains-donetsk-2026",
-    "topic": "우크라이나군, 도네츠크 지역서 반격 통해 영토 탈환",
-    "slug": "2026-10-17-news-ukraine-territory-gains-donetsk-2026",
-    "cluster": "CBMiXkFVX3lxTE9rZy1XUFVpZXhkeTQwU25VcnlkWGtJZS1CMEozdm51TlVQSmVHWmFFbU50R29VN05ybUVKVW4zYklrY2RtTUt6emUxMExWUlJ6U1p0TjdVbEExb0QwYkE",
-    "badge": "breaking",
-    "at": 1792170431.9747996,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "nyc-college-dorm-fentanyl-death-2026",
     "topic": "뉴욕 대학 기숙사서 여대생 펜타닐로 숨져",
     "slug": "2026-10-17-news-nyc-college-dorm-fentanyl-death-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793898624.4156034,
     "country": "인도네시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "paraguay_president_resign_bank_collapse_2026",
+    "topic": "파라과이 대통령,  은행 붕괴로 사임",
+    "slug": "2026-11-06-news-paraguay-president-resign-bank-collapse-2026",
+    "cluster": "CBMigwFBVV95cUxOaVlqaXBtVmt2RkVpYU9PY3VtbTlEeWd0RWw1S3ZZQmp6MVV4TWNraGlMd3dqVHBrdWFWLTU2ZGFxcS1UR0VEQmNkcmVlSmFicm1aZkZCV29mNHgySUI2b2o1dElzb0hBckhLeDJFRlpLLXRKTkpIVmNGQ2xLSFgzb2hYVQ",
+    "badge": "breaking",
+    "at": 1793900750.940117,
+    "country": "파라과이",
     "category": "국제"
   }
 ]
