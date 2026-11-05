@@ -34040,5 +34040,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793918879
+  },
+  {
+    "slug": "2026-11-06-news-europe-flight-hoax-bomb-threats-2026",
+    "event_ms": 1793908720000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 유럽 전역에서 여객기 25편 이상을 노린 허위 폭탄 위협이 발생해 항공 운항이 차질을 빚었습니다.\n\n· 최소 25개 이상의 여객기가 폭탄 위협을 받았습니다 (가디언·로이터)\n· 최소 12개 항공편이 비상 회항하거나 경로를 변경했습니다 (텔레그래프)\n\n출처: BBC·가디언·로이터·텔레그래프 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "유럽"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18145419484591871",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfYEs3mD1GA",
+        "kind": "carousel",
+        "at": 1793916672
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1793916823
+      },
+      "tiktok": {
+        "id": "7704814105227562261",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704814105227562261",
+        "kind": "video",
+        "at": 1793916944
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793918914
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793918914
   }
 ]
