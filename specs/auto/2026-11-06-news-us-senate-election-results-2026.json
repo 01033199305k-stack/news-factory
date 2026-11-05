@@ -1,0 +1,134 @@
+{
+  "slug": "2026-11-06-news-us-senate-election-results-2026",
+  "topic": "미 상원 선거서 민주당 승리",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 07:39 KST",
+  "source": "AP News·CBS News·Politico 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimwFBVV95cUxQSEdwb0h0UEZsZG1iUzdOWmU5UnlmNTIxUXZSQ3JQemE1bUd6ZTRCVko0RkpVd201d0xYNHNrMG4xc3B3TnUtN1dGVWtMX09oUERDQWNGY19GRFpHNzhmMFJMVlVxdDRJWXdmSkJXbmxTYlZOank1X2dFVWppbEw1WlVLclhRdG8tWVhwb0RCd0x5NHhNVjJzZUF4WQ",
+    "related": [
+      [
+        "Both parties plead for cash for the fight over Mississippi and Alaska’s Senate seats",
+        "Politico"
+      ],
+      [
+        "2026 U.S. Senate Election Results",
+        "AP News"
+      ],
+      [
+        "U.S. Senate Election Results",
+        "The New York Times"
+      ],
+      [
+        "2026 Senate midterm election results as Democrats win control, Schumer vows \"legislative razor wire\" against Trump",
+        "CBS News"
+      ],
+      [
+        "Texas, Alaska, Maine Senate races flip blue on DDHQ map",
+        "The Hill"
+      ]
+    ],
+    "event_key": "us_senate_election_results_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 상원 선거서\n[[민주당]] 승리",
+      "sub": "상원 다수당 지위 확보하며 트럼프 견제 예고",
+      "chips": [],
+      "alt": "미 상원 선거서 민주당 승리",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "다수당 확보",
+          "d": "미 상원 선거 결과 민주당이 다수당 지위를 확보했습니다 (CBS 뉴스)."
+        },
+        {
+          "t": "트럼프 견제",
+          "d": "척 슈머 원내대표는 트럼프를 상대로 입법 견제를 예고했습니다 (CBS 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "민주당 상원 다수당 확보"
+      ],
+      "unconfirmed": [
+        "향후 입법 추진 구체안"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBS News",
+        "Politico",
+        "The Hill",
+        "The New York Times",
+        "2026.11.06 08:21 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 상원 선거 결과 민주당이 승리하며 다수당 지위를 확보했습니다.\n\n· 척 슈머 원내대표는 트럼프를 향해 입법 견제를 예고했습니다 (CBS 뉴스).\n· 양당은 미시시피와 알래스카 등의 상원 의석 싸움을 위해 자금을 모았습니다 (폴리티코).\n\n상원 다수당이 된 민주당이 앞으로 어떤 행보를 보일까요?\n\n출처: CBS 뉴스·폴리티코 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 상원 선거 결과 민주당이 다수당 지위를 확보했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "척 슈머 원내대표는 트럼프를 상대로 입법 견제에 나설 것임을 예고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "양당은 상원 의석 확보를 위해 선거 자금 마련에 나섰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "상원 다수당이 된 민주당은 앞으로 어떤 행보를 보일까요?",
+      "card": "ask",
+      "screen": "민주당의 견제 행보는?"
+    }
+  ],
+  "hook": "미 상원 선거\n[[민주당]] 승리",
+  "broll": [
+    "us senate chamber",
+    "election voting"
+  ],
+  "place_en": "Washington D.C., USA"
+}

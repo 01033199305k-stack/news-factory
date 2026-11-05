@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-measles-outbreak-4410-cases-2026",
-    "topic": "미국 홍역 4410건 확산 질병통제예방센터 파견 계획",
-    "slug": "2026-10-17-news-us-measles-outbreak-4410-cases-2026",
-    "cluster": "CBMilgFBVV95cUxNM1NaY19objFwSjZ5aWlNYm0wYlItUjFKSl9zNGgtazM4Rlo2MG9fbHRuWTg1TnU4YVpwLUpOaHJoSGdJblNUVTFPMXgtYUI5NkxfM2hNQl9VNVVvUlF1WFB4X3hsZ19qcWZXVEltLW9NUUx4bUZDTW9YbG0xcmRzd1lJd3JJSEV6RDJxQmg1V2RJSjZiVkHSAZsBQVVfeXFMT3ZaTE45MWFoWlBvNEhuMDZWaFVjSm10Si1TeWNaT25jNFl2V3N0U1hDc0ZXUXVPdTdiWHI4aV94OVE4Mjk4X3FETEZCVkxOOWNYMEZRYUFkQmZrQmN6aURkYjROTUxPY3pfVlN3S21aM1d3Rm00Rm1qOHZKTklYbnlHaTRtc1RWRUdLSERJRkszd056Q2F3QlVRU28",
-    "badge": "brief",
-    "at": 1792197274.5084906,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "trump_waives_russia_sanctions_india",
     "topic": "미국, 인도 등 대상 러시아 관련 제재 및 관세 면제 발표",
     "slug": "2026-10-17-news-trump-waives-russia-sanctions-india",
@@ -2998,5 +2988,15 @@
     "at": 1793918691.4797502,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "us_senate_election_results_2026",
+    "topic": "미 상원 선거서 민주당 승리",
+    "slug": "2026-11-06-news-us-senate-election-results-2026",
+    "cluster": "CBMimwFBVV95cUxQSEdwb0h0UEZsZG1iUzdOWmU5UnlmNTIxUXZSQ3JQemE1bUd6ZTRCVko0RkpVd201d0xYNHNrMG4xc3B3TnUtN1dGVWtMX09oUERDQWNGY19GRFpHNzhmMFJMVlVxdDRJWXdmSkJXbmxTYlZOank1X2dFVWppbEw1WlVLclhRdG8tWVhwb0RCd0x5NHhNVjJzZUF4WQ",
+    "badge": "breaking",
+    "at": 1793920922.6709743,
+    "country": "미국",
+    "category": "국제"
   }
 ]
