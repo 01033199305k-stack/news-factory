@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-05-news-us-nasdaq-falls-three-percent-correction-2026",
+  "topic": "미 나스닥 3% 급락 AI주 우려",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 23:14 KST",
+  "source": "CNN·NBC News·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizAFBVV95cUxNN1BQQmJLMC1jZnlVQi1QcVV2ZUdzZFVCU0lrdnRvMWl2b2FySnNrZWt0WFpnNS1CYjdkTGNvbzc5Z2JqMGlxN3NQS01RTnJzWjlxUW8tc2RBLUFRZzdfUUJGbkFWNGdobEM1MWlWcENPWlQycUhMWUhWbG45SUFVcFpTcWlVb0VTeGN0VnZianFmeUZJYmhEdU5NazYzWjBtVVJGTndUazFlMkVfbmtFUXYybkxSc0NsYUFfYTkyem5PLXlRQXRyblAyT1k",
+    "related": [
+      [
+        "Stock market today: Dow rises, S&P 500 and Nasdaq slip as post-election relief rally fades, oil rises",
+        "Yahoo Finance"
+      ],
+      [
+        "Nasdaq falls 3% as investors continue postelection rotation out of AI stocks: Live updates",
+        "CNBC"
+      ],
+      [
+        "Nasdaq plunges into correction territory as midterm results raise fresh questions about AI boom | CNN Business",
+        "CNN"
+      ],
+      [
+        "Stock Market Today: AI Stocks Under Pressure While Dow Futures Rise — Live Updates",
+        "WSJ"
+      ],
+      [
+        "Tech stocks plunge on worries about AI and Democrats’ midterm landslide",
+        "NBC News"
+      ]
+    ],
+    "event_key": "us_nasdaq_falls_three_percent_correction_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 [[나스닥 3% 급락]]\nAI주 우려",
+      "sub": "중간선거 직후 AI 관련주 매도세로 조정 국면 진입",
+      "chips": [
+        {
+          "k": "나스닥",
+          "v": "-3%"
+        },
+        {
+          "k": "분야",
+          "v": "기술주"
+        }
+      ],
+      "alt": "미 나스닥 3% 급락 AI주 우려",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "나스닥 지수 급락",
+          "d": "투자자들이 인공지능 관련 기술주를 대거 처분하면서 나스닥이 3% 떨어졌습니다 (CNBC)."
+        },
+        {
+          "t": "조정 국면 진입",
+          "d": "중간선거 결과 이후 기술주 전반에 매도세가 쏟아지며 조정 국면에 들어섰습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "나스닥 3% 급락 (CNBC)",
+        "나스닥 조정 국면 진입 (CNN)"
+      ],
+      "unconfirmed": [
+        "향후 기술주 추가 하락 폭"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "CNN",
+        "NBC News",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.11.06 01:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 나스닥 지수가 3% 급락하며 조정 국면에 진입했습니다.\n\n· 중간선거 이후 인공지능 관련 종목에 매도세가 집중됐습니다 (CNBC·NBC).\n· CNN은 중간선거 결과로 인공지능 붐에 대한 의문이 제기되며 조정 국면에 들어섰다고 전했습니다 (CNN).\n· 다우 지수와 기술주 중심 시장 사이의 흐름이 엇갈렸습니다 (WSJ·야후파이낸스).\n\n이번 기술주 조정 장세가 계속될 것으로 보십니까?\n출처: CNBC·CNN·The Wall Street Journal·Yahoo Finance·NBC News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 증시에서 나스닥 지수가 3% 급락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 중간선거 이후 인공지능 관련 기술주에 매도세가 몰렸다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "CNN은 나스닥이 이번 급락으로 조정 국면에 들어섰다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "기술주 중심의 하락세가 어디까지 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 나스닥 급락세를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[나스닥 3% 급락]]\n기술주의 운명은",
+  "broll": [
+    "stock exchange screen",
+    "financial charts monitor"
+  ],
+  "place_en": "New York, USA"
+}

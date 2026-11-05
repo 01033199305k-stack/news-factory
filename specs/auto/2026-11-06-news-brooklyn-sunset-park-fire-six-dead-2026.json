@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-06-news-brooklyn-sunset-park-fire-six-dead-2026",
+  "topic": "브루클린 화재 주민 6명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 00:00 KST",
+  "source": "BBC·NBC News·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBham1aLUc0bkx5SGJRcnNkek83WFFTV2kzOUI0ZDA3aWRxZHNDUE1veHpYRmpmbkV6eVlDaGRKZzE5Ty01VHBnTklGWklMU0tEU1lyX0hUamFOcFk",
+    "related": [
+      [
+        "Six dead and others injured in fire at Brooklyn building",
+        "BBC"
+      ],
+      [
+        "6 Are Killed in Fire That Tore Through Brooklyn Low-Rise",
+        "The New York Times"
+      ],
+      [
+        "6 people dead, others hospitalized after fire tears through Brooklyn home",
+        "NBC News"
+      ],
+      [
+        "Sunset Park, Brooklyn fire leaves 6 dead after flames tear through home",
+        "ABC7 New York"
+      ],
+      [
+        "Massive house fire kills 6 in Brooklyn",
+        "New York Daily News"
+      ]
+    ],
+    "event_key": "brooklyn_sunset_park_fire_six_dead_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "브루클린 화재\n주민 [[6명 숨져]]",
+      "sub": "저층 주택 불길에 다수 병원 이송",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "6명"
+        },
+        {
+          "k": "장소",
+          "v": "브루클린"
+        }
+      ],
+      "alt": "브루클린 화재 주민 6명 숨져",
+      "map": {
+        "lat": 40.6442221,
+        "lon": -74.0075907,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕 브루클린",
+      "video_only": true,
+      "map": {
+        "lat": 40.6442221,
+        "lon": -74.0075907,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕 브루클린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "저층 주택 화재",
+          "d": "브루클린 선셋파크의 저층 주택에 불길이 덮쳤습니다 (NYT·ABC7)."
+        },
+        {
+          "t": "부상자 병원 이송",
+          "d": "다친 주민들이 병원으로 이송됐습니다 (BBC·NBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 6명 (BBC·NYT·NBC)",
+        "부상자 발생 및 병원 이송 (BBC·NBC)"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 New York",
+        "BBC",
+        "NBC News",
+        "New York Daily News",
+        "The New York Times",
+        "2026.11.06 01:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 브루클린 주택에서 큰불이 나 6명이 숨졌습니다.\n\n· 브루클린 선셋파크의 저층 주거 건물이 불길에 휩싸였습니다 (NYT·ABC7).\n· 이번 화재로 6명이 숨지고 부상자가 병원으로 옮겨졌습니다 (BBC·NBC).\n· 불이 난 구체적인 원인은 아직 알려지지 않았습니다.\n\n출처: BBC·The New York Times·NBC News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "브루클린 주택에서 큰불이 나 6명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "화재는 선셋파크 저층 주거 건물을 덮쳤습니다.",
+      "card": "map"
+    },
+    {
+      "text": "부상자들도 발생해 병원으로 이송됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "화재 원인과 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[브루클린 주택]]에\n치솟은 불길",
+  "broll": [
+    "ambulance night",
+    "fire engine sirens"
+  ],
+  "place_en": "Sunset Park, Brooklyn, New York, USA"
+}

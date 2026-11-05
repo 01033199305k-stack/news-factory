@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "cyprus-toddler-fall-fine-2026",
-    "topic": "키프로스 호텔서 추락해 숨진 2살 아들 영국인 아버지 벌금형",
-    "slug": "2026-10-16-news-cyprus-toddler-fall-fine-2026",
-    "cluster": "CBMimgFBVV95cUxQRFl2OEM5WWEwSEtBMkQ1N0ZfQTNSTVcyVHltWDBSVGdhSkV3MlFLY3VSaDdXOWFBV05XNFB2bHpZSUpRcXlZLThjTWV0N0VXOENoaEtHSWpmdkx1cUlaYjJZYTROUk9sdDZ2S3BvMmZOUFFDTEM4ck8yRU1ObjhQZTd1MEVNREZLQTNMY1ZneFViUHBFYWEwQWNR",
-    "badge": "breaking",
-    "at": 1792156196.731475,
-    "country": "키프로스",
-    "category": "사고"
-  },
-  {
-    "event_key": "starlink-restrictions-ukraine",
-    "topic": "우크라이나 스타링크 제한, 백악관 지시였다",
-    "slug": "2026-10-16-news-starlink-restrictions-ukraine",
-    "cluster": "CBMi_gFBVV95cUxQR3FLUlhLOVV5Qy1wQl9PcUZsdV9OZE1HUUo2bktfakhSSXhEY2RkVkVESFBIMVIwTEFSTWVPRXhkVHd2NEFwUWpZNmpsdDg1T3Fhamk3ZFJiZVh4RmJla1VGZ1QxQ3BFOHNWZm1KOHZtNF83NlU4VzhhMm5ZQk92dXRWb3BJOUw5NEVnZDk4SG5oZEdCVDZqN1pMWVcyVnF0MFpYcjB4WkFiVUpubTdueHllY0w3bXNOOGlRRUxsQlJZcWlmSmVjVGNyMTB3Rlo4SGJ4NUpTUDZiMEt6bTRfU3dQYlZPVzBmNUloTmR6bVlnZDM3QmtYZEVHYVNhUdIBgwJBVV95cUxPRGFpMXg4bU4yZl85MF94Yi1JRHdTUEJDNWM2a0xuZDBISFBWNEJWVm11X1YwdnJraUZlWGF0VGFhRTZCcEhUcVBCS3VvcHUtaUVNb2l3RTFxemZLMFEwdEtHNGJsMjc1WFRYb1RfV3NkY0xaS2RES19fWmRsQzJ5b0hSRTlhQ2E3LUhTUmpLdmFQN3hvWE9tYUF2Wk8ybURUUEMwVnNBUV95OERBQ2R6MHl1anVBRnI5VFNEaFY3ZXhrblhwdjF0Ti00MGQycHdhNWVUaW1HSmgxUHlpR0VYSWNKQlhhT3pVaW54R3BvOENhc0E0YXNocVhYajFHcWpPOUVV",
-    "badge": "breaking",
-    "at": 1792159674.8687968,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "west_bank_settler_attack_journalist_2026",
     "topic": "요르단강 서안 지구서 정착촌 주민 폭력 공격",
     "slug": "2026-10-16-news-west-bank-settler-attack-journalist-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793891399.2653975,
     "country": "중국",
     "category": "국제"
+  },
+  {
+    "event_key": "brooklyn_sunset_park_fire_six_dead_2026",
+    "topic": "브루클린 화재 주민 6명 숨져",
+    "slug": "2026-11-06-news-brooklyn-sunset-park-fire-six-dead-2026",
+    "cluster": "CBMiW0FVX3lxTFBham1aLUc0bkx5SGJRcnNkek83WFFTV2kzOUI0ZDA3aWRxZHNDUE1veHpYRmpmbkV6eVlDaGRKZzE5Ty01VHBnTklGWklMU0tEU1lyX0hUamFOcFk",
+    "badge": "breaking",
+    "at": 1793894853.3103697,
+    "country": "미국",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "us_nasdaq_falls_three_percent_correction_2026",
+    "topic": "미 나스닥 3% 급락 AI주 우려",
+    "slug": "2026-11-05-news-us-nasdaq-falls-three-percent-correction-2026",
+    "cluster": "CBMizAFBVV95cUxNN1BQQmJLMC1jZnlVQi1QcVV2ZUdzZFVCU0lrdnRvMWl2b2FySnNrZWt0WFpnNS1CYjdkTGNvbzc5Z2JqMGlxN3NQS01RTnJzWjlxUW8tc2RBLUFRZzdfUUJGbkFWNGdobEM1MWlWcENPWlQycUhMWUhWbG45SUFVcFpTcWlVb0VTeGN0VnZianFmeUZJYmhEdU5NazYzWjBtVVJGTndUazFlMkVfbmtFUXYybkxSc0NsYUFfYTkyem5PLXlRQXRyblAyT1k",
+    "badge": "breaking",
+    "at": 1793895033.8859348,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
