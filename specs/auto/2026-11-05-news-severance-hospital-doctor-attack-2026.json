@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-05-news-severance-hospital-doctor-attack-2026",
+  "topic": "세브란스 진료실서 흉기 난동 의사 피습 사건 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 15:32 KST",
+  "source": "KBS 뉴스·MBC 뉴스·머니투데이 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTFBWLVA4TllpOVdYd19LaUJGbFRSTXZUaHpXNy10WFFLdWMxM3hIck1xdGMwc2FiTXRqMzItWFZhUjg0VlpjcHhKQldRV0E3ZndVQ3FGYXFmcnFSWE12UEV2Y3AzdnlLRFppUlpPYzVfLXZnRHdKWUNz0gF3QVVfeXFMUGZfUThwTVBGWmdMOWZGZmRub3hJb2JXNXR1djBvUHAxWkx5dUNVb3ExZHhvR1NEeWdtSTRuNWxsamlyZFg4OGhBZkJjYzVHT2Iwd1lvYXdmbUlZM1dnUFVmc3F2TjNTZEF6Rm40d04wSlhvLWRweU0",
+    "related": [
+      [
+        "\"임세원법 한계 드러나\"‥의협·병협, 의료진 안전대책 촉구",
+        "MBC 뉴스"
+      ],
+      [
+        "집에서 부엌칼 들고왔다... ‘세브란스 난동’ 50대女 구속영장 신청 예정",
+        "조선일보"
+      ],
+      [
+        "세브란스 진료실서 의사 습격 50대 “집에서 쓰던 흉기 가져와”",
+        "한겨레"
+      ],
+      [
+        "\"故임세원 잃고도 또\" 불안한 의사들…'의료진 안전망' 도마 위 - 머니투데이",
+        "머니투데이"
+      ],
+      [
+        "의사 피습에 의사단체들 “의료진 안전 보장해야”",
+        "KBS 뉴스"
+      ]
+    ],
+    "event_key": "severance_hospital_doctor_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "세브란스 진료실서 [[흉기 난동]]\n의사 피습 사건 발생",
+      "sub": "50대 여성 용의자 구속영장 신청 예정",
+      "chips": [
+        {
+          "k": "용의자",
+          "v": "50대 여성"
+        }
+      ],
+      "alt": "세브란스 진료실서 흉기 난동 의사 피습 사건 발생",
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울",
+      "video_only": true,
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "흉기 준비",
+          "d": "용의자가 집에서 쓰던 흉기를 직접 가져온 것으로 조사됐습니다 (한겨레·조선일보)."
+        },
+        {
+          "t": "의료계 반발",
+          "d": "의협과 병협 등 의료계 단체들이 의료진 안전대책 마련을 촉구했습니다 (KBS·MBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "세브란스 병원 진료실",
+        "50대 여성 용의자",
+        "의료진 안전대책 촉구"
+      ],
+      "unconfirmed": [
+        "정확한 범행 동기",
+        "피해자의 부상 상태"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "머니투데이",
+        "조선일보",
+        "한겨레",
+        "2026.11.05 16:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 세브란스 진료실서 흉기 난동\n의사 피습 사건 발생\n\n· 50대 여성 용의자가 집에서 쓰던 흉기를 직접 가져온 것으로 조사됐습니다 (한겨레·조선일보)\n· 의협과 병협 등 의료계 단체들이 의료진 안전대책 마련을 촉구했습니다 (KBS·MBC)\n\n출처: 조선일보·한겨레·KBS·MBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "세브란스 병원 진료실에서 의사가 흉기에 습격당하는 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "조선일보는 50대 여성 용의자가 집에서 쓰던 흉기를 가져와 범행을 저질렀다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "의사 단체들은 의료진의 안전을 보장할 실효성 있는 대책을 촉구하고 나섰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 범행 동기와 피해자의 상태는 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "세브란스 진료실서\n무슨 일이?",
+  "broll": [
+    "hospital corridor",
+    "medical center sign"
+  ],
+  "place_en": "Seoul, South Korea"
+}

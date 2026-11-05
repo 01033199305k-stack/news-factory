@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "china-north-korea-bridge-opens-2026",
-    "topic": "북한·중국 새 국경 다리 12년 만에 개통",
-    "slug": "2026-10-16-news-china-north-korea-bridge-opens-2026",
-    "cluster": "CBMiywFBVV95cUxOeC05S3VTRWRGOWRYeWZ3cmpUOVhRY3FzaDFCUTNUS0tTZkZ6bmtHZUs3N0E1ZTVfNF9aNkl1TXBKSzVnX3RKZDdJSEduejc2UFBmd1dkWXBualozVXZGNy1McC1NZHZHTW5JLWtFb2xrUkpHV09kdjJzNExrak15X05aSUtkY2E2Y2g3Q0FtWVRmYWplOWtMVUFVWGlVdG9Ta2Y2ek1OZHE2ZGtGeWtaRmV2QTF2aWdyMnhHRDBxTzcxVW8ydkV2OTdxWdIB0AFBVV95cUxQeTNDWjJ0dzk1NUFaa1Fia0VrYXkwQWJhMXBQNVE2NE00ZXVEM0hnV0huZGlvQjVvdGdfYS1NUHg2QkZsamV2cXIxel8zTVk3TTkwQ3dsVlotSEFHSG9RaTlDWmJzV1JaQW1ONFpWcTExVDJEOTRDMWdJeDhyeVFSaFI0eG5tUjNZa1Vqdk9NUG95VjhCdjRMVzNJclJEb3F1dHc0RzhxOXlDLUVmejNBQ0xwc19iaWNIdnB6REFHSTVwTzNTbXhoMTNmOWMwRnhI",
-    "badge": "brief",
-    "at": 1792145474.2490485,
-    "country": "중국",
-    "category": "국제"
-  },
-  {
     "event_key": "russia-seizes-five-european-firms-assets-2026",
     "topic": "푸틴, 타르켓 등 유럽 기업 5곳 압류",
     "slug": "2026-10-16-news-russia-seizes-five-european-firms-assets-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793844586.7798777,
     "country": "중국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "severance_hospital_doctor_attack_2026",
+    "topic": "세브란스 진료실서 흉기 난동 의사 피습 사건 발생",
+    "slug": "2026-11-05-news-severance-hospital-doctor-attack-2026",
+    "cluster": "CBMid0FVX3lxTFBWLVA4TllpOVdYd19LaUJGbFRSTXZUaHpXNy10WFFLdWMxM3hIck1xdGMwc2FiTXRqMzItWFZhUjg0VlpjcHhKQldRV0E3ZndVQ3FGYXFmcnFSWE12UEV2Y3AzdnlLRFppUlpPYzVfLXZnRHdKWUNz0gF3QVVfeXFMUGZfUThwTVBGWmdMOWZGZmRub3hJb2JXNXR1djBvUHAxWkx5dUNVb3ExZHhvR1NEeWdtSTRuNWxsamlyZFg4OGhBZkJjYzVHT2Iwd1lvYXdmbUlZM1dnUFVmc3F2TjNTZEF6Rm40d04wSlhvLWRweU0",
+    "badge": "breaking",
+    "at": 1793862405.3944206,
+    "country": "대한민국",
+    "category": "기타 사건"
   }
 ]
