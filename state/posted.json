@@ -34093,5 +34093,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793918914
+  },
+  {
+    "slug": "2026-11-06-news-korea-highway-soundproof-accident-2026",
+    "event_ms": 1793913420000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 수도권제1순환고속도로 평촌 인근서 방음벽 붕괴, 6명 부상\n\n· 25톤 화물차가 방호벽을 들이받으며 방음벽 잔해물이 도로 위로 떨어졌습니다 (경기일보·KBS)\n· 이 사고로 6명이 다치고 차량 4대가 파손되었습니다 (경기일보)\n\n출처: KBS·연합뉴스·경인일보·경기일보·중부일보 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119860921997395",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfYIq_3oPu2",
+        "kind": "carousel",
+        "at": 1793918738
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793918968
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793919419
+      },
+      "tiktok": {
+        "id": "7704825265503014164",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704825265503014164",
+        "kind": "video",
+        "at": 1793919541
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793919551
   }
 ]
