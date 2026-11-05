@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-06-news-turkey-mass-shooting-2026",
+  "topic": "튀르키예 총격 사건 8명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 03:48 KST",
+  "source": "BBC·Yahoo News·ASHARQ AL-AWSAT English 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1HVnJzZ0xLNVBtN1RLQ0ctZGQ1XzNWTG0wTlA3NktPOFJuV2FZM2w1UTVLbzBGNVk5RHlQRE52OGh5LWpfUVE1ZFBXbGFVRl9IVVNTcFl1ZC1PTk9HZGc",
+    "related": [
+      [
+        "Manhunt in western Turkey after eight killed in series of shootings",
+        "BBC"
+      ],
+      [
+        "Eight dead in shooting incident in rural western Turkey, says governor",
+        "The Times of Israel"
+      ],
+      [
+        "Eight killed in shooting spree in Turkey, suspect apprehended",
+        "Yahoo"
+      ],
+      [
+        "Seven killed in shootings across villages in central Türkiye’s Afyonkarahisar",
+        "Türkiye Today"
+      ],
+      [
+        "Eight Dead in Mass Shooting in Rural West Türkiye",
+        "ASHARQ AL-AWSAT English"
+      ]
+    ],
+    "event_key": "turkey_mass_shooting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "튀르키예 총격 사건\n[[8명 사망]]",
+      "sub": "서부 지역 마을 곳곳에서 총격이 발생했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "8명"
+        }
+      ],
+      "alt": "튀르키예 총격 사건 8명 사망",
+      "map": {
+        "lat": 38.6852729,
+        "lon": 30.6427411,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "튀르키예"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "튀르키예\n아피온카라히사르",
+      "video_only": true,
+      "map": {
+        "lat": 38.6852729,
+        "lon": 30.6427411,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아피온카라히사르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 경위",
+          "d": "마을 여러 곳에서 잇따른 총격 사건이 발생했습니다 (BBC·튀르키예 투데이)."
+        },
+        {
+          "t": "용의자",
+          "d": "용의자가 체포되었습니다 (야후뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 8명",
+        "용의자 체포"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "범행 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ASHARQ AL-AWSAT English",
+        "BBC",
+        "The Times of Israel",
+        "Türkiye Today",
+        "Yahoo",
+        "2026.11.06 05:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 튀르키예 서부 아피온카라히사르 일대에서 잇따른 총격으로 8명이 숨졌습니다.\n\n· 사건은 마을 여러 곳에서 잇따라 발생했습니다 (BBC·튀르키예 투데이)\n· 현지 당국은 총격을 벌인 용의자를 체포했습니다 (야후뉴스)\n\n출처: BBC·타임스오브이스라엘·야후뉴스·튀르키예 투데이·ASHARQ AL-AWSAT 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "튀르키예 서부 지역에서 발생한 연쇄 총격 사건으로 8명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 아피온카라히사르 등 여러 마을에서 총격이 이어졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "당국은 범행을 저지른 용의자를 체포했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "튀르키예 마을서\n[[총격]] 비극",
+  "broll": [
+    "police tape",
+    "ambulance night"
+  ],
+  "place_en": "Afyonkarahisar, Turkey"
+}

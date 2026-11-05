@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-06-news-california-death-penalty-commutation-2026",
+  "topic": "캘리포니아 주지사, 사형수 548명 감형",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 04:30 KST",
+  "source": "CNN·NBC News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxOaGNya1ZEYWJfUmVFNWs5Zk5laXk1TkluS1ZnQ3lrbUtZZWg0TGxpaVdPNUdxTjNJbkdNcWZFSXRiRWVQWGphVk8yQTNGWFlIR0M5VTU0STRqWE4wM1VCSXNhOFNOMmdpeXFkODBDdHpXWk83Z2xBS2ZxUnZvMzdhM3dKQmlkVjZWTTU0ZTN4ZmZqNW8ya0t5S21Va3Q",
+    "related": [
+      [
+        "Gavin Newsom commutes more than 500 death sentences in California",
+        "The Guardian"
+      ],
+      [
+        "Newsom Commutes the Sentences of California’s 548 Death Row Inmates",
+        "The New York Times"
+      ],
+      [
+        "Newsom commutes sentences of all California death row prisoners",
+        "CNN"
+      ],
+      [
+        "Newsom moves to commute all California death sentences to life in prison without parole",
+        "Los Angeles Times"
+      ],
+      [
+        "California Gov. Gavin Newsom commutes all death sentences",
+        "NBC News"
+      ]
+    ],
+    "event_key": "california_death_penalty_commutation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "캘리포니아 주지사,\n[[사형수 548명]] 감형",
+      "sub": "모든 사형수 형량을 가석방 없는 종신형으로 변경합니다.",
+      "chips": [
+        {
+          "k": "감형 대상",
+          "v": "548명"
+        }
+      ],
+      "alt": "캘리포니아 주지사, 사형수 548명 감형",
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아",
+      "video_only": true,
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대상자",
+          "d": "캘리포니아주 내 모든 사형수가 포함됩니다 (뉴욕타임스·가디언)."
+        },
+        {
+          "t": "변경 형량",
+          "d": "가석방 없는 종신형으로 형량이 변경되었습니다 (LA타임스·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "개빈 뉴섬 주지사의 행정명령",
+        "사형수 548명 감형"
+      ],
+      "unconfirmed": [
+        "주 내부의 찬반 여론"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Los Angeles Times",
+        "NBC News",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.06 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 캘리포니아주 개빈 뉴섬 주지사가 주 내 모든 사형수 548명의 형량을 가석방 없는 종신형으로 감형한다고 발표했습니다.\n\n· 이번 결정으로 사형 선고를 받았던 548명 전원이 종신형으로 전환됩니다 (뉴욕타임스·CNN)\n· 뉴섬 주지사는 모든 사형수의 형량을 일괄적으로 변경하는 행정명령을 내렸습니다 (가디언·NBC뉴스)\n\n여러분은 이번 결정, 어떻게 보십니까?\n\n출처: 뉴욕타임스·가디언·CNN·LA타임스·NBC뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아주 개빈 뉴섬 주지사가 사형수 548명을 감형했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스와 CNN 등은 뉴섬 주지사가 주 내 모든 사형수의 형량을 가석방 없는 종신형으로 변경했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 조치로 캘리포니아주의 사형수 548명 전원이 종신형으로 바뀌게 됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "캘리포니아에서\n[[사형수]]가?",
+  "broll": [
+    "court building",
+    "california state flag"
+  ],
+  "place_en": "California, USA"
+}

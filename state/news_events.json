@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "nyc-college-dorm-fentanyl-death-2026",
-    "topic": "뉴욕 대학 기숙사서 여대생 펜타닐로 숨져",
-    "slug": "2026-10-17-news-nyc-college-dorm-fentanyl-death-2026",
-    "cluster": "CBMiiwFBVV95cUxQS2ZZZTRqZG85ZjZlUmtYU1JPSEVaYjNCSGs4VVpKRk5GSVhabXNRc002RjFBcDU1aWZaVm1UbzN1eldVS1BHWWw5QzBHX0pfal90MGNHLVJ4b25LaTBqeTBuTFZBcGpEcm5hMWVSaWNLY2pQUmtBWHNDNF9MUnJUNzEwNDFrSW9wNEFr",
-    "badge": "breaking",
-    "at": 1792173973.6620915,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
-    "event_key": "california-brushfires-oct-2026",
-    "topic": "미국 캘리포니아 강풍 속 산불 확산 주민 대피령 및 대규모 정전",
-    "slug": "2026-10-17-news-california-brushfires-oct-2026",
-    "cluster": "CBMinAFBVV95cUxONmJmSmdlU0NrdkN0LTJXMGYtbHdsTTk1dTFhY2tGbHVtRENWSUtGWVFHbk02ZVJsWnZwZDJQTGdVbm5xOUpCanFtMXhOUlh1VVdXWVFkQjVkQ29OeFRqWExBdXgzQWFGSXNsWjA1V3lHdjdHNGhfNFpINGlpenlpVHlIRHhvTTdoclNZOUlORk5BakdtMXJXLVNlQkI",
-    "badge": "breaking",
-    "at": 1792174395.2043147,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "pope-leo-calls-putin-ukraine-truce",
     "topic": "교황, 병상서 푸틴에 전화 우크라이나 휴전 촉구",
     "slug": "2026-10-17-news-pope-leo-calls-putin-ukraine-truce",
@@ -2998,5 +2978,25 @@
     "at": 1793900750.940117,
     "country": "파라과이",
     "category": "국제"
+  },
+  {
+    "event_key": "california_death_penalty_commutation_2026",
+    "topic": "캘리포니아 주지사, 사형수 548명 감형",
+    "slug": "2026-11-06-news-california-death-penalty-commutation-2026",
+    "cluster": "CBMinAFBVV95cUxOaGNya1ZEYWJfUmVFNWs5Zk5laXk1TkluS1ZnQ3lrbUtZZWg0TGxpaVdPNUdxTjNJbkdNcWZFSXRiRWVQWGphVk8yQTNGWFlIR0M5VTU0STRqWE4wM1VCSXNhOFNOMmdpeXFkODBDdHpXWk83Z2xBS2ZxUnZvMzdhM3dKQmlkVjZWTTU0ZTN4ZmZqNW8ya0t5S21Va3Q",
+    "badge": "breaking",
+    "at": 1793909256.9482784,
+    "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "turkey_mass_shooting_2026",
+    "topic": "튀르키예 총격 사건 8명 사망",
+    "slug": "2026-11-06-news-turkey-mass-shooting-2026",
+    "cluster": "CBMiXkFVX3lxTE1HVnJzZ0xLNVBtN1RLQ0ctZGQ1XzNWTG0wTlA3NktPOFJuV2FZM2w1UTVLbzBGNVk5RHlQRE52OGh5LWpfUVE1ZFBXbGFVRl9IVVNTcFl1ZC1PTk9HZGc",
+    "badge": "breaking",
+    "at": 1793909291.7809677,
+    "country": "튀르키예",
+    "category": "총격·테러"
   }
 ]
