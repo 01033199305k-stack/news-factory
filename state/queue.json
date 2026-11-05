@@ -20,7 +20,8 @@
       "01_cover.jpg",
       "02_points.jpg",
       "03_check.jpg",
-      "04_outro.jpg"
+      "04_outro.jpg",
+      "video.mp4"
     ],
     "done": {
       "threads": {
@@ -32,10 +33,16 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
         "at": 1793862561
+      },
+      "tiktok": {
+        "id": "7704597041367846196",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704597041367846196",
+        "kind": "video",
+        "at": 1793866558
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
     },
     "video": "video.mp4"
