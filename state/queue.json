@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-11-05-news-hong-kong-activist-joshua-wong-jailed",
+    "event_ms": 1793891399265,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 홍콩 민주화 운동가 조슈아 웡, 징역 10년형 선고\n\n· 홍콩 법원이 국가 분열 공모 혐의로 징역 10년을 선고했습니다 (블룸버그·뉴욕타임스)\n· 미국과 영국 정부는 이번 판결을 가혹한 처사라며 규탄했습니다 (가디언)\n\n이번 판결에 대해 어떻게 생각하십니까?\n\n출처: 블룸버그·뉴욕타임스·가디언·NPR·BBC 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18138089797629873",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfXUnjoG-aX",
+        "kind": "carousel",
+        "at": 1793891448
+      },
+      "youtube": {
+        "id": "WzzA4dY7OzQ",
+        "permalink": "https://youtube.com/shorts/WzzA4dY7OzQ",
+        "kind": "shorts",
+        "at": 1793891653
+      },
+      "tiktok": {
+        "id": "7704706053094591751",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704706053094591751",
+        "kind": "video",
+        "at": 1793891785
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]

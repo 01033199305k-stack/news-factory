@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-05-news-hong-kong-activist-joshua-wong-jailed",
+  "topic": "홍콩 민주화 운동가 조슈아 웡, 10년형 선고받아",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 21:43 KST",
+  "source": "BBC·Bloomberg.com·NPR 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxOSUxuQWNOcG0tQnFvb0tQTDlNWnNsMTdENkdOWkVaREYzOEpvSXZaRVBPcE9scFppY285WXJud1F1REg0dnhpYjlCWTV3MjVjOUdSV2JjOVYtRmFfTktJMjJBdHNiaFZkUU5OTFFPYVBsODF2ZjhjYUhRbC03R0RtTGdfMjE2MVQ4amYxQWVKaWFJbWtEd3FTWGJFWURQd3pUM2plLTIzZ21wejU3VF9vRFhfOA",
+    "related": [
+      [
+        "Hong Kong Jails Joshua Wong for a Decade in Collusion Case",
+        "Bloomberg.com"
+      ],
+      [
+        "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+        "The New York Times"
+      ],
+      [
+        "UK and US condemn ‘cruel’ second jail term handed to Hong Kong activist Joshua Wong",
+        "The Guardian"
+      ],
+      [
+        "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+        "NPR"
+      ],
+      [
+        "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "BBC"
+      ]
+    ],
+    "event_key": "hong_kong_activist_joshua_wong_jailed"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "홍콩 민주화 운동가 [[조슈아 웡]], 10년형 선고받아",
+      "sub": "홍콩 법원이 국가 분열 공모 혐의로 징역 10년을 선고했습니다.",
+      "chips": [],
+      "alt": "홍콩 민주화 운동가 조슈아 웡, 10년형 선고받아",
+      "map": {
+        "lat": 22.3492361,
+        "lon": 114.1857778,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n홍콩",
+      "video_only": true,
+      "map": {
+        "lat": 22.3492361,
+        "lon": 114.1857778,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "홍콩"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "판결 내용",
+          "d": "홍콩 법원은 국가 분열 공모 혐의로 징역 10년을 선고했습니다 (블룸버그·NPR)."
+        },
+        {
+          "t": "국제 사회 반응",
+          "d": "미국과 영국 정부는 이번 판결을 가혹하다고 비판하며 규탄했습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "징역 10년형 선고",
+        "국가 분열 공모 혐의",
+        "국제 사회의 규탄"
+      ],
+      "unconfirmed": [
+        "향후 항소 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bloomberg.com",
+        "NPR",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.06 00:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 홍콩 민주화 운동가 조슈아 웡, 징역 10년형 선고\n\n· 홍콩 법원이 국가 분열 공모 혐의로 징역 10년을 선고했습니다 (블룸버그·뉴욕타임스)\n· 미국과 영국 정부는 이번 판결을 가혹한 처사라며 규탄했습니다 (가디언)\n\n이번 판결에 대해 어떻게 생각하십니까?\n\n출처: 블룸버그·뉴욕타임스·가디언·NPR·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "홍콩 민주화 운동가 조슈아 웡이 징역 10년을 선고받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "홍콩 법원은 조슈아 웡에게 국가 분열 공모 혐의를 적용해 10년 형을 내렸다고 블룸버그 통신이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "가디언은 미국과 영국 정부가 이번 판결을 가혹하다며 규탄했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 판결을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "홍콩 [[조슈아 웡]],\n무슨 일인가?",
+  "broll": [
+    "hong kong city",
+    "court gavel"
+  ],
+  "place_en": "Hong Kong"
+}

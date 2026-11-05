@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "gwangju_knife_threat_2026",
-    "topic": "광주 도심서 흉기 난동 50대 여성 현행범 체포",
-    "slug": "2026-10-16-news-gwangju-knife-threat-2026",
-    "cluster": "CBMiZkFVX3lxTE9oQ3V4QVh5OXQzYmtCbl9FNkNNVjhXWUMxbWlzcmlWd3RzSjR2SWZaZXprUkp4NGRodXJYZVF6c1BsSEVMSDF3TlBYMEVhYlpFVWFMSm96cHVMeE5TQ2d4RTBMWnlPdw",
-    "badge": "breaking",
-    "at": 1792154093.2680707,
-    "country": "대한민국",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "cyprus-toddler-fall-fine-2026",
     "topic": "키프로스 호텔서 추락해 숨진 2살 아들 영국인 아버지 벌금형",
     "slug": "2026-10-16-news-cyprus-toddler-fall-fine-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793873494.494153,
     "country": "독일",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "hong_kong_activist_joshua_wong_jailed",
+    "topic": "홍콩 민주화 운동가 조슈아 웡, 10년형 선고받아",
+    "slug": "2026-11-05-news-hong-kong-activist-joshua-wong-jailed",
+    "cluster": "CBMiswFBVV95cUxOSUxuQWNOcG0tQnFvb0tQTDlNWnNsMTdENkdOWkVaREYzOEpvSXZaRVBPcE9scFppY285WXJud1F1REg0dnhpYjlCWTV3MjVjOUdSV2JjOVYtRmFfTktJMjJBdHNiaFZkUU5OTFFPYVBsODF2ZjhjYUhRbC03R0RtTGdfMjE2MVQ4amYxQWVKaWFJbWtEd3FTWGJFWURQd3pUM2plLTIzZ21wejU3VF9vRFhfOA",
+    "badge": "brief",
+    "at": 1793891399.2653975,
+    "country": "중국",
+    "category": "국제"
   }
 ]
