@@ -29,10 +29,64 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfVf56xgaRT",
         "kind": "carousel",
         "at": 1793830257
+      },
+      "youtube": {
+        "id": "BhDnRQEH89Q",
+        "permalink": "https://youtube.com/shorts/BhDnRQEH89Q",
+        "kind": "shorts",
+        "at": 1793837389
+      },
+      "tiktok": {
+        "id": "7704472920675994898",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704472920675994898",
+        "kind": "video",
+        "at": 1793837521
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-05-news-pennsylvania-measles-outbreak-deaths",
+    "event_ms": 1793828572000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 펜실베이니아주서 홍역으로 사망 6명 발생 (ABC뉴스·로이터)\n\n· 제퍼슨 군 주민이 추가로 숨지며 누적 사망자가 6명으로 늘었습니다 (WTAE)\n· 보건 당국은 해당 지역의 백신 접종률이 낮다고 밝혔습니다 (가디언)\n\n출처: ABC뉴스·가디언·WTAE·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18111706817138077",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfVtTwxFQmu",
+        "kind": "carousel",
+        "at": 1793837282
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1793837399
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-05-news-pennsylvania-measles-outbreak-deaths",
+  "topic": "미국 펜실베이니아주서 홍역 사망 6명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.05 06:42 KST",
+  "source": "ABC News·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxPZEhZX3ZuWmNXeGhaeHpwdXM3OGxSdkQ2SFdMd19IMFpCaTc3R1dpNHk1OUx2RG1fTlU0SkJQUFpBSi1jVWhXVk5zclRZRnQ5U3J5Z25JWms4RDMyd3pOSGpJSVZONXhNNzJIenEyWFpQX2hDaFdndHByV2lpamxwLTdwNlJRWFpuQTNwdjVDTmFDaGVQUndJcmplcGhXR1h1dEFJ0gGoAUFVX3lxTE8wekVGRHZQamtmeTVKZE1vdnotREdIeGk1b0NwMk9aX3RvVE5mZkczWkROellPMldiMWF0UU5OanZXVEF1QURQdUlTQnFENi1xQ1I3NXItN1VWc21Za2pSQnp2WmRmcXJFNEk4RGdrWDlDSGdyblAwM2h1dEM1Y1N2R25ETnp3Y2Z3OFBJSWVKU2VRV2x3RVBIMlpUd3lSbTVyY1VxbmRELQ",
+    "related": [
+      [
+        "Pennsylvania reports 6th measles-associated death amid outbreak: Health officials",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "‘It’s clear they are under-vaccinated’: Amish under spotlight amid Pennsylvania measles outbreak",
+        "The Guardian"
+      ],
+      [
+        "Second Jefferson County resident dies of measles, marking six total deaths in the sate",
+        "WTAE"
+      ],
+      [
+        "Pennsylvania reports sixth measles-linked death as cases rise",
+        "Reuters"
+      ],
+      [
+        "Pennsylvania reports another measles death amid ongoing outbreak",
+        "6abc Philadelphia"
+      ]
+    ],
+    "event_key": "pennsylvania_measles_outbreak_deaths"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 펜실베이니아주서\n홍역 사망 [[6명]] 발생",
+      "sub": "보건 당국이 확산세 속 백신 접종 당부",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "6명"
+        },
+        {
+          "k": "지역",
+          "v": "펜실베이니아"
+        }
+      ],
+      "alt": "미국 펜실베이니아주서 홍역 사망 6명 발생",
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n펜실베이니아",
+      "video_only": true,
+      "map": {
+        "lat": 40.9699889,
+        "lon": -77.7278831,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "펜실베이니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "추가 사망",
+          "d": "제퍼슨 군 주민이 추가로 숨지면서 총 사망자가 6명으로 늘었습니다 (WTAE)."
+        },
+        {
+          "t": "백신 접종",
+          "d": "보건 당국은 해당 지역 주민들의 백신 접종률이 낮다고 밝혔습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "홍역 확산으로 인한 사망자 6명 (ABC뉴스·로이터)",
+        "제퍼슨 군 주민 추가 사망 (WTAE)"
+      ],
+      "unconfirmed": [
+        "향후 확산 범위 및 추가 감염자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "6abc Philadelphia",
+        "ABC News - Breaking News, Latest News and Videos",
+        "Reuters",
+        "The Guardian",
+        "WTAE",
+        "2026.11.05 09:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 펜실베이니아주서 홍역으로 사망 6명 발생 (ABC뉴스·로이터)\n\n· 제퍼슨 군 주민이 추가로 숨지며 누적 사망자가 6명으로 늘었습니다 (WTAE)\n· 보건 당국은 해당 지역의 백신 접종률이 낮다고 밝혔습니다 (가디언)\n\n출처: ABC뉴스·가디언·WTAE·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펜실베이니아주에서 홍역 확산으로 6명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "제퍼슨 군 주민이 추가로 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "보건 당국은 해당 지역 주민들의 백신 접종률이 낮다고 밝혔습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "미국 펜실베이니아주서\n번지고 있는 [[홍역]]",
+  "broll": [
+    "hospital building exterior",
+    "medical laboratory sign"
+  ],
+  "place_en": "Pennsylvania, USA"
+}
