@@ -33614,5 +33614,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793869789
+  },
+  {
+    "slug": "2026-11-05-news-germany-bavaria-deputy-premier-found-dead-2026",
+    "event_ms": 1793873494494,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 독일 바이에른주 부총리가 베를린의 한 호텔에서 숨진 채 발견됐습니다.\n\n· 후베르트 아이방거 부총리가 베를린 호텔 방에서 사망한 상태로 발견됐습니다 (DW·로이터)\n· 현지 경찰은 사망 원인과 정확한 경위를 조사하고 있다고 밝혔습니다 (로이터)\n\n출처: DW·가디언·ABC뉴스·로이터·르몽드 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "기타 사건",
+      "독일"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18137836054646750",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfWyeEpEZW7",
+        "kind": "carousel",
+        "at": 1793873540
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1793873646
+      },
+      "tiktok": {
+        "id": "7704628670966631700",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704628670966631700",
+        "kind": "video",
+        "at": 1793873768
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793877005
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793877005
   }
 ]
