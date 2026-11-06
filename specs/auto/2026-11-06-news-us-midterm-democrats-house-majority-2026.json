@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-06-news-us-midterm-democrats-house-majority-2026",
+  "topic": "미 민주당 하원 과반 250석 넘겨 승리",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 17:30 KST",
+  "source": "BBC·The Guardian·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB",
+    "related": [
+      [
+        "Midterm Elections Live Updates: Democrats Clear 250 House Seats in Decisive Power Shift",
+        "The New York Times"
+      ],
+      [
+        "Midterms 2026 election results and latest updates: Mississippi votes still being counted in Senate nail-biter after Democrats take control of Congress",
+        "Yahoo"
+      ],
+      [
+        "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+        "The Guardian"
+      ],
+      [
+        "Five reasons why Republicans lost so badly",
+        "BBC"
+      ],
+      [
+        "The dawn of the post-Trump era",
+        "Engelsberg Ideas"
+      ]
+    ],
+    "event_key": "us_midterm_democrats_house_majority_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[미 민주당]] 하원 과반\n250석 넘겨 승리",
+      "sub": "중간선거에서 하원 다수당 지위를 탈환했습니다",
+      "chips": [
+        {
+          "k": "하원 의석",
+          "v": "250석 이상"
+        }
+      ],
+      "alt": "미 민주당 하원 과반 250석 넘겨 승리",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "하원 다수당 탈환",
+          "d": "민주당이 중간선거 하원 개표에서 250석 이상을 확보했습니다 (NYT·가디언)."
+        },
+        {
+          "t": "의회 권력 지형 변화",
+          "d": "이번 선거 결과로 미국 의회 하원 주도권이 민주당으로 넘어가게 됐습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "민주당 하원 250석 이상 확보 (NYT·가디언)"
+      ],
+      "unconfirmed": [
+        "최종 의석수 확정 집계"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Engelsberg Ideas",
+        "The Guardian",
+        "The New York Times",
+        "Yahoo",
+        "2026.11.06 20:00 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 중간선거에서 민주당이 하원 250석 넘게 차지했습니다.\n\n· 민주당이 하원 250석 이상을 확보했습니다 (NYT·가디언)\n· 이번 결과로 미국 의회의 주도권 지형이 바뀔 전망입니다 (BBC)\n\n미국 의회 권력 지형 변화가 향후 국정 운영에 어떤 영향을 미칠 것으로 보십니까?\n출처: NYT·가디언·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 중간선거에서 민주당이 하원 250석 이상을 확보했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "의회 하원의 주도권이 민주당으로 넘어갔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "뉴욕타임스와 가디언은 민주당이 하원 250석을 넘겼다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 최종 의석수는 아직 개표 집계 중입니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미국 선거 결과에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[미 중간선거]]\n하원 승리의 결과",
+  "broll": [
+    "capitol building washington",
+    "vote counting election"
+  ],
+  "place_en": "Washington, D.C., United States"
+}

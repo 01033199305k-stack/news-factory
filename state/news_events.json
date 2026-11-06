@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "egypt-sisi-saudi-defense-assistance-2026",
-    "topic": "이집트, 요청 시 사우디 방어 지원 추진",
-    "slug": "2026-10-18-news-egypt-sisi-saudi-defense-assistance-2026",
-    "cluster": "CBMitgFBVV95cUxQNUdhUHdad2lzbmVrbkZQbHB1dlQtdWVlVlpCT2FCNXJhUFl4R2NIRjNjN2ZDWHVZcE05NEV1bk1QT3dtUUVISDRjMURlLWJwOFpjTFRveUx1cWlaR3d2VUdoV2twd3dURkFvS1RvTUlfN2R3anptaTdxcGFlNnp2SXBFTDBQOEo1UWNHYTFtejIzTGZlSkZsbjFuX1hObE01LXpIM0RXdXU0ekJ4YTltcl9mT29pQdIBuwFBVV95cUxPdENtS0ZtTzRYSE40MkFVSFpMMDZhTVR3TE5LQ0JzTE9ybzI1NlZRMFJELWVjb05keDRpWmhDbEl4VGs3QWRqMmtZaVFITUotVDBNRWQxRmlDU1RkLU9BMks4R2g4NGFLemlKbW5aNmozbzZCRjdaWGlieUVmaXVjeF9nbmlwRVhKYjF2cmJtT0ROLWpfY0pHUFMtV1dzcG52OXFGWmZTalBPVkpyWUtYLURUVS1xU2dvQmkw",
-    "badge": "brief",
-    "at": 1792260699.9787664,
-    "country": "이집트",
-    "category": "국제"
-  },
-  {
-    "event_key": "kenya-ebola-outbreak-7-cases-2026",
-    "topic": "케냐 에볼라 7명 확진 의료진 감염도 확인",
-    "slug": "2026-10-17-news-kenya-ebola-outbreak-7-cases-2026",
-    "cluster": "CBMihgFBVV95cUxPb25NZDFBejk0MnVUejJ6VGNNMTA4UzhJY0xVSkh6UU8tVldzQ05XU0tvalREbXlzaGJCN1BiS3RfcjlmNG44WjVFVmlVSTBrS0NrSm5udGVPUWdqX0ltdC1lZy1zRFJsNlN2ZXI2cXl5dnpwcXB4QWM0SktTcGpJYU4xQk1YQQ",
-    "badge": "brief",
-    "at": 1792267899.2800198,
-    "country": "케냐",
-    "category": "재난"
-  },
-  {
     "event_key": "oregon-school-shooting-2026",
     "topic": "미 오리건주 초등학교 총격 사건 어린이 포함 5명 사망",
     "slug": "2026-10-18-news-oregon-school-shooting-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793959924.6600175,
     "country": "아랍에미리트",
     "category": "국제"
+  },
+  {
+    "event_key": "us_midterm_democrats_house_majority_2026",
+    "topic": "미 민주당 하원 과반 250석 넘겨 승리",
+    "slug": "2026-11-06-news-us-midterm-democrats-house-majority-2026",
+    "cluster": "CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB",
+    "badge": "breaking",
+    "at": 1793962815.9148743,
+    "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "france_school_bus_crash_deaths_2026",
+    "topic": "프랑스 스쿨버스 추락 어린이 등 2명 사망",
+    "slug": "2026-11-06-news-france-school-bus-crash-deaths-2026",
+    "cluster": "CBMif0FVX3lxTFBTWnprNTBSVWdqMmY5b0lDbHJ3X0tJd2tEcnZYN3Fmd0hnUE1sQlZ1OVM2ZS1GR0RyajVUMjF6UHVraGtxOTdWR0FicFZXQkcybVdXZWhjVFIxR2paS2pYTXl2dkdoWmdqeWxMYTA3OEg5UlgyeGk0Zk5PSUxWVE0",
+    "badge": "breaking",
+    "at": 1793962965.6123605,
+    "country": "프랑스",
+    "category": "사고"
   }
 ]
