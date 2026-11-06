@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "mexico_surfers_murder_sentencing",
-    "topic": "멕시코서 외국인 서퍼 살해 범인 3명 각 158년형",
-    "slug": "2026-10-17-news-mexico-surfers-murder-sentencing",
-    "cluster": "CBMiW0FVX3lxTE1Td2ZsbFdISWxWS2JJcWMxUjhBUVdqb1RzWXRIeUxubjhnMUhQTVpCcnMtd1YwU3ZoZjJ3UkYxTlhVUDEyMVg3Vmo2T2ZNNHVJOHZxMGpXUHNHRlE",
-    "badge": "breaking",
-    "at": 1792215573.7552311,
-    "country": "멕시코",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "romania-scrambles-f16-russian-drone-airspace-2026",
     "topic": "루마니아 영공 드론 침범 F-16 전투기 긴급 출격",
     "slug": "2026-10-17-news-romania-scrambles-f16-russian-drone-airspace-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793928759.8660638,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "us_stock_rout_ai_meltdown_2026",
+    "topic": "미 뉴욕증시 폭락 다우 1800포인트 뚝",
+    "slug": "2026-11-06-news-us-stock-rout-ai-meltdown-2026",
+    "cluster": "CBMi1gFBVV95cUxOZTZIZ0tKbklnYWJvNVFoSXUtcEFER2lUNXBpaUpWeW0zMVgxakZfODVnb0NwdG0tUDFVcGFoakZPbWhNRUlBcHFSM2dlN2RmQ256c19feE1PNjFNclZwQl9aSXFSRi10eGNoc1JjQUxpRGhEa05JT0dJdzBXLXI1LXNoa3pQZEJ4ZjAyNjBLSkF3VGhMckwzVFl4SnJLSlBtTEJXLUc4S2x4NFk3S1lsUGxDc3BKZ3dkeEZ5TmRNbVptdjFxOGFXMUFsQy1UR2l1UklaMUd3",
+    "badge": "breaking",
+    "at": 1793931118.6559808,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

@@ -1,0 +1,147 @@
+{
+  "slug": "2026-11-06-news-us-stock-rout-ai-meltdown-2026",
+  "topic": "미 뉴욕증시 폭락 다우 1800포인트 뚝",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 09:34 KST",
+  "source": "Bloomberg.com·The Washington Post·CNBC 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMi1gFBVV95cUxOZTZIZ0tKbklnYWJvNVFoSXUtcEFER2lUNXBpaUpWeW0zMVgxakZfODVnb0NwdG0tUDFVcGFoakZPbWhNRUlBcHFSM2dlN2RmQ256c19feE1PNjFNclZwQl9aSXFSRi10eGNoc1JjQUxpRGhEa05JT0dJdzBXLXI1LXNoa3pQZEJ4ZjAyNjBLSkF3VGhMckwzVFl4SnJLSlBtTEJXLUc4S2x4NFk3S1lsUGxDc3BKZ3dkeEZ5TmRNbVptdjFxOGFXMUFsQy1UR2l1UklaMUd3",
+    "related": [
+      [
+        "Stock market today: Dow plunges 1,800 points, Nasdaq enters correction in AI trade meltdown",
+        "Yahoo Finance"
+      ],
+      [
+        "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge",
+        "CNBC"
+      ],
+      [
+        "S&P 500, Nasdaq, Dow Futures Dip As Investors Step Back From AI And Tech With Nasdaq In Correction Territory — NVDA, AAPL, UBER, SOXX In Focus",
+        "Yahoo Finance"
+      ],
+      [
+        "Worst US Stock Rout Since 2020 Leaves Virtually Nowhere to Hide",
+        "Bloomberg.com"
+      ],
+      [
+        "Stocks tumble, erasing post-midterm gains as markets weigh future of AI build-out",
+        "The Washington Post"
+      ]
+    ],
+    "event_key": "us_stock_rout_ai_meltdown_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 뉴욕증시 [[폭락]]\n다우 1800포인트 뚝",
+      "sub": "AI 주도 매도세에 2020년 이후 최악의 장세 기록",
+      "chips": [
+        {
+          "k": "다우",
+          "v": "-1,800pt"
+        },
+        {
+          "k": "매그니피센트 7",
+          "v": "-1조 달러"
+        }
+      ],
+      "alt": "미 뉴욕증시 폭락 다우 1800포인트 뚝",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "빅테크 타격",
+          "d": "매그니피센트 7 시가총액이 1조 달러 감소했다고 CNBC가 전했습니다."
+        },
+        {
+          "t": "나스닥 조정장",
+          "d": "나스닥 지수도 하락하며 조정 영역에 진입했다고 야후파이낸스가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "다우존스 1,800포인트 급락 (야후파이낸스)",
+        "매그니피센트 7 시총 1조 달러 감소 (CNBC)",
+        "나스닥 조정장 진입 (야후파이낸스)"
+      ],
+      "unconfirmed": [
+        "향후 AI 투자 확장의 지속 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "The Washington Post",
+        "Yahoo Finance",
+        "2026.11.06 11:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 뉴욕증시 다우 1800포인트 뚝… 2020년 이후 최악의 폭락\n\n· 다우존스 지수 1,800포인트 급락 (야후파이낸스)\n· 매그니피센트 7 시가총액 1조 달러 감소 (CNBC)\n· 나스닥 지수 하락하며 조정 영역 진입 (야후파이낸스)\n\n출처: 야후파이낸스·CNBC·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 뉴욕증시가 2020년 이후 최악의 폭락세를 기록했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "야후파이낸스는 다우존스 지수가 1,800포인트 급락했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "CNBC는 주요 기술주 그룹의 시가총액이 1조 달러 감소했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "나스닥 지수도 떨어지며 조정 영역에 진입했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 AI 투자 확장이 시장에 미칠 영향은 아직 확실하지 않습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미 뉴욕증시에서\n무슨 일이?",
+  "broll": [
+    "stock exchange screen",
+    "financial district street"
+  ],
+  "place_en": "New York, USA"
+}
