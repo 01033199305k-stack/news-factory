@@ -41,7 +41,7 @@
     },
     "attempts": {
       "instagram": 3,
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   },
@@ -87,7 +87,7 @@
     },
     "attempts": {
       "instagram": 3,
-      "tiktok": 1
+      "tiktok": 2
     },
     "video": "video.mp4"
   },
@@ -121,10 +121,15 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfZkZRhlQnB",
         "kind": "carousel",
         "at": 1793966838
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1793970432
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2,
+      "tiktok": 1
     },
     "video": "video.mp4"
   }
