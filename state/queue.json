@@ -1,1 +1,35 @@
-[]
+[
+  {
+    "slug": "2026-11-06-news-linux-openssh-vulnerability-patch-2026",
+    "event_ms": 1793920176000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 알파인 리눅스 기기서 비밀번호 우회 취약점 발견\n\n· 256자 넘는 긴 비밀번호 입력 시 인증 우회 가능 (Ars Technica·The Hacker News)\n· 오픈SSH와 musl-libc 긴급 패치 배포 및 적용 권고 (Tom's Hardware·The Register)\n\n어디까지 확산될지, 여러분은 어떻게 보십니까?\n\n출처: Ars Technica·The Hacker News·Tom's Hardware·The Register·OX Security 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18012793976771079",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfYY0wGmvPo",
+        "kind": "carousel",
+        "at": 1793927208
+      }
+    },
+    "attempts": {}
+  }
+]

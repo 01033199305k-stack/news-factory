@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "trump_waives_russia_sanctions_india",
-    "topic": "미국, 인도 등 대상 러시아 관련 제재 및 관세 면제 발표",
-    "slug": "2026-10-17-news-trump-waives-russia-sanctions-india",
-    "cluster": "CBMikAJBVV95cUxPSkVTaW8zS0RTcXdnXzJUOTRZU0JwUmhVZTd6bDRrY3NHNzREOFBFVEk5dTlsbkZFeDBmQll1ODNrRDA3STJfMk16NXN5ek1ycVpNUUR0T0pYazM5Sm4yeE1ST1JieGgzVWx4dzZ2WkdwRFdCdEU4c1hGeWNMWGtPNFJKalJLSlNfbWkxUEV5S1BXMWw4U05nSDhua1VQUnJzdi1kbjlEV1pMWTZ1aElkRGFRbjJ3ZVo1MVB4VjJONTZnWG4wZUJLQWE2Szk0T1NiZjFFS3lUUDJVNEdObGMyQzNJRG03MGQzMlF1MG0zWWJkYUNRZUc5ZGpyWVJVSUdYdEpCQkdrNTByTjFqdzVSdA",
-    "badge": "breaking",
-    "at": 1792202309.2115617,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "albania-student-protests-education-ministry-fire-2026",
     "topic": "알바니아 수도서 반정부 시위 격화",
     "slug": "2026-10-17-news-albania-student-protests-education-ministry-fire-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793920922.6709743,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "linux_openssh_vulnerability_patch_2026",
+    "topic": "알파인 리눅스 기기서 비밀번호 우회 취약점 발견",
+    "slug": "2026-11-06-news-linux-openssh-vulnerability-patch-2026",
+    "cluster": "CBMiuAFBVV95cUxQYmRJaTFLMTV3OGd1QzlWOEhnNmE2alpWUkZfXzNBSEpNNjJCdWRfTm00VW93OWNZcjdULWZqMzVDZnFtdll0YjRMMkREdFhMVkN6TnMzLXVxU1hIZzhDTGNnUl9WWDFVWW5xZ1pRc3VDOGNlUmhwUzFDOGg1aHJFZUtiOE5rSm5GWWo4RmFqeXU3RUFxRnhaX1Y5YnQ0d2Fuc0JtMlBEaHJRX0stazBzWXBqZW13N3dR",
+    "badge": "breaking",
+    "at": 1793927159.2817628,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
