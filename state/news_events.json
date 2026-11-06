@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "canada-alberta-military-base-fire-explosion-2026",
-    "topic": "캐나다 군기지 대형 화재 다수 사상자 발생",
-    "slug": "2026-10-18-news-canada-alberta-military-base-fire-explosion-2026",
-    "cluster": "CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw",
-    "badge": "breaking",
-    "at": 1792292880.13116,
-    "country": "캐나다",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "west_bank_settlers_attack_european_diplomats_2026",
     "topic": "서안 지구서 정착민들이 유럽 외교관들을 공격했습니다",
     "slug": "2026-10-18-news-west-bank-settlers-attack-european-diplomats-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793982675.4218922,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "yemen_hamdan_airstrikes_saudi_2026",
+    "topic": "예멘 수도 함단 공습 일가족 9명 사망 보도",
+    "slug": "2026-11-07-news-yemen-hamdan-airstrikes-saudi-2026",
+    "cluster": "CBMipwFBVV95cUxOTUltTW8zc3dCR2ZIbnN5NVZsU3BUTFh4TGFBRnJvbU5iMGI3M2t3Q3RudnZZTEpqR2RJTXpaYzhmUk5pX3JXbFV2cFBPNWI3b2x0OTlubE80MWMtZ1dEbWNBZ3VqT3VJdTR4Vmt2ckt6RnNxekpOdjdNYngyb3JvZnJEemdIcUNUZXlkRWxqRUlrWGJ1MEZ4ZHdPeGdOaWlDdUxRZHl0OA",
+    "badge": "breaking",
+    "at": 1793984856.749102,
+    "country": "예멘",
+    "category": "국제"
   }
 ]

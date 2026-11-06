@@ -1,0 +1,130 @@
+{
+  "slug": "2026-11-07-news-yemen-hamdan-airstrikes-saudi-2026",
+  "topic": "예멘 수도 함단 공습 일가족 9명 사망 보도",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.07 01:24 KST",
+  "source": "The New York Times·وكالة سبأ 등 3개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxOTUltTW8zc3dCR2ZIbnN5NVZsU3BUTFh4TGFBRnJvbU5iMGI3M2t3Q3RudnZZTEpqR2RJTXpaYzhmUk5pX3JXbFV2cFBPNWI3b2x0OTlubE80MWMtZ1dEbWNBZ3VqT3VJdTR4Vmt2ckt6RnNxekpOdjdNYngyb3JvZnJEemdIcUNUZXlkRWxqRUlrWGJ1MEZ4ZHdPeGdOaWlDdUxRZHl0OA",
+    "related": [
+      [
+        "Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say",
+        "The New York Times"
+      ],
+      [
+        "Local Authority in Sana’a Condemns Attack on Two Water Wells in Hamdan",
+        "وكالة سبأ"
+      ],
+      [
+        "LIVE: Airstrikes target Hamdan district in Yemen’s capital",
+        "Latest news from Azerbaijan"
+      ]
+    ],
+    "event_key": "yemen_hamdan_airstrikes_saudi_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "예멘 수도 [[함단]] 공습\n일가족 9명 사망 보도",
+      "sub": "사우디 주도 연합군 공습으로 피해 발생",
+      "chips": [],
+      "alt": "예멘 수도 함단 공습 일가족 9명 사망 보도",
+      "map": {
+        "lat": 15.35,
+        "lon": 44.2,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "예멘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "예멘\n사나 함단",
+      "video_only": true,
+      "map": {
+        "lat": 15.35,
+        "lon": 44.2,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "사나 함단"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공습 지점",
+          "d": "예멘 수도 함단 지역이 공습을 받았습니다 (사바·아제르바이잔 뉴스)."
+        },
+        {
+          "t": "인명 피해 보도",
+          "d": "사우디 주도 연합군의 공습으로 일가족 9명이 숨졌다고 전해졌습니다 (NYT)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "예멘 함단 지역 공습 발생",
+        "사우디 주도 연합군 공격"
+      ],
+      "unconfirmed": [
+        "사망자 9명 여부 보도",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Latest news from Azerbaijan",
+        "The New York Times",
+        "وكالة سبأ",
+        "2026.11.07 02:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 예멘 수도 함단 지역 공습… 일가족 9명 사망 보도\n\n· 예멘 함단 지역에 공습이 가해졌습니다 (사바·아제르바이잔 뉴스)\n· 사우디 주도 연합군 공습으로 일가족 9명이 숨졌다는 보도가 나왔습니다 (NYT)\n\n여러분은 이번 중동 사태 전개를 어떻게 보십니까?\n\n출처: NYT·사바·아제르바이잔 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "예멘 함단 지역에 공습이 가해졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디아라비아 주도 연합군의 공격으로 알려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "뉴욕타임스는 이번 공습으로 일가족 9명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중동 사태 전개를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[예멘]] 함단 공습\n무슨 일 일어났나",
+  "broll": [
+    "airstrike smoke distance",
+    "yemen city view"
+  ],
+  "place_en": "Sana'a, Yemen"
+}
