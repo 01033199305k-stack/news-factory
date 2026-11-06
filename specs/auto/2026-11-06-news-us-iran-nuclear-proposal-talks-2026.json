@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-06-news-us-iran-nuclear-proposal-talks-2026",
+  "topic": "이란, 미국에 핵 제안 전달 평화 협상 움직임",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 21:53 KST",
+  "source": "Bloomberg.com·NDTV·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxNUjUxQzJHS2FHTGFjdVJVU2lIM3FjdWhFRTNmNUhJaFZSdDRVa2JsMWZabkJSam94VzVtcmxhTmpodmJvb2QzY0NJdmxZVEgxT19TY092RnJHN2hnSmRCWGFYV25kRi1lU3ZjQ3VjVVRveFAzT0haRHhkcFlvbG1EdjZEb3J4NmIzdzJOYVVXYlhwRUJHN19SckxLMFhZSUlLM1AzLWlES0pNdHlhcUdkQmJSY25sSmZXSFkyajZmTmV3a1Z2SENr0gHMAUFVX3lxTE8tMFpMdkJBUDZaZE9UZXh0MHE3dnZrLVpUcFhwNXk0TGlWNnlFbTRwMmFuN2pYeEw1ZDFJa29kUEYwY2VoeHpfTjYwb2hTS3NZeklXQ0NpX2otUHhXZ1Y1OGJVRGN5X0tnZkNqWk05VTc1LU1uR3ZDSlM3c09pLVpZckNyd2lqR3NyQlpKcl84eE01MDlVMzNQY0J4dGNWdndHcExyQmNJQmlhODRFWGJHNnN2ZW9EM1B2M0s2MmZPR09INzZfQUpOUVJ5Zg",
+    "related": [
+      [
+        "US, Iran inch closer to peace deal as Tehran considers nuclear proposals",
+        "Moneycontrol.com"
+      ],
+      [
+        "Trump Threatens To 'Destroy' Iran, Tehran Sends Nuke Proposal With 7 Terms",
+        "NDTV"
+      ],
+      [
+        "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+        "Reuters"
+      ],
+      [
+        "No ‘paper commitments’: Iran seeks concrete US action before talks",
+        "Telegraph India"
+      ],
+      [
+        "US and Iran Edge Closer to Deal With Nuclear Issue Back in Play",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "us_iran_nuclear_proposal_talks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, 미국에 [[핵 제안]] 전달\n평화 협상 움직임",
+      "sub": "카타르를 거쳐 미국 측에 제안서가 전달됐습니다.",
+      "chips": [
+        {
+          "k": "제안",
+          "v": "핵 제안 7개 조항"
+        }
+      ],
+      "alt": "이란, 미국에 핵 제안 전달 평화 협상 움직임",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "카타르 경유",
+          "d": "이란은 카타르를 통해 미국에 핵 제안을 전달했습니다 (로이터)."
+        },
+        {
+          "t": "미국 반응",
+          "d": "미국과 이란이 평화 협상에 한 걸음 다가섰습니다 (머니컨트롤)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란의 미국에 핵 제안 전달",
+        "카타르를 통한 전달 경로",
+        "평화 협상 가능성 대두"
+      ],
+      "unconfirmed": [
+        "미국의 구체적인 수용 여부",
+        "한국인 피해 여부",
+        "향후 협상 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Moneycontrol.com",
+        "NDTV",
+        "Reuters",
+        "Telegraph India",
+        "2026.11.07 00:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란, 미국에 [[핵 제안]] 전달\n평화 협상 움직임\n\n· 이란은 카타르를 통해 미국에 핵 제안을 전달했습니다 (로이터)\n· 미국과 이란이 평화 협상에 한 걸음 다가섰습니다 (머니컨트롤)\n\n이번 미·이 양국의 협상 움직임, 어떻게 보십니까?\n\n출처: 로이터·머니컨트롤·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 미국에 핵 제안을 전달하며 평화 협상 움직임이 나타났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 이란이 카타르를 거쳐 미국 측에 제안서를 보냈다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국과 이란이 협상에 다가섰지만, 구체적인 합의 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 협상 움직임, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "이란이 미국에\n보낸 [[핵 제안]]은?",
+  "broll": [
+    "diplomatic meeting room",
+    "government building exterior"
+  ],
+  "place_en": "Tehran, Iran"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "wichita_sports_complex_vehicle_crash_2026",
-    "topic": "미국 위치타 체육시설서 차량 돌진 어린이 포함 2명 사망",
-    "slug": "2026-10-18-news-wichita-sports-complex-vehicle-crash-2026",
-    "cluster": "CBMidEFVX3lxTE9IOEJ6REVSSGpqUnhpVVlBVFRVbE0yOUtJUVVHS25sNHc0bGNYNUpaQ3pkV3ZqdGlLS3NzZ196ZVZaQTctQkJWb3RCODF2Rmh5UEhPdDQ5emM0T0lVTVZfOThHQ3BWSExEVnl0TmZIWjlKeEhP",
-    "badge": "breaking",
-    "at": 1792279476.205209,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "uss-theodore-roosevelt-arrives-japan-2026",
     "topic": "미 항모 루스벨트호 일본 요코스카 입항",
     "slug": "2026-10-18-news-uss-theodore-roosevelt-arrives-japan-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793966785.2366917,
     "country": "아일랜드",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "us_iran_nuclear_proposal_talks_2026",
+    "topic": "이란, 미국에 핵 제안 전달 평화 협상 움직임",
+    "slug": "2026-11-06-news-us-iran-nuclear-proposal-talks-2026",
+    "cluster": "CBMixwFBVV95cUxNUjUxQzJHS2FHTGFjdVJVU2lIM3FjdWhFRTNmNUhJaFZSdDRVa2JsMWZabkJSam94VzVtcmxhTmpodmJvb2QzY0NJdmxZVEgxT19TY092RnJHN2hnSmRCWGFYV25kRi1lU3ZjQ3VjVVRveFAzT0haRHhkcFlvbG1EdjZEb3J4NmIzdzJOYVVXYlhwRUJHN19SckxLMFhZSUlLM1AzLWlES0pNdHlhcUdkQmJSY25sSmZXSFkyajZmTmV3a1Z2SENr0gHMAUFVX3lxTE8tMFpMdkJBUDZaZE9UZXh0MHE3dnZrLVpUcFhwNXk0TGlWNnlFbTRwMmFuN2pYeEw1ZDFJa29kUEYwY2VoeHpfTjYwb2hTS3NZeklXQ0NpX2otUHhXZ1Y1OGJVRGN5X0tnZkNqWk05VTc1LU1uR3ZDSlM3c09pLVpZckNyd2lqR3NyQlpKcl84eE01MDlVMzNQY0J4dGNWdndHcExyQmNJQmlhODRFWGJHNnN2ZW9EM1B2M0s2MmZPR09INzZfQUpOUVJ5Zg",
+    "badge": "breaking",
+    "at": 1793977648.2013676,
+    "country": "이란",
+    "category": "국제"
   }
 ]
