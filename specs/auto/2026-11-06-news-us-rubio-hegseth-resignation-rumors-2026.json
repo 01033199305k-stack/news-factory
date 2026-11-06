@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-06-news-us-rubio-hegseth-resignation-rumors-2026",
+  "topic": "트럼프 행정부 마코 루비오 사임설 부인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 10:31 KST",
+  "source": "BBC·Bloomberg.com·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBpeGFjRlF0Y0VjVElIdnRPb1o3QTROeG9oUFBTbnVFbjBoN3hjaTFWZUdHMUo1OF9RSnlUUDBXQ1YzQ29tTW44UlJjV0xRazZRUmFiR0xVc0duUU8wZ2c",
+    "related": [
+      [
+        "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "BBC"
+      ],
+      [
+        "Marco Rubio ‘on resignation watch from Trump administration’ after midterms disaster",
+        "The Independent"
+      ],
+      [
+        "Rubio Dismisses Reports He Will Leave His Jobs to Run for President",
+        "The New York Times"
+      ],
+      [
+        "Rubio Weighs Leaving Administration After GOP’s Midterm Loss",
+        "Bloomberg.com"
+      ],
+      [
+        "Rubio Considering Resigning, Report Says",
+        "Forbes"
+      ]
+    ],
+    "event_key": "us_rubio_hegseth_resignation_rumors_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "트럼프 행정부 마코 루비오\n[[사임설]] 부인",
+      "sub": "백악관, 중간선거 패배 후 사퇴 보도 일축",
+      "chips": [],
+      "alt": "트럼프 행정부 마코 루비오 사임설 부인",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사임 보도 반박",
+          "d": "마코 루비오 장관은 사임설을 직접 부인했습니다 (The New York Times)."
+        },
+        {
+          "t": "백악관 입장",
+          "d": "백악관은 마코 루비오와 피트 헤그세트의 사임설을 부인했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "백악관의 사임설 부인 (BBC)",
+        "마코 루비오의 사임설 직접 부인 (The New York Times)"
+      ],
+      "unconfirmed": [
+        "트럼프 행정부 내각 개편 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bloomberg.com",
+        "Forbes",
+        "The Independent",
+        "The New York Times",
+        "2026.11.06 12:30 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 백악관, 마코 루비오 사임설 공식 부인\n\n· 백악관은 공화당의 중간선거 패배 이후 제기된 마코 루비오와 피트 헤그세트의 사임 보도를 부인했습니다 (BBC)\n· 마코 루비오 측은 사임설을 직접 일축했습니다 (The New York Times)\n\n여러분은 이번 중간선거 결과가 미국 행정부 인사에 어떤 영향을 미칠 것으로 보십니까?\n출처: BBC·The New York Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "백악관은 마코 루비오의 사임설을 부인했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공화당의 중간선거 패배 이후 제기된 사임 보도에 대해 루비오 측도 직접 사실무근이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "트럼프 행정부의 향후 내각 개편 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중간선거 결과가 미국 행정부에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "행정부 인사 영향은?"
+    }
+  ],
+  "hook": "마코 루비오 [[사임설]],\n진실은 무엇인가?",
+  "broll": [
+    "white house washington",
+    "us capitol building"
+  ],
+  "place_en": "Washington, D.C., United States"
+}

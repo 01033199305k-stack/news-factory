@@ -34254,5 +34254,56 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793931034
+  },
+  {
+    "slug": "2026-11-06-news-washington-state-bird-flu-death-2026",
+    "event_ms": 1793924797000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 워싱턴주서 조류인플루엔자 사망자 발생 (뉴욕타임스·폭스뉴스)\n\n· 유제품 젖소에 노출된 후 감염된 것으로 확인됐습니다 (폭스뉴스)\n· 이번 사례는 미국 내 세 번째 조류인플루엔자 사망 기록입니다 (폭스뉴스)\n\n출처: 뉴욕타임스·폭스뉴스·NBC뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18051366971828330",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfYb4Hrmuzk",
+        "kind": "carousel",
+        "at": 1793928808
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1793928995
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793931034
+      },
+      "tiktok": {
+        "failed": "createPost: Invalid post: Video could not be read from its URL.",
+        "at": 1793936340
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793936340
   }
 ]

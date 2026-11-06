@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "romania-scrambles-f16-russian-drone-airspace-2026",
-    "topic": "루마니아 영공 드론 침범 F-16 전투기 긴급 출격",
-    "slug": "2026-10-17-news-romania-scrambles-f16-russian-drone-airspace-2026",
-    "cluster": "CBMic0FVX3lxTE0yS01Zem1ZaGNRSDJHTGlzSUZYUERqTE1Eckc3VEFwY0VxWEJsMzlVN2VvcENudFFmZ1RSTFR1M3k2WTJPYTNBV2JCZE1GRXR0VHdjdVVhVE5GRVNJVVdxTmJwZ3l0VXpaTGRIODdMSHhnQVU",
-    "badge": "breaking",
-    "at": 1792224487.8102036,
-    "country": "루마니아",
-    "category": "국제"
-  },
-  {
-    "event_key": "bangladesh-resort-fire-kills-ten-2026",
-    "topic": "방글라데시 해변 리조트 화재로 10명 사망",
-    "slug": "2026-10-17-news-bangladesh-resort-fire-kills-ten-2026",
-    "cluster": "CBMi1AFBVV95cUxPdWJmdU55WDY5a2hqVzZSSWpZZ3ZsVGZ1Qk9sTWQ2RFg5SElSMUVDTERTT0V6LXF3YVdyZHJIWlNSdzNtLS1uaS16LS1KRUFFbjV4a1VJakIyQmtqa1JKTHpOT0MxMWxuWTJDWlZ1dVlQWVpGNGRCN3dLcG9nQk1ScE9Tc1d4Mk9yVnJxRkx1SjlMTkFhUFN5b05JbE50NmFXNzJNYmRZdFJqLUUtVWdDY3ZsekRfZHMwdjQyMkxOZkxaVlJLZzZ3dFVMSnNReFZXaUFhTw",
-    "badge": "breaking",
-    "at": 1792234448.161333,
-    "country": "방글라데시",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "hormuz-ship-attacks-record-high-2026",
     "topic": "호르무즈 해협 선박 공격 최다",
     "slug": "2026-10-17-news-hormuz-ship-attacks-record-high-2026",
@@ -2998,5 +2978,25 @@
     "at": 1793931118.6559808,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_rubio_hegseth_resignation_rumors_2026",
+    "topic": "트럼프 행정부 마코 루비오 사임설 부인",
+    "slug": "2026-11-06-news-us-rubio-hegseth-resignation-rumors-2026",
+    "cluster": "CBMiXkFVX3lxTFBpeGFjRlF0Y0VjVElIdnRPb1o3QTROeG9oUFBTbnVFbjBoN3hjaTFWZUdHMUo1OF9RSnlUUDBXQ1YzQ29tTW44UlJjV0xRazZRUmFiR0xVc0duUU8wZ2c",
+    "badge": "breaking",
+    "at": 1793935855.14681,
+    "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "putin_iran_security_chief_meeting_2026",
+    "topic": "푸틴 러시아 대통령 이란 안보 수장과 회동",
+    "slug": "2026-11-06-news-putin-iran-security-chief-meeting-2026",
+    "cluster": "CBMipwFBVV95cUxOQnVkOVN5OTNTeXZHZ0FUWE5halRMcHMySFhaS3plM2h6Ykt3WGI4NjkwRVFxSmg2aHo0MGVTb25YOXFucjJEcjFJXzYyOFlxdDV6QjJSbE5lNHNwWENhZWpDZ1VSR2RqQlRVZFRLbktJdXUyTVBGQk1vTXVnTjVkdDYyZ2FmQkhlc28tdTJmbTZJNlpXSzFzd25zWllERWVROFFoemtKONIBrAFBVV95cUxNTXpROFF4dEJtRkR5ZE5sN05admFlZEpxS3VPb3VveE5SWndjMG9ZYk1QZXdUdERYaVlyTThkZl9nQXgxRUxJZENQWEIxc3AzcXBKcWx2clkxcjlGUThrQm9LWEtRenlaeHloMmVjSC0ycDNWMDlXRGZoajlRZVZpT0N3a2lDWWsxMm1LcUIySmlXTHd3azc5S0lIUkV2c2dvZUpLaFdMSy15TEN4",
+    "badge": "breaking",
+    "at": 1793935866.820936,
+    "country": "러시아",
+    "category": "국제"
   }
 ]

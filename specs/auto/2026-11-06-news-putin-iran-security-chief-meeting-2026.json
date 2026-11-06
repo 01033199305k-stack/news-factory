@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-06-news-putin-iran-security-chief-meeting-2026",
+  "topic": "푸틴 러시아 대통령 이란 안보 수장과 회동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 11:52 KST",
+  "source": "Al Jazeera·Reuters·Iran International 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxOQnVkOVN5OTNTeXZHZ0FUWE5halRMcHMySFhaS3plM2h6Ykt3WGI4NjkwRVFxSmg2aHo0MGVTb25YOXFucjJEcjFJXzYyOFlxdDV6QjJSbE5lNHNwWENhZWpDZ1VSR2RqQlRVZFRLbktJdXUyTVBGQk1vTXVnTjVkdDYyZ2FmQkhlc28tdTJmbTZJNlpXSzFzd25zWllERWVROFFoemtKONIBrAFBVV95cUxNTXpROFF4dEJtRkR5ZE5sN05admFlZEpxS3VPb3VveE5SWndjMG9ZYk1QZXdUdERYaVlyTThkZl9nQXgxRUxJZENQWEIxc3AzcXBKcWx2clkxcjlGUThrQm9LWEtRenlaeHloMmVjSC0ycDNWMDlXRGZoajlRZVZpT0N3a2lDWWsxMm1LcUIySmlXTHd3azc5S0lIUkV2c2dvZUpLaFdMSy15TEN4",
+    "related": [
+      [
+        "Iran’s security chief meets Putin, delivers message from Khamenei",
+        "Al Jazeera"
+      ],
+      [
+        "Putin met Iranian security council chief Rezaei in Moscow",
+        "ThePrint"
+      ],
+      [
+        "How far would Russia and China go to save the Islamic Republic?",
+        "Iran International"
+      ],
+      [
+        "Iran's security chief discusses regional, bilateral affairs with Putin",
+        "Reuters"
+      ],
+      [
+        "Vladimir Putin, Rezaei meet as Turkey probes deadly Iran border fire",
+        "The Jerusalem Post"
+      ]
+    ],
+    "event_key": "putin_iran_security_chief_meeting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "푸틴 러시아 대통령\n이란 안보 수장과 [[회동]]",
+      "sub": "모스크바서 양국 지역·양자 현안 논의",
+      "chips": [],
+      "alt": "푸틴 러시아 대통령 이란 안보 수장과 회동",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "메시지 전달",
+          "d": "이란 안보 수장은 모스크바를 방문해 블라디미르 푸틴 러시아 대통령을 만나고 최고지도자의 메시지를 전달했습니다 (Al Jazeera·Reuters)."
+        },
+        {
+          "t": "회담 의제",
+          "d": "양측은 지역 현안과 양국 간 협력 방안을 논의했습니다 (Reuters)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "푸틴과 이란 안보 평의회 사무총장 회동 (Al Jazeera·Reuters)",
+        "이란 최고지도자 메시지 전달 (Al Jazeera)"
+      ],
+      "unconfirmed": [
+        "구체적인 회담 합의 내용",
+        "러시아·중국의 대이란 지원 범위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Iran International",
+        "Reuters",
+        "The Jerusalem Post",
+        "ThePrint",
+        "2026.11.06 12:30 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 푸틴 러시아 대통령, 모스크바서 이란 안보 수장 회동\n\n· 이란 안보 수장은 모스크바를 방문해 푸틴 대통령을 만나고 최고지도자의 메시지를 전달했습니다 (Al Jazeera·Reuters)\n· 양측은 지역 및 양자 현안을 논의했습니다 (Reuters)\n\n여러분은 러시아와 이란의 밀착이 중동 정세에 어떤 파장을 낳을 것으로 보십니까?\n출처: Al Jazeera·Reuters·The Jerusalem Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "블라디미르 푸틴 러시아 대통령이 모스크바에서 이란 안보 수장과 만났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 이란 측이 최고지도자의 메시지를 전달하고 지역 현안을 논의했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 회담 합의 내용은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 러시아와 이란의 양국 협력 강화를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "양국 협력 강화 전망은?"
+    }
+  ],
+  "hook": "푸틴과 이란 안보 수장이\n[[모스크바]]에서 만난 이유는?",
+  "broll": [
+    "moscow kremlin",
+    "diplomatic meeting room"
+  ],
+  "place_en": "Moscow, Russia"
+}

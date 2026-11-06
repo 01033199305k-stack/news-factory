@@ -1,49 +1,5 @@
 [
   {
-    "slug": "2026-11-06-news-washington-state-bird-flu-death-2026",
-    "event_ms": 1793924797000,
-    "category": "사고",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 미국 워싱턴주서 조류인플루엔자 사망자 발생 (뉴욕타임스·폭스뉴스)\n\n· 유제품 젖소에 노출된 후 감염된 것으로 확인됐습니다 (폭스뉴스)\n· 이번 사례는 미국 내 세 번째 조류인플루엔자 사망 기록입니다 (폭스뉴스)\n\n출처: 뉴욕타임스·폭스뉴스·NBC뉴스 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "사고",
-      "미국"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg"
-    ],
-    "done": {
-      "threads": {
-        "id": "18051366971828330",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfYb4Hrmuzk",
-        "kind": "carousel",
-        "at": 1793928808
-      },
-      "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1793928995
-      },
-      "instagram": {
-        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
-        "at": 1793931034
-      }
-    },
-    "attempts": {
-      "instagram": 3,
-      "tiktok": 2
-    }
-  },
-  {
     "slug": "2026-11-06-news-us-stock-rout-ai-meltdown-2026",
     "event_ms": 1793925240000,
     "category": "경제·과학",
@@ -64,7 +20,8 @@
       "01_cover.jpg",
       "02_points.jpg",
       "03_check.jpg",
-      "04_outro.jpg"
+      "04_outro.jpg",
+      "video.mp4"
     ],
     "done": {
       "threads": {
@@ -72,8 +29,116 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfYgZPzm8Ht",
         "kind": "carousel",
         "at": 1793931176
+      },
+      "youtube": {
+        "id": "eHIu4wHIATw",
+        "permalink": "https://youtube.com/shorts/eHIu4wHIATw",
+        "kind": "shorts",
+        "at": 1793936298
+      },
+      "tiktok": {
+        "id": "7704897920495013141",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704897920495013141",
+        "kind": "video",
+        "at": 1793936462
       }
     },
-    "attempts": {}
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-06-news-us-rubio-hegseth-resignation-rumors-2026",
+    "event_ms": 1793928665000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 백악관, 마코 루비오 사임설 공식 부인\n\n· 백악관은 공화당의 중간선거 패배 이후 제기된 마코 루비오와 피트 헤그세트의 사임 보도를 부인했습니다 (BBC)\n· 마코 루비오 측은 사임설을 직접 일축했습니다 (The New York Times)\n\n여러분은 이번 중간선거 결과가 미국 행정부 인사에 어떤 영향을 미칠 것으로 보십니까?\n출처: BBC·The New York Times 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18096704537690780",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfYpbXwlCFY",
+        "kind": "carousel",
+        "at": 1793935911
+      },
+      "youtube": {
+        "id": "y5pkepGkRJM",
+        "permalink": "https://youtube.com/shorts/y5pkepGkRJM",
+        "kind": "shorts",
+        "at": 1793936314
+      },
+      "tiktok": {
+        "id": "7704897551073299718",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704897551073299718",
+        "kind": "video",
+        "at": 1793936594
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-06-news-putin-iran-security-chief-meeting-2026",
+    "event_ms": 1793933523000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 푸틴 러시아 대통령, 모스크바서 이란 안보 수장 회동\n\n· 이란 안보 수장은 모스크바를 방문해 푸틴 대통령을 만나고 최고지도자의 메시지를 전달했습니다 (Al Jazeera·Reuters)\n· 양측은 지역 및 양자 현안을 논의했습니다 (Reuters)\n\n여러분은 러시아와 이란의 밀착이 중동 정세에 어떤 파장을 낳을 것으로 보십니까?\n출처: Al Jazeera·Reuters·The Jerusalem Post 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18138000913646513",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfYpfMMlNBc",
+        "kind": "carousel",
+        "at": 1793935942
+      },
+      "youtube": {
+        "id": "KrJBeVFKurU",
+        "permalink": "https://youtube.com/shorts/KrJBeVFKurU",
+        "kind": "shorts",
+        "at": 1793936330
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
   }
 ]
