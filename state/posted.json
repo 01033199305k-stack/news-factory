@@ -34523,5 +34523,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793952687
+  },
+  {
+    "slug": "2026-11-06-news-russia-ukraine-abu-dhabi-talks-2026",
+    "event_ms": 1793959924660,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 다음 주 아부다비에서 우크라이나 3자 평화 회담이 열립니다.\n\n· 러시아 크렘린궁은 다음 주 아부다비에서 3자 회담이 개최된다고 공식 확인했습니다 (로이터).\n· 미국 중재로 새로운 종전 및 안보 틀을 논의할 예정입니다 (폴리티코).\n\n이번 평화 회담 개최 결정에 대해 어떻게 생각하십니까?\n\n출처: 로이터·폴리티코 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "아랍에미리트"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18111345449363658",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfZXUfcEVDv",
+        "kind": "carousel",
+        "at": 1793959974
+      },
+      "youtube": {
+        "id": "HmCjUTHralk",
+        "permalink": "https://youtube.com/shorts/HmCjUTHralk",
+        "kind": "shorts",
+        "at": 1793960216
+      },
+      "tiktok": {
+        "id": "7704999975989644545",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7704999975989644545",
+        "kind": "video",
+        "at": 1793960348
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793963958
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793963958
   }
 ]
