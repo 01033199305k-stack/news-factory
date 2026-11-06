@@ -20,7 +20,8 @@
       "01_cover.jpg",
       "02_points.jpg",
       "03_check.jpg",
-      "04_outro.jpg"
+      "04_outro.jpg",
+      "video.mp4"
     ],
     "done": {
       "threads": {
@@ -28,8 +29,18 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfY7Ojsm8F0",
         "kind": "carousel",
         "at": 1793945245
+      },
+      "youtube": {
+        "id": "znPCJ22NV6Q",
+        "permalink": "https://youtube.com/shorts/znPCJ22NV6Q",
+        "kind": "shorts",
+        "at": 1793946811
       }
     },
-    "attempts": {}
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
   }
 ]
