@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-07-news-jay-rockefeller-dies-at-89",
+  "topic": "미국 가문의 상징이자 전직 상원의원 별세",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.07 01:52 KST",
+  "source": "Reuters·The New York Times·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirwFBVV95cUxPZDBJMDRPNVh2YlpfUHRFLTNnNG9YSWJwQ0lEYWpIc1M3Q2c2WW1aLUZKVm9xaGVEMHNkUVpHbXRYLWp0NzB3WlN0VlMxVWxQWFRaSUtJamtqelJoQkdNMGZ4TWpaR1Rya0FKZlRPM2NYRkZMSm9DN1VtNlZNZlc4eXdyT0hVdzR2VHNVbWs0emtkRjdwRVlFQmhSbzhGMFBlVUZhTzdJamRhTDlmdVRB",
+    "related": [
+      [
+        "Jay Rockefeller, heir to famed dynasty and healthcare advocate in US Senate, dies at 89",
+        "Reuters"
+      ],
+      [
+        "John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89",
+        "The New York Times"
+      ],
+      [
+        "Jay Rockefeller, heir to famed dynasty and healthcare advocate in U.S. Senate, dies at 89",
+        "CNBC"
+      ],
+      [
+        "Jay Rockefeller, Senate voice on health care and security, dies at 89",
+        "The Washington Post"
+      ],
+      [
+        "Jay Rockefeller, oil heir who fought poverty, dies at 89",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "jay_rockefeller_dies_at_89"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 가문의 상징이자\n[[전직 상원의원]] 별세",
+      "sub": "록펠러 가문 출신의 전직 상원의원이 89세를 일기로 사망했습니다.",
+      "chips": [
+        {
+          "k": "향년",
+          "v": "89세"
+        }
+      ],
+      "alt": "미국 가문의 상징이자 전직 상원의원 별세",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "고인의 이력",
+          "d": "로이터 등은 웨스트버지니아주 지사와 연방 상원의원을 지낸 제이 록펠러가 사망했다고 보도했습니다."
+        },
+        {
+          "t": "활동 분야",
+          "d": "고인은 상원에서 의료보장 개혁과 보안 분야를 담당했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "제이 록펠러 사망",
+        "향년 89세"
+      ],
+      "unconfirmed": [
+        "사인",
+        "장례 절차"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "Reuters",
+        "The New York Times",
+        "The Washington Post",
+        "Yahoo",
+        "2026.11.07 03:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 제이 록펠러 전 상원의원이 89세를 일기로 별세했습니다\n\n· 웨스트버지니아주 지사와 연방 상원의원을 지낸 제이 록펠러가 사망했습니다 (로이터)\n· 고인은 상원에서 의료보장과 보안을 담당했습니다 (워싱턴 포스트)\n\n출처: 로이터·워싱턴 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "제이 록펠러 전 상원의원이 89세를 일기로 별세했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 웨스트버지니아주 지사와 연방 상원의원을 지낸 고인이 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "고인은 상원에서 의료보장과 보안을 담당했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사인은 아직 공식적으로 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 고인의 발자취를 어떻게 기억하십니까?",
+      "card": "ask",
+      "screen": "제이 록펠러 별세"
+    }
+  ],
+  "hook": "전직 상원의원\n[[제이 록펠러]] 별세",
+  "broll": [
+    "capitol building flag",
+    "historic library interior"
+  ],
+  "place_en": "Washington, D.C."
+}
