@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "albania-student-protests-education-ministry-fire-2026",
-    "topic": "알바니아 수도서 반정부 시위 격화",
-    "slug": "2026-10-17-news-albania-student-protests-education-ministry-fire-2026",
-    "cluster": "CBMitgFBVV95cUxNdjdMS2ZKUlhUMGVhMFpYaXVMUEZzbFZMeXBIRVE1cVppYXloNGpjVThNcHowM3VxT1lxODE2TzI3cTJpVWNMOHVnWkpqM1I1NXRFRDI5RWJzRlJuYnl3SXpxLUtSUkJ5VU9qZFl1NWM1Si1nSTR2YV9RU1VBUnMyZnZrNVNESU1JQmFuZ1RJMDRZOVB2bURFVnYtWGVmaDI0ZjQxaWhpMjRLSEstZVBLOENVQ2dwQdIBuwFBVV95cUxPYzBaeVhOQmFrQ0JRV0NtMnU3WGFaTTZkclJfMkNtUmJKNkdlcE1haHU5cVBicFdJUWJOSTJ6T0QyMEVVZVpsNllGVUpFZjRCS0lsR0hNeUFFcFFjR2dya2VBVFoxMzFuNkItakVFSWJsWUdwUXFzM3ZQV2RuYy10YnRiUFR6Y282V2Nqa3lVNHZkMzdUSUlrWTR4RXZEN2JkcDNhbzJ2RWtpTFhLRjk0b0pCYWtnckpBd3E4",
-    "badge": "brief",
-    "at": 1792210064.0560627,
-    "country": "알바니아",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "mexico_surfers_murder_sentencing",
     "topic": "멕시코서 외국인 서퍼 살해 범인 3명 각 158년형",
     "slug": "2026-10-17-news-mexico-surfers-murder-sentencing",
@@ -2998,5 +2988,15 @@
     "at": 1793927159.2817628,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "washington_state_bird_flu_death_2026",
+    "topic": "미국 워싱턴주서 조류인플루엔자 사망자 발생",
+    "slug": "2026-11-06-news-washington-state-bird-flu-death-2026",
+    "cluster": "CBMickFVX3lxTE44cjdWNzNadlY3Q1E3UTRtYkh1WUxiY1JGbUJGYmd4czVidHRubWVuV1NLTzJFbXlxUng5NXpZMXM2VHdnSHhlTF9zejJyeHVZdkdadG93aXgwVXM0bE5Hc0FuV1NBYnVpZHdDajVrdGdCUQ",
+    "badge": "breaking",
+    "at": 1793928759.8660638,
+    "country": "미국",
+    "category": "사고"
   }
 ]

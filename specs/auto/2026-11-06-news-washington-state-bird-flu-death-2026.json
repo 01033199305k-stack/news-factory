@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-06-news-washington-state-bird-flu-death-2026",
+  "topic": "미국 워싱턴주서 조류인플루엔자 사망자 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 09:26 KST",
+  "source": "ABC News·Fox News·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMickFVX3lxTE44cjdWNzNadlY3Q1E3UTRtYkh1WUxiY1JGbUJGYmd4czVidHRubWVuV1NLTzJFbXlxUng5NXpZMXM2VHdnSHhlTF9zejJyeHVZdkdadG93aXgwVXM0bE5Hc0FuV1NBYnVpZHdDajVrdGdCUQ",
+    "related": [
+      [
+        "Bird Flu Death in Washington State Renews Concern Over the Virus",
+        "The New York Times"
+      ],
+      [
+        "Bird Flu Could Become a Terrible Feature of Fall",
+        "The Atlantic"
+      ],
+      [
+        "Bird flu didn’t turn into a pandemic, but it never went away, either",
+        "NBC News"
+      ],
+      [
+        "What to know after Washington state resident dies of bird flu",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Bird flu kills US resident after dairy cow exposure, marking nation’s third death",
+        "Fox News"
+      ]
+    ],
+    "event_key": "washington_state_bird_flu_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 워싱턴주서\n조류인플루엔자 [[사망자]] 발생",
+      "sub": "유제품 젖소 노출 후 감염 확인",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "미국 워싱턴주서 조류인플루엔자 사망자 발생",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴주",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 발생",
+          "d": "미국 워싱턴주 거주자가 조류인플루엔자로 숨졌다고 뉴욕타임스 등이 보도했습니다."
+        },
+        {
+          "t": "감염 경로",
+          "d": "유제품 젖소에 노출된 후 감염됐으며 미국 내 세 번째 사망 사례라고 폭스뉴스가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "조류인플루엔자로 1명 사망 (뉴욕타임스·폭스뉴스)",
+        "미국 내 세 번째 사망 사례 (폭스뉴스)"
+      ],
+      "unconfirmed": [
+        "정확한 추가 감염 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Fox News",
+        "NBC News",
+        "The Atlantic",
+        "The New York Times",
+        "2026.11.06 10:32 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 워싱턴주서 조류인플루엔자 사망자 발생 (뉴욕타임스·폭스뉴스)\n\n· 유제품 젖소에 노출된 후 감염된 것으로 확인됐습니다 (폭스뉴스)\n· 이번 사례는 미국 내 세 번째 조류인플루엔자 사망 기록입니다 (폭스뉴스)\n\n출처: 뉴욕타임스·폭스뉴스·NBC뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 워싱턴주에서 조류인플루엔자로 1명이 숨졌다고 뉴욕타임스 등이 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유제품 젖소에 노출된 후 감염됐으며 미국 내 세 번째 사망 사례입니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 추가 확산 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 워싱턴주에서\n발생한 [[조류인플루엔자 사망]]",
+  "broll": [
+    "dairy farm cows cattle",
+    "medical laboratory research"
+  ],
+  "place_en": "Washington, USA"
+}
