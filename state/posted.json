@@ -34578,5 +34578,61 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1793963958
+  },
+  {
+    "slug": "2026-11-06-usgs-us7000twg9",
+    "event_ms": 1793961564800,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 일본 인근 규모 6.1 지진\n\n한국 시각 11월 06일 19시 39분, 일본 Hasaki에서 남동쪽 156km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us7000twg9",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "일본",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18001276551033447",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfZdHscEdyy",
+        "kind": "carousel",
+        "at": 1793963025
+      },
+      "youtube": {
+        "id": "POteiGzhGTE",
+        "permalink": "https://youtube.com/shorts/POteiGzhGTE",
+        "kind": "shorts",
+        "at": 1793963487
+      },
+      "tiktok": {
+        "id": "7705014643743313159",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7705014643743313159",
+        "kind": "video",
+        "at": 1793963630
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1793966957
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1793966957
   }
 ]

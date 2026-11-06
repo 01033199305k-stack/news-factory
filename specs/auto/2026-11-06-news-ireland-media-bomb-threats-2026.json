@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-06-news-ireland-media-bomb-threats-2026",
+  "topic": "아일랜드 공영방송 등 언론사 폭탄 위협 대피",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 19:02 KST",
+  "source": "BBC·The Independent·Belfast Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1Zcl9HMlhFRi1QVWtfeklja2hoekM4OG1UQVZsVkNlTDdyVlVvVGVEUnhnVGg3cVdhcWhlczF6UTJsWGFDVTg3dWF5Z3dxNXpncmNka0dnSXp4a096ZlE",
+    "related": [
+      [
+        "Irish media outlets evacuated after bomb threats",
+        "BBC"
+      ],
+      [
+        "RTÉ and other media groups evacuated after bomb threat",
+        "RTE.ie"
+      ],
+      [
+        "Staff at RTÉ, Irish Independent, Newstalk evacuated due to security alert",
+        "The Irish Times"
+      ],
+      [
+        "Ireland on alert as national broadcaster evacuated over bomb threat",
+        "The Independent"
+      ],
+      [
+        "RTÉ and Irish Independent among Irish media organisations evacuated after wave of bomb threats",
+        "Belfast Telegraph"
+      ]
+    ],
+    "event_key": "ireland_media_bomb_threats_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "아일랜드 공영방송 등\n[[언론사]] 폭탄 위협 대피",
+      "sub": "국영방송국과 주요 언론사에 보안 비상령이 내려졌습니다.",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "언론사 여러 곳"
+        }
+      ],
+      "alt": "아일랜드 공영방송 등 언론사 폭탄 위협 대피",
+      "map": {
+        "lat": 53.3493795,
+        "lon": -6.2605593,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아일랜드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아일랜드\n더블린",
+      "video_only": true,
+      "map": {
+        "lat": 53.3493795,
+        "lon": -6.2605593,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "더블린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대피 소동",
+          "d": "아일랜드 국영방송 RTÉ와 신문사 건물에서 직원들이 대피했습니다 (BBC·The Irish Times)."
+        },
+        {
+          "t": "보안 경계",
+          "d": "폭탄 위협이 접수되면서 보안 당국이 조사에 나섰습니다 (The Independent)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "아일랜드 언론사 대피 (BBC·RTE)",
+        "폭탄 위협 접수 (The Irish Times)"
+      ],
+      "unconfirmed": [
+        "폭탄 설치 여부",
+        "구체적인 협박 전화 발신처",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Belfast Telegraph",
+        "RTE.ie",
+        "The Independent",
+        "The Irish Times",
+        "2026.11.06 21:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 아일랜드 공영방송 등 언론사 폭탄 위협 대피\n\n· 아일랜드 국영방송 RTÉ와 주요 신문사 건물에서 직원들이 대피했습니다 (BBC·The Irish Times)\n· 폭탄 위협이 접수되면서 보안 당국이 조사에 나섰습니다 (The Independent)\n\n출처: BBC·RTE·The Irish Times·The Independent·Belfast Telegraph 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아일랜드 공영방송국과 주요 언론사 건물에 폭탄 위협이 접수돼 직원들이 대피했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 국영방송 RTÉ와 신문사들이 보안 경계 속에 건물을 비웠다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "보안 당국이 조사를 벌이고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 폭탄이 설치되었는지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "아일랜드 [[방송국]]에서\n일어난 일은?",
+  "broll": [
+    "news building exterior",
+    "police tape street"
+  ],
+  "place_en": "Dublin, Ireland"
+}
