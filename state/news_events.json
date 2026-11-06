@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "saudi-recon-helicopter-crash-najran-2026",
-    "topic": "사우디 군용 헬기 추락 장교 2명 사망",
-    "slug": "2026-10-18-news-saudi-recon-helicopter-crash-najran-2026",
-    "cluster": "CBMiuwFBVV95cUxPVlU0VDNDS0k4cmE3Q1JRYzBjdTA1R0s1OXZqZUkyV19BYS1vbHVkNHVyRFpjMlhHeGFmVG96anV5ak03NGZ2MzdlOHpOcHdzY2pOWmFRX2xJb2N6d0dJem45V1hpMVRYbVU4dFJyOEVmOVRGSlAyN2ZlbERfX1hnMjVJVlhIM2lRRjdGdUE2SWVKS2kyeDNZSnFqVkliUVhHRWdpTGhWUzVwdmYxSE4tNE5Mb3o2aFpvR3Zr",
-    "badge": "breaking",
-    "at": 1792310861.735326,
-    "country": "사우디아라비아",
-    "category": "사고"
-  },
-  {
     "event_key": "russia-st-petersburg-moscow-drone-attack-2026",
     "topic": "상트페테르부르크 석유 시설 드론 공격받아 화재",
     "slug": "2026-10-18-news-russia-st-petersburg-moscow-drone-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793988467.7928298,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "tesla_cybertruck_production_end_2026",
+    "topic": "테슬라 사이버트럭 생산 중단 결정",
+    "slug": "2026-11-07-news-tesla-cybertruck-production-end-2026",
+    "cluster": "CBMiggFBVV95cUxOT3BET3ZQajVOVnRXaEdyMTZydUZQYTNWN2Z5TG5GczZ2SzdPYkRTcDFPWURnN3RfM21KZGNlMl9odXVBNlVGamxianpvTGZXa25jZ05uc3M0bTR3VkJBbFp0c1ZQUEY5b2l2MHFFV3hsSXRkb3dNQ1Q3WEEyMVRadnBR",
+    "badge": "breaking",
+    "at": 1793995661.433972,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

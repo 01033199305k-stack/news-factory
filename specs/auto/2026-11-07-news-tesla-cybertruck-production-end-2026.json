@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-07-news-tesla-cybertruck-production-end-2026",
+  "topic": "테슬라 사이버트럭 생산 중단 결정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.07 02:13 KST",
+  "source": "The New York Times·Ars Technica·GearJunkie 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxOT3BET3ZQajVOVnRXaEdyMTZydUZQYTNWN2Z5TG5GczZ2SzdPYkRTcDFPWURnN3RfM21KZGNlMl9odXVBNlVGamxianpvTGZXa25jZ05uc3M0bTR3VkJBbFp0c1ZQUEY5b2l2MHFFV3hsSXRkb3dNQ1Q3WEEyMVRadnBR",
+    "related": [
+      [
+        "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
+        "The New York Times"
+      ],
+      [
+        "The Tesla Cybertruck Is Dead, and We Say Good Riddance",
+        "GearJunkie"
+      ],
+      [
+        "Tesla CEO Elon Musk says company will be 'winding down' Cybertruck production at Austin Gigafactory",
+        "KVUE"
+      ],
+      [
+        "No more Cybertrucks; Musk moves on from the angular metallic flop",
+        "Ars Technica"
+      ],
+      [
+        "Production of Tesla's Cybertruck will wind down soon with its allure escaping most potential buyers",
+        "WBAL-TV"
+      ]
+    ],
+    "event_key": "tesla_cybertruck_production_end_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "테슬라 사이버트럭\n[[생산 중단]] 결정",
+      "sub": "오스틴 공장서 감산 후 사업 재편",
+      "chips": [
+        {
+          "k": "대상 모델",
+          "v": "사이버트럭"
+        }
+      ],
+      "alt": "테슬라 사이버트럭 생산 중단 결정",
+      "map": {
+        "lat": 30.2649261,
+        "lon": -97.7474086,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오스틴",
+      "video_only": true,
+      "map": {
+        "lat": 30.2649261,
+        "lon": -97.7474086,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오스틴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사이버캡 집중",
+          "d": "사이버캡에 집중하기로 했습니다 (NYT)."
+        },
+        {
+          "t": "오스틴 공장 감산",
+          "d": "오스틴 기가팩토리의 사이버트럭 생산을 단계적으로 줄입니다 (KVUE)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "테슬라 사이버트럭 생산 중단",
+        "사이버캡 사업 집중"
+      ],
+      "unconfirmed": [
+        "정확한 생산 종료 시점",
+        "기존 주문 처리 방안"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Ars Technica",
+        "GearJunkie",
+        "KVUE",
+        "The New York Times",
+        "WBAL-TV",
+        "2026.11.07 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 테슬라가 사이버트럭 생산을 중단하기로 결정했습니다.\n\n· 오스틴 기가팩토리 생산 축소 (KVUE)\n· 사이버캡에 집중 (NYT)\n\n테슬라의 사이버트럭 생산 중단 결정, 어떻게 생각하시나요?\n\n출처: NYT·KVUE·Ars Technica 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "테슬라가 사이버트럭 생산을 중단하기로 결정했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "오스틴 기가팩토리의 생산을 축소합니다.",
+      "card": "map"
+    },
+    {
+      "text": "뉴욕타임스는 테슬라가 사이버캡에 집중할 계획이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 생산 종료 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 사업 재편 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "테슬라 사이버트럭\n[[생산 중단]] 배경",
+  "broll": [
+    "electric vehicle manufacturing",
+    "automotive assembly plant"
+  ],
+  "place_en": "Austin, Texas"
+}
