@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "uss-theodore-roosevelt-arrives-japan-2026",
-    "topic": "미 항모 루스벨트호 일본 요코스카 입항",
-    "slug": "2026-10-18-news-uss-theodore-roosevelt-arrives-japan-2026",
-    "cluster": "CBMie0FVX3lxTE1PaVY1SzVsbGgtRG5HcnVtX213cGZSa2gxRTB4a3hWNEpjRU8zR2lJRE0zMDFScU1HRWNNQmF6MUpBZVQ4VzBoNVhuMzVZc1Q4Rm9jSHRERDRxTk05MThzVUlZV3J1eVVvYzVYRzBsVlVrajdMV3VYOTRpbw",
-    "badge": "brief",
-    "at": 1792286074.8013663,
-    "country": "일본",
-    "category": "국제"
-  },
-  {
     "event_key": "canada-alberta-military-base-fire-explosion-2026",
     "topic": "캐나다 군기지 대형 화재 다수 사상자 발생",
     "slug": "2026-10-18-news-canada-alberta-military-base-fire-explosion-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793977648.2013676,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "thomas_markle_arrest",
+    "topic": "메건 마클 부친, 미국 플로리다서 체포돼",
+    "slug": "2026-11-06-news-thomas-markle-arrest",
+    "cluster": "CBMiggFBVV95cUxPMG9vYkdlWWh1QkpBODdHMEppWUtjMk0wMmcxNGd3QU95alpjZ3UxVTl0MTY1TDZlYmlsNzFqNDE0d1ZCeVVaWU9zQmlNNFRNQkNXX1g5azl2X3dyazE0djVOYlZOOUMwSG95SzlTdmZLd2sxeU9jUHFvd3VOV25CbndR",
+    "badge": "breaking",
+    "at": 1793982675.4218922,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

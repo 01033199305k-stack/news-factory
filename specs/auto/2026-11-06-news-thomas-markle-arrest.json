@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-06-news-thomas-markle-arrest",
+  "topic": "메건 마클 부친, 미국 플로리다서 체포돼",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 23:58 KST",
+  "source": "CBS News·Fox News·USA Today 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxPMG9vYkdlWWh1QkpBODdHMEppWUtjMk0wMmcxNGd3QU95alpjZ3UxVTl0MTY1TDZlYmlsNzFqNDE0d1ZCeVVaWU9zQmlNNFRNQkNXX1g5azl2X3dyazE0djVOYlZOOUMwSG95SzlTdmZLd2sxeU9jUHFvd3VOV25CbndR",
+    "related": [
+      [
+        "Meghan Markle's father is arrested in Florida: law enforcement source",
+        "Fox News"
+      ],
+      [
+        "Duchess Meghan's father, Thomas Markle Sr., arrested in Florida in child pornography probe, sources say",
+        "CBS News"
+      ],
+      [
+        "Meghan Markle's estranged father arrested in child sexual abuse materials case, AP sources say",
+        "Journal-News.com"
+      ],
+      [
+        "Thomas Markle, Duchess Meghan's father, arrested by FBI in Florida – Report",
+        "USA Today"
+      ],
+      [
+        "Samantha Markle Seen Trying to Go Incognito to Visit Thomas Markle Prior to Her Dad’s Arrest",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "thomas_markle_arrest"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "메건 마클 부친, 미국 [[플로리다]]서\n체포돼",
+      "sub": "아동 성착취물 관련 혐의로 연방 수사 당국에 붙잡혔습니다",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "플로리다"
+        }
+      ],
+      "alt": "메건 마클 부친, 미국 플로리다서 체포돼",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다",
+      "video_only": true,
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "체포 혐의",
+          "d": "아동 성착취물 관련 혐의를 받고 있습니다 (AP·폭스뉴스)."
+        },
+        {
+          "t": "수사 기관",
+          "d": "연방수사국(FBI) 등이 이번 체포 과정에 연루됐습니다 (USA 투데이·CBS 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플로리다주에서 체포 (AP·폭스뉴스)",
+        "아동 성착취물 관련 혐의 (AP·CBS뉴스)"
+      ],
+      "unconfirmed": [
+        "구체적인 수사 진행 상황 및 재판 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Fox News",
+        "Journal-News.com",
+        "USA Today",
+        "Yahoo",
+        "2026.11.07 01:31 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 메건 마클의 부친 토머스 마클 시니어가 미국 플로리다에서 체포됐습니다\n\n· 아동 성착취물 관련 혐의를 받고 있습니다 (AP·폭스뉴스)\n· 연방수사국(FBI) 등이 수사에 참여했습니다 (USA 투데이·CBS 뉴스)\n\n출처: AP·폭스뉴스·CBS 뉴스·USA 투데이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "메건 마클의 부친이 미국 플로리다에서 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 아동 성착취물 관련 혐의를 받고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 법 집행 당국과 연방수사국이 수사를 진행 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "메건 마클 부친이\n[[플로리다]]서 체포된 이유는?",
+  "broll": [
+    "police station exterior",
+    "law enforcement car"
+  ],
+  "place_en": "Florida, United States"
+}
