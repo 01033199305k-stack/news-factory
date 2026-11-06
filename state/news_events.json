@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "hormuz-ship-attacks-record-high-2026",
-    "topic": "호르무즈 해협 선박 공격 최다",
-    "slug": "2026-10-17-news-hormuz-ship-attacks-record-high-2026",
-    "cluster": "CBMiqwFBVV95cUxQRkpjbHhhcjBfM1pXOUVuTE5rZ0lrMWJTUFBrZXYxY2FhcEtKWEJyR0lGSjBIb05pNTRfMW92elFEUlVHc3JjdzAwMmdWQTlLdmdZY0R4NGJOd3dUbEF1M3FCUVZRa1RfVjY0NnVxR013emZQTHMwSUFpNG5XU2RZendpNzd0LWZ4ZE5LakMycUEwMG9MQlZKQW82QTB4c0w0SV9QNTkwVlJIYnM",
-    "badge": "brief",
-    "at": 1792242484.9906447,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "france-nationwide-protests-clashes-oct-2026",
     "topic": "프랑스 전역 시위 격화 160명 이상 체포돼",
     "slug": "2026-10-17-news-france-nationwide-protests-clashes-oct-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1793935866.820936,
     "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "trump_russia_ukraine_deal_meeting_2026",
+    "topic": "트럼프 “러시아와 협상 임박” 푸틴 특사와 회동 후 밝혀",
+    "slug": "2026-11-06-news-trump-russia-ukraine-deal-meeting-2026",
+    "cluster": "CBMitwFBVV95cUxPeVdfY1VZdDJHQ1BwVHpvTWlBT1Z3dTJfYWEzNlFzZ0I2Mm1NZFVEUjdBX3VGVjJPT1JOZXl0NTZBSFQ3MVhqMGtjd3VKMGFJUHp0ZFFSZHR3YmdLUnFBMU1QNURmbVhMSjVHa0NKZExiNG9BYk9VTm8xWjVvSWczMm9aZ2Jld2NlWXVNSnUwVTk4SXVIYVNUbkRZTGNCdS1HOVF0X09LUkdkRXZ4cFlQaklWQ1Nfc1HSAbwBQVVfeXFMTUh3dVBBbS1CN2ZSQVpGMVB3MWxqNFMtUW5BMEFOOHg3ZEs0VkFkU0dOc1g2MnhsOUpjbHUyd254V2p4UWhUa1p4ZU94V2duQ3RTbVhTdUNKcFpZYmxCVjNrRFhlTk5aRlpXbzI4QjVmMy1LYUpZdXBFTW43Z2dGSGlCUEQ3MktGYnpBakhrekJQS0FybzZaSlgzZ1hhakJVd1hTeVZUdThNbXQ5WXZZME85YnA5MFFrMWJsWEM",
+    "badge": "brief",
+    "at": 1793945193.7231476,
+    "country": "미국",
     "category": "국제"
   }
 ]

@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-06-news-trump-russia-ukraine-deal-meeting-2026",
+  "topic": "트럼프 “러시아와 협상 임박” 푸틴 특사와 회동 후 밝혀",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 12:13 KST",
+  "source": "Al Jazeera·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxPeVdfY1VZdDJHQ1BwVHpvTWlBT1Z3dTJfYWEzNlFzZ0I2Mm1NZFVEUjdBX3VGVjJPT1JOZXl0NTZBSFQ3MVhqMGtjd3VKMGFJUHp0ZFFSZHR3YmdLUnFBMU1QNURmbVhMSjVHa0NKZExiNG9BYk9VTm8xWjVvSWczMm9aZ2Jld2NlWXVNSnUwVTk4SXVIYVNUbkRZTGNCdS1HOVF0X09LUkdkRXZ4cFlQaklWQ1Nfc1HSAbwBQVVfeXFMTUh3dVBBbS1CN2ZSQVpGMVB3MWxqNFMtUW5BMEFOOHg3ZEs0VkFkU0dOc1g2MnhsOUpjbHUyd254V2p4UWhUa1p4ZU94V2duQ3RTbVhTdUNKcFpZYmxCVjNrRFhlTk5aRlpXbzI4QjVmMy1LYUpZdXBFTW43Z2dGSGlCUEQ3MktGYnpBakhrekJQS0FybzZaSlgzZ1hhakJVd1hTeVZUdThNbXQ5WXZZME85YnA5MFFrMWJsWEM",
+    "related": [
+      [
+        "Trump says Russia-Ukraine deal is near after meeting Putin’s envoy",
+        "Al Jazeera"
+      ],
+      [
+        "Donald Trump predicts deal with Russia on Ukraine and ‘all of Europe’",
+        "The Hindu"
+      ],
+      [
+        "Trump says he met Putin envoy, sees Ukraine deal soon",
+        "Reuters"
+      ],
+      [
+        "Trump says 'big, beautiful' Russia-Ukraine deal in the works after meeting Putin's envoy",
+        "DW.com"
+      ],
+      [
+        "Trump expects Russia-Ukraine peace deal soon, hints at wider European agreement",
+        "BusinessLine"
+      ]
+    ],
+    "event_key": "trump_russia_ukraine_deal_meeting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "트럼프 “러시아와 협상 임박”\n푸틴 특사와 회동 후 밝혀",
+      "sub": "우크라이나 및 유럽 전체 평화 협정 추진 시사",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "러시아·우크라이나"
+        }
+      ],
+      "alt": "트럼프 “러시아와 협상 임박” 푸틴 특사와 회동 후 밝혀",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "푸틴 특사 회동",
+          "d": "도널드 트럼프는 푸틴 러시아 대통령의 특사와 만났다고 알자지라 등이 보도했습니다."
+        },
+        {
+          "t": "광범위한 유럽 합의",
+          "d": "우크라이나뿐만 아니라 유럽 전체를 아우르는 평화 합의가 진행 중이라고 비즈니스라인 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "푸틴 특사와 트럼프 회동",
+        "러시아-우크라이나 평화 협정 논의"
+      ],
+      "unconfirmed": [
+        "협정 체결의 구체적 시기와 조건",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BusinessLine",
+        "DW.com",
+        "Reuters",
+        "The Hindu",
+        "2026.11.06 15:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 트럼프 “러시아와 협상 임박”\n푸틴 특사와 회동 후 밝혀\n\n· 도널드 트럼프는 푸틴 러시아 대통령 특사와 회동했다고 알자지라 등이 보도했습니다.\n· 우크라이나와 유럽 전체를 묶는 평화 협정이 추진되고 있다고 비즈니스라인 등이 전했습니다.\n\n출처: 알자지라·로이터·비즈니스라인 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "트럼프가 러시아와의 평화 협상이 임박했다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 트럼프가 푸틴 러시아 대통령의 특사와 만났다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나를 포함해 유럽 전체를 아우르는 합의가 진행 중이라고 외신들은 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 협정 체결 시기와 조건은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 협상 전망, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "협상 전망은?"
+    }
+  ],
+  "hook": "트럼프와 푸틴 특사의\n[[회동]] 결과는?",
+  "broll": [
+    "white house exterior",
+    "us flag waving"
+  ],
+  "place_en": "Washington, D.C."
+}
