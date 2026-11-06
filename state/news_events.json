@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france-nationwide-protests-clashes-oct-2026",
-    "topic": "프랑스 전역 시위 격화 160명 이상 체포돼",
-    "slug": "2026-10-17-news-france-nationwide-protests-clashes-oct-2026",
-    "cluster": "CBMiWEFVX3lxTFBobTdrOFFxTHhLOS1USFdyUzF5dHZsMGlaZVBURExhZXFPdHo4OXBpTGNPMENmWm9aSkstdk44a0ZqaFZldVprV2haZHBjRlVDb0lsVUpYbE4",
-    "badge": "brief",
-    "at": 1792246570.8257995,
-    "country": "프랑스",
-    "category": "국제"
-  },
-  {
     "event_key": "egypt-sisi-saudi-defense-assistance-2026",
     "topic": "이집트, 요청 시 사우디 방어 지원 추진",
     "slug": "2026-10-18-news-egypt-sisi-saudi-defense-assistance-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1793945193.7231476,
     "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "russia_ukraine_abu_dhabi_talks_2026",
+    "topic": "다음 주 아부다비서 우크라 3자 평화회담",
+    "slug": "2026-11-06-news-russia-ukraine-abu-dhabi-talks-2026",
+    "cluster": "CBMiS0FVX3lxTE5GRl9LVFhmU2NMSUtOOWp5ejZSeVhEUFhON2U3N3FyUDBBcHFza1VocWN2OXF4cm5wLUxWLTM4dlJPTG51NjJxUXRWVQ",
+    "badge": "brief",
+    "at": 1793959924.6600175,
+    "country": "아랍에미리트",
     "category": "국제"
   }
 ]

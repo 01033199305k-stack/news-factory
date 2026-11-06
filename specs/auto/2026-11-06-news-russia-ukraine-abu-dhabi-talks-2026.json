@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-06-news-russia-ukraine-abu-dhabi-talks-2026",
+  "topic": "다음 주 아부다비서 우크라 3자 평화회담",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.06 13:09 KST",
+  "source": "Politico·Reuters·Geopolitical Futures 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiS0FVX3lxTE5GRl9LVFhmU2NMSUtOOWp5ejZSeVhEUFhON2U3N3FyUDBBcHFza1VocWN2OXF4cm5wLUxWLTM4dlJPTG51NjJxUXRWVQ",
+    "related": [
+      [
+        "US Proposes New European Security Framework",
+        "Kyiv Post"
+      ],
+      [
+        "Kremlin confirms trilateral Ukraine peace talks in Abu Dhabi next week",
+        "Reuters"
+      ],
+      [
+        "Moscow Manages Its Expectations",
+        "Geopolitical Futures"
+      ],
+      [
+        "US to mediate new round of negotiations to end Russia-Ukraine war",
+        "Politico"
+      ],
+      [
+        "Interceptors for \"Patriots\" and Drone Deals were discussed — Zelenskyy revealed details of his conversation with Witkoff and Kushner",
+        "Українські Національні Новини (УНН)"
+      ]
+    ],
+    "event_key": "russia_ukraine_abu_dhabi_talks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "다음 주 [[아부다비]]서\n우크라 3자 평화회담",
+      "sub": "러시아 크렘린궁 공식 확인… 미국 중재로 개최",
+      "chips": [],
+      "alt": "다음 주 아부다비서 우크라 3자 평화회담",
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n아부다비",
+      "video_only": true,
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아부다비"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "크렘린궁 공식 확인",
+          "d": "러시아 크렘린궁은 다음 주 아부다비에서 3자 평화 회담이 열린다고 공식 확인했습니다 (로이터)."
+        },
+        {
+          "t": "미국 중재 협상",
+          "d": "미국 중재로 새로운 종전 및 안보 틀을 논의할 예정입니다 (폴리티코)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "다음 주 아부다비서 3자 회담 개최",
+        "러시아 크렘린궁 공식 확인",
+        "미국 중재 협상 논의"
+      ],
+      "unconfirmed": [
+        "구체적인 종전 조건 타결 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Geopolitical Futures",
+        "Kyiv Post",
+        "Politico",
+        "Reuters",
+        "Українські Національні Новини (УНН)",
+        "2026.11.06 19:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 다음 주 아부다비에서 우크라이나 3자 평화 회담이 열립니다.\n\n· 러시아 크렘린궁은 다음 주 아부다비에서 3자 회담이 개최된다고 공식 확인했습니다 (로이터).\n· 미국 중재로 새로운 종전 및 안보 틀을 논의할 예정입니다 (폴리티코).\n\n이번 평화 회담 개최 결정에 대해 어떻게 생각하십니까?\n\n출처: 로이터·폴리티코 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아부다비에서 우크라이나 3자 평화 회담이 열립니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아 크렘린궁은 다음 주 아부다비 회담 개최를 공식 확인했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "미국이 중재해 새로운 종전 협상 틀을 논의합니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 협상 타결 여부는 아직 밝혀지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 평화 회담 개최, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "종전 평화회담\n[[어디서]] 열리나",
+  "broll": [
+    "diplomacy meeting table",
+    "abu dhabi skyline"
+  ],
+  "place_en": "Abu Dhabi, United Arab Emirates"
+}
