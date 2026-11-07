@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "japan-martian-moon-sample-mission-2026",
-    "topic": "일본 화성 위성 향해 세계 첫 표본 채취",
-    "slug": "2026-10-18-news-japan-martian-moon-sample-mission-2026",
-    "cluster": "CBMijwFBVV95cUxPSU1COWt3SGtqMW4zUFh1VVY0N1RWeGJlVjh3aFFfTkdPSV9KMC1sQVFRVzNuSWRsNzJRdkVQLWluci1UNUoxTU5qZVpoUHlwcmhWaU8wWnBSYXJ6aWpldE1acG9VRi1NT2tBZTY4T3FmNTJ1SS1iTWNyQ3RTaUc1Q2staEQ3elEtNHRUNS1KUQ",
-    "badge": "brief",
-    "at": 1792322548.5852606,
-    "country": "일본",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "italy-milan-cost-of-living-protests-violence-2026",
     "topic": "이탈리아 밀라노 시위 상점 약탈·방화 발생",
     "slug": "2026-10-18-news-italy-milan-cost-of-living-protests-violence-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794013685.4556823,
     "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "paraguay_president_impeached_arrested_2026",
+    "topic": "파라과이 대통령 탄핵 및 체포 신임 대통령 취임",
+    "slug": "2026-11-07-news-paraguay-president-impeached-arrested-2026",
+    "cluster": "CBMiW0FVX3lxTE13U2tMV01VSGd5ekZEWjNpRFh6SWhYMlFrNUNwa3Z2dkFrcmcxa29WcFNCUkNIbzZSS1NfVEtuWDJyZ1BwNV85ZW1oT2VBaUNVemNvUEdiVEJuTVE",
+    "badge": "breaking",
+    "at": 1794031681.4778247,
+    "country": "파라과이",
     "category": "국제"
   }
 ]
