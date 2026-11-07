@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "trump-endorses-netanyahu-israeli-election-2026",
-    "topic": "트럼프, 이스라엘 총선 앞 네타냐후 공식 지지 선언",
-    "slug": "2026-10-19-news-trump-endorses-netanyahu-israeli-election-2026",
-    "cluster": "CBMixwFBVV95cUxNQWVrZWYwVE5QX3cxdEUzVTBjUEFxdzI3dkVCUzJ4MzQzNms4TWxtNk56cWYtbXdlV3J6VERTbjRCU1lXQjZ3aTNCc3hKMGZxYzlSV2NJbmRoWlhZRkRJWGlkRnFuX0NTSnBULWwxNlgyb0F2ekZ6enhPSTV0RHVzVjlsV3dMNXNReGZWT2FnNGNMcWZ1aE5YYmxRM1hlYlVTU2R1OXlPSTZTMmZNdnZpTEZNekxIR0JrVGVtLVlVQlZvMmNDVkFz",
-    "badge": "brief",
-    "at": 1792343276.4998822,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "us-stocks-tech-rout-nasdaq-drop-2026",
     "topic": "미 나스닥 2% 넘게 급락 기술주 1조 달러 증발",
     "slug": "2026-10-19-news-us-stocks-tech-rout-nasdaq-drop-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794057071.9741275,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "poland_krakow_shooting_2026",
+    "topic": "폴란드 크라쿠프서 총격 발생 5명 숨지고 10여 명 부상",
+    "slug": "2026-11-08-news-poland-krakow-shooting-2026",
+    "cluster": "CBMimAFBVV95cUxQMjVjMS1hRzNkazY0TXRRbzF3YVQ1SnJZR0VIZV9Tak1NV0pQRk84TlpHekpzRWEtTlRFbk1LR08zZXNMVTBxYnNCY25kVTNHSWtrXzRBcEpIVVItc1VOVnMwT0xBODJLT1NwX3pzb0hyeWZQNGZOX3RrbWpEZGJMRVpkdWVCWmVMYmtiWGhqbk5TZUNSZFNHbNIBngFBVV95cUxPOVBoT0tkYk1ja0FRdjRITVpVZnNTVDRfWFgxTk1XUUpGWUtlZG5OLWd2LWJ3WVRzUmJ1MGhiYzUxM2JlaFZ0UlM3VHU3NjBYMHA3VGs4RWpJNFhsODhwMUpGZjhpOFlNQndBbFB6eFFFMi1RRVJRZlY0azZkY0lTdFRybTBEWHRVTkVHMnNVWk54TW1nUGZCaTdDVFRtQQ",
+    "badge": "breaking",
+    "at": 1794067753.8153505,
+    "country": "폴란드",
+    "category": "총격·테러"
   }
 ]
