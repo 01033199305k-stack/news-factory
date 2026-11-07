@@ -292,6 +292,9 @@ in the target language. Unconfirmed items must stay unconfirmed. Plain text, no 
             raise Skip("유튜브는 국제·경제 소식만 (%s)" % cat)
         if cat and not self.MAJOR.search(item.get("text", "")):
             raise Skip("유튜브는 한국·주요국 관련 소식만")
+        # 2026-11-07 쇼츠 최근 80편: [정리] 중앙값 109회 vs [속보] 373회 - 시간 채우기용 재탕은 유튜브에 안 올린다
+        if item.get("text", "").startswith("[정리]"):
+            raise Skip("유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)")
         tags = list(dict.fromkeys(DEFAULT_TAGS + item.get("hashtags", [])))
         meta = {
             "snippet": {"title": self.title(item),
