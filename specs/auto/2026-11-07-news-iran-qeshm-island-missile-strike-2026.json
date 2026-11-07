@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-07-news-iran-qeshm-island-missile-strike-2026",
+  "topic": "이란 케슘섬에 미사일 2발 피격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.07 08:04 KST",
+  "source": "NDTV·Reuters·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc",
+    "related": [
+      [
+        "Two missiles strike Iran's Qeshm Island, Tasnim news agency says",
+        "Reuters"
+      ],
+      [
+        "2 Missiles Hit Iran's Qeshm Island: Report",
+        "NDTV"
+      ],
+      [
+        "Exclusive | U.S. Strikes Iran’s Qeshm Island as Trump Talks Down War Risks",
+        "WSJ"
+      ],
+      [
+        "Iran news agency reports 2 missiles struck Qeshm Island",
+        "The Times of Israel"
+      ],
+      [
+        "Explosions heard in Iran's Qeshm, Bandar Khamir",
+        "Breakingthenews.net"
+      ]
+    ],
+    "event_key": "iran_qeshm_island_missile_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란 [[케슘섬]]에\n미사일 2발 피격",
+      "sub": "외신이 이란 폭발 상황을 전했습니다",
+      "chips": [
+        {
+          "k": "미사일",
+          "v": "2발"
+        }
+      ],
+      "alt": "이란 케슘섬에 미사일 2발 피격",
+      "map": {
+        "lat": 26.7687296,
+        "lon": 55.8476653,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n케슘섬",
+      "video_only": true,
+      "map": {
+        "lat": 26.7687296,
+        "lon": 55.8476653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "케슘섬"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미사일 피격",
+          "d": "이란 케슘섬에 미사일 2발이 명중했다고 보도했습니다 (로이터·NDTV)"
+        },
+        {
+          "t": "폭발음 청취",
+          "d": "인근 지역에서 폭발음이 들렸습니다 (Breakingthenews.net)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미사일 2발 피격 (로이터·NDTV)",
+        "케슘섬 및 인근 폭발음 청취"
+      ],
+      "unconfirmed": [
+        "공격 주체와 정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Breakingthenews.net",
+        "NDTV",
+        "Reuters",
+        "The Times of Israel",
+        "WSJ",
+        "2026.11.07 10:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란 케슘섬에 미사일 2발이 떨어졌습니다\n\n· 이란 케슘섬에 미사일 2발이 명중했습니다 (로이터·NDTV)\n· 인근 지역에서 연이어 폭발음이 들렸습니다 (Breakingthenews.net)\n\n출처: 로이터·NDTV·WSJ 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란 케슘섬에 미사일 2발이 떨어졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신 등은 케슘섬이 미사일 공격을 받았다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "인근 지역에서 폭발음이 들렸습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 공격 주체는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[이란]] 케슘섬에 떨어진\n[[미사일]]의 정체는?",
+  "broll": [
+    "missile strike explosion",
+    "smoke city night"
+  ],
+  "place_en": "Qeshm Island, Iran"
+}

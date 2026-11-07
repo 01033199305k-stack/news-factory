@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "kolkata-hindu-festival-stampede-2026",
-    "topic": "인도 축제장 압사 사고 최소 17명 사망",
-    "slug": "2026-10-18-news-kolkata-hindu-festival-stampede-2026",
-    "cluster": "CBMihwFBVV95cUxPOW00OC1EMEJnZ1hDYkMwaFNzYkw2WlBqcHpiN1NNWUZCOGZxZGpnR1BwSUtuYW15R1ZkX2llUEN1NFdNZ3BpSWI3bGtVc1JSd1VVT3V2ZWQ1aVA5bGtIOS00THNkN3JwWnd1WnRmaEF2NnNUVEJOcFF6emh3QmIyZUhPX2FtX0U",
-    "badge": "breaking",
-    "at": 1792318245.6333683,
-    "country": "인도",
-    "category": "사고"
-  },
-  {
     "event_key": "japan-martian-moon-sample-mission-2026",
     "topic": "일본 화성 위성 향해 세계 첫 표본 채취",
     "slug": "2026-10-18-news-japan-martian-moon-sample-mission-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794010662.7646186,
     "country": "아일랜드",
     "category": "사고"
+  },
+  {
+    "event_key": "iran_qeshm_island_missile_strike_2026",
+    "topic": "이란 케슘섬에 미사일 2발 피격",
+    "slug": "2026-11-07-news-iran-qeshm-island-missile-strike-2026",
+    "cluster": "CBMitwFBVV95cUxNSVljNk9VX0xKSElKQjgwMVhnLVpzdmZMTE9YMW5Eb0FpdFpkb0tkczBNZkh1eWFyLU5VanpKU3VGd21EUk52bGc3ZDN4UVd2UFhHM3VReWVUa2kxTVQ3TlJ5UkRFbmdYQzAxTVF0bldhS1BIYjhIOWx4RVU3UnZiMkRORW5nUHJERUQzeTdoSE1kRzlmYVduLVhUbzkzMVFNX1pqb0I2YXZpT1FJRW00alBCWXQydmc",
+    "badge": "breaking",
+    "at": 1794013685.4556823,
+    "country": "이란",
+    "category": "국제"
   }
 ]
