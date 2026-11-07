@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-08-news-richard-lloyd-television-guitarist-dies",
+  "topic": "전설적 록 밴드 텔레비전 기타리스트 리처드 로이드 별세",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 05:01 KST",
+  "source": "The Guardian·The New York Times·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimAFBVV95cUxNdWJ3aEVVLWRoWHRQOXF0YzljWXgtX2lFY21LNkpQVHkxTHZJNzVGQURWMkZoQlJsTkRsYUlSbUZaYWtETzI2OG90V2ZlYWQxbWNBUzVLekZiNE56eXRiNGJNb0s0a0RnalN6dWYzdTZlU2UyUkxGQ09Oc3ZpY3pZRm55QVRtWXV4TW9fU0Z6SjNvYjdEa0xfbg",
+    "related": [
+      [
+        "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
+        "The Guardian"
+      ],
+      [
+        "Richard Lloyd, Television’s Virtuoso Guitarist, Dead at 75",
+        "Rolling Stone"
+      ],
+      [
+        "Richard Lloyd, Torrential Guitarist of Television, Has Died",
+        "The New York Times"
+      ],
+      [
+        "Television co-founder Richard Lloyd, whose guitar shaped ‘Marquee Moon’, dies at 75.",
+        "Yahoo"
+      ],
+      [
+        "Richard Lloyd, Television Guitarist, Dies at 75",
+        "Pitchfork"
+      ]
+    ],
+    "event_key": "richard_lloyd_television_guitarist_dies"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "전설적 록 밴드 텔레비전\n기타리스트 [[리처드 로이드]] 별세",
+      "sub": "향년 75세의 나이로 사망",
+      "chips": [
+        {
+          "k": "나이",
+          "v": "75세"
+        },
+        {
+          "k": "고인",
+          "v": "리처드 로이드"
+        }
+      ],
+      "alt": "전설적 록 밴드 텔레비전 기타리스트 리처드 로이드 별세",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망 소식",
+          "d": "미국 펑크 록 밴드 텔레비전의 공동 창립 멤버이자 기타리스트인 리처드 로이드가 75세를 일기로 세상을 떠났습니다 (가디언·롤링스톤)."
+        },
+        {
+          "t": "음악적 업적",
+          "d": "고인은 명반 '마키 문'의 기타 연주로 알려졌습니다 (가디언·야후)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "리처드 로이드 별세",
+        "향년 75세"
+      ],
+      "unconfirmed": [
+        "정확한 사인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Pitchfork",
+        "Rolling Stone",
+        "The Guardian",
+        "The New York Times",
+        "Yahoo",
+        "2026.11.08 06:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 전설적 록 밴드 텔레비전 기타리스트 리처드 로이드 별세\n\n· 미국 펑크 록 밴드 텔레비전의 공동 창립 멤버이자 기타리스트인 리처드 로이드가 75세를 일기로 세상을 떠났습니다 (가디언·롤링스톤)\n· 고인은 명반 '마키 문'의 기타 연주로 알려졌습니다 (가디언·야후)\n\n출처: 가디언·롤링스톤·야후 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 펑크 록 밴드 텔레비전의 기타리스트 리처드 로이드가 75세를 일기로 별세했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언은 고인이 명반 마키 문의 기타 연주를 남겼다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망 원인은 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "전설적 록 밴드 기타리스트\n[[리처드 로이드]] 별세",
+  "broll": [
+    "electric guitar on stage",
+    "vintage vinyl records"
+  ],
+  "place_en": "New York, USA"
+}

@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "russia-kyiv-ballistic-missile-drone-attack-2026",
-    "topic": "키이우에 탄도미사일 공습 공습경보 속 폭발음",
-    "slug": "2026-10-19-news-russia-kyiv-ballistic-missile-drone-attack-2026",
-    "cluster": "CBMinAFBVV95cUxNdU9qMDFZTTYyV190NzBWZ0J2NEtPRHNOTDJaLTZYWE1saFNWcW1PMWZPcGgyWXE3RGd3bWxYbzJIVVg5QXg5Z3VyYkJTd3dCM3RSY1o3U2pVRVlpLVZlYS1JZ2VqRnhzRThmb3dWTzdaV3VZd0I3dlc0WnMtUTJSbmE5ZUtqTTlUaFlSQWZTTzJJUjRVZ0c0UEptd2c",
-    "badge": "breaking",
-    "at": 1792372136.377756,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
-    "event_key": "saudi-riyadh-houthi-threats-skyscraper-evacuation-2026",
-    "topic": "후티 위협에 재택근무 전환 사우디 리야드 건물 폐쇄",
-    "slug": "2026-10-19-news-saudi-riyadh-houthi-threats-skyscraper-evacuation-2026",
-    "cluster": "CBMiyAFBVV95cUxOUmRvOVpCNUVyUnNIS1ZxazlkU2VLbm5jaEMzQThEV3FRR1pDX0I1QTlTajNKVGtZaEMyTnZoM1pUcmMwSmlUMEZIYVNQQ3RWMWVUSC1xbEQyb0VwMnUzaXlYUjNkeDVNZmRtendEdEVtVzMtM0Y5TW8tMV9YdkRQV3FtdDNKbzZYcHBlOE1WZE51UzZhWTVoVWsyUlpwSWxmUkI0SncyN2pTcTJWMGhJbW5MN0RBS1RCWHFaYjRoYmE5dUlSWGZOeQ",
-    "badge": "breaking",
-    "at": 1792372247.0056345,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "china-q3-gdp-growth-beats-estimates-2026",
     "topic": "중국 3분기 성장률 4.5%로 반등",
     "slug": "2026-10-19-news-china-q3-gdp-growth-beats-estimates-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794078567.077187,
     "country": "팔레스타인",
     "category": "재난"
+  },
+  {
+    "event_key": "israel_eisenkot_form_government_2026",
+    "topic": "이스라엘 대통령, 야권 아이젠코트 지명 새 정부 구성 위임",
+    "slug": "2026-11-08-news-israel-eisenkot-form-government-2026",
+    "cluster": "CBMiggFBVV95cUxOQ2hLdHByWTZwTzZfZ1oxdmpTcXltazRXS3hxcEczRm1taGhHd0JJSW9KVEdmMDlUMjRsai02SzdkbkNwWFRwZnBXelM5TldhSG10anV2dE1tSGVXbFRERHdBSWI3bkN3bC1pTDkySGZEakxPUWd0X2xsa011SWxYcFFR",
+    "badge": "breaking",
+    "at": 1794085600.4048247,
+    "country": "이스라엘",
+    "category": "국제"
+  },
+  {
+    "event_key": "richard_lloyd_television_guitarist_dies",
+    "topic": "전설적 록 밴드 텔레비전 기타리스트 리처드 로이드 별세",
+    "slug": "2026-11-08-news-richard-lloyd-television-guitarist-dies",
+    "cluster": "CBMimAFBVV95cUxNdWJ3aEVVLWRoWHRQOXF0YzljWXgtX2lFY21LNkpQVHkxTHZJNzVGQURWMkZoQlJsTkRsYUlSbUZaYWtETzI2OG90V2ZlYWQxbWNBUzVLekZiNE56eXRiNGJNb0s0a0RnalN6dWYzdTZlU2UyUkxGQ09Oc3ZpY3pZRm55QVRtWXV4TW9fU0Z6SjNvYjdEa0xfbg",
+    "badge": "breaking",
+    "at": 1794085612.4106286,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-08-news-israel-eisenkot-form-government-2026",
+  "topic": "이스라엘 대통령, 야권 아이젠코트 지명 새 정부 구성 위임",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 04:52 KST",
+  "source": "AP News·NBC News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxOQ2hLdHByWTZwTzZfZ1oxdmpTcXltazRXS3hxcEczRm1taGhHd0JJSW9KVEdmMDlUMjRsai02SzdkbkNwWFRwZnBXelM5TldhSG10anV2dE1tSGVXbFRERHdBSWI3bkN3bC1pTDkySGZEakxPUWd0X2xsa011SWxYcFFR",
+    "related": [
+      [
+        "Israel’s president taps opposition candidate Eisenkot to form a government, in setback for Netanyahu",
+        "AP News"
+      ],
+      [
+        "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+        "Reuters"
+      ],
+      [
+        "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
+        "The Guardian"
+      ],
+      [
+        "Yashar's Eisenkot to receive mandate to form new government, president announces",
+        "The Jerusalem Post"
+      ],
+      [
+        "Israel’s president accepts certified election results in a blow to Netanyahu’s claim of vote fraud",
+        "NBC News"
+      ]
+    ],
+    "event_key": "israel_eisenkot_form_government_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 대통령, 야권 [[아이젠코트]] 지명\n새 정부 구성 위임",
+      "sub": "네타냐후 총리에게는 정치적 타격",
+      "chips": [
+        {
+          "k": "지명자",
+          "v": "아이젠코트"
+        },
+        {
+          "k": "대상",
+          "v": "야당 야샤르"
+        }
+      ],
+      "alt": "이스라엘 대통령, 야권 아이젠코트 지명 새 정부 구성 위임",
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n예루살렘",
+      "video_only": true,
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "예루살렘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대통령 결정",
+          "d": "이스라엘 대통령이 야당 야샤르의 가디 아이젠코트 대표에게 정부 구성 위임장을 수여한다고 발표했습니다 (AP·로이터·가디언)."
+        },
+        {
+          "t": "선거 결과 수용",
+          "d": "대통령은 공식 선거 결과를 수용했으며, 이는 투표 부정 주장을 펴온 네타냐후 총리에게 타격이 되고 있습니다 (AP·NBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "가디 아이젠코트 정부 구성 지명",
+        "이스라엘 대통령의 공식 발표"
+      ],
+      "unconfirmed": [
+        "새 연정 구성 성공 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "NBC News",
+        "Reuters",
+        "The Guardian",
+        "The Jerusalem Post",
+        "2026.11.08 06:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 대통령, 야권 아이젠코트 지명 새 정부 구성 위임\n\n· 이스라엘 대통령이 야당 야샤르의 가디 아이젠코트 대표에게 정부 구성 위임장을 수여한다고 발표했습니다 (AP·로이터·가디언)\n· 대통령은 공식 선거 결과를 수용했으며, 이는 투표 부정 주장을 펴온 네타냐후 총리에게 타격이 되고 있습니다 (AP·NBC)\n\n여러분은 이번 이스라엘의 정권 교체 가능성, 어떻게 보십니까?\n\n출처: AP·로이터·가디언·NBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘 대통령이 야당 야샤르의 가디 아이젠코트 대표를 새 정부 구성 지명자로 선포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 이번 결정이 투표 부정 주장을 펴온 네타냐후 총리에게 큰 타격이 될 것이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "새로운 연정 구성이 성공할지는 아직 확실하지 않습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 이스라엘의 정치적 변화를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이스라엘 대통령이\n[[야권]]을 지명한 이유",
+  "broll": [
+    "israeli parliament building",
+    "jerusalem city street"
+  ],
+  "place_en": "Jerusalem"
+}
