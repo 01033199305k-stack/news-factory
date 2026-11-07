@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "austrian-airlines-flight-bomb-threat-emergency-landing-sofia-2026",
-    "topic": "빈 향하던 여객기 폭탄 위협에 비상착륙",
-    "slug": "2026-10-19-news-austrian-airlines-flight-bomb-threat-emergency-landing-sofia",
-    "cluster": "CBMirAFBVV95cUxQUVpuQjNVOVE5WmwxM1ZoeWFNc0szemVoVklJRDJCMTNWYU93dXJZM01xSGZZa0E4WlhnV25mSk95bUtHOTltbGY4c1RQc3F0R2dhUmp1NmxhMTNOb1NPa1NLei10aHNqY3NCblU1Q1V5ZEZZYXN3UmhGX3RpUnNfWGhpMFoyYTIwX3RYZWRlV09EMjBoY2NRclJ1d0Q4czhxZHR5Rm5WM3c0dW9u",
-    "badge": "breaking",
-    "at": 1792359263.8708143,
-    "country": "불가리아",
-    "category": "사고"
-  },
-  {
     "event_key": "russia-kyiv-ballistic-missile-drone-attack-2026",
     "topic": "키이우에 탄도미사일 공습 공습경보 속 폭발음",
     "slug": "2026-10-19-news-russia-kyiv-ballistic-missile-drone-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794074838.5118046,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "gaza_flooding_displaced_tents_2026",
+    "topic": "가자지구 폭우 텐트 수만 채 침수",
+    "slug": "2026-11-08-news-gaza-flooding-displaced-tents-2026",
+    "cluster": "CBMiXkFVX3lxTFBuV0VTd3VHaGFpM00xT0Y0Qi1odUlNTnltLVo1ZUxFV2Ixdk9CX3VrR2ZHZ3NWOFREc0VmWEN6eTBoVU9EWVFramU0MTBoaGoyNGEtZ0JxVTlOaXJvMWc",
+    "badge": "breaking",
+    "at": 1794078567.077187,
+    "country": "팔레스타인",
+    "category": "재난"
   }
 ]

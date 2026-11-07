@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-08-news-gaza-flooding-displaced-tents-2026",
+  "topic": "가자지구 폭우 텐트 수만 채 침수",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 01:25 KST",
+  "source": "Al Jazeera·BBC·CGTN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBuV0VTd3VHaGFpM00xT0Y0Qi1odUlNTnltLVo1ZUxFV2Ixdk9CX3VrR2ZHZ3NWOFREc0VmWEN6eTBoVU9EWVFramU0MTBoaGoyNGEtZ0JxVTlOaXJvMWc",
+    "related": [
+      [
+        "Tens of thousands of tents flooded after heavy rains in Gaza",
+        "BBC"
+      ],
+      [
+        "Gaza flooding: Heavy rain hits thousands of tents sheltering displaced Palestinians",
+        "Channel 4"
+      ],
+      [
+        "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+        "Al Jazeera"
+      ],
+      [
+        "US military looks to expand on naval blockade by restricting Iran’s land commerce",
+        "The Times of Israel"
+      ],
+      [
+        "Gaza Civil Defense tells Al Hadath: We need 30,000 tents to meet the needs of displaced people",
+        "CGTN"
+      ]
+    ],
+    "event_key": "gaza_flooding_displaced_tents_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[가자지구]] 폭우\n텐트 수만 채 침수",
+      "sub": "피난민 임시 거처 텐트 수만 채가 강한 비로 침수 피해를 입었습니다",
+      "chips": [
+        {
+          "k": "피해 텐트",
+          "v": "수만 채"
+        }
+      ],
+      "alt": "가자지구 폭우 텐트 수만 채 침수",
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "텐트 수만 채 침수",
+          "d": "가자지구에 폭우가 내리면서 피난민들이 거주하는 텐트 수만 채가 침수됐습니다 (BBC·채널4)."
+        },
+        {
+          "t": "구호 물자 필요",
+          "d": "가자 민방위 측은 피난민 지원을 위해 텐트 3만 채가 필요하다고 밝혔습니다 (CGTN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "가자지구 폭우 발생",
+        "피난민 텐트 수만 채 침수"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CGTN",
+        "Channel 4",
+        "The Times of Israel",
+        "2026.11.08 04:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 팔레스타인 가자지구 폭우로 피난민 텐트 수만 채 침수\n\n· 가자지구에 쏟아진 폭우로 피난민 임시 거처 수만 채 침수 (BBC·채널4)\n· 이스라엘 공습으로 손상된 건물들의 붕괴 위험 우려 (알자지라)\n· 가자 민방위 측은 피난민 지원을 위해 텐트 3만 채가 필요하다고 요청 (CGTN)\n\n출처: BBC·Channel 4·Al Jazeera·CGTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "팔레스타인 가자지구에 폭우가 쏟아져 피난민 텐트 수만 채가 물에 잠겼습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가자지구에 내린 비로 피난민들의 임시 거처가 침수됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "BBC 등 외신은 폭우로 텐트 수만 채가 피해를 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "가자 민방위 측은 지원을 위해 텐트 3만 채가 필요하다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인명 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[가자지구]] 피난민에\n들이닥친 폭우",
+  "broll": [
+    "flooded tent camp",
+    "rainy weather storm"
+  ],
+  "place_en": "Gaza Strip"
+}
