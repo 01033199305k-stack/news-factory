@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "korea-heavy-rain-wind-flight-cancellations-2026",
-    "topic": "강한 비바람에 도로 침수 인천공항 결항·지연 잇따라",
-    "slug": "2026-10-18-news-korea-heavy-rain-wind-flight-cancellations-2026",
-    "cluster": "CBMif0FVX3lxTE9LT25NUGFMdHJtOHNDRV9lSW1FQ0xjWXllMFNkVkZDV0ZfZF80V01DMWlsWGk5cG85Y0QtMU1GLTBBcndSZHpMb2J1RjlqbUNtZUxDaXFwelYwZVA2WlV2VENIUDY5NkhNdlhUb3BhZG5XMDRQU1p5UXJKbmN3czTSAWBBVV95cUxONTdMcjNaSy1lN0V6cjEtMU5yczdTTjFmUjdVQlZXQ0s3dHF5aWJkQjNObzJoX0lzM0djSjE2YzMtX0k0RXM2SDU0VXZjV3VJSnFGTXJKRmxzT0pPV3I5Qkw",
-    "badge": "breaking",
-    "at": 1792332477.9935505,
-    "country": "한국",
-    "category": "재난"
-  },
-  {
-    "event_key": "us-ukraine-resumes-intelligence-sharing-2026",
-    "topic": "미국, 정보 공유 재개 젤렌스키 밝혀",
-    "slug": "2026-10-18-news-us-ukraine-resumes-intelligence-sharing-2026",
-    "cluster": "CBMiS0FVX3lxTE1pN1FGcUMyUW81WVlnbU1nTm1uc3hzaXh1bHhEOEZhSzJmUzd3T3c1YzU5ZWdQZVIzWVBESmNhZnBZeldhUHRYQ2JhVQ",
-    "badge": "breaking",
-    "at": 1792337164.597771,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "trump-endorses-netanyahu-israeli-election-2026",
     "topic": "트럼프, 이스라엘 총선 앞 네타냐후 공식 지지 선언",
     "slug": "2026-10-19-news-trump-endorses-netanyahu-israeli-election-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794035204.607414,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "iran_bushehr_iodine_tablets_distribution_2026",
+    "topic": "이란 원전 인근에 요오드 알약 배포",
+    "slug": "2026-11-07-news-iran-bushehr-iodine-tablets-distribution-2026",
+    "cluster": "CBMi-AFBVV95cUxPSGkyakRUcU1RVFhQMzRBYV9JRUw0ckpMRjY4QUQ3Q0xWUnNzY3FPN0E0SlplNU9zcWs3S3lSWm5xRHprVVBiamF0ODlEMVh6bGFFakF6Y1hPMnNZS1UwaDZQSzg0LXQ1NU9OM1FiRkZfcHlEdnhoR2RWdWkzRk5vNGZ0LUhhVXlEYjNwTUtSMU9iV1d3MzFmRVRLeG5aRUtjWkpBVENtcVhPYjZkcTZ1TG5nb0thdHljc1FteTFLcVhkUVZPSWhGYUQ1Q3FTQ01RWXdDTlVUSHNGcU5qekVON2hRMnI2SEVwSjRkVWN6d3dObjVWYjQ3Yg",
+    "badge": "breaking",
+    "at": 1794057032.0629747,
+    "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "russia_ukraine_airstrike_kyiv_relief_center_2026",
+    "topic": "종전 협상 앞두고 대규모 공습 발생",
+    "slug": "2026-11-07-news-russia-ukraine-airstrike-kyiv-relief-center-2026",
+    "cluster": "CBMiW0FVX3lxTE10eFBnYlVyZnVvZnhQeExSNU40U0RhMi1Ua0paRVZuNzljekFic1VDbGNiU3pzOV9GWHRuSDFDalphLS1LSGhaUEI0ZWlsYndIaWtqbGdZZFR0d1XSAWBBVV95cUxOV1BxeE1vdnhib0dZc1BVUWgzQjR3YXFVazBnTTg4UmRwVHU0STVyRXgwUzc4aXllQXYzLUhwYUxnRXZ6Qk9pWTY4amE4TWR5Tjc5WXYzeXRkZllNQnRIakE",
+    "badge": "breaking",
+    "at": 1794057071.9741275,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

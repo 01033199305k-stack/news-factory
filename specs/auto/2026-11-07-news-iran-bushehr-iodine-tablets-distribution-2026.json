@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-07-news-iran-bushehr-iodine-tablets-distribution-2026",
+  "topic": "이란 원전 인근에 요오드 알약 배포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.07 20:32 KST",
+  "source": "The Times·The Times of India·TRT World 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi-AFBVV95cUxPSGkyakRUcU1RVFhQMzRBYV9JRUw0ckpMRjY4QUQ3Q0xWUnNzY3FPN0E0SlplNU9zcWs3S3lSWm5xRHprVVBiamF0ODlEMVh6bGFFakF6Y1hPMnNZS1UwaDZQSzg0LXQ1NU9OM1FiRkZfcHlEdnhoR2RWdWkzRk5vNGZ0LUhhVXlEYjNwTUtSMU9iV1d3MzFmRVRLeG5aRUtjWkpBVENtcVhPYjZkcTZ1TG5nb0thdHljc1FteTFLcVhkUVZPSWhGYUQ1Q3FTQ01RWXdDTlVUSHNGcU5qekVON2hRMnI2SEVwSjRkVWN6d3dObjVWYjQ3Yg",
+    "related": [
+      [
+        "Iran distributes iodine pills near nuclear sites as Trump weighs fresh strikes: Report",
+        "The Times of India"
+      ],
+      [
+        "Iranians prepare for fire, fury and nuclear fallout at Pickaxe Mountain",
+        "The Times"
+      ],
+      [
+        "Iran distributes anti-radiation iodine tablets in Bushehr amid Trump threats",
+        "TRT World"
+      ],
+      [
+        "In chilling video, Iran prepares citizens for nuclear attack",
+        "The Arab Weekly"
+      ],
+      [
+        "Iranian officials distribute iodine pills anticipating American nuclear bombardment",
+        "www.israelhayom.com"
+      ]
+    ],
+    "event_key": "iran_bushehr_iodine_tablets_distribution_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란 원전 인근에\n[[요오드 알약]] 배포",
+      "sub": "미국 공습 우려 속 부셰르 등 핵 시설 주변 배포",
+      "chips": [
+        {
+          "k": "배포 물품",
+          "v": "요오드 알약"
+        }
+      ],
+      "alt": "이란 원전 인근에 요오드 알약 배포",
+      "map": {
+        "lat": 28.8936645,
+        "lon": 51.3204877,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n부셰르",
+      "video_only": true,
+      "map": {
+        "lat": 28.8936645,
+        "lon": 51.3204877,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "부셰르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "핵 시설 주변 대상",
+          "d": "부셰르 등 이란 내 원자력 및 핵 시설 인근에 방사능 차단용 알약이 배포됐습니다 (타임스오브인디아·TRT월드)."
+        },
+        {
+          "t": "미국 공습 우려",
+          "d": "미국의 공격 가능성에 대비해 배포된 것으로 전해졌습니다 (이스라엘하욤)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 정부 요오드 알약 배포"
+      ],
+      "unconfirmed": [
+        "미국 실제 공습 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "TRT World",
+        "The Arab Weekly",
+        "The Times",
+        "The Times of India",
+        "www.israelhayom.com",
+        "2026.11.07 22:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란 원전 인근 주민들에 방사능 차단 알약 배포\n\n· 부셰르 등 주요 핵 시설 주변 요오드 알약 전달 (타임스오브인디아·TRT월드)\n· 미국의 공습 가능성에 대비한 조치 (이스라엘하욤)\n\n여러분은 중동 정세에 대해 어떻게 보십니까?\n\n출처: 타임스오브인디아·TRT월드·이스라엘하욤 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 원자력 시설 인근에 요오드 알약을 배포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "부셰르 등 주요 핵 시설 인근이 배포 대상에 포함됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "미국의 공습 가능성에 대비한 조치로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국의 실제 공격 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 중동 정세에 대해 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이란 주민들에게\n[[알약]] 배포된 이유",
+  "broll": [
+    "medicine bottle tablets",
+    "nuclear power plant"
+  ],
+  "place_en": "Bushehr, Iran"
+}
