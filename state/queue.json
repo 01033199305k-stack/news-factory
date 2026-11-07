@@ -29,10 +29,22 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfcQnc8GnyD",
         "kind": "carousel",
         "at": 1794057118
+      },
+      "youtube": {
+        "id": "AA1hNdWjKRs",
+        "permalink": "https://youtube.com/shorts/AA1hNdWjKRs",
+        "kind": "shorts",
+        "at": 1794060382
+      },
+      "tiktok": {
+        "id": "7705430567298272564",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7705430567298272564",
+        "kind": "video",
+        "at": 1794060553
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   },
@@ -66,10 +78,20 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfcQrSIGmWJ",
         "kind": "carousel",
         "at": 1794057153
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1794060392
+      },
+      "tiktok": {
+        "id": "7705431476896124181",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7705431476896124181",
+        "kind": "video",
+        "at": 1794060685
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
