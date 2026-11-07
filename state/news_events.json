@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia-st-petersburg-moscow-drone-attack-2026",
-    "topic": "상트페테르부르크 석유 시설 드론 공격받아 화재",
-    "slug": "2026-10-18-news-russia-st-petersburg-moscow-drone-attack-2026",
-    "cluster": "CBMiS0FVX3lxTE40LVk4bENlOHJIZHZ2VmpjOTVmMjdaNjJzdnUtN0FPWTJkeGNTZ0JmR194MktmMVlNTE9IaUFYaGF5OGtFcU95azhRQQ",
-    "badge": "breaking",
-    "at": 1792318224.2605586,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "kolkata-hindu-festival-stampede-2026",
     "topic": "인도 축제장 압사 사고 최소 17명 사망",
     "slug": "2026-10-18-news-kolkata-hindu-festival-stampede-2026",
@@ -2998,5 +2988,15 @@
     "at": 1793995661.433972,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "ireland_waterford_arson_child_death_2026",
+    "topic": "아일랜드 방화 참사로 6세 어린이 숨져",
+    "slug": "2026-11-07-news-ireland-waterford-arson-child-death-2026",
+    "cluster": "CBMiXkFVX3lxTE1XaWtQLTNVTGFQWXZnV0t3bFFNNXU4enFMT3d6REg3LVpzM2I4cGt3S3pYTmtSZEFMWFJjRzIxLWxHS1RLXzM5alhxWUY2djJiQkpWUDJlWmxsVVBHUnc",
+    "badge": "breaking",
+    "at": 1794010662.7646186,
+    "country": "아일랜드",
+    "category": "사고"
   }
 ]

@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-07-news-ireland-waterford-arson-child-death-2026",
+  "topic": "아일랜드 방화 참사로 6세 어린이 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.07 06:53 KST",
+  "source": "BBC·Sky News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1XaWtQLTNVTGFQWXZnV0t3bFFNNXU4enFMT3d6REg3LVpzM2I4cGt3S3pYTmtSZEFMWFJjRzIxLWxHS1RLXzM5alhxWUY2djJiQkpWUDJlWmxsVVBHUnc",
+    "related": [
+      [
+        "Child, 6, dies weeks after Waterford arson attack",
+        "BBC"
+      ],
+      [
+        "Boy, six, third child in his family to die after suspected arson attack in Ireland",
+        "The Guardian"
+      ],
+      [
+        "Boy, 6, dies in hospital after house fire that killed four members of his family",
+        "Sky News"
+      ],
+      [
+        "Child injured in Waterford arson attack dies in hospital",
+        "RTE.ie"
+      ],
+      [
+        "Child (6) becomes latest victim of Waterford arson attack on home",
+        "The Irish Times"
+      ]
+    ],
+    "event_key": "ireland_waterford_arson_child_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "아일랜드 방화 참사로\n[[6세 어린이]] 숨져",
+      "sub": "방화 사건의 피해 아동이 병원에서 사망했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "피해 발생"
+        },
+        {
+          "k": "나이",
+          "v": "6세"
+        }
+      ],
+      "alt": "아일랜드 방화 참사로 6세 어린이 숨져",
+      "map": {
+        "lat": 52.2609997,
+        "lon": -7.1119081,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아일랜드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아일랜드\n워터퍼드",
+      "video_only": true,
+      "map": {
+        "lat": 52.2609997,
+        "lon": -7.1119081,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워터퍼드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "병원 치료 중 사망",
+          "d": "워터퍼드 주택 화재로 치료를 받던 6세 어린이가 병원에서 숨졌습니다 (BBC·가디언)."
+        },
+        {
+          "t": "가족 피해 규모",
+          "d": "이번 화재로 가족 구성원이 사망했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "6세 어린이 사망 (BBC·가디언)"
+      ],
+      "unconfirmed": [
+        "정확한 화재 및 방화 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "RTE.ie",
+        "Sky News",
+        "The Guardian",
+        "The Irish Times",
+        "2026.11.07 09:17 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 아일랜드 워터퍼드 주택 화재로 6세 어린이가 숨졌습니다\n\n· 워터퍼드 주택 화재로 치료를 받던 6세 어린이가 병원에서 숨졌습니다 (BBC·가디언)\n\n출처: BBC·가디언·스카이뉴스·RTE·아이리시타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아일랜드 워터퍼드 주택 화재로 6세 어린이가 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 이번 화재와 관련해 피해 소식을 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인과 방화 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "아일랜드 [[워터퍼드]] 주택가에서\n무슨 일이?",
+  "broll": [
+    "house fire night",
+    "ambulance street"
+  ],
+  "place_en": "Waterford, Ireland"
+}
