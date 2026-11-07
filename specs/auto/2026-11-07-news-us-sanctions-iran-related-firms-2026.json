@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-07-news-us-sanctions-iran-related-firms-2026",
+  "topic": "미국 정부, 이란 연루 캐나다·인도·튀르키예 기업과 개인에 제재 단행",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.07 14:02 KST",
+  "source": "Al Jazeera·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxOUkZpaVVfVFZ3Y2VIY3pzZkJSckJyNnZBMjRGT1lTUXV0bUZ1elBKd3JQVWlFYjZ1NTFMU0xabll1dk1ZRTJzQnVyQ29JaEhmeXZXLWU4TWpJQm9uVUl3SkV5bmgwVFVNaDZRNTJQLVZ3SnJsSTJtNDBpSm05cmVFTW9lb2VuWGZya2FkVnNfWGlxczI2TGxGTGN1VUlHZktzbjBuUUN1U081QkhTN0xUdUkweV9vNUnSAbwBQVVfeXFMUDhaaEt0Y1Jnb1BVQ2VSMEZhd25XZ1FyM05KVTExa2I3eFZOV1F0Q3VMOVBIaTl4V1NOTHloLW9DclN5b2VjY0dveDhXc0s2NUxHMmxNR2o1V2R6SEt2UGlTTlFocFFMeXJpeC1wTzA1d0wzOGhCb1d6X29qZXotVlkwOVMxbjA3X0owMFE3SlByUmQ1X0F0Wm9VOXZvbFNjMWhBTmxtMkN6Q0phYVhRa3pRMHJjOGFiV1ZUeVg",
+    "related": [
+      [
+        "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+        "Al Jazeera"
+      ],
+      [
+        "U.S. slaps sanctions on Indian, Turkish firms and people for aiding Iran",
+        "The Hindu"
+      ],
+      [
+        "US Treasury tightens Iran sanctions net, cuts off Canadian money firms over illicit transactions",
+        "The Times of India"
+      ],
+      [
+        "US Treasury sanctions Canadian money services firms over Iran-related transactions",
+        "The Economic Times"
+      ],
+      [
+        "Trump says US talking to Iran amid sanctions push",
+        "Rediff"
+      ]
+    ],
+    "event_key": "us_sanctions_iran_related_firms_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 정부, 이란 연루 [[캐나다·인도·튀르키예]]\n기업과 개인에 제재 단행",
+      "sub": "불법 거래 차단을 위한 조치 시행",
+      "chips": [
+        {
+          "k": "제재 대상",
+          "v": "캐나다·인도·튀르키예 등"
+        }
+      ],
+      "alt": "미국 정부, 이란 연루 캐나다·인도·튀르키예 기업과 개인에 제재 단행",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "캐나다 송금 업체",
+          "d": "미국 재무부는 이란과의 거래를 이유로 캐나다 자금 환전 및 송금 기업 8곳을 제재했습니다 (알자지라·타임스 오브 인디아)."
+        },
+        {
+          "t": "인도·튀르키예 포함",
+          "d": "이란 지원을 이유로 인도와 튀르키예의 기업과 개인도 제재 대상에 포함됐습니다 (더 힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 재무부의 이란 연루 기업 제재",
+        "캐나다·인도·튀르키예 대상 포함"
+      ],
+      "unconfirmed": [
+        "제재 대상 기업의 구체적 불법 거래 규모",
+        "향후 외교적 파장"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Rediff",
+        "The Economic Times",
+        "The Hindu",
+        "The Times of India",
+        "2026.11.07 16:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 정부, 이란 연루 캐나다·인도·튀르키예 기업과 개인에 제재 단행\n\n· 미국 재무부는 이란과의 거래를 이유로 캐나다 자금 환전 및 송금 기업 8곳을 제재했습니다 (알자지라·타임스 오브 인디아)\n· 이란 지원을 이유로 인도와 튀르키예의 기업과 개인도 제재 대상에 포함됐습니다 (더 힌두)\n\n이번 미국의 대이란 제재 강화 조치, 여러분은 어떻게 보십니까?\n\n출처: 알자지라·더 힌두·타임스 오브 인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 이란과 연루된 캐나다, 인도, 튀르키예 등의 기업과 개인을 상대로 제재를 단행했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라 등 외신은 미국 재무부가 이란과의 불법 거래를 차단하기 위해 캐나다 송금 업체 8곳 등을 제재했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 제재로 인해 중동 정세와 글로벌 경제에 미칠 영향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미국의 대이란 제재 강화 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "제재 강화 조치"
+    }
+  ],
+  "hook": "미국이 [[이란 연루]]\n기업들을 제재한 이유는?",
+  "broll": [
+    "stock exchange screen",
+    "financial district street"
+  ],
+  "place_en": "Washington, DC, USA"
+}
