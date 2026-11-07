@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-08-news-saudi-houthi-attack-riyadh-2026",
+  "topic": "후티 반군, 사우디 공격 리야드 공항·석유시설 겨냥",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 00:55 KST",
+  "source": "Hindustan Times·The Hindu·Arab News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8AFBVV95cUxOaU9McDk3d1hQR0YxeXd4X3hsUmlEU2VWWkQ4UUR5QXBQamlBR3pNU3lCZV92dWh0T0hOYXdQNzdDcWlITkZuTHZUMkE5UjlCdFVQUTVZUGN5VElnTU04YTA5YXRjbm1IV3M0dVF4cWE3bmJtRUgtVGJKcW9aUl9SR3ZOZnNxY0tobVplVWJKX29PWTBaZGE1RTRfWm80aFNvT1ZsVUxnM1BSYUNPbHZCd0VmOVA1TzduRUVhcEJBOGViRmhwdXZadUE5NkFyRHFxdkJ1eVF5a29RVndnTmljc1dZV0oxWXNVdE43anhSdFA",
+    "related": [
+      [
+        "Houthis claim attacks on Riyadh airport, Aramco facilities, Saudi troops in Najran | World News",
+        "Hindustan Times"
+      ],
+      [
+        "Saudi oil sites, troops and Riyadh airport targeted: Houthis",
+        "The Hindu"
+      ],
+      [
+        "Yemen’s Houthis say they attacked Riyadh airport, Aramco oil sites and Saudi troops",
+        "The Times of Israel"
+      ],
+      [
+        "Saudi air defenses intercept ballistic missile, drone in Riyadh region",
+        "Arab News"
+      ],
+      [
+        "YEMEN'S HOUTHIS URGE INTERNATIONAL AIRLINES TO REFRAIN FROM FLYING OVER SAUDI AIRSPACE",
+        "CGTN"
+      ]
+    ],
+    "event_key": "saudi_houthi_attack_riyadh_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[후티 반군]], 사우디 공격\n리야드 공항·석유시설 겨냥",
+      "sub": "사우디 방공망 탄도미사일·드론 요격 발표",
+      "chips": [
+        {
+          "k": "공격 주체",
+          "v": "예멘 후티"
+        }
+      ],
+      "alt": "후티 반군, 사우디 공격 리야드 공항·석유시설 겨냥",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공격 대상 주장",
+          "d": "후티 반군은 리야드 공항과 아람코 석유 시설, 나지란 내 사우디 군을 공격했다고 주장했습니다 (힌두스탄 타임스)."
+        },
+        {
+          "t": "사우디 방공망 대응",
+          "d": "사우디군은 리야드 지역에서 탄도미사일과 드론을 요격했다고 밝혔습니다 (아랍뉴스)."
+        },
+        {
+          "t": "영공 운항 자제 촉구",
+          "d": "후티 측은 국제 항공사들에 사우디 영공 운항을 자제할 것을 촉구했습니다 (CGTN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "예멘 후티 반군 사우디 공격 주장",
+        "사우디 방공망 탄도미사일·드론 요격"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모 및 인명 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Arab News",
+        "CGTN",
+        "Hindustan Times",
+        "The Hindu",
+        "The Times of Israel",
+        "2026.11.08 03:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 예멘 후티 반군이 사우디아라비아 리야드 공항과 석유 시설 등을 공격했다고 주장했습니다.\n\n· 후티 반군은 리야드 공항과 아람코 시설, 사우디 군대를 겨냥해 공격을 감행했다고 밝혔습니다 (힌두스탄 타임스).\n· 사우디 방공망은 리야드 지역에서 탄도미사일과 드론을 요격했다고 전했습니다 (아랍뉴스).\n· 후티 반군은 국제 항공사들에 사우디 영공 운항 자제를 촉구했습니다 (CGTN).\n\n이번 사태에 대해 어떻게 보십니까?\n출처: 힌두스탄 타임스·더 힌두·타임스 오브 이스라엘·아랍뉴스·CGTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "예멘 후티 반군이 사우디아라비아 리야드 공항과 석유 시설을 공격했다고 주장했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디 방공망은 탄도미사일과 드론을 요격했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "후티 측은 국제 항공사들에 사우디 영공 운항 자제를 요청했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 인명 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 사태를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[사우디 공항]] 향해\n미사일 날아든 이유",
+  "broll": [
+    "airport runway",
+    "oil refinery night"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-stocks-tech-rout-nasdaq-drop-2026",
-    "topic": "미 나스닥 2% 넘게 급락 기술주 1조 달러 증발",
-    "slug": "2026-10-19-news-us-stocks-tech-rout-nasdaq-drop-2026",
-    "cluster": "CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg",
-    "badge": "breaking",
-    "at": 1792346864.2141492,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "austrian-airlines-flight-bomb-threat-emergency-landing-sofia-2026",
     "topic": "빈 향하던 여객기 폭탄 위협에 비상착륙",
     "slug": "2026-10-19-news-austrian-airlines-flight-bomb-threat-emergency-landing-sofia",
@@ -2998,5 +2988,15 @@
     "at": 1794067753.8153505,
     "country": "폴란드",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "saudi_houthi_attack_riyadh_2026",
+    "topic": "후티 반군, 사우디 공격 리야드 공항·석유시설 겨냥",
+    "slug": "2026-11-08-news-saudi-houthi-attack-riyadh-2026",
+    "cluster": "CBMi8AFBVV95cUxOaU9McDk3d1hQR0YxeXd4X3hsUmlEU2VWWkQ4UUR5QXBQamlBR3pNU3lCZV92dWh0T0hOYXdQNzdDcWlITkZuTHZUMkE5UjlCdFVQUTVZUGN5VElnTU04YTA5YXRjbm1IV3M0dVF4cWE3bmJtRUgtVGJKcW9aUl9SR3ZOZnNxY0tobVplVWJKX29PWTBaZGE1RTRfWm80aFNvT1ZsVUxnM1BSYUNPbHZCd0VmOVA1TzduRUVhcEJBOGViRmhwdXZadUE5NkFyRHFxdkJ1eVF5a29RVndnTmljc1dZV0oxWXNVdE43anhSdFA",
+    "badge": "breaking",
+    "at": 1794074838.5118046,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]
