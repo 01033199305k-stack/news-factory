@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-09-news-us-wssu-homecoming-shootings-2026",
+  "topic": "미국 주립대서 총격 1명 사망·3명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 01:48 KST",
+  "source": "CNN·FOX8 WGHP·WRAL 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxOeVowZ1g3UUpIakstZDlGU3Y0dTdWQXZJeldUTU9PMVA3NVlYTkczY3lnY3Z6TkpsT0RoS01tVkhmbnhXekkxbVpjQUNWdzk4bEpOQlh2b0xUc2hnc0NPU1NldDhlbUhheHJFeU91SHlaWDR1OUxrUHdaYm1TMF9maWVCd0xNZU9pc3RBeUtsb00",
+    "related": [
+      [
+        "1 dead, 3 others injured following two separate shootings at Winston-Salem State University",
+        "WXII"
+      ],
+      [
+        "2 shootings at Winston-Salem State during homecoming weekend leave 1 dead and 3 others injured, police say",
+        "CNN"
+      ],
+      [
+        "Get the latest coverage of the WSSU shootings on WXII 12 News | Find out more here",
+        "WXII"
+      ],
+      [
+        "Police on the scene of ‘isolated’ shooting on Hanes Mall Boulevard in Winston-Salem",
+        "FOX8 WGHP"
+      ],
+      [
+        "1 dead, 3 others injured in shootings during Winston-Salem State University homecoming weekend",
+        "WRAL"
+      ]
+    ],
+    "event_key": "us_wssu_homecoming_shootings_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 [[주립대]]서 총격\n1명 사망·3명 부상",
+      "sub": "윈스턴세일럼 주립대 행사 기간 중 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명 (CNN·WRAL·WXII)"
+        },
+        {
+          "k": "부상",
+          "v": "3명 (CNN·WRAL·WXII)"
+        }
+      ],
+      "alt": "미국 주립대서 총격 1명 사망·3명 부상",
+      "map": {
+        "lat": 36.0998131,
+        "lon": -80.2440518,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n윈스턴세일럼",
+      "video_only": true,
+      "map": {
+        "lat": 36.0998131,
+        "lon": -80.2440518,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "윈스턴세일럼"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "홈커밍 행사 중 총격",
+          "d": "대학 홈커밍 주말 기간에 두 차례 총격이 발생했습니다 (CNN·WXII)."
+        },
+        {
+          "t": "경찰 사상자 발표",
+          "d": "경찰은 1명이 숨지고 3명이 다쳤다고 발표했습니다 (CNN·WRAL·WXII)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "1명 사망 3명 부상",
+        "윈스턴세일럼 주립대 교내 발생"
+      ],
+      "unconfirmed": [
+        "용의자 신원 및 범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "FOX8 WGHP",
+        "WRAL",
+        "WXII",
+        "2026.11.09 03:55 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 한 대학교에서 총격으로 1명이 숨지고 3명이 다쳤습니다.\n\n· 윈스턴세일럼 주립대 홈커밍 주말 행사 기간 중 두 차례 총격이 발생했습니다 (CNN·WXII).\n· 경찰은 1명이 숨지고 3명이 다쳤다고 밝혔습니다 (CNN·WRAL·WXII).\n· 용의자의 구체적인 신원이나 범행 동기는 아직 알려지지 않았습니다.\n\n출처: CNN·WRAL·WXII 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 주립대학교에서 총격이 발생해 1명이 숨지고 3명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "윈스턴세일럼 주립대 홈커밍 행사 기간 중 벌어진 일입니다.",
+      "card": "map"
+    },
+    {
+      "text": "CNN은 두 차례 총격이 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "용의자의 신원과 범행 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[대학교]]서\n총격 사건 발생",
+  "broll": [
+    "university campus night",
+    "police car flashing"
+  ],
+  "place_en": "Winston-Salem, North Carolina, United States"
+}
