@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "kenya_cult_leader_guilty_2026",
-    "topic": "케냐 사이비 종교 지도자 폴 마켄지 어린이 등 살인 혐의 유죄 선고",
-    "slug": "2026-10-20-news-kenya-cult-leader-guilty-2026",
-    "cluster": "CBMiowFBVV95cUxPbG5tMW00YVFnLTJEZEJ6UFhsMUdxbUpGdS1tN2RkbTNiaDNTSExQMWlCeFVHV0dWSzhRMlpIWnFDbFhoR2V1SXhIZlltQ181ZEpzY0NDRFFHSGVOQUxDUmJtb2JtQUl3c2lyRHlOZFVBWjc3R2dXeFVVRGp4emFPcW5ZSzBxVzZCcjUzWnNUaFdIZDBSXzNSck5UTkZGVjhoTVFj",
-    "badge": "breaking",
-    "at": 1792431270.5990705,
-    "country": "케냐",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "ukraine_strike_russian_data_centers_2026",
     "topic": "우크라이나 공습에 러시아 데이터센터 타격",
     "slug": "2026-10-20-news-ukraine-strike-russian-data-centers-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794143484.9685535,
     "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_russia_abu_dhabi_peace_talks_2026",
+    "topic": "우크라 회담에 유럽 국가들 합류",
+    "slug": "2026-11-08-news-ukraine-russia-abu-dhabi-peace-talks-2026",
+    "cluster": "CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR",
+    "badge": "brief",
+    "at": 1794150937.3523986,
+    "country": "아랍에미리트",
     "category": "국제"
   }
 ]

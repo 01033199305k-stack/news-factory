@@ -1,0 +1,154 @@
+{
+  "slug": "2026-11-08-news-ukraine-russia-abu-dhabi-peace-talks-2026",
+  "topic": "우크라 회담에 유럽 국가들 합류",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 21:07 KST",
+  "source": "CBS News·Politico·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgFBVV95cUxQZ2FDU05aeklyMGVkQjdLeFI3el9yaEtTUTF0RUlTQndFY2hZTVM2MFM0ZkhUX0RoUkI3VWxMQmZ0WGdmbmxyNVN2ZVRsQ2J0U29QaEljZXZVdFkwVG9IYmtHaGhIeUYyNXZ2U3didGRaUm95S3M5WEJBMjhCTkRhbndRUURPcXdmUVZWR2pHV0hWT0ZvTEFuUTVKcFdNZElmeklRNHhpWEc4TkQ0VEZ3ZUxqbVJKb0NzaTJ2cnBR",
+    "related": [
+      [
+        "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
+        "Reuters"
+      ],
+      [
+        "Top Ukrainian official expresses \"restrained optimism\" about eventual Putin-Zelenskyy meeting ahead of trilateral talks",
+        "CBS News"
+      ],
+      [
+        "Russia upgrades Abu Dhabi delegation as Zelenskyy warns Trump's plan is dangerous",
+        "Politico"
+      ],
+      [
+        "Russia Sends High-Level Delegation to Abu Dhabi Talks",
+        "Kyiv Post"
+      ],
+      [
+        "Umerov to lead Ukraine delegation in Abu Dhabi peace talks despite media confusion, top official confirms",
+        "The Kyiv Independent"
+      ]
+    ],
+    "event_key": "ukraine_russia_abu_dhabi_peace_talks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라 회담에\n[[유럽 국가들]] 합류",
+      "sub": "러시아 고위급 대표단 파견… 3자 회담서 정상회담 논의 기대",
+      "chips": [
+        {
+          "k": "회담 장소",
+          "v": "아부다비"
+        },
+        {
+          "k": "참석 대상",
+          "v": "유럽·우크라·러시아"
+        }
+      ],
+      "alt": "우크라 회담에 유럽 국가들 합류",
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n아부다비",
+      "video_only": true,
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아부다비"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유럽 국가 회담 참석",
+          "d": "프랑스 외무장관은 아부다비에서 열리는 우크라이나 회담에 유럽 국가들이 합류한다고 밝혔습니다 (로이터)."
+        },
+        {
+          "t": "러시아 대표단 격상",
+          "d": "러시아 측은 아부다비 회담에 고위급 대표단을 파견하기로 결정했습니다 (폴리티코·키이우 포스트)."
+        },
+        {
+          "t": "정상회담 가능성 논의",
+          "d": "우크라이나 고위 당국자는 3자 회담을 앞두고 정상회담 가능성에 대해 절제된 낙관론을 전했습니다 (CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유럽 국가들의 아부다비 회담 합류",
+        "러시아 고위급 대표단 파견",
+        "우크라이나 대표단 회담 참석"
+      ],
+      "unconfirmed": [
+        "정상회담 개최 성사 여부",
+        "종전 조건 합의 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Kyiv Post",
+        "Politico",
+        "Reuters",
+        "The Kyiv Independent",
+        "2026.11.09 00:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 우크라이나 회담에 유럽 국가들이 합류합니다.\n\n· 프랑스 외무장관은 아부다비에서 열리는 우크라이나 회담에 유럽 국가들이 참가한다고 밝혔습니다 (로이터).\n· 러시아는 회담에 대표단을 고위급으로 격상해 파견하기로 했습니다 (폴리티코·키이우 포스트).\n· 우크라이나 당국자는 3자 회담을 앞두고 정상회담 가능성에 절제된 낙관론을 표명했습니다 (CBS).\n\n이번 아부다비 회담이 평화의 발판이 될 수 있을까요?\n\n출처: 로이터·CBS·폴리티코·키이우 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 회담에 유럽 국가들이 합류합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "회담이 열리는 아부다비로 관심이 쏠리고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "러시아 측도 아부다비 회담에 고위급 대표단을 파견하기로 결정했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "양국 정상회담 성사 여부는 아직 확정되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 회담이 평화의 발판이 될 수 있을까요?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[아부다비]] 회담에\n유럽도 모인다",
+  "broll": [
+    "diplomatic meeting room",
+    "abu dhabi skyline"
+  ],
+  "place_en": "Abu Dhabi, United Arab Emirates"
+}
