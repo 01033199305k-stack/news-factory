@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-08-news-ss-united-states-artificial-reef-2026",
+  "topic": "역사 속으로 사라지는 전설의 여객선 인공 산호초로 재탄생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 23:34 KST",
+  "source": "CBS News·CNN·NPR 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxQNFU4dll4MjhHNEdpT0pwR1FfM3RkbDdPajZhRkMwYVNDSFhvNUNvODNjaGRTVmx0am5lSTZtV2pBSk92T0k2YzdybElWeC11bTVGTElVbzFVOWxqUmxTZmM3aEtzWl9RSThOaEpZUlFubzBrUURCc1AwWWNaa05UVlFn",
+    "related": [
+      [
+        "The SS United States and her final destination",
+        "CBS News"
+      ],
+      [
+        "As this storied ship is sunk to become an artificial reef and scuba spot, it concludes the ocean liner era",
+        "CNN"
+      ],
+      [
+        "Judge denies preservation group's request to stop sinking of SS United States",
+        "6abc Philadelphia"
+      ],
+      [
+        "SS United States, a historic ship will be sunk to create an artificial reef",
+        "NPR"
+      ],
+      [
+        "SS United States will be sunk, becoming the world’s largest artificial reef",
+        "The Washington Post"
+      ]
+    ],
+    "event_key": "ss_united_states_artificial_reef_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "역사 속으로 사라지는 전설의 여객선\n[[인공 산호초]]로 재탄생",
+      "sub": "법원 기각 결정으로 침몰 작업 진행",
+      "chips": [
+        {
+          "k": "목적",
+          "v": "인공 산호초"
+        }
+      ],
+      "alt": "역사 속으로 사라지는 전설의 여객선 인공 산호초로 재탄생",
+      "map": {
+        "lat": 39.9527237,
+        "lon": -75.1635262,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n필라델피아",
+      "video_only": true,
+      "map": {
+        "lat": 39.9527237,
+        "lon": -75.1635262,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "필라델피아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "법원 결정",
+          "d": "보존 단체의 중단 요청을 판사가 기각했습니다 (6abc 필라델피아)."
+        },
+        {
+          "t": "해양 시대 마감",
+          "d": "역사적인 선박이 바다에 가라앉으며 대형 여객선 시대가 막을 내립니다 (CNN·NPR)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "보존 단체 요청 기각",
+        "세계 최대 인공 산호초 조성"
+      ],
+      "unconfirmed": [
+        "구체적인 침몰 완료 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "6abc Philadelphia",
+        "CBS News",
+        "CNN",
+        "NPR",
+        "The Washington Post",
+        "2026.11.09 02:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 역사 속으로 사라지는 전설의 여객선 인공 산호초로 재탄생\n\n· 보존 단체의 중단 요청을 판사가 기각했습니다 (6abc 필라델피아)\n· 역사적인 선박이 바다에 가라앉으며 대형 여객선 시대가 막을 내립니다 (CNN·NPR)\n\n출처: CNN·NPR·워싱턴포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "역사적인 여객선이 바다에 가라앉아 인공 산호초로 다시 태어납니다.",
+      "card": "cover"
+    },
+    {
+      "text": "워싱턴포스트는 이 배가 세계에서 가장 큰 인공 산호초가 될 것이라고 전했습니다.",
+      "card": "points",
+      "screen": "세계 최대 인공초"
+    },
+    {
+      "text": "법원은 보존 단체가 제기한 침몰 중지 요청을 기각했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 침몰 완료 시점은 아직 전해지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "전설적인 여객선\n[[SS 유나이티드 스테이트스]]의 마지막",
+  "broll": [
+    "ocean liner ship",
+    "sea ocean water"
+  ],
+  "place_en": "Philadelphia, USA"
+}

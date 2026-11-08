@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france_riots_paris_nice_curfews_2026",
-    "topic": "프랑스 전역 폭동에 파리·니스 야간 통금령",
-    "slug": "2026-10-20-news-france-riots-paris-nice-curfews-2026",
-    "cluster": "CBMiVkFVX3lxTFBpZklSWldWXzY3TzVZLUFfRUtuZkZoZEFNTWhFVTVKV2VvRDJrcVF1LU00Njk5TkdCSlI3NWc5Y3l4cF9PbndBcXJWTGpmYzBXSmF3NlVn",
-    "badge": "brief",
-    "at": 1792448886.9978547,
-    "country": "프랑스",
-    "category": "국제"
-  },
-  {
     "event_key": "hurricane_trudy_mexico_pacific_coast_2026",
     "topic": "허리케인 트루디 멕시코 연안 강타",
     "slug": "2026-10-20-news-hurricane-trudy-mexico-pacific-coast-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794154071.1987503,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "ss_united_states_artificial_reef_2026",
+    "topic": "역사 속으로 사라지는 전설의 여객선 인공 산호초로 재탄생",
+    "slug": "2026-11-08-news-ss-united-states-artificial-reef-2026",
+    "cluster": "CBMiggFBVV95cUxQNFU4dll4MjhHNEdpT0pwR1FfM3RkbDdPajZhRkMwYVNDSFhvNUNvODNjaGRTVmx0am5lSTZtV2pBSk92T0k2YzdybElWeC11bTVGTElVbzFVOWxqUmxTZmM3aEtzWl9RSThOaEpZUlFubzBrUURCc1AwWWNaa05UVlFn",
+    "badge": "breaking",
+    "at": 1794157606.118479,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]
