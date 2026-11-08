@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-08-news-ukraine-zaporizhzhia-aid-point-attack-2026",
+  "topic": "우크라 구호소 공습 사망 53명으로 늘어",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 19:56 KST",
+  "source": "AP News·Al Jazeera·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0",
+    "related": [
+      [
+        "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
+        "AP News"
+      ],
+      [
+        "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+        "Al Jazeera"
+      ],
+      [
+        "Russians strike emergency workers at attack site in Komyshuvakha, Zelenskyy responds",
+        "Українська правда"
+      ],
+      [
+        "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+        "BBC"
+      ],
+      [
+        "Death toll from Russian bombing of Ukrainian aid point rises to 53, governor says",
+        "Reuters"
+      ]
+    ],
+    "event_key": "ukraine_zaporizhzhia_aid_point_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 구호소 공습\n[[사망 53명]]으로 늘어",
+      "sub": "러시아군이 구조 중인 대원들에게 2차 드론 공격을 감행했습니다.",
+      "chips": [],
+      "alt": "우크라 구호소 공습 사망 53명으로 늘어",
+      "map": {
+        "lat": 47.8507859,
+        "lon": 35.1182867,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n자포리자",
+      "video_only": true,
+      "map": {
+        "lat": 47.8507859,
+        "lon": 35.1182867,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "자포리자"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "구호 시설 공습",
+          "d": "우크라이나 남부 자포리자주 코미슈바하의 구호 지점이 러시아군의 공격을 받았습니다 (알자지라·우크라인스카 프라우다)."
+        },
+        {
+          "t": "구조대 대상 2차 공격",
+          "d": "현장에 출동한 비상 대원들을 향해 추가 드론 폭격이 이어지는 모습이 바디캠에 포착됐습니다 (AP·BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 남부 구호 시설 피격",
+        "구조 작업 대원 대상 2차 공격"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "BBC",
+        "Reuters",
+        "Українська правда",
+        "2026.11.08 22:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 남부 구호 시설이 공습을 받아 사망자가 53명으로 늘었습니다 (로이터).\n\n· 러시아군이 자포리자주 코미슈바하의 구호 지점을 공격했습니다 (알자지라·우크라인스카 프라우다).\n· 현장에 출동한 구조대원들을 향해 2차 공격을 가하는 장면이 포착됐습니다 (AP·BBC).\n\n출처: AP·알자지라·우크라인스카 프라우다·BBC·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 구호소 공습 사망자가 53명으로 늘었다고 로이터가 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공격은 우크라이나 남부 자포리자주에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "구조 작업 중이던 비상 대원들에게 2차 공격이 가해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 수는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[구호소]] 공습 현장\n2차 공격의 전말",
+  "broll": [
+    "emergency workers night",
+    "destroyed building smoke"
+  ],
+  "place_en": "Zaporizhzhia, Ukraine"
+}

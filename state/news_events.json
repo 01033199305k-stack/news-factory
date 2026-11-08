@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_supreme_court_9_11_plea_deal_2026",
-    "topic": "미 연방대법원, 9/11 테러 기획자 플리바겐 부활 거부",
-    "slug": "2026-10-19-news-us-supreme-court-9-11-plea-deal-2026",
-    "cluster": "CBMixwFBVV95cUxNTkszT0JFbGR1dDhmNmJ4Umt4VXVVTVc5ckdOelMyX1kydURwNURBYy13UE9PMTBMamNxMU5aREw2VVFSZkJicFZQWTVfT0RyQkxQSXJsSnB2T005cFEzS3JXLVFxT2dhRU4zTVhmVm1CTWE2MGNyZGtINnBLaE56dWIzUGM1Q2hXSTRJd08tOTVnSnN5WGZMYzlQZ3hkUzlNeHNuYVNQZnpfcE9RQkJaUmxBUHNWWTRCX0JibjBIdjYwZ1I2U0FN",
-    "badge": "breaking",
-    "at": 1792426102.9615545,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "kenya_cult_leader_guilty_2026",
     "topic": "케냐 사이비 종교 지도자 폴 마켄지 어린이 등 살인 혐의 유죄 선고",
     "slug": "2026-10-20-news-kenya-cult-leader-guilty-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1794132830.880687,
     "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_zaporizhzhia_aid_point_attack_2026",
+    "topic": "우크라 구호소 공습 사망 53명으로 늘어",
+    "slug": "2026-11-08-news-ukraine-zaporizhzhia-aid-point-attack-2026",
+    "cluster": "CBMiqwFBVV95cUxQUlFnYVBkWHBXdnhJcHBhOTM4U0t0WnZHVkYwY3FQc3lUd3hpallTaHFGN1BuaVFWUEtITnVDSWFaWUdTZktXdjg5MUk0bWtsSkFsYk9xS21Lc2N0cnpPeHBEeVZDdW5RZ1h0NUs3Sk8wbGhiTmtTQjVjSjRrcEVsdTNjMk8wTDRuaDUxSlFrT0FvS2VsVkZVVVNYUmpXaW9jbUZZZGVzVzBDWE0",
+    "badge": "breaking",
+    "at": 1794143484.9685535,
+    "country": "우크라이나",
     "category": "국제"
   }
 ]
