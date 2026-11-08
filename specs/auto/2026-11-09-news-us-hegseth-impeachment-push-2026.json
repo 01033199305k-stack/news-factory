@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-09-news-us-hegseth-impeachment-push-2026",
+  "topic": "미 하원 민주당 대표, 피트 헤그세스 탄핵 지지",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 04:36 KST",
+  "source": "Axios·BBC·CBS News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBRQmRlVU1CeEg3c09yaDNzWC1JbVJ6bTFzUnhNcE5nTjd4bmQ2V09VNWJUT3hoZ3lsWG5teVBpeDRndk03VGFSZjFXaDl5VFkwRk5PdEp2Z3AtY00",
+    "related": [
+      [
+        "Top House Democrat Hakeem Jeffries 'a hard yes' on impeaching Pete Hegseth",
+        "BBC"
+      ],
+      [
+        "Efforts to impeach Pete Hegseth solidify following Democrats’ midterm election victories",
+        "CNN"
+      ],
+      [
+        "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
+        "The Guardian"
+      ],
+      [
+        "GOP Rep. French Hill says he'll weigh whether Hegseth's actions merit \"impeachment versus some other disciplinary action\"",
+        "CBS News"
+      ],
+      [
+        "House poised to impeach Pete Hegseth after GOP midterm defeat",
+        "Axios"
+      ]
+    ],
+    "event_key": "us_hegseth_impeachment_push_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 하원 민주당 대표,\n[[피트 헤그세스]] 탄핵 지지",
+      "sub": "중간선거 승리 이후 탄핵 추진 가속화",
+      "chips": [],
+      "alt": "미 하원 민주당 대표, 피트 헤그세스 탄핵 지지",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "하킴 제프리스 발언",
+          "d": "하킴 제프리스 하원 민주당 대표는 그가 물러나야 한다고 밝혔습니다 (BBC·The Guardian)."
+        },
+        {
+          "t": "공화당 반응",
+          "d": "프렌치 힐 공화당 하원의원은 탄핵과 다른 징계 조치를 저울질하겠다고 밝혔습니다 (CBS News)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "하킴 제프리스 탄핵 찬성 (BBC·The Guardian)",
+        "하원 탄핵 추진 움직임 (Axios)"
+      ],
+      "unconfirmed": [
+        "하원 표결 최종 결과"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Axios",
+        "BBC",
+        "CBS News",
+        "CNN",
+        "The Guardian",
+        "2026.11.09 05:45 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 하원 민주당 대표, 피트 헤그세스 탄핵 지지\n\n· 하킴 제프리스 하원 민주당 대표는 그가 물러나야 한다고 밝혔습니다 (BBC·The Guardian)\n· 프렌치 힐 공화당 하원의원은 탄핵과 징계 조치를 저울질하겠다고 밝혔습니다 (CBS News)\n\n여러분은 이번 탄핵 추진 움직임, 어떻게 보십니까?\n출처: BBC·CNN·The Guardian·CBS News·Axios 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 하원 민주당 대표가 피트 헤그세스에 대한 탄핵을 지지하고 나섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "하킴 제프리스 대표는 그가 물러나야 한다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "중간선거 이후 민주당의 승리에 힘입어 탄핵 추진 움직임이 굳어지고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공화당 내에서 어떤 조치가 내려질지는 아직 확정되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 탄핵 추진 움직임, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "탄핵 추진, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "미국 [[하원]]에서\n무슨 일이?",
+  "broll": [
+    "us capitol building",
+    "politician speaking microphone"
+  ],
+  "place_en": "Washington, D.C., United States"
+}
