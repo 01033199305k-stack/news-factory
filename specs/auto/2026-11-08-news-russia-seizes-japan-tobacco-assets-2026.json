@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-08-news-russia-seizes-japan-tobacco-assets-2026",
+  "topic": "러시아, JT 자산 강제 몰수 일본 정부 강력 반발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 08:54 KST",
+  "source": "AP News·Bloomberg.com·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinwFBVV95cUxPRGJSYldodXRIdGxoX0t1RmdMSV9HRDM4TEh6SXBpc1BvMU5GWW1sNUN1SW1QNmd3Q0cycW1GWnlHanduYXNfQ3JiTmxoTTJaXzg2OXZzLWNkN095UThYNFFJYVdRWm9uSDJhQ1QxaEg5bFU0RE5fMURtcFktajE1TU4zZ291bDBkajlyTzI4UFppZ2l3cFhPYWF5eS1DNnc",
+    "related": [
+      [
+        "Moscow Seizes Japan Tobacco’s Russia Factories",
+        "WSJ"
+      ],
+      [
+        "Putin expands temporary administration of Japan Tobacco assets in Russia",
+        "Reuters"
+      ],
+      [
+        "Putin seizes Russian operations of Japanese tobacco giant JTI",
+        "Euronews.com"
+      ],
+      [
+        "Japan Protests Russia’s Seizure of Japan Tobacco Assets",
+        "Bloomberg.com"
+      ],
+      [
+        "Japan protests Russian takeover of Japan Tobacco subsidiaries in Russia",
+        "AP News"
+      ]
+    ],
+    "event_key": "russia_seizes_japan_tobacco_assets_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아, JT 자산 [[강제 몰수]]\n일본 정부 강력 반발",
+      "sub": "푸틴 임시 관리 지정 명령… 일본 외무성 항의",
+      "chips": [],
+      "alt": "러시아, JT 자산 강제 몰수 일본 정부 강력 반발",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "현지 자산 강제 압류",
+          "d": "푸틴 러시아 대통령이 일본 기업 재팬토바코의 러시아 내 자산을 임시 관리 대상에 포함시켰습니다."
+        },
+        {
+          "t": "일본 정부의 강력 항의",
+          "d": "일본 정부는 러시아의 이번 자산 몰수 조치에 대해 외교 경로로 항의했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아의 재팬토바코 자산 임시 관리 지정",
+        "일본 정부의 공식 항의"
+      ],
+      "unconfirmed": [
+        "구체적인 자산 피해 규모",
+        "향후 보상 절차 유무"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Bloomberg.com",
+        "Euronews.com",
+        "Reuters",
+        "WSJ",
+        "2026.11.08 09:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아 정부가 일본 대기업 재팬토바코의 현지 자산을 강제 몰수했습니다.\n\n· 푸틴 러시아 대통령이 재팬토바코 현지 법인 통제권을 임시 관리 대상에 넣었습니다 (WSJ·로이터)\n· 일본 정부는 자산 압류 조치에 대해 강력히 항의했습니다 (블룸버그·AP)\n\n국제 통상 질서에 미칠 파장에 대해 여러분은 어떻게 생각하십니까?\n\n출처: WSJ·로이터·유로뉴스·블룸버그·AP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아가 일본 담배 기업 자산을 강제 몰수했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "모스크바 정부는 현지 공장 등의 통제권을 임시 관리 대상에 넣었습니다.",
+      "card": "map"
+    },
+    {
+      "text": "일본 정부는 강력하게 항의 입장을 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 향후 조치는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "국제 통상에 미칠 영향, 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[일본 대기업]] 자산\n빼앗긴 이유",
+  "broll": [
+    "factory exterior building",
+    "kremlin moscow russia"
+  ],
+  "place_en": "Moscow, Russia"
+}
