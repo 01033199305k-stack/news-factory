@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-08-news-us-task-force-iran-land-supply-routes-2026",
+  "topic": "미국 이란 육로 차단 전담 부대 신설 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 11:38 KST",
+  "source": "Al Jazeera·CBS News·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxQUzlZRHNHOEx4NlhrUzJkZmM1UUhPdlBKLXp5OEJYYkpTamRaRUVsUjVZd1pCX01JZXNlYTBKNm9fRkxKQ3VFQmlsdTU4dVN3enpRLVdxZUx0WVM3ZkstRkI3YllCeE9la0QzQW5kYjZ5R0tvbDJjVzk3WFdqczNqVDFiSEN4MXlSd0lBN09DZ0lIV1NYV2thbEt4MDIwTEh0d3BvZ21XZmjSAa4BQVVfeXFMTXB1eGlRQ3JfcXB1cWJLRG1kRFZ0bGdvYWJiNFpLX0ZESXZnbmZ4YnZPYm1fVlRGcmtiU19qUjhid1NaSDhwRnRMUUFVeUswbkNxX19LTDJKU24xX1laZ2V0U21XelNxZWVNemZjLU9MSGVidDdTZHI3bXVGdDR1T1hGV1hHazZjZTRNUllBdUQ1c0RGMXlDOFJQbVB4QUgwU1VhUGpyVF9MbUpuanhR",
+    "related": [
+      [
+        "US launches task force to disrupt Iran’s land-based supply routes",
+        "Al Jazeera"
+      ],
+      [
+        "Live - US hits vessel off Iran, launches task force to disrupt land supply routes",
+        "Iran International"
+      ],
+      [
+        "'Iron Gate': US forms special task force to restrict Iran's land exports",
+        "The Times of India"
+      ],
+      [
+        "Live Updates: U.S. expands naval blockade to include task force on disrupting ground transport",
+        "CBS News"
+      ],
+      [
+        "US to set up task force to restrict Iran commerce across land borders, Caspian Sea",
+        "Khaleej Times"
+      ]
+    ],
+    "event_key": "us_task_force_iran_land_supply_routes_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 [[이란 육로 차단]]\n전담 부대 신설 발표",
+      "sub": "이란의 육상 수송 경로와 무역을 통제할 목적입니다",
+      "chips": [
+        {
+          "k": "차단 부대",
+          "v": "아이언 게이트"
+        }
+      ],
+      "alt": "미국 이란 육로 차단 전담 부대 신설 발표",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "전담 부대 신설",
+          "d": "미국 정부는 이란의 육상 수송망과 무역을 제한하기 위해 전담 태스크포스 '아이언 게이트'를 창설했습니다 (알자지라·타임스 오브 인디아)."
+        },
+        {
+          "t": "해상 선박 타격",
+          "d": "미군은 이란 인근 수역에서 선박을 타격하며 봉쇄 조치를 확대했다고 밝혔습니다 (이란 인터내셔널·CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 정부 TF 신설 (알자지라·CBS)",
+        "이란 관련 선박 타격 (이란 인터내셔널)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "차단 조치 실효성 및 이란 대응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CBS News",
+        "Iran International",
+        "Khaleej Times",
+        "The Times of India",
+        "2026.11.08 15:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 정부가 이란의 육상 수송로 차단 전담 부대를 신설했습니다.\n\n· 미군은 이란의 육상 수송 경로와 카스피해 무역을 차단하기 위한 태스크포스를 출범시켰습니다 (알자지라·타임스 오브 인디아·할리즈 타임스)\n· 미국은 봉쇄망을 확대하며 이란 인근 수역의 선박을 타격했다고 밝혔습니다 (CBS·이란 인터내셔널)\n\n강화된 미국의 대이란 차단 조치, 어떻게 보십니까?\n\n출처: 알자지라·CBS·이란 인터내셔널·타임스 오브 인디아·할리즈 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 이란의 육상 수송로를 차단하기 위한 전담 부대를 창설했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국은 이란의 육로 수출과 카스피해 무역을 통제할 목표라고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이란 인터내셔널 등은 미군이 이란 인근 수역에서 선박을 타격하며 압박을 강화했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 조치에 대한 이란 측의 대응 방식은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "강화된 미국의 대이란 차단 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 이란의\n[[육로]]를 막는 이유",
+  "broll": [
+    "military warship ocean",
+    "container truck highway"
+  ],
+  "place_en": "Washington D.C., United States"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia-lavrov-visits-iran-talks-avert-war-2026",
-    "topic": "러시아 외무장관 이란 방문",
-    "slug": "2026-10-19-news-russia-lavrov-visits-iran-talks-avert-war-2026",
-    "cluster": "CBMijgFBVV95cUxNQXBXMWdNYVRIU0pDdjdkTnZLOEhXdnE0dW9UYkl6NjVpcDRlWEE0MHoxS2VObkNYSjJsbzJCMkVxNlZaTHplRmV3aEtrMFNueEtRT1RreXNtLVhvNWoxVExlalo5UW9zU0hrQVhOMzBRZjhQMjRFNWN4SVduaTJ5Yi1uNE1sbjlBLThsZnln",
-    "badge": "brief",
-    "at": 1792411657.5329633,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "yemen-shabwa-military-camp-houthi-attack-2026",
     "topic": "예멘 군사훈련소 미사일 공격 사망자 수 매체별 집계 차이",
     "slug": "2026-10-19-news-yemen-shabwa-military-camp-houthi-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794107516.675826,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "us_task_force_iran_land_supply_routes_2026",
+    "topic": "미국 이란 육로 차단 전담 부대 신설 발표",
+    "slug": "2026-11-08-news-us-task-force-iran-land-supply-routes-2026",
+    "cluster": "CBMiqAFBVV95cUxQUzlZRHNHOEx4NlhrUzJkZmM1UUhPdlBKLXp5OEJYYkpTamRaRUVsUjVZd1pCX01JZXNlYTBKNm9fRkxKQ3VFQmlsdTU4dVN3enpRLVdxZUx0WVM3ZkstRkI3YllCeE9la0QzQW5kYjZ5R0tvbDJjVzk3WFdqczNqVDFiSEN4MXlSd0lBN09DZ0lIV1NYV2thbEt4MDIwTEh0d3BvZ21XZmjSAa4BQVVfeXFMTXB1eGlRQ3JfcXB1cWJLRG1kRFZ0bGdvYWJiNFpLX0ZESXZnbmZ4YnZPYm1fVlRGcmtiU19qUjhid1NaSDhwRnRMUUFVeUswbkNxX19LTDJKU24xX1laZ2V0U21XelNxZWVNemZjLU9MSGVidDdTZHI3bXVGdDR1T1hGV1hHazZjZTRNUllBdUQ1c0RGMXlDOFJQbVB4QUgwU1VhUGpyVF9MbUpuanhR",
+    "badge": "brief",
+    "at": 1794118162.0274537,
+    "country": "미국",
+    "category": "국제"
   }
 ]
