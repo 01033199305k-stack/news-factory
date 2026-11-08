@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "ukraine_strike_russian_data_centers_2026",
-    "topic": "우크라이나 공습에 러시아 데이터센터 타격",
-    "slug": "2026-10-20-news-ukraine-strike-russian-data-centers-2026",
-    "cluster": "CBMixAFBVV95cUxQdkdRQjJiN3F6dUZrcVEyM1dwUmxiN210eHRGYVV6R1pyWkxTd09WRi1nbTdUcVdJdEVYNXk5R1hIZEFuYUFRUF80c1BaS3NUdGU3bTk5Nnc2V0JRMW5DSllsTVN4a0hVRmVfVjUyeVh0YV9fZEdBTkc1Wk1ZQ1U2MGFQUy1iU1cxcjdybFdRUFVOTi1LWFFKRUZ2c25ZUkFGT0hQdWdwcURzV05nMndCU1UyaTVwRDRDTTN2ZGRrRFBPTDRY0gHMAUFVX3lxTE53ZHlzSlJ2ay1zX0JkaXZGamhVMzVNa21YbFg3cWxNd280cDhLS3VJMXpSRU1xM2FOZXZaMk9XeURhb05KQTVEZVd1cGhtMnQ5M25jc1FCaXd1MlBhY1lUQWVpQTNkOHVaNHJkUHRtZ3lTS2M2Q1RVQVl2LUV6Y0RqRS1TSVRzY2lzQ3ZhdVluUTVjLU14TzMyY2FMazhTNDA5emVIeUNLNXZZWVNXcUJSYW5GdDVaQnp5cWhoaFROczgxU19GVUxLalVrcQ",
-    "badge": "brief",
-    "at": 1792436962.051261,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
-    "event_key": "us_waives_russia_sanctions_oil_2026",
-    "topic": "미국 정부, 일부 러시아 제재 면제 유가 선물 하락세 기록",
-    "slug": "2026-10-20-news-us-waives-russia-sanctions-oil-2026",
-    "cluster": "CBMi3gFBVV95cUxNTDJ2Qjl2WFNBTjRjQzBPZ3NvaVFXOFctRlZqQzBVZDhDTkR4eEZ6NzZadGhJZHdwSzVuVExwYmxtUFVucTdBRVFzS1BfT3dVeVpNYmJzUzNnTVlzZng0dUZzNTlLOERkZl8wbXRjZS1QVlRDbnhBejVWU2k1UnF5U1BhZzNiUGd6TEFvWmkxajJmUzdiSVBOWnIzaHBmWE9Td1FMMUZtNEMxcEtzOXltQmhsNzNvRTNNX3VhYm8yX2xzU0diYTNNZkp1M0Q5LTJoZGxTaWg0MG1VTlR1Smc",
-    "badge": "brief",
-    "at": 1792444139.0018644,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "france_riots_paris_nice_curfews_2026",
     "topic": "프랑스 전역 폭동에 파리·니스 야간 통금령",
     "slug": "2026-10-20-news-france-riots-paris-nice-curfews-2026",
@@ -2997,6 +2977,26 @@
     "badge": "brief",
     "at": 1794150937.3523986,
     "country": "아랍에미리트",
+    "category": "국제"
+  },
+  {
+    "event_key": "egypt_giza_train_collision_2026",
+    "topic": "이집트서 열차 충돌 최소 4명 사망",
+    "slug": "2026-11-09-news-egypt-giza-train-collision-2026",
+    "cluster": "CBMijwFBVV95cUxNcDdtY1czVzhqM1B6QktQcDBNX0hZcjFtV0ZPUjhyaExGOFM0XzFVbV9FOTR5bG5UdXJxeFpGVjRoa09CdE9LR0szMEVqM1lnbGxyUTZHMEtFZUNTZ1h4OE1WYmFERER2dkRjSkxoUTIwV3lPQTR3dDd3RGx2anY0ZHhXd2x0bzlVdVNOeUxOVQ",
+    "badge": "breaking",
+    "at": 1794154044.80948,
+    "country": "이집트",
+    "category": "사고"
+  },
+  {
+    "event_key": "hormuz_strait_tankers_fire_2026",
+    "topic": "호르무즈 해협서 유조선 3척 화재",
+    "slug": "2026-11-08-news-hormuz-strait-tankers-fire-2026",
+    "cluster": "CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR",
+    "badge": "breaking",
+    "at": 1794154071.1987503,
+    "country": "이란",
     "category": "국제"
   }
 ]

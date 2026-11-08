@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-08-news-hormuz-strait-tankers-fire-2026",
+  "topic": "호르무즈 해협서 유조선 3척 화재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 23:21 KST",
+  "source": "Al Jazeera·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivgFBVV95cUxONWFPcDhpSjcwTEozRGRNdHFnWWpzb1pCYXIzdnVOUWhJQ3JvaGVTcjItLWNwNktieTVDcTk0WlpKbDRiMHB3Tkl0R19Mb1NUckllcVYwenlvNUV2QTBLcjlNdGtZdFI2NEJxbnhVbmZieXg2SnNTUXNPTFZVZjFnX2o3Q3lBbC1kRzlWcnNNU3VXdFNYNW5YTTJ4SFdBaDVfai1CRU50cm1VMHBkeWd4Zkc0Q2UxTlBJcmZ6TnJR",
+    "related": [
+      [
+        "Iran suggests blasts are not US attacks as both sides report ships hit",
+        "Reuters"
+      ],
+      [
+        "Iran war live: Three tankers on fire in Hormuz Strait as attacks intensify",
+        "Al Jazeera"
+      ],
+      [
+        "Iran says two tankers caught fire in Hormuz after hitting mines",
+        "The Hindu"
+      ],
+      [
+        "Iranian state media reports explosions on island in Strait of Hormuz",
+        "The Times of Israel"
+      ],
+      [
+        "Iran says three tankers caught fire in Strait of Hormuz",
+        "The New Indian Express"
+      ]
+    ],
+    "event_key": "hormuz_strait_tankers_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈 해협서\n유조선 3척 [[화재]]",
+      "sub": "분쟁 수역 일대서 피격 보고 잇따라 발생",
+      "chips": [
+        {
+          "k": "피격 유조선",
+          "v": "3척"
+        }
+      ],
+      "alt": "호르무즈 해협서 유조선 3척 화재",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기뢰 접촉 주장",
+          "d": "이란 당국은 유조선 2척이 기뢰에 부딪혀 불이 났다고 밝혔습니다 (더 힌두)."
+        },
+        {
+          "t": "해협 일대 폭발",
+          "d": "호르무즈 해협 내 섬에서 폭발이 보고되며 공격이 격화되고 있습니다 (타임스 오브 이스라엘·알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호르무즈 해협 유조선 3척 화재 (알자지라·뉴인디언익스프레스)",
+        "이란 측 기뢰 접촉 발표 (더 힌두)"
+      ],
+      "unconfirmed": [
+        "정확한 피격 원인",
+        "인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "The Hindu",
+        "The New Indian Express",
+        "The Times of Israel",
+        "2026.11.09 01:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협에서 유조선 3척에 불이 나 피격 보고가 잇따르고 있습니다.\n\n· 알자지라는 해협 일대에서 공격이 격화되며 유조선 3척이 불길에 휩싸였다고 보도했습니다 (알자지라)\n· 이란 당국은 유조선이 기뢰에 부딪혔다고 주장했습니다 (더 힌두)\n· 정확한 피격 경위와 인명 피해 여부는 아직 확인되지 않았습니다\n\n여러분은 이번 해상 갈등 상황을 어떻게 보십니까?\n\n출처: 로이터·알자지라·더 힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 유조선 3척에 불이 나는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 호르무즈 해협 일대에서 공격이 격화되고 있다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이란 당국은 유조선이 기뢰에 부딪혀 불이 났다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "피격 경위와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 해상 갈등 상황을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[호르무즈]] 해협서\n무슨 일이?",
+  "broll": [
+    "oil tanker sea",
+    "sea night"
+  ],
+  "place_en": "Strait of Hormuz"
+}

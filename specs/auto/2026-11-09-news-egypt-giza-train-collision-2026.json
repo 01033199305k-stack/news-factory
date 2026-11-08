@@ -1,0 +1,137 @@
+{
+  "slug": "2026-11-09-news-egypt-giza-train-collision-2026",
+  "topic": "이집트서 열차 충돌 최소 4명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 00:04 KST",
+  "source": "BBC·CNN·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxNcDdtY1czVzhqM1B6QktQcDBNX0hZcjFtV0ZPUjhyaExGOFM0XzFVbV9FOTR5bG5UdXJxeFpGVjRoa09CdE9LR0szMEVqM1lnbGxyUTZHMEtFZUNTZ1h4OE1WYmFERER2dkRjSkxoUTIwV3lPQTR3dDd3RGx2anY0ZHhXd2x0bzlVdVNOeUxOVQ",
+    "related": [
+      [
+        "Four dead and 88 injured in train crash near Cairo",
+        "Sky News"
+      ],
+      [
+        "At least four killed and dozens injured in train collision near Giza in Egypt, health ministry says",
+        "BBC"
+      ],
+      [
+        "Two trains collide in Egypt, killing four people and injuring dozens more, authorities say",
+        "CNN"
+      ],
+      [
+        "Train crash near Cairo kills at least four",
+        "The Telegraph"
+      ],
+      [
+        "60 injured in train derailment in Egypt",
+        "Anadolu Ajansı"
+      ]
+    ],
+    "event_key": "egypt_giza_train_collision_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이집트서 [[열차 충돌]]\n최소 4명 사망",
+      "sub": "카이로 인근 기자 주에서 열차 사고 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 4명"
+        }
+      ],
+      "alt": "이집트서 열차 충돌 최소 4명 사망",
+      "map": {
+        "lat": 29.9870753,
+        "lon": 31.2118063,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이집트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이집트\n기자",
+      "video_only": true,
+      "map": {
+        "lat": 29.9870753,
+        "lon": 31.2118063,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "기자"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "열차 탈선 및 충돌",
+          "d": "열차 충돌 및 탈선 사고가 발생했습니다 (BBC·아나돌루 통신)."
+        },
+        {
+          "t": "부상자 수십 명",
+          "d": "부상자 수는 매체별로 60명에서 88명으로 집계됐습니다 (스카이뉴스·아나돌루 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "최소 4명 사망 (BBC·CNN)",
+        "열차 간 충돌 발생 (스카이뉴스)"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수 (매체별 집계 차이 있음)",
+        "충돌 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Anadolu Ajansı",
+        "BBC",
+        "CNN",
+        "Sky News",
+        "The Telegraph",
+        "2026.11.09 01:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이집트 기자 인근에서 열차 충돌로 최소 4명이 숨졌습니다.\n\n· 이집트 보건부는 카이로 근교 기자 주에서 열차 간 충돌이 발생했다고 밝혔습니다 (BBC·CNN)\n· 부상자 수는 매체에 따라 60명에서 88명으로 보도됐습니다 (스카이뉴스·아나돌루 통신)\n· 한국인 피해 여부는 아직 확인되지 않았습니다\n\n출처: BBC·CNN·스카이뉴스·아나돌루 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이집트 기자 인근에서 열차 충돌 사고가 발생해 최소 4명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "스카이뉴스와 아나돌루 통신은 부상자가 60명에서 88명에 달한다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 충돌 원인과 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[이집트]] 열차 충돌\n무슨 일이?",
+  "broll": [
+    "train station platform",
+    "ambulance night"
+  ],
+  "place_en": "Giza, Egypt"
+}
