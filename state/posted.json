@@ -36335,5 +36335,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794161180
+  },
+  {
+    "slug": "2026-11-08-news-ss-united-states-artificial-reef-2026",
+    "event_ms": 1794148470000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 역사 속으로 사라지는 전설의 여객선 인공 산호초로 재탄생\n\n· 보존 단체의 중단 요청을 판사가 기각했습니다 (6abc 필라델피아)\n· 역사적인 선박이 바다에 가라앉으며 대형 여객선 시대가 막을 내립니다 (CNN·NPR)\n\n출처: CNN·NPR·워싱턴포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18067309730619752",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DffQXdXG2t2",
+        "kind": "carousel",
+        "at": 1794157654
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794164366
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1794164971
+      },
+      "tiktok": {
+        "id": "7705879943795805461",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7705879943795805461",
+        "kind": "video",
+        "at": 1794165110
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794165120
   }
 ]

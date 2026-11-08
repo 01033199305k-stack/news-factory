@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-pennsylvania-measles-outbreak-1200-cases-2026",
-    "topic": "미 펜실베이니아 홍역 비상 감염자 1,286명 집계",
-    "slug": "2026-10-20-news-us-pennsylvania-measles-outbreak-1200-cases-2026",
-    "cluster": "CBMiwAFBVV95cUxQVTZxd09wVXZPNTJ2TTR2Wl8yMDZJT3BWVTdIZTRXNTFVQzVfWU5ueGUyQUxiOGhnYjV2S2hMUzRGVDdpVTFHUk85MFgzQlFxU3pTc1FSenB5aXRMZXNQTGFQX3YxazNMQndiSUI1ODk3amVPcW1ELUpPdWFHRzNVNVdkQ1Q5M1lkckVHQ2pnWHJyR0VsZG5Cb2RGemZqcFdqMnVNTF8taEozTVVjdzZYU0c2aGlhU2k3UTZfNjV5NXc",
-    "badge": "breaking",
-    "at": 1792458469.6041255,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "us-kansas-soccer-field-car-crash-2026",
     "topic": "축구장에 차량 돌진 2명 사망",
     "slug": "2026-10-20-news-us-kansas-soccer-field-car-crash-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794164172.9021711,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "russia_iran_missile_launcher_deal_2026",
+    "topic": "러시아, 이란에 미사일 발사대 90대 공급",
+    "slug": "2026-11-09-news-russia-iran-missile-launcher-deal-2026",
+    "cluster": "CBMigwFBVV95cUxNcDdXQmM2WGt1cDZsNmt4Nk1iUWZTdTdzT2lvNnJtak1XbUVURkNlaWNsci1wOEUxTkdwZjFHSUNkMENJWEJuX0J2RTZoXzh2NHUxUFZxZ2hfb3NPcE03UzBfdGs5ckxkNWtKS2RBM21KenFHRlgzRlJTdnA5RnRpQXBpcw",
+    "badge": "breaking",
+    "at": 1794164808.2750633,
+    "country": "러시아",
+    "category": "국제"
   }
 ]

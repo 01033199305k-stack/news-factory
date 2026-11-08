@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-09-news-russia-iran-missile-launcher-deal-2026",
+  "topic": "러시아, 이란에 미사일 발사대 90대 공급",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 03:30 KST",
+  "source": "Al Jazeera·Financial Times·Fox News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxNcDdXQmM2WGt1cDZsNmt4Nk1iUWZTdTdzT2lvNnJtak1XbUVURkNlaWNsci1wOEUxTkdwZjFHSUNkMENJWEJuX0J2RTZoXzh2NHUxUFZxZ2hfb3NPcE03UzBfdGs5ckxkNWtKS2RBM21KenFHRlgzRlJTdnA5RnRpQXBpcw",
+    "related": [
+      [
+        "Trump unveils 'Iron Gate' task force against Iran as Saudis launch deadly strikes on Houthi rebels",
+        "Fox News"
+      ],
+      [
+        "Russia deepened Iran support with missile launcher deal",
+        "Financial Times"
+      ],
+      [
+        "Russia agreed to supply Iran with 90 helicopter missile launchers",
+        "The Guardian"
+      ],
+      [
+        "Iran: Documents Reveal Russian Contract For 90 Missile Launchers - Report",
+        "i24NEWS"
+      ],
+      [
+        "Rocket launcher deal illustrates deepening Russia-Iran relations",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "russia_iran_missile_launcher_deal_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아, 이란에\n[[미사일 발사대]] 90대 공급",
+      "sub": "헬기용 미사일 발사기 90대 계약 체결 확인",
+      "chips": [
+        {
+          "k": "발사대",
+          "v": "90대"
+        }
+      ],
+      "alt": "러시아, 이란에 미사일 발사대 90대 공급",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "무기 공급 합의",
+          "d": "러시아가 이란에 헬기용 미사일 발사대 90대를 공급하기로 합의했습니다 (파이낸셜 타임스·가디언)."
+        },
+        {
+          "t": "군사 밀착 심화",
+          "d": "양국 간 계약 문서를 통해 군사적 협력이 강화된 정황이 확인됐습니다 (파이낸셜 타임스·알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아-이란 무기 계약 체결 (FT·가디언)",
+        "헬기용 미사일 발사대 90대 공급 (FT·가디언)"
+      ],
+      "unconfirmed": [
+        "무기 실제 인도 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Financial Times",
+        "Fox News",
+        "The Guardian",
+        "i24NEWS",
+        "2026.11.09 04:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아가 이란에 헬기용 미사일 발사대 90대를 공급하기로 합의했습니다.\n\n· 양국 간 무기 계약 문서를 통해 90대 공급 합의 사실이 확인됐습니다 (파이낸셜 타임스·가디언)\n· 두 국가 간의 군사적 밀착 관계가 더욱 심화되고 있는 것으로 전해졌습니다 (알자지라)\n\n러시아와 이란의 군사적 밀착 강화, 어떻게 보십니까?\n\n출처: 파이낸셜 타임스·가디언·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아가 이란에 헬기용 미사일 발사대 90대를 공급하기로 계약을 체결했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이낸셜 타임스는 양국 간 무기 거래 문서가 확인됐다며 군사적 밀착이 강화되고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 무기 인도 시기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "러시아와 이란의 군사 밀착, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "러시아가 이란에\n[[무기]] 넘긴 이유",
+  "broll": [
+    "military helicopter runway",
+    "missile launcher system"
+  ],
+  "place_en": "Moscow, Russia"
+}
