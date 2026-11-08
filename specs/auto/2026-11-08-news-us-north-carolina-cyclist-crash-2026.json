@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-08-news-us-north-carolina-cyclist-crash-2026",
+  "topic": "자전거 무리 덮친 차 1명 숨지고 부상 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 11:18 KST",
+  "source": "CNN·NBC News·ABC11 News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxPV1hjd3ZZUGdscm1kcm4zVC1xUnlIVVJXSHdkQlFSSDJuQ1hJd1ZSbjNNX19YYk5OTGhPd3NLR3FjeDNCYXhxMC1kTHIwS0FSNzRlWUlZdm1teGJ6OW5XZExKcFl1bUpwVjgtRzdMdGhZS2JxTEFKM0haNGluUGdEMUNmNm83Zw",
+    "related": [
+      [
+        "Apex driver in deadly DWI bicycle crash faces more than a dozen felonies, including hit-and-run",
+        "WRAL"
+      ],
+      [
+        "1 dead, at least 12 injured after elderly driver plows into group of cyclists in North Carolina",
+        "NBC News"
+      ],
+      [
+        "Capital One Cycling Club: 1 killed, 7 injured after vehicle strikes group of bicyclists in Wake County",
+        "ABC11 News"
+      ],
+      [
+        "1 dead, 20 other Wake County bicyclists injured in vehicle crash near Holly Springs: Fire officials",
+        "CBS 17"
+      ],
+      [
+        "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say",
+        "CNN"
+      ]
+    ],
+    "event_key": "us_north_carolina_cyclist_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[자전거 무리]] 덮친 차\n1명 숨지고 부상 발생",
+      "sub": "미국 노스캐롤라이나에서 차량이 자전거 무리를 덮치는 사고가 발생했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "자전거 무리 덮친 차 1명 숨지고 부상 발생",
+      "map": {
+        "lat": 35.7979355,
+        "lon": -78.6118311,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n노스캐롤라이나",
+      "video_only": true,
+      "map": {
+        "lat": 35.7979355,
+        "lon": -78.6118311,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "노스캐롤라이나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "자전거 무리 피격",
+          "d": "미국 노스캐롤라이나주 웨이크 카운티에서 차량이 자전거 무리를 덮쳤습니다 (ABC11)."
+        },
+        {
+          "t": "운전자 혐의 적용",
+          "d": "음주 운전과 뺑소니 혐의 등을 받는 운전자는 여러 중죄 혐의로 기소됐습니다 (WRAL)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명 (NBC·CNN)",
+        "자전거 무리 충돌 사고 (ABC11)"
+      ],
+      "unconfirmed": [
+        "부상자 수 매체별 집계 차이 있음 (7~22명)",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC11 News",
+        "CBS 17",
+        "CNN",
+        "NBC News",
+        "WRAL",
+        "2026.11.08 12:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 노스캐롤라이나에서 차량이 자전거 무리를 덮쳐 1명이 숨졌습니다.\n\n· 차량이 자전거 무리를 덮쳐 1명이 숨지고 부상자가 발생했습니다 (NBC·CNN)\n· 현지 당국은 음주 운전과 뺑소니 혐의 등으로 운전자를 조사하고 있습니다 (WRAL)\n· 부상자 수는 매체마다 7명에서 22명으로 집계 차이가 있습니다\n· 한국인 피해 여부는 아직 확인되지 않았습니다\n\n출처: NBC·CNN·WRAL·ABC11 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 노스캐롤라이나주에서 차량이 자전거 무리를 덮쳐 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN은 사고로 1명이 숨지고 부상자가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "WRAL은 운전자가 음주 운전과 뺑소니 등 십여 개 혐의를 받고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "부상자 수는 아직 조사 중입니다.",
+      "card": "check"
+    },
+    {
+      "text": "한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[자전거 무리]] 덮친 차\n무슨 일이?",
+  "broll": [
+    "road bicycle club",
+    "police car lights night"
+  ],
+  "place_en": "Wake County, North Carolina, USA"
+}

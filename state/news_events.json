@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "greece-migrant-boat-collision-capsizes-2026",
-    "topic": "그리스 해역서 이민선 충돌 최소 6명 숨져",
-    "slug": "2026-10-19-news-greece-migrant-boat-collision-capsizes-2026",
-    "cluster": "CBMihAFBVV95cUxPODg0bW0xLXAxWWx2UTNUOFpXUTBMd2tpOFVRazZpUktIQU96b0lOd01DRzJtZ3BHMjlFN3lrcG9LVHpHdktobmpidVgxeG1jbDFRWUVQeTRFTXVsalFacjEzU3lOX1JoOUhtbm1PcFNqTkdQSV9IeVFSa25NcUY5VloybWE",
-    "badge": "breaking",
-    "at": 1792400284.1705136,
-    "country": "그리스",
-    "category": "사고"
-  },
-  {
-    "event_key": "australia-mp-helen-haines-vehicle-attack-2026",
-    "topic": "호주 국회의원 차량 공격받아 중태",
-    "slug": "2026-10-19-news-australia-mp-helen-haines-vehicle-attack-2026",
-    "cluster": "CBMiyAFBVV95cUxNeW11YjlxNEowd0NtUGpENFpFLWtqdGV0dTRIT2oycTk1cUhNTC1CYVZsZExTQ0RaRHBmQTB4cUVOQW5sWU5MZmtZelQxTFY1ZHhLWjg3azd5elRLTVAwTWw1bFZib2RRV3J4VUkxRkVVQnJ5MWtfelE2WTF3ajFMV0xSMl9HdjZsd25yLTVoQ0FqNm5XYXEzcjh6dGdzd1M3UWttNW5qWkx5OFljSEFnVnhTM0tBamU1RjI1ZVhEVTlzSVRuTW5PSg",
-    "badge": "breaking",
-    "at": 1792404860.437729,
-    "country": "호주",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "russia-lavrov-visits-iran-talks-avert-war-2026",
     "topic": "러시아 외무장관 이란 방문",
     "slug": "2026-10-19-news-russia-lavrov-visits-iran-talks-avert-war-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794100038.4815495,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "germany_hitler_eagles_nest_fire_2026",
+    "topic": "히틀러 산장 화재 독일 '독수리 둥지' 파괴",
+    "slug": "2026-11-08-news-germany-hitler-eagles-nest-fire-2026",
+    "cluster": "CBMiW0FVX3lxTE9MZm1hb2hiV1hFRWp0dVZCcktkRHJrbkgwcU9iclREQXRfR3NzOGF2MEVGc2dzdHFPMTlMcTF0LTFBd0taejRnZGJudFV1N2YxMHNDc0w4dUo1aUU",
+    "badge": "breaking",
+    "at": 1794107383.5996528,
+    "country": "독일",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "us_north_carolina_cyclist_crash_2026",
+    "topic": "자전거 무리 덮친 차 1명 숨지고 부상 발생",
+    "slug": "2026-11-08-news-us-north-carolina-cyclist-crash-2026",
+    "cluster": "CBMihgFBVV95cUxPV1hjd3ZZUGdscm1kcm4zVC1xUnlIVVJXSHdkQlFSSDJuQ1hJd1ZSbjNNX19YYk5OTGhPd3NLR3FjeDNCYXhxMC1kTHIwS0FSNzRlWUlZdm1teGJ6OW5XZExKcFl1bUpwVjgtRzdMdGhZS2JxTEFKM0haNGluUGdEMUNmNm83Zw",
+    "badge": "breaking",
+    "at": 1794107516.675826,
+    "country": "미국",
+    "category": "사고"
   }
 ]

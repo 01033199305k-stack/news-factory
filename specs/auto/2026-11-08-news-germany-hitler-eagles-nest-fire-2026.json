@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-08-news-germany-hitler-eagles-nest-fire-2026",
+  "topic": "히틀러 산장 화재 독일 '독수리 둥지' 파괴",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 09:48 KST",
+  "source": "BBC·Yahoo News·Newser 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9MZm1hb2hiV1hFRWp0dVZCcktkRHJrbkgwcU9iclREQXRfR3NzOGF2MEVGc2dzdHFPMTlMcTF0LTFBd0taejRnZGJudFV1N2YxMHNDc0w4dUo1aUU",
+    "related": [
+      [
+        "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+        "BBC"
+      ],
+      [
+        "Germans divided over what to do with Hitler’s burnt-out Alpine retreat",
+        "Yahoo"
+      ],
+      [
+        "Germany Considers What to Do With Burned Hitler Retreat",
+        "Newser"
+      ],
+      [
+        "Fire destroys Hitler’s Eagle’s Nest in Bavaria — The Guardian",
+        "UA.NEWS"
+      ],
+      [
+        "Fire devastates Eagle’s Nest Alpine retreat built for Hitler",
+        "Sudbury Mercury"
+      ]
+    ],
+    "event_key": "germany_hitler_eagles_nest_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[히틀러 산장]] 화재\n독일 '독수리 둥지' 파괴",
+      "sub": "화재로 불탄 알프스 산장의 처리 방안을 두고 논의가 이뤄지고 있습니다",
+      "chips": [],
+      "alt": "히틀러 산장 화재 독일 '독수리 둥지' 파괴",
+      "map": {
+        "lat": 48.9467562,
+        "lon": 11.4038717,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n바이에른",
+      "video_only": true,
+      "map": {
+        "lat": 48.9467562,
+        "lon": 11.4038717,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바이에른"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "알프스 산장 파괴",
+          "d": "독일 바이에른주에 위치한 히틀러의 산장 독수리 둥지가 화재로 파괴됐습니다 (가디언·BBC)."
+        },
+        {
+          "t": "처리 방안 논의",
+          "d": "불탄 산장의 후속 처리를 두고 독일 내에서 논란과 논의가 이어지고 있습니다 (BBC·야후)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "히틀러 산장 화재 파괴 (가디언)",
+        "산장 처리 방안 논의 (BBC)"
+      ],
+      "unconfirmed": [
+        "화재 발생 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Newser",
+        "Sudbury Mercury",
+        "UA.NEWS",
+        "Yahoo",
+        "2026.11.08 12:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 독일 바이에른주에 위치한 히틀러의 알프스 산장이 화재로 파괴됐습니다.\n\n· '독수리 둥지'로 불리는 알프스 산장이 화재로 크게 파괴됐습니다 (가디언·BBC)\n· 파괴된 산장의 후속 처리 방안을 두고 논쟁이 이뤄지고 있습니다 (BBC·야후)\n· 화재 원인은 아직 확인되지 않았습니다\n\n출처: BBC·가디언·야후 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일 바이에른주에 위치한 히틀러의 알프스 산장 독수리 둥지가 화재로 파괴됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언은 이 산장이 불에 타 파괴됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "BBC는 파괴된 산장의 처리 방안을 두고 독일 내부에서 논의가 이어지고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "화재 발생 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "불타버린 [[히틀러 산장]]\n어떻게 하나?",
+  "broll": [
+    "mountain retreat alpine",
+    "fire damage building"
+  ],
+  "place_en": "Bavaria, Germany"
+}
