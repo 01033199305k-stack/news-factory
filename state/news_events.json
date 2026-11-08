@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "putin-proposes-trilateral-summit-trump-xi-ukraine-2026",
-    "topic": "푸틴, 트럼프·시진핑에 3자 정상회담 제안",
-    "slug": "2026-10-19-news-putin-proposes-trilateral-summit-trump-xi-ukraine-2026",
-    "cluster": "CBMiswFBVV95cUxOSUFsbUxmVHc1WjQ5eHNRVFVNV3ZLdzdyRGV6MHNSMEZPRVJrejdESVc2Q204R2hKdi1EbVY3UVBHd0N6c0dMLTBDdVhoSkhFRWN2aWZLc1hmYTJrQjd2M3pXVUl5VDF2aktUMW9TQTNRN0lBZ0ZDcE1adjhlNzZ5NDZkNXNxSWdlS0ozREVlNlRDUkU1ZjVhdExxUDF3Zk5FY2tnSUNvNXdFYV9rTzJwTnlXSQ",
-    "badge": "brief",
-    "at": 1792393657.2062347,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "greece-migrant-boat-collision-capsizes-2026",
     "topic": "그리스 해역서 이민선 충돌 최소 6명 숨져",
     "slug": "2026-10-19-news-greece-migrant-boat-collision-capsizes-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794096613.362326,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "us_brooklyn_jogger_stabbing_murder_2026",
+    "topic": "뉴욕서 조깅하던 여성 흉기 맞아 숨져",
+    "slug": "2026-11-08-news-us-brooklyn-jogger-stabbing-murder-2026",
+    "cluster": "CBMiowFBVV95cUxOaFVBUDBXYXFrTHowUXZiZFZhRTQtZUhmOEdUYjB2WlV5M0RHMkZtVTIzdktYT3RWYlVBYTB3V0FaR1FVZVZnVUtMS0VlQUZfOVo0YlZjb3lidDhXUVV1dDJGY2NrZXphdFpGLXdkMktBZnpmTDFrVU9xVm14RjZWemE1OTBHM1YyQVo2VVNHVWV3Z3R5eEJMcmg3cy1rOFZVSWdN",
+    "badge": "breaking",
+    "at": 1794100038.4815495,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

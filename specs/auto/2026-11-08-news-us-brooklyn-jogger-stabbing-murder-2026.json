@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-08-news-us-brooklyn-jogger-stabbing-murder-2026",
+  "topic": "뉴욕서 조깅하던 여성 흉기 맞아 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 08:40 KST",
+  "source": "ABC News·Fox News·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxOaFVBUDBXYXFrTHowUXZiZFZhRTQtZUhmOEdUYjB2WlV5M0RHMkZtVTIzdktYT3RWYlVBYTB3V0FaR1FVZVZnVUtMS0VlQUZfOVo0YlZjb3lidDhXUVV1dDJGY2NrZXphdFpGLXdkMktBZnpmTDFrVU9xVm14RjZWemE1OTBHM1YyQVo2VVNHVWV3Z3R5eEJMcmg3cy1rOFZVSWdN",
+    "related": [
+      [
+        "Brooklyn Jogger Dies and a Man Is Charged With Murder in Her Stabbing",
+        "The New York Times"
+      ],
+      [
+        "DOE employee charged with murder in stabbing of Brooklyn jogger Katie Suarez",
+        "ABC7 New York"
+      ],
+      [
+        "Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos",
+        "Fox News"
+      ],
+      [
+        "Teacher's aide arrested in connection with NYC jogger's murder: Police",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Man ‘covered in blood' arrested for Brooklyn jogger's stabbing death: sources",
+        "NBC New York"
+      ]
+    ],
+    "event_key": "us_brooklyn_jogger_stabbing_murder_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "뉴욕서 [[조깅하던 여성]]\n흉기 맞아 숨져",
+      "sub": "용의자 혈흔 묻은 채 체포돼",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "뉴욕서 조깅하던 여성 흉기 맞아 숨져",
+      "map": {
+        "lat": 40.6526006,
+        "lon": -73.9497211,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕 브루클린",
+      "video_only": true,
+      "map": {
+        "lat": 40.6526006,
+        "lon": -73.9497211,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕 브루클린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "용의자 체포",
+          "d": "현지 경찰은 혈흔이 묻은 용의자를 체포하고 살인 혐의로 기소했습니다 (ABC7·NBC)."
+        },
+        {
+          "t": "조깅 중 흉기 피습",
+          "d": "숨진 여성은 뉴욕 브루클린에서 조깅을 하던 중 흉기 공격을 받았습니다 (NYT·ABC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "조깅 여성 흉기 피습 사망",
+        "용의자 체포 및 기소"
+      ],
+      "unconfirmed": [
+        "범행 동기 및 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "ABC7 New York",
+        "Fox News",
+        "NBC New York",
+        "The New York Times",
+        "2026.11.08 10:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 뉴욕서 조깅하던 여성이 흉기 맞아 숨졌습니다 (NYT).\n\n· 현지 경찰은 피가 묻은 용의자를 체포해 살인 혐의로 기소했습니다 (ABC7·NBC)\n· 피해 여성은 조깅 중 흉기 공격을 받고 숨졌습니다 (NYT·ABC)\n· 구체적인 범행 동기와 경위는 확인되지 않았습니다 (Fox News)\n\n출처: NYT·ABC7·Fox News·ABC News·NBC New York 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "뉴욕에서 조깅을 하던 여성이 흉기에 맞아 숨지는 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "현지 경찰은 옷에 피가 묻은 용의자를 체포해 살인 혐의로 기소했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 범행 동기와 사건 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[조깅하던 여성]]\n무슨 일이?",
+  "broll": [
+    "police car night street",
+    "brooklyn street dusk"
+  ],
+  "place_en": "Brooklyn, New York, USA"
+}
