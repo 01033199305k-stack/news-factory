@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-08-news-russia-rassvet-satellite-ukraine-2026",
+  "topic": "러시아 독자 위성망 전선 투입 시작",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.08 14:00 KST",
+  "source": "Financial Times·Reuters·Mezha.net 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxPYXlweW85SzBiZWVLdzRGLVpBZV9IcFVMVTF3M0JPazJwaTVUcWZqcXJ4clVDQ2dyNTlISXhYZ21qLUYzSVRxNVhZYWtBeHNxZXdOZXZEbjNDMGlHX1RBOG5tNGRHd3RydTNUbWhqV3JqVzlVb3BOUGgxRlpUQjI4SG0tS2w",
+    "related": [
+      [
+        "Russia races to build rival to Elon Musk’s Starlink",
+        "Financial Times"
+      ],
+      [
+        "Russia using own version of Starlink for military comms over Ukraine, Kyiv says",
+        "Reuters"
+      ],
+      [
+        "Russian Security Council Calls for Rapid Deployment of Starlink Rival Satellites",
+        "The Moscow Times"
+      ],
+      [
+        "Defence Intelligence of Ukraine: Russia Already Using Rassvet Satellite Communication System Over Ukraine",
+        "Мілітарний"
+      ],
+      [
+        "Russia has begun using its own Rassvet satellite constellation for military communications over Ukraine – media",
+        "Mezha.net"
+      ]
+    ],
+    "event_key": "russia_rassvet_satellite_ukraine_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아 독자 [[위성망]]\n전선 투입 시작",
+      "sub": "스타링크 대항마 라스베트 위성을 군사 통신에 활용 중입니다",
+      "chips": [],
+      "alt": "러시아 독자 위성망 전선 투입 시작",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "우크라 전선 투입",
+          "d": "우크라이나 군정보기관은 러시아군이 우크라이나 상공 군사 통신에 독자 위성망 라스베트를 쓰기 시작했다고 밝혔습니다 (로이터)."
+        },
+        {
+          "t": "스타링크 대항마",
+          "d": "러시아 국가안보회의는 일론 머스크의 스타링크에 맞설 위성 배치를 조속히 완료하라고 촉구했습니다 (모스크바 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 독자 위성망 라스베트 군사 통신 운용",
+        "우크라이나 상공 투입"
+      ],
+      "unconfirmed": [
+        "정확한 궤도 위성 수량",
+        "향후 군사적 실효성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Financial Times",
+        "Mezha.net",
+        "Reuters",
+        "The Moscow Times",
+        "Мілітарний",
+        "2026.11.08 19:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아가 독자 위성 통신망 '라스베트'를 우크라이나 상공 군사 통신에 투입하기 시작했습니다.\n\n· 우크라이나 군정보기관은 러시아군이 라스베트 위성 시스템을 쓰고 있다고 밝혔습니다 (로이터)\n· 러시아 국가안보회의는 일론 머스크의 스타링크에 맞설 독자 위성을 조속히 배치하라고 촉구했습니다 (모스크바 타임스)\n· 구체적인 궤도 위성 수량과 실시간 통신 성능은 아직 확인되지 않았습니다 (외신 종합)\n\n러시아의 독자 위성망 투입이 전쟁 향방에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 파이낸셜타임스·로이터·모스크바타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아가 독자 구축한 위성 통신망 라스베트를 우크라이나 군사 통신에 투입하기 시작했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "우크라이나 군정보기관은 러시아군이 라스베트 위성 시스템을 쓰고 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아 국가안보회의는 일론 머스크의 스타링크에 맞설 위성을 조속히 배치하라고 촉구했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "새 위성망의 구체적인 운용 규모와 통신 성능은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 위성 통신망 투입이 전황에 어떤 영향을 줄 것이라고 보십니까?",
+      "card": "ask",
+      "screen": "전황 영향은?"
+    }
+  ],
+  "hook": "머스크 [[스타링크]]에\n맞선 러시아",
+  "broll": [
+    "satellite space orbit",
+    "military communication antenna"
+  ],
+  "place_en": "Moscow, Russia"
+}
