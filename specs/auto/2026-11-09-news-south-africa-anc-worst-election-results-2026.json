@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-09-news-south-africa-anc-worst-election-results-2026",
+  "topic": "남아공 집권 여당 ANC 지방선거서 역대 최악 성적",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 02:51 KST",
+  "source": "Al Jazeera·BBC·Politico 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBkTnZsYzU3dzVPVmtEbmxMLWlGVGlzcnk0bWhudHVkSGtkdk4tdEJacVFPTlY0RWZtcGs1c1cwV0RQY0lvZEY4alpkMExKSE9Oazl1N1pvMGVwLTJkWUE",
+    "related": [
+      [
+        "South Africa's ANC records worst-ever results in local elections",
+        "BBC"
+      ],
+      [
+        "South Africa’s ANC is humbled by its worst election results",
+        "Politico"
+      ],
+      [
+        "South Africa's ANC takes a beating in municipal vote, setting up tough coalition talks",
+        "Reuters"
+      ],
+      [
+        "South Africa’s ANC suffers setback in local elections",
+        "Al Jazeera"
+      ],
+      [
+        "ANC faces coalition scramble after electoral rout as control of key metros slips away",
+        "Daily Maverick"
+      ]
+    ],
+    "event_key": "south_africa_anc_worst_election_results_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "남아공 집권 여당 ANC\n지방선거서 [[역대 최악]] 성적",
+      "sub": "지방선거에서 부진한 성적을 거두며 연정 협상이 불가피해졌습니다",
+      "chips": [
+        {
+          "k": "선거",
+          "v": "지방선거"
+        }
+      ],
+      "alt": "남아공 집권 여당 ANC 지방선거서 역대 최악 성적",
+      "map": {
+        "lat": -25.7459277,
+        "lon": 28.1879101,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "남아프리카 공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "남아프리카 공화국\n프리토리아",
+      "video_only": true,
+      "map": {
+        "lat": -25.7459277,
+        "lon": 28.1879101,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "프리토리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역대 최악의 결과",
+          "d": "남아프리카공화국 집권당인 아프리카민족회의 ANC가 지방선거에서 창당 이래 가장 저조한 성적을 기록했습니다 (BBC·Politico)"
+        },
+        {
+          "t": "연정 협상 돌입",
+          "d": "주요 대도시 통제권을 잃을 위기에 놓인 ANC는 향후 정국 운영을 위한 힘든 연정 협상을 앞두고 있습니다 (Reuters·Daily Maverick)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "남아공 ANC 지방선거 참패",
+        "역대 최악의 선거 결과 기록 (BBC·Politico)",
+        "주요 도시 통제권 상실 위기 및 연정 협상 (Reuters·Daily Maverick)"
+      ],
+      "unconfirmed": [
+        "최종 연정 구성 결과",
+        "향후 정치권 권력 구도 재편 향방"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Daily Maverick",
+        "Politico",
+        "Reuters",
+        "2026.11.09 05:41 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 남아공 집권 여당 ANC 지방선거서 역대 최악 성적\n\n· 남아프리카공화국 집권당 ANC가 지방선거에서 창당 이래 가장 저조한 성적을 기록했습니다 (BBC·Politico)\n· 주요 대도시 통제권을 잃을 위기에 놓인 ANC는 힘든 연정 협상을 앞두고 있습니다 (Reuters·Daily Maverick)\n\n여러분은 남아공 집권 여당의 이번 선거 참패가 향후 정국에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: BBC·Politico·Reuters·Daily Maverick 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "남아프리카공화국 집권당인 아프리카민족회의 ANC가 지방선거에서 창당 이래 가장 저조한 성적을 기록했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 주요 대도시 통제권을 잃을 위기에 놓인 ANC가 힘든 연정 협상을 앞두고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 권력 구도가 어떻게 재편될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 남아공 집권 여당의 이번 선거 참패, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분의 생각은?"
+    }
+  ],
+  "hook": "남아공 집권 여당\n[[선거]] 참패",
+  "broll": [
+    "voting ballot box",
+    "government building exterior"
+  ],
+  "place_en": "Pretoria, South Africa"
+}

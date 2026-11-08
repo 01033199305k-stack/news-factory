@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-kansas-soccer-field-car-crash-2026",
-    "topic": "축구장에 차량 돌진 2명 사망",
-    "slug": "2026-10-20-news-us-kansas-soccer-field-car-crash-2026",
-    "cluster": "CBMivAFBVV95cUxPM0g0cUFWb25mOFNtYS1xeC1ySVl4ME15Tmg0MTZ2eEdkaDk3Y3ZWWEhCRXdaTHZEMllrWjlhWDBtcWVBdWp6M2J3SnM3S2g5c3lzRHpHaGlFRzJzLXM4Mm4ydmtSRTFHUHlzU3R2UDYyd0wyelB2eXN1ZjcxZ3R1MXpwamNRS2pnOVQzNzJVeTFELUl1UVFCMTZYSnVUYm1HNkZGQVpFcmZtNXYydXZIY1V4M3lfRnc3WkxxY9IBwgFBVV95cUxOZ1I0MnphWTNJc25fN2VtbFV1Z0R6eTU1LVJqUnhmZ0FDWk9NaGhKaWdLXzd1elU2b1A5MEFjTC1sQ1F5am40SzNVZmNDSlVBbDVSVjRPaExkU1JscE1peG1Kd2VFb3FMV0t3bkZoWHAyMWR1dEdSOXVjVk9SSjh2Q0VKSHRFNFFwd1dIclJkVTd1RXhpdUhJMnpPVlYwNmI4U0pDbVpHWTMzSC1wdFFlZlRiYkJXN1hfV2ZTM0NqbHpXUQ",
-    "badge": "breaking",
-    "at": 1792462175.8072925,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "indonesia-wildfire-toxic-haze-southeast-asia-2026",
     "topic": "인니 산불 독성 연무 동남아 전역 확산",
     "slug": "2026-10-20-news-indonesia-wildfire-toxic-haze-southeast-asia-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794164808.2750633,
     "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "south_africa_anc_worst_election_results_2026",
+    "topic": "남아공 집권 여당 ANC 지방선거서 역대 최악 성적",
+    "slug": "2026-11-09-news-south-africa-anc-worst-election-results-2026",
+    "cluster": "CBMiXkFVX3lxTFBkTnZsYzU3dzVPVmtEbmxMLWlGVGlzcnk0bWhudHVkSGtkdk4tdEJacVFPTlY0RWZtcGs1c1cwV0RQY0lvZEY4alpkMExKSE9Oazl1N1pvMGVwLTJkWUE",
+    "badge": "breaking",
+    "at": 1794170496.533902,
+    "country": "남아프리카공화국",
     "category": "국제"
   }
 ]

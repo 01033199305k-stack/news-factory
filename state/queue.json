@@ -1,7 +1,7 @@
 [
   {
-    "slug": "2026-11-09-news-russia-iran-missile-launcher-deal-2026",
-    "event_ms": 1794162648000,
+    "slug": "2026-11-09-news-south-africa-anc-worst-election-results-2026",
+    "event_ms": 1794160263000,
     "category": "국제",
     "images": [
       "01_cover.png",
@@ -9,12 +9,12 @@
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 러시아가 이란에 헬기용 미사일 발사대 90대를 공급하기로 합의했습니다.\n\n· 양국 간 무기 계약 문서를 통해 90대 공급 합의 사실이 확인됐습니다 (파이낸셜 타임스·가디언)\n· 두 국가 간의 군사적 밀착 관계가 더욱 심화되고 있는 것으로 전해졌습니다 (알자지라)\n\n러시아와 이란의 군사적 밀착 강화, 어떻게 보십니까?\n\n출처: 파이낸셜 타임스·가디언·알자지라 보도 종합",
+    "text": "[속보] 남아공 집권 여당 ANC 지방선거서 역대 최악 성적\n\n· 남아프리카공화국 집권당 ANC가 지방선거에서 창당 이래 가장 저조한 성적을 기록했습니다 (BBC·Politico)\n· 주요 대도시 통제권을 잃을 위기에 놓인 ANC는 힘든 연정 협상을 앞두고 있습니다 (Reuters·Daily Maverick)\n\n여러분은 남아공 집권 여당의 이번 선거 참패가 향후 정국에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: BBC·Politico·Reuters·Daily Maverick 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
       "국제",
-      "러시아"
+      "남아프리카공화국"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,26 +25,14 @@
     ],
     "done": {
       "threads": {
-        "id": "18230966689330337",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DffeGhrlFVG",
+        "id": "18202378051384926",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dffo9UPAbnS",
         "kind": "carousel",
-        "at": 1794164854
-      },
-      "youtube": {
-        "id": "tn-rmMF2wSY",
-        "permalink": "https://youtube.com/shorts/tn-rmMF2wSY",
-        "kind": "shorts",
-        "at": 1794164978
-      },
-      "tiktok": {
-        "id": "7705881066673949972",
-        "permalink": "https://tiktok.com/@jigeum.segye/video/7705881066673949972",
-        "kind": "video",
-        "at": 1794165373
+        "at": 1794170548
       }
     },
     "attempts": {
-      "instagram": 2
+      "instagram": 1
     },
     "video": "video.mp4"
   }
