@@ -123,10 +123,14 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfhoPO3oNgQ",
         "kind": "carousel",
         "at": 1794237278
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794239882
       }
     },
     "attempts": {
-      "instagram": 2
+      "instagram": 3
     },
     "video": "video.mp4"
   }
