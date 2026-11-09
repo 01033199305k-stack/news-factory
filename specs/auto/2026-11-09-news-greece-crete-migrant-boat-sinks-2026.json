@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-09-news-greece-crete-migrant-boat-sinks-2026",
+  "topic": "그리스 크레타 인근 난민선 발견",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 20:34 KST",
+  "source": "ABC News·AP News·Al Jazeera 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiAFBVV95cUxOQjh1WlI3MUtnZGRPaXRiM2dFcXhfcllPbmNXRGhVOE5VZnh5YmZnY1V3YnpuTXlqZXhaaVQxUFlDcmdXZC0tWmw4dG1NVW50V3VuVGp4bGpETF9EWXVGTEJ5bUlVZUFPOFZGN2hLbWl1MFJuY0lRT0VDU3F1MGdWblB2NUFiMHlW",
+    "related": [
+      [
+        "Greek authorities find 12 bodies in a boat carrying migrants south of Crete; 18 people are rescued",
+        "AP News"
+      ],
+      [
+        "Death toll from migrant boat found with bodies on board south of Greece increases to 14",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Dozens of migrants dead, scores rescued from boats trying to reach Greek island of Crete and Spain, authorities say",
+        "CBS News"
+      ],
+      [
+        "Greece retrieves bodies of 13 migrants in boat found off Crete, coast guard says",
+        "Reuters"
+      ],
+      [
+        "At least 21 migrants and refugees die trying to reach Greece’s Crete",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "greece_crete_migrant_boat_sinks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "그리스 [[크레타]] 인근\n난민선 발견",
+      "sub": "해안경비대 최소 18명 구조",
+      "chips": [
+        {
+          "k": "구조",
+          "v": "18명 이상"
+        }
+      ],
+      "alt": "그리스 크레타 인근 난민선 발견",
+      "map": {
+        "lat": 35.3084952,
+        "lon": 24.4633423,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "그리스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "그리스\n크레타",
+      "video_only": true,
+      "map": {
+        "lat": 35.3084952,
+        "lon": 24.4633423,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "크레타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "매체별 집계 차이 있음",
+          "d": "매체에 따라 사망자 수가 12명에서 21명 이상으로 다르게 보도됐습니다."
+        },
+        {
+          "t": "당국 구조 진행",
+          "d": "그리스 당국이 최소 18명을 구조했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "난민 선박 사고 발생",
+        "18명 이상 구조 확인"
+      ],
+      "unconfirmed": [
+        "매체별 사망자 수 집계 차이 (12~21명)",
+        "사고 발생 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "Al Jazeera",
+        "CBS News",
+        "Reuters",
+        "2026.11.09 22:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 그리스 크레타섬 인근에서 난민 선박 사고가 발생했습니다.\n\n· 그리스 당국이 최소 18명을 구조했습니다 (AP)\n· 사망자 수는 매체에 따라 12명에서 21명 이상으로 차이가 있습니다 (AP·ABC·로이터·알자지라)\n\n출처: AP·ABC·CBS·로이터·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "그리스 크레타섬 인근에서 난민 선박 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "그리스 당국은 18명 이상을 구조했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "AP 통신과 ABC, 로이터, 알자지라 등은 사망자 수를 12명에서 21명 이상으로 각각 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망자 수와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[크레타]] 바다서\n무슨 일이?",
+  "broll": [
+    "sea rescue boat",
+    "mediterranean coast"
+  ],
+  "place_en": "Crete, Greece"
+}

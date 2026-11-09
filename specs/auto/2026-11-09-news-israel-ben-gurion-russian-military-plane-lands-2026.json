@@ -1,0 +1,134 @@
+{
+  "slug": "2026-11-09-news-israel-ben-gurion-russian-military-plane-lands-2026",
+  "topic": "미 제재 러 군용기 이스라엘 착륙",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 20:59 KST",
+  "source": "Business Insider Africa·MiGFlug·News18 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXEFVX3lxTE8yTC1QRGNqcmxwNnplb3Y0TURKQVlKVHNyVk9tQTFlQ01ZU3ZtdGFvaWxMd1JCVmQ0ZFpRREZZYWRkanFhT2Y5LWFXSnBPV0hUX3YzcWNyS2twcHNa",
+    "related": [
+      [
+        "Sanctioned Russian military aircraft lands at Ben Gurion Airport in Israel",
+        "The Jerusalem Post"
+      ],
+      [
+        "Sanctioned Russian Tu-154M Lands at Israel’s Ben Gurion Airport",
+        "MiGFlug"
+      ],
+      [
+        "Despite US and UK sanctions, Israel allows Russian military aircraft to land amid backlash from China and Saudi Arabia over recognition of breakaway African territory",
+        "Business Insider Africa"
+      ],
+      [
+        "US-Sanctioned Russian Military Plane Lands In Israel: What Was It Doing At Ben-Gurion Airport? | World News",
+        "News18"
+      ]
+    ],
+    "event_key": "israel_ben_gurion_russian_military_plane_lands_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 제재 [[러 군용기]]\n이스라엘 착륙",
+      "sub": "벤구리온 공항 착륙 사실 확인",
+      "chips": [],
+      "alt": "미 제재 러 군용기 이스라엘 착륙",
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n텔아비브",
+      "video_only": true,
+      "map": {
+        "lat": 32.0852997,
+        "lon": 34.7818064,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "텔아비브"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "제재 대상 기종 착륙",
+          "d": "미국과 영국의 제재 대상인 러시아 군용기 Tu-154M이 이스라엘 벤구리온 공항에 착륙했습니다."
+        },
+        {
+          "t": "착륙 허가 논란",
+          "d": "제재 조치 속에서도 이스라엘이 착륙을 허가했다고 보도됐습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 군용기 이스라엘 착륙"
+      ],
+      "unconfirmed": [
+        "착륙 구체적 목적",
+        "이스라엘 정부 공식 입장"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Business Insider Africa",
+        "MiGFlug",
+        "News18",
+        "The Jerusalem Post",
+        "2026.11.09 22:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 제재 대상인 러시아 군용기가 이스라엘 공항에 착륙했습니다.\n\n· 제재 대상인 러시아 군용기 Tu-154M이 이스라엘 벤구리온 공항에 착륙했습니다 (미그플루그·예루살렘포스트·비즈니스인사이더)\n· 미국과 영국의 제재 속에서도 이스라엘이 착륙을 허가한 것으로 전해졌습니다 (비즈니스인사이더)\n\n여러분은 이번 착륙 허가 조치를 어떻게 보십니까?\n\n출처: 예루살렘포스트·미그플루그·비즈니스인사이더·News18 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국의 제재를 받는 러시아 군용기가 이스라엘 벤구리온 공항에 착륙했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이스라엘 벤구리온 공항에 착륙한 기종은 러시아의 Tu-154M으로 확인됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "비즈니스 인사이더는 미국과 영국의 제재 속에서도 착륙이 허가됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아 군용기의 구체적인 착륙 목적은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 착륙 허가 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미 제재 [[러 군용기]]\n이스라엘 온 이유",
+  "broll": [
+    "airplane runway night",
+    "airport tarmac"
+  ],
+  "place_en": "Tel Aviv, Israel"
+}

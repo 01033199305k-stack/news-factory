@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "uk-deploy-fighter-jets-saudi-arabia-2026",
-    "topic": "영국 전투기 배치 결정 사우디에 전투기 투입",
-    "slug": "2026-10-20-news-uk-deploy-fighter-jets-saudi-arabia-2026",
-    "cluster": "CBMisgFBVV95cUxPaXZYbVFMNWdnM2MtTWhjT3h5SXZNNFVrdXEwTzNCVi1GdHI5SmdTenVCeUdFYUp3c3g3TlFEdlJiOVFFYlN4SmdQa3p5OGZRSk0wR0VGa2JpSHJLbHJVY192VndPX2NrTEFyMWk5QW9vQlhTZW83anlGa0NLdndHQXFXb1o1VEJ1MllCUzNtMWlzcGJvYmdGZ0JiQ0M5QWc5UEVaOUZjalA0WGVyYXh4c0NB",
-    "badge": "breaking",
-    "at": 1792501750.2490513,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
-    "event_key": "gaza_israeli_strike_oct2026",
-    "topic": "이스라엘군 가자지구 공습 최소 4명 사망",
-    "slug": "2026-10-20-news-gaza-israeli-strike-oct2026",
-    "cluster": "CBMif0FVX3lxTFBkeU9OS2VJM0NIeXJhWFg5TVIyb0RfQkFodEhvZU5QcGY1bnBZbGJ5R2JBM1dHSDNCTVM5aUNNVlNzbmxTQU1PS056YmhYWkhNTEhsNFVmTW5MMVBCaWQzbzlSMjhtYndtY0E2RFk1TVp5d3FISDZiNjVVOHR0dGc",
-    "badge": "breaking",
-    "at": 1792512576.1159322,
-    "country": "팔레스타인",
-    "category": "국제"
-  },
-  {
     "event_key": "netanyahu-trump-iran-regime-elimination",
     "topic": "네타냐후, 트럼프와 이란 정권 제거 논의했다고 밝혀",
     "slug": "2026-10-21-news-netanyahu-trump-iran-regime-elimination",
@@ -2998,5 +2978,25 @@
     "at": 1794219686.940111,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "greece_crete_migrant_boat_sinks_2026",
+    "topic": "그리스 크레타 인근 난민선 발견",
+    "slug": "2026-11-09-news-greece-crete-migrant-boat-sinks-2026",
+    "cluster": "CBMiiAFBVV95cUxOQjh1WlI3MUtnZGRPaXRiM2dFcXhfcllPbmNXRGhVOE5VZnh5YmZnY1V3YnpuTXlqZXhaaVQxUFlDcmdXZC0tWmw4dG1NVW50V3VuVGp4bGpETF9EWXVGTEJ5bUlVZUFPOFZGN2hLbWl1MFJuY0lRT0VDU3F1MGdWblB2NUFiMHlW",
+    "badge": "breaking",
+    "at": 1794229840.3804982,
+    "country": "그리스",
+    "category": "사고"
+  },
+  {
+    "event_key": "israel_ben_gurion_russian_military_plane_lands_2026",
+    "topic": "미 제재 러 군용기 이스라엘 착륙",
+    "slug": "2026-11-09-news-israel-ben-gurion-russian-military-plane-lands-2026",
+    "cluster": "CBMiXEFVX3lxTE8yTC1QRGNqcmxwNnplb3Y0TURKQVlKVHNyVk9tQTFlQ01ZU3ZtdGFvaWxMd1JCVmQ0ZFpRREZZYWRkanFhT2Y5LWFXSnBPV0hUX3YzcWNyS2twcHNa",
+    "badge": "breaking",
+    "at": 1794229884.298186,
+    "country": "이스라엘",
+    "category": "국제"
   }
 ]
