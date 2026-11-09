@@ -33,10 +33,16 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
         "at": 1794263552
+      },
+      "tiktok": {
+        "id": "7706312003794586888",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706312003794586888",
+        "kind": "video",
+        "at": 1794265713
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
     },
     "video": "video.mp4"
