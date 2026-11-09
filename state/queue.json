@@ -81,10 +81,14 @@
       "youtube": {
         "skipped": "유튜브는 한국·주요국 관련 소식만",
         "at": 1794233445
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794239552
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 1
     },
     "video": "video.mp4"
@@ -122,7 +126,7 @@
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
