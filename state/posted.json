@@ -37355,5 +37355,166 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794252481
+  },
+  {
+    "slug": "2026-11-10-news-us-white-house-car-crash-lockdown-2026",
+    "event_ms": 1794240540000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 백악관 보안 구역서 차량 충돌 사고 발생\n\n· 백악관 보안 구역 내 표지판에 차량이 충돌하는 사고가 발생했습니다 (타임스 오브 인디아·알 아라비야)\n· 운전자가 비밀경호국 요원들과 충돌한 뒤 백악관이 일시 폐쇄되었습니다 (알 아라비야·WLUK)\n\n출처: 타임스 오브 인디아·알 아라비야·WLUK 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18136701973670489",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfh1WjVmyuE",
+        "kind": "carousel",
+        "at": 1794244154
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794244365
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794252481
+      },
+      "tiktok": {
+        "id": "7706296929667353876",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706296929667353876",
+        "kind": "video",
+        "at": 1794262193
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794262203
+  },
+  {
+    "slug": "2026-11-10-news-turkey-steel-plant-explosion-2026",
+    "event_ms": 1794244107000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 튀르키예 제철소 폭발 사고로 최소 6명이 숨졌습니다\n\n· 사망자 수는 매체에 따라 최소 6명에서 최대 16명으로 엇갈려 보도됐습니다 (Sky News·The Independent·TradingView)\n· 튀르키예의 한 제철 공장에서 폭발이 일어났습니다 (TradingView)\n· 튀르키예 대통령이 직접 사고와 인명 피해 상황을 언급했습니다 (Sky News)\n\n출처: Sky News·The Independent·TradingView 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "튀르키예"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18120927427997396",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfh8E25FNXs",
+        "kind": "carousel",
+        "at": 1794247679
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1794247800
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794254787
+      },
+      "tiktok": {
+        "id": "7706297518572702997",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706297518572702997",
+        "kind": "video",
+        "at": 1794262324
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794262334
+  },
+  {
+    "slug": "2026-11-10-news-saudi-east-west-pipeline-attack-medina-2026",
+    "event_ms": 1794244560000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 사우디 석유 파이프라인이 공격받아 화재가 발생했습니다.\n\n· 사우디아라비아 메디나 지역의 동서 석유 파이프라인이 피격됐습니다 (로이터·FT).\n· 사우디 에너지부는 파이프라인 운영에 차질은 없다고 발표했습니다 (사우디 가제트).\n\n이번 석유 시설 피격 사건, 어떻게 보십니까?\n\n출처: 로이터·파이낸셜 타임스·사우디 가제트·더 내셔널 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18080241200561304",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfiDi4iluEh",
+        "kind": "carousel",
+        "at": 1794251594
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794258484
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1794262071
+      },
+      "tiktok": {
+        "id": "7706298008224140551",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706298008224140551",
+        "kind": "video",
+        "at": 1794262456
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794262466
   }
 ]
