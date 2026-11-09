@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-09-news-indian-navy-rescues-iranian-vessel-somalia-2026",
+  "topic": "인도 해군, 피선 배 구조 선원 20명 전원 생환",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 12:54 KST",
+  "source": "Hindustan Times·The Hindu·Firstpost 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiygFBVV95cUxNSG11TWhEcEVvODU3RkNxZm1mc0NzVnVqdmJ0LVFoNHcxVHJnSFQ4Z0ZReEtzbUN1bFJaTXdhSUJhR0FYaURXV2xWSjNzcWJfX0Y0clRFUl8xT0FQWFJXWFBhWE9BYVAwendteW9mUU56NV81S1FVMWlSaEUzdXpLT0V0ejA0RDRGNWVOV21jYmVMaHl2OEsyNndKcVBZeWYzamdTRjMycDAzZENFRHRRektGODJDS0xXbUtyczFXM0tTRTIydW1JQ1Z30gHPAUFVX3lxTE5nUl9BQjN0RkxiYjd1MkpvWFVJT2R6c2VWNEZjblNITlBHMXdaVDZTa2gyMUM4RDBtU0E1N0JGV3lKNWN3ZGV3V2F1TmVySmxHYjllMDIxeFM1c3prMWk2djZBRUNQWjJUX2ZZM3h6WGNqaHFnZWlVRFY1WlhpMDlqY0hXY3l4YzdfNzNzQkVqZk05ZFlsT1J3Y1l4UmJZNGdjdDRwZFRGeUtPR0pzb1NYd2UzeFp2VTdiMGR3ZzFLTUdSWDdRWU41UUkyRGowdw",
+    "related": [
+      [
+        "Indian Navy’s rescue of an Iranian boat from pirates, and history of a trade as old as Homer | HT Explainers",
+        "Hindustan Times"
+      ],
+      [
+        "Weekly Defence Dispatch: MARCOS parachute in to free hijacked boat, jam resistant drones put India on notic...",
+        "Firstpost"
+      ],
+      [
+        "Indian Navy rescues hijacked fishing vessel off Somalia, frees all 20 crew members",
+        "The Hindu"
+      ],
+      [
+        "INS Kolkata leads operation to free Iranians from pirates in Navy, IAF sea rescue",
+        "Telegraph India"
+      ],
+      [
+        "Top news of the day: November 3, 2026",
+        "The Hindu"
+      ]
+    ],
+    "event_key": "indian_navy_rescues_iranian_vessel_somalia_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인도 해군, 피선 배 [[구조]]\n선원 20명 전원 생환",
+      "sub": "소말리아 해역서 해적에 납치된 이란 어선 구출",
+      "chips": [
+        {
+          "k": "구조 선원",
+          "v": "20명"
+        }
+      ],
+      "alt": "인도 해군, 피선 배 구조 선원 20명 전원 생환",
+      "map": {
+        "lat": 8.3676771,
+        "lon": 49.083416,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "소말리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "소말리아\n소말리아 인근 해역",
+      "video_only": true,
+      "map": {
+        "lat": 8.3676771,
+        "lon": 49.083416,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "소말리아 인근 해역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "특수부대 투입",
+          "d": "인도 해군함 INS 콜카타호와 특수부대가 투입되어 어선을 구조했습니다 (텔레그래프 인도)."
+        },
+        {
+          "t": "이란 선원 20명 무사",
+          "d": "어선에 타고 있던 이란인 선원 20명이 모두 구출됐습니다 (더 힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인도 해군 피선 어선 구조",
+        "이란 선원 20명 전원 구출"
+      ],
+      "unconfirmed": [
+        "해적 일당의 구체적 신원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Firstpost",
+        "Hindustan Times",
+        "Telegraph India",
+        "The Hindu",
+        "2026.11.09 15:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도 해군, 소말리아 해역서 이란 어선 구조…선원 20명 전원 무사\n\n· 인도 해군 함정과 특수부대가 납치된 이란 어선을 구조 (텔레그래프 인도)\n· 어선에 타고 있던 이란인 선원 20명이 전원 구출 (더 힌두)\n\n출처: 더 힌두·텔레그래프 인도 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도 해군이 소말리아 해역에서 해적에게 납치된 이란 어선을 구조하고 선원 20명을 구출했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인도 해군 특수부대가 투입되어 선원 전원을 구했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해적의 정확한 신원은 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[해적]]에 빼앗긴 배\n어떻게 구했나",
+  "broll": [
+    "navy ship ocean",
+    "patrol boat sea"
+  ],
+  "place_en": "Somalia"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "korean-data-center-builder-debut-drop-2026",
-    "topic": "한국 AI 데이터센터 기업 상장 첫날 주가 급락",
-    "slug": "2026-10-20-news-korean-data-center-builder-debut-drop-2026",
-    "cluster": "CBMihAFBVV95cUxOcUcxTXJtVUswMzU2dlgzMmFMTHRScGZzZjVsUlQwWG9iZFFLcl9IOFZrUEwwM1BWWnN6b0I3WDcwWG1yVEZNNnY1OGM4V1NfR1M0bUgxMEd3TmRFcHRRWERyci1jcFk5V1BaanhVUk5FVUZFVG9ld3MyckdfRFJmc2xzQzI",
-    "badge": "breaking",
-    "at": 1792494751.7401152,
-    "country": "대한민국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "strait-of-hormuz-tankers-hit-mines-fire-2026",
     "topic": "호르무즈 해협서 유조선 2척 폭발·화재",
     "slug": "2026-10-20-news-strait-of-hormuz-tankers-hit-mines-fire-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794201502.468035,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "indian_navy_rescues_iranian_vessel_somalia_2026",
+    "topic": "인도 해군, 피선 배 구조 선원 20명 전원 생환",
+    "slug": "2026-11-09-news-indian-navy-rescues-iranian-vessel-somalia-2026",
+    "cluster": "CBMiygFBVV95cUxNSG11TWhEcEVvODU3RkNxZm1mc0NzVnVqdmJ0LVFoNHcxVHJnSFQ4Z0ZReEtzbUN1bFJaTXdhSUJhR0FYaURXV2xWSjNzcWJfX0Y0clRFUl8xT0FQWFJXWFBhWE9BYVAwendteW9mUU56NV81S1FVMWlSaEUzdXpLT0V0ejA0RDRGNWVOV21jYmVMaHl2OEsyNndKcVBZeWYzamdTRjMycDAzZENFRHRRektGODJDS0xXbUtyczFXM0tTRTIydW1JQ1Z30gHPAUFVX3lxTE5nUl9BQjN0RkxiYjd1MkpvWFVJT2R6c2VWNEZjblNITlBHMXdaVDZTa2gyMUM4RDBtU0E1N0JGV3lKNWN3ZGV3V2F1TmVySmxHYjllMDIxeFM1c3prMWk2djZBRUNQWjJUX2ZZM3h6WGNqaHFnZWlVRFY1WlhpMDlqY0hXY3l4YzdfNzNzQkVqZk05ZFlsT1J3Y1l4UmJZNGdjdDRwZFRGeUtPR0pzb1NYd2UzeFp2VTdiMGR3ZzFLTUdSWDdRWU41UUkyRGowdw",
+    "badge": "breaking",
+    "at": 1794204418.2952943,
+    "country": "소말리아",
+    "category": "기타 사건"
   }
 ]
