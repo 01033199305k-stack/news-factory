@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-09-news-cruise-pianist-rescued-pacific-2026",
+  "topic": "태평양 바다에 빠진 크루즈 피아니스트 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 11:50 KST",
+  "source": "BBC·CBS News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE5hRE5ldFNxb0lkNmpZdkowVk5YQmFiSC1UcVcwYk44dlBXWnd3SFhIeXdqYW40TGZaUkQ3VXp3Q3c1Z3dRbHVsS2doX3IzQXg2M0ZrcDlCeC0xSzg",
+    "related": [
+      [
+        "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+        "BBC"
+      ],
+      [
+        "Newport Beach fishermen find Royal Caribbean cruise ship employee treading water 20 miles off coast",
+        "CBS News"
+      ],
+      [
+        "Cruise ship pianist rescued after nine hours treading water miles from shore",
+        "The Guardian"
+      ],
+      [
+        "Fishermen rescue cruise ship employee found treading water nearly 20 miles off California coast",
+        "cbs8.com"
+      ],
+      [
+        "A Cruise Ship Pianist Fell Overboard. 9 Hours Later, Fishermen Found Him Treading Water ‘in the Middle of the Ocean’",
+        "People.com"
+      ]
+    ],
+    "event_key": "cruise_pianist_rescued_pacific_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "태평양 바다에 빠진\n크루즈 피아니스트 [[구조]]",
+      "sub": "실종 9시간 만에 어부들에게 발견됐습니다",
+      "chips": [
+        {
+          "k": "표류 시간",
+          "v": "9시간"
+        },
+        {
+          "k": "거리",
+          "v": "20마일"
+        }
+      ],
+      "alt": "태평양 바다에 빠진 크루즈 피아니스트 구조",
+      "map": {
+        "lat": 32.7092387,
+        "lon": -117.1575897,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아 해상",
+      "video_only": true,
+      "map": {
+        "lat": 32.7092387,
+        "lon": -117.1575897,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아 해상"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "표류 지점",
+          "d": "미국 캘리포니아 해안에서 약 20마일 떨어진 해상에서 발견됐습니다 (CBS 뉴스·가디언)."
+        },
+        {
+          "t": "구조 당시",
+          "d": "어부들이 바다에서 헤엄치고 있던 크루즈선 직원을 발견해 구조했습니다 (CBS 뉴스·피플)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "크루즈선 피아니스트 실종 및 구조",
+        "표류 시간 9시간",
+        "캘리포니아 앞바다 20마일 거리"
+      ],
+      "unconfirmed": [
+        "바다에 빠진 정확한 경위",
+        "건강 상태"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CBS News",
+        "People.com",
+        "The Guardian",
+        "cbs8.com",
+        "2026.11.09 14:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 태평양 바다에 빠진 크루즈 피아니스트가 9시간 만에 구조됐습니다\n\n· 미국 캘리포니아 해안에서 약 20마일 떨어진 해상에서 어부들에게 발견됐습니다 (CBS 뉴스·가디언)\n· 바다에서 표류하던 크루즈선 직원은 구조 당시 생존해 있었습니다 (CBS 뉴스·피플)\n\n출처: BBC·CBS 뉴스·가디언·피플 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "태평양 바다에 빠진 크루즈 피아니스트가 9시간 만에 구조됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 캘리포니아 해안에서 약 20마일 떨어진 해상이었다고 CBS 뉴스는 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "어부들이 바다에서 표류하던 크루즈선 직원을 발견해 건져 올렸습니다.",
+      "card": "points"
+    },
+    {
+      "text": "바다에 빠진 정확한 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "태평양 바다에 빠진\n[[크루즈]] 피아니스트",
+  "broll": [
+    "cruise ship ocean",
+    "sea water waves"
+  ],
+  "place_en": "California coast, United States"
+}
