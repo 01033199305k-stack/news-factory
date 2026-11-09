@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-09-news-gwangju-tour-bus-pedestrian-crash-2026",
+  "topic": "광주서 초등생 태운 관광버스 밀려 인도 덮쳐 70대 보행자 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 09:52 KST",
+  "source": "KBS 뉴스·MBC 뉴스·문화일보 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE9NZWJSUjBFLVZaUUlyVk1OakZWT0tQXzJNbi1tUWJRQUF3UGlBT2h3MEVxUkpuZDZrVU9ZaTRZMC1YaFYwTzhYcXNUUy1GcUp5NkFfcERRVlVqTjdTR3I3ZTFCWEZfTHJIckhSakZSaHJxUk94VWhn0gF3QVVfeXFMT0Z3VTYwaWVBSlVZbWs4anJpSndrd3Itb2dDUjBQX09wSTZfaGVldFBnd2hZaF9WbTQxUnFXUW5VU1VlNGFtc3I4VEFhTTQ2dTVDQXU2dHczZF94M0lURERrMUFXSEM5VU1XMlFMN2dLbHN0bzhqQTA",
+    "related": [
+      [
+        "광주 봉선동에서 관광버스 가로수 충격‥70대 중상",
+        "MBC 뉴스"
+      ],
+      [
+        "초등생 체험학습 버스, 언덕길서 밀려 인도 돌진 70대 치어",
+        "연합뉴스"
+      ],
+      [
+        "초등생 태운 관광버스 내리막길에서 밀려 사고…70대 보행자 다쳐",
+        "KBS 뉴스"
+      ],
+      [
+        "전남광주 남구서 버스가 가로수 충돌…70대 부상",
+        "연합뉴스TV"
+      ],
+      [
+        "[속보]초등학생 26명 탄 버스, 인도로 돌진…길 가던 여성 부상",
+        "문화일보"
+      ]
+    ],
+    "event_key": "gwangju_tour_bus_pedestrian_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "광주서 초등생 태운 관광버스 밀려\n인도 덮쳐 [[70대 보행자]] 부상",
+      "sub": "내리막길에서 주차 중이던 버스가 밀려 내달렸습니다.",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "1명"
+        },
+        {
+          "k": "탑승",
+          "v": "초등생 26명"
+        }
+      ],
+      "alt": "광주서 초등생 태운 관광버스 밀려 인도 덮쳐 70대 보행자 부상",
+      "map": {
+        "lat": 35.1558147,
+        "lon": 126.8306362,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n광주광역시",
+      "video_only": true,
+      "map": {
+        "lat": 35.1558147,
+        "lon": 126.8306362,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "광주광역시"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 당시 상황",
+          "d": "초등학생 26명이 탄 관광버스가 언덕길에서 밀리면서 인도로 돌진했습니다 (문화일보·연합뉴스)."
+        },
+        {
+          "t": "피해 규모",
+          "d": "길을 가던 70대 여성이 다쳐 병원으로 옮겨졌습니다 (연합뉴스·MBC 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "70대 보행자 부상 (연합뉴스)",
+        "초등학생 26명 탑승 (문화일보)"
+      ],
+      "unconfirmed": [
+        "정확한 차량 결함 여부 및 사고 경위",
+        "부상자의 상세한 상태"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "문화일보",
+        "연합뉴스",
+        "연합뉴스TV",
+        "2026.11.09 12:47 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 광주서 초등생 태운 관광버스 밀려 인도 덮쳐 70대 부상\n\n· 초등학생 26명이 탄 관광버스가 내리막길에서 밀려 인도로 돌진했습니다 (문화일보·연합뉴스)\n· 길을 가던 70대 여성이 다쳐 병원으로 옮겨졌습니다 (연합뉴스·MBC 뉴스)\n\n출처: MBC 뉴스·연합뉴스·KBS 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "광주에서 초등학생을 태운 관광버스가 내리막길에서 밀려 인도를 덮쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "연합뉴스는 당시 버스에 초등학생 26명이 타고 있었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이 사고로 길을 가던 70대 여성이 다쳐 병원으로 옮겨졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 경위는 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "광주 인도 덮친\n[[관광버스]], 왜?",
+  "broll": [
+    "ambulance street night",
+    "empty road city"
+  ],
+  "place_en": "Gwangju, South Korea"
+}
