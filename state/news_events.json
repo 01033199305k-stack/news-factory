@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "romania-coast-tanker-attack-2026",
-    "topic": "루마니아 앞바다서 유조선 드론 공격",
-    "slug": "2026-10-21-news-romania-coast-tanker-attack-2026",
-    "cluster": "CBMiswFBVV95cUxQZmh6VjVpWUpzSUtOQ3gtc29zZUwyWEphdG52WGYwemtaOWx3Q2pmX010QzM4a2Y4U2swX25Eckd3RWkyc1dvakJJLTdpcU1ETEhRZFBVSjJlMTAzQWh6d1NTUUI0bnNiOEV1X0hyTmhWSFI3cHVpWGlmVjdJMDVOY2pXakNOZGZDVFZyVWRsVmdMUzdoS0Y3VHNMNHc3OXlzOVlGZkk4NHRVODZZV2lSVHc2UQ",
-    "badge": "breaking",
-    "at": 1792520057.413329,
-    "country": "루마니아",
-    "category": "사고"
-  },
-  {
-    "event_key": "italy_milan_troops_deployment_riots",
-    "topic": "이탈리아 정부, 밀라노에 군 병력 500명 투입 결정",
-    "slug": "2026-10-21-news-italy-milan-troops-deployment-riots",
-    "cluster": "CBMiqAFBVV95cUxNaG9fNlpIcEhSekFlWW96QmtGUnc5Z21yQ1BWR0RFNTJiWFg2ZGU5aHlNMTZBWTVUeE1lNXppbER1dThJUEFVYTFLRTllbEk4SUJLQ1ZTMWhXdWM0QnVPS0hTVnZsZW1QektwMHhoM3hmazdDMFFra2psN2VFLXEwc3U0NEVtM00waEVUblpDSmxDUVNGamRiN0NFdjA2WW54NUtrcTdmSnE",
-    "badge": "breaking",
-    "at": 1792523247.0688365,
-    "country": "이탈리아",
-    "category": "국제"
-  },
-  {
     "event_key": "nato-black-sea-deployment-planes-drones-2026",
     "topic": "나토, 흑해 배치 강화 정찰기·드론 투입",
     "slug": "2026-10-21-news-nato-black-sea-deployment-planes-drones-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794237230.8441565,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "us_stock_market_rebound_dow_jones_2026",
+    "topic": "미국 증시 반등 성공해 다우지수 900포인트 급등",
+    "slug": "2026-11-10-news-us-stock-market-rebound-dow-jones-2026",
+    "cluster": "CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw",
+    "badge": "breaking",
+    "at": 1794244054.522926,
+    "country": "미국",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "us_white_house_car_crash_lockdown_2026",
+    "topic": "미국 백악관 보안 구역서 차량 충돌 사고 발생",
+    "slug": "2026-11-10-news-us-white-house-car-crash-lockdown-2026",
+    "cluster": "CBMi0gFBVV95cUxOM29OTlJNU3A0YTRXWmpZWDVxSDZBU1ZYT29KLVBFMW5yekhXRmk5TnZEaVB5RGdNZ0lVX0NiZjM0cUNNenBwVTNTa0pNMkxrY29VM1BGUDNELWNuajBFLUlhajFXSnYxQzBKQUNWSjVCei1FOGRKSk1paENlcFV1cy04WWlWemFJbjJyVHh0Uk1sbmt2QUlaY2lidDlHOGZIekhGTXhZaWU3Sk5hdy1xSF9GMUNfaVRCY1JLUVdaQTZxd3BqaHptVHYxVHdidHl6bGc",
+    "badge": "breaking",
+    "at": 1794244067.950217,
+    "country": "미국",
+    "category": "사고"
   }
 ]

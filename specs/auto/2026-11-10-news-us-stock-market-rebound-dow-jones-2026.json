@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-10-news-us-stock-market-rebound-dow-jones-2026",
+  "topic": "미국 증시 반등 성공해 다우지수 900포인트 급등",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 01:30 KST",
+  "source": "Bloomberg.com·Financial Times·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw",
+    "related": [
+      [
+        "Stock market today: Nasdaq rallies despite Nvidia stock slide, Dow and S&P 500 rise as AI stocks rebound",
+        "Yahoo Finance"
+      ],
+      [
+        "Dow rallies 900 points, Nasdaq jumps 2% as stocks climb out of postelection slump: Live updates",
+        "CNBC"
+      ],
+      [
+        "US stocks rebound after AI rout",
+        "Financial Times"
+      ],
+      [
+        "Stock Market Today: Dow Jumps 900 Points as Market Rebounds from Last Week’s Sell-Off; Nvidia Shares Plunge as Company Investigates CEO Huang",
+        "Investopedia"
+      ],
+      [
+        "US Stocks Rise as Oil Drop Outweighs Nvidia Woes: Markets Wrap",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "us_stock_market_rebound_dow_jones_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 증시 반등 성공해\n다우지수 [[900포인트]] 급등",
+      "sub": "나스닥도 인공지능 관련 주식 반등에 힘입어 상승했습니다",
+      "chips": [
+        {
+          "k": "다우지수",
+          "v": "900포인트 상승"
+        }
+      ],
+      "alt": "미국 증시 반등 성공해 다우지수 900포인트 급등",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "다우지수 급등",
+          "d": "미국 증시가 지난주의 매도세에서 벗어나 반등하면서 다우지수가 900포인트 급등했습니다 (CNBC·인베스토피디아)."
+        },
+        {
+          "t": "나스닥 상승",
+          "d": "엔비디아 주가 하락에도 불구하고 인공지능 관련 주식이 반등하며 나스닥도 2% 올랐습니다 (야후 파이낸스·CNBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "다우지수 900포인트 급등 (CNBC·인베스토피디아)",
+        "나스닥 2% 상승 (CNBC)"
+      ],
+      "unconfirmed": [
+        "향후 증시 추이",
+        "엔비디아 CEO 조사 관련 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "Financial Times",
+        "Investopedia",
+        "Yahoo Finance",
+        "2026.11.10 02:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 증시 반등 성공해 다우지수 900포인트 급등\n\n· 미국 증시가 지난주의 매도세에서 벗어나 반등하면서 다우지수가 900포인트 급등했습니다 (CNBC·인베스토피디아)\n· 인공지능 관련 주식이 반등하며 나스닥도 2% 올랐습니다 (야후 파이낸스·CNBC)\n\n여러분은 최근 미국 증시의 변동성 장세, 어떻게 보십니까?\n출처: CNBC·인베스토피디아·야후 파이낸스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 증시가 반등에 성공하며 다우지수가 900포인트 급등했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 인공지능 관련 주식이 반등하면서 나스닥도 2% 올랐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "엔비디아 주가는 CEO 관련 조사 소식 속에 하락세를 보였습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 증시 반등세가 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 최근 미국 증시의 변동성 장세, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "시장 변동성, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "미국 증시 반등\n[[다우지수]] 움직임은?",
+  "broll": [
+    "stock exchange screen",
+    "financial district street"
+  ],
+  "place_en": "New York, USA"
+}

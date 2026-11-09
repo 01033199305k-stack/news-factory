@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-10-news-us-white-house-car-crash-lockdown-2026",
+  "topic": "미국 백악관 보안 구역서 차량 충돌 사고 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 01:09 KST",
+  "source": "India Today·NDTV·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0gFBVV95cUxOM29OTlJNU3A0YTRXWmpZWDVxSDZBU1ZYT29KLVBFMW5yekhXRmk5TnZEaVB5RGdNZ0lVX0NiZjM0cUNNenBwVTNTa0pNMkxrY29VM1BGUDNELWNuajBFLUlhajFXSnYxQzBKQUNWSjVCei1FOGRKSk1paENlcFV1cy04WWlWemFJbjJyVHh0Uk1sbmt2QUlaY2lidDlHOGZIekhGTXhZaWU3Sk5hdy1xSF9GMUNfaVRCY1JLUVdaQTZxd3BqaHptVHYxVHdidHl6bGc",
+    "related": [
+      [
+        "White House under lockdown as car crashes in secure area; Trump was inside residence",
+        "The Times of India"
+      ],
+      [
+        "White House On Temporary Lockdown After Car Crashes Into Signpost: Report",
+        "NDTV"
+      ],
+      [
+        "Driver crashes car into White House lawn sign, fights with Secret Service",
+        "Al Arabiya English"
+      ],
+      [
+        "White House on lockdown after car crashes into sign near premises",
+        "India Today"
+      ],
+      [
+        "White House lockdown lifted after Secret Service searches suspicious vehicle",
+        "WLUK"
+      ]
+    ],
+    "event_key": "us_white_house_car_crash_lockdown_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 백악관 보안 구역서\n차량 충돌 사고 발생",
+      "sub": "보안 구역 내 표지판을 들이받아 백악관이 일시 폐쇄됐습니다",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "백악관 보안 구역"
+        }
+      ],
+      "alt": "미국 백악관 보안 구역서 차량 충돌 사고 발생",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "차량 충돌",
+          "d": "백악관 보안 구역 내 표지판에 차량이 충돌하는 사고가 발생했습니다 (타임스 오브 인디아·알 아라비야)."
+        },
+        {
+          "t": "경비대 조치",
+          "d": "운전자가 비밀경호국 요원들과 충돌한 뒤 백악관이 일시 폐쇄되었습니다 (알 아라비야·WLUK)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "백악관 보안 구역 표지판 충돌 (타임스 오브 인디아)",
+        "비밀경호국 수색 후 폐쇄 해제 (WLUK)"
+      ],
+      "unconfirmed": [
+        "운전자 신원 및 범행 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Arabiya English",
+        "India Today",
+        "NDTV",
+        "The Times of India",
+        "WLUK",
+        "2026.11.10 02:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 백악관 보안 구역서 차량 충돌 사고 발생\n\n· 백악관 보안 구역 내 표지판에 차량이 충돌하는 사고가 발생했습니다 (타임스 오브 인디아·알 아라비야)\n· 운전자가 비밀경호국 요원들과 충돌한 뒤 백악관이 일시 폐쇄되었습니다 (알 아라비야·WLUK)\n\n출처: 타임스 오브 인디아·알 아라비야·WLUK 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 백악관 보안 구역에서 차량이 표지판을 들이받는 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "타임스 오브 인디아는 운전자가 비밀경호국 요원들과 충돌했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이 사고로 백악관이 일시 폐쇄되었으나 이후 해제되었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "운전자의 구체적인 범행 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[백악관]] 보안 구역서\n무슨 일이?",
+  "broll": [
+    "white house exterior",
+    "police car lights night"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
