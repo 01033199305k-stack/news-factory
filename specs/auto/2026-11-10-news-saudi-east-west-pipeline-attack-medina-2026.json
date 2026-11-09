@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-10-news-saudi-east-west-pipeline-attack-medina-2026",
+  "topic": "사우디 석유 파이프라인 피격 메디나 지역서 화재 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 02:16 KST",
+  "source": "Financial Times·Reuters·Crude Oil Prices Today 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwwFBVV95cUxNcEN5Rnp2anlVblctWFNKal9hWHFXbGJaWk9KSWVIaHV1NmZGTDZPeWNPRDVlblVhTWNqRV9XOHFSbnducTItYmI3WnA5bS1PQUVTSmJ2dWVXSlp0eTZTOWI5ZEFTNGVLUVpQM3hmdWxwbU4yblFDcTZYanM4Wk9LUHpYNTJtb3ZhWTFFbzRYc1VaYlh1NWl1NEh1ZkpEOW1FMi1SeEtDYUdSZERYWlRfaXZ1OTNvWE5kQXJaSmt2R1M1d0HSAcgBQVVfeXFMTUVIRWVNODhhQzRESnhrXzAzWjhQNzJkT3BycHNQOE4xZDhXTUxiTmlfTG1FbFRyTldfMEVoZm5jUlBNMkRFXzlSM0I0NGhQUFJ2TllGWjFwQ1VyYzF0bm1MaTZLUWxLTm11N3ZXdmJnSnVLOWVjZEJSS19IaGpWUVFMaXFOeHU0Zm81TXBISjM2YnFsNmFqMWUwN1Q0T2ZTVkhGcmxLZUQ5LTRzenZiTy1FUnc1V3lqWExmbU9FYlRfVzhrdHpMN04",
+    "related": [
+      [
+        "Saudi Pipeline Attacked as OPEC Output Climbs to 90% of Pre-War Levels",
+        "Crude Oil Prices Today | OilPrice.com"
+      ],
+      [
+        "Saudi East-West oil pipeline hit in Medina region, state media reports",
+        "Reuters"
+      ],
+      [
+        "Saudi Arabia’s vital East-West pipeline struck in attack",
+        "Financial Times"
+      ],
+      [
+        "Energy ministry: East-West Pipeline targeted in Madinah; operations remain unaffected",
+        "Saudi Gazette"
+      ],
+      [
+        "Middle East latest: Attack on Saudi oil pipeline causes fire",
+        "The National"
+      ]
+    ],
+    "event_key": "saudi_east_west_pipeline_attack_medina_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[사우디]] 석유 파이프라인 피격\n메디나 지역서 화재 발생",
+      "sub": "사우디 에너지부는 파이프라인 운영에 차질이 없다고 밝혔습니다",
+      "chips": [
+        {
+          "k": "피격 장소",
+          "v": "메디나 지역"
+        }
+      ],
+      "alt": "사우디 석유 파이프라인 피격 메디나 지역서 화재 발생",
+      "map": {
+        "lat": 24.471153,
+        "lon": 39.6111216,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n메디나",
+      "video_only": true,
+      "map": {
+        "lat": 24.471153,
+        "lon": 39.6111216,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "메디나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "동서 파이프라인 피격",
+          "d": "사우디아라비아 메디나 지역을 지나는 동서 석유 파이프라인이 공격을 받았습니다 (로이터·FT)."
+        },
+        {
+          "t": "에너지부 공식 발표",
+          "d": "사우디 에너지부는 파이프라인이 타겟이 되었으나 운영에는 차질이 없다고 전했습니다 (사우디 가제트·더 내셔널)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 동서 석유 파이프라인 피격",
+        "메디나 지역 화재 발생",
+        "파이프라인 정상 운영 중"
+      ],
+      "unconfirmed": [
+        "공격 주체 및 배후",
+        "정확한 물적 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Crude Oil Prices Today | OilPrice.com",
+        "Financial Times",
+        "Reuters",
+        "Saudi Gazette",
+        "The National",
+        "2026.11.10 04:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 석유 파이프라인이 공격받아 화재가 발생했습니다.\n\n· 사우디아라비아 메디나 지역의 동서 석유 파이프라인이 피격됐습니다 (로이터·FT).\n· 사우디 에너지부는 파이프라인 운영에 차질은 없다고 발표했습니다 (사우디 가제트).\n\n이번 석유 시설 피격 사건, 어떻게 보십니까?\n\n출처: 로이터·파이낸셜 타임스·사우디 가제트·더 내셔널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디 석유 파이프라인이 공격받아 화재가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디 메디나 지역의 동서 파이프라인이 피격됐다고 로이터 통신이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "사우디 에너지부는 파이프라인 운영에는 차질이 없다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[사우디]] 파이프라인\n피격 사건 발생",
+  "broll": [
+    "oil pipeline fire",
+    "desert refinery night"
+  ],
+  "place_en": "Medina, Saudi Arabia"
+}
