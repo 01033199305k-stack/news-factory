@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-09-news-colombia-army-base-drone-attack-2026",
+  "topic": "콜롬비아 군 기지 드론 공격 장병 다수 사망·부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 08:11 KST",
+  "source": "Al Jazeera·The New York Times·Türkiye Today 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxQOWNEdXlRQ2U1M3Z2aVgzLXk0S1ZPLWRrUi1qVkVEdUhZel9XamI2ZEg1X2VOZ3ZOMTRQYkw3ZW9nWGYzd3IzVlg2U01vblFSVTFOMnpCRk9UN2FfUGgwRjlaam95YWNIeWtsNTk0cVBfLWxtTmFXUlMwUHc5aVpYcTBaemZmaG8",
+    "related": [
+      [
+        "Targeted by U.S., Armed Group Strikes Back in Colombia",
+        "The New York Times"
+      ],
+      [
+        "Drone attack on Colombian army base kills three soldiers and wounds 16",
+        "Al Jazeera"
+      ],
+      [
+        "Drones attack base in Colombia, killing three soldiers — The Rio Times",
+        "UA.NEWS"
+      ],
+      [
+        "Drone attack kills 5 soldiers, Colombia’s leader says ‘fear has changed sides’",
+        "Türkiye Today"
+      ],
+      [
+        "Colombia Drone Attack: 4 Soldiers Dead, 44 Wounded in Bolívar",
+        "teleSUR English"
+      ]
+    ],
+    "event_key": "colombia_army_base_drone_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "콜롬비아 군 기지 [[드론 공격]]\n장병 다수 사망·부상",
+      "sub": "군 부대에 드론 폭격…인명 피해 발생",
+      "chips": [],
+      "alt": "콜롬비아 군 기지 드론 공격 장병 다수 사망·부상",
+      "map": {
+        "lat": 9.3660477,
+        "lon": -74.8023636,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "콜롬비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "콜롬비아\n볼리바르",
+      "video_only": true,
+      "map": {
+        "lat": 9.3660477,
+        "lon": -74.8023636,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "볼리바르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "군 기지 드론 피격",
+          "d": "콜롬비아 군 기지가 드론 공격을 받았습니다."
+        },
+        {
+          "t": "사상자 다수 발생",
+          "d": "드론 폭격으로 군 장병들이 숨지거나 다쳤다고 외신들이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "군 기지 드론 피격",
+        "군 장병 사상자 발생"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모 매체별 집계 차이 있음",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "The New York Times",
+        "Türkiye Today",
+        "UA.NEWS",
+        "teleSUR English",
+        "2026.11.09 11:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 콜롬비아 군 기지가 드론 공격을 받아 사상자가 발생했습니다.\n\n· 군 기지에 드론 폭격이 가해졌습니다 (뉴욕타임스·알자지라)\n· 공격으로 장병들이 숨지거나 다쳤으나 매체별 수치는 엇갈리고 있습니다 (알자지라·테레수르)\n\n출처: 뉴욕타임스·알자지라·테레수르 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "콜롬비아 군 기지가 드론 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신에 따르면 군 부대에 드론 폭격이 가해져 장병 사상자가 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "매체마다 보도한 사망자와 부상자 수치는 매체별 집계 차이가 있습니다.",
+      "card": "check"
+    },
+    {
+      "text": "한국인 피해 여부와 정확한 경위는 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "군 기지에 떨어진\n[[드론]] 폭격",
+  "broll": [
+    "military base exterior",
+    "drone sky"
+  ],
+  "place_en": "Bolivar, Colombia"
+}

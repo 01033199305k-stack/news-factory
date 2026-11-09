@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-holds-up-patriot-missiles-ukraine-2026",
-    "topic": "미국, 우크라이나행 패트리어트 공급 보류",
-    "slug": "2026-10-20-news-us-holds-up-patriot-missiles-ukraine-2026",
-    "cluster": "CBMi4AFBVV95cUxQM2RmejR4dzYzZVU3WUU5WGw5V19hanBUNUwyUFVUX1JNckFtOWpwTlFBcnVrbVBNVi1GRGRnTzEtbEtNZkRyOU51a2lIanNURFp0ZjY3UlVPS0ZLZVdTVi00cHdpVnlsRWVUa1o5M2NwaWtlaGptVnRkZVdoXzhva0pTc2MwNFliWE8wLXoyVUdRM3R0TzVJY3p4Z05YblJkcVBLOXI0QmNzUURTd0VBMFJGSE14Y2NWY18xSWJjVG5GeU9UeXBlcWI5VWlGLUttV05nbWpmRlVNM1RwTktOdA",
-    "badge": "brief",
-    "at": 1792487605.867488,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "us-oregon-school-shooting-2026",
     "topic": "미 오레곤 초등학교 총격 어린이 등 최소 4명 사망",
     "slug": "2026-10-20-news-us-oregon-school-shooting-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794186662.299019,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "colombia_army_base_drone_attack_2026",
+    "topic": "콜롬비아 군 기지 드론 공격 장병 다수 사망·부상",
+    "slug": "2026-11-09-news-colombia-army-base-drone-attack-2026",
+    "cluster": "CBMihwFBVV95cUxQOWNEdXlRQ2U1M3Z2aVgzLXk0S1ZPLWRrUi1qVkVEdUhZel9XamI2ZEg1X2VOZ3ZOMTRQYkw3ZW9nWGYzd3IzVlg2U01vblFSVTFOMnpCRk9UN2FfUGgwRjlaam95YWNIeWtsNTk0cVBfLWxtTmFXUlMwUHc5aVpYcTBaemZmaG8",
+    "badge": "breaking",
+    "at": 1794190163.0997207,
+    "country": "콜롬비아",
+    "category": "총격·테러"
   }
 ]
