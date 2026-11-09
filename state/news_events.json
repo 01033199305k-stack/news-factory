@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "south-africa-shark-attack-2026",
-    "topic": "남아공 해수욕장서 상어 습격 1명 사망",
-    "slug": "2026-10-21-news-south-africa-shark-attack-2026",
-    "cluster": "CBMiW0FVX3lxTE1xdk1uWU5ZVnNkMGplbURlRGVaX1hIMTZyNGRPOGxQb3FIaG5tTVlMQlZvVENZZnl1bDRSUGJUbnljYmJBQ1Z5elEyRDA5ZWhQVVY0TUZTNXEwTUk",
-    "badge": "breaking",
-    "at": 1792520040.4215586,
-    "country": "남아프리카공화국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "romania-coast-tanker-attack-2026",
     "topic": "루마니아 앞바다서 유조선 드론 공격",
     "slug": "2026-10-21-news-romania-coast-tanker-attack-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794233250.6720676,
     "country": "파라과이",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_russia_overnight_strikes_blackout_2026",
+    "topic": "러·우 심야 공습 맞불 최소 4명 사망 발생",
+    "slug": "2026-11-09-news-ukraine-russia-overnight-strikes-blackout-2026",
+    "cluster": "CBMiswFBVV95cUxQdDFSYmRqay12Ykc5NnFrd1pRQUxoX3NxQzAzQi1hVkRZMllCbTFrWUUxV2ZNZXNuc0pzbTZQWk0wQkJMT3VROWN0Wmd6WVZjMnk0RkZvWm9kOWxkdW40SUx3MzVCRVB1b0h5SnhJand1WWJMOFpnM29OQTdxVnNSZVNpdHk2U3pjVHBtMzdDd2x2c19IWVdrbDFVM2RaTjctd0lWalZ0WUpjNjY5dHhaNzN3Y9IBuAFBVV95cUxPNEppNnc1WU55ZXJmOTVuM21GYkpseVFWNGMyazQtdktGX3VEb1hybkQ3b21HTTh5dVh2bTVxQnlJN1RFNlhZMGVxTGtTYm5WQkxxZW4yWndESS1nZ3pGQWZCWDhIUlppaHd2bmdGMlVXV29rZzVxQVJjTV9ZeEpsOU9lbjBKNjAwRTZsbFY0SFJ2M0QxLVg4akhCSWVtcExpNWltclpNMUNmQXFiRkVrUHhMWWZLN3pa",
+    "badge": "breaking",
+    "at": 1794237230.8441565,
+    "country": "우크라이나",
     "category": "국제"
   }
 ]

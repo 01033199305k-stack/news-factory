@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-09-news-ukraine-russia-overnight-strikes-blackout-2026",
+  "topic": "러·우 심야 공습 맞불 최소 4명 사망 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 21:37 KST",
+  "source": "AP News·Al Jazeera·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxQdDFSYmRqay12Ykc5NnFrd1pRQUxoX3NxQzAzQi1hVkRZMllCbTFrWUUxV2ZNZXNuc0pzbTZQWk0wQkJMT3VROWN0Wmd6WVZjMnk0RkZvWm9kOWxkdW40SUx3MzVCRVB1b0h5SnhJand1WWJMOFpnM29OQTdxVnNSZVNpdHk2U3pjVHBtMzdDd2x2c19IWVdrbDFVM2RaTjctd0lWalZ0WUpjNjY5dHhaNzN3Y9IBuAFBVV95cUxPNEppNnc1WU55ZXJmOTVuM21GYkpseVFWNGMyazQtdktGX3VEb1hybkQ3b21HTTh5dVh2bTVxQnlJN1RFNlhZMGVxTGtTYm5WQkxxZW4yWndESS1nZ3pGQWZCWDhIUlppaHd2bmdGMlVXV29rZzVxQVJjTV9ZeEpsOU9lbjBKNjAwRTZsbFY0SFJ2M0QxLVg4akhCSWVtcExpNWltclpNMUNmQXFiRkVrUHhMWWZLN3pa",
+    "related": [
+      [
+        "At least four people killed as Russia and Ukraine trade strikes overnight",
+        "Al Jazeera"
+      ],
+      [
+        "Russia and Ukraine batter each other with long-range strikes a day before US-brokered talks",
+        "AP News"
+      ],
+      [
+        "Blackouts and no heating: Russia’s winter strike campaign takes aim at Ukraine’s energy network",
+        "The Times of India"
+      ],
+      [
+        "North Korean ballistic missiles fired against US ally, power infrastructure targeted",
+        "Interesting Engineering"
+      ],
+      [
+        "Ukraine says Russia ramps up strikes to pressure Kyiv at talks",
+        "The Hindu"
+      ]
+    ],
+    "event_key": "ukraine_russia_overnight_strikes_blackout_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러·우 [[심야 공습]] 맞불\n최소 4명 사망 발생",
+      "sub": "우크라이나 전력망 피격으로 대규모 정전과 난방 중단이 일어났습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "4명"
+        }
+      ],
+      "alt": "러·우 심야 공습 맞불 최소 4명 사망 발생",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "에너지 시설 피격",
+          "d": "우크라이나 전력 인프라가 공격받아 대규모 정전과 난방 중단이 발생했습니다 (타임스 오브 인디아)."
+        },
+        {
+          "t": "회담 직전 공습",
+          "d": "양측은 미국 중재 회담을 하루 앞두고 장거리 공습을 주고받았습니다 (AP 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "최소 4명 사망 (알자지라)",
+        "양측 장거리 공습 교환",
+        "에너지 인프라 피격"
+      ],
+      "unconfirmed": [
+        "정확한 전력 복구 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "Interesting Engineering",
+        "The Hindu",
+        "The Times of India",
+        "2026.11.10 00:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아와 우크라이나의 심야 공습으로 최소 4명이 숨졌습니다 (알자지라).\n\n· 양측은 미국 중재 회담을 하루 앞두고 장거리 공습을 주고받았습니다 (AP 통신)\n· 우크라이나 전력 시설이 피격돼 대규모 정전과 난방 중단이 발생했습니다 (타임스 오브 인디아)\n\n출처: 알자지라·AP 통신·타임스 오브 인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아와 우크라이나 공습으로 4명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 양측이 회담을 앞두고 공습을 주고받았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나 전력 인프라가 피격돼 대규모 정전이 발생했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "[[회담 하루 전]]\n대규모 공습 쏘아올린 이유",
+  "broll": [
+    "power grid night",
+    "dark city street"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}

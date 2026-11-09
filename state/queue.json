@@ -1,52 +1,5 @@
 [
   {
-    "slug": "2026-11-09-news-greece-crete-migrant-boat-sinks-2026",
-    "event_ms": 1794224040000,
-    "category": "사고",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 그리스 크레타섬 인근에서 난민 선박 사고가 발생했습니다.\n\n· 그리스 당국이 최소 18명을 구조했습니다 (AP)\n· 사망자 수는 매체에 따라 12명에서 21명 이상으로 차이가 있습니다 (AP·ABC·로이터·알자지라)\n\n출처: AP·ABC·CBS·로이터·알자지라 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "사고",
-      "그리스"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18129849604853196",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfhaOXDlWdA",
-        "kind": "carousel",
-        "at": 1794229933
-      },
-      "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1794230172
-      },
-      "tiktok": {
-        "id": "6af1c7c155ccb8ee465f4bcf",
-        "permalink": "",
-        "kind": "video",
-        "at": 1794230410
-      }
-    },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": "video.mp4"
-  },
-  {
     "slug": "2026-11-09-news-israel-ben-gurion-russian-military-plane-lands-2026",
     "event_ms": 1794225548000,
     "category": "국제",
@@ -82,10 +35,14 @@
         "permalink": "https://youtube.com/shorts/Qpf_tzaCyas",
         "kind": "shorts",
         "at": 1794230197
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794237388
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 2
     },
     "video": "video.mp4"
@@ -127,8 +84,45 @@
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-09-news-ukraine-russia-overnight-strikes-blackout-2026",
+    "event_ms": 1794227866000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아와 우크라이나의 심야 공습으로 최소 4명이 숨졌습니다 (알자지라).\n\n· 양측은 미국 중재 회담을 하루 앞두고 장거리 공습을 주고받았습니다 (AP 통신)\n· 우크라이나 전력 시설이 피격돼 대규모 정전과 난방 중단이 발생했습니다 (타임스 오브 인디아)\n\n출처: 알자지라·AP 통신·타임스 오브 인디아 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18093626618226616",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfhoPO3oNgQ",
+        "kind": "carousel",
+        "at": 1794237278
+      }
+    },
+    "attempts": {
+      "instagram": 1
     },
     "video": "video.mp4"
   }
