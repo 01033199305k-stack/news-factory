@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-09-news-nvidia-jensen-huang-chinese-spy-investigation-2026",
+  "topic": "엔비디아 젠슨 황 중국 스파이 연루 조사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 18:05 KST",
+  "source": "Financial Times·NPR·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiigFBVV95cUxPcndzRG1jRHQ5c25nX1RuQVVNeXJUXzNnemotNFRpWGhwUGNCN3hmV2VkMndSVkl4V1hIMmhUMDhjWTJFa1BYckVYM1BkX0ZMMEQ2WmFxRGRhYXFtNzVJQUEtNW9PaUhfekFYM1RWeG0xbldSZlcwVldGZXVXVjNvcDdNN2dReWFqM3c",
+    "related": [
+      [
+        "Nvidia stock falls 5% as scrutiny turns to Jensen Huang’s relationship with alleged Chinese spy",
+        "CNBC"
+      ],
+      [
+        "Stock Market Today: Nvidia Stock Slides After Huang Apologizes for Affair With Alleged Spy",
+        "WSJ"
+      ],
+      [
+        "Nvidia ‘honeytrap’ scandal rocks AI industry, as China denies spying claims – business live",
+        "The Guardian"
+      ],
+      [
+        "Nvidia’s Jensen Huang admits to affair after allegations of relationship with Chinese spy",
+        "Financial Times"
+      ],
+      [
+        "Nvidia launches investigation into CEO's alleged relationship with Chinese spy",
+        "NPR"
+      ]
+    ],
+    "event_key": "nvidia_jensen_huang_chinese_spy_investigation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "[[엔비디아]] 젠슨 황\n중국 스파이 연루 조사",
+      "sub": "CEO 불륜 인정 속에 주가 5% 하락",
+      "chips": [
+        {
+          "k": "주가 하락",
+          "v": "5%"
+        }
+      ],
+      "alt": "엔비디아 젠슨 황 중국 스파이 연루 조사",
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n산타클라라",
+      "video_only": true,
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "산타클라라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "내부 조사 착수",
+          "d": "엔비디아는 젠슨 황 CEO와 중국 스파이 혐의 인물과의 관계에 대해 조사에 착수했습니다 (NPR)."
+        },
+        {
+          "t": "사과 및 혐의 부인",
+          "d": "젠슨 황 CEO는 관련 관계를 인정하고 사과했으며, 중국 측은 스파이 혐의를 부인했습니다 (WSJ·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "엔비디아 내부 조사 착수",
+        "젠슨 황 CEO 사과",
+        "주가 5% 하락 (CNBC)"
+      ],
+      "unconfirmed": [
+        "스파이 혐의 사실 여부",
+        "경영진 후속 조치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "Financial Times",
+        "NPR",
+        "The Guardian",
+        "WSJ",
+        "2026.11.09 19:21 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 엔비디아 주가가 5% 하락하며 젠슨 황 CEO 조사가 시작됐습니다.\n\n· 엔비디아는 젠슨 황 CEO와 중국 스파이 혐의 인물과의 관계에 대해 조사에 착수했습니다 (NPR).\n· 젠슨 황 CEO는 관계를 인정하고 사과했으나, 중국 측은 스파이 혐의를 부인했습니다 (WSJ·가디언).\n\n이번 논란, 어떻게 생각하십니까?\n\n출처: CNBC·WSJ·가디언·파이낸셜타임스·NPR 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "엔비디아 젠슨 황 CEO가 조사를 받게 됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "중국 스파이 혐의 인물과의 관계 때문이라고 NPR이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "젠슨 황 CEO는 사과를 전했고 주가는 5% 하락했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 논란, 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "엔비디아 [[CEO]]가\n조사받는 이유",
+  "broll": [
+    "stock exchange screen",
+    "office building exterior"
+  ],
+  "place_en": "Santa Clara, California"
+}
