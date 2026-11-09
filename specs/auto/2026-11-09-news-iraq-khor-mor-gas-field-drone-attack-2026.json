@@ -1,0 +1,130 @@
+{
+  "slug": "2026-11-09-news-iraq-khor-mor-gas-field-drone-attack-2026",
+  "topic": "이라크 가스전 피격 생산 전면 중단",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 06:49 KST",
+  "source": "Al Jazeera·Reuters·South China Morning Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixwFBVV95cUxOSjc4dFNBUmN3UHp3Uk5FLUhNOElWeTVLRDNzSHZsSTAyUWZ4elN0eHdYUVJ5MDZBb0Y3MDNaNzlWbTRHMnctUFY5dGdNWWtKUnZTdHRPeXl1UUhlUE9mdTU0d2ZWTk9Hak9HaHVXaVBJQ3BoVXdfZnFxelF2aUc1MEV1U0JFQ1lDQ0s3RXhtRnk2dmoxZ2h4a3FRazE4Y3VpbGlDYW1zdE1DcDYxU3R4aE9zOWxkdTNuRVFxMzRlTDEtMDNHRmpr",
+    "related": [
+      [
+        "Production suspended at Iraq's Khor Mor gas field after drone attack, sources say",
+        "Reuters"
+      ],
+      [
+        "Iran war live: Drone hits northern Iraq gasfield, blasts in Iran’s Qeshm",
+        "Al Jazeera"
+      ],
+      [
+        "Iraq's Khor Mor gas field hit less than day after reportedly referenced by Kataib Hezbollah",
+        "The Jerusalem Post"
+      ],
+      [
+        "FILE PHOTO: The Khor Mor gas field in Sulaymaniyah province, Iraq",
+        "The Lufkin Daily News"
+      ],
+      [
+        "Attack on Iraq gas complex disrupts supply to region’s power plants, authorities say",
+        "South China Morning Post"
+      ]
+    ],
+    "event_key": "iraq_khor_mor_gas_field_drone_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이라크 [[가스전]] 피격\n생산 전면 중단",
+      "sub": "드론 공격 발생으로 지역 발전소 전력 공급 차질",
+      "chips": [],
+      "alt": "이라크 가스전 피격 생산 전면 중단",
+      "map": {
+        "lat": 35.5570501,
+        "lon": 45.4425963,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이라크"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이라크\n술라이마니야",
+      "video_only": true,
+      "map": {
+        "lat": 35.5570501,
+        "lon": 45.4425963,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "술라이마니야"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "드론 공격 피격",
+          "d": "이라크 북부 코르 모르 가스전이 드론 공격을 받아 가스 생산이 정지됐습니다 (로이터·알자지라)."
+        },
+        {
+          "t": "발전소 전력 차질",
+          "d": "가스전 가동 중단으로 인근 지역 발전소 가스 공급이 차단됐습니다 (SCMP)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "코르 모르 가스전 생산 중단",
+        "드론 공격 피격"
+      ],
+      "unconfirmed": [
+        "공격 주체 미확인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "South China Morning Post",
+        "The Jerusalem Post",
+        "The Lufkin Daily News",
+        "2026.11.09 09:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이라크 북부 가스전이 드론 공격을 받아 생산이 중단됐습니다.\n\n· 이라크 코르 모르 가스전 생산 전면 중단 (로이터)\n· 가스 공급 차단으로 지역 발전소 전력 차질 (SCMP)\n\n출처: 로이터·알자지라·SCMP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이라크 북부 코르 모르 가스전이 드론 공격을 받아 가스 생산이 중단됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가스전 중단으로 발전소 전력 공급에 차질이 생겼습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격 주체는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[가스전]] 드론 피격\n생산 중단",
+  "broll": [
+    "gas field facility",
+    "power plant supply"
+  ],
+  "place_en": "Sulaymaniyah, Iraq"
+}

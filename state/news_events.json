@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "seoul_yeoksam_building_fire_2026",
-    "topic": "서울 역삼동 상가 건물서 불 1명 심정지 이송",
-    "slug": "2026-10-20-news-seoul-yeoksam-building-fire-2026",
-    "cluster": "CBMiW0FVX3lxTFBCVnNBNFE4RHdoVzNvRFlKaDhLUDllUGItUzFaTHVZUlRBZUhWMUN1THd2NTlRSVpCdkJfNVUyRnNaenN4VlZ2SFlfY21INWc2V2xyYUxMbHV5NE0",
-    "badge": "breaking",
-    "at": 1792470760.1242871,
-    "country": "대한민국",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "colombia-illegal-gold-mine-collapse-2026",
     "topic": "불법 금광 붕괴 최소 14명 사망",
     "slug": "2026-10-20-news-colombia-illegal-gold-mine-collapse-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794170758.311933,
     "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "iraq_khor_mor_gas_field_drone_attack_2026",
+    "topic": "이라크 가스전 피격 생산 전면 중단",
+    "slug": "2026-11-09-news-iraq-khor-mor-gas-field-drone-attack-2026",
+    "cluster": "CBMixwFBVV95cUxOSjc4dFNBUmN3UHp3Uk5FLUhNOElWeTVLRDNzSHZsSTAyUWZ4elN0eHdYUVJ5MDZBb0Y3MDNaNzlWbTRHMnctUFY5dGdNWWtKUnZTdHRPeXl1UUhlUE9mdTU0d2ZWTk9Hak9HaHVXaVBJQ3BoVXdfZnFxelF2aUc1MEV1U0JFQ1lDQ0s3RXhtRnk2dmoxZ2h4a3FRazE4Y3VpbGlDYW1zdE1DcDYxU3R4aE9zOWxkdTNuRVFxMzRlTDEtMDNHRmpr",
+    "badge": "breaking",
+    "at": 1794182822.8338223,
+    "country": "이라크",
     "category": "국제"
   }
 ]
