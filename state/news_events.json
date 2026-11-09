@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "nato-black-sea-deployment-planes-drones-2026",
-    "topic": "나토, 흑해 배치 강화 정찰기·드론 투입",
-    "slug": "2026-10-21-news-nato-black-sea-deployment-planes-drones-2026",
-    "cluster": "CBMipwFBVV95cUxQREdOT1FlcW4tWjg1QlFXTkhFWjV6em16dlJueWdVRnktcWJsXy03SXVVeEFLUzN0cm5qN3ROdjZXLWZoV3I4LWNLZlFEbHpPb0RJZEs0RlRmdkFGUkdJQVdoRDI2WjVxTzV6NVNPMUFIajRGejBJaEN1dUM2el9lTkh3X2x2OXRCSFBIVFQ5R3ljU2xSeVhQUnlmOVVVZ0NYNlVDNEJSbw",
-    "badge": "breaking",
-    "at": 1792526905.9594204,
-    "country": "벨기에",
-    "category": "국제"
-  },
-  {
     "event_key": "zelensky-us-intelligence-resumed-2026",
     "topic": "미국, 우크라이나와 정보 공유 재개 젤렌스키 \"오슬로 회담 후 작동\"",
     "slug": "2026-10-21-news-zelensky-us-intelligence-resumed-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794244067.950217,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "turkey_steel_plant_explosion_2026",
+    "topic": "튀르키예 제철소 폭발 최소 6명 사망",
+    "slug": "2026-11-10-news-turkey-steel-plant-explosion-2026",
+    "cluster": "CBMipAFBVV95cUxOTm1FWXItRmhBdXlpMXZzcVpPcGtnWjZ5RTc2SjlyejJiLTFqMDY5Ul9pTjRKbUxIbFFXRUh5akotT2s0Mmk4RTBia3RTOWZOM2lBYVp0UzViN3AtdU9fV09zRFRzSF9Jb1JCaUdJaG01TV9JcFFFZXRXSVIzeUN2cDRsZnFoZ1lFalBaR05RQVlCSGxWb1dSSWxDZ2tDZGdzU0JZMw",
+    "badge": "breaking",
+    "at": 1794247633.5477889,
+    "country": "튀르키예",
+    "category": "폭발·화재"
   }
 ]

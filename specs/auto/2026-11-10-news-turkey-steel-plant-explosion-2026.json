@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-10-news-turkey-steel-plant-explosion-2026",
+  "topic": "튀르키예 제철소 폭발 최소 6명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 02:08 KST",
+  "source": "Sky News·The Independent·Armenpress 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxOTm1FWXItRmhBdXlpMXZzcVpPcGtnWjZ5RTc2SjlyejJiLTFqMDY5Ul9pTjRKbUxIbFFXRUh5akotT2s0Mmk4RTBia3RTOWZOM2lBYVp0UzViN3AtdU9fV09zRFRzSF9Jb1JCaUdJaG01TV9JcFFFZXRXSVIzeUN2cDRsZnFoZ1lFalBaR05RQVlCSGxWb1dSSWxDZ2tDZGdzU0JZMw",
+    "related": [
+      [
+        "Explosion at steel plant in Turkey kills 16, president says",
+        "Sky News"
+      ],
+      [
+        "Huge steel plant blast in Turkey kills at least six people",
+        "The Independent"
+      ],
+      [
+        "Ten workers killed in explosion at steelworks in Türkiye",
+        "Armenpress"
+      ],
+      [
+        "Steel plant blast kills 16 in western Turkey",
+        "TradingView"
+      ],
+      [
+        "Video: A massive explosion at a steel mill in Turkey claimed the lives of three people",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "turkey_steel_plant_explosion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "튀르키예 제철소 [[폭발]]\n최소 [[6명]] 사망",
+      "sub": "제철소에서 폭발 사고가 발생했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "6명 이상"
+        },
+        {
+          "k": "부상",
+          "v": "보도 엇갈림"
+        }
+      ],
+      "alt": "튀르키예 제철소 폭발 최소 6명 사망",
+      "map": {
+        "lat": 39.294076,
+        "lon": 35.2316631,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "튀르키예"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "튀르키예",
+      "video_only": true,
+      "map": {
+        "lat": 39.294076,
+        "lon": 35.2316631,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "튀르키예"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 수",
+          "d": "매체별로 사망자 수가 최소 6명에서 최대 16명으로 다르게 보도됐습니다 (Sky News·The Independent·TradingView)."
+        },
+        {
+          "t": "대통령 언급",
+          "d": "튀르키예 대통령이 직접 사고 발생과 인명 피해를 언급했습니다 (Sky News)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "튀르키예 제철소 폭발 발생",
+        "사망자 발생 확인"
+      ],
+      "unconfirmed": [
+        "정확한 사망자 수 (6~16명 보도 엇갈림)",
+        "폭발 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Armenpress",
+        "Sky News",
+        "The Independent",
+        "TradingView",
+        "UA.NEWS",
+        "2026.11.10 03:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 튀르키예 제철소 폭발 사고로 최소 6명이 숨졌습니다\n\n· 사망자 수는 매체에 따라 최소 6명에서 최대 16명으로 엇갈려 보도됐습니다 (Sky News·The Independent·TradingView)\n· 튀르키예의 한 제철 공장에서 폭발이 일어났습니다 (TradingView)\n· 튀르키예 대통령이 직접 사고와 인명 피해 상황을 언급했습니다 (Sky News)\n\n출처: Sky News·The Independent·TradingView 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "튀르키예의 한 제철소에서 폭발 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 이번 사고로 최소 6명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "다만 매체별로 사망자 수는 최대 16명까지 다르게 집계됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 폭발 원인과 부상자 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "튀르키예 제철소에서\n일어난 [[폭발]]",
+  "broll": [
+    "factory building smoke",
+    "industrial plant exterior"
+  ],
+  "place_en": "Turkey"
+}
