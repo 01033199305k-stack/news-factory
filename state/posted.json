@@ -36874,5 +36874,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794201342
+  },
+  {
+    "slug": "2026-11-09-news-indian-navy-rescues-iranian-vessel-somalia-2026",
+    "event_ms": 1794196442000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 인도 해군, 소말리아 해역서 이란 어선 구조…선원 20명 전원 무사\n\n· 인도 해군 함정과 특수부대가 납치된 이란 어선을 구조 (텔레그래프 인도)\n· 어선에 타고 있던 이란인 선원 20명이 전원 구출 (더 힌두)\n\n출처: 더 힌두·텔레그래프 인도 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "소말리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18136039130506393",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfgpqRCG-pg",
+        "kind": "carousel",
+        "at": 1794204471
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1794204582
+      },
+      "tiktok": {
+        "id": "7706050971801193749",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706050971801193749",
+        "kind": "video",
+        "at": 1794204931
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794211847
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794211847
   }
 ]
