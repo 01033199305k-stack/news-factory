@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-09-news-paraguay-president-impeached-bank-collapse-2026",
+  "topic": "파라과이 대통령 탄핵 디지털 은행 파산 여파",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.09 22:29 KST",
+  "source": "Al Jazeera·BBC·NPR 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMifkFVX3lxTFAwYWJFT1dCdDRmNzJ6UXBoa3d0b0p1NERidXFza0VhaDJoTFl4NzVzN3pnSkFHUDF0N3ZFeVE3Sk03SnZXVUxVTmxURDdDZzlwcmpBT1B5MkUzX2Y3X0ppRW9BVHNCVHB3MUJzc3pPZDZYQWhvcHVCX3Q5a0VFUQ",
+    "related": [
+      [
+        "How a bank collapse left millions in limbo and toppled Paraguay's president",
+        "NPR"
+      ],
+      [
+        "How a Bank Implosion in Paraguay Ensnared a President",
+        "The New York Times"
+      ],
+      [
+        "Paraguay raids ex-president’s home: Why a bank crash brought down Pena",
+        "Al Jazeera"
+      ],
+      [
+        "How a digital bank’s collapse toppled Paraguay’s president",
+        "Reuters"
+      ],
+      [
+        "Paraguay's President Santiago Peña impeached and under house arrest",
+        "BBC"
+      ]
+    ],
+    "event_key": "paraguay_president_impeached_bank_collapse_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파라과이 [[대통령 탄핵]]\n디지털 은행 파산 여파",
+      "sub": "산티아고 페냐 전 대통령 가택 연금 조치",
+      "chips": [
+        {
+          "k": "페냐 전 대통령",
+          "v": "탄핵·가택 연금"
+        }
+      ],
+      "alt": "파라과이 대통령 탄핵 디지털 은행 파산 여파",
+      "map": {
+        "lat": -25.2800459,
+        "lon": -57.6343814,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "파라과이"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파라과이\n아순시온",
+      "video_only": true,
+      "map": {
+        "lat": -25.2800459,
+        "lon": -57.6343814,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아순시온"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "디지털 은행 파산",
+          "d": "디지털 은행 파산으로 수백만 명이 영향권에 들었습니다 (NPR·로이터)."
+        },
+        {
+          "t": "전 대통령 자택 수색",
+          "d": "산티아고 페냐 전 대통령 자택이 압수수색을 받았습니다 (알자지라)."
+        },
+        {
+          "t": "가택 연금 처분",
+          "d": "BBC는 페냐 전 대통령이 탄핵돼 가택 연금 상태라고 보도했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "산티아고 페냐 대통령 탄핵",
+        "전 대통령 가택 연금 및 자택 수색"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "은행 파산의 구체적 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "NPR",
+        "Reuters",
+        "The New York Times",
+        "2026.11.09 23:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파라과이 대통령 탄핵… 디지털 은행 파산 여파\n\n· 파라과이 디지털 은행 파산으로 페냐 대통령이 탄핵됐습니다 (NPR·로이터)\n· 페냐 전 대통령은 탄핵 후 가택 연금됐으며 자택 압수수색을 받았습니다 (BBC·알자지라)\n\n여러분은 이번 사태를 어떻게 보십니까?\n\n출처: BBC·로이터·알자지라·NYT·NPR 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파라과이에서 은행 파산 여파로 페냐 대통령이 탄핵됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 페냐 전 대통령이 탄핵돼 가택 연금 조치됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "알자지라는 페냐 전 대통령 자택이 압수수색됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "은행 파산의 구체적 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 탄핵 사태를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "파라과이 [[대통령]]\n탄핵당한 이유",
+  "broll": [
+    "parliament building",
+    "bank entrance facade"
+  ],
+  "place_en": "Asuncion, Paraguay"
+}

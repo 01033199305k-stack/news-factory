@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "netanyahu-trump-iran-regime-elimination",
-    "topic": "네타냐후, 트럼프와 이란 정권 제거 논의했다고 밝혀",
-    "slug": "2026-10-21-news-netanyahu-trump-iran-regime-elimination",
-    "cluster": "CBMi4wFBVV95cUxONnNTdy1lN0hReWxVVE1PYV9IZW1mV3pmMEVMRmVHck9KTTA2MkFjVzZzQm5HNlYwNGg5UDV4dWxJOGtuSW5yckNodlI4eVZtSTRMdF9lZjJleDZ1aDcyVHRjSXFiR3JUMWI2NjdWUXpseXNGQlBDVDh3M2VnTVNjMFN1X05ZS2ZpNEVVdDlMTHBmNkdjQ2pqXzhQeFJ3ckFWTFlWeEtMZmM4SjZhaEN1WGxRaEFxdHQteTE4VzNmbloxb3ZCTlptT2h1Zk5tR2tVQzE1YUdQV0VNVGxFV2ZPYS1jYw",
-    "badge": "breaking",
-    "at": 1792516279.5122066,
-    "country": "이스라엘",
-    "category": "국제"
-  },
-  {
     "event_key": "south-africa-shark-attack-2026",
     "topic": "남아공 해수욕장서 상어 습격 1명 사망",
     "slug": "2026-10-21-news-south-africa-shark-attack-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794229884.298186,
     "country": "이스라엘",
+    "category": "국제"
+  },
+  {
+    "event_key": "paraguay_president_impeached_bank_collapse_2026",
+    "topic": "파라과이 대통령 탄핵 디지털 은행 파산 여파",
+    "slug": "2026-11-09-news-paraguay-president-impeached-bank-collapse-2026",
+    "cluster": "CBMifkFVX3lxTFAwYWJFT1dCdDRmNzJ6UXBoa3d0b0p1NERidXFza0VhaDJoTFl4NzVzN3pnSkFHUDF0N3ZFeVE3Sk03SnZXVUxVTmxURDdDZzlwcmpBT1B5MkUzX2Y3X0ppRW9BVHNCVHB3MUJzc3pPZDZYQWhvcHVCX3Q5a0VFUQ",
+    "badge": "breaking",
+    "at": 1794233250.6720676,
+    "country": "파라과이",
     "category": "국제"
   }
 ]
