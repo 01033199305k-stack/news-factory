@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "slug": "2026-11-10-news-krakow-square-shooting-suspect-death-2026",
+    "event_ms": 1794255840000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 폴란드 크라쿠프 광장 총기 난동 용의자 병원서 사망\n\n· 총격으로 6명이 숨진 가운데, 용의자가 병원에서 숨졌습니다 (AP·워싱턴포스트)\n· 참사 이후 수천 명의 시민이 모여 희생자를 추모하는 침묵 행진을 벌였습니다 (로이터)\n\n출처: AP·뉴욕타임스·로이터·워싱턴포스트·야후 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "폴란드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18195490384397561",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfiaHN-GDhj",
+        "kind": "carousel",
+        "at": 1794263428
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1794263552
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

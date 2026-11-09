@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-10-news-krakow-square-shooting-suspect-death-2026",
+  "topic": "폴란드 크라쿠프 총기 난동 용의자 병원서 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 05:24 KST",
+  "source": "AP News·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiigFBVV95cUxPT3F0cG9XZEVlN0pBaEFzQTlWdjFka082QUE5eDRWd0RUMEpvQURHTG4zNHVpb0haZ1E4OVFiQmFXaHE2djVpVHhCcHRzSXp4cWF4cmRDcnotMXRlZ3UwNXR4NHprdWZBMDZnMXBTWUFYRnE2QXAwTjJwQXh5eUR3eTlrR3ZsTVNJZ1E",
+    "related": [
+      [
+        "Polish gunman who killed 6 in Krakow square dies in a hospital",
+        "AP News"
+      ],
+      [
+        "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
+        "The New York Times"
+      ],
+      [
+        "Thousands participate in silent march after Krakow mass shooting that shocked the nation",
+        "Reuters"
+      ],
+      [
+        "Krakow shooting suspect dies in hospital, police say",
+        "The Washington Post"
+      ],
+      [
+        "Poland: Tusk and Nawrocki honour six victims of Kraków shooting",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "krakow_square_shooting_suspect_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "폴란드 [[크라쿠프]] 총기 난동\n용의자 병원서 [[사망]]",
+      "sub": "총기 난동 사건으로 6명이 숨진 가운데, 용의자가 병원에서 숨졌습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "6명"
+        },
+        {
+          "k": "장소",
+          "v": "크라쿠프"
+        }
+      ],
+      "alt": "폴란드 크라쿠프 총기 난동 용의자 병원서 사망",
+      "map": {
+        "lat": 50.0469432,
+        "lon": 19.9971534,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "폴란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "폴란드\n크라쿠프",
+      "video_only": true,
+      "map": {
+        "lat": 50.0469432,
+        "lon": 19.9971534,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "크라쿠프"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "침묵 행진",
+          "d": "국민적 충격 속에 수천 명의 시민이 모여 희생자들을 추모하는 침묵 행진을 벌였습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "크라쿠프 광장 총기 난동 발생",
+        "희생자 6명 (AP·뉴욕타임스)",
+        "용의자 병원 사망 (AP·워싱턴포스트)"
+      ],
+      "unconfirmed": [
+        "범행 동기 및 상세 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Reuters",
+        "The New York Times",
+        "The Washington Post",
+        "Yahoo",
+        "2026.11.10 07:29 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 폴란드 크라쿠프 광장 총기 난동 용의자 병원서 사망\n\n· 총격으로 6명이 숨진 가운데, 용의자가 병원에서 숨졌습니다 (AP·워싱턴포스트)\n· 참사 이후 수천 명의 시민이 모여 희생자를 추모하는 침묵 행진을 벌였습니다 (로이터)\n\n출처: AP·뉴욕타임스·로이터·워싱턴포스트·야후 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "폴란드 크라쿠프 광장에서 총기 난동을 벌인 용의자가 병원에서 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신 등은 이번 사건으로 6명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "참사 이후 수천 명의 시민이 모여 희생자를 추모하는 침묵 행진을 벌였습니다.",
+      "card": "points"
+    },
+    {
+      "text": "범행 동기와 정확한 사건 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "폴란드 [[크라쿠프]] 광장서\n벌어진 [[총기 난동]]",
+  "broll": [
+    "city square poland",
+    "police tape street"
+  ],
+  "place_en": "Krakow, Poland"
+}

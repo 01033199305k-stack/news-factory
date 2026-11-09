@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine_peace_talks_2026",
-    "topic": "미국 특사, 젤렌스키 회담 이어 푸틴에게 평화안 전달 예정",
-    "slug": "2026-10-21-news-ukraine-peace-talks-2026",
-    "cluster": "CBMic0FVX3lxTE93ZlRUYlo2cFl3RW55YlgzLXZSa2F0Vkd0TFhoM1h0c1luUWxZTDY1bVA2SjFaMHUyaUZqVE0zT3BlQm9sOWh2MWpJRHJ1MVhqMllaZURRdGcxRUhxV0VodEZzRThVZjA2ek1TMmRJck5obmM",
-    "badge": "brief",
-    "at": 1792552235.041229,
-    "country": "노르웨이",
-    "category": "국제"
-  },
-  {
     "event_key": "tesla-spacex-merger-committees-2026",
     "topic": "테슬라·스페이스X 합병 위원회 구성",
     "slug": "2026-10-21-news-tesla-spacex-merger-committees-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794251551.3835843,
     "country": "사우디아라비아",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "krakow_square_shooting_suspect_death_2026",
+    "topic": "폴란드 크라쿠프 총기 난동 용의자 병원서 사망",
+    "slug": "2026-11-10-news-krakow-square-shooting-suspect-death-2026",
+    "cluster": "CBMiigFBVV95cUxPT3F0cG9XZEVlN0pBaEFzQTlWdjFka082QUE5eDRWd0RUMEpvQURHTG4zNHVpb0haZ1E4OVFiQmFXaHE2djVpVHhCcHRzSXp4cWF4cmRDcnotMXRlZ3UwNXR4NHprdWZBMDZnMXBTWUFYRnE2QXAwTjJwQXh5eUR3eTlrR3ZsTVNJZ1E",
+    "badge": "breaking",
+    "at": 1794263374.5548003,
+    "country": "폴란드",
+    "category": "총격·테러"
   }
 ]
