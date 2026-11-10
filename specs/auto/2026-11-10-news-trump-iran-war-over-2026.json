@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-10-news-trump-iran-war-over-2026",
+  "topic": "도널드 트럼프 미국 대통령은 카타르 총리와 회동한 뒤 이란과의 전쟁이 사실상 끝났다고 밝혔습니다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 09:59 KST",
+  "source": "AP News·Al Jazeera·Hindustan Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiwJBVV95cUxOYVBKZWlPRWZkR290TS1VWXNxamNMODVBNWdaWnNqQTVNancyY19PaWMtTjFWdXhIZlFhZ1BqV1h4dGhHWUZoTWxZOElHdHVLcWw4U1d3SlI2aXBzQTZULWsyMXMxaUQxU2lhbmhaaXA4Tk5vSEZMWDJBa1VISk9KMjhaVl9ZQUJid3U4a2ZXaVdnczdNZnRnM3hOX19yRkdvZEV2M0U1WE9TOUxrZHVacXFBTVRvcVliY3FiTG9WV1Y1X3JXSjhUWVVhQmNpZ1FtTWxDZkZUb3BQR0RObDYzZlUxbHFfVGZRNnpOYmVkcWtQT2lvb2Z3Tml4QmlWUFpxVXdfZndYVGM3UEXSAZACQVVfeXFMUFNOZHpTdHktcnc3NkJtb0JPTUUzeXA2VjVhTHdFTzdjX0xsUTdvZmNkV2hyYXZmeW9BY3pfOWVFRGxDVWtXLTdJZWZfd203WnFGa1VBSTF3V1FZd1lQbDBPMXcyVkJEX3h2aXRsbFVIUkhRb081eDZQVHY3eUFkYnF4NGNGcm9tSzN6SjZ2a054cHhzdVZaVkV1Ty11N2d1cmVyZGdYcHdJeFlfUW56UHNnWmotcWlFUE5RTHBPeF9fbG5DS1lhX0lDTjBYcG85c0V3Ulkya0praUpmNkUtNDlWSDF1VEdneHNQMl9oVjV5S3puQ214Vmg5bWoyR2t4V0RNOXBuVFpONTdPYTJuV2o",
+    "related": [
+      [
+        "US-Iran war LIVE: Trump says Iran war ‘effectively over’ after meeting Qatar PM | Hindustan Times",
+        "Hindustan Times"
+      ],
+      [
+        "Iran war updates: Trump says US-Israel war on Iran ‘effectively over’",
+        "Al Jazeera"
+      ],
+      [
+        "Oil Futures Slide as Trump Says New Strikes on Iran Unlikely",
+        "WSJ"
+      ],
+      [
+        "Live updates: Trump says Iran war is militarily 'effectively over’ as House moves to vote on impeaching Hegseth",
+        "AP News"
+      ],
+      [
+        "Trump says resumption of war with Iran 'highly unlikely'",
+        "The Hindu"
+      ]
+    ],
+    "event_key": "trump_iran_war_over_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "도널드 트럼프 미국 대통령은 카타르 총리와 회동한 뒤 이란과의 전쟁이 사실상 끝났다고 밝혔습니다",
+      "sub": "새로운 공습 가능성은 낮다는 입장을 밝혔습니다",
+      "chips": [
+        {
+          "k": "전쟁 상황",
+          "v": "사실상 종료"
+        }
+      ],
+      "alt": "도널드 트럼프 미국 대통령은 카타르 총리와 회동한 뒤 이란과의 전쟁이 사실상 끝났다고 밝혔습니다",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "카타르 총리 회동",
+          "d": "도널드 트럼프 미국 대통령은 카타르 총리와 만난 뒤 이란과의 전쟁이 사실상 끝났다고 밝혔습니다 (Hindustan Times)"
+        },
+        {
+          "t": "추가 공습 전망",
+          "d": "이란에 대한 새로운 공습 가능성은 낮다는 분석이 나왔습니다 (WSJ·The Hindu)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "전쟁 사실상 종료 선언",
+        "추가 공습 가능성 낮음"
+      ],
+      "unconfirmed": [
+        "향후 외교 협상 세부 일정",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "Hindustan Times",
+        "The Hindu",
+        "WSJ",
+        "2026.11.10 10:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 트럼프 미 대통령 \"이란과의 전쟁 사실상 끝났다\"\n\n· 도널드 트럼프 미국 대통령은 카타르 총리와 만난 뒤 이란과의 전쟁이 사실상 끝났다고 밝혔습니다 (Hindustan Times·Al Jazeera)\n· 미국 정부는 이란에 대한 새로운 공습 가능성이 낮다고 전했습니다 (WSJ·The Hindu)\n\n여러분은 이번 트럼프 대통령의 선언, 어떻게 보십니까?\n\n출처: Hindustan Times·Al Jazeera·WSJ·AP News·The Hindu 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "도널드 트럼프 미국 대통령은 이란과의 전쟁이 사실상 끝났다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "카타르 총리와의 회동 이후 이같이 밝힌 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 정부는 이란에 대한 새로운 공습 가능성도 낮다고 설명했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "후속 외교 조치는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미국의 발표, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "이란과의 전쟁\n어떻게 끝나나",
+  "broll": [
+    "white house exterior",
+    "us flag washington"
+  ],
+  "place_en": "Washington, DC, USA"
+}

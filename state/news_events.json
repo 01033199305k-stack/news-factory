@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "tesla-spacex-merger-committees-2026",
-    "topic": "테슬라·스페이스X 합병 위원회 구성",
-    "slug": "2026-10-21-news-tesla-spacex-merger-committees-2026",
-    "cluster": "CBMiW0FVX3lxTE16YkJNMmtrWGtwS1o3WVJYN2xHbDVZWXYzU0RrUk1mNV9BdTU3VTktal9xYjhHTW9qMXMtb3JhcG1wTmF1MElCUkFDM1lvM3BYRDgwVXA1MnlQUTA",
-    "badge": "brief",
-    "at": 1792559244.3313532,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "php-rce-vulnerabilities-emergency-patch",
     "topic": "워드프레스 등 비상 PHP 취약점 발견",
     "slug": "2026-10-21-news-php-rce-vulnerabilities-emergency-patch",
@@ -2998,5 +2988,15 @@
     "at": 1794263374.5548003,
     "country": "폴란드",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "trump_iran_war_over_2026",
+    "topic": "도널드 트럼프 미국 대통령은 카타르 총리와 회동한 뒤 이란과의 전쟁이 사실상 끝났다고 밝혔습니다",
+    "slug": "2026-11-10-news-trump-iran-war-over-2026",
+    "cluster": "CBMiiwJBVV95cUxOYVBKZWlPRWZkR290TS1VWXNxamNMODVBNWdaWnNqQTVNancyY19PaWMtTjFWdXhIZlFhZ1BqV1h4dGhHWUZoTWxZOElHdHVLcWw4U1d3SlI2aXBzQTZULWsyMXMxaUQxU2lhbmhaaXA4Tk5vSEZMWDJBa1VISk9KMjhaVl9ZQUJid3U4a2ZXaVdnczdNZnRnM3hOX19yRkdvZEV2M0U1WE9TOUxrZHVacXFBTVRvcVliY3FiTG9WV1Y1X3JXSjhUWVVhQmNpZ1FtTWxDZkZUb3BQR0RObDYzZlUxbHFfVGZRNnpOYmVkcWtQT2lvb2Z3Tml4QmlWUFpxVXdfZndYVGM3UEXSAZACQVVfeXFMUFNOZHpTdHktcnc3NkJtb0JPTUUzeXA2VjVhTHdFTzdjX0xsUTdvZmNkV2hyYXZmeW9BY3pfOWVFRGxDVWtXLTdJZWZfd203WnFGa1VBSTF3V1FZd1lQbDBPMXcyVkJEX3h2aXRsbFVIUkhRb081eDZQVHY3eUFkYnF4NGNGcm9tSzN6SjZ2a054cHhzdVZaVkV1Ty11N2d1cmVyZGdYcHdJeFlfUW56UHNnWmotcWlFUE5RTHBPeF9fbG5DS1lhX0lDTjBYcG85c0V3Ulkya0praUpmNkUtNDlWSDF1VEdneHNQMl9oVjV5S3puQ214Vmg5bWoyR2t4V0RNOXBuVFpONTdPYTJuV2o",
+    "badge": "brief",
+    "at": 1794273074.4136863,
+    "country": "미국",
+    "category": "국제"
   }
 ]
