@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "eurowings_flight_suspected_norovirus_2026",
-    "topic": "유로윙스 여객기서 노로바이러스 의심 증상 발생 승객 여러 명 질병 증세",
-    "slug": "2026-10-21-news-eurowings-flight-suspected-norovirus-2026",
-    "cluster": "CBMirAFBVV95cUxOTjNYdFRCLXhmOWZHZ2kyczBEOU0yNThWb3hCZzBxZ19fcnFHTTZzclJoUlV2MjlYeFZQLTJWNnFCc1V6cmZ2cTVsVFZkdF91V3BETWlObVg1M2Zfb1dIZThhSm9LX0s4TWkzQUkyWUUwellaS1BHenozSTdJbm51SHZ4NzRjcF9yWGZpTHNDMzBQSDFySDI4azM2OHJxYUxFNXI1ZGljYzFpUlZf",
-    "badge": "breaking",
-    "at": 1792598853.206481,
-    "country": "독일",
-    "category": "사고"
-  },
-  {
     "event_key": "australia_politician_car_attack_2026",
     "topic": "호주 정치인, 차량 공격으로 두 다리 잃어",
     "slug": "2026-10-22-news-australia-politician-car-attack-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794319643.4412642,
     "country": "쿠웨이트",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_russia_refinery_attacks_2026",
+    "topic": "우크라 공습에 러시아 휘발유 판매 제한",
+    "slug": "2026-11-10-news-ukraine-russia-refinery-attacks-2026",
+    "cluster": "CBMixgFBVV95cUxPTXJUZnFVTVJmR25VaW9YQkhwMTJEM0FzTWVHLXRZOFpXV09zN18zd1RIOThGTHdiVUVmbVFnbnJqRUhfQzdSQzBDTHFLUUxtSEI3YkZyNFQ0RzdlQ3oxMVRHb1d2YUNBa3hIbWQ3VWxmYTBNaWpiVmdjOXB4ZDlzMFhQQk10a1FZWkhWem81TGNaS0JFc25FNUV6eFVhd2RIYldEQTlCU051VUFlalpnSlBoYzdOVFFFNVN4cjNjRjVuX05jNGc",
+    "badge": "breaking",
+    "at": 1794322939.2257314,
+    "country": "러시아",
     "category": "국제"
   }
 ]

@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-10-news-ukraine-russia-refinery-attacks-2026",
+  "topic": "우크라 공습에 러시아 휘발유 판매 제한",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 21:19 KST",
+  "source": "Financial Times·Reuters·Euronews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixgFBVV95cUxPTXJUZnFVTVJmR25VaW9YQkhwMTJEM0FzTWVHLXRZOFpXV09zN18zd1RIOThGTHdiVUVmbVFnbnJqRUhfQzdSQzBDTHFLUUxtSEI3YkZyNFQ0RzdlQ3oxMVRHb1d2YUNBa3hIbWQ3VWxmYTBNaWpiVmdjOXB4ZDlzMFhQQk10a1FZWkhWem81TGNaS0JFc25FNUV6eFVhd2RIYldEQTlCU051VUFlalpnSlBoYzdOVFFFNVN4cjNjRjVuX05jNGc",
+    "related": [
+      [
+        "EXCLUSIVE: Recent Ukrainian attacks have reduced Russia's oil processing capacity by 30%, sources say",
+        "Reuters"
+      ],
+      [
+        "Russia rations petrol after new Ukrainian strikes on refineries",
+        "Financial Times"
+      ],
+      [
+        "Ukraine hits Russia’s second-largest refinery, Rosneft caps sales",
+        "Euronews.com"
+      ],
+      [
+        "Russia imposes gasoline sales restrictions amid Ukrainian oil refinery attacks, Russian media report",
+        "The Kyiv Independent"
+      ],
+      [
+        "Russia rations fuel as Ukraine resumes strikes on refineries",
+        "Semafor"
+      ]
+    ],
+    "event_key": "ukraine_russia_refinery_attacks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 공습에 [[러시아]]\n휘발유 판매 제한",
+      "sub": "정유 시설 공격으로 가공 능력 30% 감소 (로이터)",
+      "chips": [
+        {
+          "k": "가공 능력",
+          "v": "30% 감소"
+        }
+      ],
+      "alt": "우크라 공습에 러시아 휘발유 판매 제한",
+      "map": {
+        "lat": 64.6863136,
+        "lon": 97.7453061,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아",
+      "video_only": true,
+      "map": {
+        "lat": 64.6863136,
+        "lon": 97.7453061,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "러시아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "휘발유 배급 실시",
+          "d": "공습 여파로 러시아 내 휘발유 공급이 제한됐다고 주요 외신이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 정유 시설 공습",
+        "가공 능력 30% 감소",
+        "휘발유 판매 제한"
+      ],
+      "unconfirmed": [
+        "향후 공급난 지속 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Euronews.com",
+        "Financial Times",
+        "Reuters",
+        "Semafor",
+        "The Kyiv Independent",
+        "2026.11.11 00:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나의 공습으로 러시아 정유 시설의 가공 능력이 30% 감소했습니다 (로이터).\n\n· 러시아는 공습 이후 휘발유 판매를 제한하고 배급에 나섰습니다 (FT 등)\n· 우크라이나는 러시아 내 2위 규모 정유 공장을 타격했습니다 (유로뉴스)\n\n출처: 로이터·파이낸셜타임스·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나의 공습으로 러시아 정유 시설의 가공 능력이 30% 감소했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신들은 이번 공격 이후 러시아가 휘발유 판매를 제한하고 배급에 나섰다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아 내 2위 규모 정유 공장까지 타격을 입으면서 연료 공급에 차질이 빚어지고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "연료 공급난이 언제까지 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "우크라 공습에\n[[러시아]] 휘발유 배급?",
+  "broll": [
+    "oil refinery industrial",
+    "gasoline station"
+  ],
+  "place_en": "Russia"
+}
