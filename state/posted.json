@@ -37838,5 +37838,111 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794312434
+  },
+  {
+    "slug": "2026-11-10-news-california-billionaire-tax-defeat-2026",
+    "event_ms": 1794310200000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 캘리포니아주서 억만장자세 주민투표 부결\n\n· 캘리포니아 유권자들이 일회성 부유세 부과 법안을 거부했다고 로이터 등이 보도했습니다 (로이터·뉴욕타임스)\n\n출처: 로이터·뉴욕타임스·CNN·NPR 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18359163184168197",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfj_Bgsm4yR",
+        "kind": "carousel",
+        "at": 1794316330
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1794316574
+      },
+      "tiktok": {
+        "id": "7706531025656040722",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706531025656040722",
+        "kind": "video",
+        "at": 1794316776
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794319826
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794319826
+  },
+  {
+    "slug": "2026-11-10-news-bulgaria-motorway-pile-up-2026",
+    "event_ms": 1794311028000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 불가리아 고속도로 연쇄 추돌로 최소 11명 사망\n\n· 짙은 안개 속에서 차량 50여 대가 연달아 부딪히는 사고가 발생했습니다 (BBC·스카이뉴스)\n· 사고로 수십 명이 부상을 입고 병원으로 이송됐습니다 (로이터·RTE)\n\n출처: BBC·스카이뉴스·RTE·유로뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "불가리아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18123973556294560",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfj_FY-G3Uy",
+        "kind": "carousel",
+        "at": 1794316365
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794316574
+      },
+      "tiktok": {
+        "id": "7706531669221625094",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706531669221625094",
+        "kind": "video",
+        "at": 1794316909
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794319826
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794319826
   }
 ]

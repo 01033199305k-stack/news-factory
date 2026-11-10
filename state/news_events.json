@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-toledo-chemical-leak-evacuation-2026",
-    "topic": "미 오하이오 화학 누출 주민에 대피령 발령",
-    "slug": "2026-10-21-news-us-toledo-chemical-leak-evacuation-2026",
-    "cluster": "CBMimgJBVV95cUxNR1hfeHRUWUIzc2s4REhEeVpkcHRpV3IwMWFXUEVMWGdJc19KbGhkOG5JeXVtbnRtY2dtWHlodWpuRFJ6MzhOSVE3NnhBSWN3cDZDNmtEbHNDWEtoU1hTVHhudE1zTmtjV1ljUjN0a2Y4Q0dnZVE2SUp4aG8tb092MUUxZlRmT291Qk1JUHp1WkZJMzk2bzdZR2dYUnJNbjEzQWpsbU5sWkl3Z3VYaFJMRGE5Y1ByMFZVSFhVMExNazFNRm5xLXVFN3QyaW5pTlVVSW8wdHVDN2t0REd5MTliQzdRZTRuUWdTWHVJbzhCRDZaaGdwcUtqeU1ZZ0dYcy13c2hPN2U1dE9BUUZpOE5sS21hdnl1VE9mTlE",
-    "badge": "breaking",
-    "at": 1792593455.9077067,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "eurowings_flight_suspected_norovirus_2026",
     "topic": "유로윙스 여객기서 노로바이러스 의심 증상 발생 승객 여러 명 질병 증세",
     "slug": "2026-10-21-news-eurowings-flight-suspected-norovirus-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794316282.2397661,
     "country": "불가리아",
     "category": "사고"
+  },
+  {
+    "event_key": "gcc_joint_military_command_kuwait",
+    "topic": "걸프협력회의, 쿠웨이트에 통합 군사령부 본부 설치 승인",
+    "slug": "2026-11-10-news-gcc-joint-military-command-kuwait",
+    "cluster": "CBMisAFBVV95cUxNNDBXTkt6aGFOYXdNblpCMkdudFRQOVBWdG0xbW1UWldrdkR3VWZFa25LVG1VV3A2SkJuOFZlQkZxWXZTMUI5eUJLd0lDSFAzdGl6YU80Yy1TQjdrNHQtblJHVll2bHl2bDUzcjF6RmV5UHVuUnUwc2dzWFlWT2xxTktfeDc4OXA2dVQzU19FUFRSdGZlanE5NGZCbi16VWJOWUc1WDlhZElZQnJjeU5FRdIBtgFBVV95cUxQRkpXRi1LRHRFWFNZRXVMU2lIVUpHbnlWV3hpajAtZVBiTFB5MFFSNVFHbHpfMzRoQjZ3VVUxWFduOF9CTHp5eHl6QlAyTnhpQWVTSkRwTmlZUTZGMklRNGsxMXNaSVFONGNrQ2hycERkNlFBdXBGMVh6V3RpTUwzYno2MjhVdXg0ZzNOSml0Y2dUakUtNEkxWkQwR25BaFYzM3Y4SE5EQWRmMTRqYkNuY01kVWk1UQ",
+    "badge": "breaking",
+    "at": 1794319643.4412642,
+    "country": "쿠웨이트",
+    "category": "국제"
   }
 ]

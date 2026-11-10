@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-10-news-gcc-joint-military-command-kuwait",
+  "topic": "걸프협력회의, 쿠웨이트에 통합 군사령부 본부 설치 승인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 21:15 KST",
+  "source": "Al Jazeera·Arab News·Gulf Business 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMisAFBVV95cUxNNDBXTkt6aGFOYXdNblpCMkdudFRQOVBWdG0xbW1UWldrdkR3VWZFa25LVG1VV3A2SkJuOFZlQkZxWXZTMUI5eUJLd0lDSFAzdGl6YU80Yy1TQjdrNHQtblJHVll2bHl2bDUzcjF6RmV5UHVuUnUwc2dzWFlWT2xxTktfeDc4OXA2dVQzU19FUFRSdGZlanE5NGZCbi16VWJOWUc1WDlhZElZQnJjeU5FRdIBtgFBVV95cUxQRkpXRi1LRHRFWFNZRXVMU2lIVUpHbnlWV3hpajAtZVBiTFB5MFFSNVFHbHpfMzRoQjZ3VVUxWFduOF9CTHp5eHl6QlAyTnhpQWVTSkRwTmlZUTZGMklRNGsxMXNaSVFONGNrQ2hycERkNlFBdXBGMVh6V3RpTUwzYno2MjhVdXg0ZzNOSml0Y2dUakUtNEkxWkQwR25BaFYzM3Y4SE5EQWRmMTRqYkNuY01kVWk1UQ",
+    "related": [
+      [
+        "Why the GCC is setting up an advanced military command base in Kuwait",
+        "Al Jazeera"
+      ],
+      [
+        "Iran war live: GCC states approve joint military command centre in Kuwait",
+        "Al Jazeera"
+      ],
+      [
+        "In wake of Iran attacks, Gulf countries approve new joint military HQ",
+        "The Times of Israel"
+      ],
+      [
+        "Gulf states to base joint forces in Kuwait after Iranian attacks",
+        "Arab News"
+      ],
+      [
+        "GCC defence ministers approve Kuwait military headquarters and troop deployment",
+        "Gulf Business"
+      ]
+    ],
+    "event_key": "gcc_joint_military_command_kuwait"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "걸프협력회의, [[쿠웨이트]]에\n통합 군사령부 본부 설치 승인",
+      "sub": "이란의 연이은 공격 대응 조치",
+      "chips": [
+        {
+          "k": "본부 설치",
+          "v": "쿠웨이트"
+        }
+      ],
+      "alt": "걸프협력회의, 쿠웨이트에 통합 군사령부 본부 설치 승인",
+      "map": {
+        "lat": 29.3796532,
+        "lon": 47.9734174,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "쿠웨이트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "쿠웨이트\n쿠웨이트시티",
+      "video_only": true,
+      "map": {
+        "lat": 29.3796532,
+        "lon": 47.9734174,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "쿠웨이트시티"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "통합 사령부 승인",
+          "d": "걸프협력회의 국방장관들이 쿠웨이트 내 통합 군사령부 본부 설치와 병력 배치를 승인했습니다 (걸프 비즈니스·알자지라)"
+        },
+        {
+          "t": "대응 조치",
+          "d": "최근 이어진 이란의 공격에 대응하기 위한 방어 조치입니다 (타임스 오브 이스라엘)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "쿠웨이트 내 통합 군사령부 본부 승인",
+        "걸프협력회의 국방장관들 합의"
+      ],
+      "unconfirmed": [
+        "구체적인 병력 배치 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Arab News",
+        "Gulf Business",
+        "The Times of Israel",
+        "2026.11.10 23:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 걸프협력회의, 쿠웨이트에 통합 군사령부 본부 설치 승인\n\n· 걸프협력회의 국방장관들이 쿠웨이트 내 통합 군사령부 본부 설치와 병력 배치를 승인했습니다 (걸프 비즈니스·알자지라)\n· 최근 이어진 이란의 공격에 대응하기 위한 방어 조치입니다 (타임스 오브 이스라엘)\n\n질문: 걸프 국가들의 이번 군사 통합 조치, 어떻게 보십니까?\n출처: 알자지라·아랍 뉴스·걸프 비즈니스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "걸프협력회의가 쿠웨이트에 통합 군사령부 본부 설치를 승인했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "걸프 지역 매체들은 국방장관들이 쿠웨이트 내 합동 군사 HQ와 병력 배치에 합의했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최근 이어진 이란의 공격에 대응하기 위한 조치입니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 병력 배치 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 군사 통합 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "걸프협력회의가\n[[쿠웨이트]]에 세우는 것",
+  "broll": [
+    "military headquarters building",
+    "defense ministers meeting"
+  ],
+  "place_en": "Kuwait City, Kuwait"
+}
