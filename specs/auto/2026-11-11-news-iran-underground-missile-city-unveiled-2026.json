@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-11-news-iran-underground-missile-city-unveiled-2026",
+  "topic": "이란 혁명수비대, 지하 미사일 기지 공개 사거리 2000km 제한 해제 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 03:52 KST",
+  "source": "Al Jazeera·The Telegraph·Belfast Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxQV2lsaWZybGFXRnBSbGJWekg0YlUwaGpCMjVEVk1faTluay1kSkdvbTZ6Zy1Db1JGeV9wMk9MQVY0OWRIWHpmWVVtYl9DRUFaTllubkZtdmxnSjNWUk9paTQxbFBOYjlMOTBYcW5SODQtcUc2SloxNlY5MGxuYm9SOThkX1BYTDA",
+    "related": [
+      [
+        "Iran unveils new ‘missile city’",
+        "The Telegraph"
+      ],
+      [
+        "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+        "Al Jazeera"
+      ],
+      [
+        "Iran unveils massive underground 'missile city' as IRGC warns of violent global response",
+        "The Jerusalem Post"
+      ],
+      [
+        "Iran shows underground ‘missile city’ as official claims war has wrecked US",
+        "Belfast Telegraph"
+      ],
+      [
+        "Iran's Revolutionary Guards unveil new underground missile site",
+        "Iran International"
+      ]
+    ],
+    "event_key": "iran_underground_missile_city_unveiled_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란 혁명수비대, 지하 미사일 기지 공개\n사거리 2000km 제한 해제 발표",
+      "sub": "이란이 대규모 지하 미사일 도시를 공개했습니다.",
+      "chips": [
+        {
+          "k": "사거리 제한",
+          "v": "2000km"
+        }
+      ],
+      "alt": "이란 혁명수비대, 지하 미사일 기지 공개 사거리 2000km 제한 해제 발표",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지하 시설 공개",
+          "d": "이란 혁명수비대가 대규모 지하 미사일 기지를 공개했습니다."
+        },
+        {
+          "t": "미사일 제한 해제",
+          "d": "이란이 탄도미사일 사거리 2000km 제한을 해제했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "지하 미사일 기지 공개",
+        "사거리 2000km 제한 해제"
+      ],
+      "unconfirmed": [
+        "구체적인 미사일 배치 현황",
+        "향후 군사적 대응 조치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Belfast Telegraph",
+        "Iran International",
+        "The Jerusalem Post",
+        "The Telegraph",
+        "2026.11.11 05:36 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란 혁명수비대, 지하 미사일 기지 공개\n\n· 이란이 탄도미사일 사거리 2000km 제한을 해제했습니다 (알자지라)\n· 혁명수비대가 대규모 지하 미사일 도시를 공개했습니다 (텔레그래프·제루살렘 포스트)\n\n출처: 텔레그래프·알자지라·제루살렘 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 대규모 지하 미사일 기지를 공개했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 이란이 탄도미사일 사거리 2천km 제한을 해제했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "혁명수비대는 글로벌 대응을 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 미사일 추가 배치 현황은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이란이 공개한\n[[지하 미사일 기지]]",
+  "broll": [
+    "military missile underground",
+    "iran flag"
+  ],
+  "place_en": "Tehran, Iran"
+}

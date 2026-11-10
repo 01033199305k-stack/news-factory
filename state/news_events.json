@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_embassy_gulf_personnel_departure_2026",
-    "topic": "미국 정부, 걸프 지역 대사관 인력 철수 준비 외교관 및 가족 대상 출국 명령",
-    "slug": "2026-10-22-news-us-embassy-gulf-personnel-departure-2026",
-    "cluster": "CBMilwFBVV95cUxOTmNrdDh3aE5hNWE5ZlVFWG5FSXoyNGJCV0Vta05JMmt5UzE2OHE2di1nYU1LQTNJV3I4bGhISWpaOXAxeFpBWGJBQUQtRDIxTHJMaldTRDBvSUdFTDA0RjBac2kzdk9Wc29JM2ZwQU1xX3VUdE1NYVBKZWNjZk9QZUdTeXpMdUxSd0w3SVNGVEJnZUFEQ09V0gGcAUFVX3lxTFBmYVVJRVF6WlFyT2pmU2xLLU5YdzJjUlNSWGFrbkdOdk1oekp4MDdKdUJNUkUyWkpCRVk0OXZubnJqaGQzTEM0UmF2QlpVNzhPdm1MYVFXdU5CSnFvenAxNVpMQ05RYnNkRWNNazBKSmlQd0w3UnllU3V1a3dTQUluNU1OVUVvN2NvVnpLUnEydEdNVnlzWlV1OXpJSQ",
-    "badge": "breaking",
-    "at": 1792613268.5318305,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "nigeria_ebola_outbreak_2026",
     "topic": "나이지리아서 에볼라 확진 서아프리카 확산 비상",
     "slug": "2026-10-22-news-nigeria-ebola-outbreak-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794342603.1212542,
     "country": "말레이시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "iran_underground_missile_city_unveiled_2026",
+    "topic": "이란 혁명수비대, 지하 미사일 기지 공개 사거리 2000km 제한 해제 발표",
+    "slug": "2026-11-11-news-iran-underground-missile-city-unveiled-2026",
+    "cluster": "CBMihwFBVV95cUxQV2lsaWZybGFXRnBSbGJWekg0YlUwaGpCMjVEVk1faTluay1kSkdvbTZ6Zy1Db1JGeV9wMk9MQVY0OWRIWHpmWVVtYl9DRUFaTllubkZtdmxnSjNWUk9paTQxbFBOYjlMOTBYcW5SODQtcUc2SloxNlY5MGxuYm9SOThkX1BYTDA",
+    "badge": "breaking",
+    "at": 1794342992.2731898,
+    "country": "이란",
     "category": "국제"
   }
 ]
