@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "yemen-aden-houthi-missile-attack-2026",
-    "topic": "예멘 아덴서 폭발 후티 공격 주장",
-    "slug": "2026-10-21-news-yemen-aden-houthi-missile-attack-2026",
-    "cluster": "CBMirgFBVV95cUxPQUF4X21UdVc5X1hxWEhodUNuZnpFV3Q5SUppNHZxNG10UWNhTlVtSmhhdEFtOUN2ZS1VN253cUhqTGlDSlh6WllhU2VKU0ZITE5iWkwyMDBWazNxVU93YlloOVplVFlia3JRYmZrX3BuOVAwdTNfQmprQlhZUXhmRXl2RnV2RG10T3E1M19SYVRhVm9mbXhvVjIwbXRFTGFFdVZWbjB6SlNQOU1fZEHSAbMBQVVfeXFMTlpLaHNqS0d0bV9HdmNNZkhPUU45OHBqU1JMV1hLcDhwM01xUnY2S1JHSDRSS1JUTWdfWUxuY3hxUDdKUnA3Y0tNUy1tS1Iyc2JkdDRCQUpTbzJVMUEtZk5aUlpRUi1PdmNNSmhHb1JxVmRwWDNMblc0cUJmb1J3bnQ5X0ZOR092ZF9IZk9WMzVxendBNFpWVDVBUnBEalQzc2xiSWhZeGMxY0lVMDM4SEVIdDQ",
-    "badge": "breaking",
-    "at": 1792584434.7421746,
-    "country": "예멘",
-    "category": "국제"
-  },
-  {
     "event_key": "typhoon_champi_jeju_korea_2026",
     "topic": "제30호 태풍 ‘참피’ 경로 변경 제주 향해 북상 중",
     "slug": "2026-10-21-news-typhoon-champi-jeju-korea-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794294780.8295326,
     "country": "영국",
     "category": "국제"
+  },
+  {
+    "event_key": "china_trade_surplus_1trillion_2026",
+    "topic": "중국 무역수지 흑자 1조 달러 돌파",
+    "slug": "2026-11-10-news-china-trade-surplus-1trillion-2026",
+    "cluster": "CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw",
+    "badge": "brief",
+    "at": 1794305826.190328,
+    "country": "중국",
+    "category": "경제·과학"
   }
 ]

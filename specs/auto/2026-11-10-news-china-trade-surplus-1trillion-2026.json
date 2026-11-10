@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-10-news-china-trade-surplus-1trillion-2026",
+  "topic": "중국 무역수지 흑자 1조 달러 돌파",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 18:00 KST",
+  "source": "Bloomberg.com·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERkRW8yb3lmSkdLcXhab18xaE9fd0NDdUlVNkQ0ZDNLUFF0WXZSOERaTEhTRzNOYkV3T284X1VhdXktNjF1Ml9YNDFjWGJvSXE3OG90VWdUaW1YX2J1VkxySDdxRHAyNlFNdU85RlRvYw",
+    "related": [
+      [
+        "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+        "The New York Times"
+      ],
+      [
+        "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months",
+        "CNN"
+      ],
+      [
+        "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+        "CNBC"
+      ],
+      [
+        "Chinese Trade Surplus Tops $1 Trillion for Second Time Ever",
+        "Bloomberg.com"
+      ],
+      [
+        "China's export growth expected to have remained strong in October: Reuters poll",
+        "Reuters"
+      ]
+    ],
+    "event_key": "china_trade_surplus_1trillion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "중국 무역수지 흑자\n[[1조 달러]] 돌파",
+      "sub": "올해 10개월 만에 사상 최단기간 기록을 세웠습니다",
+      "chips": [
+        {
+          "k": "무역 흑자",
+          "v": "1조 달러"
+        },
+        {
+          "k": "소요 기간",
+          "v": "10개월"
+        }
+      ],
+      "alt": "중국 무역수지 흑자 1조 달러 돌파",
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n베이징",
+      "video_only": true,
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베이징"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사상 최단기간 달성",
+          "d": "올해 10개월 만에 무역수지 흑자 1조 달러를 넘겼습니다 (NYT·CNN)."
+        },
+        {
+          "t": "수출 호조 영향",
+          "d": "인공지능 분야 열풍과 수출 호조가 흑자 규모 확대를 이끌었습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "10개월 만에 무역 흑자 1조 달러 돌파",
+        "역대 최단기간 무역 흑자 기록"
+      ],
+      "unconfirmed": [
+        "향후 주요국 통상 마찰 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "2026.11.10 19:16 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 중국의 올해 무역수지 흑자가 10개월 만에 1조 달러를 돌파했습니다.\n\n· 올해 10개월 만에 1조 달러를 넘어 사상 최단기간 기록을 세웠습니다 (NYT·CNN).\n· 인공지능 관련 제품 수출 호조가 흑자 규모를 키웠습니다 (CNN).\n\n중국의 기록적인 무역 흑자 행진, 어떻게 보십니까?\n\n출처: 뉴욕타임스·CNN·CNBC·블룸버그·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국의 올해 무역수지 흑자가 10개월 만에 1조 달러를 넘어섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스는 중국이 사상 최단기간에 1조 달러 흑자를 달성했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인공지능 열풍 속에 수출 호조가 이어진 것이 원인으로 분석됩니다.",
+      "card": "points"
+    },
+    {
+      "text": "각국의 통상 압박 대응 방향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "중국의 기록적인 무역 흑자 행진, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[중국 무역]] 흑자\n기록 세운 이유",
+  "broll": [
+    "container ship port",
+    "cargo container crane"
+  ],
+  "place_en": "Beijing, China"
+}
