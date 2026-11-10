@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-11-news-us-charges-iranian-operatives-uk-airbase-plot-2026",
+  "topic": "미국, 테러 모의 3명 기소 공식 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 05:46 KST",
+  "source": "AP News·Axios·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxQM0EzV2laWjJ3YTZhWW4wRTlqaER3MnhEWlk4bG52RUIzeTlFYVFHekl2UWhFSExiUVNqUDktR25SQUVUdEU1eFlwQmJhNEV2YTRCQ1VxUEZiUjlGeHlpV0w0cENrd2NFbVgyMnZVcFRtSExnTU9lckVOTl9abERDc1hyLXdXWHhKM2pnRmRLM1RlM0h2MEFrU1c4b1ZrQQ",
+    "related": [
+      [
+        "US charges 3 men with plotting terror attacks, including planned assault on UK airbase",
+        "AP News"
+      ],
+      [
+        "Iranian operative used coded messages on NY jail call to direct failed UK terror plot",
+        "CNN"
+      ],
+      [
+        "US charges 3 Iran-backed operatives over attacks against Jews, plot targeting UK airbase",
+        "The Times of Israel"
+      ],
+      [
+        "3 charged with plotting terror attacks in U.S., Europe",
+        "Axios"
+      ],
+      [
+        "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "us_charges_iranian_operatives_uk_airbase_plot_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 테러 모의\n[[3명 기소]] 공식 발표",
+      "sub": "영국 공군기지 및 유대인 대상 공격 기획 혐의",
+      "chips": [
+        {
+          "k": "기소",
+          "v": "3명"
+        }
+      ],
+      "alt": "미국, 테러 모의 3명 기소 공식 발표",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "영국 기지 공격 모의",
+          "d": "피의자들은 영국 내 공군기지와 유대인 관련 시설 공격을 기획한 혐의를 받고 있습니다 (AP·Times of Israel)."
+        },
+        {
+          "t": "교도소 통화 지시",
+          "d": "뉴욕 교도소 통화에서 암호 메시지로 테러를 지시한 정황이 조사됐습니다 (CNN·Guardian)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 검찰 3명 기소 발표",
+        "영국 공군기지 테러 모의 혐의"
+      ],
+      "unconfirmed": [
+        "피의자 구체적 신원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Axios",
+        "CNN",
+        "The Guardian",
+        "The Times of Israel",
+        "2026.11.11 08:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 검찰이 테러 모의 혐의로 3명을 기소했습니다 (AP).\n\n· 영국 공군기지 및 유대인 대상 공격을 기획한 혐의입니다 (AP·Times of Israel).\n· 뉴욕 교도소 통화에서 암호 메시지로 테러 모의를 지시한 것으로 조사됐습니다 (CNN).\n· 미국과 유럽 내 시설이 공격 대상에 포함됐습니다 (Axios).\n\n출처: AP·CNN·Times of Israel·Axios·The Guardian 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 검찰이 테러 모의 혐의로 3명을 기소했다고 AP 통신이 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "피의자들은 영국 내 공군기지와 유대인 관련 시설 공격을 모의한 혐의를 받고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "CNN은 교도소 통화에서 암호 메시지로 테러를 지시한 정황이 확인됐다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "피의자들의 구체적인 신원과 세부 경위는 추가 확인 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[영국 기지]] 테러 모의\n기소 발표",
+  "broll": [
+    "court house exterior",
+    "military airbase"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
