@@ -1,52 +1,5 @@
 [
   {
-    "slug": "2026-11-10-news-bangladesh-faridpur-bus-arson-driver-killed-2026",
-    "event_ms": 1794286140000,
-    "category": "폭발·화재",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 방글라데시서 버스 방화 사건 발생, 버스 운전자 1명 사망\n\n· 파리드푸르와 가지푸르 등지에서 차량 7대가 불에 타 (The Business Standard)\n· 버스 방화로 운전자가 숨져 (The Daily Star)\n\n출처: The Times of India·The Daily Star·New Age BD·The Business Standard 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "폭발화재",
-      "방글라데시"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg",
-      "video.mp4"
-    ],
-    "done": {
-      "threads": {
-        "id": "18110057684360522",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfjOisEkSGm",
-        "kind": "carousel",
-        "at": 1794290918
-      },
-      "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
-        "at": 1794291139
-      },
-      "tiktok": {
-        "id": "7706421769988492564",
-        "permalink": "https://tiktok.com/@jigeum.segye/video/7706421769988492564",
-        "kind": "video",
-        "at": 1794291260
-      }
-    },
-    "attempts": {
-      "instagram": 2
-    },
-    "video": "video.mp4"
-  },
-  {
     "slug": "2026-11-10-news-us-evacuates-uk-airbases-iran-threat-2026",
     "event_ms": 1794286980000,
     "category": "국제",
@@ -82,11 +35,17 @@
         "permalink": "https://tiktok.com/@jigeum.segye/video/7706439129625595154",
         "kind": "video",
         "at": 1794295299
+      },
+      "threads": {
+        "id": "18361240837223054",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfjcjGYlWfo",
+        "kind": "carousel",
+        "at": 1794298259
       }
     },
     "attempts": {
       "threads": 1,
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
