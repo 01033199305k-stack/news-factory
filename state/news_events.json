@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia-frees-stephen-hubbard-2026",
-    "topic": "러시아 정부, 미국인 스티븐 허바드 석방 미국 특사 푸틴 회담 중 발표",
-    "slug": "2026-10-21-news-russia-frees-stephen-hubbard-2026",
-    "cluster": "CBMiugFBVV95cUxOcWdKN29CS0VtMWp1c05CSU5VZGFING9fd09zOXJ2VjVYZzdnWFRreEhOa0VBUUotNElRaXNJbDRGQnMwSFFXc041RlJfemRvb3daNVZMWlVQSm84V1pVZnZsN25CU2NZSFB4ZEZGT0JJTDZDenBfMlJDS1JlNFNiRHRURVlTQ1h6Zm9CY1A3eVRnX3BXazg3Mm9WZXBmcFdld2Vic1RxRDN0bkFGV29vU2I1bzZZaHQ1d1E",
-    "badge": "brief",
-    "at": 1792580847.3203843,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "yemen-aden-houthi-missile-attack-2026",
     "topic": "예멘 아덴서 폭발 후티 공격 주장",
     "slug": "2026-10-21-news-yemen-aden-houthi-missile-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794290866.5314343,
     "country": "방글라데시",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "us_evacuates_uk_airbases_iran_threat_2026",
+    "topic": "미군, 영국 기지서 항공기 대피",
+    "slug": "2026-11-10-news-us-evacuates-uk-airbases-iran-threat-2026",
+    "cluster": "CBMizwFBVV95cUxNMzNnNmRUcS14N1VQQlJQTnZJRGZTUDhqUkxuR3pTbWRGNnk2VGpEYVVtMVRRbGFxMUMtaGREN1ppc2hMODc5dVVYWHJDMFdDZGpxTml0NDlLNkRZazZzMG9vMEVNV2ZxM0pfXzJjdUpZLTVERFNtMVJCTU9ack8zUUY0QVluZDEtRUdRZG9nREpLT3RhS3VtRWcwSVREU1V6aG9Zb3R6azRITG5BWUlrdDVEWmJYQnhJd0VtMU81VG9KXzJCNEhsSTRXSnhSMHc",
+    "badge": "breaking",
+    "at": 1794294780.8295326,
+    "country": "영국",
+    "category": "국제"
   }
 ]

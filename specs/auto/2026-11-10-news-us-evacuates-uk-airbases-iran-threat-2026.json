@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-10-news-us-evacuates-uk-airbases-iran-threat-2026",
+  "topic": "미군, 영국 기지서 항공기 대피",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 14:03 KST",
+  "source": "The Times of India·WSJ·TWZ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizwFBVV95cUxNMzNnNmRUcS14N1VQQlJQTnZJRGZTUDhqUkxuR3pTbWRGNnk2VGpEYVVtMVRRbGFxMUMtaGREN1ppc2hMODc5dVVYWHJDMFdDZGpxTml0NDlLNkRZazZzMG9vMEVNV2ZxM0pfXzJjdUpZLTVERFNtMVJCTU9ack8zUUY0QVluZDEtRUdRZG9nREpLT3RhS3VtRWcwSVREU1V6aG9Zb3R6azRITG5BWUlrdDVEWmJYQnhJd0VtMU81VG9KXzJCNEhsSTRXSnhSMHc",
+    "related": [
+      [
+        "US evacuates aircraft from UK air base after Iran threat: Report",
+        "The Times of India"
+      ],
+      [
+        "Exclusive | U.S. Aircraft Evacuated From Second U.K. Base Due to Iran Threat",
+        "WSJ"
+      ],
+      [
+        "After Fairford withdrawal, US moves aircraft from another UK airbase over Iran threat",
+        "Telegraph India"
+      ],
+      [
+        "US evacuates military aircraft from 2nd British base due to threat from Iran — report",
+        "The Times of Israel"
+      ],
+      [
+        "Security Levels At U.S. Bases In England Raised Without Explanation",
+        "TWZ"
+      ]
+    ],
+    "event_key": "us_evacuates_uk_airbases_iran_threat_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미군, 영국 기지서\n[[항공기 대피]]",
+      "sub": "이란 위협 여파로 영국 내 2번째 공군기지 자산 대피 조치",
+      "chips": [],
+      "alt": "미군, 영국 기지서 항공기 대피",
+      "map": {
+        "lat": 52.5310214,
+        "lon": -1.2649062,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n잉글랜드",
+      "video_only": true,
+      "map": {
+        "lat": 52.5310214,
+        "lon": -1.2649062,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "잉글랜드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이란 위협 여파",
+          "d": "이란의 위협에 대비해 영국 내 미군 항공기가 대피했습니다 (WSJ·타임스 오브 인디아)."
+        },
+        {
+          "t": "경계 태세 격상",
+          "d": "영국 내 미군 기지들의 경계 등급이 설명 없이 상향됐습니다 (TWZ)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국 기지서 미군 항공기 대피",
+        "미군 기지 경계 등급 상향"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "철수 항공기 정확한 수량"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "TWZ",
+        "Telegraph India",
+        "The Times of India",
+        "The Times of Israel",
+        "WSJ",
+        "2026.11.10 16:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미군이 이란의 위협에 대응해 영국 공군기지에서 군용기 철수를 진행했습니다.\n\n· 이란 측 위협 우려로 영국 내 두 번째 공군기지에서 미군 항공기가 철수했습니다 (WSJ·타임스 오브 인디아)\n· 영국 내 미군 기지의 경계 등급도 명확한 설명 없이 상향 조정됐습니다 (TWZ)\n\n미군의 이번 기지 대피 조치에 대해 어떻게 생각하십니까?\n\n출처: WSJ·타임스 오브 인디아·TWZ 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미군이 이란의 위협에 대비해 영국 공군기지에서 군용기들을 철수시켰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "영국 내 공군기지에서 미군 자산 대피 조치가 진행됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "월스트리트저널은 이란의 위협으로 인해 항공기 대피가 이뤄졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미군의 이번 기지 대피 조치, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "영국 기지서 [[군용기]]\n철수한 이유",
+  "broll": [
+    "military airbase hangar",
+    "fighter jet runway"
+  ],
+  "place_en": "England, United Kingdom"
+}
