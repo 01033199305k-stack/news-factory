@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "php-rce-vulnerabilities-emergency-patch",
-    "topic": "워드프레스 등 비상 PHP 취약점 발견",
-    "slug": "2026-10-21-news-php-rce-vulnerabilities-emergency-patch",
-    "cluster": "CBMigAFBVV95cUxNbjN3SkNMZnRrQWkwSmJjQWtoOFJQeHN3VWM0VG84eGJwcERUUFRVelVoU1QxM19FRXdwYmdkVVpmNjJjWkhhQXFkeHh5bmxwSmp3NmRaMjdnNGdwV2hkNDY1TENadEFiSUhESy1ydVItYVl4RUFQdVV2M0R3d0Uycg",
-    "badge": "brief",
-    "at": 1792567221.9651694,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "france-mirage-fighter-jet-crash-2026",
     "topic": "프랑스 전투기 훈련 중 추락 1명 사망·1명 실종",
     "slug": "2026-10-21-news-france-mirage-fighter-jet-crash-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1794273074.4136863,
     "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "france_accuses_iran_supermarket_fridge_hack_2026",
+    "topic": "프랑스, 슈퍼마켓 해킹 배후로 이란 공식 지목",
+    "slug": "2026-11-10-news-france-accuses-iran-supermarket-fridge-hack-2026",
+    "cluster": "CBMitAFBVV95cUxNaDBnQlE3aDk3bFMwa25Ec21wc0ZRMWVMNmRoNUt3QVVqZWZGZUttOFYteURiaVZxa0RJbko3cmxKS1RBX3NtUHlsRmw0VDB4ZXdCTGZHR0ZVc2pVNHBoVVQzX01kQy03TVZrTV9XbWxvZEI1eUI2TjVDZFJnZFk3RHk3Rzk2czlzbUdQdlYtSERiVVVjOW05QXJhZ0pPT09UN1NIUU5STEd6eHEyZjRkd2FmQnI",
+    "badge": "brief",
+    "at": 1794283876.8002646,
+    "country": "프랑스",
     "category": "국제"
   }
 ]
