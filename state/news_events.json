@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia_su30_fighter_jet_crash_kaliningrad_2026",
-    "topic": "러시아 칼리닌그라드서 전투기 추락",
-    "slug": "2026-10-21-news-russia-su30-fighter-jet-crash-kaliningrad-2026",
-    "cluster": "CBMikgFBVV95cUxPZDN5RUV0S2NxQzg1M3hSTWttZUE2NzdJWkwtdHdENE4zX1FieW04TFF2Yk5lbU5waUl4blNRaDl6bTRUcG1oUFpsRXFueWFQM0dYLWxmMm5vYTF6UFRXRFAxUnlWdXkxQ0xsT1lYRkFfWWtOQTVWbTNnMVVad25tUU9vbWxfNDRsYXRBbUxaVENwZ9IBlwFBVV95cUxNRFRwR0FXRERFMk41WVh4TnBVSUJyWnJ1VEFVcmczeGZFWnpMa2RZdWU1ZFdRS1FjQWRJemgydnJZY3VQZG5hVkphcW16M3M1ZmF1YVhRd1hfS0FUdFBlTFdUWVNCaUphcUVrYmc0cS1wZ3VRUDlNV2hydXdwVGVVWkJacjNvWVdGM096TXNmWUZIWTJOOUhV",
-    "badge": "breaking",
-    "at": 1792602506.5175,
-    "country": "러시아",
-    "category": "사고"
-  },
-  {
     "event_key": "jersey_haut_du_mont_explosion_guilty_2026",
     "topic": "저지섬 가스 폭발 사고 가스 노동자 2명 유죄",
     "slug": "2026-10-22-news-jersey-haut-du-mont-explosion-guilty-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794323904.1272235,
     "country": "콩고민주공화국",
+    "category": "국제"
+  },
+  {
+    "event_key": "us_army_soldier_arrested_uk_russia_espionage_2026",
+    "topic": "영국서 체포된 미군 병사 러시아 연루 혐의 조사",
+    "slug": "2026-11-11-news-us-army-soldier-arrested-uk-russia-espionage-2026",
+    "cluster": "CBMijwFBVV95cUxQUlBQaE11cnl4a0VjOVp6cHJyRGNLbUxNTHg5dXNlakpXRTJuWjdjVF8wTUFBY0xUS1dHQXhiYjdWcFh3WnM3Yjh4bUJFaERJQV8xUjRUVFhEVmxISWxYaEVSOEVGQ0Fac2hMZU9QVDFyc0RaWjExc2ZGNTBDaEY1T3VYVnNLRWwtSG8zQmYtVQ",
+    "badge": "breaking",
+    "at": 1794341526.9185243,
+    "country": "영국",
     "category": "국제"
   }
 ]

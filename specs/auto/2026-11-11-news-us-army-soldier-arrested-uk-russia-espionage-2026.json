@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-11-news-us-army-soldier-arrested-uk-russia-espionage-2026",
+  "topic": "영국서 체포된 미군 병사 러시아 연루 혐의 조사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 04:20 KST",
+  "source": "BBC·CNN·NBC News 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxQUlBQaE11cnl4a0VjOVp6cHJyRGNLbUxNTHg5dXNlakpXRTJuWjdjVF8wTUFBY0xUS1dHQXhiYjdWcFh3WnM3Yjh4bUJFaERJQV8xUjRUVFhEVmxISWxYaEVSOEVGQ0Fac2hMZU9QVDFyc0RaWjExc2ZGNTBDaEY1T3VYVnNLRWwtSG8zQmYtVQ",
+    "related": [
+      [
+        "US Army soldier arrested in UK for alleged espionage related to Russia",
+        "CNN"
+      ],
+      [
+        "UK counter-terrorism police arrest member of US army with alleged links to Russia",
+        "The Guardian"
+      ],
+      [
+        "Senior US soldier arrested by UK counter-terror police",
+        "BBC"
+      ],
+      [
+        "U.S. Army soldier arrested in U.K. on suspicion of working with Russian intelligence",
+        "NBC News"
+      ],
+      [
+        "Member of US Army arrested by UK counter-terror police",
+        "BBC"
+      ]
+    ],
+    "event_key": "us_army_soldier_arrested_uk_russia_espionage_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국서 체포된 미군 병사\n[[러시아 연루]] 혐의 조사",
+      "sub": "영국 대테러 경찰이 미 육군 현역 군인을 체포했습니다.",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "미군 병사"
+        },
+        {
+          "k": "혐의",
+          "v": "러시아 스파이"
+        }
+      ],
+      "alt": "영국서 체포된 미군 병사 러시아 연루 혐의 조사",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "영국 경찰",
+          "d": "영국 대테러 경찰이 러시아와 연계된 혐의로 미 육군 소속 군인을 체포했습니다 (CNN·BBC)."
+        },
+        {
+          "t": "체포 신원",
+          "d": "체포된 이는 미 육군 현역 군인으로 확인됐습니다 (가디언·NBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 육군 병사 체포",
+        "영국 대테러 경찰 작전",
+        "러시아 정보기관 연계 혐의"
+      ],
+      "unconfirmed": [
+        "구체적인 간첩 행위 내용",
+        "추가 공범 존재 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "NBC News",
+        "The Guardian",
+        "2026.11.11 05:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국서 체포된 미군 병사, 러시아 연루 혐의 조사\n\n· 영국 대테러 경찰이 러시아와 연계된 혐의로 미 육군 소속 군인을 체포했습니다 (CNN·BBC)\n· 체포된 이는 미 육군 현역 군인으로 확인됐습니다 (가디언·NBC)\n\n이번 미군 병사 스파이 체포 사건이 양국 안보에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: CNN·BBC·가디언·NBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국에서 러시아와 연계된 혐의로 미군 병사가 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "영국 대테러 경찰이 러시아 연루 혐의로 미 육군 군인을 붙잡았다고 외신들이 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "체포된 군인의 구체적인 스파이 혐의 내용은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미군 병사 체포 사건, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "미군 병사 체포"
+    }
+  ],
+  "hook": "영국서 체포된\n[[미군 병사]]의 정체",
+  "broll": [
+    "police car street",
+    "military base gate"
+  ],
+  "place_en": "London, United Kingdom"
+}
