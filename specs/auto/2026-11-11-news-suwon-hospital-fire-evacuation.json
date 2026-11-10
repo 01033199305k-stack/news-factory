@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-11-news-suwon-hospital-fire-evacuation",
+  "topic": "수원 권선구 종합병원 화재 환자 등 159명 대피",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 04:37 KST",
+  "source": "KBS 뉴스·MBC 뉴스·SBS 뉴스 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9XY2JrelQ5WlZvM2IyZm9PTE5hZXJ4aUVyV0pKRTAxeVoyVU5GOWl0UUt2WEFkV09tVlZWSjBlRWMtczlQT3d2UGszOEJ1YnFGTkx6ZXRJYlo5dVU",
+    "related": [
+      [
+        "수원 권선구 종합병원에서 불…다친 사람 없어",
+        "KBS 뉴스"
+      ],
+      [
+        "달리던 화물차 불…병원 창고 화재로 150여 명 대피",
+        "KBS 뉴스"
+      ],
+      [
+        "새벽 수원 호매실동 종합병원 화재...159명 대피",
+        "YTN"
+      ],
+      [
+        "수원 권선구 병원 화재…150여 명 대피",
+        "SBS 뉴스"
+      ],
+      [
+        "한밤중 경기 수원 종합병원 불‥입원환자 등 159명 대피",
+        "MBC 뉴스"
+      ]
+    ],
+    "event_key": "suwon_hospital_fire_evacuation"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "수원 권선구 종합병원 화재\n환자 등 [[159명]] 대피",
+      "sub": "수원 종합병원 화재로 인명 피해 없이 대피 소동이 빚어졌습니다",
+      "chips": [
+        {
+          "k": "대피 인원",
+          "v": "159명"
+        },
+        {
+          "k": "인명 피해",
+          "v": "없음"
+        }
+      ],
+      "alt": "수원 권선구 종합병원 화재 환자 등 159명 대피",
+      "map": {
+        "lat": 37.2633325,
+        "lon": 127.0287472,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n수원",
+      "video_only": true,
+      "map": {
+        "lat": 37.2633325,
+        "lon": 127.0287472,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "수원"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "화재 발생",
+          "d": "수원 권선구 종합병원에서 불이 났다고 보도되었습니다."
+        },
+        {
+          "t": "대피 상황",
+          "d": "입원 환자 등 159명이 대피했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "수원 권선구 병원 화재 발생",
+        "입원환자 등 159명 대피",
+        "다친 사람 없음"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "SBS 뉴스",
+        "YTN",
+        "2026.11.11 07:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 수원 권선구 종합병원 화재 환자 등 159명 대피\n\n· 수원 권선구 종합병원에서 불이 났습니다\n· 입원 환자 등 159명이 대피했으며 다친 사람은 없다고 전해졌습니다\n\n출처: KBS·YTN·SBS·MBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "수원의 한 종합병원에서 불이 나서 150명이 넘는 인원이 대피했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "입원 환자 등 159명이 대피했다고 보도됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "다행히 다친 사람은 없는 것으로 확인됐으며, 정확한 화재 원인은 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "수원 권선구 종합병원 화재\n환자 등 [[159명]] 대피",
+  "broll": [
+    "hospital building night",
+    "fire engine emergency"
+  ],
+  "place_en": "Suwon, South Korea"
+}

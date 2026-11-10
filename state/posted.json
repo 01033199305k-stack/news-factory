@@ -38315,5 +38315,59 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794345761
+  },
+  {
+    "slug": "2026-11-11-news-russia-arkhangelsk-railway-bridge-collapse",
+    "event_ms": 1794340086000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아 아르한겔스크주 철도교 붕괴\n화물열차 탈선 및 여객 운행 차질\n\n· 러시아 아르한겔스크 지역에서 철도 교량이 무너졌습니다 (Meduza)\n· 교량이 무너지면서 화물열차가 탈선하고 여객 열차 운행이 지연됐습니다 (UNITED24 Media·Meduza)\n\n출처: UNITED24 Media·Meduza·The Moscow Times 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18357523429169611",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfk61YvCd7d",
+        "kind": "carousel",
+        "at": 1794347692
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794347792
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794348091
+      },
+      "tiktok": {
+        "id": "7706668276918553864",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706668276918553864",
+        "kind": "video",
+        "at": 1794348669
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794348679
   }
 ]
