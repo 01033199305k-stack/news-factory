@@ -1,0 +1,130 @@
+{
+  "slug": "2026-11-11-news-california-dead-seabirds-2026",
+  "topic": "미국 캘리포니아 해안가서 바닷새 2,000마리 폐사",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 04:09 KST",
+  "source": "The New York Times·Yahoo News·Demokratis.co.id 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxPZElFOENLNndlbm9ZaWRJdVNYVmdNLUZ0R2w4dkFldF81cXUxOE1lZjluTFNsRldtNkxBTk81b0xiQ1phdm5adVVKVDU1NWdFNUF1aV82cUtGZVQ5cF9Kb0xxQVhCMGlTNnNaWWRqbzY0WENEbkhqYmxkS3I2WDY2ZVVn",
+    "related": [
+      [
+        "Why Nearly 2,000 Dead Seabirds Have Washed Up on the California Coast",
+        "The New York Times"
+      ],
+      [
+        "Across a Fevered Pacific Ocean, Seabirds Are Starving",
+        "National Geographic"
+      ],
+      [
+        "Nearly 2,000 dead seabirds wash ashore in California. Scientists point to the ocean",
+        "Yahoo"
+      ],
+      [
+        "Starving Seabirds Wash Up Along California Central Coast",
+        "Demokratis.co.id"
+      ]
+    ],
+    "event_key": "california_dead_seabirds_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 캘리포니아 해안가서\n바닷새 [[2,000마리]] 폐사",
+      "sub": "태평양 수온 변화와 먹이 부족이 원인으로 지목됐습니다",
+      "chips": [
+        {
+          "k": "폐사",
+          "v": "2,000마리"
+        }
+      ],
+      "alt": "미국 캘리포니아 해안가서 바닷새 2,000마리 폐사",
+      "map": {
+        "lat": 32.7092387,
+        "lon": -117.1575897,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아",
+      "video_only": true,
+      "map": {
+        "lat": 32.7092387,
+        "lon": -117.1575897,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해안가 발견",
+          "d": "미국 캘리포니아 해안가에서 죽은 바닷새가 2,000마리 가량 밀려왔습니다 (New York Times·Yahoo)."
+        },
+        {
+          "t": "과학자 분석",
+          "d": "과학자들은 태평양 해수면 온도 상승으로 바닷새들이 먹이를 구하지 못한 것으로 분석했습니다 (National Geographic)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "바닷새 2,000마리 가량 폐사 (New York Times·Yahoo)",
+        "캘리포니아 해안가 발견"
+      ],
+      "unconfirmed": [
+        "정확한 생태계 영향 범위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Demokratis.co.id",
+        "National Geographic",
+        "The New York Times",
+        "Yahoo",
+        "2026.11.11 06:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 캘리포니아 해안가서 바닷새 2,000마리 가량 폐사\n\n· 미국 캘리포니아 해안가에서 죽은 바닷새가 대거 밀려왔습니다 (New York Times·Yahoo)\n· 과학자들은 태평양 수온 변화로 새들이 굶어 죽은 것으로 분석했습니다 (National Geographic)\n\n출처: New York Times·National Geographic·Yahoo 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아 해안가에서 바닷새 2,000마리 가량이 죽은 채 발견됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스는 태평양 수온 상승으로 새들이 먹이를 구하지 못해 굶어 죽었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 생태계 영향 범위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "캘리포니아 해안가서\n발견된 [[2,000마리]]는?",
+  "broll": [
+    "ocean waves beach",
+    "dead seabirds sand"
+  ],
+  "place_en": "California Coast"
+}

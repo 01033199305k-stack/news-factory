@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "nigeria_ebola_outbreak_2026",
-    "topic": "나이지리아서 에볼라 확진 서아프리카 확산 비상",
-    "slug": "2026-10-22-news-nigeria-ebola-outbreak-2026",
-    "cluster": "CBMiXkFVX3lxTE90ZDljYVVhMTNUOGhidUR5V3BmZzN0SEY0OEpRZEJlVnZ1cE4wc2QyYW5mc3BzYU4zWWJvRm1ELUFsdmRhWm1lSnlNTUh4QlFKdXBXSjFOVmFFRURCTWc",
-    "badge": "breaking",
-    "at": 1792616800.3794324,
-    "country": "나이지리아",
-    "category": "재난"
-  },
-  {
     "event_key": "kenya_ebola_outbreak_nine_cases_2026",
     "topic": "케냐서 에볼라 확진 누적 환자 9명으로",
     "slug": "2026-10-22-news-kenya-ebola-outbreak-nine-cases-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794342992.2731898,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "california_dead_seabirds_2026",
+    "topic": "미국 캘리포니아 해안가서 바닷새 2,000마리 폐사",
+    "slug": "2026-11-11-news-california-dead-seabirds-2026",
+    "cluster": "CBMiggFBVV95cUxPZElFOENLNndlbm9ZaWRJdVNYVmdNLUZ0R2w4dkFldF81cXUxOE1lZjluTFNsRldtNkxBTk81b0xiQ1phdm5adVVKVDU1NWdFNUF1aV82cUtGZVQ5cF9Kb0xxQVhCMGlTNnNaWWRqbzY0WENEbkhqYmxkS3I2WDY2ZVVn",
+    "badge": "breaking",
+    "at": 1794344784.139261,
+    "country": "미국",
+    "category": "재난"
   }
 ]
