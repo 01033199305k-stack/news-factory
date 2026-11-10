@@ -37944,5 +37944,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794319826
+  },
+  {
+    "slug": "2026-11-10-news-gcc-joint-military-command-kuwait",
+    "event_ms": 1794312935000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 걸프협력회의, 쿠웨이트에 통합 군사령부 본부 설치 승인\n\n· 걸프협력회의 국방장관들이 쿠웨이트 내 통합 군사령부 본부 설치와 병력 배치를 승인했습니다 (걸프 비즈니스·알자지라)\n· 최근 이어진 이란의 공격에 대응하기 위한 방어 조치입니다 (타임스 오브 이스라엘)\n\n질문: 걸프 국가들의 이번 군사 통합 조치, 어떻게 보십니까?\n출처: 알자지라·아랍 뉴스·걸프 비즈니스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "쿠웨이트"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18103489019453218",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfkFbdGGwL3",
+        "kind": "carousel",
+        "at": 1794319687
+      },
+      "youtube": {
+        "id": "pSfe9lCBcxI",
+        "permalink": "https://youtube.com/shorts/pSfe9lCBcxI",
+        "kind": "shorts",
+        "at": 1794323453
+      },
+      "tiktok": {
+        "id": "7706560653338610996",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706560653338610996",
+        "kind": "video",
+        "at": 1794323669
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794324130
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794324130
   }
 ]

@@ -1,0 +1,131 @@
+{
+  "slug": "2026-11-10-news-drc-mutiny-soldiers-death-penalty-2026",
+  "topic": "콩고민주공화국 군인 66명 사형",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 21:50 KST",
+  "source": "BBC·CBS News·Africanews 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiiwFBVV95cUxPSjVOS0xsWkJOSG44NjhUVnlmVjBuTXRUb05wOEtGZ2w5Tnh4VXhaV3MtYURnVnlHaFpQSVZIeVB4ZDdPcllnTW52VXFabkRFaVFveF9YbkhhT1huUi13SUtCV0VNcVQzd0gyWmtqa0x1N1RaWENoOUpFZUlHRm1ZTjgzZklNbV9hYjk0",
+    "related": [
+      [
+        "Congo sentences 66 soldiers to death for cowardice and mutiny after they allegedly fled fighting with rebels",
+        "CBS News"
+      ],
+      [
+        "DR Congo conflict: At least 66 Congolese soldiers sentenced to death for cowardice",
+        "BBC"
+      ],
+      [
+        "DR Congo sentences 66 soldiers to death for fleeing rebel fighting",
+        "Africanews"
+      ],
+      [
+        "DR Congo: 66 soldiers sentenced to death for cowardice in conflict with FRN rebels",
+        "Deutsche Welle"
+      ],
+      [
+        "Kotu ta yanke wa sojoji 66 hukuncin kisa a Kongo",
+        "Aminiya"
+      ]
+    ],
+    "event_key": "drc_mutiny_soldiers_death_penalty_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "콩고민주공화국\n군인 [[66명]] 사형",
+      "sub": "반군과의 교전 중 퇴각한 혐의로 군사재판서 사형 선고",
+      "chips": [
+        {
+          "k": "사형 선고",
+          "v": "66명"
+        }
+      ],
+      "alt": "콩고민주공화국 군인 66명 사형",
+      "map": {
+        "lat": -4.3196982,
+        "lon": 15.3424196,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "콩고민주공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "콩고민주공화국\n킨샤사",
+      "video_only": true,
+      "map": {
+        "lat": -4.3196982,
+        "lon": 15.3424196,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "킨샤사"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "판결 이유",
+          "d": "반군과의 전투 중 퇴각해 항명 및 비겁 행위를 저지른 혐의입니다 (BBC·CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "군인 66명 사형 선고",
+        "항명 및 비겁 행위 혐의"
+      ],
+      "unconfirmed": [
+        "판결에 대한 군 당국의 후속 조치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Africanews",
+        "Aminiya",
+        "BBC",
+        "CBS News",
+        "Deutsche Welle",
+        "2026.11.11 00:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 콩고민주공화국 군인 66명이 사형을 선고받았습니다.\n\n· 반군과의 전투 중 퇴각해 항명 및 비겁 혐의가 적용됐습니다 (BBC·CBS)\n· 해당 군인들은 군사재판에서 유죄 판결을 받았습니다 (Africanews·DW)\n\n출처: BBC·CBS·Africanews·DW·Aminiya 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "콩고민주공화국에서 군인 66명이 사형을 선고받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC와 CBS 등은 이들이 반군과의 교전 중 퇴각해 항명 혐의를 받았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "군사재판부는 이들의 행동을 비겁 행위로 간주하고 사형을 판결했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "콩고 군인 [[66명]]이\n사형 선고?",
+  "broll": [
+    "military court",
+    "congolese soldiers"
+  ],
+  "place_en": "Kinshasa, DR Congo"
+}

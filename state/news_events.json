@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "australia_politician_car_attack_2026",
-    "topic": "호주 정치인, 차량 공격으로 두 다리 잃어",
-    "slug": "2026-10-22-news-australia-politician-car-attack-2026",
-    "cluster": "CBMinAFBVV95cUxPbVd2UnVhbVJ3OC1vUXFFU2RfZ1NTNU1uY2xPNFpkVi12X3RIcHpzM2NUcWZBNjJxNkJsRHJTZzY1bEVfanczWDhxVGlaTnNnVUFOVDZzc0RabjJ3ZTN4MzhyUmdYOW5FSE9QTkRVdDFQYW1mdVNfMGd6cW01TExoUnFlSjVFX1l2UWJhcG5nWVFQckNuUm9EUml4WFM",
-    "badge": "breaking",
-    "at": 1792602494.0566583,
-    "country": "호주",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "russia_su30_fighter_jet_crash_kaliningrad_2026",
     "topic": "러시아 칼리닌그라드서 전투기 추락",
     "slug": "2026-10-21-news-russia-su30-fighter-jet-crash-kaliningrad-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794322939.2257314,
     "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "drc_mutiny_soldiers_death_penalty_2026",
+    "topic": "콩고민주공화국 군인 66명 사형",
+    "slug": "2026-11-10-news-drc-mutiny-soldiers-death-penalty-2026",
+    "cluster": "CBMiiwFBVV95cUxPSjVOS0xsWkJOSG44NjhUVnlmVjBuTXRUb05wOEtGZ2w5Tnh4VXhaV3MtYURnVnlHaFpQSVZIeVB4ZDdPcllnTW52VXFabkRFaVFveF9YbkhhT1huUi13SUtCV0VNcVQzd0gyWmtqa0x1N1RaWENoOUpFZUlHRm1ZTjgzZklNbV9hYjk0",
+    "badge": "breaking",
+    "at": 1794323904.1272235,
+    "country": "콩고민주공화국",
     "category": "국제"
   }
 ]
