@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france-mirage-fighter-jet-crash-2026",
-    "topic": "프랑스 전투기 훈련 중 추락 1명 사망·1명 실종",
-    "slug": "2026-10-21-news-france-mirage-fighter-jet-crash-2026",
-    "cluster": "CBMitgFBVV95cUxOUHlpYVI1d09kRVVmeHl5VVVSNGF5RDM0Xy1KdVlET0I3OVBod0lqZkVfZm1EamY3Y0NjSzVLTGtQNHRzX0ptRlZaTGwxWVNWbDBSdFYyODNJU3ZuMG5kX1Rfcm9nZ3hlZXJTd05jU3lFUjB3WUZweWozYnBHTEV1S1J0SFpzOGF4QnJQTWl2MTQwaTk2RkUyTC1QV2VndW5aeVBEZlBrT2c1Q2NJYjhibG52UVRldw",
-    "badge": "breaking",
-    "at": 1792573835.7717383,
-    "country": "프랑스",
-    "category": "사고"
-  },
-  {
     "event_key": "russia-frees-stephen-hubbard-2026",
     "topic": "러시아 정부, 미국인 스티븐 허바드 석방 미국 특사 푸틴 회담 중 발표",
     "slug": "2026-10-21-news-russia-frees-stephen-hubbard-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794283876.8002646,
     "country": "프랑스",
     "category": "국제"
+  },
+  {
+    "event_key": "bangladesh_faridpur_bus_arson_driver_killed_2026",
+    "topic": "방글라데시서 버스 방화 사건 발생 버스 운전자 1명 사망",
+    "slug": "2026-11-10-news-bangladesh-faridpur-bus-arson-driver-killed-2026",
+    "cluster": "CBMi5wFBVV95cUxPMmFoSTlOald1dGcxZXNVdENXeFRhaGh6eFctNXlvdTdzNEF3cF9RcWloWXJoNDRJTjgxbEhWeHRRR2FoaEoyY0VRVmdlbWRVNmpmTU9hblVDcFhXRWh1VXlQZVhEdzZyZXpxR1dtZmNobFBxVVZzcVZhcjF6ZGVnSjF2T0QzRDBOWnNjVWFheTVWUkoxZmRnbE9fWU9fV2IwOG55d0Y2RUFlTy1VMHJQR2xnRDlBeDVPSDdPWnJnQUVNTXZXRWtSMHBGYW9ibUJmQTN3blp6U1NqUkdmQjhCbHRtei1oY2c",
+    "badge": "breaking",
+    "at": 1794290866.5314343,
+    "country": "방글라데시",
+    "category": "폭발·화재"
   }
 ]

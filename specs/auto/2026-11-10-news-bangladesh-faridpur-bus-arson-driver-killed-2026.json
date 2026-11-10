@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-10-news-bangladesh-faridpur-bus-arson-driver-killed-2026",
+  "topic": "방글라데시서 버스 방화 사건 발생 버스 운전자 1명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 13:49 KST",
+  "source": "The Times of India·Jagonews24·New Age BD 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi5wFBVV95cUxPMmFoSTlOald1dGcxZXNVdENXeFRhaGh6eFctNXlvdTdzNEF3cF9RcWloWXJoNDRJTjgxbEhWeHRRR2FoaEoyY0VRVmdlbWRVNmpmTU9hblVDcFhXRWh1VXlQZVhEdzZyZXpxR1dtZmNobFBxVVZzcVZhcjF6ZGVnSjF2T0QzRDBOWnNjVWFheTVWUkoxZmRnbE9fWU9fV2IwOG55d0Y2RUFlTy1VMHJQR2xnRDlBeDVPSDdPWnJnQUVNTXZXRWtSMHBGYW9ibUJmQTN3blp6U1NqUkdmQjhCbHRtei1oY2c",
+    "related": [
+      [
+        "Bus driver burnt alive as arson attacks, crude bomb blasts rock Bangladesh",
+        "The Times of India"
+      ],
+      [
+        "Driver killed as miscreants set parked bus on fire in Faridpur",
+        "The Daily Star"
+      ],
+      [
+        "Driver burnt to death as arsonists set bus on fire in Faridpur",
+        "New Age BD"
+      ],
+      [
+        "7 vehicles torched in Faridpur, Gazipur and Savar overnight; bus driver killed in Faridpur",
+        "The Business Standard"
+      ],
+      [
+        "Sleeping driver never wakes up after miscreants torch parked bus",
+        "Jagonews24"
+      ]
+    ],
+    "event_key": "bangladesh_faridpur_bus_arson_driver_killed_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "방글라데시서 버스 방화 사건 발생\n[[버스 운전자]] 1명 사망",
+      "sub": "파리드푸르 등 지역에서 차량 7대가 불에 타",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "방화",
+          "v": "차량 7대"
+        }
+      ],
+      "alt": "방글라데시서 버스 방화 사건 발생 버스 운전자 1명 사망",
+      "map": {
+        "lat": 23.6040182,
+        "lon": 89.8415542,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "방글라데시"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "방글라데시\n파리드푸르",
+      "video_only": true,
+      "map": {
+        "lat": 23.6040182,
+        "lon": 89.8415542,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "파리드푸르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "차량 연쇄 방화",
+          "d": "파리드푸르와 가지푸르, 사바르 등지에서 하룻밤 사이 차량 7대가 불탔다고 The Business Standard 등이 보도했습니다."
+        },
+        {
+          "t": "운전자 사망",
+          "d": "파리드푸르에서 버스 방화로 운전자가 숨졌다고 The Daily Star 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "버스 운전자 1명 사망 (The Daily Star·New Age BD)",
+        "파리드푸르 등지서 차량 7대 방화 (The Business Standard)"
+      ],
+      "unconfirmed": [
+        "방화 용의자 신원 및 범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Jagonews24",
+        "New Age BD",
+        "The Business Standard",
+        "The Daily Star",
+        "The Times of India",
+        "2026.11.10 15:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 방글라데시서 버스 방화 사건 발생, 버스 운전자 1명 사망\n\n· 파리드푸르와 가지푸르 등지에서 차량 7대가 불에 타 (The Business Standard)\n· 버스 방화로 운전자가 숨져 (The Daily Star)\n\n출처: The Times of India·The Daily Star·New Age BD·The Business Standard 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "방글라데시에서 방화 사건이 일어나 버스 운전자 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파리드푸르와 가지푸르 등 여러 지역에서 차량 7대가 불에 탔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "The Daily Star 등 외신은 방화로 운전자가 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "방화범들의 신원과 정확한 범행 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "방글라데시서 일어난\n[[버스 방화]] 사건",
+  "broll": [
+    "bus fire night",
+    "burnt vehicle street"
+  ],
+  "place_en": "Faridpur, Bangladesh"
+}
