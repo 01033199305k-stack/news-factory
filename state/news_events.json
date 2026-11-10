@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "kenya_ebola_outbreak_nine_cases_2026",
-    "topic": "케냐서 에볼라 확진 누적 환자 9명으로",
-    "slug": "2026-10-22-news-kenya-ebola-outbreak-nine-cases-2026",
-    "cluster": "CBMikgFBVV95cUxOWGNQWXpJcVJSWjI2TnFFREZEa2ltSEw5XzNGcmhhS3ZObW8zNlBRU0VlNTVqcDk4Z3R2ZDVwRldvS3hyZktCczA2Z0ZsWDIzQU1DeWtBNWlrbU9WYnctSl9PVnZHZWVyZXB3bFpWazVvTS1uZGJLaGFnSWpucWxhbGs3R2RlZGhMc3NYVDJyclJndw",
-    "badge": "breaking",
-    "at": 1792620518.638602,
-    "country": "케냐",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "saudi_arabia_airport_attack_2026",
     "topic": "사우디 킹 파드 공항 공격 사망 1명·부상 8명 발생",
     "slug": "2026-10-22-news-saudi-arabia-airport-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794344784.139261,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "russia_arkhangelsk_railway_bridge_collapse",
+    "topic": "러시아 아르한겔스크주 철도교 붕괴 화물열차 탈선 및 여객 운행 차질",
+    "slug": "2026-11-11-news-russia-arkhangelsk-railway-bridge-collapse",
+    "cluster": "CBMikwFBVV95cUxNRmRrQW02Qllrd2ZMV09QTGVNOEpKVmhheDM2MDRIWlRhc0NVcmVILVZoV21weDFaTXdmMGtCWTM5YmtSUWcwdU5jbXRrUE5pR3FMSm1yVGx2NC1yYjBLUjFGak45TGg3U2N4amhMVjFpNjY5RENEWlZwX0tjLTdpTnJ3dGhEMFY5Y1RhSGR2Z01qSE0",
+    "badge": "breaking",
+    "at": 1794347641.2036448,
+    "country": "러시아",
+    "category": "사고"
   }
 ]
