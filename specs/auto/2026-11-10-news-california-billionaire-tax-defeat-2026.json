@@ -1,0 +1,138 @@
+{
+  "slug": "2026-11-10-news-california-billionaire-tax-defeat-2026",
+  "topic": "캘리포니아주 억만장자세 부결",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 20:30 KST",
+  "source": "CNN·NPR·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixgFBVV95cUxPMkoteDFpQnRRQ015c3VEMDQ2UE5aUkpPTk1QbHc4Z0djNUtrZTdrLUlkemNvT1gtUTRNTHlKMGZCQTltYURsYTJLZ3dHemFhb1NNX2R3RFlZY1MtLTlkTGxCRG9oc3JNU240T2dyY2NSZXUxSllMQWM2SmRBZzRxOVB4UkVIM2hySGRZdW1HdkNkT1R4c3V0Qk5DMWwyRW1KTTVFYk5LS0M2X1lKTDkycnhRNWU4WklCTEFIQXVpTFMyazFleVE",
+    "related": [
+      [
+        "Why did California’s billionaire tax fail to surf the blue wave? : Planet Money",
+        "NPR"
+      ],
+      [
+        "California Voters Reject Prop. 40 Billionaire Tax Measure",
+        "The New York Times"
+      ],
+      [
+        "California voters reject one-time wealth tax on billionaires",
+        "CNN"
+      ],
+      [
+        "Oligarchs got crushed on Election Day, but still managed to kill California's wealth tax dreams",
+        "Mother Jones"
+      ],
+      [
+        "Billionaire tax measure on California ballot defeated",
+        "Reuters"
+      ]
+    ],
+    "event_key": "california_billionaire_tax_defeat_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "캘리포니아주\n[[억만장자세]] 부결",
+      "sub": "유권자 투표에서 법안 거부",
+      "chips": [
+        {
+          "k": "주민투표",
+          "v": "부결"
+        }
+      ],
+      "alt": "캘리포니아주 억만장자세 부결",
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아",
+      "video_only": true,
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "법안 거부",
+          "d": "캘리포니아주 주민투표에서 억만장자 자산에 일회성 부유세를 부과하는 법안이 부결됐다고 로이터 등이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "캘리포니아 주민투표",
+        "억만장자세 부결"
+      ],
+      "unconfirmed": [
+        "향후 유사 법안 재발의 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Mother Jones",
+        "NPR",
+        "Reuters",
+        "The New York Times",
+        "2026.11.10 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 캘리포니아주서 억만장자세 주민투표 부결\n\n· 캘리포니아 유권자들이 일회성 부유세 부과 법안을 거부했다고 로이터 등이 보도했습니다 (로이터·뉴욕타임스)\n\n출처: 로이터·뉴욕타임스·CNN·NPR 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "캘리포니아주에서 억만장자세 부과 법안이 주민투표에서 부결됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 유권자들이 자산에 대한 일회성 부유세를 거부했다고 전했습니다.",
+      "card": "points",
+      "screen": "주민투표 부결"
+    },
+    {
+      "text": "향후 유사한 법안이 다시 추진될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 자산가에 대한 추가 과세 정책에 대해 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "캘리포니아에서\n[[부유세]]가 부결된 이유는?",
+  "broll": [
+    "stock exchange screen",
+    "city street traffic"
+  ],
+  "place_en": "California, United States"
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "2026-11-10-news-bulgaria-motorway-pile-up-2026",
+  "topic": "불가리아 고속도로에서 연쇄 추돌 사고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.10 20:43 KST",
+  "source": "BBC·Sky News·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuAFBVV95cUxOazZidm9QNlNzUFlWcHFvM3BNR0dsWlMwa1Y4bjBuVExBd21WNXJzVVE0WkRkV24tTjVTR0UyOW5XVDVMNlU0VWtUd2k0eE9ScElINmlUeUZXR0J4bk9ZeEtrT3NsZWFjY2xzaVV6bnZvU2FLVnlsWXhPNmR5bkJKNnpxWDdFQ2FuTVFOelZuTjlHZkxSbDZCU3ZnWFl5NVJzY191c2NBeXpORkFTTy1kZm9FRlB5VzI3",
+    "related": [
+      [
+        "At least 11 dead and dozens injured in Bulgarian motorway pile-up",
+        "Euronews.com"
+      ],
+      [
+        "At least 12 killed in Bulgaria motorway pile-ups involving dozens of vehicles",
+        "Sky News"
+      ],
+      [
+        "11 dead and dozens injured in Bulgarian motorway pileup",
+        "RTE.ie"
+      ],
+      [
+        "At least 11 dead after motorway pile-ups in Bulgaria fog",
+        "BBC"
+      ],
+      [
+        "At least 11 dead after two huge car pile-ups on Bulgarian highway involving 50 vehicles",
+        "The Independent"
+      ]
+    ],
+    "event_key": "bulgaria_motorway_pile_up_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "불가리아 고속도로에서\n[[연쇄 추돌]] 사고",
+      "sub": "최소 11명 사망 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "11명 이상"
+        },
+        {
+          "k": "차량",
+          "v": "50대"
+        }
+      ],
+      "alt": "불가리아 고속도로에서 연쇄 추돌 사고"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "안개 속 사고",
+          "d": "짙은 안개 속에서 차량 50여 대가 연달아 부딪히는 대형 사고가 발생했다고 BBC 등이 보도했습니다."
+        },
+        {
+          "t": "부상자 발생",
+          "d": "이번 사고로 수십 명이 다쳐 병원으로 옮겨져 치료를 받고 있습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 11명 이상 (BBC·스카이뉴스)",
+        "차량 50여 대 연쇄 추돌"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Euronews.com",
+        "RTE.ie",
+        "Sky News",
+        "The Independent",
+        "2026.11.10 22:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 불가리아 고속도로 연쇄 추돌로 최소 11명 사망\n\n· 짙은 안개 속에서 차량 50여 대가 연달아 부딪히는 사고가 발생했습니다 (BBC·스카이뉴스)\n· 사고로 수십 명이 부상을 입고 병원으로 이송됐습니다 (로이터·RTE)\n\n출처: BBC·스카이뉴스·RTE·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "불가리아의 한 고속도로에서 차량 50여 대가 연달아 부딪히는 대형 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 짙은 안개 속에서 일어난 추돌 사고로 최소 11명이 숨졌다고 보도했습니다.",
+      "card": "points",
+      "screen": "사망 11명 이상"
+    },
+    {
+      "text": "이번 사고로 수십 명이 다쳐 병원으로 옮겨져 치료를 받고 있습니다.",
+      "card": "points",
+      "screen": "수십 명 부상"
+    }
+  ],
+  "hook": "불가리아 고속도로에서\n벌어진 [[대형 사고]]",
+  "broll": [
+    "highway fog night",
+    "ambulance emergency light"
+  ],
+  "place_en": "Sofia, Bulgaria"
+}

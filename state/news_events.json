@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "typhoon_champi_jeju_korea_2026",
-    "topic": "제30호 태풍 ‘참피’ 경로 변경 제주 향해 북상 중",
-    "slug": "2026-10-21-news-typhoon-champi-jeju-korea-2026",
-    "cluster": "CBMiW0FVX3lxTE1wc3VrTUdhWmQzY2xsSGU0eGV2N01fUFFqTHVrR25QZ0RldWNpaE14LWJ0N1kxSWYyYmtPVkgwXzVFcXBZRHA5R0c5TmpHelNjcF9uanJ4WWUzNlE",
-    "badge": "breaking",
-    "at": 1792588157.1108804,
-    "country": "대한민국",
-    "category": "재난"
-  },
-  {
-    "event_key": "middle-east-oil-exports-recover-2026",
-    "topic": "중동 원유 수출량, 전쟁 전 수준 회복",
-    "slug": "2026-10-21-news-middle-east-oil-exports-recover-2026",
-    "cluster": "CBMihAFBVV95cUxNRUpxSXBnV3lLb2hmSHBCc2sxQlgyVnhTSklvZEpnM21ZSGRMTHlOa1FEQnkwMDA3ME83Yjc1b1ZQQnJNSFlvN0J4ZWgyZHRnRXdpZWZ5VUVEMDd1eHh3WkJNZE5vckZjX1dXZ2lnUXpDa1dPV3dIVmdZWHlJbF9IaTRGSFc",
-    "badge": "breaking",
-    "at": 1792591017.5737467,
-    "country": "중동",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "us-toledo-chemical-leak-evacuation-2026",
     "topic": "미 오하이오 화학 누출 주민에 대피령 발령",
     "slug": "2026-10-21-news-us-toledo-chemical-leak-evacuation-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794305826.190328,
     "country": "중국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "california_billionaire_tax_defeat_2026",
+    "topic": "캘리포니아주 억만장자세 부결",
+    "slug": "2026-11-10-news-california-billionaire-tax-defeat-2026",
+    "cluster": "CBMixgFBVV95cUxPMkoteDFpQnRRQ015c3VEMDQ2UE5aUkpPTk1QbHc4Z0djNUtrZTdrLUlkemNvT1gtUTRNTHlKMGZCQTltYURsYTJLZ3dHemFhb1NNX2R3RFlZY1MtLTlkTGxCRG9oc3JNU240T2dyY2NSZXUxSllMQWM2SmRBZzRxOVB4UkVIM2hySGRZdW1HdkNkT1R4c3V0Qk5DMWwyRW1KTTVFYk5LS0M2X1lKTDkycnhRNWU4WklCTEFIQXVpTFMyazFleVE",
+    "badge": "breaking",
+    "at": 1794316242.495059,
+    "country": "미국",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "bulgaria_motorway_pile_up_2026",
+    "topic": "불가리아 고속도로에서 연쇄 추돌 사고",
+    "slug": "2026-11-10-news-bulgaria-motorway-pile-up-2026",
+    "cluster": "CBMiuAFBVV95cUxOazZidm9QNlNzUFlWcHFvM3BNR0dsWlMwa1Y4bjBuVExBd21WNXJzVVE0WkRkV24tTjVTR0UyOW5XVDVMNlU0VWtUd2k0eE9ScElINmlUeUZXR0J4bk9ZeEtrT3NsZWFjY2xzaVV6bnZvU2FLVnlsWXhPNmR5bkJKNnpxWDdFQ2FuTVFOelZuTjlHZkxSbDZCU3ZnWFl5NVJzY191c2NBeXpORkFTTy1kZm9FRlB5VzI3",
+    "badge": "breaking",
+    "at": 1794316282.2397661,
+    "country": "불가리아",
+    "category": "사고"
   }
 ]
