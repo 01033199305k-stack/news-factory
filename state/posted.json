@@ -37785,5 +37785,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794301813
+  },
+  {
+    "slug": "2026-11-10-news-china-trade-surplus-1trillion-2026",
+    "event_ms": 1794305826190,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 중국의 올해 무역수지 흑자가 10개월 만에 1조 달러를 돌파했습니다.\n\n· 올해 10개월 만에 1조 달러를 넘어 사상 최단기간 기록을 세웠습니다 (NYT·CNN).\n· 인공지능 관련 제품 수출 호조가 흑자 규모를 키웠습니다 (CNN).\n\n중국의 기록적인 무역 흑자 행진, 어떻게 보십니까?\n\n출처: 뉴욕타임스·CNN·CNBC·블룸버그·로이터 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18120454849792886",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfjrEqtEW4A",
+        "kind": "carousel",
+        "at": 1794305874
+      },
+      "youtube": {
+        "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
+        "at": 1794306281
+      },
+      "tiktok": {
+        "id": "7706486832455748865",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706486832455748865",
+        "kind": "video",
+        "at": 1794306403
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794312434
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794312434
   }
 ]
