@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-11-news-malaysia-najib-house-arrest-2026",
+  "topic": "말레이시아 법원 나집 전 총리 가택연금 허용",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 03:33 KST",
+  "source": "Al Jazeera·BBC·CNA 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE1rWTE3cHRCM3dHQkZkdVFBU19wWWdhSi1HY1BrSGdXUHNsWUVGOElJNVJXaVFfREdrSWxHNG9wUnF4VjlLeENURWFieFppR09acGJoQmZNa0lyM2RiMlE",
+    "related": [
+      [
+        "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+        "BBC"
+      ],
+      [
+        "Malaysian court clears former PM Najib Razak for house arrest transfer",
+        "Al Jazeera"
+      ],
+      [
+        "Malaysian Transport Minister Anthony Loke's resignation to take effect 'immediately' after court grants Najib house arrest",
+        "CNA"
+      ],
+      [
+        "Najib's house arrest: Home is where the sentence is",
+        "Malaysiakini"
+      ],
+      [
+        "AG: Courts asked to issue new house arrest order for Najib",
+        "Malay Mail"
+      ]
+    ],
+    "event_key": "malaysia_najib_house_arrest_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "말레이시아 법원\n나집 전 총리 [[가택연금]] 허용",
+      "sub": "수감 중이던 전 총리가 교도소를 떠납니다",
+      "chips": [],
+      "alt": "말레이시아 법원 나집 전 총리 가택연금 허용",
+      "map": {
+        "lat": 3.1516964,
+        "lon": 101.6942371,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "말레이시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "말레이시아\n쿠알라룸푸르",
+      "video_only": true,
+      "map": {
+        "lat": 3.1516964,
+        "lon": 101.6942371,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "쿠알라룸푸르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "법원 결정",
+          "d": "말레이시아 법원이 나집 라작 전 총리의 가택연금 전환을 승인했습니다 (BBC·알자지라)."
+        },
+        {
+          "t": "내각 반응",
+          "d": "이번 결정 이후 말레이시아 교통장관이 사임 의사를 밝혔습니다 (CNA)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "나집 전 총리 가택연금 승인",
+        "교통장관 사임 표명"
+      ],
+      "unconfirmed": [
+        "가택연금 집행 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CNA",
+        "Malay Mail",
+        "Malaysiakini",
+        "2026.11.11 05:29 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 말레이시아 법원이 수감 중인 나집 전 총리의 가택연금 전환을 허용했습니다\n\n· 말레이시아 법원이 나집 라작 전 총리의 가택연금 전환을 승인했습니다 (BBC·알자지라)\n· 이번 결정 이후 말레이시아 교통장관이 사임 의사를 밝혔습니다 (CNA)\n\n여러분은 전직 총리에 대한 가택연금 허용 조치에 대해 어떻게 보십니까?\n\n출처: BBC·알자지라·CNA·말레이시아키니·말레이 메일 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "말레이시아 법원이 수감 중이던 나집 라작 전 총리의 가택연금 전환을 허용했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC와 알자지라는 전 총리가 교도소를 떠나게 됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "CNA는 이번 결정에 따라 교통장관이 사임했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "전직 총리에 대한 가택연금 허용 조치, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "가택연금 허용, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "말레이시아 전 총리\n[[가택연금]] 풀려난 이유는?",
+  "broll": [
+    "court building exterior",
+    "prison gates"
+  ],
+  "place_en": "Kuala Lumpur, Malaysia"
+}

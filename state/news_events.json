@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "jersey_haut_du_mont_explosion_guilty_2026",
-    "topic": "저지섬 가스 폭발 사고 가스 노동자 2명 유죄",
-    "slug": "2026-10-22-news-jersey-haut-du-mont-explosion-guilty-2026",
-    "cluster": "CBMiuwFBVV95cUxPa1UxZEw5eER0VWhZWVFHU2xSX3VwTU1sb0ZySS0yelY0ekd2bmxWVEl1WHVjdDEwdG9hTHktTFJoX3BjSDE5RmxPNnhFYXVsSTY2SVVaUWcyUHpRMmJLT3VuOXNadHlvNEg0RGx3SFloNTYzbGMzOGppRkwtRGl6Vk0zQVIyU1dSSElCbzJzX3EtQVlKRDJIazJSRHlodm9kX09wSHFRNVc1ajNxaUYzcDlXMVZDZy1HXzhF",
-    "badge": "breaking",
-    "at": 1792606060.3964953,
-    "country": "영국",
-    "category": "사고"
-  },
-  {
     "event_key": "us_embassy_gulf_personnel_departure_2026",
     "topic": "미국 정부, 걸프 지역 대사관 인력 철수 준비 외교관 및 가족 대상 출국 명령",
     "slug": "2026-10-22-news-us-embassy-gulf-personnel-departure-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794341526.9185243,
     "country": "영국",
+    "category": "국제"
+  },
+  {
+    "event_key": "malaysia_najib_house_arrest_2026",
+    "topic": "말레이시아 법원 나집 전 총리 가택연금 허용",
+    "slug": "2026-11-11-news-malaysia-najib-house-arrest-2026",
+    "cluster": "CBMiXkFVX3lxTE1rWTE3cHRCM3dHQkZkdVFBU19wWWdhSi1HY1BrSGdXUHNsWUVGOElJNVJXaVFfREdrSWxHNG9wUnF4VjlLeENURWFieFppR09acGJoQmZNa0lyM2RiMlE",
+    "badge": "breaking",
+    "at": 1794342603.1212542,
+    "country": "말레이시아",
     "category": "국제"
   }
 ]

@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-11-11-news-malaysia-najib-house-arrest-2026",
+    "event_ms": 1794335631000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 말레이시아 법원이 수감 중인 나집 전 총리의 가택연금 전환을 허용했습니다\n\n· 말레이시아 법원이 나집 라작 전 총리의 가택연금 전환을 승인했습니다 (BBC·알자지라)\n· 이번 결정 이후 말레이시아 교통장관이 사임 의사를 밝혔습니다 (CNA)\n\n여러분은 전직 총리에 대한 가택연금 허용 조치에 대해 어떻게 보십니까?\n\n출처: BBC·알자지라·CNA·말레이시아키니·말레이 메일 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "말레이시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119033459042687",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfkxOmGiUn-",
+        "kind": "carousel",
+        "at": 1794342656
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1794342783
+      },
+      "tiktok": {
+        "id": "7706643577631214869",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706643577631214869",
+        "kind": "video",
+        "at": 1794342906
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]
