@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "hormuz_strait_tanker_attack_2026",
-    "topic": "호르무즈 해협서 유조선 7척 공격받아",
-    "slug": "2026-10-22-news-hormuz-strait-tanker-attack-2026",
-    "cluster": "CBMipAFBVV95cUxPOVo5NGVvb09wSzBSTFVOa21PVVRNWWlEYUd1ZEU2U0tjTm55R3hYQ2Ezd1lUWUYwbFNpVUhJVDBxNlZaamJKaDJvblV1dl83LVhSX21rMkZuUXQtWFZmZmpZbXRrMkwwRzloVnA0QUs0cjN5MXNiZDBKR2MwaW9Sa1BKUGlaRUlQeG5PYnNPcTQ3YXZFc3QybjE1ZmVCYVJmY0doag",
-    "badge": "breaking",
-    "at": 1792681105.29877,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "south-africa-crowd-attack-foreigner-2026",
     "topic": "남아공서 50여 명 군중이 습격 외국인 1명 숨져",
     "slug": "2026-10-23-news-south-africa-crowd-attack-foreigner-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794383511.4941876,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "korea_hoengseong_car_crashes_hair_salon_2026",
+    "topic": "강원 횡성서 미용실로 승용차 돌진",
+    "slug": "2026-11-11-news-korea-hoengseong-car-crashes-hair-salon-2026",
+    "cluster": "CBMiW0FVX3lxTFBEV2VWRTl0emRWekpyaE9tMzFSanVIeEtsOW9Ic20tQjVUd053UzdwMlVTWWpWZEdZUkQ0bS0zeUFydzZ6Uk0zcDVXcjJKeFUxT2piZUZhQjg2VWs",
+    "badge": "breaking",
+    "at": 1794384557.7835321,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]

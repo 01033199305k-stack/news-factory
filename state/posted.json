@@ -38740,5 +38740,59 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794381030
+  },
+  {
+    "slug": "2026-11-11-news-la-north-hollywood-car-crowd-crash-2026",
+    "event_ms": 1794372888000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 LA 군중 속으로 차량이 돌진해 최소 3명이 숨졌습니다.\n\n· 로스앤젤레스 노스할리우드 지하철역 인근에서 차량이 노점상과 보행자를 덮쳤습니다 (ABC7·KTLA).\n· 이번 사고로 최소 3명이 숨지고 최소 3명이 중상을 입었습니다 (KTLA·NYT).\n· 차량 충돌 경위와 운전자 신원은 아직 확인되지 않았습니다.\n\n출처: ABC7·KTLA·NYT·CBS 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18079339451742911",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DflzPsXEZWh",
+        "kind": "carousel",
+        "at": 1794377267
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794380898
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794383656
+      },
+      "tiktok": {
+        "id": "7706825034282683655",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706825034282683655",
+        "kind": "video",
+        "at": 1794385232
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794385242
   }
 ]
