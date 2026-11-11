@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "south-africa-crowd-attack-foreigner-2026",
-    "topic": "남아공서 50여 명 군중이 습격 외국인 1명 숨져",
-    "slug": "2026-10-23-news-south-africa-crowd-attack-foreigner-2026",
-    "cluster": "CBMiW0FVX3lxTFBaRTQxUnZXQ1pvR1dzdWg1Ql9JbF9scHRldVVWcjVsN09BVm9hZTU3LUZuUVdEQkxETWpYUVJRWFRaWE12eXFLQVFKUXJ1UC1UeUR3YUdjSl9icUU",
-    "badge": "breaking",
-    "at": 1792692449.9952912,
-    "country": "남아프리카공화국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "wall-street-nasdaq-drop-oil-rise-2026",
     "topic": "AI 비용 우려와 유가 상승에 나스닥 2% 급락",
     "slug": "2026-10-23-news-wall-street-nasdaq-drop-oil-rise-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794384557.7835321,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "us_south_carolina_missing_baby_found_buried_alive_2026",
+    "topic": "실종 11개월 아기 생매장된 채 구조",
+    "slug": "2026-11-11-news-us-south-carolina-missing-baby-found-buried-alive-2026",
+    "cluster": "CBMipwFBVV95cUxPVS1iNnlFNTQ2V1ZNX3czd2h3bVNrRHZzSk1hNUhxSjYwOGN6a1BiaUtPWjg4OE8wUUxPVjh2Zllsdm92RmxBX05YNDNFMmlGOXc2SHdEQ1hwblllT3ROcG40ZzBieXdtN1FxejR1TlhpSzdSbXFuQ1FSNE5hXzFHZTRWZ3djTld6YnVpMHZjRVluNTZWa2hpQV92aW9qQzNtMmt1RGRoYw",
+    "badge": "breaking",
+    "at": 1794391623.1127877,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

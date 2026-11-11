@@ -1,0 +1,152 @@
+{
+  "slug": "2026-11-11-news-us-south-carolina-missing-baby-found-buried-alive-2026",
+  "topic": "실종 11개월 아기 생매장된 채 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 18:15 KST",
+  "source": "CNN·NBC News·The State 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxPVS1iNnlFNTQ2V1ZNX3czd2h3bVNrRHZzSk1hNUhxSjYwOGN6a1BiaUtPWjg4OE8wUUxPVjh2Zllsdm92RmxBX05YNDNFMmlGOXc2SHdEQ1hwblllT3ROcG40ZzBieXdtN1FxejR1TlhpSzdSbXFuQ1FSNE5hXzFHZTRWZ3djTld6YnVpMHZjRVluNTZWa2hpQV92aW9qQzNtMmt1RGRoYw",
+    "related": [
+      [
+        "Missing baby found alive buried in dog crate in South Carolina",
+        "NBC News"
+      ],
+      [
+        "Missing baby rescued, found buried alive a day after authorities say his father took him",
+        "CNN"
+      ],
+      [
+        "Sheriff: Missing Lexington County baby found alive after being buried in dog crate",
+        "WIS News 10"
+      ],
+      [
+        "Missing 11-month-old boy found buried alive near father's South Carolina home",
+        "WCNC"
+      ],
+      [
+        "Update: Missing Lexington County infant found buried alive in dog crate",
+        "The State"
+      ]
+    ],
+    "event_key": "us_south_carolina_missing_baby_found_buried_alive_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "실종 [[11개월 아기]]\n생매장된 채 구조",
+      "sub": "미국 사우스캐롤라이나서 개 우리에 묻혔다가 하루 만에 생환",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "11개월 아기"
+        },
+        {
+          "k": "상태",
+          "v": "생존 구조"
+        }
+      ],
+      "alt": "실종 11개월 아기 생매장된 채 구조",
+      "map": {
+        "lat": 33.8986841,
+        "lon": -81.275054,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n사우스캐롤라이나 렉싱턴 카운티",
+      "video_only": true,
+      "map": {
+        "lat": 33.8986841,
+        "lon": -81.275054,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "사우스캐롤라이나 렉싱턴 카운티"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "하루 만에 생존 구조",
+          "d": "실종됐던 11개월 영아가 묻혀 있다가 살아있는 채로 발견돼 구조됐습니다 (CNN·NBC News)."
+        },
+        {
+          "t": "개 우리에 갇혀 매장",
+          "d": "현지 보안관은 아기가 개 우리에 묻힌 채 발견됐다고 밝혔습니다 (WIS News 10)."
+        },
+        {
+          "t": "아버지 관련 조사",
+          "d": "당국은 아버지가 아기를 데려간 지 하루 만에 아기가 발견됐다고 전했습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "11개월 영아 생존 구조",
+        "개 우리에 묻힌 상태로 발견"
+      ],
+      "unconfirmed": [
+        "아기의 구체적인 건강 상태",
+        "범행 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "NBC News",
+        "The State",
+        "WCNC",
+        "WIS News 10",
+        "2026.11.11 19:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 실종됐던 11개월 영아가 땅속 개 우리에서 구조됐습니다.\n\n· 미국 사우스캐롤라이나주 렉싱턴 카운티에서 개 우리에 묻힌 아기가 살아있는 채로 발견됐습니다 (WIS News 10·The State)\n· 당국은 아버지가 아기를 데려간 지 하루 만에 아기가 구조됐다고 밝혔습니다 (CNN)\n\n출처: NBC News·CNN·WIS News 10·The State 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국에서 실종됐던 11개월 아기가 땅속에서 살아 돌아왔습니다.",
+      "card": "cover",
+      "screen": "실종 11개월 영아\n생매장 후 구조"
+    },
+    {
+      "text": "사우스캐롤라이나 보안관은 개 우리에 묻혀 있던 아기를 발견했다고 밝혔습니다.",
+      "card": "map",
+      "screen": "미국 사우스캐롤라이나\n개 우리에 묻힌 채 발견"
+    },
+    {
+      "text": "CNN은 아버지가 아기를 데려간 지 하루 만에 발견돼 구조됐다고 전했습니다.",
+      "card": "points",
+      "screen": "아버지가 데려간 뒤\n하루 만에 생존 구조"
+    },
+    {
+      "text": "아기의 구체적인 건강 상태와 범행 동기는 아직 알려지지 않았습니다.",
+      "card": "check",
+      "screen": "건강 상태·동기 미확인"
+    }
+  ],
+  "hook": "땅속에 묻힌\n[[11개월 아기]]",
+  "broll": [
+    "police car night",
+    "ambulance lights"
+  ],
+  "place_en": "Lexington County, South Carolina, United States"
+}
