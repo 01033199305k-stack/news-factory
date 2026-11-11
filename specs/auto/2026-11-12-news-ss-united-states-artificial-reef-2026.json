@@ -1,0 +1,127 @@
+{
+  "slug": "2026-11-12-news-ss-united-states-artificial-reef-2026",
+  "topic": "세계 최고속 여객선 미국 플로리다 앞바다서 침몰",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 03:42 KST",
+  "source": "BBC·6abc Philadelphia·Northeastern Global News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE93YWtXMUYzVzk5RlFMbzZGZGZ4TGQ0YnlHR0xCcGFYTHBfVVlZTWdrWTdjZU5Vc0VfNk1nWjV6UW8yU08xWVowVkpHNXV0UVZscnBkZnZFV2tYRmUtQkE",
+    "related": [
+      [
+        "Famed ship SS United States to be sunk off coast of Florida",
+        "BBC"
+      ],
+      [
+        "WATCH LIVE: SS United States, once world's fastest ocean liner, sinks to become reef off Florida",
+        "PBS"
+      ],
+      [
+        "SS United States live updates: How to watch intentional sinking of historic vessel off Florida coast",
+        "6abc Philadelphia"
+      ],
+      [
+        "Superliner United States sails into history as world’s largest artificial reef",
+        "TradeWinds News"
+      ],
+      [
+        "Retired ocean liner to become largest artificial reef in the world",
+        "Northeastern Global News"
+      ]
+    ],
+    "event_key": "ss_united_states_artificial_reef_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "세계 최고속 여객선\n[[미국]] 플로리다 앞바다서 침몰",
+      "sub": "세계 최대 인공 산호초로 재탄생합니다",
+      "chips": [
+        {
+          "k": "목적",
+          "v": "인공 산호초"
+        }
+      ],
+      "alt": "세계 최고속 여객선 미국 플로리다 앞바다서 침몰",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다",
+      "video_only": true,
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역사적 여객선",
+          "d": "과거 세계에서 가장 빠른 대형 여객선으로 꼽혔습니다 (BBC)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플로리다 해안 침몰",
+        "인공 산호초 조성"
+      ],
+      "unconfirmed": [
+        "추가 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "6abc Philadelphia",
+        "BBC",
+        "Northeastern Global News",
+        "PBS",
+        "TradeWinds News",
+        "2026.11.12 05:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 세계 최고속 여객선이 플로리다 앞바다에 침몰했습니다\n\n· 과거 세계에서 가장 빠른 대형 여객선으로 꼽혔습니다 (BBC)\n· 세계 최대 규모의 인공 산호초로 조성될 예정입니다 (TradeWinds News)\n\n출처: BBC·PBS·TradeWinds News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "세계 최고속 여객선이었던 SS 유나이티드 스테이츠호가 플로리다 앞바다에 침몰했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이 선박이 세계 최대 규모의 인공 산호초로 다시 태어난다고 전했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "역사 속 여객선이\n[[바다]]로 가라앉은 이유는?",
+  "broll": [
+    "ocean liner ship sea",
+    "artificial reef underwater"
+  ],
+  "place_en": "Florida, USA"
+}
