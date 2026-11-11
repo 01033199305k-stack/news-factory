@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-state-department-saudi-arabia-staff-leave-2026",
-    "topic": "미국 정부, 사우디 내 일부 인력 철수 명령",
-    "slug": "2026-10-22-news-us-state-department-saudi-arabia-staff-leave-2026",
-    "cluster": "CBMiW0FVX3lxTFBmeWNaNkZfMWgyVENuck5jTjBjUTZKNWE4V29DcW8xMURzclJjUFJsQk5Jb1pwTFNtcnJsU3R3RXI1YW8wVUxtejV2bFVkXzZrUF94M2tpbm5nQVU",
-    "badge": "breaking",
-    "at": 1792642043.6233077,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "north_korea_propaganda_loudspeakers",
     "topic": "북한, 대남 확성기 재개 준비 접경지역 긴장 고조",
     "slug": "2026-10-22-news-north-korea-propaganda-loudspeakers",
@@ -2998,5 +2988,15 @@
     "at": 1794352085.9864337,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "korea_bundang_bus_pile_up_2026",
+    "topic": "분당서 버스 10여 대 연쇄 추돌 사고",
+    "slug": "2026-11-11-news-korea-bundang-bus-pile-up-2026",
+    "cluster": "CBMid0FVX3lxTE03RlNKS2p5ekJWN1FlS1hVam9EdGhjOW9HSlhQNGIyREdPN3ZCbFRGNkdELWp0MDVaOEkxZGNpQmN5aUJUY0E0ekZEeWgtVXNnWFk5Z1RSbnk3cktfVlNhcDdlVDVyV3RFWlJVV2xaLW9Hal9fUks40gF3QVVfeXFMTXdQQ1c1VXU0bjcwWTNyZm9hRlRvNUpBS0taeUdTc2RySkU3X1hRUUdJWWZzeWxKUkFqODdGZXgydFlranJOZDRvX0xNOV96Sm8zZElaQWdxQ29RRWRZM0RrNUVkMnZ4dWxHSWM5VEhpOHNXOURxeEU",
+    "badge": "breaking",
+    "at": 1794355756.6625438,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]
