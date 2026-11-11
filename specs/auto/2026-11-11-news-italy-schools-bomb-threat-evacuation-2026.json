@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-11-news-italy-schools-bomb-threat-evacuation-2026",
+  "topic": "이메일 폭파 위협에 이탈리아 300여 개교 대피",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 20:16 KST",
+  "source": "Bloomberg.com·CNN·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxOLUZHS1hQdFNsS21tSW0zXzRnRDNsVEN2T1hITTBwX1l3d3VCWmw5MXVMaEYwM2ROMXpYNnR6cTNwMlVuSUNsekp2YmZtX1h2VE9wNnc2RThjc05OV2tBc0VNNzNicWNGcGtKVG9VTGo2Yzl5eUFxeE9IQ3JlZWpHb25vcWk5VmlWZkRwbmQzRmhzbDF2cmhWM1F0RmNlTGhtM0Zv",
+    "related": [
+      [
+        "At least 300 Italian schools evacuated after email bomb alerts",
+        "Reuters"
+      ],
+      [
+        "Hundreds of schools evacuated in Italy following bomb threats via email",
+        "CNN"
+      ],
+      [
+        "Hundreds of schools across Italy, Scotland and Ireland receive bomb threats",
+        "Financial Times"
+      ],
+      [
+        "At least 300 Italian schools evacuated over nationwide bomb threats",
+        "NBC News"
+      ],
+      [
+        "Italy to Hold Emergency Meeting After Schools Bomb Threat",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "italy_schools_bomb_threat_evacuation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이메일 [[폭파 위협]]에\n이탈리아 300여 개교 대피",
+      "sub": "스코틀랜드와 아일랜드 학교들에도 위협 이메일 전달돼",
+      "chips": [
+        {
+          "k": "대피 학교",
+          "v": "300여 곳"
+        }
+      ],
+      "alt": "이메일 폭파 위협에 이탈리아 300여 개교 대피",
+      "map": {
+        "lat": 41.8933203,
+        "lon": 12.4829321,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이탈리아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이탈리아\n로마",
+      "video_only": true,
+      "map": {
+        "lat": 41.8933203,
+        "lon": 12.4829321,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "로마"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유럽 각국 확산",
+          "d": "이탈리아뿐만 아니라 스코틀랜드와 아일랜드 학교들에도 폭파 위협 이메일이 수신됐습니다 (파이낸셜타임스)."
+        },
+        {
+          "t": "긴급 회의 소집",
+          "d": "이탈리아 당국은 학교 폭파 위협에 대응해 긴급 회의를 개최하기로 했습니다 (블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이탈리아 300여 개교 대피 (로이터·NBC)",
+        "스코틀랜드·아일랜드 학교 위협 (FT)"
+      ],
+      "unconfirmed": [
+        "이메일 발신지 및 용의자 신원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNN",
+        "Financial Times",
+        "NBC News",
+        "Reuters",
+        "2026.11.11 21:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이탈리아 학교 300여 곳에 폭파 위협 이메일\n\n· 이탈리아 내 최소 300개 학교가 대피했습니다 (로이터·NBC).\n· 스코틀랜드와 아일랜드 학교들에도 위협 이메일이 발송됐습니다 (파이낸셜타임스).\n· 이탈리아 정부는 긴급 회의를 개최할 예정입니다 (블룸버그).\n\n출처: 로이터·CNN·파이낸셜타임스·NBC·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이메일 폭파 위협으로 이탈리아 내 300여 개 학교가 대피했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 최소 300곳의 학교에서 대피가 이뤄졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "파이낸셜타임스는 스코틀랜드와 아일랜드 학교들에도 위협 이메일이 전달됐다고 전했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "[[이탈리아]] 학교들\n무슨 일이?",
+  "broll": [
+    "school building facade",
+    "police car lights"
+  ],
+  "place_en": "Rome, Italy"
+}

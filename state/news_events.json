@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "wall-street-nasdaq-drop-oil-rise-2026",
-    "topic": "AI 비용 우려와 유가 상승에 나스닥 2% 급락",
-    "slug": "2026-10-23-news-wall-street-nasdaq-drop-oil-rise-2026",
-    "cluster": "CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR",
-    "badge": "breaking",
-    "at": 1792692520.9542823,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "moderna-merck-cancer-vaccine-data-2026",
     "topic": "모더나·머크 항암 백신, 흑색종 사망 위험 40% 이상 낮춰",
     "slug": "2026-10-23-news-moderna-merck-cancer-vaccine-data-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794391623.1127877,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "italy_schools_bomb_threat_evacuation_2026",
+    "topic": "이메일 폭파 위협에 이탈리아 300여 개교 대피",
+    "slug": "2026-11-11-news-italy-schools-bomb-threat-evacuation-2026",
+    "cluster": "CBMiowFBVV95cUxOLUZHS1hQdFNsS21tSW0zXzRnRDNsVEN2T1hITTBwX1l3d3VCWmw5MXVMaEYwM2ROMXpYNnR6cTNwMlVuSUNsekp2YmZtX1h2VE9wNnc2RThjc05OV2tBc0VNNzNicWNGcGtKVG9VTGo2Yzl5eUFxeE9IQ3JlZWpHb25vcWk5VmlWZkRwbmQzRmhzbDF2cmhWM1F0RmNlTGhtM0Zv",
+    "badge": "breaking",
+    "at": 1794399301.634645,
+    "country": "이탈리아",
+    "category": "총격·테러"
   }
 ]
