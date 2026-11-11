@@ -39151,5 +39151,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794431389
+  },
+  {
+    "slug": "2026-11-12-news-ss-united-states-artificial-reef-2026",
+    "event_ms": 1794422547000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 세계 최고속 여객선이 플로리다 앞바다에 침몰했습니다\n\n· 과거 세계에서 가장 빠른 대형 여객선으로 꼽혔습니다 (BBC)\n· 세계 최대 규모의 인공 산호초로 조성될 예정입니다 (TradeWinds News)\n\n출처: BBC·PBS·TradeWinds News 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18077202278765840",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfnTwk6G5CN",
+        "kind": "carousel",
+        "at": 1794427879
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1794428126
+      },
+      "tiktok": {
+        "id": "7707010715860602120",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707010715860602120",
+        "kind": "video",
+        "at": 1794428382
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794431617
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794431617
   }
 ]
