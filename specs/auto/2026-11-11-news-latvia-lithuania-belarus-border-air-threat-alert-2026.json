@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-11-news-latvia-lithuania-belarus-border-air-threat-alert-2026",
+  "topic": "라트비아·리투아니아 공중 위협 경보",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 07:30 KST",
+  "source": "Hindustan Times·Reuters·Baltic News Network 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilwFBVV95cUxNQWx6TkpxdU5NeldhTTlsMTA2RklPdlVIZnYwWkZJcXVvUTkxM081UnROWUZ0Vzd0TUFwZFRQbWxLalNZUUszM3FldUlmSEpaemJLdV82NnB4Uk5mcjhMQ2h6dGVvWnpUY1d3SEc1UE9Zck1DVkVWbURmMG13VmM1R1RnNFYzT3lIOEt1TmtOdjA0bzB4MWtr",
+    "related": [
+      [
+        "Latvia, Lithuania warn of threat in airspace near Belarus",
+        "Reuters"
+      ],
+      [
+        "Nato fighter jets scrambled & locals warned to take shelter by emergency alerts",
+        "The Sun"
+      ],
+      [
+        "Latvia and Lithuania issue airspace threat warning near Belarus border",
+        "Hindustan Times"
+      ],
+      [
+        "Why did Latvia's military fail to shoot down the drone? Defence Minister explains failure and apologises to residents",
+        "Baltic News Network"
+      ],
+      [
+        "Latvia declares orange air threat alert in Ludza Municipality — LSM English",
+        "UA.NEWS"
+      ]
+    ],
+    "event_key": "latvia_lithuania_belarus_border_air_threat_alert_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "라트비아·리투아니아\n[[공중 위협]] 경보",
+      "sub": "벨라루스 국경 인근서 공중 위협 경보",
+      "chips": [],
+      "alt": "라트비아·리투아니아 공중 위협 경보",
+      "map": {
+        "lat": 56.9493977,
+        "lon": 24.1051846,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "라트비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "라트비아\n루자",
+      "video_only": true,
+      "map": {
+        "lat": 56.9493977,
+        "lon": 24.1051846,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "루자"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "나토 전투기 긴급 출격",
+          "d": "벨라루스 국경 인근 공중 위협으로 나토 전투기가 출격했습니다 (더선)."
+        },
+        {
+          "t": "국방장관 공식 사과",
+          "d": "라트비아 국방장관은 격추 실패에 대해 사과했습니다 (발틱뉴스네트워크)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "라트비아·리투아니아 공중 경보 발령",
+        "벨라루스 국경 인근 공중 위협 포착"
+      ],
+      "unconfirmed": [
+        "드론의 정확한 발사 주체 및 침범 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Baltic News Network",
+        "Hindustan Times",
+        "Reuters",
+        "The Sun",
+        "UA.NEWS",
+        "2026.11.11 10:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 라트비아와 리투아니아가 벨라루스 국경 인근 지역에 공중 위협 경보를 발령했습니다.\n\n· 벨라루스 국경 인근 공중 위협으로 나토 전투기가 출격했습니다 (더선).\n· 라트비아는 루자 지역에 주황색 공중 위협 경보를 발령했습니다 (LSM).\n· 라트비아 국방장관은 격추 실패에 대해 설명하고 사과했습니다 (발틱뉴스네트워크).\n\n질문: 발트해 인근 국가들의 상황, 어떻게 보십니까?\n\n출처: 로이터·더선·발틱뉴스네트워크 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "라트비아와 리투아니아가 벨라루스 국경 인근 지역에 공중 위협 경보를 발령했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "더선은 주민 대피 경보가 내려졌으며 라트비아 루자 지역에 주황색 경보가 발령됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "발트해 지역의 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[벨라루스]] 국경서\n무슨 일이?",
+  "broll": [
+    "fighter jet runway",
+    "military radar screen"
+  ],
+  "place_en": "Riga, Latvia"
+}

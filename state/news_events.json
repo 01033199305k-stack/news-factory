@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "north_korea_propaganda_loudspeakers",
-    "topic": "북한, 대남 확성기 재개 준비 접경지역 긴장 고조",
-    "slug": "2026-10-22-news-north-korea-propaganda-loudspeakers",
-    "cluster": "CBMipwFBVV95cUxQZkQ4YTZ2RkV3LTF0ZlJtV1VlX0RjYnNtV2o1WXZ3MmtPUHRTT09FWmdWMzROUHV0OGNoRjdJVEpRaEZkOFVZY0tOeGVfcmE3Q3FzcDdoMUhiZnI0X3V1WUlYdE9kZElmSjhmSV9nYTFEalVIRncwbFp4ZzUwZ0dtR2JCQjhfWWRROExseGZobkQzVE1qR2pZNEV5dkF3UnVEOU5mYXFGcw",
-    "badge": "brief",
-    "at": 1792649253.9043858,
-    "country": "북한",
-    "category": "국제"
-  },
-  {
     "event_key": "russia-kyiv-missile-strikes-after-us-envoy-talks-2026",
     "topic": "미국 특사 회담 끝나자 러시아, 키이우 공습",
     "slug": "2026-10-22-news-russia-kyiv-missile-strikes-after-us-envoy-talks-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794355756.6625438,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "latvia_lithuania_belarus_border_air_threat_alert_2026",
+    "topic": "라트비아·리투아니아 공중 위협 경보",
+    "slug": "2026-11-11-news-latvia-lithuania-belarus-border-air-threat-alert-2026",
+    "cluster": "CBMilwFBVV95cUxNQWx6TkpxdU5NeldhTTlsMTA2RklPdlVIZnYwWkZJcXVvUTkxM081UnROWUZ0Vzd0TUFwZFRQbWxLalNZUUszM3FldUlmSEpaemJLdV82NnB4Uk5mcjhMQ2h6dGVvWnpUY1d3SEc1UE9Zck1DVkVWbURmMG13VmM1R1RnNFYzT3lIOEt1TmtOdjA0bzB4MWtr",
+    "badge": "breaking",
+    "at": 1794359524.3271852,
+    "country": "라트비아",
+    "category": "국제"
   }
 ]
