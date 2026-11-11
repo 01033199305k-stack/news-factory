@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "iran-threatens-undersea-cables-hormuz-2026",
-    "topic": "이란 혁명수비대 해저 케이블 위협",
-    "slug": "2026-10-22-news-iran-threatens-undersea-cables-hormuz-2026",
-    "cluster": "CBMi8AFBVV95cUxPbUFBX1luaTlDM0ZjV01HTzdYQmV5dEY1aDBZZmE5Tmg5Tjdma0RGMXl3bGh1OFd4QXBIdXFIeElHd1VRalI4bnJuQnVWcFBYX2k0UThubG5aQ1ZvUEZVUTFnTXB4bThEM251RnJMMW1JN01NSkxja2hMdGM5eTVKTGhIOGJSRGNRc1FObkltZUMtWnNMNEpJa3M2NkcyVFZBelJsNF9CZ3Y2M0tHeEZ0SkVaLUVrNzJMbDBab3BFdkFkNlEtMUVmbFNYSXNydGd3alhXQlpWa2wxdHZPRmZGSHJFa1Vrbm9zVnBBNm1fV2HSAfYBQVVfeXFMTkJrVHkxXzNreXAzNG9HQUVKMk1RUlVsM0tjeDF0M1ctM29CNEpkdENfRmYwWnV5Tkp3Y0gwT3hYMUJuNTNheFo2UVlBZnhzbHMzaW5pWXJkMzNieUI1Q01odDItSjVieE0wLWRWNVdWOVh6aUg4bzBKc21qZWVjdFZPMTNRbktFU0poT2VwcGtxcTR4NVlhQV9GUzNkYm1ueFZSMU0xcm0wSmhXNmo2N2hwb2xHTV8yQVkzUTViQmV1RF83QWJLOWwwSXJFLTRRenFNX005WS1PWm9HeFhUZUFoVXdudUVuS09PSXg3TE4wU29nUThB",
-    "badge": "brief",
-    "at": 1792671032.171322,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "france-southern-floods-2026",
     "topic": "프랑스 남부 폭우로 홍수 최소 1~4명 사망",
     "slug": "2026-10-22-news-france-southern-floods-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794366548.8679028,
     "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "el_salvador_troops_haiti_gang_offensive_2026",
+    "topic": "아이티 갱단 소탕 나선 엘살바도르군, 20명 사망",
+    "slug": "2026-11-11-news-el-salvador-troops-haiti-gang-offensive-2026",
+    "cluster": "CBMimwFBVV95cUxNWm9UUEdJYm1TbFlWR0FfTzJ3WjdJb2NGM1JsaHBuVmN3bjR6emwyVTI1XzlLLXZUTW5XODhsYi1jd0I0MmYtbGd2dUR1RkduX3VjVUpDR3pLd21SWXJ2UVo3VmVfUEtJU0hIc3lNRHE2YkE3djFkME01RXJtd3ctVGdJZEFHQXdXVURpcEZud1NjTG1uWVBzV0RKNNIBoAFBVV95cUxPLUhDRWNQcHR3cHFsckJLU0x1QnZBWS05ZHBRV2xLTG1MWkQzazNqQ1JRNzNEY2FaUEN6NkVJZ09ObVZ0ZUJsNmx2UGVCaW81b0pHWTdiNEVlSldRYzl5WmdCRmZZeVIyenVTX3FYVmZqdjd0OTZfTjQ1dkMxVmJXUTJkQUdsUVY5azl0MHJOQ0VFcFBLS0pYdFo1SXlrV0py",
+    "badge": "breaking",
+    "at": 1794370251.0349147,
+    "country": "아이티",
     "category": "국제"
   }
 ]
