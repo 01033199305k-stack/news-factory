@@ -1,50 +1,5 @@
 [
   {
-    "slug": "2026-11-12-news-indonesia-gibran-vp-resigns-2026",
-    "event_ms": 1794415087000,
-    "category": "국제",
-    "images": [
-      "01_cover.png",
-      "02_points.png",
-      "03_check.png",
-      "04_outro.png"
-    ],
-    "text": "[속보] 인도네시아 기브란 부통령이 사임을 발표했습니다.\n\n· 의원 100여 명이 부통령 탄핵을 위한 탄원서에 서명함 (CNA)\n· 연정 결속이 흔들리는 징후 속에서 사임함 (BBC·로이터)\n\n여러분은 이번 인도네시아 정국 혼란을 어떻게 보십니까?\n\n출처: BBC·로이터·CNA 보도 종합",
-    "topic_tag": "해외사건사고",
-    "hashtags": [
-      "해외사건사고",
-      "국제",
-      "인도네시아"
-    ],
-    "uploaded": [
-      "01_cover.jpg",
-      "02_points.jpg",
-      "03_check.jpg",
-      "04_outro.jpg"
-    ],
-    "done": {
-      "threads": {
-        "id": "18134250689500293",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfnNGYnGB4n",
-        "kind": "carousel",
-        "at": 1794424377
-      },
-      "youtube": {
-        "skipped": "유튜브는 한국·주요국 관련 소식만",
-        "at": 1794428126
-      },
-      "instagram": {
-        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
-        "at": 1794431389
-      }
-    },
-    "attempts": {
-      "instagram": 3,
-      "tiktok": 2
-    },
-    "video": "video.mp4"
-  },
-  {
     "slug": "2026-11-12-news-coreweave-q3-revenue-nasdaq-surge",
     "event_ms": 1794431040000,
     "category": "경제·과학",
@@ -89,7 +44,7 @@
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
