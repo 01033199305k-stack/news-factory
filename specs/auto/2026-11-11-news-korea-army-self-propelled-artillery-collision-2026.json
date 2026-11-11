@@ -1,0 +1,133 @@
+{
+  "slug": "2026-11-11-news-korea-army-self-propelled-artillery-collision-2026",
+  "topic": "국도 달리던 자주포에 민간 차 추돌로 2명 사상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 08:16 KST",
+  "source": "KBC광주방송·KBS 뉴스·MBC 뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTFBvTU1RQVBSNGdObFFJeG4wckpKWnEwV3VNRFEtU1hQbzc3MmxlWWh2MGdoMkRZN0I4c2swNVEydWFBOHhJNm1oYTBpSFhrSnVlY3NYblhYdUNHNlRsSTlPRVRYTHpKQjJlT1VuU1lwdHBnak5RYlVJ0gF3QVVfeXFMT0kxaXZnb01JSmVFc294OFFUcXBFbVVpakdURkdKdW01YzlqSk90M2dQdEZjTHRCRFpTRFM0RndyS1NDWlREQTFLWncyQVBwOXNMNW5rbV9mRDRXQmRwaC1SaEtCNHZxNHhfX1NrTmlBbnluSm9xb1k",
+    "related": [
+      [
+        "가로등 없는 밤길서 자주포가 '불쑥'‥연쇄 추돌에 2명 사상",
+        "MBC 뉴스"
+      ],
+      [
+        "밤길 국도 달리던 자주포에 승용차 연쇄추돌...민간인 2명 사상",
+        "KBC광주방송"
+      ],
+      [
+        "밤길 육군 ‘자주포’에 차량 추돌…민간인 1명 사망, 1명 부상",
+        "문화일보"
+      ],
+      [
+        "야간 이동 식별 불가 자주포에 추돌…운전자 2명 사상",
+        "KBS 뉴스"
+      ],
+      [
+        "국도 달리던 자주포에 민간차량 2대 추돌…운전자 1명 사망",
+        "중앙일보"
+      ]
+    ],
+    "event_key": "korea_army_self_propelled_artillery_collision_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "국도 달리던 자주포에\n민간 차 추돌로 [[2명 사상]]",
+      "sub": "가로등 없는 밤길 이동 중 발생",
+      "chips": [
+        {
+          "k": "사상자",
+          "v": "2명"
+        }
+      ],
+      "alt": "국도 달리던 자주포에 민간 차 추돌로 2명 사상",
+      "map": {
+        "lat": 36.638392,
+        "lon": 127.6961188,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n국도",
+      "video_only": true,
+      "map": {
+        "lat": 36.638392,
+        "lon": 127.6961188,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "국도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 경위",
+          "d": "가로등이 없는 밤길 국도를 달리던 자주포에 차량이 연쇄 추돌했습니다 (MBC·KBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "민간인 1명 사망",
+        "민간인 1명 부상",
+        "야간 국도 자주포 추돌"
+      ],
+      "unconfirmed": [
+        "정확한 사고 원인",
+        "군 장비 식별 표지 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBC광주방송",
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "문화일보",
+        "중앙일보",
+        "2026.11.11 10:22 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 국도 달리던 자주포에 민간 차 추돌로 2명 사상 발생\n\n· 가로등 없는 밤길 국도를 달리던 자주포에 차량이 연쇄 추돌했습니다 (MBC·KBC)\n· 이번 사고로 민간인 2명의 사상자가 발생했습니다 (문화일보·KBS)\n\n출처: MBC·KBC·문화일보·KBS·중앙일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "밤길 국도를 달리던 자주포에 민간 차량이 추돌해 2명의 사상자가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가로등이 없는 야간에 이동 중이던 자주포에 차량들이 연쇄 추돌했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "밤길 국도에서\n[[자주포]]와 충돌?",
+  "broll": [
+    "night highway road",
+    "military vehicle road"
+  ],
+  "place_en": "South Korea"
+}
