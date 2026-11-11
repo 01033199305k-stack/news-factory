@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-11-news-la-north-hollywood-car-crowd-crash-2026",
+  "topic": "미 LA 군중 속 차량 돌진 최소 3명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 13:54 KST",
+  "source": "CBS News·The New York Times·ABC7 Los Angeles 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxNelpUMUFXNGVnOUFVeVhGdWdWd21ya1daVmY4V00yNm9FLU9ha3ByR1VzQWxKMHg2bFpacGZYaTRHN3JpR044azJIellPRjlaZ01fMkNfSEtNX1dHRHhwVFJYYkttRVVnSnVDVUNsV19meFFYc2x4aXFRbU4zYzg0OGxtcFgwQdIBiwFBVV95cUxNTHFpQnZoamE0TFBMS0R0V1JIcHRVRVBFenF1X0ZjUnBPT3NQSTk0aGk2QUU1ZG44c1UydjBfS2lFSksxejlSbEJPUVNoSE8zd0YySWVWMGhJeWticlhGblZBeERFMFRCY2VBX2tJd2dFcWpXLWlkSGo0eTZIVjBpdmJ5WC1USTRzaUhN",
+    "related": [
+      [
+        "3 dead after car crashes into street vendors, pedestrians near Metro station in North Hollywood",
+        "ABC7 Los Angeles"
+      ],
+      [
+        "Car Crashes Into Crowd in Los Angeles, Killing at Least 3 Pedestrians",
+        "The New York Times"
+      ],
+      [
+        "3 dead after vehicle crashes into people in North Hollywood",
+        "Japan Today"
+      ],
+      [
+        "3 dead, at least 3 critically injured in North Hollywood crash near Metro Station",
+        "KTLA"
+      ],
+      [
+        "At least 3 dead after car crashes into North Hollywood food stand",
+        "CBS News"
+      ]
+    ],
+    "event_key": "la_north_hollywood_car_crowd_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 LA 군중 속 [[차량 돌진]]\n최소 3명 숨져",
+      "sub": "지하철역 인근 노점상 덮쳐… 최소 3명 중상",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 3명"
+        },
+        {
+          "k": "중상",
+          "v": "최소 3명"
+        }
+      ],
+      "alt": "미 LA 군중 속 차량 돌진 최소 3명 숨져",
+      "map": {
+        "lat": 34.1649502,
+        "lon": -118.374752,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n로스앤젤레스 노스할리우드",
+      "video_only": true,
+      "map": {
+        "lat": 34.1649502,
+        "lon": -118.374752,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "로스앤젤레스 노스할리우드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지하철역 노점상 충돌",
+          "d": "차량이 노스할리우드 지하철역 근처 노점상과 보행자들을 덮쳤습니다 (ABC7·KTLA)."
+        },
+        {
+          "t": "최소 3명 중상",
+          "d": "이번 사고로 최소 3명이 크게 다쳤습니다 (KTLA)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "최소 3명 사망",
+        "최소 3명 중상",
+        "노스할리우드 지하철역 인근 차량 돌진"
+      ],
+      "unconfirmed": [
+        "운전자 신원 및 돌진 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 Los Angeles",
+        "CBS News",
+        "Japan Today",
+        "KTLA",
+        "The New York Times",
+        "2026.11.11 15:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 LA 군중 속으로 차량이 돌진해 최소 3명이 숨졌습니다.\n\n· 로스앤젤레스 노스할리우드 지하철역 인근에서 차량이 노점상과 보행자를 덮쳤습니다 (ABC7·KTLA).\n· 이번 사고로 최소 3명이 숨지고 최소 3명이 중상을 입었습니다 (KTLA·NYT).\n· 차량 충돌 경위와 운전자 신원은 아직 확인되지 않았습니다.\n\n출처: ABC7·KTLA·NYT·CBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 LA에서 차량이 군중을 덮쳐 최소 3명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 노스할리우드 지하철역 인근 노점상과 보행자 주변에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "KTLA는 보행자와 노점상이 치여 최소 3명이 중상을 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 충돌 원인과 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "LA 노점상 덮친 차량\n[[어떻게 된 일일까]]",
+  "broll": [
+    "ambulance night",
+    "police car lights"
+  ],
+  "place_en": "North Hollywood, Los Angeles, USA"
+}

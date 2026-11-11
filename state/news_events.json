@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france-southern-floods-2026",
-    "topic": "프랑스 남부 폭우로 홍수 최소 1~4명 사망",
-    "slug": "2026-10-22-news-france-southern-floods-2026",
-    "cluster": "CBMiXkFVX3lxTE9MdlUtREVvQzNNdUxmU2pMRjl4MzlqUVpPbXZ0ekF6QUhSaEJ3OUlIbWNOaHdGbzVHR283bHd6ZGI0TEJPeFBmUjFnUzB4TUZaNFYyQklEekRYbXVfQ2c",
-    "badge": "breaking",
-    "at": 1792674599.8932374,
-    "country": "프랑스",
-    "category": "재난"
-  },
-  {
     "event_key": "ukraine-strikes-russian-data-centers-disruption-2026",
     "topic": "우크라, 러 데이터센터 타격 은행 계좌·주거 서비스 마비",
     "slug": "2026-10-22-news-ukraine-strikes-russian-data-centers-disruption-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794370251.0349147,
     "country": "아이티",
     "category": "국제"
+  },
+  {
+    "event_key": "la_north_hollywood_car_crowd_crash_2026",
+    "topic": "미 LA 군중 속 차량 돌진 최소 3명 숨져",
+    "slug": "2026-11-11-news-la-north-hollywood-car-crowd-crash-2026",
+    "cluster": "CBMihgFBVV95cUxNelpUMUFXNGVnOUFVeVhGdWdWd21ya1daVmY4V00yNm9FLU9ha3ByR1VzQWxKMHg2bFpacGZYaTRHN3JpR044azJIellPRjlaZ01fMkNfSEtNX1dHRHhwVFJYYkttRVVnSnVDVUNsV19meFFYc2x4aXFRbU4zYzg0OGxtcFgwQdIBiwFBVV95cUxNTHFpQnZoamE0TFBMS0R0V1JIcHRVRVBFenF1X0ZjUnBPT3NQSTk0aGk2QUU1ZG44c1UydjBfS2lFSksxejlSbEJPUVNoSE8zd0YySWVWMGhJeWticlhGblZBeERFMFRCY2VBX2tJd2dFcWpXLWlkSGo0eTZIVjBpdmJ5WC1USTRzaUhN",
+    "badge": "breaking",
+    "at": 1794377217.836853,
+    "country": "미국",
+    "category": "사고"
   }
 ]
