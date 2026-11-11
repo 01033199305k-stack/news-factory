@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "musk-starlink-ukraine-restored-2026",
-    "topic": "우크라 스타링크 접속 다시 복구",
-    "slug": "2026-10-23-news-musk-starlink-ukraine-restored-2026",
-    "cluster": "CBMiXkFVX3lxTFBGYzFhVE5tenZFZjYwWkxlRFE2bnBRYm1tQklYcU9xSHZvNWpseHR2R3I1RDBJUnkycDhsWW5ZWHZLUHAtdzk5bEN5NUxnYmNNYmxCenFHZjBfRWYtSUE",
-    "badge": "brief",
-    "at": 1792707973.7596464,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "nyc_horse_carriage_ban_2026",
     "topic": "미국 뉴욕시, 마차 운행 전면 금지 170년 만에 센트럴파크 역사 속으로",
     "slug": "2026-10-23-news-nyc-horse-carriage-ban-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794406093.985128,
     "country": "캐나다",
     "category": "사고"
+  },
+  {
+    "event_key": "pakistan_police_ambush_kpk_2026",
+    "topic": "파키스탄 경찰대 매복 공격당해 최소 10명 사망",
+    "slug": "2026-11-12-news-pakistan-police-ambush-kpk-2026",
+    "cluster": "CBMi9gFBVV95cUxPU1VaUl9QaE96TW5SV25CTGQzazBLZnZJb05uLWVCaGk0ZWRhWHlMNWxTcGMzeWIzMHVuQjBIbHFYZ2tocEQ1dk9vcTdkMkVLYVlvdUU0SFUxVXlqcWFSR25EYzBjc1VtT3dlNHJtQWp2Q2VuWmZEaDRCYXBqWDVZYmhycEhFZDF0eFF3bnVlTGVONVJvTjJpS05GNVVieXZXNXdDNEJjaVdXMTVGYmRXWTZNd0tyX3JZNDV3eDRsMGRMN0c2c2JMdzQxeGI4T1hrMTRpRzFUQW9LTW5DU0hHcU1Sa05ScEJibW83SzhnUVNZd0trYnfSAfsBQVVfeXFMTkVYb1RkYm1XUHhvOWtVRnR5WHhfZDQ5c2FzeG02Ym5XYmllSGtaS05NS25Lb19TdEVLM0NwMmYwSjlMRHh2V3ZnT3FWdGNwbUVyUmphazdTc25sWk56ZkNlcGFKVGw5cE4tSFhMWjBQZTRWamFaWjdKMEJLZzZ3VEpYMVNfZGh4eUk1TXN1U2pkakltcWluT3ZRaTRaQWZZQ0xPMHA1YTB1S002eU4xMnoxcDYtcHZhZlJqQkpJQTZzblYteFMwTTZlUVhmdWhFWmtOekdIMVR6QUg4WDZkRjJla1BNZ3VIWnZCdFFDQTdWdXFtajBfMmh3SEU",
+    "badge": "breaking",
+    "at": 1794417117.9043536,
+    "country": "파키스탄",
+    "category": "총격·테러"
   }
 ]
