@@ -39096,5 +39096,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794424658
+  },
+  {
+    "slug": "2026-11-12-news-russia-us-ambassador-darchiev-dies-2026",
+    "event_ms": 1794418136000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 주미 러시아 대사 알렉산드르 다르치예프가 66세로 사망했습니다.\n\n· 러시아 외무부는 주미 대사가 갑작스럽게 세상을 떠났다고 발표함 (CNN·알자지라)\n· 외무부는 사망 사실을 공식 확인했으나 구체적 경위는 밝히지 않음 (NDTV)\n\n여러분은 이번 외교관 사망 소식을 어떻게 보십니까?\n\n출처: CNN·알자지라·NDTV 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18012979193988862",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfnNBUWGGUB",
+        "kind": "carousel",
+        "at": 1794424335
+      },
+      "youtube": {
+        "id": "eSrv9V_fd6I",
+        "permalink": "https://youtube.com/shorts/eSrv9V_fd6I",
+        "kind": "shorts",
+        "at": 1794428116
+      },
+      "tiktok": {
+        "id": "7707010153865907476",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707010153865907476",
+        "kind": "video",
+        "at": 1794428248
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794431389
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794431389
   }
 ]
