@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-11-news-iran-designates-argentina-navy-air-force-terrorist-2026",
+  "topic": "이란, 아르헨티나 해·공군 테러조직 지정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 15:10 KST",
+  "source": "Reuters·Arab News·Kurdistan24 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxNVGJGbXpBaU9TM2xZZXVhbFN0MFlBdVdhRGFjR1VkaHNnU2F5NXl6WmpmV01CZ2lXd1NiMlVsUDA2ZThZY3RMWHN5TmRKLTRidmdIYnRVQmdmQXBUQUc3MFNIaTJlYS0yMDNFck4xaTBIQXJ4M3RPQ3JhQzVQQUluMXJ2T1Nycm1zZWoxSkkxUTBoZi1ZWFkwQVR3bE1hRUtlWG9IdmhXUEljR2VrMElQNVVrUTJ1Z3c",
+    "related": [
+      [
+        "Iran designates Argentina's navy and air force as 'terrorist organizations'",
+        "Reuters"
+      ],
+      [
+        "Iran declares Argentine Navy Air Force terrorist organizations",
+        "Islamic Republic of Iran Ministry of Foreign Affairs"
+      ],
+      [
+        "Iran classifies Argentine air and naval forces as “terrorist organizations”",
+        "Arab News"
+      ],
+      [
+        "Iran Declares Argentina’s Navy And Air Force Terrorist Organizations",
+        "Kurdistan24"
+      ],
+      [
+        "Iran Designates Argentine Navy and Air Force as Terrorist Organizations",
+        "WANA News Agency"
+      ]
+    ],
+    "event_key": "iran_designates_argentina_navy_air_force_terrorist_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, 아르헨티나\n[[해·공군]] 테러조직 지정",
+      "sub": "이란 정부, 아르헨티나 해군·공군을 테러 단체로 지정 발표",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "아르헨티나 해·공군"
+        },
+        {
+          "k": "조치",
+          "v": "테러조직 지정"
+        }
+      ],
+      "alt": "이란, 아르헨티나 해·공군 테러조직 지정",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해·공군 테러단체 지정",
+          "d": "이란 외무부는 아르헨티나의 해군과 공군을 테러 조직으로 지정했다고 밝혔습니다 (로이터·아랍뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 외무부의 아르헨티나 해·공군 테러 조직 지정"
+      ],
+      "unconfirmed": [
+        "지정 배경 및 구체적인 제재 조치",
+        "아르헨티나 정부 공식 대응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Arab News",
+        "Islamic Republic of Iran Ministry of Foreign Affairs",
+        "Kurdistan24",
+        "Reuters",
+        "WANA News Agency",
+        "2026.11.11 16:51 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란 정부가 아르헨티나 해군과 공군을 테러 조직으로 지정했습니다.\n\n· 이란은 아르헨티나의 해군 및 공군 부대를 공식 테러 조직으로 분류했다고 발표했습니다 (로이터·아랍뉴스).\n\n이번 조치가 국제 안보와 외교 관계에 미칠 파장, 어떻게 보십니까?\n출처: 로이터·아랍뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 아르헨티나 해군과 공군을 테러 조직으로 공식 지정했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "지정 배경과 구체적인 후속 조치는 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "양국 간의 이번 외교 갈등, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이란이 [[아르헨티나 해·공군]]\n테러조직 지정한 이유",
+  "broll": [
+    "government press conference",
+    "naval ship ocean"
+  ],
+  "place_en": "Tehran, Iran"
+}

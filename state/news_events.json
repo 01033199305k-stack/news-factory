@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-strikes-russian-data-centers-disruption-2026",
-    "topic": "우크라, 러 데이터센터 타격 은행 계좌·주거 서비스 마비",
-    "slug": "2026-10-22-news-ukraine-strikes-russian-data-centers-disruption-2026",
-    "cluster": "CBMiowFBVV95cUxQYWpTNEFPQ2s1OU5QRS1HMzBDVExXeFRlOWUxRzNWamxYTjREcENTMmw1VWlrNkRpdnFNRUFXLVZTUjI3SkZqRlhIZVVXc2hhampybC1pbHVkT2Nhd290ZVlOWEt1TDA4YzgwUUxOM2k1OEE2UFZGWi1DRkU2ckwxVHNZR3pQb2tVN3I2MjFfQlhMZjhqSDdXTTFyRUJCUlFueGlF",
-    "badge": "breaking",
-    "at": 1792677193.6369784,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "hormuz_strait_tanker_attack_2026",
     "topic": "호르무즈 해협서 유조선 7척 공격받아",
     "slug": "2026-10-22-news-hormuz-strait-tanker-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794377217.836853,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "iran_designates_argentina_navy_air_force_terrorist_2026",
+    "topic": "이란, 아르헨티나 해·공군 테러조직 지정",
+    "slug": "2026-11-11-news-iran-designates-argentina-navy-air-force-terrorist-2026",
+    "cluster": "CBMitwFBVV95cUxNVGJGbXpBaU9TM2xZZXVhbFN0MFlBdVdhRGFjR1VkaHNnU2F5NXl6WmpmV01CZ2lXd1NiMlVsUDA2ZThZY3RMWHN5TmRKLTRidmdIYnRVQmdmQXBUQUc3MFNIaTJlYS0yMDNFck4xaTBIQXJ4M3RPQ3JhQzVQQUluMXJ2T1Nycm1zZWoxSkkxUTBoZi1ZWFkwQVR3bE1hRUtlWG9IdmhXUEljR2VrMElQNVVrUTJ1Z3c",
+    "badge": "breaking",
+    "at": 1794383511.4941876,
+    "country": "이란",
+    "category": "국제"
   }
 ]
