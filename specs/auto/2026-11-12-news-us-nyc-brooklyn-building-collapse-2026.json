@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-12-news-us-nyc-brooklyn-building-collapse-2026",
+  "topic": "뉴욕 브루클린 건물 붕괴 사람들 매몰",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 07:18 KST",
+  "source": "CNN·ABC7 New York·News12 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxNWGxYems3T1dGcG5ob3R6aFo5VHhELXNLR0djOTJDWHJLQjEyeTV5TF9WRnR1TTByMkFVQmtJLTk5blA1bk9ZNzg3QnFVeDZwY2dFdXRUcHlvcWU1Q1BGQVkwRFBFd3FhLWItRUx4NXVtdzZBdC1MZlBnTGxFLVZWMGllLW0wdG8wbUxkWkh6Zi1Nb1N6WHptdUNDdUc0dlh6QUJR0gGoAUFVX3lxTE5EcDNUNEdPdThKYmhEM3F6aVJNQWFJNUpuSTVvWDdwbUI5dFduUTRQNWxHaXMzcTNtTGZGVmR5X1JBaE5JV09xZDdTeGtaVVlyZmlWZG5pSlU1VHBUX085azRUaW9fRWFqTzRoQmlsQ283MG9LQmhLUDN1WW9RUXhxZ2RhQ1duMElqSDBDU3h2bGVtLXNtc05PX3ByZFU3V19TMGg3QnZtWg",
+    "related": [
+      [
+        "Brooklyn building collapse: People trapped, several injured in Flatbush",
+        "ABC7 New York"
+      ],
+      [
+        "3-story Brooklyn building collapses, leaving people trapped under rubble",
+        "CNN"
+      ],
+      [
+        "People trapped in collapsed Brooklyn building, FDNY says",
+        "Spectrum News NY1"
+      ],
+      [
+        "Building Collapses In Flatbush Multiple People Trapped Beneath Rubble",
+        "News12 | Brooklyn"
+      ],
+      [
+        "New York City building collapse traps people in rubble",
+        "WRAL"
+      ]
+    ],
+    "event_key": "us_nyc_brooklyn_building_collapse_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[뉴욕]] 브루클린 건물 붕괴\n사람들 매몰",
+      "sub": "브루클린 플랫부시 3층 건물이 무너져 매몰자가 발생했습니다",
+      "chips": [
+        {
+          "k": "건물",
+          "v": "3층"
+        }
+      ],
+      "alt": "뉴욕 브루클린 건물 붕괴 사람들 매몰",
+      "map": {
+        "lat": 40.6520481,
+        "lon": -73.959027,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕 브루클린",
+      "video_only": true,
+      "map": {
+        "lat": 40.6520481,
+        "lon": -73.959027,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕 브루클린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "매몰자 구조",
+          "d": "소방 당국과 구조대가 잔해 아래 갇힌 사람들을 수색하고 있습니다."
+        },
+        {
+          "t": "인명 피해",
+          "d": "여러 명이 부상을 입고 매몰되었습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 뉴욕 브루클린 플랫부시 3층 건물 붕괴",
+        "사람들 매몰 및 부상"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 수 및 인명 피해 규모",
+        "건물 붕괴 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 New York",
+        "CNN",
+        "News12 | Brooklyn",
+        "Spectrum News NY1",
+        "WRAL",
+        "2026.11.12 07:55 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 뉴욕 브루클린에서 3층 건물이 붕괴해 사람들이 잔해에 매몰됐습니다.\n\n· 뉴욕 브루클린 플랫부시 지역의 3층 건물이 무너져 매몰자가 발생했습니다 (CNN·ABC7)\n· 여러 명이 부상을 입고 구조대가 수색 중입니다\n\n출처: ABC7·CNN·Spectrum News NY1 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 뉴욕 브루클린에서 3층 건물이 무너지며 사람들이 잔해에 갇혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 플랫부시 지역에서 일어났으며 소방 당국이 출동했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "ABC7과 CNN은 여러 부상자와 매몰자가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[뉴욕 브루클린]] 건물 붕괴\n[[잔해 속 갇힌 사람들]]",
+  "broll": [
+    "building collapse rubble",
+    "firefighters rescue scene"
+  ],
+  "place_en": "Flatbush, Brooklyn, New York"
+}

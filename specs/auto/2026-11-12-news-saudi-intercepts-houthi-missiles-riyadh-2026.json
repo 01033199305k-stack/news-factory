@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-12-news-saudi-intercepts-houthi-missiles-riyadh-2026",
+  "topic": "사우디 미사일 요격 리야드 공항 표적",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 05:57 KST",
+  "source": "India Today·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ",
+    "related": [
+      [
+        "Saudi Arabia intercepts Houthi missiles, drones; group denies targeting Mecca",
+        "Reuters"
+      ],
+      [
+        "Explosions heard in Saudi capital Riyadh: Sources",
+        "The Hindu"
+      ],
+      [
+        "Houthis: The first operation targeted King Khalid International Airport and a number of pumping stations on the east-west pipeline in the Saudi Arabian capital, Riyadh.",
+        "CGTN"
+      ],
+      [
+        "On Cam: Houthis Drop Chilling Footage Of Aircraft Hunting Saudi Troops & Tanks| Firstpost Live",
+        "Firstpost"
+      ],
+      [
+        "Houthis target Riyadh airport, Aramco facility in response to Saudi strikes on Taiz Yemen",
+        "India Today"
+      ]
+    ],
+    "event_key": "saudi_intercepts_houthi_missiles_riyadh_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[사우디]] 미사일 요격\n리야드 공항 표적",
+      "sub": "예멘 후티 반군이 수도 공항과 석유 시설을 겨냥해 공격을 시도했습니다",
+      "chips": [
+        {
+          "k": "공격 주체",
+          "v": "후티 반군"
+        }
+      ],
+      "alt": "사우디 미사일 요격 리야드 공항 표적",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수도 상공 폭발음",
+          "d": "사우디 수도 리야드 상공에서 폭발음이 들렸습니다 (더힌두)."
+        },
+        {
+          "t": "후티 공격 주장",
+          "d": "후티 측은 킹칼리드 국제공항과 아람코 시설을 공격했다고 밝혔습니다 (CGTN·인디아투데이)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디의 후티 미사일·드론 요격",
+        "후티 반군의 리야드 공격 주장"
+      ],
+      "unconfirmed": [
+        "상세 피해 규모 및 부상자 발생 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CGTN",
+        "Firstpost",
+        "India Today",
+        "Reuters",
+        "The Hindu",
+        "2026.11.12 07:55 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디아라비아가 예멘 후티 반군의 미사일과 드론을 요격했습니다.\n\n· 사우디가 후티 반군의 미사일과 드론을 요격했습니다 (로이터)\n· 후티 측은 리야드 킹칼리드 국제공항과 아람코 시설을 표적으로 공격했다고 밝혔습니다 (CGTN·인디아투데이)\n\n중동 지역의 이번 미사일 공격 사태, 어떻게 보십니까?\n\n출처: 로이터·더힌두·CGTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아가 예멘 후티 반군의 미사일과 드론을 요격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디 수도 리야드 상공에서는 폭발음이 들렸습니다.",
+      "card": "map"
+    },
+    {
+      "text": "후티 측은 킹칼리드 국제공항과 아람코 시설을 표적으로 공격했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 공격으로 인한 인명 피해나 상세 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "중동 지역의 미사일 공격 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[사우디]] 수도 상공\n폭발음 들린 이유",
+  "broll": [
+    "air defense system night",
+    "airport tarmac night"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}

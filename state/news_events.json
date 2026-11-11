@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "canada-wainwright-base-fire-2026",
-    "topic": "캐나다 군 기지 화재 군인 4명 숨져",
-    "slug": "2026-10-23-news-canada-wainwright-base-fire-2026",
-    "cluster": "CBMirgFBVV95cUxPanMySEgxUHRPaWduM1RDS1UxbHNNWjJKNDJOSzZ4bHc1aERLQXNaNmEwQXVsMlB4OU1DbTRsZEs4WTM0UThXT0pqOG56TTFqTFFFb0NBWlVMWUFCOE5NLVd3Qk93X3RFUDNaNUVRZGZEQmF1OU1McXJxV2dUeUNvVlJwLXF3RGRKLWt0S3ppSFR0RkJLblRvUk15VjFtRTFDUnhaZG1vS2tfVzNPRkE",
-    "badge": "breaking",
-    "at": 1792728491.9276502,
-    "country": "캐나다",
-    "category": "폭발·화재"
-  },
-  {
-    "event_key": "uae_umm_al_quwain_oil_spill_2026",
-    "topic": "UAE 유조선 기름 유출 움알쿠와인 해변 폐쇄",
-    "slug": "2026-10-23-news-uae-umm-al-quwain-oil-spill-2026",
-    "cluster": "CBMivwFBVV95cUxQaC1uZEZSM2M5ODhmSWVFUi1mMGtwTmRMRlZvcGlhMjRzSE9vOTF4cG40c0YtWGMtSUFja0M2eTM1QjFhODJaYnVXaFpQU1F3NlJtSGJnN1VFM09LUnZBdFlJUUtneHZUSHlZbzZOdnd1dDVOQWIyVHVBbEdNcC1lVlVpclctOV9VRjdNbVNmWEtZWnJoTDlCSWxzZ2tDM1JyeFJaVlp2eklBdUM0LU5LT251cjNkdHNVcE9ON1pMOA",
-    "badge": "breaking",
-    "at": 1792735866.2428036,
-    "country": "아랍에미리트",
-    "category": "사고"
-  },
-  {
     "event_key": "west-bank-judea-junction-shooting-2026",
     "topic": "서안지구 총격 테러 최소 5명 부상",
     "slug": "2026-10-23-news-west-bank-judea-junction-shooting-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794431699.0975196,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_nyc_brooklyn_building_collapse_2026",
+    "topic": "뉴욕 브루클린 건물 붕괴 사람들 매몰",
+    "slug": "2026-11-12-news-us-nyc-brooklyn-building-collapse-2026",
+    "cluster": "CBMiowFBVV95cUxNWGxYems3T1dGcG5ob3R6aFo5VHhELXNLR0djOTJDWHJLQjEyeTV5TF9WRnR1TTByMkFVQmtJLTk5blA1bk9ZNzg3QnFVeDZwY2dFdXRUcHlvcWU1Q1BGQVkwRFBFd3FhLWItRUx4NXVtdzZBdC1MZlBnTGxFLVZWMGllLW0wdG8wbUxkWkh6Zi1Nb1N6WHptdUNDdUc0dlh6QUJR0gGoAUFVX3lxTE5EcDNUNEdPdThKYmhEM3F6aVJNQWFJNUpuSTVvWDdwbUI5dFduUTRQNWxHaXMzcTNtTGZGVmR5X1JBaE5JV09xZDdTeGtaVVlyZmlWZG5pSlU1VHBUX085azRUaW9fRWFqTzRoQmlsQ283MG9LQmhLUDN1WW9RUXhxZ2RhQ1duMElqSDBDU3h2bGVtLXNtc05PX3ByZFU3V19TMGg3QnZtWg",
+    "badge": "breaking",
+    "at": 1794437734.8635821,
+    "country": "미국",
+    "category": "사고"
+  },
+  {
+    "event_key": "saudi_intercepts_houthi_missiles_riyadh_2026",
+    "topic": "사우디 미사일 요격 리야드 공항 표적",
+    "slug": "2026-11-12-news-saudi-intercepts-houthi-missiles-riyadh-2026",
+    "cluster": "CBMizwFBVV95cUxNa0VablB0SWViZWpCRFg4bC0yX2ZTM19HNmFFVUdqVVlwbWRuRjdpSnNXZ3liU04zeTYyZWJPSlhLeEVRTUlMS0N2SnlPdEpINzVHUTJjRXJjd3RKdEZMLS14czdZSlpjcWlJWm95bFpTNHgxblNSVlFyLWhsQ0JncVFZRGRmQ0p6cDZQRGRtNlh6LWxnVXlLRkJyelFzdTFoM285d2tQZTJvS1BkYkRzLVZwUERKc2pHbVBqOUZDSmFRbGJ4TmpmQVExbnEzOTQ",
+    "badge": "breaking",
+    "at": 1794437746.8176448,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]

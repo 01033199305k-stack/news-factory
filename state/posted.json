@@ -39255,5 +39255,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794435101
+  },
+  {
+    "slug": "2026-11-12-news-coreweave-q3-revenue-nasdaq-surge",
+    "event_ms": 1794431040000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 코어위브 3분기 실적 호조에 나스닥 기술주 반등\n\n· 코어위브가 예상치를 웃도는 3분기 매출을 기록하며 연간 전망을 상향 조정했습니다 (CNBC·야후 파이낸스)\n· 이번 실적 발표로 AI 거품 우려가 완화되며 엔비디아 등 관련 주가 상승을 이끌었습니다 (로이터·CNBC)\n\n독자 여러분은 최근 AI 관련 기술주들의 주가 흐름을 어떻게 보십니까?\n\n출처: CNBC·야후 파이낸스·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18130084772485925",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfnbLx4IN-b",
+        "kind": "carousel",
+        "at": 1794431762
+      },
+      "youtube": {
+        "id": "NzFe8GILXNs",
+        "permalink": "https://youtube.com/shorts/NzFe8GILXNs",
+        "kind": "shorts",
+        "at": 1794431975
+      },
+      "tiktok": {
+        "id": "7707026671903231284",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707026671903231284",
+        "kind": "video",
+        "at": 1794432109
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794438062
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794438062
   }
 ]
