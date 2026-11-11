@@ -38636,5 +38636,109 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794370985
+  },
+  {
+    "slug": "2026-11-11-news-us-bessent-military-base-relocation-iran-threat",
+    "event_ms": 1794358800000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 재무장관이 이란의 위협으로 군 기지로 이동했습니다.\n\n· 스콧 베센트 미국 재무장관이 안전을 위해 군 기지로 거처를 옮겼습니다 (뉴욕타임스).\n· 이란의 암살 위협 가능성에 따른 보안 조치로 알려졌습니다 (로이터).\n\n이번 조치에 대해 어떻게 생각하십니까?\n\n출처: 로이터·뉴욕타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18081634391781144",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfle5NnjrO1",
+        "kind": "carousel",
+        "at": 1794366599
+      },
+      "youtube": {
+        "id": "nGPSnF6mjZc",
+        "permalink": "https://youtube.com/shorts/nGPSnF6mjZc",
+        "kind": "shorts",
+        "at": 1794370581
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794373568
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "expired",
+    "at": 1794380898
+  },
+  {
+    "slug": "2026-11-11-news-el-salvador-troops-haiti-gang-offensive-2026",
+    "event_ms": 1794362495000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 아이티 갱단 소탕 나선 엘살바도르군… 20명 사망\n\n· 알자지라는 엘살바도르군의 작전으로 20명이 숨졌다고 보도했습니다 (알자지라)\n· BBC는 엘살바도르 대통령 발표를 인용해 대형 갱단 '400 마워조'의 본부가 파괴됐다고 전했습니다 (BBC)\n· AP 통신은 아이티 지도자가 군사 작전을 논의하기 위해 엘살바도르를 방문할 예정이라고 전했습니다 (AP 통신)\n\n외국 군대를 통한 치안 개입과 갱단 소탕에 대해 어떻게 생각하십니까?\n출처: 알자지라·BBC·AP 통신 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "아이티"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18471792877188520",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfll8hdDuta",
+        "kind": "carousel",
+        "at": 1794370294
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1794370591
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794377408
+      },
+      "tiktok": {
+        "id": "7706807316942687495",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7706807316942687495",
+        "kind": "video",
+        "at": 1794381020
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794381030
   }
 ]
