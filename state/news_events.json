@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france-shamonda-virus-first-human-death-2026",
-    "topic": "프랑스에서 샤몬다 바이러스 첫 인체 감염 사망자 발생",
-    "slug": "2026-10-22-news-france-shamonda-virus-first-human-death-2026",
-    "cluster": "CBMiugFBVV95cUxQejBUXzcxOHI0Z0dYUTBSeHdDcWdKQTc5WDlnVk4xeml4UTJpTjViR19hc1JtWTJ4WjVfMXV6RDhxemYwOW94Z2xwdXJ3U19NR2NCV3NpMWYyanUzS0E0aVpXZ29pbTNleWk3Zkk4SmtacUJkM0g4enBRdGYydWVKS0QxUDNndG96WUduR1ltNHljZEotallkRXlYM1J2bmZscmRWVXh5NThHWUdlVmR6ZGlhMmRIUXMxd1E",
-    "badge": "breaking",
-    "at": 1792663798.3728511,
-    "country": "프랑스",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "iran-threatens-undersea-cables-hormuz-2026",
     "topic": "이란 혁명수비대 해저 케이블 위협",
     "slug": "2026-10-22-news-iran-threatens-undersea-cables-hormuz-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794360166.7397351,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "us_bessent_military_base_relocation_iran_threat",
+    "topic": "미국 재무장관 군 기지로 이동",
+    "slug": "2026-11-11-news-us-bessent-military-base-relocation-iran-threat",
+    "cluster": "CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw",
+    "badge": "breaking",
+    "at": 1794366548.8679028,
+    "country": "미국",
+    "category": "국제"
   }
 ]

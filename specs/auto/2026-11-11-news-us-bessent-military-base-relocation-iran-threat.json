@@ -1,0 +1,138 @@
+{
+  "slug": "2026-11-11-news-us-bessent-military-base-relocation-iran-threat",
+  "topic": "미국 재무장관 군 기지로 이동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 10:00 KST",
+  "source": "Reuters·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizgFBVV95cUxPT3lYOEw5X1FaSkpweDhiUmp3d0QybFR3ZU4xRl8wYXRRMS1CbzFFWENqLXNBVDZhOHBvSHdXSFh3NW5oNXEyUjRfWmFMT0g1bkV2NXRWWDc5UUpsaXVWLWxwQ0RLSkRkTW5jSWlkQ1p1dzFRa2pySzFVTklVb0k3TFo1bmZPb0lZTXVId1oyN2hCZGxkRmZua2R1ay1LN3VkNE1zb1FFNHUwNGNwSlBVdE5aMzFocFlGWTNINElWV3BvY21lOWRNTmxaNHB2dw",
+    "related": [
+      [
+        "US Treasury chief Bessent moved to military base after Iranian threats, NYT reports",
+        "Reuters"
+      ],
+      [
+        "U.S. Treasury chief Bessent moved to military base after Iranian threats, reports say",
+        "The Hindu"
+      ],
+      [
+        "US Iran War Live Updates: US treasury chief Scott Bessent moved to military base over Iran assassination threats",
+        "The Times of India"
+      ],
+      [
+        "Is Iran plotting to kill Scott Bessent? US Treasury chief relocates amid security fears",
+        "Firstpost"
+      ],
+      [
+        "Bessent Moved to Military Base In Wake of Iranian Threats - NY Times",
+        "CGTN"
+      ]
+    ],
+    "event_key": "us_bessent_military_base_relocation_iran_threat"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 [[재무장관]]\n군 기지로 이동",
+      "sub": "이란의 암살 위협에 안전 확보 조치",
+      "chips": [],
+      "alt": "미국 재무장관 군 기지로 이동",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이란 암살 위협",
+          "d": "이란 측의 암살 위협 가능성이 제기되어 신변 보호 조치가 취해졌습니다 (뉴욕타임스)."
+        },
+        {
+          "t": "군 기지로 거처 이동",
+          "d": "스콧 베센트 미 재무장관이 군 기지로 거처를 옮겼습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스콧 베센트 재무장관 군 기지 이동"
+      ],
+      "unconfirmed": [
+        "이란 측 암살 위협의 구체적 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CGTN",
+        "Firstpost",
+        "Reuters",
+        "The Hindu",
+        "The Times of India",
+        "2026.11.11 12:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 재무장관이 이란의 위협으로 군 기지로 이동했습니다.\n\n· 스콧 베센트 미국 재무장관이 안전을 위해 군 기지로 거처를 옮겼습니다 (뉴욕타임스).\n· 이란의 암살 위협 가능성에 따른 보안 조치로 알려졌습니다 (로이터).\n\n이번 조치에 대해 어떻게 생각하십니까?\n\n출처: 로이터·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 스콧 베센트 재무장관이 군 기지로 이동했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스는 이란의 암살 위협 가능성에 따라 이동 조치가 이뤄졌다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "베센트 장관은 신변 안전 확보를 위해 거처를 군 기지로 옮긴 상태입니다.",
+      "card": "points"
+    },
+    {
+      "text": "위협의 구체적인 경위는 아직 밝혀지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 조치에 대해 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 [[재무장관]]이\n군 기지로 이동한 이유",
+  "broll": [
+    "military base entrance",
+    "pentagon building"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
