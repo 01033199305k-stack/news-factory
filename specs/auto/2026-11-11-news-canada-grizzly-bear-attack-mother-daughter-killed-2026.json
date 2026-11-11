@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-11-news-canada-grizzly-bear-attack-mother-daughter-killed-2026",
+  "topic": "캐나다서 곰 습격 모녀 2명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.11 20:24 KST",
+  "source": "BBC·CBS News·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxPQmdkV01lZDhWVWJuY3Y0YTE2MldFNUNqMFlQRHVTWHlqLW5Lc0p6NHl2eTdUVF80RzF3N3gtTTRSSTNGRXNyd0h5WFBJZFVhNEZKdFZSMVlDdzV2aXo0ZjFTTkRDRFFleVN5dlUtRkhZNXk4TDBydmhObHJxZFQ3SzRkMmQ",
+    "related": [
+      [
+        "Mama grizzly bear and her 3 cubs killed woman and daughter in Canada, DNA confirms: \"Predatory behavior\"",
+        "CBS News"
+      ],
+      [
+        "Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers",
+        "The New York Times"
+      ],
+      [
+        "Four grizzly bears killed in Canada after fatal attack on mum and daughter",
+        "BBC"
+      ],
+      [
+        "Canada: 4 bears put down after killing mother, daughter",
+        "DW.com"
+      ],
+      [
+        "4 grizzly bears euthanized after deadly attack that killed 2 people",
+        "NBC Montana"
+      ]
+    ],
+    "event_key": "canada_grizzly_bear_attack_mother_daughter_killed_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "캐나다서 곰 습격\n모녀 [[2명 사망]]",
+      "sub": "현지 당국은 공격에 관련된 곰 4마리를 사살했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        }
+      ],
+      "alt": "캐나다서 곰 습격 모녀 2명 사망",
+      "map": {
+        "lat": 61.0666922,
+        "lon": -107.991707,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "캐나다"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "캐나다",
+      "video_only": true,
+      "map": {
+        "lat": 61.0666922,
+        "lon": -107.991707,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캐나다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "곰 4마리 사살",
+          "d": "당국은 공격에 가담한 곰 4마리를 안락사 처리했습니다 (BBC·NYT)."
+        },
+        {
+          "t": "유전자 검사 확인",
+          "d": "DNA 검사 결과 곰의 포식 공격 행동으로 확인됐습니다 (CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "모녀 2명 사망 (BBC·NYT)",
+        "곰 4마리 안락사 (BBC·DW)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "자세한 사고 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CBS News",
+        "DW.com",
+        "NBC Montana",
+        "The New York Times",
+        "2026.11.11 23:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 캐나다에서 곰의 공격으로 모녀 2명이 숨졌습니다.\n\n· 당국은 공격에 가담한 곰 4마리를 사살했습니다 (BBC·NYT)\n· DNA 검사 결과 곰의 포식적 공격으로 확인됐습니다 (CBS)\n\n출처: BBC·NYT·CBS·DW 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "캐나다에서 곰의 공격으로 모녀 2명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "캐나다 현지에서 발생한 사고입니다.",
+      "card": "map"
+    },
+    {
+      "text": "당국은 공격에 관련된 곰 4마리를 사살했다고 BBC가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "유전자 검사로 곰의 포식 공격임이 확인됐습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "야생 곰 습격\n[[모녀]]의 비극",
+  "broll": [
+    "forest trail mountain",
+    "pine forest national park"
+  ],
+  "place_en": "Canada"
+}

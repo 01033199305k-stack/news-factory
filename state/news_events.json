@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "moderna-merck-cancer-vaccine-data-2026",
-    "topic": "모더나·머크 항암 백신, 흑색종 사망 위험 40% 이상 낮춰",
-    "slug": "2026-10-23-news-moderna-merck-cancer-vaccine-data-2026",
-    "cluster": "CBMingFBVV95cUxNN3lFT3FtM2N0ZUk0aDFIMWVOZ25wU1RPcGNpZm54c0NrVmJuTHRXZEtPVVdJcUN0ZC1RangwNWFGWUp4bjdPbEY5VnRZcWo1WlQ3a1UzYkdFWFR3MWh3R3hzcGhpX01WakZzX2JmcnR6M3dwNjVjdGdXajdMSWtWNFA2aDAxRGZBUWdRZzJNUzNQNHRXR2pGejdRNnZxQQ",
-    "badge": "breaking",
-    "at": 1792699664.68488,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "musk-starlink-ukraine-restored-2026",
     "topic": "우크라 스타링크 접속 다시 복구",
     "slug": "2026-10-23-news-musk-starlink-ukraine-restored-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794399301.634645,
     "country": "이탈리아",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "canada_grizzly_bear_attack_mother_daughter_killed_2026",
+    "topic": "캐나다서 곰 습격 모녀 2명 사망",
+    "slug": "2026-11-11-news-canada-grizzly-bear-attack-mother-daughter-killed-2026",
+    "cluster": "CBMihAFBVV95cUxPQmdkV01lZDhWVWJuY3Y0YTE2MldFNUNqMFlQRHVTWHlqLW5Lc0p6NHl2eTdUVF80RzF3N3gtTTRSSTNGRXNyd0h5WFBJZFVhNEZKdFZSMVlDdzV2aXo0ZjFTTkRDRFFleVN5dlUtRkhZNXk4TDBydmhObHJxZFQ3SzRkMmQ",
+    "badge": "breaking",
+    "at": 1794406093.985128,
+    "country": "캐나다",
+    "category": "사고"
   }
 ]
