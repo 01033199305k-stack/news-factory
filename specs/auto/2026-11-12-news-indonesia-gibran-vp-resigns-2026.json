@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-12-news-indonesia-gibran-vp-resigns-2026",
+  "topic": "인도네시아 부통령 기브란 사임",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 01:38 KST",
+  "source": "BBC·Reuters·CNA 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE16cjZYejY1MUdIcF9KMTY5TndPRndrWFhvT29oVTk0dTgwQUE1bVRCNFlwWUNSQ0prS09FdUp2SXRBQWxFQU5yWXJtU0s2Q0Y5bHFZOG5udV9lNms",
+    "related": [
+      [
+        "Gibran Rakabuming Raka: Indonesia's vice president resigns amid signs ruling alliance is fraying",
+        "BBC"
+      ],
+      [
+        "Indonesia's vice president has resigned, aide says, stoking political uncertainty",
+        "Reuters"
+      ],
+      [
+        "Over 100 Indonesian lawmakers sign petition that could lead to vice-president's impeachment",
+        "CNA"
+      ],
+      [
+        "'I'm Done...': Indonesia's Veep, Son Of Ex-Prez Jokowi, Seeks Exit Amid Tussle With Prabowo |Vantage",
+        "Firstpost"
+      ],
+      [
+        "Fate of Indonesia’s vice president hangs in the balance as lawmakers mull probe",
+        "ThePrint"
+      ]
+    ],
+    "event_key": "indonesia_gibran_vp_resigns_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인도네시아 부통령\n[[기브란]] 사임",
+      "sub": "연정 갈등과 의회의 탄핵 추진 움직임 속 사임했습니다",
+      "chips": [
+        {
+          "k": "탄핵 서명",
+          "v": "100여 명"
+        }
+      ],
+      "alt": "인도네시아 부통령 기브란 사임",
+      "map": {
+        "lat": -6.1754049,
+        "lon": 106.827168,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "인도네시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "인도네시아\n자카르타",
+      "video_only": true,
+      "map": {
+        "lat": -6.1754049,
+        "lon": 106.827168,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "자카르타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "탄핵 소추안 추진",
+          "d": "인도네시아 의원 100여 명이 부통령 탄핵을 위한 탄원서에 서명했습니다 (CNA)."
+        },
+        {
+          "t": "연립정부 갈등",
+          "d": "연정 결속이 흔들리는 징후 속에서 사임했습니다 (BBC·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "기브란 부통령 사임",
+        "의원 100여 명 탄핵 서명"
+      ],
+      "unconfirmed": [
+        "사임 관련 세부 배경",
+        "향후 정국 향방"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNA",
+        "Firstpost",
+        "Reuters",
+        "ThePrint",
+        "2026.11.12 04:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도네시아 기브란 부통령이 사임을 발표했습니다.\n\n· 의원 100여 명이 부통령 탄핵을 위한 탄원서에 서명함 (CNA)\n· 연정 결속이 흔들리는 징후 속에서 사임함 (BBC·로이터)\n\n여러분은 이번 인도네시아 정국 혼란을 어떻게 보십니까?\n\n출처: BBC·로이터·CNA 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도네시아 기브란 부통령이 사임을 표명했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 연립정권 결속이 흔들리는 징후 속에서 사임했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "인도네시아 의원 100여 명은 부통령 탄핵을 유도할 수 있는 탄원서에 서명했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정치적 불확실성이 커진 가운데 향후 정국 향방은 아직 확실하지 않습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 인도네시아 정국 혼란을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "인도네시아 [[부통령]]\n사임 배경은?",
+  "broll": [
+    "parliament building exterior",
+    "press conference microphone"
+  ],
+  "place_en": "Jakarta, Indonesia"
+}

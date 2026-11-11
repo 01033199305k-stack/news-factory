@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-12-news-russia-us-ambassador-darchiev-dies-2026",
+  "topic": "주미 러시아 대사 다르치예프 갑작스런 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 02:28 KST",
+  "source": "Al Jazeera·CNN·India Today 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0gFBVV95cUxPWXFSRGFpVDFhRnZKaW9TUHg3YU4zak50bGp4TDRBSzNQRjJOWmVXVl9uZEx5ZGVOZzZNZXAzdVhoR2R4YzNmdUZ0V1FnWXEzRkozbGtKSVN1THZobTh0aFhhUkF1MUFVbUxDWjZEajYzU0NPdGNpZ1VjemE1VFFZSW1qMXdUZ3RnTmlMclUxYlM1R2ljcVd1Z1JCVHBoaHY3VU1FQmhGNzBjY0FfYVFWZXdwdUhlcnlfRVdjZUJxSXBrU3l5ekthcHlxdG15R2owZVHSAdcBQVVfeXFMTjNtcDFCYUZkQmdQWkQzYk5UcGpKT05sWFhyYnBfQmNXRk1uU0hSYWhWLWdoQzdnUExWYW4yb3J2Ym8xQi0wUUpmM1lmMjNkSnZpMjQ4cTNDSk5wUy1qdkFRaWJoTWQ0bTlxb0xwUW9aTS1Lb21yczVZLVZOTHI0VGJDMnlXcDRfelVDVlB2MlNSMDExOFFQRkhlSXZ2alFZV3VSNGd4LW92Tkd3dFktSU1LelRORUxxMGdUZkJOckxiXzl6a1M3d2p5b2hlNnp5OVdaS3dGblU",
+    "related": [
+      [
+        "Russian ambassador to US Alexander Darchiev dies suddenly at 66, says foreign ministry",
+        "India Today"
+      ],
+      [
+        "Russian ambassador to US dies suddenly, foreign ministry says",
+        "CNN"
+      ],
+      [
+        "Russia's Ambassador To US Alexander Darchiev Dies \"Suddenly\" At 66: Moscow",
+        "NDTV"
+      ],
+      [
+        "Russia’s ambassador to US, Alexander Darchiev, dies at 66",
+        "Al Jazeera"
+      ],
+      [
+        "Russian ambassador to US Alexander Darchiev dies 'suddenly' at 66",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "russia_us_ambassador_darchiev_dies_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "주미 러시아 대사\n[[다르치예프]] 갑작스런 사망",
+      "sub": "러시아 외무부가 66세의 나이로 숨졌다고 공식 발표했습니다",
+      "chips": [
+        {
+          "k": "나이",
+          "v": "66세"
+        }
+      ],
+      "alt": "주미 러시아 대사 다르치예프 갑작스런 사망",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "러시아 외무부 발표",
+          "d": "알렉산드르 다르치예프 주미 대사가 66세로 갑작스럽게 사망했다고 러시아 외무부가 밝혔습니다 (CNN·알자지라)."
+        },
+        {
+          "t": "구체적 경위 미공개",
+          "d": "외무부는 사망 사실을 알리면서도 구체적인 사망 경위에 대해서는 설명하지 않았습니다 (NDTV)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "알렉산드르 다르치예프 사망",
+        "향년 66세"
+      ],
+      "unconfirmed": [
+        "정확한 사망 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNN",
+        "India Today",
+        "NDTV",
+        "The Times of India",
+        "2026.11.12 04:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 주미 러시아 대사 알렉산드르 다르치예프가 66세로 사망했습니다.\n\n· 러시아 외무부는 주미 대사가 갑작스럽게 세상을 떠났다고 발표함 (CNN·알자지라)\n· 외무부는 사망 사실을 공식 확인했으나 구체적 경위는 밝히지 않음 (NDTV)\n\n여러분은 이번 외교관 사망 소식을 어떻게 보십니까?\n\n출처: CNN·알자지라·NDTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "알렉산드르 다르치예프 주미 러시아 대사가 66세의 나이로 갑작스럽게 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아 외무부는 주미 대사의 사망 사실을 공식 발표했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "외무부는 그가 갑작스럽게 세상을 떠났다고 전했으나 구체적인 사인은 밝히지 않았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 외교관 사망 소식을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "주미 [[러시아 대사]]\n갑자기 숨진 까닭",
+  "broll": [
+    "embassy building exterior",
+    "press briefing microphone"
+  ],
+  "place_en": "Washington, D.C., USA"
+}

@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "nyc_horse_carriage_ban_2026",
-    "topic": "미국 뉴욕시, 마차 운행 전면 금지 170년 만에 센트럴파크 역사 속으로",
-    "slug": "2026-10-23-news-nyc-horse-carriage-ban-2026",
-    "cluster": "CBMijAFBVV95cUxNckdTc2tHclB1RmRzLWhFYmVZMVVvSVpiZXUwZEw5MDh5cW53Tk4yMEhPcFBwYUJhdXNiZENfMXFXeWV3N3BxQm5TR2hLR0pCZ2NSQkdZUGxvSnFWdndZQ3FjYVZfb2xzVzV3alRzemhyYzhmQS0xcjktRnVtU1ZZb2hzQmQ3c1VUWEJIRg",
-    "badge": "breaking",
-    "at": 1792713240.6711762,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
-    "event_key": "tom_skerritt_death_2026",
-    "topic": "영화 '탑건'·'에이리언' 출연 배우 톰 스케릿 별세",
-    "slug": "2026-10-23-news-tom-skerritt-death-2026",
-    "cluster": "CBMiW0FVX3lxTE5xeXJFcUViWDFOclI5eEZVdVpGdE93Y0w5cHZseGtacURvRUM3SnpxX21QaUE0ZUwta2xzSl9WT0s0OFpsS3RzVnRHYnVEWXdTeHRKZEZORFNpR28",
-    "badge": "breaking",
-    "at": 1792713252.9757252,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "super_typhoon_champi_2026",
     "topic": "태풍 '참피' 대만·일본 향해 북상 올해 가장 강한 태풍으로 발달",
     "slug": "2026-10-23-news-super-typhoon-champi-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794417117.9043536,
     "country": "파키스탄",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "russia_us_ambassador_darchiev_dies_2026",
+    "topic": "주미 러시아 대사 다르치예프 갑작스런 사망",
+    "slug": "2026-11-12-news-russia-us-ambassador-darchiev-dies-2026",
+    "cluster": "CBMi0gFBVV95cUxPWXFSRGFpVDFhRnZKaW9TUHg3YU4zak50bGp4TDRBSzNQRjJOWmVXVl9uZEx5ZGVOZzZNZXAzdVhoR2R4YzNmdUZ0V1FnWXEzRkozbGtKSVN1THZobTh0aFhhUkF1MUFVbUxDWjZEajYzU0NPdGNpZ1VjemE1VFFZSW1qMXdUZ3RnTmlMclUxYlM1R2ljcVd1Z1JCVHBoaHY3VU1FQmhGNzBjY0FfYVFWZXdwdUhlcnlfRVdjZUJxSXBrU3l5ekthcHlxdG15R2owZVHSAdcBQVVfeXFMTjNtcDFCYUZkQmdQWkQzYk5UcGpKT05sWFhyYnBfQmNXRk1uU0hSYWhWLWdoQzdnUExWYW4yb3J2Ym8xQi0wUUpmM1lmMjNkSnZpMjQ4cTNDSk5wUy1qdkFRaWJoTWQ0bTlxb0xwUW9aTS1Lb21yczVZLVZOTHI0VGJDMnlXcDRfelVDVlB2MlNSMDExOFFQRkhlSXZ2alFZV3VSNGd4LW92Tkd3dFktSU1LelRORUxxMGdUZkJOckxiXzl6a1M3d2p5b2hlNnp5OVdaS3dGblU",
+    "badge": "breaking",
+    "at": 1794424257.8545876,
+    "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "indonesia_gibran_vp_resigns_2026",
+    "topic": "인도네시아 부통령 기브란 사임",
+    "slug": "2026-11-12-news-indonesia-gibran-vp-resigns-2026",
+    "cluster": "CBMiW0FVX3lxTE16cjZYejY1MUdIcF9KMTY5TndPRndrWFhvT29oVTk0dTgwQUE1bVRCNFlwWUNSQ0prS09FdUp2SXRBQWxFQU5yWXJtU0s2Q0Y5bHFZOG5udV9lNms",
+    "badge": "breaking",
+    "at": 1794424282.8798933,
+    "country": "인도네시아",
+    "category": "국제"
   }
 ]
