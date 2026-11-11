@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-12-news-coreweave-q3-revenue-nasdaq-surge",
+  "topic": "코어위브 3분기 실적 호조에 나ส닥 기술주 반등",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 06:04 KST",
+  "source": "Reuters·WSJ·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ",
+    "related": [
+      [
+        "Nasdaq surges as CoreWeave leads tech rebound: Live updates",
+        "CNBC"
+      ],
+      [
+        "CoreWeave stock surges as Q3 revenue beats estimates, company raises full-year outlook",
+        "Yahoo Finance"
+      ],
+      [
+        "CoreWeave sparks AI cloud stock rally, lifts Nvidia as results ease bubble fears",
+        "Reuters"
+      ],
+      [
+        "CoreWeave Finds a Workaround to Capital Constraints—for Now",
+        "WSJ"
+      ],
+      [
+        "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+        "TechCrunch"
+      ]
+    ],
+    "event_key": "coreweave_q3_revenue_nasdaq_surge"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "코어위브 3분기 실적 호조에\n[[나ส닥]] 기술주 반등",
+      "sub": "엔비디아 상승 이끌고 AI 버블 우려 완화",
+      "chips": [
+        {
+          "k": "증시",
+          "v": "상승"
+        }
+      ],
+      "alt": "코어위브 3분기 실적 호조에 나ส닥 기술주 반등",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "실적 발표",
+          "d": "코어위브가 3분기 실적에서 예상치를 웃도는 매출을 기록했다고 CNBC와 야후 파이낸스가 전했습니다."
+        },
+        {
+          "t": "전망 상향",
+          "d": "회사는 올해 전체 실적 전망을 상향 조정했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "코어위브 3분기 매출 예상치 상회 (CNBC·야후 파이낸스)",
+        "연간 실적 전망 상향 (Yahoo Finance)",
+        "나스닥 및 엔비디아 주가 상승 (CNBC·로이터)"
+      ],
+      "unconfirmed": [
+        "향후 자본 제약 극복 방안 효과 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "Reuters",
+        "TechCrunch",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.11.12 06:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 코어위브 3분기 실적 호조에 나스닥 기술주 반등\n\n· 코어위브가 예상치를 웃도는 3분기 매출을 기록하며 연간 전망을 상향 조정했습니다 (CNBC·야후 파이낸스)\n· 이번 실적 발표로 AI 거품 우려가 완화되며 엔비디아 등 관련 주가 상승을 이끌었습니다 (로이터·CNBC)\n\n독자 여러분은 최근 AI 관련 기술주들의 주가 흐름을 어떻게 보십니까?\n\n출처: CNBC·야후 파이낸스·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 나스닥 시장이 코어위브의 호실적 발표에 힘입어 기술주 반등을 기록했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC와 야후 파이낸스는 코어위브의 3분기 매출이 예상치를 웃돌았으며 올해 전체 전망도 상향 조정됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 결과로 AI 거품 우려가 완화되면서 엔비디아를 비롯한 관련 주가 상승으로 이어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "회사가 마주한 자본 제약을 어떻게 극복할지는 아직 확실하지 않습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 최근 AI 관련 기술주들의 주가 흐름을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "기술주 반등, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "미국 [[나스닥]] 시장을\n끌어올린 실적은?",
+  "broll": [
+    "stock exchange screen",
+    "computer server room"
+  ],
+  "place_en": "New York, USA"
+}

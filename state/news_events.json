@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine_finland_satellite_network_deal_2026",
-    "topic": "우크라, 핀란드와 협력해 독자 위성망 구축 나선다",
-    "slug": "2026-10-23-news-ukraine-finland-satellite-network-deal-2026",
-    "cluster": "CBMi1wFBVV95cUxPVDVLWW42MUJjc2dvbldXMkhnVnNJcnhzQVB1enhueG11UlNaWi1IMG1rNUtJY2RuMlFvTEFpVklWMXBIUE1jbEUxVk1IOXBMeUJ5bWdnN1R0V3RsWVpUWU1RWkM1U0t0dzNKejRuTHdLMnBsZXNmZUJaWHl3eGFlaHJUcDVvYWZyVG9jV0h2ckcwd3hXZUNNS1dLM2dWQmYwNzVYeTZNSlBBeWN3bTNMSlBkN3gwSm5VS2FYcTB5LXBYakI4a205Y0pUWjFEY3JwMElsWnJybw",
-    "badge": "brief",
-    "at": 1792725076.4763103,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "canada-wainwright-base-fire-2026",
     "topic": "캐나다 군 기지 화재 군인 4명 숨져",
     "slug": "2026-10-23-news-canada-wainwright-base-fire-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794427813.4439611,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "coreweave_q3_revenue_nasdaq_surge",
+    "topic": "코어위브 3분기 실적 호조에 나ส닥 기술주 반등",
+    "slug": "2026-11-12-news-coreweave-q3-revenue-nasdaq-surge",
+    "cluster": "CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ",
+    "badge": "breaking",
+    "at": 1794431699.0975196,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
