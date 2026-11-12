@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-12-news-washington-dc-shooting-2026",
+  "topic": "미 워싱턴 DC서 총격 사건 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 23:37 KST",
+  "source": "BBC·The New York Times·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTE55S0VQcHZPbmtQc1F1LUxQaVhUS2F0aVRrLTlCbHdxc0dQWUlYcW55d0VGZnNEMjlqTUxBdHF3bnFFZTk4Z0JhbWFhZXRwUDdvRGJWQlJR",
+    "related": [
+      [
+        "'Active shooting' in Washington DC, police say, with people told to avoid area",
+        "BBC"
+      ],
+      [
+        "One dead, at least 4 injured during active shooting near Logan Circle",
+        "NBC4 Washington"
+      ],
+      [
+        "4 shot near Logan Circle, active shooter investigation underway",
+        "WUSA9"
+      ],
+      [
+        "Several People Are Shot in Washington, D.C., Officials Say",
+        "The New York Times"
+      ],
+      [
+        "Multiple victims in shooting in D.C.’s Logan Circle",
+        "The Washington Post"
+      ]
+    ],
+    "event_key": "washington_dc_shooting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 워싱턴 DC서\n[[총격 사건]] 발생",
+      "sub": "현재까지 1명 사망·최소 4명 부상으로 파악됐습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "부상",
+          "v": "최소 4명"
+        }
+      ],
+      "alt": "미 워싱턴 DC서 총격 사건 발생",
+      "map": {
+        "lat": 38.9097778,
+        "lon": -77.0296259,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 DC",
+      "video_only": true,
+      "map": {
+        "lat": 38.9097778,
+        "lon": -77.0296259,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 DC"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사건 개요",
+          "d": "워싱턴 DC 로건 서클 인근에서 총격이 발생해 다수의 사상자가 나왔다고 경찰이 밝혔습니다 (BBC·NBC4 등)."
+        },
+        {
+          "t": "피해 상황",
+          "d": "현재 1명이 사망하고 최소 4명이 다친 것으로 알려졌습니다 (NBC4)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "1명 사망",
+        "최소 4명 부상"
+      ],
+      "unconfirmed": [
+        "용의자 체포 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "NBC4 Washington",
+        "The New York Times",
+        "The Washington Post",
+        "WUSA9",
+        "2026.11.13 00:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 워싱턴 DC 로건 서클 인근에서 총격 사건이 발생했습니다.\n\n· 경찰은 이번 총격으로 1명이 숨지고 최소 4명이 다쳤다고 밝혔습니다 (NBC4 등).\n· 당국은 시민들에게 현장 인근을 피하라고 안내했습니다 (BBC).\n\n출처: BBC·NBC4·WUSA9·NYT·WP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 워싱턴 DC 로건 서클 인근에서 총격 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경찰은 이번 총격으로 현재까지 1명이 숨지고 최소 4명이 다쳤다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "당국은 관련 수사를 진행하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "용의자 검거 여부는 아직 알려지지 않았습니다.",
+      "card": "check",
+      "screen": "용의자 미상"
+    },
+    {
+      "text": "현재 한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "한국인 피해 여부"
+    }
+  ],
+  "hook": "미국 [[워싱턴 DC]]에서\n발생한 총격",
+  "broll": [
+    "police car",
+    "city street"
+  ],
+  "place_en": "Logan Circle, Washington DC"
+}

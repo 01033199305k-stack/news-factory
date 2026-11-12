@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "slug": "2026-11-12-news-washington-dc-shooting-2026",
+    "event_ms": 1794494254000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 워싱턴 DC 로건 서클 인근에서 총격 사건이 발생했습니다.\n\n· 경찰은 이번 총격으로 1명이 숨지고 최소 4명이 다쳤다고 밝혔습니다 (NBC4 등).\n· 당국은 시민들에게 현장 인근을 피하라고 안내했습니다 (BBC).\n\n출처: BBC·NBC4·WUSA9·NYT·WP 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18120385121088275",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfpWlf4kWEa",
+        "kind": "carousel",
+        "at": 1794496460
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1794496614
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

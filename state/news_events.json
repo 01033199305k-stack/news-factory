@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "poland_airports_closed_russian_attack_2026",
-    "topic": "폴란드, 공항 폐쇄하고 방공망 가동",
-    "slug": "2026-10-24-news-poland-airports-closed-russian-attack-2026",
-    "cluster": "CBMijAFBVV95cUxQd3VzbnJrcm5RSU1oUklaX2hPbDdDWlp6cVFXQUxDWURSOG5MYmtsRlRpZmxhajMxNzdZWDE2N1lVYkg0U1I3d1BIbkplN29YaWp2TXBMcERyazVZV0N6alc3N3Y0czh5NlgtMUFxUS1ZM0JkVDE4TTVDZUM3ZWZxLThIenQzOWNnYWVPadIBkgFBVV95cUxOcTdsemxEaDhySllUWFZLd1hOS09EandZd1dFdE1aVDVIUEMzTlh1dm91bU5valM2THpqMldncEhjdGtUMHhzVWlDVHFqU21pM3Z1V0oxMEl1YzZoMWs0UXJsR2RldG1zT1J4SG85dnM3ZGNEcXlaN0o2QVpUeEdCQXVGSXFxVWN0VWRlaWxSZWdKUQ",
-    "badge": "breaking",
-    "at": 1792771791.5367699,
-    "country": "폴란드",
-    "category": "국제"
-  },
-  {
     "event_key": "google_deepmind_employees_resign_pentagon_ai_2026",
     "topic": "구글 딥마인드 직원들 펜타곤 계약에 반발 사퇴",
     "slug": "2026-10-23-news-google-deepmind-employees-resign-pentagon-ai-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794485532.7323792,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "washington_dc_shooting_2026",
+    "topic": "미 워싱턴 DC서 총격 사건 발생",
+    "slug": "2026-11-12-news-washington-dc-shooting-2026",
+    "cluster": "CBMiVkFVX3lxTE55S0VQcHZPbmtQc1F1LUxQaVhUS2F0aVRrLTlCbHdxc0dQWUlYcW55d0VGZnNEMjlqTUxBdHF3bnFFZTk4Z0JhbWFhZXRwUDdvRGJWQlJR",
+    "badge": "breaking",
+    "at": 1794496410.72675,
+    "country": "미국",
+    "category": "총격·테러"
   }
 ]
