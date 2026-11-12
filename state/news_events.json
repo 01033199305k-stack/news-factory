@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "sicily_earthquakes_tsunami_alert_2026",
-    "topic": "이탈리아 시칠리아 인근서 지진 십여 차례 발생 쓰나미 경보 발령",
-    "slug": "2026-10-24-news-sicily-earthquakes-tsunami-alert-2026",
-    "cluster": "CBMilAFBVV95cUxOeldiX2tMNHRseFhJdkNaX1lXdWtnalVza0ZlZ1VpUjBrdjZ1VUhONmZleGxCeGVXdzNaZ2E3VlduNFNpMXl1SGQ2TEoxY3FoWUt5UG1ObjlWV3hJaFdxU2NHNWFYMVVOSUNuM2ZQbmU5SHN2cXlYcFBqTFVnSEhmb200OUhwVk52TDNzV0NFLUtSV0hq",
-    "badge": "breaking",
-    "at": 1792782452.4263148,
-    "country": "이탈리아",
-    "category": "재난"
-  },
-  {
-    "event_key": "us_lowers_canada_agricultural_tariffs_2026",
-    "topic": "미국, 대캐나다 관세 일부 인하",
-    "slug": "2026-10-24-news-us-lowers-canada-agricultural-tariffs-2026",
-    "cluster": "CBMinAFBVV95cUxNVW1QX1NqWUlXQmJ1aHRHUDJLUWZMZDRXVHJmOWl6c20zZVJ1THE0Skl4R184VDZoUndEdENOSEFEOFlBd2Z2NkU3YzAtOGw3UHcwdS15T0NlVkNOallTUlV6WGI4eHZBRzFmRXAwRHZuRmtjcFprZmtDSzhkSTI3RERNWEh0VzlWQ2F3TldqYkg4RjZ2NDZmZGFXQWE",
-    "badge": "breaking",
-    "at": 1792786131.17216,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "nasa_artemis_moon_base_2026",
     "topic": "나사, 2년 내 유인 달 착륙 추진 아폴로 방식 속도전 돌입",
     "slug": "2026-10-24-news-nasa-artemis-moon-base-2026",
@@ -2997,6 +2977,26 @@
     "badge": "breaking",
     "at": 1794517050.712883,
     "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "microsoft_global_outage_outlook_teams_2026",
+    "topic": "마이크로소프트 장애 아웃룩·팀즈 접속 장애",
+    "slug": "2026-11-13-news-microsoft-global-outage-outlook-teams-2026",
+    "cluster": "CBMixgFBVV95cUxPUTVMQ2otVGhvbjNrUkYtU0hLSzdWN1V0U2ZPQTc3Q09aOUt2RldJNld1V0NEb083YWphMFJYYlQtSGhxYTg4M0xkZGhTdUlSV1BkbEozNXRDRTdlNzVCZFNtaWIzZGNnZE9wU3JoZWJ3ZzM2WG5uT0drMHNENXdlSnNmaEExeE5Jc2RZRk1ySjNyVUpMTUpaV0Zxem5ad2dKb2NGcmxKM0ZGZ296cFlibVg0MVluc1R3SVE5amlUS1BQYWJVeVE",
+    "badge": "breaking",
+    "at": 1794521383.663896,
+    "country": "미국",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "baltic_sea_russian_warship_ukraine_drone_strike_2026",
+    "topic": "발트해서 러시아 군함 우크라 드론 타격",
+    "slug": "2026-11-13-news-baltic-sea-russian-warship-ukraine-drone-strike-2026",
+    "cluster": "CBMiXkFVX3lxTE5UaWczcHU1d1Yzd1BBZlpTLWlJN3ItRkNzUUx3LTkxeDM0YXhvVXNBYXVycjF4Y0dreGJGM0w2alQtcDlHaVktU3RtcGJhUGh6RTZkOVdVUUlDWF9KeGc",
+    "badge": "breaking",
+    "at": 1794521408.7050974,
+    "country": "핀란드",
     "category": "국제"
   }
 ]

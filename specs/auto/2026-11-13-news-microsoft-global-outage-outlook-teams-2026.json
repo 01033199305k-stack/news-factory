@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-13-news-microsoft-global-outage-outlook-teams-2026",
+  "topic": "마이크로소프트 장애 아웃룩·팀즈 접속 장애",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 06:32 KST",
+  "source": "BBC·Reuters·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixgFBVV95cUxPUTVMQ2otVGhvbjNrUkYtU0hLSzdWN1V0U2ZPQTc3Q09aOUt2RldJNld1V0NEb083YWphMFJYYlQtSGhxYTg4M0xkZGhTdUlSV1BkbEozNXRDRTdlNzVCZFNtaWIzZGNnZE9wU3JoZWJ3ZzM2WG5uT0drMHNENXdlSnNmaEExeE5Jc2RZRk1ySjNyVUpMTUpaV0Zxem5ad2dKb2NGcmxKM0ZGZ296cFlibVg0MVluc1R3SVE5amlUS1BQYWJVeVE",
+    "related": [
+      [
+        "Is Microsoft Outlook Down? Problems Continue Hours After Widespread Impact",
+        "Forbes"
+      ],
+      [
+        "Microsoft outage sees Teams, Outlook and Copilot suffer 'connectivity issues'",
+        "BBC"
+      ],
+      [
+        "Microsoft 365, Outlook down for thousands of US users, Downdetector shows",
+        "Reuters"
+      ],
+      [
+        "Outlook Outage: Microsoft’s Email Service Goes Down Nationwide",
+        "Variety"
+      ],
+      [
+        "Microsoft issues update as mass outage sparks cyber attack fears",
+        "The Independent"
+      ]
+    ],
+    "event_key": "microsoft_global_outage_outlook_teams_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "마이크로소프트 장애\n아웃룩·팀즈 [[접속 장애]]",
+      "sub": "세계 곳곳에서 아웃룩과 팀즈 서비스 이용에 장애가 발생했습니다",
+      "chips": [
+        {
+          "k": "피해 신고",
+          "v": "수천 건"
+        }
+      ],
+      "alt": "마이크로소프트 장애 아웃룩·팀즈 접속 장애",
+      "map": {
+        "lat": 47.6694141,
+        "lon": -122.1238767,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n레드먼드",
+      "video_only": true,
+      "map": {
+        "lat": 47.6694141,
+        "lon": -122.1238767,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "레드먼드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주요 서비스 장애",
+          "d": "아웃룩과 팀즈, 코파일럿 등 핵심 프로그램 접속에 문제가 생겼습니다 (BBC·로이터)."
+        },
+        {
+          "t": "이용자 피해 접수",
+          "d": "미국 등에서 수천 건의 장애 신고가 접수됐습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "마이크로소프트 365 서비스 장애 발생"
+      ],
+      "unconfirmed": [
+        "정확한 시스템 원인",
+        "사이버 공격 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Forbes",
+        "Reuters",
+        "The Independent",
+        "Variety",
+        "2026.11.13 07:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 마이크로소프트 서비스에 대규모 접속 장애가 발생했습니다.\n\n· 아웃룩과 팀즈, 코파일럿 등 주요 프로그램 접속 장애가 발생했습니다 (BBC·로이터).\n· 수천 건의 장애 신고가 접수됐습니다 (로이터).\n· 마이크로소프트 측은 관련 업데이트를 발표했습니다 (인디펜던트).\n\n출처: BBC·로이터·포브스·인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "마이크로소프트 주요 서비스에서 전 세계적인 접속 장애가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "아웃룩과 팀즈 등 핵심 프로그램 접속에 장애가 생겨 이용자들이 불편을 겪고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터는 미국 등에서 수천 건의 장애 신고가 접수됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "시스템 고장 원인과 사이버 공격 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "갑작스러운 IT 서비스 마비 사태, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "마이크로소프트 [[주요 서비스]]가\n멈춰 선 이유",
+  "broll": [
+    "computer screen error",
+    "office server room"
+  ],
+  "place_en": "Redmond, Washington, United States"
+}

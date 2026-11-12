@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-13-news-baltic-sea-russian-warship-ukraine-drone-strike-2026",
+  "topic": "발트해서 러시아 군함 우크라 드론 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 05:09 KST",
+  "source": "BBC·Sky News·Janes Defence Intelligence 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE5UaWczcHU1d1Yzd1BBZlpTLWlJN3ItRkNzUUx3LTkxeDM0YXhvVXNBYXVycjF4Y0dreGJGM0w2alQtcDlHaVktU3RtcGJhUGh6RTZkOVdVUUlDWF9KeGc",
+    "related": [
+      [
+        "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "BBC"
+      ],
+      [
+        "Finland Says It Detected Strike on Russian Warship in Baltic Sea",
+        "The Moscow Times"
+      ],
+      [
+        "Finland's navy chief says Russia's presence in the Baltic Sea may have peaked for now",
+        "Sky News"
+      ],
+      [
+        "Finland reports strike on Russian warship in Baltic Sea",
+        "Ukrinform"
+      ],
+      [
+        "Finland detects strike on Russian warship; Ukraine claims attack",
+        "Janes Defence Intelligence"
+      ]
+    ],
+    "event_key": "baltic_sea_russian_warship_ukraine_drone_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "발트해서 러시아 군함\n우크라 [[드론 타격]]",
+      "sub": "핀란드 당국이 발트해 해상에서 러시아 군함 타격을 감지했습니다",
+      "chips": [],
+      "alt": "발트해서 러시아 군함 우크라 드론 타격",
+      "map": {
+        "lat": 59.8737114,
+        "lon": 26.3229884,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "핀란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "핀란드\n핀란드만",
+      "video_only": true,
+      "map": {
+        "lat": 59.8737114,
+        "lon": 26.3229884,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "핀란드만"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "핀란드군 공식 확인",
+          "d": "핀란드 해군은 발트해에서 러시아 군함이 공격받은 정황을 포착했습니다 (BBC·모스크바 타임스)."
+        },
+        {
+          "t": "우크라이나 공격 주장",
+          "d": "우크라이나 측은 드론을 동원해 러시아 군함을 타격했다고 밝혔습니다 (우크린폼)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "발트해 내 러시아 군함 드론 타격"
+      ],
+      "unconfirmed": [
+        "군함 파손 규모",
+        "사망·부상자 수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Janes Defence Intelligence",
+        "Sky News",
+        "The Moscow Times",
+        "Ukrinform",
+        "2026.11.13 07:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 발트해 핀란드만에서 러시아 군함이 우크라이나 드론 공격을 받았습니다.\n\n· 핀란드 당국은 자국 인근 해역에서 러시아 군함 타격을 감지했다고 밝혔습니다 (BBC·모스크바 타임스).\n· 우크라이나 측은 이번 해상 공격이 자신들의 드론 작전이라고 주장했습니다 (우크린폼).\n\n질문 줄: 발트해로 확대된 해상 군사 충돌, 어떻게 보십니까?\n\n출처: BBC·모스크바 타임스·우크린폼 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "발트해 핀란드만에서 러시아 군함이 우크라이나 드론 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "핀란드 당국은 자국 인근 해역에서 발생한 러시아 군함 타격을 감지했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "군함의 정확한 손상 정도와 인명 피해는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "발트해까지 확대된 양측의 해상 충돌, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[발트해]] 한가운데서\n무슨 일이?",
+  "broll": [
+    "warship sea",
+    "navy vessel ocean"
+  ],
+  "place_en": "Gulf of Finland"
+}
