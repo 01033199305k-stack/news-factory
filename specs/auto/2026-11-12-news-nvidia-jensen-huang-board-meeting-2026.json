@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-12-news-nvidia-jensen-huang-board-meeting-2026",
+  "topic": "엔비디아 이사회, 젠슨 황 CEO 거취 논의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 10:07 KST",
+  "source": "The Guardian·The New York Times·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw",
+    "related": [
+      [
+        "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him",
+        "The New York Times"
+      ],
+      [
+        "Nvidia prepares to oust Jensen Huang, WSJ reports — stock sinks",
+        "CNBC"
+      ],
+      [
+        "Statement From NVIDIA Board of Directors",
+        "NVIDIA Newsroom"
+      ],
+      [
+        "Nvidia Board May Vote to Remove Jensen Huang as CEO Tonight. Here’s What Investors Need to Know.",
+        "Yahoo Finance"
+      ],
+      [
+        "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "nvidia_jensen_huang_board_meeting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "엔비디아 이사회,\n[[젠슨 황]] CEO 거취 논의",
+      "sub": "주가 급락 속 회의 진행",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "젠슨 황"
+        },
+        {
+          "k": "주가",
+          "v": "급락"
+        }
+      ],
+      "alt": "엔비디아 이사회, 젠슨 황 CEO 거취 논의",
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n샌타클래라",
+      "video_only": true,
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "샌타클래라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이사회 회의",
+          "d": "엔비디아 이사회가 젠슨 황 CEO의 거취를 결정하기 위해 회의를 진행하고 있다고 가디언 등 외신이 보도했습니다."
+        },
+        {
+          "t": "주가 반응",
+          "d": "해당 소식 속에서 칩 거인의 주가가 급락했다고 CNBC와 가디언이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "엔비디아 이사회 회의 개최",
+        "젠슨 황 CEO 거취 논의"
+      ],
+      "unconfirmed": [
+        "이사회 투표 및 최종 해임 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "NVIDIA Newsroom",
+        "The Guardian",
+        "The New York Times",
+        "Yahoo Finance",
+        "2026.11.12 11:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 엔비디아 이사회, 젠슨 황 CEO 거취 논의\n\n· 엔비디아 이사회가 젠슨 황 CEO의 거취를 결정하기 위해 회의를 진행하고 있습니다 (가디언·CNBC)\n· 관련 소식 속에서 칩 거인의 주가가 급락했습니다 (CNBC·가디언)\n\n여러분은 이번 엔비디아의 경영진 거취 논의를 어떻게 보십니까?\n\n출처: 뉴욕타임스·CNBC·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "엔비디아 이사회가 젠슨 황 CEO의 거취를 논의하기 위해 회의를 열었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언 등 외신은 주가 급락 속에서 이사회가 거취를 결정할 예정이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최종 해임 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 엔비디아의 경영진 거취 논의를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "엔비디아 [[젠슨 황]] CEO\n거취 논의 회의?",
+  "broll": [
+    "stock exchange screen",
+    "technology company building"
+  ],
+  "place_en": "Santa Clara, United States"
+}
