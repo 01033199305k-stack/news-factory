@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-13-news-gaza-winter-storms-flooding-tents-2026",
+  "topic": "가자 텐트촌 폭우 침수 피란민 천막지대 피해",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 00:52 KST",
+  "source": "AP News·CNN·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXEFVX3lxTE50VWt0UU41blRPX2VDaW9ZM01NWnBxWUZpLUZTcE45YVJhM1RBQ1kwUVAtQVNoZUx3UllKSG9DbjEyWWpWWFFQS0Q4RE4zMnVfbDA2NDIzSEp0RGpl",
+    "related": [
+      [
+        "How Hamas shaped Gaza's winter flooding narrative before the first storm",
+        "The Jerusalem Post"
+      ],
+      [
+        "As deadly storms flood Gaza’s tent cities, the displaced fear a worse winter",
+        "The Washington Post"
+      ],
+      [
+        "Netanyahu denies Israel is to blame for conditions in Gaza camps, and other Mideast news",
+        "AP News"
+      ],
+      [
+        "Deadly floods sweep Gaza’s tents, intensifying pressure on Israel",
+        "NBC News"
+      ],
+      [
+        "Trump’s Board of Peace chides Israel for ‘insufficient’ response to Gaza flooding",
+        "CNN"
+      ]
+    ],
+    "event_key": "gaza_winter_storms_flooding_tents_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "가자 텐트촌 [[폭우]] 침수\n피란민 천막지대 피해",
+      "sub": "치명적인 폭풍우가 가자지구 피란민 임시 거주지를 덮쳤습니다.",
+      "chips": [
+        {
+          "k": "피해 지역",
+          "v": "가자지구 텐트촌"
+        }
+      ],
+      "alt": "가자 텐트촌 폭우 침수 피란민 천막지대 피해",
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "피란민 천막 침수",
+          "d": "치명적인 폭풍우가 가자지구 피란민 천막촌을 덮쳤습니다 (워싱턴포스트·NBC)."
+        },
+        {
+          "t": "이스라엘 책임 부인",
+          "d": "네타냐후 총리는 가자지구 수용소 상황에 대한 이스라엘 책임론을 부인했습니다 (AP)."
+        },
+        {
+          "t": "국제사회 대응 비판",
+          "d": "트럼프의 평화 위원회는 이스라엘의 홍수 대응이 불충분하다고 비판했습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "가자지구 텐트촌 폭우 침수 (WP·NBC)",
+        "네타냐후 이스라엘 책임 부인 (AP)"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 및 재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNN",
+        "NBC News",
+        "The Jerusalem Post",
+        "The Washington Post",
+        "2026.11.13 03:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 가자지구 피란민 텐트촌에 폭우가 쏟아졌습니다.\n\n· 치명적인 폭풍우가 가자지구 임시 천막지대를 덮쳤습니다 (워싱턴포스트·NBC)\n· 네타냐후 이스라엘 총리는 수용소 상황에 대한 이스라엘 책임론을 부인했습니다 (AP)\n· 트럼프의 평화 위원회는 이스라엘의 홍수 대응이 불충분하다고 비판했습니다 (CNN)\n\n출처: 워싱턴포스트·NBC·AP·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "가자지구 텐트촌이 폭우로 침수되었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "폭풍우가 가자지구 피란민 천막촌을 덮쳤다고 워싱턴포스트가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "네타냐후 이스라엘 총리는 수용소 상황에 대한 이스라엘 책임을 부인했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사상자 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[가자지구]] 텐트촌에\n무슨 일이?",
+  "broll": [
+    "flooded tent camp",
+    "heavy rain storm"
+  ],
+  "place_en": "Gaza Strip"
+}

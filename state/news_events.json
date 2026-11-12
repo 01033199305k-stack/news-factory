@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "romania_black_sea_drone_cargo_ship_sink_2026",
-    "topic": "흑해 해상서 화물선 드론 피격 침몰 사망 1명·실종 3명 발생",
-    "slug": "2026-10-23-news-romania-black-sea-drone-cargo-ship-sink-2026",
-    "cluster": "CBMirwFBVV95cUxPOF9iZ3FoTHAycU5fWGxKNWNiYnpvRXlwUWJ2ZVFtQU9IUmF4UWJTU1AwTEFRT21vNWRDNzRjWTgtY0F6Vkp0RkdxeG9xM1A0X1RRX19Eb0RqVG9tbTBNeWFRaXZ2SzEtUUFEc2VjZlZPaUxtR3JGTUNEN3VRdWtRMEdTM21OSTVSQWNJN3FaOWpBNHdld3IyZS1sbVA1a2wxLVJXRm01ejhKWXZzQU5B",
-    "badge": "breaking",
-    "at": 1792773286.0176487,
-    "country": "루마니아",
-    "category": "사고"
-  },
-  {
     "event_key": "ai_discovered_php_vulnerabilities_2026",
     "topic": "AI가 찾은 보안 취약점, 전 세계 웹사이트 70% 타격",
     "slug": "2026-10-24-news-ai-discovered-php-vulnerabilities-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794503586.8401904,
     "country": "스페인",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "gaza_winter_storms_flooding_tents_2026",
+    "topic": "가자 텐트촌 폭우 침수 피란민 천막지대 피해",
+    "slug": "2026-11-13-news-gaza-winter-storms-flooding-tents-2026",
+    "cluster": "CBMiXEFVX3lxTE50VWt0UU41blRPX2VDaW9ZM01NWnBxWUZpLUZTcE45YVJhM1RBQ1kwUVAtQVNoZUx3UllKSG9DbjEyWWpWWFFQS0Q4RE4zMnVfbDA2NDIzSEp0RGpl",
+    "badge": "breaking",
+    "at": 1794507078.9392962,
+    "country": "팔레스타인",
+    "category": "재난"
   }
 ]
