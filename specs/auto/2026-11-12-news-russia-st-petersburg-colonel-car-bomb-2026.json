@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-12-news-russia-st-petersburg-colonel-car-bomb-2026",
+  "topic": "상트페테르부르크서 차 폭발 러시아 대령 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 16:53 KST",
+  "source": "Sky News·Kyiv Post·The Sun 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMieEFVX3lxTE9icWN6b3NDRWJOa2k2aWdlSmpnX1d1aklsZzBLTFZGUmFhaEhtOVZOdjM2SXkySG81WGNETTltQTl6MVhnb2p6N1d1elh4Q3dlNnVMc3NlNVVTSmwzV28xMWFZNXNiRmQ1UXI4bkxTN3ZMVVNTN3ZqTw",
+    "related": [
+      [
+        "Putin’s top colonel blown up as car bomb explodes in second ambush on Russian military in months in St Petersburg",
+        "The Sun"
+      ],
+      [
+        "Ukraine war latest: Russian soldier 'murdered' in car blast - as Trump envoys to meet Putin in Moscow",
+        "Sky News"
+      ],
+      [
+        "Car explodes in St Petersburg, killing Russian colonel – video",
+        "Українська правда"
+      ],
+      [
+        "Russian Colonel Blown Up in St. Petersburg as Attacks on Military Figures Mount",
+        "Kyiv Post"
+      ],
+      [
+        "Car carrying a Russian colonel exploded in St. Petersburg",
+        "Українські Національні Новини (УНН)"
+      ]
+    ],
+    "event_key": "russia_st_petersburg_colonel_car_bomb_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[상트페테르부르크]]서 차 폭발\n러시아 대령 사망",
+      "sub": "차량 폭발로 러시아 군 대령 1명이 숨졌습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        }
+      ],
+      "alt": "상트페테르부르크서 차 폭발 러시아 대령 사망",
+      "map": {
+        "lat": 59.9606739,
+        "lon": 30.1586551,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n상트페테르부르크",
+      "video_only": true,
+      "map": {
+        "lat": 59.9606739,
+        "lon": 30.1586551,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "상트페테르부르크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "차량 폭발 발생",
+          "d": "러시아 상트페테르부르크에서 차량이 폭발했습니다 (The Sun·Kyiv Post)."
+        },
+        {
+          "t": "러시아 대령 사망",
+          "d": "차 안에 타고 있던 러시아 군 대령 1명이 숨졌습니다 (The Sun·Kyiv Post)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "상트페테르부르크 차량 폭발 (The Sun·Kyiv Post)",
+        "러시아 군 대령 1명 사망 (The Sun·Kyiv Post)"
+      ],
+      "unconfirmed": [
+        "폭발물 설치 경위",
+        "공격 배후 및 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "Sky News",
+        "The Sun",
+        "Українська правда",
+        "Українські Національні Новини (УНН)",
+        "2026.11.12 18:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 상트페테르부르크에서 차량이 폭발해 1명이 숨졌습니다.\n\n· 상트페테르부르크에서 차량 폭발 발생 (The Sun)\n· 차에 탑승했던 러시아 군 대령 1명 사망 (The Sun·Kyiv Post)\n· 폭발물 설치 경위와 정확한 배후는 미확인 (Kyiv Post)\n\n출처: The Sun·Sky News·Kyiv Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "상트페테르부르크에서 차량이 폭발해 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사건은 러시아 상트페테르부르크에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "더 선은 차 안에 타고 있던 러시아 군 대령 1명이 이번 폭발로 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "차량 폭발 경위와 배후는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[상트페테르부르크]] 차 폭발\n숨진 인물은?",
+  "broll": [
+    "police car night",
+    "street blast site"
+  ],
+  "place_en": "St. Petersburg, Russia"
+}

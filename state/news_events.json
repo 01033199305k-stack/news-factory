@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "jordan-church-shooting-2026",
-    "topic": "요르단 남부 교회서 총기 난동 최소 7명 숨져",
-    "slug": "2026-10-23-news-jordan-church-shooting-2026",
-    "cluster": "CBMiW0FVX3lxTE9PaUdRVmRXdUhxR3haU3dtY0ZUbm96Y2RrYVFQdGd6RVJGR3o3eFMxSldjR3FvQURrdzJONDhmRUNhVDd3TDh2UzVndUtGcG0tNTFoLTlnOXhSaFk",
-    "badge": "breaking",
-    "at": 1792762411.5283358,
-    "country": "요르단",
-    "category": "총격·테러"
-  },
-  {
-    "event_key": "west_bank_netanyahu_military_operation_2026",
-    "topic": "이스라엘군 2명 사망 후 서안지구 대규모 작전 개시",
-    "slug": "2026-10-23-news-west-bank-netanyahu-military-operation-2026",
-    "cluster": "CBMiwwFBVV95cUxNSmJyQXhhU1ZfQUJvRVp4cENkNzhMZFl3ajF2UjByeFJGMzdmY2VUdEI1ekRFV1EzZE5KNERXOVFYSTFzckZXYUN4QXc5ZC1CUFl5cGEzOTZ3WnpGa2tLV3NKYW9lZkFGMkFzUl9tekZnM213ZXJOdnJwaTBLMlhlRU5wZEFvYWN6OG9fSDRZMzM0dEw5SFZZX0oza0poNDlCNzhuTlBXSE96UlEyWWtpNkRGZjcySWV6VGx0NndLWkM0c0E",
-    "badge": "breaking",
-    "at": 1792764632.4450672,
-    "country": "팔레스타인",
-    "category": "국제"
-  },
-  {
     "event_key": "melania_trump_ukraine_ceasefire_2026",
     "topic": "미국 백악관 발표 오레시키 휴전 성사",
     "slug": "2026-10-23-news-melania-trump-ukraine-ceasefire-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794471093.909172,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "russia_st_petersburg_colonel_car_bomb_2026",
+    "topic": "상트페테르부르크서 차 폭발 러시아 대령 사망",
+    "slug": "2026-11-12-news-russia-st-petersburg-colonel-car-bomb-2026",
+    "cluster": "CBMieEFVX3lxTE9icWN6b3NDRWJOa2k2aWdlSmpnX1d1aklsZzBLTFZGUmFhaEhtOVZOdjM2SXkySG81WGNETTltQTl6MVhnb2p6N1d1elh4Q3dlNnVMc3NlNVVTSmwzV28xMWFZNXNiRmQ1UXI4bkxTN3ZMVVNTN3ZqTw",
+    "badge": "breaking",
+    "at": 1794474815.507791,
+    "country": "러시아",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "nepal_passenger_vehicle_plunge_2026",
+    "topic": "네팔서 소형버스 추락 최소 10명 사망",
+    "slug": "2026-11-12-news-nepal-passenger-vehicle-plunge-2026",
+    "cluster": "CBMi4gFBVV95cUxOM2JySV81cGsyclVFMUhnbl9aUjZmQTR5QTJsVkxodVZkTmdBNW9YQlo4SFVNTnBGV1k5T1hwR3dYTU4wcUN4dlRHLV9IaWFnMXVRcUtPaG0xU0VyYW9QRF8tNjR1QTktWWtFY3ZvbDl6bGt1OFh2QkRZaC16ODktaFVzQU9TZ0J3THV4WjBFWjNPWnNOY2lYb0U3U2dnaGlISjJYQ3paUjdpM0l5VHlmYlE4TzFCUVBzTjIwTzBCSHRVMk0yQW9DTDhuS1JmNXdBMks2Y1ZRTnBaS09RSW45RW1B0gHnAUFVX3lxTE51RUliNEdKd0tmSGpSMGpBSjdrLW9fVzFjTkZlVWE0WEZROWNxSE9mSDAwbFcyekVVXzZQY1hWUndFVXo0VG1ITWVSNU5YMjhuNzE0Q05NS0tyX29tS0o5V0FBQjVLX0t3U0FQcGRhQnBncy1kbURmRmtZMDFvbnFNYXFvN0poLWdMbHM0TFNiSkUzaTlEcXduYkZSQkl6SlJONXA1dHNWS0IzUFhRQ0hURTY4c0g3ZmVFUjZnbHRxMlQtQnFVNWV1cWloc2NLU0pjbGxfYUwtbE1ieEItbFRaWW8wZE51SQ",
+    "badge": "breaking",
+    "at": 1794474842.1031544,
+    "country": "네팔",
+    "category": "사고"
   }
 ]

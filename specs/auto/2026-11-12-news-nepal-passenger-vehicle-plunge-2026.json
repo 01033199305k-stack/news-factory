@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-12-news-nepal-passenger-vehicle-plunge-2026",
+  "topic": "네팔서 소형버스 추락 최소 10명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 15:37 KST",
+  "source": "The Hindu·The Times of India·Nepalnews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi4gFBVV95cUxOM2JySV81cGsyclVFMUhnbl9aUjZmQTR5QTJsVkxodVZkTmdBNW9YQlo4SFVNTnBGV1k5T1hwR3dYTU4wcUN4dlRHLV9IaWFnMXVRcUtPaG0xU0VyYW9QRF8tNjR1QTktWWtFY3ZvbDl6bGt1OFh2QkRZaC16ODktaFVzQU9TZ0J3THV4WjBFWjNPWnNOY2lYb0U3U2dnaGlISjJYQ3paUjdpM0l5VHlmYlE4TzFCUVBzTjIwTzBCSHRVMk0yQW9DTDhuS1JmNXdBMks2Y1ZRTnBaS09RSW45RW1B0gHnAUFVX3lxTE51RUliNEdKd0tmSGpSMGpBSjdrLW9fVzFjTkZlVWE0WEZROWNxSE9mSDAwbFcyekVVXzZQY1hWUndFVXo0VG1ITWVSNU5YMjhuNzE0Q05NS0tyX29tS0o5V0FBQjVLX0t3U0FQcGRhQnBncy1kbURmRmtZMDFvbnFNYXFvN0poLWdMbHM0TFNiSkUzaTlEcXduYkZSQkl6SlJONXA1dHNWS0IzUFhRQ0hURTY4c0g3ZmVFUjZnbHRxMlQtQnFVNWV1cWloc2NLU0pjbGxfYUwtbE1ieEItbFRaWW8wZE51SQ",
+    "related": [
+      [
+        "10 killed as passenger vehicle plunges 500 metres down slope in Nepal",
+        "The Times of India"
+      ],
+      [
+        "At least 10 killed as passenger vehicle plunges off steep slope in Nepal",
+        "The Hindu"
+      ],
+      [
+        "Van crashes on mountain road in Nepal, 10 killed and five injured",
+        "The New Indian Express"
+      ],
+      [
+        "A journey home for Chhath turns deadly",
+        "The Kathmandu Post"
+      ],
+      [
+        "10 critically injured as Sarlahi-bound microbus crashes in Makwanpur",
+        "Nepalnews.com"
+      ]
+    ],
+    "event_key": "nepal_passenger_vehicle_plunge_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "네팔서 [[소형버스]] 추락\n최소 10명 사망",
+      "sub": "승객을 태운 차량이 500미터 산비탈 아래로 떨어졌습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "10명"
+        },
+        {
+          "k": "부상",
+          "v": "5명"
+        }
+      ],
+      "alt": "네팔서 소형버스 추락 최소 10명 사망",
+      "map": {
+        "lat": 27.4365389,
+        "lon": 85.0550812,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "네팔"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네팔\n마크완푸르",
+      "video_only": true,
+      "map": {
+        "lat": 27.4365389,
+        "lon": 85.0550812,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마크완푸르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "차량 추락 사고",
+          "d": "네팔에서 승객을 태운 차량이 500미터 아래 비탈길로 추락했습니다 (The Times of India)."
+        },
+        {
+          "t": "사망자 및 부상자",
+          "d": "이 사고로 최소 10명이 숨지고 5명이 다쳤습니다 (The New Indian Express)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "승합차 500m 추락 사고 (The Times of India)",
+        "사망 10명 (The Times of India·The Hindu)",
+        "부상 5명 (The New Indian Express)"
+      ],
+      "unconfirmed": [
+        "사고 정확한 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Nepalnews.com",
+        "The Hindu",
+        "The Kathmandu Post",
+        "The New Indian Express",
+        "The Times of India",
+        "2026.11.12 18:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 네팔에서 승합차가 추락해 최소 10명이 숨졌습니다.\n\n· 승객을 태운 차량이 500m 산비탈 아래로 추락 (The Times of India)\n· 사고로 최소 10명 사망 (The Hindu)\n· 5명 부상 (The New Indian Express)\n\n출처: The Times of India·The Hindu·The New Indian Express 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "네팔에서 승합차가 추락해 최소 10명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 네팔 마크완푸르 산악 도로에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "타임스 오브 인디아는 승객을 태운 차량이 500미터 산비탈 아래로 떨어졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "더 뉴 인디안 익스프레스는 10명이 숨지고 5명이 다쳤다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "네팔 [[산길]] 추락 사고\n비탈 아래로",
+  "broll": [
+    "mountain road slope",
+    "minibus crash site"
+  ],
+  "place_en": "Makwanpur, Nepal"
+}
