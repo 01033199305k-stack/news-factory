@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ai_discovered_php_vulnerabilities_2026",
-    "topic": "AI가 찾은 보안 취약점, 전 세계 웹사이트 70% 타격",
-    "slug": "2026-10-24-news-ai-discovered-php-vulnerabilities-2026",
-    "cluster": "CBMiwgFBVV95cUxQV05wYl91MmowMUlxMjZkLXZBU25XR1h4ZWE5dnptMktPMDdkUnpWMkxpUFZrUUl6ajg2NjNlcVBaOTYwWEtqUkRTVlVIUGc1a3FoZjVwendXdm1DUTZxN05fNWkzblg2TEVFRkpKNnlTdjlpaWIzYkljMFFSYkRVa29uQkFWZWJOaWpFRV9ZWUJhSXBUa1NaLS1WZjJxcDQ4NmpHaXpFT2xLb1VYZWtSWElyT2xmTEg1V1FnMjE3NE5wQQ",
-    "badge": "breaking",
-    "at": 1792775255.1504524,
-    "country": "글로벌",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "us_doj_alaska_senate_lawsuit_2026",
     "topic": "미국 법무부, 알래스카 상원 선거 결과 인증 차단 소송 제기",
     "slug": "2026-10-24-news-us-doj-alaska-senate-lawsuit-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794507078.9392962,
     "country": "팔레스타인",
     "category": "재난"
+  },
+  {
+    "event_key": "uae_fujairah_bus_truck_crash_2026",
+    "topic": "UAE서 23중 추돌 사고 최소 14명 사망",
+    "slug": "2026-11-13-news-uae-fujairah-bus-truck-crash-2026",
+    "cluster": "CBMi8AFBVV95cUxPSC1vVVQzbERPQzBpMkRJeWM2SVNvZGFPZFE1RTdPVU5WcnJYV1psaFVsVHRiaVE3dmRMRWh0RHFtTXltdkdZdU83QlJjaExDYXRacWlydnI1cUUwY1BsdHdpaDdIa1JBVWdBVWF0aWdzaGkySGhHSmk3dFJYUG5Wd0xraFdrYUc1TUYtQ0Q3b1RwSkxqdmM3Z0VXSFpnSmFWY3hhOWxkY29SanJCR1JlRnZpcE83cTFwYXVqOE5tY3FZSFM5ZkZ5dFQ2SWw1YlVuaU93MmZtQ2h3OVBLa2xnV1VOeldTSW5RTFVtZ2gzV1E",
+    "badge": "breaking",
+    "at": 1794514372.2267644,
+    "country": "아랍에미리트",
+    "category": "사고"
   }
 ]

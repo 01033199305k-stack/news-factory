@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-13-news-uae-fujairah-bus-truck-crash-2026",
+  "topic": "UAE서 23중 추돌 사고 최소 14명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 03:30 KST",
+  "source": "BBC·Reuters·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8AFBVV95cUxPSC1vVVQzbERPQzBpMkRJeWM2SVNvZGFPZFE1RTdPVU5WcnJYV1psaFVsVHRiaVE3dmRMRWh0RHFtTXltdkdZdU83QlJjaExDYXRacWlydnI1cUUwY1BsdHdpaDdIa1JBVWdBVWF0aWdzaGkySGhHSmk3dFJYUG5Wd0xraFdrYUc1TUYtQ0Q3b1RwSkxqdmM3Z0VXSFpnSmFWY3hhOWxkY29SanJCR1JlRnZpcE83cTFwYXVqOE5tY3FZSFM5ZkZ5dFQ2SWw1YlVuaU93MmZtQ2h3OVBLa2xnV1VOeldTSW5RTFVtZ2gzV1E",
+    "related": [
+      [
+        "Indian nationals among 14 killed in deadly multi-vehicle crash in UAE's Fujairah",
+        "The Times of India"
+      ],
+      [
+        "Fourteen dead after truck loses control in 23-vehicle crash in UAE",
+        "BBC"
+      ],
+      [
+        "UAE says 14 killed, 30 injured in Fujairah traffic accident",
+        "Reuters"
+      ],
+      [
+        "Three members of Malayali family from Malappuram killed in UAE road accident",
+        "The New Indian Express"
+      ],
+      [
+        "Fujairah car-truck crash: Indian expat twins, 21, and toddler nephew killed",
+        "Gulf News"
+      ]
+    ],
+    "event_key": "uae_fujairah_bus_truck_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "UAE서 [[23중 추돌]] 사고\n최소 [[14명]] 사망",
+      "sub": "트럭 통제 불능으로 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "14명"
+        },
+        {
+          "k": "부상",
+          "v": "30명"
+        }
+      ],
+      "alt": "UAE서 23중 추돌 사고 최소 14명 사망",
+      "map": {
+        "lat": 25.4147357,
+        "lon": 56.2313667,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n푸자이라",
+      "video_only": true,
+      "map": {
+        "lat": 25.4147357,
+        "lon": 56.2313667,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "푸자이라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 규모",
+          "d": "트럭이 통제 불능 상태에 빠지며 차량 23대가 연쇄 추돌했습니다 (BBC)"
+        },
+        {
+          "t": "인명 피해",
+          "d": "14명이 숨지고 30명이 다쳤습니다 (로이터)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "차량 23대 연쇄 추돌",
+        "사망 14명",
+        "부상 30명"
+      ],
+      "unconfirmed": [
+        "정확한 사고 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Gulf News",
+        "Reuters",
+        "The New Indian Express",
+        "The Times of India",
+        "2026.11.13 05:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 아랍에미리트(UAE) 푸자이라에서 차량 23대가 엉키는 대형 추돌 사고가 발생해 최소 14명이 숨졌습니다.\n\n· 트럭이 통제를 잃으면서 연쇄 추돌로 이어졌습니다 (BBC)\n· 이번 사고로 30명이 다쳤습니다 (로이터)\n\n출처: BBC·로이터·The Times of India 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아랍에미리트 푸자이라에서 차량 23대가 얽힌 대형 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 트럭이 통제를 잃으면서 연쇄 추돌로 이어졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 사고로 최소 14명이 숨지고 30명이 다쳤습니다.",
+      "card": "points",
+      "screen": "사망 14명 부상 30명"
+    },
+    {
+      "text": "정확한 사고 경위는 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "UAE 푸자이라서\n[[23중 추돌]]",
+  "broll": [
+    "car crash wreckage",
+    "ambulance lights"
+  ],
+  "place_en": "Fujairah, UAE"
+}
