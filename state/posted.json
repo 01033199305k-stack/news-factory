@@ -39748,5 +39748,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794478274
+  },
+  {
+    "slug": "2026-11-12-news-russia-st-petersburg-colonel-car-bomb-2026",
+    "event_ms": 1794469980000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아 상트페테르부르크에서 차량이 폭발해 1명이 숨졌습니다.\n\n· 상트페테르부르크에서 차량 폭발 발생 (The Sun)\n· 차에 탑승했던 러시아 군 대령 1명 사망 (The Sun·Kyiv Post)\n· 폭발물 설치 경위와 정확한 배후는 미확인 (Kyiv Post)\n\n출처: The Sun·Sky News·Kyiv Post 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18092463668695360",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfotcdaljzH",
+        "kind": "carousel",
+        "at": 1794474889
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1794475175
+      },
+      "tiktok": {
+        "id": "7707212151781330177",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707212151781330177",
+        "kind": "video",
+        "at": 1794475297
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794481624
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794481624
   }
 ]
