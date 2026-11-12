@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "west-bank-judea-junction-shooting-2026",
-    "topic": "서안지구 총격 테러 최소 5명 부상",
-    "slug": "2026-10-23-news-west-bank-judea-junction-shooting-2026",
-    "cluster": "CBMiWkFVX3lxTE9ON3RHdEZWTERxU045SmdZUHhBVVVUbFNBYkRPMnRncl9WQVhfQ2Jqc0c2aFRDLXRWemN2UFcxZ3NWc04zUUY4R29tSXh2Ylh3UUU5N0doMUdsUQ",
-    "badge": "breaking",
-    "at": 1792739609.2296233,
-    "country": "팔레스타인",
-    "category": "총격·테러"
-  },
-  {
-    "event_key": "north_korea_dmz_landmines_estimate_2026",
-    "topic": "북한, DMZ 일대에 지뢰 96만 발 매설 추정",
-    "slug": "2026-10-23-news-north-korea-dmz-landmines-estimate-2026",
-    "cluster": "CBMiaEFVX3lxTE12eEhQYnF3V1o3aVJzTHNxZGY2NkYwMVgwbWROVWh4dGl5b29MTzEwbjNiUWlCeGtZZnJDY0t4SWViM2NaZWJPN3VsTkp5TG1lR25aUGNfaDM4WUJDaXhCXzR5T2dJRFVJ",
-    "badge": "brief",
-    "at": 1792747018.5778315,
-    "country": "대한민국",
-    "category": "국제"
-  },
-  {
     "event_key": "bahamas_british_mother_drowns_saving_children_2026",
     "topic": "바하마서 36세 영국인 여성 아이들 구하려다 숨져",
     "slug": "2026-10-23-news-bahamas-british-mother-drowns-saving-children-2026",
@@ -2997,6 +2977,26 @@
     "badge": "breaking",
     "at": 1794437746.8176448,
     "country": "사우디아라비아",
+    "category": "국제"
+  },
+  {
+    "event_key": "iran_hormuz_strait_strikes_tankers_2026",
+    "topic": "이란, 호르무즈 해협 오만 섬 공격 유조선 화재 및 유가 상승",
+    "slug": "2026-11-12-news-iran-hormuz-strait-strikes-tankers-2026",
+    "cluster": "CBMiqAFBVV95cUxPQ05QYWVnRGU4aV9FS1pCczA3dU9VY3U4VnVoeVNLLUg2aC1XQndBUlozb1FtaXZFRndfcjVYS2dRTG1LS3JxUFcyX2ZQNlJtZlVBRElmZkZyZFZUYUw1TkdQdEtRWURZd1B3a0VWV1FCTzVrYm5MWmdtbkxYNmNNTlF5d2hiNTJCQ2pGbVBfZktVczBXZHBfUU5YOVZQaXRuemh6SjFJX3jSAa4BQVVfeXFMT1hVZFdKM2dWV2kzRkVWazJIUmlZekZhM1RpVnhMc0ZBWTNYa0Q0THpRRVM5VmhPcGdrdTNLLVhfYVhtekFSbDhJUG4wRWQteEdNcGJjVlZaVURvdTlFRGdSWDY0NjB1dVlxQ2ZzV283NmFzdGJGNFJOSGpxLUJ6R2w0QXhXMWREMjlJYzFnUk4tSElzdDJBakFKLTFnOWVyTFBYRTJzZGlFN1ZwREFn",
+    "badge": "breaking",
+    "at": 1794445888.5798638,
+    "country": "오만",
+    "category": "국제"
+  },
+  {
+    "event_key": "mississippi_senate_election_colom_2026",
+    "topic": "미국 미시시피 상원의원 선거서 민주당 스콧 콜롬 승리",
+    "slug": "2026-11-12-news-mississippi-senate-election-colom-2026",
+    "cluster": "CBMi_wFBVV95cUxORTRJVklDeGxDT3drLU5BTkNrelBSMERQZkFqejFNVVNRQ2RiRC1rZWlsR05WeEpKZmpScnc2RlRRTzI1S1Y3Q3NxamhVeFpIQzU0aVo0M3NaV0FTbkh0ZHpjejNud3BfN01OVGFDZlFiZTh0dlV5YXU2WkMzQm9sNE0tRlRqb1lqd2NwSnROaGY0RGJhQ1JaVDBBaHB0TC1tUHdWSHV5TW01Uml0aFh4dEhzTzVkZUdfeHczYVBaYXprZUZFdVZZSmxxSXhlVDRZRmMwamo3bFRkSTZtbnhIR053M2FIRV9udkU3elVwNlNXZUVBaXQ3aHFnX1p5MzQ",
+    "badge": "breaking",
+    "at": 1794445909.0875897,
+    "country": "미국",
     "category": "국제"
   }
 ]

@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-12-news-iran-hormuz-strait-strikes-tankers-2026",
+  "topic": "이란, 호르무즈 해협 오만 섬 공격 유조선 화재 및 유가 상승",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 07:48 KST",
+  "source": "Fox News·Reuters·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxPQ05QYWVnRGU4aV9FS1pCczA3dU9VY3U4VnVoeVNLLUg2aC1XQndBUlozb1FtaXZFRndfcjVYS2dRTG1LS3JxUFcyX2ZQNlJtZlVBRElmZkZyZFZUYUw1TkdQdEtRWURZd1B3a0VWV1FCTzVrYm5MWmdtbkxYNmNNTlF5d2hiNTJCQ2pGbVBfZktVczBXZHBfUU5YOVZQaXRuemh6SjFJX3jSAa4BQVVfeXFMT1hVZFdKM2dWV2kzRkVWazJIUmlZekZhM1RpVnhMc0ZBWTNYa0Q0THpRRVM5VmhPcGdrdTNLLVhfYVhtekFSbDhJUG4wRWQteEdNcGJjVlZaVURvdTlFRGdSWDY0NjB1dVlxQ2ZzV283NmFzdGJGNFJOSGpxLUJ6R2w0QXhXMWREMjlJYzFnUk4tSElzdDJBakFKLTFnOWVyTFBYRTJzZGlFN1ZwREFn",
+    "related": [
+      [
+        "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
+        "Fox News"
+      ],
+      [
+        "Tankers burn in the Middle East despite hopes for de-escalation",
+        "Reuters"
+      ],
+      [
+        "Uncertainty Surrounds Possible Attack on Oman's Strait of Hormuz Lighthouse",
+        "The Maritime Executive"
+      ],
+      [
+        "Iran Reportedly Attacked Shipping Navigation Systems in Oman. Oil Prices Are Climbing.",
+        "Yahoo"
+      ],
+      [
+        "Tankers burn in Hormuz as Iran vows enriched uranium will never leave",
+        "Ynetnews"
+      ]
+    ],
+    "event_key": "iran_hormuz_strait_strikes_tankers_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, 호르무즈 해협 오만 섬 공격\n유조선 화재 및 [[유가]] 상승",
+      "sub": "중동 긴장 고조 속에서 해상 유조선들이 화재 피해를 입었습니다",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "호르무즈 해협"
+        }
+      ],
+      "alt": "이란, 호르무즈 해협 오만 섬 공격 유조선 화재 및 유가 상승",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "오만"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "오만\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "오만 섬 타격",
+          "d": "이란은 적들이 미군 작전에 사용하는 곳이라고 주장하며 오만 섬을 타격했다고 밝혔습니다 (Fox News)"
+        },
+        {
+          "t": "유조선 피해",
+          "d": "긴장 완화 기대에도 불구하고 중동 해역에서 유조선들이 불타고 있습니다 (Reuters)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란의 오만 섬 공격 주장",
+        "중동 해역 유조선 화재 발생"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모 및 인명 피해 여부",
+        "한국인 피해 여부",
+        "향후 유가 추가 변동 추이"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Fox News",
+        "Reuters",
+        "The Maritime Executive",
+        "Yahoo",
+        "Ynetnews",
+        "2026.11.12 10:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란, 호르무즈 해협 오만 섬 공격…유조선 화재 발생\n\n· 이란은 적들이 미군 작전에 사용하는 곳이라며 오만 섬을 타격했다고 밝혔습니다 (Fox News)\n· 긴장 완화 기대에도 불구하고 중동 해역에서 유조선들이 불타고 있습니다 (Reuters)\n· 이란의 항법 시스템 공격 보도 속에서 유가가 상승하고 있습니다 (Yahoo)\n\n출처: Fox News·Reuters·The Maritime Executive·Yahoo·Ynetnews 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 호르무즈 해협의 오만 섬을 공격했다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "Fox News는 이란이 적의 미군 작전 사용 시설을 타격했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "Reuters는 긴장 완화 기대 속에서도 중동 해역 유조선들이 불타고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "항법 시스템 공격 보도와 함께 유가가 상승하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중동 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "호르무즈 해협에서\n무슨 일이?",
+  "broll": [
+    "oil tanker sea",
+    "ocean cargo ship"
+  ],
+  "place_en": "Strait of Hormuz"
+}

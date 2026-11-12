@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-12-news-mississippi-senate-election-colom-2026",
+  "topic": "미국 미시시피 상원의원 선거서 민주당 스콧 콜롬 승리",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 08:26 KST",
+  "source": "BBC·CNN·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi_wFBVV95cUxORTRJVklDeGxDT3drLU5BTkNrelBSMERQZkFqejFNVVNRQ2RiRC1rZWlsR05WeEpKZmpScnc2RlRRTzI1S1Y3Q3NxamhVeFpIQzU0aVo0M3NaV0FTbkh0ZHpjejNud3BfN01OVGFDZlFiZTh0dlV5YXU2WkMzQm9sNE0tRlRqb1lqd2NwSnROaGY0RGJhQ1JaVDBBaHB0TC1tUHdWSHV5TW01Uml0aFh4dEhzTzVkZUdfeHczYVBaYXprZUZFdVZZSmxxSXhlVDRZRmMwamo3bFRkSTZtbnhIR053M2FIRV9udkU3elVwNlNXZUVBaXQ3aHFnX1p5MzQ",
+    "related": [
+      [
+        "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
+        "The Times of India"
+      ],
+      [
+        "Scott Colom wins in Mississippi, Congress latest: Live Updates",
+        "CNN"
+      ],
+      [
+        "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+        "The Guardian"
+      ],
+      [
+        "Democrat Scott Colom seals surprise win in Mississippi Senate race",
+        "BBC"
+      ],
+      [
+        "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+        "CNBC"
+      ]
+    ],
+    "event_key": "mississippi_senate_election_colom_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 미시시피 상원의원 선거서\n민주당 스콧 콜롬 [[승리]]",
+      "sub": "1874년 이후 처음으로 흑인 상원의원이 탄생했습니다",
+      "chips": [
+        {
+          "k": "인물",
+          "v": "스콧 콜롬"
+        }
+      ],
+      "alt": "미국 미시시피 상원의원 선거서 민주당 스콧 콜롬 승리",
+      "map": {
+        "lat": 32.9715285,
+        "lon": -89.7348497,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n미시시피",
+      "video_only": true,
+      "map": {
+        "lat": 32.9715285,
+        "lon": -89.7348497,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미시시피"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역사적 당선",
+          "d": "스콧 콜롬 후보는 1874년 이후 미시시피에서 처음으로 선출되는 흑인 상원의원이 됩니다 (The Guardian)"
+        },
+        {
+          "t": "투표 결과",
+          "d": "하이드스미스 후보를 상대로 승리를 거두며 당선되었습니다"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미시시피 상원의원 선거 민주당 승리",
+        "스콧 콜롬 후보 당선"
+      ],
+      "unconfirmed": [
+        "최종 득표율 격차",
+        "상대 후보의 공식 승복 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNBC",
+        "CNN",
+        "The Guardian",
+        "The Times of India",
+        "2026.11.12 10:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 미시시피 상원 선거서 민주당 스콧 콜롬 승리\n\n· 스콧 콜롬 후보는 1874년 이후 미시시피에서 처음으로 선출되는 흑인 상원의원이 됩니다 (The Guardian)\n· 하이드스미스 후보를 상대로 승리를 거두며 당선되었습니다\n\n· 여러분은 이번 미국 상원 선거 결과에 대해 어떻게 생각하십니까?\n출처: BBC·The Guardian·CNN·CNBC·The Times of India 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 미시시피 상원의원 선거에서 민주당 스콧 콜롬 후보가 승리했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "The Guardian은 1874년 이후 미시시피에서 처음으로 흑인 상원의원이 탄생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "콜롬 후보는 하이드스미스 후보와의 접전 끝에 당선됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 선거 결과, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미시시피 상원 선거에서\n무슨 일이?",
+  "broll": [
+    "us capitol building",
+    "election ballot box"
+  ],
+  "place_en": "Mississippi, USA"
+}

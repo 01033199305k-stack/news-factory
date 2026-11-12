@@ -1,1 +1,100 @@
-[]
+[
+  {
+    "slug": "2026-11-12-news-iran-hormuz-strait-strikes-tankers-2026",
+    "event_ms": 1794437283000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이란, 호르무즈 해협 오만 섬 공격…유조선 화재 발생\n\n· 이란은 적들이 미군 작전에 사용하는 곳이라며 오만 섬을 타격했다고 밝혔습니다 (Fox News)\n· 긴장 완화 기대에도 불구하고 중동 해역에서 유조선들이 불타고 있습니다 (Reuters)\n· 이란의 항법 시스템 공격 보도 속에서 유가가 상승하고 있습니다 (Yahoo)\n\n출처: Fox News·Reuters·The Maritime Executive·Yahoo·Ynetnews 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "오만"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18081258137713612",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfn2Q7CDjgM",
+        "kind": "carousel",
+        "at": 1794445958
+      },
+      "youtube": {
+        "id": "ywZ01E44hnE",
+        "permalink": "https://youtube.com/shorts/ywZ01E44hnE",
+        "kind": "shorts",
+        "at": 1794446219
+      },
+      "tiktok": {
+        "id": "7707088528890498325",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707088528890498325",
+        "kind": "video",
+        "at": 1794446499
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-12-news-mississippi-senate-election-colom-2026",
+    "event_ms": 1794439560000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 미시시피 상원 선거서 민주당 스콧 콜롬 승리\n\n· 스콧 콜롬 후보는 1874년 이후 미시시피에서 처음으로 선출되는 흑인 상원의원이 됩니다 (The Guardian)\n· 하이드스미스 후보를 상대로 승리를 거두며 당선되었습니다\n\n· 여러분은 이번 미국 상원 선거 결과에 대해 어떻게 생각하십니까?\n출처: BBC·The Guardian·CNN·CNBC·The Times of India 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18123085600746205",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfn2U8kjqsm",
+        "kind": "carousel",
+        "at": 1794445992
+      },
+      "youtube": {
+        "id": "xC90QTcJFsE",
+        "permalink": "https://youtube.com/shorts/xC90QTcJFsE",
+        "kind": "shorts",
+        "at": 1794446367
+      },
+      "tiktok": {
+        "id": "7707088233095613748",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707088233095613748",
+        "kind": "video",
+        "at": 1794446631
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]
