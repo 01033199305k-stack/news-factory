@@ -1,0 +1,119 @@
+{
+  "slug": "2026-11-12-news-gaza-nasser-hospital-israeli-strike-2026",
+  "topic": "가자지구 병원 공습 최소 6명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 12:32 KST",
+  "source": "Al Jazeera·BBC·NDTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE0wMjBISTdTSzZGQzZGVHJWUE1aQUIxaXlyRkhWei1yVi02UmJoNEJSdjRIQWxjYlo4MldUV19vOG9OanNWVWNIelY1cFlhOUJDQUJLTl9GVjNaT2s",
+    "related": [
+      [
+        "Israeli strike on Nasser Hospital kills at least six, Gaza civil defence agency says",
+        "BBC"
+      ],
+      [
+        "Israeli strikes hit medical complex as nine killed across Gaza",
+        "Al Jazeera"
+      ],
+      [
+        "Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say",
+        "The New York Times"
+      ],
+      [
+        "4 Killed, Several Injured In Israeli Airstrikes In Gaza",
+        "NDTV"
+      ],
+      [
+        "Israeli fire kills seven, including a father and son, in Gaza, medics say",
+        "Reuters"
+      ]
+    ],
+    "event_key": "gaza_nasser_hospital_israeli_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "가자지구 [[병원 공습]]\n최소 6명 사망",
+      "sub": "이스라엘군의 나세르 병원 공격으로 부상자 20명 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "최소 6명"
+        }
+      ],
+      "alt": "가자지구 병원 공습 최소 6명 사망"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "병원 시설 공습",
+          "d": "가자지구의 나세르 병원이 이스라엘군 공습을 받았습니다 (BBC)."
+        },
+        {
+          "t": "부상자 발생",
+          "d": "구조 당국은 이번 공습으로 최소 20명이 다쳤다고 밝혔습니다 (뉴욕타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "나세르 병원 공습 받음",
+        "최소 6명 사망 (BBC·NYT)"
+      ],
+      "unconfirmed": [
+        "정확한 전체 사망자 수 (매체별 집계 차이 있음)",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "NDTV",
+        "Reuters",
+        "The New York Times",
+        "2026.11.12 14:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군 공습으로 가자지구 병원에서 최소 6명이 숨졌습니다.\n\n· 가자지구의 나세르 병원이 이스라엘군의 공격을 받았습니다 (BBC).\n· 구조 당국은 이번 공습으로 부상자 20명이 발생했다고 전했습니다 (뉴욕타임스).\n· 매체마다 사망자 수 보도에 차이가 있습니다 (NDTV·알자지라).\n\n출처: BBC·뉴욕타임스·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "가자지구 나세르 병원이 이스라엘군의 공습을 받아 최소 6명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스는 이번 공격으로 20명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 전체 인명 피해 규모는 매체별 집계 차이가 있습니다.",
+      "card": "check"
+    },
+    {
+      "text": "계속되는 의료 시설 공격에 대해 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "가자지구 [[병원]]이\n공습받은 이유",
+  "broll": [
+    "hospital building exterior",
+    "ambulance night"
+  ],
+  "place_en": "Khan Younis, Gaza Strip"
+}

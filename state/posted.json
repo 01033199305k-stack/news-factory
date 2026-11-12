@@ -39528,5 +39528,61 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794452881
+  },
+  {
+    "slug": "2026-11-12-news-nvidia-jensen-huang-board-meeting-2026",
+    "event_ms": 1794445678000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 엔비디아 이사회, 젠슨 황 CEO 거취 논의\n\n· 엔비디아 이사회가 젠슨 황 CEO의 거취를 결정하기 위해 회의를 진행하고 있습니다 (가디언·CNBC)\n· 관련 소식 속에서 칩 거인의 주가가 급락했습니다 (CNBC·가디언)\n\n여러분은 이번 엔비디아의 경영진 거취 논의를 어떻게 보십니까?\n\n출처: 뉴욕타임스·CNBC·가디언 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18024896825763181",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfn8peljKK3",
+        "kind": "carousel",
+        "at": 1794449316
+      },
+      "youtube": {
+        "id": "_f1Mb-5RHas",
+        "permalink": "https://youtube.com/shorts/_f1Mb-5RHas",
+        "kind": "shorts",
+        "at": 1794449509
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794455581
+      },
+      "tiktok": {
+        "id": "7707148594108747016",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707148594108747016",
+        "kind": "video",
+        "at": 1794460494
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794460504
   }
 ]

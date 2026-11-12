@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-treasury-yields-tumble-below-5-percent-2026",
-    "topic": "미 10년물 국채 금리 5% 아래로 안전자산 선호 현상 강화",
-    "slug": "2026-10-23-news-us-treasury-yields-tumble-below-5-percent-2026",
-    "cluster": "CBMiswFBVV95cUxOV0dULXFaUm9nREVVNEJjUFlvODVTbkwyV21vZXJ1eVJveDc4cEd4SG5lWEZsRjNxVWNkZWlvRFJPMi10cXhjcldVUkxGd2wtMWtQbzVpYXJLR29taWlmQThpZE5ObWhFSXFpX0VYZlJMZFQ1WFdKYnF4cWhwUDE3b2NueThFenpCWEJSeDg4UzNfRDZleS1qcmpxY2sxWjhwV3ZnUjZqLTRBT2k4bDJoOVc4Zw",
-    "badge": "breaking",
-    "at": 1792757269.7251225,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "paris-suburb-drive-by-shooting-2026",
     "topic": "파리 근교서 총격 발생 사망 1명·부상 4명",
     "slug": "2026-10-23-news-paris-suburb-drive-by-shooting-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794456646.1178908,
     "country": "대한민국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "gaza_nasser_hospital_israeli_strike_2026",
+    "topic": "가자지구 병원 공습 최소 6명 사망",
+    "slug": "2026-11-12-news-gaza-nasser-hospital-israeli-strike-2026",
+    "cluster": "CBMiW0FVX3lxTE0wMjBISTdTSzZGQzZGVHJWUE1aQUIxaXlyRkhWei1yVi02UmJoNEJSdjRIQWxjYlo4MldUV19vOG9OanNWVWNIelY1cFlhOUJDQUJLTl9GVjNaT2s",
+    "badge": "breaking",
+    "at": 1794460176.7175298,
+    "country": "팔레스타인",
+    "category": "국제"
   }
 ]
