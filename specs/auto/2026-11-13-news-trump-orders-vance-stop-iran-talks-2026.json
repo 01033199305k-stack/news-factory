@@ -1,0 +1,152 @@
+{
+  "slug": "2026-11-13-news-trump-orders-vance-stop-iran-talks-2026",
+  "topic": "트럼프, 밴스에게 이란 협상 중단 지시",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 03:31 KST",
+  "source": "Financial Times·The Guardian·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxQQl9QU1FjM1ZwTnZZVV9DRl9uSUNnWmV3V25STEt6QnRyZ0VzdEs5a21sWmZHaHRlNjNvTE1BNGVPLWlKZ3d5STQzV2l2OUE3MVgtN2FOV3drSm8wdnNSNV9uTWpqNHJackRHeXdIZlM3a0VDY2dYU1FqUTJpWkpNUE5YcXFsa05GVFpiSnhaRmg4YUNqZndmQXZXRG0",
+    "related": [
+      [
+        "Trump tells Vance to stand down on Iran",
+        "The Telegraph"
+      ],
+      [
+        "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+        "The Guardian"
+      ],
+      [
+        "Donald Trump signals end to vice-president’s Iran peace deal push",
+        "Financial Times"
+      ],
+      [
+        "Trump Says He’s Pulling Vance Off Iran Talks to Focus on Fraud Campaign",
+        "The New York Times"
+      ],
+      [
+        "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+        "CNBC"
+      ]
+    ],
+    "event_key": "trump_orders_vance_stop_iran_talks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "트럼프, 밴스에게\n[[이란 협상]] 중단 지시",
+      "sub": "국내 현안 집중 요구",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "밴스"
+        },
+        {
+          "k": "조치",
+          "v": "이란 협상 중단 지시"
+        }
+      ],
+      "alt": "트럼프, 밴스에게 이란 협상 중단 지시",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지시 내용",
+          "d": "도널드 트럼프는 밴스에게 이란 평화 협상 추진을 멈추라고 지시했습니다 (The Guardian)."
+        },
+        {
+          "t": "배경",
+          "d": "국내 현안에 집중하도록 지시했습니다 (The Guardian)."
+        },
+        {
+          "t": "시장 영향",
+          "d": "이란 협상 중단 언급 이후 원유 가격이 상승했습니다 (CNBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프의 밴스 이란 협상 중단 지시",
+        "발표 이후 원유 가격 상승 (CNBC)"
+      ],
+      "unconfirmed": [
+        "향후 미국의 대이란 외교 정책의 구체적 변화 방향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "Financial Times",
+        "The Guardian",
+        "The New York Times",
+        "The Telegraph",
+        "2026.11.13 05:57 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 도널드 트럼프가 밴스에게 이란 협상 중단을 지시했습니다\n\n· 트럼프는 이란과 거래가 필요 없다고 밝혔습니다 (The Guardian)\n· 밴스에게 국내 현안에 집중할 것을 주문했습니다 (The Guardian)\n\n출처: The Guardian·The New York Times·The Telegraph·Financial Times·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "도널드 트럼프가 밴스에게 이란 협상 중단을 지시했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언은 트럼프가 국내 현안에 집중하라고 명령했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "발표 이후 원유 가격이 상승했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국의 향후 대이란 외교 정책은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 조치가 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "향후 영향은?"
+    }
+  ],
+  "hook": "트럼프가 내린\n[[외교 지시]], 내용은?",
+  "broll": [
+    "white house washington",
+    "oil refinery tanks"
+  ],
+  "place_en": "Washington, D.C."
+}

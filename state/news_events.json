@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_doj_alaska_senate_lawsuit_2026",
-    "topic": "미국 법무부, 알래스카 상원 선거 결과 인증 차단 소송 제기",
-    "slug": "2026-10-24-news-us-doj-alaska-senate-lawsuit-2026",
-    "cluster": "CBMipwFBVV95cUxQcWxpNC1vU1lhdHpzWHZjN2JvZzVUVlVhWFA3MlJvVkMtOS0ybGR1NWVnRzJOUm1TdXZqcjJhSzdjQjEwazM0cXZXTnN0bGhYMlJteERaQVAzcVR0LU5TVTNJSHpta0doRWJCLWtibE4tTjJ3ekFmVHI3MGVFV092b0lRZUtIVnF6OXp2ZEV4TC1MQ1BKWThKdTJvdy1VQzJJeHJUUnFGbw",
-    "badge": "breaking",
-    "at": 1792780217.6763673,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "sicily_earthquakes_tsunami_alert_2026",
     "topic": "이탈리아 시칠리아 인근서 지진 십여 차례 발생 쓰나미 경보 발령",
     "slug": "2026-10-24-news-sicily-earthquakes-tsunami-alert-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794514372.2267644,
     "country": "아랍에미리트",
     "category": "사고"
+  },
+  {
+    "event_key": "trump_orders_vance_stop_iran_talks_2026",
+    "topic": "트럼프, 밴스에게 이란 협상 중단 지시",
+    "slug": "2026-11-13-news-trump-orders-vance-stop-iran-talks-2026",
+    "cluster": "CBMinAFBVV95cUxQQl9QU1FjM1ZwTnZZVV9DRl9uSUNnWmV3V25STEt6QnRyZ0VzdEs5a21sWmZHaHRlNjNvTE1BNGVPLWlKZ3d5STQzV2l2OUE3MVgtN2FOV3drSm8wdnNSNV9uTWpqNHJackRHeXdIZlM3a0VDY2dYU1FqUTJpWkpNUE5YcXFsa05GVFpiSnhaRmg4YUNqZndmQXZXRG0",
+    "badge": "breaking",
+    "at": 1794517050.712883,
+    "country": "미국",
+    "category": "국제"
   }
 ]

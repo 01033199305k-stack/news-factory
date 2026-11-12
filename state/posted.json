@@ -40014,5 +40014,59 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794510670
+  },
+  {
+    "slug": "2026-11-13-news-gaza-winter-storms-flooding-tents-2026",
+    "event_ms": 1794498733000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 가자지구 피란민 텐트촌에 폭우가 쏟아졌습니다.\n\n· 치명적인 폭풍우가 가자지구 임시 천막지대를 덮쳤습니다 (워싱턴포스트·NBC)\n· 네타냐후 이스라엘 총리는 수용소 상황에 대한 이스라엘 책임론을 부인했습니다 (AP)\n· 트럼프의 평화 위원회는 이스라엘의 홍수 대응이 불충분하다고 비판했습니다 (CNN)\n\n출처: 워싱턴포스트·NBC·AP·CNN 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18121930483764925",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfpq8GHCXjc",
+        "kind": "carousel",
+        "at": 1794507126
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1794507251
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794514557
+      },
+      "tiktok": {
+        "id": "7707392853172964609",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707392853172964609",
+        "kind": "video",
+        "at": 1794517395
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794517405
   }
 ]
