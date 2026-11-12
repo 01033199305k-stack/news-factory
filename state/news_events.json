@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "tibet_earthquake_magnitude_seven_2026",
-    "topic": "중국 티베트서 규모 7.0 강진 최소 16명 사망",
-    "slug": "2026-10-23-news-tibet-earthquake-magnitude-seven-2026",
-    "cluster": "CBMiXkFVX3lxTE96eXluYkFQNmgxS2V5eWxNR0x0V2w3U1hjVXBhZm9IZGdRMnFheE0wY08xNV9nRVZ4RTR0TGo3LWNsTjMxZ2NWUXJpQnZmVmFvalhndjVaTXYyTVM4NmfSAWNBVV95cUxNWGJKYlJIZkJreG5USzZ0Rlc2Z3lUTTVHUGc4OHlnT3Jqc29XbXMwTlcwYUpPUWlneFQxZ19XMm5wbWJ5djlKLWtUSDlhMTByeHhTcjBHZkhQZ091amx6Q2xaaHc",
-    "badge": "breaking",
-    "at": 1792753884.094535,
-    "country": "중국",
-    "category": "재난"
-  },
-  {
     "event_key": "us-treasury-yields-tumble-below-5-percent-2026",
     "topic": "미 10년물 국채 금리 5% 아래로 안전자산 선호 현상 강화",
     "slug": "2026-10-23-news-us-treasury-yields-tumble-below-5-percent-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794449261.5289125,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "korea_siheung_family_death_2026",
+    "topic": "경기 시흥 아파트서 일가족 숨진 채 발견",
+    "slug": "2026-11-12-news-korea-siheung-family-death-2026",
+    "cluster": "CBMiY0FVX3lxTE8yc2tJZ0czcld1ZDBzenV1ZktLZkJxRE42eDJURk9sdDdGVTRVd0h6M3JBM0JEMjNXb012dXFCS1RHMlhMM25OOEx3NU9TQTJKeXByRzNuc25jOXNHTDBFU0NuQQ",
+    "badge": "breaking",
+    "at": 1794456646.1178908,
+    "country": "대한민국",
+    "category": "기타 사건"
   }
 ]

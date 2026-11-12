@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-12-news-korea-siheung-family-death-2026",
+  "topic": "경기 시흥 아파트서 일가족 숨진 채 발견",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 11:23 KST",
+  "source": "KBC광주방송·KBS 뉴스·MBC 뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiY0FVX3lxTE8yc2tJZ0czcld1ZDBzenV1ZktLZkJxRE42eDJURk9sdDdGVTRVd0h6M3JBM0JEMjNXb012dXFCS1RHMlhMM25OOEx3NU9TQTJKeXByRzNuc25jOXNHTDBFU0NuQQ",
+    "related": [
+      [
+        "시흥 아파트서 엄마·10대 두 아들 숨진 채 발견...흉기 추정 상처",
+        "한겨레"
+      ],
+      [
+        "아파트서 어머니와 10대 두 아들 숨진 채 발견…경찰 수사",
+        "KBC광주방송"
+      ],
+      [
+        "아파트 단지엔 10대 아들, 집안선 엄마-동생 숨진채 발견",
+        "동아일보"
+      ],
+      [
+        "시흥 아파트 단지서 일가족 숨진채 발견…경찰 조사 중",
+        "KBS 뉴스"
+      ],
+      [
+        "경기도 시흥 아파트서 어머니와 10대 두 아들 숨진 채 발견",
+        "MBC 뉴스"
+      ]
+    ],
+    "event_key": "korea_siheung_family_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "경기 시흥 아파트서\n[[일가족]] 숨진 채 발견",
+      "sub": "어머니와 10대 두 아들 사망",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "3명 (MBC)"
+        }
+      ],
+      "alt": "경기 시흥 아파트서 일가족 숨진 채 발견",
+      "map": {
+        "lat": 37.3798891,
+        "lon": 126.8032255,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n시흥",
+      "video_only": true,
+      "map": {
+        "lat": 37.3798891,
+        "lon": 126.8032255,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "시흥"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "발견 장소",
+          "d": "아파트 단지 안에서 10대 아들이 발견됐고 집안에서는 엄마와 동생이 숨진 채 발견됐습니다 (동아일보)."
+        },
+        {
+          "t": "사고 정황",
+          "d": "시신에서 흉기로 추정되는 상처가 발견됐습니다 (한겨레)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 3명 (MBC)",
+        "어머니와 10대 두 아들 사망 (MBC)"
+      ],
+      "unconfirmed": [
+        "정확한 사건 경위",
+        "사망 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBC광주방송",
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "동아일보",
+        "한겨레",
+        "2026.11.12 13:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 경기 시흥 아파트서 일가족 3명 숨진 채 발견\n\n· 어머니와 10대 두 아들이 사망한 상태로 발견됐습니다 (MBC)\n· 현장에서는 흉기로 추정되는 상처가 확인됐습니다 (한겨레)\n\n출처: MBC·한겨레·동아일보·KBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경기도 시흥의 한 아파트에서 일가족 3명이 숨진 채 발견됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "MBC는 어머니와 10대 두 아들이 사망했다고 전했습니다.",
+      "card": "points",
+      "screen": "일가족 3명 사망"
+    },
+    {
+      "text": "시신에서는 흉기로 추정되는 상처가 발견됐습니다.",
+      "card": "points",
+      "screen": "흉기 추정 상처 발견"
+    },
+    {
+      "text": "경찰은 정확한 사건 경위를 조사하고 있습니다.",
+      "card": "check",
+      "screen": "사건 경위 조사 중"
+    }
+  ],
+  "hook": "경기 시흥 아파트서\n[[일가족]] 숨진 채 발견",
+  "broll": [
+    "apartment building exterior",
+    "police tape street"
+  ],
+  "place_en": "Siheung, South Korea"
+}
