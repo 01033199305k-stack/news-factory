@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "melania_trump_ukraine_ceasefire_2026",
-    "topic": "미국 백악관 발표 오레시키 휴전 성사",
-    "slug": "2026-10-23-news-melania-trump-ukraine-ceasefire-2026",
-    "cluster": "CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR",
-    "badge": "breaking",
-    "at": 1792764655.6925998,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "poland_airports_closed_russian_attack_2026",
     "topic": "폴란드, 공항 폐쇄하고 방공망 가동",
     "slug": "2026-10-24-news-poland-airports-closed-russian-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794474842.1031544,
     "country": "네팔",
     "category": "사고"
+  },
+  {
+    "event_key": "korea_apartment_arson_fire_2026",
+    "topic": "아파트 방화 사고 경비원 등 14명 사상",
+    "slug": "2026-11-12-news-korea-apartment-arson-fire-2026",
+    "cluster": "CBMiZkFVX3lxTE5MNEF3VWUxd0ZQUWJBQVQ4eHFBdHd0dnJWVlR5TGJmcFRPWVY3MDhWNFZZSW5BZ2oxVnNtS0lMZXB2Sk44dHIxR3JQWXZSNnBhMFg3UDNXc1QtRjdtNnE4UlBFNGRldw",
+    "badge": "breaking",
+    "at": 1794485532.7323792,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]

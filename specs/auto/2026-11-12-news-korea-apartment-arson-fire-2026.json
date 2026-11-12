@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-12-news-korea-apartment-arson-fire-2026",
+  "topic": "아파트 방화 사고 경비원 등 14명 사상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 19:10 KST",
+  "source": "KBS 뉴스·YTN·경향신문 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiZkFVX3lxTE5MNEF3VWUxd0ZQUWJBQVQ4eHFBdHd0dnJWVlR5TGJmcFRPWVY3MDhWNFZZSW5BZ2oxVnNtS0lMZXB2Sk44dHIxR3JQWXZSNnBhMFg3UDNXc1QtRjdtNnE4UlBFNGRldw",
+    "related": [
+      [
+        "불난 아파트서 “피하세요” 70대 경비원 ‘중태’…40대 주민 방화",
+        "KBS 뉴스"
+      ],
+      [
+        "“위층 주민들 대피시키다…” 6층서 불났는데 13층 계단서 쓰러져 발견된 경비원",
+        "경향신문"
+      ],
+      [
+        "“불난 집 확인하려다”…아파트 화재로 70대 경비원 심정지",
+        "KBS 뉴스"
+      ],
+      [
+        "'경비원 중태·13명 부상' 아파트 방화범 \"죽고 싶어서\"",
+        "연합뉴스"
+      ],
+      [
+        "아파트 화재로 14명 중경상...40대 남성 '방화' 입건",
+        "YTN"
+      ]
+    ],
+    "event_key": "korea_apartment_arson_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "아파트 [[방화]] 사고\n경비원 등 14명 사상",
+      "sub": "대피를 돕던 70대 경비원이 심정지 상태로 발견됐습니다",
+      "chips": [
+        {
+          "k": "중태",
+          "v": "1명"
+        }
+      ],
+      "alt": "아파트 방화 사고 경비원 등 14명 사상",
+      "map": {
+        "lat": 36.638392,
+        "lon": 127.6961188,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국",
+      "video_only": true,
+      "map": {
+        "lat": 36.638392,
+        "lon": 127.6961188,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "대한민국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주민 13명 이상 부상",
+          "d": "화재로 주민 13~14명이 다쳤습니다 (연합뉴스·YTN)."
+        },
+        {
+          "t": "40대 방화 피의자 입건",
+          "d": "40대 남성이 방화 혐의로 입건됐습니다 (YTN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "70대 경비원 1명 중태 (KBS)",
+        "40대 방화 피의자 입건 (YTN)"
+      ],
+      "unconfirmed": [
+        "부상자 수 매체별 집계 차이 있음 (13~14명)",
+        "구체적인 방화 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "YTN",
+        "경향신문",
+        "연합뉴스",
+        "2026.11.12 21:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 불이 난 아파트에서 대피를 돕던 70대 경비원이 중태에 빠졌습니다.\n\n· 아파트 화재로 경비원이 심정지 상태로 발견됐습니다 (KBS·경향신문)\n· 주민 13~14명이 중경상을 입었습니다 (연합뉴스·YTN)\n· 40대 방화 피의자가 입건됐습니다 (YTN)\n\n출처: KBS·경향신문·연합뉴스·YTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아파트 방화로 70대 경비원이 중태에 빠지고 13명 이상이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "불이 난 아파트에서 주민 대피를 돕던 경비원이 심정지 상태로 발견됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "연합뉴스는 이번 화재로 13명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "불을 지른 혐의로 40대 남성이 입건됐습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[아파트 방화]] 사고\n경비원 심정지",
+  "broll": [
+    "apartment fire night",
+    "fire truck emergency"
+  ],
+  "place_en": "South Korea"
+}

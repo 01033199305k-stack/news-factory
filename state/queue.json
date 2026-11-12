@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-11-12-news-nepal-passenger-vehicle-plunge-2026",
-    "event_ms": 1794465420000,
-    "category": "사고",
+    "slug": "2026-11-12-news-korea-apartment-arson-fire-2026",
+    "event_ms": 1794478200000,
+    "category": "폭발·화재",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 네팔에서 승합차가 추락해 최소 10명이 숨졌습니다.\n\n· 승객을 태운 차량이 500m 산비탈 아래로 추락 (The Times of India)\n· 사고로 최소 10명 사망 (The Hindu)\n· 5명 부상 (The New Indian Express)\n\n출처: The Times of India·The Hindu·The New Indian Express 보도 종합",
-    "topic_tag": "해외사건사고",
+    "text": "[속보] 불이 난 아파트에서 대피를 돕던 70대 경비원이 중태에 빠졌습니다.\n\n· 아파트 화재로 경비원이 심정지 상태로 발견됐습니다 (KBS·경향신문)\n· 주민 13~14명이 중경상을 입었습니다 (연합뉴스·YTN)\n· 40대 방화 피의자가 입건됐습니다 (YTN)\n\n출처: KBS·경향신문·연합뉴스·YTN 보도 종합",
+    "topic_tag": "사건사고",
     "hashtags": [
-      "해외사건사고",
-      "사고",
-      "네팔"
+      "사건사고",
+      "폭발화재",
+      "대한민국"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,22 +25,18 @@
     ],
     "done": {
       "threads": {
-        "id": "18360649729175043",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DfotgcQlo8A",
+        "id": "17898630963414341",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfpB1RmlL2t",
         "kind": "carousel",
-        "at": 1794474921
+        "at": 1794485583
       },
       "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1794475175
-      },
-      "instagram": {
-        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
-        "at": 1794481624
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1794485737
       }
     },
     "attempts": {
-      "instagram": 3,
+      "instagram": 1,
       "tiktok": 1
     },
     "video": "video.mp4"
