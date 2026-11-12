@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "paris-suburb-drive-by-shooting-2026",
-    "topic": "파리 근교서 총격 발생 사망 1명·부상 4명",
-    "slug": "2026-10-23-news-paris-suburb-drive-by-shooting-2026",
-    "cluster": "CBMiXkFVX3lxTE1vZ2tfaFcxb2dpXzN5VEJVWE1jeEFoaVgxSUUtM180aDkyaUgtVTM1TWVaQWtVaFdZMGxLOW03XzNLdHJib2M5Y1pNeWM4NXd0SUtMUnl4bzQ1UHB4a0E",
-    "badge": "breaking",
-    "at": 1792757300.9534574,
-    "country": "프랑스",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "jordan-church-shooting-2026",
     "topic": "요르단 남부 교회서 총기 난동 최소 7명 숨져",
     "slug": "2026-10-23-news-jordan-church-shooting-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794460176.7175298,
     "country": "팔레스타인",
+    "category": "국제"
+  },
+  {
+    "event_key": "russia_strikes_kyiv_ballistic_missiles_2026",
+    "topic": "러시아 키이우 공습 탄도미사일 타격",
+    "slug": "2026-11-12-news-russia-strikes-kyiv-ballistic-missiles-2026",
+    "cluster": "CBMiXkFVX3lxTFBOeVhIeWNLSlpnX2lnY3R2WTlKV1lwTFpxRUZZVTZPbXdiT21uLWxwdFZtMDd2ckZlYkNDdHdVUktCaU1xQVVDclRpQkpESDNUbmRxRGhNbkgxODZuTUE",
+    "badge": "breaking",
+    "at": 1794471093.909172,
+    "country": "우크라이나",
     "category": "국제"
   }
 ]

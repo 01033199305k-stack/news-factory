@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-12-news-russia-strikes-kyiv-ballistic-missiles-2026",
+  "topic": "러시아 키이우 공습 탄도미사일 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 14:59 KST",
+  "source": "Al Jazeera·BBC·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBOeVhIeWNLSlpnX2lnY3R2WTlKV1lwTFpxRUZZVTZPbXdiT21uLWxwdFZtMDd2ckZlYkNDdHdVUktCaU1xQVVDclRpQkpESDNUbmRxRGhNbkgxODZuTUE",
+    "related": [
+      [
+        "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
+        "BBC"
+      ],
+      [
+        "Russia, Ukraine exchange attacks on capitals as US envoys land in Moscow",
+        "Reuters"
+      ],
+      [
+        "Russia attacks Kyiv with ballistic missiles hours after peace talks end",
+        "The Kyiv Independent"
+      ],
+      [
+        "Russian strikes aim to cut Ukraine in half, Zelenskyy warns",
+        "Financial Times"
+      ],
+      [
+        "Russia, Ukraine exchange strikes as Baltic nations issue drone alerts",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "russia_strikes_kyiv_ballistic_missiles_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 [[키이우]] 공습\n탄도미사일 타격",
+      "sub": "평화 협상 직후 수도 및 전력망 공격",
+      "chips": [
+        {
+          "k": "공격 대상",
+          "v": "수도 및 전력망"
+        }
+      ],
+      "alt": "러시아 키이우 공습 탄도미사일 타격",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "평화 회담 직후 공습",
+          "d": "평화 협상이 끝난 지 몇 시간 만에 러시아가 키이우를 향해 탄도미사일을 발사했다고 키이우 인디펜던트가 전했습니다."
+        },
+        {
+          "t": "전력 공급 위기",
+          "d": "러시아의 공습으로 우크라이나의 전력 공급 상황이 심각한 위기에 도달했다고 BBC가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아의 키이우 탄도미사일 공습",
+        "우크라이나 전력 시설 피해"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "전력 복구 소요 시간"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Financial Times",
+        "Reuters",
+        "The Kyiv Independent",
+        "2026.11.12 17:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아가 우크라이나 수도 키이우에 탄도미사일 공습을 감행했습니다.\n\n· 평화 협상이 종료된 지 불과 몇 시간 만에 공습이 이어졌습니다 (키이우 인디펜던트)\n· 이번 공격으로 우크라이나 전력망이 타격을 입어 정전 위기에 처했습니다 (BBC)\n· 양측은 수도를 향한 상호 공격을 주고받았습니다 (로이터)\n\n질문: 에너지 시설을 겨냥한 공습 양상에 대해 어떻게 생각하십니까?\n\n출처: BBC·로이터·키이우인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아가 우크라이나 수도 키이우에 탄도미사일 공습을 감행했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 공습으로 우크라이나 수도 키이우와 전력망이 타격을 입었습니다.",
+      "card": "map"
+    },
+    {
+      "text": "키이우 인디펜던트는 평화 협상이 끝난 지 몇 시간 만에 공격이 이뤄졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "BBC는 전력 시설 타격으로 에너지 공급이 심각한 위기에 빠졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해와 전력 복구 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "전력 시설을 겨냥한 이번 공습, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[평화협상]] 끝난 뒤\n날아온 미사일",
+  "broll": [
+    "power grid night",
+    "city skyline smoke"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
