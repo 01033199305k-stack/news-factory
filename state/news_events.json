@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "google_deepmind_employees_resign_pentagon_ai_2026",
-    "topic": "구글 딥마인드 직원들 펜타곤 계약에 반발 사퇴",
-    "slug": "2026-10-23-news-google-deepmind-employees-resign-pentagon-ai-2026",
-    "cluster": "CBMiswFBVV95cUxNT1FZVWZnX2ttejd6Um0wQ0xqZGVuVEt2Y3JaWTVLVXFlRUd0WDVLaUdBeW5BUzc4TURuOWxxU29ZNmdwcks4OFVGUXA3bXkwU0pLLVJla0VpWWRsV0ZvY1lVWGxaOTUyUEVxMzhXUmFWTF82aEF6SG5pbm1ObjRIYzJuUHVYLXhESE1NM083NjM2MEk5Y29weG56OUxOVUgyLWJBVFZhLUU3UWRYRXJmNlpWd9IBuwFBVV95cUxQUklQSzJKcUlTbjFyRFBTdXRVV2JzeXE1MlRfSGpJRnVpdzZJYllLTjkwTm1YWlFSTktWdFI3WVBiQktVNkxkamhieDlPVUkzRUlZX3BSbi1BbEoxM05TUGF4cFZ4X1I5aVB0OFU0Q3VVb3hLNmJ3MDN6YmdOa2hoY0gzdmdtbXJIbTFzdVVaWVdONzZkazRXQzhOczRvalRKbFJtejVIOW1wMzY2N3E5UHlpR28zeHIyTnNB",
-    "badge": "breaking",
-    "at": 1792771930.0445771,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "romania_black_sea_drone_cargo_ship_sink_2026",
     "topic": "흑해 해상서 화물선 드론 피격 침몰 사망 1명·실종 3명 발생",
     "slug": "2026-10-23-news-romania-black-sea-drone-cargo-ship-sink-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794496410.72675,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "spain_housing_crisis_general_strike_2026",
+    "topic": "스페인 14년 만 총파업 주거비 폭등에 수백만 시위",
+    "slug": "2026-11-12-news-spain-housing-crisis-general-strike-2026",
+    "cluster": "CBMiogFBVV95cUxPMHh4aG9MdmZ1bUU3cGp1ZnRMVExTMkl2NmZZTk1fOVBuYmdBWS1uNUdUTFFtVUFZSlk1YUxURDE2bGlmdW1OZDEyei0tRnNvZ3VPX0xlODlMSHFqX0FYbnlnZnh0YnJzelI2cmdnZnZNUGZSMTVIamsteFp4WUc3UmlOTHNEUW9LX3FMN3R0OTJiVXVEbGdPTkhCMS1NNDREMGfSAaIBQVVfeXFMT0ZTT2Q0bS1peXI1bGstaVNyYzRhSjBfR19zWlp0WHZ3ZmdmSk5YZkZvRWtNRXRzMlNmdnRtckpJNTlyeV9KWHhOcm1ycS1yS0xCczdiUnZwRXVQVWhZN3NxOFpYbE9nTGJUN3ctWl9jYUVRaEozZVE3M1Q2ZVp0MVJiNEVuaXczYzdvcGJBUGtadEJHUkVwY0h3dzY2aXViQW5B",
+    "badge": "breaking",
+    "at": 1794503586.8401904,
+    "country": "스페인",
+    "category": "경제·과학"
   }
 ]

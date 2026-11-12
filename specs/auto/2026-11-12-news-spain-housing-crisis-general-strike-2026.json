@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-12-news-spain-housing-crisis-general-strike-2026",
+  "topic": "스페인 14년 만 총파업 주거비 폭등에 수백만 시위",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.12 23:36 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiogFBVV95cUxPMHh4aG9MdmZ1bUU3cGp1ZnRMVExTMkl2NmZZTk1fOVBuYmdBWS1uNUdUTFFtVUFZSlk1YUxURDE2bGlmdW1OZDEyei0tRnNvZ3VPX0xlODlMSHFqX0FYbnlnZnh0YnJzelI2cmdnZnZNUGZSMTVIamsteFp4WUc3UmlOTHNEUW9LX3FMN3R0OTJiVXVEbGdPTkhCMS1NNDREMGfSAaIBQVVfeXFMT0ZTT2Q0bS1peXI1bGstaVNyYzRhSjBfR19zWlp0WHZ3ZmdmSk5YZkZvRWtNRXRzMlNmdnRtckpJNTlyeV9KWHhOcm1ycS1yS0xCczdiUnZwRXVQVWhZN3NxOFpYbE9nTGJUN3ctWl9jYUVRaEozZVE3M1Q2ZVp0MVJiNEVuaXczYzdvcGJBUGtadEJHUkVwY0h3dzY2aXViQW5B",
+    "related": [
+      [
+        "Spain: Housing crisis prompts first general strike in 14 years, before hundreds of thousands join protest",
+        "DW.com"
+      ],
+      [
+        "Millions join Spain’s first general strike in 14 years in protest at housing costs",
+        "The Guardian"
+      ],
+      [
+        "Spain approves housing reforms after nationwide strike over costs",
+        "Al Jazeera"
+      ],
+      [
+        "Clashes erupt in Barcelona after thousands join Spain general strike",
+        "BBC"
+      ],
+      [
+        "Millions join Spain housing strike, scores arrested in clashes",
+        "Reuters"
+      ]
+    ],
+    "event_key": "spain_housing_crisis_general_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페인 [[14년 만]] 총파업\n주거비 폭등에 수백만 시위",
+      "sub": "정부가 주택 개혁안을 승인한 가운데 일부 지역서 충돌이 발생했습니다",
+      "chips": [
+        {
+          "k": "총파업",
+          "v": "14년 만"
+        },
+        {
+          "k": "참가 인원",
+          "v": "수백만 명"
+        }
+      ],
+      "alt": "스페인 14년 만 총파업 주거비 폭등에 수백만 시위",
+      "map": {
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n마드리드",
+      "video_only": true,
+      "map": {
+        "lat": 40.416782,
+        "lon": -3.703507,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마드리드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주택 개혁안 승인",
+          "d": "전국적인 파업과 시위 직후 스페인 정부가 주택 개혁안을 승인했다고 알자지라가 전했습니다."
+        },
+        {
+          "t": "바르셀로나 시위 충돌",
+          "d": "바르셀로나 등 일부 도시에서는 시위대와 경찰이 충돌해 여러 명이 체포됐다고 BBC와 로이터가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "14년 만의 전국 총파업",
+        "스페인 정부 주택 개혁안 승인",
+        "바르셀로나 시위 충돌 및 체포"
+      ],
+      "unconfirmed": [
+        "정확한 체포 인원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "DW.com",
+        "Reuters",
+        "The Guardian",
+        "2026.11.13 02:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페인에서 주거비 폭등에 반발해 14년 만에 전국 총파업이 일어났습니다.\n\n· 수백만 명이 시위에 참가한 가운데 정부가 주택 개혁안을 공식 승인했습니다 (알자지라·가디언)\n· 바르셀로나 등 주요 도시에서는 시위대와 경찰이 충돌해 다수 인원이 체포됐습니다 (BBC·로이터)\n\n독자 여러분은 치솟는 주거비에 대응하는 정부 정책에 대해 어떻게 생각하십니까?\n\n출처: DW·가디언·알자지라·BBC·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인에서 주거비 폭등에 반발해 14년 만에 전국 총파업이 일어났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "바르셀로나 등 전국 주요 도시에서 수백만 명이 시위에 나섰습니다.",
+      "card": "map"
+    },
+    {
+      "text": "전국적인 항의 시위 직후 스페인 정부는 주택 개혁안을 승인했다고 알자지라가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "바르셀로나 등 일부 지역에서는 충돌이 일어나 다수가 체포됐으며 정확한 인원은 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "독자 여러분은 치솟는 주거비에 대응하는 정부 정책에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[스페인]] 전역 멈춘\n이유는 무엇?",
+  "broll": [
+    "madrid street protest",
+    "barcelona city street"
+  ],
+  "place_en": "Madrid, Spain"
+}
