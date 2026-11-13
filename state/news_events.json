@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "kenya_nairobi_eastleigh_building_collapse_2026",
-    "topic": "케냐 수도서 고층 건물 붕괴 다수 매몰·실종 우려",
-    "slug": "2026-10-24-news-kenya-nairobi-eastleigh-building-collapse-2026",
-    "cluster": "CBMiXkFVX3lxTFBiMTVPUUh5VTFsMGhkcURXRVZ3SVdrdXk1N1RtZ0d4UDVVbDZoel9oanhJYlBqaC1ja0NvbUlZMzdsQ0RoZl81Ni1xcW9nbzBzWW9XT1FuV1pWeTF5ekE",
-    "badge": "breaking",
-    "at": 1792840460.2375987,
-    "country": "케냐",
-    "category": "사고"
-  },
-  {
     "event_key": "saudi_intercepts_houthi_missile_riyadh_2026",
     "topic": "사우디 탄도미사일 요격 후티, 리야드 겨냥",
     "slug": "2026-10-24-news-saudi-intercepts-houthi-missile-riyadh-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794575528.0856817,
     "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "pakistan_military_anti_terror_operation_74_killed_2026",
+    "topic": "74명 사망 파키스탄 대테러 작전",
+    "slug": "2026-11-13-news-pakistan-military-anti-terror-operation-74-killed-2026",
+    "cluster": "CBMipwFBVV95cUxNWXpva3R3Y3pWcXJ1SmlXZ3dVYjkzWkY2MVdzWmo1TWdOM2I5UlUyb2NBVXpnYlZBT0ZMV29zUi1takJoVGUyWTcxZDc2dTZEdVR3RzgxQkI4b01zU0YzQ0dlRU9ibzlxSXNPdlJYY2I4ZUNWQjI5NTNVY1JCcEhiSW9sMGZzTC03Skptc3pmWm5CQUdqSE9lajUyNzdLLUl2Qng0NldCVdIBrAFBVV95cUxPMnplZlVqNFZOd21xQ1k4TWNXTHMxcU9vMVdTVlF1WXhFTEQwRWlrMTlPb01YQjdwTk1Ma1FKTnJnMGR2Z181M09xQ2I0a25ETnhRVllWUks2dzd0aXVhTDEwZkpkQjBRekt2YTgyLXlRX1NVd0pwbEx6NVpmQVNyTUo0SDJ6d0swRno2RFVWbnRndTBDWU5JRGxFTG9BZlYxZEw2M05BLUFEYVY5",
+    "badge": "breaking",
+    "at": 1794578981.5155404,
+    "country": "파키스탄",
     "category": "국제"
   }
 ]

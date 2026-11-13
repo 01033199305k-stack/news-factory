@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-13-news-pakistan-military-anti-terror-operation-74-killed-2026",
+  "topic": "74명 사망 파키스탄 대테러 작전",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 21:03 KST",
+  "source": "Al Jazeera·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxNWXpva3R3Y3pWcXJ1SmlXZ3dVYjkzWkY2MVdzWmo1TWdOM2I5UlUyb2NBVXpnYlZBT0ZMV29zUi1takJoVGUyWTcxZDc2dTZEdVR3RzgxQkI4b01zU0YzQ0dlRU9ibzlxSXNPdlJYY2I4ZUNWQjI5NTNVY1JCcEhiSW9sMGZzTC03Skptc3pmWm5CQUdqSE9lajUyNzdLLUl2Qng0NldCVdIBrAFBVV95cUxPMnplZlVqNFZOd21xQ1k4TWNXTHMxcU9vMVdTVlF1WXhFTEQwRWlrMTlPb01YQjdwTk1Ma1FKTnJnMGR2Z181M09xQ2I0a25ETnhRVllWUks2dzd0aXVhTDEwZkpkQjBRekt2YTgyLXlRX1NVd0pwbEx6NVpmQVNyTUo0SDJ6d0swRno2RFVWbnRndTBDWU5JRGxFTG9BZlYxZEw2M05BLUFEYVY5",
+    "related": [
+      [
+        "Pakistan military reports it killed 74 ‘terrorists’ during raids",
+        "Al Jazeera"
+      ],
+      [
+        "74 terrorists killed in multiple operations: Pakistani Army",
+        "The Hindu"
+      ],
+      [
+        "Security forces kill 74 terrorists during IBOs in Khyber Pakhtunkhwa, Balochistan: ISPR",
+        "Dawn"
+      ],
+      [
+        "74 militants killed in Pakistan security operations along Afghan border in 10 days",
+        "The Times of India"
+      ],
+      [
+        "Pakistani media: 'Security forces have killed 43 terrorists during intelligence-based operations in Khyber Pakhtunkhwa over the last 48 hours. Of these, 35 were eliminated in Mir Ali and eight in Orakzai following intense exchanges of fire, targeting Fitna Al Kha",
+        "CGTN"
+      ]
+    ],
+    "event_key": "pakistan_military_anti_terror_operation_74_killed_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[74명 사망]]\n파키스탄 대테러 작전",
+      "sub": "아프가니스탄 국경 지대서 수색 작전 펼쳐 무장대원 소탕",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "74명"
+        }
+      ],
+      "alt": "74명 사망 파키스탄 대테러 작전",
+      "map": {
+        "lat": 33.712802,
+        "lon": 71.2678805,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "파키스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파키스탄\n카이버파크툰크와",
+      "video_only": true,
+      "map": {
+        "lat": 33.712802,
+        "lon": 71.2678805,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카이버파크툰크와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "접경 지대 작전",
+          "d": "파키스탄 군당국이 카이버파크툰크와와 발루치스탄 등 아프가니스탄 접경 지역에서 군사 작전을 수행했습니다 (Al Jazeera)."
+        },
+        {
+          "t": "10일간 수색",
+          "d": "군당국은 최근 10일 동안 정보 기반 군사 작전을 진행해 무장 세력을 타격했다고 전했습니다 (The Times of India)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "군사 작전으로 무장대원 74명 사망 (Al Jazeera·The Hindu)",
+        "아프간 국경 지대 수색 진행 (Dawn)"
+      ],
+      "unconfirmed": [
+        "군측 및 민간인 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CGTN",
+        "Dawn",
+        "The Hindu",
+        "The Times of India",
+        "2026.11.13 23:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파키스탄 군당국이 대테러 작전으로 무장대원 74명을 소탕했습니다 (Al Jazeera).\n\n· 아프가니스탄 접경 지역인 카이버파크툰크와 등에서 군사 작전이 진행됐습니다 (Al Jazeera)\n· 최근 10일 동안 정보 기반 수색 작전을 펼쳤다고 전했습니다 (The Times of India)\n\n출처: Al Jazeera·The Hindu·Dawn 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파키스탄군이 대테러 작전으로 74명을 소탕했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "작전은 아프가니스탄 접경 지역에서 진행됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라는 파키스탄 군당국이 10일간 수색 작전을 펼쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "교전 중 민간인 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[국경 지대]] 작전\n무슨 일이?",
+  "broll": [
+    "military vehicle desert",
+    "mountain border zone"
+  ],
+  "place_en": "Khyber Pakhtunkhwa, Pakistan"
+}

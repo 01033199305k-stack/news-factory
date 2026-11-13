@@ -40502,5 +40502,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794568081
+  },
+  {
+    "slug": "2026-11-13-news-north-korea-modifies-flag-constitution-2026",
+    "event_ms": 1794562980000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 북한이 헌법을 개정해 통일 목표를 공식 삭제했습니다.\n\n· 북한이 국기의 가로세로 비율과 디자인을 수정했습니다 (월스트리트저널·매일경제)\n· 개정 헌법에 기존 통일 목표를 지우고 두 적대적 국가 정책을 명시했습니다 (중앙데일리·UPI)\n\n🇰🇷 북한의 국기 변경 및 헌법 개정이 보도됐습니다.\n\n질문: 북한의 통일 목표 공식 삭제 결정, 어떻게 보십니까?\n\n출처: 월스트리트저널·NK뉴스·중앙데일리·UPI·매일경제 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "북한"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119384600587037",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfrmjnRnM08",
+        "kind": "carousel",
+        "at": 1794571940
+      },
+      "youtube": {
+        "id": "l_UZiOr9CFI",
+        "permalink": "https://youtube.com/shorts/l_UZiOr9CFI",
+        "kind": "shorts",
+        "at": 1794572115
+      },
+      "tiktok": {
+        "id": "7707628596118146324",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707628596118146324",
+        "kind": "video",
+        "at": 1794572247
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794579301
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794579301
   }
 ]
