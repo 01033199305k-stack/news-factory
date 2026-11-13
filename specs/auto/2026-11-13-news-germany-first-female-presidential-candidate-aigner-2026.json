@@ -1,0 +1,130 @@
+{
+  "slug": "2026-11-13-news-germany-first-female-presidential-candidate-aigner-2026",
+  "topic": "독일 첫 여성 대통령 후보에 아이그너 지명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 14:02 KST",
+  "source": "Al Jazeera·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxNN3VmczVSYk5JdGtzVFdxTVJqVkhvZl9jaWRBYUQwZWczUWlXUGowVHl4OWlWUS1lX1lfMlhMLWpYS3ZwX3NzQWxieFZzdHZUdmVsUjJXMEwxVEJ6THlHbG44VURVdm5nX0lra3JVNGR4WjZpWkw3NjlCMmJxOUpfRklrRkFfTEQ2dVVKancwWUtCWU5RNEt1bmFYX1NGa1ZuTURZYkJ1SXA4QQ",
+    "related": [
+      [
+        "‘The time is ripe’: ex-helicopter engineer poised to be Germany’s first female president",
+        "The Guardian"
+      ],
+      [
+        "Friedrich Merz nominates Germany’s first female president",
+        "Financial Times"
+      ],
+      [
+        "Germany news: Presidential candidate Ilse Aigner meets with parties in Bundestag, but not AfD or Linke",
+        "DW.com"
+      ],
+      [
+        "Chancellor Merz to nominate Aigner as Germany’s first woman president",
+        "Al Jazeera"
+      ],
+      [
+        "Merz's party backs former minister Ilse Aigner for German president, media reports say",
+        "Reuters"
+      ]
+    ],
+    "event_key": "germany_first_female_presidential_candidate_aigner_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "독일 첫 [[여성 대통령]]\n후보에 아이그너 지명",
+      "sub": "메르츠 총리가 전 장관 일제 아이그너를 추천했습니다",
+      "chips": [],
+      "alt": "독일 첫 여성 대통령 후보에 아이그너 지명",
+      "map": {
+        "lat": 52.5173885,
+        "lon": 13.3951309,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n베를린",
+      "video_only": true,
+      "map": {
+        "lat": 52.5173885,
+        "lon": 13.3951309,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베를린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "첫 여성 대통령 도전",
+          "d": "프리드리히 메르츠 독일 총리가 일제 아이그너 전 장관을 차기 대통령 후보로 지명했습니다 (로이터·파이낸셜타임스)."
+        },
+        {
+          "t": "의회 내 협상 착수",
+          "d": "아이그너 후보는 선출을 위해 연방의회 내 주요 정당들과 면담을 시작했습니다 (DW)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "메르츠 총리의 아이그너 지명",
+        "독일 최초 여성 대통령 후보"
+      ],
+      "unconfirmed": [
+        "연방회의 최종 선출 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "DW.com",
+        "Financial Times",
+        "Reuters",
+        "The Guardian",
+        "2026.11.13 18:41 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 독일 첫 여성 대통령 후보로 일제 아이그너 전 장관이 지명됐습니다.\n\n· 프리드리히 메르츠 독일 총리가 차기 대통령 후보로 아이그너를 추천했습니다 (로이터·파이낸셜타임스)\n· 아이그너 후보는 선출을 위해 의회 내 주요 정당들과 협의에 나섰습니다 (DW)\n\n독일 정치권의 이번 지명, 어떻게 보십니까?\n\n출처: 가디언·파이낸셜타임스·DW·알자지라·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "독일에서 첫 여성 대통령 후보가 지명됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "아이그너 후보는 연방회의 선출을 앞두고 주요 정당들과 협의를 시작했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최종 선출 여부는 의회 표결 결과를 더 지켜봐야 합니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "독일 최초의\n[[여성 대통령]] 탄생?",
+  "broll": [
+    "reichstag building berlin",
+    "german flag parliament"
+  ],
+  "place_en": "Berlin, Germany"
+}
