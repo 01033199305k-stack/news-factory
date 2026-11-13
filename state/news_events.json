@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "nasa_artemis_moon_base_2026",
-    "topic": "나사, 2년 내 유인 달 착륙 추진 아폴로 방식 속도전 돌입",
-    "slug": "2026-10-24-news-nasa-artemis-moon-base-2026",
-    "cluster": "CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3",
-    "badge": "brief",
-    "at": 1792806075.2239661,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "us-iran-assassination-plots-intel-2026",
     "topic": "미국 정보 메모 이란 암살 음모 경고",
     "slug": "2026-10-24-news-us-iran-assassination-plots-intel-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794521408.7050974,
     "country": "핀란드",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_war_peace_talks_abu_dhabi_2026",
+    "topic": "미·러·우크라 아부다비 회담 유럽도 평화 협상 합류",
+    "slug": "2026-11-13-news-ukraine-war-peace-talks-abu-dhabi-2026",
+    "cluster": "CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj",
+    "badge": "brief",
+    "at": 1794532163.7043114,
+    "country": "아랍에미리트",
     "category": "국제"
   }
 ]

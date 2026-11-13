@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-13-news-ukraine-war-peace-talks-abu-dhabi-2026",
+  "topic": "미·러·우크라 아부다비 회담 유럽도 평화 협상 합류",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 09:26 KST",
+  "source": "ABC News·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuwFBVV95cUxNaWdyUWhPQnRiR210eElwazFOZ2pyWWgxN2FWX09VU0ZSZUpFcVlweFllV2E4aF9CcXpwQkhybkVzMjkwdTBOY3JTRFBXdlZBOXVvU2l5cjBKX1Znel9XR2JJb0gwbVlQOV9TenpJUkY2ZG1YcXEtRWdNWTQ0MDJTM3pQdnRHSkE0WXlWQjA5Y2JXQkpUN2hoSkkyTXhrTE1FdnUyblFjWDdqWHZTMGM1LVU4V2oxZnpqZzBj",
+    "related": [
+      [
+        "After meeting Putin, U.S. envoys say Europe to join talks on ending Ukraine war",
+        "The Washington Post"
+      ],
+      [
+        "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+        "The Guardian"
+      ],
+      [
+        "US, Russia and Ukraine wrap up Abu Dhabi talks with teams agreeing to a prisoner exchange",
+        "DW.com"
+      ],
+      [
+        "Witkoff and Kushner arrive in Moscow to meet with Putin, discuss Ukraine peace talks",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Putin lets Europe join Ukraine peace talks, as Kyiv says Starshield disrupted again",
+        "Reuters"
+      ]
+    ],
+    "event_key": "ukraine_war_peace_talks_abu_dhabi_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미·러·우크라 아부다비 회담\n유럽도 평화 협상 합류",
+      "sub": "포로 교환 합의 속 스타링크 장애 지속",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "아부다비"
+        },
+        {
+          "k": "참여",
+          "v": "유럽"
+        }
+      ],
+      "alt": "미·러·우크라 아부다비 회담 유럽도 평화 협상 합류",
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n아부다비",
+      "video_only": true,
+      "map": {
+        "lat": 24.4538352,
+        "lon": 54.3774014,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아부다비"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "포로 교환",
+          "d": "미국, 러시아, 우크라이나 대표단은 아부다비에서 만나 포로 교환에 합의했습니다 (DW.com)."
+        },
+        {
+          "t": "유럽 참여",
+          "d": "푸틴 대통령과의 회담 이후 미국 특사단은 유럽도 전쟁 종식 협상에 동참할 것이라고 밝혔습니다 (The Washington Post)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "아부다비 3자 회담",
+        "포로 교환 합의",
+        "유럽의 평화 협상 합류"
+      ],
+      "unconfirmed": [
+        "스타링크 장애의 정확한 원인",
+        "향후 협상 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "DW.com",
+        "Reuters",
+        "The Guardian",
+        "The Washington Post",
+        "2026.11.13 10:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미·러·우크라이나 아부다비 회담서 포로 교환 합의\n\n· 미국과 러시아, 우크라이나 대표단이 아부다비에서 만나 포로 교환에 합의했습니다 (DW.com)\n· 푸틴 대통령과 회담을 마친 미국 특사단은 유럽도 우크라이나 전쟁 종식 협상에 참여한다고 밝혔습니다 (The Washington Post)\n· 우크라이나 측은 스타링크가 다시 차단되었다고 전했습니다 (The Guardian)\n\n여러분은 이번 평화 협상 진전, 어떻게 보십니까?\n\n출처: 워싱턴포스트·가디언·DW 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국과 러시아, 우크라이나가 아부다비 회담에서 포로 교환에 합의했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "DW는 세 나라 대표단이 아부다비에서 만나 이같이 뜻을 모았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 특사단은 푸틴 대통령과의 회담 후 유럽도 우크라이나 전쟁 종식 협상에 합류할 것이라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나 측은 스타링크가 다시 차단되었다고 전했습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 평화 협상 진전, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "평화 협상 진전, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "아부다비에서 열린\n[[우크라이나]] 협상 결과",
+  "broll": [
+    "diplomats meeting room",
+    "city skyline Abu Dhabi"
+  ],
+  "place_en": "Abu Dhabi, United Arab Emirates"
+}
