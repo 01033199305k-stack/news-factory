@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-13-news-iran-sirik-enemy-strike-2026",
+  "topic": "이란 남부 실리크 '적대 세력' 공습받아",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 11:41 KST",
+  "source": "Anadolu Ajansı·Gulf News·The Times of Israel 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiogFBVV95cUxQX25hR2RJYXNGSnZUb1F1dlM0VU5xLW15U2ZYSjJNQWc2by1CX2NRMVFmVEMzcW9MWmkxQ1dzN0hiaGNsUk1pXzdqT3lHc3FocE52V0F5SnFscURSS190ZVBrQkxHajRHbU5TekY1c2JGVHN3RjVaZkRQNHMtcWpZOUxlaUtOd0hDUjZ5MS1ZeVMzN0tRQU1ZVGo1WmJCT2Q0SUHSAbQBQVVfeXFMTzdXRDZGU09GWFc1aHdTZzlYbTRXcUtLUnhpUDhYck9JVnBFMV82OG1tcVhQeUxzX3FBQ1FyM0RTeVJpNHU0Mmg1bDdwNEJHZElCbG5hbkpTRHZjTV9TM09OSTN2dUg4dzV3Vk5FbEwwNTFhc1lXeDR2ejdIQ3NGeHpzb25pVG45SmhwdXNTY2hZbVVLMFRtNkJjd080TkNCS0tHNjVlSlE4NVlWYXRSdm0tUzJ0",
+    "related": [
+      [
+        "‘Enemy’ strike hits Sirik in Iran's Hormozgan province: IRNA",
+        "Gulf News"
+      ],
+      [
+        "Southern Iran's Sirik County near Strait of Hormuz hit by 'enemy' strike: State media",
+        "Anadolu Ajansı"
+      ],
+      [
+        "Tehran says city in southern Iran hit by ‘an enemy strike’",
+        "The Times of Israel"
+      ],
+      [
+        "US-Israel-Iran war: ‘Enemy’ strike hits Iran’s Sirik as Trump warns Tehran over threats to US officials; Houthis claim attack on Saudi pipeline",
+        "Gulf News"
+      ],
+      [
+        "Oil Futures Extend Gains After Iran’s State News Agency Reports Attack by Hostile Forces",
+        "bloomingbit"
+      ]
+    ],
+    "event_key": "iran_sirik_enemy_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란 남부 [[실리크]]\n'적대 세력' 공습받아",
+      "sub": "이란 관영 매체 호르모즈간주 도시 타격 발표",
+      "chips": [
+        {
+          "k": "공격 대상",
+          "v": "실리크시"
+        }
+      ],
+      "alt": "이란 남부 실리크 '적대 세력' 공습받아",
+      "map": {
+        "lat": 26.5177389,
+        "lon": 57.101798,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n실리크",
+      "video_only": true,
+      "map": {
+        "lat": 26.5177389,
+        "lon": 57.101798,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "실리크"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이란 관영 매체 발표",
+          "d": "이란 국영 통신 IRNA는 호르모즈간주 실리크시가 적대 세력의 공격을 받았다고 보도했습니다."
+        },
+        {
+          "t": "호르무즈 해협 인근",
+          "d": "공격을 받은 실리크 지역은 호르무즈 해협과 인접한 이란 남부 요충지라고 아나돌루 통신이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 실리크시 공습 피해 (IRNA)",
+        "적대 세력 공격 공식 발표 (아나돌루)"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모 및 사망자 수",
+        "공격 주체 미확인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Anadolu Ajansı",
+        "Gulf News",
+        "The Times of Israel",
+        "bloomingbit",
+        "2026.11.13 14:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란 남부 실리크시가 적대 세력의 공격을 받았다고 이란 관영 매체가 전했습니다.\n\n· 이란 국영 통신 IRNA는 호르모즈간주 실리크시가 적대 세력의 공습을 받았다고 발표했습니다 (IRNA)\n· 공격을 받은 실리크는 호르무즈 해협 인접 지역이라고 주요 매체들이 전했습니다 (아나돌루)\n\n공격 주체와 정확한 피해 규모는 아직 확인되지 않았습니다.\n\n이번 중동 정세 변화, 어떻게 보십니까?\n\n출처: IRNA·아나돌루·타임스오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란 남부 실리크시가 적대 세력의 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이란 국영 통신 IRNA는 호르모즈간주 실리크 지역이 타격받았다고 보도했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "공격받은 실리크는 호르무즈 해협과 가까운 이란 남부 도시입니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격 주체와 정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 공습 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "이란 남부 [[도시]]\n공습받은 이유",
+  "broll": [
+    "smoke over city skyline",
+    "military radar station"
+  ],
+  "place_en": "Sirik, Iran"
+}

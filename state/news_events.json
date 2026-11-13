@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "us-iran-assassination-plots-intel-2026",
-    "topic": "미국 정보 메모 이란 암살 음모 경고",
-    "slug": "2026-10-24-news-us-iran-assassination-plots-intel-2026",
-    "cluster": "CBMifkFVX3lxTFBNeTEzZmFLRm96a0wwNXV4bTBDU3JHX3Qtc0x3TnVKOW1PbFJ4c1FyNFNncVR0VkpLeUwyX2xGenAwU281WEpFZWRYdTNVaVIxbFRuaFBMRFNWaVI5ZFJBeHhyRll3QWs5aDJYQUtMQUdMMWpnalRPclZ3aDd4dw",
-    "badge": "breaking",
-    "at": 1792809814.8263948,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
-    "event_key": "germany_hitler_teahouse_fire_2026",
-    "topic": "독일 히틀러 옛 별장서 화재 방화 용의자 1명 체포",
-    "slug": "2026-10-24-news-germany-hitler-teahouse-fire-2026",
-    "cluster": "CBMi8AFBVV95cUxOSnZzbG1mS0tZcE04d0tuQURtVUlWWmlPY25zSEh4RUV6ZU5mbENjdWVScllwcnRhbUoyTVdjZjdRbmlVWGY5SEt5X2d0cVU2VkNaTVpkbDF1ZGZYQ3VWLTFWMFY4U0NZTWFVbGtiLU9ySHB1OUFla1dXaVd4UDFoUUJac25HQTJ3OVBycU5LRThNSHBQY2RLemtwWUFjNnYyS3RXVEthbUdsWU1yVmtzLURwZzJYUnM4SGhoYWJpZEc1R21jaFV0SFdzSkNlWm1ZWGczVE1QakR3b2xKXzE5djFTdlhBTHBha2lCZlQ0Zmg",
-    "badge": "breaking",
-    "at": 1792811536.5697107,
-    "country": "독일",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "us_israel_iran_strike_plan_2026",
     "topic": "미·이스라엘, 이란 재공격 계획 수립",
     "slug": "2026-10-24-news-us-israel-iran-strike-plan-2026",
@@ -2997,6 +2977,26 @@
     "badge": "brief",
     "at": 1794532163.7043114,
     "country": "아랍에미리트",
+    "category": "국제"
+  },
+  {
+    "event_key": "iran_sirik_enemy_strike_2026",
+    "topic": "이란 남부 실리크 '적대 세력' 공습받아",
+    "slug": "2026-11-13-news-iran-sirik-enemy-strike-2026",
+    "cluster": "CBMiogFBVV95cUxQX25hR2RJYXNGSnZUb1F1dlM0VU5xLW15U2ZYSjJNQWc2by1CX2NRMVFmVEMzcW9MWmkxQ1dzN0hiaGNsUk1pXzdqT3lHc3FocE52V0F5SnFscURSS190ZVBrQkxHajRHbU5TekY1c2JGVHN3RjVaZkRQNHMtcWpZOUxlaUtOd0hDUjZ5MS1ZeVMzN0tRQU1ZVGo1WmJCT2Q0SUHSAbQBQVVfeXFMTzdXRDZGU09GWFc1aHdTZzlYbTRXcUtLUnhpUDhYck9JVnBFMV82OG1tcVhQeUxzX3FBQ1FyM0RTeVJpNHU0Mmg1bDdwNEJHZElCbG5hbkpTRHZjTV9TM09OSTN2dUg4dzV3Vk5FbEwwNTFhc1lXeDR2ejdIQ3NGeHpzb25pVG45SmhwdXNTY2hZbVVLMFRtNkJjd080TkNCS0tHNjVlSlE4NVlWYXRSdm0tUzJ0",
+    "badge": "breaking",
+    "at": 1794546765.6885028,
+    "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "iran_irgc_strikes_us_radar_bahrain_2026",
+    "topic": "이란, 바레인 내 미군 레이더 조기경보 시설 타격",
+    "slug": "2026-11-13-news-iran-irgc-strikes-us-radar-bahrain-2026",
+    "cluster": "CBMijwFBVV95cUxNay1kUVVvaTJ4b2FManZ4aVVnSDhvQzdZRDFQa3FSZlRsQlJ6cGY5bVhwMkM0TGlWQ0FwYVg3bXNORDM4ZjI3dzR3Qy14a3hBSE9lRXZUaDhydHlzOWozdUtieDl6dl9Gd3JXdHUzUUdKRWV0WXczNm1jd0RaQ21Vam1CMk5CVVF2OGx1ODUzUdIBlAFBVV95cUxQZk1ES2dVRlM4NU1ENWxJalhucE5CY1FKQXdMTXEwdFFuYmVxNkRKbnp1TDdicmh3bDk2TWNiaFhUNXhTMy1nV2JVQnFFMlFUSVViYUV6V3ZrMEJLTW96dnJ3VC1DZ29ld2ctV002aklRSWpvcWR6RFhkdFpZeFFXZ3pObjdSZG02VDZIdVc0VGZMcVBr",
+    "badge": "breaking",
+    "at": 1794546776.1901977,
+    "country": "바레인",
     "category": "국제"
   }
 ]

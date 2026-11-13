@@ -1,1 +1,100 @@
-[]
+[
+  {
+    "slug": "2026-11-13-news-iran-sirik-enemy-strike-2026",
+    "event_ms": 1794537671000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이란 남부 실리크시가 적대 세력의 공격을 받았다고 이란 관영 매체가 전했습니다.\n\n· 이란 국영 통신 IRNA는 호르모즈간주 실리크시가 적대 세력의 공습을 받았다고 발표했습니다 (IRNA)\n· 공격을 받은 실리크는 호르무즈 해협 인접 지역이라고 주요 매체들이 전했습니다 (아나돌루)\n\n공격 주체와 정확한 피해 규모는 아직 확인되지 않았습니다.\n\n이번 중동 정세 변화, 어떻게 보십니까?\n\n출처: IRNA·아나돌루·타임스오브이스라엘 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18019815314960790",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfq2ph7jlVg",
+        "kind": "carousel",
+        "at": 1794546824
+      },
+      "youtube": {
+        "id": "MSJI8gEyhMk",
+        "permalink": "https://youtube.com/shorts/MSJI8gEyhMk",
+        "kind": "shorts",
+        "at": 1794547196
+      },
+      "tiktok": {
+        "id": "7707521786157501717",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707521786157501717",
+        "kind": "video",
+        "at": 1794547374
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-13-news-iran-irgc-strikes-us-radar-bahrain-2026",
+    "event_ms": 1794544162000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이란 혁명수비대가 바레인에 있는 미군 조기경보 레이더를 타격했다고 발표했습니다.\n\n· 이란 혁명수비대는 통신탑 공격에 대한 보복으로 미군 레이더를 공격했다고 밝혔습니다 (알자지라·타임스오브이스라엘)\n· 이란 측은 적의 공격에 대응해 레이더 시설을 표적 타격했다고 전했습니다 (로이터)\n\n미군 시설의 실제 피해 여부와 미국 정부의 공식 입장은 아직 확인되지 않았습니다.\n\n이번 군사적 충돌 파장, 어떻게 보십니까?\n\n출처: 알자지라·로이터·타임스오브이스라엘 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "바레인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18171608353484370",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfq2uFhjlxH",
+        "kind": "carousel",
+        "at": 1794546862
+      },
+      "youtube": {
+        "id": "Ivbjo5u1RFQ",
+        "permalink": "https://youtube.com/shorts/Ivbjo5u1RFQ",
+        "kind": "shorts",
+        "at": 1794547243
+      },
+      "tiktok": {
+        "id": "7707522340594142484",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707522340594142484",
+        "kind": "video",
+        "at": 1794547506
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]
