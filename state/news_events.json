@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "philippine-air-force-planes-crash-fernando-2026",
-    "topic": "필리핀 공군기 공중 충돌 조종사 4명 숨져",
-    "slug": "2026-10-24-news-philippine-air-force-planes-crash-fernando-2026",
-    "cluster": "CBMixwFBVV95cUxQRl8tcHVGQ3dkOXhSTHJxWjVhcE9pMERkS3d3cXpfTmtWSDJQc3JnWTVVU1NfbVFpV1l6bnExR2h2bHEzNm14bmFnTEhndEVtQTRjdnBnaXh2c2Q3bWZWSDhORGdxSXdPdDU4MFJaM3k5RmdIWnZ1cUJjWWVyUlNLQlh5aTRiNUVmWGVYeUxHb3p3YVBMV0ZLQzdOZmx4eDJNWnk3R01QM3NGa2pSZWhYOTYwdXBEb3RlX3FDUzNwZWM5YnU5V2Vn0gHMAUFVX3lxTE52M2Y5a0pxcUMyRXpTd1ZlX1l5dmpmYmNUMkpWa0FHWWlpY3lJalRwSS1iLS1OVVY2T0JOQWVtcHcwNTdlbDU3MXdwbE9KRm1nR2ZSQUV3VEl6eHJfNVhxbktxTTV6b214TnpfcXJVVjZtYkVsUXFNdGNQZTBPTEhVMzY3YjRyX2hIX3dRanI3TXl3Y3pMaHZWVlYyZ09vdXBRQ19tRWxNQ0Zxclk5TV95b21FQk02SG1nd0dHd2x6dEpfQnA4WEh2em9jdQ",
-    "badge": "breaking",
-    "at": 1792832969.790265,
-    "country": "필리핀",
-    "category": "사고"
-  },
-  {
     "event_key": "kenya_nairobi_eastleigh_building_collapse_2026",
     "topic": "케냐 수도서 고층 건물 붕괴 다수 매몰·실종 우려",
     "slug": "2026-10-24-news-kenya-nairobi-eastleigh-building-collapse-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794571897.0367885,
     "country": "북한",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_drone_strike_russian_oil_refineries_volgograd_2026",
+    "topic": "우크라 드론 공습 러 정유공장 화재",
+    "slug": "2026-11-13-news-ukraine-drone-strike-russian-oil-refineries-volgograd-2026",
+    "cluster": "CBMirgFBVV95cUxOZlRoNnZkS1Q2N2NZaDhheS1hc0kzUlZncXNtNFlIbERETmFMYTJrV1JHbzJKekJMZnhSdDJ2SkgwN3h0NXp1a1E2RmthcmlKNVY3V19mWVV6OFhTYUw3cVFXakpMSzdrZUpaX1pCU3FUMVI0RFhQc1pKa3doTGh1MHdhWFZJY1lnMTQ2eUgxMzNjS3pTZGxmN1E5TW1uWTdMaXVTUTF2TnBpdmZxMnfSAbMBQVVfeXFMUExDSW5Ec2xDQnJMTFBILUtQM1A5dl81ZGtLVGZlbHljM0tRVGJONEFqSlBMeTBobzR1QkNtQ0M3S3N6d0VfUzkzNXozZHpCR2tfQ1d0X3lFSWdTYXhNWHFuQ1oxWmh2aE9YYUhVMFJiMDVKVHhDMnowZFFPMFlKSDlLYUtCYVJ2V3ZwdVFuSDdNb1h4Z1Q2R1RDY3JhbV9jX3NiTFItTEE2dnR0QmNjTVZXSHM",
+    "badge": "breaking",
+    "at": 1794575528.0856817,
+    "country": "러시아",
     "category": "국제"
   }
 ]

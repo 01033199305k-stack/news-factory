@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-13-news-ukraine-drone-strike-russian-oil-refineries-volgograd-2026",
+  "topic": "우크라 드론 공습 러 정유공장 화재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 19:17 KST",
+  "source": "Al Jazeera·Reuters·The Kyiv Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxOZlRoNnZkS1Q2N2NZaDhheS1hc0kzUlZncXNtNFlIbERETmFMYTJrV1JHbzJKekJMZnhSdDJ2SkgwN3h0NXp1a1E2RmthcmlKNVY3V19mWVV6OFhTYUw3cVFXakpMSzdrZUpaX1pCU3FUMVI0RFhQc1pKa3doTGh1MHdhWFZJY1lnMTQ2eUgxMzNjS3pTZGxmN1E5TW1uWTdMaXVTUTF2TnBpdmZxMnfSAbMBQVVfeXFMUExDSW5Ec2xDQnJMTFBILUtQM1A5dl81ZGtLVGZlbHljM0tRVGJONEFqSlBMeTBobzR1QkNtQ0M3S3N6d0VfUzkzNXozZHpCR2tfQ1d0X3lFSWdTYXhNWHFuQ1oxWmh2aE9YYUhVMFJiMDVKVHhDMnowZFFPMFlKSDlLYUtCYVJ2V3ZwdVFuSDdNb1h4Z1Q2R1RDY3JhbV9jX3NiTFItTEE2dnR0QmNjTVZXSHM",
+    "related": [
+      [
+        "Russia and Ukraine report overnight attacks amid US diplomatic push",
+        "Al Jazeera"
+      ],
+      [
+        "Fuel shortages return to Russian regions after Ukrainian refinery attacks",
+        "Reuters"
+      ],
+      [
+        "Volgograd oil refinery, Rostov-on-Don production facility in flames following Ukrainian drone attack",
+        "The Kyiv Independent"
+      ],
+      [
+        "Russian economy hit as Ukrainian attacks deal a blow to industry",
+        "ThePrint"
+      ],
+      [
+        "In Russia, drones have attacked \"Samara\" oil terminal for sixth time since start of October. PHOTO",
+        "Цензор.НЕТ"
+      ]
+    ],
+    "event_key": "ukraine_drone_strike_russian_oil_refineries_volgograd_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 드론 공습\n러 정유공장 [[화재]]",
+      "sub": "볼고그라드 정유소 및 로스토프 생산 시설 피해",
+      "chips": [],
+      "alt": "우크라 드론 공습 러 정유공장 화재",
+      "map": {
+        "lat": 48.7081906,
+        "lon": 44.5153353,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n볼고그라드",
+      "video_only": true,
+      "map": {
+        "lat": 48.7081906,
+        "lon": 44.5153353,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "볼고그라드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "볼고그라드 정유소 화재",
+          "d": "우크라이나의 드론 공격으로 볼고그라드 정유소와 로스토프나도누 생산 시설에 불이 났다고 키이우 인디펜던트가 전했습니다."
+        },
+        {
+          "t": "러시아 지역 연료 부족",
+          "d": "우크라이나의 정유 시설 공격 여파로 러시아 일부 지역에 연료 부족 현상이 나타났다고 로이터가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 드론의 러시아 정유 시설 공격",
+        "볼고그라드 정유소 및 로스토프 시설 화재"
+      ],
+      "unconfirmed": [
+        "정확한 인명 및 재산 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "The Kyiv Independent",
+        "ThePrint",
+        "Цензор.НЕТ",
+        "2026.11.13 22:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나의 드론 공격으로 러시아 볼고그라드 정유 시설에 화재가 발생했습니다.\n\n· 우크라이나 드론이 볼고그라드 정유소와 로스토프나도누 시설을 타격해 불이 났습니다 (키이우 인디펜던트)\n· 이번 공습 여파로 러시아 일부 지역에서 연료 부족 현상이 나타나고 있습니다 (로이터)\n\n러시아 정유 시설을 겨냥한 이번 공습 상황, 어떻게 보십니까?\n\n출처: 키이우인디펜던트·로이터·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나의 드론 공격으로 러시아 정유 시설에 불이 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "키이우 인디펜던트는 볼고그라드 정유소 등에 불이 났다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터는 이번 공격으로 러시아 일부 지역에 연료 부족이 생겼다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "잇따르는 정유 시설 공습, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[볼고그라드]] 정유소\n화재 일어난 이유",
+  "broll": [
+    "oil refinery night",
+    "drone night sky"
+  ],
+  "place_en": "Volgograd, Russia"
+}
