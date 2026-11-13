@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "pocheon-junkyard-fire-2026",
-    "topic": "경기 포천 폐차장 화재 5시간 만에 완진",
-    "slug": "2026-10-24-news-pocheon-junkyard-fire-2026",
-    "cluster": "CBMiZkFVX3lxTE5MUGZBeHJzSjFqamRueDhvY1MtWTJJMVJnVWNsdGhnY3JiQ2Y0bUtSc2ZsTGwxZ2ZUc0p2TnNHNG9XZ2g5ODBrUG9YcHRNSkNxelpMV3h4LUl6ZmRLQWl0OWVmclF4dw",
-    "badge": "breaking",
-    "at": 1792846113.7625685,
-    "country": "대한민국",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "balochistan-chagai-bla-clash-2026",
     "topic": "발루치 반군 무장 교전 파키스탄군 등 다수 사망",
     "slug": "2026-10-24-news-balochistan-chagai-bla-clash-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794582526.404629,
     "country": "대한민국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "iaea_iran_nuclear_material_concern_2026",
+    "topic": "IAEA \"이란 핵물질 전용 우려\" 사찰 재개 촉구",
+    "slug": "2026-11-14-news-iaea-iran-nuclear-material-concern-2026",
+    "cluster": "CBMiswFBVV95cUxNUjJOOFZYSEVpcWtkRGplVVozUXpCc0E4VXB2bUQ1QVZBYzZHYWdsN295dVhNYkwxYlFTWnY0eDRzUm1qOGRyYkM2YnlsVjU2SHpUaUVTZWxSNEtEWXBLVVlBenp2bG90alF4ejBYZzc3NTZSNy1TNEUtc1VKVm9JOWVhcXRnMDVGNnNiZmVtVmtMVFRrWmxoLVhQSWxWcDlONE5tQlRHQjhTMWtxVS1TSE54NNIBuAFBVV95cUxPcElRT3Y1ZjBxVXhSMHVlTHhOd0k3M0VpZktrMllVa0VGRU52LTZXd2JuTFlINHFpYjJyOXU4QlQyRlFlSUpXM0RHT044NU1kWWNtZ2xuQXlTTWxmVDFVZERiTGNuX2xjWmtLMUl6cGl5TkxIZ2xMc1dSTk83UG1oaFJtSVRIU18wVFF5dzQ3T0tsaGtOZEoyUUJDWWVybXpLZG96dGZzdXdvNjJGSk4yYThfSG1BTkxk",
+    "badge": "breaking",
+    "at": 1794586070.608744,
+    "country": "이란",
+    "category": "국제"
   }
 ]

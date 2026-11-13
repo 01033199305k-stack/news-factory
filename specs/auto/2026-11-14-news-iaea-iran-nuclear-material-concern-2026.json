@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-14-news-iaea-iran-nuclear-material-concern-2026",
+  "topic": "IAEA \"이란 핵물질 전용 우려\" 사찰 재개 촉구",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 00:33 KST",
+  "source": "Al Jazeera·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxNUjJOOFZYSEVpcWtkRGplVVozUXpCc0E4VXB2bUQ1QVZBYzZHYWdsN295dVhNYkwxYlFTWnY0eDRzUm1qOGRyYkM2YnlsVjU2SHpUaUVTZWxSNEtEWXBLVVlBenp2bG90alF4ejBYZzc3NTZSNy1TNEUtc1VKVm9JOWVhcXRnMDVGNnNiZmVtVmtMVFRrWmxoLVhQSWxWcDlONE5tQlRHQjhTMWtxVS1TSE54NNIBuAFBVV95cUxPcElRT3Y1ZjBxVXhSMHVlTHhOd0k3M0VpZktrMllVa0VGRU52LTZXd2JuTFlINHFpYjJyOXU4QlQyRlFlSUpXM0RHT044NU1kWWNtZ2xuQXlTTWxmVDFVZERiTGNuX2xjWmtLMUl6cGl5TkxIZ2xMc1dSTk83UG1oaFJtSVRIU18wVFF5dzQ3T0tsaGtOZEoyUUJDWWVybXpLZG96dGZzdXdvNjJGSk4yYThfSG1BTkxk",
+    "related": [
+      [
+        "UN agency fears Iran may have diverted nuclear material away from peaceful activity",
+        "The Times of Israel"
+      ],
+      [
+        "UN nuclear watchdog urges Iran to take 'steps' towards inspections",
+        "The Hindu"
+      ],
+      [
+        "IAEA increasingly concerned about Iranian enrichment plant, its report says",
+        "Reuters"
+      ],
+      [
+        "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
+        "Al Jazeera"
+      ],
+      [
+        "No nuclear monitoring while threat of attacks persists: Iran tells UN agency",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "iaea_iran_nuclear_material_concern_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "IAEA \"이란 핵물질 전용 우려\"\n사찰 재개 촉구",
+      "sub": "이란은 공격 위협 속 모니터링 거부",
+      "chips": [],
+      "alt": "IAEA \"이란 핵물질 전용 우려\" 사찰 재개 촉구",
+      "map": {
+        "lat": 48.2083537,
+        "lon": 16.3725042,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란",
+      "video_only": true,
+      "map": {
+        "lat": 48.2083537,
+        "lon": 16.3725042,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "이란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "IAEA 입장",
+          "d": "유엔 원자력 감시 기구는 이란이 평화적 활동에서 핵물질을 전용했을 가능성을 우려하고 있습니다."
+        },
+        {
+          "t": "이란 입장",
+          "d": "이란 측은 공격 위협이 지속되는 동안 핵 시설 모니터링을 허용할 수 없다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "IAEA의 핵물질 전용 우려 제기",
+        "이란의 핵 시설 사찰 거부 입장"
+      ],
+      "unconfirmed": [
+        "이란의 정확한 핵물질 이동 여부",
+        "향후 사찰 협상 재개 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "The Hindu",
+        "The Times of India",
+        "The Times of Israel",
+        "2026.11.14 01:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 유엔 원자력 감시 기구가 이란의 핵물질 전용 가능성을 우려했습니다\n\n· IAEA는 이란의 우라늄 농축 시설에 대해 깊은 우려를 표명했습니다 (로이터·힌두)\n· 이란 측은 공격 위협이 지속되는 한 핵 시설 사찰을 허용할 수 없다고 밝혔습니다 (타임스오브인디아)\n\n❓ 여러분은 IAEA와 이란의 핵 갈등 해법에 대해 어떻게 보십니까?\n\n출처: 로이터·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유엔 원자력 감시 기구가 이란의 핵물질 전용 가능성에 우려를 표명했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 IAEA가 이란의 우라늄 농축 시설을 예의주시하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란 측은 공격 위협이 지속되는 동안 핵 시설 사찰을 허용할 수 없다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란이 실제 핵물질을 전용했는지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 IAEA와 이란의 핵 갈등 해법에 대해 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "핵 갈등 해법은?"
+    }
+  ],
+  "hook": "이란의 [[핵물질]]을 두고\n유엔이 경고한 이유는?",
+  "broll": [
+    "nuclear power plant",
+    "un building flag"
+  ],
+  "place_en": "Vienna, Austria"
+}
