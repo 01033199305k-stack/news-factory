@@ -40177,5 +40177,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794525149
+  },
+  {
+    "slug": "2026-11-13-news-microsoft-global-outage-outlook-teams-2026",
+    "event_ms": 1794519127000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 마이크로소프트 서비스에 대규모 접속 장애가 발생했습니다.\n\n· 아웃룩과 팀즈, 코파일럿 등 주요 프로그램 접속 장애가 발생했습니다 (BBC·로이터).\n· 수천 건의 장애 신고가 접수됐습니다 (로이터).\n· 마이크로소프트 측은 관련 업데이트를 발표했습니다 (인디펜던트).\n\n출처: BBC·로이터·포브스·인디펜던트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18016944920973139",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfqGRLOlJno",
+        "kind": "carousel",
+        "at": 1794521457
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1794524904
+      },
+      "tiktok": {
+        "id": "7707426811415661832",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707426811415661832",
+        "kind": "video",
+        "at": 1794525272
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794528463
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794528463
+  },
+  {
+    "slug": "2026-11-13-news-baltic-sea-russian-warship-ukraine-drone-strike-2026",
+    "event_ms": 1794514156000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 발트해 핀란드만에서 러시아 군함이 우크라이나 드론 공격을 받았습니다.\n\n· 핀란드 당국은 자국 인근 해역에서 러시아 군함 타격을 감지했다고 밝혔습니다 (BBC·모스크바 타임스).\n· 우크라이나 측은 이번 해상 공격이 자신들의 드론 작전이라고 주장했습니다 (우크린폼).\n\n질문 줄: 발트해로 확대된 해상 군사 충돌, 어떻게 보십니까?\n\n출처: BBC·모스크바 타임스·우크린폼 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "핀란드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18131974021878376",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfqGVMclO9I",
+        "kind": "carousel",
+        "at": 1794521486
+      },
+      "youtube": {
+        "id": "giLtk7iNBEg",
+        "permalink": "https://youtube.com/shorts/giLtk7iNBEg",
+        "kind": "shorts",
+        "at": 1794524927
+      },
+      "tiktok": {
+        "id": "7707427397762780437",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707427397762780437",
+        "kind": "video",
+        "at": 1794525404
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794528463
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794528463
   }
 ]
