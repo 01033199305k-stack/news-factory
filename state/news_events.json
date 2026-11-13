@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "six_flags_seat_belts_2026",
-    "topic": "미국 놀이공원 롤러코스터에 안전벨트 추가 설치",
-    "slug": "2026-10-24-news-six-flags-seat-belts-2026",
-    "cluster": "CBMid0FVX3lxTE55bEZxWjcza1ZzbFlKSmFoWm5GaHVMX0VLNmIyV0trOVJIZEZnR2gyMFdVdWlhZzQyS2l2aTROM3laN0JYNm5iRkRGRzVaMFlZekxyLXFFTXl0TTRzX3lZX29zWmtFTUFKeXZDb2ktWkpNRFZOYlV3",
-    "badge": "breaking",
-    "at": 1792856497.6959102,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "france-protests-tear-gas-2026",
     "topic": "프랑스 파리서 대규모 시위 경찰 최루탄 발사",
     "slug": "2026-10-25-news-france-protests-tear-gas-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794589733.343114,
     "country": "파키스탄",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "us_treasury_bessent_military_base_relocation_2026",
+    "topic": "미 재무장관 스콧 베센트, 이란 위협에 군사기지 대피",
+    "slug": "2026-11-13-news-us-treasury-bessent-military-base-relocation-2026",
+    "cluster": "CBMi7gFBVV95cUxPVnZ2dGM4RWxBVF80X2M1dHh2d3o4cUdqbktsanpCcG1aVnpHYUNneFBOTWpYTURXSWEyd1piSFRCaGZtRnlGeWpLZUtPRDhOeUw0bXhmaHZBXzBwakFlQ1VUZnJxYm9KdUdGMGd5ZXFVRkQ5RDVHY2V2Q0p5dlRaY1JHN2RKTWI0eW9qSnBWU2ZiSmh5a0haek1GWkQxV3Z4ZkdUbnpHZlBGNmw1Yk5kWWU1dDFudWNNOUVJY0RDNmJsWFY2VUMwWnl2RGFsNXhwNWdlaDNrZTJRWHRFZGdfaW53dklXRHRMcGliSjdn",
+    "badge": "breaking",
+    "at": 1794592261.9889724,
+    "country": "미국",
+    "category": "국제"
   }
 ]

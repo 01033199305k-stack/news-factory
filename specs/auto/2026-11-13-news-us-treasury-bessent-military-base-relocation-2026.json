@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-13-news-us-treasury-bessent-military-base-relocation-2026",
+  "topic": "미 재무장관 스콧 베센트, 이란 위협에 군사기지 대피",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 23:54 KST",
+  "source": "BBC·Fox News·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi7gFBVV95cUxPVnZ2dGM4RWxBVF80X2M1dHh2d3o4cUdqbktsanpCcG1aVnpHYUNneFBOTWpYTURXSWEyd1piSFRCaGZtRnlGeWpLZUtPRDhOeUw0bXhmaHZBXzBwakFlQ1VUZnJxYm9KdUdGMGd5ZXFVRkQ5RDVHY2V2Q0p5dlRaY1JHN2RKTWI0eW9qSnBWU2ZiSmh5a0haek1GWkQxV3Z4ZkdUbnpHZlBGNmw1Yk5kWWU1dDFudWNNOUVJY0RDNmJsWFY2VUMwWnl2RGFsNXhwNWdlaDNrZTJRWHRFZGdfaW53dklXRHRMcGliSjdn",
+    "related": [
+      [
+        "'I'm not gonna be cowered': US Treasury chief on moving to military base over Iran threats",
+        "The Times of India"
+      ],
+      [
+        "US Treasury's Bessent says he won't be cowed by death threats",
+        "CGTN"
+      ],
+      [
+        "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+        "BBC"
+      ],
+      [
+        "Another Trump heavyweight revealed to be living on military base as Cabinet roster grows",
+        "Fox News"
+      ],
+      [
+        "Bolton reacts to Iran threats as Bessent is forced to live in military base",
+        "Foundation for Defense of Democracies"
+      ]
+    ],
+    "event_key": "us_treasury_bessent_military_base_relocation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 재무장관 [[스콧 베센트]],\n이란 위협에 군사기지 대피",
+      "sub": "살해 협박 속 미 군사기지로 거처 옮겨",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "재무장관"
+        }
+      ],
+      "alt": "미 재무장관 스콧 베센트, 이란 위협에 군사기지 대피",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴DC",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴DC"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "위협 대응",
+          "d": "이란의 살해 협박으로 인해 군사기지로 거처를 이동했습니다 (BBC·타임스오브인디아)."
+        },
+        {
+          "t": "입장 표명",
+          "d": "스콧 베센트 재무장관은 위협에 위축되지 않겠다고 밝혔습니다 (CGTN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스콧 베센트 미 재무장관",
+        "이란의 살해 협박 및 위협",
+        "군사기지 거처 이동"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "구체적인 협박 경로"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CGTN",
+        "Foundation for Defense of Democracies",
+        "Fox News",
+        "The Times of India",
+        "2026.11.14 02:50 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 재무장관 스콧 베센트, 이란 위협에 군사기지 대피\n\n· 이란의 살해 협박으로 인해 미 군사기지로 거처를 옮겼습니다 (BBC·타임스오브인디아)\n· 스콧 베센트 장관은 위협에 위축되지 않겠다고 밝혔습니다 (CGTN)\n\n이번 조치에 대해 여러분은 어떻게 보십니까?\n출처: BBC·타임스오브인디아·CGTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스콧 베센트 미 재무장관이 이란의 위협으로 군사기지로 거처를 옮겼습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 외신은 이란의 살해 협박 때문이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "베센트 장관은 위협에 위축되지 않겠다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 협박 경로는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 조치에 대해 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미 재무장관이\n[[군사기지]]로 간 이유는?",
+  "broll": [
+    "military base gate",
+    "treasury building washington"
+  ],
+  "place_en": "Washington DC, USA"
+}
