@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-13-news-pakistan-balochistan-mastung-suicide-bombing-2026",
+  "topic": "파키스탄 군 검문소 자살 폭탄 테러",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 23:34 KST",
+  "source": "India Today·The Times of India·Balochistan Pulse 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi5AFBVV95cUxOdk9PZ2JtTVE2bzlSRDFzdWtJM0NvWU9pano1Sl9uM2tfYUtZRDdUbkxIMzZUWnFjVFRRRk0wWnBlXzR3RTZPZy1GRzB0YTlfQ1lmVm90ajhybEw4ajVaclNmc3pwVE5OeU02M1AwSGozQ3hfcVJ4RFIxRHdVUTBOaWJqdXRKQmxFLXBsdXZoWWpucUUzcGZSTXJpOHNzTFdsRFhJX1pZSWMxbF9nYU5kbE9kanN1NDdIbzZaejBvTnd1aTdCb19WTWpJS29xelNBS1BweldfZzBjUEtKMnlUM0tMVEk",
+    "related": [
+      [
+        "Suicide car bombing at security checkpoint in Pakistan kills 5, injures 13",
+        "The Times of India"
+      ],
+      [
+        "3 terrorists killed, 2 civilians dead as attack on Mastung post repelled: state media",
+        "Dawn"
+      ],
+      [
+        "Balochistan BLA militants claim 18 Pak soldiers killed in suicide attack on army camp",
+        "India Today"
+      ],
+      [
+        "Balochistan: Massive blast in Pakistani Army camp kills dozens of security personnel",
+        "MorungExpress"
+      ],
+      [
+        "Mastung Suicide Attack Foiled: Three Fitna al-Hindustan Terrorists Killed, Two Civilians Dead",
+        "Balochistan Pulse"
+      ]
+    ],
+    "event_key": "pakistan_balochistan_mastung_suicide_bombing_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "파키스탄 [[군 검문소]]\n자살 폭탄 테러",
+      "sub": "발루치스탄 마스퉁서 차량 폭발로 사망자 발생",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "마스퉁"
+        },
+        {
+          "k": "유형",
+          "v": "자살 폭탄"
+        }
+      ],
+      "alt": "파키스탄 군 검문소 자살 폭탄 테러",
+      "map": {
+        "lat": 29.7990934,
+        "lon": 66.8475932,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "파키스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "파키스탄\n마스퉁",
+      "video_only": true,
+      "map": {
+        "lat": 29.7990934,
+        "lon": 66.8475932,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마스퉁"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "검문소 대상 테러",
+          "d": "파키스탄 발루치스탄주 마스퉁의 군 검문소를 노린 차량 자살 폭탄 테러가 발생했습니다."
+        },
+        {
+          "t": "민간인 피해 발생",
+          "d": "폭발로 인해 테러범을 포함해 민간인과 보안 인력 등 사망자가 발생했습니다 (던)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "파키스탄 마스퉁 군 검문소 테러",
+        "차량 자살 폭탄 폭발"
+      ],
+      "unconfirmed": [
+        "사망자 수 매체별 집계 차이 있음",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Balochistan Pulse",
+        "Dawn",
+        "India Today",
+        "MorungExpress",
+        "The Times of India",
+        "2026.11.14 02:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 파키스탄 군 검문소서 자살 폭탄 테러가 발생했습니다.\n\n· 발루치스탄주 마스퉁의 군 검문소를 겨냥해 차량 폭발이 일어남\n· 현장에서 폭발이 발생해 민간인과 보안 인력 피해 발생 (던)\n· 매체별로 사상자 수 집계 차이가 있음\n\n출처: 타임스오브인디아·던·인디아투데이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "파키스탄 발루치스탄주 마스퉁의 군 검문소에서 자살 폭탄 테러가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "차량을 이용한 폭발로 민간인과 보안 요원 등 다수의 인명 피해가 전해졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신은 테러범들이 검문소를 겨냥해 폭탄을 터뜨렸다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망자 수는 매체별 집계 차이가 있습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[파키스탄]] 검문소\n차량 폭발 테러",
+  "broll": [
+    "military checkpoint",
+    "smoke explosion"
+  ],
+  "place_en": "Mastung, Pakistan"
+}

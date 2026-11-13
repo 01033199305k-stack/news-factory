@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "balochistan-chagai-bla-clash-2026",
-    "topic": "발루치 반군 무장 교전 파키스탄군 등 다수 사망",
-    "slug": "2026-10-24-news-balochistan-chagai-bla-clash-2026",
-    "cluster": "CBMi6gFBVV95cUxQY2hsUTRfUzRLMmRQS0VwUVNFS19mM2JlTjZGYU04X1F1VmNTVS1hdjNUdEQ4aG40TktFeFdNLWRsZnJ2RkRKNkxZNGNnS2VDeG4zTXYyangxS1Zmb2w0Tzg5VHViNVNSd0VNRWZCc2M0ckpONE9hVzJLTzAyLUJka0FnUkoyWkRRX2V6SlMyMDhxNlljci1meTJUclBkTGo3eFZkMU45Q0FKczN0bUwxQ2ZZcjdNdURhU1hSM3RHQk10U0NGS3dUTDlEb29ySFVuWHV3RjRPekFQdmRvcXdFVElSSFlsYmQ5SGc",
-    "badge": "breaking",
-    "at": 1792847407.70238,
-    "country": "파키스탄",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "six_flags_seat_belts_2026",
     "topic": "미국 놀이공원 롤러코스터에 안전벨트 추가 설치",
     "slug": "2026-10-24-news-six-flags-seat-belts-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794586070.608744,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "pakistan_balochistan_mastung_suicide_bombing_2026",
+    "topic": "파키스탄 군 검문소 자살 폭탄 테러",
+    "slug": "2026-11-13-news-pakistan-balochistan-mastung-suicide-bombing-2026",
+    "cluster": "CBMi5AFBVV95cUxOdk9PZ2JtTVE2bzlSRDFzdWtJM0NvWU9pano1Sl9uM2tfYUtZRDdUbkxIMzZUWnFjVFRRRk0wWnBlXzR3RTZPZy1GRzB0YTlfQ1lmVm90ajhybEw4ajVaclNmc3pwVE5OeU02M1AwSGozQ3hfcVJ4RFIxRHdVUTBOaWJqdXRKQmxFLXBsdXZoWWpucUUzcGZSTXJpOHNzTFdsRFhJX1pZSWMxbF9nYU5kbE9kanN1NDdIbzZaejBvTnd1aTdCb19WTWpJS29xelNBS1BweldfZzBjUEtKMnlUM0tMVEk",
+    "badge": "breaking",
+    "at": 1794589733.343114,
+    "country": "파키스탄",
+    "category": "폭발·화재"
   }
 ]
