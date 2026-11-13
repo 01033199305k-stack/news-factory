@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-14-news-us-new-orleans-mississippi-river-ship-collision-2026",
+  "topic": "뉴올리언스서 선박 충돌 150명 탑승 배 침수",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 04:32 KST",
+  "source": "ABC News·NBC News·FOX 8 Live WVUE 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0gFBVV95cUxQTGtERmVmbTlFd2NRQTZxRFRoMEZhamdYNnFtaVVheHQ2cHNEZGVOM3cwNklPNnZZY3dvSDNGc00xbWZFSUhsREhUczBrN0xYWmtkcVVEOEdpemxCakU0VkRWNmZCUGVlbTlkd2hFMW14SUxoYnRJdlpMaVYwWmJyYUNMcWE5cmpKY3FIMWNuT1lIdEJZRHZLNnpVNU9ILWVaRDNSNGM3ZFBfQ1YtWko1Tzl4MkNCX2xmbUhydmpRM1RIelRMRmFoamtFV0VFYkRmQ3c",
+    "related": [
+      [
+        "Source: River cruiser carrying 150 people taking on water near Port of New Orleans, rescue efforts underway",
+        "FOX 8 Live WVUE"
+      ],
+      [
+        "Breaking News: Rescues underway after tanker collides with cruise ship on Mississippi River; 12 in the water",
+        "WDSU"
+      ],
+      [
+        "Rescue underway after an oil tanker collides with a New Orleans river boat",
+        "NBC News"
+      ],
+      [
+        "Emergency crews responding to collision involving riverboat and tanker near Port of New Orleans",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Tanker collides with river cruiser carrying nearly 150 people near Port of New Orleans, rescues underway",
+        "WAFB"
+      ]
+    ],
+    "event_key": "us_new_orleans_mississippi_river_ship_collision_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "뉴올리언스서 [[선박 충돌]]\n150명 탑승 배 침수",
+      "sub": "미시시피강에서 유조선과 유람선이 충돌해 구조 작업이 진행 중입니다",
+      "chips": [
+        {
+          "k": "탑승",
+          "v": "150여명"
+        },
+        {
+          "k": "입수자",
+          "v": "12명"
+        }
+      ],
+      "alt": "뉴올리언스서 선박 충돌 150명 탑승 배 침수",
+      "map": {
+        "lat": 29.9574657,
+        "lon": -90.0629493,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴올리언스",
+      "video_only": true,
+      "map": {
+        "lat": 29.9574657,
+        "lon": -90.0629493,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴올리언스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유조선과 유람선 충돌",
+          "d": "미시시피강 뉴올리언스 항구 인근에서 유조선과 유람선이 충돌했다고 NBC와 ABC가 보도했습니다."
+        },
+        {
+          "t": "12명 물에 빠져 구조 중",
+          "d": "충돌 후 12명이 물에 빠져 구조 작업이 진행 중이라고 WDSU가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유조선과 유람선 충돌",
+        "150여 명 탑승 유람선 침수",
+        "구조 작업 진행 중"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "충돌 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "FOX 8 Live WVUE",
+        "NBC News",
+        "WAFB",
+        "WDSU",
+        "2026.11.14 06:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 뉴올리언스서 선박 충돌…150명 탑승 배 침수\n\n· 미국 미시시피강 뉴올리언스 항구 인근에서 유조선과 150여 명이 탄 유람선이 충돌했습니다 (NBC·ABC)\n· 유람선에 물이 차올라 12명이 물에 빠져 긴급 구조 작업이 진행 중입니다 (WDSU·FOX8)\n\n출처: FOX8·WDSU·NBC·ABC·WAFB 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 뉴올리언스 미시시피강에서 유조선과 유람선이 충돌해 구조 작업이 진행 중입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 뉴올리언스 항구 인근에서 사건이 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "약 150명이 탄 유람선에 물이 차올랐다고 FOX 8 등이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "WDSU는 12명이 물에 빠져 구조되고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[유조선]]과 충돌한\n유람선의 운명",
+  "broll": [
+    "ship water rescue",
+    "riverboat river night"
+  ],
+  "place_en": "New Orleans, USA"
+}

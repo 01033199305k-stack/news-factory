@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france-protests-tear-gas-2026",
-    "topic": "프랑스 파리서 대규모 시위 경찰 최루탄 발사",
-    "slug": "2026-10-25-news-france-protests-tear-gas-2026",
-    "cluster": "CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ",
-    "badge": "breaking",
-    "at": 1792858347.1791098,
-    "country": "프랑스",
-    "category": "국제"
-  },
-  {
     "event_key": "ukraine-drone-russia-chemical-plant-2026",
     "topic": "우크라이나 드론, 러시아 본토 화학공장 타격 국경에서 2,500km 떨어진 시설 공격",
     "slug": "2026-10-25-news-ukraine-drone-russia-chemical-plant-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794592261.9889724,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "us_new_orleans_mississippi_river_ship_collision_2026",
+    "topic": "뉴올리언스서 선박 충돌 150명 탑승 배 침수",
+    "slug": "2026-11-14-news-us-new-orleans-mississippi-river-ship-collision-2026",
+    "cluster": "CBMi0gFBVV95cUxQTGtERmVmbTlFd2NRQTZxRFRoMEZhamdYNnFtaVVheHQ2cHNEZGVOM3cwNklPNnZZY3dvSDNGc00xbWZFSUhsREhUczBrN0xYWmtkcVVEOEdpemxCakU0VkRWNmZCUGVlbTlkd2hFMW14SUxoYnRJdlpMaVYwWmJyYUNMcWE5cmpKY3FIMWNuT1lIdEJZRHZLNnpVNU9ILWVaRDNSNGM3ZFBfQ1YtWko1Tzl4MkNCX2xmbUhydmpRM1RIelRMRmFoamtFV0VFYkRmQ3c",
+    "badge": "breaking",
+    "at": 1794604392.9337022,
+    "country": "미국",
+    "category": "사고"
   }
 ]
