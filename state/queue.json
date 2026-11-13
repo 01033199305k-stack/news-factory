@@ -33,10 +33,16 @@
       "youtube": {
         "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
         "at": 1794532347
+      },
+      "tiktok": {
+        "id": "7707468623354285333",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707468623354285333",
+        "kind": "video",
+        "at": 1794534996
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
     },
     "video": "video.mp4"
