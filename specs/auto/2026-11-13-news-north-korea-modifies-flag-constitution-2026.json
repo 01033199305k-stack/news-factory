@@ -1,0 +1,153 @@
+{
+  "slug": "2026-11-13-news-north-korea-modifies-flag-constitution-2026",
+  "topic": "북한 국기·헌법 개정 통일 목표 공식 삭제",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.13 18:43 KST",
+  "source": "WSJ·Korea JoongAng Daily·NK News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxPamFEUnFZRDE2MFE3WEZFN0NXeWR2ay00NHZ1a2JoN0MyNTFXNjZ0M1JUU3RpSE91RE5Fd3hJUmNHMmk5YVlDNVpwVy1BUjFoQ1BtRjhRZEE3RzJsY2NLYjExR3MzRHNBd1NoclJ2MEJybkxvcVo4N0FaU2hoUzdxNW5yVUEwZzVQYkJHNDZNbGQ2ajBGTG5wdWM3TU9wazVJTVNVLTZ0Y28",
+    "related": [
+      [
+        "Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version",
+        "WSJ"
+      ],
+      [
+        "North Korea modifies national flag in break with decades-old design",
+        "NK News"
+      ],
+      [
+        "North Korea unveils revised constitution reflecting 'two hostile states' policy",
+        "Korea JoongAng Daily"
+      ],
+      [
+        "North Korea posts revised constitution dropping reunification goal",
+        "upi"
+      ],
+      [
+        "It was found on the 13th that North Korea changed the aspect ratio of its flag, \"Ingong (Hongram Fiv..",
+        "매일경제"
+      ]
+    ],
+    "event_key": "north_korea_modifies_flag_constitution_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "북한 [[국기]]·헌법 개정\n통일 목표 공식 삭제",
+      "sub": "두 적대적 국가 관계 반영 및 국기 비율 변경",
+      "chips": [
+        {
+          "k": "북한",
+          "v": "헌법 개정"
+        }
+      ],
+      "alt": "북한 국기·헌법 개정 통일 목표 공식 삭제",
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "북한"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "북한\n평양",
+      "video_only": true,
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "평양"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "국기 비율·디자인 변경",
+          "d": "북한이 홍람오각기 국기의 가로세로 비율과 디자인을 수정했습니다 (월스트리트저널·매일경제)."
+        },
+        {
+          "t": "통일 목표 삭제",
+          "d": "개정 헌법에서 기존의 통일 목표를 지우고 두 적대적 국가 관계를 명시했습니다 (중앙데일리·UPI)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "북한 국기 디자인 및 비율 변경",
+        "헌법 내 통일 목표 삭제"
+      ],
+      "unconfirmed": [
+        "개정 헌법 세부 조항"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Korea JoongAng Daily",
+        "NK News",
+        "WSJ",
+        "upi",
+        "매일경제",
+        "2026.11.13 21:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 북한이 헌법을 개정해 통일 목표를 공식 삭제했습니다.\n\n· 북한이 국기의 가로세로 비율과 디자인을 수정했습니다 (월스트리트저널·매일경제)\n· 개정 헌법에 기존 통일 목표를 지우고 두 적대적 국가 정책을 명시했습니다 (중앙데일리·UPI)\n\n🇰🇷 북한의 국기 변경 및 헌법 개정이 보도됐습니다.\n\n질문: 북한의 통일 목표 공식 삭제 결정, 어떻게 보십니까?\n\n출처: 월스트리트저널·NK뉴스·중앙데일리·UPI·매일경제 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "북한이 헌법을 개정하며 통일 목표를 공식 삭제했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "북한 관련 소식입니다.",
+      "card": "map"
+    },
+    {
+      "text": "매일경제 등은 북한이 인공기 국기의 비율을 수정했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "중앙데일리에 따르면 개정 헌법에는 두 적대적 국가 정책이 반영됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "개정 헌법의 세부 조항은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "북한의 국기 변경과 헌법 개정 내용이 공개됐습니다.",
+      "card": "korea",
+      "screen": "북한 헌법 개정"
+    },
+    {
+      "text": "여러분은 이번 통일 목표 삭제 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "북한 [[국기]]와 헌법\n어떻게 바뀌었나",
+  "broll": [
+    "north korea flag",
+    "pyongyang city"
+  ],
+  "place_en": "Pyongyang, North Korea"
+}

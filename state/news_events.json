@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "kim_jong_un_surprise_china_visit_dandong_2026",
-    "topic": "김정은 북한 위원장 중국 전격 방문",
-    "slug": "2026-10-24-news-kim-jong-un-surprise-china-visit-dandong-2026",
-    "cluster": "CBMiWkFVX3lxTE5sbUFORVlkZW5NOV9MRkE2SkxTdDlSNzZZcmtmWk0weXZRcHZWUWgyZFN1WEh2MGlPdklub0lpaGR4c1h6bkdSRUFDTGtsRkxYakZpdzBqWDctUQ",
-    "badge": "breaking",
-    "at": 1792826989.956016,
-    "country": "중국",
-    "category": "국제"
-  },
-  {
     "event_key": "philippine-air-force-planes-crash-fernando-2026",
     "topic": "필리핀 공군기 공중 충돌 조종사 4명 숨져",
     "slug": "2026-10-24-news-philippine-air-force-planes-crash-fernando-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1794562897.9225385,
     "country": "독일",
+    "category": "국제"
+  },
+  {
+    "event_key": "north_korea_modifies_flag_constitution_2026",
+    "topic": "북한 국기·헌법 개정 통일 목표 공식 삭제",
+    "slug": "2026-11-13-news-north-korea-modifies-flag-constitution-2026",
+    "cluster": "CBMiqAFBVV95cUxPamFEUnFZRDE2MFE3WEZFN0NXeWR2ay00NHZ1a2JoN0MyNTFXNjZ0M1JUU3RpSE91RE5Fd3hJUmNHMmk5YVlDNVpwVy1BUjFoQ1BtRjhRZEE3RzJsY2NLYjExR3MzRHNBd1NoclJ2MEJybkxvcVo4N0FaU2hoUzdxNW5yVUEwZzVQYkJHNDZNbGQ2ajBGTG5wdWM3TU9wazVJTVNVLTZ0Y28",
+    "badge": "breaking",
+    "at": 1794571897.0367885,
+    "country": "북한",
     "category": "국제"
   }
 ]
