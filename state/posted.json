@@ -41036,5 +41036,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794640068
+  },
+  {
+    "slug": "2026-11-14-news-us-peoria-ethanol-plant-bomb-threat-evacuation-2026",
+    "event_ms": 1794639790000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 일리노이주 에탄올 공장서 폭탄 발견돼 주민 대피령이 내려졌습니다.\n\n· 피오리아 시장은 에탄올 공장에서 폭탄이 발견됐다고 밝혔습니다 (NYT)\n· 피오리아 시내와 이스트 피오리아에 주민 대피령이 발령됐습니다 (CIProud·ABC7)\n· 폭파 위협 여파로 피오리아 시빅 센터 콘서트 등 현지 행사가 취소됐습니다 (피오리아 저널 스타)\n\n출처: NYT·CIProud·ABC7·WQAD·피오리아 저널 스타 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18657551737057859",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dft3mb8nBsp",
+        "kind": "carousel",
+        "at": 1794647985
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1794648090
+      },
+      "tiktok": {
+        "id": "7707954898117184774",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707954898117184774",
+        "kind": "video",
+        "at": 1794648212
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794654906
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794654906
   }
 ]

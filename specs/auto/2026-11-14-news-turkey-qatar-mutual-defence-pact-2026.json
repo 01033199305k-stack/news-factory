@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-14-news-turkey-qatar-mutual-defence-pact-2026",
+  "topic": "튀르키예·카타르 상호방위협정 체결",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 18:28 KST",
+  "source": "Al Jazeera·NDTV·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxQaklaZF9jNmdnNHk5SlFXYzIyTC1lajZFLXFPeE5PajFxSGtWa2NZOFZEcnVoaFptZzRMcGUxR1VpNkFaRE1JUEZaZUVSTUMyYUl1UTRsTjhKVDJYYk9RcTJUUWxDX1U0VG80X0l0b1VGejdMa3dnbXYySEppNTdJaFFIMzJiT3pGcDRkN1M0c0w2ZjYxVk9iU1o4cWdKYkZmX3lretIBqgFBVV95cUxOTG1VRC1lUHVLTFRJNHhJYmpWQjRPVG9pOEJjWUtmc2xfcmxvakV5elpYNjN5dHdGY2lrMW01ZDdmMjNEZ1RpSkEycGhvdFVvZ2N2eGRlSW9IQ3kyQTUyZVAwOVJBSk03VmlueEh2UU5jRWcza3pXZHc0Y2pJX1F2VXlsTWtLTjFkZzY5d1UycGRkUDNiUzFiU2ZLWENFM2FaemhRYlNwNzdhZw",
+    "related": [
+      [
+        "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+        "Al Jazeera"
+      ],
+      [
+        "Turkiye, Qatar sign mutual defence agreement, Turkish presidency says",
+        "The Hindu"
+      ],
+      [
+        "Turkey, Qatar sign mutual defence agreement, pledge unified stance against attack",
+        "Reuters"
+      ],
+      [
+        "Qatar, Türkiye eye more deals in critical Istanbul talks | Daily Sabah",
+        "Daily Sabah"
+      ],
+      [
+        "Turkey And Qatar Sign Defence Agreement To Strengthen Ties",
+        "NDTV"
+      ]
+    ],
+    "event_key": "turkey_qatar_mutual_defence_pact_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "튀르키예·카타르\n[[상호방위협정]] 체결",
+      "sub": "외부 공격 시 공동 대응하는 군사 협력 강화",
+      "chips": [
+        {
+          "k": "협정",
+          "v": "상호방위"
+        }
+      ],
+      "alt": "튀르키예·카타르 상호방위협정 체결",
+      "map": {
+        "lat": 39.9207759,
+        "lon": 32.8540497,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "튀르키예"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "튀르키예\n앙카라",
+      "video_only": true,
+      "map": {
+        "lat": 39.9207759,
+        "lon": 32.8540497,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "앙카라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공동 대응 명시",
+          "d": "양국에 대한 공격 발생 시 통일된 자세로 대응하기로 약속했습니다 (로이터)."
+        },
+        {
+          "t": "이스탄불 회담",
+          "d": "이스탄불에서 핵심 회담을 열고 추가 협력 방안을 모색하고 있습니다 (데일리사바)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "튀르키예·카타르 방위협정 체결",
+        "공격 발생 시 공동 대응 약속"
+      ],
+      "unconfirmed": [
+        "세부 군사 배치 규모",
+        "협정 효력 발생 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Daily Sabah",
+        "NDTV",
+        "Reuters",
+        "The Hindu",
+        "2026.11.14 20:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 튀르키예와 카타르가 상호방위협정을 체결했습니다.\n\n· 양국은 어느 한쪽이 공격받을 경우 공동으로 대응하기로 합의했습니다 (로이터)\n· 이스탄불에서 핵심 회담을 열고 추가 협력을 모색하고 있습니다 (데일리사바)\n\n이번 방위 협정이 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·알자지라·데일리사바 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "튀르키예와 카타르가 상호방위협정을 공식 체결했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "양국은 이스탄불에서 회담을 열고 군사 협력을 강화하기로 했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 공격받을 경우 양국이 공동 대응하기로 했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 전력 배치 규모는 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 방위 협정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "튀르키예와 카타르가\n[[손잡은]] 이유",
+  "broll": [
+    "national flags agreement",
+    "signing ceremony desk"
+  ],
+  "place_en": "Ankara, Turkey"
+}

@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "netanyahu_crypto_sanctions_plan_2026",
-    "topic": "이스라엘 총리, 가상화폐 활용 추진 중앙은행은 거부 입장 밝혀",
-    "slug": "2026-10-25-news-netanyahu-crypto-sanctions-plan-2026",
-    "cluster": "CBMihAFBVV95cUxPOUo3Rnllc2dMYUJwa2U1anpZUEVrbTZzNy1vWU5mZ005ZVJtUGJ3Rzl6Y1NodkZhNGNmYUxEQ3g1dU10WTJZNVVOOWRuU0gySlIxVm9qQ1pYZ2RfMEt0WHRIbnR6NWhrVENjRlhvRjlzZkxLQUoyOFVpRzFXcTItdmNtNWQ",
-    "badge": "brief",
-    "at": 1792883330.1228037,
-    "country": "이스라엘",
-    "category": "경제·과학"
-  },
-  {
-    "event_key": "el_salvador_troops_haiti_ambush",
-    "topic": "아이티서 피습된 엘살바도르 군인 시신 발견·병력 투입",
-    "slug": "2026-10-25-news-el-salvador-troops-haiti-ambush",
-    "cluster": "CBMijgFBVV95cUxPNEhheFZNZ2tfQ1lLWUNHT0c3T29aZ2J1LVhBSmJUczIxNGhSTzFOOUt6M1lPQnZSTnVjaUljQ2w5Rk80UUJ0cndvVzg4ZlJhLU0yUHdNVk9kZld4d2RlbC1WblBPSVRyajlmV1dlMmVXclRxQUZtV2l2ZGluTGhHRDlhNmt2dEx0cW9yd1dB",
-    "badge": "breaking",
-    "at": 1792886804.9435072,
-    "country": "아이티",
-    "category": "사고"
-  },
-  {
     "event_key": "france_spain_protests_riots_2026",
     "topic": "프랑스와 스페인서 시위 격화 1,100명 체포",
     "slug": "2026-10-25-news-france-spain-protests-riots-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794647941.935343,
     "country": "미국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "turkey_qatar_mutual_defence_pact_2026",
+    "topic": "튀르키예·카타르 상호방위협정 체결",
+    "slug": "2026-11-14-news-turkey-qatar-mutual-defence-pact-2026",
+    "cluster": "CBMipAFBVV95cUxQaklaZF9jNmdnNHk5SlFXYzIyTC1lajZFLXFPeE5PajFxSGtWa2NZOFZEcnVoaFptZzRMcGUxR1VpNkFaRE1JUEZaZUVSTUMyYUl1UTRsTjhKVDJYYk9RcTJUUWxDX1U0VG80X0l0b1VGejdMa3dnbXYySEppNTdJaFFIMzJiT3pGcDRkN1M0c0w2ZjYxVk9iU1o4cWdKYkZmX3lretIBqgFBVV95cUxOTG1VRC1lUHVLTFRJNHhJYmpWQjRPVG9pOEJjWUtmc2xfcmxvakV5elpYNjN5dHdGY2lrMW01ZDdmMjNEZ1RpSkEycGhvdFVvZ2N2eGRlSW9IQ3kyQTUyZVAwOVJBSk03VmlueEh2UU5jRWcza3pXZHc0Y2pJX1F2VXlsTWtLTjFkZzY5d1UycGRkUDNiUzFiU2ZLWENFM2FaemhRYlNwNzdhZw",
+    "badge": "breaking",
+    "at": 1794654485.4670453,
+    "country": "튀르키예",
+    "category": "국제"
+  },
+  {
+    "event_key": "india_bus_truck_highway_crash_2026",
+    "topic": "인도서 버스·트럭 정면충돌 참사",
+    "slug": "2026-11-14-news-india-bus-truck-highway-crash-2026",
+    "cluster": "CBMidEFVX3lxTE4ySFRVb1lZbVY3bWVfMTNpck11Wkk0MmRRd1BqTW5wX0QtZ0RqOFg5bDZaYzhEcEZIaEQyd0NJUWo5LXpnVVd0RC0xci1XV2xhUkR6LXlRUkZKRnFNaktRWm9ZZ3ZpX3haOWJRYTZmazZkeGRS",
+    "badge": "breaking",
+    "at": 1794654639.747153,
+    "country": "인도",
+    "category": "사고"
   }
 ]
