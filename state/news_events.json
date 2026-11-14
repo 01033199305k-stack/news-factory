@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine-drone-russia-chemical-plant-2026",
-    "topic": "우크라이나 드론, 러시아 본토 화학공장 타격 국경에서 2,500km 떨어진 시설 공격",
-    "slug": "2026-10-25-news-ukraine-drone-russia-chemical-plant-2026",
-    "cluster": "CBMirAFBVV95cUxQYlpMQjhFYzZKNlhmNjhBNC01S0NrcmpQTzVlOEpuTEcxVms4di15c0tMdm9HZ3lXOG5pNjFQeDJGUHFnenBYQ1ctUGI5SkFIRGdNR3V1bHpGd2hvamdzakRod0w2aU9hUHhHeXBIZDNiVGpfQUhaUGliaTNpZDh0N3dVUHpBSGtCRTMtLVlDbTBjZHpSeEVYU2tNd0sycE85MHRWOERUNlo5blps",
-    "badge": "breaking",
-    "at": 1792866998.9456525,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "us-southwest-severe-flooding-evacuations-2026",
     "topic": "미국 서남부 대홍수로 대피령 지붕 위 구조 작전 잇따라",
     "slug": "2026-10-25-news-us-southwest-severe-flooding-evacuations-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794604392.9337022,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "trump_putin_xi_china_trilateral_summit_2026",
+    "topic": "미·중·러 정상 첫 3자 회담 계획",
+    "slug": "2026-11-14-news-trump-putin-xi-china-trilateral-summit-2026",
+    "cluster": "CBMiXkFVX3lxTFBwcWhNYWJ4VUFhU01RNGpYNVZIYzhtcGlIZWZxSC1JdjBIWVY2Z0ZudEU0ZzkwWjRsc25IdzZ4bWwxLXFQZjlOdWxRZEppNEVRQUlGdFMwMERSOU9uanc",
+    "badge": "brief",
+    "at": 1794633118.1740854,
+    "country": "중국",
+    "category": "국제"
   }
 ]

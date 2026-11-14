@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-14-news-trump-putin-xi-china-trilateral-summit-2026",
+  "topic": "미·중·러 정상 첫 3자 회담 계획",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 11:05 KST",
+  "source": "Al Jazeera·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTFBwcWhNYWJ4VUFhU01RNGpYNVZIYzhtcGlIZWZxSC1JdjBIWVY2Z0ZudEU0ZzkwWjRsc25IdzZ4bWwxLXFQZjlOdWxRZEppNEVRQUlGdFMwMERSOU9uanc",
+    "related": [
+      [
+        "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "BBC"
+      ],
+      [
+        "Trump, Xi and Putin to hold first three-way summit in China",
+        "Al Jazeera"
+      ],
+      [
+        "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says",
+        "Reuters"
+      ],
+      [
+        "Trump doesn't plan to discuss Ukraine with Xi and Putin in China but will talk about Iran war, US official says",
+        "The Independent"
+      ],
+      [
+        "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
+        "CNN"
+      ]
+    ],
+    "event_key": "trump_putin_xi_china_trilateral_summit_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미·중·러 정상\n[[첫 3자 회담]] 계획",
+      "sub": "백악관 \"다음 주 중국서 핵무기 감축 등 논의\"",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "중국"
+        },
+        {
+          "k": "참석",
+          "v": "미·중·러"
+        }
+      ],
+      "alt": "미·중·러 정상 첫 3자 회담 계획",
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국",
+      "video_only": true,
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "중국"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "핵무기 감축 논의",
+          "d": "트럼프 대통령은 회담에서 핵무기 감축과 핵비확산 문제를 의제로 올릴 계획입니다 (로이터·CNN)."
+        },
+        {
+          "t": "의제 범위 발표",
+          "d": "미국 당국자는 우크라이나 문제는 논의하지 않되 이란 관련 사안은 다룰 예정이라고 밝혔습니다 (인디펜던트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미·중·러 3자 회담 추진 (백악관)",
+        "핵감축·핵비확산 의제 (로이터·CNN)"
+      ],
+      "unconfirmed": [
+        "구체적 회담 일시 및 장소"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The Independent",
+        "2026.11.14 14:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국·중국·러시아 정상이 다음 주 중국에서 첫 3자 회담을 추진합니다.\n\n· 백악관은 트럼프 미국 대통령이 시진핑 중국 국가주석, 푸틴 러시아 대통령과 3자 회담을 할 계획이라고 발표했습니다 (BBC·알자지라).\n· 미국 정부는 이번 회담에서 핵무기 감축과 핵비확산 문제를 논의할 것이라고 밝혔습니다 (로이터·CNN).\n· 미국 당국자는 우크라이나 문제는 논의하지 않고 이란 관련 사안을 다룰 예정이라고 전했습니다 (인디펜던트).\n\n이번 미·중·러 정상회담 추진에 대해 어떻게 생각하십니까?\n\n출처: BBC·알자지라·로이터·인디펜던트·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국과 중국, 러시아 정상이 다음 주 중국에서 첫 3자 회담을 갖습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "백악관은 트럼프 대통령이 시진핑 주석, 푸틴 대통령과 만날 계획이라고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신 등은 트럼프 대통령이 이번 회담에서 핵무기 감축을 논의할 예정이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 회담 일정과 상세 합의 내용은 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 미·중·러 정상회담 추진, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미·중·러 정상\n[[첫 3자 회담]]?",
+  "broll": [
+    "great hall of the people",
+    "diplomatic summit flag"
+  ],
+  "place_en": "Beijing, China"
+}
