@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-14-news-hormuz-strait-supertankers-mines-2026",
+  "topic": "호르무즈해협서 유조선 3척 기뢰 피격 4백만 배럴 운반선 무력화",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 22:39 KST",
+  "source": "CBS News·Reuters·The Economist 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxQeU5UZDJHMEc4OWsycksxeTkxZEs1R2s4clJCbG5wR2tMS3lyLWpsZU8zY1pFajlxSWtoeW42YzNxR0RZbTgyenlZYUFfQ3pBdzFiUDgwSEFWR1JZaGwta2hsZy1TMm15eHdrZm1OMmdpcXhBdzl3RDdPUnFiOFNsYXRjX2VVTHc",
+    "related": [
+      [
+        "Live Updates: 3 oil tankers hit mines in Strait of Hormuz, Iran says",
+        "CBS News"
+      ],
+      [
+        "Sand, sea and surface-to-air missiles: life on the Strait of Hormuz",
+        "The Economist"
+      ],
+      [
+        "Iran Says Two Supertankers Carrying 4 Million Barrels Were Disabled. Shipping Attacks Continue In Strait Of Hormuz.",
+        "Yahoo"
+      ],
+      [
+        "Iran's IRGC says two tankers hit sea mines in Hormuz",
+        "Reuters"
+      ],
+      [
+        "Iran Says Gas Tanker Hit Mine in Strait of Hormuz",
+        "Crude Oil Prices Today | OilPrice.com"
+      ]
+    ],
+    "event_key": "hormuz_strait_supertankers_mines_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈해협서 유조선 3척 [[기뢰 피격]]\n4백만 배럴 운반선 무력화",
+      "sub": "이란 혁명수비대, 호르무즈해협서 해상 기뢰 충돌 확인",
+      "chips": [
+        {
+          "k": "유조선",
+          "v": "3척 피격"
+        },
+        {
+          "k": "운반량",
+          "v": "4백만 배럴"
+        }
+      ],
+      "alt": "호르무즈해협서 유조선 3척 기뢰 피격 4백만 배럴 운반선 무력화",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유조선 피해",
+          "d": "호르무즈해협에서 유조선 3척이 기뢰에 피격됐다고 CBS 뉴스가 보도했습니다."
+        },
+        {
+          "t": "운반선 무력화",
+          "d": "4백만 배럴을 싣고 있던 슈퍼탱커 2척이 무력화됐다고 야후가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유조선 3척 기뢰 피격 (CBS 뉴스)",
+        "슈퍼탱커 2척 무력화 (야후)"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모와 추가 선박 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Crude Oil Prices Today | OilPrice.com",
+        "Reuters",
+        "The Economist",
+        "Yahoo",
+        "2026.11.15 01:28 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈해협서 유조선 3척 기뢰 피격, 4백만 배럴 운반선 무력화\n\n· 호르무즈해협에서 유조선 3척이 기뢰에 피격됐습니다 (CBS 뉴스)\n· 4백만 배럴을 싣고 있던 슈퍼탱커 2척이 무력화됐습니다 (야후)\n\n이번 해상 공격 사태에 대해 어떻게 생각하십니까?\n\n출처: CBS 뉴스·야후 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈해협에서 유조선 3척이 기뢰에 피격됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "야후는 4백만 배럴을 싣고 있던 슈퍼탱커 2척이 무력화됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해상 공격과 정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 해상 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "호르무즈해협서\n[[유조선 3척]] 피격",
+  "broll": [
+    "oil tanker sea",
+    "cargo ship ocean"
+  ],
+  "place_en": "Strait of Hormuz"
+}
