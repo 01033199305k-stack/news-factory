@@ -29,10 +29,22 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfuSF4ykX5t",
         "kind": "carousel",
         "at": 1794661876
+      },
+      "youtube": {
+        "id": "5PvUbWZB57A",
+        "permalink": "https://youtube.com/shorts/5PvUbWZB57A",
+        "kind": "shorts",
+        "at": 1794665511
+      },
+      "tiktok": {
+        "id": "7708029777554181382",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708029777554181382",
+        "kind": "video",
+        "at": 1794665642
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   },
@@ -66,10 +78,20 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfuSK-TkR5S",
         "kind": "carousel",
         "at": 1794661914
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1794665521
+      },
+      "tiktok": {
+        "id": "7708030306393148690",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708030306393148690",
+        "kind": "video",
+        "at": 1794665774
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
