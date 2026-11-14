@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-11-14-news-iran-threatens-us-european-bases-2026",
+    "event_ms": 1794664440000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이란, 유럽 내 미군기지 31곳을 타격하겠다고 경고했습니다\n\n· 미국과 이스라엘의 공격이 있을 경우 즉각 대응에 나설 것이라고 밝혔습니다 (중동 아이)\n· 유럽 내 미군기지들이 주요 타격 목표로 거론됐습니다 (데일리 익스프레스·텔레그래프)\n\n❓ 이란의 미군기지 타격 경고, 확전으로 이어질까요?\n출처: 텔레그래프·데일리 익스프레스·중동 아이 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18103270892191504",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dful7kEGmDt",
+        "kind": "carousel",
+        "at": 1794672276
+      },
+      "youtube": {
+        "id": "-Laq-CTfndQ",
+        "permalink": "https://youtube.com/shorts/-Laq-CTfndQ",
+        "kind": "shorts",
+        "at": 1794672398
+      },
+      "tiktok": {
+        "id": "6af88719c5b364e062002934",
+        "permalink": "",
+        "kind": "video",
+        "at": 1794672610
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]

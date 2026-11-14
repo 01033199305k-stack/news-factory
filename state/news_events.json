@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "audi_us_factory_georgia_2026",
-    "topic": "트럼프 “아우디, 미국 조지아주에 첫 공장 설립할 것”",
-    "slug": "2026-10-25-news-audi-us-factory-georgia-2026",
-    "cluster": "CBMitgFBVV95cUxPWGt1SlVnaVJySEY0YnFSWkdhTjNSeWtxRGxTXzk3MWUtRjVIT0FFVmd5WUhjOENRUTlOMGxpOF9mY2Q4Y1c0V3FaSzJQRGxyVmEzc0J3RElpSHhzRzRTTjhyOWQySWZuWHFsUTEzdTBJcE5QRjFMdFFYXzJlUzlnQ3FDdE1TZXlxQlFFU2xfRkhEdDNhM2pobGZIU3NDOWp0MGFabFBYeWIyd3pubE1KbWZ0ems5dw",
-    "badge": "breaking",
-    "at": 1792893991.8241787,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "typhoon_champi_jeju_south_korea_2026",
     "topic": "제주 한라산에 300mm 비 태풍 '참피' 북상",
     "slug": "2026-10-25-news-typhoon-champi-jeju-south-korea-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794661825.9779975,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "iran_threatens_us_european_bases_2026",
+    "topic": "이란, 유럽 내 미군기지 타격 경고",
+    "slug": "2026-11-14-news-iran-threatens-us-european-bases-2026",
+    "cluster": "CBMipgFBVV95cUxNNF9raTlBN2hhVWQ3aGViSV9oZUlQZVk5eWZ2ZmJDeWZBWmd5Y2ZJeEhfNHlJMmtjR0w4RkdSdFVQZkxsT1pGSmN3Y0tsOEZHbFlrNlViUzBURUVBLVBlaVRybk83bklYX2FMeVNoVmxwRHN5WHBGVGVDYW14YzZCSkZYSTNHSGNSSjlBU1BxM1RQT29IMF9KV1AzX2E2OTU1MHBtay1n0gGrAUFVX3lxTE5uVzF2QktGaWdhcTRUX0Zta2ZySXRseldNeWE4N2pqQU92NVplaFdZYkZYejBoZkMySFZUd3RZdThWUlM1QXlrM0pwQUR0dkhRdVhGeTJnRGJXSkJ0UDE5cjhhb21WN1VmZ0lyZlBod1A5MWp0UUNfSmhvc0JqUkpWWm1qWGNOQ2pMUkYybjdWdUhWaG9UdkloSUdHSFB6cjM4NldISW52QjR0MA",
+    "badge": "breaking",
+    "at": 1794672230.3640676,
+    "country": "이란",
+    "category": "국제"
   }
 ]

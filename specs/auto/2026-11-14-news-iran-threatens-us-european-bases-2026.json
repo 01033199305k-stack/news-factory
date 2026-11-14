@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-14-news-iran-threatens-us-european-bases-2026",
+  "topic": "이란, 유럽 내 미군기지 타격 경고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 22:54 KST",
+  "source": "The Independent·The Telegraph·Daily Express 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxNNF9raTlBN2hhVWQ3aGViSV9oZUlQZVk5eWZ2ZmJDeWZBWmd5Y2ZJeEhfNHlJMmtjR0w4RkdSdFVQZkxsT1pGSmN3Y0tsOEZHbFlrNlViUzBURUVBLVBlaVRybk83bklYX2FMeVNoVmxwRHN5WHBGVGVDYW14YzZCSkZYSTNHSGNSSjlBU1BxM1RQT29IMF9KV1AzX2E2OTU1MHBtay1n0gGrAUFVX3lxTE5uVzF2QktGaWdhcTRUX0Zta2ZySXRseldNeWE4N2pqQU92NVplaFdZYkZYejBoZkMySFZUd3RZdThWUlM1QXlrM0pwQUR0dkhRdVhGeTJnRGJXSkJ0UDE5cjhhb21WN1VmZ0lyZlBod1A5MWp0UUNfSmhvc0JqUkpWWm1qWGNOQ2pMUkYybjdWdUhWaG9UdkloSUdHSFB6cjM4NldISW52QjR0MA",
+    "related": [
+      [
+        "Iran threatens to strike 31 US military bases in Europe - map shows targets",
+        "Daily Express"
+      ],
+      [
+        "Merest Aggression to Draw Devastating Response, IRGC Chief Warns - Politics news - Tasnim News Agency",
+        "تسنیم"
+      ],
+      [
+        "Iran threatens to bomb European air bases",
+        "The Telegraph"
+      ],
+      [
+        "Iran threatens to target US bases in Europe in chilling new threat",
+        "The Independent"
+      ],
+      [
+        "Iran warns of 'immediate response' to any US-Israeli attack, slams Gulf nations",
+        "Middle East Eye"
+      ]
+    ],
+    "event_key": "iran_threatens_us_european_bases_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, 유럽 내 미군기지\n[[타격]] 경고",
+      "sub": "미국·이스라엘 공격 시 즉각 대응 천명",
+      "chips": [
+        {
+          "k": "대상 기지",
+          "v": "유럽 내 31곳"
+        }
+      ],
+      "alt": "이란, 유럽 내 미군기지 타격 경고",
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n테헤란",
+      "video_only": true,
+      "map": {
+        "lat": 35.6892523,
+        "lon": 51.3896004,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "테헤란"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유럽 내 미군기지 위협",
+          "d": "이란은 유럽에 있는 미군기지 31곳을 타격할 수 있다고 경고했습니다 (데일리 익스프레스)."
+        },
+        {
+          "t": "즉각 대응 경고",
+          "d": "미국이나 이스라엘의 공격이 있을 경우 즉각적인 대응에 나설 것이라고 밝혔습니다 (중동 아이)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유럽 내 미군기지 타격 경고",
+        "미·이스라엘 공격 시 즉각 대응 방침"
+      ],
+      "unconfirmed": [
+        "구체적인 군사 행동 실행 여부",
+        "미국 및 유럽 측의 공식 반응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daily Express",
+        "Middle East Eye",
+        "The Independent",
+        "The Telegraph",
+        "تسنیم",
+        "2026.11.15 01:03 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란, 유럽 내 미군기지 31곳을 타격하겠다고 경고했습니다\n\n· 미국과 이스라엘의 공격이 있을 경우 즉각 대응에 나설 것이라고 밝혔습니다 (중동 아이)\n· 유럽 내 미군기지들이 주요 타격 목표로 거론됐습니다 (데일리 익스프레스·텔레그래프)\n\n❓ 이란의 미군기지 타격 경고, 확전으로 이어질까요?\n출처: 텔레그래프·데일리 익스프레스·중동 아이 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 유럽 내 미군기지 31곳을 타격하겠다고 경고했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "중동 아이는 미국과 이스라엘의 공격이 있으면 즉각 대응에 나설 것이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 군사 행동으로 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이란의 강경 경고, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "확전 우려 vs 경고 그칠 것"
+    }
+  ],
+  "hook": "유럽 내 [[미군기지]]를\n타격하겠다는 이란?",
+  "broll": [
+    "military base exterior",
+    "radar installation"
+  ],
+  "place_en": "Tehran, Iran"
+}
