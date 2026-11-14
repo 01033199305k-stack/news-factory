@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-14-news-us-nato-donbas-zelenskyy-2026",
+  "topic": "미국, 우크라이나에 돈바스 할양 조건의 북대서양조약기구 가입 타진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 23:54 KST",
+  "source": "AP News·Al Jazeera·BBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuwFBVV95cUxOUFR4U0ZNUWxvdTlBSEY2ckpkZGV5RTRBaTRDZWRPM0s0WmExV1lfM2NNTnVQM3hQWWVBcW1jajVuU1hNREU2M3Z4ZDA3R1dMTjljajBkVkw1ckxLT1VNdDU3aHBvc1JTUmk5UFlTNFBGeVlLbnVDTmNiS3hpaC1nMWJSZ29DckdzY3pVSUFaXzJLMGQxYVJGa0RRVjJlSFJmTl85azVaY1Zpa3pfZnQtRGRwQkZZYTRES0RB",
+    "related": [
+      [
+        "US asked if Ukraine would give up parts of Donbas for NATO membership, Zelenskyy says",
+        "Sky News"
+      ],
+      [
+        "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "BBC"
+      ],
+      [
+        "US floats Nato membership for Donbas withdrawal deal, Zelenskyy says",
+        "Financial Times"
+      ],
+      [
+        "Three killed in Russia as Ukraine claims US floated NATO membership option",
+        "Al Jazeera"
+      ],
+      [
+        "Zelenskyy says a new European security framework floated by US could benefit Putin",
+        "AP News"
+      ]
+    ],
+    "event_key": "us_nato_donbas_zelenskyy_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 우크라이나에 [[돈바스 할양]]\n조건의 북대서양조약기구 가입 타진",
+      "sub": "볼로디미르 젤렌스키 우크라이나 대통령 직접 밝혀",
+      "chips": [
+        {
+          "k": "대상 지역",
+          "v": "돈바스"
+        },
+        {
+          "k": "제안 주체",
+          "v": "미국"
+        }
+      ],
+      "alt": "미국, 우크라이나에 돈바스 할양 조건의 북대서양조약기구 가입 타진",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "젤렌스키 대통령 언급",
+          "d": "미국이 우크라이나에 NATO 가입 조건으로 돈바스 일부 지역을 포기하는 방안을 타진했다고 젤렌스키 대통령이 밝혔습니다 (BBC·스카이 뉴스)."
+        },
+        {
+          "t": "새로운 유럽 안보 구상",
+          "d": "미국이 제시한 새로운 유럽 안보 프레임워크가 블라디미르 푸틴 러시아 대통령에게 유리할 수 있다고 언급했습니다 (AP 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국이 NATO 가입 조건으로 돈바스 할양 방안 타진 (BBC·스카이 뉴스)",
+        "젤렌스키 대통령 직접 확인 (파이낸셜 타임스)"
+      ],
+      "unconfirmed": [
+        "우크라이나 정부의 최종 수용 여부",
+        "러시아 측의 공식 반응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "BBC",
+        "Financial Times",
+        "Sky News",
+        "2026.11.15 01:19 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국, 우크라이나에 돈바스 할양 조건의 NATO 가입 타진 (BBC·스카이 뉴스)\n\n· 볼로디미르 젤렌스키 우크라이나 대통령이 미국 측으로부터 해당 제안을 받았다고 밝혔습니다 (파이낸셜 타임스)\n· 젤렌스키 대통령은 미국이 제시한 안보 프레임워크가 러시아에 유리할 수 있다고 언급했습니다 (AP 통신)\n\n출처: BBC·스카이 뉴스·파이낸셜 타임스·AP 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 우크라이나에 NATO 가입 조건으로 돈바스 일부 지역을 내주는 방안을 타진했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "볼로디미르 젤렌스키 우크라이나 대통령이 이같이 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "AP 통신은 젤렌스키 대통령이 새 안보 구상이 러시아에 유리할 수 있다고 언급했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나 정부의 최종 수용 여부와 러시아의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "영토를 포기하는 안보 협상안, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "영토 포기 협상안"
+    }
+  ],
+  "hook": "우크라이나에 건네진\n[[돈바스 양보]] 조건은?",
+  "broll": [
+    "white house exterior",
+    "ukraine flag parliament"
+  ],
+  "place_en": "Washington, DC"
+}

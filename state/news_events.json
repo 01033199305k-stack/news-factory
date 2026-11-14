@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "typhoon_champi_jeju_south_korea_2026",
-    "topic": "제주 한라산에 300mm 비 태풍 '참피' 북상",
-    "slug": "2026-10-25-news-typhoon-champi-jeju-south-korea-2026",
-    "cluster": "CBMic0FVX3lxTE5SR0pYczZnUnFFUkxuTGpadmg2Zl9qdzBZTXJ1aHp2VDU1RW9GRGNrNkh0M2cwR0FDZXpOSEpPWC1zX09oVDFuWXBvTHFncWhGaHlVZWFnN2NEcEFUX0stYkNVd0dwNzdHZGstcHlDQ3NQSEU",
-    "badge": "breaking",
-    "at": 1792895288.953209,
-    "country": "대한민국",
-    "category": "재난"
-  },
-  {
     "event_key": "florida_university_stadium_shooting_2026",
     "topic": "플로리다 대학교 스타디움 인근 총격 최소 11명 부상",
     "slug": "2026-10-25-news-florida-university-stadium-shooting-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794672230.3640676,
     "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "us_nato_donbas_zelenskyy_2026",
+    "topic": "미국, 우크라이나에 돈바스 할양 조건의 북대서양조약기구 가입 타진",
+    "slug": "2026-11-14-news-us-nato-donbas-zelenskyy-2026",
+    "cluster": "CBMiuwFBVV95cUxOUFR4U0ZNUWxvdTlBSEY2ckpkZGV5RTRBaTRDZWRPM0s0WmExV1lfM2NNTnVQM3hQWWVBcW1jajVuU1hNREU2M3Z4ZDA3R1dMTjljajBkVkw1ckxLT1VNdDU3aHBvc1JTUmk5UFlTNFBGeVlLbnVDTmNiS3hpaC1nMWJSZ29DckdzY3pVSUFaXzJLMGQxYVJGa0RRVjJlSFJmTl85azVaY1Zpa3pfZnQtRGRwQkZZYTRES0RB",
+    "badge": "breaking",
+    "at": 1794673200.557687,
+    "country": "미국",
     "category": "국제"
   }
 ]
