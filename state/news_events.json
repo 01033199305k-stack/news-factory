@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france_shamonda_virus_first_human_death_2026",
-    "topic": "프랑스서 가축 바이러스 샤몬다 첫 인체 사망",
-    "slug": "2026-10-25-news-france-shamonda-virus-first-human-death-2026",
-    "cluster": "CBMiVEFVX3lxTE9wS1ZTUTE4YzcxaFNMMTJxaGJLU1FkXzc0aGRDcHZHQnoxcS1KRjZ2NFBOZE9BRjFLZ3h4Y1phSXU4UmdYdHhjT1ZNRzNFbG9CUjZYSA",
-    "badge": "breaking",
-    "at": 1792916196.1224957,
-    "country": "프랑스",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "ukraine_starlink_restriction_restored_2026",
     "topic": "우크라 스타링크 접속 제한 후 복구",
     "slug": "2026-10-25-news-ukraine-starlink-restriction-restored-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794673712.428987,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "us_faa_ground_stop_router_failure_2026",
+    "topic": "미 연방항공청 전미 항공편 정지",
+    "slug": "2026-11-15-news-us-faa-ground-stop-router-failure-2026",
+    "cluster": "CBMijgFBVV95cUxQTUtiSFpPR1BkenVINWZVT2xVV1NzamxSNnUxel9kNUd2MExkU3VWV284bmh2ekNVSzlvNnNBWHotRmlVaF9obVFIWXRVZmNlTmM4dm9yTGZ1Z3BWNWMxZmIyN0ZJY3VraXBwbWJhYzZhb3RNZ1hCU3N5cFViU2xPaFMxSFQxZ3FwZk1oNmpR",
+    "badge": "breaking",
+    "at": 1794690657.9295545,
+    "country": "미국",
+    "category": "사고"
   }
 ]

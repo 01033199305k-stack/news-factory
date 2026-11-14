@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-11-15-news-us-faa-ground-stop-router-failure-2026",
+    "event_ms": 1794681906000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 연방항공청이 전미 항공편 지상 정지 명령을 내려 항공 대혼란이 발생했습니다.\n\n· 장시간 지상 정지 조치로 수천 편의 비행기가 취소되거나 지연됐습니다 (CBS·AP).\n· 시스템 마비 원인으로 L3 해리스가 설치한 라우터 결함이 지목됐습니다 (로이터).\n· 연방항공청이 정지 조치를 해제한 뒤 일부 항공편 운항이 순차적으로 재개됐습니다 (CNN·AP).\n\n이번 전미 항공 마비 사태, 여러분은 어떻게 보십니까?\n\n출처: CBS·CNN·로이터·AP 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17913395655309563",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfvJE4eFImV",
+        "kind": "carousel",
+        "at": 1794690703
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794690837
+      },
+      "tiktok": {
+        "id": "7708138449626254613",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708138449626254613",
+        "kind": "video",
+        "at": 1794690959
+      }
+    },
+    "attempts": {
+      "instagram": 1
+    },
+    "video": "video.mp4"
+  }
+]

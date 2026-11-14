@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-15-news-us-faa-ground-stop-router-failure-2026",
+  "topic": "미 연방항공청 전미 항공편 정지",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 03:45 KST",
+  "source": "AP News·CBS News·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijgFBVV95cUxQTUtiSFpPR1BkenVINWZVT2xVV1NzamxSNnUxel9kNUd2MExkU3VWV284bmh2ekNVSzlvNnNBWHotRmlVaF9obVFIWXRVZmNlTmM4dm9yTGZ1Z3BWNWMxZmIyN0ZJY3VraXBwbWJhYzZhb3RNZ1hCU3N5cFViU2xPaFMxSFQxZ3FwZk1oNmpR",
+    "related": [
+      [
+        "Travelers stranded and thousands of flights canceled after FAA ground stop. Here's what we know",
+        "CBS News"
+      ],
+      [
+        "November 13, 2026 — Some US flights resume after hours-long ground stop",
+        "CNN"
+      ],
+      [
+        "US aviation shutdown blamed on L3 Harris installed router",
+        "Reuters"
+      ],
+      [
+        "FAA ground stop throws sports world into travel chaos ahead of weekend games",
+        "ESPN"
+      ],
+      [
+        "Nationwide flight delays and cancellations continue after FAA lifts ground stop",
+        "AP News"
+      ]
+    ],
+    "event_key": "us_faa_ground_stop_router_failure_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 연방항공청\n[[전미 항공편]] 정지",
+      "sub": "라우터 결함으로 수천 편 취소·지연 사태",
+      "chips": [],
+      "alt": "미 연방항공청 전미 항공편 정지",
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n미국 전역",
+      "video_only": true,
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미국 전역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수천 편 취소·지연",
+          "d": "미국 연방항공청의 지상 정지 명령으로 수천 편의 항공편이 취소되거나 지연됐습니다 (CBS·AP)."
+        },
+        {
+          "t": "라우터 결함 원인",
+          "d": "로이터 통신은 L3 해리스가 설치한 라우터의 결함이 이번 시스템 마비의 원인이라고 전했습니다 (로이터)."
+        },
+        {
+          "t": "운항 순차 재개",
+          "d": "연방항공청이 지상 정지 조치를 해제한 뒤 일부 항공편의 운항이 재개됐습니다 (CNN·AP)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 연방항공청 지상 정지령",
+        "수천 편 항공편 취소·지연",
+        "라우터 결함 원인 지목"
+      ],
+      "unconfirmed": [
+        "전체 피해 규모 및 완전 정상화 시점",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBS News",
+        "CNN",
+        "ESPN",
+        "Reuters",
+        "2026.11.15 06:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 연방항공청이 전미 항공편 지상 정지 명령을 내려 항공 대혼란이 발생했습니다.\n\n· 장시간 지상 정지 조치로 수천 편의 비행기가 취소되거나 지연됐습니다 (CBS·AP).\n· 시스템 마비 원인으로 L3 해리스가 설치한 라우터 결함이 지목됐습니다 (로이터).\n· 연방항공청이 정지 조치를 해제한 뒤 일부 항공편 운항이 순차적으로 재개됐습니다 (CNN·AP).\n\n이번 전미 항공 마비 사태, 여러분은 어떻게 보십니까?\n\n출처: CBS·CNN·로이터·AP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 연방항공청이 전미 항공편에 지상 정지 명령을 내렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 조치로 미국 전역에서 수천 편의 비행기가 취소되거나 지연됐다고 AP 통신 등은 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터 통신은 이번 사태의 원인이 라우터 결함 때문이라고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "완전한 정상화 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 전역\n[[비행기]] 멈춘 이유",
+  "broll": [
+    "airplane airport gate",
+    "flight information board"
+  ],
+  "place_en": "United States"
+}
