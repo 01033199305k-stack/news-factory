@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-14-news-spacex-starship-flight-15-test-2026",
+  "topic": "스페이스X 스타십 15차 발사 로켓 회수 시험은 중단",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 14:49 KST",
+  "source": "BBC·CNN·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3",
+    "related": [
+      [
+        "Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test",
+        "CNN"
+      ],
+      [
+        "Setback for SpaceX reusable rocket system despite successful launch",
+        "DW.com"
+      ],
+      [
+        "SpaceX Starship Flight 15 live updates: How to spot Starship in the night sky as it coasts in orbit",
+        "Space"
+      ],
+      [
+        "SpaceX Starship megarocket blasts off before expected return for reuse",
+        "The Guardian"
+      ],
+      [
+        "First catch aborted in SpaceX Starship rocket double-catch test",
+        "BBC"
+      ]
+    ],
+    "event_key": "spacex_starship_flight_15_test_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페이스X [[스타십]] 15차 발사\n로켓 회수 시험은 [[중단]]",
+      "sub": "15번째 시험 비행 진행",
+      "chips": [
+        {
+          "k": "시험 비행",
+          "v": "15번째"
+        },
+        {
+          "k": "회수 시험",
+          "v": "중단"
+        }
+      ],
+      "alt": "스페이스X 스타십 15차 발사 로켓 회수 시험은 중단",
+      "map": {
+        "lat": 32.2178521,
+        "lon": -96.0370219,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n보카치카",
+      "video_only": true,
+      "map": {
+        "lat": 32.2178521,
+        "lon": -96.0370219,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "보카치카"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역사적 시험",
+          "d": "스페이스X가 대형 로켓 스타십의 15번째 시험 비행을 발사했다고 CNN 등이 보도했습니다."
+        },
+        {
+          "t": "회수 실패",
+          "d": "재사용 로켓 시스템 시험 중 첫 번째 회수 시도가 중단됐다고 BBC 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스타십 15차 시험 비행 발사",
+        "첫 회수 시도 중단"
+      ],
+      "unconfirmed": [
+        "로켓 회수 중단 상세 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "DW.com",
+        "Space",
+        "The Guardian",
+        "2026.11.14 15:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페이스X 스타십 15차 발사, 로켓 회수 시험 중단\n\n· 스페이스X가 대형 로켓 스타십의 15번째 시험 비행을 발사했습니다 (CNN·가디언)\n· 재사용 로켓 시스템 시험 중 첫 번째 회수 시도가 중단됐습니다 (BBC·DW)\n\n출처: CNN·가디언·BBC·DW 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페이스X가 대형 로켓 스타십의 15번째 시험 비행을 발사했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 비행에서 로켓 회수 시도는 중단됐다고 BBC가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "회수 중단에 대한 정확한 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 스페이스X의 시험 비행 결과를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "스페이스X [[스타십]]\n15차 발사 결과는?",
+  "broll": [
+    "spacecraft rocket launch night",
+    "rocket ascending sky"
+  ],
+  "place_en": "Boca Chica, Texas"
+}

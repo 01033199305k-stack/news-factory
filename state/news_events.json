@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us-southwest-severe-flooding-evacuations-2026",
-    "topic": "미국 서남부 대홍수로 대피령 지붕 위 구조 작전 잇따라",
-    "slug": "2026-10-25-news-us-southwest-severe-flooding-evacuations-2026",
-    "cluster": "CBMimwFBVV95cUxQZWFtRDhBcFN1UXc1MnlLUlpBdXBjZU9KS3JEdDQ0cFAxNVNmbEEzZ0tPbkQ4bVQ3S1c5TURuSGZONzNJM3FqVW5za1l1d0NxMlhuNV9qdmV1R2FfcWlCRGJtWU9nVU1VS2pBTWhjWGJGdDRlWk9wTEFrVGlhUmNxcUtxa2tnT3FYbjE4cHFqdUxtOS00QmtSVEZTTQ",
-    "badge": "breaking",
-    "at": 1792867022.7910712,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "india_airlines_saudi_flight_suspension_2026",
     "topic": "인도 항공사들, 사우디 노선 운항 중단 연장",
     "slug": "2026-10-25-news-india-airlines-saudi-flight-suspension-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794633118.1740854,
     "country": "중국",
     "category": "국제"
+  },
+  {
+    "event_key": "spacex_starship_flight_15_test_2026",
+    "topic": "스페이스X 스타십 15차 발사 로켓 회수 시험은 중단",
+    "slug": "2026-11-14-news-spacex-starship-flight-15-test-2026",
+    "cluster": "CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3",
+    "badge": "breaking",
+    "at": 1794636585.6664832,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
