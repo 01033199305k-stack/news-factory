@@ -41089,5 +41089,111 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794654906
+  },
+  {
+    "slug": "2026-11-14-news-turkey-qatar-mutual-defence-pact-2026",
+    "event_ms": 1794648489000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 튀르키예와 카타르가 상호방위협정을 체결했습니다.\n\n· 양국은 어느 한쪽이 공격받을 경우 공동으로 대응하기로 합의했습니다 (로이터)\n· 이스탄불에서 핵심 회담을 열고 추가 협력을 모색하고 있습니다 (데일리사바)\n\n이번 방위 협정이 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 로이터·알자지라·데일리사바 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "튀르키예"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18139154104735450",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfuEYjsmhZz",
+        "kind": "carousel",
+        "at": 1794654687
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1794658100
+      },
+      "tiktok": {
+        "id": "7707997867461381396",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707997867461381396",
+        "kind": "video",
+        "at": 1794658222
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794662079
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794662079
+  },
+  {
+    "slug": "2026-11-14-news-india-bus-truck-highway-crash-2026",
+    "event_ms": 1794646860000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 인도 고속도로에서 버스와 트럭이 충돌해 20여 명이 숨졌습니다.\n\n· 과밀 승객을 태운 소형 버스가 트럭과 정면충돌했습니다 (부산일보)\n· 사망자 중에는 어린이도 포함된 것으로 보도됐습니다 (뉴스1)\n· 버스가 뒤집히면서 숲길로 처박히는 등 현장 피해가 컸습니다 (YTN)\n\n출처: 한겨레·YTN·부산일보·뉴스1 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "인도"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119266819821352",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfuEc28GsmM",
+        "kind": "carousel",
+        "at": 1794654723
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794658100
+      },
+      "tiktok": {
+        "id": "7707998434942668052",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707998434942668052",
+        "kind": "video",
+        "at": 1794658353
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794662079
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794662079
   }
 ]

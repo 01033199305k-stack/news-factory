@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-14-news-us-loses-measles-elimination-status-cdc-2026",
+  "topic": "미국 홍역 퇴치국 지위 상실 26년 만에 지위 잃어",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 20:34 KST",
+  "source": "Al Jazeera·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirAFBVV95cUxQZ3dicHNpRTlnUVBFdjNGYm94aWdJN09RZklxY0ZKaloyMzVoQW9kN3VVR2FzY0h2TEFCX2FheTRmSUVxOENtWHNzSE1pQUpTYU1BTWpXOUVTUTdZSFVlSk4yOFc0M1ZUdXNFSU5nZnp5d3JmcFMwMzF4dnBMMU1oQTItc1RkRURjTXBBb0o0MzdtS01TUy1ONUJxZmU5Q1dRVV9ZaHNVaTVHM0Zz",
+    "related": [
+      [
+        "Surging measles cases are forcing doctors to treat conditions they’ve never seen",
+        "The Washington Post"
+      ],
+      [
+        "After 26 years, the US has lost its measles elimination status",
+        "CNN"
+      ],
+      [
+        "US loses measles-free status as two more deaths reported",
+        "Al Jazeera"
+      ],
+      [
+        "US measles cases rise to 5,412, CDC says",
+        "Reuters"
+      ],
+      [
+        "Exclusive | U.S. Loses Measles-Elimination Status as Historic Resurgence Sickens Thousands",
+        "WSJ"
+      ]
+    ],
+    "event_key": "us_loses_measles_elimination_status_cdc_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 [[홍역 퇴치국]] 지위 상실\n26년 만에 지위 잃어",
+      "sub": "확진자 5,412명으로 급증하며 사망자도 보고됐습니다",
+      "chips": [
+        {
+          "k": "확진자",
+          "v": "5,412명"
+        }
+      ],
+      "alt": "미국 홍역 퇴치국 지위 상실 26년 만에 지위 잃어",
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n전역",
+      "video_only": true,
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "전역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "26년 만의 지위 상실",
+          "d": "미국이 26년 만에 홍역 퇴치국 지위를 잃었다고 보도됐습니다 (CNN·WSJ)."
+        },
+        {
+          "t": "사망자 2명 보고",
+          "d": "확진자가 5,412명으로 급증한 가운데(로이터) 추가 사망자 2명이 보고됐습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 홍역 퇴치국 지위 상실 (CNN·WSJ)",
+        "홍역 확진자 5,412명 집계 (로이터)"
+      ],
+      "unconfirmed": [
+        "추가 확산 방지 대책 수립 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNN",
+        "Reuters",
+        "The Washington Post",
+        "WSJ",
+        "2026.11.14 22:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국이 26년 만에 홍역 퇴치국 지위를 상실했습니다.\n\n· 미국 질병통제예방센터는 홍역 확진자가 5,412명으로 늘었다고 발표했습니다 (로이터).\n· 대규모 재확산으로 미국은 26년 동안 유지해 온 홍역 퇴치국 지위를 잃었습니다 (CNN·WSJ).\n· 이번 확산으로 추가 사망자 2명이 보고됐습니다 (알자지라).\n\n질병 당국의 이번 발표, 어떻게 보십니까?\n\n출처: CNN·WSJ·로이터·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 26년 만에 홍역 퇴치국 지위를 상실했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 미 질병통제예방센터를 인용해 홍역 확진자가 5,412명으로 늘었다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라는 이번 감염 재확산으로 추가 사망자 2명이 보고됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추가 확산을 막기 위한 대책이 마련되었는지는 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 [[홍역 퇴치국]]\n지위 상실한 까닭",
+  "broll": [
+    "medical research laboratory",
+    "hospital hallway clean"
+  ],
+  "place_en": "United States"
+}

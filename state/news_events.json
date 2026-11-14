@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "france_spain_protests_riots_2026",
-    "topic": "프랑스와 스페인서 시위 격화 1,100명 체포",
-    "slug": "2026-10-25-news-france-spain-protests-riots-2026",
-    "cluster": "CBMi6gFBVV95cUxPTnp5U1RobU0xMFpFbkhSY0x6Szg1dUJLRUV1cGp4eUZTbmRxazQ4RGpxQ3FFdVBEczRKZ0w2R2RRY0xIVHBrSTVVY1JGM3pJY3NwSkNYQzZUQXJmY0I2S0dUdjdxcFgzQjFrNm1LTXp6a2VwZTlmVEY1U05wWEZrcnZQUUo1b3o5OWNZMXZWOXktLXcwbXhaV0RMOHhnd015VWVqX0NrQ2U5UzNYYUFoR015SUhIcm5RM0FUaV9XSlg0UjJGQzh0UWlDLV9heU5scTZQOFB6bkxnRkN4Y1N2MHVudmhWa0EzU3c",
-    "badge": "breaking",
-    "at": 1792890936.0016227,
-    "country": "스페인",
-    "category": "기타 사건"
-  },
-  {
-    "event_key": "changwon_factory_heavy_object_fatality_2026",
-    "topic": "창원 공장서 낙하물 사고 40대 노동자 사망",
-    "slug": "2026-10-25-news-changwon-factory-heavy-object-fatality-2026",
-    "cluster": "CBMiW0FVX3lxTFBHU1NzcjlGbUw4cUExR25NX3YyVmFURWJhLUM2azBvMTdVMUowT3lXUWJmdFVMMi05TkV2N1ZXV2ZWc0NMYlFqN0E4djZCSUlrcFRvX2JDOWEta2s",
-    "badge": "breaking",
-    "at": 1792890946.7464192,
-    "country": "대한민국",
-    "category": "사고"
-  },
-  {
     "event_key": "audi_us_factory_georgia_2026",
     "topic": "트럼프 “아우디, 미국 조지아주에 첫 공장 설립할 것”",
     "slug": "2026-10-25-news-audi-us-factory-georgia-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794654639.747153,
     "country": "인도",
     "category": "사고"
+  },
+  {
+    "event_key": "us_loses_measles_elimination_status_cdc_2026",
+    "topic": "미국 홍역 퇴치국 지위 상실 26년 만에 지위 잃어",
+    "slug": "2026-11-14-news-us-loses-measles-elimination-status-cdc-2026",
+    "cluster": "CBMirAFBVV95cUxQZ3dicHNpRTlnUVBFdjNGYm94aWdJN09RZklxY0ZKaloyMzVoQW9kN3VVR2FzY0h2TEFCX2FheTRmSUVxOENtWHNzSE1pQUpTYU1BTWpXOUVTUTdZSFVlSk4yOFc0M1ZUdXNFSU5nZnp5d3JmcFMwMzF4dnBMMU1oQTItc1RkRURjTXBBb0o0MzdtS01TUy1ONUJxZmU5Q1dRVV9ZaHNVaTVHM0Zz",
+    "badge": "breaking",
+    "at": 1794661814.6580048,
+    "country": "미국",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "korea_apartment_arson_security_guard_death_2026",
+    "topic": "아파트 방화 참사 발생 주민 구한 경비원 숨져",
+    "slug": "2026-11-14-news-korea-apartment-arson-security-guard-death-2026",
+    "cluster": "CBMiYkFVX3lxTFBaRlJDYXBHODhhREplS1A3RkkxYkZ1ZzB0elV1R1k5NENjU3VWOHBqN25HZks2dXNOUnJIcXIyaGptZUJEbllUeEprX1BuR3ZzTTF4ZVpPRmZWQjBSU2VjQ0x3",
+    "badge": "breaking",
+    "at": 1794661825.9779975,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]
