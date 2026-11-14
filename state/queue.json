@@ -29,10 +29,20 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfuEYjsmhZz",
         "kind": "carousel",
         "at": 1794654687
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1794658100
+      },
+      "tiktok": {
+        "id": "7707997867461381396",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707997867461381396",
+        "kind": "video",
+        "at": 1794658222
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   },
@@ -66,10 +76,20 @@
         "permalink": "https://www.threads.com/@jigeum.segye/post/DfuEc28GsmM",
         "kind": "carousel",
         "at": 1794654723
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794658100
+      },
+      "tiktok": {
+        "id": "7707998434942668052",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7707998434942668052",
+        "kind": "video",
+        "at": 1794658353
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
     },
     "video": "video.mp4"
   }
