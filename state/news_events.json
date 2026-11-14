@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "india_airlines_saudi_flight_suspension_2026",
-    "topic": "인도 항공사들, 사우디 노선 운항 중단 연장",
-    "slug": "2026-10-25-news-india-airlines-saudi-flight-suspension-2026",
-    "cluster": "CBMi-wFBVV95cUxOeU9DYm1kN0lJQmM2NEtKQnFuOHdyWmVFMy1vZ0FsQmVwMnp6bVRoWlRJYkRuM05yYUhLYnRrcXM4Q20zS3BuWS1JdUpBOFJOTVNycmZDelM1Q0ZBVjRSUW9uVkRVSE5rNzFFUTB5cENZNlB5MXB3djJleGN4LUdjckk1WV9WeWV4d1RZYWVDS0gxN2hqb190cWZRVDQtMnIwS1Q3dS1rdWw0QkUxV1JvRFVSeVp5U0p6eDNqeWRIOWgxdjc1V0FvaTE0dEQwTHloWUt2Z2tqaVZfYlhvckxPdEc5QUl2TmNsRGcyQm1zRGEtd0U5TWRBc2pzTQ",
-    "badge": "breaking",
-    "at": 1792870471.5347636,
-    "country": "사우디아라비아",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "netanyahu_crypto_sanctions_plan_2026",
     "topic": "이스라엘 총리, 가상화폐 활용 추진 중앙은행은 거부 입장 밝혀",
     "slug": "2026-10-25-news-netanyahu-crypto-sanctions-plan-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794636585.6664832,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_peoria_ethanol_plant_bomb_threat_evacuation_2026",
+    "topic": "미 에탄올 공장서 폭탄 발견 대피령",
+    "slug": "2026-11-14-news-us-peoria-ethanol-plant-bomb-threat-evacuation-2026",
+    "cluster": "CBMigwFBVV95cUxPNWRJczJZNTNKUmlxbW1zTXpLMWoxampuRUd6aERIeXFqNUUtemwtbXVhd0FFSXF2VFBSWnhfa0tzLXMwZ3B6NF8tNnBHZ1pXbVhaZGdrTExremdJRzR0OUNBM1pYSlN2MU85a3FxUHYzY0Rnb2hoR3UwTlM3cXc0NDFWaw",
+    "badge": "breaking",
+    "at": 1794647941.935343,
+    "country": "미국",
+    "category": "폭발·화재"
   }
 ]

@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-14-news-us-peoria-ethanol-plant-bomb-threat-evacuation-2026",
+  "topic": "미 에탄올 공장서 폭탄 발견 대피령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.14 16:03 KST",
+  "source": "The New York Times·ABC7 Chicago·CIProud.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxPNWRJczJZNTNKUmlxbW1zTXpLMWoxampuRUd6aERIeXFqNUUtemwtbXVhd0FFSXF2VFBSWnhfa0tzLXMwZ3B6NF8tNnBHZ1pXbVhaZGdrTExremdJRzR0OUNBM1pYSlN2MU85a3FxUHYzY0Rnb2hoR3UwTlM3cXc0NDFWaw",
+    "related": [
+      [
+        "Bomb Found at Ethanol Plant in Peoria, Ill., Mayor Says",
+        "The New York Times"
+      ],
+      [
+        "UPDATE: Evacuation order issued for Downtown Peoria and East Peoria",
+        "CIProud.com"
+      ],
+      [
+        "Peoria police investigating bomb threat at BioUrja Renewables",
+        "WQAD"
+      ],
+      [
+        "Police investigating bomb threat at BioUrja Renewables, formerly ADM plant, on Edmund Street in Peoria IL, evacuations underway",
+        "ABC7 Chicago"
+      ],
+      [
+        "Jon Pardi concert canceled at Peoria Civic Center amid bomb threat in city",
+        "Peoria Journal Star"
+      ]
+    ],
+    "event_key": "us_peoria_ethanol_plant_bomb_threat_evacuation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 에탄올 공장서\n[[폭탄]] 발견 대피령",
+      "sub": "피오리아 시내 등에 대피령이 발령되고 콘서트 등 행사가 취소됐습니다",
+      "chips": [
+        {
+          "k": "위치",
+          "v": "미국 일리노이주"
+        },
+        {
+          "k": "조치",
+          "v": "주민 대피령"
+        }
+      ],
+      "alt": "미 에탄올 공장서 폭탄 발견 대피령",
+      "map": {
+        "lat": 40.6938609,
+        "lon": -89.5891008,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n일리노이주 피오리아",
+      "video_only": true,
+      "map": {
+        "lat": 40.6938609,
+        "lon": -89.5891008,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "일리노이주 피오리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "에탄올 공장 폭탄",
+          "d": "미국 일리노이주 피오리아의 에탄올 공장에서 폭탄이 발견됐다고 피오리아 시장이 밝혔습니다 (NYT)."
+        },
+        {
+          "t": "주민 대피령 발령",
+          "d": "경찰 수사가 진행되면서 피오리아 시내와 이스트 피오리아 지역에 주민 대피령이 내려졌습니다 (CIProud·ABC7)."
+        },
+        {
+          "t": "현지 행사 취소",
+          "d": "폭파 위협 여파로 피오리아 시빅 센터에서 열릴 예정이던 콘서트가 취소됐습니다 (피오리아 저널 스타)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "공장서 폭탄 발견 (NYT)",
+        "시내 주민 대피령 (CIProud·ABC7)",
+        "현지 행사 취소 (피오리아 저널 스타)"
+      ],
+      "unconfirmed": [
+        "폭탄 설치 주체 및 동기",
+        "용의자 체포 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 Chicago",
+        "CIProud.com",
+        "Peoria Journal Star",
+        "The New York Times",
+        "WQAD",
+        "2026.11.14 18:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 일리노이주 에탄올 공장서 폭탄 발견돼 주민 대피령이 내려졌습니다.\n\n· 피오리아 시장은 에탄올 공장에서 폭탄이 발견됐다고 밝혔습니다 (NYT)\n· 피오리아 시내와 이스트 피오리아에 주민 대피령이 발령됐습니다 (CIProud·ABC7)\n· 폭파 위협 여파로 피오리아 시빅 센터 콘서트 등 현지 행사가 취소됐습니다 (피오리아 저널 스타)\n\n출처: NYT·CIProud·ABC7·WQAD·피오리아 저널 스타 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 일리노이주 피오리아의 에탄올 공장에서 폭탄이 발견됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경찰 수사가 진행되며 피오리아 시내와 이스트 피오리아에 주민 대피령이 내려졌고 현지 콘서트도 취소됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폭탄 설치 주체와 용의자 체포 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[에탄올 공장]]에\n폭탄이 설치됐다?",
+  "broll": [
+    "chemical plant aerial",
+    "police car lights night"
+  ],
+  "place_en": "Peoria, Illinois, USA"
+}
