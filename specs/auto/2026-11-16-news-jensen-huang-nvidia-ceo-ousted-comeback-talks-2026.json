@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-16-news-jensen-huang-nvidia-ceo-ousted-comeback-talks-2026",
+  "topic": "젠슨 황 CEO 축출 복귀 방안 논의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 06:22 KST",
+  "source": "Financial Times·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ",
+    "related": [
+      [
+        "Jensen Huang discusses comeback as Nvidia CEO with allies, FT reports",
+        "Reuters"
+      ],
+      [
+        "How Jensen Huang’s Secret Led to His Downfall at Nvidia",
+        "The New York Times"
+      ],
+      [
+        "An Nvidia engineer says he's quitting because Jensen Huang was ousted: 'So disappointing'",
+        "Business Insider"
+      ],
+      [
+        "Nvidia scandal hits Trump’s political vulnerabilities after Democratic sweep",
+        "The Washington Post"
+      ],
+      [
+        "FirstFT: Jensen Huang discusses comeback as Nvidia chief with allies",
+        "Financial Times"
+      ]
+    ],
+    "event_key": "jensen_huang_nvidia_ceo_ousted_comeback_talks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "젠슨 황 CEO [[축출]]\n복귀 방안 논의",
+      "sub": "엔비디아 수장서 해임된 후 우군들과 복귀 타진",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "젠슨 황"
+        },
+        {
+          "k": "소속",
+          "v": "엔비디아"
+        }
+      ],
+      "alt": "젠슨 황 CEO 축출 복귀 방안 논의",
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n산타클라라",
+      "video_only": true,
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "산타클라라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "복귀 방안 논의",
+          "d": "젠슨 황 전 CEO가 우군들과 최고경영자 복귀 방안을 논의 중이라고 파이낸셜 타임스가 전했습니다."
+        },
+        {
+          "t": "실각 배경",
+          "d": "젠슨 황의 비밀이 엔비디아에서의 실각으로 이어졌다고 뉴욕 타임스가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "젠슨 황 CEO 축출",
+        "복귀 타진 논의 진행"
+      ],
+      "unconfirmed": [
+        "복귀 여부 및 시기",
+        "해임의 정확한 사유",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Business Insider",
+        "Financial Times",
+        "Reuters",
+        "The New York Times",
+        "The Washington Post",
+        "2026.11.16 07:58 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 젠슨 황 엔비디아 전 CEO가 복귀를 논의 중입니다\n\n· 엔비디아 수장 자리에서 해임된 젠슨 황이 우군들과 함께 CEO 복귀 방안을 타진하고 있습니다 (파이낸셜 타임스)\n· 젠슨 황의 비밀이 그의 실각으로 이어졌다고 보도했습니다 (뉴욕 타임스)\n\n엔비디아 젠슨 황 전 CEO의 복귀 논의 소식, 어떻게 생각하십니까?\n\n출처: 로이터·파이낸셜 타임스·뉴욕 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "엔비디아에서 해임된 젠슨 황 전 최고경영자가 복귀 방안을 논의 중입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이낸셜 타임스는 젠슨 황이 우군들과 함께 CEO 복귀를 타진하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 해임 사유와 실제 복귀 가능성은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 엔비디아 수장 교체 사태, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[젠슨 황]] 축출 후\n복귀 노리나",
+  "broll": [
+    "office building exterior",
+    "stock exchange screen"
+  ],
+  "place_en": "Santa Clara, California"
+}

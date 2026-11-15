@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "israel_hebron_palestinian_displacement_2026",
-    "topic": "이스라엘군 헤브론 봉쇄 팔레스타인 250가구 퇴거",
-    "slug": "2026-10-26-news-israel-hebron-palestinian-displacement-2026",
-    "cluster": "CBMixwFBVV95cUxONFNBbm1wZmtzVFNpVzExeTc5MTlGaFRhdExKNnItcGNEOHRIUW5TODA5bFRsMHVfNDZicWlGUkhkS0k5LWVIRW9INzlKODFrcGV2OFd1eHFQcW14NzU3T01FR1JELXUwVU51MkFKMmVOcnJ0Mk05RzJtcFlFREpaaTF1X0liY2VKX2dvT2NHcTd5MU1fZ1RnWmwyR2ZVMVZKNWNqVy1zTnNCalllSVpSa0tTMWJHcWEwY193cUdSbWltZldzTnhF",
-    "badge": "breaking",
-    "at": 1793002421.3311365,
-    "country": "이스라엘",
-    "category": "국제"
-  },
-  {
     "event_key": "strait_of_hormuz_tanker_explosions_2026",
     "topic": "호르무즈 해협서 대형 유조선 폭발",
     "slug": "2026-10-26-news-strait-of-hormuz-tanker-explosions-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794777170.7441146,
     "country": "대한민국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "jensen_huang_nvidia_ceo_ousted_comeback_talks_2026",
+    "topic": "젠슨 황 CEO 축출 복귀 방안 논의",
+    "slug": "2026-11-16-news-jensen-huang-nvidia-ceo-ousted-comeback-talks-2026",
+    "cluster": "CBMiswFBVV95cUxOMjJiT3lpV1Ezamlva2NQWFNtWlB6VnRkdXhSOVBselpmQUk5Y2x0RGUyajctclFfY19VMW0wc1Z1VFBhZkdUM2QyUHE3ZC15MUUxVkk4VkJJM25jTFhlM2RaTkFZaGF0UXNUTlp3aFBfckxCaURVUWZMNVBIQ0hZU2FxWThpQldRUjM2RERqalRRNFhGaWJlZFkzWFZkRnFDRzBHamc3ZDZFLWtVdGFuZDEwUQ",
+    "badge": "breaking",
+    "at": 1794783531.8873868,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
