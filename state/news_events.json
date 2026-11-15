@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "serbia_election_2026",
-    "topic": "세르비아에서 선거 실시 학생 주도 야권 정권교체 도전",
-    "slug": "2026-10-26-news-serbia-election-2026",
-    "cluster": "CBMiW0FVX3lxTE5rY0xMeVEyMGlkVk5Iakpubl9Nc1NVMUZseWdMV09TYVFLcHp3bnpldG1HWDBzSVNucTd2Ni1KbWdqNEEtWWpGblZMckkwUll2OVFTeVpzMk9MNlU",
-    "badge": "brief",
-    "at": 1792944436.7710998,
-    "country": "세르비아",
-    "category": "국제"
-  },
-  {
     "event_key": "paris_suburb_shooting_2026",
     "topic": "프랑스 파리 근교 총격 테러 발생 사망 1명·부상 4명",
     "slug": "2026-10-26-news-paris-suburb-shooting-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794704101.5064871,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "canada_cfb_wainwright_fire_fifth_soldier_death_2026",
+    "topic": "캐나다 군 훈련장 화재 부상 군인 결국 숨져",
+    "slug": "2026-11-15-news-canada-cfb-wainwright-fire-fifth-soldier-death-2026",
+    "cluster": "CBMiggFBVV95cUxOa1BNa1NzQnNVNEtxYzlac2NSYjlwRVdfMWc1VGdfUEt0UlFvQVBza1o4LXo5SHFGWWRsREtkUjdCb3BQdnctTEFoaXZLVVBaODU4TjFvWWVnWXNzenZvSVIxTlFlX3lQSEtGX2lOcXpDSmZQc2JYdWtQUlA4em5jV193",
+    "badge": "breaking",
+    "at": 1794708582.2590728,
+    "country": "캐나다",
+    "category": "사고"
   }
 ]

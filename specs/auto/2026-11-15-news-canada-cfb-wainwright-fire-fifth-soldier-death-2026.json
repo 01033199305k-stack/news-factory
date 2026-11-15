@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-15-news-canada-cfb-wainwright-fire-fifth-soldier-death-2026",
+  "topic": "캐나다 군 훈련장 화재 부상 군인 결국 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 08:44 KST",
+  "source": "CBS News·NBC News·CBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxOa1BNa1NzQnNVNEtxYzlac2NSYjlwRVdfMWc1VGdfUEt0UlFvQVBza1o4LXo5SHFGWWRsREtkUjdCb3BQdnctTEFoaXZLVVBaODU4TjFvWWVnWXNzenZvSVIxTlFlX3lQSEtGX2lOcXpDSmZQc2JYdWtQUlA4em5jV193",
+    "related": [
+      [
+        "5th Canadian soldier dies weeks after fire on grenade launcher range",
+        "CBS News"
+      ],
+      [
+        "Fifth Canadian soldier dies of injuries from military training fire",
+        "NBC News"
+      ],
+      [
+        "Fifth soldier dead from injuries suffered in CFB Wainwright fire, officials say",
+        "CBC"
+      ],
+      [
+        "St. Albert's Remembrance Day honours fallen PPCLI members",
+        "St. Albert Gazette"
+      ],
+      [
+        "Fort Saskatchewan Legion donates 100K from its Poppy Fund to victims of CFB Wainwright fire",
+        "Edmonton Journal"
+      ]
+    ],
+    "event_key": "canada_cfb_wainwright_fire_fifth_soldier_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "캐나다 [[군 훈련장 화재]]\n부상 군인 결국 숨져",
+      "sub": "사망자 5명으로 늘어났습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "5명"
+        }
+      ],
+      "alt": "캐나다 군 훈련장 화재 부상 군인 결국 숨져",
+      "map": {
+        "lat": 52.8402725,
+        "lon": -110.8514344,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "캐나다"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "캐나다\n웨인라이트",
+      "video_only": true,
+      "map": {
+        "lat": 52.8402725,
+        "lon": -110.8514344,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "웨인라이트"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "훈련 중 화재 발생",
+          "d": "캐나다 CFB 웨인라이트 훈련장에서 화재 사고가 일어났습니다 (CBC)."
+        },
+        {
+          "t": "치료 중 추가 사망",
+          "d": "부상을 입고 치료를 받던 군인 1명이 추가로 숨졌습니다 (NBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "훈련장 화재 발생",
+        "군인 5명 사망 (CBS·NBC·CBC)"
+      ],
+      "unconfirmed": [
+        "화재 발생 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBC",
+        "CBS News",
+        "Edmonton Journal",
+        "NBC News",
+        "St. Albert Gazette",
+        "2026.11.15 11:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 캐나다 군 훈련장 화재 사고로 5명이 숨졌습니다 (CBS·NBC·CBC).\n\n· 캐나다 CFB 웨인라이트 기지 훈련장에서 화재가 발생했습니다 (CBC)\n· 부상을 입고 치료를 받던 군인 1명이 추가로 숨졌습니다 (NBC)\n\n출처: CBS·NBC·CBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "캐나다 군 훈련장 화재 사고로 숨진 군인이 5명으로 늘었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 CFB 웨인라이트 기지 훈련장에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "CBC 통신 등은 부상을 입고 치료를 받던 군인 한 명이 추가로 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "화재가 일어난 정확한 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 사고로 인한 한국인 피해 여부는 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "캐나다 [[군 훈련장]]\n화재 사고 발생",
+  "broll": [
+    "military base exterior",
+    "fire truck night"
+  ],
+  "place_en": "Wainwright, Canada"
+}
