@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-16-news-estonia-closes-russia-border-arson-2026",
+  "topic": "에스토니아 러시아 국경 폐쇄 드론 공장 방화 시도 여파",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 01:10 KST",
+  "source": "CNN·Reuters·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc",
+    "related": [
+      [
+        "Estonia to close Russian border crossings after attempted arson attack",
+        "Reuters"
+      ],
+      [
+        "Ukraine war latest: Estonia to shut border with Russia over attempted 'sabotage attack'",
+        "Sky News"
+      ],
+      [
+        "8 detained after GRU-linked arson at Estonian drone company Threod Systems",
+        "ERR"
+      ],
+      [
+        "Estonia to shut its border with Russia, blaming the Kremlin for failed arson attack",
+        "CNN"
+      ],
+      [
+        "Estonia shuts Russian border after foiling attack on drone factory",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "estonia_closes_russia_border_arson_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[에스토니아]] 러시아 국경 폐쇄\n드론 공장 방화 시도 여파",
+      "sub": "러시아 소행 공작 시도 무산 후 국경 차단 결정",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "8명"
+        }
+      ],
+      "alt": "에스토니아 러시아 국경 폐쇄 드론 공장 방화 시도 여파",
+      "map": {
+        "lat": 59.437242,
+        "lon": 24.7572693,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "에스토니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "에스토니아\n탈린",
+      "video_only": true,
+      "map": {
+        "lat": 59.437242,
+        "lon": 24.7572693,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "탈린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "드론 공장 방화 시도",
+          "d": "에스토니아 드론 기업 시설을 노린 방화 공작 시도가 적발됐습니다 (ERR·테레그라프)."
+        },
+        {
+          "t": "배후로 러시아 지목",
+          "d": "에스토니아 당국은 이번 방화 시도의 배후로 러시아를 지목했습니다 (CNN·스카이뉴스)."
+        },
+        {
+          "t": "용의자 8명 체포",
+          "d": "방화 시도 사건과 관련해 용의자 8명이 체포됐다고 보도됐습니다 (ERR)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에스토니아 러시아 국경 폐쇄 결정",
+        "드론 기업 시설 방화 시도 적발",
+        "용의자 8명 체포 (ERR)"
+      ],
+      "unconfirmed": [
+        "국경 폐쇄 유지 기간",
+        "러시아 정부의 공식 입장"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "ERR",
+        "Reuters",
+        "Sky News",
+        "The Telegraph",
+        "2026.11.16 03:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 에스토니아가 러시아 국경 검문소를 폐쇄하기로 결정했습니다.\n\n· 자국 드론 기업 시설을 겨냥한 방화 공작 시도를 적발한 직후 조치입니다 (테레그라프·ERR).\n· 에스토니아 당국은 방화 시도 배후로 러시아를 지목했습니다 (CNN).\n· 이번 사건과 관련해 용의자 8명이 체포됐습니다 (ERR).\n\n에스토니아의 러시아 국경 폐쇄 결정, 어떻게 보십니까?\n\n출처: 로이터·CNN·스카이뉴스·ERR·테레그라프 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "에스토니아가 러시아와의 국경 검문소를 폐쇄하기로 결정했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "에스토니아 당국은 자국 드론 기업 시설을 노린 방화 공작 시도를 적발했다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "방화 시도 배후로 러시아를 지목했으며 ERR은 용의자 8명이 체포됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 국경 폐쇄 유지 기간은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 국경 폐쇄 결정, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[러시아 국경]] 폐쇄\n에스토니아의 결단",
+  "broll": [
+    "border control gate",
+    "factory security camera"
+  ],
+  "place_en": "Tallinn, Estonia"
+}

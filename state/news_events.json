@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "sri_lanka_iranian_sailors_rescue_2026",
-    "topic": "스리랑카 해역서 선원 40명 구조",
-    "slug": "2026-10-26-news-sri-lanka-iranian-sailors-rescue-2026",
-    "cluster": "CBMiW0FVX3lxTE9hWnB4ZmZZUUNvZVpZaVViRVUzS2VRWlNBRG82b0t6WWFobkVUQm1FMFhXVEV0T05sNHN6Q3NGbnJlZ2NxYnpCVzl2dmFxMFBIZ2JYR1ZQbkY0T2M",
-    "badge": "breaking",
-    "at": 1792994927.172512,
-    "country": "스리랑카",
-    "category": "사고"
-  },
-  {
     "event_key": "ulsan_port_sulfuric_acid_leak_2026",
     "topic": "울산 부두 정박 선박서 황산 누출 사고",
     "slug": "2026-10-26-news-ulsan-port-sulfuric-acid-leak-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794755422.9775052,
     "country": "루마니아",
+    "category": "국제"
+  },
+  {
+    "event_key": "estonia_closes_russia_border_arson_2026",
+    "topic": "에스토니아 러시아 국경 폐쇄 드론 공장 방화 시도 여파",
+    "slug": "2026-11-16-news-estonia-closes-russia-border-arson-2026",
+    "cluster": "CBMitwFBVV95cUxOVkhQYlBYSGp1OG16aUlIS0JBcWpXQnpYbDlDaVFqb0V4cG04dm9wbnptbW1WRnI1bmh2ck0tTmM2Vl9pYVN2dG5NVmpTM2liUG9JWDNkVTZPVUxQc0swQ3FuN3UyZ2tyanRHVENpeUQtbTl0Z3RYSlIzVFB3QnFtdzVvWURCWDlCVjhlclpUTlpWaVhxektwaEFtY2Z2ZGRUYmJ1Z0ozUW9jY0lSOURycDkxSktlRnc",
+    "badge": "breaking",
+    "at": 1794766145.8122375,
+    "country": "에스토니아",
     "category": "국제"
   }
 ]
