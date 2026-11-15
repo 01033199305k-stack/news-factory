@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ulsan_port_sulfuric_acid_leak_2026",
-    "topic": "울산 부두 정박 선박서 황산 누출 사고",
-    "slug": "2026-10-26-news-ulsan-port-sulfuric-acid-leak-2026",
-    "cluster": "CBMiW0FVX3lxTE9qTEVTUGxROGs5T1k4WVRxdGRSSDZFWm5HVEpoNDlEVDdseHVBSnJ4MHlJMHZNUzJ0T2tNajdlelJ0ME9RRTNqX1FzemdXeVhzU2dibW9tNzVPU1U",
-    "badge": "breaking",
-    "at": 1792994939.7110167,
-    "country": "대한민국",
-    "category": "사고"
-  },
-  {
     "event_key": "israel_hebron_palestinian_displacement_2026",
     "topic": "이스라엘군 헤브론 봉쇄 팔레스타인 250가구 퇴거",
     "slug": "2026-10-26-news-israel-hebron-palestinian-displacement-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794766145.8122375,
     "country": "에스토니아",
     "category": "국제"
+  },
+  {
+    "event_key": "korea_tax_exam_ai_cheating_confession_2026",
+    "topic": "한국 세무사 시험 수석 AI 부정행위 자백",
+    "slug": "2026-11-16-news-korea-tax-exam-ai-cheating-confession-2026",
+    "cluster": "CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo",
+    "badge": "breaking",
+    "at": 1794777170.7441146,
+    "country": "대한민국",
+    "category": "기타 사건"
   }
 ]

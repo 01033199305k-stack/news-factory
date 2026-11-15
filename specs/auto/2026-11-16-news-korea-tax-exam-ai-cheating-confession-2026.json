@@ -1,0 +1,131 @@
+{
+  "slug": "2026-11-16-news-korea-tax-exam-ai-cheating-confession-2026",
+  "topic": "한국 세무사 시험 수석 AI 부정행위 자백",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 04:48 KST",
+  "source": "BBC·Bloomberg.com·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo",
+    "related": [
+      [
+        "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+        "The Guardian"
+      ],
+      [
+        "South Korea's top scorer in tax accountancy exam admits cheating",
+        "BBC"
+      ],
+      [
+        "Top scorer on South Korean tax exam confesses to cheating with AI",
+        "Reuters"
+      ],
+      [
+        "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
+        "Bloomberg.com"
+      ],
+      [
+        "AI cheating case raises scrutiny over test administration ahead of Suneung",
+        "The Korea Herald"
+      ]
+    ],
+    "event_key": "korea_tax_exam_ai_cheating_confession_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "한국 [[세무사 시험]] 수석\nAI 부정행위 자백",
+      "sub": "한국 자격시험 AI 부정행위 보도",
+      "chips": [],
+      "alt": "한국 세무사 시험 수석 AI 부정행위 자백",
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울",
+      "video_only": true,
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수석 합격자 자백",
+          "d": "세무사 시험에서 수석을 차지한 응시자가 부정행위를 인정했습니다 (가디언·BBC)."
+        },
+        {
+          "t": "인공지능 활용",
+          "d": "해당 응시자는 인공지능(AI)을 이용해 시험을 치렀다고 자백했습니다 (로이터·블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "세무사 시험 수석 응시자 자백",
+        "인공지능(AI) 이용 부정행위"
+      ],
+      "unconfirmed": [
+        "부정행위 구체적 수법",
+        "시험 관리 당국 후속 조치"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Bloomberg.com",
+        "Reuters",
+        "The Guardian",
+        "The Korea Herald",
+        "2026.11.16 06:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 한국 세무사 시험 수석 합격자가 인공지능 부정행위를 자백했습니다.\n\n· 세무사 시험 수석 응시자가 부정행위 사실을 인정했습니다 (가디언·BBC).\n· 인공지능(AI)을 활용해 시험을 치른 것으로 확인됐습니다 (로이터·블룸버그).\n\n자격시험의 인공지능 부정행위 방지 대책, 어떻게 보십니까?\n\n출처: 가디언·BBC·로이터·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "한국 세무사 시험 수석이 AI 부정행위를 자백했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언과 로이터는 응시자가 AI를 써서 부정행위를 저질렀다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 부정행위 수법과 경위는 아직 밝혀지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[세무사 시험]] 수석이\n자백한 이유",
+  "broll": [
+    "exam classroom paper",
+    "artificial intelligence computer screen"
+  ],
+  "place_en": "Seoul, South Korea"
+}
