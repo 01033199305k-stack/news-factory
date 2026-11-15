@@ -41626,5 +41626,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794704849
+  },
+  {
+    "slug": "2026-11-15-news-canada-cfb-wainwright-fire-fifth-soldier-death-2026",
+    "event_ms": 1794699886000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 캐나다 군 훈련장 화재 사고로 5명이 숨졌습니다 (CBS·NBC·CBC).\n\n· 캐나다 CFB 웨인라이트 기지 훈련장에서 화재가 발생했습니다 (CBC)\n· 부상을 입고 치료를 받던 군인 1명이 추가로 숨졌습니다 (NBC)\n\n출처: CBS·NBC·CBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "캐나다"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18116427182141575",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfvrQ8qDh9_",
+        "kind": "carousel",
+        "at": 1794708628
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794708758
+      },
+      "tiktok": {
+        "id": "7708215420209204500",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708215420209204500",
+        "kind": "video",
+        "at": 1794708879
+      },
+      "instagram": {
+        "failed": "GET me → 400: Error validating access token: You cannot access the app till you log in to www.instagram.com and follow the instructions given.",
+        "at": 1794712029
+      }
+    },
+    "attempts": {
+      "instagram": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794712029
   }
 ]
