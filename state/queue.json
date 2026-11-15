@@ -32,10 +32,14 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
         "at": 1794751982
+      },
+      "instagram": {
+        "failed": "container 18129140233876789: ERROR ERROR",
+        "at": 1794759045
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 2
     },
     "video": "video.mp4"
