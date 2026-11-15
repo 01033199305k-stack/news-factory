@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_measles_outbreak_2026",
-    "topic": "미국 내 홍역 환자 4,588명으로 급증 작년 대비 2배 이상 확산",
-    "slug": "2026-10-26-news-us-measles-outbreak-2026",
-    "cluster": "CBMif0FVX3lxTE10dmpQc05kNFNxUnFFY0tJLUtBNkhta21ZTl9SUEd4OGpZZ3czU0M2SUZnTGhzaG40VEJLVFhjN1lBODdROHJHRm8xTHFZNmVjNXJkMlQ1dlFCOFh0OS0ybHRMRmxTcjB1amtQaFZKVUFaRGJzWEw2SUhEVVpQeDQ",
-    "badge": "breaking",
-    "at": 1792965981.2075522,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "yangpyeong_expressway_collision_2026",
     "topic": "중부내륙고속도로서 승합차·화물차 충돌",
     "slug": "2026-10-26-news-yangpyeong-expressway-collision-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794726600.2156343,
     "country": "사우디아라비아",
+    "category": "국제"
+  },
+  {
+    "event_key": "yemen_forces_withdraw_bab_el_mandeb_2026",
+    "topic": "예멘 정부군 철수 바브알만데브 해협",
+    "slug": "2026-11-15-news-yemen-forces-withdraw-bab-el-mandeb-2026",
+    "cluster": "CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ",
+    "badge": "brief",
+    "at": 1794738075.9392164,
+    "country": "예멘",
     "category": "국제"
   }
 ]

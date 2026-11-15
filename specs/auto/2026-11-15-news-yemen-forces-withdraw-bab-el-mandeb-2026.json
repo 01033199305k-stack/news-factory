@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-15-news-yemen-forces-withdraw-bab-el-mandeb-2026",
+  "topic": "예멘 정부군 철수 바브알만데브 해협",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 17:40 KST",
+  "source": "Reuters·Al Arabiya English·The Lufkin Daily News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ",
+    "related": [
+      [
+        "Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control",
+        "Reuters"
+      ],
+      [
+        "Yemen’s Southern Armed Forces announce troop redeployment amid Houthi threats",
+        "Al Arabiya English"
+      ],
+      [
+        "Southern Armed Forces Redeploy from Dhubab and Bab al-Mandab to Bolster Defense of Aden | Sabq",
+        "شبكة تواصل الإخبارية"
+      ],
+      [
+        "Southern Yemeni forces withdraw from area near Bab Al Mandab",
+        "The National"
+      ],
+      [
+        "FILE PHOTO: Views of Bab el-Mandeb strait, Yemen",
+        "The Lufkin Daily News"
+      ]
+    ],
+    "event_key": "yemen_forces_withdraw_bab_el_mandeb_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "예멘 정부군 철수\n[[바브알만데브]] 해협",
+      "sub": "후티 반군이 해당 지역 통제권을 확보한 것으로 전해졌습니다",
+      "chips": [],
+      "alt": "예멘 정부군 철수 바브알만데브 해협",
+      "map": {
+        "lat": 12.6670963,
+        "lon": 43.4565009,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "예멘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "예멘\n바브알만데브 해협",
+      "video_only": true,
+      "map": {
+        "lat": 12.6670963,
+        "lon": 43.4565009,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바브알만데브 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "남부군 전력 재배치",
+          "d": "예멘 남부군 측은 아덴 방어를 강화하기 위해 전력을 재배치했다고 밝혔습니다 (Sabq)."
+        },
+        {
+          "t": "해협 통제권 변화",
+          "d": "정부군이 물러난 지역을 후티 반군이 통제하게 됐다고 전해졌습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "예멘 정부군의 해협 인근 철수",
+        "후티 반군의 해당 지역 통제권 확보"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "해협 통행 및 향후 추가 교전 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Arabiya English",
+        "Reuters",
+        "The Lufkin Daily News",
+        "The National",
+        "شبكة تواصل الإخبارية",
+        "2026.11.15 19:21 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 예멘 정부군이 바브알만데브 해협 인근에서 철수했습니다.\n\n· 예멘 남부군, 아덴 방어 위해 전력 재배치 발표 (Sabq)\n· 정부군 철수 지역, 후티 반군이 통제권 확보 (로이터)\n\n해협 통제권 변화, 어떻게 보십니까?\n\n출처: 로이터·알아라비야 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "예멘 정부군이 바브알만데브 해협 인근에서 철수했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "예멘 남부군 측은 아덴 방어를 위해 전력을 재배치했다고 밝혔다고 Sabq가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터 통신은 정부군이 물러난 지역을 후티 반군이 통제하게 됐다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부나 해협 통행에 미칠 영향은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "해협 통제권 변화, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "예멘 정부군이\n[[해협]] 떠난 이유",
+  "broll": [
+    "cargo ship strait",
+    "military vehicle convoy"
+  ],
+  "place_en": "Bab el-Mandeb Strait, Yemen"
+}
