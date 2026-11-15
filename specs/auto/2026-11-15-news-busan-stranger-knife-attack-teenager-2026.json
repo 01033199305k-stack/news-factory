@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-15-news-busan-stranger-knife-attack-teenager-2026",
+  "topic": "부산 길거리서 흉기 공격 모르는 10대 여학생 피해",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 21:32 KST",
+  "source": "KBS 뉴스·SBS 뉴스·경기일보 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxNbFg0aU50V0dTZFVRMVEzY2VfcHNxNVZpTnJZRFBIWi04TlY2WFg1d0hwYmFIYU9pN2cwQWNNcE1rOFk5VWdKdHRNZWlsclB6X0tOcUo3cklSbW9OSlhPdUZrOGZ0cFZjZ2h6a084NzlVdFhLTjVRaGZnRk9faVFMdlh5Nk9hdw",
+    "related": [
+      [
+        "부산서 일면식 없는 10대 소녀 흉기 휘두른 20대 체포",
+        "조선일보"
+      ],
+      [
+        "일면식도 없는 여성에 흉기 휘둘러…20대 남성 체포",
+        "KBS 뉴스"
+      ],
+      [
+        "부산서 모르는 10대 여성에 흉기 휘두른 20대 남성 체포",
+        "연합뉴스"
+      ],
+      [
+        "부산 길거리서 처음 본 10대 여학생 흉기 공격한 20대",
+        "경기일보"
+      ],
+      [
+        "부산서 모르는 여성에 흉기 휘두른 20대 구속…\"도주·재범 우려\"",
+        "SBS 뉴스"
+      ]
+    ],
+    "event_key": "busan_stranger_knife_attack_teenager_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[부산]] 길거리서 흉기 공격\n모르는 10대 여학생 피해",
+      "sub": "20대 남성 피의자가 경찰에 체포돼 구속됐습니다",
+      "chips": [
+        {
+          "k": "피의자",
+          "v": "20대 남성"
+        },
+        {
+          "k": "피해자",
+          "v": "10대 여학생"
+        }
+      ],
+      "alt": "부산 길거리서 흉기 공격 모르는 10대 여학생 피해",
+      "map": {
+        "lat": 35.1799528,
+        "lon": 129.0752365,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n부산",
+      "video_only": true,
+      "map": {
+        "lat": 35.1799528,
+        "lon": 129.0752365,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "부산"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "길거리 흉기 공격",
+          "d": "부산 길거리에서 일면식 없는 10대 여학생에게 흉기를 휘두른 사건이 발생했습니다 (조선일보·경기일보)."
+        },
+        {
+          "t": "체포 및 구속",
+          "d": "경찰은 도주와 재범 우려로 20대 남성 피의자를 구속했습니다 (SBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "20대 피의자 체포 및 구속",
+        "10대 여학생 흉기 공격"
+      ],
+      "unconfirmed": [
+        "구체적 범행 동기",
+        "피해자 부상 정도"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "SBS 뉴스",
+        "경기일보",
+        "연합뉴스",
+        "조선일보",
+        "2026.11.15 23:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 부산 길거리에서 10대 여학생에게 흉기를 휘두른 20대 남성이 체포됐습니다.\n\n· 일면식도 없는 10대 여학생을 상대로 흉기를 휘두른 사건이 발생했습니다 (조선일보·경기일보)\n· 경찰은 도주와 재범 우려를 이유로 20대 남성 피의자를 구속했습니다 (SBS)\n\n출처: 조선일보·KBS·연합뉴스·경기일보·SBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "부산 길거리에서 10대 여학생에게 흉기를 휘두른 20대 남성이 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "피의자는 일면식 없는 여학생을 상대로 흉기를 휘둘렀습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경찰은 도주와 재범 우려로 20대 남성을 구속했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[부산]] 길거리서\n무슨 일이?",
+  "broll": [
+    "police car night",
+    "city street night"
+  ],
+  "place_en": "Busan, South Korea"
+}

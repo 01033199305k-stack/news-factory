@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "venezuela_machado_return_from_exile",
-    "topic": "베네수엘라 야권 지도자 마리아 마차도 망명 생활 마치고 귀국",
-    "slug": "2026-10-26-news-venezuela-machado-return-from-exile",
-    "cluster": "CBMiW0FVX3lxTE9xR2Z4WDJTQ2l5Q2steHAxSU9hZmVsVHFQZEljR0c0ajlIRWZVS2E0QmxRb0tCRF84TWdHLXJTRWRfOEt5V1pQVkdvRGpnWTNPYmdBTHhmS1BObFU",
-    "badge": "brief",
-    "at": 1792983986.4006045,
-    "country": "베네수엘라",
-    "category": "국제"
-  },
-  {
     "event_key": "oregon_newport_seafood_plant_fire_2026",
     "topic": "오리건주 수산물 공장 화재 대피령과 암모니아 위협",
     "slug": "2026-10-26-news-oregon-newport-seafood-plant-fire-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794741597.7880445,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "busan_stranger_knife_attack_teenager_2026",
+    "topic": "부산 길거리서 흉기 공격 모르는 10대 여학생 피해",
+    "slug": "2026-11-15-news-busan-stranger-knife-attack-teenager-2026",
+    "cluster": "CBMihgFBVV95cUxNbFg0aU50V0dTZFVRMVEzY2VfcHNxNVZpTnJZRFBIWi04TlY2WFg1d0hwYmFIYU9pN2cwQWNNcE1rOFk5VWdKdHRNZWlsclB6X0tOcUo3cklSbW9OSlhPdUZrOGZ0cFZjZ2h6a084NzlVdFhLTjVRaGZnRk9faVFMdlh5Nk9hdw",
+    "badge": "breaking",
+    "at": 1794751761.0492923,
+    "country": "대한민국",
+    "category": "기타 사건"
   }
 ]
