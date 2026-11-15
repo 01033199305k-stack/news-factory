@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-15-news-bahrain-activates-air-attack-alert-sirens-2026",
+  "topic": "바레인 공습 경보 주민 대피령 발령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 11:32 KST",
+  "source": "The Hindu·Gulf News·Middle East Eye 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxPUE1QQ0JNZGJtRVk4b3FPRlZHUmx1bDdyaXFsMVdZLWpxcW5XcXZNM0VGZ1A5Mm1ob0RycVFTem1wV2x4TzREOFRqekxUMURMMEtiMlhLbGtIejBoVm0xZmxxVURZaGtEY3JITDkxM1h6VmVaQXlSMlZHRDZPSDNMX1R5MlNaR29IRWk0UkppY3RjS1BkRkVScUVkTTc5UW41dEFScktKS0FuZnFQUER2ZjF5NTFXRGhSclJBR9IB0gFBVV95cUxPenNZeEtHMTdHT2EtX0xQQWZ0TWR0MG5Nak9YaUZKSzRIc2JodXpCTmlxbzdUd25ZcExobVpLb3B4Z0xKdHh2WlBzRWhHWDhaLXd4TF9MVFFKSjF6RU9oZWtxN1FSTGxYX0hpamE4emF4ZlE2amRCN2lIWTNZb0FmTEpxVHdfWWs3N20yQjVXT1AtZ0dGazdScWhMZjVzeVdCdUtFZHpQMDEzVVFORGlLUGNiQ2VSb1ZFVy0zUkRJeTFGbmZMNG5YVEZMWkxOME9kc0E",
+    "related": [
+      [
+        "Bahrain issues potential threat alert, urges residents to seek safety",
+        "Gulf News"
+      ],
+      [
+        "Bahrain’s Interior Ministry issues alerts of potential threats",
+        "The Hindu"
+      ],
+      [
+        "Bahrain's ministry of interior issues second alert of potential danger",
+        "Middle East Eye"
+      ],
+      [
+        "Sirens sound in Bahrain as authorities tell residents to shelter: AFP journalist",
+        "Bangladesh Sangbad Sangstha (BSS)"
+      ],
+      [
+        "Bahrain activates air attack alert",
+        "Breakingthenews.net"
+      ]
+    ],
+    "event_key": "bahrain_activates_air_attack_alert_sirens_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "바레인 [[공습 경보]]\n주민 대피령 발령",
+      "sub": "내무부 위험 경보 발령하며 안전지대 대피 당부",
+      "chips": [
+        {
+          "k": "경보 단계",
+          "v": "공습 경보"
+        }
+      ],
+      "alt": "바레인 공습 경보 주민 대피령 발령",
+      "map": {
+        "lat": 26.2235041,
+        "lon": 50.5822436,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "바레인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "바레인\n마나마",
+      "video_only": true,
+      "map": {
+        "lat": 26.2235041,
+        "lon": 50.5822436,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마나마"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사이렌 작동",
+          "d": "바레인에서 경보 사이렌이 울리고 내무부가 위험 경보를 발령했습니다 (AFP·걸프뉴스)."
+        },
+        {
+          "t": "주민 대피 권고",
+          "d": "당국은 주민들에게 안전한 장소로 대피하라고 지시했습니다 (더힌두·미들이스트이)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "바레인 내무부 공습 경보 발령",
+        "주민 대피령 발령"
+      ],
+      "unconfirmed": [
+        "구체적 위협 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bangladesh Sangbad Sangstha (BSS)",
+        "Breakingthenews.net",
+        "Gulf News",
+        "Middle East Eye",
+        "The Hindu",
+        "2026.11.15 14:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 바레인에 공습 경보가 발령되고 주민 대피령이 내렸습니다.\n\n· 바레인 내무부가 위협 경보를 발령하며 주민 대피를 지시했습니다 (걸프뉴스·더힌두)\n· 현지에서 경보 사이렌이 울렸다고 전해졌습니다 (AFP)\n\n이번 상황을 어떻게 보십니까?\n\n출처: 걸프뉴스·더힌두·미들이스트이·AFP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "바레인에 공습 경보가 발령되고 주민 대피령이 내렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "바레인 내무부는 위험 경보를 발령하며 안전 대피를 지시했다고 걸프뉴스가 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "현지에서는 경보 사이렌이 울렸습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 위협 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 상황을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "바레인에\n[[공습 경보]] 발령",
+  "broll": [
+    "siren light night",
+    "city emergency skyline"
+  ],
+  "place_en": "Manama, Bahrain"
+}

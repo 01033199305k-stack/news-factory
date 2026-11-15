@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "barcelona_bus_crash_slope",
-    "topic": "바르셀로나서 버스 추락 부상 41명 발생",
-    "slug": "2026-10-26-news-barcelona-bus-crash-slope",
-    "cluster": "CBMifEFVX3lxTE9GQkxEdDc0UTZXQmpUYzFDaGt0S0hnQ1k2c0RrWlZxSmJRaTd5N1hLU3NCRmgzbGVRaFlMVEU5ZThwTGdxVXRfQ1FaeDMzVktHaWZKMEdCcUdlVURmUXlEV3VueUF5MDdnWnppemhaTVl2RzhVckJWUnBvS2E",
-    "badge": "breaking",
-    "at": 1792955248.4463308,
-    "country": "스페인",
-    "category": "사고"
-  },
-  {
     "event_key": "brazil_election_2026",
     "topic": "브라질 대선 결선 투표 최고법원 투표 시간 연장",
     "slug": "2026-10-26-news-brazil-election-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794711128.1297083,
     "country": "팔레스타인",
+    "category": "국제"
+  },
+  {
+    "event_key": "bahrain_activates_air_attack_alert_sirens_2026",
+    "topic": "바레인 공습 경보 주민 대피령 발령",
+    "slug": "2026-11-15-news-bahrain-activates-air-attack-alert-sirens-2026",
+    "cluster": "CBMivAFBVV95cUxPUE1QQ0JNZGJtRVk4b3FPRlZHUmx1bDdyaXFsMVdZLWpxcW5XcXZNM0VGZ1A5Mm1ob0RycVFTem1wV2x4TzREOFRqekxUMURMMEtiMlhLbGtIejBoVm0xZmxxVURZaGtEY3JITDkxM1h6VmVaQXlSMlZHRDZPSDNMX1R5MlNaR29IRWk0UkppY3RjS1BkRkVScUVkTTc5UW41dEFScktKS0FuZnFQUER2ZjF5NTFXRGhSclJBR9IB0gFBVV95cUxPenNZeEtHMTdHT2EtX0xQQWZ0TWR0MG5Nak9YaUZKSzRIc2JodXpCTmlxbzdUd25ZcExobVpLb3B4Z0xKdHh2WlBzRWhHWDhaLXd4TF9MVFFKSjF6RU9oZWtxN1FSTGxYX0hpamE4emF4ZlE2amRCN2lIWTNZb0FmTEpxVHdfWWs3N20yQjVXT1AtZ0dGazdScWhMZjVzeVdCdUtFZHpQMDEzVVFORGlLUGNiQ2VSb1ZFVy0zUkRJeTFGbmZMNG5YVEZMWkxOME9kc0E",
+    "badge": "breaking",
+    "at": 1794719535.94978,
+    "country": "바레인",
     "category": "국제"
   }
 ]
