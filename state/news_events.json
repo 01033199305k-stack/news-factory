@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "brazil_election_2026",
-    "topic": "브라질 대선 결선 투표 최고법원 투표 시간 연장",
-    "slug": "2026-10-26-news-brazil-election-2026",
-    "cluster": "CBMirAFBVV95cUxPbUdQc0pRaW13N3B2WHV2eWxyY214dlh6U2h3bXMyS29mT1MxV21EOWIwdkozbWRZMFFtRFVSRE9hR2hmMnlSd0VDTFN4SFdEVzU5SEdEdGdrSkRWMjh1WXY1UmZyVFJwSmY2ODZ0aVhjM2ZiMWtpYUo1UDRDdTJmWnRGa1FGNHVnWkphbDZyOWVqYkVheGVIS19MWVdINXY3UElONUVBS2tGTlVK",
-    "badge": "breaking",
-    "at": 1792960432.8724136,
-    "country": "브라질",
-    "category": "국제"
-  },
-  {
     "event_key": "us_measles_outbreak_2026",
     "topic": "미국 내 홍역 환자 4,588명으로 급증 작년 대비 2배 이상 확산",
     "slug": "2026-10-26-news-us-measles-outbreak-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794719535.94978,
     "country": "바레인",
+    "category": "국제"
+  },
+  {
+    "event_key": "saudi_intercepts_houthi_missiles_drones_riyadh_2026",
+    "topic": "사우디 수도 향한 후티 미사일 요격",
+    "slug": "2026-11-15-news-saudi-intercepts-houthi-missiles-drones-riyadh-2026",
+    "cluster": "CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0",
+    "badge": "breaking",
+    "at": 1794726600.2156343,
+    "country": "사우디아라비아",
     "category": "국제"
   }
 ]

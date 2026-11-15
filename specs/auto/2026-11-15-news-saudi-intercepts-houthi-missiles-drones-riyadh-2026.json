@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-15-news-saudi-intercepts-houthi-missiles-drones-riyadh-2026",
+  "topic": "사우디 수도 향한 후티 미사일 요격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 15:18 KST",
+  "source": "Al Jazeera·Reuters·The Lufkin Daily News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxQWGo3OGMxN1ZNYy1FT1NCeF9OVHEyVjJjTlpJVzJHV2Ezamt3MFJkMDc0aUJlLUp3alBQZ200M2VRNWp3NXNkSllocERrOGxWUVBZNEp5VHkxVHJqcFVGeExLUWk5c2QxbHJsWVZIQnp1RFhULXktVHJQb3Nja3dWcFpkTWNZM1JhUGd3MUdSREpCYlJTSGw3TUl5UFFoR0tqWWxyTTdSZk96Z9IBrwFBVV95cUxOYlBrSExJX0JtT1R4MTlVUzVLVFFlZUllUFZmR29fNnNidkEwaFF3SEpkRDdKTDhsWUlTYURSdHBRd1E2V0pKZGRfbWpLS2hiZlEzUTc0SW1wT0JxMzRaMDlicVVQcXVJeGtRcGl1Y2hodkZ6cC15R095ckpuUU81RUJTd3FwSG5qNTRyN1piRlJPWF9rcjVKTnJwNldseVYyQ0VMYjdDcnZPRXljclo0",
+    "related": [
+      [
+        "Saudi-led coalition intercepts suspected Houthi missiles and drones",
+        "Al Jazeera"
+      ],
+      [
+        "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+        "Reuters"
+      ],
+      [
+        "Yemen’s Houthis claim attacks on Saudi oil, military sites",
+        "The New Arab"
+      ],
+      [
+        "A view shows the Aramco Tower damaged by falling debris following an attempted attack by Iran-aligned Houthis that claimed responsibility for the attack in Riyadh",
+        "The Lufkin Daily News"
+      ],
+      [
+        "Houthis Claim Strikes on Saudi Weapons Depots , Troop Gatherings in Yemen , Saudi Border Region",
+        "Yemen Online"
+      ]
+    ],
+    "event_key": "saudi_intercepts_houthi_missiles_drones_riyadh_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[사우디]] 수도 향한\n후티 미사일 요격",
+      "sub": "리야드와 동부 주 표적… 아람코 타워 파편 피해",
+      "chips": [],
+      "alt": "사우디 수도 향한 후티 미사일 요격",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사우디 수도 표적",
+          "d": "사우디 주도 연합군이 수도 리야드와 동부 주로 향하던 미사일과 드론을 요격했다고 알자지라와 로이터 통신이 전했습니다."
+        },
+        {
+          "t": "후티 공격 주장",
+          "d": "예멘 후티 반군은 사우디 석유 시설과 군사 기지를 겨냥해 공격을 감행했다고 주장했다고 뉴아랍이 보도했습니다."
+        },
+        {
+          "t": "아람코 타워 파편 피해",
+          "d": "요격 후 떨어진 파편으로 인해 리야드의 아람코 타워 일부가 손상되었다고 러프킨 데일리 뉴스가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 연합군 미사일·드론 요격",
+        "리야드 아람코 타워 파편 피해"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "The Lufkin Daily News",
+        "The New Arab",
+        "Yemen Online",
+        "2026.11.15 16:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 연합군이 수도 리야드 향한 후티 미사일을 요격했습니다.\n\n· 사우디 연합군은 리야드와 동부 주로 향하던 미사일과 드론을 요격했다고 전했습니다 (알자지라·로이터)\n· 예멘 후티 반군은 사우디 석유 시설과 군사 기지를 공격했다고 주장했습니다 (뉴아랍)\n· 요격 파편으로 리야드 아람코 타워 일부가 손상됐습니다 (러프킨 데일리 뉴스)\n\n중동 지역의 이번 군사 충돌, 어떻게 보십니까?\n출처: 알자지라·로이터·뉴아랍·러프킨 데일리 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디 수도 리야드를 향하던 미사일과 드론이 요격됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디 연합군은 리야드와 동부 주를 겨냥한 공격을 차단했다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "예멘 후티 반군은 석유 시설과 군사 기지를 공격했다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "중동 지역의 이번 군사 충돌, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[사우디]] 수도에\n무슨 일이?",
+  "broll": [
+    "military radar antenna",
+    "city skyline night"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}
