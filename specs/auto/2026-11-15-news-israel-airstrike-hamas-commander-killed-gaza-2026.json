@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-15-news-israel-airstrike-hamas-commander-killed-gaza-2026",
+  "topic": "하마스 사령관 사망 이스라엘 가자 공습",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 10:05 KST",
+  "source": "Al Jazeera·Reuters·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxQQmdDLWFKempfNHV5cGpqdWU0ampmWS1iVXNKSTFkQnhxZmtlOENuV1Vfbm80VVBpNVNEZ0l4VGZYdGF0NkU1eDFsbUVmVXNEOFZCMF9Bd04xUUZVd0J1bmtvRHhBbmVad1NJMkZybFhpYVQyTGtFOEdPeGJPT1JCaERyR0RiQ2YwSDlvZ2VKQVhqZnF4ekFXRmJ4OGpZQdIBowFBVV95cUxONk9IY0QxMlRKTzVKaXJ0Rk9RMnJrczJSMUtjS3cxeGQ5cDhET0VkRDJ3eEtfWFZaOE96dGVJbllJb0duNVMyODVRcUpfMVRBWnlIQkZOVUc5OVBWalpiR1p3dGNvc0RrWUphbjVnQ29RZ0tHZ1dVRFAtMmsxQm1uN05mektmVGtpS3FMSHZ0QWdFdmppRTVVSzcwaDFBbVdhRkFV",
+    "related": [
+      [
+        "Israeli air strike kills senior Hamas commander in Gaza",
+        "Al Jazeera"
+      ],
+      [
+        "Hamas confirms death of senior commander Samir Abu Younis in Israeli airstrike",
+        "The Times of India"
+      ],
+      [
+        "IDF says ‘senior terrorist in Hamas’s military wing’ targeted in Gaza strike",
+        "The Times of Israel"
+      ],
+      [
+        "Hamas says senior armed commander killed in Israeli strike",
+        "Reuters"
+      ],
+      [
+        "IDF kills Hamas Nukhba terrorist who infiltrated Israel on October 7",
+        "The Jerusalem Post"
+      ]
+    ],
+    "event_key": "israel_airstrike_hamas_commander_killed_gaza_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "하마스 사령관 [[사망]]\n이스라엘 가자 공습",
+      "sub": "고위 지휘관 사미르 아부 유니스 공습으로 숨져",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "하마스 사령관"
+        }
+      ],
+      "alt": "하마스 사령관 사망 이스라엘 가자 공습",
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자 지구",
+      "video_only": true,
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자 지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공습으로 지휘관 사망",
+          "d": "이스라엘군의 공습으로 하마스 고위 사령관 사미르 아부 유니스가 숨졌습니다 (타임스오브인디아)."
+        },
+        {
+          "t": "하마스 측 공식 확인",
+          "d": "하마스 측은 군사 부문 고위 사령관의 사망 사실을 공식 확인했습니다 (타임스오브인디아·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "하마스 고위 사령관 사망",
+        "이스라엘군 가자 지구 공습"
+      ],
+      "unconfirmed": [
+        "전체 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "The Jerusalem Post",
+        "The Times of India",
+        "The Times of Israel",
+        "2026.11.15 11:51 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘의 가자 지구 공습으로 하마스 고위 사령관이 사망했습니다.\n\n· 이스라엘군의 공습으로 하마스 고위 사령관 사미르 아부 유니스가 숨졌습니다 (타임스오브인디아)\n· 하마스 측은 고위 사령관 사망 사실을 공식 확인했습니다 (타임스오브인디아·로이터)\n\n이번 공습이 중동 정세에 미칠 영향에 대해 어떻게 생각하십니까?\n\n출처: 알자지라·타임스오브인디아·타임스오브이스라엘·로이터·제루살렘포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘의 가자 지구 공습으로 하마스 고위 사령관이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 공습은 팔레스타인 가자 지구에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "타임스오브인디아는 하마스 고위 사령관 사미르 아부 유니스가 이번 공격으로 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "전체 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 공습이 중동 정세에 어떤 영향을 줄 것이라 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[가자지구]] 공습\n숨진 인물은?",
+  "broll": [
+    "gaza strip sky",
+    "military jet flying"
+  ],
+  "place_en": "Gaza Strip"
+}
