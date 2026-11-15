@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-15-news-black-sea-ships-drone-strike-romania-2026",
+  "topic": "흑해 상선 3척 드론 피격 선원 6명 사망 확인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 22:16 KST",
+  "source": "NBC News·Kyiv Post·POLITICO.eu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxOSVg2YVp5TTVyWHlNOVdqa2NmOUJMbnAtU3lDVnJucXo0dnZoNkZBM2ZpbksxS2FQcEdmMFF2NFFOclZublJjVmZKZHdCSkhlaVNFMXZ0eUR3SVpMeEhaNWdvZktnOFNYQlZJVV9JSS14QV9BR19MTXk2dk01TUE2LTliMk5RbjAtQmxrMVk2WlBQRVNXOFByQWEzVWI",
+    "related": [
+      [
+        "Romania slams ‘unacceptable’ drone strikes on Black Sea ships",
+        "POLITICO.eu"
+      ],
+      [
+        "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
+        "NBC News"
+      ],
+      [
+        "Drone Strikes Cargo Ship Bound for Ukraine in Romanian Waters",
+        "Kyiv Post"
+      ],
+      [
+        "Remains of six seafarers found on tanker bombed in the Black Sea",
+        "TradeWinds News"
+      ],
+      [
+        "Three commercial ships struck by drones near Romania's Black Sea coast over two days",
+        "The Kyiv Independent"
+      ]
+    ],
+    "event_key": "black_sea_ships_drone_strike_romania_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "흑해 상선 3척 [[드론 피격]]\n선원 6명 사망 확인",
+      "sub": "루마니아 해역 인근서 피격… 총리 강력 비판",
+      "chips": [
+        {
+          "k": "피격 선박",
+          "v": "3척"
+        },
+        {
+          "k": "사망자",
+          "v": "6명"
+        }
+      ],
+      "alt": "흑해 상선 3척 드론 피격 선원 6명 사망 확인",
+      "map": {
+        "lat": 45.6800607,
+        "lon": 25.5868435,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "루마니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "루마니아\n흑해 해역",
+      "video_only": true,
+      "map": {
+        "lat": 45.6800607,
+        "lon": 25.5868435,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "흑해 해역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "상선 3척 피격",
+          "d": "루마니아 운하 인근 흑해 해역에서 상선 3척이 드론 공격을 받았습니다 (NBC·키이우 인디펜던트)."
+        },
+        {
+          "t": "선원 6명 사망",
+          "d": "공격받은 유조선에서 선원 6명의 시신이 발견됐습니다 (트레이드윈즈)."
+        },
+        {
+          "t": "루마니아 정부 반발",
+          "d": "루마니아 총리는 민간 선박에 대한 드론 공격을 용납할 수 없다고 비판했습니다 (폴리티코)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "상선 3척 드론 피격",
+        "선원 6명 사망 (트레이드윈즈)"
+      ],
+      "unconfirmed": [
+        "드론 발사 주체",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "NBC News",
+        "POLITICO.eu",
+        "The Kyiv Independent",
+        "TradeWinds News",
+        "2026.11.16 00:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 흑해 해역에서 상선 3척이 드론 공격을 받아 선원 6명이 숨졌습니다.\n\n· 루마니아 운하 인근 해역에서 상선 3척이 드론 피격 피해를 입었습니다 (NBC)\n· 피격된 유조선에서 선원 6명의 시신이 발견됐습니다 (트레이드윈즈)\n· 루마니아 총리는 민간 선박을 향한 공격을 절대 수용할 수 없다며 강력히 비판했습니다 (폴리티코)\n\n출처: NBC·폴리티코·트레이드윈즈·키이우 인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "흑해 해역에서 상선 세 척이 드론 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "루마니아 운하 인근 해역에서 피격 피해가 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "트레이드윈즈는 피격된 유조선에서 선원 6명의 시신이 발견됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "드론 발사 주체는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[흑해 해역]] 상선 피격\n무슨 일이?",
+  "broll": [
+    "cargo ship sea",
+    "oil tanker water"
+  ],
+  "place_en": "Black Sea, Romania"
+}

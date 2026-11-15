@@ -42009,5 +42009,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794744963
+  },
+  {
+    "slug": "2026-11-15-news-black-sea-ships-drone-strike-romania-2026",
+    "event_ms": 1794748560000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 흑해 해역에서 상선 3척이 드론 공격을 받아 선원 6명이 숨졌습니다.\n\n· 루마니아 운하 인근 해역에서 상선 3척이 드론 피격 피해를 입었습니다 (NBC)\n· 피격된 유조선에서 선원 6명의 시신이 발견됐습니다 (트레이드윈즈)\n· 루마니아 총리는 민간 선박을 향한 공격을 절대 수용할 수 없다며 강력히 비판했습니다 (폴리티코)\n\n출처: NBC·폴리티코·트레이드윈즈·키이우 인디펜던트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "루마니아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18103204220381977",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfxEn_DFDi4",
+        "kind": "carousel",
+        "at": 1794755478
+      },
+      "instagram": {
+        "id": "18141583876746983",
+        "permalink": "https://www.instagram.com/reel/DfxFFKclHnA/",
+        "kind": "reel",
+        "at": 1794755732
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1794755742
+      },
+      "tiktok": {
+        "id": "7708417261664570645",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708417261664570645",
+        "kind": "video",
+        "at": 1794755864
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794755874
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "oregon_newport_seafood_plant_fire_2026",
-    "topic": "오리건주 수산물 공장 화재 대피령과 암모니아 위협",
-    "slug": "2026-10-26-news-oregon-newport-seafood-plant-fire-2026",
-    "cluster": "CBMikAFBVV95cUxPY1FCRnV0MW4wX24xakZieWdxQWEwNDZNTktzY0c4VnUyQVh3QUlraFhYQXBCcENhMm1wV081bkhuQjlRUExOS0RwbWNyaUxoemZGall2Tk03REl3WVlUTnY0dnViZk5YRnpiTGxGVF9KTi16akZ1UkZLMFYwODVjRm95TWkzdENnRGNWSHh1LXE",
-    "badge": "breaking",
-    "at": 1792991234.5349607,
-    "country": "미국",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "sri_lanka_iranian_sailors_rescue_2026",
     "topic": "스리랑카 해역서 선원 40명 구조",
     "slug": "2026-10-26-news-sri-lanka-iranian-sailors-rescue-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794751761.0492923,
     "country": "대한민국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "black_sea_ships_drone_strike_romania_2026",
+    "topic": "흑해 상선 3척 드론 피격 선원 6명 사망 확인",
+    "slug": "2026-11-15-news-black-sea-ships-drone-strike-romania-2026",
+    "cluster": "CBMinAFBVV95cUxOSVg2YVp5TTVyWHlNOVdqa2NmOUJMbnAtU3lDVnJucXo0dnZoNkZBM2ZpbksxS2FQcEdmMFF2NFFOclZublJjVmZKZHdCSkhlaVNFMXZ0eUR3SVpMeEhaNWdvZktnOFNYQlZJVV9JSS14QV9BR19MTXk2dk01TUE2LTliMk5RbjAtQmxrMVk2WlBQRVNXOFByQWEzVWI",
+    "badge": "breaking",
+    "at": 1794755422.9775052,
+    "country": "루마니아",
+    "category": "국제"
   }
 ]
