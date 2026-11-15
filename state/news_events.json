@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "jordan_church_shooting_2026",
-    "topic": "요르단 교회 총격 사건 발생 사망자 9명으로 늘어나",
-    "slug": "2026-10-25-news-jordan-church-shooting-2026",
-    "cluster": "CBMivAFBVV95cUxPVTFxbDBEOEdFZFEwX29PZzd0QTNuYm11VXE5ekQ1bUgtQjVGeU1lbHdjVG9BR21DcENBLU5BeWFCeERYd2Y4bWp4OHFEclBuWlRUQ3ltUkduNFlQOXNwSTV6ZHJ4Qi02ZGQyakE1a0lfNldTM2RBQ3dVbEJHcWpSWE96b3FKUWstUjh6aExqcTdPMmdhMkRpbEhjcEtpak5YMmFfOThiTmh4ZGd5Z2lGMk1Ucjh0U2lDQjlRZQ",
-    "badge": "breaking",
-    "at": 1792937228.7806406,
-    "country": "요르단",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "serbia_election_2026",
     "topic": "세르비아에서 선거 실시 학생 주도 야권 정권교체 도전",
     "slug": "2026-10-26-news-serbia-election-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794701408.1444752,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "yeongwol_firewood_stove_explosion_2026",
+    "topic": "강원 영월 주택서 화목난로 폭발",
+    "slug": "2026-11-15-news-yeongwol-firewood-stove-explosion-2026",
+    "cluster": "CBMid0FVX3lxTE9jeDVvbHdWTGN6YXVjWVhFU19jTWs3blkzdTZublljN2hGS2dYM3cwRXlhSjRCVXNHejZBcklTLW03ZlEzUHBieXlDU2JnTVo3TnBpTkwyejBYam9jQjhMWlFPTnRFeWxmMnVUQWFkZ2U3TGx6clZN0gF3QVVfeXFMTUd1Qmt5Mmx0YmJ5UEJEb0Zka1pzZGFPamliN2FMU2RRblpTa0hkeVZDS0NHelJYem1JN0JCeEZUV1c1RzBmOHRvT2NMYlRUZlNDNFZVbE1RRkVtYlpGSElDU2w0RWlPVGlacUE1T2lRbm5hWkVMSkk",
+    "badge": "breaking",
+    "at": 1794704101.5064871,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]

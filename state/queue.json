@@ -42,6 +42,53 @@
       }
     },
     "attempts": {
+      "instagram": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-15-news-yeongwol-firewood-stove-explosion-2026",
+    "event_ms": 1794697273000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 강원 영월의 한 주택에서 폭발 사고가 발생해 7명이 다쳤습니다.\n\n· 주택 내 화목난로가 폭발한 것으로 추정되는 사고가 일어났습니다 (MBC·연합뉴스).\n· 4명이 중상을 입고 3명이 경상을 입었습니다 (뉴스1·뉴시스).\n\n출처: MBC·뉴스1·연합뉴스·뉴시스·서울신문 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18150179599585399",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfviuTzmpKQ",
+        "kind": "carousel",
+        "at": 1794704149
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1794704265
+      },
+      "tiktok": {
+        "id": "7708196141371788565",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708196141371788565",
+        "kind": "video",
+        "at": 1794704386
+      }
+    },
+    "attempts": {
       "instagram": 1
     },
     "video": "video.mp4"

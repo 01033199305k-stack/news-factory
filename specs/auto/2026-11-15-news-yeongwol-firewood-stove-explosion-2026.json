@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-15-news-yeongwol-firewood-stove-explosion-2026",
+  "topic": "강원 영월 주택서 화목난로 폭발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 08:01 KST",
+  "source": "MBC 뉴스·뉴스1·뉴시스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE9jeDVvbHdWTGN6YXVjWVhFU19jTWs3blkzdTZublljN2hGS2dYM3cwRXlhSjRCVXNHejZBcklTLW03ZlEzUHBieXlDU2JnTVo3TnBpTkwyejBYam9jQjhMWlFPTnRFeWxmMnVUQWFkZ2U3TGx6clZN0gF3QVVfeXFMTUd1Qmt5Mmx0YmJ5UEJEb0Zka1pzZGFPamliN2FMU2RRblpTa0hkeVZDS0NHelJYem1JN0JCeEZUV1c1RzBmOHRvT2NMYlRUZlNDNFZVbE1RRkVtYlpGSElDU2w0RWlPVGlacUE1T2lRbm5hWkVMSkk",
+    "related": [
+      [
+        "강원 영월 주택서 화목난로 폭발 추정 사고‥4명 중상·3명 경상",
+        "MBC 뉴스"
+      ],
+      [
+        "영월 단독주택서 화목난로 폭발사고…7명 부상",
+        "뉴스1"
+      ],
+      [
+        "영월 주택서 화목난로 폭발 추정 사고…7명 부상",
+        "연합뉴스"
+      ],
+      [
+        "영월 단독주택서 화목난로 폭발…4명 중상·3명 경상",
+        "뉴시스"
+      ],
+      [
+        "강원 영월 주택서 화목보일러 폭발 추정…7명 부상",
+        "서울신문"
+      ]
+    ],
+    "event_key": "yeongwol_firewood_stove_explosion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "강원 영월 주택서\n[[화목난로]] 폭발",
+      "sub": "난로 폭발 추정 사고로 7명 중경상",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "7명"
+        }
+      ],
+      "alt": "강원 영월 주택서 화목난로 폭발",
+      "map": {
+        "lat": 37.1834983,
+        "lon": 128.4619814,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n강원 영월",
+      "video_only": true,
+      "map": {
+        "lat": 37.1834983,
+        "lon": 128.4619814,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "강원 영월"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "4명 중상·3명 경상",
+          "d": "이번 사고로 4명이 중상을 입고 3명이 경상을 입었습니다 (MBC·뉴스1)."
+        },
+        {
+          "t": "화목난로 폭발 추정",
+          "d": "주택 내 화목난로가 폭발한 것으로 추정되고 있습니다 (연합뉴스·서울신문)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영월 주택서 폭발 사고 발생",
+        "주택 내 7명 부상 (MBC·뉴스1)"
+      ],
+      "unconfirmed": [
+        "정확한 폭발 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "뉴스1",
+        "뉴시스",
+        "서울신문",
+        "연합뉴스",
+        "2026.11.15 09:54 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 강원 영월의 한 주택에서 폭발 사고가 발생해 7명이 다쳤습니다.\n\n· 주택 내 화목난로가 폭발한 것으로 추정되는 사고가 일어났습니다 (MBC·연합뉴스).\n· 4명이 중상을 입고 3명이 경상을 입었습니다 (뉴스1·뉴시스).\n\n출처: MBC·뉴스1·연합뉴스·뉴시스·서울신문 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "강원도 영월의 한 주택에서 폭발 사고가 발생해 7명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "MBC와 뉴스1은 이번 사고로 4명이 중상을 입고 3명이 경상을 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 폭발 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[영월 주택]]서\n난로 폭발 사고",
+  "broll": [
+    "fire truck night",
+    "ambulance emergency"
+  ],
+  "place_en": "Yeongwol-gun, South Korea"
+}
