@@ -42062,5 +42062,56 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794755874
+  },
+  {
+    "slug": "2026-11-15-news-busan-stranger-knife-attack-teenager-2026",
+    "event_ms": 1794745965000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 부산 길거리에서 10대 여학생에게 흉기를 휘두른 20대 남성이 체포됐습니다.\n\n· 일면식도 없는 10대 여학생을 상대로 흉기를 휘두른 사건이 발생했습니다 (조선일보·경기일보)\n· 경찰은 도주와 재범 우려를 이유로 20대 남성 피의자를 구속했습니다 (SBS)\n\n출처: 조선일보·KBS·연합뉴스·경기일보·SBS 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "기타 사건",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18340548931279741",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfw9oFcG0sd",
+        "kind": "carousel",
+        "at": 1794751809
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1794751982
+      },
+      "instagram": {
+        "failed": "container 18129140233876789: ERROR ERROR",
+        "at": 1794759045
+      },
+      "tiktok": {
+        "failed": "createPost: Invalid post: Video could not be read from its URL.",
+        "at": 1794762655
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794762655
   }
 ]
