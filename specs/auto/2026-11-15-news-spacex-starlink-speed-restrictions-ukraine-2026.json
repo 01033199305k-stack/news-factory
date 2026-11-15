@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-15-news-spacex-starlink-speed-restrictions-ukraine-2026",
+  "topic": "우크라 스타링크 속도 제한 논란",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 06:02 KST",
+  "source": "Reuters·The Guardian·The Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxQMXlzLUQtSFlMUmxtemZJTk13emUzT2stSmpjb1M1UC1oUS0wRFhtOVVSOUJ2TE5NNTVzVmQtc2VIN25GZ3k5dTJNTmJidDRoUnFaVHZtdFljXzB5aFY4R2pvbk1kN05Kb2hrYjdNM2w0bG1lOFdPUjUtbzU2MHdEemI1aFFYTWtNd3k3RzFscThLREFGenJvR3BBdngySWczdlZuc19KR1JSaGk3RG15ZEJB",
+    "related": [
+      [
+        "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
+        "The Guardian"
+      ],
+      [
+        "Exclusive | Democrats Order Musk to Preserve Records Over Ukraine Starlink Access",
+        "WSJ"
+      ],
+      [
+        "Zelensky: Starlink is under ‘systematic speed restrictions’",
+        "The Telegraph"
+      ],
+      [
+        "Ukraine's Zelenskiy escalates criticism of SpaceX over speed caps",
+        "Reuters"
+      ],
+      [
+        "US senators demand restoration of Ukraine's Starshield capabilities",
+        "Anadolu Ajansı"
+      ]
+    ],
+    "event_key": "spacex_starlink_speed_restrictions_ukraine_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라 [[스타링크]]\n속도 제한 논란",
+      "sub": "미 상원의원들은 기록 보존을 명령하고 스타실드 복구를 촉구했습니다.",
+      "chips": [],
+      "alt": "우크라 스타링크 속도 제한 논란",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "속도 제한 주장",
+          "d": "볼로디미르 젤렌스키 우크라이나 대통령은 스페이스X가 스타링크 서비스에 체계적인 속도 제한을 걸었다고 밝혔습니다 (로이터·텔레그래프)."
+        },
+        {
+          "t": "미 의회 조사 착수",
+          "d": "미국 민주당 상원의원들은 스페이스X에 우크라이나의 스타링크 접속 관련 기록을 보존하라고 명령했습니다 (월스트리트저널)."
+        },
+        {
+          "t": "복구 요구",
+          "d": "미 상원 의원들은 우크라이나의 스타실드 기능 복구를 촉구했습니다 (아나돌루 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "젤렌스키의 스페이스X 속도 제한 주장",
+        "미 상원의 스타링크 접속 기록 보존 명령",
+        "미 의회의 스타실드 기능 복구 요구"
+      ],
+      "unconfirmed": [
+        "스페이스X 측의 공식 입장 및 실제 제한 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Anadolu Ajansı",
+        "Reuters",
+        "The Guardian",
+        "The Telegraph",
+        "WSJ",
+        "2026.11.15 09:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 젤렌스키 우크라이나 대통령이 스페이스X의 스타링크 속도 제한 조치를 비판했습니다.\n\n· 볼로디미르 젤렌스키 우크라이나 대통령은 스페이스X가 스타링크에 체계적인 속도 제한을 가하고 있다고 밝혔습니다 (로이터·텔레그래프).\n· 미 민주당 상원의원들은 일론 머스크 측에 우크라이나의 스타링크 접속 기록을 보존하라고 명령했습니다 (월스트리트저널).\n· 미 의회 의원들은 스타실드 기능의 복구를 촉구했습니다 (아나돌루 통신).\n\n이번 속도 제한 논란에 대해 어떻게 생각하십니까?\n\n출처: 로이터·월스트리트저널·텔레그래프·가디언·아나돌루 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "젤렌스키 우크라이나 대통령이 스페이스X의 스타링크 속도 제한 조치를 비판했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "우크라이나 측은 스타링크 서비스에 체계적인 속도 제한이 적용되고 있다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "월스트리트저널은 미 민주당 상원의원들이 스페이스X에 관련 기록 보존을 명령했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "스페이스X 측의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 논란에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[스타링크]] 접속에\n무슨 일이?",
+  "broll": [
+    "satellite antenna sky",
+    "datacenter server rack"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
