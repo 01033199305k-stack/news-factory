@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "yangpyeong_expressway_collision_2026",
-    "topic": "중부내륙고속도로서 승합차·화물차 충돌",
-    "slug": "2026-10-26-news-yangpyeong-expressway-collision-2026",
-    "cluster": "CBMiW0FVX3lxTFBPSGEzVTNsZy16T19RcUhWRG5heVQ0cHNOREFfSUNRYUVhTXJZaGd5T1llNElfOTVxMkZMRmtyUnBwVVJ4MktuRVJhWDJIelIwSExJdmNHWTFxVzg",
-    "badge": "breaking",
-    "at": 1792969575.7208705,
-    "country": "대한민국",
-    "category": "사고"
-  },
-  {
     "event_key": "brazil_lula_win_2026",
     "topic": "브라질 대선 결선 투표서 룰라 대통령 당선",
     "slug": "2026-10-26-news-brazil-lula-win-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1794738075.9392164,
     "country": "예멘",
+    "category": "국제"
+  },
+  {
+    "event_key": "iran_strikes_us_base_radar_bahrain_2026",
+    "topic": "이란, 바레인 미군기지 레이더 시설 공습",
+    "slug": "2026-11-15-news-iran-strikes-us-base-radar-bahrain-2026",
+    "cluster": "CBMinwFBVV95cUxObWFKWVZvcERnSnp2TzhOUm9QdjdkR3NmUjNoWnBlTGNIUHlZeDRGOURlNmtSSlY0SmhLU0VGSDdVcjN4X0xFa05kd21mNXRmSXBNbUY5eGZrUXlUVVhXc3U3V29haHFCY29HX1N3Q3pxaW02RnM5QzdxejBzal9Sb09Tc3ZOZ3FCYkQ5dmZIQlowZENaT1BLcmFFYjc5d2vSAaQBQVVfeXFMT1NTRm83ZVNzd1h0RWhmaE02WTRmZ29sSXdTSkZTZGVSUGJkdkdiaGZqb1JDZk1uSXRpVzFfQ3NqR1duRWdjQVRISWVlazBqeF92VFZjMGc3YW4taXhLUnhwaWhlMDlTa2hJZWRDMHVSaVgxOGVmOXRzc0dVUkwzY25sbzluYmhiT2JnNW5EVHktZmk5aEwtaXRxeTltRUl3N0ZUWkc",
+    "badge": "breaking",
+    "at": 1794740998.931996,
+    "country": "바레인",
     "category": "국제"
   }
 ]

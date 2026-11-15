@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-15-news-iran-strikes-us-base-radar-bahrain-2026",
+  "topic": "이란, 바레인 미군기지 레이더 시설 공습",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 18:49 KST",
+  "source": "Al Jazeera·CNN·The Guardian 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMinwFBVV95cUxObWFKWVZvcERnSnp2TzhOUm9QdjdkR3NmUjNoWnBlTGNIUHlZeDRGOURlNmtSSlY0SmhLU0VGSDdVcjN4X0xFa05kd21mNXRmSXBNbUY5eGZrUXlUVVhXc3U3V29haHFCY29HX1N3Q3pxaW02RnM5QzdxejBzal9Sb09Tc3ZOZ3FCYkQ5dmZIQlowZENaT1BLcmFFYjc5d2vSAaQBQVVfeXFMT1NTRm83ZVNzd1h0RWhmaE02WTRmZ29sSXdTSkZTZGVSUGJkdkdiaGZqb1JDZk1uSXRpVzFfQ3NqR1duRWdjQVRISWVlazBqeF92VFZjMGc3YW4taXhLUnhwaWhlMDlTa2hJZWRDMHVSaVgxOGVmOXRzc0dVUkwzY25sbzluYmhiT2JnNW5EVHktZmk5aEwtaXRxeTltRUl3N0ZUWkc",
+    "related": [
+      [
+        "Iran says it targets US radar in Bahrain. What do we know?",
+        "Al Jazeera"
+      ],
+      [
+        "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+        "The Guardian"
+      ],
+      [
+        "Iran war live: Bahrain targeted as Gulf nations warned against US support",
+        "Al Jazeera"
+      ],
+      [
+        "Live - Bahrain urges UN action over Iran’s attacks as Tehran vows to keep responding",
+        "Iran International"
+      ],
+      [
+        "Iran targets US military site in Gulf for first time in two months as hopes for a deal fade",
+        "CNN"
+      ]
+    ],
+    "event_key": "iran_strikes_us_base_radar_bahrain_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, [[바레인 미군기지]]\n레이더 시설 공습",
+      "sub": "걸프 지역 내 미군 시설을 2개월 만에 타격했습니다",
+      "chips": [
+        {
+          "k": "공격 대상",
+          "v": "미군 레이더"
+        }
+      ],
+      "alt": "이란, 바레인 미군기지 레이더 시설 공습",
+      "map": {
+        "lat": 26.1551249,
+        "lon": 50.5344606,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "바레인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "바레인",
+      "video_only": true,
+      "map": {
+        "lat": 26.1551249,
+        "lon": 50.5344606,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바레인"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "2개월 만의 타격",
+          "d": "이란이 걸프 지역 내 미군 시설을 공격한 것은 두 달 만이라고 CNN이 전했습니다."
+        },
+        {
+          "t": "유엔 대응 촉구",
+          "d": "바레인 정부는 이란의 공격에 대응해 유엔 차원의 조치를 촉구했다고 이란인터내셔널이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란의 바레인 미군 레이더 타격 발표",
+        "바레인 정부의 유엔 조치 촉구"
+      ],
+      "unconfirmed": [
+        "미군 기지 내 정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNN",
+        "Iran International",
+        "The Guardian",
+        "2026.11.15 20:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란, 바레인 내 미군 레이더 기지 공습\n\n· 이란이 걸프 지역 미군 시설을 타격한 것은 두 달 만입니다 (CNN)\n· 바레인 측은 이란의 공격에 맞서 유엔의 대응 조치를 촉구했습니다 (이란인터내셔널)\n· 걸프 국가들을 향해 미군 지원을 중단하라는 경고도 이어졌습니다 (알자지라)\n\n격화하는 중동 정세 속 이번 사태의 영향을 어떻게 보십니까?\n출처: CNN·가디언·알자지라·이란인터내셔널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 바레인에 있는 미군 레이더 기지를 공격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "걸프 지역 미군 시설이 타격받은 것은 두 달 만이라고 CNN은 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "바레인은 유엔 차원의 대응 조치를 촉구했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "시설 피해 규모와 사상자 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "격화되는 중동 분쟁, 앞으로 어떻게 전개될까요?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[미군 레이더]]\n이란이 타격했다",
+  "broll": [
+    "military radar",
+    "airbase runway"
+  ],
+  "place_en": "Bahrain"
+}

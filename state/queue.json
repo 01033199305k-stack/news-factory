@@ -42,7 +42,51 @@
       }
     },
     "attempts": {
-      "instagram": 1
+      "instagram": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-15-news-iran-strikes-us-base-radar-bahrain-2026",
+    "event_ms": 1794736162000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이란, 바레인 내 미군 레이더 기지 공습\n\n· 이란이 걸프 지역 미군 시설을 타격한 것은 두 달 만입니다 (CNN)\n· 바레인 측은 이란의 공격에 맞서 유엔의 대응 조치를 촉구했습니다 (이란인터내셔널)\n· 걸프 국가들을 향해 미군 지원을 중단하라는 경고도 이어졌습니다 (알자지라)\n\n격화하는 중동 정세 속 이번 사태의 영향을 어떻게 보십니까?\n출처: CNN·가디언·알자지라·이란인터내셔널 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "바레인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17923923552452291",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfwpG6Zm9s0",
+        "kind": "carousel",
+        "at": 1794741051
+      },
+      "youtube": {
+        "id": "6dWUD8d04Vw",
+        "permalink": "https://youtube.com/shorts/6dWUD8d04Vw",
+        "kind": "shorts",
+        "at": 1794741225
+      }
+    },
+    "attempts": {
+      "instagram": 1,
+      "tiktok": 1
     },
     "video": "video.mp4"
   }
