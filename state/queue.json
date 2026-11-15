@@ -33,10 +33,16 @@
       "youtube": {
         "skipped": "유튜브는 한국·주요국 관련 소식만",
         "at": 1794719727
+      },
+      "tiktok": {
+        "id": "7708275980325948678",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708275980325948678",
+        "kind": "video",
+        "at": 1794723053
       }
     },
     "attempts": {
-      "instagram": 1,
+      "instagram": 2,
       "tiktok": 1
     },
     "video": "video.mp4"
