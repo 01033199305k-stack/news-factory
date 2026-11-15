@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-15-news-us-miami-airport-planes-collision-2026",
+  "topic": "마이애미 공항서 여객기·화물기 충돌",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.15 18:38 KST",
+  "source": "ABC News·CNN·NDTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi1gFBVV95cUxOcEp4T2RielRDcGt6ZHZ0SC1EdzlFUmxjckJ6U2JVUW54ZG9tSzhaaVpMclVWM2lONk5jWTVTeDFVY21Nb3ZKWWRURDZRVWxIbno3anpsdjR0VzBrNlRETWs5dklNVWstd1VxQXFGZmUzcmNqMUcyeHpyOTN3WTg2YllRaHM0VWhMOFhzMHNHNW1CakozTkVIZ2RKMDRJZmpjRVdNQlB5Vy1ZT3BUVDE3RjE1Y3BWM2VqM09aTFQtRzFhZlRuZnctOUY5SDh6WjdaNWVsZUln",
+    "related": [
+      [
+        "'Somebody hit us': Audio captures moment jets collided at Miami airport",
+        "The Times of India"
+      ],
+      [
+        "\"Somebody Hit Us\": Pilot's Chilling Audio After Miami Airport Collision",
+        "NDTV"
+      ],
+      [
+        "Planes collide at Miami runway crossing a day after national grounding",
+        "CNN"
+      ],
+      [
+        "UPS plane, Copa Airlines flight collide on taxiway at Miami International Airport",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "UPS cargo plane collides with passenger jet at Miami International Airport",
+        "Gulf Coast News and Weather"
+      ]
+    ],
+    "event_key": "us_miami_airport_planes_collision_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[마이애미 공항서]]\n여객기·화물기 충돌",
+      "sub": "유도로 지나다 부딪혀… 조종사 음성 공개",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "마이애미공항"
+        },
+        {
+          "k": "사고",
+          "v": "항공기 충돌"
+        }
+      ],
+      "alt": "마이애미 공항서 여객기·화물기 충돌",
+      "map": {
+        "lat": 25.7949789,
+        "lon": -80.2867234,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n마이애미",
+      "video_only": true,
+      "map": {
+        "lat": 25.7949789,
+        "lon": -80.2867234,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마이애미"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유도로에서 충돌",
+          "d": "UPS 화물기와 코파항공 여객기가 마이애미 국제공항 유도로에서 충돌했습니다 (ABC 뉴스)."
+        },
+        {
+          "t": "조종사 교신 공개",
+          "d": "조종사가 누군가 우리를 쳤다고 말한 음성이 녹음돼 전해졌습니다 (NDTV·타임스오브인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "마이애미 공항 유도로서 항공기 2대 충돌",
+        "UPS 화물기와 코파항공 여객기 간 충돌"
+      ],
+      "unconfirmed": [
+        "인명 피해 여부",
+        "한국인 탑승 여부",
+        "정확한 사고 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "CNN",
+        "Gulf Coast News and Weather",
+        "NDTV",
+        "The Times of India",
+        "2026.11.15 20:19 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 마이애미 공항에서 여객기와 화물기가 충돌했습니다.\n\n· UPS 화물기와 코파항공 여객기가 공항 유도로에서 부딪혔습니다 (ABC 뉴스).\n· 조종사가 누군가 우리를 들이받았다고 알리는 교신 음성이 공개됐습니다 (NDTV).\n· 이번 충돌로 인한 정확한 인명 피해 여부는 아직 확인되지 않았습니다.\n\n출처: CNN·ABC 뉴스·NDTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 마이애미 공항에서 항공기 두 대가 충돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 마이애미 국제공항 유도로에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "ABC 뉴스 등은 UPS 화물기와 코파항공 여객기가 부딪혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인명 피해와 한국인 탑승 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "공항 유도로서\n[[비행기 충돌]]",
+  "broll": [
+    "airport runway night",
+    "airplane taxiway tarmac"
+  ],
+  "place_en": "Miami International Airport, Florida, USA"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "brazil_lula_win_2026",
-    "topic": "브라질 대선 결선 투표서 룰라 대통령 당선",
-    "slug": "2026-10-26-news-brazil-lula-win-2026",
-    "cluster": "CBMi2gFBVV95cUxPNDlpazRMRkZENmJfM2hDMzdNWmhXb3NFaXlPRUJQbnFOc0pFaXJQT1EtOGo4TWE3R0dRVUhEYTByUDI0SWdTSVR4dlBBeUk3WW9RbTB1eUt1aDZfczd6akh5bTVqNWZmY2xIZnNuWHJkNGNyc18xSzduRUFidWpNeFl1ek1oOHUwRVd3UzlCYlNyd3k0V0pnWml3TjFwNENQNHFJN2FINnN3V0VjVi1uZTVMcDd4a0JIYkdpbFN0d05icF96TmRJZGw0Q3U3ZXhWNVVPT0ZpZzhMUQ",
-    "badge": "brief",
-    "at": 1792977664.9974246,
-    "country": "브라질",
-    "category": "국제"
-  },
-  {
     "event_key": "venezuela_machado_return_from_exile",
     "topic": "베네수엘라 야권 지도자 마리아 마차도 망명 생활 마치고 귀국",
     "slug": "2026-10-26-news-venezuela-machado-return-from-exile",
@@ -2998,5 +2988,15 @@
     "at": 1794740998.931996,
     "country": "바레인",
     "category": "국제"
+  },
+  {
+    "event_key": "us_miami_airport_planes_collision_2026",
+    "topic": "마이애미 공항서 여객기·화물기 충돌",
+    "slug": "2026-11-15-news-us-miami-airport-planes-collision-2026",
+    "cluster": "CBMi1gFBVV95cUxOcEp4T2RielRDcGt6ZHZ0SC1EdzlFUmxjckJ6U2JVUW54ZG9tSzhaaVpMclVWM2lONk5jWTVTeDFVY21Nb3ZKWWRURDZRVWxIbno3anpsdjR0VzBrNlRETWs5dklNVWstd1VxQXFGZmUzcmNqMUcyeHpyOTN3WTg2YllRaHM0VWhMOFhzMHNHNW1CakozTkVIZ2RKMDRJZmpjRVdNQlB5Vy1ZT3BUVDE3RjE1Y3BWM2VqM09aTFQtRzFhZlRuZnctOUY5SDh6WjdaNWVsZUln",
+    "badge": "breaking",
+    "at": 1794741597.7880445,
+    "country": "미국",
+    "category": "사고"
   }
 ]
