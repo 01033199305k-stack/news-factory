@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-16-news-mexico-drug-lord-miguel-angel-felix-gallardo-death-2026",
+  "topic": "멕시코 악명 높은 마약왕 펠릭스 가야르도 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 12:21 KST",
+  "source": "Al Jazeera·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE81QkZ0UF9vbnQza2tuekZSN1k2OTNfd2ZzNkZlMnpMeE9tSmw0WnFER1ZON0s3QlZ0NkhtdnpOSzZHcFBGRjNRd01rWGczWk9WWDBOVWx3cFBpVlU",
+    "related": [
+      [
+        "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+        "BBC"
+      ],
+      [
+        "Notorious Mexican drug lord, who was convicted of killing US DEA agent, dies at 80",
+        "CNN"
+      ],
+      [
+        "Founder of Guadalajara cartel dies in hospital after decades in prison",
+        "Al Jazeera"
+      ],
+      [
+        "Mexico's cartel 'godfather' convicted in American DEA agent's murder dies at age 80",
+        "Fox News"
+      ],
+      [
+        "Powerful ’80s Mexican Drug Lord Dies as a Prisoner",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "mexico_drug_lord_miguel_angel_felix_gallardo_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "멕시코 악명 높은 마약왕\n[[펠릭스 가야르도]] 사망",
+      "sub": "미국 DEA 요원 살해 혐의 등으로 복역 중 병원서 숨져",
+      "chips": [
+        {
+          "k": "나이",
+          "v": "80세"
+        }
+      ],
+      "alt": "멕시코 악명 높은 마약왕 펠릭스 가야르도 사망",
+      "map": {
+        "lat": 19.3207722,
+        "lon": -99.1514677,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "멕시코"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "멕시코\n멕시코시티",
+      "video_only": true,
+      "map": {
+        "lat": 19.3207722,
+        "lon": -99.1514677,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "멕시코시티"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "과달라하라 카르텔",
+          "d": "BBC와 CNN 등은 멕시코 과달라하라 카르텔의 설립자라고 보도했습니다."
+        },
+        {
+          "t": "DEA 요원 살해",
+          "d": "뉴욕타임스는 미국 DEA 요원을 살해한 혐의로 유죄를 선고받았다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "멕시코 마약왕 사망",
+        "향년 80세",
+        "병원에서 사망"
+      ],
+      "unconfirmed": [
+        "정확한 사인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "Fox News",
+        "The New York Times",
+        "2026.11.16 16:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 멕시코의 악명 높은 마약왕 펠릭스 가야르도가 사망했습니다\n\n· 향년 80세의 나이로 병원에서 숨졌다고 BBC와 CNN 등이 보도했습니다\n· 미국 DEA 요원 살해 혐의 등으로 수십 년간 교도소에서 복역 중이었습니다\n· 과달라하라 카르텔의 설립자로 알려졌습니다\n\n출처: BBC·CNN·알자지라·폭스뉴스·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "멕시코의 악명 높은 마약왕 펠릭스 가야르도가 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 주요 외신은 향년 80세의 나이로 병원에서 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "고인은 미국 마약단속국 요원 살해 혐의 등으로 수십 년간 복역 중이었습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망 원인은 아직 공식적으로 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "멕시코 마약왕\n[[펠릭스 가야르도]] 사망",
+  "broll": [
+    "hospital building exterior",
+    "mexico city street"
+  ],
+  "place_en": "Mexico City, Mexico"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "okinawa-us-marine-indictment-2026",
-    "topic": "일본 검찰, 오키나와 여성 강도 살해 혐의 미 해병대원 기소",
-    "slug": "2026-10-26-news-okinawa-us-marine-indictment-2026",
-    "cluster": "CBMimwFBVV95cUxQVjgzblpxdF9CdndIRXNyVFdfUlNBeENZVjBPemk4ZWN3QWRSU2dqc3Z5X0x1V2xzSkRuT05nUkg4VE1ScVZOZWliSmxCZFdzQ2hkZEk5Yzk4WXp1WlZNU3NQVVQxZktOWmgwa0tiQ05TTXpWcThlQ3F6dHE1SjZxb1VCSmVTN1Z1OVZpOVJDYXJSZHlvd1dMUmtHQQ",
-    "badge": "breaking",
-    "at": 1793020233.822026,
-    "country": "일본",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "us_evacuates_mideast_iran_threat_2026",
     "topic": "미국, 이란 위협에 중동 기지·대사관 철수",
     "slug": "2026-10-26-news-us-evacuates-mideast-iran-threat-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794805903.0589333,
     "country": "태국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "mexico_drug_lord_miguel_angel_felix_gallardo_death_2026",
+    "topic": "멕시코 악명 높은 마약왕 펠릭스 가야르도 사망",
+    "slug": "2026-11-16-news-mexico-drug-lord-miguel-angel-felix-gallardo-death-2026",
+    "cluster": "CBMiW0FVX3lxTE81QkZ0UF9vbnQza2tuekZSN1k2OTNfd2ZzNkZlMnpMeE9tSmw0WnFER1ZON0s3QlZ0NkhtdnpOSzZHcFBGRjNRd01rWGczWk9WWDBOVWx3cFBpVlU",
+    "badge": "brief",
+    "at": 1794812940.6021152,
+    "country": "멕시코",
+    "category": "국제"
   }
 ]

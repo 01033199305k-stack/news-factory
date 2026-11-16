@@ -42495,5 +42495,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794806332
+  },
+  {
+    "slug": "2026-11-16-news-mexico-drug-lord-miguel-angel-felix-gallardo-death-2026",
+    "event_ms": 1794812940602,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 멕시코의 악명 높은 마약왕 펠릭스 가야르도가 사망했습니다\n\n· 향년 80세의 나이로 병원에서 숨졌다고 BBC와 CNN 등이 보도했습니다\n· 미국 DEA 요원 살해 혐의 등으로 수십 년간 교도소에서 복역 중이었습니다\n· 과달라하라 카르텔의 설립자로 알려졌습니다\n\n출처: BBC·CNN·알자지라·폭스뉴스·뉴욕타임스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "멕시코"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18362601190171934",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfyyUUrlUgI",
+        "kind": "carousel",
+        "at": 1794812987
+      },
+      "instagram": {
+        "id": "17971736253204654",
+        "permalink": "https://www.instagram.com/reel/DfyylmxkxIU/",
+        "kind": "reel",
+        "at": 1794813146
+      },
+      "youtube": {
+        "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
+        "at": 1794813156
+      },
+      "tiktok": {
+        "id": "7708663814689918215",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708663814689918215",
+        "kind": "video",
+        "at": 1794813278
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794813288
   }
 ]
