@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "iran_saudi_diplomacy_tehran_2026",
-    "topic": "이란·사우디, 테헤란서 회담 평화 추구 합의",
-    "slug": "2026-10-27-news-iran-saudi-diplomacy-tehran-2026",
-    "cluster": "CBMitgFBVV95cUxONk1ubVptNEpFS3lXMGZ6TnEwaHN4aVh1c3ZhMkc3T0xoYzBXWHpJYXgyZ20tMmRhQTQ0X1ptZ3RJd2c0bjVuN19kaDRHS1hKdjM5R1dNbjN2Y1ZCRkhpdndVYXlibUFreS13QmN3dC1NcmJSel9aUHdBcEE0QUxUcTlHS2NkdGhwSjFGc0lGT2lIOWY5OW9aX2dNX3RLdTNvWEF3NVI5dGNIa3pnalFiT0hMVEFoZ9IBuwFBVV95cUxOUEFzeTRiSDlJa0pLZXVPUVI3NVRqSjVfSzlxMnJGQWNtMzNTcmdwVTFkR2dTXzB5MXRzLUF2ZEFqcHVyRDE2Z0IwaW94UUVDQTltQjFKbGNJd1RTRjV3UTBXY0NxQmh1aExGWEVaMnJscUZmRkJLTWJoaG1aU2drSDRMcnJYVXBVUVYxbmZ3MFpnYkFjLWp4b2dSMFdpdkphbE90UHFfZHBVUTJyQXVNcFVGV0JRM2REZ18w",
-    "badge": "breaking",
-    "at": 1793038037.4586952,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
-    "event_key": "saudi_houthi_missile_clash_2026",
-    "topic": "사우디 주도 연합군 후티 반군 미사일 시설 타격",
-    "slug": "2026-10-27-news-saudi-houthi-missile-clash-2026",
-    "cluster": "CBMikgFBVV95cUxQQ2ZURmR6T3lKaFZzbDlabVVqcnpoM2FrYnh6YURqOGZlTDlOVFZ0TTFSckF4THV3RUxwcVJySHhmRU9ZdWNycnQ3LVVlY3p5WW1uX1BlSjYtVTN0eGVLZlA5QXFCMGQ0Si1KY3AxZFpRLTdBUE14WmdCLU9xT2tZWnJ0WkpHNDMxd0JwTnFSMnFuUQ",
-    "badge": "breaking",
-    "at": 1793038059.3047721,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "serbia_student_victory_2026",
     "topic": "세르비아 학생 야권 선거 승리 알레크산다르 부치치 정권 몰락",
     "slug": "2026-10-27-news-serbia-student-victory-2026",
@@ -2997,6 +2977,26 @@
     "badge": "brief",
     "at": 1794829269.6654932,
     "country": "중국",
+    "category": "국제"
+  },
+  {
+    "event_key": "south_africa_mass_shootings_17_dead_2026",
+    "topic": "남아공 총격 사건 17명 사망",
+    "slug": "2026-11-16-news-south-africa-mass-shootings-17-dead-2026",
+    "cluster": "CBMipgFBVV95cUxPS0EtSHJEdnhTcDRHTnBZdXJqb2s2TUU5S0k5U2xIQmhGbDhrbVZQcDVSWS1FNDFTVHJsZzBzdUp4em53TzYwcl9HQkRpSnRnRjZlWElvUHY2QmcwX09qakxMU19kNlpScFotanhLLVN5eFFPQzRwaVBLc2p3aTcyVXdsbXlvOG9RdkpBTnlsclc0UzdvMDhkVm1neHRDSkV5anFINGVR",
+    "badge": "breaking",
+    "at": 1794830843.287741,
+    "country": "남아프리카공화국",
+    "category": "총격·테러"
+  },
+  {
+    "event_key": "eu_five_countries_migrants_rwanda_deportation_2026",
+    "topic": "EU 5개국 불법이주민 르완다 송환 발표 예정",
+    "slug": "2026-11-16-news-eu-five-countries-migrants-rwanda-deportation-2026",
+    "cluster": "CBMiqgFBVV95cUxOZlpFRnFzX2VubEFwdW96TFZIRmpMaFc4WkFvVkN3RW5LQnVURnREWWdxUnBkZmtyNGVNeFBwdi1xZHhvWTV1NEM1b2gyd3A3STVsZFR1ZTNnbWcwSWphbTlxVTZ5NUxiQTB0X0RVOS1qdlFPTWRFb0xnQ280NUNhQVlHa01mTTBhR0paUWk0UmlPS2Fwekw2X3ZRNHJYbWIyMEJWU3l0T0NKdw",
+    "badge": "breaking",
+    "at": 1794830863.5078015,
+    "country": "벨기에",
     "category": "국제"
   }
 ]

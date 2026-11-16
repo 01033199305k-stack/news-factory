@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-16-news-south-africa-mass-shootings-17-dead-2026",
+  "topic": "남아공 총격 사건 17명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 18:54 KST",
+  "source": "BBC·Sky News·News24 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxPS0EtSHJEdnhTcDRHTnBZdXJqb2s2TUU5S0k5U2xIQmhGbDhrbVZQcDVSWS1FNDFTVHJsZzBzdUp4em53TzYwcl9HQkRpSnRnRjZlWElvUHY2QmcwX09qakxMU19kNlpScFotanhLLVN5eFFPQzRwaVBLc2p3aTcyVXdsbXlvOG9RdkpBTnlsclc0UzdvMDhkVm1neHRDSkV5anFINGVR",
+    "related": [
+      [
+        "At least 17 people killed in two separate shootings in South Africa",
+        "Sky News"
+      ],
+      [
+        "South Africa shootings: 17 killed in Pietermaritzburg and Pretoria",
+        "BBC"
+      ],
+      [
+        "Nine people shot dead in Atteridgeville informal settlement",
+        "News24"
+      ],
+      [
+        "Nine people found dead in Pretoria: South African police launches probe",
+        "The News International"
+      ],
+      [
+        "IFP condemns deadly mass shootings in KZN and Gauteng, calls for urgent action against illegal firearms",
+        "Polity.org.za"
+      ]
+    ],
+    "event_key": "south_africa_mass_shootings_17_dead_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "남아공 총격 사건\n[[17명 사망]]",
+      "sub": "프리토리아 등 2곳에서 잇따라 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "17명"
+        }
+      ],
+      "alt": "남아공 총격 사건 17명 사망",
+      "map": {
+        "lat": -25.7459277,
+        "lon": 28.1879101,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "남아프리카공화국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "남아프리카공화국\n프리토리아",
+      "video_only": true,
+      "map": {
+        "lat": -25.7459277,
+        "lon": 28.1879101,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "프리토리아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "두 곳에서 총격",
+          "d": "피터마리츠버그와 프리토리아에서 각각 총격 사건이 일어났습니다 (BBC)."
+        },
+        {
+          "t": "경찰 수사 착수",
+          "d": "남아공 경찰이 수사에 착수했습니다 (The News International)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "총격으로 17명 사망 (Sky News·BBC)",
+        "피터마리츠버그 및 프리토리아서 발생 (BBC)"
+      ],
+      "unconfirmed": [
+        "범행 동기 및 용의자 신원",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "News24",
+        "Polity.org.za",
+        "Sky News",
+        "The News International",
+        "2026.11.16 21:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 남아프리카공화국에서 총격 사건으로 17명이 숨졌습니다.\n\n· 피터마리츠버그와 프리토리아 등 2곳에서 총격 사건이 각각 발생했습니다 (BBC).\n· 남아공 경찰은 수사에 착수했습니다 (The News International).\n\n출처: Sky News·BBC·News24·The News International 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "남아프리카공화국 2곳에서 총격 사건이 발생해 17명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사건은 피터마리츠버그와 프리토리아에서 각각 일어났다고 BBC 등이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "현지 경찰은 수사에 착수했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 동기와 가해자 신원, 한국인 피해 여부는 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "남아공 총격 사건\n[[무슨 일이?]]",
+  "broll": [
+    "police car night",
+    "police tape sirens"
+  ],
+  "place_en": "Pretoria, South Africa"
+}

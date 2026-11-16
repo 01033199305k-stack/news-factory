@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-16-news-eu-five-countries-migrants-rwanda-deportation-2026",
+  "topic": "EU 5개국 불법이주민 르완다 송환 발표 예정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 18:47 KST",
+  "source": "BBC·Financial Times·The Economist 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxOZlpFRnFzX2VubEFwdW96TFZIRmpMaFc4WkFvVkN3RW5LQnVURnREWWdxUnBkZmtyNGVNeFBwdi1xZHhvWTV1NEM1b2gyd3A3STVsZFR1ZTNnbWcwSWphbTlxVTZ5NUxiQTB0X0RVOS1qdlFPTWRFb0xnQ280NUNhQVlHa01mTTBhR0paUWk0UmlPS2Fwekw2X3ZRNHJYbWIyMEJWU3l0T0NKdw",
+    "related": [
+      [
+        "Failed EU asylum seekers will be deported to Rwanda",
+        "The Telegraph"
+      ],
+      [
+        "Five EU countries expected to announce migrant deportation centre in Rwanda",
+        "BBC"
+      ],
+      [
+        "Five EU countries to announce scheme to deport irregular migrants to Rwanda",
+        "Financial Times"
+      ],
+      [
+        "Europe’s migration deal with Rwanda",
+        "The Economist"
+      ],
+      [
+        "Germany, Austria, Greece, Denmark and the Netherlands set to unveil Rwanda deportation hub after Britain’s £700 million plan collapsed",
+        "Business Insider Africa"
+      ]
+    ],
+    "event_key": "eu_five_countries_migrants_rwanda_deportation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "EU 5개국 불법이주민\n[[르완다 송환]] 발표 예정",
+      "sub": "망명 거부된 이민자 르완다로 보내기로",
+      "chips": [
+        {
+          "k": "참여국",
+          "v": "5개국"
+        }
+      ],
+      "alt": "EU 5개국 불법이주민 르완다 송환 발표 예정",
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "벨기에"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "벨기에\n브뤼셀",
+      "video_only": true,
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브뤼셀"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "5개국 공동 추진",
+          "d": "독일, 오스트리아, 그리스, 덴마크, 네덜란드가 공동 계획을 발표할 예정입니다 (Business Insider Africa)."
+        },
+        {
+          "t": "망명 거부자 대상",
+          "d": "EU 내에서 망명 신청이 거부된 이주민을 르완다 송환 센터로 보냅니다 (The Telegraph)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "EU 5개국 르완다 이주민 송환 계획 (FT·Telegraph)",
+        "독일·오스트리아·그리스·덴마크·네덜란드 참여 (Business Insider Africa)"
+      ],
+      "unconfirmed": [
+        "구체적인 시행 시기",
+        "송환 센터 운용 세부 방식"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Business Insider Africa",
+        "Financial Times",
+        "The Economist",
+        "The Telegraph",
+        "2026.11.16 21:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 유럽연합 5개국이 망명 거부 이주민을 르완다로 송환하는 계획을 발표할 예정입니다.\n\n· 독일, 오스트리아, 그리스, 덴마크, 네덜란드가 공동 송환 센터 설립 계획을 발표할 예정입니다 (Business Insider Africa).\n· EU 내에서 망명이 거절된 불법 이주민을 르완다로 보내는 방식입니다 (The Telegraph).\n\n이번 이주민 송환 정책, 어떻게 생각하십니까?\n\n출처: Financial Times·The Telegraph·BBC·Business Insider Africa 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유럽연합 5개국이 망명이 거부된 불법 이주민을 르완다로 송환하는 계획을 발표할 예정입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "비즈니스 인사이드 아프리카는 독일, 오스트리아, 그리스, 덴마크, 네덜란드가 참여한다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "르완다에 공동 송환 센터를 설치해 이주민을 보내는 방식입니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 시행 시기와 세부 운용 방식은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 유럽 국가들의 이주민 송환 정책, 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "유럽 5개국이\n[[르완다]] 선택한 이유",
+  "broll": [
+    "migrants border control",
+    "european parliament brussels"
+  ],
+  "place_en": "Brussels, Belgium"
+}
