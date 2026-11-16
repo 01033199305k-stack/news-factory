@@ -32,12 +32,58 @@
       "youtube": {
         "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
         "at": 1794859932
+      },
+      "instagram": {
+        "failed": "container 18129514759876789: ERROR ERROR",
+        "at": 1794864974
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 2
     },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-17-usgs-us7000tymu",
+    "event_ms": 1794863477168,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 인도네시아 인근 규모 6.6 지진\n\n한국 시각 11월 17일 06시 11분, 인도네시아 Tual에서 서남서쪽 151km. 깊이 35km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us7000tymu",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "인도네시아",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18002972736009287",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df0U-sVEhiL",
+        "kind": "carousel",
+        "at": 1794864717
+      },
+      "instagram": {
+        "id": "18106155875643683",
+        "permalink": "https://www.instagram.com/reel/Df0VgHKDS4z/",
+        "kind": "reel",
+        "at": 1794865009
+      }
+    },
+    "attempts": {},
     "video": "video.mp4"
   }
 ]
