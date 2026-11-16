@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_evacuates_mideast_iran_threat_2026",
-    "topic": "미국, 이란 위협에 중동 기지·대사관 철수",
-    "slug": "2026-10-26-news-us-evacuates-mideast-iran-threat-2026",
-    "cluster": "CBMixAFBVV95cUxPSHhub0JHVm1Ca0QxUlBiM1hjSjkxZE5ZcHU2RERranBCd0l5X1VTNTI0ZWpiRHdhbG96MmEtUGNnTHZiWUZFM2NRSWdMZjlIaDNORWIzMDAxMVJtQW5sSjgtaUZ2Qm93VFliS255SjZBdUpkaWVjMFdVUnkxOEo0Z0p3dUVnTVlzOXNuLS1saGZCb2JqMmgteG9aeFM5NTg4SEJJM0hsYXdNeTRBbkZmRXVOMHpfaHRmQ3RXQ1BmWlVlZDhB",
-    "badge": "brief",
-    "at": 1793024639.9114995,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "egypt_parliament_approves_saudi_military_support_2026",
     "topic": "이집트 의회, 사우디에 군사 지원 공식 승인",
     "slug": "2026-10-26-news-egypt-parliament-approves-saudi-military-support-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1794812940.6021152,
     "country": "멕시코",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_strikes_crimean_bridge_drone_attack_2026",
+    "topic": "우크라, 크림대교 타격 통행 전면 중단",
+    "slug": "2026-11-16-news-ukraine-strikes-crimean-bridge-drone-attack-2026",
+    "cluster": "CBMiS0FVX3lxTFAzMW5uVE5zVUw2RzB4S0N0TVVrSEhEeWJoTlA0M1hUV3dURDFiTTNQUlVORkpUQWZ5RERzVV9vQTFVTWU3ZEVxWlAzbw",
+    "badge": "breaking",
+    "at": 1794823871.503028,
+    "country": "우크라이나",
     "category": "국제"
   }
 ]

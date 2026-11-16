@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-16-news-ukraine-strikes-crimean-bridge-drone-attack-2026",
+  "topic": "우크라, 크림대교 타격 통행 전면 중단",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 16:22 KST",
+  "source": "Bloomberg.com·France 24·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiS0FVX3lxTFAzMW5uVE5zVUw2RzB4S0N0TVVrSEhEeWJoTlA0M1hUV3dURDFiTTNQUlVORkpUQWZ5RERzVV9vQTFVTWU3ZEVxWlAzbw",
+    "related": [
+      [
+        "Crimean Bridge Shut After Ukrainian Strike as Russia Claims 1,336 Drones Downed Overnight",
+        "Kyiv Post"
+      ],
+      [
+        "Ukraine hits key Crimean bridge, curbing traffic, Russian governor says",
+        "Reuters"
+      ],
+      [
+        "Ukraine Hits Crimean Bridge in Record Drone Strike on Russia",
+        "Bloomberg.com"
+      ],
+      [
+        "Live: 600 Ukrainian drones target Moscow, Crimea bridge strike halts traffic",
+        "France 24"
+      ],
+      [
+        "Russian occupiers report strike on Crimean Bridge and set up emergency response headquarters",
+        "Українська правда"
+      ]
+    ],
+    "event_key": "ukraine_strikes_crimean_bridge_drone_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라, [[크림대교]] 타격\n통행 전면 중단",
+      "sub": "러시아 전역 향해 역대 최대 규모 드론 공습",
+      "chips": [
+        {
+          "k": "통행 상태",
+          "v": "전면 중단"
+        }
+      ],
+      "alt": "우크라, 크림대교 타격 통행 전면 중단",
+      "map": {
+        "lat": 45.2786281,
+        "lon": 36.5392518,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n크림반도 크림대교",
+      "video_only": true,
+      "map": {
+        "lat": 45.2786281,
+        "lon": 36.5392518,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "크림반도 크림대교"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "크림대교 통행 중단",
+          "d": "우크라이나군 드론 공습으로 크림대교 통행이 멈추고 비상대책본부가 설치됐습니다 (로이터·우크라인스카 프라우다)."
+        },
+        {
+          "t": "대규모 드론 공격",
+          "d": "우크라이나는 러시아 전역을 향해 대규모 드론 공격을 전개했다고 외신들이 전했습니다 (블룸버그·프랑스24)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나군 크림대교 공습",
+        "크림대교 통행 전면 중단"
+      ],
+      "unconfirmed": [
+        "정확한 교량 파손 정도",
+        "인명 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "France 24",
+        "Kyiv Post",
+        "Reuters",
+        "Українська правда",
+        "2026.11.16 19:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라, 크림대교 드론 공습…통행 전면 중단\n\n· 우크라이나군 드론 공격으로 크림대교 통행 중단 (로이터)\n· 러시아 전역 향해 대규모 드론 공격 전개 (블룸버그)\n· 교량 파손 정도 및 인명 피해 여부는 미확인 (우크라인스카 프라우다)\n\n이번 공습이 향후 정세에 가져올 영향에 대해 어떻게 생각하십니까?\n출처: 로이터·블룸버그·프랑스24·키이우 포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 크림대교를 드론으로 공습해 통행이 전면 중단됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 크림대교 통행이 중단되고 현장에 비상대책본부가 설치됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 파손 정도와 인명 피해는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 공습이 전쟁 양상에 어떤 영향을 줄 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[크림대교]] 멈춰 선\n긴급 상황",
+  "broll": [
+    "bridge traffic night",
+    "smoke horizon"
+  ],
+  "place_en": "Crimean Bridge, Ukraine"
+}
