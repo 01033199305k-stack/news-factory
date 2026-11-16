@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "strait_of_hormuz_tanker_explosions_2026",
-    "topic": "호르무즈 해협서 대형 유조선 폭발",
-    "slug": "2026-10-26-news-strait-of-hormuz-tanker-explosions-2026",
-    "cluster": "CBMidkFVX3lxTE0tNTVnUzVyMmExWFFYaU9rN25jZDZJaFZ3cF9ZeW1jSllXT3ZVeEJxNHNZRUVEU1hWdHpPMGdyczd6SFFRQTJCZFNJX1p1dW42WkIyMWJfN0c3ZERSQ2dzS3QwanlPbmg2Nk95bTdGZmZnV1pVR0E",
-    "badge": "breaking",
-    "at": 1793006018.4223394,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "uae_oil_spill_beach_closures_2026",
     "topic": "아랍에미리트 해역서 유출된 기름 해변 폐쇄 확대",
     "slug": "2026-10-26-news-uae-oil-spill-beach-closures-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794783531.8873868,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_new_orleans_tanker_cruise_ship_crash_2026",
+    "topic": "미국 뉴올리언스서 유조선·크루즈선 충돌",
+    "slug": "2026-11-16-news-us-new-orleans-tanker-cruise-ship-crash-2026",
+    "cluster": "CBMiXkFVX3lxTE5neHluWUNOemlfMi02aF9UVHdycTFzbWVJNmdEMktYcEpCTDJxT0ZGclp6aDFGTkN6Sll5ODhjZkl0YlhYUzVQU1B1S1BpMmpmRGJXZ3N4S21TVlJ3Umc",
+    "badge": "breaking",
+    "at": 1794787846.1016471,
+    "country": "미국",
+    "category": "사고"
   }
 ]

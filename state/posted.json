@@ -42278,5 +42278,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794783876
+  },
+  {
+    "slug": "2026-11-16-news-us-new-orleans-tanker-cruise-ship-crash-2026",
+    "event_ms": 1794783447000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 뉴올리언스서 유조선과 정박 크루즈선이 충돌했습니다.\n\n· 통제력을 잃은 유조선이 강변에 정박 중이던 유람선을 들이받았습니다 (CNN·NYT).\n· 미 교통안전위원회는 충돌에 앞서 유조선 조타 이상이 확인됐다고 밝혔습니다 (BBC).\n· 대규모 대피가 이뤄졌으며 탑승자 전원 소재가 확인됐습니다 (CNN·NYT).\n· 뉴올리언스 항만 당국은 유조선 소유주를 상대로 소송을 제기했습니다 (스카이뉴스).\n\n출처: BBC·CNN·NYT·스카이뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18470602867189769",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfyCdIblKzj",
+        "kind": "carousel",
+        "at": 1794787894
+      },
+      "instagram": {
+        "id": "18176866183459422",
+        "permalink": "https://www.instagram.com/reel/DfyCu7LkT_E/",
+        "kind": "reel",
+        "at": 1794788056
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794788066
+      },
+      "tiktok": {
+        "id": "7708554281514716417",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708554281514716417",
+        "kind": "video",
+        "at": 1794788188
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794788198
   }
 ]

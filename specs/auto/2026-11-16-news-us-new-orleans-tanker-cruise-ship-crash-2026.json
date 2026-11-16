@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-16-news-us-new-orleans-tanker-cruise-ship-crash-2026",
+  "topic": "미국 뉴올리언스서 유조선·크루즈선 충돌",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 07:57 KST",
+  "source": "BBC·CNN·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE5neHluWUNOemlfMi02aF9UVHdycTFzbWVJNmdEMktYcEpCTDJxT0ZGclp6aDFGTkN6Sll5ODhjZkl0YlhYUzVQU1B1S1BpMmpmRGJXZ3N4S21TVlJ3Umc",
+    "related": [
+      [
+        "'Steering casualty' preceded New Orleans cruise ship collision, says NTSB",
+        "BBC"
+      ],
+      [
+        "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
+        "The Guardian"
+      ],
+      [
+        "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
+        "CNN"
+      ],
+      [
+        "All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat",
+        "The New York Times"
+      ],
+      [
+        "New Orleans port officials sue owner of tanker that hit river cruise boat",
+        "Sky News"
+      ]
+    ],
+    "event_key": "us_new_orleans_tanker_cruise_ship_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 뉴올리언스서\n[[유조선·크루즈선]] 충돌",
+      "sub": "조타 이상으로 통제 잃은 유조선이 정박 중인 유람선 들이받아",
+      "chips": [],
+      "alt": "미국 뉴올리언스서 유조선·크루즈선 충돌",
+      "map": {
+        "lat": 29.9574657,
+        "lon": -90.0629493,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n루이지애나주 뉴올리언스",
+      "video_only": true,
+      "map": {
+        "lat": 29.9574657,
+        "lon": -90.0629493,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "루이지애나주 뉴올리언스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "조타 장치 이상",
+          "d": "미 교통안전위원회는 충돌 직전 유조선에 조타 계통 고장이 발생했다고 밝혔습니다 (BBC)."
+        },
+        {
+          "t": "탑승자 긴급 대피",
+          "d": "정박해 있던 유람선에서 대규모 대피가 이뤄졌으며 탑승자 전원 소재가 확인됐습니다 (CNN·NYT)."
+        },
+        {
+          "t": "선박 소유주 제소",
+          "d": "뉴올리언스 항만 당국은 크루즈선을 들이받은 유조선 소유주를 상대로 소송을 제기했습니다 (스카이뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유조선과 정박 크루즈선 충돌",
+        "탑승자 전원 소재 확인 (NYT)",
+        "충돌 전 조타 계통 이상 (NTSB)"
+      ],
+      "unconfirmed": [
+        "한국인 탑승 여부",
+        "선체 정확한 파손 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Sky News",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.16 09:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 뉴올리언스서 유조선과 정박 크루즈선이 충돌했습니다.\n\n· 통제력을 잃은 유조선이 강변에 정박 중이던 유람선을 들이받았습니다 (CNN·NYT).\n· 미 교통안전위원회는 충돌에 앞서 유조선 조타 이상이 확인됐다고 밝혔습니다 (BBC).\n· 대규모 대피가 이뤄졌으며 탑승자 전원 소재가 확인됐습니다 (CNN·NYT).\n· 뉴올리언스 항만 당국은 유조선 소유주를 상대로 소송을 제기했습니다 (스카이뉴스).\n\n출처: BBC·CNN·NYT·스카이뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 뉴올리언스에서 유조선과 크루즈선이 충돌했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 미시시피강변에 정박해 있던 유람선 쪽에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "미 교통안전위원회는 충돌 직전 유조선 조타 장치에 고장이 났다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정박 중이던 배에서 대규모 대피가 진행됐고 탑승자 전원 소재가 확인됐습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "미시시피강서\n[[유조선]] 쾅?",
+  "broll": [
+    "cruise ship dock",
+    "oil tanker river"
+  ],
+  "place_en": "New Orleans, Louisiana, United States"
+}
