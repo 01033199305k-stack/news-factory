@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "uae_oil_spill_beach_closures_2026",
-    "topic": "아랍에미리트 해역서 유출된 기름 해변 폐쇄 확대",
-    "slug": "2026-10-26-news-uae-oil-spill-beach-closures-2026",
-    "cluster": "CBMiygFBVV95cUxQbHhFSkdqM0dlc3lWWVViWVlQMDNlNnRVQkxSUWttcWR5R19wV3dvclAyOGtmNVFZMEI2YVVheGVlLUlJNTB3bzZGeDlqRTEtMGZiRk5ZN0x1dWs4a2VNaElUUW1Yd0lxaFRpTjhtVDdael9uaEpHa2kxTllSWVRHSjVIMUVLQmJSNUlGZDF5S0JEOXJ0Rk5GR1lFN0thcWNqSW15RmVsMUFrOUpGeE9lMm1oNVZVNFdjaVQ2VFJielNUM29rMG1BZUd3",
-    "badge": "breaking",
-    "at": 1793013076.7197542,
-    "country": "아랍에미리트",
-    "category": "사고"
-  },
-  {
     "event_key": "bremerhaven-cruise-container-collision-2026",
     "topic": "독일 북부 항구서 크루즈선 컨테이너선 2척과 충돌",
     "slug": "2026-10-26-news-bremerhaven-cruise-container-collision-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794787846.1016471,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "gyeongbuk_apartment_fires_injuries_evacuation_2026",
+    "topic": "경북 아파트 화재 8명 부상·150명 대피",
+    "slug": "2026-11-16-news-gyeongbuk-apartment-fires-injuries-evacuation-2026",
+    "cluster": "CBMihgFBVV95cUxNbTJrQWxhQ0YwanB2QldGNkxhN2VRUC1KaDZzUzVmNU5jdmNoT2tVNTFtNC1zdUU1YWZTTndpaFpqbWRHNno0dXd0NnM3UkZ5Snp3a000ZURsTDNJeUZGT1U4blpMWUg2NG51TDFNX1FfamVTS2xNYm5fZFVqeExTSkVtb1lHZw",
+    "badge": "breaking",
+    "at": 1794795086.0152636,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]

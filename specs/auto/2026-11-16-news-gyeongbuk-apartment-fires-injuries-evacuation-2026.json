@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-16-news-gyeongbuk-apartment-fires-injuries-evacuation-2026",
+  "topic": "경북 아파트 화재 8명 부상·150명 대피",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 08:44 KST",
+  "source": "YTN·경향신문·뉴시스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxNbTJrQWxhQ0YwanB2QldGNkxhN2VRUC1KaDZzUzVmNU5jdmNoT2tVNTFtNC1zdUU1YWZTTndpaFpqbWRHNno0dXd0NnM3UkZ5Snp3a000ZURsTDNJeUZGT1U4blpMWUg2NG51TDFNX1FfamVTS2xNYm5fZFVqeExTSkVtb1lHZw",
+    "related": [
+      [
+        "밤사이 경북 아파트 화재 잇따라… 8명 다치고, 150여 명 대피",
+        "조선일보"
+      ],
+      [
+        "교통섬 덮친 승용차에 3명 부상...아파트 화재로 7명 병원 이송",
+        "YTN"
+      ],
+      [
+        "포항 아파트 화재로 주민 25명 대피…보조배터리 발화 추정",
+        "뉴시스"
+      ],
+      [
+        "소방관이 “주민 38명 업어서 구조”…밤새 경북 화재 잇따라",
+        "한겨레"
+      ],
+      [
+        "경산·포항서 밤사이 아파트 화재···8명 부상",
+        "경향신문"
+      ]
+    ],
+    "event_key": "gyeongbuk_apartment_fires_injuries_evacuation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "경북 [[아파트 화재]]\n8명 부상·150명 대피",
+      "sub": "포항·경산 등에서 밤사이 연이어 불이 났습니다",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "8명"
+        },
+        {
+          "k": "대피",
+          "v": "150여명"
+        }
+      ],
+      "alt": "경북 아파트 화재 8명 부상·150명 대피",
+      "map": {
+        "lat": 36.5754,
+        "lon": 128.5058,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n경상북도",
+      "video_only": true,
+      "map": {
+        "lat": 36.5754,
+        "lon": 128.5058,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "경상북도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "보조배터리 발화 추정",
+          "d": "포항 아파트 화재는 보조배터리 발화로 추정되며 주민 25명이 대피했습니다 (뉴시스)."
+        },
+        {
+          "t": "소방관 38명 구조",
+          "d": "소방관이 주민 38명을 업어서 구조했습니다 (한겨레)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "경북 아파트 연속 화재",
+        "주민 대피 및 인명 구조"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "상세 재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "YTN",
+        "경향신문",
+        "뉴시스",
+        "조선일보",
+        "한겨레",
+        "2026.11.16 11:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 경북 아파트에서 화재가 잇따라 8명이 다치고 150여 명이 대피했습니다.\n\n· 포항 아파트 화재는 보조배터리 발화로 추정되며 주민 25명이 대피했습니다 (뉴시스)\n· 소방관이 주민 38명을 업어서 구조했습니다 (한겨레)\n· 경산과 포항 등 경북에서 밤사이 아파트 화재가 이어졌습니다 (조선일보·경향신문)\n\n출처: 조선일보·YTN·뉴시스·한겨레·경향신문 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경상북도 지역 아파트에서 불이 잇따라 발생해 8명이 다치고 150여 명이 대피했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "밤사이 경산과 포항 등 경북 지역 아파트에서 화재가 연이어 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "포항에서는 보조배터리 발화로 추정되는 불이 나 주민 25명이 대피했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "소방관이 주민 38명을 업어서 구조하기도 했습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "[[아파트 화재]]로\n밤새 대피",
+  "broll": [
+    "apartment fire night",
+    "fire truck flashing"
+  ],
+  "place_en": "Gyeongsangbuk-do, South Korea"
+}

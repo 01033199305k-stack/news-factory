@@ -42331,5 +42331,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794788198
+  },
+  {
+    "slug": "2026-11-16-news-gyeongbuk-apartment-fires-injuries-evacuation-2026",
+    "event_ms": 1794786240000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 경북 아파트에서 화재가 잇따라 8명이 다치고 150여 명이 대피했습니다.\n\n· 포항 아파트 화재는 보조배터리 발화로 추정되며 주민 25명이 대피했습니다 (뉴시스)\n· 소방관이 주민 38명을 업어서 구조했습니다 (한겨레)\n· 경산과 포항 등 경북에서 밤사이 아파트 화재가 이어졌습니다 (조선일보·경향신문)\n\n출처: 조선일보·YTN·뉴시스·한겨레·경향신문 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18357847132171988",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DfyQQr6GqKM",
+        "kind": "carousel",
+        "at": 1794795143
+      },
+      "instagram": {
+        "id": "17981661360138267",
+        "permalink": "https://www.instagram.com/reel/DfyQkxiDVNn/",
+        "kind": "reel",
+        "at": 1794795313
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1794795323
+      },
+      "tiktok": {
+        "id": "7708587237532880148",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708587237532880148",
+        "kind": "video",
+        "at": 1794795445
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794795455
   }
 ]
