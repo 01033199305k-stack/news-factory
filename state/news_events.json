@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "serbia_student_victory_2026",
-    "topic": "세르비아 학생 야권 선거 승리 알레크산다르 부치치 정권 몰락",
-    "slug": "2026-10-27-news-serbia-student-victory-2026",
-    "cluster": "CBMiwAFBVV95cUxORGg3em1IdVYyMmdVdUtxRm1LUXpwanNXVWhpOHdtZVlIRmlpYTNRYTBDYV9jdXJxejZDYWNIVTlJU0J3bTk3RTRtR1dIM3lRUjhpTkxVa3ZMRnN3N0U2MlRlZFNSV0trNDgzZk5Ed2d0Wm40U1VVRUdUd3ExLTdXN1NvRUN3VXFWVkVQcE9rbk1sUHRZNXJTaXFmY3c4V3VKVDVtQUVMb1ZZMl8yUEpKNkUxZWtRQjFjbXlSdUZGbmo",
-    "badge": "brief",
-    "at": 1793048835.5623193,
-    "country": "세르비아",
-    "category": "국제"
-  },
-  {
     "event_key": "anthropic_ipo_filing",
     "topic": "인공지능 기업 앤스로픽, 사상 최대 규모 기업공개 신청",
     "slug": "2026-10-27-news-anthropic-ipo-filing",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794830863.5078015,
     "country": "벨기에",
+    "category": "국제"
+  },
+  {
+    "event_key": "us_third_aircraft_carrier_arrives_middle_east_2026",
+    "topic": "중동에 미 항공모함 3번째 전단 도착",
+    "slug": "2026-11-16-news-us-third-aircraft-carrier-arrives-middle-east-2026",
+    "cluster": "CBMiswFBVV95cUxQVkVhZGNTampMdFYyTGtDMEFUVDdxSnFIQ2d4Sk5jUFM5TEFNdEZtWC14aU1TOGMzcF9DN2ZYYnJpY3Fid2JuVHVudXZPOFczYUw5bE5zUy16Ny1ycVJWUVFqWUw5U1h0bWtZUlAwQ0g5VTB3b3lpSVphaUpBbzRsMlBBamloVXhsN0tIU0otVUwySWdUSDBxRDZ2bVFzcTJlMVJZX2VlTXRxS0Vta3UyWVdPY9IBuAFBVV95cUxNQVdIVEdjUzJRRndvMFdRT3ZKbWUyOEIyZDZVR09vN3F4dGplNkNoRGNRRlgyVHhpNkJHbVctR0xJS3EyQk9HSWgxaWwwMkpUb2lqSDYzSHNhRklGMjhjcEFRNmhqODNVZ3hkZUxiLWU2MzE1ZHdURlItbkNMb2dNRC1mel91ZDVQME9MSjdsb0hGcmI1R2VTMWhQWVREdzE2UmR6azl2ZWJ6dHdoNEVqandtM0U0alZO",
+    "badge": "breaking",
+    "at": 1794834712.626132,
+    "country": "중동",
     "category": "국제"
   }
 ]

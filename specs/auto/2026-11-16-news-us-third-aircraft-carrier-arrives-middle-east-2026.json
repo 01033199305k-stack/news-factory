@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-16-news-us-third-aircraft-carrier-arrives-middle-east-2026",
+  "topic": "중동에 미 항공모함 3번째 전단 도착",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 19:31 KST",
+  "source": "Al Jazeera·Arab News·Iran International 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiswFBVV95cUxQVkVhZGNTampMdFYyTGtDMEFUVDdxSnFIQ2d4Sk5jUFM5TEFNdEZtWC14aU1TOGMzcF9DN2ZYYnJpY3Fid2JuVHVudXZPOFczYUw5bE5zUy16Ny1ycVJWUVFqWUw5U1h0bWtZUlAwQ0g5VTB3b3lpSVphaUpBbzRsMlBBamloVXhsN0tIU0otVUwySWdUSDBxRDZ2bVFzcTJlMVJZX2VlTXRxS0Vta3UyWVdPY9IBuAFBVV95cUxNQVdIVEdjUzJRRndvMFdRT3ZKbWUyOEIyZDZVR09vN3F4dGplNkNoRGNRRlgyVHhpNkJHbVctR0xJS3EyQk9HSWgxaWwwMkpUb2lqSDYzSHNhRklGMjhjcEFRNmhqODNVZ3hkZUxiLWU2MzE1ZHdURlItbkNMb2dNRC1mel91ZDVQME9MSjdsb0hGcmI1R2VTMWhQWVREdzE2UmR6azl2ZWJ6dHdoNEVqandtM0U0alZO",
+    "related": [
+      [
+        "Third US aircraft carrier arrives in Mideast as Iran rules out nuclear inspections",
+        "The Times of Israel"
+      ],
+      [
+        "Iran war live: US, Israel accused of ‘state terrorism in most blatant form’",
+        "Al Jazeera"
+      ],
+      [
+        "Third US carrier joins Iran blockade, Bessent warns of economic collapse",
+        "Iran International"
+      ],
+      [
+        "Third US aircraft carrier arrives in Middle East: Media",
+        "Khaleej Times"
+      ],
+      [
+        "US sending 3rd aircraft carrier, more troops to Middle East",
+        "Arab News"
+      ]
+    ],
+    "event_key": "us_third_aircraft_carrier_arrives_middle_east_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "중동에 미 [[항공모함]]\n3번째 전단 도착",
+      "sub": "이란 대치 속 미군 전력 추가 전개",
+      "chips": [
+        {
+          "k": "배치 항모",
+          "v": "3척"
+        }
+      ],
+      "alt": "중동에 미 항공모함 3번째 전단 도착",
+      "map": {
+        "lat": 27.2381259,
+        "lon": 51.1972311,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "중동"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중동\n중동 해역",
+      "video_only": true,
+      "map": {
+        "lat": 27.2381259,
+        "lon": 51.1972311,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "중동 해역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "3번째 항모 전개",
+          "d": "미국 해군의 3번째 항공모함 전단이 중동 해역에 도착했습니다 (타임스 오브 이스라엘·칼리즈 타임스)."
+        },
+        {
+          "t": "이란 사찰 거부",
+          "d": "이란 측은 핵 사찰을 거부하겠다고 밝혔습니다 (타임스 오브 이스라엘)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 3번째 항공모함 중동 도착 (Times of Israel·Khaleej Times)"
+      ],
+      "unconfirmed": [
+        "미군 추가 병력 배치 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Arab News",
+        "Iran International",
+        "Khaleej Times",
+        "The Times of Israel",
+        "2026.11.16 22:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 해군의 3번째 항공모함 전단이 중동 해역에 도착했습니다.\n\n· 이란과의 군사적 긴장이 높아진 가운데 미군 전력이 추가 전개됐습니다 (타임스 오브 이스라엘·칼리즈 타임스).\n· 이란 측은 핵 사찰을 거부하겠다고 밝혔습니다 (타임스 오브 이스라엘).\n\n이번 미군 전력 증강이 중동 정세에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 타임스 오브 이스라엘·칼리즈 타임스·아랍 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중동 해역에 미국 해군 항공모함 3번째 전단이 도착했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국이 이란과의 긴장에 대응해 중동 전력을 강화했다고 타임스 오브 이스라엘이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이란 측은 핵 사찰을 거부한다는 입장을 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미군의 추가 병력 배치 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 미군 전력 증강, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미 [[항공모함]]\n중동 집결",
+  "broll": [
+    "aircraft carrier ocean",
+    "military ship sea"
+  ],
+  "place_en": "Persian Gulf"
+}
