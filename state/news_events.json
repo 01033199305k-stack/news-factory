@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "jordan_syria_airstrike_2026",
-    "topic": "요르단군, 시리아 남부 공습 테러조직 은신처 타격",
-    "slug": "2026-10-27-news-jordan-syria-airstrike-2026",
-    "cluster": "CBMiZ0FVX3lxTE9sV1JYcXhNSWdHYkRWY3BoYnFmV3EwVkRvTGhqTHA1Z2ljY1pnZTZlS0lvZF9IOFY5ZWNTUlM2bzFPQU9tamVIcGlqT0FQN2Y1dUpQZnUzUjFraHIyM2lBMF95MVZqT2M",
-    "badge": "brief",
-    "at": 1793061196.7688155,
-    "country": "요르단",
-    "category": "국제"
-  },
-  {
     "event_key": "incheon_geomdan_gas_explosion_2026",
     "topic": "인천 검단 상가건물서 가스 폭발 공사 중 인명피해 발생",
     "slug": "2026-10-27-news-incheon-geomdan-gas-explosion-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794852779.2095857,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "us_ai_chip_remote_access_restrictions_2026",
+    "topic": "미국 정부, 엔비디아 첨단 AI 칩 원격 접속 차단 추진",
+    "slug": "2026-11-17-news-us-ai-chip-remote-access-restrictions-2026",
+    "cluster": "CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn",
+    "badge": "brief",
+    "at": 1794859762.6323287,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

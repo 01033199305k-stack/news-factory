@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-17-news-us-ai-chip-remote-access-restrictions-2026",
+  "topic": "미국 정부, 엔비디아 첨단 AI 칩 원격 접속 차단 추진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 04:33 KST",
+  "source": "Bloomberg.com·CNN·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxQU3diZGZDaW14MTdtajJNSTFnMXF3MWtpODZRZDN3UVVRZXBwQllnQXFRRUFYbTAzQmJkLW1qTDAzZDhyYW54UjdBVjFrZVRzV3JiTVRTdmlybkVtRnZVSWlMTnFvYVp3dkFGeWhUVFdrUE1Na3E0WTVuekRuSm5jN1A2aDBnb1NjYXRhYmJfdjlBQWY1X093Q1hHTDM4ZzNhdlYwNVRn",
+    "related": [
+      [
+        "US Moves to Curb Remote Access to Nvidia’s Advanced AI Chips",
+        "Bloomberg.com"
+      ],
+      [
+        "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+        "The New York Times"
+      ],
+      [
+        "Nvidia fallout: Commerce targets loophole for China's data center use",
+        "CNBC"
+      ],
+      [
+        "How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race",
+        "WSJ"
+      ],
+      [
+        "Trump administration tightens restrictions on flow of AI chips ahead of China trip",
+        "CNN"
+      ]
+    ],
+    "event_key": "us_ai_chip_remote_access_restrictions_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 정부, [[엔비디아]] 첨단 AI 칩 원격 접속 차단 추진",
+      "sub": "중국 방문을 앞두고 추가 통제 조치에 나섰습니다.",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "엔비디아 AI 칩"
+        }
+      ],
+      "alt": "미국 정부, 엔비디아 첨단 AI 칩 원격 접속 차단 추진",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "추가 통제",
+          "d": "미국 정부가 중국의 인공지능 개발 우회 경로를 막기 위해 조치를 강화했습니다 (뉴욕타임스·CNBC)."
+        },
+        {
+          "t": "정상 방문 앞둠",
+          "d": "이번 조치는 중국 방문을 앞두고 발표됐습니다 (뉴욕타임스·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "엔비디아 AI 칩 원격 접속 제한",
+        "중국 우회로 차단 목적"
+      ],
+      "unconfirmed": [
+        "구체적인 시행 시기와 방식",
+        "중국 정부의 공식 대응"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "CNN",
+        "The New York Times",
+        "WSJ",
+        "2026.11.17 05:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 정부가 엔비디아의 첨단 인공지능 칩에 대한 원격 접속을 제한하는 조치를 추진합니다\n\n· 트럼프 행정부가 중국의 데이터센터 우회 이용을 막기 위한 규제 강화에 나섰습니다 (뉴욕타임스·CNBC)\n· 이번 조치는 중국 방문을 앞두고 발표됐습니다 (뉴욕타임스·CNN)\n\n여러분은 미국의 대중국 인공지능 규제 강화 조치, 어떻게 보십니까?\n\n출처: 블룸버그·뉴욕타임스·CNBC·WSJ·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 엔비디아의 첨단 인공지능 칩에 대한 원격 접속 제한을 추진합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 중국의 데이터센터 우회 이용을 막기 위한 조치라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 규제 강화는 중국 방문을 앞두고 나왔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 시행 시기와 방식은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 대중국 인공지능 규제 강화 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "규제 강화, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "미국이 [[엔비디아]] 칩을\n막아선 이유는?",
+  "broll": [
+    "computer server room",
+    "microchip circuit board"
+  ],
+  "place_en": "Washington, USA"
+}
