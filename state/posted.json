@@ -42981,5 +42981,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794867316
+  },
+  {
+    "slug": "2026-11-17-news-iran-hormuz-strait-oil-tankers-mine-collision-2026",
+    "event_ms": 1794861660000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 호르무즈 해협서 유조선 4척 기뢰 충돌 발생\n\n· 이란군, 하루 사이 유조선 4척이 기뢰와 충돌했다고 발표 (연합뉴스TV·연합뉴스)\n· 16일 기뢰에 부딪힌 유조선에서 화재 발생 (뉴시스)\n\n이번 호르무즈 해협 사태가 국제 유가와 중동 정세에 미칠 영향에 대해 어떻게 생각하십니까?\n\n출처: 연합뉴스TV·연합뉴스·뉴시스 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17871808581659237",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df0f9NrFlgy",
+        "kind": "carousel",
+        "at": 1794870471
+      },
+      "instagram": {
+        "id": "18134327527788112",
+        "permalink": "https://www.instagram.com/reel/Df0gQZoiohA/",
+        "kind": "reel",
+        "at": 1794870652
+      },
+      "youtube": {
+        "id": "PrM0sac50Yo",
+        "permalink": "https://youtube.com/shorts/PrM0sac50Yo",
+        "kind": "shorts",
+        "at": 1794870668
+      },
+      "tiktok": {
+        "id": "7708910894293486869",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708910894293486869",
+        "kind": "video",
+        "at": 1794870802
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794870812
   }
 ]
