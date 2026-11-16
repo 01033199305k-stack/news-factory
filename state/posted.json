@@ -42440,5 +42440,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794804379
+  },
+  {
+    "slug": "2026-11-16-news-thailand-phuket-building-fire-2026",
+    "event_ms": 1794800497000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 태국 푸켓 건물서 불… 11명 사망 (NDTV·신화)\n\n· 태국 푸켓의 상가 건물에서 대형 화재가 발생함 (더힌두)\n· 불이 나면서 11명이 숨지고 16명이 다침 (더힌두)\n· 화재 원인과 한국인 피해 여부는 아직 확인되지 않음\n\n출처: NDTV·더힌두·신화통신 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "태국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18362148259222598",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Dfyk4-TlLtk",
+        "kind": "carousel",
+        "at": 1794805955
+      },
+      "instagram": {
+        "id": "18199980118398998",
+        "permalink": "https://www.instagram.com/reel/DfylOCUFXdv/",
+        "kind": "reel",
+        "at": 1794806136
+      },
+      "youtube": {
+        "id": "VK5EAERIckw",
+        "permalink": "https://youtube.com/shorts/VK5EAERIckw",
+        "kind": "shorts",
+        "at": 1794806191
+      },
+      "tiktok": {
+        "id": "7708633943259581716",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7708633943259581716",
+        "kind": "video",
+        "at": 1794806322
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794806332
   }
 ]

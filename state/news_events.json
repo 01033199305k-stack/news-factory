@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bremerhaven-cruise-container-collision-2026",
-    "topic": "독일 북부 항구서 크루즈선 컨테이너선 2척과 충돌",
-    "slug": "2026-10-26-news-bremerhaven-cruise-container-collision-2026",
-    "cluster": "CBMiekFVX3lxTE9EazU5SkZoWEg2QkxCZXlYSXZVVUh1TFpYRWM5NE94MFA5LVNpMWMtR1luUk1wVmdGaEdXSjdOcm5PTUlqd05IS253ZnhVd3pQRUVwUUNZenU1amxScEdLOUxpbHRnRW9KUkxYUFNrZFk4Z200LWFjNHh3",
-    "badge": "breaking",
-    "at": 1793016468.9917321,
-    "country": "독일",
-    "category": "사고"
-  },
-  {
     "event_key": "okinawa-us-marine-indictment-2026",
     "topic": "일본 검찰, 오키나와 여성 강도 살해 혐의 미 해병대원 기소",
     "slug": "2026-10-26-news-okinawa-us-marine-indictment-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794795086.0152636,
     "country": "대한민국",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "thailand_phuket_building_fire_2026",
+    "topic": "태국 푸켓 건물 화재 11명 사망·16명 부상",
+    "slug": "2026-11-16-news-thailand-phuket-building-fire-2026",
+    "cluster": "CBMiuwFBVV95cUxOWHN6dlZPdXpjaF9yR2h1dEg0eGU3S1VUQVlZYUx3N2tJMVZweXFyM29ocG8tdTEzTWFIYzNVYUxfZTJKeV9jWHNKYy05N3ZYQVN4bHFmNVQtbTl5TW1qeUpEblBmR3YwS3U4dVV5QUxwbEJWVnJFZDBYMVdEeVV6Wk1weFhMU3J2RGhXOVhYajBpVncyQ0VVWlFWeHNFdDlLWXo2VFpGSVBNNHItT3gyV0p0SHlRNXVGT2hN",
+    "badge": "breaking",
+    "at": 1794805903.0589333,
+    "country": "태국",
     "category": "폭발·화재"
   }
 ]

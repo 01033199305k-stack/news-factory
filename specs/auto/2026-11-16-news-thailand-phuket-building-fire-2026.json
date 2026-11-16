@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-16-news-thailand-phuket-building-fire-2026",
+  "topic": "태국 푸켓 건물 화재 11명 사망·16명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 12:41 KST",
+  "source": "NDTV·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuwFBVV95cUxOWHN6dlZPdXpjaF9yR2h1dEg0eGU3S1VUQVlZYUx3N2tJMVZweXFyM29ocG8tdTEzTWFIYzNVYUxfZTJKeV9jWHNKYy05N3ZYQVN4bHFmNVQtbTl5TW1qeUpEblBmR3YwS3U4dVV5QUxwbEJWVnJFZDBYMVdEeVV6Wk1weFhMU3J2RGhXOVhYajBpVncyQ0VVWlFWeHNFdDlLWXo2VFpGSVBNNHItT3gyV0p0SHlRNXVGT2hN",
+    "related": [
+      [
+        "11 Dead, Over A Dozen Injured As Fire Rips Through Buildings In Thailand",
+        "NDTV"
+      ],
+      [
+        "Video: Massive blaze rips through resort in Thailand's Phuket; 11 killed",
+        "The Times of India"
+      ],
+      [
+        "11 killed, 16 injured in fire at Phuket shophouse",
+        "The Hindu"
+      ],
+      [
+        "11 killed in southern Thailand building fire - reports",
+        "CGTN"
+      ],
+      [
+        "11 killed in southern Thailand building fire: media",
+        "Xinhua"
+      ]
+    ],
+    "event_key": "thailand_phuket_building_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "태국 푸켓 건물 화재\n[[11명 사망]]·16명 부상",
+      "sub": "휴양지 상가서 대형 불…피해 속출",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "11명"
+        }
+      ],
+      "alt": "태국 푸켓 건물 화재 11명 사망·16명 부상",
+      "map": {
+        "lat": 7.9366015,
+        "lon": 98.3529292,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "태국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "태국\n푸켓",
+      "video_only": true,
+      "map": {
+        "lat": 7.9366015,
+        "lon": 98.3529292,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "푸켓"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "푸켓 상가 화재",
+          "d": "태국 푸켓의 한 상가 건물에서 대형 화재가 발생했습니다 (더힌두)."
+        },
+        {
+          "t": "인명 피해 보도",
+          "d": "이번 불로 최소 11명이 숨지고 16명이 다쳤습니다 (NDTV·더힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "태국 푸켓 상가 화재 발생",
+        "사망 11명 (NDTV·신화)",
+        "부상 16명 (더힌두)"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CGTN",
+        "NDTV",
+        "The Hindu",
+        "The Times of India",
+        "Xinhua",
+        "2026.11.16 14:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 태국 푸켓 건물서 불… 11명 사망 (NDTV·신화)\n\n· 태국 푸켓의 상가 건물에서 대형 화재가 발생함 (더힌두)\n· 불이 나면서 11명이 숨지고 16명이 다침 (더힌두)\n· 화재 원인과 한국인 피해 여부는 아직 확인되지 않음\n\n출처: NDTV·더힌두·신화통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "태국 푸켓의 한 건물에서 불이 나 11명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 휴양지인 푸켓의 상가 건물에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "더힌두 등 외신은 이번 화재로 16명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "화재 원인과 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[푸켓]] 건물서\n불길 솟구쳐",
+  "broll": [
+    "building fire smoke",
+    "fire truck night"
+  ],
+  "place_en": "Phuket, Thailand"
+}
