@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "anthropic_ipo_filing",
-    "topic": "인공지능 기업 앤스로픽, 사상 최대 규모 기업공개 신청",
-    "slug": "2026-10-27-news-anthropic-ipo-filing",
-    "cluster": "CBMikAFBVV95cUxPNlh5REtLQ3ZiYnhaV0ZnZXRhMVkwV282YXN2ODFlQjA4NWx4UHdUWlNwV1lXZnFHcDZ2S2NkMGF3VnVkczNGb1NVQnJNSk5XdEIyTHZRTUlGYlFVSXpadjNTT0VsVjhMUUxqRExWOEdENGM3bl9HUmJ5eEwzT0Jhc2xRNzdfX1RpV3VVcjNxYjM",
-    "badge": "brief",
-    "at": 1793056228.2394953,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "jordan_syria_airstrike_2026",
     "topic": "요르단군, 시리아 남부 공습 테러조직 은신처 타격",
     "slug": "2026-10-27-news-jordan-syria-airstrike-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794834712.626132,
     "country": "중동",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_massive_drone_strike_russia_2026",
+    "topic": "우크라이나, 1336대 드론 공습",
+    "slug": "2026-11-17-news-ukraine-massive-drone-strike-russia-2026",
+    "cluster": "CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU",
+    "badge": "breaking",
+    "at": 1794852779.2095857,
+    "country": "러시아",
     "category": "국제"
   }
 ]

@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-17-news-ukraine-massive-drone-strike-russia-2026",
+  "topic": "우크라이나, 1336대 드론 공습",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 00:32 KST",
+  "source": "ABC News·AP News·UNITED24 Media 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxNUXpCaVl5U1lEam5kVm5CWUVHUURUV19EcDVHMUZ3ckRXVTBBQUVodVJJeWMwNmxTbTlEZC10T0ZkMEZUZ1JaakFtY0szajhqSkh1UmRLRHFCWHFsdlJ6TFFMNk9pMGNaRzFlSzh5dU1iNXZzbUdJWERveEx6NGE3YVdSWndvWVo2eDNDMTRoZnFyb0l3eGQ5Y3dZQUlMbjN6VFBDZUZCQnFhSEU",
+    "related": [
+      [
+        "Russia says its defenses intercepted over 1,300 Ukrainian drones in a major attack",
+        "AP News"
+      ],
+      [
+        "Ukraine fires 1,336 drones into Russia in one of war's largest attacks, Moscow says",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Ukraine’s Strikes Put Russia’s Strategic Bomber Fleet on the Run",
+        "UNITED24 Media"
+      ],
+      [
+        "Russia reports drone attack on Moscow",
+        "Українська правда"
+      ],
+      [
+        "Ukraine launches its biggest airstrike of the war against Russia",
+        "WBUR"
+      ]
+    ],
+    "event_key": "ukraine_massive_drone_strike_russia_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나, [[1336대]] 드론 공습",
+      "sub": "러시아 국방부 \"대공망으로 대부분 요격\"",
+      "chips": [
+        {
+          "k": "드론",
+          "v": "1,336대"
+        },
+        {
+          "k": "요격",
+          "v": "1,300대 이상"
+        }
+      ],
+      "alt": "우크라이나, 1336대 드론 공습",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역대 최대 규모",
+          "d": "우크라이나가 전쟁 발발 이후 최대 규모의 드론 공습을 감행했다고 AP통신 등이 보도했습니다."
+        },
+        {
+          "t": "전략폭격기 타격",
+          "d": "이번 공격으로 러시아 전략폭격기 부대가 타격을 입었다고 우크라이나 매체가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 드론 1,336대 발사 (ABC뉴스)",
+        "러시아 방공망 1,300대 이상 요격 주장 (AP통신)"
+      ],
+      "unconfirmed": [
+        "정확한 기체 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "AP News",
+        "UNITED24 Media",
+        "WBUR",
+        "Українська правда",
+        "2026.11.17 03:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나, 1336대 드론 공습\n\n· 우크라이나가 전쟁 발발 이후 최대 규모의 드론 공습을 감행 (ABC뉴스)\n· 러시아 국방부는 방공망으로 1300대 이상을 요격했다고 주장 (AP통신)\n· 이번 공격으로 러시아 전략폭격기 부대가 타격을 입음 (UNITED24 미디어)\n\n질문: 여러분은 이번 대규모 공습이 향후 전선에 어떤 영향을 미칠 것으로 보십니까?\n출처: AP뉴스·ABC뉴스·UNITED24 미디어 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 1천3백 대가 넘는 드론 공습을 감행했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "ABC 뉴스는 이번 공격이 전쟁 발발 이후 최대 규모라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아 국방부는 방공망으로 1천3백 대 이상을 요격했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 기체 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 대규모 공습이 향후 전선에 어떤 영향을 미칠 것으로 보십니까?",
+      "card": "ask",
+      "screen": "향후 전선 영향은?"
+    }
+  ],
+  "hook": "러시아를 향한\n[[역대급 드론 공습]]",
+  "broll": [
+    "drone sky night",
+    "military radar screen"
+  ],
+  "place_en": "Moscow, Russia"
+}
