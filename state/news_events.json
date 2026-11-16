@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "egypt_parliament_approves_saudi_military_support_2026",
-    "topic": "이집트 의회, 사우디에 군사 지원 공식 승인",
-    "slug": "2026-10-26-news-egypt-parliament-approves-saudi-military-support-2026",
-    "cluster": "CBMixwFBVV95cUxOaFIxVXVVYl90WFZodTB6bHpqOWN3aktZSHNDYTlaM3I5S1FoeU14U1NRVE1mVTJtSDV3ZHk1cHRiWDh6elBNamVIeE5tN2VvRDEyWXBPT1dyNW5KSXFyaE5PVEFOS1NyQW1CNkVVblN6SW1PeVg3aHQxY3B6WmhHU3cxM0gtdTNRLTY1NWo0R284RzQtSmVtTnRxVnR6MTVkNWVsU3djY1d2SURPNmo0N05CUFJZekpIUklNTmRxazZHVTNrbEFN",
-    "badge": "breaking",
-    "at": 1793027521.338546,
-    "country": "이집트",
-    "category": "국제"
-  },
-  {
     "event_key": "iran_saudi_diplomacy_tehran_2026",
     "topic": "이란·사우디, 테헤란서 회담 평화 추구 합의",
     "slug": "2026-10-27-news-iran-saudi-diplomacy-tehran-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794823871.503028,
     "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "china_confirms_xi_trump_putin_historic_summit_2026",
+    "topic": "중국, 미·중·러 3자 정상회담 확인",
+    "slug": "2026-11-16-news-china-confirms-xi-trump-putin-historic-summit-2026",
+    "cluster": "CBMirgFBVV95cUxOTWo0TlNQRVFiYU15cWR4OVU5OWdKdDVqV2FLbkRpNUQtWFdXMEdJOWlCRmVHSWVXQVRuNjdvMU9USzlNNmJHTk81RGRYMFlMQ003X0FiSlJQejJjX3JaVHRDRThCSFRJVWJfT2liVmxoc2psajFHVXI2eHdscmEtU0UwdjRER29zUE92NEpxanNCbk1LVUQ0alhINDMwQ1hnU3luZlpMNkxwRzBQTmc",
+    "badge": "brief",
+    "at": 1794829269.6654932,
+    "country": "중국",
     "category": "국제"
   }
 ]

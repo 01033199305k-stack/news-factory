@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-16-news-china-confirms-xi-trump-putin-historic-summit-2026",
+  "topic": "중국, 미·중·러 3자 정상회담 확인",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.16 20:33 KST",
+  "source": "Bloomberg.com·CNN·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxOTWo0TlNQRVFiYU15cWR4OVU5OWdKdDVqV2FLbkRpNUQtWFdXMEdJOWlCRmVHSWVXQVRuNjdvMU9USzlNNmJHTk81RGRYMFlMQ003X0FiSlJQejJjX3JaVHRDRThCSFRJVWJfT2liVmxoc2psajFHVXI2eHdscmEtU0UwdjRER29zUE92NEpxanNCbk1LVUQ0alhINDMwQ1hnU3luZlpMNkxwRzBQTmc",
+    "related": [
+      [
+        "Midterm losses, Nvidia scandal weaken Trump as he faces Xi and Putin",
+        "The Washington Post"
+      ],
+      [
+        "How Trump is hoping to use an Asia trip to reassert his authority",
+        "CNN"
+      ],
+      [
+        "Xi Sees an Opening With Trump, Putin Hobbled",
+        "Bloomberg.com"
+      ],
+      [
+        "China confirms Xi-Trump-Putin historic summit. What will be on the agenda?",
+        "CNBC"
+      ],
+      [
+        "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "china_confirms_xi_trump_putin_historic_summit_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "중국, 미·중·러\n[[3자 정상회담]] 확인",
+      "sub": "트럼프 아시아 순방 계기 3국 정상 만남 성사 가능성 (CNBC·CNN)",
+      "chips": [],
+      "alt": "중국, 미·중·러 3자 정상회담 확인",
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n베이징",
+      "video_only": true,
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베이징"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "아시아 순방 추진",
+          "d": "트럼프 미국 대통령이 외교 성과를 위해 아시아 순방에 나섭니다 (가디언·CNN)."
+        },
+        {
+          "t": "3자 정상회담 성사",
+          "d": "중국 당국은 시진핑 주석과 트럼프, 푸틴과의 정상회담을 확인했습니다 (CNBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "중국, 미·중·러 정상회담 공식 확인",
+        "트럼프 미국 대통령 아시아 순방 추진"
+      ],
+      "unconfirmed": [
+        "정확한 회담 일정 및 세부 의제"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "CNN",
+        "The Guardian",
+        "The Washington Post",
+        "2026.11.16 20:40 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 중국이 미국·러시아와의 3자 정상회담 개최를 공식 확인했습니다.\n\n· 트럼프 미국 대통령의 아시아 순방에 맞춰 회담이 추진됩니다 (CNBC·CNN)\n· 중국 정부는 시진핑 주석과 트럼프, 푸틴 대통령의 만남을 확인했습니다 (CNBC)\n\n이번 3자 정상회담에서 어떤 합의가 나올 것으로 보십니까?\n\n출처: CNBC·CNN·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국이 미국, 러시아와의 3자 정상회담 개최를 공식 확인했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "트럼프 미국 대통령의 아시아 순방에 맞춰 3국 정상 만남이 추진됩니다.",
+      "card": "map"
+    },
+    {
+      "text": "CNBC는 중국 정부가 정상회담 개최 사실을 인정했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 회담 일정과 세부 의제는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 3자 정상회담, 어떻게 전망하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미·중·러 정상\n[[역사적 만남]] 성사?",
+  "broll": [
+    "press conference room",
+    "diplomatic flags meeting"
+  ],
+  "place_en": "Beijing, China"
+}
