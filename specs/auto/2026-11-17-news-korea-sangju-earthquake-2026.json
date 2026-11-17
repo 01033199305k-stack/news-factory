@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-17-news-korea-sangju-earthquake-2026",
+  "topic": "경북 상주서 규모 3.6 올해 최대 지진 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 23:27 KST",
+  "source": "경인일보·경향신문·국제뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiWkFVX3lxTE45ckNoX1JDTkhJTU9wUkR5QzRvTHBwck80bXItM0JYTWFHY0dXdnlRV1FpeEU3Zm12LTFySjdNcFpETU1McWd2VkVxNnZtMFJ0N2xRS3Q4Q2ZvQdIBX0FVX3lxTE5sVllJRDdFbnJVUXZwdFp0bGEtQmdYNWo2NDVtRUNlckg2MXFIMG5wY3UzbHpLNmNwOVFKbDNfREFNQWYwQkdXTjZHLVpjSDdYbDFRdXhPazhSS1dnT2tF",
+    "related": [
+      [
+        "경북 상주 북서쪽서 규모 3.6 지진···올해 들어 가장 강해",
+        "경향신문"
+      ],
+      [
+        "[속보] 경북 상주시 북서쪽 22km 지역서 규모 3.7 지진 발생",
+        "국제뉴스"
+      ],
+      [
+        "[속보] 경북 상주 올해 최대 규모 3.6 지진…전국 곳곳서 감지",
+        "매일신문"
+      ],
+      [
+        "[속보] 기상청 “경북 상주 북서쪽서 규모 3.6 지진”",
+        "경인일보"
+      ],
+      [
+        "수능 연기 가능성 재부상... 수능 앞두고 규모 3.7 지진 발생",
+        "금강일보"
+      ]
+    ],
+    "event_key": "korea_sangju_earthquake_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "경북 상주서 규모 [[3.6]]\n올해 최대 지진 발생",
+      "sub": "전국 곳곳서 진동 감지…수능 앞두고 불안 확산",
+      "chips": [
+        {
+          "k": "규모",
+          "v": "3.6"
+        }
+      ],
+      "alt": "경북 상주서 규모 3.6 올해 최대 지진 발생",
+      "map": {
+        "lat": 36.4104478,
+        "lon": 128.1590614,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n경북 상주",
+      "video_only": true,
+      "map": {
+        "lat": 36.4104478,
+        "lon": 128.1590614,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "경북 상주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지진 발생",
+          "d": "경북 상주시 북서쪽 22km 지역에서 규모 3.6의 지진이 발생했습니다 (경향신문·매일신문)."
+        },
+        {
+          "t": "영향",
+          "d": "전국 곳곳에서 지진동이 감지되었으며 올해 발생한 지진 중 최대 규모입니다 (경향신문·경인일보)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "경북 상주 지진 발생",
+        "올해 한반도 최대 규모 3.6"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "수능 영향 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "경인일보",
+        "경향신문",
+        "국제뉴스",
+        "금강일보",
+        "매일신문",
+        "2026.11.18 01:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 오늘 경북 상주시 북서쪽 22km 지점에서 규모 3.6의 지진이 발생했습니다. (경향신문·매일신문)\n\n· 이번 지진은 올해 한반도에서 발생한 지진 중 가장 큰 규모입니다 (경향신문·경인일보)\n· 전국 곳곳에서 진동이 감지됐습니다 (매일신문·국제뉴스)\n\n출처: 경향신문·국제뉴스·매일신문·경인일보·금강일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경북 상주시 북서쪽 22km 지역에서 규모 3.6의 지진이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경향신문과 매일신문은 이번 지진이 올해 발생한 지진 중 가장 큰 규모라고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "전국 곳곳에서 진동이 감지된 가운데 현재 정확한 피해 상황은 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "피해 확인 중"
+    }
+  ],
+  "hook": "경북 상주에서\n무슨 일이?",
+  "broll": [
+    "seismograph"
+  ],
+  "place_en": "Sangju, South Korea"
+}
