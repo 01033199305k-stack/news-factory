@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "leeds_street_race_crash_sentencing_2026",
-    "topic": "영국 길거리 자동차 경주로 엄마와 4살 딸 숨지게 한 남성들 징역 28년 선고",
-    "slug": "2026-10-27-news-leeds-street-race-crash-sentencing-2026",
-    "cluster": "CBMi4AFBVV95cUxPM2pvcUpzcy1TejhiT1drMzBNUWlvQkxSZHd5N0xFSFNpMDQydFFQdHlqbUdzWGtjQi1GS2dETU1SZy1vd25PUndlRVBxekgzS1pTUHVXcDd3OXRxcDNaNnVjSjFMZlk0bVJYa3dSYjhTMWlqMmZEMW5MS3lrTkVSY216TG1WbXBVUTRhbGltTldsVjJZdkRwSkZuUVpud2FkN0d2YnpzUENPczJfbWJ6SUYzMHFneXZ1c2hWekphcUVQMXFEYmlmYjQzTFB6S2dxeXdxOE5xSmFWRkkteWxOeA",
-    "badge": "breaking",
-    "at": 1793077819.4899454,
-    "country": "영국",
-    "category": "사고"
-  },
-  {
     "event_key": "bilbao_student_protest_riots_2026",
     "topic": "스페인 빌바오 대학가 폭력 시위 차량 방화·경찰 오토바이 전소",
     "slug": "2026-10-27-news-bilbao-student-protest-riots-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794877789.4502296,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_intel_iran_dirty_bomb_plot_washington_2026",
+    "topic": "미국 정보당국 경고 이란 더티밤 테러 정황",
+    "slug": "2026-11-17-news-us-intel-iran-dirty-bomb-plot-washington-2026",
+    "cluster": "CBMiywFBVV95cUxQVFIxa1RQcGhUd3p3R0Rua0pPYzBUNmJfMFhzZlVfbXE5WFBPWlF1cmpoa2dWSFBRZm5mM1FndWlTY2Vvcy11T0ZDY0hheVA0Wmo4RzJ3al96dXJNbS1wTmRnQVdid29MeHAwUTAwRjQ1UUtjYmdsejdjYUVXR3JGWXdHYzNVdGdOY3lMNFc1N1NrVWtlT2diV09KX29IVEx0OVkyU3VHSFZqNUZjdFBYbWJiN1hLSVE2aDVaMXgzZ05CS2w5NkZaQnY3MA",
+    "badge": "brief",
+    "at": 1794885038.9049692,
+    "country": "미국",
+    "category": "국제"
   }
 ]

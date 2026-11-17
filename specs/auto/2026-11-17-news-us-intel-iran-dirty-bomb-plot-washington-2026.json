@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-17-news-us-intel-iran-dirty-bomb-plot-washington-2026",
+  "topic": "미국 정보당국 경고 이란 더티밤 테러 정황",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 10:17 KST",
+  "source": "CNN·The Times of India·Israel Hayom 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiywFBVV95cUxQVFIxa1RQcGhUd3p3R0Rua0pPYzBUNmJfMFhzZlVfbXE5WFBPWlF1cmpoa2dWSFBRZm5mM1FndWlTY2Vvcy11T0ZDY0hheVA0Wmo4RzJ3al96dXJNbS1wTmRnQVdid29MeHAwUTAwRjQ1UUtjYmdsejdjYUVXR3JGWXdHYzNVdGdOY3lMNFc1N1NrVWtlT2diV09KX29IVEx0OVkyU3VHSFZqNUZjdFBYbWJiN1hLSVE2aDVaMXgzZ05CS2w5NkZaQnY3MA",
+    "related": [
+      [
+        "Iran planning dirty bomb attack in Washington, US intel warns",
+        "The Times of India"
+      ],
+      [
+        "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
+        "CNN"
+      ],
+      [
+        "Israeli intelligence warns of Iranian plot to target Trump, top US officials with drones",
+        "Israel Hayom"
+      ],
+      [
+        "US intel said to indicate Iran is drawing up plans for potential ‘dirty bomb’ attack in DC",
+        "The Times of Israel"
+      ],
+      [
+        "Trump Tells Reporter to ‘Be Careful’ When Asked About Iranian Drone Attack",
+        "People.com"
+      ]
+    ],
+    "event_key": "us_intel_iran_dirty_bomb_plot_washington_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 정보당국 경고\n이란 [[더티밤 테러]] 정황",
+      "sub": "미 수도 워싱턴 D.C.를 겨냥한 방사능 폭탄 공격 계획이 포착됐습니다",
+      "chips": [],
+      "alt": "미국 정보당국 경고 이란 더티밤 테러 정황",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "방사능 폭탄 첩보",
+          "d": "미국 정보기관이 이란 측의 방사능 물질을 섞은 더티밤 테러 계획을 파악했다고 외신들이 전했습니다."
+        },
+        {
+          "t": "고위 인사 겨냥 가능성",
+          "d": "이스라엘 언론은 드론을 이용해 주요 당국자를 겨냥한 공격 시도 가능성도 함께 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 정보당국의 이란 테러 첩보 입수 (CNN)",
+        "워싱턴 D.C. 겨냥 더티밤 공격 정황 (CNN·타임스오브인디아)"
+      ],
+      "unconfirmed": [
+        "공격 계획의 구체적 실행 단계 여부",
+        "미국 정부의 공식 대응 수위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Israel Hayom",
+        "People.com",
+        "The Times of India",
+        "The Times of Israel",
+        "2026.11.17 12:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미 정보당국이 이란의 워싱턴 D.C. 더티밤 테러 정황을 포착했습니다.\n\n· CNN 등은 이란이 방사능 물질을 이용한 폭탄 공격을 계획 중이라는 첩보가 입수됐다고 전했습니다. (CNN·타임스오브인디아)\n· 이스라엘 언론은 드론을 활용해 미 고위 당국자를 노릴 가능성도 함께 보도했습니다. (이스라엘하욤)\n· 공격 계획의 구체적인 실행 단계와 시점은 아직 확인되지 않았습니다.\n\n격화하는 미국과 이란의 안보 갈등, 어떻게 보십니까?\n\n출처: CNN·타임스오브인디아·이스라엘하욤 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정보당국이 이란의 방사능 폭탄 테러 정황을 포착했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공격 표적은 미국 수도 워싱턴 D.C.로 알려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "CNN 등은 이란이 방사능 물질을 섞은 더티밤 공격을 계획한 첩보가 파악됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 공격 실행 여부나 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "격화하는 미국과 이란의 안보 갈등, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 수도 겨냥한\n[[방사능 테러]] 정황",
+  "broll": [
+    "white house washington",
+    "capitol building sunset"
+  ],
+  "place_en": "Washington, D.C., United States"
+}
