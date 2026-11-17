@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-17-news-russia-military-aircraft-enter-kadiz-japan-scramble-2026",
+  "topic": "러 군용기 카디즈 진입 한·일 전투기 긴급 출격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 07:16 KST",
+  "source": "The Independent·DW.com·Daily Express 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihgFBVV95cUxNZjFaRDNvOWxKVnRadWkyMmotNS1MdDdkekRmZDFCanNYb250U3FqZDZtWDVwYVBDd0VsX3I3NGtQZDNLdk1GWUNSaEEtcDVOY2ZBeU5XZ1JmRWo2M2taaW5jNVFkN21oOHNkSWQ2a2h1U2h4TmhWRk9JdWU3WXZKcmJKdVpIZ9IBiwFBVV95cUxOb0pwdzhETGs4c3RSbDJQYUR3M0U5THpTd19PcFdNQ29LNE9HbjctQm1QdHY0ektpbllhQ0JBUDlYRWRCRFVLeHl6UWN5dmJmQzdhOFE4M1JZeUZRZkR0eEh2N3hqQklwQnlTVWRHRDR5amlNSmlSSjB1UVg0elRnTGRLaXNjMG9PS0Vz",
+    "related": [
+      [
+        "South Korea scrambles fighter jets as Russian planes swarm into country - WW3 fears soar",
+        "Daily Express"
+      ],
+      [
+        "Japan scrambles fighters after suspected Russian military planes enter airspace",
+        "The Japan Times"
+      ],
+      [
+        "Japan scrambles jets to counter suspected Russian aircraft",
+        "DW.com"
+      ],
+      [
+        "Japan protests after Russian aircraft breach its airspace",
+        "The Independent"
+      ],
+      [
+        "Several Russian military aircraft enter KADIZ in the East Sea; Air Force fighter jets scramble : Politics : JKN",
+        "재경일보"
+      ]
+    ],
+    "event_key": "russia_military_aircraft_enter_kadiz_japan_scramble_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러 군용기 [[카디즈]] 진입\n한·일 전투기 긴급 출격",
+      "sub": "동해 방공식별구역 진입에 양국 공군 대응",
+      "chips": [
+        {
+          "k": "진입 구역",
+          "v": "동해 KADIZ"
+        },
+        {
+          "k": "대응 조치",
+          "v": "전투기 긴급 출격"
+        }
+      ],
+      "alt": "러 군용기 카디즈 진입 한·일 전투기 긴급 출격",
+      "map": {
+        "lat": 43.0600172,
+        "lon": 137.3353041,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n동해",
+      "video_only": true,
+      "map": {
+        "lat": 43.0600172,
+        "lon": 137.3353041,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "동해"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "러시아 군용기 진입",
+          "d": "러시아 군용기 여러 대가 동해 한국 방공식별구역(KADIZ)에 진입했습니다 (재경일보·데일리 익스프레스)."
+        },
+        {
+          "t": "일본 항공자위대 대응",
+          "d": "일본 항공자위대도 전투기를 긴급 출격시키고 항의했습니다 (재팬 타임스·인디펜던트)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 군용기 KADIZ 진입",
+        "한국 공군 전투기 긴급 출격",
+        "일본 항공자위대 대응 출격"
+      ],
+      "unconfirmed": [
+        "러시아 군용기 정확한 대수",
+        "비행 목적 및 세부 경로"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "DW.com",
+        "Daily Express",
+        "The Independent",
+        "The Japan Times",
+        "재경일보",
+        "2026.11.17 13:38 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아 군용기가 동해 한국 방공식별구역(KADIZ)에 진입해 한·일 전투기가 긴급 출격했습니다.\n\n· 한국 공군이 KADIZ에 진입한 러시아 군용기에 대응해 전투기를 긴급 출격시켰습니다 (재경일보·데일리 익스프레스).\n· 일본 항공자위대도 전투기를 긴급 출격시키고 러시아 측에 항의했습니다 (재팬 타임스·인디펜던트).\n· 정확한 군용기 대수와 세부 비행 경로는 아직 확인되지 않았습니다.\n\n이번 러시아 군용기 진입 사태, 어떻게 보십니까?\n출처: 데일리 익스프레스·재팬 타임스·DW·인디펜던트·재경일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 군용기가 동해 한국 방공식별구역에 진입해 전투기가 긴급 출격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "한국 공군과 일본 항공자위대가 대응 출격했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 군용기 대수와 진입 의도는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "동해 상공에서 벌어진 이번 진입, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "동해 하늘에\n[[러시아 군용기]]?",
+  "broll": [
+    "fighter jet takeoff",
+    "radar screen"
+  ],
+  "place_en": "East Sea"
+}

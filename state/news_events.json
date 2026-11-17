@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bilbao_student_protest_riots_2026",
-    "topic": "스페인 빌바오 대학가 폭력 시위 차량 방화·경찰 오토바이 전소",
-    "slug": "2026-10-27-news-bilbao-student-protest-riots-2026",
-    "cluster": "CBMi6gFBVV95cUxObllEZ3Z6SzZ6ZXA3YkhudDh4a01FdW43UXBiQnk1dlBTUjFsTURibmpwcWVuYVVfc2hDWUhQTE9xNkdSOHU5cnJXWF9zbU53UTRPX3FETlkxV2I4c0Jld3NIMjNCZWNQSGEzb0VZNEJ3WWVJeXhBRjRGelBWYldiWW1KUkxsN29WSjc2U0pYSmRYY3NVQ2ZxQnp2SWNZQkFlbFBQeUNqeHRXMnctUm9EX3lCTVBYeGJFZlU3WUwtb1loR3diSDg2WlJha1FIVlUwVVo0VnpvenJJYXJKaDhnZzl3RjZfbkFDNEE",
-    "badge": "breaking",
-    "at": 1793081897.3709862,
-    "country": "스페인",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "us_nuclear_submarine_australia_aukus_2026",
     "topic": "미국, 오커스 협정에 따라 핵잠수함 호주 배치",
     "slug": "2026-10-27-news-us-nuclear-submarine-australia-aukus-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1794885038.9049692,
     "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "russia_military_aircraft_enter_kadiz_japan_scramble_2026",
+    "topic": "러 군용기 카디즈 진입 한·일 전투기 긴급 출격",
+    "slug": "2026-11-17-news-russia-military-aircraft-enter-kadiz-japan-scramble-2026",
+    "cluster": "CBMihgFBVV95cUxNZjFaRDNvOWxKVnRadWkyMmotNS1MdDdkekRmZDFCanNYb250U3FqZDZtWDVwYVBDd0VsX3I3NGtQZDNLdk1GWUNSaEEtcDVOY2ZBeU5XZ1JmRWo2M2taaW5jNVFkN21oOHNkSWQ2a2h1U2h4TmhWRk9JdWU3WXZKcmJKdVpIZ9IBiwFBVV95cUxOb0pwdzhETGs4c3RSbDJQYUR3M0U5THpTd19PcFdNQ29LNE9HbjctQm1QdHY0ektpbllhQ0JBUDlYRWRCRFVLeHl6UWN5dmJmQzdhOFE4M1JZeUZRZkR0eEh2N3hqQklwQnlTVWRHRDR5amlNSmlSSjB1UVg0elRnTGRLaXNjMG9PS0Vz",
+    "badge": "brief",
+    "at": 1794890309.3086572,
+    "country": "대한민국",
     "category": "국제"
   }
 ]
