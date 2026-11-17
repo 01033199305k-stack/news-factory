@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-17-news-prague-trains-collision-injuries-2026",
+  "topic": "체코 프라하서 열차 정면 충돌 부상자 최소 46명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 20:48 KST",
+  "source": "BBC·The Independent·The Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE9tS0xZc0hzdmhEbUNUZDF6ZXQ3ZTJTQ0FGdmx4bWNyNmhsMUd3c2lPd01vcldDTGp4ZnFBMlc5TXE1TGdGOTAxS3Z5SXJyOXMyVWJYQjN4Yk9hb1lNZHc",
+    "related": [
+      [
+        "Dozens injured after trains collide head-on in Prague",
+        "BBC"
+      ],
+      [
+        "Passenger trains collide in Prague, injuring 46",
+        "The Telegraph"
+      ],
+      [
+        "Dozens injured as two trains collide near Prague’s main railway station",
+        "Expats.cz"
+      ],
+      [
+        "Prague train crash as at least 46 people injured after 2 involved in head on collision",
+        "Daily Star"
+      ],
+      [
+        "Two trains crash near Prague station leaving more than dozen injured in rush hour collision",
+        "The Independent"
+      ]
+    ],
+    "event_key": "prague_trains_collision_injuries_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "체코 프라하서 열차 [[정면 충돌]]\n부상자 최소 46명 발생",
+      "sub": "프라하 주요 철도역 인근서 발생",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "46명"
+        }
+      ],
+      "alt": "체코 프라하서 열차 정면 충돌 부상자 최소 46명 발생",
+      "map": {
+        "lat": 50.0874654,
+        "lon": 14.4212535,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "체코"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "체코\n프라하",
+      "video_only": true,
+      "map": {
+        "lat": 50.0874654,
+        "lon": 14.4212535,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "프라하"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "정면 충돌",
+          "d": "열차 2대가 정면으로 충돌했습니다 (BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "부상 46명 (BBC)"
+      ],
+      "unconfirmed": [
+        "정확한 충돌 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Daily Star",
+        "Expats.cz",
+        "The Independent",
+        "The Telegraph",
+        "2026.11.17 23:38 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 체코 프라하서 열차 정면 충돌… 부상자 최소 46명 발생\n\n· 열차 2대가 정면으로 충돌했습니다 (BBC)\n\n출처: BBC·The Telegraph·Expats.cz·Daily Star·The Independent 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "체코 프라하에서 열차가 정면 충돌해 부상자가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "프라하 주요 철도역 인근에서 사고가 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "BBC는 이번 충돌로 최소 46명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 충돌 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "체코 프라하에서\n일어난 [[열차 사고]]",
+  "broll": [
+    "train station platform",
+    "ambulance night"
+  ],
+  "place_en": "Prague, Czechia"
+}

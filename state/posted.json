@@ -43411,5 +43411,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794925143
+  },
+  {
+    "slug": "2026-11-17-news-prague-trains-collision-injuries-2026",
+    "event_ms": 1794916089000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 체코 프라하서 열차 정면 충돌… 부상자 최소 46명 발생\n\n· 열차 2대가 정면으로 충돌했습니다 (BBC)\n\n출처: BBC·The Telegraph·Expats.cz·Daily Star·The Independent 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "체코"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18129415487484819",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df2KjIDnJpb",
+        "kind": "carousel",
+        "at": 1794926356
+      },
+      "instagram": {
+        "id": "18120335410799354",
+        "permalink": "https://www.instagram.com/reel/Df2K2z6DCFH/",
+        "kind": "reel",
+        "at": 1794926538
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794926548
+      },
+      "tiktok": {
+        "id": "7709150470396185908",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709150470396185908",
+        "kind": "video",
+        "at": 1794926670
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794926680
   }
 ]
