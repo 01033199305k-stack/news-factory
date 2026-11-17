@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-17-news-mongolia-president-resigns-corruption-allegations-2026",
+  "topic": "몽골 대통령 사임 비리 의혹 직면",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 21:42 KST",
+  "source": "AP News·Bloomberg.com·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxQNjZaTl9iN2I4eHBFUWlkWTNmY29qZndVdUdlUXpfbjJhSllpTnNncTFWcGhzdzliRU9aVkxQOVdGcWxqUWd3NjQtMUtEMlg0NU1uVjljc29aRFBHSDU2NXlIWXRyOTk5MnFJcGtKX0ZKdlo3b2FGRTdsU2ZFdjN2NVpTUXRRei14MUFiUGpaNjJFanBBXzRmR3VqS0FXbW1uTU5r",
+    "related": [
+      [
+        "Mongolia’s president says he will step down after facing accusations of corruption",
+        "AP News"
+      ],
+      [
+        "Mongolian president announces resignation over alleged corruption",
+        "Reuters"
+      ],
+      [
+        "Mongolian President Abruptly Resigns After Alleged Misconduct",
+        "Bloomberg.com"
+      ],
+      [
+        "Mongolia’s president resigns over railway corruption allegations",
+        "Financial Times"
+      ],
+      [
+        "Mongolian president announces resignation after mining inquiry calls",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "mongolia_president_resigns_corruption_allegations_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "몽골 대통령 사임\n[[비리 의혹]] 직면",
+      "sub": "광산과 철도 부패 조사 속에 전격 사퇴를 발표했습니다",
+      "chips": [
+        {
+          "k": "사퇴",
+          "v": "몽골 대통령"
+        }
+      ],
+      "alt": "몽골 대통령 사임 비리 의혹 직면",
+      "map": {
+        "lat": 47.9184676,
+        "lon": 106.9177016,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "몽골"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "몽골\n울란바토르",
+      "video_only": true,
+      "map": {
+        "lat": 47.9184676,
+        "lon": 106.9177016,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "울란바토르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사임 배경",
+          "d": "철도 구축 및 광산 사업과 관련된 부패 의혹 조사가 이어지자 사임을 결정했습니다 (FT·Yahoo)."
+        },
+        {
+          "t": "공식 사퇴",
+          "d": "대통령은 부패 혐의에 직면한 가운데 직에서 물러나겠다고 발표했습니다 (로이터·블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "몽골 대통령 사임 발표",
+        "철도 및 광산 부패 의혹 조사"
+      ],
+      "unconfirmed": [
+        "후임 대통령 선출 절차",
+        "향후 사법 처리 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Bloomberg.com",
+        "Financial Times",
+        "Reuters",
+        "Yahoo",
+        "2026.11.17 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 몽골 대통령이 부패 혐의로 전격 사임을 발표했습니다.\n\n· 광산 및 철도 사업 관련 비리 의혹 조사가 이어진 후 사퇴를 결정했습니다 (FT·Yahoo)\n· 대통령은 직위에서 물러나겠다는 의사를 밝혔습니다 (로이터·블룸버그)\n\n몽골 정국의 이번 사임 발표를 어떻게 생각하십니까?\n출처: AP·로이터·블룸버그·FT 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "몽골 대통령이 부패 혐의로 전격 사임을 발표했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "철도와 광산 관련 비리 의혹 조사가 이어진 후 사퇴를 결정했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신 등은 대통령이 직에서 물러나기로 밝혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "후임 선출 일정과 구체적인 조사 향방은 아직 밝혀지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[몽골 대통령]]이\n전격 사임한 이유",
+  "broll": [
+    "parliament building",
+    "mongolia flag"
+  ],
+  "place_en": "Ulaanbaatar, Mongolia"
+}

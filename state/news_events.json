@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "hanover_car_ramming_crowd_2026",
-    "topic": "독일 하노버서 차량 돌진 군중 덮쳐 다수 부상",
-    "slug": "2026-10-27-news-hanover-car-ramming-crowd-2026",
-    "cluster": "CBMizwFBVV95cUxObnpMMW1JUEhFdUpnQk44S3l1NUI2YTZRYVptS0ZoQ2xDb2piQWRfRHdsd01iMmptLXB0UTNub0FkaGdOZzlKTW1kR2pYV1UxVkVwY3c5TUtTOUw3ZDExUjJfa1R0b0ZIZmRfa1hJeTBMbFhTVjVDZXFYRHhIaGhuX3V3MXp2YnZqc0Q5MjQ4bVhTNGxHel9wbFJLRjlaMWlER3RrSzhlQy0zbEFlTXEyc2ltMWkyQWRzM0hGMFc4UWVQVVZfWk5ab2kyMHFwZDDSAdQBQVVfeXFMT21LNG5uYnEyNUUxRFBKS0JRUmsxa25LakFBZ0ZwcGZjdFNyOFplNzA0SG9Bbjk5UlYyLVMzcEg1dU5FeHN2MFp3MUdLWkN4THB2TVN1ZmRIOEJmQzZBd25EakY5eGRFN1VkVHJoSWgxa241LUVRalRvQ2hfcVhDNUxoSGpxSmdPbmhFQUxoSldrRXJYd0dmNlVpUklOVjVzWDRRRi1QUDNaTHNvTzgtTUszNVppMDlCcHFnbHpPaV9qTS1MaUZScHZzMVNUSVBLM09WcVM",
-    "badge": "breaking",
-    "at": 1793092117.530573,
-    "country": "독일",
-    "category": "사고"
-  },
-  {
     "event_key": "uganda_cannibal_serial_killer_arrest_2026",
     "topic": "우간다서 38명 살해 식인 연쇄살인범 체포",
     "slug": "2026-10-27-news-uganda-cannibal-serial-killer-arrest-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1794914102.5516264,
     "country": "필리핀",
+    "category": "국제"
+  },
+  {
+    "event_key": "mongolia_president_resigns_corruption_allegations_2026",
+    "topic": "몽골 대통령 사임 비리 의혹 직면",
+    "slug": "2026-11-17-news-mongolia-president-resigns-corruption-allegations-2026",
+    "cluster": "CBMiowFBVV95cUxQNjZaTl9iN2I4eHBFUWlkWTNmY29qZndVdUdlUXpfbjJhSllpTnNncTFWcGhzdzliRU9aVkxQOVdGcWxqUWd3NjQtMUtEMlg0NU1uVjljc29aRFBHSDU2NXlIWXRyOTk5MnFJcGtKX0ZKdlo3b2FGRTdsU2ZFdjN2NVpTUXRRei14MUFiUGpaNjJFanBBXzRmR3VqS0FXbW1uTU5r",
+    "badge": "breaking",
+    "at": 1794920986.8944256,
+    "country": "몽골",
     "category": "국제"
   }
 ]
