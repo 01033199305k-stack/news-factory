@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia_ukraine_oleshky_ceasefire_2026",
-    "topic": "우크라 올레시키 휴전 발효 다음 달 평화회담 합의",
-    "slug": "2026-10-27-news-russia-ukraine-oleshky-ceasefire-2026",
-    "cluster": "CBMitwFBVV95cUxPRUNVXzhQTkV3bDBvQnd2MnFDY2R5TUxrelhNM3NZTXdQa3RLMmVhMnFRVkJTWW9UX0trdjlNbDRHdHl6VlRxNUJKQklhcU9EaXQydU1uSzFJSVVPaklRWGprUThwUTdoRWZDOWtqX0I5MTBnTlhYdXZBcXJJZWFvTXFUeEU1dVpZQWFHRjFFdlBpbHVvdW9LdTN2alVpWEM3ejlBcHVJU0NUdlNfajItZk9QS01pTXfSAbwBQVVfeXFMTlIyc3FoR0x2Z0xuS0p5UGNHLVIzUWxaZGI1cG8xWTBxUzJPS0RBQ3NORVJ6RDBtWGhTeHhySm4yX01YU0tFcHJjWDA1SGJXTjRYZXlralIzbGVGU3VNZ3FCenBLQUZjR3ZfMFVKdVdsZ0VlaGU0RU9UNEJSUVBzeTJOaWZ6bVhaa2VqWE5FWG5HYlE5azN3a1pic0lDLTJXRC10Q3VyV2Z3WE0xRzhCak4zbmxnbVdJNjZ6Ujg",
-    "badge": "breaking",
-    "at": 1793074337.6590338,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "leeds_street_race_crash_sentencing_2026",
     "topic": "영국 길거리 자동차 경주로 엄마와 4살 딸 숨지게 한 남성들 징역 28년 선고",
     "slug": "2026-10-27-news-leeds-street-race-crash-sentencing-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794870423.47578,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "us_major_banks_online_system_outage_2026",
+    "topic": "미국 주요 은행 전산 장애로 먹통",
+    "slug": "2026-11-17-news-us-major-banks-online-system-outage-2026",
+    "cluster": "CBMiogFBVV95cUxQbE1uWkpadldKMlExOEdaVWtQRm5TREQzUXlEMWNOQnBlanVHblYyV1lnRUlmc2NZMVNFTnMtN0tNVXZyOUJRRzVuYy00R29WYTdxd0hPNzZWVk5JcmxPcGpmampQVEhBRldteFdtRkNocUhFTzlyZEpINTJENmR3aGJoVW1LZFRQRDZkS0x5MTQxdk9PaXFXcF9OQjNEdnpCemc",
+    "badge": "brief",
+    "at": 1794877789.4502296,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

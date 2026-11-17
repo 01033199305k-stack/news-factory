@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-17-news-us-major-banks-online-system-outage-2026",
+  "topic": "미국 주요 은행 전산 장애로 먹통",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 09:37 KST",
+  "source": "CBS News·The New York Times·USA Today 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiogFBVV95cUxQbE1uWkpadldKMlExOEdaVWtQRm5TREQzUXlEMWNOQnBlanVHblYyV1lnRUlmc2NZMVNFTnMtN0tNVXZyOUJRRzVuYy00R29WYTdxd0hPNzZWVk5JcmxPcGpmampQVEhBRldteFdtRkNocUhFTzlyZEpINTJENmR3aGJoVW1LZFRQRDZkS0x5MTQxdk9PaXFXcF9OQjNEdnpCemc",
+    "related": [
+      [
+        "Major banking outage linked to Chase, impacted Wells Fargo and BofA",
+        "USA Today"
+      ],
+      [
+        "Chase Bank Transactions Disrupted by ‘Technical Issue’ Amid Outage Reports",
+        "The New York Times"
+      ],
+      [
+        "Customers at major banks report difficulty accessing accounts online",
+        "KSAT"
+      ],
+      [
+        "Major U.S. banks report widespread service outages",
+        "CBS News"
+      ],
+      [
+        "From banks to flights, outages leave south Floridians frustrated",
+        "WPEC"
+      ]
+    ],
+    "event_key": "us_major_banks_online_system_outage_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 주요 은행\n전산 장애로 [[먹통]]",
+      "sub": "체이스·웰스파고 등 온라인 계좌 접속 차단",
+      "chips": [],
+      "alt": "미국 주요 은행 전산 장애로 먹통",
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n미국 전역",
+      "video_only": true,
+      "map": {
+        "lat": 39.7837304,
+        "lon": -100.445882,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미국 전역"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기술적 오류 발생",
+          "d": "기술적 문제로 거래 차질이 발생했습니다 (NYT)."
+        },
+        {
+          "t": "고객 불편 가중",
+          "d": "온라인 계좌 접속에 차질이 빚어졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 주요 은행 대규모 전산 장애",
+        "체이스 기술적 문제 발생"
+      ],
+      "unconfirmed": [
+        "정확한 장애 발생 원인",
+        "완전 복구 예상 시점",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "KSAT",
+        "The New York Times",
+        "USA Today",
+        "WPEC",
+        "2026.11.17 10:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 주요 은행에서 대규모 전산 장애 발생 (CBS)\n\n· 체이스와 웰스파고 등 주요 은행의 온라인 계좌 접속이 차단됐습니다 (USA투데이·NYT).\n· 체이스와 관련된 기술적 문제로 거래 차질이 빚어졌습니다 (NYT).\n\n금융 전산망 안전 대책, 여러분은 어떻게 생각하십니까?\n\n출처: USA투데이·NYT·CBS뉴스·KSAT·WPEC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 주요 은행들에서 대규모 전산 장애가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "체이스와 웰스파고 등의 온라인 계좌 접속이 차단됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "기술 문제로 거래 차질이 빚어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 장애 원인과 복구 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "금융 시스템 전산 오류 대책, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국 은행들\n[[계좌 접속]] 막힌 이유",
+  "broll": [
+    "bank ATM screen",
+    "computer server outage"
+  ],
+  "place_en": "United States"
+}
