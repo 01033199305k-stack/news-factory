@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "boeing_737_production_target_2026",
-    "topic": "보잉 737 생산 목표 2027년 초로 연기",
-    "slug": "2026-10-27-news-boeing-737-production-target-2026",
-    "cluster": "CBMixwFBVV95cUxPNnZ1c1Q5Q2tSYnRpdnppV25UNEpNekRsVGhpbkdLVk95QjBkenF1Ni0tOFJFYThrcXlnYjhRbUJWMlo2WHlkLUIzNlJ5UUpoN1p3VUh3b1p5TlJlZHBpaENqVmY4RDZPVTFsRHhMZXJKQzhseUM1V2U4TjMySHdvNzZ1VE9MbnI4ajV1dklVemhwWFRrZmtYWF9qYUNjUTFLOVRMaGNVUG0wSDhHcEZMbXNjcWpHWGZqeUEzc3puMGZwd2FvVU93",
-    "badge": "breaking",
-    "at": 1793117314.8718264,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "israel_election_turnout_2026",
     "topic": "이스라엘 총선 투표 역대 최고 수준 투표율",
     "slug": "2026-10-28-news-israel-election-turnout-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794944318.558051,
     "country": "미국",
+    "category": "사고"
+  },
+  {
+    "event_key": "russia_siberia_military_plane_crash_2026",
+    "topic": "러시아 군용 수송기 추락 시베리아서 전원 사망",
+    "slug": "2026-11-18-news-russia-siberia-military-plane-crash-2026",
+    "cluster": "CBMiXkFVX3lxTE1zWkdaV2ljQXB2UjhnMTNvYTJDRkE3cU1hOVJxWE9nd18tN3RrcXdjNnROMm9ZT3poV3h3czFHWHk5bnhFdUM3a2VZNlJCRUZmdHFBdDZGa3NGeXVCTUE",
+    "badge": "breaking",
+    "at": 1794949937.1700754,
+    "country": "러시아",
     "category": "사고"
   }
 ]
