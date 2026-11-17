@@ -28,12 +28,18 @@
         "permalink": "https://youtube.com/shorts/jaixorbfNgs",
         "kind": "shorts",
         "at": 1794939154
+      },
+      "threads": {
+        "id": "18109808933346117",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df2qB_kGSPh",
+        "kind": "carousel",
+        "at": 1794942864
       }
     },
     "attempts": {
       "threads": 1,
-      "instagram": 1,
-      "tiktok": 1
+      "instagram": 2,
+      "tiktok": 2
     },
     "video": "video.mp4"
   }
