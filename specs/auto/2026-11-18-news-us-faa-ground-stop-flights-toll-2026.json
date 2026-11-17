@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-18-news-us-faa-ground-stop-flights-toll-2026",
+  "topic": "미국 FAA 전국 항공기 운항 중단 2만 편 이상 차질 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 01:57 KST",
+  "source": "CNN·Politico·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMibEFVX3lxTE5lOUR5Z2FVYl9wcUNQU1VzNkN4LVk0d3lCMzQ2X1hPaEdFdVl1VkZnVk83cndNcjZzNExYdHJ1cVE1M3JtUVVJUUVaQjNueC1UZk9WbHBpQUhMZG1EeG9iVUEwQTFVVXQ0c0YyYtIBckFVX3lxTFAxcllCeTNjOS1HNXRaU2VOaW90eXdiZjF4S0ZjY3ZCRURfOG00WjhaU192Skk4QjlVM0pMaTl2RkdydjRSZWJQOE9meVhMTzhBNWdBd0JOZHFIYWYxczFmMHV3LWh1cWlBYjN3S1JPcVhYZw",
+    "related": [
+      [
+        "FAA pauses installation of new routers after ground stop",
+        "CNBC"
+      ],
+      [
+        "Opinion | The FAA failed. Naturally, it wants another $50 billion.",
+        "The Washington Post"
+      ],
+      [
+        "Sean Duffy’s attacks on past FAA ground stop resurface",
+        "CNN"
+      ],
+      [
+        "The Mounting Toll of the Nationwide Ground Stop: 20,000 Flights and Counting",
+        "WSJ"
+      ],
+      [
+        "Trump administration's $50B air traffic demand hits GOP turbulence in the Senate",
+        "Politico"
+      ]
+    ],
+    "event_key": "us_faa_ground_stop_flights_toll_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 FAA 전국 항공기 [[운항 중단]]\n[[2만 편]] 이상 차질 발생",
+      "sub": "라우터 교체 작업 중단",
+      "chips": [
+        {
+          "k": "운항 차질",
+          "v": "2만 편 이상"
+        },
+        {
+          "k": "조치",
+          "v": "라우터 설치 중단"
+        }
+      ],
+      "alt": "미국 FAA 전국 항공기 운항 중단 2만 편 이상 차질 발생",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "운항 중단 피해",
+          "d": "전국적인 운항 중단으로 2만 편 이상의 항공편에 차질이 빚어졌습니다 (WSJ)."
+        },
+        {
+          "t": "후속 조치",
+          "d": "미국 연방항공청(FAA)은 신규 라우터 설치 작업을 일시 중단했습니다 (CNBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "2만 편 이상 항공편 차질 (WSJ)",
+        "FAA 라우터 설치 중단 (CNBC)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "CNN",
+        "Politico",
+        "The Washington Post",
+        "WSJ",
+        "2026.11.18 04:38 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 FAA 전국 항공기 운항 중단… 2만 편 이상 차질 발생\n\n· 전국적인 운항 중단으로 2만 편 이상의 항공편에 차질이 빚어졌습니다 (WSJ)\n· 미국 연방항공청(FAA)은 신규 라우터 설치 작업을 일시 중단했습니다 (CNBC)\n\n출처: WSJ·CNBC·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 연방항공청의 전국 항공기 운항이 중단됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "WSJ은 이번 사태로 2만 편 이상의 항공편에 차질이 빚어졌다고 전했습니다.",
+      "card": "points",
+      "screen": "2만 편 이상 차질"
+    },
+    {
+      "text": "FAA는 신규 라우터 설치 작업을 일시 중단했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 전역에서 [[항공기]]\n운항이 멈춘 이유는?",
+  "broll": [
+    "airplane runway night",
+    "airport terminal screen"
+  ],
+  "place_en": "Washington, DC, USA"
+}

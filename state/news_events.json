@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "jordan_syria_airstrikes_2026",
-    "topic": "요르단군, 시리아 공습 단행 IS 무장대원 20명 이상 사망",
-    "slug": "2026-10-27-news-jordan-syria-airstrikes-2026",
-    "cluster": "CBMizwFBVV95cUxPNk5DZjNTRS1VT1FKalFOVFMtNlNnNzJtSHdtUE8xTVJ1WDZ6S3RYZm1lczdsMEZJSm04WUlXU3F2azVQTFN0RHRtY0hGZTN2ZFBHbFBHRVkwWk1qUnNXZFlqNkFteTBvUWhWVFBGMHBJMjNsd3ByWUx3OVF1N2VHTnMtWmpoOEVsNTVHWkF6YjdISU5QdzVvUTVidy1SVVNqWmlMSUp0cGppcnYyeThFVWlFVlNaWTg3cjdEdk1ZalVrQzhTaUxQemFYVzRkc0E",
-    "badge": "brief",
-    "at": 1793113798.540489,
-    "country": "시리아",
-    "category": "국제"
-  },
-  {
     "event_key": "boeing_737_production_target_2026",
     "topic": "보잉 737 생산 목표 2027년 초로 연기",
     "slug": "2026-10-27-news-boeing-737-production-target-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794943411.4594398,
     "country": "이란",
     "category": "국제"
+  },
+  {
+    "event_key": "us_faa_ground_stop_flights_toll_2026",
+    "topic": "미국 FAA 전국 항공기 운항 중단 2만 편 이상 차질 발생",
+    "slug": "2026-11-18-news-us-faa-ground-stop-flights-toll-2026",
+    "cluster": "CBMibEFVX3lxTE5lOUR5Z2FVYl9wcUNQU1VzNkN4LVk0d3lCMzQ2X1hPaEdFdVl1VkZnVk83cndNcjZzNExYdHJ1cVE1M3JtUVVJUUVaQjNueC1UZk9WbHBpQUhMZG1EeG9iVUEwQTFVVXQ0c0YyYtIBckFVX3lxTFAxcllCeTNjOS1HNXRaU2VOaW90eXdiZjF4S0ZjY3ZCRURfOG00WjhaU192Skk4QjlVM0pMaTl2RkdydjRSZWJQOE9meVhMTzhBNWdBd0JOZHFIYWYxczFmMHV3LWh1cWlBYjN3S1JPcVhYZw",
+    "badge": "breaking",
+    "at": 1794944318.558051,
+    "country": "미국",
+    "category": "사고"
   }
 ]

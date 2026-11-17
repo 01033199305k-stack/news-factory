@@ -43681,5 +43681,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794944152
+  },
+  {
+    "slug": "2026-11-18-news-us-faa-ground-stop-flights-toll-2026",
+    "event_ms": 1794934635000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 FAA 전국 항공기 운항 중단… 2만 편 이상 차질 발생\n\n· 전국적인 운항 중단으로 2만 편 이상의 항공편에 차질이 빚어졌습니다 (WSJ)\n· 미국 연방항공청(FAA)은 신규 라우터 설치 작업을 일시 중단했습니다 (CNBC)\n\n출처: WSJ·CNBC·CNN 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18110056820269233",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df2s79gI6V6",
+        "kind": "carousel",
+        "at": 1794944383
+      },
+      "instagram": {
+        "id": "18111467669574307",
+        "permalink": "https://www.instagram.com/reel/Df2tSTkACqk/",
+        "kind": "reel",
+        "at": 1794944580
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794944590
+      },
+      "tiktok": {
+        "id": "7709228341068582164",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709228341068582164",
+        "kind": "video",
+        "at": 1794944714
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794944724
   }
 ]
