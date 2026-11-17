@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-18-news-china-gene-editing-trial-death-2026",
+  "topic": "중국 유전자 편집 임상시험 중 6세 여아 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 01:01 KST",
+  "source": "CBS News·Fierce Biotech·Nature 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilwFBVV95cUxOdEFWdlVNcHgxTmpwZTN6VGhWNUFrbzJPU2tUdWtydmpLampxVS1PTDYwREVPbndyMG4wc1FXQUxxdTRyR1MzX3pSUTh4U3pPUGtNNW5WRUNzZzNQVlFDeEg3SE1zbjdQU21FSFpUX0k0UU5fZzdfYjJzQ2V4aUNtdnBoUldjU1hDM09LenFBenFiLW9UdEhr",
+    "related": [
+      [
+        "6-year-old girl dies in gene-editing trial, leading to scientist's firing, Chinese state media reports",
+        "CBS News"
+      ],
+      [
+        "Chinese scientist sacked after child died in gene-editing trial",
+        "Nature"
+      ],
+      [
+        "Weekend reads: China fires researchers after death during trial; Critics question ‘baffling’ disease data; Retractions of old papers on the rise",
+        "Retraction Watch"
+      ],
+      [
+        "Chinese scientists fired after child dies in gene editing study: report",
+        "Fierce Biotech"
+      ],
+      [
+        "China tightens IIT oversight to safeguard CGT data integrity",
+        "The Pharma Letter"
+      ]
+    ],
+    "event_key": "china_gene_editing_trial_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "중국 [[유전자 편집]] 임상시험 중\n6세 여아 사망",
+      "sub": "담당 과학자 해임 및 당국 감시 강화",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "6세 여아"
+        }
+      ],
+      "alt": "중국 유전자 편집 임상시험 중 6세 여아 사망",
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n베이징",
+      "video_only": true,
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베이징"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "과학자 해임",
+          "d": "중국 매체 등에 따르면 이번 사건으로 담당 과학자가 해임됐습니다 (CBS 뉴스·Nature)."
+        },
+        {
+          "t": "데이터 무결성",
+          "d": "중국 당국은 유전자 치료 데이터의 무결성을 지키기 위해 감독을 강화하고 있습니다 (The Pharma Letter)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "6세 여아 사망",
+        "담당 과학자 해임"
+      ],
+      "unconfirmed": [
+        "정확한 임상시험 위반 내용",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Fierce Biotech",
+        "Nature",
+        "Retraction Watch",
+        "The Pharma Letter",
+        "2026.11.18 03:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 유전자 편집 임상시험 중 6세 여아가 숨졌습니다\n\n· 유전자 편집 임상시험에 참여했던 6세 여아가 숨졌으며, 매체들이 보도했습니다 (CBS 뉴스·Nature)\n· 이번 일로 담당 과학자가 해임됐습니다 (Nature·Fierce Biotech)\n· 중국 당국은 유전자 치료 데이터의 무결성을 보호하기 위해 감독을 강화하고 있습니다 (The Pharma Letter)\n\n출처: CBS 뉴스·Nature·The Pharma Letter 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유전자 편집 임상시험에 참여했던 6세 여아가 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS 뉴스는 이번 일로 담당 과학자가 해임됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "중국 당국은 유전자 치료 데이터의 무결성을 지키기 위해 감독을 강화하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 임상시험 위반 내용 등은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 인간 유전자 편집 연구에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "유전자 편집 연구, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "중국 [[유전자 편집]] 임상시험 중\n무슨 일이?",
+  "broll": [
+    "medical laboratory research",
+    "scientist microscope"
+  ],
+  "place_en": "Beijing, China"
+}

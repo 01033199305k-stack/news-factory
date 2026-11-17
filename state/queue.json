@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "slug": "2026-11-18-news-china-gene-editing-trial-death-2026",
+    "event_ms": 1794931318000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 유전자 편집 임상시험 중 6세 여아가 숨졌습니다\n\n· 유전자 편집 임상시험에 참여했던 6세 여아가 숨졌으며, 매체들이 보도했습니다 (CBS 뉴스·Nature)\n· 이번 일로 담당 과학자가 해임됐습니다 (Nature·Fierce Biotech)\n· 중국 당국은 유전자 치료 데이터의 무결성을 보호하기 위해 감독을 강화하고 있습니다 (The Pharma Letter)\n\n출처: CBS 뉴스·Nature·The Pharma Letter 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "youtube": {
+        "id": "jaixorbfNgs",
+        "permalink": "https://youtube.com/shorts/jaixorbfNgs",
+        "kind": "shorts",
+        "at": 1794939154
+      }
+    },
+    "attempts": {
+      "threads": 1,
+      "instagram": 1,
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

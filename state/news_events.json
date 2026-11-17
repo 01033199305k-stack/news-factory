@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "finland_norway_putin_call_2026",
-    "topic": "핀란드·노르웨이 정상, 푸틴 러시아 대통령과 통화",
-    "slug": "2026-10-27-news-finland-norway-putin-call-2026",
-    "cluster": "CBMiqwFBVV95cUxPQlNDamdfUVV3b0U2WE9GWUFkSTZIYUJrU1FrUmJUTFE5WjNIZ3BWVFZNbG16TllSa3VOaHNXeGEyclZraUhFQ3hvcDUxNnZpUWhmbDRVNEZETmVNR1UxT2Y4eVJQbXRnWjh1dUZ3LUdiZHJZZGJHSlI3SGs1TG90WjNaR0d1YUJJWXBKeEp4YWNQSzY4QUV2QU4zMG00ZEpXMG5QWXo3eG5hbTA",
-    "badge": "brief",
-    "at": 1793106429.4490552,
-    "country": "핀란드",
-    "category": "국제"
-  },
-  {
     "event_key": "congo_ebola_outbreak_nurse_killed",
     "topic": "콩고민주공화국 에볼라 환자 1만 명 넘어서",
     "slug": "2026-10-27-news-congo-ebola-outbreak-nurse-killed",
@@ -2998,5 +2988,15 @@
     "at": 1794931852.8211763,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "china_gene_editing_trial_death_2026",
+    "topic": "중국 유전자 편집 임상시험 중 6세 여아 사망",
+    "slug": "2026-11-18-news-china-gene-editing-trial-death-2026",
+    "cluster": "CBMilwFBVV95cUxOdEFWdlVNcHgxTmpwZTN6VGhWNUFrbzJPU2tUdWtydmpLampxVS1PTDYwREVPbndyMG4wc1FXQUxxdTRyR1MzX3pSUTh4U3pPUGtNNW5WRUNzZzNQVlFDeEg3SE1zbjdQU21FSFpUX0k0UU5fZzdfYjJzQ2V4aUNtdnBoUldjU1hDM09LenFBenFiLW9UdEhr",
+    "badge": "breaking",
+    "at": 1794938958.214098,
+    "country": "중국",
+    "category": "경제·과학"
   }
 ]
