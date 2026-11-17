@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_nuclear_submarine_australia_aukus_2026",
-    "topic": "미국, 오커스 협정에 따라 핵잠수함 호주 배치",
-    "slug": "2026-10-27-news-us-nuclear-submarine-australia-aukus-2026",
-    "cluster": "CBMiigFBVV95cUxQeWx3WHZPaVNxRWlTck5MdEhkRkZqLXBfRjdsbVVONHFWSlBQbE9FYXdlUzdockhrZl8tMFk0cEZJSXFaM3dGZVVNbXdFeHdRY2ZXMTk0Y1BFS2x0U3ZrX1R4bUwzdjRUR0xKM0h2ck1WeVJwVjJrZ2dXYXkwS1lqQ1hVMjdNZTlTeEHSAYoBQVVfeXFMUHlsd1h2T2lTcUVpU3JOTHRIZEZGai1wX0Y3bG1VTjRxVkpQUGxPRWF3ZVM3aHJIa2ZfLTBZNHBGSUlxWjN3RmVVTW13RXh3UWNmVzE5NGNQRUtsdFN2a19UeG1MM3Y0VEdMSjNIdnJNVnlScFYya2dnV2F5MEtZakNYVTI3TWU5U3hB",
-    "badge": "breaking",
-    "at": 1793082514.378216,
-    "country": "호주",
-    "category": "국제"
-  },
-  {
     "event_key": "seoul_guryong_village_fire_2026",
     "topic": "서울 구룡마을 화재 소방 대응 2단계 발령",
     "slug": "2026-10-27-news-seoul-guryong-village-fire-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1794890309.3086572,
     "country": "대한민국",
+    "category": "국제"
+  },
+  {
+    "event_key": "us_loses_measles_elimination_status_2026",
+    "topic": "미국 홍역 청정국 지위 상실 26년 만에 처음 발생",
+    "slug": "2026-11-17-news-us-loses-measles-elimination-status-2026",
+    "cluster": "CBMic0FVX3lxTE85QzBFMU5BNEVzeFNQMVI4Vlo1QklGZmo2YmIzQmJFMVNla2NyU1lLUEtYSnBtSmJYSHpDQ3hmWmNCR2RZZW80VFpkdWZfN3JkN2pYbzg4YmtBQWxtMnF5czRmWF9KcUxNMWYwR09ILTR6clE",
+    "badge": "breaking",
+    "at": 1794907284.382952,
+    "country": "미국",
     "category": "국제"
   }
 ]
