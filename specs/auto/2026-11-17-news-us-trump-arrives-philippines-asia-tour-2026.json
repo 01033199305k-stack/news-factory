@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-17-news-us-trump-arrives-philippines-asia-tour-2026",
+  "topic": "트럼프 마닐라 도착 아시아 순방 일정 시작",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 19:16 KST",
+  "source": "BBC·NBC News·NPR 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiygFBVV95cUxOT2RNWmRCdkl4Z3YzQUduTWxkV3F0ZU9TN2NyeEhaZy1EZ2swMG00Y0pfOUVUeWMxZk5zTzZuTkR4RmZrMkdObEJuWHJ0ZDc5RXhzdmpGY1JIM21fZlJ4Q05QckVQTVBTWk9mSklUSXlmUnFuaDB0cVBjYzF5V2RSc05saGJkZUYtMDU3bzhtU25PZjNhTm1IYjdDYS04eW9FbVFReEdWc0hELXlPVGRrX1YyN2F6TEJ4ZjBSSllueU5LUEVmeEFScjR3",
+    "related": [
+      [
+        "Apec and Asean summits live: protests greet Trump’s arrival in Manila as he starts high-profile Asia visit",
+        "The Guardian"
+      ],
+      [
+        "Trump Won’t Just Be Late to a Southeast Asia Summit. He’ll Be Really Late.",
+        "The New York Times"
+      ],
+      [
+        "Trump arrives in Philippines to kick off Asia trip",
+        "NPR"
+      ],
+      [
+        "Trump about to land in Manila ahead of meeting with India, Japan and Australia leaders - follow live",
+        "BBC"
+      ],
+      [
+        "Live updates: Trump arrives in the Philippines ahead of meeting with Xi and Putin",
+        "NBC News"
+      ]
+    ],
+    "event_key": "us_trump_arrives_philippines_asia_tour_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "트럼프 [[마닐라]] 도착\n아시아 순방 일정 시작",
+      "sub": "인도·일본·호주 및 미·중·러 정상회의 참석 예정",
+      "chips": [],
+      "alt": "트럼프 마닐라 도착 아시아 순방 일정 시작",
+      "map": {
+        "lat": 14.5904492,
+        "lon": 120.9803621,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "필리핀"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "필리핀\n마닐라",
+      "video_only": true,
+      "map": {
+        "lat": 14.5904492,
+        "lon": 120.9803621,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마닐라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "마닐라 도착",
+          "d": "도널드 트럼프 미국 대통령이 필리핀 마닐라에 도착하며 아시아 순방 일정을 시작했습니다 (BBC·NPR)."
+        },
+        {
+          "t": "연쇄 정상회담 예정",
+          "d": "트럼프 대통령은 인도·일본·호주 지도자 및 시진핑, 푸틴과의 회담을 앞두고 마닐라에 도착했습니다 (BBC·NBC·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프 미국 대통령 마닐라 도착",
+        "아시아 순방 일정 시작"
+      ],
+      "unconfirmed": [
+        "양자 회담 세부 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "NBC News",
+        "NPR",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.17 20:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 트럼프 미국 대통령이 필리핀 마닐라에 도착해 아시아 순방 일정을 시작했습니다.\n\n· 인도, 일본, 호주 지도자 및 시진핑, 푸틴과의 회담을 앞두고 있습니다 (BBC·NBC·가디언)\n· 마닐라 도착과 함께 방문을 환영하거나 반대하는 시위가 벌어지고 있습니다 (가디언)\n\n이번 순방과 정상회담 결과에 대해 어떻게 생각하십니까?\n\n출처: 가디언·NYT·NPR·BBC·NBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "도널드 트럼프 미국 대통령이 필리핀 마닐라에 도착하며 아시아 순방 일정을 시작했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC와 NPR은 트럼프 대통령이 순방을 위해 현지에 도착했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "트럼프 대통령은 인도·일본·호주 지도자 및 시진핑, 푸틴과의 만남을 앞두고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 세부 회담 일정은 아직 공식 발표되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 아시아 순방과 정상회담 결과, 어떻게 전망하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "트럼프 마닐라 [[도착]]\n순방 일정 시작",
+  "broll": [
+    "airplane landing runway",
+    "manila city skyline"
+  ],
+  "place_en": "Manila, Philippines"
+}

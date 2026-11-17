@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "seoul_guryong_village_fire_2026",
-    "topic": "서울 구룡마을 화재 소방 대응 2단계 발령",
-    "slug": "2026-10-27-news-seoul-guryong-village-fire-2026",
-    "cluster": "CBMiW0FVX3lxTE4yd2VlY0R6TDFGNkphT1RYUzM4TEFhTXNsZjU0VzJRNUJjc1VkVzhPNEFzcnY2YXlJbWtXSXZUZkFyRFpRSFoxZ1NlYmMyLTdPcEp3QS1VdjdaWDg",
-    "badge": "breaking",
-    "at": 1793088802.5653813,
-    "country": "대한민국",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "hanover_car_ramming_crowd_2026",
     "topic": "독일 하노버서 차량 돌진 군중 덮쳐 다수 부상",
     "slug": "2026-10-27-news-hanover-car-ramming-crowd-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794907284.382952,
     "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "us_trump_arrives_philippines_asia_tour_2026",
+    "topic": "트럼프 마닐라 도착 아시아 순방 일정 시작",
+    "slug": "2026-11-17-news-us-trump-arrives-philippines-asia-tour-2026",
+    "cluster": "CBMiygFBVV95cUxOT2RNWmRCdkl4Z3YzQUduTWxkV3F0ZU9TN2NyeEhaZy1EZ2swMG00Y0pfOUVUeWMxZk5zTzZuTkR4RmZrMkdObEJuWHJ0ZDc5RXhzdmpGY1JIM21fZlJ4Q05QckVQTVBTWk9mSklUSXlmUnFuaDB0cVBjYzF5V2RSc05saGJkZUYtMDU3bzhtU25PZjNhTm1IYjdDYS04eW9FbVFReEdWc0hELXlPVGRrX1YyN2F6TEJ4ZjBSSllueU5LUEVmeEFScjR3",
+    "badge": "brief",
+    "at": 1794914102.5516264,
+    "country": "필리핀",
     "category": "국제"
   }
 ]
