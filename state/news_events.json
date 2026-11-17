@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "congo_ebola_outbreak_nurse_killed",
-    "topic": "콩고민주공화국 에볼라 환자 1만 명 넘어서",
-    "slug": "2026-10-27-news-congo-ebola-outbreak-nurse-killed",
-    "cluster": "CBMi6wFBVV95cUxQdnRYSnA3MHg1WWsxYUEweGZwclQ5eTA3dEM5V3JvT2lzLV9MTGNnM1JMYjJTaDFGMEJ1dDlEckEydmpuQ19SLVp5ck1HOHQ4bjdXV1ptVHR6Q1ZQdXpkdGlMb1k4d0NKV0NsVW14NW5aY0l6WXhvS2FwZXVTQnVscW9EMmEwT0FITFA0YzNMTGV4MDZHbWxydGN3Vk9zVTgzcDVTXzczQzdSUGNvblBieUdVZGc0MWVuQzdLTkdVVnlEYjUzajNBUGh0UFFiRGxfVWM5OG5QMk9jNThvaEx1eTJBeThQaFJnUVZz",
-    "badge": "breaking",
-    "at": 1793108724.7156353,
-    "country": "콩고민주공화국",
-    "category": "재난"
-  },
-  {
     "event_key": "jordan_syria_airstrikes_2026",
     "topic": "요르단군, 시리아 공습 단행 IS 무장대원 20명 이상 사망",
     "slug": "2026-10-27-news-jordan-syria-airstrikes-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794938958.214098,
     "country": "중국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_strikes_iran_qeshm_island_2026",
+    "topic": "미국, 이란 게슘섬 공습 호르무즈 긴장 고조",
+    "slug": "2026-11-18-news-us-strikes-iran-qeshm-island-2026",
+    "cluster": "CBMi-gFBVV95cUxORTlaRi1KUzR5R1ZlamQ4ckxQTU9IZ01fS0QzdDZ2UmF0QUdyYXliOVBsUF92alhmZzJMSVFIRG9jN2JlbXlva2dmZDNoUmFIdG81bXpwNHY5ZTZtQjZ5MVB1Y0FsaHY1alRXbGlhOGF1czIyM1kxcV8wRm5WOGRuYkpZdlpmZVhRVzVtY25zcUx4bk5XZmVQa18tX3lHOXNHNVlmQ1JadEpzSlBtUW1Hak1fYmpqaHpkaDI2NFh2aU16bDZZYjE1V0NOMGM1UWhPSlQwMUFITWRhMGtJaDQtM2hvVUt2STFVTklrWjZhMVN2dGxRVnFRMTJR0gH_AUFVX3lxTE9Cc3hzcDM5RGFNLWQzaVJpMFlXOENScVd0WFRtc3FicnV0b2stalpaNDdvQ1MzcC1ET0ZoSkduSE5uOG8zSWxPaklWcFNkYjlIN2hMaGtwMkZsTWQ5RFlycHJRVmxzUzdXUVpveG9lc2VHaTAyOWZQUmNGLUc3THFSSmlGUEN6QWlnR1RkZ0J0NS1VS2V3Y3FtVk1iNW0yQTBjN3VhSGdYUF9XRHhFV3ZwRG1vYVlaZGtvamtWaWNIZVVqRFAyNE5xdDNjanUyRkNEWXhnZzYxYlNRMTVON3NGUXg5X1NDeVFwUjAyZzI5X2R3SmZtUFFPTk1UVEtpVQ",
+    "badge": "breaking",
+    "at": 1794943411.4594398,
+    "country": "이란",
+    "category": "국제"
   }
 ]

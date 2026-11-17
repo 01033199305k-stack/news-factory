@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-18-news-us-strikes-iran-qeshm-island-2026",
+  "topic": "미국, 이란 게슘섬 공습 호르무즈 긴장 고조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 01:22 KST",
+  "source": "Al Jazeera·NDTV·Arab News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi-gFBVV95cUxORTlaRi1KUzR5R1ZlamQ4ckxQTU9IZ01fS0QzdDZ2UmF0QUdyYXliOVBsUF92alhmZzJMSVFIRG9jN2JlbXlva2dmZDNoUmFIdG81bXpwNHY5ZTZtQjZ5MVB1Y0FsaHY1alRXbGlhOGF1czIyM1kxcV8wRm5WOGRuYkpZdlpmZVhRVzVtY25zcUx4bk5XZmVQa18tX3lHOXNHNVlmQ1JadEpzSlBtUW1Hak1fYmpqaHpkaDI2NFh2aU16bDZZYjE1V0NOMGM1UWhPSlQwMUFITWRhMGtJaDQtM2hvVUt2STFVTklrWjZhMVN2dGxRVnFRMTJR0gH_AUFVX3lxTE9Cc3hzcDM5RGFNLWQzaVJpMFlXOENScVd0WFRtc3FicnV0b2stalpaNDdvQ1MzcC1ET0ZoSkduSE5uOG8zSWxPaklWcFNkYjlIN2hMaGtwMkZsTWQ5RFlycHJRVmxzUzdXUVpveG9lc2VHaTAyOWZQUmNGLUc3THFSSmlGUEN6QWlnR1RkZ0J0NS1VS2V3Y3FtVk1iNW0yQTBjN3VhSGdYUF9XRHhFV3ZwRG1vYVlaZGtvamtWaWNIZVVqRFAyNE5xdDNjanUyRkNEWXhnZzYxYlNRMTVON3NGUXg5X1NDeVFwUjAyZzI5X2R3SmZtUFFPTk1UVEtpVQ",
+    "related": [
+      [
+        "US strikes Iran’s Qeshm Island near Strait of Hormuz, Tehran launches drone attack on American base in...",
+        "Moneycontrol.com"
+      ],
+      [
+        "Iran war live: 5 tankers reported hit around Hormuz; blasts heard on Qeshm",
+        "Al Jazeera"
+      ],
+      [
+        "US Attacks Iran's Qeshm Island In Strait Of Hormuz",
+        "NDTV"
+      ],
+      [
+        "Iranian official says US behind strikes on Qeshm Island, didn’t cause any damage",
+        "The Times of Israel"
+      ],
+      [
+        "Explosion heard on Iran’s Qeshm island, Fars agency reports",
+        "Arab News"
+      ]
+    ],
+    "event_key": "us_strikes_iran_qeshm_island_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국, 이란 [[게슘섬]] 공습\n호르무즈 긴장 고조",
+      "sub": "미국 이란 게슘섬 공습 속 이란 드론 공격",
+      "chips": [
+        {
+          "k": "타격지",
+          "v": "게슘섬"
+        }
+      ],
+      "alt": "미국, 이란 게슘섬 공습 호르무즈 긴장 고조",
+      "map": {
+        "lat": 26.7687296,
+        "lon": 55.8476653,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n게슘섬",
+      "video_only": true,
+      "map": {
+        "lat": 26.7687296,
+        "lon": 55.8476653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "게슘섬"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미군 게슘섬 타격",
+          "d": "미국이 호르무즈 해협 인근 이란 게슘섬을 공격했다고 외신들이 전했습니다 (머니컨트롤·NDTV)."
+        },
+        {
+          "t": "이란 드론 반격",
+          "d": "이란이 미군 기지를 향해 드론 공격을 감행했다고 보도됐습니다 (머니컨트롤)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미군의 이란 게슘섬 공습"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "이란 측 피해 여부 주장의 진위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Arab News",
+        "Moneycontrol.com",
+        "NDTV",
+        "The Times of Israel",
+        "2026.11.18 04:23 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미군이 이란 게슘섬을 공습했습니다.\n\n· 호르무즈 해협 인근 게슘섬에 폭발이 발생했습니다 (알자지라·아랍뉴스)\n· 이란은 미군 기지를 향해 드론 공격을 감행했습니다 (머니컨트롤)\n· 이란 당국은 피해가 발생하지 않았다고 주장했습니다 (타임스오브이스라엘)\n\n질문: 호르무즈 해협을 둘러싼 군사 충돌, 어떻게 전망하십니까?\n\n출처: 머니컨트롤·알자지라·NDTV·타임스오브이스라엘·아랍뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미군이 호르무즈 해협 인근 이란 게슘섬을 공습했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 게슘섬에서 폭발음이 들렸다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이란 측은 미군 기지를 향해 드론 공격을 감행했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "격화되는 중동 지역 군사 충돌, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 [[게슘섬]]을\n공습한 상황",
+  "broll": [
+    "strait sea military",
+    "drone night sky"
+  ],
+  "place_en": "Qeshm Island, Iran"
+}
