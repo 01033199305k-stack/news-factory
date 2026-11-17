@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-17-news-iran-bahrain-attack-2026",
+  "topic": "이란, 바레인 내 미군 기지 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 22:02 KST",
+  "source": "Al Jazeera·BBC·CBS News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxOUVFEUFh1RlBvOUpoYzRFWGhybGo2WkJKcGd0SXk0RjVTeUNlN0Y2YWNXRWJwb1JPb0lRVG5ZTzlzaW9XRGJSV3g4VU1SSG42U2N3bml3ZzM1YVQ2bmlNSl9aMEswcTJHUTg0TDlDcXFqLXp2Q1g2ZWdmcnpUY3AwODBOWFA",
+    "related": [
+      [
+        "Iran attacks US air base in Bahrain",
+        "Financial Times"
+      ],
+      [
+        "Iran war live: 5 tankers reported hit around Hormuz; blasts heard on Qeshm",
+        "Al Jazeera"
+      ],
+      [
+        "Iran raises stakes with new drone attacks as Trump signals a waiting game",
+        "CNN"
+      ],
+      [
+        "Iran targets US military base in Bahrain with drone attack",
+        "BBC"
+      ],
+      [
+        "Live Updates: Iran claims new attack on U.S. radar system in Bahrain and says tanker hit near Strait of Hormuz",
+        "CBS News"
+      ]
+    ],
+    "event_key": "iran_bahrain_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, 바레인 내\n[[미군 기지]] 타격",
+      "sub": "이란이 바레인의 미군 공군기지를 드론으로 공격했습니다.",
+      "chips": [],
+      "alt": "이란, 바레인 내 미군 기지 타격",
+      "map": {
+        "lat": 26.1551249,
+        "lon": 50.5344606,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n바레인",
+      "video_only": true,
+      "map": {
+        "lat": 26.1551249,
+        "lon": 50.5344606,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바레인"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "추가 공격 정황",
+          "d": "호르무즈 해협 인근에서 유조선 5척이 피격되었다는 보도가 이어지고 있습니다 (알자지라·CBS)."
+        },
+        {
+          "t": "피해 상황",
+          "d": "바레인 내 미군 레이더 시설 타격 주장도 확인되고 있습니다 (CBS)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란의 바레인 미 공군기지 드론 공격",
+        "호르무즈 해협 유조선 피격 보도"
+      ],
+      "unconfirmed": [
+        "인명 피해 규모",
+        "공격의 구체적 배후 및 동기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CBS News",
+        "CNN",
+        "Financial Times",
+        "2026.11.18 00:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란이 바레인에 위치한 미군 공군기지를 드론으로 공격했습니다. (파이낸셜 타임스·BBC)\n\n· 호르무즈 해협 인근에서 유조선 5척이 피격당했다는 보도가 이어지고 있습니다. (알자지라)\n· 이란 측은 바레인 내 미군 레이더 시설을 타격했다고 주장했습니다. (CBS)\n\n여러분은 중동 내 긴장이 고조되는 상황을 어떻게 보십니까?\n\n출처: 파이낸셜 타임스·알자지라·CNN·BBC·CBS 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란이 바레인에 위치한 미군 공군기지를 드론으로 공격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신들은 호르무즈 해협 인근에서도 유조선 5척이 피격됐다는 보도가 나오고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이란 측은 바레인 내 미군 레이더 시설을 타격했다고 주장했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 중동 내 긴장이 고조되는 현재 상황을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "상황 어떻게 볼까?"
+    }
+  ],
+  "hook": "바레인 [[미군기지]]\n드론 습격",
+  "broll": [
+    "military airbase drone",
+    "oil tanker sea"
+  ],
+  "place_en": "Bahrain"
+}

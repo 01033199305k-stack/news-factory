@@ -43464,5 +43464,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794926680
+  },
+  {
+    "slug": "2026-11-17-news-iran-bahrain-attack-2026",
+    "event_ms": 1794920539000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이란이 바레인에 위치한 미군 공군기지를 드론으로 공격했습니다. (파이낸셜 타임스·BBC)\n\n· 호르무즈 해협 인근에서 유조선 5척이 피격당했다는 보도가 이어지고 있습니다. (알자지라)\n· 이란 측은 바레인 내 미군 레이더 시설을 타격했다고 주장했습니다. (CBS)\n\n여러분은 중동 내 긴장이 고조되는 상황을 어떻게 보십니까?\n\n출처: 파이낸셜 타임스·알자지라·CNN·BBC·CBS 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18136027888669922",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df2OAV0lbKZ",
+        "kind": "carousel",
+        "at": 1794928170
+      },
+      "instagram": {
+        "id": "18119088035105423",
+        "permalink": "https://www.instagram.com/reel/Df2OQhgkXkX/",
+        "kind": "reel",
+        "at": 1794928320
+      },
+      "youtube": {
+        "id": "EoHHJ4ZWNaE",
+        "permalink": "https://youtube.com/shorts/EoHHJ4ZWNaE",
+        "kind": "shorts",
+        "at": 1794928355
+      },
+      "tiktok": {
+        "id": "7709158790033100040",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709158790033100040",
+        "kind": "video",
+        "at": 1794928528
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794928538
   }
 ]

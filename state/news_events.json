@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "uk_raf_fairford_national_security_charges",
-    "topic": "영국 미군 기지서 일어난 사건 남성 2명 기소",
-    "slug": "2026-10-27-news-uk-raf-fairford-national-security-charges",
-    "cluster": "CBMimwFBVV95cUxOdVZVcmdNX0FzeVJTUW9IdGRsdjdKNFFGNldGeGJwZi1rNFNVeWdPMjVuVWprd0tESDR4Yll6ams1YTdnc2lmM253NTFtcnRJb3V3ZnNqS2hXMzJ2UzlraEJIT3lyNWEtRnFwRVgxT2dRWWJlQjdfVS1KUVpsRFFGZ05OTUw4U0tQU0lvdmZodkpKWWhDeEw5THpoMNIBoAFBVV95cUxPaGJPMDhmTUd4OTRCTkVwSktZTkFoSVdCY3dCZ0JaUURQdVgzaEFuNjZodldkb3NwSnhwNzJqT3VKaGtmVEp5QnZVVmIzRGxKa2pQRzZtcW85ckZSQkdyVUstR0hUYkpPcktTQzduV3V5MjV5U1dDV0JvdDMwcjFfTFRTdmZfUjFoV3AzbkJSZGRZajZ2eV8tYVN0RVgzWE1v",
-    "badge": "breaking",
-    "at": 1793097743.6779258,
-    "country": "영국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "russia_strike_kyiv_2026",
     "topic": "러시아군의 키이우 공습으로 사망 4명·부상 28명 발생",
     "slug": "2026-10-27-news-russia-strike-kyiv-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794926306.657983,
     "country": "체코",
     "category": "사고"
+  },
+  {
+    "event_key": "iran_bahrain_attack_2026",
+    "topic": "이란, 바레인 내 미군 기지 타격",
+    "slug": "2026-11-17-news-iran-bahrain-attack-2026",
+    "cluster": "CBMihAFBVV95cUxOUVFEUFh1RlBvOUpoYzRFWGhybGo2WkJKcGd0SXk0RjVTeUNlN0Y2YWNXRWJwb1JPb0lRVG5ZTzlzaW9XRGJSV3g4VU1SSG42U2N3bml3ZzM1YVQ2bmlNSl9aMEswcTJHUTg0TDlDcXFqLXp2Q1g2ZWdmcnpUY3AwODBOWFA",
+    "badge": "breaking",
+    "at": 1794928120.0338986,
+    "country": "이란",
+    "category": "국제"
   }
 ]
