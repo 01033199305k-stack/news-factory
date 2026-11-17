@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-18-news-bryson-dechambeau-dp-world-tour-2027",
+  "topic": "브라이슨 디섐보, DP 월드투어 합류",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 05:13 KST",
+  "source": "BBC·The Guardian·DP World Tour 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxQRnQwamx4dlpTV1k2SlNTYnYycWlOc2QxZkJYTC1uTGN1WmN4S1I1TkNwa05XU0ctMTJ6MjJhTDRzRjhXRU1sRHoyUV9qZUIyekVvSml3LXNTWDFFcnFHUlRST2paUDlWTkhMSGhEbmVVbW1PNkVuMWFxeEdfc0UzQ05CMG9EU3RuUTRwSUZiYVNPM2tTME51d2ZuWGVvV3ZUSDlydC1mdw",
+    "related": [
+      [
+        "Bryson DeChambeau adds star quality to DP World Tour after demise of LIV Golf",
+        "The Guardian"
+      ],
+      [
+        "Bryson DeChambeau to join European tour in 2027 after demise of LIV Golf",
+        "ESPN"
+      ],
+      [
+        "DeChambeau Joins DP World Tour For 2027 After PGA Suspension",
+        "Yahoo Sports"
+      ],
+      [
+        "DeChambeau joins DP World Tour after LIV Golf collapse",
+        "BBC"
+      ],
+      [
+        "Membership categories set for 2027 DP World Tour season",
+        "DP World Tour"
+      ]
+    ],
+    "event_key": "bryson_dechambeau_dp_world_tour_2027"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "브라이슨 디섐보,\n[[DP 월드투어]] 합류",
+      "sub": "LIV 골프 해체 여파로 2027년 유럽 투어 진출",
+      "chips": [
+        {
+          "k": "합류 시기",
+          "v": "2027년"
+        }
+      ],
+      "alt": "브라이슨 디섐보, DP 월드투어 합류",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "LIV 골프 해체",
+          "d": "가디언 등 외신은 LIV 골프의 해체 이후 브라이슨 디섐보가 투어에 합류한다고 보도했습니다."
+        },
+        {
+          "t": "PGA 징계",
+          "d": "야후스포츠는 PGA 징계 이후 유럽 투어 멤버십 카테고리가 정해졌다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "디섐보의 DP 월드투어 합류",
+        "2027년 시즌 출전"
+      ],
+      "unconfirmed": [
+        "구체적인 투어 일정 및 세부 계약 조건"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "DP World Tour",
+        "ESPN",
+        "The Guardian",
+        "Yahoo Sports",
+        "2026.11.18 08:03 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 브라이슨 디섐보, DP 월드투어 합류\n\n· LIV 골프 해체 이후 브라이슨 디섐보가 유럽 투어 진출을 확정했습니다 (가디언·ESPN)\n· PGA 징계 이후 2027년 시즌 멤버십 카테고리가 설정됐습니다 (야후스포츠·BBC)\n\n출처: 가디언·ESPN·야후스포츠·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "브라이슨 디섐보가 2027년 DP 월드투어에 합류합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언 등 외신은 LIV 골프의 해체 이후 디섐보의 유럽 투어 진출을 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "야후스포츠는 PGA 투어 징계 이후 2027년 시즌 멤버십 카테고리가 정해졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 투어 경기 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 골프계의 이동을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "골프스타 디섐보가\n[[어디로]] 갈까요?",
+  "broll": [
+    "golf course green",
+    "golf tournament flag"
+  ],
+  "place_en": "London, United Kingdom"
+}
