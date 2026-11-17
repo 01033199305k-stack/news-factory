@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-17-news-uk-sanctions-israeli-settlement-firms",
+  "topic": "영국 정부, 요르단강 서안 정착촌 건설 기업 제재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.17 21:37 KST",
+  "source": "BBC·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9obnNFbkotNFRLSk8tb05PUTJwcnJjbVhOSDNuWVpmWmF1bDlBdTRtWjVpY2c4V3BjZnRDOEJqbFFzS3k2TzRYdjBzMHdxZ1kycDliSTBtZVA2U1U",
+    "related": [
+      [
+        "UK sanctions firms over Israeli West Bank settlements",
+        "BBC"
+      ],
+      [
+        "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+        "The Guardian"
+      ],
+      [
+        "Britain sanctions Israeli settlement firms in push to protect two-state solution",
+        "Reuters"
+      ],
+      [
+        "UK sanctions West Bank settlement construction companies, activist group that blocks Gaza aid",
+        "The Times of Israel"
+      ],
+      [
+        "U.K. sanctions eight Israeli firms involved in West Bank settlement construction",
+        "Haaretz"
+      ]
+    ],
+    "event_key": "uk_sanctions_israeli_settlement_firms"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 정부, 요르단강 서안\n정착촌 건설 [[기업 제재]]",
+      "sub": "가자지구 지원 막는 활동가 단체도 제재 대상에 포함",
+      "chips": [
+        {
+          "k": "제재 대상",
+          "v": "기업 8곳"
+        }
+      ],
+      "alt": "영국 정부, 요르단강 서안 정착촌 건설 기업 제재",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대상 기업",
+          "d": "요르단강 서안 정착촌 건설에 관여한 기업 8곳이 제재를 받았습니다 (하레츠)."
+        },
+        {
+          "t": "추가 대상",
+          "d": "가자지구 구호품 반입을 막아온 활동가 단체도 제재 명단에 올랐습니다 (타임스 오브 이스라엘)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국 정부의 서안 정착촌 건설 기업 제재",
+        "가자지구 구호품 차단 단체 포함"
+      ],
+      "unconfirmed": [
+        "이스라엘 정부의 공식 대응",
+        "추가 제재 확대 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Haaretz",
+        "Reuters",
+        "The Guardian",
+        "The Times of Israel",
+        "2026.11.17 23:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국 정부, 요르단강 서안 정착촌 건설 기업 제재 (로이터)\n\n· 요르단강 서안 정착촌 건설에 관여한 기업 8곳이 제재 대상에 올랐습니다 (하레츠)\n· 가자지구 구호품 반입을 막아온 활동가 단체도 제재 명단에 포함됐습니다 (타임스 오브 이스라엘)\n\n이번 영국의 제재 조치에 대해 어떻게 보십니까?\n\n출처: BBC·가디언·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 정부가 요르단강 서안 정착촌 건설에 관여한 기업들을 제재했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "하레츠 등 외신은 정착촌 건설 관련 기업 8곳이 대상에 올랐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "가자지구 구호품 반입을 막아온 활동가 단체도 함께 제재를 받았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이스라엘 측의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 영국의 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "영국이 [[요르단강 서안]]\n기업을 제재한 이유는?",
+  "broll": [
+    "london parliament building",
+    "uk flag street"
+  ],
+  "place_en": "London, United Kingdom"
+}

@@ -43356,5 +43356,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794921398
+  },
+  {
+    "slug": "2026-11-17-news-uk-sanctions-israeli-settlement-firms",
+    "event_ms": 1794919072000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 영국 정부, 요르단강 서안 정착촌 건설 기업 제재 (로이터)\n\n· 요르단강 서안 정착촌 건설에 관여한 기업 8곳이 제재 대상에 올랐습니다 (하레츠)\n· 가자지구 구호품 반입을 막아온 활동가 단체도 제재 명단에 포함됐습니다 (타임스 오브 이스라엘)\n\n이번 영국의 제재 조치에 대해 어떻게 보십니까?\n\n출처: BBC·가디언·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "영국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18002082072041925",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df2HdsZEZVu",
+        "kind": "carousel",
+        "at": 1794924736
+      },
+      "instagram": {
+        "id": "17921601504462860",
+        "permalink": "https://www.instagram.com/reel/Df2HuBtmayG/",
+        "kind": "reel",
+        "at": 1794924894
+      },
+      "youtube": {
+        "id": "vAox7oSSJYY",
+        "permalink": "https://youtube.com/shorts/vAox7oSSJYY",
+        "kind": "shorts",
+        "at": 1794925000
+      },
+      "tiktok": {
+        "id": "7709143688118570292",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709143688118570292",
+        "kind": "video",
+        "at": 1794925133
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794925143
   }
 ]
