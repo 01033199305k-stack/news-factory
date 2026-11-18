@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-11-18-news-israel-knesset-speaker-election-2026",
+    "event_ms": 1794991395000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘 의회, 야권 지지 성향의 마탄 카하나 새 의장 선출\n\n· 찬성 66표 대 반대 52표로 가결 (타임스오브이스라엘)\n· 이번 결과로 네타냐후 총리의 권력 장악력이 약화될 전망 (CNN)\n\n여러분은 이번 의장 선출이 정국에 어떤 영향을 미칠 것으로 보십니까?\n출처: 타임스오브이스라엘·CNN·가디언·뉴욕타임스·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이스라엘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18121045171783065",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4KDOoHMPk",
+        "kind": "carousel",
+        "at": 1794993203
+      },
+      "instagram": {
+        "id": "18116362370140956",
+        "permalink": "https://www.instagram.com/reel/Df4KV5Qiq78/",
+        "kind": "reel",
+        "at": 1794993377
+      },
+      "youtube": {
+        "id": "0rvt0US8y1s",
+        "permalink": "https://youtube.com/shorts/0rvt0US8y1s",
+        "kind": "shorts",
+        "at": 1794993966
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

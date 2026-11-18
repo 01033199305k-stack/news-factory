@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-18-news-israel-knesset-speaker-election-2026",
+  "topic": "이스라엘 의회, 야권 지지 의장 선출",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 17:43 KST",
+  "source": "CNN·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuAFBVV95cUxOSzRVLVJmR1BsTTNKazc2dXZMOUlvX2xBdVcxbVROcmd5cXpLcW5hdktyTlFjNThuTmIwX2U4SkRmWW1VbHdxY0o0dlFPNGFaaUg5OWFXQ3FKX3oycmpaa002LXNON25TbGQzYTBWVDE5VjVrTkU0S2FfdkxHbVpoTW93Y3g0VndwemNnT1FCTktOeC1NQ2VybHd4OGg3YjY2VFJSeVY5bUh4bW1kNko0SEFESG1rWHhK0gG-AUFVX3lxTE5oYmNVYlM3bFNuaXJuWlpCV295N29WT2QwVDktaFpueS1IOURmdndFb0I1X0NRMF9QQlVoVTBDRklSU0lzbjNpQkZCcXZQMVI1czQ3ZjZoQnZ1MFRDaURFQlJnWDhlNFVMdFJXcHdnaVY2OFRjNDZaQ1VTUzhSdXJOTy1kNU9NRFZObGRuc1l5SUJ3dnBSY2pUa2UzeG1udVJzckg4eVFuczdHM2p4Qjd2VmRaVV9faU4zeE1LMGc",
+    "related": [
+      [
+        "Knesset votes 66-52 to elect Yashar’s Matan Kahana as speaker, in boost to Eisenkot bloc",
+        "The Times of Israel"
+      ],
+      [
+        "Israel’s parliament elects new Knesset speaker, weakening Netanyahu’s grip on power",
+        "CNN"
+      ],
+      [
+        "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
+        "The Guardian"
+      ],
+      [
+        "Matan Kahana Elected Speaker of Israel’s Parliament",
+        "The New York Times"
+      ],
+      [
+        "Israeli parliament elects speaker backed by Netanyahu opponents",
+        "Reuters"
+      ]
+    ],
+    "event_key": "israel_knesset_speaker_election_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 [[의회]],\n야권 지지 의장 선출",
+      "sub": "네타냐후 총리의 권력 장악력 약화 관측",
+      "chips": [
+        {
+          "k": "찬성",
+          "v": "66표"
+        },
+        {
+          "k": "반대",
+          "v": "52표"
+        }
+      ],
+      "alt": "이스라엘 의회, 야권 지지 의장 선출",
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n예루살렘",
+      "video_only": true,
+      "map": {
+        "lat": 31.7788472,
+        "lon": 35.2257856,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "예루살렘"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "새 의장 선출",
+          "d": "이스라엘 의회가 찬성 66표 대 반대 52표로 마탄 카하나를 새 의장으로 선출했다고 타임스오브이스라엘 등이 보도했습니다."
+        },
+        {
+          "t": "정치적 영향",
+          "d": "이번 선출로 네타냐후 총리의 권력 장악력이 약화될 것이라고 CNN이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "마탄 카하나 새 의장 선출",
+        "찬성 66표 대 반대 52표 (타임스오브이스라엘)",
+        "네타냐후 반대파 지지 (로이터)"
+      ],
+      "unconfirmed": [
+        "연립 정부의 향후 정치적 타격 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "The Times of Israel",
+        "2026.11.18 18:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 의회, 야권 지지 성향의 마탄 카하나 새 의장 선출\n\n· 찬성 66표 대 반대 52표로 가결 (타임스오브이스라엘)\n· 이번 결과로 네타냐후 총리의 권력 장악력이 약화될 전망 (CNN)\n\n여러분은 이번 의장 선출이 정국에 어떤 영향을 미칠 것으로 보십니까?\n출처: 타임스오브이스라엘·CNN·가디언·뉴욕타임스·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘 의회가 야권이 지지하는 마탄 카하나를 새 의장으로 선출했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "타임스오브이스라엘 등은 찬성 66표, 반대 52표로 가결됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "CNN은 이번 선출로 네타냐후 총리의 권력 장악력이 약화될 것이라고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 이스라엘 의회의 결정을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "야권 지지 의장 선출"
+    }
+  ],
+  "hook": "이스라엘 [[의회]]에서\n무슨 일이?",
+  "broll": [
+    "parliament building interior",
+    "government assembly hall"
+  ],
+  "place_en": "Jerusalem"
+}

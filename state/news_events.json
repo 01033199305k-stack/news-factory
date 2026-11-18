@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "belgrade_israeli_embassy_attack_2026",
-    "topic": "세르비아 이스라엘 대사관 흉기 테러 시도",
-    "slug": "2026-10-28-news-belgrade-israeli-embassy-attack-2026",
-    "cluster": "CBMiV0FVX3lxTE9Wb1JNTkpZTHA1TjNJQ0RqUjlYQmJKWDB2cW9WM2N2QmJqUElCRlBVV0lzOGxkOGR6MXRLVDJrWVk3My1jYzFZN1hrdWRDODAtRUJVWnZ0NA",
-    "badge": "breaking",
-    "at": 1793178817.8136277,
-    "country": "세르비아",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "spain_high_speed_train_collision_2026",
     "topic": "스페인 고속열차 충돌 최소 10명 사망",
     "slug": "2026-10-28-news-spain-high-speed-train-collision-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794976269.2966352,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "israel_knesset_speaker_election_2026",
+    "topic": "이스라엘 의회, 야권 지지 의장 선출",
+    "slug": "2026-11-18-news-israel-knesset-speaker-election-2026",
+    "cluster": "CBMiuAFBVV95cUxOSzRVLVJmR1BsTTNKazc2dXZMOUlvX2xBdVcxbVROcmd5cXpLcW5hdktyTlFjNThuTmIwX2U4SkRmWW1VbHdxY0o0dlFPNGFaaUg5OWFXQ3FKX3oycmpaa002LXNON25TbGQzYTBWVDE5VjVrTkU0S2FfdkxHbVpoTW93Y3g0VndwemNnT1FCTktOeC1NQ2VybHd4OGg3YjY2VFJSeVY5bUh4bW1kNko0SEFESG1rWHhK0gG-AUFVX3lxTE5oYmNVYlM3bFNuaXJuWlpCV295N29WT2QwVDktaFpueS1IOURmdndFb0I1X0NRMF9QQlVoVTBDRklSU0lzbjNpQkZCcXZQMVI1czQ3ZjZoQnZ1MFRDaURFQlJnWDhlNFVMdFJXcHdnaVY2OFRjNDZaQ1VTUzhSdXJOTy1kNU9NRFZObGRuc1l5SUJ3dnBSY2pUa2UzeG1udVJzckg4eVFuczdHM2p4Qjd2VmRaVV9faU4zeE1LMGc",
+    "badge": "breaking",
+    "at": 1794993156.5680382,
+    "country": "이스라엘",
+    "category": "국제"
   }
 ]
