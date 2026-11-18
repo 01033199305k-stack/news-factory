@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "qatar_iran_peace_proposal_rejection_2026",
-    "topic": "카타르, 종전안 전달 이란 “수용 불가” 거부",
-    "slug": "2026-10-28-news-qatar-iran-peace-proposal-rejection-2026",
-    "cluster": "CBMivAFBVV95cUxQMTAtQ19McEJXRVg0bmN2S1JaMm9lX2VsbUpzSjZnZi1md09fZnBoREF1U2lKT25ybDRzR0lxcC13XzcxRU1UTFFFUXRzem9TVjdNMHA4cjVPel9Rdk02UHk4M1BDUXFZcGRyR0FqcnlhUDNtTFczdy1Nd0VNNktvM3V0bUEzNC1qdXNLQngwOE9HVGtydEFIa1hqdm5sWjRHVHNNaFVteUZSbnVwa2U0MWxvd2RleGJpaXIxeg",
-    "badge": "brief",
-    "at": 1793193040.942945,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "california_high_tides_2026",
     "topic": "미국 캘리포니아 해안가 역대급 만조로 침수",
     "slug": "2026-10-28-news-california-high-tides-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794996403.8601837,
     "country": "아랍에미리트",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_drone_strike_russia_krasnodar_refineries_2026",
+    "topic": "우크라 석유 정제소 공습 러시아 2곳 타격",
+    "slug": "2026-11-18-news-ukraine-drone-strike-russia-krasnodar-refineries-2026",
+    "cluster": "CBMiqgFBVV95cUxOTmZJdEMxOWo1MFZpREE2bjdXa3ZmNHRDRkFEbmx3cFV4d1daZUY3TWxpaENibmlaRHV1cjRSWk9TencxS0ljbE16VDVhZ0RTS3doTk9ZZUxXR1hxakJQV2MtZVRGRE1UYzVmRFh6WGhveTI4aWcwMUx6OVVmUUZ2WkZBamk4eVVEZ0FNdHhDWFVOWXlvRzdNWXJLM00zRTMtcU5QUXBaZnllZw",
+    "badge": "breaking",
+    "at": 1794997657.9954736,
+    "country": "러시아",
     "category": "국제"
   }
 ]

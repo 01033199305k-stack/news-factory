@@ -1,7 +1,7 @@
 [
   {
-    "slug": "2026-11-18-news-uae-ship-attacked-strait-of-hormuz-2026",
-    "event_ms": 1794987660000,
+    "slug": "2026-11-18-news-ukraine-drone-strike-russia-krasnodar-refineries-2026",
+    "event_ms": 1794990720000,
     "category": "국제",
     "images": [
       "01_cover.png",
@@ -9,12 +9,12 @@
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 호르무즈 해협서 UAE 선박 피격… 11명 부상·1명 실종\n\n· UAE 국영석유회사 소속 선박이 호르무즈 해협에서 공격받았습니다 (로이터)\n· 선원 11명이 다치고 1명이 실종된 것으로 집계됐습니다 (NDTV·걸프뉴스)\n· 정확한 공격 주체와 경위는 확인되지 않았습니다 (gCaptain)\n\n출처: 로이터·NDTV·걸프뉴스·gCaptain 보도 종합",
+    "text": "[속보] 우크라이나가 러시아 석유 정제소 2곳을 드론으로 공습했습니다.\n\n· 우크라이나가 밤사이 러시아 크라스노다르 정유공장 2곳을 타격했습니다 (블룸버그·키이우 인디펜던트)\n· 석유 정제 시설에서 화재가 발생했습니다 (우크라인스카 프라우다)\n\n이번 드론 공습이 가져올 영향, 어떻게 보십니까?\n\n출처: 블룸버그·우크라인스카 프라우다·키이우 인디펜던트·DW 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
       "국제",
-      "아랍에미리트"
+      "러시아"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,24 +25,26 @@
     ],
     "done": {
       "threads": {
-        "id": "18142371049551380",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4QPlqEQSj",
+        "id": "18183729523436777",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4So5im-DV",
         "kind": "carousel",
-        "at": 1794996451
+        "at": 1794997706
       },
       "instagram": {
-        "id": "17916318222558883",
-        "permalink": "https://www.instagram.com/reel/Df4QiT_FNDX/",
+        "id": "18129285661910509",
+        "permalink": "https://www.instagram.com/reel/Df4S-Fvn0xa/",
         "kind": "reel",
-        "at": 1794996621
+        "at": 1794997898
       },
       "youtube": {
-        "skipped": "유튜브는 한국·주요국 관련 소식만",
-        "at": 1794996632
+        "id": "yf5kOT58S6s",
+        "permalink": "https://youtube.com/shorts/yf5kOT58S6s",
+        "kind": "shorts",
+        "at": 1794997934
       }
     },
     "attempts": {
-      "tiktok": 2
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

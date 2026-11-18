@@ -44111,5 +44111,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794996764
+  },
+  {
+    "slug": "2026-11-18-news-uae-ship-attacked-strait-of-hormuz-2026",
+    "event_ms": 1794987660000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 호르무즈 해협서 UAE 선박 피격… 11명 부상·1명 실종\n\n· UAE 국영석유회사 소속 선박이 호르무즈 해협에서 공격받았습니다 (로이터)\n· 선원 11명이 다치고 1명이 실종된 것으로 집계됐습니다 (NDTV·걸프뉴스)\n· 정확한 공격 주체와 경위는 확인되지 않았습니다 (gCaptain)\n\n출처: 로이터·NDTV·걸프뉴스·gCaptain 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "아랍에미리트"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18142371049551380",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4QPlqEQSj",
+        "kind": "carousel",
+        "at": 1794996451
+      },
+      "instagram": {
+        "id": "17916318222558883",
+        "permalink": "https://www.instagram.com/reel/Df4QiT_FNDX/",
+        "kind": "reel",
+        "at": 1794996621
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1794996632
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6afd7eb9e6ccf7cfbbbdf982): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1794998057
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794998057
   }
 ]

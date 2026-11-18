@@ -1,0 +1,147 @@
+{
+  "slug": "2026-11-18-news-ukraine-drone-strike-russia-krasnodar-refineries-2026",
+  "topic": "우크라 석유 정제소 공습 러시아 2곳 타격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 17:32 KST",
+  "source": "Bloomberg·Business Insider·DW.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxOTmZJdEMxOWo1MFZpREE2bjdXa3ZmNHRDRkFEbmx3cFV4d1daZUY3TWxpaENibmlaRHV1cjRSWk9TencxS0ljbE16VDVhZ0RTS3doTk9ZZUxXR1hxakJQV2MtZVRGRE1UYzVmRFh6WGhveTI4aWcwMUx6OVVmUUZ2WkZBamk4eVVEZ0FNdHhDWFVOWXlvRzdNWXJLM00zRTMtcU5QUXBaZnllZw",
+    "related": [
+      [
+        "Russia's energy crisis is so bad it's mass-importing fuel and looking to low-grade fuel for pump stations",
+        "Business Insider"
+      ],
+      [
+        "Ukrainian Drones Target Two Oil Refineries Deep Inside Russia",
+        "Bloomberg"
+      ],
+      [
+        "Drones attack Russia's Krasnodar Krai, fire breaks out at oil refinery – videos",
+        "Українська правда"
+      ],
+      [
+        "Ukraine says it hit refineries in Krasnodar day after striking nearby Kerch bridge",
+        "DW.com"
+      ],
+      [
+        "2 Russian oil refineries reportedly targeted in overnight drone attack on Krasnodar Krai",
+        "The Kyiv Independent"
+      ]
+    ],
+    "event_key": "ukraine_drone_strike_russia_krasnodar_refineries_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 [[석유 정제소]] 공습\n러시아 2곳 타격",
+      "sub": "크라스노다르 지방 내 정유공장 밤사이 드론 타격",
+      "chips": [
+        {
+          "k": "공격 대상",
+          "v": "정유공장 2곳"
+        }
+      ],
+      "alt": "우크라 석유 정제소 공습 러시아 2곳 타격",
+      "map": {
+        "lat": 45.7682027,
+        "lon": 39.0258102,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n크라스노다르",
+      "video_only": true,
+      "map": {
+        "lat": 45.7682027,
+        "lon": 39.0258102,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "크라스노다르"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "밤사이 드론 공습",
+          "d": "우크라이나가 러시아 크라스노다르 지방의 석유 정제소 2곳을 드론으로 타격했습니다 (블룸버그·키이우 인디펜던트)."
+        },
+        {
+          "t": "정유 시설 화재 발생",
+          "d": "석유 정제 시설에서 화재가 발생했습니다 (우크라인스카 프라우다)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 드론 공습",
+        "러시아 정유공장 2곳 타격",
+        "크라스노다르 화재 발생"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "한국인 피해 여부",
+        "시설 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg",
+        "Business Insider",
+        "DW.com",
+        "The Kyiv Independent",
+        "Українська правда",
+        "2026.11.18 19:27 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나가 러시아 석유 정제소 2곳을 드론으로 공습했습니다.\n\n· 우크라이나가 밤사이 러시아 크라스노다르 정유공장 2곳을 타격했습니다 (블룸버그·키이우 인디펜던트)\n· 석유 정제 시설에서 화재가 발생했습니다 (우크라인스카 프라우다)\n\n이번 드론 공습이 가져올 영향, 어떻게 보십니까?\n\n출처: 블룸버그·우크라인스카 프라우다·키이우 인디펜던트·DW 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 러시아 크라스노다르의 석유 정제소 두 곳을 드론으로 공습했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공격은 러시아 크라스노다르 지역에서 밤사이 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신은 드론 타격으로 석유 정제 시설에서 화재가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해와 시설 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "계속되는 정유 시설 공습, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "러시아 [[정유공장]]에\n무슨 일이?",
+  "broll": [
+    "oil refinery night",
+    "smoke plume factory"
+  ],
+  "place_en": "Krasnodar Krai, Russia"
+}
