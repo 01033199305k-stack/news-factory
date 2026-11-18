@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-18-news-uae-ship-attacked-strait-of-hormuz-2026",
+  "topic": "호르무즈 해협서 UAE 선박 피격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 16:41 KST",
+  "source": "NDTV·Reuters·Gulf News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixgFBVV95cUxOd0otMXozQUNrekhJLWlpdzg1WW8tcVJZVkhPVkNrTWNRNmY0MDBPLVZnWXNraWJ0X3drck5ST0RHMThaazY5Vmk2ZWVCZVY1UlltQjVOTU5MeEh1N2F4ck5TaVRQYk0yNjlYeERUNU1fQ2dOOEd6bjUzME44dGdiNkpUSEl5Tm5uT3JYZW5nMTdVZEZQVllVaVFScHRxM1BibUk2SXZiZWZoUjFnZEFjbWpoTFNHMk5kRElfWi1CQVhFTTFlT0E",
+    "related": [
+      [
+        "UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz",
+        "Reuters"
+      ],
+      [
+        "UAE State Oil Firm Ship Hit In Hormuz, 11 Injured, 1 Missing",
+        "NDTV"
+      ],
+      [
+        "ADNOC vessel attacked in Strait of Hormuz, 1 missing, 11 injured",
+        "Gulf News"
+      ],
+      [
+        "Tanker Ablaze Off UAE as More Attacks Rattle Gulf Shipping",
+        "gCaptain"
+      ],
+      [
+        "Sinokor-linked VLCCs attacked: four injured in first attack, second sees tanker evacuated off UAE",
+        "Riviera Maritime Media"
+      ]
+    ],
+    "event_key": "uae_ship_attacked_strait_of_hormuz_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈 해협서\nUAE 선박 [[피격]]",
+      "sub": "선원 1명 실종·11명 부상 발생",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "11명"
+        },
+        {
+          "k": "실종",
+          "v": "1명"
+        }
+      ],
+      "alt": "호르무즈 해협서 UAE 선박 피격",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "아랍에미리트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아랍에미리트\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "UAE 선박 피격",
+          "d": "아랍에미리트 국영석유회사 ADNOC L&S 소속 선박이 호르무즈 해협에서 피격됐습니다 (로이터)."
+        },
+        {
+          "t": "선원 인명 피해",
+          "d": "이번 공격으로 선원 11명이 다치고 1명이 실종됐습니다 (NDTV·걸프뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호르무즈 해협서 UAE 선박 피격",
+        "선원 11명 부상 (NDTV)",
+        "선원 1명 실종 (로이터)"
+      ],
+      "unconfirmed": [
+        "공격 주체 및 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Gulf News",
+        "NDTV",
+        "Reuters",
+        "Riviera Maritime Media",
+        "gCaptain",
+        "2026.11.18 19:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협서 UAE 선박 피격… 11명 부상·1명 실종\n\n· UAE 국영석유회사 소속 선박이 호르무즈 해협에서 공격받았습니다 (로이터)\n· 선원 11명이 다치고 1명이 실종된 것으로 집계됐습니다 (NDTV·걸프뉴스)\n· 정확한 공격 주체와 경위는 확인되지 않았습니다 (gCaptain)\n\n출처: 로이터·NDTV·걸프뉴스·gCaptain 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 UAE 선박이 공격받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "아랍에미리트 인근 호르무즈 해협에서 발생한 사건입니다.",
+      "card": "map"
+    },
+    {
+      "text": "NDTV 등 외신은 선원 11명이 다치고 1명이 실종됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격 주체와 구체적인 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "호르무즈 해협서\n무슨 [[일]]이?",
+  "broll": [
+    "oil tanker sea",
+    "cargo ship ocean"
+  ],
+  "place_en": "Strait of Hormuz"
+}

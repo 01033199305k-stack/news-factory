@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "spain_high_speed_train_collision_2026",
-    "topic": "스페인 고속열차 충돌 최소 10명 사망",
-    "slug": "2026-10-28-news-spain-high-speed-train-collision-2026",
-    "cluster": "CBMiiAFBVV95cUxONUdwT0xaYXdCRDRhX0dTRkRsV3FuQVNmeFJyUFRNNmVkRHV2Y3pGQVNHanhwN1kzTlc5MFRUT1FXY3RlRUR4eXVHVUIyXzA4bGxDdTJEa3p3RVJadHNHcmRlNGxIYS0wbmNUMHJXQ1lXLVhtWnRSV2VPa1UwSWJ3U20tN0ppYVZU",
-    "badge": "breaking",
-    "at": 1793182284.8720274,
-    "country": "스페인",
-    "category": "사고"
-  },
-  {
     "event_key": "qatar_iran_peace_proposal_rejection_2026",
     "topic": "카타르, 종전안 전달 이란 “수용 불가” 거부",
     "slug": "2026-10-28-news-qatar-iran-peace-proposal-rejection-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794993156.5680382,
     "country": "이스라엘",
+    "category": "국제"
+  },
+  {
+    "event_key": "uae_ship_attacked_strait_of_hormuz_2026",
+    "topic": "호르무즈 해협서 UAE 선박 피격",
+    "slug": "2026-11-18-news-uae-ship-attacked-strait-of-hormuz-2026",
+    "cluster": "CBMixgFBVV95cUxOd0otMXozQUNrekhJLWlpdzg1WW8tcVJZVkhPVkNrTWNRNmY0MDBPLVZnWXNraWJ0X3drck5ST0RHMThaazY5Vmk2ZWVCZVY1UlltQjVOTU5MeEh1N2F4ck5TaVRQYk0yNjlYeERUNU1fQ2dOOEd6bjUzME44dGdiNkpUSEl5Tm5uT3JYZW5nMTdVZEZQVllVaVFScHRxM1BibUk2SXZiZWZoUjFnZEFjbWpoTFNHMk5kRElfWi1CQVhFTTFlT0E",
+    "badge": "breaking",
+    "at": 1794996403.8601837,
+    "country": "아랍에미리트",
     "category": "국제"
   }
 ]
