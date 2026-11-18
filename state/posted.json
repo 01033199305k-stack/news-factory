@@ -43893,5 +43893,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794971817
+  },
+  {
+    "slug": "2026-11-18-news-korea-taean-fishing-boat-missing-2026",
+    "event_ms": 1794965681000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 충남 태안 해상에서 승선원 7명이 탄 어선이 실종됐습니다.\n\n· 태안 서격렬비도 인근 해상에서 어선 위치 신호가 끊겼습니다 (MBC·YTN)\n· 정부와 해경이 긴급 구조본부를 가동하고 수색에 나섰습니다 (MBC·YTN)\n\n출처: MBC·YTN 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17914160307487885",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df3nQD_jIqe",
+        "kind": "carousel",
+        "at": 1794974958
+      },
+      "instagram": {
+        "id": "17957007048337938",
+        "permalink": "https://www.instagram.com/reel/Df3nmIsDLTk/",
+        "kind": "reel",
+        "at": 1794975151
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1794975162
+      },
+      "tiktok": {
+        "id": "6afd25bcf38e9cc54861b280",
+        "permalink": "",
+        "kind": "video",
+        "at": 1794975365
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794975375
   }
 ]

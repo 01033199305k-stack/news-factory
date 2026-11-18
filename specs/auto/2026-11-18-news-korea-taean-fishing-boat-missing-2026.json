@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-18-news-korea-taean-fishing-boat-missing-2026",
+  "topic": "충남 태안 해상서 어선 실종",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 10:34 KST",
+  "source": "MBC 뉴스·YTN·경향신문 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE1rOUlQMVFENVpRNGNNd0ljWGNOSVBuczhsSEdYRl9NaGk4cFRndHJwLUttUjRxdldaU2cyM0ZWMUJoRTdrZVd4QUd3QTFBZFhCRC1UZFRoWFJEeHNNMUoyMTdWYUViUjFMeGJMZ1RaWDJIM0xFMU1j0gF3QVVfeXFMTUVhcmMyZlEyeFYwMEI4WVJyREJsRThmZExZa3dQRWFuVmYyeDFOREY5NV9xaVdmTTdYZ09PbndjYjNuSG52Xy1LZEN0NVFEVXhvNEhtS3FtRVR3YloyWHdYMERBdkdNZDUtMnE3WFZqLXVWeVE3VDA",
+    "related": [
+      [
+        "태안 서격렬비도 해상서 7명 탄 어선 실종‥구조본부 가동",
+        "MBC 뉴스"
+      ],
+      [
+        "[영상]새벽에 끊긴 연락···태안 앞바다서 7명 탄 어선 실종",
+        "경향신문"
+      ],
+      [
+        "태안 해상서 7명 탄 어선 실종...'긴급대응체계' 가동",
+        "YTN"
+      ],
+      [
+        "행정안전부 장관, 충남 태안군 해역 인근 위치소실 어선 발생 관련 긴급지시",
+        "서울Pn"
+      ],
+      [
+        "한 총리, 태안 어선 실종에 \"수색에 모든 조치\"",
+        "MBC 뉴스"
+      ]
+    ],
+    "event_key": "korea_taean_fishing_boat_missing_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "충남 태안 해상서\n어선 [[실종]]",
+      "sub": "승선원 7명 탑승… 해경·정부 긴급 수색",
+      "chips": [
+        {
+          "k": "승선 인원",
+          "v": "7명"
+        }
+      ],
+      "alt": "충남 태안 해상서 어선 실종",
+      "map": {
+        "lat": 36.7454236,
+        "lon": 126.29836,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n충남 태안",
+      "video_only": true,
+      "map": {
+        "lat": 36.7454236,
+        "lon": 126.29836,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "충남 태안"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해상서 연락 두절",
+          "d": "충남 태안 서격렬비도 해상에서 어선의 위치 신호가 끊겼습니다 (MBC·YTN)."
+        },
+        {
+          "t": "긴급 수색 가동",
+          "d": "정부와 해양경찰이 구조본부를 가동하고 수색 작업을 시작했습니다 (MBC·YTN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "7명 승선 어선 실종",
+        "긴급 구조본부 수색"
+      ],
+      "unconfirmed": [
+        "위치 소실 원인",
+        "승선원 생사 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "YTN",
+        "경향신문",
+        "서울Pn",
+        "2026.11.18 13:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 충남 태안 해상에서 승선원 7명이 탄 어선이 실종됐습니다.\n\n· 태안 서격렬비도 인근 해상에서 어선 위치 신호가 끊겼습니다 (MBC·YTN)\n· 정부와 해경이 긴급 구조본부를 가동하고 수색에 나섰습니다 (MBC·YTN)\n\n출처: MBC·YTN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "충남 태안 해상에서 7명이 탄 어선이 실종됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "충남 태안 서격렬비도 인근 바다에서 어선의 위치 신호가 끊어졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "해경과 정부가 긴급 구조본부를 가동하고 수색에 나섰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 실종 원인과 승선원의 안위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "태안 앞바다서\n[[어선]] 실종",
+  "broll": [
+    "coast guard boat",
+    "sea rescue search"
+  ],
+  "place_en": "Taean, South Korea"
+}

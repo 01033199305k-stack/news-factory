@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "canada_uae_trade_defence_agreement_2026",
-    "topic": "캐나다·UAE 무역·국방 협정 체결",
-    "slug": "2026-10-28-news-canada-uae-trade-defence-agreement-2026",
-    "cluster": "CBMikgFBVV95cUxNVlZyZUhRTFlaX1JCLVRSSFJCcXFLT2ZCNGhkVTRUcW8xelVUeWZXUlR5cHpIZEg2WDd4UnEtZjZHTUE4NmprZmxJN1hKa0lVdHRCay14czZsdldteVE4VndYbHZtUGpSenFHcElzVnlVUVVXYWRQbUUzVnVZblJSeFZrc21iUk9QYWFfd2lxQ3Vidw",
-    "badge": "breaking",
-    "at": 1793145081.8725944,
-    "country": "캐나다",
-    "category": "국제"
-  },
-  {
     "event_key": "villa_vie_residences_cambodia_suspended_2026",
     "topic": "연료비 폭등으로 크루즈선 운항 중단 승객 200여 명 캄보디아 하선",
     "slug": "2026-10-28-news-villa-vie-residences-cambodia-suspended-2026",
@@ -2998,5 +2988,15 @@
     "at": 1794971460.5571654,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "korea_taean_fishing_boat_missing_2026",
+    "topic": "충남 태안 해상서 어선 실종",
+    "slug": "2026-11-18-news-korea-taean-fishing-boat-missing-2026",
+    "cluster": "CBMid0FVX3lxTE1rOUlQMVFENVpRNGNNd0ljWGNOSVBuczhsSEdYRl9NaGk4cFRndHJwLUttUjRxdldaU2cyM0ZWMUJoRTdrZVd4QUd3QTFBZFhCRC1UZFRoWFJEeHNNMUoyMTdWYUViUjFMeGJMZ1RaWDJIM0xFMU1j0gF3QVVfeXFMTUVhcmMyZlEyeFYwMEI4WVJyREJsRThmZExZa3dQRWFuVmYyeDFOREY5NV9xaVdmTTdYZ09PbndjYjNuSG52Xy1LZEN0NVFEVXhvNEhtS3FtRVR3YloyWHdYMERBdkdNZDUtMnE3WFZqLXVWeVE3VDA",
+    "badge": "breaking",
+    "at": 1794974910.3674054,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]
