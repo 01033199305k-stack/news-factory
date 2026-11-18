@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-18-news-minnesota-uber-driver-brutal-attack-2026",
+  "topic": "미 미네소타서 우버 운전자 목 졸리고 치여",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 12:00 KST",
+  "source": "Al Jazeera·Hindustan Times·Audacy 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8gFBVV95cUxPU1NuSWJQWW5MMGtHdGk3RVc0bjZETzRxS1A1VmI0VURZWlByZy1lU0JkMV9BbjdZVzBQbmY1SlZIRGdrZUV1UXowQjNvN2MxbWQxalY3dEJFbUhabk53blhPb2JXNmlIcS1iTlJjby00dG81LUh1SUNaMVlBSGQteGJHcE9DUVB2ZDQ2cUtuUWxERkRGNmJPM09IZDBYN0o5bmlJdFJoamdET3JWVHN6WF84cmdyWTg3MG04QjNzX091eGVrMFkxeEp3bFdkVlNZaHhTX3FsRUJlZWdENHI3QU0wRUYwTTBmX080dnNVa25xQdIB9wFBVV95cUxOZ2ZwRHowZVVKZTI1THZWdFRJRkl5emU4WEprVFZscU9MNmVxTlo0MmVVLWpCdUROVC1SZ0JTaXFOSV9HTkotWkhHak5tVFhxNmlEeGNDa0tsT0Q1U19vbHNJSmlyejFrR25GZE0zZFR0NXZXTnhNS0dLUnZ6NC1GWkxuVVRXVU8tSTRrLWVyMzk5aEIxZVJiSE1hYTVfMDBlNllkYXlRNzlWRWw0ekFHV3kzMTd4V1pGclMwTzVRZUs0dzVkSGYwUGJIbGhidm4wbGxZYjVnSTBzWGtobkFSSVcxSkxlREZhTDluSjlMSVJmd3BoalJ3",
+    "related": [
+      [
+        "Hopkins man Samit Patel charged with attempted murder, carjacking after brutal attack on Uber driver | Trending",
+        "Hindustan Times"
+      ],
+      [
+        "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
+        "Al Jazeera"
+      ],
+      [
+        "Indian-origin man booked after Somali Uber driver’s assault in US. ‘I don’t like that name’",
+        "ThePrint"
+      ],
+      [
+        "Hennepin County Attorney: Not enough evidence to pursue hate crime charges in Hopkins Uber assault",
+        "Audacy"
+      ],
+      [
+        "A Somali American Uber driver was strangled and run over by a passenger, authorities say",
+        "The Journal"
+      ]
+    ],
+    "event_key": "minnesota_uber_driver_brutal_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 [[미네소타]]서 우버 운전자\n목 졸리고 치여",
+      "sub": "우버 운전자 폭행 사건이 발생했습니다",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "미네소타"
+        }
+      ],
+      "alt": "미 미네소타서 우버 운전자 목 졸리고 치여",
+      "map": {
+        "lat": 45.9896587,
+        "lon": -94.6113288,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n미네소타",
+      "video_only": true,
+      "map": {
+        "lat": 45.9896587,
+        "lon": -94.6113288,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미네소타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "피해자 상태",
+          "d": "소말리아계 미국인 우버 운전자가 승객에게 목 졸린 뒤 차에 치였습니다 (Al Jazeera·The Journal)."
+        },
+        {
+          "t": "체포 및 기소",
+          "d": "현지 남성이 살인미수와 차량 강탈 혐의로 기소됐습니다 (Hindustan Times)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "소말리아계 우버 운전자 피해",
+        "남성 승객 살인미수 기소",
+        "목 조름 및 차량 역과 피해"
+      ],
+      "unconfirmed": [
+        "정확한 범행 동기",
+        "증오범죄 적용 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Audacy",
+        "Hindustan Times",
+        "The Journal",
+        "ThePrint",
+        "2026.11.18 13:31 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 미네소타서 우버 운전자 목 졸리고 치여\n\n· 소말리아계 미국인 우버 운전자가 승객에게 목이 졸린 뒤 차에 치이는 폭행을 당했습니다 (Al Jazeera·The Journal)\n· 현지 검찰은 용의자를 살인미수와 차량 강탈 혐의로 기소했습니다 (Hindustan Times)\n\n출처: Al Jazeera·Hindustan Times·The Journal 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 미네소타에서 우버 운전자가 승객에게 목을 졸리고 차에 치이는 사건이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "Al Jazeera 등 외신은 소말리아계 미국인 운전자가 폭행을 당하고, 용의자가 살인미수 혐의로 기소됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "검찰은 증오범죄로 보기에는 증거가 불충분하다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 범행 동기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미 [[미네소타]] 우버 안에서\n무슨 일이?",
+  "broll": [
+    "police tape street night",
+    "car steering wheel interior"
+  ],
+  "place_en": "Minnesota, USA"
+}

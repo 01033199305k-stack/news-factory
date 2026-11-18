@@ -1,0 +1,137 @@
+{
+  "slug": "2026-11-18-news-cia-headquarters-hvac-fire-2026",
+  "topic": "미 CIA 본부에서 화재 공조 시스템서 연기 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 11:06 KST",
+  "source": "BNO News·Daily Express·Daily Mail 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihwFBVV95cUxQZVZxOXRGYzkwc1V4U0haNlVqV0VBNVZHa2VtbGtfWDQ1TWpuaTc3S2JLZnl0c19mUEZCU0NjeGdUSEpqLWktZFBKQW5RamdlOE04ektnTVU3Wlp3VjlFWUVsbzJlZEhtVVdMaHllNHl0VWZ0UTlwZ3RLcTVrT05wUnh6c2NiYjTSAYwBQVVfeXFMTUNCdnFXQlVlcVM4WE5WT1NIcVVZQUNkUzVINDZXVGNXRXNmVjN5SWNHaGRXVjJ2Z29aTEtjWVB4OGtkQU1paWRiMEtabE5mSmpMM1JwQkVUT3dvSjNxYnZpNHh0bEN6dEd6clFkRlBoMU5NZFdYRk5hNS1PX0NOTVg1YktzOU9tVUpac3g",
+    "related": [
+      [
+        "CIA fire LIVE: Headquarters building in Langley reports fire as emergency services",
+        "Daily Express"
+      ],
+      [
+        "Smoke from HVAC at CIA headquarters prompts emergency response",
+        "FOX 5 DC"
+      ],
+      [
+        "Small HVAC fire reported at CIA headquarters in Virginia",
+        "BNO News"
+      ],
+      [
+        "Firefighters Called To CIA Headquarters For Reports Of Smoke",
+        "Patch"
+      ],
+      [
+        "Emergency response at CIA headquarters in DC after smoke reported coming from HVAC system",
+        "Daily Mail"
+      ]
+    ],
+    "event_key": "cia_headquarters_hvac_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 [[CIA 본부]]에서 화재\n[[공조 시스템]]서 연기 발생",
+      "sub": "긴급 소방차가 출동해 대응했습니다",
+      "chips": [
+        {
+          "k": "장소",
+          "v": "CIA 본부"
+        }
+      ],
+      "alt": "미 CIA 본부에서 화재 공조 시스템서 연기 발생",
+      "map": {
+        "lat": 38.9464996,
+        "lon": -77.1588685,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n랭글리",
+      "video_only": true,
+      "map": {
+        "lat": 38.9464996,
+        "lon": -77.1588685,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "랭글리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "긴급 출동",
+          "d": "소방 당국이 출동했습니다 (Daily Express·FOX 5 DC)."
+        },
+        {
+          "t": "화재 원인",
+          "d": "본부 건물 내 공조 시스템에서 연기가 발생했습니다 (FOX 5 DC·Daily Mail)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "CIA 본부 건물",
+        "공조 시스템 연기 발생",
+        "소방 당국 출동"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "인명 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BNO News",
+        "Daily Express",
+        "Daily Mail",
+        "FOX 5 DC",
+        "Patch",
+        "2026.11.18 13:30 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 CIA 본부에서 화재, 공조 시스템서 연기 발생\n\n· 긴급 소방 당국이 출동했습니다 (Daily Express·FOX 5 DC)\n· 본부 건물 내 공조 시스템 부근에서 연기가 피어올랐습니다 (FOX 5 DC·Daily Mail)\n\n출처: Daily Express·FOX 5 DC·Daily Mail 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 CIA 본부 건물에서 화재가 발생해 소방 당국이 출동했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "Daily Express 등 외신은 본부 공조 시스템에서 연기가 피어올랐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인과 인명 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미 [[CIA 본부]]에서\n무슨 일이?",
+  "broll": [
+    "government building exterior",
+    "fire truck emergency lights"
+  ],
+  "place_en": "Langley, Virginia, USA"
+}

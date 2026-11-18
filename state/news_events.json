@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "villa_vie_residences_cambodia_suspended_2026",
-    "topic": "연료비 폭등으로 크루즈선 운항 중단 승객 200여 명 캄보디아 하선",
-    "slug": "2026-10-28-news-villa-vie-residences-cambodia-suspended-2026",
-    "cluster": "CBMikgFBVV95cUxQcWI4RUhjcG1nTkdOMzYyQ1NMNTBqWTFCNTlhWjlMMFNnYlZMc3ZMMHpfWGQyZnAxd2ViT2hwSU1uS1FleDl1V0ZkTENPSFdBYVpSR1kxN2k5S2lzbHd4ZUowMkdZRjZhaV9VSS1scERpUTR2dG9xMjJiYlJMZ2hDY2JXc0dyaWJNTHUyRXpqUDFxUQ",
-    "badge": "brief",
-    "at": 1793164414.2480898,
-    "country": "캄보디아",
-    "category": "경제·과학"
-  },
-  {
-    "event_key": "global_stock_rally_ai_optimism_2026",
-    "topic": "AI 훈풍 타고 글로벌 증시 일제히 상승",
-    "slug": "2026-10-28-news-global-stock-rally-ai-optimism-2026",
-    "cluster": "CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf",
-    "badge": "brief",
-    "at": 1793171945.7012389,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "belgrade_israeli_embassy_attack_2026",
     "topic": "세르비아 이스라엘 대사관 흉기 테러 시도",
     "slug": "2026-10-28-news-belgrade-israeli-embassy-attack-2026",
@@ -2998,5 +2978,25 @@
     "at": 1794974910.3674054,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "cia_headquarters_hvac_fire_2026",
+    "topic": "미 CIA 본부에서 화재 공조 시스템서 연기 발생",
+    "slug": "2026-11-18-news-cia-headquarters-hvac-fire-2026",
+    "cluster": "CBMihwFBVV95cUxQZVZxOXRGYzkwc1V4U0haNlVqV0VBNVZHa2VtbGtfWDQ1TWpuaTc3S2JLZnl0c19mUEZCU0NjeGdUSEpqLWktZFBKQW5RamdlOE04ektnTVU3Wlp3VjlFWUVsbzJlZEhtVVdMaHllNHl0VWZ0UTlwZ3RLcTVrT05wUnh6c2NiYjTSAYwBQVVfeXFMTUNCdnFXQlVlcVM4WE5WT1NIcVVZQUNkUzVINDZXVGNXRXNmVjN5SWNHaGRXVjJ2Z29aTEtjWVB4OGtkQU1paWRiMEtabE5mSmpMM1JwQkVUT3dvSjNxYnZpNHh0bEN6dEd6clFkRlBoMU5NZFdYRk5hNS1PX0NOTVg1YktzOU9tVUpac3g",
+    "badge": "breaking",
+    "at": 1794976256.5908265,
+    "country": "미국",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "minnesota_uber_driver_brutal_attack_2026",
+    "topic": "미 미네소타서 우버 운전자 목 졸리고 치여",
+    "slug": "2026-11-18-news-minnesota-uber-driver-brutal-attack-2026",
+    "cluster": "CBMi8gFBVV95cUxPU1NuSWJQWW5MMGtHdGk3RVc0bjZETzRxS1A1VmI0VURZWlByZy1lU0JkMV9BbjdZVzBQbmY1SlZIRGdrZUV1UXowQjNvN2MxbWQxalY3dEJFbUhabk53blhPb2JXNmlIcS1iTlJjby00dG81LUh1SUNaMVlBSGQteGJHcE9DUVB2ZDQ2cUtuUWxERkRGNmJPM09IZDBYN0o5bmlJdFJoamdET3JWVHN6WF84cmdyWTg3MG04QjNzX091eGVrMFkxeEp3bFdkVlNZaHhTX3FsRUJlZWdENHI3QU0wRUYwTTBmX080dnNVa25xQdIB9wFBVV95cUxOZ2ZwRHowZVVKZTI1THZWdFRJRkl5emU4WEprVFZscU9MNmVxTlo0MmVVLWpCdUROVC1SZ0JTaXFOSV9HTkotWkhHak5tVFhxNmlEeGNDa0tsT0Q1U19vbHNJSmlyejFrR25GZE0zZFR0NXZXTnhNS0dLUnZ6NC1GWkxuVVRXVU8tSTRrLWVyMzk5aEIxZVJiSE1hYTVfMDBlNllkYXlRNzlWRWw0ekFHV3kzMTd4V1pGclMwTzVRZUs0dzVkSGYwUGJIbGhidm4wbGxZYjVnSTBzWGtobkFSSVcxSkxlREZhTDluSjlMSVJmd3BoalJ3",
+    "badge": "breaking",
+    "at": 1794976269.2966352,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]
