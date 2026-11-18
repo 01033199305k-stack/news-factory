@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-19-news-us-arrests-russian-agent-silicon-valley",
+  "topic": "미 연방수사당국, 실리콘밸리서 러시아 스파이 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 04:37 KST",
+  "source": "ABC News·Bloomberg.com·CBS News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxPYjVhSG5zbDZpT1QxeTdRTTBPNDl3RjB6TWszZGxtTzFuZEJTdF9JMDN3b2JwTU9QMXRPZ3FnSDZ2Wm55cFpwNlpMVWk1OVotNGItRERJUzVaNEZBai1uSUFuVjFGMGNUc0I5RFBLWVRTMEljZVFIODd0NFI3dTgwVkNaMnVFYVpMOV84anFkVV9pV1A3cUJzNF9tM3VwRm9TMW1iX1hSTXlPZTDSAbABQVVfeXFMTlhGUlNyYkgyTzEzRFF4N3ZRMWROVVQxdXFVbTFxZzA3aW5nQ0d6bXpfbWtHYVZaeE1MdmdhZi1yWXVRR3VSZm1DMzAtQmxBNExqNE1WVnJpbkdMV1hoYlFQRlliX29GTjFXb2MwcDhiV3RvVTJjVjhsYWs5WWh3UzdwbGxIaTBBdXpOU1hhSjYtZG9JUElaY2NITEpaVFVkY0FUdkhkUzFDd1RQb2xNS1M",
+    "related": [
+      [
+        "Feds arrest alleged Russian agent they say stalked employees of Silicon Valley tech and defense firm",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Russian spy stalked, photographed Silicon Valley tech defense company workers, feds say",
+        "Los Angeles Times"
+      ],
+      [
+        "Russian national accused of surveilling US tech company",
+        "Fox News"
+      ],
+      [
+        "U.S. indicts alleged Russian agent for spying on Silicon Valley defense firm",
+        "CBS News"
+      ],
+      [
+        "US Charges Russian as Foreign Agent Targeting Palantir Workers",
+        "Bloomberg.com"
+      ]
+    ],
+    "event_key": "us_arrests_russian_agent_silicon_valley"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 연방수사당국, 실리콘밸리서\n[[러시아 스파이]] 체포",
+      "sub": "기술·방위산업체 직원들을 스토킹하고 감시한 혐의를 받고 있습니다.",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "팔란티어 직원"
+        }
+      ],
+      "alt": "미 연방수사당국, 실리콘밸리서 러시아 스파이 체포",
+      "map": {
+        "lat": 37.4429964,
+        "lon": -122.1545229,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n실리콘밸리",
+      "video_only": true,
+      "map": {
+        "lat": 37.4429964,
+        "lon": -122.1545229,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "실리콘밸리"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "직원 감시",
+          "d": "체포된 러시아 국적의 용의자는 방위산업체 직원들을 미행하고 사진을 촬영했습니다 (CBS)."
+        },
+        {
+          "t": "기소",
+          "d": "미국 연방 검찰은 외국 정보원으로 활동한 혐의로 기소했습니다 (블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 국적 용의자 체포",
+        "실리콘밸리 방위산업체 대상 스토킹"
+      ],
+      "unconfirmed": [
+        "구체적인 유출 기밀 정보 범위",
+        "공범 여부 및 추가 연루자"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Bloomberg.com",
+        "CBS News",
+        "Fox News",
+        "Los Angeles Times",
+        "2026.11.19 07:04 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 연방수사당국, 실리콘밸리서 러시아 스파이 체포\n\n· 방위산업체 직원들을 미행하고 사진을 촬영한 혐의를 받고 있습니다 (CBS)\n· 미국 연방 검찰은 외국 정보원 혐의로 기소했습니다 (블룸버그)\n\n출처: ABC·LA타임스·폭스뉴스·CBS·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 연방수사당국이 실리콘밸리의 방위산업체 직원들을 감시한 러시아 스파이를 체포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS는 용의자가 기술·방위업체 직원들을 미행하고 사진을 촬영했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 검찰은 해당 인물을 외국 정보원 혐의로 기소했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적으로 유출된 기밀 정보가 있는지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "실리콘밸리서\n[[러시아 스파이]]가 한 일은?",
+  "broll": [
+    "tech company building exterior",
+    "federal courthouse exterior"
+  ],
+  "place_en": "Silicon Valley, California"
+}

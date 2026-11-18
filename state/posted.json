@@ -44824,5 +44824,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795036870
+  },
+  {
+    "slug": "2026-11-19-news-us-arrests-russian-agent-silicon-valley",
+    "event_ms": 1795030661000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 연방수사당국, 실리콘밸리서 러시아 스파이 체포\n\n· 방위산업체 직원들을 미행하고 사진을 촬영한 혐의를 받고 있습니다 (CBS)\n· 미국 연방 검찰은 외국 정보원 혐의로 기소했습니다 (블룸버그)\n\n출처: ABC·LA타임스·폭스뉴스·CBS·블룸버그 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18122179765969841",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df5iYaUo5L0",
+        "kind": "carousel",
+        "at": 1795039516
+      },
+      "instagram": {
+        "id": "18134065879833948",
+        "permalink": "https://www.instagram.com/reel/Df5isUUAul3/",
+        "kind": "reel",
+        "at": 1795039702
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1795039712
+      },
+      "tiktok": {
+        "id": "7709636851149147399",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709636851149147399",
+        "kind": "video",
+        "at": 1795039835
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795039845
   }
 ]

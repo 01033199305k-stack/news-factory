@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_sanctions_north_korean_network_2026",
-    "topic": "미국 정부, 미국 기업 침투한 북한 네트워크 제재",
-    "slug": "2026-10-29-news-us-sanctions-north-korean-network-2026",
-    "cluster": "CBMiwgFBVV95cUxPSFBwd05zdzczbzhraDVqaWc4ZTI1SWtvSFo0ZUpMS3VjUno4NTNDbUJpdUp5aF9TR01RN0xCSWpEMGFQaTJVZ1dxRkFZYWx0bDRYYzh3Q2VHUUR6X2lVeTJjRzFsYnhieG53NlBrUVdfOXVtMGxtZEJrejlCUURYUlRUTE85ZnhXY1FjclpQRElmb3B0dkFTM3VibFFXWXRCMEc2eGR5cGRZVHZJTHM3X3BWS0ZudTdZOWkxbUNZUWkxQdIBxwFBVV95cUxQdDcwdmphUkhNWU5neVJvaTJxZGd3cTJ1R3FHNnJhcmJpeXhzWkhHWHVOQl82Wm0tTGdLdURBMFpOeldTNTRkM0lxRmFzWUN2Wm5mS2l2Mm9fSlg1dGJQQ0VHbXd6aFBfOU55Q3c1Z2NrTlN4NU81dEhzZU9qVDE4UEMyWHhnclZtSG5lbGhndlFIbDU0aEUxWDhPZDhCMm1feXZNYkRJdTZZT3JRbEM3RFowYmY1bWVSZUVyRGp5eF9xNUl4cUxJ",
-    "badge": "breaking",
-    "at": 1793250762.3142736,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "weil_gotshal_law_firm_dissolve_2026",
     "topic": "대형 로펌 웨일 것셜, 법무법인 해산 추진",
     "slug": "2026-10-29-news-weil-gotshal-law-firm-dissolve-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795036504.9817398,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_arrests_russian_agent_silicon_valley",
+    "topic": "미 연방수사당국, 실리콘밸리서 러시아 스파이 체포",
+    "slug": "2026-11-19-news-us-arrests-russian-agent-silicon-valley",
+    "cluster": "CBMiqwFBVV95cUxPYjVhSG5zbDZpT1QxeTdRTTBPNDl3RjB6TWszZGxtTzFuZEJTdF9JMDN3b2JwTU9QMXRPZ3FnSDZ2Wm55cFpwNlpMVWk1OVotNGItRERJUzVaNEZBai1uSUFuVjFGMGNUc0I5RFBLWVRTMEljZVFIODd0NFI3dTgwVkNaMnVFYVpMOV84anFkVV9pV1A3cUJzNF9tM3VwRm9TMW1iX1hSTXlPZTDSAbABQVVfeXFMTlhGUlNyYkgyTzEzRFF4N3ZRMWROVVQxdXFVbTFxZzA3aW5nQ0d6bXpfbWtHYVZaeE1MdmdhZi1yWXVRR3VSZm1DMzAtQmxBNExqNE1WVnJpbkdMV1hoYlFQRlliX29GTjFXb2MwcDhiV3RvVTJjVjhsYWs5WWh3UzdwbGxIaTBBdXpOU1hhSjYtZG9JUElaY2NITEpaVFVkY0FUdkhkUzFDd1RQb2xNS1M",
+    "badge": "breaking",
+    "at": 1795039460.5890057,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]
