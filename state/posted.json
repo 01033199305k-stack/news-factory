@@ -44275,5 +44275,62 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795000241
+  },
+  {
+    "slug": "2026-11-18-news-trump-xi-putin-china-meeting-2026",
+    "event_ms": 1794992280000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 트럼프 방중 계기 시진핑·푸틴 보호주의 비판\n\n· 도널드 트럼프 미국 대통령이 중국 선전에 도착했습니다 (AP·로이터·워싱턴포스트)\n· 시진핑 중국 국가주석은 아시아태평양 지역에 개방형 무역이 필요하다고 강조했습니다 (AP)\n· 블라디미르 푸틴 러시아 대통령은 서방의 제재를 비판했습니다 (로이터)\n\n이번 미·중·러 정상 간 만남, 어떻게 보십니까?\n출처: AP통신·로이터·워싱턴포스트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18096302459689707",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4WCeYIJ7N",
+        "kind": "carousel",
+        "at": 1794999490
+      },
+      "instagram": {
+        "id": "18019090697749756",
+        "permalink": "https://www.instagram.com/reel/Df4WWH0CPSL/",
+        "kind": "reel",
+        "at": 1794999670
+      },
+      "youtube": {
+        "id": "HVF-9UCU1SY",
+        "permalink": "https://youtube.com/shorts/HVF-9UCU1SY",
+        "kind": "shorts",
+        "at": 1794999687
+      },
+      "tiktok": {
+        "id": "7709483111599377682",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709483111599377682",
+        "kind": "video",
+        "at": 1795004034
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795004044
   }
 ]

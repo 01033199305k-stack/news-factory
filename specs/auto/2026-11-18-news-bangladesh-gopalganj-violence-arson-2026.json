@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-18-news-bangladesh-gopalganj-violence-arson-2026",
+  "topic": "방글라데시 연쇄 폭발·방화 준군사조직 투입",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 20:13 KST",
+  "source": "NDTV·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi-gFBVV95cUxOczJOMjdDcmI5d2FlXzdDdTZqZWlMWGFKMGVZaWxQS2dPOFo3aTRnaHhDLW9wQ2Q2Q1g5VnFoRlNNWncxTFBUOE91TjdlNE5MRUNoRkFWc1lxR0xkNG5xZ2xqZHYyVzlKMDZqM1VENDJtZ1V3MnNlX3MwV2tHNVI2SnVub1J1UDlEdldJWlBBcGdaaEJMV3VIeEpLamtyRGVGemM2QXpta2hUb2tqMEtLNXhySWpTZ1hNcnFaYlF6LXVYa1pMZkRzdVpIZzVQUHFQSlQ0elIwcDV3VXVUNWhiNjRlbUt5THJMRjVJUUE5UW9rSXQ4dnZJbHZ30gH_AUFVX3lxTE5pNER3S1Z4ZkdCYUVyLS10UllTVmFNeW1rdy1la1E3S1ZlTEQySzhZQWwtSjY1ZXBwTG1IR3ZfaEMzZ3I0YTV6a3Q2cTJDRGZzdGtEeHJ1Tk9hSzd4RnlxdDNpcDU1TG1UWV83NHM1dWh1aXVsa1Q0NE5ZNE9tekMyamxXdDNCNlFManpUdDJOdDhKZWdmZy1Ma2dqRHdCRFJrNC1fczZ5cy1rV1g0UTZ3cDRtV3c2MmFGQ2lBWnc5bVRfeFVBdTdCQkVpTUY1a2NtM0loYm1mUVEwTVZqeTdMaElWemRwU1VUVlc2NFpHMGxvNW1JaDdjYklDaDZ2OA",
+    "related": [
+      [
+        "Bomb blasts, arson rock Bangladesh ahead of Hasina's planned return; paramilitary deployed",
+        "The Times of India"
+      ],
+      [
+        "Violence Erupts In Bangladesh, Local Leader Killed, Police Station Torched",
+        "NDTV"
+      ],
+      [
+        "Violent protests erupt in Hasina’s hometown as tensions rise over her proposed return to Bangladesh",
+        "The Hindu"
+      ],
+      [
+        "Police station in Bangladesh’s Gopalganj set on fire following arrests of Awami League activists",
+        "Asia News Network"
+      ],
+      [
+        "BNP MP Zilany's house set on fire in Gopalganj",
+        "The Business Standard"
+      ]
+    ],
+    "event_key": "bangladesh_gopalganj_violence_arson_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "방글라데시 [[연쇄 폭발·방화]]\n준군사조직 투입",
+      "sub": "자택과 경찰서가 방화 피해를 입었습니다",
+      "chips": [
+        {
+          "k": "피해",
+          "v": "경찰서·자택 방화"
+        }
+      ],
+      "alt": "방글라데시 연쇄 폭발·방화 준군사조직 투입",
+      "map": {
+        "lat": 23.0049937,
+        "lon": 89.8303176,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "방글라데시"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "방글라데시\n고팔간지",
+      "video_only": true,
+      "map": {
+        "lat": 23.0049937,
+        "lon": 89.8303176,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "고팔간지"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "경찰서 방화",
+          "d": "고팔간지 경찰서와 자택이 방화 피해를 입었습니다 (NDTV·비즈니스 스탠다드)."
+        },
+        {
+          "t": "준군사조직 투입",
+          "d": "폭력 시위가 발생해 준군사조직이 배치됐습니다 (타임스 오브 인디아)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "경찰서 및 자택 방화",
+        "준군사조직 배치"
+      ],
+      "unconfirmed": [
+        "정확한 전체 인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Asia News Network",
+        "NDTV",
+        "The Business Standard",
+        "The Hindu",
+        "The Times of India",
+        "2026.11.18 21:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 방글라데시서 연쇄 폭발과 방화가 발생해 준군사조직이 투입됐습니다.\n\n· 고팔간지 경찰서와 자택이 방화 피해를 입었습니다 (NDTV·비즈니스 스탠다드)\n· 셰이크 하시나의 귀국 계획을 둘러싸고 시위가 발생했습니다 (타임스 오브 인디아·더 힌두)\n· 준군사조직이 배치됐습니다 (타임스 오브 인디아)\n\n출처: 타임스 오브 인디아·NDTV·더 힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "방글라데시에서 연쇄 폭발과 방화 사태가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "고팔간지 경찰서와 자택이 방화 피해를 입었습니다.",
+      "card": "map"
+    },
+    {
+      "text": "인도 타임스 오브 인디아는 준군사조직이 배치됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[방글라데시]]에서\n무슨 일이?",
+  "broll": [
+    "police station fire",
+    "smoke street night"
+  ],
+  "place_en": "Gopalganj, Bangladesh"
+}
