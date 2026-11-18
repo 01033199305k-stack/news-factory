@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "flavio_bolsonaro_miami_flight_2026",
-    "topic": "브라질 대선 패배 후 마이애미로 이동",
-    "slug": "2026-10-29-news-flavio-bolsonaro-miami-flight-2026",
-    "cluster": "CBMiW0FVX3lxTE5RejV5RndiaW9vWlI2U2wweUlKcEtmUjNJeGJqTGk2dm5IS09NSVFiTkR5MmNmd1NoWnZQRVJHYTdFS3dROE5xQ25rWTQxNzZzQ25VU2FwQy1mcFk",
-    "badge": "breaking",
-    "at": 1793225268.3620038,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "fed_interest_rate_hold_2026",
     "topic": "미 연준 기준금리 동결 결정했다",
     "slug": "2026-10-29-news-fed-interest-rate-hold-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795007397.5797513,
     "country": "일본",
+    "category": "국제"
+  },
+  {
+    "event_key": "riyadh_missile_explosion_2026",
+    "topic": "사우디 수도 리야드서 미사일 요격 폭발 발생",
+    "slug": "2026-11-18-news-riyadh-missile-explosion-2026",
+    "cluster": "CBMiqwFBVV95cUxPcTkxOG1MNU1FMVlyTHV2Mjg1Sl9ENU5XbFRNZnQweGp4T0JPenBCMkFSVlREU1JRRGVsc24zTmRkOXhtNXZ2dW9sS2ZOb2RNSXlUUVQ3eHJtN05ZRkY4eEVLeVdudjJpXzlrWWpQQWk5UkQxdWdVOTc0OUlqdWFwSU5mSXZ2TWhkMjdYTjM2ZnczdmVHQWpOUE5xdG1nb3VJaTVzN3Mxd3Y0bU3SAbABQVVfeXFMT1hQbEM3U0VQTEY3Nmp3QXdhb21kMldLUjk4SVF6VDdtaVB5bmRPWWZxTUN1dEppYVppbkpxSUNmNGpXVkVtNFlwYXc1aFlKcGMzYXp0MlRzTjZHTzdLLVlfOFBwcFFFbFc2TWplSlI0YnhTbGtYQ0J2d3VWS0hDblFVaFNGV3gyc1h0anliVGdfRVF1WVVPSDdDOEN6cXYzX2xibVhZckEyZ1lSVjlxa3U",
+    "badge": "breaking",
+    "at": 1795011011.2403724,
+    "country": "사우디아라비아",
     "category": "국제"
   }
 ]

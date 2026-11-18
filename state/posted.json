@@ -44387,5 +44387,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795007994
+  },
+  {
+    "slug": "2026-11-18-news-riyadh-missile-explosion-2026",
+    "event_ms": 1795003824000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 사우디 수도 리야드 상공서 미사일 요격 폭발 발생 (NDTV·데칸 크로니클)\n\n· 사우디 연합군은 후티 군사 시설 60곳을 타격했습니다 (알자지라)\n· 사우디 당국은 남부 3개 도시의 위험이 지나갔다고 밝혔습니다 (타임스 오브 이스라엘)\n\n이번 미사일 요격 사태에 대해 여러분은 어떻게 보십니까?\n\n출처: 알자지라·아랍 뉴스·타임스 오브 이스라엘 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18125426810516550",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4sG9uG0aR",
+        "kind": "carousel",
+        "at": 1795011062
+      },
+      "instagram": {
+        "id": "18136007965747955",
+        "permalink": "https://www.instagram.com/reel/Df4sfWfHO9P/",
+        "kind": "reel",
+        "at": 1795011283
+      },
+      "youtube": {
+        "id": "LoFNkBi4pxA",
+        "permalink": "https://youtube.com/shorts/LoFNkBi4pxA",
+        "kind": "shorts",
+        "at": 1795011323
+      },
+      "tiktok": {
+        "id": "7709515278157204737",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709515278157204737",
+        "kind": "video",
+        "at": 1795011580
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795011590
   }
 ]

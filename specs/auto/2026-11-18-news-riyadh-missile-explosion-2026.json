@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-18-news-riyadh-missile-explosion-2026",
+  "topic": "사우디 수도 리야드서 미사일 요격 폭발 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 21:10 KST",
+  "source": "Al Jazeera·NDTV·Arab News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxPcTkxOG1MNU1FMVlyTHV2Mjg1Sl9ENU5XbFRNZnQweGp4T0JPenBCMkFSVlREU1JRRGVsc24zTmRkOXhtNXZ2dW9sS2ZOb2RNSXlUUVQ3eHJtN05ZRkY4eEVLeVdudjJpXzlrWWpQQWk5UkQxdWdVOTc0OUlqdWFwSU5mSXZ2TWhkMjdYTjM2ZnczdmVHQWpOUE5xdG1nb3VJaTVzN3Mxd3Y0bU3SAbABQVVfeXFMT1hQbEM3U0VQTEY3Nmp3QXdhb21kMldLUjk4SVF6VDdtaVB5bmRPWWZxTUN1dEppYVppbkpxSUNmNGpXVkVtNFlwYXc1aFlKcGMzYXp0MlRzTjZHTzdLLVlfOFBwcFFFbFc2TWplSlI0YnhTbGtYQ0J2d3VWS0hDblFVaFNGV3gyc1h0anliVGdfRVF1WVVPSDdDOEN6cXYzX2xibVhZckEyZ1lSVjlxa3U",
+    "related": [
+      [
+        "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
+        "Al Jazeera"
+      ],
+      [
+        "Coalition destroys Houthi missile launched toward Riyadh",
+        "Arab News"
+      ],
+      [
+        "\"Extremely Loud\" Explosion In Saudi's Riyadh, Smoke Seen Near Airport",
+        "NDTV"
+      ],
+      [
+        "Saudi Arabia says danger has passed in three southern cities after alerts",
+        "The Times of Israel"
+      ],
+      [
+        "Powerful Explosion Rocks Riyadh As Saudi Arabia Intercepts Missiles",
+        "Deccan Chronicle"
+      ]
+    ],
+    "event_key": "riyadh_missile_explosion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "사우디 수도 [[리야드]]서\n미사일 요격 폭발 발생",
+      "sub": "공항 인근에서 연기가 목격됐습니다",
+      "chips": [
+        {
+          "k": "목표",
+          "v": "60곳"
+        }
+      ],
+      "alt": "사우디 수도 리야드서 미사일 요격 폭발 발생",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "연합군 공습",
+          "d": "사우디 연합군은 후티 군사 시설 60곳을 타격했습니다 (알자지라)"
+        },
+        {
+          "t": "위험 해제",
+          "d": "사우디 당국은 남부 3개 도시의 위험이 지나갔다고 밝혔습니다 (타임스 오브 이스라엘)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 수도 리야드 상공서 미사일 요격 폭발",
+        "연합군의 후티 군사 시설 타격"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "요격된 미사일의 발사 주체"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Arab News",
+        "Deccan Chronicle",
+        "NDTV",
+        "The Times of Israel",
+        "2026.11.18 23:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 수도 리야드 상공서 미사일 요격 폭발 발생 (NDTV·데칸 크로니클)\n\n· 사우디 연합군은 후티 군사 시설 60곳을 타격했습니다 (알자지라)\n· 사우디 당국은 남부 3개 도시의 위험이 지나갔다고 밝혔습니다 (타임스 오브 이스라엘)\n\n이번 미사일 요격 사태에 대해 여러분은 어떻게 보십니까?\n\n출처: 알자지라·아랍 뉴스·타임스 오브 이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아 수도 리야드 상공에서 미사일이 요격되며 폭발음이 울렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NDTV 등 외신은 공항 인근에서 연기가 목격됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "사우디 연합군은 후티 군사 시설 60곳을 타격했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "남부 3개 도시의 위험은 지나간 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 미사일 발사 경로는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중동 지역 교전 격화 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "사우디 수도 [[리야드]]서\n무슨 일이?",
+  "broll": [
+    "city skyline night",
+    "smoke rising sky"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}
