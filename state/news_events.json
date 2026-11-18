@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "fed_interest_rate_hold_2026",
-    "topic": "미 연준 기준금리 동결 결정했다",
-    "slug": "2026-10-29-news-fed-interest-rate-hold-2026",
-    "cluster": "CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA",
-    "badge": "breaking",
-    "at": 1793225355.7665608,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "germany_wildlife_park_wolf_attack_2026",
     "topic": "독일 야생동물 공원에서 늑대가 어린이 습격",
     "slug": "2026-10-29-news-germany-wildlife-park-wolf-attack-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795011011.2403724,
     "country": "사우디아라비아",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_kerch_bridge_attack_2026",
+    "topic": "우크라이나, 크림대교 타격 유럽산 미사일 사용",
+    "slug": "2026-11-18-news-ukraine-kerch-bridge-attack-2026",
+    "cluster": "CBMihAFBVV95cUxNczkySkg0dEZvQ1Rpdks4SmZDNFhUQk5iVkFHckpKSEdUbk1WbW5iaHJPV3B2S2FNRVk3QmtRMFlWdzFiVy16eHFMbEtib19ESmxNQ2I1cFhOTGFISTdocUVPeTZhVEFSRVNyenRYZVlHc25OX1FWUlRQbzRLdU12eTVTWHI",
+    "badge": "breaking",
+    "at": 1795011708.05592,
+    "country": "우크라이나",
     "category": "국제"
   }
 ]

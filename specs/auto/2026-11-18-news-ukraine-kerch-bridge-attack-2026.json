@@ -1,0 +1,113 @@
+{
+  "slug": "2026-11-18-news-ukraine-kerch-bridge-attack-2026",
+  "topic": "우크라이나, 크림대교 타격 유럽산 미사일 사용",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 21:29 KST",
+  "source": "Financial Times·NBC News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxNczkySkg0dEZvQ1Rpdks4SmZDNFhUQk5iVkFHckpKSEdUbk1WbW5iaHJPV3B2S2FNRVk3QmtRMFlWdzFiVy16eHFMbEtib19ESmxNQ2I1cFhOTGFISTdocUVPeTZhVEFSRVNyenRYZVlHc25OX1FWUlRQbzRLdU12eTVTWHI",
+    "related": [
+      [
+        "Ukraine’s ‘flying modems’ helped take down Putin’s bridge",
+        "Financial Times"
+      ],
+      [
+        "Russian Offensive Campaign Assessment, November 17, 2026",
+        "Institute for the Study of War"
+      ],
+      [
+        "Putin enjoys boost of historic Trump-Xi talks, even as bridge attack deals a blow to his pride",
+        "NBC News"
+      ],
+      [
+        "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+        "The New York Times"
+      ],
+      [
+        "European-made Ruta missiles only foreign weapons used in Ukraine’s Crimean Bridge strike, company says",
+        "Reuters"
+      ]
+    ],
+    "event_key": "ukraine_kerch_bridge_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나, 크림대교 타격\n[[유럽산 미사일]] 사용",
+      "sub": "러시아와 크림반도를 잇는 교량이 공격을 받았습니다",
+      "chips": [
+        {
+          "k": "사용 무기",
+          "v": "유럽산 미사일"
+        }
+      ],
+      "alt": "우크라이나, 크림대교 타격 유럽산 미사일 사용"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미사일 출처",
+          "d": "공격에 사용된 외국산 무기는 유럽산 루타 미사일뿐이라고 제조사가 밝혔습니다 (로이터)."
+        },
+        {
+          "t": "피해 영향",
+          "d": "이번 교량 공격이 러시아 측에 타격을 주었다고 외신들이 전했습니다 (NBC 뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나의 크림대교 공격",
+        "유럽산 루타 미사일 사용"
+      ],
+      "unconfirmed": [
+        "정확한 교량 파손 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Financial Times",
+        "Institute for the Study of War",
+        "NBC News",
+        "Reuters",
+        "The New York Times",
+        "2026.11.18 23:21 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나, 크림대교 타격 유럽산 미사일 사용\n\n· 유럽산 루타 미사일이 이번 공격에 사용된 유일한 외국산 무기라고 제조사가 밝혔습니다 (로이터)\n· 교량 공격이 러시아 측에 타격을 주었다고 외신들이 전했습니다 (NBC 뉴스)\n\n출처: 파이낸셜 타임스·로이터·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 러시아와 크림반도를 잇는 크림대교를 타격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터는 이번 공격에 유럽산 루타 미사일이 사용됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "교량 파손의 정확한 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "우크라이나가 타격한\n[[크림대교]]",
+  "broll": [
+    "bridge sea structure",
+    "missile launch smoke"
+  ],
+  "place_en": "Kerch Bridge, Crimea"
+}
