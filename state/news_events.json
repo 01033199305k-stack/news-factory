@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "weil_gotshal_law_firm_dissolve_2026",
-    "topic": "대형 로펌 웨일 것셜, 법무법인 해산 추진",
-    "slug": "2026-10-29-news-weil-gotshal-law-firm-dissolve-2026",
-    "cluster": "CBMimAFBVV95cUxONFUyQVI3VGZ3WF9abnJQX01sMVB6djByZDBvZzlETVhXWWlWbDNrWDVMeDZYUXlWd1BNbG00aTM0N0ZBbzQ4TWlsQ05BSWx4Z0NBbWVtN1hiQlNzZGVPbTUwT29zSWZjbnBtNGQ3dUtTMjFUVmZTZHV1TzJTRjJCUGVOdlFnSmhzVXgtRnZPYll6R20ta24yQQ",
-    "badge": "breaking",
-    "at": 1793250791.138232,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "north_korea_barrage_missiles_launch_east_sea_2026",
     "topic": "북한, 동해상으로 탄도미사일 10여 발 발사",
     "slug": "2026-10-29-news-north-korea-barrage-missiles-launch-east-sea-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795039460.5890057,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "anthropic_ipo_pricing_83_dollars_2026",
+    "topic": "AI 기업 앤스로픽 IPO 공모가 83달러",
+    "slug": "2026-11-19-news-anthropic-ipo-pricing-83-dollars-2026",
+    "cluster": "CBMizAFBVV95cUxQYmJBc3JzY0NwYkFWVWFEbGtLUTlvYTRHeFdVUlhTTUhhNFp6TzNIS1ZhejNINXk3ekxNc2lwNklyaXRDNWt3NjJkRldjZkpsTmNDSVYyNHNOTG1FRjBtOFZYelV6b3d1YXk5NmM0LW5RZUp1UHVHLU5FNVgzNlZQX2ZxUmpfTkhpYVBEYm5ZclBZUlk4dEJfYm95SF9aaFV1ZVAtclZZbVJnVE1Sd0xmN21ZLU9uSFh1Si1KRUhfRzhHVGJhT0VYQlEzNmg",
+    "badge": "brief",
+    "at": 1795043743.431269,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

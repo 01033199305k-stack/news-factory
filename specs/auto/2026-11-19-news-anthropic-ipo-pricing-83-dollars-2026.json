@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-19-news-anthropic-ipo-pricing-83-dollars-2026",
+  "topic": "AI 기업 앤스로픽 IPO 공모가 83달러",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 07:29 KST",
+  "source": "Axios·CNN·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMizAFBVV95cUxQYmJBc3JzY0NwYkFWVWFEbGtLUTlvYTRHeFdVUlhTTUhhNFp6TzNIS1ZhejNINXk3ekxNc2lwNklyaXRDNWt3NjJkRldjZkpsTmNDSVYyNHNOTG1FRjBtOFZYelV6b3d1YXk5NmM0LW5RZUp1UHVHLU5FNVgzNlZQX2ZxUmpfTkhpYVBEYm5ZclBZUlk4dEJfYm95SF9aaFV1ZVAtclZZbVJnVE1Sd0xmN21ZLU9uSFh1Si1KRUhfRzhHVGJhT0VYQlEzNmg",
+    "related": [
+      [
+        "Anthropic IPO live: Company said to price stock at $83, begin trading Thursday",
+        "Yahoo Finance"
+      ],
+      [
+        "Anthropic Is Set to Finalize Pricing for Blockbuster I.P.O.",
+        "The New York Times"
+      ],
+      [
+        "Anthropic prices IPO at $83 in historic $1 trillion offering",
+        "Axios"
+      ],
+      [
+        "Anthropic’s Wall Street debut marks a new chapter for AI",
+        "CNN"
+      ],
+      [
+        "Anthropic Sells More Shares Than Planned at a Higher Price Than Expected | What’s News for Nov. 18",
+        "WSJ"
+      ]
+    ],
+    "event_key": "anthropic_ipo_pricing_83_dollars_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "AI 기업 [[앤스로픽]]\nIPO 공모가 83달러",
+      "sub": "뉴욕증시 상장을 앞두고 공모가를 확정하며 거래를 시작합니다.",
+      "chips": [
+        {
+          "k": "공모가",
+          "v": "$83"
+        }
+      ],
+      "alt": "AI 기업 앤스로픽 IPO 공모가 83달러",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "목요일 거래 개시",
+          "d": "앤스로픽은 공모가를 주당 83달러로 확정하고 목요일부터 주식 거래를 시작합니다 (Yahoo Finance)."
+        },
+        {
+          "t": "1조 달러 규모",
+          "d": "이번 기업공개는 1조 달러 규모로 진행됩니다 (Axios)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "앤스로픽 IPO 공모가 83달러 확정",
+        "목요일 거래 개시 예정"
+      ],
+      "unconfirmed": [
+        "상장 첫날 시초가 및 주가 변동 폭"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Axios",
+        "CNN",
+        "The New York Times",
+        "WSJ",
+        "Yahoo Finance",
+        "2026.11.19 08:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] AI 기업 앤스로픽, IPO 공모가 주당 83달러 확정\n\n· 공모가를 주당 83달러로 확정하고 목요일부터 거래를 시작합니다 (Yahoo Finance)\n· 1조 달러 규모의 기업공개로 기록됩니다 (Axios)\n\n대형 AI 기업의 뉴욕증시 입성, 어떻게 보십니까?\n\n출처: Yahoo Finance·The New York Times·Axios·CNN·WSJ 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "AI 기업 앤스로픽이 기업공개 공모가를 주당 83달러로 확정했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "상장을 앞두고 목요일부터 본격적인 거래에 들어갑니다.",
+      "card": "map"
+    },
+    {
+      "text": "Axios는 이번 상장이 1조 달러 규모로 진행된다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "상장 첫날 주가 향방에는 관심이 쏠리고 있습니다.",
+      "card": "check"
+    },
+    {
+      "text": "대형 AI 기업의 증시 입성, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[앤스로픽]] 상장\n공모가 얼마?",
+  "broll": [
+    "stock exchange screen",
+    "wall street street"
+  ],
+  "place_en": "New York, United States"
+}
