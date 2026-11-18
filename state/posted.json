@@ -44771,5 +44771,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795028988
+  },
+  {
+    "slug": "2026-11-19-news-skydance-merges-warner-bros-paramount-tv",
+    "event_ms": 1795025700000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스카이댄스가 워너브라더스 TV와 파라마운트 TV 스튜디오를 합병합니다\n\n· 두 대형 방송 제작사가 하나의 메가 스튜디오로 통합됩니다 (할리우드 리포터)\n· 챈닝 던지와 맷 투넬이 새로운 스튜디오의 공동 대표를 맡습니다 (데드라인)\n\n여러분은 이번 미디어 업계 재편을 어떻게 보십니까?\n\n출처: 할리우드 리포터·데드라인·버라이어티 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18080518487438112",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df5cvZTH6u0",
+        "kind": "carousel",
+        "at": 1795036558
+      },
+      "instagram": {
+        "id": "17997672405103305",
+        "permalink": "https://www.instagram.com/reel/Df5dBt7lCJs/",
+        "kind": "reel",
+        "at": 1795036727
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1795036737
+      },
+      "tiktok": {
+        "id": "7709622335988436230",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709622335988436230",
+        "kind": "video",
+        "at": 1795036860
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795036870
   }
 ]

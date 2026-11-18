@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "alphabet_shares_sell_off_earnings_2026",
-    "topic": "알파벳 주가 10% 급락 검색 매출 성장 둔화 여파",
-    "slug": "2026-10-29-news-alphabet-shares-sell-off-earnings-2026",
-    "cluster": "CBMid0FVX3lxTE5SalhOeEdhMFUtUWRnVl90YWlHLU90SGt2cmJ2b1Y4aDRmRVZJV3VGS3haNkpEa28wcDMzbGR4dTRtZnNvbUM1WDBDeGtsUkNIN1dOUDdtNXgzV0xaZ3R5ZTk4SEhmRzYyR0dtcGp4RFFEVHA3YzNZ0gF8QVVfeXFMT25jby1VNlpYNGp3ekVGUEVKd29Lanc1bndoVFluRGk0WmhrU08zNDVpVFhOazVlMVE5RkhadGM4VEFhaWREaXJpb09WR0U2LVNHVXBma2NpWHNKUURmVi1hZXNqRXlrZGNUMndNZlFzV2JIdEJfa1hNTkNjYQ",
-    "badge": "breaking",
-    "at": 1793240979.1148677,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "us_sanctions_north_korean_network_2026",
     "topic": "미국 정부, 미국 기업 침투한 북한 네트워크 제재",
     "slug": "2026-10-29-news-us-sanctions-north-korean-network-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795021964.6515405,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "skydance_merges_warner_bros_paramount_tv",
+    "topic": "스카이댄스, 워너브라더스·파라마운트 TV 메가 스튜디오 합병",
+    "slug": "2026-11-19-news-skydance-merges-warner-bros-paramount-tv",
+    "cluster": "CBMingFBVV95cUxNV2ozb0trWi1kbVV1RWdLa3B0V2NQaFI4YnlSTmtaSnFrZEc1dFJoVzR5SFplXzZfOUlsc3NfSGNyNVRWVkpBVkpaaGxqdXhUcTI1bHh4WXg3MGFkRHBtV3ZXR2RRcTdnYjUzdUR5cE9zamhGaldDekZnM0Y5T2pLRWNnSlozNDc0NVBjZTdJUm9BN09ubXNZZDFfSzhBQQ",
+    "badge": "breaking",
+    "at": 1795036504.9817398,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-19-news-skydance-merges-warner-bros-paramount-tv",
+  "topic": "스카이댄스, 워너브라더스·파라마운트 TV 메가 스튜디오 합병",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 03:15 KST",
+  "source": "Barron's·Deadline·Los Angeles Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxNV2ozb0trWi1kbVV1RWdLa3B0V2NQaFI4YnlSTmtaSnFrZEc1dFJoVzR5SFplXzZfOUlsc3NfSGNyNVRWVkpBVkpaaGxqdXhUcTI1bHh4WXg3MGFkRHBtV3ZXR2RRcTdnYjUzdUR5cE9zamhGaldDekZnM0Y5T2pLRWNnSlozNDc0NVBjZTdJUm9BN09ubXNZZDFfSzhBQQ",
+    "related": [
+      [
+        "Warner Bros TV & Paramount TV Studios To Merge With Channing Dungey & Matt Thunell As Presidents",
+        "Deadline"
+      ],
+      [
+        "Skydance shakes up TV by collapsing two prominent studios into one",
+        "Los Angeles Times"
+      ],
+      [
+        "Warner Bros. TV, Paramount TV Studios to Combine as a Single Mega-Studio",
+        "The Hollywood Reporter"
+      ],
+      [
+        "Skydance Confirms New Cable Structure as Howard Lee Exits",
+        "Variety"
+      ],
+      [
+        "Skydance to Merge Paramount and Warner Bros TV. What Comes Next.",
+        "Barron's"
+      ]
+    ],
+    "event_key": "skydance_merges_warner_bros_paramount_tv"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스카이댄스, 워너브라더스·파라마운트\nTV [[메가 스튜디오]] 합병",
+      "sub": "두 대형 방송 제작사 단일 구조로 통합",
+      "chips": [],
+      "alt": "스카이댄스, 워너브라더스·파라마운트 TV 메가 스튜디오 합병",
+      "map": {
+        "lat": 34.0536923,
+        "lon": -118.2427676,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n로스앤젤레스",
+      "video_only": true,
+      "map": {
+        "lat": 34.0536923,
+        "lon": -118.2427676,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "로스앤젤레스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "합병 발표",
+          "d": "스카이댄스가 워너브라더스 TV와 파라마운트 TV 스튜디오를 하나의 메가 스튜디오로 합병한다고 버라이어티 등이 보도했습니다."
+        },
+        {
+          "t": "경영진 개편",
+          "d": "챈닝 던지 등 주요 임원들이 신설 통합 스튜디오의 대표를 맡을 예정입니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "워너브라더스 TV와 파라마운트 TV 합병",
+        "스카이댄스 주도의 단일 스튜디오 출범"
+      ],
+      "unconfirmed": [
+        "합병 이후 구체적인 구조조정 규모",
+        "제작 라인업 변경 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Barron's",
+        "Deadline",
+        "Los Angeles Times",
+        "The Hollywood Reporter",
+        "Variety",
+        "2026.11.19 06:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스카이댄스가 워너브라더스 TV와 파라마운트 TV 스튜디오를 [[합병]]합니다\n\n· 두 대형 방송 제작사가 하나의 메가 스튜디오로 통합됩니다 (할리우드 리포터)\n· 챈닝 던지와 맷 투넬이 새로운 스튜디오의 공동 대표를 맡습니다 (데드라인)\n\n여러분은 이번 미디어 업계 재편을 어떻게 보십니까?\n\n출처: 할리우드 리포터·데드라인·버라이어티 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스카이댄스가 워너브라더스 TV와 파라마운트 TV 스튜디오를 합병합니다.",
+      "card": "cover"
+    },
+    {
+      "text": "할리우드 리포터는 두 대형 방송 제작사가 하나의 메가 스튜디오로 통합된다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "챈닝 던지와 맷 투넬이 새로운 통합 스튜디오의 대표를 맡습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 구조조정 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미디어 업계 재편을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "미디어 업계 재편"
+    }
+  ],
+  "hook": "스카이댄스가 단행한\n[[대형 합병]]의 배경은?",
+  "broll": [
+    "stock exchange screen",
+    "office building exterior"
+  ],
+  "place_en": "Los Angeles, USA"
+}
