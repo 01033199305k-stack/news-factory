@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-18-news-iran-widens-gulf-attacks-kuwait-bahrain-2026",
+  "topic": "이란, 쿠웨이트 미군 기지 타격 걸프 지역 공습 확대",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 21:44 KST",
+  "source": "AP News·Al Jazeera·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw",
+    "related": [
+      [
+        "Iran widens Gulf attacks by targeting a US air base in Kuwait and sites in Bahrain",
+        "AP News"
+      ],
+      [
+        "Iran war live: Gulf states condemn Iranian attacks on Kuwait and Bahrain",
+        "Al Jazeera"
+      ],
+      [
+        "Iran fires at Kuwait after US strike on Iranian island",
+        "Reuters"
+      ],
+      [
+        "Iran says army targets U.S. drone and missile sites in Kuwait as Gulf attacks mount",
+        "CNBC"
+      ],
+      [
+        "Iran widens Gulf attacks, targeting US air base in Kuwait and sites in Bahrain",
+        "Pioneer Press"
+      ]
+    ],
+    "event_key": "iran_widens_gulf_attacks_kuwait_bahrain_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, 쿠웨이트 미군 기지 타격\n걸프 지역 [[공습 확대]]",
+      "sub": "쿠웨이트와 바레인 등 걸프 지역 주요 시설 겨냥",
+      "chips": [
+        {
+          "k": "표적",
+          "v": "미군 기지"
+        }
+      ],
+      "alt": "이란, 쿠웨이트 미군 기지 타격 걸프 지역 공습 확대",
+      "map": {
+        "lat": 29.3796532,
+        "lon": 47.9734174,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "쿠웨이트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "쿠웨이트\n쿠웨이트시티",
+      "video_only": true,
+      "map": {
+        "lat": 29.3796532,
+        "lon": 47.9734174,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "쿠웨이트시티"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "쿠웨이트 공습",
+          "d": "이란 군이 쿠웨이트 내 미군 드론과 미사일 기지를 겨냥해 발사했다고 CNBC 등이 보도했습니다."
+        },
+        {
+          "t": "걸프 국가 규탄",
+          "d": "걸프 국가들은 이란의 공격을 규탄했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "쿠웨이트 미군 기지 타격",
+        "바레인 내 시설 공격",
+        "걸프 지역 공격 확대"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "한국인 피해 여부",
+        "향후 군사 대응 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "CNBC",
+        "Pioneer Press",
+        "Reuters",
+        "2026.11.18 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란, 쿠웨이트 미군 기지 타격하며 걸프 지역 공습 확대\n\n· 이란 군이 쿠웨이트 내 미국 드론과 미사일 기지를 겨냥해 발사했다고 매체들이 전했습니다 (AP·CNBC)\n· 바레인 내 시설도 함께 공격 대상이 되며 걸프 국가들이 반발했습니다 (알자지라)\n\n여러분은 중동 지역을 둘러싼 군사적 긴장 고조 상황, 어떻게 보십니까?\n\n출처: AP·알자지라·로이터·CNBC·Pioneer Press 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이란 군이 쿠웨이트 내 미군 기지를 겨냥해 공격을 감행했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 이번 공격으로 쿠웨이트와 바레인 등 걸프 지역으로 공습이 확대됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인명 피해를 비롯한 정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "격화되는 중동 갈등, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "쿠웨이트 [[미군 기지]]가\n공격받은 이유는?",
+  "broll": [
+    "military base night",
+    "missile defense system"
+  ],
+  "place_en": "Kuwait City, Kuwait"
+}

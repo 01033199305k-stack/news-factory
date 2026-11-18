@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "apple_touchscreen_macbook_pro_2026",
-    "topic": "애플 터치스크린 맥북 첫 공개 OLED 디스플레이 탑재",
-    "slug": "2026-10-29-news-apple-touchscreen-macbook-pro-2026",
-    "cluster": "CBMihgFBVV95cUxNdjhRb1VMVVhfVkVFMjBaZDhMeWVhb1JZSzJPcTdXLVl5blpIQXVDOXZ2S0JfNEJFYWN0MlB3b2I1LTc2MVBjYU5nUWxYMkZaMV9DNENsSEluajJJWU15bWFDQnhqclBPdkpLbl9LM25CaUtXOS1uUWhCdDUwNV9KNVViakJXdw",
-    "badge": "brief",
-    "at": 1793211103.0896473,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
-    "event_key": "nigeria_ebola_outbreak_evacuation_2026",
-    "topic": "나이지리아서 에볼라 환자 발생 스위스로 이송",
-    "slug": "2026-10-29-news-nigeria-ebola-outbreak-evacuation-2026",
-    "cluster": "CBMilgFBVV95cUxNMGNYNXMxdzlBUEtISGQ1QlBUbENwNGdzY3NtNGliMVhJMnFtcmtMMDZQeUtuZm1BZzZINEM1WEpyUWoxNnc5bm1wQkFEVWZLOTBSZlN3WXR4d09JUHhxTG5hUHR6R1p1bUVLSkRvMDNibDVMbW14cEkyZXNqMnd2S1lfOHNzSzk2LUZ4dnV6NTBlcjM5cEE",
-    "badge": "breaking",
-    "at": 1793221627.2917223,
-    "country": "나이지리아",
-    "category": "재난"
-  },
-  {
     "event_key": "flavio_bolsonaro_miami_flight_2026",
     "topic": "브라질 대선 패배 후 마이애미로 이동",
     "slug": "2026-10-29-news-flavio-bolsonaro-miami-flight-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795003677.3370252,
     "country": "방글라데시",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "iran_widens_gulf_attacks_kuwait_bahrain_2026",
+    "topic": "이란, 쿠웨이트 미군 기지 타격 걸프 지역 공습 확대",
+    "slug": "2026-11-18-news-iran-widens-gulf-attacks-kuwait-bahrain-2026",
+    "cluster": "CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw",
+    "badge": "breaking",
+    "at": 1795007368.4307442,
+    "country": "쿠웨이트",
+    "category": "국제"
+  },
+  {
+    "event_key": "russia_military_aircraft_asia_incursion_2026",
+    "topic": "러시아 군용기 아시아 진입 일본 영공 침범",
+    "slug": "2026-11-18-news-russia-military-aircraft-asia-incursion-2026",
+    "cluster": "CBMilgFBVV95cUxPaHR3MnJxdzRWMjlsQldXeGlWYk9nbVFHNk9BWjVQZk1TeXVYZzI4OURscl9jRG02Q3g1ejQyVmhWX0FrQTN3aU9tNlVlU0F2SjVXX1lyUzJ6Tmlrb1MtY0tCVUV2WmdqcTNIbGpMdDl1d0VEOWo1eDdDalh5MlZzczNHMmxOTi1NWVdSaHRxZDYzSUQzOXc",
+    "badge": "breaking",
+    "at": 1795007397.5797513,
+    "country": "일본",
+    "category": "국제"
   }
 ]

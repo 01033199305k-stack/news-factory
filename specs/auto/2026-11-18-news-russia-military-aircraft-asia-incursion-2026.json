@@ -1,0 +1,147 @@
+{
+  "slug": "2026-11-18-news-russia-military-aircraft-asia-incursion-2026",
+  "topic": "러시아 군용기 아시아 진입 일본 영공 침범",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 20:08 KST",
+  "source": "BBC·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilgFBVV95cUxPaHR3MnJxdzRWMjlsQldXeGlWYk9nbVFHNk9BWjVQZk1TeXVYZzI4OURscl9jRG02Q3g1ejQyVmhWX0FrQTN3aU9tNlVlU0F2SjVXX1lyUzJ6Tmlrb1MtY0tCVUV2WmdqcTNIbGpMdDl1d0VEOWo1eDdDalh5MlZzczNHMmxOTi1NWVdSaHRxZDYzSUQzOXc",
+    "related": [
+      [
+        "Putin Arrives in Asia With a Show of Force: Nuclear Bombers",
+        "The New York Times"
+      ],
+      [
+        "Russian military aircraft deployment sends potent message to Asia",
+        "Reuters"
+      ],
+      [
+        "Japan sends up jets after alleged Russian incursion of its airspace",
+        "BBC"
+      ],
+      [
+        "Russian military aircraft enter Taiwan's ADIZ: Defense ministry",
+        "Focus Taiwan"
+      ],
+      [
+        "Suspected Russian Aircraft Violated Japan’s Airspace, Says Defense Minister",
+        "USNI News"
+      ]
+    ],
+    "event_key": "russia_military_aircraft_asia_incursion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 군용기 아시아 진입\n일본 [[영공 침범]]",
+      "sub": "핵폭격기 동반 무력 시위에 인근국 전투기 긴급 출격",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "러시아 군용기"
+        }
+      ],
+      "alt": "러시아 군용기 아시아 진입 일본 영공 침범",
+      "map": {
+        "lat": 35.6768601,
+        "lon": 139.7638947,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "일본"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "일본\n도쿄",
+      "video_only": true,
+      "map": {
+        "lat": 35.6768601,
+        "lon": 139.7638947,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "도쿄"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "핵폭격기 동반",
+          "d": "푸틴 대통령의 아시아 방문 시점에 맞춰 핵폭격기 등 군용기가 배치되었다고 뉴욕타임스가 보도했습니다."
+        },
+        {
+          "t": "인근국 대응",
+          "d": "일본 방위상이 영공 침범을 발표했으며 대만 방공식별구역에도 진입했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 군용기 아시아 전개",
+        "일본 영공 침범 발표",
+        "대만 방공식별구역 진입"
+      ],
+      "unconfirmed": [
+        "러시아 측의 구체적인 비행 목적",
+        "한국인 피해 여부",
+        "추가 군사 행동 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Focus Taiwan",
+        "Reuters",
+        "The New York Times",
+        "USNI News",
+        "2026.11.18 22:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 군용기 아시아 진입해 일본 영공 침범\n\n· 푸틴 대통령의 아시아 방문에 맞춰 핵폭격기 등 군용기 편대가 전개됐습니다 (뉴욕타임스·로이터)\n· 일본 방위상은 러시아 군용기가 영공을 침범했다고 밝혔으며 대만 방공식별구역에도 진입했습니다 (BBC·Focus Taiwan)\n\n여러분은 러시아의 이번 아시아 지역 무력 시위, 어떻게 보십니까?\n\n출처: 뉴욕타임스·로이터·BBC·Focus Taiwan·USNI News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 군용기가 아시아 지역으로 진입해 일본 영공을 침범했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스는 푸틴 대통령의 아시아 방문 시점에 맞춰 핵폭격기 등이 전개됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "대만 방공식별구역에도 러시아 군용기가 진입한 것으로 확인됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아 군용기의 정확한 비행 목적은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "러시아의 이번 무력 시위, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "일본 [[영공]] 침범한\n러시아 군용기의 정체는?",
+  "broll": [
+    "fighter jet flying",
+    "radar screen military"
+  ],
+  "place_en": "Tokyo, Japan"
+}

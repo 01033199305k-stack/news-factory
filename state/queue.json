@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-11-18-news-bangladesh-gopalganj-violence-arson-2026",
-    "event_ms": 1795000380000,
-    "category": "기타 사건",
+    "slug": "2026-11-18-news-iran-widens-gulf-attacks-kuwait-bahrain-2026",
+    "event_ms": 1795005840000,
+    "category": "국제",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 방글라데시서 연쇄 폭발과 방화가 발생해 준군사조직이 투입됐습니다.\n\n· 고팔간지 경찰서와 자택이 방화 피해를 입었습니다 (NDTV·비즈니스 스탠다드)\n· 셰이크 하시나의 귀국 계획을 둘러싸고 시위가 발생했습니다 (타임스 오브 인디아·더 힌두)\n· 준군사조직이 배치됐습니다 (타임스 오브 인디아)\n\n출처: 타임스 오브 인디아·NDTV·더 힌두 보도 종합",
+    "text": "[속보] 이란, 쿠웨이트 미군 기지 타격하며 걸프 지역 공습 확대\n\n· 이란 군이 쿠웨이트 내 미국 드론과 미사일 기지를 겨냥해 발사했다고 매체들이 전했습니다 (AP·CNBC)\n· 바레인 내 시설도 함께 공격 대상이 되며 걸프 국가들이 반발했습니다 (알자지라)\n\n여러분은 중동 지역을 둘러싼 군사적 긴장 고조 상황, 어떻게 보십니까?\n\n출처: AP·알자지라·로이터·CNBC·Pioneer Press 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
-      "기타 사건",
-      "방글라데시"
+      "국제",
+      "쿠웨이트"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,20 +25,71 @@
     ],
     "done": {
       "threads": {
-        "id": "18085613939349573",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4eHwmEYUP",
+        "id": "17991572625064615",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4lNmVEcZK",
         "kind": "carousel",
-        "at": 1795003727
+        "at": 1795007445
       },
       "instagram": {
-        "id": "17997325152052534",
-        "permalink": "https://www.instagram.com/reel/Df4ea6FgBvT/",
+        "id": "18119660917823860",
+        "permalink": "https://www.instagram.com/reel/Df4lvJdlLU-/",
         "kind": "reel",
-        "at": 1795003903
+        "at": 1795007736
       },
       "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
-        "at": 1795003913
+        "id": "aeVFSc-crN4",
+        "permalink": "https://youtube.com/shorts/aeVFSc-crN4",
+        "kind": "shorts",
+        "at": 1795007835
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-18-news-russia-military-aircraft-asia-incursion-2026",
+    "event_ms": 1795000103000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아 군용기 아시아 진입해 일본 영공 침범\n\n· 푸틴 대통령의 아시아 방문에 맞춰 핵폭격기 등 군용기 편대가 전개됐습니다 (뉴욕타임스·로이터)\n· 일본 방위상은 러시아 군용기가 영공을 침범했다고 밝혔으며 대만 방공식별구역에도 진입했습니다 (BBC·Focus Taiwan)\n\n여러분은 러시아의 이번 아시아 지역 무력 시위, 어떻게 보십니까?\n\n출처: 뉴욕타임스·로이터·BBC·Focus Taiwan·USNI News 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "일본"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18148300390720922",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4lSAJEQKk",
+        "kind": "carousel",
+        "at": 1795007482
+      },
+      "instagram": {
+        "id": "18159437701507065",
+        "permalink": "https://www.instagram.com/reel/Df4l0UPD3rU/",
+        "kind": "reel",
+        "at": 1795007777
+      },
+      "youtube": {
+        "id": "R1Iev4_SEGw",
+        "permalink": "https://youtube.com/shorts/R1Iev4_SEGw",
+        "kind": "shorts",
+        "at": 1795007853
       }
     },
     "attempts": {

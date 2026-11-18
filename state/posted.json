@@ -44332,5 +44332,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795004044
+  },
+  {
+    "slug": "2026-11-18-news-bangladesh-gopalganj-violence-arson-2026",
+    "event_ms": 1795000380000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 방글라데시서 연쇄 폭발과 방화가 발생해 준군사조직이 투입됐습니다.\n\n· 고팔간지 경찰서와 자택이 방화 피해를 입었습니다 (NDTV·비즈니스 스탠다드)\n· 셰이크 하시나의 귀국 계획을 둘러싸고 시위가 발생했습니다 (타임스 오브 인디아·더 힌두)\n· 준군사조직이 배치됐습니다 (타임스 오브 인디아)\n\n출처: 타임스 오브 인디아·NDTV·더 힌두 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "방글라데시"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18085613939349573",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4eHwmEYUP",
+        "kind": "carousel",
+        "at": 1795003727
+      },
+      "instagram": {
+        "id": "17997325152052534",
+        "permalink": "https://www.instagram.com/reel/Df4ea6FgBvT/",
+        "kind": "reel",
+        "at": 1795003903
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1795003913
+      },
+      "tiktok": {
+        "id": "7709500107103751444",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709500107103751444",
+        "kind": "video",
+        "at": 1795007984
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795007994
   }
 ]
