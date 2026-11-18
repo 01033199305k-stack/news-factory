@@ -43840,5 +43840,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794958123
+  },
+  {
+    "slug": "2026-11-18-news-los-angeles-landfill-methane-geyser-2026",
+    "event_ms": 1794966075000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] LA 쓰레기 매립지서 메탄 분출, 공중보건 비상사태 선포\n\n· 치퀴타 캐니언 매립지에서 유독한 악취와 쓰레기를 뿜어내는 가스 분출 발생 (NBC News)\n· 당국은 긴급 보건 명령을 내리고 주민 이주 지원 및 조사에 착수 (FOX 11 Los Angeles)\n\n출처: NBC News·ABC7 Los Angeles·KTLA 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18038012495668614",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df3gq7CGzQd",
+        "kind": "carousel",
+        "at": 1794971510
+      },
+      "instagram": {
+        "id": "17974919616194444",
+        "permalink": "https://www.instagram.com/reel/Df3g87_lATK/",
+        "kind": "reel",
+        "at": 1794971675
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1794971685
+      },
+      "tiktok": {
+        "id": "7709343536377793844",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709343536377793844",
+        "kind": "video",
+        "at": 1794971807
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794971817
   }
 ]
