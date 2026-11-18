@@ -1,44 +1,45 @@
 [
   {
-    "slug": "2026-11-18-news-israel-gaza-central-operation-2026",
-    "event_ms": 1795013226000,
-    "category": "국제",
+    "slug": "2026-11-19-usgs-us7000tz1n",
+    "event_ms": 1795022543454,
     "images": [
       "01_cover.png",
-      "02_points.png",
+      "02_map.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 이스라엘군, 가자지구 중부서 지상 작전 돌입\n\n· 이스라엘군이 가자지구 중부에서 새로운 작전을 시작했다고 로이터 등이 보도했습니다.\n· 팔레스타인 주민들이 난민촌을 떠나고 있다고 알자지라가 전했습니다.\n\n출처: 로이터·알자지라·타임스오브이스라엘 보도 종합",
-    "topic_tag": "해외사건사고",
+    "text": "[속보] 일본 인근 규모 5.3 지진\n\n한국 시각 11월 19일 02시 22분, 일본 Tsunagi에서 북북서쪽 4km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us7000tz1n",
+    "topic_tag": "지진",
     "hashtags": [
-      "해외사건사고",
-      "국제",
-      "팔레스타인"
+      "지진",
+      "일본",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
     ],
     "uploaded": [
       "01_cover.jpg",
-      "02_points.jpg",
+      "02_map.jpg",
       "03_check.jpg",
       "04_outro.jpg",
       "video.mp4"
     ],
     "done": {
       "threads": {
-        "id": "18020316398745382",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/Df5BAXGnIVj",
+        "id": "18443300260177386",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df5ELgQG2fM",
         "kind": "carousel",
-        "at": 1795022015
+        "at": 1795023679
       },
       "instagram": {
-        "id": "18058711865661228",
-        "permalink": "https://www.instagram.com/reel/Df5BZCHj545/",
+        "id": "18108235772372716",
+        "permalink": "https://www.instagram.com/reel/Df5EiZdiY_S/",
         "kind": "reel",
-        "at": 1795022234
+        "at": 1795023884
       },
       "youtube": {
         "skipped": "하루 업로드 한도 초과",
-        "at": 1795022400
+        "at": 1795023925
       }
     },
     "attempts": {
