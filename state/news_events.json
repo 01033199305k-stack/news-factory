@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "germany_wildlife_park_wolf_attack_2026",
-    "topic": "독일 야생동물 공원에서 늑대가 어린이 습격",
-    "slug": "2026-10-29-news-germany-wildlife-park-wolf-attack-2026",
-    "cluster": "CBMiXkFVX3lxTFBWSFNhV3N5NklWR2tQNWhMTG5WUzNvVTZCT3RYRGNjcTM5SnA3Mzg0Z0pXVWZUSm1hcWxERmFZNXhQTXduejlnN1RCdHE2NXJCQ19hdkhweVJmQ3BJcUE",
-    "badge": "breaking",
-    "at": 1793228911.3730156,
-    "country": "독일",
-    "category": "사고"
-  },
-  {
-    "event_key": "un_general_assembly_cuba_embargo_resolution_2026",
-    "topic": "유엔총회, 미국의 쿠바 제재 중지 결의안 채택",
-    "slug": "2026-10-29-news-un-general-assembly-cuba-embargo-resolution-2026",
-    "cluster": "CBMic0FVX3lxTE9CMFc0TktNbE9TVXozWGN5YnZ2VG5yUEdCWjRzWW9SQVR6ODJpVnJaQ0hseDhmalhuNDlrSWdZenhqajB5Umc5YlozOEVzQndQY2lCV3J3eE9oYVVPMG02dURFTVdfS2dUMWVfdnBITFFCM3fSAWZBVV95cUxOTml0RUtnUU00TDRzVWJxV3lFR1BtdDc4Yzk3Qkh2TVBhZjNKU0Z1R1lpS3IxYVBNc0Z3VFNKN19oSW5kOXJnWjAtNDlyYlgzTWlaZERKXzRWWW43Vm9DRk15VV9FS1E",
-    "badge": "breaking",
-    "at": 1793229445.4170308,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "alphabet_shares_sell_off_earnings_2026",
     "topic": "알파벳 주가 10% 급락 검색 매출 성장 둔화 여파",
     "slug": "2026-10-29-news-alphabet-shares-sell-off-earnings-2026",
@@ -2997,6 +2977,26 @@
     "badge": "breaking",
     "at": 1795011708.05592,
     "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "israel_gaza_central_operation_2026",
+    "topic": "이스라엘군, 가자지구 중부서 지상 작전 돌입",
+    "slug": "2026-11-18-news-israel-gaza-central-operation-2026",
+    "cluster": "CBMitgFBVV95cUxNS1AxOUxYTnlDdkpEdHpkU3NETy1XcDZaX1VTNlNEU0dWTmxER25jS3BSMTdDTWM2MXluamRyd21GamVUTmZ5eGRiQ3lLVGFaVEN3MU9ZZFZtREJQN2VKSHBXTk5faUd1eDAzeG5LRjg2bnhhRmszQzFZU0ZmQkIzSEowdERFTlZPWTRVSmd1UzBDOTlhX3lvTWl1MXFFRmNhQXhXSlJZa21FcGlYaXJSWVl2amNzd9IBuwFBVV95cUxPTE1aQ0N4dlBxMzhta01ua3puNEJXNW9oTE0weTRPZENSN1RlUjNVSkhpNzBUSWxSME5HMnJxclNxY1dDeWxrUmJmWWVRVnhadUV3N3R4bDhCN3M4eHNwWUUtQ3ZfdC1sZENYanpjUHNqcXV3NTN0bldRa25ydGxlb1NZZHJfN0FuanVaMm55d0VYVDdmeThjYXVoMGVDeTNDQjJLYm5vc0xaN3kzYWV5UzRQUVVVd3lGbEhj",
+    "badge": "breaking",
+    "at": 1795021881.1522334,
+    "country": "팔레스타인",
+    "category": "국제"
+  },
+  {
+    "event_key": "hakeem_jeffries_democrats_speaker_nomination_2026",
+    "topic": "미 민주당, 하킴 제프리스를 하원의장 후보로 지명",
+    "slug": "2026-11-19-news-hakeem-jeffries-democrats-speaker-nomination-2026",
+    "cluster": "CBMiwAFBVV95cUxNZTRoVUJjdWdKZU1ELURWWUhKT0REZEF6NURkNnByMnNkV29BZHphOWpHcUZjbF9fa0Z3bG1MZFFEWGRwdTM4ci1HLWYxckJ3SURCQkpkU1ZHbTZ1YXk4c0hVaERmVnQxeHFxMk1LZ1BxbmxCUlJlR09ZajcwVUdQQnV3NUhxaFZVb0pfVG9RWTlnX0pQcmpYS3pPM3JmdmRyV1hSbXZ6TW5jNmxRN1psWG5scHN1Nmh5M1NnT3VuV0Q",
+    "badge": "breaking",
+    "at": 1795021964.6515405,
+    "country": "미국",
     "category": "국제"
   }
 ]

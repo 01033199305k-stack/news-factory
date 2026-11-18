@@ -1,0 +1,131 @@
+{
+  "slug": "2026-11-18-news-israel-gaza-central-operation-2026",
+  "topic": "이스라엘군, 가자지구 중부서 지상 작전 돌입",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 23:47 KST",
+  "source": "Al Jazeera·Reuters·Barron's 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxNS1AxOUxYTnlDdkpEdHpkU3NETy1XcDZaX1VTNlNEU0dWTmxER25jS3BSMTdDTWM2MXluamRyd21GamVUTmZ5eGRiQ3lLVGFaVEN3MU9ZZFZtREJQN2VKSHBXTk5faUd1eDAzeG5LRjg2bnhhRmszQzFZU0ZmQkIzSEowdERFTlZPWTRVSmd1UzBDOTlhX3lvTWl1MXFFRmNhQXhXSlJZa21FcGlYaXJSWVl2amNzd9IBuwFBVV95cUxPTE1aQ0N4dlBxMzhta01ua3puNEJXNW9oTE0weTRPZENSN1RlUjNVSkhpNzBUSWxSME5HMnJxclNxY1dDeWxrUmJmWWVRVnhadUV3N3R4bDhCN3M4eHNwWUUtQ3ZfdC1sZENYanpjUHNqcXV3NTN0bldRa25ydGxlb1NZZHJfN0FuanVaMm55d0VYVDdmeThjYXVoMGVDeTNDQjJLYm5vc0xaN3kzYWV5UzRQUVVVd3lGbEhj",
+    "related": [
+      [
+        "Palestinians flee refugee camp as Israel begins operation in central Gaza",
+        "Al Jazeera"
+      ],
+      [
+        "Israeli military begins a new thrust in Gaza, witnesses say",
+        "Reuters"
+      ],
+      [
+        "IDF launches rare operation beyond ‘Yellow Line’ in central Gaza",
+        "The Times of Israel"
+      ],
+      [
+        "Israel launches assault targeting residential areas in Gaza despite ceasefire",
+        "Middle East Eye"
+      ],
+      [
+        "Israel Army Launches Ground Operation In Hamas-controlled Area Of Gaza",
+        "Barron's"
+      ]
+    ],
+    "event_key": "israel_gaza_central_operation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘군, 가자지구 중부서\n[[지상 작전]] 돌입",
+      "sub": "난민캠프 등 주민 거주 구역 대상 공격",
+      "chips": [],
+      "alt": "이스라엘군, 가자지구 중부서 지상 작전 돌입",
+      "map": {
+        "lat": -23.328398,
+        "lon": 32.8066057,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -23.328398,
+        "lon": 32.8066057,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지상 작전",
+          "d": "이스라엘군이 가자지구 중부에서 새로운 작전을 시작했다고 로이터 등이 보도했습니다."
+        },
+        {
+          "t": "주민 대피",
+          "d": "알자지라는 팔레스타인 주민들이 난민촌을 떠나고 있다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이스라엘군 가자지구 중부 작전 개시",
+        "주민 거주 구역 및 난민캠프 대상 공격"
+      ],
+      "unconfirmed": [
+        "사상자 및 구체적 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Barron's",
+        "Middle East Eye",
+        "Reuters",
+        "The Times of Israel",
+        "2026.11.19 02:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군, 가자지구 중부서 지상 작전 돌입\n\n· 이스라엘군이 가자지구 중부에서 새로운 작전을 시작했다고 로이터 등이 보도했습니다.\n· 팔레스타인 주민들이 난민촌을 떠나고 있다고 알자지라가 전했습니다.\n\n출처: 로이터·알자지라·타임스오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군이 가자지구 중부에서 새로운 지상 작전을 시작했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신 등은 군사 행동으로 주민들이 난민캠프를 떠나고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "가자지구 중부에서\n[[무슨 일이]]?",
+  "broll": [
+    "gaza strip destruction",
+    "refugee camp street"
+  ],
+  "place_en": "Gaza"
+}

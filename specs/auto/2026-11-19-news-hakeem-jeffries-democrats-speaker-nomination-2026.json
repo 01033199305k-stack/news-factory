@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-19-news-hakeem-jeffries-democrats-speaker-nomination-2026",
+  "topic": "미 민주당, 하킴 제프리스를 하원의장 후보로 지명",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 00:31 KST",
+  "source": "BBC·NBC News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwAFBVV95cUxNZTRoVUJjdWdKZU1ELURWWUhKT0REZEF6NURkNnByMnNkV29BZHphOWpHcUZjbF9fa0Z3bG1MZFFEWGRwdTM4ci1HLWYxckJ3SURCQkpkU1ZHbTZ1YXk4c0hVaERmVnQxeHFxMk1LZ1BxbmxCUlJlR09ZajcwVUdQQnV3NUhxaFZVb0pfVG9RWTlnX0pQcmpYS3pPM3JmdmRyV1hSbXZ6TW5jNmxRN1psWG5scHN1Nmh5M1NnT3VuV0Q",
+    "related": [
+      [
+        "Democrats formally nominate Rep. Hakeem Jeffries, paving way for him to be the first Black speaker",
+        "NBC News"
+      ],
+      [
+        "Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History",
+        "The New York Times"
+      ],
+      [
+        "Hakeem Jeffries re-elected to lead US House Democrats",
+        "BBC"
+      ],
+      [
+        "Democrats nominate Hakeem Jeffries to become first Black House speaker – US politics live",
+        "The Guardian"
+      ],
+      [
+        "Jeffries wins Democratic House speaker race, on track to make history in January",
+        "CNBC"
+      ]
+    ],
+    "event_key": "hakeem_jeffries_democrats_speaker_nomination_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 민주당, 하킴 제프리스를\n[[하원의장 후보]]로 지명",
+      "sub": "미국 역사상 첫 흑인 하원의장 도전",
+      "chips": [],
+      "alt": "미 민주당, 하킴 제프리스를 하원의장 후보로 지명",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "하원 민주당",
+          "d": "미국 민주당은 하킴 제프리스 하원 원내대표를 하원의장 후보로 공식 지명했습니다."
+        },
+        {
+          "t": "역사적 기록",
+          "d": "이번 지명은 미국 역사상 첫 흑인 하원의장 탄생을 위한 과정이라고 뉴욕타임스가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 민주당 하킴 제프리스 하원의장 후보 지명",
+        "역사상 첫 흑인 하원의장 도전"
+      ],
+      "unconfirmed": [
+        "내년 1월 최종 선출 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNBC",
+        "NBC News",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.19 02:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 민주당, 하킴 제프리스를 하원의장 후보로 지명\n\n· 미 민주당은 하킴 제프리스 원내대표를 하원의장 후보로 공식 지명했습니다.\n· 이번 지명은 미국 역사상 첫 흑인 하원의장 탄생을 위한 과정이라고 뉴욕타임스가 전했습니다.\n\n❓ 여러분은 미 하원의 정치 지형 변화를 어떻게 보십니까?\n\n출처: NBC 뉴스·뉴욕타임스·BBC·가디언·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 민주당이 하킴 제프리스 원내대표를 하원의장 후보로 공식 지명했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 지명은 미국 역사상 첫 흑인 하원의장 탄생을 위한 과정이라고 뉴욕타임스가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "내년 1월 최종 선출 여부는 아직 정해지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미 하원의 정치 지형 변화를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "미 의회 변화, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "미 민주당이 선출한\n[[첫 흑인 후보]]는?",
+  "broll": [
+    "us capitol building",
+    "politician speaking podium"
+  ],
+  "place_en": "Washington, D.C."
+}

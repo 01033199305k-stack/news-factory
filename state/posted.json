@@ -44609,5 +44609,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795014818
+  },
+  {
+    "slug": "2026-11-19-news-hakeem-jeffries-democrats-speaker-nomination-2026",
+    "event_ms": 1795015918000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 민주당, 하킴 제프리스를 하원의장 후보로 지명\n\n· 미 민주당은 하킴 제프리스 원내대표를 하원의장 후보로 공식 지명했습니다.\n· 이번 지명은 미국 역사상 첫 흑인 하원의장 탄생을 위한 과정이라고 뉴욕타임스가 전했습니다.\n\n❓ 여러분은 미 하원의 정치 지형 변화를 어떻게 보십니까?\n\n출처: NBC 뉴스·뉴욕타임스·BBC·가디언·CNBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18140213779731188",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df5BEykHAcz",
+        "kind": "carousel",
+        "at": 1795022054
+      },
+      "instagram": {
+        "id": "18039638930903680",
+        "permalink": "https://www.instagram.com/reel/Df5BeDjkls8/",
+        "kind": "reel",
+        "at": 1795022276
+      },
+      "youtube": {
+        "skipped": "하루 업로드 한도 초과",
+        "at": 1795022487
+      },
+      "tiktok": {
+        "id": "6afddf10910cf3fb0d4c150d",
+        "permalink": "",
+        "kind": "video",
+        "at": 1795022809
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795022819
   }
 ]
