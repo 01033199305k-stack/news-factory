@@ -44164,5 +44164,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794998057
+  },
+  {
+    "slug": "2026-11-18-news-ukraine-drone-strike-russia-krasnodar-refineries-2026",
+    "event_ms": 1794990720000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 우크라이나가 러시아 석유 정제소 2곳을 드론으로 공습했습니다.\n\n· 우크라이나가 밤사이 러시아 크라스노다르 정유공장 2곳을 타격했습니다 (블룸버그·키이우 인디펜던트)\n· 석유 정제 시설에서 화재가 발생했습니다 (우크라인스카 프라우다)\n\n이번 드론 공습이 가져올 영향, 어떻게 보십니까?\n\n출처: 블룸버그·우크라인스카 프라우다·키이우 인디펜던트·DW 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18183729523436777",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4So5im-DV",
+        "kind": "carousel",
+        "at": 1794997706
+      },
+      "instagram": {
+        "id": "18129285661910509",
+        "permalink": "https://www.instagram.com/reel/Df4S-Fvn0xa/",
+        "kind": "reel",
+        "at": 1794997898
+      },
+      "youtube": {
+        "id": "yf5kOT58S6s",
+        "permalink": "https://youtube.com/shorts/yf5kOT58S6s",
+        "kind": "shorts",
+        "at": 1794997934
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6afd8593986651ea3386940d): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1794999819
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794999819
   }
 ]

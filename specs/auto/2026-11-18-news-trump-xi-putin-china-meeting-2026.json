@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-18-news-trump-xi-putin-china-meeting-2026",
+  "topic": "트럼프 방중 계기 시진핑·푸틴 보호주의 비판",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.18 17:58 KST",
+  "source": "AP News·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg",
+    "related": [
+      [
+        "Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China",
+        "AP News"
+      ],
+      [
+        "Xi, Putin blast Western 'protectionism', sanctions as Trump lands in China",
+        "Reuters"
+      ],
+      [
+        "Trump arrives in Shenzhen, China, where Xi Jinping’s family history runs deep",
+        "The Washington Post"
+      ],
+      [
+        "Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment?",
+        "The New York Times"
+      ],
+      [
+        "‘We Simply Cannot Trust This Belligerent Neighbor’",
+        "The Atlantic"
+      ]
+    ],
+    "event_key": "trump_xi_putin_china_meeting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "트럼프 방중 계기\n시진핑·푸틴 [[보호주의]] 비판",
+      "sub": "도널드 트럼프 미국 대통령이 중국 선전에 도착했습니다.",
+      "chips": [
+        {
+          "k": "방문",
+          "v": "중국 선전"
+        },
+        {
+          "k": "참석자",
+          "v": "미·중·러 정상"
+        }
+      ],
+      "alt": "트럼프 방중 계기 시진핑·푸틴 보호주의 비판",
+      "map": {
+        "lat": 22.5445741,
+        "lon": 114.0545429,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n선전",
+      "video_only": true,
+      "map": {
+        "lat": 22.5445741,
+        "lon": 114.0545429,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "선전"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "시진핑 주석 발언",
+          "d": "시진핑 중국 국가주석은 아시아태평양 지역에 개방형 무역이 필요하다고 강조했습니다 (AP 통신)."
+        },
+        {
+          "t": "푸틴 대통령 발언",
+          "d": "블라디미르 푸틴 러시아 대통령은 서방의 제재를 비판했습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프 대통령 중국 선전 도착 (AP·로이터·워싱턴포스트)",
+        "시진핑 주석 개방형 무역 강조 (AP)",
+        "푸틴 대통령 서방 제재 비판 (로이터)"
+      ],
+      "unconfirmed": [
+        "3자 회담의 구체적인 합의 내용"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Reuters",
+        "The Atlantic",
+        "The New York Times",
+        "The Washington Post",
+        "2026.11.18 19:57 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 트럼프 방중 계기 시진핑·푸틴 보호주의 비판\n\n· 도널드 트럼프 미국 대통령이 중국 선전에 도착했습니다 (AP·로이터·워싱턴포스트)\n· 시진핑 중국 국가주석은 아시아태평양 지역에 개방형 무역이 필요하다고 강조했습니다 (AP)\n· 블라디미르 푸틴 러시아 대통령은 서방의 제재를 비판했습니다 (로이터)\n\n이번 미·중·러 정상 간 만남, 어떻게 보십니까?\n출처: AP통신·로이터·워싱턴포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "도널드 트럼프 미국 대통령이 중국 선전에 도착했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "시진핑 중국 국가주석은 아시아태평양 지역에 개방형 무역이 필요하다고 강조했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "블라디미르 푸틴 러시아 대통령은 서방의 제재를 비판했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 내용은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 미중러 정상 간 만남, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "미중러 정상 만남"
+    }
+  ],
+  "hook": "중국 선전 찾은 [[트럼프]],\n시진핑·푸틴과 무슨 일이?",
+  "broll": [
+    "city skyline night",
+    "government building flags"
+  ],
+  "place_en": "Shenzhen, China"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "california_high_tides_2026",
-    "topic": "미국 캘리포니아 해안가 역대급 만조로 침수",
-    "slug": "2026-10-28-news-california-high-tides-2026",
-    "cluster": "CBMitwFBVV95cUxNSTJCNEpoRllFTmdBZWtWTTdlWHZqallxR3FBQUdESkN0a0RWYlVDME1ua2tnaWZaTVBFVE9ZMXAwaGRnM1B4eFhBN2Ftb3Z5ckZONzJCVWdtVnphUkcydk1vQS14ekpLSVowQ00ycXhVU3N6UlFQelc4SUw1QktRaW1ON2RlR0lLNkF5ek9fWVdoZ0tVSGNONk91dG5JRDRJSEREMkF2QmhlZGVxUUlUbTFKeE1SZ1E",
-    "badge": "breaking",
-    "at": 1793193750.8368473,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "yemen_houthi_aden_airport_2026",
     "topic": "예멘 아덴 공항에 후티 반군 미사일 공격",
     "slug": "2026-10-28-news-yemen-houthi-aden-airport-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1794997657.9954736,
     "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "trump_xi_putin_china_meeting_2026",
+    "topic": "트럼프 방중 계기 시진핑·푸틴 보호주의 비판",
+    "slug": "2026-11-18-news-trump-xi-putin-china-meeting-2026",
+    "cluster": "CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg",
+    "badge": "breaking",
+    "at": 1794999440.4474256,
+    "country": "중국",
     "category": "국제"
   }
 ]
