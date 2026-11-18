@@ -44,6 +44,56 @@
       }
     },
     "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-18-usgs-us7000tyyw",
+    "event_ms": 1794994620617,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 일본 인근 규모 5.2 지진\n\n한국 시각 11월 18일 18시 37분, 일본 Ryōtsu-minato에서 북서쪽 86km. 깊이 10km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us7000tyyw",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "일본",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_map.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18388152148233334",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df4UbdaDsfY",
+        "kind": "carousel",
+        "at": 1794998645
+      },
+      "instagram": {
+        "id": "18116907011024873",
+        "permalink": "https://www.instagram.com/reel/Df4U2iFlIIw/",
+        "kind": "reel",
+        "at": 1794998883
+      },
+      "youtube": {
+        "id": "hGM_PY2YE_Y",
+        "permalink": "https://youtube.com/shorts/hGM_PY2YE_Y",
+        "kind": "shorts",
+        "at": 1794999039
+      }
+    },
+    "attempts": {
       "tiktok": 1
     },
     "video": "video.mp4"
