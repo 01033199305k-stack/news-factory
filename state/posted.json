@@ -44001,5 +44001,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1794978589
+  },
+  {
+    "slug": "2026-11-18-news-minnesota-uber-driver-brutal-attack-2026",
+    "event_ms": 1794970832000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 미네소타서 우버 운전자 목 졸리고 치여\n\n· 소말리아계 미국인 우버 운전자가 승객에게 목이 졸린 뒤 차에 치이는 폭행을 당했습니다 (Al Jazeera·The Journal)\n· 현지 검찰은 용의자를 살인미수와 차량 강탈 혐의로 기소했습니다 (Hindustan Times)\n\n출처: Al Jazeera·Hindustan Times·The Journal 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18646422958046769",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df3p7ipDovW",
+        "kind": "carousel",
+        "at": 1794976363
+      },
+      "instagram": {
+        "id": "18483759967115676",
+        "permalink": "https://www.instagram.com/reel/Df3qXjbFdjw/",
+        "kind": "reel",
+        "at": 1794976611
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1794976621
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6afd408293fa11d37d0ed58f): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1794982130
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1794982130
   }
 ]
