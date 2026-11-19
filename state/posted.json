@@ -44930,5 +44930,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795044090
+  },
+  {
+    "slug": "2026-11-19-news-israel-gaza-ground-offensive-2026",
+    "event_ms": 1795041296000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘군, 휴전 이후 처음으로 가자지구 중부 지상 작전 돌입\n\n· 이스라엘 탱크가 휴전선 경계를 넘어 가자지구 내부로 진입했습니다 (NBC뉴스·뉴욕타임스)\n· 휴전 합의 이후 하마스 통제 구역에서 이뤄진 드문 지상 작전입니다 (BBC·가디언)\n\n여러분은 이번 이스라엘군의 지상 작전 재개, 어떻게 보십니까?\n출처: BBC·가디언·NBC뉴스·알자지라·뉴욕타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18078585653741126",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df5wvlRDMq7",
+        "kind": "carousel",
+        "at": 1795047043
+      },
+      "instagram": {
+        "id": "18425969374155878",
+        "permalink": "https://www.instagram.com/reel/Df5xCKVjUhe/",
+        "kind": "reel",
+        "at": 1795047216
+      },
+      "youtube": {
+        "id": "C6CPiip3Wwg",
+        "permalink": "https://youtube.com/shorts/C6CPiip3Wwg",
+        "kind": "shorts",
+        "at": 1795047359
+      },
+      "tiktok": {
+        "id": "7709668965085203713",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709668965085203713",
+        "kind": "video",
+        "at": 1795047490
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795047500
   }
 ]

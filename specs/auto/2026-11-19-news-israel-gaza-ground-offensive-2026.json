@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-19-news-israel-gaza-ground-offensive-2026",
+  "topic": "이스라엘군, 휴전 이후 처음으로 가자지구 중부 지상 작전 돌입",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 07:34 KST",
+  "source": "Al Jazeera·BBC·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8",
+    "related": [
+      [
+        "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "BBC"
+      ],
+      [
+        "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+        "The Guardian"
+      ],
+      [
+        "Israeli tanks roll into central Gaza in first ground operation since ceasefire began",
+        "NBC News"
+      ],
+      [
+        "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+        "Al Jazeera"
+      ],
+      [
+        "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "israel_gaza_ground_offensive_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘군, 휴전 이후 처음으로\n가자지구 [[중부]] 지상 작전 돌입",
+      "sub": "탱크가 하마스 통제 지역인 옐로라인 경계 넘어 진입했습니다.",
+      "chips": [
+        {
+          "k": "지역",
+          "v": "가자지구 중부"
+        }
+      ],
+      "alt": "이스라엘군, 휴전 이후 처음으로 가자지구 중부 지상 작전 돌입",
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지상 진입",
+          "d": "이스라엘 탱크가 휴전선 경계를 넘어 가자지구 내부로 진입했습니다 (NBC뉴스·뉴욕타임스)."
+        },
+        {
+          "t": "작전 규모",
+          "d": "휴전 이후 처음으로 하마스 통제 구역에서 이뤄진 드문 지상 작전입니다 (BBC·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이스라엘군의 가자지구 중부 지상 작전 개시",
+        "휴전 이후 첫 하마스 통제 지역 진입"
+      ],
+      "unconfirmed": [
+        "이번 공세가 팔레스타인 주민들에게 미칠 최종 영향",
+        "향후 군사 작전 확대 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "NBC News",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.19 09:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군, 휴전 이후 처음으로 가자지구 중부 지상 작전 돌입\n\n· 이스라엘 탱크가 휴전선 경계를 넘어 가자지구 내부로 진입했습니다 (NBC뉴스·뉴욕타임스)\n· 휴전 합의 이후 하마스 통제 구역에서 이뤄진 드문 지상 작전입니다 (BBC·가디언)\n\n여러분은 이번 이스라엘군의 지상 작전 재개, 어떻게 보십니까?\n출처: BBC·가디언·NBC뉴스·알자지라·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군이 휴전 이후 처음으로 가자지구 중부에서 지상 작전에 돌입했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스는 이스라엘 탱크가 휴전선 경계를 넘어 하마스 통제 지역으로 진입했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 공세가 팔레스타인 주민들에게 어떤 영향을 미칠지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 이스라엘군의 지상 작전 재개, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "가자지구 [[중부]]에서\n무슨 일이?",
+  "broll": [
+    "military tanks desert",
+    "middle east conflict"
+  ],
+  "place_en": "Gaza Strip"
+}

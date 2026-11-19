@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "north_korea_barrage_missiles_launch_east_sea_2026",
-    "topic": "북한, 동해상으로 탄도미사일 10여 발 발사",
-    "slug": "2026-10-29-news-north-korea-barrage-missiles-launch-east-sea-2026",
-    "cluster": "CBMi2AFBVV95cUxQc21DZ1IwY19UNTBvVDNGRG1OZlBfUHZCRmNoZ1h5cGVVR1hQdjh0b3lCZjEyVmVzaHlsQ042RTluMVhqeDFGRWdXWHNwSVVpOE9CRDVBQVhuVUxCcW9WVVVxS2c2MmR0ellxVmowb2FMTjFvWTNDVVVpajVnTFd4RjY1QkxiLWJSTzZkbjhyWUw5YWJtaEtsV2dVOUFmM2VNQlNKMWdUcHFTVlhTUkhDWmJBdjZLS0FTX2I4a0x0U3k2dlBlamJKUDB3dG8zMWd0NU1HRlVYb0PSAd4BQVVfeXFMTTNsemxGR0VNY1dhME01dzBoUmRueVJJUXBXNWV6UnAzeFAybFI3UVBxaWNEemFsaVJONFJFZUdpT0ZZSkhxRTRCNkhCblAxaG93QlpsSjlmT1huVFB3a3p2SU5jZ1BvU1M0ZUl6aE42NDQzYmIzY0N4ZnFLaFh6TTFuYU82M0RyQmxabDIzLV83UUtoT3Y0dlVZdUdPNnlCN2psQnAtM2VnTkoweVBXNExDS1pKRHVqS1JMQ1VuQ0lZa0d4MXg0Q212b0hsd0JTb1FqXzVwMWVlam1nbnJB",
-    "badge": "breaking",
-    "at": 1793254170.42701,
-    "country": "북한",
-    "category": "국제"
-  },
-  {
     "event_key": "moscow_mass_drone_strike_2026",
     "topic": "모스크바 겨냥 대규모 드론 공격 주요 공항 운항 중단",
     "slug": "2026-10-29-news-moscow-mass-drone-strike-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795043743.431269,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "israel_gaza_ground_offensive_2026",
+    "topic": "이스라엘군, 휴전 이후 처음으로 가자지구 중부 지상 작전 돌입",
+    "slug": "2026-11-19-news-israel-gaza-ground-offensive-2026",
+    "cluster": "CBMiW0FVX3lxTE9hTVBjZ3ZTR2x5c0NaYmhGUl9VUUg0enFwUWNmUW9RR0hNSElNN1NfRWxMRkdDWkx6UFZNY0xlMG9WNUJfU0V4amltWU1WOGN6Ykt6WVktakgwaG8",
+    "badge": "breaking",
+    "at": 1795046999.8723454,
+    "country": "팔레스타인",
+    "category": "국제"
   }
 ]
