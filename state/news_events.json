@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "moscow_mass_drone_strike_2026",
-    "topic": "모스크바 겨냥 대규모 드론 공격 주요 공항 운항 중단",
-    "slug": "2026-10-29-news-moscow-mass-drone-strike-2026",
-    "cluster": "CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH",
-    "badge": "breaking",
-    "at": 1793258011.2295864,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "us_south_carolina_nuclear_site_fire_emergency_2026",
     "topic": "미국 사우스캐롤라이나 핵시설 화재로 비상 선포",
     "slug": "2026-10-29-news-us-south-carolina-nuclear-site-fire-emergency-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795046999.8723454,
     "country": "팔레스타인",
+    "category": "국제"
+  },
+  {
+    "event_key": "c5",
+    "topic": "미국·중국·러시아 정상 회담 Apec 계기 첫 회동",
+    "slug": "2026-11-19-news-c5",
+    "cluster": "CBMiVkFVX3lxTE1JaDV1Q0dGNjZ3bW8xZEFsR3hsRzFlb1dFUGFoUFlxejBDaUNyeHZqRnpyZkRTTkhHSWFNU2IxeWhoV0M0c1p5ZEcyMmRFMmpJb2R2TmxB",
+    "badge": "brief",
+    "at": 1795054577.6486707,
+    "country": "중국",
     "category": "국제"
   }
 ]

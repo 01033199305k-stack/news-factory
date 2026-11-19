@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-19-news-c5",
+  "topic": "미국·중국·러시아 정상 회담 Apec 계기 첫 회동",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 09:27 KST",
+  "source": "BBC·CNN·Politico 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTE1JaDV1Q0dGNjZ3bW8xZEFsR3hsRzFlb1dFUGFoUFlxejBDaUNyeHZqRnpyZkRTTkhHSWFNU2IxeWhoV0M0c1p5ZEcyMmRFMmpJb2R2TmxB",
+    "related": [
+      [
+        "Trump, Xi and Putin set to hold historic meeting on Apec sidelines",
+        "BBC"
+      ],
+      [
+        "‘An absolute nightmare’ — Trump’s trilateral with Xi and Putin spooks allies",
+        "Politico"
+      ],
+      [
+        "Conflicting agendas and a weakened Trump mark historic three-way summit",
+        "The Washington Post"
+      ],
+      [
+        "Russia and China are not America’s friends. Why does Trump think they are?",
+        "CNN"
+      ],
+      [
+        "The Shadow of Yalta Hangs Over Trump’s Summit in China",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "c5"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국·중국·러시아 [[정상 회담]]\nApec 계기 첫 회동",
+      "sub": "트럼프와 시진핑·푸틴의 3자 회담 개최",
+      "chips": [
+        {
+          "k": "참석",
+          "v": "3개국 정상"
+        }
+      ],
+      "alt": "미국·중국·러시아 정상 회담 Apec 계기 첫 회동",
+      "map": {
+        "lat": 22.5445741,
+        "lon": 114.0545429,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n선전",
+      "video_only": true,
+      "map": {
+        "lat": 22.5445741,
+        "lon": 114.0545429,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "선전"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "APEC 계기",
+          "d": "APEC 정상회의 부대행사로 회담이 열렸다고 BBC 등이 보도했습니다."
+        },
+        {
+          "t": "외교적 파장",
+          "d": "미국의 동맹국들이 우려를 나타내고 있다고 폴리티코 등이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미·중·러 3자 회담 개최",
+        "APEC 계기 성사"
+      ],
+      "unconfirmed": [
+        "회담의 구체적인 합의 내용"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Politico",
+        "The New York Times",
+        "The Washington Post",
+        "2026.11.19 11:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국·중국·러시아 정상들이 APEC 계기로 회동했습니다\n\n· 트럼프 미국 대통령과 시진핑 중국 국가주석, 푸틴 러시아 대통령이 3자 회담을 열었습니다 (BBC·워싱턴포스트)\n· 이번 회담을 두고 미국 동맹국들 사이에서 우려의 목소리가 나오고 있습니다 (폴리티코)\n\n미·중·러 3자 회담이 향후 국제 정세에 어떤 영향을 미칠 것으로 보십니까?\n출처: BBC·폴리티코·워싱턴포스트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국과 중국, 러시아 정상이 APEC 계기로 역사적인 회담을 개최했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC 등 주요 외신은 세 나라가 회동했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 만남을 두고 동맹국들 사이에서 우려가 나오고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 회담 합의 내용은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 3자 회담, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국·중국·러시아\n[[정상 회담]] 성사",
+  "broll": [
+    "international summit flags",
+    "conference room meeting"
+  ],
+  "place_en": "Shenzhen, China"
+}
