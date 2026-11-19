@@ -45038,5 +45038,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795054935
+  },
+  {
+    "slug": "2026-11-19-news-nvidia-jensen-huang-board-dispute-2026",
+    "event_ms": 1795055820000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 엔비디아 이사회 분열 속 젠슨 황 복귀 촉구 목소리 확산\n\n· 일론 머스크 \"젠슨 황은 대체 불가능하다\" 언급 (CNBC)\n· 빌 애크먼 \"이사회가 패닉에 빠졌다\"며 이사회 강하게 비판 (폭스 비즈니스)\n\n· 여러분은 이번 엔비디아 사태를 어떻게 보십니까?\n출처: CNBC·이코노미스트·월스트리트저널·폭스 비즈니스·세마포 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18113121503625821",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df6JH75Dgdb",
+        "kind": "carousel",
+        "at": 1795059828
+      },
+      "instagram": {
+        "id": "18139932973649722",
+        "permalink": "https://www.instagram.com/reel/Df6JZyAAN_7/",
+        "kind": "reel",
+        "at": 1795059992
+      },
+      "youtube": {
+        "id": "32c0K_HFxVw",
+        "permalink": "https://youtube.com/shorts/32c0K_HFxVw",
+        "kind": "shorts",
+        "at": 1795060020
+      },
+      "tiktok": {
+        "id": "7709724097114148104",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709724097114148104",
+        "kind": "video",
+        "at": 1795060152
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795060162
   }
 ]

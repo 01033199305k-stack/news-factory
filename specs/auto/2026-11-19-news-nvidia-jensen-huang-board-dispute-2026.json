@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-19-news-nvidia-jensen-huang-board-dispute-2026",
+  "topic": "엔비디아 이사회 분열 젠슨 황 복귀 촉구 확산",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 11:37 KST",
+  "source": "The Economist·WSJ·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE1IZzFuTWNYdk9Ic0Z4cGxSR2pBcVB1a0hMUE1icWUyYnNrYzBaOEphTmcwcDlncDJsZG5lY2Rjby1KOGZrU2liaGxNOGhPZlctcm5pOUFOeG1ZbTBYeXRjV0NZbGJUS21RbE5oYkhwYk5vSjQzdVFV0gF8QVVfeXFMTjBQalZjdEotUDUwTXJOOTdvUi0xcExrZUlNUkEtLWprdGhIdHUxb1ctUVRkaXFVczg3UWJJaC1Nalg5cW1KS2x3LVpydHMxejlJUEJYZWZiUWxKSzB4SXJSUEJEVFBJbkVqTno0STl0S2V1VDhDbEFnb1FLZA",
+    "related": [
+      [
+        "Musk says Jensen Huang is irreplaceable, regrets midterm spending",
+        "CNBC"
+      ],
+      [
+        "Nvidia’s roaring results can’t hide its troubles",
+        "The Economist"
+      ],
+      [
+        "Uber Co-Founder Kalanick Teases Protest at Nvidia as Calls for Huang’s Return Continue",
+        "WSJ"
+      ],
+      [
+        "Bill Ackman blasts Nvidia's board over Jensen Huang's ouster, says it 'panicked'",
+        "Fox Business"
+      ],
+      [
+        "Nvidia’s board divided over calls for Huang’s return",
+        "Semafor"
+      ]
+    ],
+    "event_key": "nvidia_jensen_huang_board_dispute_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "엔비디아 이사회 분열\n[[젠슨 황]] 복귀 촉구 확산",
+      "sub": "빌 애크먼 등 이사회 비판 목소리",
+      "chips": [],
+      "alt": "엔비디아 이사회 분열 젠슨 황 복귀 촉구 확산",
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아",
+      "video_only": true,
+      "map": {
+        "lat": 36.7014631,
+        "lon": -118.755997,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "일론 머스크 발언",
+          "d": "일론 머스크는 젠슨 황이 대체 불가능하다고 밝혔습니다."
+        },
+        {
+          "t": "투자자 입장",
+          "d": "빌 애크먼은 이사회가 패닉에 빠졌다며 이사회를 강하게 비판했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이사회 젠슨 황 복귀 관련 분열 (세마포)",
+        "빌 애크먼 이사회 비판 (폭스 비즈니스)"
+      ],
+      "unconfirmed": [
+        "이사회 최종 결정 사항",
+        "향후 경영진 거취"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNBC",
+        "Fox Business",
+        "Semafor",
+        "The Economist",
+        "WSJ",
+        "2026.11.19 12:42 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 엔비디아 이사회 분열 속 젠슨 황 복귀 촉구 목소리 확산\n\n· 일론 머스크 \"젠슨 황은 대체 불가능하다\" 언급 (CNBC)\n· 빌 애크먼 \"이사회가 패닉에 빠졌다\"며 이사회 강하게 비판 (폭스 비즈니스)\n\n· 여러분은 이번 엔비디아 사태를 어떻게 보십니까?\n출처: CNBC·이코노미스트·월스트리트저널·폭스 비즈니스·세마포 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "엔비디아 이사회가 젠슨 황의 복귀를 둘러싸고 분열 양상을 보이고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 일론 머스크가 젠슨 황은 대체할 수 없다고 밝혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "빌 애크먼은 이사회가 패닉에 빠졌다고 비판했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이사회의 최종 결정과 경영진의 향후 거취는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 엔비디아 사태를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "엔비디아 이사회가\n[[분열]]한 이유",
+  "broll": [
+    "stock exchange screen",
+    "technology company building"
+  ],
+  "place_en": "California, United States"
+}

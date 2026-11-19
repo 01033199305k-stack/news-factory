@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_south_carolina_nuclear_site_fire_emergency_2026",
-    "topic": "미국 사우스캐롤라이나 핵시설 화재로 비상 선포",
-    "slug": "2026-10-29-news-us-south-carolina-nuclear-site-fire-emergency-2026",
-    "cluster": "CBMiqAFBVV95cUxPQy0yQlZ3N250LWZEWGlISG11bU9DZk9kTnlidklZc083V3JPLWpDM0xfUGxyNDRfenV2MDh0ZFd6M09tR1FiU0VDZFVMSG1iNVZ4cDNVQ1RpTktPbzFUcmpzUmRNN1pVYWttT2N4VWJ3bWcxaWZ0LUtCbXFsdzk0MjFndjJoekphZDB1QU1KandNUUlhaC15eElJLTIxdDRwcGtxbEtlTEbSAa4BQVVfeXFMTVZfVlNJVUp6MVBTS1JKbEtLWkVBRDE0a1RYNG1zNlpNMGFSdDJ3M0lOV2pnTkpzU2JhWTU0dkM3TFBJejRHXzRjMDhmUnMyRU5QQ3J4OXpHdERmVUlwcUVqbXRMUkJDcGNTTjVvLXh1ZnJmelRXaHJ0U28wNTNYbFNZUFd4eEcwbXhqd19PUjVxcnp5QmFrTUFhOUwwSkpRUURIaS1yVldPSG8zM1RB",
-    "badge": "breaking",
-    "at": 1793264950.1642814,
-    "country": "미국",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "ukraine_dnipro_train_station_strike_2026",
     "topic": "러시아, 드니프로 기차역 공습 최소 13명 사망",
     "slug": "2026-10-29-news-ukraine-dnipro-train-station-strike-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795054577.6486707,
     "country": "중국",
     "category": "국제"
+  },
+  {
+    "event_key": "nvidia_jensen_huang_board_dispute_2026",
+    "topic": "엔비디아 이사회 분열 젠슨 황 복귀 촉구 확산",
+    "slug": "2026-11-19-news-nvidia-jensen-huang-board-dispute-2026",
+    "cluster": "CBMid0FVX3lxTE1IZzFuTWNYdk9Ic0Z4cGxSR2pBcVB1a0hMUE1icWUyYnNrYzBaOEphTmcwcDlncDJsZG5lY2Rjby1KOGZrU2liaGxNOGhPZlctcm5pOUFOeG1ZbTBYeXRjV0NZbGJUS21RbE5oYkhwYk5vSjQzdVFV0gF8QVVfeXFMTjBQalZjdEotUDUwTXJOOTdvUi0xcExrZUlNUkEtLWprdGhIdHUxb1ctUVRkaXFVczg3UWJJaC1Nalg5cW1KS2x3LVpydHMxejlJUEJYZWZiUWxKSzB4SXJSUEJEVFBJbkVqTno0STl0S2V1VDhDbEFnb1FLZA",
+    "badge": "breaking",
+    "at": 1795059780.0265222,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
