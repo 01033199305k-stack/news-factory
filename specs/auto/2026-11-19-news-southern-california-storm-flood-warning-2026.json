@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-19-news-southern-california-storm-flood-warning-2026",
+  "topic": "미 캘리포니아주에 폭우 경보… 홍수·눈 예고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 13:54 KST",
+  "source": "Bloomberg·ABC7 Los Angeles·FOX 11 Los Angeles 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiywFBVV95cUxOcHhrVmlMRHBXWm9vcERDbmNqbmVLRVJQdlJiOG9nbjIxbDBPS3NnNU9FeXl1bEJNVUJpMzhEb3pPN0w3b25ZcV9EMlFkVDAyNUVhdFZXTnZRS2tES3BJb3c2NDlPV0ttSWk1OTFrQkhOQWFtc2FwYUNZQVo3UnoxY2EtM0ozRUE2ODRIMlZ5RTZyYzJ6VU5zdmFUVVFrblNVVGtVT09DTHlTamNpV0RPWEVveElvSmxDUUlKVkNLVUY3OTNCemZ3ZEVtMA",
+    "related": [
+      [
+        "Evacuation warnings issued for some SoCal burn scar areas ahead of storm",
+        "ABC7 Los Angeles"
+      ],
+      [
+        "L.A. County issues evacuation warnings as storm nears; snow, flooding expected",
+        "Los Angeles Times"
+      ],
+      [
+        "Southern California is about to get drenched. Here’s when the heaviest rain arrives",
+        "KTLA"
+      ],
+      [
+        "SoCal storm timeline: First atmospheric river of season brings heavy rain, flood risk",
+        "FOX 11 Los Angeles"
+      ],
+      [
+        "California Faces Flood Risks and Heavy Snow From Pacific Storm",
+        "Bloomberg"
+      ]
+    ],
+    "event_key": "southern_california_storm_flood_warning_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 캘리포니아주에 [[폭우]] 경보…\n홍수·눈 예고",
+      "sub": "태평양 폭풍 유입으로 대피 경고가 내려졌습니다",
+      "chips": [
+        {
+          "k": "기상",
+          "v": "폭우 및 폭설"
+        },
+        {
+          "k": "위험",
+          "v": "홍수 경보"
+        }
+      ],
+      "alt": "미 캘리포니아주에 폭우 경보… 홍수·눈 예고",
+      "map": {
+        "lat": 34.0536923,
+        "lon": -118.2427676,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n로스앤젤레스",
+      "video_only": true,
+      "map": {
+        "lat": 34.0536923,
+        "lon": -118.2427676,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "로스앤젤레스"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대피 경고",
+          "d": "로스앤젤레스 카운티 등 산불 피해 지역을 중심으로 대피 경고가 발령됐다고 ABC7과 LA타임스가 보도했습니다."
+        },
+        {
+          "t": "기상 전망",
+          "d": "올 시즌 첫 대기하천 현상으로 인해 많은 비와 함께 눈과 홍수 위험이 예상된다고 블룸버그와 폭스11이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "캘리포니아주 폭우 및 폭설 예고",
+        "산불 피해 지역 대피 경고 발령",
+        "홍수 위험 발생"
+      ],
+      "unconfirmed": [
+        "정확한 강수량 및 피해 규모",
+        "산사태 발생 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 Los Angeles",
+        "Bloomberg",
+        "FOX 11 Los Angeles",
+        "KTLA",
+        "Los Angeles Times",
+        "2026.11.19 14:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 캘리포니아주에 태평양 폭풍이 다가오며 대피 경고가 내려졌습니다\n\n· LA 카운티 등 산불 피해 지역을 중심으로 대피 경고가 발령됐다고 LA타임스와 ABC7이 전했습니다\n· 올 시즌 첫 대기하천 현상으로 폭우와 폭설이 예상됩니다 (블룸버그·폭스11)\n\n출처: LA타임스·블룸버그·ABC7·폭스11·KTLA 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아주에 태평양 폭풍이 접근하며 경보가 내려졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "LA타임스는 산불 피해 지역을 중심으로 대피 경고가 발령됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "블룸버그 통신은 올 시즌 첫 대기하천 현상으로 폭설과 홍수 위험이 예상된다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 강수량과 최종 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미 캘리포니아에\n[[폭우]]가 쏟아지는 이유",
+  "broll": [
+    "heavy rain storm highway",
+    "flooded street water"
+  ],
+  "place_en": "Los Angeles, California, USA"
+}

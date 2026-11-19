@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "eu_canada_associate_membership_backed_away_2026",
-    "topic": "EU, 캐나다 준회원국 구상 철회",
-    "slug": "2026-10-29-news-eu-canada-associate-membership-backed-away-2026",
-    "cluster": "CBMinwFBVV95cUxOMHhBdkU0QU5Ic2U2Q2szRUh0OVQwZE9zdTBOOHNIM1Rram1qUVA5RzdCbW02UThfUTlXN0hwd2tLTXJUeFJVUlhNRHVXVlhpQjNZOTk4SE5lMTIydkNVbmoxbW40NDk3VTZfcl82bWxEUHdPcm9RSjN3akxEWUNvNVA0Y1M2WEtJSllDR1pNcnlOS29abnBmNGxXV2JwOUnSAaQBQVVfeXFMTWNvalV2TzJjQWJrS2FZbzVpUkMtX05nNDg5V0lLTXlYbDVrbXdqWmIxQ3JmV1ExSExGXzduNEVoVGlNdW4zYTBEUWU0bEM3QkJleXBVNHR2dkFFcXkxb3d6b3hwT19idGdYWi03SHFBRWs4cklTNUM3NXZWWEhWejlrN0dReFVESXZ1aUlmdGJnSWNNeUdjcTlmS0Q5bGptRVZSTmk",
-    "badge": "breaking",
-    "at": 1793279473.7406278,
-    "country": "벨기에",
-    "category": "국제"
-  },
-  {
     "event_key": "ecb_president_christine_lagarde_resigns_early_2026",
     "topic": "크리스틴 라가르드 ECB 총재 조기 사임",
     "slug": "2026-10-29-news-ecb-president-christine-lagarde-resigns-early-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795061343.755193,
     "country": "네덜란드",
     "category": "국제"
+  },
+  {
+    "event_key": "southern_california_storm_flood_warning_2026",
+    "topic": "미 캘리포니아주에 폭우 경보… 홍수·눈 예고",
+    "slug": "2026-11-19-news-southern-california-storm-flood-warning-2026",
+    "cluster": "CBMiywFBVV95cUxOcHhrVmlMRHBXWm9vcERDbmNqbmVLRVJQdlJiOG9nbjIxbDBPS3NnNU9FeXl1bEJNVUJpMzhEb3pPN0w3b25ZcV9EMlFkVDAyNUVhdFZXTnZRS2tES3BJb3c2NDlPV0ttSWk1OTFrQkhOQWFtc2FwYUNZQVo3UnoxY2EtM0ozRUE2ODRIMlZ5RTZyYzJ6VU5zdmFUVVFrblNVVGtVT09DTHlTamNpV0RPWEVveElvSmxDUUlKVkNLVUY3OTNCemZ3ZEVtMA",
+    "badge": "breaking",
+    "at": 1795064828.822789,
+    "country": "미국",
+    "category": "재난"
   }
 ]
