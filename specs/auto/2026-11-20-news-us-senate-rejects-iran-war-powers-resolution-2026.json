@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-20-news-us-senate-rejects-iran-war-powers-resolution-2026",
+  "topic": "미 상원, 트럼프 대이란 군사작전 제지안 부결",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 06:19 KST",
+  "source": "Politico·The New York Times·The Washington Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxOYUhPc1MzUmliSzFkVG16b3R4WmdnM2tTQlhHX19ONGU1Ui15MWZZcmJ0NDA4a0lkenNvRXdvUFRaMDdvcjZoOHd3YW5KNVNEelUxVEx0VU83WlJMTkFLYVV0WEtwNGVGQ2RjRmwxTlNhZ2xseHkxbGxjNTBsWU5XclJnZkRCVHJBVURwOHVoR1JjZEVSSzFuRjRRdVh3NHRpd3VTVnF3",
+    "related": [
+      [
+        "Senate rejects resolution to block Trump from striking Iran",
+        "The Washington Post"
+      ],
+      [
+        "Senate Republicans Block Bid to Rein in Trump on Iran War",
+        "The New York Times"
+      ],
+      [
+        "Despite midterm shellacking, Senate GOP declines to rein in Iran war",
+        "Politico"
+      ],
+      [
+        "Senate Republicans quash measure aimed at ending unpopular Iran war",
+        "USA Today"
+      ],
+      [
+        "Live updates: Trump wraps Asia trip; Iran war resolution fails",
+        "The Hill"
+      ]
+    ],
+    "event_key": "us_senate_rejects_iran_war_powers_resolution_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미 상원, [[트럼프]] 대이란\n군사작전 제지안 부결",
+      "sub": "공화당 주도로 이란 전쟁 억제 결의안 표결 거부",
+      "chips": [
+        {
+          "k": "표결 결과",
+          "v": "부결"
+        }
+      ],
+      "alt": "미 상원, 트럼프 대이란 군사작전 제지안 부결",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이란 공격 제지 무산",
+          "d": "미 상원이 트럼프 대통령의 대이란 군사 공격 권한을 제한하려던 결의안을 부결했습니다."
+        },
+        {
+          "t": "공화당 주도 거부",
+          "d": "상원 공화당 의원들이 안건을 거부했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 상원 이란 전쟁 제지 결의안 부결"
+      ],
+      "unconfirmed": [
+        "향후 추가 군사 작전 시기 및 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Politico",
+        "The Hill",
+        "The New York Times",
+        "The Washington Post",
+        "USA Today",
+        "2026.11.20 07:16 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미 상원이 트럼프 대통령의 대이란 군사작전을 제한하는 결의안을 부결했습니다.\n\n· 상원 공화당 주도로 이란 전쟁 억제 결의안이 거부됐습니다 (워싱턴포스트·뉴욕타임스)\n· 이번 표결로 트럼프 행정부의 대이란 군사 행동 권한이 유지됐습니다 (폴리티코·USA투데이)\n\n트럼프 행정부의 대이란 군사 행동에 대해 어떻게 생각하십니까?\n\n출처: 워싱턴포스트·뉴욕타임스·폴리티코·USA투데이·더힐 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 상원이 트럼프 대통령의 대이란 군사작전을 제지하려는 결의안을 부결했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "워싱턴포스트 등은 상원 공화당이 이란 전쟁 억제 안건을 거부했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "이번 부결로 트럼프 행정부는 대이란 군사 행동 권한을 계속 유지하게 됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 추가 공격의 구체적 시기와 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "미국의 이번 결정에 대해 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "트럼프 [[이란]] 공격\n막아서는 안 된다?",
+  "broll": [
+    "capitol building exterior",
+    "senate chamber washington"
+  ],
+  "place_en": "Washington, D.C., USA"
+}
