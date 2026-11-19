@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-19-news-icj-rohingya-myanmar-ruling-2026",
+  "topic": "UN 최고법원, 미얀마 로힝야족 제노사이드 판결 내린다",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 11:13 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMimwFBVV95cUxOQlJFTEhaVnVSbTFXX2JXczJfUUg4b0JJekNpVmZsTFU2M1pGT0d5d0tYOEczVlhSc3c3R1hkSURqM1dkVkJmZW9QaWQ0LXlENUY5TnpLRm1BTlpYV3ptUFA3dU45Q3lxSnVyX0pHdU41WjhpREZnWEpGUmZ1bW85dzNPTk5BWEZfN3A5TUp4clNsY0VkR1lzVnBJMNIBoAFBVV95cUxQdEx6a2ZsTlg1MkRNQ09mRDBhRTlVbGZ0QWhNRXdqb2JKYnlfMDJVdjNZNGNxVEp0WEM3Q2k2dzhYMkJfcWhDZk1XMEpPaXdkZW1HbjlrZ090UVVZQVJfZVdOdnVCYXg3RUpEdWxwVGxQNk5NUE1Ec3dMN3dJcS1taDVRWkRTcnEzaGNOVDdsZ0s3Qnp1a1hRNWdsYUJtY3Bf",
+    "related": [
+      [
+        "ICJ to rule on Rohingya genocide case against Myanmar",
+        "Al Jazeera"
+      ],
+      [
+        "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+        "BBC"
+      ],
+      [
+        "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+        "The Guardian"
+      ],
+      [
+        "Top UN court to deliver judgment in case alleging Myanmar committed genocide against Rohingya",
+        "The New Indian Express"
+      ],
+      [
+        "Top UN court to rule on alleged genocide of Myanmar's Rohingya",
+        "Reuters"
+      ]
+    ],
+    "event_key": "icj_rohingya_myanmar_ruling_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "UN 최고법원, 미얀마 [[로힝야족]]\n제노사이드 판결 내린다",
+      "sub": "국제사법재판소(ICJ) 로힝야족 집단학살 사건 판결 예정",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "로힝야족"
+        },
+        {
+          "k": "기관",
+          "v": "ICJ"
+        }
+      ],
+      "alt": "UN 최고법원, 미얀마 로힝야족 제노사이드 판결 내린다",
+      "map": {
+        "lat": 52.0749456,
+        "lon": 4.2696802,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "네덜란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네덜란드\n헤이그",
+      "video_only": true,
+      "map": {
+        "lat": 52.0749456,
+        "lon": 4.2696802,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "헤이그"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "ICJ 판결",
+          "d": "국제사법재판소가 미얀마의 로힝야족 집단학살 혐의에 대한 판결을 선고합니다 (알자지라·로이터)."
+        },
+        {
+          "t": "제재 우려",
+          "d": "미얀마 제노사이드 판결 이후 노벨상 수상 판사가 미국의 제재를 받을 수 있다는 우려가 제기됩니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "국제사법재판소(ICJ) 판결",
+        "미얀마 로힝야족 집단학살 혐의"
+      ],
+      "unconfirmed": [
+        "판결 결과 및 배상 여부",
+        "미국의 후속 제재 조치 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "The New Indian Express",
+        "2026.11.19 13:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] UN 최고법원, 미얀마 로힝야족 제노사이드 판결 내린다\n\n· 국제사법재판소가 미얀마의 로힝야족 집단학살 혐의에 대한 판결을 선고합니다 (알자지라·로이터)\n· 판결 이후 노벨상 수상 판사가 미국의 제재를 받을 수 있다는 우려가 제기됩니다 (가디언)\n\n이번 판결이 미얀마 사태에 어떤 영향을 미칠 것으로 보십니까?\n출처: 알자지라·BBC·가디언·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "국제사법재판소가 미얀마의 로힝야족 집단학살 혐의에 대한 판결을 내립니다.",
+      "card": "cover"
+    },
+    {
+      "text": "UN 최고법원에서 역사적인 선고가 진행됩니다.",
+      "card": "map"
+    },
+    {
+      "text": "외신은 판결 이후 노벨상 수상 판사가 미국의 제재를 받을 수 있다는 우려가 커지고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 판결 결과는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 국제법원의 판결, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "UN 최고법원이 [[미얀마]]에\n내릴 판결은?",
+  "broll": [
+    "courtroom gavel justice",
+    "international court building"
+  ],
+  "place_en": "The Hague, Netherlands"
+}

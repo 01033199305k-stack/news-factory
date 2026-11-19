@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine_dnipro_train_station_strike_2026",
-    "topic": "러시아, 드니프로 기차역 공습 최소 13명 사망",
-    "slug": "2026-10-29-news-ukraine-dnipro-train-station-strike-2026",
-    "cluster": "CBMirAFBVV95cUxON0dvUmlSSHZXZjNsam5PN082YVZHUXF5ZHRhMkF6eHh2b0JlbzhhWFFJM0JzZGFiLU1TTkRDYk5IbE5RRE90NTlXMGx1bm9Pa0drTG02TF9Bd002Sm1IV2tXNk1aSzZPNmwxRmRyVnJBYUp2WEZtZDRCaVVWV2ptVm5zYXBDS3lsakZsdnpEZzNhRVFTWDFSUVdKUEd2dHJZMXlvdWFmYS1jZGRH0gGyAUFVX3lxTE9VQVVwWmZIZnRtQ1NDUGRjOEVzMVpfQXYtYkZvdThDbjB5T3RBa3hBUjgxUFMxNm9zNzFZZU5vd0VtN3dlbzlSeEU5UFp5WFRoQjd1ZzVGX0NjZ0pNSURsaktyYkxvRGc4eUdPRmhZWmdTdlZER1N4WGpua2FwdDQwNE5lNjlpelhXWjV4Z1R0R1FtNlc3Yk5YdDJMaGdfYWZXaElIMkpxZ3RRQTdJbUdINlE",
-    "badge": "breaking",
-    "at": 1793275812.224774,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "eu_canada_associate_membership_backed_away_2026",
     "topic": "EU, 캐나다 준회원국 구상 철회",
     "slug": "2026-10-29-news-eu-canada-associate-membership-backed-away-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795059780.0265222,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "icj_rohingya_myanmar_ruling_2026",
+    "topic": "UN 최고법원, 미얀마 로힝야족 제노사이드 판결 내린다",
+    "slug": "2026-11-19-news-icj-rohingya-myanmar-ruling-2026",
+    "cluster": "CBMimwFBVV95cUxOQlJFTEhaVnVSbTFXX2JXczJfUUg4b0JJekNpVmZsTFU2M1pGT0d5d0tYOEczVlhSc3c3R1hkSURqM1dkVkJmZW9QaWQ0LXlENUY5TnpLRm1BTlpYV3ptUFA3dU45Q3lxSnVyX0pHdU41WjhpREZnWEpGUmZ1bW85dzNPTk5BWEZfN3A5TUp4clNsY0VkR1lzVnBJMNIBoAFBVV95cUxQdEx6a2ZsTlg1MkRNQ09mRDBhRTlVbGZ0QWhNRXdqb2JKYnlfMDJVdjNZNGNxVEp0WEM3Q2k2dzhYMkJfcWhDZk1XMEpPaXdkZW1HbjlrZ090UVVZQVJfZVdOdnVCYXg3RUpEdWxwVGxQNk5NUE1Ec3dMN3dJcS1taDVRWkRTcnEzaGNOVDdsZ0s3Qnp1a1hRNWdsYUJtY3Bf",
+    "badge": "breaking",
+    "at": 1795061343.755193,
+    "country": "네덜란드",
+    "category": "국제"
   }
 ]
