@@ -45411,5 +45411,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795127010
+  },
+  {
+    "slug": "2026-11-20-news-c4-cte-blood-test-research",
+    "event_ms": 1795122493000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 생존 환자 CTE 진단 가능한 혈액 검사 연구 결과 발표 (The New York Times·NBC Boston)\n\n· 생존 환자에게서 만성외상성뇌병증을 검사할 수 있는 가능성을 열었습니다 (뉴욕타임스·NBC보스턴)\n· 이번 연구가 '게임 체인저'가 될 수 있다는 평가가 나오고 있습니다 (NBC보스턴)\n\n이번 새로운 진단 연구 도입에 대해 어떻게 생각하십니까?\n\n출처: The New York Times·ESPN·The Boston Globe·WGBH·NBC Boston 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18117087400844588",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df8Og63m-_x",
+        "kind": "carousel",
+        "at": 1795129762
+      },
+      "instagram": {
+        "id": "17955922359299310",
+        "permalink": "https://www.instagram.com/reel/Df8Owl1GfOx/",
+        "kind": "reel",
+        "at": 1795129907
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1795129918
+      },
+      "tiktok": {
+        "id": "7710024265130659073",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710024265130659073",
+        "kind": "video",
+        "at": 1795130040
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795130050
   }
 ]

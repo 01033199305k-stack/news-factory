@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-20-news-c4-cte-blood-test-research",
+  "topic": "생존 환자 CTE 진단 가능한 혈액 검사 연구 결과 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 06:08 KST",
+  "source": "The New York Times·ESPN·NBC Boston 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMifEFVX3lxTE43Y1dZN2pYZExyRlZfLXpYckxjTnZxWWkySjRRUE5wNkN3SS1qYlM5TTBvVVVmVFdoNjJCODVFRksxXzdOcE55d1Q2VGxPekljZG91TFlNdE9HOEFzaHc4NjJheC1zczNKeW51dWhGamh4cEFXbHNnSEJKMnk",
+    "related": [
+      [
+        "Studies Could Pave Way for Blood Test to Detect C.T.E. in Living Patients",
+        "The New York Times"
+      ],
+      [
+        "Studies: Blood test has potential to detect CTE in the living",
+        "ESPN"
+      ],
+      [
+        "Diagnosing CTE has long been challenging. New research could change that.",
+        "The Boston Globe"
+      ],
+      [
+        "New research may pave way for diagnosing CTE before death",
+        "WGBH"
+      ],
+      [
+        "‘It's a game-changer': Blood test detects CTE in possible breakthrough",
+        "NBC Boston"
+      ]
+    ],
+    "event_key": "c4_cte_blood_test_research"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "생존 환자 [[CTE]] 진단 가능한\n혈액 검사 연구 결과 발표",
+      "sub": "만성외상성뇌병증 진단 방법의 새로운 전환점 마련",
+      "chips": [
+        {
+          "k": "진단 방법",
+          "v": "혈액 검사"
+        }
+      ],
+      "alt": "생존 환자 CTE 진단 가능한 혈액 검사 연구 결과 발표",
+      "map": {
+        "lat": 42.3588336,
+        "lon": -71.0578303,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n보스턴",
+      "video_only": true,
+      "map": {
+        "lat": 42.3588336,
+        "lon": -71.0578303,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "보스턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "연구 의의",
+          "d": "생존 환자에게서 만성외상성뇌병증을 검사할 수 있는 가능성을 열었습니다 (뉴욕타임스·NBC보스턴)."
+        },
+        {
+          "t": "현장 반응",
+          "d": "이번 연구가 '게임 체인저'가 될 수 있다는 평가가 나오고 있습니다 (NBC보스턴)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "생존 환자 대상 CTE 혈액 검사 가능성 확인 (뉴욕타임스·NBC보스턴)",
+        "사전 진단 한계 극복 연구 발표 (보스턴글로브)"
+      ],
+      "unconfirmed": [
+        "임상 상용화 시기와 정확한 적용 범위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ESPN",
+        "NBC Boston",
+        "The Boston Globe",
+        "The New York Times",
+        "WGBH",
+        "2026.11.20 08:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 생존 환자 CTE 진단 가능한 혈액 검사 연구 결과 발표 (The New York Times·NBC Boston)\n\n· 생존 환자에게서 만성외상성뇌병증을 검사할 수 있는 가능성을 열었습니다 (뉴욕타임스·NBC보스턴)\n· 이번 연구가 '게임 체인저'가 될 수 있다는 평가가 나오고 있습니다 (NBC보스턴)\n\n이번 새로운 진단 연구 도입에 대해 어떻게 생각하십니까?\n\n출처: The New York Times·ESPN·The Boston Globe·WGBH·NBC Boston 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "생존 환자에게서 만성외상성뇌병증을 진단할 수 있는 혈액 검사 연구 결과가 발표되었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 연구가 '게임 체인저'가 될 수 있다는 평가가 나오고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 임상 상용화 시기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 의료 기술 발전, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "진단 어렵던 [[뇌질환]],\n생존자 진단 길 열리나",
+  "broll": [
+    "medical laboratory blood test",
+    "scientific research microscope"
+  ],
+  "place_en": "Boston, United States"
+}

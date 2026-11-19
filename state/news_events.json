@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bulgaria_black_sea_container_ship_drone_attack_2026",
-    "topic": "불가리아 해상서 컨테이너선 드론 공격 받아 침몰",
-    "slug": "2026-10-30-news-bulgaria-black-sea-container-ship-drone-attack-2026",
-    "cluster": "CBMiqwFBVV95cUxQZDBoQmhOeXpHRkV2bGdQRVY0dWpCdG9wSk1rM2hvSmhLYmpXOFNYYU9ONTFaVmwybDBNTmQ1bTItWXByOW80YzVObnJUamFzc1VBbTB4cHJ3Z19QWHQ2a1lfSGt2X0NVWEJaVWY0XzNyNFMxU3YzOTFpUmMxNkhfTWhoSkhWRTR6TkZMbTJ2dlZJbHEyeHFsYmNseFZNX1NkVF9nQUw1S0NoU2c",
-    "badge": "breaking",
-    "at": 1793297359.2099175,
-    "country": "불가리아",
-    "category": "사고"
-  },
-  {
     "event_key": "us_q3_gdp_growth_3_4_percent_2026",
     "topic": "미국 3분기 GDP 3.4% 상승 소비·AI 투자 호조 영향",
     "slug": "2026-10-30-news-us-q3-gdp-growth-3-4-percent-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795126619.254458,
     "country": "미국",
     "category": "국제"
+  },
+  {
+    "event_key": "c4_cte_blood_test_research",
+    "topic": "생존 환자 CTE 진단 가능한 혈액 검사 연구 결과 발표",
+    "slug": "2026-11-20-news-c4-cte-blood-test-research",
+    "cluster": "CBMifEFVX3lxTE43Y1dZN2pYZExyRlZfLXpYckxjTnZxWWkySjRRUE5wNkN3SS1qYlM5TTBvVVVmVFdoNjJCODVFRksxXzdOcE55d1Q2VGxPekljZG91TFlNdE9HOEFzaHc4NjJheC1zczNKeW51dWhGamh4cEFXbHNnSEJKMnk",
+    "badge": "breaking",
+    "at": 1795129714.2241442,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
