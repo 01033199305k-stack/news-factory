@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ecb_president_christine_lagarde_resigns_early_2026",
-    "topic": "크리스틴 라가르드 ECB 총재 조기 사임",
-    "slug": "2026-10-29-news-ecb-president-christine-lagarde-resigns-early-2026",
-    "cluster": "CBMivAFBVV95cUxQMmhhd2Zxb2hFMmlvTk9vSWhySGhJZWszVmx5T0M0TlE1TEMwTVowcFpXZDVpQVlGSjBPeEdhSVUtOE4tMk42N3JxN1BhR29JVDVBSF9HQUJydGFrRnFnMXkwRHZSX3N3c2xtdVNNSWl3OFZIYzFuakh0NklJRy1RbVQ3Nm9EcTNMbFppc0lLdkdSUTQ5N2pheU04NFltcmpyZWYtT2psRk9QQ1hZOUpYd2QzbjlvZkhuSmtPbA",
-    "badge": "breaking",
-    "at": 1793283026.049662,
-    "country": "독일",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "italy_dolomites_ww1_munitions_exposed_2026",
     "topic": "이탈리아 돌로미티 빙하 융해 제1차 세계대전 폭발물 발견",
     "slug": "2026-10-29-news-italy-dolomites-ww1-munitions-exposed-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795064828.822789,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "kim_chang_min_assault_sentencing_2026",
+    "topic": "고 김창민 감독 폭행 살해 사건 주범에게 징역 12년 선고",
+    "slug": "2026-11-19-news-kim-chang-min-assault-sentencing-2026",
+    "cluster": "CBMiY0FVX3lxTE9xajN4dVl5YWlrWV9sSjZZZ085bDFZSWc2OGVBb21FZVBzNGQwU1pPNDQ2NVd6Zy0zTmlyN25rTGlqM2RJVVJVb2tUTGxxNlNFZzRkVWdkaHZkSFd1MmZUX3JHOA",
+    "badge": "breaking",
+    "at": 1795094869.3814797,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]
