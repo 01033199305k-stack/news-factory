@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-20-news-cheonan-disabled-child-abuse-death-2026",
+  "topic": "천안서 발달장애 아동 학대 사망 정황",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 02:33 KST",
+  "source": "KBS 뉴스·경향신문·매일경제 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMibEFVX3lxTE0zR0xvLTZGajlZSmdaR0dpMENQRDg5NmFLLXE5NlZxRHVVVlpMZDNjUFIybmFLdko0TUNvMVY0UC1oa2o4WVNHT2hHOWxwRlNCeVRNbGltMjBvZXVaLVNRVHdwOHR3Vkw4RTRmMdIBckFVX3lxTE9xNXVlekJCblE0VlR3S19qT0xtMXdibHluQUh1d0xsckRSNkwwbU5KQmVBR2huN1ZQRGN2ZlA1QXZXVTR2ei05aS1GVnNLSDlKZEhmMXpvazFMWTBnb3BCS3A3dU9HWC1OaGZtZ25pU3BqQQ",
+    "related": [
+      [
+        "[단독]천안 장애아동 비극 막는다…학대 현장에 공무원 동행 법제화 - 머니투데이",
+        "머니투데이"
+      ],
+      [
+        "‘발달장애 아동 사망’ 학대 혐의 수사…부검 의뢰",
+        "KBS 뉴스"
+      ],
+      [
+        "아동학대 사각지대 없앤다…충남도, 발달장애아동 돌봄 강화",
+        "연합뉴스"
+      ],
+      [
+        "천안에서 또 발달장애아 학대사망 정황…친모 긴급체포",
+        "매일경제"
+      ],
+      [
+        "긴급돌봄센터 단 ‘1곳’···천안 발달장애아동 숨지자 충남도 긴급대책",
+        "경향신문"
+      ]
+    ],
+    "event_key": "cheonan_disabled_child_abuse_death_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "천안서 발달장애 아동\n학대 사망 [[정황]]",
+      "sub": "충남도가 긴급돌봄 대책 마련에 나섰습니다",
+      "chips": [
+        {
+          "k": "긴급돌봄센터",
+          "v": "1곳"
+        }
+      ],
+      "alt": "천안서 발달장애 아동 학대 사망 정황",
+      "map": {
+        "lat": 36.8150283,
+        "lon": 127.1140654,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n천안",
+      "video_only": true,
+      "map": {
+        "lat": 36.8150283,
+        "lon": 127.1140654,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "천안"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "친모 긴급체포",
+          "d": "경찰은 학대 혐의로 친모를 긴급체포해 수사하고 있습니다 (매일경제)."
+        },
+        {
+          "t": "충남도 대책",
+          "d": "충남도는 아동학대 사각지대를 없애기 위해 돌봄을 강화한다고 밝혔습니다 (연합뉴스·경향신문)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "발달장애 아동 사망",
+        "친모 긴급체포",
+        "부검 의뢰"
+      ],
+      "unconfirmed": [
+        "정확한 사망 원인",
+        "학대 기간 및 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "경향신문",
+        "매일경제",
+        "머니투데이",
+        "연합뉴스",
+        "2026.11.20 05:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 천안서 발달장애 아동 학대 사망 정황이 포착됐습니다\n\n· 경찰은 아동학대 혐의로 친모를 긴급체포해 수사하고 있습니다 (매일경제)\n· 충남도는 발달장애아동 돌봄을 강화하고 대책 마련에 나섰습니다 (연합뉴스·경향신문)\n\n출처: 머니투데이·KBS·연합뉴스·매일경제·경향신문 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "천안에서 발달장애 아동이 숨져 경찰이 수사에 나섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경찰은 아동학대 혐의로 친모를 긴급체포했다고 매일경제가 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "충남도는 아동학대 사각지대를 없애기 위해 긴급 돌봄 대책을 강화한다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망 원인과 학대 여부는 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "천안서 발달장애\n아동 [[사망]]",
+  "broll": [
+    "police station building",
+    "ambulance night"
+  ],
+  "place_en": "Cheonan, South Korea"
+}
