@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-19-news-florida-historic-flooding-schools-closed-2026",
+  "topic": "미 플로리다 기습 폭우 도로 침수·학교 휴교",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.19 23:22 KST",
+  "source": "Miami Herald·NBC 6 South Florida·WESH 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxQV0NxeURtekl6aG5EMGVrdG50UHR6ZXhIaWQwN25mTE5ldVVtMkJDb3FxWTgxVlZPbmt2SDV3a2duckdwYk1ncVAyT2hNM2tKeXVXaHVUdXpNbDNIMlZRQmN4cHVhaGxzWjNYelN6NHRieHVBZFpsQUpLUWg4YVM5V1JUSQ",
+    "related": [
+      [
+        "Nonstop rain pummels Central Florida, flooding roads, closing schools",
+        "WESH"
+      ],
+      [
+        "Historic flooding in South Florida closes schools, leaves residents stranded in deluge",
+        "NBC 6 South Florida"
+      ],
+      [
+        "Is anything open after the big floods? Check info for Miami and Broward",
+        "Miami Herald"
+      ],
+      [
+        "Flash Flood Warning in effect for Palm Beach County",
+        "WPEC"
+      ],
+      [
+        "FIU will be closed tomorrow, Thursday, November 19, due to weather conditions",
+        "Florida International University"
+      ]
+    ],
+    "event_key": "florida_historic_flooding_schools_closed_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 플로리다 [[기습 폭우]]\n도로 침수·학교 휴교",
+      "sub": "홍수 경보가 내려졌습니다",
+      "chips": [
+        {
+          "k": "상황",
+          "v": "학교 휴교·도로 침수"
+        }
+      ],
+      "alt": "미 플로리다 기습 폭우 도로 침수·학교 휴교",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다",
+      "video_only": true,
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "학교 대규모 휴교",
+          "d": "마이애미와 브로워드 등 지역 학교가 휴교에 들어갔습니다 (NBC 6·마이애미 헤럴드)."
+        },
+        {
+          "t": "홍수 경보 발령",
+          "d": "팜비치 카운티 등에 플래시 플러드 경보가 발령됐습니다 (WPEC·WESH)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플로리다주 폭우 발생",
+        "도로 침수 및 학교 휴교"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Florida International University",
+        "Miami Herald",
+        "NBC 6 South Florida",
+        "WESH",
+        "WPEC",
+        "2026.11.20 02:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 플로리다주에 폭우가 쏟아져 도로가 침수되고 학교들이 휴교했습니다.\n\n· 폭우로 도로가 침수됐습니다 (WESH·NBC 6).\n· 마이애미와 브로워드, 팜비치 카운티 등에 홍수 경보가 발령되고 각급 학교가 문을 닫았습니다 (마이애미 헤럴드·WPEC).\n\n출처: WESH·NBC 6·마이애미 헤럴드·WPEC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 플로리다주에 폭우가 내리며 도로가 침수되고 학교가 휴교했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "마이애미와 팜비치 등 지역에 홍수 경보가 발령됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "도로 침수가 발생했으며 대학교를 포함한 학교들도 문을 닫았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[플로리다]] 덮친\n폭우",
+  "broll": [
+    "flooded street night",
+    "heavy rain road"
+  ],
+  "place_en": "Florida, USA"
+}

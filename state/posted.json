@@ -45252,5 +45252,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795104880
+  },
+  {
+    "slug": "2026-11-19-news-florida-historic-flooding-schools-closed-2026",
+    "event_ms": 1795098120000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 플로리다주에 폭우가 쏟아져 도로가 침수되고 학교들이 휴교했습니다.\n\n· 폭우로 도로가 침수됐습니다 (WESH·NBC 6).\n· 마이애미와 브로워드, 팜비치 카운티 등에 홍수 경보가 발령되고 각급 학교가 문을 닫았습니다 (마이애미 헤럴드·WPEC).\n\n출처: WESH·NBC 6·마이애미 헤럴드·WPEC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18038486708911522",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df7mBfSiXSC",
+        "kind": "carousel",
+        "at": 1795108532
+      },
+      "instagram": {
+        "id": "18113288534214575",
+        "permalink": "https://www.instagram.com/reel/Df7m6jagNav/",
+        "kind": "reel",
+        "at": 1795109016
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1795109026
+      },
+      "tiktok": {
+        "id": "7709934584040819975",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7709934584040819975",
+        "kind": "video",
+        "at": 1795109149
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795109159
   }
 ]
