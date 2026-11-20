@@ -45735,5 +45735,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795155190
+  },
+  {
+    "slug": "2026-11-20-news-us-floats-ukraine-land-for-nato-membership-2026",
+    "event_ms": 1795163204232,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국이 우크라이나에 영토 양도를 대가로 나토 가입을 제안했습니다.\n\n· 젤렌스키 우크라이나 대통령은 미국 측이 돈바스 양도를 전제로 나토 가입안을 제시했다고 밝혔습니다 (BBC·CNN).\n· 젤렌스키 대통령은 해당 안보 구상이 푸틴 러시아 대통령에게 이득이 될 수 있다고 지적했습니다 (PBS).\n· 우크라이나가 영토를 양도하고 나토의 보호를 받는 방안에 대해 논의가 이어지고 있습니다 (DW).\n\n영토와 나토 가입을 맞바꾸는 안보 구상, 어떻게 생각하십니까?\n출처: 월스트리트저널·BBC·DW·PBS·CNN 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18216298600363930",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df9OZAtm_YC",
+        "kind": "carousel",
+        "at": 1795163252
+      },
+      "instagram": {
+        "id": "18026517392719274",
+        "permalink": "https://www.instagram.com/reel/Df9Z5WfjZrs/",
+        "kind": "reel",
+        "at": 1795169308
+      },
+      "youtube": {
+        "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
+        "at": 1795169393
+      },
+      "tiktok": {
+        "id": "7710194041396137217",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710194041396137217",
+        "kind": "video",
+        "at": 1795169628
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795169638
   }
 ]
