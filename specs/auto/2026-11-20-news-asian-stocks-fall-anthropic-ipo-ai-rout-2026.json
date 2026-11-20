@@ -1,0 +1,147 @@
+{
+  "slug": "2026-11-20-news-asian-stocks-fall-anthropic-ipo-ai-rout-2026",
+  "topic": "앤스로픽 IPO 이후에도 아시아 증시 급락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 17:55 KST",
+  "source": "Bloomberg.com·The Guardian·CNBC 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ",
+    "related": [
+      [
+        "Nasdaq futures fall after Anthropic fails to lift market sentiment: Live updates",
+        "CNBC"
+      ],
+      [
+        "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks",
+        "CNBC"
+      ],
+      [
+        "Stocks Suffer Worst Run Since 2023, Havens Gain: Markets Wrap",
+        "Bloomberg.com"
+      ],
+      [
+        "Asian stocks headed for worst week since 2020 as Anthropic IPO fails to end AI rout – business live",
+        "The Guardian"
+      ],
+      [
+        "Asia shares drop on AI worries, echoing Wall Street's decline despite the strong Anthropic debut",
+        "Yahoo Finance"
+      ]
+    ],
+    "event_key": "asian_stocks_fall_anthropic_ipo_ai_rout_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "앤스로픽 IPO 이후에도\n[[아시아 증시]] 급락",
+      "sub": "소프트뱅크 2년 만에 최악의 하락세 기록",
+      "chips": [
+        {
+          "k": "증시",
+          "v": "급락"
+        }
+      ],
+      "alt": "앤스로픽 IPO 이후에도 아시아 증시 급락",
+      "map": {
+        "lat": 35.6768601,
+        "lon": 139.7638947,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "일본"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "일본\n도쿄",
+      "video_only": true,
+      "map": {
+        "lat": 35.6768601,
+        "lon": 139.7638947,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "도쿄"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "소프트뱅크 주가",
+          "d": "소프트뱅크는 2년 만에 최악의 낙폭을 기록했습니다 (CNBC)."
+        },
+        {
+          "t": "주간 증시 전망",
+          "d": "아시아 증시는 2020년 이후 최악의 한 주를 기록할 전망입니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "아시아 증시 하락세",
+        "소프트뱅크 주가 급락",
+        "AI 관련주 매도세"
+      ],
+      "unconfirmed": [
+        "정확한 주간 손실률",
+        "향후 증시 반등 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNBC",
+        "The Guardian",
+        "Yahoo Finance",
+        "2026.11.20 18:16 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 앤스로픽 IPO 이후에도 아시아 증시가 급락했습니다\n\n· 소프트뱅크는 2년 만에 가장 큰 폭의 하락세를 기록했습니다 (CNBC)\n· 아시아 증시는 2020년 이후 최악의 한 주를 맞이할 전망입니다 (가디언)\n\n여러분은 최근 글로벌 기술주 중심의 증시 변동성, 어떻게 보십니까?\n출처: CNBC·가디언·블룸버그 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "앤스로픽 상장 이후 아시아 증시가 큰 폭으로 떨어졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNBC는 소프트뱅크가 2년 만에 최악의 하루를 보냈다고 전했습니다.",
+      "card": "points",
+      "screen": "소프트뱅크 급락"
+    },
+    {
+      "text": "가디언은 아시아 증시가 2020년 이후 가장 나쁜 한 주를 기록할 전망이라고 보도했습니다.",
+      "card": "points",
+      "screen": "최악의 한 주"
+    },
+    {
+      "text": "이번 주가 하락세의 원인과 향후 흐름은 아직 확실하지 않습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 최근 글로벌 기술주 중심의 증시 변동성, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "앤스로픽 상장 이후\n[[아시아 증시]]에 무슨 일이?",
+  "broll": [
+    "stock exchange screen",
+    "financial chart down"
+  ],
+  "place_en": "Tokyo, Japan"
+}

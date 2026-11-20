@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "yemen_houthi_saudi_missile_attack_2026",
-    "topic": "후티 반군, 사우디 향해 탄도미사일 발사",
-    "slug": "2026-10-30-news-yemen-houthi-saudi-missile-attack-2026",
-    "cluster": "CBMiqgFBVV95cUxQTEhERlpWem04ZnozTFJCeEcwbmNLVkN6eUtjUFgtdDJnNU1iVFVWWExvTU9WQ09EQ3g0SmJYZ011OWh4TTlUd2pKLURkQUljS3VDNzNmcktLMEZYZTRydklucHl3RF9PeDF1VW5QTlFCbEs0U2ZfbEtqdlpVczB5VTBiUFM0VnZ3Mkl6dVdoZWRvanJCS3VmUW9Ma2hwQ18zbFA3T2lmMU5Hd9IBrwFBVV95cUxNNDBlaUpwVUU2NTFwc0ZhYXdwUmxTa2JjdklXNUVudHZDa25DV29LMUZWa2hRRTBtWml6QTA3Y2ZPNEJOMHo3c2RVSDdYbkNLTzBLbWJXczlBZEY4bWQ3dlZ4amtOOGVtUm90MFpXZWQ2cXZSdk1RNnU0R1BQNWtGRG5YUW5ibVBUa2hPSHA0eEVYVGRNS2Nta3V3bE1mTU4zNllDOEV1N2J6MWd2ODlv",
-    "badge": "breaking",
-    "at": 1793329761.7712417,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "oregon_helicopter_midair_collision_2026",
     "topic": "미국 오리건주서 헬기 2대 공중 충돌… 3명 사망",
     "slug": "2026-10-30-news-oregon-helicopter-midair-collision-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795163204.2323856,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "asian_stocks_fall_anthropic_ipo_ai_rout_2026",
+    "topic": "앤스로픽 IPO 이후에도 아시아 증시 급락",
+    "slug": "2026-11-20-news-asian-stocks-fall-anthropic-ipo-ai-rout-2026",
+    "cluster": "CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ",
+    "badge": "breaking",
+    "at": 1795166175.6981792,
+    "country": "일본",
+    "category": "경제·과학"
   }
 ]
