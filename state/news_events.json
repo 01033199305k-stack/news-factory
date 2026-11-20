@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "spain_high_speed_train_crash_2026",
-    "topic": "스페인 고속열차 탈선 사고 사망자 69명으로 늘어",
-    "slug": "2026-10-30-news-spain-high-speed-train-crash-2026",
-    "cluster": "CBMiW0FVX3lxTE1ObF9kR1luX05CcDkxYjVSclhLWmJsYmNzQm1Zbi1Vb0IyTFRJZENrWVVtTkxzMUxqWjV4b1dKVXhrbmd3MlQ0Z1A1S0Z3cWVEdEp0U1dVYUZfelE",
-    "badge": "breaking",
-    "at": 1793372976.8073683,
-    "country": "스페인",
-    "category": "사고"
-  },
-  {
     "event_key": "us_pennsylvania_measles_outbreak_2026",
     "topic": "미국 펜실베이니아주 홍역 확진자 급증",
     "slug": "2026-10-31-news-us-pennsylvania-measles-outbreak-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795198182.268408,
     "country": "덴마크",
     "category": "국제"
+  },
+  {
+    "event_key": "trump_putin_xi_oil_supply_apec_2026",
+    "topic": "미·중·러 정상 석유 공급 확대 약속",
+    "slug": "2026-11-21-news-trump-putin-xi-oil-supply-apec-2026",
+    "cluster": "CBMingFBVV95cUxPZEoxaHJPaXd5UXlkcXc4S0ZUcGtZMm9aS3VYSWE5ZjRXaDlFUWk4RVdhdFZPdUR2cnZaazktcmlQYmtDUzRZdHlLRnhyclFHTU9JNVJOT1EyQXlLX1BwMVM4ZDg0V0c0dnZERURRRzBrb1FWTndScXdLM0pJTlZOaHJsRkdkRVljcjN4NTZXNExUMnVxOEZVS0FlQ05GQQ",
+    "badge": "breaking",
+    "at": 1795205231.8697855,
+    "country": "대한민국",
+    "category": "경제·과학"
   }
 ]

@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-21-news-trump-putin-xi-oil-supply-apec-2026",
+  "topic": "미·중·러 정상 석유 공급 확대 약속",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 02:45 KST",
+  "source": "Al Jazeera·Bloomberg.com·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxPZEoxaHJPaXd5UXlkcXc4S0ZUcGtZMm9aS3VYSWE5ZjRXaDlFUWk4RVdhdFZPdUR2cnZaazktcmlQYmtDUzRZdHlLRnhyclFHTU9JNVJOT1EyQXlLX1BwMVM4ZDg0V0c0dnZERURRRzBrb1FWTndScXdLM0pJTlZOaHJsRkdkRVljcjN4NTZXNExUMnVxOEZVS0FlQ05GQQ",
+    "related": [
+      [
+        "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
+        "The New York Times"
+      ],
+      [
+        "Trump, Putin, Xi pledge to increase global petrol supplies – but how?",
+        "Al Jazeera"
+      ],
+      [
+        "EU Climate Chief Says US-China-Russia Energy Deal Is Unfortunate",
+        "Bloomberg.com"
+      ],
+      [
+        "Trump, Xi and Putin Promise More Fuel, But Markets Are Not Convinced",
+        "Yahoo Finance"
+      ],
+      [
+        "Do sanctions cloud China-US-Russia pledge to boost global fuel supplies?",
+        "South China Morning Post"
+      ]
+    ],
+    "event_key": "trump_putin_xi_oil_supply_apec_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미·중·러 정상\n[[석유 공급]] 확대 약속",
+      "sub": "APEC 계기 회동서 글로벌 에너지 전환 속 공급 확충 합의",
+      "chips": [
+        {
+          "k": "참여국",
+          "v": "미·중·러 3개국"
+        }
+      ],
+      "alt": "미·중·러 정상 석유 공급 확대 약속",
+      "map": {
+        "lat": 35.8556705,
+        "lon": 129.2248811,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n경주",
+      "video_only": true,
+      "map": {
+        "lat": 35.8556705,
+        "lon": 129.2248811,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "경주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "EU 기후 책임자 비판",
+          "d": "유럽연합 기후 책임자는 이번 합의가 유감스럽다고 밝혔습니다 (Bloomberg.com)."
+        },
+        {
+          "t": "시장 반응",
+          "d": "시장 전문가들과 매체들은 구체적 실행 방안에 대해 회의적인 반응을 보이고 있습니다 (Yahoo Finance·SCMP)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미·중·러 정상 APEC 계기 회동",
+        "글로벌 석유 및 연료 공급 확대 약속"
+      ],
+      "unconfirmed": [
+        "구체적인 공급 확대 실행 방안과 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "South China Morning Post",
+        "The New York Times",
+        "Yahoo Finance",
+        "2026.11.21 05:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미·중·러 정상, APEC 계기 회동서 글로벌 석유 공급 확대 약속 (뉴욕타임스)\n\n· 유럽연합 기후 책임자는 이번 합의가 유감스럽다고 밝혔습니다 (Bloomberg.com)\n· 시장과 매체들은 구체적 실행 방안에 대해 회의적인 반응을 보이고 있습니다 (Yahoo Finance·SCMP)\n\n이번 미·중·러의 석유 공급 확대 합의, 국내 경제에는 어떤 영향을 미칠 것으로 보십니까?\n출처: 뉴욕타임스·알자지라·블룸버그·야후파이낸스·SCMP 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "APEC 정상회의에서 미국과 중국, 러시아 정상이 글로벌 석유 공급을 늘리기로 약속했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라 등 외신은 세 정상의 합의 소식을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "유럽연합 기후 책임자는 이번 에너지 합의가 유감스럽다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 증산 실행 방안은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 3국 정상의 합의, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "APEC서 만난\n미·중·러의 [[선언]]",
+  "broll": [
+    "oil refinery pipeline",
+    "international summit meeting"
+  ],
+  "place_en": "Gyeongju, South Korea"
+}

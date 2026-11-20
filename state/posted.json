@@ -46064,5 +46064,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795198695
+  },
+  {
+    "slug": "2026-11-21-news-trump-putin-xi-oil-supply-apec-2026",
+    "event_ms": 1795196700000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미·중·러 정상, APEC 계기 회동서 글로벌 석유 공급 확대 약속 (뉴욕타임스)\n\n· 유럽연합 기후 책임자는 이번 합의가 유감스럽다고 밝혔습니다 (Bloomberg.com)\n· 시장과 매체들은 구체적 실행 방안에 대해 회의적인 반응을 보이고 있습니다 (Yahoo Finance·SCMP)\n\n이번 미·중·러의 석유 공급 확대 합의, 국내 경제에는 어떤 영향을 미칠 것으로 보십니까?\n출처: 뉴욕타임스·알자지라·블룸버그·야후파이낸스·SCMP 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18120727667139087",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df-ekA5AdkH",
+        "kind": "carousel",
+        "at": 1795205287
+      },
+      "instagram": {
+        "id": "18169103299477949",
+        "permalink": "https://www.instagram.com/reel/Df-e4pFmM0-/",
+        "kind": "reel",
+        "at": 1795205473
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1795205483
+      },
+      "tiktok": {
+        "id": "7710348799931206918",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710348799931206918",
+        "kind": "video",
+        "at": 1795205605
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795205615
   }
 ]
