@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "patrick_stuart_death_2026",
-    "topic": "스타트렉 패트릭 스튜어트 별세, 향년 86세",
-    "slug": "2026-10-30-news-patrick-stuart-death-2026",
-    "cluster": "CBMiqgFBVV95cUxPMkg2OXdBV1phN2haNVVzc1JuYzhISXF0bV9NaWpsYTFsLWI1ZjhHZGF0T2k4NXV2SXZ1OW5kWjM2M2M5VlItWWtJdVRlVkM2OGdzSzdjYjRqbmg0Z2NKMVJhN0Z1WVhPdjhSTF91b0ctdzE2STNXSllQeUdxWkFzeldQZU5pRjgteE9JNzhUNWNRTXd0Vl9SNmhRbWlydXkzYS00NHBnWG1Udw",
-    "badge": "breaking",
-    "at": 1793326060.691128,
-    "country": "영국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "erin_patterson_appeal_denied_2026",
     "topic": "호주 독버섯 살인범 항소 기각으로 종신형",
     "slug": "2026-10-30-news-erin-patterson-appeal-denied-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795151250.339521,
     "country": "사우디아라비아",
+    "category": "국제"
+  },
+  {
+    "event_key": "russia_strikes_kyiv_bridges_2026",
+    "topic": "러시아, 키이우 교량 3곳 밤새 탄도미사일 공습",
+    "slug": "2026-11-20-news-russia-strikes-kyiv-bridges-2026",
+    "cluster": "CBMiS0FVX3lxTE93b3R3MTZOLU1HQ0Z3MGF3MVpubUdRdUxPZ0hkMWNvNDBQUkRkOU9JcFJsM0hUeEdiSFBCLWR6Z1BVWjhhZ3o1NUlWNA",
+    "badge": "breaking",
+    "at": 1795154814.0988457,
+    "country": "우크라이나",
     "category": "국제"
   }
 ]
