@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-20-news-us-floats-ukraine-land-for-nato-membership-2026",
+  "topic": "미국, 영토 양도 조건 우크라 나토 가입 제안",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 11:01 KST",
+  "source": "BBC·CNN·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipwFBVV95cUxQdFd5aW9SdU82YUQyLXJHTzNPTmJISW82RlpUeWU4RFp0RTNNRmxmSlljamtMMmpITDdGQm4yTFo1dFl6eHY5dUFsdGRWaTM0NnBBbVFiam5iQzQyLVBwUDE4R0RmMFBHRUduMDhwS29nQUh1MG03ODEzRGdIUUNmWkFIYTEtb002N3NFdXozNTVNaWptZFNtOXhYbWoyNzlmTTJIaEllSQ",
+    "related": [
+      [
+        "U.S. Has Floated NATO Membership for Ukraine in Recent Meetings",
+        "WSJ"
+      ],
+      [
+        "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "BBC"
+      ],
+      [
+        "Would Ukraine trade land for NATO membership or protection?",
+        "DW.com"
+      ],
+      [
+        "Zelenskyy says a new European security framework floated by U.S. could benefit Putin",
+        "PBS"
+      ],
+      [
+        "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
+        "CNN"
+      ]
+    ],
+    "event_key": "us_floats_ukraine_land_for_nato_membership_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국, [[영토 양도 조건]]\n우크라 나토 가입 제안",
+      "sub": "젤렌스키 대통령은 돈바스 양도 대가 나토 가입안이 제안됐다고 밝혔습니다.",
+      "chips": [],
+      "alt": "미국, 영토 양도 조건 우크라 나토 가입 제안",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "안보 구상 우려",
+          "d": "젤렌스키 대통령은 미국의 새로운 안보 구상이 푸틴 대통령에게 이득이 될 수 있다고 지적했습니다. (PBS)"
+        },
+        {
+          "t": "영토 교환 논란",
+          "d": "우크라이나가 영토를 양도하고 나토의 보호를 받는 방안에 대해 논의가 이어지고 있습니다. (DW)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국의 영토 양도 조건 나토 가입 제안 (BBC·CNN)",
+        "젤렌스키 대통령의 관련 발언 공개 (PBS)"
+      ],
+      "unconfirmed": [
+        "우크라이나 정부의 영토 양도 안 수용 여부",
+        "러시아 측의 동의 및 최종 합의 가능성"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "DW.com",
+        "PBS",
+        "WSJ",
+        "2026.11.20 17:26 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국이 우크라이나에 영토 양도를 대가로 나토 가입을 제안했습니다.\n\n· 젤렌스키 우크라이나 대통령은 미국 측이 돈바스 양도를 전제로 나토 가입안을 제시했다고 밝혔습니다 (BBC·CNN).\n· 젤렌스키 대통령은 해당 안보 구상이 푸틴 러시아 대통령에게 이득이 될 수 있다고 지적했습니다 (PBS).\n· 우크라이나가 영토를 양도하고 나토의 보호를 받는 방안에 대해 논의가 이어지고 있습니다 (DW).\n\n영토와 나토 가입을 맞바꾸는 안보 구상, 어떻게 생각하십니까?\n출처: 월스트리트저널·BBC·DW·PBS·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국이 영토 양도를 대가로 나토 가입을 제안했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이어 해당 안보 구상이 푸틴 러시아 대통령에게 이득이 될 수 있다고 덧붙였습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나가 실제 영토 양도 제안을 수용할지는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "영토와 나토 가입을 맞바꾸는 안보 구상, 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[우크라이나]] 영토\n맞바꿀 카드?",
+  "broll": [
+    "nato flag building",
+    "zelensky press conference"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}

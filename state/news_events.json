@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "erin_patterson_appeal_denied_2026",
-    "topic": "호주 독버섯 살인범 항소 기각으로 종신형",
-    "slug": "2026-10-30-news-erin-patterson-appeal-denied-2026",
-    "cluster": "CBMiVkFVX3lxTFAzeEFveEVQNTMyMDF6Sk5Db1ZoZW1HSjd2WXc5WDQyeHhObk1fNU55d241VFZyNEdjMGREYXZybzlpYWRWa0Nod29RTEFBTWVuSUpYRDhR",
-    "badge": "breaking",
-    "at": 1793326073.50953,
-    "country": "호주",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "yemen_houthi_saudi_missile_attack_2026",
     "topic": "후티 반군, 사우디 향해 탄도미사일 발사",
     "slug": "2026-10-30-news-yemen-houthi-saudi-missile-attack-2026",
@@ -2996,6 +2986,16 @@
     "cluster": "CBMiS0FVX3lxTE93b3R3MTZOLU1HQ0Z3MGF3MVpubUdRdUxPZ0hkMWNvNDBQUkRkOU9JcFJsM0hUeEdiSFBCLWR6Z1BVWjhhZ3o1NUlWNA",
     "badge": "breaking",
     "at": 1795154814.0988457,
+    "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "us_floats_ukraine_land_for_nato_membership_2026",
+    "topic": "미국, 영토 양도 조건 우크라 나토 가입 제안",
+    "slug": "2026-11-20-news-us-floats-ukraine-land-for-nato-membership-2026",
+    "cluster": "CBMipwFBVV95cUxQdFd5aW9SdU82YUQyLXJHTzNPTmJISW82RlpUeWU4RFp0RTNNRmxmSlljamtMMmpITDdGQm4yTFo1dFl6eHY5dUFsdGRWaTM0NnBBbVFiam5iQzQyLVBwUDE4R0RmMFBHRUduMDhwS29nQUh1MG03ODEzRGdIUUNmWkFIYTEtb002N3NFdXozNTVNaWptZFNtOXhYbWoyNzlmTTJIaEllSQ",
+    "badge": "brief",
+    "at": 1795163204.2323856,
     "country": "우크라이나",
     "category": "국제"
   }
