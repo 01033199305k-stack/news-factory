@@ -1,0 +1,155 @@
+{
+  "slug": "2026-11-20-news-poland-russian-missile-drone-crash-2026",
+  "topic": "폴란드 영공 침범 러시아 미사일 추락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 20:32 KST",
+  "source": "AP News·Bloomberg.com·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiygFBVV95cUxPejRoNTB3Y2hjdXRxMmNON0lac2xkWldNSmQ5RXFTM0NrMDFJaEE3QWxsOHJoYTgwLTFUN1A5MGRkU0h6ejNsLXdraFB0MjhNTkVROEJjNG5WWm00azhpbUNDN2FRUW1uRXplazJmU08za2gtYlc0bEc5bk9XMEpfbndzU3VVTVB3LUNyR3llYW1rdkI5UmtzeFNsZmhNNllGY3g1WnF5ZDZpLTRGZ0Q5RUstaGJuSnFESFJCZ2d0RG41RDcyZW9QZmV3",
+    "related": [
+      [
+        "Poland condemns Russian 'provocation' after three airspace violations",
+        "Reuters"
+      ],
+      [
+        "Poland investigates reports of objects falling near Ukraine border",
+        "NBC News"
+      ],
+      [
+        "Poland Says Two Russian Missiles, Drone Crashed on Its Soil",
+        "Bloomberg.com"
+      ],
+      [
+        "An unidentified object appears to have crashed in Poland after Russian attacks in Ukraine",
+        "AP News"
+      ],
+      [
+        "Poland reports airspace violation during Russian attack on Ukraine, investigates debris crash",
+        "The Kyiv Independent"
+      ]
+    ],
+    "event_key": "poland_russian_missile_drone_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "폴란드 영공 [[침범]]\n러시아 미사일 추락",
+      "sub": "우크라이나 공습 중 미사일 2발과 드론 1대가 폴란드 영토에 떨어졌습니다",
+      "chips": [
+        {
+          "k": "미사일 추락",
+          "v": "2발"
+        },
+        {
+          "k": "드론 추락",
+          "v": "1대"
+        },
+        {
+          "k": "영공 침범",
+          "v": "3회"
+        }
+      ],
+      "alt": "폴란드 영공 침범 러시아 미사일 추락",
+      "map": {
+        "lat": 52.2333742,
+        "lon": 21.0711489,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "폴란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "폴란드\n바르샤바",
+      "video_only": true,
+      "map": {
+        "lat": 52.2333742,
+        "lon": 21.0711489,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바르샤바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "영공 3회 침범",
+          "d": "로이터 통신은 폴란드 영공이 3차례 침범당했다고 전했습니다."
+        },
+        {
+          "t": "국경 인근 잔해 조사",
+          "d": "폴란드가 우크라이나 국경 인근에 물체가 떨어진 것을 조사하고 있다고 NBC 뉴스가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "폴란드 영공 침범 (로이터)",
+        "러시아 미사일 2발·드론 1대 추락 (블룸버그)",
+        "우크라이나 국경 인근 낙하물 조사 (NBC)"
+      ],
+      "unconfirmed": [
+        "상세 피해 규모",
+        "러시아의 공식 입장",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Bloomberg.com",
+        "NBC News",
+        "Reuters",
+        "The Kyiv Independent",
+        "2026.11.20 21:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 미사일 2발과 드론 1대가 폴란드 영토에 추락했습니다.\n\n· 폴란드 영공이 3차례 침범당했습니다 (로이터)\n· 블룸버그는 미사일 2발과 드론 1대가 폴란드 영토에 추락했다고 전했습니다 (블룸버그)\n· 폴란드는 우크라이나 국경 인근에 물체가 떨어졌다는 보고를 조사 중입니다 (NBC)\n\n이 사태가 국제적인 갈등으로 확대될 것으로 보십니까?\n\n출처: 로이터·블룸버그·NBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 미사일 2발과 드론 1대가 폴란드 영토에 추락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 폴란드 영공이 3차례 침범당했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "폴란드는 우크라이나 국경 인근에 떨어진 물체를 조사하고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 영공 침범 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[폴란드]] 영토에\n무슨 일이?",
+  "broll": [
+    "military radar antenna",
+    "border control station"
+  ],
+  "place_en": "Warsaw, Poland"
+}

@@ -45845,5 +45845,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795172987
+  },
+  {
+    "slug": "2026-11-20-news-poland-russian-missile-drone-crash-2026",
+    "event_ms": 1795174348000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아 미사일 2발과 드론 1대가 폴란드 영토에 추락했습니다.\n\n· 폴란드 영공이 3차례 침범당했습니다 (로이터)\n· 블룸버그는 미사일 2발과 드론 1대가 폴란드 영토에 추락했다고 전했습니다 (블룸버그)\n· 폴란드는 우크라이나 국경 인근에 물체가 떨어졌다는 보고를 조사 중입니다 (NBC)\n\n이 사태가 국제적인 갈등으로 확대될 것으로 보십니까?\n\n출처: 로이터·블룸버그·NBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "폴란드"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18378495760241040",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df9odaGG5SR",
+        "kind": "carousel",
+        "at": 1795176919
+      },
+      "instagram": {
+        "id": "18034974518912389",
+        "permalink": "https://www.instagram.com/reel/Df9oz4GEbCz/",
+        "kind": "reel",
+        "at": 1795177118
+      },
+      "youtube": {
+        "id": "onPm-uNWrho",
+        "permalink": "https://youtube.com/shorts/onPm-uNWrho",
+        "kind": "shorts",
+        "at": 1795177152
+      },
+      "tiktok": {
+        "id": "7710227252327402772",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710227252327402772",
+        "kind": "video",
+        "at": 1795177284
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795177294
   }
 ]

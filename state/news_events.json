@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "oregon_helicopter_midair_collision_2026",
-    "topic": "미국 오리건주서 헬기 2대 공중 충돌… 3명 사망",
-    "slug": "2026-10-30-news-oregon-helicopter-midair-collision-2026",
-    "cluster": "CBMi8wFBVV95cUxNbVZ3c2lzYThpMzFxTWhfcjBJNWNSdzhmbVpTZzNOZVU0UFpzVFlpQWlFUlI4N0IyaXFGWTVpcEYyOWxkUDFGNHBEcU9aWUZ6bVJXa043d1JxOFRaaFB0RWlNV0RnLWVhQkVON2xndmZZOVZDVnFkVk8ycnVZd2VGam52aWNtR1JzOHI4ZnhRLVNFVjVNRE5rM0V5VWJTR2JUVHN0VDI1SXFCdDRMekRSUkF4R1ZtTGJsakpyUGdCNVp5dEdiM3pwQWtac1BTRGVEVzJjV3BQR0k4UXdwTWVRYnBZckU3a2pMZzNlc1ZRd0R2TG8",
-    "badge": "breaking",
-    "at": 1793336972.8002155,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "us_pentagon_tells_europeans_cool_rhetoric_russia_2026",
     "topic": "미국, 유럽 동맹국에 대러 발언 자제 요청",
     "slug": "2026-10-30-news-us-pentagon-tells-europeans-cool-rhetoric-russia-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795166175.6981792,
     "country": "일본",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "poland_russian_missile_drone_crash_2026",
+    "topic": "폴란드 영공 침범 러시아 미사일 추락",
+    "slug": "2026-11-20-news-poland-russian-missile-drone-crash-2026",
+    "cluster": "CBMiygFBVV95cUxPejRoNTB3Y2hjdXRxMmNON0lac2xkWldNSmQ5RXFTM0NrMDFJaEE3QWxsOHJoYTgwLTFUN1A5MGRkU0h6ejNsLXdraFB0MjhNTkVROEJjNG5WWm00azhpbUNDN2FRUW1uRXplazJmU08za2gtYlc0bEc5bk9XMEpfbndzU3VVTVB3LUNyR3llYW1rdkI5UmtzeFNsZmhNNllGY3g1WnF5ZDZpLTRGZ0Q5RUstaGJuSnFESFJCZ2d0RG41RDcyZW9QZmV3",
+    "badge": "breaking",
+    "at": 1795176871.8665426,
+    "country": "폴란드",
+    "category": "국제"
   }
 ]
