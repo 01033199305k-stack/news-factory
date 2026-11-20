@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-21-news-denmark-expels-russian-attache-assassination-plot-2026",
+  "topic": "덴마크 내 암살 공작 혐의 러시아 무관 추방",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 00:43 KST",
+  "source": "Bloomberg.com·CNN·Euronews.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxNTEN2TTJ4ejYzaE85ZktzVzBrRVFDSVZoc3pYWlpWQjdmYmExNDVyTjAxZmU3NjU5UkZpYnd2MjlfM0VHeDhVb3V4VDhJdTVaT1J4RjlJZGVKZGlqVXVoQ21zcWJuVmsyTXJSeU9fbFBYUWVOSW1ZcV9kWkVZSkQ4bHZCSldGXzVJeWpDVjlVQ3Y",
+    "related": [
+      [
+        "Two Danes suspected of being hired by Russia to kill Ukrainian rapper",
+        "CNN"
+      ],
+      [
+        "Denmark Says Russia Orchestrated Plot to Assassinate Rapper",
+        "Bloomberg.com"
+      ],
+      [
+        "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
+        "Los Angeles Times"
+      ],
+      [
+        "Denmark expels Russian defence attaché over alleged assassination plot",
+        "Euronews.com"
+      ],
+      [
+        "Denmark expels Russia’s military attaché and may stop issuing Schengen visas to Russians",
+        "Українські Національні Новини (УНН)"
+      ]
+    ],
+    "event_key": "denmark_expels_russian_attache_assassination_plot_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "덴마크 내 암살 공작 혐의\n[[러시아 무관]] 추방",
+      "sub": "우크라이나계 래퍼 암살 기획에 러시아 개입 발표",
+      "chips": [
+        {
+          "k": "추방 대상",
+          "v": "러시아 국방무관"
+        }
+      ],
+      "alt": "덴마크 내 암살 공작 혐의 러시아 무관 추방",
+      "map": {
+        "lat": 55.6867243,
+        "lon": 12.5700724,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "덴마크"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "덴마크\n코펜하겐",
+      "video_only": true,
+      "map": {
+        "lat": 55.6867243,
+        "lon": 12.5700724,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "코펜하겐"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "러시아 무관 추방",
+          "d": "덴마크 정부가 자국 주재 러시아 국방무관을 추방했습니다 (유로뉴스·UNN)."
+        },
+        {
+          "t": "암살 기획 혐의",
+          "d": "덴마크 당국은 러시아 정보기관이 자국 영토 내 우크라이나계 래퍼 암살을 기획했다고 밝혔습니다 (블룸버그·LA타임스)."
+        },
+        {
+          "t": "덴마크인 2명 수사",
+          "d": "러시아 측에 고용돼 암살을 시도한 혐의로 덴마크인 2명이 수사를 받고 있습니다 (CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "덴마크의 러시아 무관 추방",
+        "러시아 정보기관의 암살 기획 혐의 발표"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "추가 외교적 대응 수위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNN",
+        "Euronews.com",
+        "Los Angeles Times",
+        "Українські Національні Новини (УНН)",
+        "2026.11.21 03:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 덴마크가 자국 내 암살 공작 혐의로 러시아 무관을 추방했습니다.\n\n· 덴마크 정부는 자국 주재 러시아 국방무관 추방 결정을 발표했습니다 (유로뉴스·UNN).\n· 덴마크 당국은 러시아 정보기관이 자국 영토 내 우크라이나계 래퍼 암살을 기획했다고 밝혔습니다 (블룸버그·LA타임스).\n· 암살을 시도한 혐의로 덴마크인 2명이 수사를 받고 있습니다 (CNN).\n\n출처: 유로뉴스·블룸버그·LA타임스·CNN·UNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "덴마크 정부가 자국 주재 러시아 국방무관을 추방했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "덴마크에서 일어난 일입니다.",
+      "card": "map"
+    },
+    {
+      "text": "덴마크는 러시아 정보기관이 자국 내 우크라이나계 래퍼 암살을 기획했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "CNN은 암살에 고용된 덴마크인 2명이 조사를 받고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[러시아 무관]]을\n추방한 이유",
+  "broll": [
+    "embassy building",
+    "copenhagen street"
+  ],
+  "place_en": "Copenhagen, Denmark"
+}

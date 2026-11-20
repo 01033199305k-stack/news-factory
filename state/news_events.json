@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine_russia_oleshky_truce_evacuation_2026",
-    "topic": "러·우크라 일시 휴전 올레슈키 주민 대피 시작",
-    "slug": "2026-10-30-news-ukraine-russia-oleshky-truce-evacuation-2026",
-    "cluster": "CBMiW0FVX3lxTFB3UkpoZS02YnR1RFJfOG03U3NnUnZaMEF3ZFgxNENoc3JLS0ZGRkYzb1ZrZTVzTEhXOG5aaTEwQ0VvbVY2Y1J5WW4ybGZKcHBveXpBT2owSmZWc0k",
-    "badge": "breaking",
-    "at": 1793365759.2013066,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "spain_high_speed_train_crash_2026",
     "topic": "스페인 고속열차 탈선 사고 사망자 69명으로 늘어",
     "slug": "2026-10-30-news-spain-high-speed-train-crash-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1795187226.780863,
     "country": "벨기에",
+    "category": "국제"
+  },
+  {
+    "event_key": "denmark_expels_russian_attache_assassination_plot_2026",
+    "topic": "덴마크 내 암살 공작 혐의 러시아 무관 추방",
+    "slug": "2026-11-21-news-denmark-expels-russian-attache-assassination-plot-2026",
+    "cluster": "CBMikAFBVV95cUxNTEN2TTJ4ejYzaE85ZktzVzBrRVFDSVZoc3pYWlpWQjdmYmExNDVyTjAxZmU3NjU5UkZpYnd2MjlfM0VHeDhVb3V4VDhJdTVaT1J4RjlJZGVKZGlqVXVoQ21zcWJuVmsyTXJSeU9fbFBYUWVOSW1ZcV9kWkVZSkQ4bHZCSldGXzVJeWpDVjlVQ3Y",
+    "badge": "breaking",
+    "at": 1795198182.268408,
+    "country": "덴마크",
     "category": "국제"
   }
 ]
