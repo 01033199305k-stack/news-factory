@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "strait_of_hormuz_tanker_mine_attack_2026",
-    "topic": "호르무즈 유조선 폭발 기뢰 공격으로 화재",
-    "slug": "2026-10-31-news-strait-of-hormuz-tanker-mine-attack-2026",
-    "cluster": "CBMikgFBVV95cUxOOEpYN1k4WGRzNW1fT2pyNHVESDhKWVJlTVNDbTZLVmdhY1lRUDRqT0p2WlpZSmNCUm9McUx2bXROS3E0YVRMbEp4U3V4cDcyNzFEbGZsRVM3a2V5NXRnblpucGtMTFZUMFZsYXZ0M1VxQkR6eTRackRZWmd4VE42RkcyZ043b3hXX0FhazZPdEJjQQ",
-    "badge": "breaking",
-    "at": 1793390976.9963984,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "poland_court_crisis_president_return",
     "topic": "폴란드 사법부 통제 갈등 격화 대통령, 순방 중 회항",
     "slug": "2026-10-31-news-poland-court-crisis-president-return",
@@ -2998,5 +2988,15 @@
     "at": 1795209284.508911,
     "country": "네덜란드",
     "category": "국제"
+  },
+  {
+    "event_key": "sp500_nasdaq_correction_ai_selloff_2026",
+    "topic": "미 S&P 500 폭락 증시 조정장 진입",
+    "slug": "2026-11-21-news-sp500-nasdaq-correction-ai-selloff-2026",
+    "cluster": "CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ",
+    "badge": "breaking",
+    "at": 1795216169.5370216,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

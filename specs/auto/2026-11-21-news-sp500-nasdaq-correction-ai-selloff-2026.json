@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-21-news-sp500-nasdaq-correction-ai-selloff-2026",
+  "topic": "미 S&P 500 폭락 증시 조정장 진입",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 06:23 KST",
+  "source": "CBS News·CNN·NPR 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ",
+    "related": [
+      [
+        "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+        "CNBC"
+      ],
+      [
+        "Stocks Skid Into a Correction, as A.I. Worries Intensify",
+        "The New York Times"
+      ],
+      [
+        "S&P 500 sinks 3.7% and the Nasdaq composite goes negative for the year",
+        "NPR"
+      ],
+      [
+        "6 reasons stocks are falling, and what you should do about it",
+        "CBS News"
+      ],
+      [
+        "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
+        "CNN"
+      ]
+    ],
+    "event_key": "sp500_nasdaq_correction_ai_selloff_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 S&P 500 폭락\n증시 [[조정장]] 진입",
+      "sub": "나스닥 지수 올해 상승분 모두 반납",
+      "chips": [],
+      "alt": "미 S&P 500 폭락 증시 조정장 진입",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "S&P 500 조정장 진입",
+          "d": "S&P 500 지수가 3.7% 하락하며 다우 지수와 함께 조정장에 진입했습니다 (NPR·CNBC)."
+        },
+        {
+          "t": "나스닥 상승분 반납",
+          "d": "나스닥 지수가 올해 상승분을 모두 잃고 하락세로 돌아섰습니다 (CNBC·NPR)."
+        },
+        {
+          "t": "AI 우려에 매도세",
+          "d": "인공지능 관련 불안감이 이어지며 증시 하락을 이끌었습니다 (NYT·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "S&P 500·다우 지수 조정장 진입",
+        "나스닥 지수 올해 상승분 반납"
+      ],
+      "unconfirmed": [
+        "증시 추가 하락 여부 및 반등 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "CNBC",
+        "CNN",
+        "NPR",
+        "The New York Times",
+        "2026.11.21 08:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 S&P 500 지수와 다우 지수가 조정장에 진입했습니다.\n\n· 인공지능 관련 불안감이 심화되며 매도세가 이어졌습니다 (NYT·CNN).\n· S&P 500 지수는 3.7% 폭락하며 조정장에 들어섰습니다 (NPR·CNBC).\n· 나스닥 지수는 올해 얻은 상승분을 모두 반납하고 하락 전환했습니다 (CNBC·NPR).\n\n이번 증시 하락세를 어떻게 전망하십니까?\n\n출처: CNBC·NYT·NPR·CBS·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 S&P 500 지수가 급락하며 조정장에 진입했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "증시에서 인공지능 관련 우려와 하락세가 심화됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "나스닥 지수도 올해 상승분을 모두 잃고 하락 전환했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "증시의 추가 하락 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 미 증시 하락세, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미 증시 결국\n[[조정장]] 진입?",
+  "broll": [
+    "stock exchange screen",
+    "wall street street sign"
+  ],
+  "place_en": "New York, USA"
+}
