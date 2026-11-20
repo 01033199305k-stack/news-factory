@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_pennsylvania_measles_outbreak_2026",
-    "topic": "미국 펜실베이니아주 홍역 확진자 급증",
-    "slug": "2026-10-31-news-us-pennsylvania-measles-outbreak-2026",
-    "cluster": "CBMiuAFBVV95cUxPaFhlMGw2LWVlLVYxbWZ0OXo3aFhYb3ZWYXV0TEpzX19NdHJ5VTNsRF9EYjVONjBXUlFjQUVXT1J5SC1PODJEazltN2NvVkFERWRKeUVyaUdsM2FZcmd0VWxWeXNkNVBGVVdCZnR1R3lraThTOFZSbHRhRF9pb2JoNjFJTkxSTG1ERzBZMktjaVVMNzlKY1ktWnB6UFUzY3ZOMWVnVEFFOUJsOFBQQXE1ZkRoZ0ZQZ2ZO",
-    "badge": "breaking",
-    "at": 1793383784.9294798,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "strait_of_hormuz_tanker_mine_attack_2026",
     "topic": "호르무즈 유조선 폭발 기뢰 공격으로 화재",
     "slug": "2026-10-31-news-strait-of-hormuz-tanker-mine-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795205231.8697855,
     "country": "대한민국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "icj_myanmar_rohingya_genocide_ruling_2026",
+    "topic": "UN 최고법원, 미얀마의 로힝야족 제노사이드 판결",
+    "slug": "2026-11-21-news-icj-myanmar-rohingya-genocide-ruling-2026",
+    "cluster": "CBMivAFBVV95cUxQLTNLWmdYdncxbDRfcFZhVlRFeVRfN3Jic2JSb252SkQ4djE0ckRoaGpqcnZKWDU5Wm4tUXdjTHdPZVNtWkVRWVNSN29EcFNQQkhVeVF6WWQ5NFB2WUFURVFyWjI3dmRGeEJNSDJrMk1HYTdMMXVTMkZqZl9ZVjlJMVlhSWRTR0Nha0NJZ3J0TVBpVndia25nVXNDZi1GcnVxYTFtdklydElZQy1FMHo5TGhJcUpjcG5rWDZJaQ",
+    "badge": "breaking",
+    "at": 1795209284.508911,
+    "country": "네덜란드",
+    "category": "국제"
   }
 ]

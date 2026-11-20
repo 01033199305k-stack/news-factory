@@ -1,0 +1,152 @@
+{
+  "slug": "2026-11-21-news-icj-myanmar-rohingya-genocide-ruling-2026",
+  "topic": "UN 최고법원, 미얀마의 로힝야족 제노사이드 판결",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 04:35 KST",
+  "source": "AP News·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxQLTNLWmdYdncxbDRfcFZhVlRFeVRfN3Jic2JSb252SkQ4djE0ckRoaGpqcnZKWDU5Wm4tUXdjTHdPZVNtWkVRWVNSN29EcFNQQkhVeVF6WWQ5NFB2WUFURVFyWjI3dmRGeEJNSDJrMk1HYTdMMXVTMkZqZl9ZVjlJMVlhSWRTR0Nha0NJZ3J0TVBpVndia25nVXNDZi1GcnVxYTFtdklydElZQy1FMHo5TGhJcUpjcG5rWDZJaQ",
+    "related": [
+      [
+        "Rights groups urge sanctions after top UN court finds Myanmar committed genocide against Rohingya",
+        "AP News"
+      ],
+      [
+        "The Rohingya Crisis Over the Years",
+        "The New York Times"
+      ],
+      [
+        "In historic first, UN top court rules a country committed genocide",
+        "CNN"
+      ],
+      [
+        "Jeremy Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+        "BBC"
+      ],
+      [
+        "Myanmar genocide judgment may bolster Gaza case against Israel",
+        "Reuters"
+      ]
+    ],
+    "event_key": "icj_myanmar_rohingya_genocide_ruling_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "UN 최고법원, 미얀마의\n[[로힝야족 제노사이드]] 판결",
+      "sub": "인권 단체들은 제재 조치를 촉구했습니다",
+      "chips": [
+        {
+          "k": "법원",
+          "v": "UN 최고법원"
+        },
+        {
+          "k": "대상",
+          "v": "미얀마"
+        }
+      ],
+      "alt": "UN 최고법원, 미얀마의 로힝야족 제노사이드 판결",
+      "map": {
+        "lat": 52.0799838,
+        "lon": 4.3113461,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "네덜란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "네덜란드\n헤이그",
+      "video_only": true,
+      "map": {
+        "lat": 52.0799838,
+        "lon": 4.3113461,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "헤이그"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역사적 판결",
+          "d": "UN 최고법원이 특정 국가의 제노사이드 혐의를 인정하는 역사상 첫 판결을 내렸다고 CNN과 AP 통신이 보도했습니다."
+        },
+        {
+          "t": "국제적 파장",
+          "d": "이번 판결이 다른 국제 사법 절차에도 중대한 영향을 미칠 수 있다고 BBC가 전했습니다."
+        },
+        {
+          "t": "후속 조치",
+          "d": "인권 단체들은 미얀마에 대한 제재를 촉구하고 있다고 AP 통신이 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "UN 최고법원의 미얀마 제노사이드 판결 (AP·CNN·BBC)",
+        "인권 단체들의 제재 촉구 (AP 통신)"
+      ],
+      "unconfirmed": [
+        "국제사회의 구체적인 제재 이행 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "2026.11.21 06:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] UN 최고법원, 미얀마의 로힝야족 제노사이드 판결 (AP·CNN)\n\n· UN 최고법원이 특정 국가의 제노사이드 혐의를 인정한 것은 역사상 처음이라고 CNN 등이 보도했습니다\n· 인권 단체들은 제재 조치를 촉구하고 나섰습니다 (AP)\n\n이번 판결이 앞으로의 국제 인권 재판에 어떤 영향을 미칠 것으로 보십니까?\n출처: AP·The New York Times·CNN·BBC·Reuters 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "UN 최고법원이 미얀마의 로힝야족 제노사이드 혐의를 인정하는 판결을 내렸다고 AP 통신이 보도했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "특정 국가의 제노사이드 혐의가 사법 절차를 통해 공식 확인된 것은 이번이 처음입니다.",
+      "card": "points"
+    },
+    {
+      "text": "인권 단체들은 제재 조치를 촉구했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "국제사회의 후속 대응은 아직 구체화되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 국제법원의 판결이 실효성이 있을 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "UN 최고법원이\n내린 [[역사적 판결]]",
+  "broll": [
+    "international court building",
+    "legal document gavel"
+  ],
+  "place_en": "The Hague, Netherlands"
+}
