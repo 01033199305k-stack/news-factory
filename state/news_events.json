@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_pentagon_tells_europeans_cool_rhetoric_russia_2026",
-    "topic": "미국, 유럽 동맹국에 대러 발언 자제 요청",
-    "slug": "2026-10-30-news-us-pentagon-tells-europeans-cool-rhetoric-russia-2026",
-    "cluster": "CBMitwFBVV95cUxPTEZ5UV9XWUJPdkJDanlwdEFEY1V5T3A3UExxWHoxZFBHbnY1RjFsS0JwWk92TFhqYWpLVTFmMk9VUUhiRzZDVDZsdERfTERlUUZ0cWdKNm9MeUE4Mm5MNWZuaXpNLXVOM3BVczNXVndOOGlBZk9PLXBqT3hGLXpsRGVkREl6cTk5RXNWRThVVkNrem5BQkp0SVFReWY3aEktdGItd0c5bTNQUFVsRGZwczRYSUJVUFE",
-    "badge": "brief",
-    "at": 1793355103.1311932,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "intel_stock_plunges_pc_softness_2026",
     "topic": "인텔 주가 21% 폭락 PC 시장 둔화 여파",
     "slug": "2026-10-30-news-intel-stock-plunges-pc-softness-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795176871.8665426,
     "country": "폴란드",
     "category": "국제"
+  },
+  {
+    "event_key": "south_korea_ai_cheating_exam_2026",
+    "topic": "수능 시험장서 적발된 인공지능 부정행위",
+    "slug": "2026-11-20-news-south-korea-ai-cheating-exam-2026",
+    "cluster": "CBMiXkFVX3lxTE14S3gxd05rQ3lzZ2FRVHpTcGpnRExCUVdSd21hNXdudkl2SEdOZXVMT3dtOHNDTmpPdXFuZGVtb1NZRHR6MkNfdEVNQlo1eDJyd0pVbWVvQi1LNEpWbnc",
+    "badge": "breaking",
+    "at": 1795180138.4731538,
+    "country": "대한민국",
+    "category": "기타 사건"
   }
 ]

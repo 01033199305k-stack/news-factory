@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-20-news-south-korea-ai-cheating-exam-2026",
+  "topic": "수능 시험장서 적발된 인공지능 부정행위",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 19:16 KST",
+  "source": "BBC·The Guardian·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiXkFVX3lxTE14S3gxd05rQ3lzZ2FRVHpTcGpnRExCUVdSd21hNXdudkl2SEdOZXVMT3dtOHNDTmpPdXFuZGVtb1NZRHR6MkNfdEVNQlo1eDJyd0pVbWVvQi1LNEpWbnc",
+    "related": [
+      [
+        "South Korea catches 111 students with new measures against exam cheating",
+        "BBC"
+      ],
+      [
+        "After A.I. Cheating Scandal, South Korea Adopts New Restrictions for Grueling College Entrance Exam",
+        "The New York Times"
+      ],
+      [
+        "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+        "The Guardian"
+      ],
+      [
+        "South Korea tries to out exam cheats with Extreme Emergency smartphone alert",
+        "The Register"
+      ],
+      [
+        "CSAT test taker booked after camera, Bluetooth earphones found during exam",
+        "Korea JoongAng Daily"
+      ]
+    ],
+    "event_key": "south_korea_ai_cheating_exam_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "수능 시험장서 적발된\n인공지능 부정행위",
+      "sub": "카메라와 블루투스 이어폰 등이 동원됐습니다.",
+      "chips": [
+        {
+          "k": "적발",
+          "v": "111명"
+        }
+      ],
+      "alt": "수능 시험장서 적발된 인공지능 부정행위",
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울",
+      "video_only": true,
+      "map": {
+        "lat": 37.5666791,
+        "lon": 126.9782914,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "부정행위",
+          "d": "카메라와 블루투스 이어폰 등이 사용됐습니다 (코리아중앙데일리)."
+        },
+        {
+          "t": "새로운 대책",
+          "d": "당국은 비상 스마트폰 경고 등 새로운 제한 조치를 도입했습니다 (BBC·뉴욕타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인공지능 부정행위 적발",
+        "카메라 및 이어폰 동원"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 공모 조직 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Korea JoongAng Daily",
+        "The Guardian",
+        "The New York Times",
+        "The Register",
+        "2026.11.20 22:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 수능 시험장서 적발된 인공지능 부정행위\n\n· 인공지능을 이용한 부정행위로 수험생 등 다수가 적발됐습니다 (BBC·뉴욕타임스)\n· 시험장에서는 카메라와 블루투스 이어폰 등이 발견됐습니다 (코리아중앙데일리)\n\n출처: BBC·뉴욕타임스·가디언·코리아중앙데일리 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "수능 시험장에서 인공지능을 이용한 부정행위가 적발됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "코리아중앙데일리는 카메라와 블루투스 이어폰 등이 동원됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "당국은 비상 스마트폰 경고 등 새로운 제한 조치를 도입했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "조직적인 공모 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "수능 시험장에서\n[[인공지능]] 부정행위?",
+  "broll": [
+    "exam hall desks",
+    "school building exterior"
+  ],
+  "place_en": "Seoul, South Korea"
+}
