@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-20-news-jeonbuk-heavy-snow-traffic-disruption-2026",
+  "topic": "전북 15cm 안팎 눈 도로·여객선 통제",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 09:39 KST",
+  "source": "KBS 뉴스·YTN·경향신문 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiZkFVX3lxTE81M0pnQ2tyTHFwaVczd2xhNGNRczBzajRnSWZXbk4tYzdYUjRtdXN0aW5wUG1JcWFWZEtaYklHeGNTQmktY2w2NWpnWHJqRGNEV2ZmeGdxMEExVjVvc0pjSFNpRG5aQQ",
+    "related": [
+      [
+        "전북 5개 시군 대설특보…“내일까지 2~7cm 더 내려”",
+        "KBS 뉴스"
+      ],
+      [
+        "논산서 눈길에 제설차 넘어져 2명 부상…눈·강풍 피해 잇따라",
+        "연합뉴스"
+      ],
+      [
+        "단풍나무에 쌓인 눈",
+        "뉴시스"
+      ],
+      [
+        "11월에 전북은 이미 한겨울...첫 대설재난문자",
+        "YTN"
+      ],
+      [
+        "전북 밤사이 15㎝ 안팎 눈···차량 추돌·고립에 도로·여객선 통제",
+        "경향신문"
+      ]
+    ],
+    "event_key": "jeonbuk_heavy_snow_traffic_disruption_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "전북 [[15cm 안팎]] 눈\n도로·여객선 통제",
+      "sub": "차량 추돌과 고립 잇따라… 5개 시군 대설특보",
+      "chips": [
+        {
+          "k": "적설량",
+          "v": "15cm 안팎"
+        }
+      ],
+      "alt": "전북 15cm 안팎 눈 도로·여객선 통제",
+      "map": {
+        "lat": 35.8198999,
+        "lon": 127.109,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n전북",
+      "video_only": true,
+      "map": {
+        "lat": 35.8198999,
+        "lon": 127.109,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "전북"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대설특보 발령",
+          "d": "전북 5개 시군에 대설특보가 내려졌으며 내일까지 2~7cm 눈이 더 내릴 것으로 예보됐습니다 (KBS)."
+        },
+        {
+          "t": "교통 통제와 사고",
+          "d": "밤사이 내린 눈으로 차량 추돌과 고립이 잇따르고 도로와 여객선 운항이 통제됐습니다 (경향신문)."
+        },
+        {
+          "t": "제설차 전도 부상",
+          "d": "논산에서는 눈길에 제설차가 넘어져 2명이 다쳤습니다 (연합뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "전북 5개 시군 대설특보",
+        "도로 및 여객선 통제",
+        "제설차 전도 2명 부상"
+      ],
+      "unconfirmed": [
+        "추가 피해 규모 집계"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "YTN",
+        "경향신문",
+        "뉴시스",
+        "연합뉴스",
+        "2026.11.20 12:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 전북에 15cm 안팎의 눈이 내려 도로와 여객선이 통제됐습니다.\n\n· 전북 5개 시군에 대설특보가 내려진 가운데 내일까지 2~7cm의 눈이 추가로 예보됐습니다 (KBS).\n· 밤사이 눈으로 차량 추돌과 고립에 도로와 여객선이 통제됐습니다 (경향신문).\n· 논산에서는 눈길에 제설차가 넘어져 2명이 다쳤습니다 (연합뉴스).\n\n출처: KBS·경향신문·연합뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "전북 지역에 밤사이 15cm 안팎의 눈이 내렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "전북 5개 시군에 대설특보가 내려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "차량 추돌과 고립이 발생하며 도로와 여객선이 통제됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "논산에서는 눈길에 제설차가 넘어져 2명이 다쳤습니다.",
+      "card": "points"
+    },
+    {
+      "text": "내일까지 2에서 7cm 눈이 더 내릴 것으로 예보됐습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "밤사이 [[15cm]]\n도로 멈춰선 곳",
+  "broll": [
+    "snow road traffic",
+    "snow blizzard highway"
+  ],
+  "place_en": "Jeollabuk-do, South Korea"
+}

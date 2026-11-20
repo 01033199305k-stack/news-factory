@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bosnia_eufor_helicopter_crash_2026",
-    "topic": "보스니아 평화유지군 헬기 추락 사상자 발생",
-    "slug": "2026-10-30-news-bosnia-eufor-helicopter-crash-2026",
-    "cluster": "CBMijwFBVV95cUxNeU9kNC1ia1Y1TFJVR05wejBNTlV2Z1U2c2c2TXl5OUFYNnNmUTdFTmMxWGljSUFkSGt2N0pPSFZ1YTdDRXdWTVJSRm4zWXBjTXRBVnQ1c0tWVGx4T3l0TG56T1ZSRWI5d0M1NUZrWUVXV1Z1WEdQT3NEY3FFWkhJRmg1Zk5ialhYbHVTbGdBQdIBlAFBVV95cUxQSTdEUFBhbTNIVVRtVUJ3SlRFQ1ItNWhoVDAyYktuRnU5TnVSbTFnOFRiaUR6b3FiR1NBUEVNWm1PYXdjQzl2clNyT3BFLU5VdU03NE81VEt5RENTcmJGQ2RJVzRUOElkbXFZdEVCNWRVUXRMbWdoRUs4SHBXMGc3bHRyMlJsXzFEdVVUQkdZOUNnSDkt",
-    "badge": "breaking",
-    "at": 1793322541.8824363,
-    "country": "보스니아헤르체고비나",
-    "category": "사고"
-  },
-  {
     "event_key": "israel_election_final_results_no_majority_2026",
     "topic": "이스라엘 총선 최종 결과 과반 확보 실패",
     "slug": "2026-10-30-news-israel-election-final-results-no-majority-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795140611.2872488,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "jeonbuk_heavy_snow_traffic_disruption_2026",
+    "topic": "전북 15cm 안팎 눈 도로·여객선 통제",
+    "slug": "2026-11-20-news-jeonbuk-heavy-snow-traffic-disruption-2026",
+    "cluster": "CBMiZkFVX3lxTE81M0pnQ2tyTHFwaVczd2xhNGNRczBzajRnSWZXbk4tYzdYUjRtdXN0aW5wUG1JcWFWZEtaYklHeGNTQmktY2w2NWpnWHJqRGNEV2ZmeGdxMEExVjVvc0pjSFNpRG5aQQ",
+    "badge": "breaking",
+    "at": 1795144171.7824686,
+    "country": "대한민국",
+    "category": "재난"
   }
 ]
