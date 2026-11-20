@@ -45517,5 +45517,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795137242
+  },
+  {
+    "slug": "2026-11-20-news-wall-street-dow-tumbles-1100-points-2026",
+    "event_ms": 1795136820000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 뉴욕 증시 다우 지수가 1,100포인트 급락했습니다.\n\n· 다우 지수가 급락하며 2024년 이후 최장 하락세를 기록했습니다 (AP).\n· 일본 소프트뱅크가 16% 넘게 폭락하는 등 아시아 기술주로 충격이 번졌습니다 (CNBC).\n· 앤스로픽 상장 직후 시장 불확실성이 커지며 기술주 매도세가 이어졌습니다 (WSJ·NYT).\n\n이번 글로벌 기술주 급락 흐름, 어떻게 보십니까?\n출처: AP·CNBC·WSJ·NYT 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18064110680799027",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df8jS2GjBHZ",
+        "kind": "carousel",
+        "at": 1795140667
+      },
+      "instagram": {
+        "id": "18101791232658739",
+        "permalink": "https://www.instagram.com/reel/Df8k4XfEiTz/",
+        "kind": "reel",
+        "at": 1795141510
+      },
+      "youtube": {
+        "id": "F-LxHkh9kXU",
+        "permalink": "https://youtube.com/shorts/F-LxHkh9kXU",
+        "kind": "shorts",
+        "at": 1795141620
+      },
+      "tiktok": {
+        "id": "7710074629435559188",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710074629435559188",
+        "kind": "video",
+        "at": 1795141752
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795141762
   }
 ]

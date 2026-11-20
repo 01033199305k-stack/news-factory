@@ -1,0 +1,153 @@
+{
+  "slug": "2026-11-20-news-wall-street-dow-tumbles-1100-points-2026",
+  "topic": "미 다우 1,100포인트 급락 글로벌 기술주 동반 폭락",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 10:07 KST",
+  "source": "AP News·CBS News·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM",
+    "related": [
+      [
+        "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut",
+        "CNBC"
+      ],
+      [
+        "Why Is the Stock Market Down After Anthropic’s Successful IPO?",
+        "The New York Times"
+      ],
+      [
+        "Stock Market News, Nov. 19, 2026: Anthropic Shares Jump, But Nasdaq, Dow Fall Again",
+        "WSJ"
+      ],
+      [
+        "Wall Street tumbles to its longest losing streak since 2024 as the Dow drops 1,100 points",
+        "AP News"
+      ],
+      [
+        "Stocks plunge as investors take cover amid growing uncertainty",
+        "CBS News"
+      ]
+    ],
+    "event_key": "wall_street_dow_tumbles_1100_points_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 다우 [[1,100포인트]] 급락\n글로벌 기술주 동반 폭락",
+      "sub": "AI 기술주 매도세 확산에 최장 하락세 기록",
+      "chips": [
+        {
+          "k": "다우 하락",
+          "v": "1,100p"
+        },
+        {
+          "k": "소프트뱅크",
+          "v": "-16%"
+        }
+      ],
+      "alt": "미 다우 1,100포인트 급락 글로벌 기술주 동반 폭락",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "2024년 후 최장 하락",
+          "d": "AP 통신은 다우 지수가 1,100포인트 떨어지며 2024년 이후 가장 긴 하락세를 기록했다고 전했습니다."
+        },
+        {
+          "t": "아시아 기술주 급락",
+          "d": "CNBC는 일본 소프트뱅크 주가가 16% 이상 폭락하며 아시아 증시 전반에 매도세가 번졌다고 보도했습니다."
+        },
+        {
+          "t": "나스닥·다우 동반 하락",
+          "d": "월스트리트저널은 앤스로픽 주가 상승에도 나스닥과 다우 지수가 동반 하락했다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 다우 지수 1,100포인트 급락",
+        "소프트뱅크 주가 16% 이상 하락"
+      ],
+      "unconfirmed": [
+        "증시 하락세 지속 여부",
+        "글로벌 금융 시장 추가 여파"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CBS News",
+        "CNBC",
+        "The New York Times",
+        "WSJ",
+        "2026.11.20 11:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 뉴욕 증시 다우 지수가 1,100포인트 급락했습니다.\n\n· 다우 지수가 급락하며 2024년 이후 최장 하락세를 기록했습니다 (AP).\n· 일본 소프트뱅크가 16% 넘게 폭락하는 등 아시아 기술주로 충격이 번졌습니다 (CNBC).\n· 앤스로픽 상장 직후 시장 불확실성이 커지며 기술주 매도세가 이어졌습니다 (WSJ·NYT).\n\n이번 글로벌 기술주 급락 흐름, 어떻게 보십니까?\n출처: AP·CNBC·WSJ·NYT 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 다우 지수가 1,100포인트 급락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 2024년 이후 최장 하락세라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "일본 소프트뱅크도 16% 폭락하며 아시아 증시로 번졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "기술주 매도세가 언제까지 이어질지는 아직 불확실합니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 증시 급락, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "기술주 줄폭락\n[[증시 충격]] 어디까지?",
+  "broll": [
+    "stock exchange screen",
+    "trading floor desk"
+  ],
+  "place_en": "New York, United States"
+}
