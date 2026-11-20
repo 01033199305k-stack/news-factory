@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "israel_election_final_results_no_majority_2026",
-    "topic": "이스라엘 총선 최종 결과 과반 확보 실패",
-    "slug": "2026-10-30-news-israel-election-final-results-no-majority-2026",
-    "cluster": "CBMioAFBVV95cUxQeVAzV3M3QjRGcmd3XzBaeU9UbHU3TGY2VXpFc1FEOUxNaGZUMWxOUnlhZnVtdzc3WVJucUw4dlVCeFVKdHRBOFBxQ3NpV0VfR0xsODY4NzRBRG9wN2hhZkxfZ3E5WFJESUlzV21oQUVsR0VOeFBBTUpieENteW83ZmwxQlBoaUNkaDNwV01hSzRUaExTdWx4eXJyTFFBTmJR",
-    "badge": "breaking",
-    "at": 1793325703.1593578,
-    "country": "이스라엘",
-    "category": "국제"
-  },
-  {
     "event_key": "patrick_stuart_death_2026",
     "topic": "스타트렉 패트릭 스튜어트 별세, 향년 86세",
     "slug": "2026-10-30-news-patrick-stuart-death-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795144171.7824686,
     "country": "대한민국",
     "category": "재난"
+  },
+  {
+    "event_key": "riyadh_tallest_skyscraper_hit_houthi_strike_2026",
+    "topic": "사우디 리야드 최고층 타워 후티 반군 공격으로 피격",
+    "slug": "2026-11-20-news-riyadh-tallest-skyscraper-hit-houthi-strike-2026",
+    "cluster": "CBMiuwFBVV95cUxOa2VHNWZ0cC16RTRrem5TYWkxMFYxMlVTb1JwM0xuTGdtS2pidkhEdkxjTGNHdjVzX1pyejhVRlAybFk2UndOcWw2VWdUcl9veFcySVF3RkZuNXBSbVlSTG40eUlDNHd5UU42MDNqWXpBM3FaLVIxYjZHYlZ2MmxXTVo5d0VMUmdSLWRILWRFYWFkSU9YSnpBbDBEUFRxMlhsX3pXM0ZYWGhLOG42NnFNR2tEVDJOdzMzWm93",
+    "badge": "breaking",
+    "at": 1795151250.339521,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]

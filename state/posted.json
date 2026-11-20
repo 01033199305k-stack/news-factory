@@ -45625,5 +45625,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795145144
+  },
+  {
+    "slug": "2026-11-20-news-riyadh-tallest-skyscraper-hit-houthi-strike-2026",
+    "event_ms": 1795146360000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 사우디 리야드 최고층 빌딩이 후티 반군의 공격을 받았습니다.\n\n· 사우디 수도 리야드의 최고층 타워가 파손됐으며(WSJ·스카이뉴스), NBC는 해당 건물이 국부펀드 본부라고 보도했습니다(NBC).\n· 후티 반군이 사우디 수도를 겨냥한 공격을 확대하고 있습니다 (알자지라).\n· 인명 피해 및 구체적인 피해 규모는 아직 확인되지 않았습니다.\n\n출처: NBC·WSJ·알자지라·스카이뉴스·로이터 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18126582794317181",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df83lr4jgMT",
+        "kind": "carousel",
+        "at": 1795151297
+      },
+      "instagram": {
+        "id": "18128677061298264",
+        "permalink": "https://www.instagram.com/reel/Df835VJjA7W/",
+        "kind": "reel",
+        "at": 1795151475
+      },
+      "youtube": {
+        "id": "HEZzWRXioJ4",
+        "permalink": "https://youtube.com/shorts/HEZzWRXioJ4",
+        "kind": "shorts",
+        "at": 1795151508
+      },
+      "tiktok": {
+        "id": "6affd6a04c1afd05def3f5fe",
+        "permalink": "",
+        "kind": "video",
+        "at": 1795151721
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795151731
   }
 ]

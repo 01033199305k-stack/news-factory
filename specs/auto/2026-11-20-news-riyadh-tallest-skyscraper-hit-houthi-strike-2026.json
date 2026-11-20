@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-20-news-riyadh-tallest-skyscraper-hit-houthi-strike-2026",
+  "topic": "사우디 리야드 최고층 타워 후티 반군 공격으로 피격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 12:46 KST",
+  "source": "Al Jazeera·NBC News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuwFBVV95cUxOa2VHNWZ0cC16RTRrem5TYWkxMFYxMlVTb1JwM0xuTGdtS2pidkhEdkxjTGNHdjVzX1pyejhVRlAybFk2UndOcWw2VWdUcl9veFcySVF3RkZuNXBSbVlSTG40eUlDNHd5UU42MDNqWXpBM3FaLVIxYjZHYlZ2MmxXTVo5d0VMUmdSLWRILWRFYWFkSU9YSnpBbDBEUFRxMlhsX3pXM0ZYWGhLOG42NnFNR2tEVDJOdzMzWm93",
+    "related": [
+      [
+        "Riyadh’s tallest skyscraper hit in Houthi strike on Saudi wealth fund HQ",
+        "NBC News"
+      ],
+      [
+        "Houthi Attack Damages Saudi Capital’s Tallest Tower",
+        "WSJ"
+      ],
+      [
+        "Iran war live: Houthis escalate attacks on Saudi capital",
+        "Al Jazeera"
+      ],
+      [
+        "Saudi's tallest skyscraper damaged in Houthi attack",
+        "Sky News"
+      ],
+      [
+        "Houthi attacks on Saudi Arabia",
+        "Reuters"
+      ]
+    ],
+    "event_key": "riyadh_tallest_skyscraper_hit_houthi_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "사우디 리야드 [[최고층 타워]]\n후티 반군 공격으로 피격",
+      "sub": "수도 소재 국부펀드 본부 건물 파손",
+      "chips": [],
+      "alt": "사우디 리야드 최고층 타워 후티 반군 공격으로 피격",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사우디 수도 공격 확대",
+          "d": "알자지라는 후티 반군이 사우디 수도를 겨냥한 공격을 확대했다고 보도했습니다."
+        },
+        {
+          "t": "국부펀드 본부 타격",
+          "d": "NBC는 피격된 최고층 타워가 사우디 국부펀드 본부 건물이라고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 최고층 빌딩 피격",
+        "국부펀드 본부 건물 파손",
+        "후티 반군의 사우디 수도 공격"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "한국인 피해 여부",
+        "구체적인 건물 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "NBC News",
+        "Reuters",
+        "Sky News",
+        "WSJ",
+        "2026.11.20 14:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 사우디 리야드 최고층 빌딩이 후티 반군의 공격을 받았습니다.\n\n· 사우디 수도 리야드의 최고층 타워가 파손됐으며(WSJ·스카이뉴스), NBC는 해당 건물이 국부펀드 본부라고 보도했습니다(NBC).\n· 후티 반군이 사우디 수도를 겨냥한 공격을 확대하고 있습니다 (알자지라).\n· 인명 피해 및 구체적인 피해 규모는 아직 확인되지 않았습니다.\n\n출처: NBC·WSJ·알자지라·스카이뉴스·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아 수도 리야드의 최고층 빌딩이 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "후티 반군이 사우디 수도를 겨냥한 공격을 감행했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "NBC는 피격된 건물이 사우디 국부펀드 본부라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현재까지 구체적인 인명 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "잇따르는 중동 지역 공격 사태, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "사우디 [[최고층 타워]]\n무슨 일이?",
+  "broll": [
+    "skyscraper exterior",
+    "riyadh city view"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}
