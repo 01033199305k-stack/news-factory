@@ -45464,5 +45464,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795130050
+  },
+  {
+    "slug": "2026-11-20-news-gyeongsan-studio-fire-2026",
+    "event_ms": 1795126020000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 경북 경산 다가구주택서 불…3명 부상·19명 대피\n\n· 경북 경산의 한 다가구주택에서 새벽 시간에 불이 났습니다.\n· 불을 피해 주민 19명이 대피하는 과정에서 3명이 다쳤습니다 (KBS·뉴스1).\n\n출처: KBS·MBC·뉴스1·뉴시스·뉴스핌 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18121006288803856",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df8cL3LnSiA",
+        "kind": "carousel",
+        "at": 1795136931
+      },
+      "instagram": {
+        "id": "18375603943242760",
+        "permalink": "https://www.instagram.com/reel/Df8ceepDP-H/",
+        "kind": "reel",
+        "at": 1795137101
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1795137111
+      },
+      "tiktok": {
+        "id": "7710055205336845574",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710055205336845574",
+        "kind": "video",
+        "at": 1795137232
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795137242
   }
 ]

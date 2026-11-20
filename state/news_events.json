@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_q3_gdp_growth_3_4_percent_2026",
-    "topic": "미국 3분기 GDP 3.4% 상승 소비·AI 투자 호조 영향",
-    "slug": "2026-10-30-news-us-q3-gdp-growth-3-4-percent-2026",
-    "cluster": "CBMikwFBVV95cUxNd0JuSzdaWWtxaGJGdW5CV0pONGc2dlpzMVJnaGl2UUIwQmtkc1FNSUVNQzhxTFRycVZ4dGpRaVlvbGdraXBWenkzY1otSno3TC1zWTlQUmFRandmM0hlSm14a1pfWTJMNjdNclo5bFlFQWt3UlpIcFlPY3RtZzBQVXhKUzVPSWMxUXZFckNVM3ZXZEU",
-    "badge": "brief",
-    "at": 1793308095.33651,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "el_salvador_haiti_troop_deployment_2026",
     "topic": "엘살바도르, 아이티에 2천 명 파병",
     "slug": "2026-10-30-news-el-salvador-haiti-troop-deployment-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795129714.2241442,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "gyeongsan_studio_fire_2026",
+    "topic": "경북 경산 원룸 불 3명 부상·19명 대피",
+    "slug": "2026-11-20-news-gyeongsan-studio-fire-2026",
+    "cluster": "CBMiZkFVX3lxTE9aeUNUMERna1U3XzlzTk1GdVFVc3V4anVtbVZGaHZLXzlkQ0x3bS1aUjFMd0NKY1JqTVhQa01YUjJ5SWluT1Y0UmdwWkNYVWJ1ZUszbllTMmlhUVZkdHdaalZJbWQ5UQ",
+    "badge": "breaking",
+    "at": 1795136876.5282218,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]

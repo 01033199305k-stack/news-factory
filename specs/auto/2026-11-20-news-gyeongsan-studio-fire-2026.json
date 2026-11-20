@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-20-news-gyeongsan-studio-fire-2026",
+  "topic": "경북 경산 원룸 불 3명 부상·19명 대피",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 07:07 KST",
+  "source": "KBS 뉴스·MBC 뉴스·뉴스1 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiZkFVX3lxTE9aeUNUMERna1U3XzlzTk1GdVFVc3V4anVtbVZGaHZLXzlkQ0x3bS1aUjFMd0NKY1JqTVhQa01YUjJ5SWluT1Y0UmdwWkNYVWJ1ZUszbllTMmlhUVZkdHdaalZJbWQ5UQ",
+    "related": [
+      [
+        "경북 경산 다가구주택서 불…3명 부상·19명 대피",
+        "KBS 뉴스"
+      ],
+      [
+        "경북 경산 다세대주택 주차차량 불‥3명 다쳐",
+        "MBC 뉴스"
+      ],
+      [
+        "새벽 경산 원룸 화재…19명 대피하다 3명 중경상",
+        "뉴스1"
+      ],
+      [
+        "경산시 남부동 사회단체 \"아파트 화재 피해 주민 돕자\"",
+        "뉴시스"
+      ],
+      [
+        "경산 한 원룸서 불...3명 부상·19명 대피",
+        "뉴스핌"
+      ]
+    ],
+    "event_key": "gyeongsan_studio_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "경북 경산 [[원룸 불]]\n3명 부상·19명 대피",
+      "sub": "새벽 시간 발생한 화재로 주민들이 대피했습니다",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "3명"
+        },
+        {
+          "k": "대피",
+          "v": "19명"
+        }
+      ],
+      "alt": "경북 경산 원룸 불 3명 부상·19명 대피",
+      "map": {
+        "lat": 35.825122,
+        "lon": 128.741329,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n경상북도 경산시",
+      "video_only": true,
+      "map": {
+        "lat": 35.825122,
+        "lon": 128.741329,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "경상북도 경산시"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "새벽 건물 화재",
+          "d": "경북 경산의 한 다가구주택에서 새벽에 불이 났습니다."
+        },
+        {
+          "t": "주민 대피",
+          "d": "주민 19명이 대피했으나 3명이 다쳤습니다 (KBS·뉴스1)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "경산 다가구주택 화재 발생",
+        "부상자 3명 발생 (KBS·MBC)",
+        "주민 19명 대피 (KBS·뉴스1)"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인 조사 중"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "뉴스1",
+        "뉴스핌",
+        "뉴시스",
+        "2026.11.20 10:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 경북 경산 다가구주택서 불…3명 부상·19명 대피\n\n· 경북 경산의 한 다가구주택에서 새벽 시간에 불이 났습니다.\n· 불을 피해 주민 19명이 대피하는 과정에서 3명이 다쳤습니다 (KBS·뉴스1).\n\n출처: KBS·MBC·뉴스1·뉴시스·뉴스핌 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경북 경산의 한 다가구주택에서 불이 나 3명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경상북도 경산시 일대에서 새벽 시간 화재가 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "뉴스1은 주민 19명이 대피하는 과정에서 3명이 중경상을 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[경산 원룸]]에\n무슨 일이?",
+  "broll": [
+    "fire truck night",
+    "apartment building fire"
+  ],
+  "place_en": "Gyeongsan, South Korea"
+}
