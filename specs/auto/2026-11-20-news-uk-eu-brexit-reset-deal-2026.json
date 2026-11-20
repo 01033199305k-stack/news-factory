@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-20-news-uk-eu-brexit-reset-deal-2026",
+  "topic": "영국·EU 관계 리셋 10년 만에 합의 타결",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.20 22:01 KST",
+  "source": "Al Jazeera·Bloomberg.com·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMidkFVX3lxTE9ZWDNaRkk4ck9vUjZOVE01VGpaRWpLZXl2djFWNU1WV1VIQ1JKelRyQW5scVBBaVZRamRPczNJbHlFREs4RVhVMWxwZC1xdG8zZjRIaEJsRVh6V2dLbVhHM1BQNWVWM1RDZmpYbHBOeUhDU0oxcUE",
+    "related": [
+      [
+        "‘The deal is done’: EU, UK agree to reset relations 10 years after Brexit",
+        "Al Jazeera"
+      ],
+      [
+        "10 years on, Britain reopens the Brexit fight — this time embracing the E.U.",
+        "The Washington Post"
+      ],
+      [
+        "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+        "The Guardian"
+      ],
+      [
+        "Burnham Cements Ties in Brussels But Leaves University Fees Unresolved",
+        "Bloomberg.com"
+      ],
+      [
+        "UK-EU summit live: UK and EU agree Brexit ‘reset’ but delivery rests on tuition fees",
+        "Financial Times"
+      ]
+    ],
+    "event_key": "uk_eu_brexit_reset_deal_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "영국·EU [[관계 리셋]]\n10년 만에 합의 타결",
+      "sub": "양측은 브렉시트 이후 협력 관계를 재정립하기로 했습니다",
+      "chips": [],
+      "alt": "영국·EU 관계 리셋 10년 만에 합의 타결",
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "벨기에"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "벨기에\n브뤼셀",
+      "video_only": true,
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브뤼셀"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "가장 긴밀한 관계 구축",
+          "d": "EU 측은 영국과 가능한 한 가장 긴밀한 관계를 조성하기로 했다고 밝혔습니다 (가디언)."
+        },
+        {
+          "t": "대학 학비 등 과제 남아",
+          "d": "대학 등록금 등 일부 세부 사안은 해결해야 할 과제로 남았습니다 (블룸버그·파이낸셜타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "영국·EU 관계 리셋 합의 타결",
+        "브렉시트 10년 만의 협력 재정립"
+      ],
+      "unconfirmed": [
+        "대학 등록금 등 세부 협상 최종 타결 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "Financial Times",
+        "The Guardian",
+        "The Washington Post",
+        "2026.11.21 00:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 영국과 유럽연합이 브렉시트 10년 만에 관계 재정립 합의를 타결했습니다.\n\n· EU 측은 영국과 가능한 한 가장 긴밀한 관계를 조성하겠다고 밝혔습니다 (가디언).\n· 대학 등록금 등 일부 세부 사안은 해결해야 할 과제로 남았습니다 (블룸버그·파이낸셜타임스).\n\n영국과 EU의 관계 리셋 합의, 어떻게 보습니까?\n\n출처: 알자지라·워싱턴포스트·가디언·블룸버그·파이낸셜타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국과 유럽연합이 브렉시트 10년 만에 관계를 재정립하는 합의를 타결했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유럽연합 측은 영국과 가능한 한 가장 긴밀한 관계를 조성하기로 했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "다만 대학 등록금 등 일부 세부 사안은 해결해야 할 과제로 남았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "브렉시트 10년 만의 이번 관계 개선 합의, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[브렉시트]] 10년 만\n관계 리셋 합의",
+  "broll": [
+    "flag european union",
+    "big ben london"
+  ],
+  "place_en": "Brussels, Belgium"
+}

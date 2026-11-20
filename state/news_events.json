@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "intel_stock_plunges_pc_softness_2026",
-    "topic": "인텔 주가 21% 폭락 PC 시장 둔화 여파",
-    "slug": "2026-10-30-news-intel-stock-plunges-pc-softness-2026",
-    "cluster": "CBMid0FVX3lxTE9yZXdLdExYS3hHN19GX0xPbTJSa0h4MTUyUm9oejU5UGEyaVl0RmhnaGMzdXBjbmJtbnNhMGdEYXpPaHdTMzk1d1hZM3BXLVhOdEJ0QzVzTExWNzFZbzZRSmd3dkZfTkdsOC10eXN4UkhpTjAwTVZn",
-    "badge": "breaking",
-    "at": 1793358854.9453533,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "ukraine_russia_oleshky_truce_evacuation_2026",
     "topic": "러·우크라 일시 휴전 올레슈키 주민 대피 시작",
     "slug": "2026-10-30-news-ukraine-russia-oleshky-truce-evacuation-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795180138.4731538,
     "country": "대한민국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "uk_eu_brexit_reset_deal_2026",
+    "topic": "영국·EU 관계 리셋 10년 만에 합의 타결",
+    "slug": "2026-11-20-news-uk-eu-brexit-reset-deal-2026",
+    "cluster": "CBMidkFVX3lxTE9ZWDNaRkk4ck9vUjZOVE01VGpaRWpLZXl2djFWNU1WV1VIQ1JKelRyQW5scVBBaVZRamRPczNJbHlFREs4RVhVMWxwZC1xdG8zZjRIaEJsRVh6V2dLbVhHM1BQNWVWM1RDZmpYbHBOeUhDU0oxcUE",
+    "badge": "brief",
+    "at": 1795187226.780863,
+    "country": "벨기에",
+    "category": "국제"
   }
 ]
