@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "incheon_yeongheungdo_fishing_boat_fire_2026",
-    "topic": "인천 해상 낚시어선 화재 22명 전원 구조",
-    "slug": "2026-10-31-news-incheon-yeongheungdo-fishing-boat-fire-2026",
-    "cluster": "CBMiW0FVX3lxTE9MWTI0LWdJTnd5NGw3Zm1PUzMyUS1ySzUtVTl4ZDh1RUQxLWR5c2VnNEhrV0lCcTJCQnU5M1NjLU9GNUNXMGRFa0JnRXlvNGpyTEd4Y3Uza0JXU3M",
-    "badge": "breaking",
-    "at": 1793416031.4543831,
-    "country": "한국",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "g20_family_photo_cancelled_russia_2026",
     "topic": "러시아 장관 참석 반발로 G20 단체 사진 촬영 취소",
     "slug": "2026-10-31-news-g20-family-photo-cancelled-russia-2026",
@@ -2996,6 +2986,16 @@
     "cluster": "CBMid0FVX3lxTFB3dnNBSXdJZzN3Z3c5Qlo1cUpYRGttN19CQmZIT1hfMm1wZnVPajFxWkZPWWI0cVgxdXlvNjZJY1lLaU01U0Z0eHM0WWxpNnRib1hRQjlkeGk2Sk5wM0U3NUZCbmxidWtKQmstUG1NZEowa1VTTzZr0gF3QVVfeXFMTXo0MWJfdWVuek0tTTFsR2pKdGpnOWozbFBLTXkzSDRXVURvRURsN3FmYW8yZUk0THY3d0NBdG52M3NNUE82NmtRSXBiZTQyYWpCS0lPZU4wUVJUNGtrbGliczFxZ042b1hMOWFqN1F2VXU3YnlhQ0E",
     "badge": "breaking",
     "at": 1795220461.2768295,
+    "country": "대한민국",
+    "category": "사고"
+  },
+  {
+    "event_key": "taean_haegangho_missing_fishing_boat_2026",
+    "topic": "태안 해역 실종 어선 수색 사흘째 부이 발견",
+    "slug": "2026-11-21-news-taean-haegangho-missing-fishing-boat-2026",
+    "cluster": "CBMiWkFVX3lxTFBKdUllTTV6VkZ1Zzl3akRzVVZxMlQxLTVHYkpHUldjbUNDNmNJelFfOGhaVEF0WS1kWDUxUlAtUjdmMldXM0dqX2VUUWVjclJoSlZNUTAxSFRxZw",
+    "badge": "breaking",
+    "at": 1795228712.4227457,
     "country": "대한민국",
     "category": "사고"
   }
