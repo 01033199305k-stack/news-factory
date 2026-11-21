@@ -47148,5 +47148,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795277756
+  },
+  {
+    "slug": "2026-11-22-news-anthropic-mathematician-claude-riemann-hypothesis-claim-2026",
+    "event_ms": 1795288402146,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] AI를 활용해 19세기 최대 수학 난제인 리만 가설을 풀었다는 주장이 나왔습니다.\n\n· 앤스로픽 소속 수학자가 챗봇 클로드의 도움으로 리만 가설을 증명했다고 밝혀 (가디언)\n· 리만 가설은 세계 수학계의 가장 중요한 미해결 난제 중 하나로 꼽혀 (이코노미스트)\n· 학계 검증과 공식 인정 여부는 아직 확인되지 않아 (CNN·알자지라)\n\n인공지능이 세계적 수학 난제까지 해결하는 시대가 올 것으로 보십니까?\n\n출처: 가디언·BBC·이코노미스트·CNN·알자지라 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17987615379104349",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgA9L1NifYT",
+        "kind": "carousel",
+        "at": 1795288449
+      },
+      "instagram": {
+        "id": "18123586042995012",
+        "permalink": "https://www.instagram.com/reel/DgA9dn7imLV/",
+        "kind": "reel",
+        "at": 1795288619
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1795288629
+      },
+      "tiktok": {
+        "id": "7710705358527843585",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710705358527843585",
+        "kind": "video",
+        "at": 1795288751
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795288761
   }
 ]

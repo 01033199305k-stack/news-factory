@@ -1,0 +1,138 @@
+{
+  "slug": "2026-11-22-news-anthropic-mathematician-claude-riemann-hypothesis-claim-2026",
+  "topic": "AI로 리만 가설 증명 앤스로픽 수학자 주장",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 01:41 KST",
+  "source": "Al Jazeera·BBC·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxNZjl5ODZTYXRNU2pfRmhEdnR0ckVzdE9iVVhrX3ZmZzZTMl9acTJENHAyUUFJazdRNGw1a2pES2pjWEpuTG1qTmtfNjBCd1NTQkxXb0c0X2pwSzZtNDJpWS1HbUR6aU5PUC1Gc1N0cXNEZEV5cTd2ZnYtWk9oWU95d3lERkRUOHdSQXRFSTY2OUllVktJenpTODQzU2g",
+    "related": [
+      [
+        "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+        "The Guardian"
+      ],
+      [
+        "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+        "BBC"
+      ],
+      [
+        "AI may have solved the most important problem in mathematics",
+        "The Economist"
+      ],
+      [
+        "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+        "CNN"
+      ],
+      [
+        "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "anthropic_mathematician_claude_riemann_hypothesis_claim_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "AI로 [[리만 가설]] 증명\n앤스로픽 수학자 주장",
+      "sub": "19세기 핵심 수학 난제 해결 주장 나와",
+      "chips": [],
+      "alt": "AI로 리만 가설 증명 앤스로픽 수학자 주장",
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n샌프란시스코",
+      "video_only": true,
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "샌프란시스코"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "AI '클로드' 활용",
+          "d": "앤스로픽 소속 수학자가 챗봇 클로드를 활용해 리만 가설을 풀었다고 전했습니다."
+        },
+        {
+          "t": "19세기 핵심 난제",
+          "d": "리만 가설은 세계 수학계에서 가장 중요한 미해결 과제 중 하나로 꼽힙니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "앤스로픽 연구원의 리만 가설 증명 주장 발표"
+      ],
+      "unconfirmed": [
+        "수학계의 공식 검증 및 합의 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "CNN",
+        "The Economist",
+        "The Guardian",
+        "2026.11.22 04:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] AI를 활용해 19세기 최대 수학 난제인 리만 가설을 풀었다는 주장이 나왔습니다.\n\n· 앤스로픽 소속 수학자가 챗봇 클로드의 도움으로 리만 가설을 증명했다고 밝혀 (가디언)\n· 리만 가설은 세계 수학계의 가장 중요한 미해결 난제 중 하나로 꼽혀 (이코노미스트)\n· 학계 검증과 공식 인정 여부는 아직 확인되지 않아 (CNN·알자지라)\n\n인공지능이 세계적 수학 난제까지 해결하는 시대가 올 것으로 보십니까?\n\n출처: 가디언·BBC·이코노미스트·CNN·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인공지능으로 19세기 최대 수학 난제 리만 가설을 풀었다는 주장이 나왔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "앤스로픽 소속 수학자가 AI 클로드로 가설을 증명했다고 가디언 등이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "리만 가설은 세계 수학계의 대표적 미해결 과제 중 하나입니다.",
+      "card": "points"
+    },
+    {
+      "text": "학계의 공식 검증과 인정 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "인공지능이 난제까지 풀어낸 이번 결과, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "19세기 [[수학 난제]]\nAI가 풀었을까?",
+  "broll": [
+    "mathematics blackboard",
+    "computer code screen"
+  ],
+  "place_en": "San Francisco, USA"
+}
