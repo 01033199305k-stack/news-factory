@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-22-news-trump-proposes-10-percent-credit-card-interest-cap-2026",
+  "topic": "트럼프, 신용카드 금리 10% 상한 추진 공언",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 07:42 KST",
+  "source": "Axios·CBS News·Newsweek 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMifEFVX3lxTFBfbzctNUlGb3RpalZ0UDkzMGlQLWtpR01iSGdiMzV0ZmdIaGNOTXZETTVlYjk0Y0s1czVPdXFvbTVDckQtc3ljVHlkYmR2XzJfeGhpRXlsWU1rRjR3Q0JVV0JVaGZHdkhycG43WnJYdUJtbk56Mi05Y0x4X3Y",
+    "related": [
+      [
+        "Trump vows to work with Democrats to cap credit card interest rates",
+        "CBS News"
+      ],
+      [
+        "Trump says he'd work with Dems to cap credit card interest, fees",
+        "Axios"
+      ],
+      [
+        "Trump vows to work with Democrats to cap credit card interest rates at 10%",
+        "ABC7 Los Angeles"
+      ],
+      [
+        "Trump Open to Working With Dems on Credit Card Cap After Warren Offer",
+        "Newsweek"
+      ],
+      [
+        "Trump wants to work with Democrats on placing 10 percent cap on credit card interest rates",
+        "The Hill"
+      ]
+    ],
+    "event_key": "trump_proposes_10_percent_credit_card_interest_cap_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "트럼프, 신용카드 금리\n[[10% 상한]] 추진 공언",
+      "sub": "민주당과 초당적 협력 시사… 수수료 제한 방안도 거론",
+      "chips": [
+        {
+          "k": "금리 상한",
+          "v": "10%"
+        }
+      ],
+      "alt": "트럼프, 신용카드 금리 10% 상한 추진 공언",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "10% 상한선 제시",
+          "d": "트럼프는 신용카드 이자율을 10%로 제한하기 위해 민주당과 협력하겠다고 밝혔습니다 (ABC7·더힐)."
+        },
+        {
+          "t": "수수료 제한도 논의",
+          "d": "이자율뿐만 아니라 각종 카드 수수료 상한을 두는 방안도 협력 대상에 포함됐습니다 (악시오스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "트럼프의 카드 금리 10% 상한 추진 의사",
+        "민주당과의 초당적 협력 의사 표명"
+      ],
+      "unconfirmed": [
+        "구체적인 법안 통과 가능성",
+        "금융업계 대응 및 실제 시행 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 Los Angeles",
+        "Axios",
+        "CBS News",
+        "Newsweek",
+        "The Hill",
+        "2026.11.22 08:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 트럼프, 신용카드 금리 10% 상한선 설정 추진 공언\n\n· 트럼프는 신용카드 이자율을 10%로 제한하기 위해 민주당과 협력할 뜻을 밝혔습니다 (ABC7·더힐).\n· 금리뿐 아니라 관련 카드 수수료 상한 규제도 함께 추진 대상에 올랐습니다 (악시오스).\n· 워런의 제안 이후 민주당과의 협력 의사를 나타냈습니다 (뉴스위크).\n\n신용카드 금리를 법으로 10%에 묶는 방안, 여러분은 어떻게 보십니까?\n\n출처: CBS·악시오스·ABC7·뉴스위크·더힐 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "신용카드 금리를 10%로 제한하는 방안이 논의되고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "더힐 등은 트럼프가 민주당과 협력해 카드 이자율을 10%로 묶겠다고 밝혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이자율뿐만 아니라 카드 수수료까지 상한을 두는 방안도 함께 논의되고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "실제 의회 문턱을 넘을지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "신용카드 금리를 10%로 제한하는 이번 제안, 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "신용카드 [[금리]]를\n10%로 묶는다고?",
+  "broll": [
+    "credit card machine",
+    "bank building exterior"
+  ],
+  "place_en": "Washington, D.C., United States"
+}

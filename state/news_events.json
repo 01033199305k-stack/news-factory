@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bangladesh_garment_workers_protest_wage_board_2026",
-    "topic": "방글라데시 임금위 구성 의류 시위 격화",
-    "slug": "2026-11-01-news-bangladesh-garment-workers-protest-wage-board-2026",
-    "cluster": "CBMingFBVV95cUxPa0ZJUGJXU29Va0s3M2VnM2lFNHo5cEw0NkhvQ0FJYjdqb3Y3UlJXS3BCLTRiSTZYMVVQeEIyeTk4UDhENmZvalFEdFd2OWQzdU5LYlp6QW5wWFR2MWxtUDNxTEJuWmhILUtYajUxYTJKVU1YZmwwR2tVWHZqQWMyUDVNRlg4SlUyUjRsdkw0VTFHSUtIckZGZnhzNi1EUdIBowFBVV95cUxQYWFxOUlvT1l6d1NIZWFGajJ5UVZwREM4dDcyblBnWHVBaVppWjQwRHlRTXRNc0RraWF6TVJYYm1kVno0WnFPVDdocUtYbDZ5Tm9CbmtIeVFFTXVEaC0yT3Z3eUJLOHdERWtwbzFFSFdiVk84RFJ4d1FITDN6d1I2N25yT3hjdzVYcklieEd2NWZoajRPU2w1OHc3czZYcm9KTzg0",
-    "badge": "breaking",
-    "at": 1793529921.7953787,
-    "country": "방글라데시",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "iran_designates_uk_navy_raf_terrorist_2026",
     "topic": "이란, 영국 해·공군 테러 조직 지정",
     "slug": "2026-11-01-news-iran-designates-uk-navy-raf-terrorist-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795295414.9659863,
     "country": "바레인",
     "category": "국제"
+  },
+  {
+    "event_key": "trump_proposes_10_percent_credit_card_interest_cap_2026",
+    "topic": "트럼프, 신용카드 금리 10% 상한 추진 공언",
+    "slug": "2026-11-22-news-trump-proposes-10-percent-credit-card-interest-cap-2026",
+    "cluster": "CBMifEFVX3lxTFBfbzctNUlGb3RpalZ0UDkzMGlQLWtpR01iSGdiMzV0ZmdIaGNOTXZETTVlYjk0Y0s1czVPdXFvbTVDckQtc3ljVHlkYmR2XzJfeGhpRXlsWU1rRjR3Q0JVV0JVaGZHdkhycG43WnJYdUJtbk56Mi05Y0x4X3Y",
+    "badge": "brief",
+    "at": 1795302548.6509821,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
