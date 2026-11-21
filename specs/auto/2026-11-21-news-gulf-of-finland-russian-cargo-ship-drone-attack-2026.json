@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-21-news-gulf-of-finland-russian-cargo-ship-drone-attack-2026",
+  "topic": "핀란드만서 화물선 드론 공격 받아",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 22:02 KST",
+  "source": "Al Jazeera·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE",
+    "related": [
+      [
+        "Cargo ship bound for Russia's Kaliningrad hit by drones, Finland tightens security",
+        "Reuters"
+      ],
+      [
+        "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
+        "Al Jazeera"
+      ],
+      [
+        "Finland detects drone attack on Russian cargo ship in Baltic",
+        "The Hindu"
+      ],
+      [
+        "Damaged Russian cargo ship in the Gulf of Finland",
+        "Rajavartiolaitos"
+      ],
+      [
+        "Ethiopia: Tackling period poverty and stigma",
+        "Inbox.eu"
+      ]
+    ],
+    "event_key": "gulf_of_finland_russian_cargo_ship_drone_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "핀란드만서 화물선\n[[드론 공격]] 받아",
+      "sub": "러시아 칼리닌그라드행 배 손상… 핀란드 경계 강화",
+      "chips": [
+        {
+          "k": "피격 대상",
+          "v": "러시아행 화물선"
+        }
+      ],
+      "alt": "핀란드만서 화물선 드론 공격 받아",
+      "map": {
+        "lat": 59.8737114,
+        "lon": 26.3229884,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "핀란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "핀란드\n핀란드만",
+      "video_only": true,
+      "map": {
+        "lat": 59.8737114,
+        "lon": 26.3229884,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "핀란드만"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "화물선 드론 피격",
+          "d": "핀란드만 해역에서 러시아 칼리닌그라드로 가던 화물선이 드론 공격을 받았습니다 (로이터·알자지라)."
+        },
+        {
+          "t": "핀란드 경계 강화",
+          "d": "핀란드 당국이 발트해 해역 내 드론 공격을 감지하고 보안 경계를 높였습니다 (로이터·더힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아행 화물선 드론 피격",
+        "선박 손상 발생"
+      ],
+      "unconfirmed": [
+        "드론 발사 주체",
+        "정확한 인명 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Inbox.eu",
+        "Rajavartiolaitos",
+        "Reuters",
+        "The Hindu",
+        "2026.11.21 23:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 핀란드만에서 러시아행 화물선이 드론 공격을 받았습니다.\n\n· 러시아 칼리닌그라드로 향하던 선박이 해상에서 피격돼 손상됐습니다 (로이터)\n· 핀란드 당국은 발트해 드론 공격을 감지하고 경계를 강화했습니다 (로이터·더힌두)\n\n이번 발트해 해상 공격 사태를 어떻게 보십니까?\n\n출처: 로이터·알자지라·더힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "핀란드만에서 러시아로 향하던 화물선이 드론 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "발트해 핀란드만 해역에서 배가 피격돼 손상된 것으로 알려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 핀란드 당국이 해상 경계 태세를 강화했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "드론의 구체적인 발사 주체는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "발트해 해상 긴장 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[핀란드만]] 해상서\n무슨 일이?",
+  "broll": [
+    "cargo ship sea",
+    "baltic sea coast"
+  ],
+  "place_en": "Gulf of Finland"
+}

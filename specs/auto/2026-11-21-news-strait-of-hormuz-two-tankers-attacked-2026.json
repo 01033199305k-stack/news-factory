@@ -1,0 +1,154 @@
+{
+  "slug": "2026-11-21-news-strait-of-hormuz-two-tankers-attacked-2026",
+  "topic": "호르무즈 인근 유조선 미사일·기뢰 피격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 22:05 KST",
+  "source": "Al Jazeera·The Hindu·CNBC 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxNOHBPa2d4bGNrMmM2Q2tvTTBraTJvTWFmaE42Y3NKUm53OENEeDZXcXltNlgzdTZIZms4WnFScHNBODFjRU5TOWl5d1F1S2FMSkFyTjVxaGtNdjRFeThqVndwQ2V3czdPTE56RjF4NjVtamNhYnpHNnJxejRoYzlQMmVVekV3eHptZTJ0MkI1YkF2X0dnZnZzNlBqWS01dnBrMGlKQnpmZWxHU0RTdjRlZXJ30gG4AUFVX3lxTE10M2dlTnRHQUlTS29yeHZaVkJpc0wwdmVTSnctTDkycXdzU21zUEtCTkc5UWJrV2ZQQ2xSR0RBY0ZzNkZjaFcwZDhhNDdRS01nTDVzVFZkSkUzUGlsWWhERG0tQ0s4dlVPemF0b054NWVEQkFRY0hrQmE4Z05LQlJhVmVYMWZ5ZlNsbG01VW8wdHFTNjdzWkUyQTlPbVNmUW8zQWNINTRNODBTeWFhS2FQRFE3aFBjaGI",
+    "related": [
+      [
+        "US-Iran War Live Updates: Missiles hit two tankers near Strait of Hormuz",
+        "The Indian Express"
+      ],
+      [
+        "Iran war live: Tanker ablaze after hitting mine as Hormuz attacks increase",
+        "Al Jazeera"
+      ],
+      [
+        "One Indian seafarer of LPG ship still missing",
+        "The Hindu"
+      ],
+      [
+        "UK maritime agency reports two tanker attacks near Oman; Iran says vessel hit mine east of Hormuz",
+        "CNBC"
+      ],
+      [
+        "Iran Steps Up Hormuz Tanker Attacks as Oil Prices Slide",
+        "Crude Oil Prices Today | OilPrice.com"
+      ]
+    ],
+    "event_key": "strait_of_hormuz_two_tankers_attacked_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "호르무즈 인근 유조선\n[[미사일·기뢰]] 피격",
+      "sub": "유조선 2척 공격받아 화재… 선원 1명 실종",
+      "chips": [
+        {
+          "k": "피격 선박",
+          "v": "유조선 2척"
+        },
+        {
+          "k": "실종",
+          "v": "선원 1명 (더힌두)"
+        }
+      ],
+      "alt": "호르무즈 인근 유조선 미사일·기뢰 피격",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "오만"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "오만\n호르무즈 해협 인근",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협 인근"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "유조선 2척 공격받아",
+          "d": "호르무즈 해협과 오만 인근 해상에서 유조선 2척이 공격을 받았습니다 (인디언 익스프레스·CNBC)."
+        },
+        {
+          "t": "선원 1명 실종",
+          "d": "LPG 운반선 선원 1명이 실종됐습니다 (더힌두)."
+        },
+        {
+          "t": "이란 측 기뢰 주장",
+          "d": "이란 측은 선박이 호르무즈 동쪽에서 기뢰에 닿았다고 주장했습니다 (CNBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "호르무즈 해협 인근 유조선 2척 피격",
+        "선박 화재 발생"
+      ],
+      "unconfirmed": [
+        "공격 주체 및 구체 경위",
+        "실종 선원 구조 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNBC",
+        "Crude Oil Prices Today | OilPrice.com",
+        "The Hindu",
+        "The Indian Express",
+        "2026.11.21 23:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 호르무즈 해협 인근에서 유조선 2척이 미사일과 기뢰 공격을 받았습니다.\n\n· LPG 운반선의 인도인 선원 1명이 실종됐습니다 (더힌두)\n· 영국 해상무역경보에 따르면 오만 인근에서 공격이 보고됐습니다 (CNBC)\n· 이란 측은 선박이 기뢰에 접촉했다고 주장했습니다 (CNBC)\n\n이번 해상 유조선 공격 사태를 어떻게 보십니까?\n\n출처: 인디언 익스프레스·알자지라·더힌두·CNBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협 인근에서 유조선 2척이 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "오만 인근 해상에서 유조선 공격이 보고됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "더힌두는 LPG 운반선 선원 1명이 실종됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격 주체와 정확한 피해 원인은 아직 조사 중입니다.",
+      "card": "check"
+    },
+    {
+      "text": "격화하는 해상 위기, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[호르무즈]] 해협서\n유조선 피격",
+  "broll": [
+    "oil tanker sea",
+    "sea port night"
+  ],
+  "place_en": "Strait of Hormuz"
+}

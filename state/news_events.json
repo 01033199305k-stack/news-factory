@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "london_palestine_action_protest_arrests_2026",
-    "topic": "런던 미 대사관 앞 시위 139명 체포",
-    "slug": "2026-11-01-news-london-palestine-action-protest-arrests-2026",
-    "cluster": "CBMiqgFBVV95cUxNam1UMDNjenNVXzcybTdDd0twaF9lLVNwTzB3V1JVSUNSZlA1UFlKZUZJREtOYVBLbnBLYV91Q2JyenU4NGozZ3R3ejJudVh1TGxTeHgtWHR1eng4MHFmX2lDbVNMZzJQOWh6QjZ4NUJjVVZseVg2UmJVd25LREg2OVRSZjB0eWtoYWhQVW5nVmgzdDFWaUdTRlB6OE1teFJQYlo2bkVVSkx0Z9IBrwFBVV95cUxNdVNqNXZDOU9UMDlNNl9qU3hibWJVNDhLT3dScUFLZHdhN05kbkQ5bGJ6NVVwclliVDZHQ3k2ZnZYTzJtZUw4SVhLZzZnTUhqSTRPWWg0NjI3RE5KaUVQNFQyc3RfUkxiOXd6TnhqQlpkTk1yS0hQcWtSNUdwTWthUUZmMlJ5UFJ1ZGZkdXpUTlpIWHNCbHZpTXRvOUlXeDVma1ZtMTJBaVA3MDlfZFow",
-    "badge": "breaking",
-    "at": 1793480836.420835,
-    "country": "영국",
-    "category": "국제"
-  },
-  {
-    "event_key": "seongju_expressway_triple_crash_2026",
-    "topic": "성주 고속도로서 3중 추돌 사고",
-    "slug": "2026-11-01-news-seongju-expressway-triple-crash-2026",
-    "cluster": "CBMid0FVX3lxTFBlS0pia1JQazlkbUhFS0djOU5HSkJTU01rVk1NemxuamU5S0RRWURCVU1yejFTb3RrMFFvOEFjUFFEMmhkQnZvNFcyYnNGdEZybnB3SXAyRkkyYXVGUjg4WUZGTmJKaldBNUNtUWliUVd1QzZ3TURj0gF3QVVfeXFMTk9ldW9WV3ZnbTdOaG8wNndIay1RSjllV0VRVkxfM21GLWpBa1l3Nm1pWlpoSTdkdm81cjNkWThWeHl2SjhGZlAxSWhVMVc5Uk1ueFo1ejZtWFNBQlphV2lOc0xlXzEtRmk0dVE2YUphaTJ1a0RqVms",
-    "badge": "brief",
-    "at": 1793499819.4844854,
-    "country": "대한민국",
-    "category": "사고"
-  },
-  {
     "event_key": "trump_iran_strikes_threat_2026",
     "topic": "미국 트럼프 대통령은 이란 추가 타격 시사",
     "slug": "2026-11-01-news-trump-iran-strikes-threat-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795266632.4611175,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "gulf_of_finland_russian_cargo_ship_drone_attack_2026",
+    "topic": "핀란드만서 화물선 드론 공격 받아",
+    "slug": "2026-11-21-news-gulf-of-finland-russian-cargo-ship-drone-attack-2026",
+    "cluster": "CBMiugFBVV95cUxPaUFLdlZmeWprX3A2YllLMmlQSXZrYTRIazVMOEExREZuTXFCYThyVUlnR3U0TDg3dGpUeHE5SHJyanJWQUZTRHdwUG5YYTFxVXMtUU5rY1pOVzZkRUxhQ29oUEVUS0NJTWFxcUJmLW9lRE52cGs3N2FLbXZzNmVFNFpXTmZNZnI4S1pWNDB5RWV0UFhUUGlCTVUwNjlWZDMxcXhxS0FvZUdNNWN4UU9jMEw4bWVaOVB0TlE",
+    "badge": "breaking",
+    "at": 1795270369.204125,
+    "country": "핀란드",
+    "category": "국제"
+  },
+  {
+    "event_key": "strait_of_hormuz_two_tankers_attacked_2026",
+    "topic": "호르무즈 인근 유조선 미사일·기뢰 피격",
+    "slug": "2026-11-21-news-strait-of-hormuz-two-tankers-attacked-2026",
+    "cluster": "CBMisgFBVV95cUxNOHBPa2d4bGNrMmM2Q2tvTTBraTJvTWFmaE42Y3NKUm53OENEeDZXcXltNlgzdTZIZms4WnFScHNBODFjRU5TOWl5d1F1S2FMSkFyTjVxaGtNdjRFeThqVndwQ2V3czdPTE56RjF4NjVtamNhYnpHNnJxejRoYzlQMmVVekV3eHptZTJ0MkI1YkF2X0dnZnZzNlBqWS01dnBrMGlKQnpmZWxHU0RTdjRlZXJ30gG4AUFVX3lxTE10M2dlTnRHQUlTS29yeHZaVkJpc0wwdmVTSnctTDkycXdzU21zUEtCTkc5UWJrV2ZQQ2xSR0RBY0ZzNkZjaFcwZDhhNDdRS01nTDVzVFZkSkUzUGlsWWhERG0tQ0s4dlVPemF0b054NWVEQkFRY0hrQmE4Z05LQlJhVmVYMWZ5ZlNsbG01VW8wdHFTNjdzWkUyQTlPbVNmUW8zQWNINTRNODBTeWFhS2FQRFE3aFBjaGI",
+    "badge": "breaking",
+    "at": 1795270536.4664447,
+    "country": "오만",
+    "category": "국제"
   }
 ]
