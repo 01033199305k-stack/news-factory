@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "un_security_council_western_sahara_resolutions_fail_2026",
-    "topic": "유엔 서사하라 결의안 미·러 안보리서 모두 부결",
-    "slug": "2026-11-01-news-un-security-council-western-sahara-resolutions-fail-2026",
-    "cluster": "CBMipgFBVV95cUxQRlBQdEZ2VF9xdmV6cGNZeUdmVG53ZnNKOEhBMG4tMzFPRzNCNUt0eWRLdk9nSnlLLUNVbW9OQV95LUxPcU9oTDEyVVpvMnFBTjlITmNiREhaWW41YzlpUjA5NzZNQkVSMndBSGhiaWxPZmJRUnpMcDlyNWZEXzdhT0oxWWV5dGxZbll4TWpsajNZVEhadTJkV2IzbGRzM3NOMEpldDJn0gGrAUFVX3lxTFBNRGNTd3BPNmo4Z3hMWDZ6VTA0aU1aTEluYVhKTHFvMF9yZFJiSHVFaFlrVUlLZWF6VG1VNGpRTFNobUw3eGY1Zk95OC1mY0puS3pKX01OSElLcjNwSEd4d3otd3kzamlfV3hJNTluZFRuVEhDazlkeXRvc0RRSnVVVlZKNGhPRFFHUTZnNW04MU9Ub25rN0g3QnlJdVVKMW9DVzBCVUk1MzA3SQ",
-    "badge": "breaking",
-    "at": 1793477284.4900386,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "london_palestine_action_protest_arrests_2026",
     "topic": "런던 미 대사관 앞 시위 139명 체포",
     "slug": "2026-11-01-news-london-palestine-action-protest-arrests-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795263056.498089,
     "country": "스위스",
     "category": "국제"
+  },
+  {
+    "event_key": "hongdae_bus_sidewalk_crash_2026",
+    "topic": "홍대입구역서 버스 인도 돌진 3중 추돌로 6명 부상",
+    "slug": "2026-11-21-news-hongdae-bus-sidewalk-crash-2026",
+    "cluster": "CBMid0FVX3lxTE1pZFdDZkFQcDZVZUc1ODBKUWdkaDViSDNYVDUteWRJNkJGVEo1cWNWSnpPZFNFT21qbmJ2LXVQNWl0a0ZHLUFDcXl5bEJxVmZPTVBtOWhHMG9SaHhnd3I4bzJnTmc5NDJ5MERWWU52Z0dCTHFwZVk40gF3QVVfeXFMTm1TQy1LZ2NjanpnTnJXTElBZEJYRTJSZXFOal9Xejh3RklWRTM5VUJpdFRfVDd0a2VyRVJnODNJOHFLWFR1TkRpazM3dV9Vc3BlWWg4Xzh2Y0hSMEVMX0lGNXpOZnZXZHVKTTJMRmYwZU9aVUtnT2s",
+    "badge": "breaking",
+    "at": 1795266632.4611175,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]

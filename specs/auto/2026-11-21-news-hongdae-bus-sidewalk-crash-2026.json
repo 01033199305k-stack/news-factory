@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-21-news-hongdae-bus-sidewalk-crash-2026",
+  "topic": "홍대입구역서 버스 인도 돌진 3중 추돌로 6명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 20:33 KST",
+  "source": "MBC 뉴스·news.sbs.co.kr·경향신문 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE1pZFdDZkFQcDZVZUc1ODBKUWdkaDViSDNYVDUteWRJNkJGVEo1cWNWSnpPZFNFT21qbmJ2LXVQNWl0a0ZHLUFDcXl5bEJxVmZPTVBtOWhHMG9SaHhnd3I4bzJnTmc5NDJ5MERWWU52Z0dCTHFwZVk40gF3QVVfeXFMTm1TQy1LZ2NjanpnTnJXTElBZEJYRTJSZXFOal9Xejh3RklWRTM5VUJpdFRfVDd0a2VyRVJnODNJOHFLWFR1TkRpazM3dV9Vc3BlWWg4Xzh2Y0hSMEVMX0lGNXpOZnZXZHVKTTJMRmYwZU9aVUtnT2s",
+    "related": [
+      [
+        "홍대입구역 인근서 버스 2대·경차 1대 추돌‥6명 부상",
+        "MBC 뉴스"
+      ],
+      [
+        "홍대입구역서 버스가 인도로 돌진···6명 부상",
+        "경향신문"
+      ],
+      [
+        "홍대입구역에서 3중 추돌사고로 버스 인도 돌진…6명 경상(종합)",
+        "연합뉴스"
+      ],
+      [
+        "홍대서 \"인도에 버스 돌진\" 신고…6명 경상",
+        "news.sbs.co.kr"
+      ],
+      [
+        "토요일 저녁, 홍대입구역서 버스 인도로 돌진…3중 추돌사고, 6명 부상",
+        "문화일보"
+      ]
+    ],
+    "event_key": "hongdae_bus_sidewalk_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "홍대입구역서 버스 인도 돌진\n3중 추돌로 [[6명 부상]]",
+      "sub": "버스 2대와 승용차가 부딪힌 뒤 버스가 인도로 올라섰습니다",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "6명"
+        }
+      ],
+      "alt": "홍대입구역서 버스 인도 돌진 3중 추돌로 6명 부상",
+      "map": {
+        "lat": 37.5566777,
+        "lon": 126.9236124,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서울 마포구",
+      "video_only": true,
+      "map": {
+        "lat": 37.5566777,
+        "lon": 126.9236124,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서울 마포구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "3중 추돌 후 인도 돌진",
+          "d": "버스 2대와 경차 1대가 충돌한 뒤 버스가 인도로 돌진했습니다. (연합뉴스·MBC)"
+        },
+        {
+          "t": "6명 경상 병원 치료",
+          "d": "이 사고로 6명이 다쳐 병원으로 이송되었습니다. (경향신문·SBS)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "홍대입구역 인근 3중 추돌 사고",
+        "버스의 인도 돌진",
+        "6명 부상 (연합뉴스·MBC)"
+      ],
+      "unconfirmed": [
+        "운전자 과실 여부 및 상세 사고 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "news.sbs.co.kr",
+        "경향신문",
+        "문화일보",
+        "연합뉴스",
+        "2026.11.21 22:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 홍대입구역 인근에서 버스가 인도로 돌진해 6명이 다쳤습니다.\n\n· 버스 2대와 경차 1대가 충돌한 뒤 버스가 인도로 돌진했습니다 (연합뉴스·MBC)\n· 이 사고로 6명이 다쳐 병원 치료를 받고 있습니다 (경향신문·SBS)\n\n출처: MBC·경향신문·연합뉴스·SBS·문화일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "홍대입구역 인근에서 버스가 인도로 돌진해 6명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "버스 2대와 경차가 충돌한 뒤 버스가 인도로 올라섰습니다.",
+      "card": "points"
+    },
+    {
+      "text": "연합뉴스와 MBC는 이번 사고로 6명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[홍대입구역]] 버스\n인도 돌진 무슨 일?",
+  "broll": [
+    "traffic accident street",
+    "ambulance night"
+  ],
+  "place_en": "Hongdae station, Seoul"
+}
