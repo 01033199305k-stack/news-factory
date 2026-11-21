@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "slug": "2026-11-21-news-iran-claims-downing-us-drone-hormuz-2026",
+    "event_ms": 1795247890000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이란 측, 호르무즈 해협서 미국 드론 격추 주장\n\n· 이란 혁명수비대 항공우주 부대가 MQ-9 드론을 요격했다고 밝혔습니다 (Middle East Eye·تسنیم)\n· 예멘 지역에서도 공습이 보고됐습니다 (The Indian Express)\n\n여러분은 이번 양국 간 군사적 긴장 고조 상황을 어떻게 보십니까?\n\n출처: Middle East Eye·تسنیم·The Indian Express 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "이란"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18147528889593880",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df_yaBFm4RX",
+        "kind": "carousel",
+        "at": 1795249243
+      },
+      "instagram": {
+        "id": "18123055544107107",
+        "permalink": "https://www.instagram.com/reel/Df_y14FEdY9/",
+        "kind": "reel",
+        "at": 1795249490
+      },
+      "youtube": {
+        "id": "xmQYt15dlk8",
+        "permalink": "https://youtube.com/shorts/xmQYt15dlk8",
+        "kind": "shorts",
+        "at": 1795249652
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  },
+  {
+    "slug": "2026-11-21-news-seosan-apartment-store-gas-explosion-2026",
+    "event_ms": 1795238711000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 충남 서산 아파트 상가서 가스 폭발 화재\n\n· 상가에서 발생한 가스 폭발로 60대 부부가 화상을 입었습니다 (MBC 뉴스·뉴스1)\n· 서산 동문동 아파트 상가의 1층 중식당에서 일어났습니다 (KBS 뉴스·연합뉴스·뉴스1)\n\n출처: KBS 뉴스·연합뉴스·MBC 뉴스·뉴스1 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17927620107443189",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df_yeo5m9rX",
+        "kind": "carousel",
+        "at": 1795249280
+      },
+      "instagram": {
+        "id": "18111824678265547",
+        "permalink": "https://www.instagram.com/reel/Df_y7UvCLr8/",
+        "kind": "reel",
+        "at": 1795249538
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1795249662
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

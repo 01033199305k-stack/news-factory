@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-21-news-iran-claims-downing-us-drone-hormuz-2026",
+  "topic": "이란 측, 호르무즈 해협서 미국 드론 격추 주장",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 16:58 KST",
+  "source": "Firstpost·Middle East Eye·Rediff 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMickFVX3lxTE1kcDFzSWtiVWp2TTlMT0U2YlA4SmN6b3h3Z1hmdndrQlRKc0ZSVUJCNXZFZUlKSWxydWZnb2RhQ3JSYWxzN2oxeWZvUUVLdFRlY2pVYUd3SFFDZG1TT3BwQnJBS0hKdzdSd0FYMEdIaV95QQ",
+    "related": [
+      [
+        "LIVE! Iran claims downing of US MQ-9 drone over Hormuz",
+        "Rediff"
+      ],
+      [
+        "US-Iran War Live Updates: Iran claims downing 58th US drone; air strikes reported in Yemen",
+        "The Indian Express"
+      ],
+      [
+        "'We Have Surprises’: Iran Teases New Drones, Flexes 40-Day US War Tactics | Firstpost Live",
+        "Firstpost"
+      ],
+      [
+        "IRGC Downs 58th US MQ-9 Drone over Strait of Hormuz",
+        "تسنیم"
+      ],
+      [
+        "IRGC says its aerospace forces intercepted US MQ-9 drone over Hormuz",
+        "Middle East Eye"
+      ]
+    ],
+    "event_key": "iran_claims_downing_us_drone_hormuz_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란 측, 호르무즈 해협서\n미국 [[드론]] 격추 주장",
+      "sub": "이란 혁명수비대가 미군 무인기를 요격했다고 밝혔습니다",
+      "chips": [
+        {
+          "k": "피해",
+          "v": "미국 무인기"
+        },
+        {
+          "k": "지역",
+          "v": "호르무즈 해협"
+        }
+      ],
+      "alt": "이란 측, 호르무즈 해협서 미국 드론 격추 주장",
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이란"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이란\n호르무즈 해협",
+      "video_only": true,
+      "map": {
+        "lat": 26.4494061,
+        "lon": 56.2027702,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "호르무즈 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "미군 드론",
+          "d": "이란 혁명수비대 항공우주 부대가 MQ-9 드론을 요격했다고 밝혔습니다 (Middle East Eye·تسنیم)"
+        },
+        {
+          "t": "예멘 공습",
+          "d": "예멘 지역에서도 공습이 보고됐습니다 (The Indian Express)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이란 측의 미군 MQ-9 드론 격추 주장 (Middle East Eye·تسنیم)",
+        "예멘 지역 공습 보고 (The Indian Express)"
+      ],
+      "unconfirmed": [
+        "미국 측의 공식 입장 및 드론 피해 확인 여부",
+        "격추 사건의 정확한 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Firstpost",
+        "Middle East Eye",
+        "Rediff",
+        "The Indian Express",
+        "تسنیم",
+        "2026.11.21 17:18 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이란 측, 호르무즈 해협서 미국 드론 격추 주장\n\n· 이란 혁명수비대 항공우주 부대가 MQ-9 드론을 요격했다고 밝혔습니다 (Middle East Eye·تسنیم)\n· 예멘 지역에서도 공습이 보고됐습니다 (The Indian Express)\n\n여러분은 이번 양국 간 군사적 긴장 고조 상황을 어떻게 보십니까?\n\n출처: Middle East Eye·تسنیم·The Indian Express 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호르무즈 해협에서 이란 측이 미군 드론을 격추했다고 주장했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "Middle East Eye 등 외신은 이란 혁명수비대 항공우주 부대가 MQ-9 드론을 요격했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "예멘 지역에서도 공습이 보고됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국 측의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 양국 간 긴장 고조 상황을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "양국 긴장 고조"
+    }
+  ],
+  "hook": "호르무즈 해협에서\n무슨 일이?",
+  "broll": [
+    "sea waves horizon",
+    "military drone sky"
+  ],
+  "place_en": "Strait of Hormuz"
+}

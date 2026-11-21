@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-21-news-seosan-apartment-store-gas-explosion-2026",
+  "topic": "충남 서산 아파트 상가서 가스 폭발 화재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 14:25 KST",
+  "source": "KBS 뉴스·MBC 뉴스·뉴스1 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE9WYXVfRTE5UW9CUFZUSUMwNDl0ckFoamVqZGVCeG1fS1hmc3g5d3liWEg0MUJJS2t0MnBGaDZRRDdTVnBPR085czNrTnVqU1hEQ2dhMmk1VHMxLTNHVU5qSE5vZmJvQjFCdy1ZVGxnblBSOC1xZmNR0gF3QVVfeXFMTTJyZjZHaF82YkF4cXV2WlZGYy0yTVpvZF9UYjRjLUlMdTliLTcxSTFwUU9ObTBlZEFRcm9Ea01qNm50a1g3X1lBV2J2ek9XbEpTYlk3N3NiXzdKZUNwYnFlQWhOUDNPV0NGcFFiUTM1S2h1TE9DeGs",
+    "related": [
+      [
+        "서산 아파트 상가서 가스 폭발로 불‥60대 부부 화상",
+        "MBC 뉴스"
+      ],
+      [
+        "충남 서산 상가 1층서 가스 폭발…60대 2명 부상",
+        "KBS 뉴스"
+      ],
+      [
+        "충남 서산 상가서 가스 폭발 화재…60대 부부 부상",
+        "연합뉴스TV"
+      ],
+      [
+        "서산 아파트 상가서 가스폭발…중식당 운영 60대 부부 다쳐",
+        "연합뉴스"
+      ],
+      [
+        "서산 동문동 상가서 가스폭발 추정 화재…상인 2명 화상",
+        "뉴스1"
+      ]
+    ],
+    "event_key": "seosan_apartment_store_gas_explosion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "충남 서산 아파트 상가서\n가스 [[폭발]] 화재",
+      "sub": "중식당을 운영하던 60대 부부가 화상을 입었습니다",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "60대 2명"
+        },
+        {
+          "k": "장소",
+          "v": "서산 아파트 상가"
+        }
+      ],
+      "alt": "충남 서산 아파트 상가서 가스 폭발 화재",
+      "map": {
+        "lat": 36.784499,
+        "lon": 126.450317,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n서산",
+      "video_only": true,
+      "map": {
+        "lat": 36.784499,
+        "lon": 126.450317,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서산"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "부상자 발생",
+          "d": "상가에서 발생한 가스 폭발로 60대 부부가 화상을 입었습니다 (MBC 뉴스·뉴스1)"
+        },
+        {
+          "t": "사고 장소",
+          "d": "서산 동문동 아파트 상가의 1층 중식당에서 일어났습니다 (KBS 뉴스·연합뉴스·뉴스1)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "충남 서산 상가 1층 가스 폭발 발생 (KBS 뉴스)",
+        "60대 부부 부상 및 화상 (MBC 뉴스·연합뉴스TV)"
+      ],
+      "unconfirmed": [
+        "정확한 폭발 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "뉴스1",
+        "연합뉴스",
+        "연합뉴스TV",
+        "2026.11.21 17:19 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 충남 서산 아파트 상가서 가스 폭발 화재\n\n· 상가에서 발생한 가스 폭발로 60대 부부가 화상을 입었습니다 (MBC 뉴스·뉴스1)\n· 서산 동문동 아파트 상가의 1층 중식당에서 일어났습니다 (KBS 뉴스·연합뉴스·뉴스1)\n\n출처: KBS 뉴스·연합뉴스·MBC 뉴스·뉴스1 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "충남 서산의 한 아파트 상가에서 가스 폭발 화재가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "상가 1층 중식당에서 가스가 폭발해 60대 부부가 화상을 입고 다친 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 폭발 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "서산 아파트 상가서\n무슨 일이?",
+  "broll": [
+    "apartment building exterior",
+    "fire station emergency"
+  ],
+  "place_en": "Seosan, South Korea"
+}

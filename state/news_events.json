@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "iran_us_qatar_talks_2026",
-    "topic": "카타르 중재로 테헤란서 회담 미·이란 협상 재개 추진",
-    "slug": "2026-10-31-news-iran-us-qatar-talks-2026",
-    "cluster": "CBMidEFVX3lxTFBiRHpqS0x5SmJQb3ZZSFpkMXZXS0lVdzl4NTdaWGltUWdRWFpOOU1CbGFXVFNZSnNiZlRyMC1YQ0hGb0NDQjdOSGRQQVJpS2ZqR3ZBLUFhTEhhNnVPUEp5QTlTY0dTTU1wUGlWc29uc1NLeDBS0gF6QVVfeXFMUG4zZG1qRkdIS3diX2R1Qkt2dTIxc2Y1R3E1MG4wSFBVcktzUmRfdXVVRmNTSm44ZjBIZ01fbWpCVF84LXpPd29RSjIzMmMxcVh0WlhUWld6N1RNRGEzTWtPcHhmWWczMEVNY2ktamdrdXd3QjYtZG5HLVE",
-    "badge": "brief",
-    "at": 1793452090.7977145,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
-    "event_key": "ukraine_missile_strike_russian_defense_plant_2026",
-    "topic": "우크라 넵튠 미사일 러 군수 공장 타격",
-    "slug": "2026-10-31-news-ukraine-missile-strike-russian-defense-plant-2026",
-    "cluster": "CBMi2gFBVV95cUxQLXFLa1pSNVlmMTFDRjR3MG5RaHpvNTVTN3Y2ZjkxTHFyRGZGN1FETFg5RTQweFFXVlJFT2ZHR0tsbk1zckl3QlBFZHBCMlV4eXV1dDY5VEI2czNnVzgtaU1NeWtqV1hQbkNKYzhDc2xJYkxtWE1TN0hVWVdDbkVnMWtPV0RGaUJ6TTduQ1VOV3lNLXlIQTdMSXhNcW16cVZ6ZVV4aDVnZmc1bUVGRm1OdndWRS1jZXUzUWx5cnB6UmRvMF9CUGZ6RVlNaE9kSGxsRC13SGlka0czQQ",
-    "badge": "breaking",
-    "at": 1793454459.4248958,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "iran_supreme_leader_warning_2026",
     "topic": "이란 최고지도자, 미국과 이스라엘 향해 최대 대응 경고",
     "slug": "2026-10-31-news-iran-supreme-leader-warning-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795245092.1549919,
     "country": "독일",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "iran_claims_downing_us_drone_hormuz_2026",
+    "topic": "이란 측, 호르무즈 해협서 미국 드론 격추 주장",
+    "slug": "2026-11-21-news-iran-claims-downing-us-drone-hormuz-2026",
+    "cluster": "CBMickFVX3lxTE1kcDFzSWtiVWp2TTlMT0U2YlA4SmN6b3h3Z1hmdndrQlRKc0ZSVUJCNXZFZUlKSWxydWZnb2RhQ3JSYWxzN2oxeWZvUUVLdFRlY2pVYUd3SFFDZG1TT3BwQnJBS0hKdzdSd0FYMEdIaV95QQ",
+    "badge": "breaking",
+    "at": 1795249112.2585785,
+    "country": "이란",
+    "category": "국제"
+  },
+  {
+    "event_key": "seosan_apartment_store_gas_explosion_2026",
+    "topic": "충남 서산 아파트 상가서 가스 폭발 화재",
+    "slug": "2026-11-21-news-seosan-apartment-store-gas-explosion-2026",
+    "cluster": "CBMid0FVX3lxTE9WYXVfRTE5UW9CUFZUSUMwNDl0ckFoamVqZGVCeG1fS1hmc3g5d3liWEg0MUJJS2t0MnBGaDZRRDdTVnBPR085czNrTnVqU1hEQ2dhMmk1VHMxLTNHVU5qSE5vZmJvQjFCdy1ZVGxnblBSOC1xZmNR0gF3QVVfeXFMTTJyZjZHaF82YkF4cXV2WlZGYy0yTVpvZF9UYjRjLUlMdTliLTcxSTFwUU9ObTBlZEFRcm9Ea01qNm50a1g3X1lBV2J2ek9XbEpTYlk3N3NiXzdKZUNwYnFlQWhOUDNPV0NGcFFiUTM1S2h1TE9DeGs",
+    "badge": "breaking",
+    "at": 1795249193.8587806,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]
