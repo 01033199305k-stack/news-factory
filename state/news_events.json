@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "poland_court_crisis_president_return",
-    "topic": "폴란드 사법부 통제 갈등 격화 대통령, 순방 중 회항",
-    "slug": "2026-10-31-news-poland-court-crisis-president-return",
-    "cluster": "CBMipAFBVV95cUxOR0J3dEdIZENudE1YUUk5YUFMRzFwQnFfWjZ2TkxyS2U2OXJJQnl3dEpiV2RmRXpjeEdrdUNvVkZjM01pQnRNSVJ5Tm9fTVFES0NKejRwUlNqelgydGhsQjNyQlRGOHJsTzBWYWFuRkFrZktvN0pVcGttYU8xcE5aeHZBZXdFcW5JeFdNWnFpMnAxd2VtUndEcnQxM2dGMU82QzdPMQ",
-    "badge": "brief",
-    "at": 1793408193.2003853,
-    "country": "폴란드",
-    "category": "국제"
-  },
-  {
     "event_key": "incheon_yeongheungdo_fishing_boat_fire_2026",
     "topic": "인천 해상 낚시어선 화재 22명 전원 구조",
     "slug": "2026-10-31-news-incheon-yeongheungdo-fishing-boat-fire-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795216169.5370216,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "gyeongbu_line_sojeongni_freight_train_derailment_2026",
+    "topic": "소정리역 화물열차 탈선 경부선 일반열차 중단",
+    "slug": "2026-11-21-news-gyeongbu-line-sojeongni-freight-train-derailment-2026",
+    "cluster": "CBMid0FVX3lxTFB3dnNBSXdJZzN3Z3c5Qlo1cUpYRGttN19CQmZIT1hfMm1wZnVPajFxWkZPWWI0cVgxdXlvNjZJY1lLaU01U0Z0eHM0WWxpNnRib1hRQjlkeGk2Sk5wM0U3NUZCbmxidWtKQmstUG1NZEowa1VTTzZr0gF3QVVfeXFMTXo0MWJfdWVuek0tTTFsR2pKdGpnOWozbFBLTXkzSDRXVURvRURsN3FmYW8yZUk0THY3d0NBdG52M3NNUE82NmtRSXBiZTQyYWpCS0lPZU4wUVJUNGtrbGliczFxZ042b1hMOWFqN1F2VXU3YnlhQ0E",
+    "badge": "breaking",
+    "at": 1795220461.2768295,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]

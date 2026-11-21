@@ -1,0 +1,154 @@
+{
+  "slug": "2026-11-21-news-gyeongbu-line-sojeongni-freight-train-derailment-2026",
+  "topic": "소정리역 화물열차 탈선 경부선 일반열차 중단",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 07:34 KST",
+  "source": "KBS 뉴스·MBC 뉴스·SBS 뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTFB3dnNBSXdJZzN3Z3c5Qlo1cUpYRGttN19CQmZIT1hfMm1wZnVPajFxWkZPWWI0cVgxdXlvNjZJY1lLaU01U0Z0eHM0WWxpNnRib1hRQjlkeGk2Sk5wM0U3NUZCbmxidWtKQmstUG1NZEowa1VTTzZr0gF3QVVfeXFMTXo0MWJfdWVuek0tTTFsR2pKdGpnOWozbFBLTXkzSDRXVURvRURsN3FmYW8yZUk0THY3d0NBdG52M3NNUE82NmtRSXBiZTQyYWpCS0lPZU4wUVJUNGtrbGliczFxZ042b1hMOWFqN1F2VXU3YnlhQ0E",
+    "related": [
+      [
+        "경부선 소정리역서 화물열차 탈선‥일반열차 운행 중단",
+        "MBC 뉴스"
+      ],
+      [
+        "[속보] 세종시 소정리역서 화물열차 탈선…경부선 대전-천안 일반열차 운행중지",
+        "KBS 뉴스"
+      ],
+      [
+        "경부선 소정리역 화물열차 탈선…\"일반 열차 운행 중지\"",
+        "SBS 뉴스"
+      ],
+      [
+        "[속보] 경부선 소정리역 화물열차 탈선 사고…경부선 운행 차질",
+        "경기일보"
+      ],
+      [
+        "경부선 세종 소정리역서 열차 탈선 운행 중단…코레일 초기대응팀 투입",
+        "뉴시스"
+      ]
+    ],
+    "event_key": "gyeongbu_line_sojeongni_freight_train_derailment_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "소정리역 [[화물열차 탈선]]\n경부선 일반열차 중단",
+      "sub": "세종시 소정리역 사고로 대전-천안 구간 일반열차 운행 중단",
+      "chips": [
+        {
+          "k": "열차 종류",
+          "v": "화물열차"
+        },
+        {
+          "k": "운행 통제",
+          "v": "일반열차 중지"
+        }
+      ],
+      "alt": "소정리역 화물열차 탈선 경부선 일반열차 중단",
+      "map": {
+        "lat": 36.7182213,
+        "lon": 127.1559592,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n세종",
+      "video_only": true,
+      "map": {
+        "lat": 36.7182213,
+        "lon": 127.1559592,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "세종"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "화물열차 탈선",
+          "d": "세종시 소정리역에서 화물열차가 탈선했습니다 (KBS·뉴시스)."
+        },
+        {
+          "t": "일반열차 운행 중단",
+          "d": "경부선 대전과 천안 사이 일반열차 운행이 중단됐습니다 (KBS)."
+        },
+        {
+          "t": "초기대응팀 투입",
+          "d": "코레일은 초기대응팀을 투입했습니다 (뉴시스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "세종 소정리역 화물열차 탈선",
+        "경부선 대전-천안 일반열차 운행 중단",
+        "코레일 초기대응팀 투입"
+      ],
+      "unconfirmed": [
+        "인명 피해 여부",
+        "정확한 탈선 원인",
+        "열차 운행 정상화 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "SBS 뉴스",
+        "경기일보",
+        "뉴시스",
+        "2026.11.21 09:20 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 경부선 소정리역서 화물열차 탈선… 대전-천안 일반열차 운행 중단\n\n· 세종시 소정리역에서 화물열차가 탈선했습니다 (KBS·뉴시스)\n· 경부선 대전-천안 구간의 일반열차 운행이 중단됐습니다 (KBS)\n· 코레일은 초기대응팀을 투입했습니다 (뉴시스)\n· 탈선 원인과 인명 피해 여부는 아직 확인되지 않았습니다\n\n출처: KBS·MBC·SBS·뉴시스·경기일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경부선 소정리역에서 화물열차가 탈선했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 세종시 소정리역에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "경부선 대전과 천안 구간 일반열차 운행이 중단됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "코레일은 초기대응팀을 투입했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 탈선 원인과 복구 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "소정리역 [[화물열차]]\n탈선 사고 발생",
+  "broll": [
+    "train railroad tracks",
+    "cargo train platform"
+  ],
+  "place_en": "Sojeong-ri Station, Sejong, South Korea"
+}

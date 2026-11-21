@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-11-21-news-gyeongbu-line-sojeongni-freight-train-derailment-2026",
+    "event_ms": 1795214078000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 경부선 소정리역서 화물열차 탈선… 대전-천안 일반열차 운행 중단\n\n· 세종시 소정리역에서 화물열차가 탈선했습니다 (KBS·뉴시스)\n· 경부선 대전-천안 구간의 일반열차 운행이 중단됐습니다 (KBS)\n· 코레일은 초기대응팀을 투입했습니다 (뉴시스)\n· 탈선 원인과 인명 피해 여부는 아직 확인되지 않았습니다\n\n출처: KBS·MBC·SBS·뉴시스·경기일보 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18645861745020179",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df-7rFHDvna",
+        "kind": "carousel",
+        "at": 1795220548
+      },
+      "instagram": {
+        "id": "18122465609088242",
+        "permalink": "https://www.instagram.com/reel/Df-8VlUGQCb/",
+        "kind": "reel",
+        "at": 1795220914
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1795220953
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
