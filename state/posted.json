@@ -46770,5 +46770,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795256179
+  },
+  {
+    "slug": "2026-11-21-news-iraq-basra-power-plant-explosion-2026",
+    "event_ms": 1795252386000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이라크 바스라 발전소에서 폭발과 화재가 발생했습니다\n\n· 부상자 30명 발생 (로이터·알자지라·샤파그 뉴스)\n· 사망자 수는 매체별 집계 차이 있음 (2명~8명)\n\n출처: 외신 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "이라크"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18101908292438327",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgAAc6oIGIb",
+        "kind": "carousel",
+        "at": 1795256603
+      },
+      "instagram": {
+        "id": "18203598847383840",
+        "permalink": "https://www.instagram.com/reel/DgAAphYkSAb/",
+        "kind": "reel",
+        "at": 1795256730
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1795256740
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6b017e98d864a011053b6998): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1795260168
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795260168
   }
 ]
