@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-21-news-un-autonomous-weapons-killer-robots-rules-2028",
+  "topic": "UN, AI 킬러로봇 규제 합의 2028년까지 규정 마련",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 19:34 KST",
+  "source": "Al Jazeera·The Guardian·Computer Weekly 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisAFBVV95cUxOdHkxWkFJUEcwN0tRWHJ2YzRESThuZG5QeWx6WmxsTG8xZU1UWGoyU09xTWFKOEMtemJUZVUwbF9vQW84VTR6eDRhQ1o3Q3g3ZXVXakRPVEtEQzdLVHQ0RDlKRzhNdERneEoybEh3VDBBZGJHVUtZY2hGbktrRjhPenJuYnAwRC1Ea054bVFRdS1Tb0pnaUpFWnUySm5GMXBJQmVKdUtZelJtWFZuUTVOVNIBtgFBVV95cUxQQzJ0OE0tX0tDVVlSVjdCRmF6S0tEVXdmLVN2QTdFVGJiOGsza29SUGlUaHNrTGYyUGZqdlBSaDhBMUJTR1ZaZjFHVlhqRFdOZGEwMW5MUVBsZTdHNkV1ZmpNdXBiRi1CVHhFX0VMbS1OYWcxRmctN2NDUkZHS2ZxTWpWZG55VzlKQzloUEZnQ0tFWk1GWUlXdy1nQVNPZjFjVFpvb0c1bHM4SlA5S29QbEt2dXFvQQ",
+    "related": [
+      [
+        "Nations agree to ‘elaborate’ on rules for AI-run ‘killer robots’ by 2028",
+        "Al Jazeera"
+      ],
+      [
+        "Automated warfare is already here. Now governments must restrain it | Helen Clark",
+        "The Guardian"
+      ],
+      [
+        "Countries open path towards ‘killer robots’ pact",
+        "The Japan Times"
+      ],
+      [
+        "UN agrees to develop autonomous weapons instrument by 2028",
+        "Digital Watch Observatory"
+      ],
+      [
+        "States meet to discuss binding rules for autonomous weapons",
+        "Computer Weekly"
+      ]
+    ],
+    "event_key": "un_autonomous_weapons_killer_robots_rules_2028"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "UN, AI 킬러로봇 규제 합의\n2028년까지 [[규정]] 마련",
+      "sub": "AI 킬러로봇 통제 협약 추진",
+      "chips": [
+        {
+          "k": "목표",
+          "v": "2028년"
+        }
+      ],
+      "alt": "UN, AI 킬러로봇 규제 합의 2028년까지 규정 마련",
+      "map": {
+        "lat": 46.2017559,
+        "lon": 6.1466014,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "스위스"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스위스\n제네바",
+      "video_only": true,
+      "map": {
+        "lat": 46.2017559,
+        "lon": 6.1466014,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "제네바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "규정 제정",
+          "d": "각국이 AI 킬러로봇에 대한 규칙을 구체화하기로 합의했습니다 (알자지라·컴퓨터 위클리)."
+        },
+        {
+          "t": "자동화 전쟁",
+          "d": "자동화된 전쟁이 이미 도래했으며 정부가 이를 통제해야 한다는 지적이 나왔습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "2028년까지 킬러로봇 규정 마련 합의",
+        "국가들 간의 논의 및 협약 경로 진입"
+      ],
+      "unconfirmed": [
+        "구체적인 구속력과 제재 수단"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Computer Weekly",
+        "Digital Watch Observatory",
+        "The Guardian",
+        "The Japan Times",
+        "2026.11.21 21:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] UN, AI 킬러로봇 규제 합의…2028년까지 규칙 마련 (알자지라·가디언)\n\n· 각국이 AI 킬러로봇을 규제하기 위한 규칙 제정에 합의했습니다 (알자지라)\n· 킬러로봇 협약에 대한 경로가 열렸습니다 (재팬 타임스)\n\n여러분은 AI 무기 규제 논의가 실효성이 있을 것으로 보십니까?\n출처: 알자지라·가디언·재팬 타임스·컴퓨터 위클리 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "국가들이 AI 킬러로봇 규제에 합의했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라는 각국이 2028년까지 AI 킬러로봇 규칙을 구체화하기로 했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "자동화된 전쟁이 이미 와 있으며 정부의 통제가 필요하다는 목소리가 나왔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 세부 내용은 아직 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 AI 무기 규제 논의, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "규제 논의"
+    }
+  ],
+  "hook": "UN이 AI [[킬러로봇]] 규제를\n위해 합의한 내용은?",
+  "broll": [
+    "computer code screen",
+    "artificial intelligence server"
+  ],
+  "place_en": "Geneva, Switzerland"
+}

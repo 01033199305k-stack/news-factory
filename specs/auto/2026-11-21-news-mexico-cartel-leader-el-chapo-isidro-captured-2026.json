@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-21-news-mexico-cartel-leader-el-chapo-isidro-captured-2026",
+  "topic": "멕시코 군부 작전 중 마약왕 이시드로 체포",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 20:13 KST",
+  "source": "CNN·Hindustan Times·NDTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi3gFBVV95cUxQVVlDcC02RDVrSkdPRlpYSGVhamdiSFBKRjdmNm5JTHVUcWJXaVBCaWp4amlxc0lsRWE4MVBZb2Z1MmY5a0FKX2cxNDljMFhqVUdqVTg2ZElhLXY4OWxPTDI4bmFxY0dpMFRBc1Vyd25lVEZLS0lMQllidDlWUkt6TURMYkV2Q2FGc25uMHoxb1ZHU0Qwc29VTUw2UzY2MHUxZ0pnUFNFaXk1ZVhIU3p6d2d2OVR3ZDZoOGViN0JtT2x1Z2lxdzFlX0hQWEpyS3o0NkZpZ0dSenYwMGx5SHc",
+    "related": [
+      [
+        "Video: Black Hawk Choppers Rain Fire In Dramatic Capture Of Mexican Drug Lord",
+        "NDTV"
+      ],
+      [
+        "Fausto Isidro Meza Flores: Cartel kingpin on FBI’s most wanted list captured in dramatic Mexican military operation",
+        "CNN"
+      ],
+      [
+        "Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts",
+        "The New York Times"
+      ],
+      [
+        "FBI most-wanted cartel boss El Chapo Isidro captured after gunfire at stadium; video shows fans panicking",
+        "The Times of India"
+      ],
+      [
+        "Cars set ablaze, gunfire heard, baseball match cancelled as cartel and forces clash in Mexico | Video | World News",
+        "Hindustan Times"
+      ]
+    ],
+    "event_key": "mexico_cartel_leader_el_chapo_isidro_captured_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "멕시코 군부 작전 중\n마약왕 [[이시드로]] 체포",
+      "sub": "FBI 수배 중이던 카르텔 보스 생포",
+      "chips": [
+        {
+          "k": "체포",
+          "v": "마약왕"
+        }
+      ],
+      "alt": "멕시코 군부 작전 중 마약왕 이시드로 체포",
+      "map": {
+        "lat": 23.6585116,
+        "lon": -102.0077097,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "멕시코"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "멕시코",
+      "video_only": true,
+      "map": {
+        "lat": 23.6585116,
+        "lon": -102.0077097,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "멕시코"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "체포 작전",
+          "d": "군부 작전 과정에서 총격전이 벌어지고 차량이 불에 탔습니다 (힌두스탄 타임스)."
+        },
+        {
+          "t": "야구 경기",
+          "d": "총격과 혼란 속에 인근 야구 경기가 취소되었습니다 (힌두스탄 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "마약왕 파우스토 이시드로 메사 플로레스 생포",
+        "멕시코 군부 작전",
+        "FBI 수배자"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "총격전 사상자 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Hindustan Times",
+        "NDTV",
+        "The New York Times",
+        "The Times of India",
+        "2026.11.21 21:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 멕시코 군부 작전 중 마약왕 이시드로 체포 (뉴욕타임스·CNN)\n\n· FBI 수배 중이던 카르텔 보스가 군부 작전으로 생포됐습니다 (CNN)\n· 체포 작전 과정에서 총격전이 벌어지고 인근 야구 경기가 취소됐습니다 (힌두스탄 타임스)\n\n출처: 뉴욕타임스·CNN·힌두스탄 타임스·타임스 오브 인디아·NDTV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "멕시코 군부 작전 중 FBI 수배 중이던 마약왕이 체포됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CNN은 파우스토 이시드로 메사 플로레스가 생포됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "작전 과정에서 총격전이 벌어지고 야구 경기가 취소됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "멕시코 군부 작전에서\n[[마약왕]]이 체포된 이유는?",
+  "broll": [
+    "military helicopter night",
+    "police cars street"
+  ],
+  "place_en": "Mexico"
+}

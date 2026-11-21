@@ -46823,5 +46823,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795260168
+  },
+  {
+    "slug": "2026-11-21-news-un-autonomous-weapons-killer-robots-rules-2028",
+    "event_ms": 1795257280000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] UN, AI 킬러로봇 규제 합의…2028년까지 규칙 마련 (알자지라·가디언)\n\n· 각국이 AI 킬러로봇을 규제하기 위한 규칙 제정에 합의했습니다 (알자지라)\n· 킬러로봇 협약에 대한 경로가 열렸습니다 (재팬 타임스)\n\n여러분은 AI 무기 규제 논의가 실효성이 있을 것으로 보십니까?\n출처: 알자지라·가디언·재팬 타임스·컴퓨터 위클리 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "스위스"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18108825326531269",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgAM6ZRIDjM",
+        "kind": "carousel",
+        "at": 1795263139
+      },
+      "instagram": {
+        "id": "18137899567639509",
+        "permalink": "https://www.instagram.com/reel/DgANbQ5lFly/",
+        "kind": "reel",
+        "at": 1795263427
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1795263437
+      },
+      "tiktok": {
+        "id": "7710598753987677441",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710598753987677441",
+        "kind": "video",
+        "at": 1795263786
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795263796
   }
 ]
