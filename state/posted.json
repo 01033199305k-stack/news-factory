@@ -46498,5 +46498,111 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795234572
+  },
+  {
+    "slug": "2026-11-21-news-palisades-fire-guilty-verdict",
+    "event_ms": 1795235640000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 캘리포니아 대형 산불 방화범 법원서 유죄 선고\n\n· 배심원단이 방화 혐의에 대해 유죄 평결을 내렸다고 가디언 등이 보도했습니다.\n\n출처: BBC·뉴욕타임스·가디언·LA타임스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18250277407310548",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df_qljeEcBJ",
+        "kind": "carousel",
+        "at": 1795245143
+      },
+      "instagram": {
+        "id": "18289514362294549",
+        "permalink": "https://www.instagram.com/reel/Df_q-uIFMCB/",
+        "kind": "reel",
+        "at": 1795245363
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1795245416
+      },
+      "tiktok": {
+        "id": "7710520355210824980",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710520355210824980",
+        "kind": "video",
+        "at": 1795245537
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795245547
+  },
+  {
+    "slug": "2026-11-21-news-harry-kane-ankle-injury",
+    "event_ms": 1795237020000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 잉글랜드 축구대표팀 해리 케인 발목 부상으로 결장\n\n· 발목 인대 파열 부상을 당했다고 BBC 등이 보도했습니다.\n· 소속팀 바이에른 뮌헨과 대표팀 경기 출전이 불투명합니다.\n\n출처: CNN·ESPN·BBC·스카이뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "독일"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17947059396363082",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/Df_qp-fERQY",
+        "kind": "carousel",
+        "at": 1795245179
+      },
+      "instagram": {
+        "id": "17916709434288843",
+        "permalink": "https://www.instagram.com/reel/Df_rDdnDKja/",
+        "kind": "reel",
+        "at": 1795245406
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1795245416
+      },
+      "tiktok": {
+        "id": "7710520934133779732",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710520934133779732",
+        "kind": "video",
+        "at": 1795245669
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795245679
   }
 ]

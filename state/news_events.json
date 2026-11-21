@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "us_sk_japan_north_korea_denuclearization_statement_2026",
-    "topic": "한미일 비핵화 재확인 북한은 반발",
-    "slug": "2026-10-31-news-us-sk-japan-north-korea-denuclearization-statement-2026",
-    "cluster": "CBMisgFBVV95cUxQNk54ZVpjVUFheEdZN0lNakY0NVh4TjZqMGpIcFIybzJrcVlrNV9oV2dIUGxGcTE0VzB3ODhVaHYyenVqUU12MEZUR3RKQld4VTdxRndlVGxUcWRWZWFQcUotZFIwT3JGa3RycUZfZkJ6UWNfNG15cDQ5WEJyRTVENmNaczJIVkIzT0FVN2xTV1NhMDJPbWF6dzlqdndoSWVzNGxfSlN4OUstajlkemZvaHln0gG3AUFVX3lxTE9HNUdMQnljdnpJT1hQNjZ3Y29NQnU4SElnQjdMLXFaQkFySlpvd2dnMGE2RkVqc3hoYTBmLV9KX2dldW9MRlpsRFRGRFV1U092eXRJZHU3cWk5WnJWNGt3eDVINzU3RDh5V2VSdk1hZDhIVTBBaFNpdWthcDhaLTdZdTUxOVIyYkNlR2wwTkc3c0pzSVlqekRqcmhjOEVuUElubVlvdXZMTy1QbGRfakVtT1hRNUtNWQ",
-    "badge": "brief",
-    "at": 1793437852.3210971,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
-    "event_key": "fairfield_mall_shooting_2026",
-    "topic": "미국 캘리포니아 쇼핑몰 총기 난동 사망 1명·부상 6명 발생",
-    "slug": "2026-10-31-news-fairfield-mall-shooting-2026",
-    "cluster": "CBMimgFBVV95cUxOV3djbHFvT0xOQ1ptZWdqdzlDZS1uSjVTY3RpTnhIOXlFdll5WFkzQUllQ1RfS29qc2NYdVZWYWNHdEtSRHdlenBCay0zczhfOEFKeEVrS29TRGdOR2NWbEFFNDFPS3V1YVJEVUNPaHZMdVV1ak5WTXF2dGhmR2NtZzl6U1RXTDhmVGowQzE4MW9XTGFvbWw3Vl9n",
-    "badge": "breaking",
-    "at": 1793441490.318667,
-    "country": "미국",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "iran_us_qatar_talks_2026",
     "topic": "카타르 중재로 테헤란서 회담 미·이란 협상 재개 추진",
     "slug": "2026-10-31-news-iran-us-qatar-talks-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795234217.3575807,
     "country": "영국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "palisades_fire_guilty_verdict",
+    "topic": "미 캘리포니아 대형 산불 방화범 법원서 유죄 선고",
+    "slug": "2026-11-21-news-palisades-fire-guilty-verdict",
+    "cluster": "CBMiW0FVX3lxTE8tZ3pYbkYxT1JZNVVQa3dOV3VZbTF0Nl9NaVJaTUJrY05RaFdIYmRpZ1pNMk5ZQTFuMU5wdEVSVTFzSS1qVHpSVmNfdmU2OHRCVjJCX0JYZ0dIODA",
+    "badge": "breaking",
+    "at": 1795245080.312379,
+    "country": "미국",
+    "category": "사고"
+  },
+  {
+    "event_key": "harry_kane_ankle_injury",
+    "topic": "잉글랜드 축구대표팀 해리 케인 발목 부상으로 결장",
+    "slug": "2026-11-21-news-harry-kane-ankle-injury",
+    "cluster": "CBMibEFVX3lxTFBrc1Vwb0RJazI1RHptem5lSU01S0I3LUNPWVlZVXlVbUhHanM5NmJPOWIyZnhOX1R3LXNBbTVNMURMUjVzcGhBZTVJRGtUUTRJZDd6Yi1ubWZTa3Zoc3dMRVNjM2JRR3AxSF9EUQ",
+    "badge": "breaking",
+    "at": 1795245092.1549919,
+    "country": "독일",
+    "category": "기타 사건"
   }
 ]

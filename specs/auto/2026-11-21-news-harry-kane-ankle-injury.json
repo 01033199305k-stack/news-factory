@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-21-news-harry-kane-ankle-injury",
+  "topic": "잉글랜드 축구대표팀 해리 케인 발목 부상으로 결장",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 13:57 KST",
+  "source": "BBC·CNN·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMibEFVX3lxTFBrc1Vwb0RJazI1RHptem5lSU01S0I3LUNPWVlZVXlVbUhHanM5NmJPOWIyZnhOX1R3LXNBbTVNMURMUjVzcGhBZTVJRGtUUTRJZDd6Yi1ubWZTa3Zoc3dMRVNjM2JRR3AxSF9EUQ",
+    "related": [
+      [
+        "England captain Harry Kane is expected to miss ‘a few months’ with ankle injury",
+        "CNN"
+      ],
+      [
+        "Ballon d'Or winner Harry Kane out a 'few months' after ankle injury",
+        "ESPN"
+      ],
+      [
+        "Harry Kane: England and Bayern Munich striker out for 'few months' with ankle ligament tear",
+        "BBC"
+      ],
+      [
+        "Match report: Bundesliga, FC Bayern v 1. FC Köln",
+        "FC Bayern"
+      ],
+      [
+        "England captain Harry Kane expected to be out for 'next few months' with ankle injury",
+        "Sky News"
+      ]
+    ],
+    "event_key": "harry_kane_ankle_injury"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "잉글랜드 축구대표팀 해리 케인\n발목 부상으로 [[결장]]",
+      "sub": "수개월 동안 경기에 나서지 못할 것으로 예상",
+      "chips": [
+        {
+          "k": "기간",
+          "v": "수개월"
+        }
+      ],
+      "alt": "잉글랜드 축구대표팀 해리 케인 발목 부상으로 결장",
+      "map": {
+        "lat": 48.1371079,
+        "lon": 11.5753822,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "독일"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "독일\n뮌헨",
+      "video_only": true,
+      "map": {
+        "lat": 48.1371079,
+        "lon": 11.5753822,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뮌헨"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "부상 부위",
+          "d": "발목 인대 파열 부상을 당했다고 BBC 등이 보도했습니다."
+        },
+        {
+          "t": "출전 영향",
+          "d": "소속팀 바이에른 뮌헨과 대표팀 경기 출전이 불투명합니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "발목 인대 파열 (BBC)",
+        "결장 기간 수개월 (CNN·ESPN·BBC·스카이뉴스)"
+      ],
+      "unconfirmed": [
+        "정확한 복귀 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "ESPN",
+        "FC Bayern",
+        "Sky News",
+        "2026.11.21 16:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 잉글랜드 축구대표팀 해리 케인 발목 부상으로 결장\n\n· 발목 인대 파열 부상을 당했다고 BBC 등이 보도했습니다.\n· 소속팀 바이에른 뮌헨과 대표팀 경기 출전이 불투명합니다.\n\n출처: CNN·ESPN·BBC·스카이뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "잉글랜드 축구대표팀 주장 해리 케인이 발목 부상으로 경기에 나설 수 없게 됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 발목 인대 파열로 수개월 동안 결장할 것으로 예상된다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 복귀 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "해리 케인\n발목 부상으로 [[결장]]?",
+  "broll": [
+    "soccer stadium empty",
+    "football cleats grass"
+  ],
+  "place_en": "Munich, Germany"
+}
