@@ -1,0 +1,137 @@
+{
+  "slug": "2026-11-21-news-iraq-basra-power-plant-explosion-2026",
+  "topic": "이라크 바스라 발전소에서 폭발·화재 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 18:13 KST",
+  "source": "Al Jazeera·Reuters·Yemen Online 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMirgFBVV95cUxNS09WSFZPbGR3SkNhZzFFMUFEU0o5QmVkRFVEdWJUOXNaMDBDLWV3a0Fhb1E4WjNXQlU4WUtrMDc3S29NQkMzazA0MlV0Y0hPV2tjWmhPQmZpMG1nLWFvR055Yl94QTZfd1VmZjZTYUJxbzZhNjU0MU0wNUFva1BveW9uSm5sOVVsX2VPZXhtRjZGc1ZHSG54eDFjRXgxWE04T2wybGZfc0Juc1ZpRkE",
+    "related": [
+      [
+        "Iraq fire at Basra power station kills at least four, injures 30",
+        "Reuters"
+      ],
+      [
+        "At least two killed, 28 injured in fire at power station in Iraq’s Basra",
+        "Al Jazeera"
+      ],
+      [
+        "Al-Zaidi orders urgent measures following explosion at Al-Hartha Power Plant in Basra » Iraqi News Agency",
+        "وكالة الانباء العراقية (واع)"
+      ],
+      [
+        "Basra – Explosion at Al-Haritha Power Plant; Reports of Damage , Casualties",
+        "Yemen Online"
+      ],
+      [
+        "Shafaq News..8 dead, 30+ injured in Basra gas pipeline blast",
+        "شفق نيوز"
+      ]
+    ],
+    "event_key": "iraq_basra_power_plant_explosion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이라크 바스라 발전소에서\n[[폭발·화재]] 발생",
+      "sub": "최소 2명에서 8명 사망, 30명 안팎 부상",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "30명"
+        }
+      ],
+      "alt": "이라크 바스라 발전소에서 폭발·화재 발생",
+      "map": {
+        "lat": 30.4952371,
+        "lon": 47.8090981,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이라크"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이라크\n바스라",
+      "video_only": true,
+      "map": {
+        "lat": 30.4952371,
+        "lon": 47.8090981,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바스라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "발전소",
+          "d": "이라크 바스라의 발전소에서 폭발과 화재가 일어났다고 외신들이 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "부상 30명 (로이터·알자지라·샤파그 뉴스)",
+        "바스라 발전소 사고"
+      ],
+      "unconfirmed": [
+        "사망자 수 매체별 집계 차이 있음 (2명~8명)",
+        "정확한 폭발 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "Yemen Online",
+        "شفق نيوز",
+        "وكالة الانباء العراقية (واع)",
+        "2026.11.21 19:22 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이라크 바스라 발전소에서 폭발과 화재가 발생했습니다\n\n· 부상자 30명 발생 (로이터·알자지라·샤파그 뉴스)\n· 사망자 수는 매체별 집계 차이 있음 (2명~8명)\n\n출처: 외신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이라크 바스라의 발전소에서 폭발과 화재가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신 등은 이번 사고로 30명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사망자는 2명에서 8명까지 매체별 집계 차이가 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 폭발 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이라크 [[발전소]]에서\n무슨 일이?",
+  "broll": [
+    "power plant industrial fire",
+    "smoke factory industrial"
+  ],
+  "place_en": "Basra, Iraq"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "iran_supreme_leader_warning_2026",
-    "topic": "이란 최고지도자, 미국과 이스라엘 향해 최대 대응 경고",
-    "slug": "2026-10-31-news-iran-supreme-leader-warning-2026",
-    "cluster": "CBMikAFBVV95cUxQOU84MUlJV2w4ZEtpaS1ndkJieWpObTZJUzloRl8yUV9DSE54RFkyTklLUm1RSzVwUVNzMWQtNWRMc0RpLTZJQVRieS1qbVNLRGpRbnpYa3NxLUczeDdYdzBQUEtJTVg0NUlEbHZOaGJfQ2plTHFvTmZ0d2ZkMFo2aXNGWXY4SzNVRncxYUMwWVk",
-    "badge": "brief",
-    "at": 1793463069.7126434,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "dr_congo_ebola_outbreak_surpasses_5000_deaths_2026",
     "topic": "콩고 에볼라 확산 사망자 5,000명 넘어",
     "slug": "2026-10-31-news-dr-congo-ebola-outbreak-surpasses-5000-deaths-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795249193.8587806,
     "country": "대한민국",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "iraq_basra_power_plant_explosion_2026",
+    "topic": "이라크 바스라 발전소에서 폭발·화재 발생",
+    "slug": "2026-11-21-news-iraq-basra-power-plant-explosion-2026",
+    "cluster": "CBMirgFBVV95cUxNS09WSFZPbGR3SkNhZzFFMUFEU0o5QmVkRFVEdWJUOXNaMDBDLWV3a0Fhb1E4WjNXQlU4WUtrMDc3S29NQkMzazA0MlV0Y0hPV2tjWmhPQmZpMG1nLWFvR055Yl94QTZfd1VmZjZTYUJxbzZhNjU0MU0wNUFva1BveW9uSm5sOVVsX2VPZXhtRjZGc1ZHSG54eDFjRXgxWE04T2wybGZfc0Juc1ZpRkE",
+    "badge": "breaking",
+    "at": 1795256558.245048,
+    "country": "이라크",
     "category": "폭발·화재"
   }
 ]
