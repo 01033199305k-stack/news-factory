@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-22-news-iran-strikes-bahrain-industrial-facility-2026",
+  "topic": "이란, 바레인 공습 산업 시설 피격돼 불",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 04:41 KST",
+  "source": "Al Jazeera·Reuters·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp",
+    "related": [
+      [
+        "Bahrain says Iranian attack hits industrial facility, causes fire",
+        "Reuters"
+      ],
+      [
+        "Iran war live: Fire in Bahrain as IRGC attacks two military bases",
+        "Al Jazeera"
+      ],
+      [
+        "Iran denies reports of US-Israeli missile strike on Qeshm Island",
+        "Anadolu Ajansı"
+      ],
+      [
+        "Opinion | Shock and Dread in the Gulf",
+        "The New York Times"
+      ],
+      [
+        "Iran strikes U.S. air base in Kuwait, targets Bahrain amid wider Gulf attacks",
+        "The Hindu"
+      ]
+    ],
+    "event_key": "iran_strikes_bahrain_industrial_facility_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이란, 바레인 공습\n[[산업 시설]] 피격돼 불",
+      "sub": "바레인 정부 확인… 군 기지 피격 보도도 잇따라",
+      "chips": [],
+      "alt": "이란, 바레인 공습 산업 시설 피격돼 불",
+      "map": {
+        "lat": 26.1551249,
+        "lon": 50.5344606,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "바레인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "바레인",
+      "video_only": true,
+      "map": {
+        "lat": 26.1551249,
+        "lon": 50.5344606,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "바레인"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "산업 시설 화재",
+          "d": "바레인 정부는 이란의 공격으로 산업 시설이 피격돼 화재가 발생했다고 밝혔습니다 (로이터)."
+        },
+        {
+          "t": "군 기지 피격 보도",
+          "d": "알자지라는 이란 혁명수비대가 군사 기지 두 곳을 공격했다고 전했습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "바레인 산업 시설 피격 및 화재"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Anadolu Ajansı",
+        "Reuters",
+        "The Hindu",
+        "The New York Times",
+        "2026.11.22 06:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 바레인 산업 시설이 이란의 공격을 받아 불이 났습니다.\n\n· 바레인 정부는 이란의 공격으로 산업 시설이 피격돼 화재가 발생했다고 밝혔습니다 (로이터)\n· 알자지라는 이란 혁명수비대가 군사 기지 두 곳을 공격했다고 전했습니다 (알자지라)\n· 더 힌두는 쿠웨이트 내 미 공군기지도 공격받았다고 보도했습니다 (더 힌두)\n\n중동 전역으로 확산하는 이번 사태를 어떻게 보십니까?\n출처: 로이터·알자지라·더 힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "바레인 산업 시설이 이란의 공격을 받아 불이 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터는 바레인 정부가 이란의 공습으로 화재가 났음을 확인했다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라는 이란 측이 군사 기지 두 곳도 공격했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 인명 피해와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "중동 전역으로 번지는 이번 충돌, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[바레인]] 시설에\n이란 공습 발생",
+  "broll": [
+    "industrial refinery smoke",
+    "air base night"
+  ],
+  "place_en": "Bahrain"
+}

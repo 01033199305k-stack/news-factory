@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bolivia_state_of_emergency_el_nino_2026",
-    "topic": "볼리비아 전국에 국가 비상사태 선포",
-    "slug": "2026-11-01-news-bolivia-state-of-emergency-el-nino-2026",
-    "cluster": "CBMiqAFBVV95cUxNQjhNQVZoVXhtYXI4RGx2Q1NfcFRvMnFrSzRqV3lqOTFVcU85YUgyQmw3QWZJWHVLcmFTcmpRX01DcmxxOVBNc1ROSDlFZUJEUXBMY00wT0RCamdTMW5aYVJPNkljMlZmUC0wTWhhWXRja0ZJVkRJZWZsazJIbjExS1BoaURjVXQxR3ZpcHlqN1FoN2l6OTBpMkNZSUhZZ1J6VDZNQUV1OEzSAa4BQVVfeXFMTmp6MnhUenBXRmR4X1ZoaGh0S2REMk9oZDh5eTdQdVJmeGZ4N1l1ZkR3RVVkS2tsMkp1dmFPdGc1NGE1NHJtN2xZZTVOdjNENnRxTnFiRFdidDRHRXd4QmxmYkNIYXE3Slh3VGNNNTFKbHcxLVZpSXRPWnpWMUNLbV9kNGJTVlhpMmxrVzFoU2I0Q1RjMHdjZWo3TFF2b2ZrY2E1WXctRGk1RnEtbGx3",
-    "badge": "breaking",
-    "at": 1793517232.348214,
-    "country": "볼리비아",
-    "category": "재난"
-  },
-  {
     "event_key": "bangladesh_garment_workers_protest_wage_board_2026",
     "topic": "방글라데시 임금위 구성 의류 시위 격화",
     "slug": "2026-11-01-news-bangladesh-garment-workers-protest-wage-board-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795288402.1464574,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "iran_strikes_bahrain_industrial_facility_2026",
+    "topic": "이란, 바레인 공습 산업 시설 피격돼 불",
+    "slug": "2026-11-22-news-iran-strikes-bahrain-industrial-facility-2026",
+    "cluster": "CBMiuAFBVV95cUxOTzltZHhpNzJyRTg4dE5kYUJSOUJ4azFWY2txckEtQUlGQVVfTEtIUUpWN3dHZWlocXlZWGFidVRIMjN3ZDM4d2xQWVZ0UFAxRm81TGFfbFNZRzMxTXJOemdzOHRNeWJOLXhEWF83a3N0a1hiR0FjbUE1eGZVX002eVpMNHJyX2JoVXp5bFdjcDJBYkhOWFE4a1AzN0hSRE1wTDFmNGxvaFR6TkR6bkd4a3FSSUU1anZp",
+    "badge": "breaking",
+    "at": 1795295414.9659863,
+    "country": "바레인",
+    "category": "국제"
   }
 ]
