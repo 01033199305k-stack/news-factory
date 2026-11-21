@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-21-news-pancreatic-cancer-new-drug-trial-2026",
+  "topic": "췌장암 신약 임상서 90% 환자 종양 축소",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.21 10:07 KST",
+  "source": "BBC·Financial Times·Fox News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxQQXhQdjVhSTVORkh4NktYeGFVeENIYzJTdWVud3hPTlJEU0xyTGJ6ZlZBTE9qUzdDWTB1ZHh6NzdSMWNkNWtxWkVENnZESmR0NFNGM3VQZ3R3eHNsTUJQUXRHcEVLODFzY0xpQkFHc0d6ZGNDaUVNelZjNWVaX0NSUUhjWTFXeFN0Wk1SR29YNXkyTW14WWFxZXBWd3BLQdIBowFBVV95cUxOTVhkZzNIekJWS2lLX0UzUnM4LV9fY29XUlZiMXZyQ2E3eTRnYTlmQVJ2aXZiSjNsd2lGUE1zTFBla2dpdVlTMnA1Q1pqQWRNcGdKUFpLWnlDc0huSC0waVpyY2N3dTFKZnhmT2dzOTNlN3doN05JVk42R1BNeWMyWVJWejN6OENnZlNmaXFaLWllSGRPUUdDRFlYazQ4cWZKbGZv",
+    "related": [
+      [
+        "New drug combo shrinks tumors in most patients facing aggressive cancer type",
+        "Fox News"
+      ],
+      [
+        "Pill to treat pancreatic cancer hailed as ‘biggest breakthrough in decades’ | Pancreas cancer",
+        "The Guardian"
+      ],
+      [
+        "Experts Hail New Cancer Drug as Tumors Become Undetectable in 90% of Patients",
+        "People.com"
+      ],
+      [
+        "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+        "BBC"
+      ],
+      [
+        "New pancreatic cancer drug halts tumour growth in 90% of patients",
+        "Financial Times"
+      ]
+    ],
+    "event_key": "pancreatic_cancer_new_drug_trial_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "췌장암 신약 임상서\n[[90%]] 환자 종양 축소",
+      "sub": "알약 형태 치료제로 수십 년 만의 주요 성과로 평가받았습니다.",
+      "chips": [
+        {
+          "k": "종양 축소율",
+          "v": "90%"
+        }
+      ],
+      "alt": "췌장암 신약 임상서 90% 환자 종양 축소",
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n런던",
+      "video_only": true,
+      "map": {
+        "lat": 51.5074456,
+        "lon": -0.1277653,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "런던"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "종양 완전 소멸 사례",
+          "d": "일부 임상 참여 환자에게서는 종양이 완전히 사라지기도 했습니다 (BBC)."
+        },
+        {
+          "t": "수십 년 만의 돌파구",
+          "d": "전문가들은 이번 치료제를 췌장암 분야의 수십 년 만에 나온 가장 큰 돌파구로 평가했습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "췌장암 신약 임상시험 결과 발표",
+        "환자 90% 종양 축소 또는 소멸"
+      ],
+      "unconfirmed": [
+        "상용화 및 최종 승인 시점",
+        "한국인 대상 추가 임상 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Financial Times",
+        "Fox News",
+        "People.com",
+        "The Guardian",
+        "2026.11.21 13:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 환자 90%에서 종양이 축소된 췌장암 신약 임상 결과가 발표됐습니다.\n\n· 먹는 알약 형태의 치료제로 임상시험이 진행됐습니다 (BBC).\n· 일부 환자에게서는 종양이 완전히 감지되지 않는 성과를 보였습니다 (피플).\n· 전문가들은 췌장암 치료의 수십 년 만의 큰 돌파구라고 평가했습니다 (가디언).\n\n이번 신약 임상 결과가 췌장암 치료에 어떤 변화를 가져올 것으로 기대하십니까?\n\n출처: 파이낸셜타임스·BBC·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "췌장암 신약 임상에서 환자 90%의 종양이 축소됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 알약 치료제를 투여받은 환자들의 종양이 획기적으로 줄었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "일부 환자에게서는 종양이 완전히 사라지기도 했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "상용화까지 필요한 추가 임상 절차는 아직 남아있습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 신약 소식, 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[췌장암]] 치료에\n새 기적 나타날까",
+  "broll": [
+    "laboratory scientist microscope",
+    "medicine pill bottle"
+  ],
+  "place_en": "London, United Kingdom"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "g20_family_photo_cancelled_russia_2026",
-    "topic": "러시아 장관 참석 반발로 G20 단체 사진 촬영 취소",
-    "slug": "2026-10-31-news-g20-family-photo-cancelled-russia-2026",
-    "cluster": "CBMizAFBVV95cUxQaENwN21qQkg0bzFXbGU4UXdDSi1pWXJMRjFfWFVoS1REb3BGUWFvMndKb2Y5M1FPbzM4d2M2NmloWVE1UjREOXc0aGFKYS1wa21DVDg1Q0I4NkpYc3NlNzU4elc5cFZmQnFQNi12VlNZMVU4TDFYX1dHREttTlBzb0tNaDhDS1Z0R2d1emw2NGU0QVpmaFJTOFBrZS00bTlwaEtQbjI5bTRUQlJ3aHFud0dxalhYanllYldueDJDZDNNa0YwSUU0QlQxX3A",
-    "badge": "brief",
-    "at": 1793427024.4042618,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "us_sk_japan_north_korea_denuclearization_statement_2026",
     "topic": "한미일 비핵화 재확인 북한은 반발",
     "slug": "2026-10-31-news-us-sk-japan-north-korea-denuclearization-statement-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795228712.4227457,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "pancreatic_cancer_new_drug_trial_2026",
+    "topic": "췌장암 신약 임상서 90% 환자 종양 축소",
+    "slug": "2026-11-21-news-pancreatic-cancer-new-drug-trial-2026",
+    "cluster": "CBMingFBVV95cUxQQXhQdjVhSTVORkh4NktYeGFVeENIYzJTdWVud3hPTlJEU0xyTGJ6ZlZBTE9qUzdDWTB1ZHh6NzdSMWNkNWtxWkVENnZESmR0NFNGM3VQZ3R3eHNsTUJQUXRHcEVLODFzY0xpQkFHc0d6ZGNDaUVNelZjNWVaX0NSUUhjWTFXeFN0Wk1SR29YNXkyTW14WWFxZXBWd3BLQdIBowFBVV95cUxOTVhkZzNIekJWS2lLX0UzUnM4LV9fY29XUlZiMXZyQ2E3eTRnYTlmQVJ2aXZiSjNsd2lGUE1zTFBla2dpdVlTMnA1Q1pqQWRNcGdKUFpLWnlDc0huSC0waVpyY2N3dTFKZnhmT2dzOTNlN3doN05JVk42R1BNeWMyWVJWejN6OENnZlNmaXFaLWllSGRPUUdDRFlYazQ4cWZKbGZv",
+    "badge": "brief",
+    "at": 1795234217.3575807,
+    "country": "영국",
+    "category": "경제·과학"
   }
 ]
