@@ -32,10 +32,14 @@
       "youtube": {
         "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
         "at": 1795378498
+      },
+      "instagram": {
+        "failed": "container 18130761502876789: ERROR ERROR",
+        "at": 1795385406
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 2
     },
     "video": "video.mp4"
