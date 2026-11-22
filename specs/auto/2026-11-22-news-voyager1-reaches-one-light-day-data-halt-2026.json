@@ -1,0 +1,154 @@
+{
+  "slug": "2026-11-22-news-voyager1-reaches-one-light-day-data-halt-2026",
+  "topic": "보이저 1호, 지구서 1광일 거리 도달",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 18:35 KST",
+  "source": "The New York Times·Live Science·Mashable 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijAFBVV95cUxPRzNfZ1BhYkJTeG5vM002UFBGZXBtSUxGUV9aSkh5RFNjSzNkUWdSd2o4Q3pJRFBsVEZ6dFBaaVBSdXc0YTROXzZDQ2F4aTR2RVdOaUx4c09uSVBicGY3VEp6TnFYUVFXOGhUQVhVMlRDX19ySXJVaDNNVFE4RldXeXBJeU1QRnhsQTdTLQ",
+    "related": [
+      [
+        "Voyager 1 hit one light day but isn't sending home any data right now",
+        "Mashable"
+      ],
+      [
+        "After 49 Years, Voyager 1 Is a Mind-Blowing One Light-Day From Earth",
+        "The New York Times"
+      ],
+      [
+        "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+        "NASA (.gov)"
+      ],
+      [
+        "What's next for NASA interstellar Voyager 1 probe after passing 1 light-day from Earth?",
+        "Space"
+      ],
+      [
+        "Voyager 1 stops sending science data ahead of its light-day milestone — but NASA has a plan to fix it",
+        "Live Science"
+      ]
+    ],
+    "event_key": "voyager1_reaches_one_light_day_data_halt_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "보이저 1호, 지구서\n[[1광일]] 거리 도달",
+      "sub": "발사 49년 만의 기록이나 현재 과학 데이터 송신은 중단됐습니다",
+      "chips": [
+        {
+          "k": "도달 거리",
+          "v": "1광일"
+        },
+        {
+          "k": "운용 기간",
+          "v": "49년"
+        }
+      ],
+      "alt": "보이저 1호, 지구서 1광일 거리 도달",
+      "map": {
+        "lat": 28.4513556,
+        "lon": -80.5283059,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n우주",
+      "video_only": true,
+      "map": {
+        "lat": 28.4513556,
+        "lon": -80.5283059,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "우주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "1광일 거리 도달",
+          "d": "보이저 1호가 발사 49년 만에 지구로부터 1광일 떨어진 거리에 도달했습니다 (NYT)."
+        },
+        {
+          "t": "데이터 송신 중단",
+          "d": "1광일 도달을 앞두고 과학 데이터 송신이 중단되었습니다 (Live Science)."
+        },
+        {
+          "t": "NASA 복구 추진",
+          "d": "미국 항공우주국은 데이터 송신 문제 해결을 위한 복구 계획을 마련 중입니다 (Live Science)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "지구서 1광일 거리 도달",
+        "과학 데이터 송신 중단",
+        "NASA 복구 계획 수립"
+      ],
+      "unconfirmed": [
+        "데이터 송신 중단 원인",
+        "통신 정상 복구 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Live Science",
+        "Mashable",
+        "NASA (.gov)",
+        "Space",
+        "The New York Times",
+        "2026.11.22 19:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 보이저 1호가 지구로부터 1광일 거리에 도달했습니다.\n\n· 발사 49년 만에 지구에서 1광일 떨어진 우주 공간에 도달했습니다 (NYT).\n· 그러나 이 기록을 앞두고 과학 데이터 송신이 중단됐습니다 (Live Science).\n· NASA는 데이터 송신 장애를 해결하기 위한 복구 계획을 추진하고 있습니다 (Live Science).\n\n이번 복구 작업으로 보이저 1호가 통신을 다시 재개할 수 있을까요?\n\n출처: NYT·NASA·Live Science·Space·Mashable 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "NASA의 보이저 1호가 발사 49년 만에 지구로부터 1광일 거리에 도달했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 항공우주국 NASA에 따르면 탐사선이 1광일 거리에 도달한 것은 이번이 처음입니다.",
+      "card": "points"
+    },
+    {
+      "text": "하지만 1광일 도달을 앞두고 현재 과학 데이터 송신이 중단된 상태입니다.",
+      "card": "points"
+    },
+    {
+      "text": "데이터 송신이 중단된 정확한 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "NASA의 복구 작업으로 보이저 1호가 다시 신호를 보내올 수 있을까요?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "지구에서 [[1광일]]\n데이터 송신 중단된 이유",
+  "broll": [
+    "space station satellite",
+    "deep space stars"
+  ],
+  "place_en": "Cape Canaveral, United States"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_southwest_flash_floods_2026",
-    "topic": "미국 애리조나·콜로라도서 폭우로 긴급 대피령",
-    "slug": "2026-11-02-news-us-southwest-flash-floods-2026",
-    "cluster": "CBMijgFBVV95cUxNcDIxNWNndWdEdGtBdHlfSl9YOTg2aDlqYXZqMTRPSzBJUlR5SmdISW5OaUFuWGRMTEpXbnczcVg0b21ENWQ5MzV6c0Mzc0FiVlVZTllDcDl6LWU0RzduNVFPN1lrX2tkYW1laENoRTFLdmxoTFppVkVlNElsbGpGSHFRUjdNZDRrdXl6aUJ3",
-    "badge": "breaking",
-    "at": 1793574160.0639622,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "wall_street_ai_stock_selloff_hedge_2026",
     "topic": "월스트리트, AI 주식 폭락에 손실 방어 나서",
     "slug": "2026-11-02-news-wall-street-ai-stock-selloff-hedge-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795334784.8447347,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "voyager1_reaches_one_light_day_data_halt_2026",
+    "topic": "보이저 1호, 지구서 1광일 거리 도달",
+    "slug": "2026-11-22-news-voyager1-reaches-one-light-day-data-halt-2026",
+    "cluster": "CBMijAFBVV95cUxPRzNfZ1BhYkJTeG5vM002UFBGZXBtSUxGUV9aSkh5RFNjSzNkUWdSd2o4Q3pJRFBsVEZ6dFBaaVBSdXc0YTROXzZDQ2F4aTR2RVdOaUx4c09uSVBicGY3VEp6TnFYUVFXOGhUQVhVMlRDX19ySXJVaDNNVFE4RldXeXBJeU1QRnhsQTdTLQ",
+    "badge": "brief",
+    "at": 1795342529.1182396,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

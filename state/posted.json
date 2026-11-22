@@ -47574,5 +47574,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795335277
+  },
+  {
+    "slug": "2026-11-22-news-voyager1-reaches-one-light-day-data-halt-2026",
+    "event_ms": 1795342529118,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 보이저 1호가 지구로부터 1광일 거리에 도달했습니다.\n\n· 발사 49년 만에 지구에서 1광일 떨어진 우주 공간에 도달했습니다 (NYT).\n· 그러나 이 기록을 앞두고 과학 데이터 송신이 중단됐습니다 (Live Science).\n· NASA는 데이터 송신 장애를 해결하기 위한 복구 계획을 추진하고 있습니다 (Live Science).\n\n이번 복구 작업으로 보이저 1호가 통신을 다시 재개할 수 있을까요?\n\n출처: NYT·NASA·Live Science·Space·Mashable 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18211551055370646",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgCkbGiIKne",
+        "kind": "carousel",
+        "at": 1795342575
+      },
+      "instagram": {
+        "id": "18146620108719874",
+        "permalink": "https://www.instagram.com/reel/DgCkuU8HOmI/",
+        "kind": "reel",
+        "at": 1795342750
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1795342760
+      },
+      "tiktok": {
+        "id": "7710938469710728466",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710938469710728466",
+        "kind": "video",
+        "at": 1795342881
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795342891
   }
 ]
