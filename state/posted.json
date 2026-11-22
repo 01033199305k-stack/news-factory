@@ -47680,5 +47680,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795349764
+  },
+  {
+    "slug": "2026-11-22-news-libya-benghazi-naval-base-explosion-2026",
+    "event_ms": 1795348930000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 리비아 벵가지 해군기지서 연쇄 폭발과 화재\n\n· 리비아 벵가지 해군기지 내 탄약고에서 폭발 발생 (Naval News·Middle East Eye)\n· 기지 내 탄약 저장소에서 최소 3차례 폭발 관측 (DNE Africa)\n\n출처: Naval News·A News·Middle East Eye·The Libya Observer·DNE Africa 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "리비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119906218826141",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgC4jGFlUOz",
+        "kind": "carousel",
+        "at": 1795353127
+      },
+      "instagram": {
+        "id": "18136758916845009",
+        "permalink": "https://www.instagram.com/reel/DgC434GgHX2/",
+        "kind": "reel",
+        "at": 1795353315
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1795353325
+      },
+      "tiktok": {
+        "id": "6b02eaee02479690925035e0",
+        "permalink": "",
+        "kind": "video",
+        "at": 1795353527
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795353537
   }
 ]

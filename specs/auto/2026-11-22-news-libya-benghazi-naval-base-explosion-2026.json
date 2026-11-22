@@ -1,0 +1,138 @@
+{
+  "slug": "2026-11-22-news-libya-benghazi-naval-base-explosion-2026",
+  "topic": "리비아 벵가지 해군기지서 연쇄 폭발과 화재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 21:02 KST",
+  "source": "A News·DNE Africa·Middle East Eye 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinwFBVV95cUxQSWM3MGdwLTVVbHhtSG1NM3l1Y2lCdFBkRHZEV0M0Y2I3Sk53MVhQd2VHZENrdEg3emYxc1NNU1pKUG9qeURhR1NoMVFsenlqTkZmcGJmQlR6VnVBd3E3SG9FdlVhZU5ad09RSmNNaDB6MEQ3TnhlcVlNcW5KYnV4NmtOak5lcVJIRWRxMEg1VzBsclJTdlRoOHNNS1QzYTQ",
+    "related": [
+      [
+        "Russian Warship Destroyed In Huge Explosion In Libya",
+        "Naval News"
+      ],
+      [
+        "Explosion hits ammunition depot at Libya's Benghazi naval base",
+        "A News"
+      ],
+      [
+        "Explosion inside Libyan naval base ammunition depot triggers fire",
+        "Middle East Eye"
+      ],
+      [
+        "Airstrikes target ammunition depots at Benghazi Naval Base amid conflicting reports",
+        "The Libya Observer"
+      ],
+      [
+        "Benghazi explosion: 3 blasts hit Libya naval base arms store",
+        "DNE Africa"
+      ]
+    ],
+    "event_key": "libya_benghazi_naval_base_explosion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "리비아 [[벵가지]] 해군기지서\n연쇄 [[폭발]]과 화재",
+      "sub": "군사기지 탄약고에서 최소 3차례 폭발 발생",
+      "chips": [
+        {
+          "k": "폭발",
+          "v": "3차례"
+        }
+      ],
+      "alt": "리비아 벵가지 해군기지서 연쇄 폭발과 화재",
+      "map": {
+        "lat": 32.1200168,
+        "lon": 20.0812174,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "리비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "리비아\n벵가지",
+      "video_only": true,
+      "map": {
+        "lat": 32.1200168,
+        "lon": 20.0812174,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "벵가지"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "탄약고 폭발",
+          "d": "리비아 벵가지 해군기지 내 탄약고에서 폭발이 일어났다고 보도되었습니다."
+        },
+        {
+          "t": "화재 발생",
+          "d": "폭발로 인해 화재가 발생했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "리비아 벵가지 해군기지",
+        "탄약고 폭발",
+        "연쇄 폭발 3차례"
+      ],
+      "unconfirmed": [
+        "정확한 폭발 원인",
+        "인명 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "A News",
+        "DNE Africa",
+        "Middle East Eye",
+        "Naval News",
+        "The Libya Observer",
+        "2026.11.22 22:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 리비아 벵가지 해군기지서 연쇄 폭발과 화재\n\n· 리비아 벵가지 해군기지 내 탄약고에서 폭발 발생 (Naval News·Middle East Eye)\n· 기지 내 탄약 저장소에서 최소 3차례 폭발 관측 (DNE Africa)\n\n출처: Naval News·A News·Middle East Eye·The Libya Observer·DNE Africa 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "리비아 벵가지 해군기지 탄약고에서 폭발과 화재가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신 등은 기지 내 탄약 저장소에서 최소 3차례 폭발이 일어났다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 폭발 원인과 인명 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "리비아 [[벵가지]] 해군기지서\n일어난 일은?",
+  "broll": [
+    "naval base explosion fire",
+    "military warehouse smoke"
+  ],
+  "place_en": "Benghazi, Libya"
+}
