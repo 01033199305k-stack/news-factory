@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-22-news-kyiv-region-russian-drone-hit-building-2026",
+  "topic": "우크라이나 키이우 주 드론 공격에 14명 실종",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 18:01 KST",
+  "source": "Reuters·The Hindu·Mezha.net 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag",
+    "related": [
+      [
+        "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskiy says",
+        "Reuters"
+      ],
+      [
+        "At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskyy says",
+        "The Hindu"
+      ],
+      [
+        "Russia attacks Kyiv with drones, injures 3, hits 28-story residential building",
+        "The Kyiv Independent"
+      ],
+      [
+        "A soldier from the 14th Rocket Artillery Brigade shot down two jet-powered UAVs in the Odesa region",
+        "Цензор.НЕТ"
+      ],
+      [
+        "A five-storey building was damaged in a drone attack in Vyshhorod district",
+        "Mezha.net"
+      ]
+    ],
+    "event_key": "kyiv_region_russian_drone_hit_building_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라이나 [[키이우]] 주\n드론 공격에 14명 실종",
+      "sub": "러시아 드론이 아파트 건물을 타격해 인명 피해가 발생했습니다",
+      "chips": [
+        {
+          "k": "실종",
+          "v": "최소 14명"
+        }
+      ],
+      "alt": "우크라이나 키이우 주 드론 공격에 14명 실종",
+      "map": {
+        "lat": 50.178595,
+        "lon": 30.4924884,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우 주",
+      "video_only": true,
+      "map": {
+        "lat": 50.178595,
+        "lon": 30.4924884,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우 주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "아파트 건물 타격",
+          "d": "러시아 드론 공격으로 키이우 주의 주거용 아파트 건물이 파손되었습니다 (키이우 인디펜던트·메자)."
+        },
+        {
+          "t": "대통령 실종자 발표",
+          "d": "젤렌스키 우크라이나 대통령 측은 피격으로 최소 14명이 실종 상태라고 밝혔습니다 (로이터·더 힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 드론의 주거 건물 피격",
+        "우크라이나 측 실종자 발표"
+      ],
+      "unconfirmed": [
+        "정확한 사망자 및 부상자 수",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Mezha.net",
+        "Reuters",
+        "The Hindu",
+        "The Kyiv Independent",
+        "Цензор.НЕТ",
+        "2026.11.22 21:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 키이우 주 드론 공격으로 최소 14명 실종\n\n· 러시아 드론이 키이우 주의 아파트 건물을 타격해 건물이 파손됐습니다 (키이우 인디펜던트·메자).\n· 젤렌스키 우크라이나 대통령 측은 공격 후 최소 14명이 실종됐다고 밝혔습니다 (로이터·더 힌두).\n· 정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.\n\n출처: 로이터·키이우 인디펜던트·더 힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 키이우 주에서 러시아 드론이 주거 건물을 타격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공격은 키이우 인근 주거 지역에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "젤렌스키 우크라이나 대통령 측은 이번 공격으로 최소 14명이 실종됐다고 밝혔다고 로이터 통신이 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 매체는 드론 피격으로 아파트 건물이 파손됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[키이우]] 주 건물 피격\n최소 14명 실종",
+  "broll": [
+    "damaged building night",
+    "smoke over city"
+  ],
+  "place_en": "Kyiv Oblast, Ukraine"
+}

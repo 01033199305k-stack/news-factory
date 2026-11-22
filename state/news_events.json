@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "wall_street_ai_stock_selloff_hedge_2026",
-    "topic": "월스트리트, AI 주식 폭락에 손실 방어 나서",
-    "slug": "2026-11-02-news-wall-street-ai-stock-selloff-hedge-2026",
-    "cluster": "CBMihwFBVV95cUxQUHV1YV9iTlhJU1IzNmJPU1JOb2hiZUVlWWxWa3QtMGVLUDJORS11eUlkZ2VYSkg4dnB0dDdPYXpsNUJTRkZCS0o3SkZhOGM4NkdBek1QcFUwNFBwZlVPZUpTaUg0azI1TjdSUG9TNzdnTFRsZkRkVVgxSEFwdUl6RFY4Z1Y2Zms",
-    "badge": "breaking",
-    "at": 1793574172.0153642,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "hormuz_tankers_mine_explosion_2026",
     "topic": "호르무즈서 유조선 2척 기뢰 폭발 발생",
     "slug": "2026-11-02-news-hormuz-tankers-mine-explosion-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795342529.1182396,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "kyiv_region_russian_drone_hit_building_2026",
+    "topic": "우크라이나 키이우 주 드론 공격에 14명 실종",
+    "slug": "2026-11-22-news-kyiv-region-russian-drone-hit-building-2026",
+    "cluster": "CBMivAFBVV95cUxPUmFwN2pYTHZEVndFX2hfN3VOQnduN3pEYnZXa2tfT1d1UGZDejk3ZU11dkwwLTdsUTltdm0taU8wTnpNTkZVV045Z3pkc0czd2FSS1lEZDhyLVVCNFJvNk9xUHR2ZUxydnAyYTJDVzd3RWIwQ1E0YjAyc2R6bkpkbkt1aThfVldjUGRKbkhXanhraVo3SkJHcHBuMmxBcXJreDhQSEx1QV9ZUXhDOHdhbmZMRkZoeVBOXzJ5ag",
+    "badge": "brief",
+    "at": 1795349356.3499908,
+    "country": "우크라이나",
+    "category": "총격·테러"
   }
 ]
