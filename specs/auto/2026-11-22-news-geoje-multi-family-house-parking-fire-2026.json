@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-22-news-geoje-multi-family-house-parking-fire-2026",
+  "topic": "거제 다가구주택 불 8명 부상·21명 대피",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 14:03 KST",
+  "source": "KBS 뉴스·MBC 뉴스·경향신문 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE1VSi03OWFMa0VYRjhXZ2RVT01HZjB1OVlESVUyMVdGOThLb1dCWUdxTGx3c2pWUkllTXVPWEpwaGs4aDlqc0tpY3JBc0VCWW5HaF83SVlvMzlLWk1OcXBPTnY3R3lCWV9TZGtSQlN0UmctRkJ6eHBR0gF3QVVfeXFMUDR5bzlBUE9KcVdIWnVsbmkwS0ZEUEpQUG9IWVF4S3lQZXBzQllBa2xMSmJKSGJhTkdhSjBBV2FfN2VsQ3NUemduZnkwOWpqOFZjSm05R2NuQUpnNkw0MDVnTHVrTk1YQkh4bm4walFUZkduLXl3aWs",
+    "related": [
+      [
+        "경남 다가구주택 주차장서 불‥21명 대피",
+        "MBC 뉴스"
+      ],
+      [
+        "거제 다가구주택 화재 1시간여 만에 진화…8명 부상",
+        "KBS 뉴스"
+      ],
+      [
+        "거제 다가구주택 화재 1시간 만에 진화···8명 부상",
+        "경향신문"
+      ],
+      [
+        "거제 옥포동 다가구주택서 불…21명 대피·8명 병원 이송",
+        "뉴스1"
+      ],
+      [
+        "거제 다가구주택 화재 주민 21명 대피…8명 부상",
+        "연합뉴스TV"
+      ]
+    ],
+    "event_key": "geoje_multi_family_house_parking_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "거제 다가구주택 불\n[[8명]] 부상·21명 대피",
+      "sub": "주차장서 발생한 불 1시간여 만에 진화 완료",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "8명"
+        },
+        {
+          "k": "대피",
+          "v": "21명"
+        }
+      ],
+      "alt": "거제 다가구주택 불 8명 부상·21명 대피",
+      "map": {
+        "lat": 34.8804677,
+        "lon": 128.621207,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n경남 거제",
+      "video_only": true,
+      "map": {
+        "lat": 34.8804677,
+        "lon": 128.621207,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "경남 거제"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "주차장 발화",
+          "d": "불은 건물 주차장에서 시작된 것으로 확인됐습니다 (MBC)."
+        },
+        {
+          "t": "병원 이송",
+          "d": "부상자 8명이 병원으로 이송됐습니다 (뉴스1)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "거제 다가구주택 주차장 화재",
+        "주민 21명 대피 및 8명 부상 (뉴스1·연합뉴스TV)",
+        "1시간여 만에 진화 완료 (KBS·경향신문)"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "경향신문",
+        "뉴스1",
+        "연합뉴스TV",
+        "2026.11.22 17:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 거제 다가구주택서 불이 나 주민 8명이 다쳤습니다.\n\n· 건물 주차장에서 난 불로 주민 21명이 대피했습니다 (MBC).\n· 불은 1시간여 만에 진화됐으며 (KBS·경향신문) 부상 8명은 병원으로 이송됐습니다 (뉴스1).\n\n출처: MBC·KBS·경향신문·뉴스1·연합뉴스TV 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경남 거제시의 한 다가구주택에서 불이 나 8명이 다쳤습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "불은 건물 주차장에서 발생한 것으로 확인됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "언론 보도에 따르면 주민 21명이 대피했으며 1시간여 만에 불길이 잡혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[다가구주택]] 주차장 불\n8명 부상·21명 대피",
+  "broll": [
+    "apartment building fire",
+    "fire truck night"
+  ],
+  "place_en": "Geoje, South Korea"
+}

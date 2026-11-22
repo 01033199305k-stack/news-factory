@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_florida_palm_beach_plane_crash_2026",
-    "topic": "미국 플로리다서 비행기 추락 화재",
-    "slug": "2026-11-02-news-us-florida-palm-beach-plane-crash-2026",
-    "cluster": "CBMia0FVX3lxTFBTcWQ5OXN3NllJNlVibFNZdm95OURiTUxLVThOdHhwQ2RfdmlSRHRYV1F1QlpXZVFTSjVGaTNaZFFUVlcwd1hWVmVQU2NhcXFLS2ZTd0R4aDJqbVZtRklidXR2X1J3V1FlWDNr",
-    "badge": "breaking",
-    "at": 1793567851.0979688,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "us_southwest_flash_floods_2026",
     "topic": "미국 애리조나·콜로라도서 폭우로 긴급 대피령",
     "slug": "2026-11-02-news-us-southwest-flash-floods-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795327721.0374959,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "geoje_multi_family_house_parking_fire_2026",
+    "topic": "거제 다가구주택 불 8명 부상·21명 대피",
+    "slug": "2026-11-22-news-geoje-multi-family-house-parking-fire-2026",
+    "cluster": "CBMid0FVX3lxTE1VSi03OWFMa0VYRjhXZ2RVT01HZjB1OVlESVUyMVdGOThLb1dCWUdxTGx3c2pWUkllTXVPWEpwaGs4aDlqc0tpY3JBc0VCWW5HaF83SVlvMzlLWk1OcXBPTnY3R3lCWV9TZGtSQlN0UmctRkJ6eHBR0gF3QVVfeXFMUDR5bzlBUE9KcVdIWnVsbmkwS0ZEUEpQUG9IWVF4S3lQZXBzQllBa2xMSmJKSGJhTkdhSjBBV2FfN2VsQ3NUemduZnkwOWpqOFZjSm05R2NuQUpnNkw0MDVnTHVrTk1YQkh4bm4walFUZkduLXl3aWs",
+    "badge": "breaking",
+    "at": 1795334784.8447347,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]
