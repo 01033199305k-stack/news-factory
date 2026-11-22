@@ -47311,5 +47311,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795306044
+  },
+  {
+    "slug": "2026-11-22-news-us-fbi-usda-database-hack-2026",
+    "event_ms": 1795310023351,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 FBI 범죄 데이터베이스 해킹 공격받아\n\n· 미 연방수사국 FBI의 국가 범죄 데이터베이스가 해킹 침입을 받았습니다 (Axios·CNN)\n· 미 농무부 전산망도 함께 해킹된 것으로 파악됐습니다 (가디언)\n· 정확한 피해 규모와 해킹 배후는 아직 확인되지 않았습니다\n\n정부 핵심 전산망 해킹 사건, 여러분은 어떻게 보십니까?\n\n출처: Axios·CNN·ABC·CNBC·가디언 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18004512494814069",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgBmbYqG4wR",
+        "kind": "carousel",
+        "at": 1795310067
+      },
+      "instagram": {
+        "id": "17923566546240720",
+        "permalink": "https://www.instagram.com/reel/DgBmq_wgkop/",
+        "kind": "reel",
+        "at": 1795310224
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1795310234
+      },
+      "tiktok": {
+        "id": "7710798769570188565",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7710798769570188565",
+        "kind": "video",
+        "at": 1795310355
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795310365
   }
 ]

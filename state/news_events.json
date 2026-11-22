@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "iran_designates_uk_navy_raf_terrorist_2026",
-    "topic": "이란, 영국 해·공군 테러 조직 지정",
-    "slug": "2026-11-01-news-iran-designates-uk-navy-raf-terrorist-2026",
-    "cluster": "CBMi6AFBVV95cUxOQlhVNmNNY1htR1NYbTJ6WXRzMkxGdTBoUGR3clExRm41TFBpMVdmaWtmaHprdVJQWVF6QnBOWXZuT2dwSE9qVkZhNjNIZ01meDJOaHJsQTdCV3hNTEkxUV9LMmZab2dNZlZ4M3N6UHMzSHk5TnBxblhtbEM3dTJucGRTTVlwUk9CcGZPdHFyaWZ1aUZZaVBWVF9sUUVsazBweEYtS1lTMmZHQVoxMW5qMFNjRzkwTW9vekQ4U0NseWExWEJuNllRV2dvUEZ3ZGdZNmRxWVRxajU0djFiQ2R4VHl0Uk5kZkZh",
-    "badge": "breaking",
-    "at": 1793535249.7451897,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "india_new_delhi_modi_protest_2026",
     "topic": "인도 뉴델리서 모디 정권 규탄 선거관리위원장 사퇴 촉구 시위",
     "slug": "2026-11-02-news-india-new-delhi-modi-protest-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795302548.6509821,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_fbi_usda_database_hack_2026",
+    "topic": "미 FBI 전산망 해킹 범죄 전산망 침입받아",
+    "slug": "2026-11-22-news-us-fbi-usda-database-hack-2026",
+    "cluster": "CBMiZEFVX3lxTE9qZGhVMnlWbTBqVTRJTU95ZjdFTHBEeDIyZHgtQ1pSZ3NCMDhUSGZZazZ0V0ptR0I2ZDZhSUhtUFZRNGRsN3dOMzRZenJHNGlidHB4QnBkYlVVcldoUi13ZjdlZ3g",
+    "badge": "brief",
+    "at": 1795310023.3511896,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-22-news-us-fbi-usda-database-hack-2026",
+  "topic": "미 FBI 전산망 해킹 범죄 전산망 침입받아",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 06:09 KST",
+  "source": "ABC News·Axios·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiZEFVX3lxTE9qZGhVMnlWbTBqVTRJTU95ZjdFTHBEeDIyZHgtQ1pSZ3NCMDhUSGZZazZ0V0ptR0I2ZDZhSUhtUFZRNGRsN3dOMzRZenJHNGlidHB4QnBkYlVVcldoUi13ZjdlZ3g",
+    "related": [
+      [
+        "Trump says FBI hack might expose Russia \"hoax\"",
+        "Axios"
+      ],
+      [
+        "Trump downplays breach into FBI’s crime database while reviving complaints about agency’s Russia probe",
+        "CNN"
+      ],
+      [
+        "FBI's national crime database targeted in hack, Trump says",
+        "ABC News - Breaking News, Latest News and Videos"
+      ],
+      [
+        "Trump says there could be a 'positive spin' from the latest FBI database hack",
+        "CNBC"
+      ],
+      [
+        "USDA, FBI breached by hackers amid spate of tech outages – reports",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "us_fbi_usda_database_hack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미 [[FBI]] 전산망 해킹\n범죄 전산망 침입받아",
+      "sub": "미 농무부 전산망도 함께 해킹 피해 확인",
+      "chips": [
+        {
+          "k": "피해 기관",
+          "v": "FBI·농무부"
+        }
+      ],
+      "alt": "미 FBI 전산망 해킹 범죄 전산망 침입받아",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "범죄 DB 해킹 피해",
+          "d": "미국 연방수사국 FBI의 국가 범죄 데이터베이스가 해킹 공격을 받았다고 보도됐습니다 (Axios·CNN)."
+        },
+        {
+          "t": "농무부 전산망 침입",
+          "d": "미 농무부 전산망도 함께 침입 피해를 입은 것으로 알려졌습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "FBI 범죄 데이터베이스 해킹",
+        "미 농무부 전산망 침입"
+      ],
+      "unconfirmed": [
+        "해킹 주체 및 배후 세력",
+        "정확한 데이터 유출 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC News - Breaking News, Latest News and Videos",
+        "Axios",
+        "CNBC",
+        "CNN",
+        "The Guardian",
+        "2026.11.22 10:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 FBI 범죄 데이터베이스 해킹 공격받아\n\n· 미 연방수사국 FBI의 국가 범죄 데이터베이스가 해킹 침입을 받았습니다 (Axios·CNN)\n· 미 농무부 전산망도 함께 해킹된 것으로 파악됐습니다 (가디언)\n· 정확한 피해 규모와 해킹 배후는 아직 확인되지 않았습니다\n\n정부 핵심 전산망 해킹 사건, 여러분은 어떻게 보십니까?\n\n출처: Axios·CNN·ABC·CNBC·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 FBI의 범죄 데이터베이스가 해킹당했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "주요 정부 전산망이 공격을 받았습니다.",
+      "card": "map"
+    },
+    {
+      "text": "가디언은 FBI뿐만 아니라 농무부 전산망도 해킹 피해를 입었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해킹을 저지른 배후와 구체적인 유출 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[FBI]] 전산망\n해킹 침입받았나",
+  "broll": [
+    "fbi building washington",
+    "server room"
+  ],
+  "place_en": "Washington, D.C."
+}
