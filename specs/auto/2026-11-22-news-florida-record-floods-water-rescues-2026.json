@@ -1,0 +1,147 @@
+{
+  "slug": "2026-11-22-news-florida-record-floods-water-rescues-2026",
+  "topic": "미 플로리다 폭우 수백 명 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 13:30 KST",
+  "source": "CBS News·Spectrum News 13·WESH 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMifkFVX3lxTE1SYloxVmFJaFU4UW1Cdkt2MUFzNElWdk5OSFVDYV96ZmVvX2M5NktnMXlwVmdyS3hJcFpCbEduUVEtVDlweGh0b3ltRlZZOE9fcXI5aFE3UWNSRTZpWVh2X2RUdC1NZzhzSVFYd0VIdjk3VXNpY093cW0taTdRQQ",
+    "related": [
+      [
+        "Levels, timing: St. Johns River to reach record or major crest from Cocoa to Astor in coming days",
+        "WESH"
+      ],
+      [
+        "Record flooding in central Florida prompts hundreds of water rescues",
+        "CBS News"
+      ],
+      [
+        "New Smyrna Beach neighborhood sees up to 4 feet of standing water",
+        "Spectrum News 13"
+      ],
+      [
+        "Rain pummels Central ﻿Florida coast; more expected Saturday",
+        "WESH"
+      ],
+      [
+        "'Something you should take seriously': Putnam County braces for weeks of flooding",
+        "firstcoastnews.com"
+      ]
+    ],
+    "event_key": "florida_record_floods_water_rescues_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[미 플로리다]] 폭우\n수백 명 구조",
+      "sub": "뉴스미르나비치 일부 1.2m 침수… 강 수위 최고 기록 전망",
+      "chips": [
+        {
+          "k": "구조",
+          "v": "수백 명"
+        }
+      ],
+      "alt": "미 플로리다 폭우 수백 명 구조",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다",
+      "video_only": true,
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "수백 명 구조 작업",
+          "d": "미국 플로리다 중부 지역에 기록적인 폭우가 내려 주민 수백 명이 구조됐습니다 (CBS News)."
+        },
+        {
+          "t": "주택가 1.2m 침수",
+          "d": "뉴스미르나비치 일부 지역에는 최대 1.2m 깊이의 물이 차올랐습니다 (Spectrum News 13)."
+        },
+        {
+          "t": "하천 최고 수위 경보",
+          "d": "세인트존스강 수위가 향후 며칠 동안 최고 기록에 달할 것으로 전망됐습니다 (WESH)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "플로리다 수백 명 구조 (CBS News)",
+        "뉴스미르나비치 최대 1.2m 침수 (Spectrum News 13)"
+      ],
+      "unconfirmed": [
+        "정확한 인명·재산 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "Spectrum News 13",
+        "WESH",
+        "firstcoastnews.com",
+        "2026.11.22 15:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 플로리다주에 폭우가 쏟아져 주민 수백 명이 구조됐습니다.\n\n· 플로리다 중부 지역에서 기록적 폭우로 수백 명의 수중 구조가 진행됐습니다 (CBS News).\n· 뉴스미르나비치 일대에는 최대 1.2m 깊이의 물이 찼습니다 (Spectrum News 13).\n· 세인트존스강 수위도 최고 기록에 도달할 것으로 예보됐습니다 (WESH).\n\n출처: CBS News·Spectrum News 13·WESH 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 플로리다 폭우로 주민 수백 명이 구조됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "CBS 뉴스는 플로리다 중부에서 대규모 수중 구조가 진행됐다고 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "뉴스미르나비치 주택가에는 최대 1.2m 깊이의 물이 차올랐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "세인트존스강 수위도 최고 기록을 경신할 전망입니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 인명 피해와 한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[플로리다]] 폭우로\n수백 명 구조된 이유",
+  "broll": [
+    "flooding street rain",
+    "rescue boat water"
+  ],
+  "place_en": "Florida, USA"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia_ukraine_strikes_power_outage_2026",
-    "topic": "우크라이나 수만 가구 정전 발생 러시아 공습",
-    "slug": "2026-11-02-news-russia-ukraine-strikes-power-outage-2026",
-    "cluster": "CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk",
-    "badge": "breaking",
-    "at": 1793567341.1270113,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "us_florida_palm_beach_plane_crash_2026",
     "topic": "미국 플로리다서 비행기 추락 화재",
     "slug": "2026-11-02-news-us-florida-palm-beach-plane-crash-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795324210.7911236,
     "country": "튀르키예",
     "category": "국제"
+  },
+  {
+    "event_key": "florida_record_floods_water_rescues_2026",
+    "topic": "미 플로리다 폭우 수백 명 구조",
+    "slug": "2026-11-22-news-florida-record-floods-water-rescues-2026",
+    "cluster": "CBMifkFVX3lxTE1SYloxVmFJaFU4UW1Cdkt2MUFzNElWdk5OSFVDYV96ZmVvX2M5NktnMXlwVmdyS3hJcFpCbEduUVEtVDlweGh0b3ltRlZZOE9fcXI5aFE3UWNSRTZpWVh2X2RUdC1NZzhzSVFYd0VIdjk3VXNpY093cW0taTdRQQ",
+    "badge": "breaking",
+    "at": 1795327721.0374959,
+    "country": "미국",
+    "category": "재난"
   }
 ]
