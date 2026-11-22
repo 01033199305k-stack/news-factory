@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "india_new_delhi_modi_protest_2026",
-    "topic": "인도 뉴델리서 모디 정권 규탄 선거관리위원장 사퇴 촉구 시위",
-    "slug": "2026-11-02-news-india-new-delhi-modi-protest-2026",
-    "cluster": "CBMikgFBVV95cUxPUUxyZDlDU1ZkMVd1bDREUFVvWkFzZlJwN2dLNUxmWG1FRVJNeEhoaHlzTHBJRFFLRWRyZk5zRTYwb3FzMmZXbXZVS0FxRVBNRFpMMjZXTzIwTHFlX2VtSjBraEJvZmkwc2l1aUJRV0R6ZXZsSDM2NHYtSXN5QjZUNEsyc2JkMlZFdkFISWxYMjJ5Zw",
-    "badge": "breaking",
-    "at": 1793556519.3622873,
-    "country": "인도",
-    "category": "국제"
-  },
-  {
     "event_key": "israel_gaza_strikes_eight_killed_2026",
     "topic": "이스라엘군 가자지구 공습으로 어린이 포함 사망 8명 발생",
     "slug": "2026-11-02-news-israel-gaza-strikes-eight-killed-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795310023.3511896,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "zelenskyy_agrees_three_way_peace_talks_2026",
+    "topic": "젤렌스키, 성탄절 전 3자 종전협상 동의",
+    "slug": "2026-11-22-news-zelenskyy-agrees-three-way-peace-talks-2026",
+    "cluster": "CBMiW0FVX3lxTE1BZWI0Um4tWEF6SXRrcmduc1JNV0NFdG1aSEdLclVYbFlCMV81YllQeVJVdU1nOTIxaHhBN2ZZWWdfN3pPYmtycXJPMUhJY0dZMkw3Nmx1VmdyWTjSAWBBVV95cUxNdkVTZEZ1UkFkNzVoTEdTWGpoR1diLTNSUWhDeHh6am9Bc1Y4LVhZWi1HVkl3VmhNOE03d096UlE3ZUFNLVVsME40QkdmbFRyYi0yVUtPM3BVSm55dUdyY0k",
+    "badge": "brief",
+    "at": 1795316989.0369616,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

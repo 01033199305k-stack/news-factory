@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-22-news-zelenskyy-agrees-three-way-peace-talks-2026",
+  "topic": "젤렌스키, 성탄절 전 3자 종전협상 동의",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 09:35 KST",
+  "source": "Chosunbiz·KBS 뉴스·뉴스1 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1BZWI0Um4tWEF6SXRrcmduc1JNV0NFdG1aSEdLclVYbFlCMV81YllQeVJVdU1nOTIxaHhBN2ZZWWdfN3pPYmtycXJPMUhJY0dZMkw3Nmx1VmdyWTjSAWBBVV95cUxNdkVTZEZ1UkFkNzVoTEdTWGpoR1diLTNSUWhDeHh6am9Bc1Y4LVhZWi1HVkl3VmhNOE03d096UlE3ZUFNLVVsME40QkdmbFRyYi0yVUtPM3BVSm55dUdyY0k",
+    "related": [
+      [
+        "젤렌스키 \"성탄절 전 3자 종전협상 개최 동의\"…G20 계기 가능성",
+        "연합뉴스"
+      ],
+      [
+        "젤렌스키 “성탄절 전 3자 종전협상 개최 동의”…‘G20서 협상’ 가능성",
+        "KBS 뉴스"
+      ],
+      [
+        "젤렌스키 “성탄절 전 3자 종전협상 개최 동의”",
+        "Chosunbiz"
+      ],
+      [
+        "트럼프 \"푸틴은 내 친구\" 환대에…젤렌스키 \"우리에게 그는 살인자\" 비판",
+        "뉴스1"
+      ],
+      [
+        "젤렌스키 “우크라이나 뺀 트럼프-푸틴 회동은 실수”",
+        "뉴시스"
+      ]
+    ],
+    "event_key": "zelenskyy_agrees_three_way_peace_talks_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "젤렌스키, 성탄절 전\n[[3자 종전협상]] 동의",
+      "sub": "우크라이나 배제된 미·러 회동은 실수라며 비판",
+      "chips": [],
+      "alt": "젤렌스키, 성탄절 전 3자 종전협상 동의",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "성탄절 전 3자 협상",
+          "d": "젤렌스키 우크라이나 대통령은 성탄절 전 3자 종전협상 개최에 동의했다고 밝혔습니다. (연합뉴스·KBS)"
+        },
+        {
+          "t": "G20 계기 개최 가능성",
+          "d": "주요 20개국 정상회의를 계기로 협상이 열릴 가능성이 거론되고 있습니다. (연합뉴스·KBS)"
+        },
+        {
+          "t": "우크라 뺀 회동 비판",
+          "d": "젤렌스키 대통령은 우크라이나가 빠진 트럼프와 푸틴의 만남은 실수라고 비판했습니다. (뉴시스)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "젤렌스키 대통령의 3자 종전협상 개최 동의",
+        "우크라이나 배제된 미·러 정상회담 비판"
+      ],
+      "unconfirmed": [
+        "구체적인 협상 일정 및 장소",
+        "미국·러시아 측의 협상 참여 수용 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Chosunbiz",
+        "KBS 뉴스",
+        "뉴스1",
+        "뉴시스",
+        "연합뉴스",
+        "2026.11.22 12:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 젤렌스키 우크라이나 대통령이 성탄절 전 3자 종전협상 개최에 동의했습니다.\n\n· 주요 20개국 정상회의를 계기로 3자 협상이 열릴 가능성이 거론됩니다. (연합뉴스·KBS)\n· 젤렌스키 대통령은 우크라이나를 뺀 트럼프와 푸틴의 회동은 실수라고 비판했습니다. (뉴시스)\n· 러시아 푸틴 대통령을 향해서는 살인자라고 비판했습니다. (뉴스1)\n\n성탄절 전 종전협상 추진에 대해 어떻게 생각하십니까?\n출처: 연합뉴스·KBS·조선비즈·뉴시스·뉴스1 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "젤렌스키 우크라이나 대통령이 성탄절 전 3자 종전협상 개최에 동의했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "회담 장소로는 다가오는 주요 20개국 정상회의가 거론되고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "젤렌스키 대통령은 우크라이나를 뺀 미·러 정상의 만남은 실수라고 비판했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국과 러시아의 공식 수용 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "성탄절 전 종전협상 추진, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "성탄절 전 종전?\n[[3자 종전협상]] 동의",
+  "broll": [
+    "summit room",
+    "press conference microphone"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
