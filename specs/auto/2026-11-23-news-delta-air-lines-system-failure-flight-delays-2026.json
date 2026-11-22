@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-23-news-delta-air-lines-system-failure-flight-delays-2026",
+  "topic": "델타항공 전산 장애로 미 전역 항공편 지연",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 01:09 KST",
+  "source": "CNN·The New York Times·11Alive.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiggFBVV95cUxPcUZUc1RpZ3l3U1ROTEtuY083Z1FtQm5WQ25SbmxHQlEyUzJMOGp1OHltNXlSVm1MclZqVzNpYThZOFpsdXhlTEctWmFOVkotcUJXSTZFVkEyRnBEdGx1SjNhMUREVXlWcHdtSGEwRzZRUWpzSnZfaU9kcTNjQXZVcGJB",
+    "related": [
+      [
+        "F.A.A. Says All Delta Flights Through Atlanta Delayed as Automated System Falters",
+        "The New York Times"
+      ],
+      [
+        "Delta Air Lines flights delayed nationwide, snarling holiday travel after carrier computer problems",
+        "CNN"
+      ],
+      [
+        "Delta flight delays hit Sacramento as tech failure disrupts travel before Thanksgiving",
+        "Sacramento Bee"
+      ],
+      [
+        "\"Ground delay\" issued for Delta Flights set to arrive at Hartsfield Airport",
+        "11Alive.com"
+      ],
+      [
+        "In latest airline system malfunction, automation system issue causes Delta flight delays",
+        "Los Angeles Times"
+      ]
+    ],
+    "event_key": "delta_air_lines_system_failure_flight_delays_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "델타항공 전산 장애로\n미 전역 [[항공편 지연]]",
+      "sub": "자동화 시스템 오류로 연휴 앞두고 대혼란",
+      "chips": [
+        {
+          "k": "영향",
+          "v": "전역 지연"
+        }
+      ],
+      "alt": "델타항공 전산 장애로 미 전역 항공편 지연",
+      "map": {
+        "lat": 33.7544657,
+        "lon": -84.3898151,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n애틀랜타",
+      "video_only": true,
+      "map": {
+        "lat": 33.7544657,
+        "lon": -84.3898151,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "애틀랜타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "자동화 시스템 오류",
+          "d": "미국 연방항공청은 자동화 시스템 문제로 델타항공 노선 전반에 지연이 발생했다고 밝혔습니다."
+        },
+        {
+          "t": "연휴 앞두고 차질",
+          "d": "추수감사절 연휴를 앞두고 애틀랜타 등 주요 공항에서 운항 지연이 이어졌습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "델타항공 전산 시스템 장애",
+        "미국 전역 운항 지연 발생"
+      ],
+      "unconfirmed": [
+        "정확한 시스템 장애 원인",
+        "전체 피해 규모 및 완전 복구 시점",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "11Alive.com",
+        "CNN",
+        "Los Angeles Times",
+        "Sacramento Bee",
+        "The New York Times",
+        "2026.11.23 05:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미 델타항공 전산 장애로 전역 항공편 지연이 발생했습니다.\n\n· 미국 연방항공청은 자동화 시스템 오류로 델타항공 노선에 지연 조치가 내려졌다고 발표했습니다. (NYT·CNN)\n· 추수감사절 연휴를 앞두고 애틀랜타 등 주요 공항에서 대규모 차질이 이어졌습니다. (CNN·LA타임스)\n\n이번 항공사 전산 마비 사태, 어떻게 보십니까?\n\n출처: NYT·CNN·LA타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 델타항공 전산 장애로 전역에서 항공편 지연이 일어났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 연방항공청은 애틀랜타를 비롯해 전국 노선에 지연 조치를 발령했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "CNN 등은 자동화 시스템에 오류가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추수감사절 연휴를 앞둔 승객들의 차질이 이어지고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 장애 원인과 복구 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 항공 전산 마비 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[델타항공]] 전산 마비\n무슨 일이?",
+  "broll": [
+    "airport terminal delay",
+    "airplane runway"
+  ],
+  "place_en": "Atlanta, Georgia"
+}

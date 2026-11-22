@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "spain_train_crash_fatalities_foreigners_2026",
-    "topic": "스페인 열차 참사 발생 미국인 등 외국인도 사망",
-    "slug": "2026-11-02-news-spain-train-crash-fatalities-foreigners-2026",
-    "cluster": "CBMimAFBVV95cUxPS3JjUHBVQlZtX0pqdlE3aTNvTWJzTDBQdnVqNkZkRFNxeXlqLUs3eXVIVUZNN1I3cU5TSExmeG0wN0NhU21FOV9IZTBsRnV0SloyUG55Sl9WR3lCaDBKbU5jeHFpeXJMQkZOTm5xWFVRaDFhRFZDdTNJVnRjYjA3ZUlVOVd1TUJYbjdmRVlMWFNOLWlvbDBNUA",
-    "badge": "breaking",
-    "at": 1793585478.3239818,
-    "country": "스페인",
-    "category": "사고"
-  },
-  {
     "event_key": "binance_crypto_record_hack_north_korea_2026",
     "topic": "가상자산 바이낸스 사상 최대 해킹 발생",
     "slug": "2026-11-02-news-binance-crypto-record-hack-north-korea-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795363739.033362,
     "country": "인도네시아",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "delta_air_lines_system_failure_flight_delays_2026",
+    "topic": "델타항공 전산 장애로 미 전역 항공편 지연",
+    "slug": "2026-11-23-news-delta-air-lines-system-failure-flight-delays-2026",
+    "cluster": "CBMiggFBVV95cUxPcUZUc1RpZ3l3U1ROTEtuY083Z1FtQm5WQ25SbmxHQlEyUzJMOGp1OHltNXlSVm1MclZqVzNpYThZOFpsdXhlTEctWmFOVkotcUJXSTZFVkEyRnBEdGx1SjNhMUREVXlWcHdtSGEwRzZRUWpzSnZfaU9kcTNjQXZVcGJB",
+    "badge": "brief",
+    "at": 1795378262.9214125,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
