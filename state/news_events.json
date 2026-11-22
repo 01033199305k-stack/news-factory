@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine_air_raid_app_hack_radiation_warning_2026",
-    "topic": "우크라이나 공습 경보 앱 해킹 가짜 방사능 경보 발령",
-    "slug": "2026-11-02-news-ukraine-air-raid-app-hack-radiation-warning-2026",
-    "cluster": "CBMiXkFVX3lxTE9kSjY1N0lKb1J0RWpPVGFBNjNTN0N0QVNJNjl3QnhFN0hvUTYzUGlfVjZtSGFpbTUxa2tBcC1aV0FQaFhoS1Q3bG1YMnQyX2JSalhMdEhKczBXdlVEMVE",
-    "badge": "breaking",
-    "at": 1793581729.146432,
-    "country": "우크라이나",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "spain_train_crash_fatalities_foreigners_2026",
     "topic": "스페인 열차 참사 발생 미국인 등 외국인도 사망",
     "slug": "2026-11-02-news-spain-train-crash-fatalities-foreigners-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795353082.5637212,
     "country": "리비아",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "indonesia_factory_fire_2026",
+    "topic": "인도네시아 공장 화재로 사망 3명 발생",
+    "slug": "2026-11-22-news-indonesia-factory-fire-2026",
+    "cluster": "CBMikAFBVV95cUxQQjhsX0o4dG1tTkc2NF9sVmlTM0kwUE5KYi1VbFRaZjdOeU9PVlZKYUxpeV9fNXc4NTNNdTJBT0RabGJTZkxENjg1T082bDZTc1lfSnlSZ1ptSWM5dGVYT2ZHelhIVWRNMl9sWGZCb29MR1Q5OUotNmtzSjZ0eEtiVm9wUjNmaExSbXA3UVFENmfSAZYBQVVfeXFMTTNsRE5yRkVlWVhVRXFoVlBSUGUwcTNRaDg2a1ZWcVFXTVJCWmFubF9rc2hkSHJfYjRyTi00VURKeGZocHo4ZVNqZTd1QktKSmlSTmhXMk0xcUN2WEJVVzhZX1FpalBsLTdYMUkxWTlUT1FER2FlUk1FTzlqeDNUaFBwV0FUU3dSejE5XzhBYlRLUXgyZ25n",
+    "badge": "brief",
+    "at": 1795363739.033362,
+    "country": "인도네시아",
     "category": "폭발·화재"
   }
 ]

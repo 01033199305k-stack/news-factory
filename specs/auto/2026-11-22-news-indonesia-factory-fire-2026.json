@@ -1,0 +1,137 @@
+{
+  "slug": "2026-11-22-news-indonesia-factory-fire-2026",
+  "topic": "인도네시아 공장 화재로 사망 3명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 20:13 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMikAFBVV95cUxQQjhsX0o4dG1tTkc2NF9sVmlTM0kwUE5KYi1VbFRaZjdOeU9PVlZKYUxpeV9fNXc4NTNNdTJBT0RabGJTZkxENjg1T082bDZTc1lfSnlSZ1ptSWM5dGVYT2ZHelhIVWRNMl9sWGZCb29MR1Q5OUotNmtzSjZ0eEtiVm9wUjNmaExSbXA3UVFENmfSAZYBQVVfeXFMTTNsRE5yRkVlWVhVRXFoVlBSUGUwcTNRaDg2a1ZWcVFXTVJCWmFubF9rc2hkSHJfYjRyTi00VURKeGZocHo4ZVNqZTd1QktKSmlSTmhXMk0xcUN2WEJVVzhZX1FpalBsLTdYMUkxWTlUT1FER2FlUk1FTzlqeDNUaFBwV0FUU3dSejE5XzhBYlRLUXgyZ25n",
+    "related": [
+      [
+        "Indonesia factory fire kills three, 36 missing",
+        "Al Jazeera"
+      ],
+      [
+        "Three killed and dozens missing after fire at Indonesian factory",
+        "BBC"
+      ],
+      [
+        "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
+        "The Guardian"
+      ],
+      [
+        "Three dead and dozens missing after blaze at Indonesian sweet factory | ITV News",
+        "ITVX"
+      ],
+      [
+        "Search for Indonesia factory fire missing to resume Monday, police remove 24 body bags",
+        "Reuters"
+      ]
+    ],
+    "event_key": "indonesia_factory_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "인도네시아 공장 화재로\n[[사망 3명]] 발생",
+      "sub": "실종자 수색 작업이 계속 이어지고 있습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "3명"
+        }
+      ],
+      "alt": "인도네시아 공장 화재로 사망 3명 발생",
+      "map": {
+        "lat": -7.3279694,
+        "lon": 109.613911,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "인도네시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "인도네시아\n자바",
+      "video_only": true,
+      "map": {
+        "lat": -7.3279694,
+        "lon": 109.613911,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "자바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "실종자 수색",
+          "d": "경찰은 시신 가방 24구를 수습했으며 월요일에 수색을 재개한다고 밝혔습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 3명 (알자지라·BBC·가디언·로이터)",
+        "공장 화재 발생"
+      ],
+      "unconfirmed": [
+        "정확한 실종자 수 보도 엇갈림 (36명 또는 수십 명)",
+        "한국인 피해 여부",
+        "화재 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "ITVX",
+        "Reuters",
+        "The Guardian",
+        "2026.11.23 01:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 인도네시아 공장 화재로 사망 3명 발생\n\n· 실종자 수색 작업이 월요일에 재개될 예정입니다 (로이터)\n· 경찰은 시신 가방 24구를 수습했습니다 (로이터)\n\n출처: 알자지라·BBC·가디언·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도네시아의 한 공장에서 불이 나 3명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 수십 명이 실종됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경찰은 시신 가방 24구를 수습했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인과 실종자 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "인도네시아 공장에서\n[[무슨 일이]]?",
+  "broll": [
+    "factory fire smoke",
+    "industrial building night"
+  ],
+  "place_en": "Java, Indonesia"
+}
