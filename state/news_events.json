@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "israel_gaza_strikes_eight_killed_2026",
-    "topic": "이스라엘군 가자지구 공습으로 어린이 포함 사망 8명 발생",
-    "slug": "2026-11-02-news-israel-gaza-strikes-eight-killed-2026",
-    "cluster": "CBMiXkFVX3lxTE5lYktudFBjelpqdDh0SzNDZ0tTLXp4dGFWQnlHWFFOSEFSN3pjdnFKWUFZR01fM3RpX2tzSFBDWU1rc1ZNUUVZbG5HcGg0aGd3dVJ5VGFSMTQ3MkM4U1E",
-    "badge": "breaking",
-    "at": 1793556531.7060359,
-    "country": "팔레스타인",
-    "category": "사고"
-  },
-  {
     "event_key": "russia_ukraine_strikes_power_outage_2026",
     "topic": "우크라이나 수만 가구 정전 발생 러시아 공습",
     "slug": "2026-11-02-news-russia-ukraine-strikes-power-outage-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1795316989.0369616,
     "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "cop31_turkiye_fossil_fuel_talks_overtime_2026",
+    "topic": "UN 기후총회 화석연료 퇴출 합의 진통",
+    "slug": "2026-11-22-news-cop31-turkiye-fossil-fuel-talks-overtime-2026",
+    "cluster": "CBMiW0FVX3lxTE03c3R4cVlyV1I0cnJJdVFYbFk4VjlEOHZIRTE4NDNRM2tvNUxwY0EwbUQxZ1NlQl9KNVJZTkhJSHV0d1gxQ0hNTE9yRXRLd0l0NWtYM2k5NnZ0V0E",
+    "badge": "brief",
+    "at": 1795324210.7911236,
+    "country": "튀르키예",
     "category": "국제"
   }
 ]

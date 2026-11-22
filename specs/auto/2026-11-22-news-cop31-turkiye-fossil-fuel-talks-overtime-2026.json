@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-22-news-cop31-turkiye-fossil-fuel-talks-overtime-2026",
+  "topic": "UN 기후총회 화석연료 퇴출 합의 진통",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.22 12:58 KST",
+  "source": "BBC·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE03c3R4cVlyV1I0cnJJdVFYbFk4VjlEOHZIRTE4NDNRM2tvNUxwY0EwbUQxZ1NlQl9KNVJZTkhJSHV0d1gxQ0hNTE9yRXRLd0l0NWtYM2k5NnZ0V0E",
+    "related": [
+      [
+        "Fossil fuel dispute threatens to derail COP31 climate deal",
+        "BBC"
+      ],
+      [
+        "COP31: UN Climate summit runs into second day of overtime",
+        "DW.com"
+      ],
+      [
+        "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout | Cop31",
+        "The Guardian"
+      ],
+      [
+        "COP31 extends into overtime in Turkiye meeting",
+        "The Hindu"
+      ],
+      [
+        "COP31 climate talks close to final deal, says summit president",
+        "Reuters"
+      ]
+    ],
+    "event_key": "cop31_turkiye_fossil_fuel_talks_overtime_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "UN 기후총회 [[화석연료]]\n퇴출 합의 진통",
+      "sub": "사우디 반발 속 이틀째 막판 연장전",
+      "chips": [
+        {
+          "k": "회기",
+          "v": "연장"
+        }
+      ],
+      "alt": "UN 기후총회 화석연료 퇴출 합의 진통",
+      "map": {
+        "lat": 39.294076,
+        "lon": 35.2316631,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "튀르키예"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "튀르키예",
+      "video_only": true,
+      "map": {
+        "lat": 39.294076,
+        "lon": 35.2316631,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "튀르키예"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "화석연료 퇴출 대립",
+          "d": "사우디아라비아와의 대립 등으로 화석연료 감축 명시를 둔 진통이 이어지고 있습니다 (가디언·BBC)."
+        },
+        {
+          "t": "총회 일정 연장",
+          "d": "당초 예정된 시한을 넘어 이틀째 연장 협상이 진행되고 있습니다 (DW·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "COP31 회기 연장",
+        "화석연료 감축 문구 대립"
+      ],
+      "unconfirmed": [
+        "최종 합의문 타결 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "DW.com",
+        "Reuters",
+        "The Guardian",
+        "The Hindu",
+        "2026.11.22 14:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 유엔 기후변화협약 당사국총회가 화석연료 퇴출 문구를 두고 진통을 겪으며 연장전에 들어갔습니다.\n\n· 사우디아라비아와의 대립으로 최종 합의문 작성이 난항을 겪고 있습니다 (가디언·BBC)\n· 회기가 이틀째 연장된 가운데 의장은 최종 합의에 가까워졌다고 밝혔습니다 (DW·로이터)\n\n세계 각국의 화석연료 감축 합의, 이뤄질 수 있을까요?\n출처: BBC·DW·가디언·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "유엔 기후변화협약 당사국총회가 화석연료 퇴출 합의를 두고 막판 진통을 겪고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "튀르키예에서 열린 이번 총회는 당초 시한을 넘겨 이틀째 연장 협상이 이어지고 있습니다.",
+      "card": "map"
+    },
+    {
+      "text": "BBC와 가디언은 사우디아라비아와의 대립 등으로 합의안 작성이 난항을 겪고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "최종 합의문 타결 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "세계 각국의 화석연료 감축 합의, 과연 타결될 수 있을까요?",
+      "card": "ask",
+      "screen": "합의 타결될까?"
+    }
+  ],
+  "hook": "[[COP31]] 막판\n진통의 이유는?",
+  "broll": [
+    "climate conference stage",
+    "press conference microphone"
+  ],
+  "place_en": "Turkiye"
+}
