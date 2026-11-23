@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "israel_election_results_2026",
-    "topic": "이스라엘 총선서 네타냐후 블록 53석",
-    "slug": "2026-11-03-news-israel-election-results-2026",
-    "cluster": "CBMikAFBVV95cUxNam5ieDJudjhFckV1ay1jVlMwbGtIRGxMUURpNDIxdm9mcnROc1BGOHd1VExVR05rN05LaUl0TGV6bXNvaHZ0TUUwNVlYUTc5eFlEQkp3VlVvazl3bFM3T1FHY0ZTR2NmUlloeHRXM2d2X0M2Ujd6U2YzUDN1MkdPVW9uUDZjVzFleXk3T19KWXQ",
-    "badge": "breaking",
-    "at": 1793639366.6665761,
-    "country": "이스라엘",
-    "category": "국제"
-  },
-  {
     "event_key": "us_washington_bird_flu_death_2026",
     "topic": "미국 워싱턴주서 올해 첫 조류인플루엔자 사망",
     "slug": "2026-11-02-news-us-washington-bird-flu-death-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795425275.6609461,
     "country": "인도네시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "sudan_khartoum_un_building_drone_strike_2026",
+    "topic": "수단 수도 드론 피격 UN 건물 파손 피해",
+    "slug": "2026-11-23-news-sudan-khartoum-un-building-drone-strike-2026",
+    "cluster": "CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS",
+    "badge": "breaking",
+    "at": 1795432248.3238516,
+    "country": "수단",
     "category": "국제"
   }
 ]

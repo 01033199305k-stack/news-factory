@@ -48324,5 +48324,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795426397
+  },
+  {
+    "slug": "2026-11-23-news-sudan-khartoum-un-building-drone-strike-2026",
+    "event_ms": 1795427775000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 수단 수도 하르툼에서 UN 시설이 드론 공격을 받았습니다.\n\n· 하르툼 주택가와 UN 건물이 드론 피격으로 파손됐습니다 (DW·알자지라)\n· 이번 공격으로 4명이 숨졌다고 보도됐습니다 (알자지라)\n· 수단이 에티오피아발 드론을 요격했다고 현지 매체가 보도했습니다 (아나돌루 통신)\n\n출처: 알자지라·DW·아나돌루 통신 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "수단"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18226825171355887",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgFPjL-FsKe",
+        "kind": "carousel",
+        "at": 1795432294
+      },
+      "instagram": {
+        "id": "18017248541986811",
+        "permalink": "https://www.instagram.com/reel/DgFP4JCgb6k/",
+        "kind": "reel",
+        "at": 1795432484
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1795432494
+      },
+      "tiktok": {
+        "id": "7711323869780430132",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7711323869780430132",
+        "kind": "video",
+        "at": 1795432615
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795432625
   }
 ]

@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-23-news-sudan-khartoum-un-building-drone-strike-2026",
+  "topic": "수단 수도 드론 피격 UN 건물 파손 피해",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 18:56 KST",
+  "source": "Al Jazeera·Anadolu Ajansı·DW.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMif0FVX3lxTE95V2lBM1hDaWY4eHByMlh4RnpLTkhIOVBtQnFXMHM3R0hfV2lxZEZSNTNBbEg5cHowV2VobnNxU3VnZzlTMU16alVwNjJ0XzBNNlRCVElvdEFkVkV0RFhSV3ZvV2FUQThMSzdqLXVYNDBIeWxmTHpjd3FwUncwME3SAYQBQVVfeXFMUGo3NGlSR1RUbFN2RGd1QkNpQUV3YlpOOGhNc2lvYWs1WVVEbmpJNjVBanY2Mk1LZWFvLWJCLVdYU0pqaFRLUGNHYi1wM2J0cGdqSkVUQkRlbGo4bEh3SENuQjRFUC1uSms0TDJCR19UU21VSEk3b2I0UmR5NVdWTjFIdjFS",
+    "related": [
+      [
+        "Drone attacks kill four near Sudan’s capital, damage UN building",
+        "Al Jazeera"
+      ],
+      [
+        "Sudan intercepts drones launched from Ethiopia targeting Khartoum, local media reports",
+        "Anadolu Ajansı"
+      ],
+      [
+        "Sudan: Drones hit UN building, residential area in Khartoum",
+        "DW.com"
+      ],
+      [
+        "Drone strike damages UN premises in Khartoum",
+        "Radio Tamazuj"
+      ],
+      [
+        "US urges end to weapons flow, ‘humanitarian truce’ in Sudan after reported RSF drone attacks in Khartoum",
+        "US Muslims"
+      ]
+    ],
+    "event_key": "sudan_khartoum_un_building_drone_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "수단 수도 드론 피격\n[[UN 건물]] 파손 피해",
+      "sub": "하르툼 주거지와 UN 시설에 드론 공격이 가해졌습니다",
+      "chips": [],
+      "alt": "수단 수도 드론 피격 UN 건물 파손 피해",
+      "map": {
+        "lat": 15.5635972,
+        "lon": 32.5349123,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "수단"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "수단\n하르툼",
+      "video_only": true,
+      "map": {
+        "lat": 15.5635972,
+        "lon": 32.5349123,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "하르툼"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "UN 건물 피격",
+          "d": "수단 수도 하르툼의 UN 시설과 주택가가 드론 공격을 받아 건물 일부가 파손됐습니다 (DW·알자지라)."
+        },
+        {
+          "t": "사망자 발생 보도",
+          "d": "하르툼 인근에서 드론 공격으로 4명이 숨졌다고 보도됐습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "하르툼 UN 시설 드론 피격",
+        "주거지 건물 파손"
+      ],
+      "unconfirmed": [
+        "정확한 공격 주체",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Anadolu Ajansı",
+        "DW.com",
+        "Radio Tamazuj",
+        "US Muslims",
+        "2026.11.23 20:10 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 수단 수도 하르툼에서 UN 시설이 드론 공격을 받았습니다.\n\n· 하르툼 주택가와 UN 건물이 드론 피격으로 파손됐습니다 (DW·알자지라)\n· 이번 공격으로 4명이 숨졌다고 보도됐습니다 (알자지라)\n· 수단이 에티오피아발 드론을 요격했다고 현지 매체가 보도했습니다 (아나돌루 통신)\n\n출처: 알자지라·DW·아나돌루 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "수단 수도 하르툼에서 UN 시설이 드론 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "수단 하르툼의 주거지와 UN 건물 일부가 파손됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라는 이번 공격으로 4명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격 주체와 정확한 배후는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[수단 수도]] UN 건물\n드론 공격받아",
+  "broll": [
+    "damaged building rubble",
+    "un vehicle street"
+  ],
+  "place_en": "Khartoum, Sudan"
+}
