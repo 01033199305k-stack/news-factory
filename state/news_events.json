@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "park_hang_seo_racism_thailand",
-    "topic": "태국 축구장서 나온 김치맨 발언 박항서 감독 관중과 충돌",
-    "slug": "2026-11-03-news-park-hang-seo-racism-thailand",
-    "cluster": "CBMiWkFVX3lxTE1KZEdHc28xWG9aR0ZwZkM3VGEzQnJWZEVabnI3M2gxbzgtTkUyaHBfV0FvZFNzRUhhd3NwbzhwQnlXd0NQQm82ejFTUEJHT0xNZ1JlVzM3NGxUUdIBX0FVX3lxTE5TaGc3Q2x3dDhwTWhZOVBacndhelBWajlnQVpWSlF3VDhwc29DQ2Y2QWVBbU9JLUJiTHowOE4zT3pkWUpWc2lWbktGNUt3Y05TUUw5SHVUUjcyR2ZTTEtn",
-    "badge": "brief",
-    "at": 1793664426.914604,
-    "country": "태국",
-    "category": "국제"
-  },
-  {
     "event_key": "el_salvador_troops_haiti_gang_clashes_2026",
     "topic": "엘살바도르, 하이티에 군대 파견 병력 2,000명 투입",
     "slug": "2026-11-03-news-el-salvador-troops-haiti-gang-clashes-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795458227.9795525,
     "country": "에스토니아",
+    "category": "국제"
+  },
+  {
+    "event_key": "russian_missile_hits_poland_nato_response_2026",
+    "topic": "러시아 미사일 폴란드 타격 나토, 조기경보기 파견 결정",
+    "slug": "2026-11-24-news-russian-missile-hits-poland-nato-response-2026",
+    "cluster": "CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy",
+    "badge": "breaking",
+    "at": 1795468088.677837,
+    "country": "폴란드",
     "category": "국제"
   }
 ]

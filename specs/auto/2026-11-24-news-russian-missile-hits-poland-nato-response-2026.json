@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-24-news-russian-missile-hits-poland-nato-response-2026",
+  "topic": "러시아 미사일 폴란드 타격 나토, 조기경보기 파견 결정",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.24 05:02 KST",
+  "source": "Al Jazeera·BBC·NBC News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuAFBVV95cUxOeTBzUEtPZ3RHS2tpdjlJNXRLMmVneUVHeWNmRC1IRWUzb3RCUk15alZwc1hvZ1Z2czFOZDV0YldySll3N1dLQU84YjlqN2VvVTVzeHY3TDRLbjM2dkNGZGxkSkpBb1Y0a0NTWlgtQmtvSVcyS1Q3NUZaZmwzd1NYd25JNUdneER3N181RUJzUzU1Zm80R0w5VjdieFRDTUtpalhHVWgzWjZCLXJwbUpZUVRkVUExajNy",
+    "related": [
+      [
+        "NATO calls urgent meeting as string of incidents escalates Russia tensions",
+        "The Washington Post"
+      ],
+      [
+        "Poland to get NATO early-warning aircraft after Russian missiles hit country",
+        "NBC News"
+      ],
+      [
+        "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+        "BBC"
+      ],
+      [
+        "Russian missiles hit Poland: What happened, and could NATO respond?",
+        "Al Jazeera"
+      ],
+      [
+        "NATO to send early-warning system aircraft to Poland after missiles incident",
+        "Reuters"
+      ]
+    ],
+    "event_key": "russian_missile_hits_poland_nato_response_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아 미사일 폴란드 타격\n나토, 조기경보기 파견 결정",
+      "sub": "나토는 긴급 회의를 열고 대응 조치를 논의했습니다",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "조기경보기 파견"
+        }
+      ],
+      "alt": "러시아 미사일 폴란드 타격 나토, 조기경보기 파견 결정",
+      "map": {
+        "lat": 52.215933,
+        "lon": 19.134422,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "폴란드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "폴란드",
+      "video_only": true,
+      "map": {
+        "lat": 52.215933,
+        "lon": 19.134422,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "폴란드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "폴란드 피격",
+          "d": "러시아 미사일이 폴란드 영토를 타격했다고 외신들이 보도했습니다 (BBC·NBC 뉴스)"
+        },
+        {
+          "t": "나토 대응",
+          "d": "나토는 긴급 회의를 소집하고 폴란드에 조기경보기(AWACS)를 파견하기로 결정했습니다 (워싱턴포스트·로이터)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 미사일 폴란드 타격",
+        "나토 조기경보기 파견 결정"
+      ],
+      "unconfirmed": [
+        "미사일 발사 경위 및 피해 규모",
+        "나토의 추가 군사적 대응 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "NBC News",
+        "Reuters",
+        "The Washington Post",
+        "2026.11.24 06:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아 미사일이 폴란드 영토를 타격해 나토가 긴급 대응에 나섰습니다\n\n· 러시아 미사일이 폴란드에 떨어졌다고 투스크 총리와 외신들이 밝혔습니다 (BBC·NBC 뉴스)\n· 나토는 긴급 회의를 열고 폴란드에 조기경보통제기를 보내기로 결정했습니다 (워싱턴포스트·로이터)\n\n질문: 폴란드를 타격한 러시아 미사일 사태, 나토의 대응이 전쟁 확전으로 이어질지 어떻게 보십니까?\n\n출처: 워싱턴포스트·NBC 뉴스·BBC·알자지라·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아 미사일이 폴란드 영토를 타격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "나토는 긴급 회의를 열고 폴란드에 조기경보기를 파견하기로 결정했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 미사일 발사 경위와 추가 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 사태에 대한 나토의 대응이 적절하다고 보십니까?",
+      "card": "ask",
+      "screen": "나토 대응 적절할까요?"
+    }
+  ],
+  "hook": "폴란드를 타격한\n[[러시아]] 미사일",
+  "broll": [
+    "military radar screen",
+    "nato flag building"
+  ],
+  "place_en": "Poland"
+}
