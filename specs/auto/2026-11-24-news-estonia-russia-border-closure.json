@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-24-news-estonia-russia-border-closure",
+  "topic": "에스토니아, 러시아 국경 폐쇄 결정 모스크바 \"새로운 철의 장막\" 반발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.24 01:13 KST",
+  "source": "Al Jazeera·NBC News·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ",
+    "related": [
+      [
+        "Moscow accuses Estonia of hostile actions on 'verge of triggering open war'",
+        "Reuters"
+      ],
+      [
+        "EU sanctions package intended to ‘keep pressure’ on Russia and ‘strike harder’ at its ability to fund Ukraine war – Europe live",
+        "The Guardian"
+      ],
+      [
+        "Estonia to close border with Russia, Moscow decries ‘new Iron Curtain’",
+        "NBC News"
+      ],
+      [
+        "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+        "Al Jazeera"
+      ],
+      [
+        "Russia accuses Estonia of erecting new 'Iron Curtain' with border closure, says it will respond",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "estonia_russia_border_closure"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "에스토니아, 러시아 국경 폐쇄 결정\n모스크바 \"새로운 철의 장막\" 반발",
+      "sub": "모스크바 측은 적대적 행위에 강력히 대응하겠다고 경고했습니다.",
+      "chips": [
+        {
+          "k": "국경 폐쇄",
+          "v": "에스토니아"
+        }
+      ],
+      "alt": "에스토니아, 러시아 국경 폐쇄 결정 모스크바 \"새로운 철의 장막\" 반발",
+      "map": {
+        "lat": 59.437242,
+        "lon": 24.7572693,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "에스토니아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "에스토니아\n탈린",
+      "video_only": true,
+      "map": {
+        "lat": 59.437242,
+        "lon": 24.7572693,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "탈린"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "러시아 반응",
+          "d": "모스크바 측은 에스토니아의 국경 폐쇄가 새로운 철의 장막을 세우는 것이라고 비판했습니다 (NBC News·Al Jazeera)."
+        },
+        {
+          "t": "향후 대응",
+          "d": "러시아는 이에 대해 적절히 대응하겠다고 밝혔습니다 (Yahoo)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에스토니아의 러시아 국경 폐쇄",
+        "러시아의 반발 및 대응 경고"
+      ],
+      "unconfirmed": [
+        "러시아의 구체적인 대응 조치 내용",
+        "국경 폐쇄로 인한 경제·물류 영향"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "NBC News",
+        "Reuters",
+        "The Guardian",
+        "Yahoo",
+        "2026.11.24 03:23 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 에스토니아가 러시아 국경을 폐쇄하기로 결정했습니다\n\n· 모스크바 측은 에스토니아의 조치가 새로운 철의 장막을 세우는 것이라고 비판했습니다 (NBC News·Al Jazeera)\n· 러시아는 이에 대해 적절한 조치로 대응하겠다고 밝혔습니다 (Yahoo)\n\n이번 국경 폐쇄 조치에 대해 어떻게 보십니까?\n\n출처: Reuters·The Guardian·NBC News·Al Jazeera·Yahoo 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "에스토니아가 러시아와의 국경을 폐쇄하기로 결정했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC 뉴스 등은 모스크바 측이 이를 새로운 철의 장막이라고 비판했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아 측은 에스토니아의 적대적 행위에 대해 강력히 대응하겠다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아의 구체적인 보복 조치는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "에스토니아가\n[[러시아 국경]]을?",
+  "broll": [
+    "border checkpoint sign",
+    "road border gate"
+  ],
+  "place_en": "Tallinn, Estonia"
+}

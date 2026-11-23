@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "slug": "2026-11-24-news-estonia-russia-border-closure",
+    "event_ms": 1795450390000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 에스토니아가 러시아 국경을 폐쇄하기로 결정했습니다\n\n· 모스크바 측은 에스토니아의 조치가 새로운 철의 장막을 세우는 것이라고 비판했습니다 (NBC News·Al Jazeera)\n· 러시아는 이에 대해 적절한 조치로 대응하겠다고 밝혔습니다 (Yahoo)\n\n이번 국경 폐쇄 조치에 대해 어떻게 보십니까?\n\n출처: Reuters·The Guardian·NBC News·Al Jazeera·Yahoo 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "에스토니아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18428572828153463",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgGBQr5mYlO",
+        "kind": "carousel",
+        "at": 1795458358
+      },
+      "instagram": {
+        "id": "18117573431464787",
+        "permalink": "https://www.instagram.com/reel/DgGBmzDD2sm/",
+        "kind": "reel",
+        "at": 1795458562
+      },
+      "youtube": {
+        "id": "xgD4E7feNNo",
+        "permalink": "https://youtube.com/shorts/xgD4E7feNNo",
+        "kind": "shorts",
+        "at": 1795458587
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

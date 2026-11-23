@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "somali_pirates_hijack_iranian_vessel_indian_navy_rescue_2026",
-    "topic": "소말리아 해역서 피랍 이란 어선 선원 구조",
-    "slug": "2026-11-03-news-somali-pirates-hijack-iranian-vessel-indian-navy-rescue-2026",
-    "cluster": "CBMivAFBVV95cUxOZHNrVy0xU2ZvekJjbm9oVGZ1M09FU3pWV2lOU3J4N1dPZEVfaWtwS2U3RWYxOU5pdDJIejBrejZYY0gzNHFsRFR2NnU2akUxWmNiRGpXd09NY0U0eG9Ua0xCbHZNUTBuQ2Z0Y3dmNVRYSXduWmNHZG5DMm5wbkkyd01NTE1hM2FHU2tKWWRITmEyZmRwYkZGOV9uWnRSbk9YN0lvRm9LZG10THpOdmxJb0xMQ05uRnVKSUUyVNIBwgFBVV95cUxNNF9aNFp3NzI0RG43dUVsbEk4dFZFUWllb29PVGxWNElDdVlGdjJBd0FuMnliNkZTTlpJV1cwY05FLUo4S1BMNjVIZlpyNG5tSm5TX1NtMmpIRFB4Mm93MjlGRXZudFo3SF9HYmcwSUN6aThjbDhIdGZYYmZRLWVZdFUxZ0NjM0wweDVMTVk3NHRxTU43X3ZLMkJvemQyZlBJVThYSzE4LURCMXZvN205VmpmOFd2RV96ZVZROWp4S3pBUQ",
-    "badge": "breaking",
-    "at": 1793653756.6183765,
-    "country": "소말리아",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "park_hang_seo_racism_thailand",
     "topic": "태국 축구장서 나온 김치맨 발언 박항서 감독 관중과 충돌",
     "slug": "2026-11-03-news-park-hang-seo-racism-thailand",
@@ -2998,5 +2988,15 @@
     "at": 1795456945.3607404,
     "country": "이스라엘",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "estonia_russia_border_closure",
+    "topic": "에스토니아, 러시아 국경 폐쇄 결정 모스크바 \"새로운 철의 장막\" 반발",
+    "slug": "2026-11-24-news-estonia-russia-border-closure",
+    "cluster": "CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ",
+    "badge": "breaking",
+    "at": 1795458227.9795525,
+    "country": "에스토니아",
+    "category": "국제"
   }
 ]
