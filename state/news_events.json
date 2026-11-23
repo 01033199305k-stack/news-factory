@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "koreazinc_onsan_smelter_fire_2026",
-    "topic": "울산 고려아연 온산제련소 공장에서 불이 났습니다",
-    "slug": "2026-11-02-news-koreazinc-onsan-smelter-fire-2026",
-    "cluster": "CBMiW0FVX3lxTE4wdkM4WDBabnlNY19XVzdJTkJweTdYOUZRVUhHMXBIaEZFb1YwSUl4M3lxQnZ1Ri1aSHdSTkxoVVVBYktVeWhHN0FmYkVWSDVfVmlEXzRwamFtSkk",
-    "badge": "breaking",
-    "at": 1793593998.784437,
-    "country": "대한민국",
-    "category": "폭발·화재"
-  },
-  {
     "event_key": "us_push_russian_gas_europe_ukraine_2026",
     "topic": "미국, 우크라 거쳐 러 가스 공급 추진",
     "slug": "2026-11-02-news-us-push-russian-gas-europe-ukraine-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795392531.7091582,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "houthis_saudi_rabigh_refinery_attack_2026",
+    "topic": "예멘 후티 반군, 사우디 라빅 정유공장 공격 주장 부상 6명 발생",
+    "slug": "2026-11-23-news-houthis-saudi-rabigh-refinery-attack-2026",
+    "cluster": "CBMihAJBVV95cUxNMUJtUU43cGtFVW1aQ1FRX3d0ZUxxNFkySnQ5REFsY3RiV3hkb0RIRS1oRTlYcnZIRXpCWGowcTVQNlVsSnVwbjR4eURjMnRVYXpwTklYc0ZSeU1Lb1JwdzZnSjZrdktwb094NkhfZDZQanRKS3pUOU9nbU1iamt1TEtLYjhTUzNpTFNxUXFQS3ktY1gyUEszbWZERTJMN3FNb09TdVZYQkxVaHZVMlFZekhhNGFqZWI5UFFxazIwZ0tDU0VxVkF5T3ZoUU01NlphdUxYejBLbjVvMGk5VU8wc0FfVUIxSEF5NVQycFh0Q01SWTZjTkZiSHRFcm90U01SeHljZg",
+    "badge": "breaking",
+    "at": 1795396006.3039095,
+    "country": "사우디아라비아",
+    "category": "국제"
   }
 ]

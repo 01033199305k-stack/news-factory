@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-23-news-houthis-saudi-rabigh-refinery-attack-2026",
+  "topic": "예멘 후티 반군, 사우디 라빅 정유공장 공격 주장 부상 6명 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 09:07 KST",
+  "source": "The Times of India·Mehr News Agency·Telegraph India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAJBVV95cUxNMUJtUU43cGtFVW1aQ1FRX3d0ZUxxNFkySnQ5REFsY3RiV3hkb0RIRS1oRTlYcnZIRXpCWGowcTVQNlVsSnVwbjR4eURjMnRVYXpwTklYc0ZSeU1Lb1JwdzZnSjZrdktwb094NkhfZDZQanRKS3pUOU9nbU1iamt1TEtLYjhTUzNpTFNxUXFQS3ktY1gyUEszbWZERTJMN3FNb09TdVZYQkxVaHZVMlFZekhhNGFqZWI5UFFxazIwZ0tDU0VxVkF5T3ZoUU01NlphdUxYejBLbjVvMGk5VU8wc0FfVUIxSEF5NVQycFh0Q01SWTZjTkZiSHRFcm90U01SeHljZg",
+    "related": [
+      [
+        "US-Iran War : Houthis claim strikes on Saudi oil refinery, radar; at least 6 injured",
+        "The Indian Express"
+      ],
+      [
+        "Yemen's Houthis claim drone attack on Saudi Arabia's major Rabigh oil refinery on Red Sea coast",
+        "Telegraph India"
+      ],
+      [
+        "US Iran War Live Updates: Trump claims Iran escalated drone, missile attacks after Democrats' midterm wins",
+        "The Times of India"
+      ],
+      [
+        "Yemen attacks Saudi’s Jizan in retaliatory operation",
+        "Mehr News Agency"
+      ],
+      [
+        "Houthis Claim Direct Hit on Rabigh Refinery, No Saudi Damage Confirmation",
+        "https://houseofsaud.com/"
+      ]
+    ],
+    "event_key": "houthis_saudi_rabigh_refinery_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "예멘 후티 반군, 사우디 라빅 정유공장 공격 주장\n부상 [[6명]] 발생",
+      "sub": "사우디 측의 피해 확인은 아직 나오지 않았습니다.",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "6명"
+        }
+      ],
+      "alt": "예멘 후티 반군, 사우디 라빅 정유공장 공격 주장 부상 6명 발생",
+      "map": {
+        "lat": 22.7989669,
+        "lon": 39.0335547,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n라빅",
+      "video_only": true,
+      "map": {
+        "lat": 22.7989669,
+        "lon": 39.0335547,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "라빅"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "정유시설 피격",
+          "d": "예멘 후티 반군이 사우디아라비아 홍해 연안의 라빅 정유공장을 드론으로 공격했다고 밝혔습니다 (The Indian Express·Telegraph India)."
+        },
+        {
+          "t": "추가 공격",
+          "d": "사우디아라비아 지잔 지역도 보복 작전의 공격을 받았습니다 (Mehr News Agency)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "후티 반군의 사우디 정유공장 공격 주장",
+        "부상 6명 발생 (The Indian Express)"
+      ],
+      "unconfirmed": [
+        "사우디아라비아 측의 공식 피해 확인",
+        "정확한 피해 규모 및 시설 파손 상태",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Mehr News Agency",
+        "Telegraph India",
+        "The Indian Express",
+        "The Times of India",
+        "https://houseofsaud.com/",
+        "2026.11.23 10:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 예멘 후티 반군, 사우디 라빅 정유공장 공격 주장 부상 6명 발생\n\n· 예멘 후티 반군이 사우디아라비아 홍해 연안의 라빅 정유공장을 드론으로 공격했다고 밝혔습니다 (The Indian Express·Telegraph India)\n· 사우디아라비아 지잔 지역도 보복 작전의 공격을 받았습니다 (Mehr News Agency)\n\n여러분은 이번 중동 지역 교전 격화 상황, 어떻게 보십니까?\n\n출처: The Indian Express·Telegraph India·Mehr News Agency 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "예멘 후티 반군이 사우디아라비아 라빅 정유공장을 공격했다고 주장했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인도 언론은 이 공격으로 최소 6명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사우디아라비아 지잔 지역도 함께 공격을 받았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사우디 측의 공식적인 피해 확인은 아직 나오지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중동 지역 교전 격화 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "중동 교전 격화, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "사우디 [[정유공장]]에\n벌어진 일은?",
+  "broll": [
+    "oil refinery facility plant",
+    "industrial plant night"
+  ],
+  "place_en": "Rabigh, Saudi Arabia"
+}

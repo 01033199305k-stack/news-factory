@@ -47890,5 +47890,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795392966
+  },
+  {
+    "slug": "2026-11-23-news-houthis-saudi-rabigh-refinery-attack-2026",
+    "event_ms": 1795392428000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 예멘 후티 반군, 사우디 라빅 정유공장 공격 주장 부상 6명 발생\n\n· 예멘 후티 반군이 사우디아라비아 홍해 연안의 라빅 정유공장을 드론으로 공격했다고 밝혔습니다 (The Indian Express·Telegraph India)\n· 사우디아라비아 지잔 지역도 보복 작전의 공격을 받았습니다 (Mehr News Agency)\n\n여러분은 이번 중동 지역 교전 격화 상황, 어떻게 보십니까?\n\n출처: The Indian Express·Telegraph India·Mehr News Agency 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "사우디아라비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18120407540009471",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgEKcFsmGId",
+        "kind": "carousel",
+        "at": 1795396060
+      },
+      "instagram": {
+        "id": "18643590796048767",
+        "permalink": "https://www.instagram.com/reel/DgEKzXCAd67/",
+        "kind": "reel",
+        "at": 1795396271
+      },
+      "youtube": {
+        "id": "HNwhF7g_uoU",
+        "permalink": "https://youtube.com/shorts/HNwhF7g_uoU",
+        "kind": "shorts",
+        "at": 1795396296
+      },
+      "tiktok": {
+        "id": "7711168408359816456",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7711168408359816456",
+        "kind": "video",
+        "at": 1795396428
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795396438
   }
 ]
