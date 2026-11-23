@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-23-news-ohio-parma-baby-shower-shooting-2026",
+  "topic": "베이비샤워서 총격 3명 사망·1명 부상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 14:29 KST",
+  "source": "The Hindu·The Times of India·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi4AFBVV95cUxNd0tOOHZtYVZmUTgzZ1p1X0NoRjlvVFdwbEUybnFaYzNUdWpXQXBEcHNWam1lc0VHYVVyMnBJeFNRUTJIM3YtNV9RWWNzaTN1OEEwMjZTQTZFcmtLRjlubHFNa05MWVYzWDY2NmN1ZEF5TC1xbG9EVDdlRENZa0hyczlQUXgtU3lBbGRHTW9PaVdXT1FmdVV2aFJWVHlDTDVFdEVJSEpOVDZFX2xDYlZIM0tQUEM0ZEtCSEpJYTVtYW45ZDBTSVJSSVVjSXlWaldOZlVwOHFUX21wS3NxeENBZdIB7gFBVV95cUxQeXE5ZFZIdXFvRkRfcDRCanJTQnR6SXFrS0d6WTlXVzg3bWM2MVZCUVQybTNnSTdiUS1XYTIzV0ltWWZLWVJsUUl2RWdMOC1jZ19TN0pvZDZMVTJmSkF0Z3hqcHF6WHVNeTR1ZFpXQVhFc3BTYWdLT2o4SUc0cFRtWTdDc1VGcFJKQzdjOWpWMWtpNE9IeDhGLW1YNVc4dWhIWWZ2RDJYVjhQR2RCWEZUWk1Xa25HU2NUcHNYbEZCV2hOUkFpZkhvQUJaS2Zpc2pYa0EwZ2g4Z1dKbmZEY0hFT050X1FRckVFdlc0cG93",
+    "related": [
+      [
+        "Three killed at Ohio baby shower and nine shot at California concert in seperate weekend attacks",
+        "The New Indian Express"
+      ],
+      [
+        "3 killed and 1 wounded in shooting at Ohio baby shower; 1 man in custody, police say",
+        "The Hindu"
+      ],
+      [
+        "Ohio shooting: 3 killed, 1 injured at event venue; two suspects in custody",
+        "The Times of India"
+      ],
+      [
+        "Teen girl and grandad shot dead as dad opens fire at his own kid's baby shower",
+        "Daily Star"
+      ],
+      [
+        "Parma police identify 2 victims in deadly baby shower shooting",
+        "Yahoo"
+      ]
+    ],
+    "event_key": "ohio_parma_baby_shower_shooting_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[베이비샤워]]서 총격\n3명 사망·1명 부상",
+      "sub": "미국 오하이오주 행사장에 총격 발생",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "3명"
+        },
+        {
+          "k": "부상",
+          "v": "1명"
+        }
+      ],
+      "alt": "베이비샤워서 총격 3명 사망·1명 부상",
+      "map": {
+        "lat": 41.3822398,
+        "lon": -81.7355692,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오하이오주 파마",
+      "video_only": true,
+      "map": {
+        "lat": 41.3822398,
+        "lon": -81.7355692,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오하이오주 파마"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "가족 행사 중 총격",
+          "d": "오하이오주의 한 행사장에서 축하 모임 중 총격이 일어났습니다 (타임스오브인디아)."
+        },
+        {
+          "t": "용의자 체포",
+          "d": "경찰은 총격을 가한 용의자를 체포했다고 밝혔습니다 (힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "3명 사망 (인디안익스프레스·타임스오브인디아)",
+        "1명 부상 (힌두·타임스오브인디아)",
+        "용의자 체포 (힌두·타임스오브인디아)"
+      ],
+      "unconfirmed": [
+        "범행 동기",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Daily Star",
+        "The Hindu",
+        "The New Indian Express",
+        "The Times of India",
+        "Yahoo",
+        "2026.11.23 17:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 오하이오주 베이비샤워 행사서 총격 3명 사망 (인디안익스프레스·타임스오브인디아)\n\n· 오하이오주 파마의 한 행사장에서 총격 발생 (야후)\n· 경찰이 용의자를 체포했다고 밝힘 (힌두)\n· 3명 사망·1명 부상 집계 (인디안익스프레스·타임스오브인디아)\n· 아직 범행 동기와 한국인 피해 여부는 확인되지 않음\n\n출처: 인디안익스프레스·힌두·타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 오하이오주의 베이비샤워 행사장에서 총격이 발생해 3명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "오하이오주 파마의 한 행사장에서 총격 사건이 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "타임스오브인디아는 3명이 숨지고 1명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "경찰은 용의자를 체포했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "범행 동기와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[베이비샤워]] 축하 현장\n무슨 일이?",
+  "broll": [
+    "police car lights",
+    "crime scene tape"
+  ],
+  "place_en": "Parma, Ohio"
+}
