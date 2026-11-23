@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "binance_crypto_record_hack_north_korea_2026",
-    "topic": "가상자산 바이낸스 사상 최대 해킹 발생",
-    "slug": "2026-11-02-news-binance-crypto-record-hack-north-korea-2026",
-    "cluster": "CBMiW0FVX3lxTFBabVFHSUg2RlNyUVdrekNWMk1UMGhiVmtrOTRiSGNJaDk4N2RUeXhCekNacnFEYjRDR1Z3SkNDeHJVUWJMcFE2V1JMLVRlSThCZmx2TmxNNm5JQjQ",
-    "badge": "breaking",
-    "at": 1793592726.8576503,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "koreazinc_onsan_smelter_fire_2026",
     "topic": "울산 고려아연 온산제련소 공장에서 불이 났습니다",
     "slug": "2026-11-02-news-koreazinc-onsan-smelter-fire-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795378262.9214125,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "iowa_army_chemical_detonation_emergency",
+    "topic": "미 육군, 아이오와주서 긴급 폭발물 화학물질 파괴 작전 추진",
+    "slug": "2026-11-23-news-iowa-army-chemical-detonation-emergency",
+    "cluster": "CBMiwAFBVV95cUxQcE04UmszekRHMXFQUW1pVVNwRjVMeDJIa216NGlNdGpMUGVaak1xRUhmS1FrQ2hOQkw0VkgzX2NSRVNTWXF5MmxjMlhpRmwtZS1lY0hIQ3BXRmhBRk1YbnNBY3ROZnRJLUVtMDNTd1VxaWhmMjRlNkZubElBbkZHMUdKUmxaYkk5bUtVUGdRcFNhU1hBY3dMRDFFVTlUMFJ3UF9CZUVWb3lsNFg4N3pCZU1MZnp4bjNLUGVKNGpkVXk",
+    "badge": "brief",
+    "at": 1795392531.7091582,
+    "country": "미국",
+    "category": "사고"
   }
 ]

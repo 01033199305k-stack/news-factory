@@ -47837,5 +47837,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795386796
+  },
+  {
+    "slug": "2026-11-23-news-iowa-army-chemical-detonation-emergency",
+    "event_ms": 1795392531709,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미 육군, 아이오와주서 긴급 폭발물 화학물질 파괴 작전 추진\n\n· 미 육군이 비상 규정을 발동해 아이오와주에서 폭발물 제조 관련 화학물질을 폭파 처리할 계획이라고 NBC와 PBS 등이 보도했습니다.\n· 일요일 마감 시한에 이어 월요일이나 화요일 중 작업이 진행될 수 있습니다.\n\n출처: NBC·PBS·New York Times 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "사고",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18037201340904424",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgEDzUIETSg",
+        "kind": "carousel",
+        "at": 1795392577
+      },
+      "instagram": {
+        "id": "18018040424994385",
+        "permalink": "https://www.instagram.com/reel/DgEEOFFgg51/",
+        "kind": "reel",
+        "at": 1795392824
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1795392834
+      },
+      "tiktok": {
+        "id": "7711153440243698951",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7711153440243698951",
+        "kind": "video",
+        "at": 1795392956
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795392966
   }
 ]

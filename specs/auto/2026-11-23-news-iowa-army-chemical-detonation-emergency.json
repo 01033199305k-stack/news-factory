@@ -1,0 +1,134 @@
+{
+  "slug": "2026-11-23-news-iowa-army-chemical-detonation-emergency",
+  "topic": "미 육군, 아이오와주서 긴급 폭발물 화학물질 파괴 작전 추진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 05:18 KST",
+  "source": "NBC News·The New York Times·KCRG 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwAFBVV95cUxQcE04UmszekRHMXFQUW1pVVNwRjVMeDJIa216NGlNdGpMUGVaak1xRUhmS1FrQ2hOQkw0VkgzX2NSRVNTWXF5MmxjMlhpRmwtZS1lY0hIQ3BXRmhBRk1YbnNBY3ROZnRJLUVtMDNTd1VxaWhmMjRlNkZubElBbkZHMUdKUmxaYkk5bUtVUGdRcFNhU1hBY3dMRDFFVTlUMFJ3UF9CZUVWb3lsNFg4N3pCZU1MZnp4bjNLUGVKNGpkVXk",
+    "related": [
+      [
+        "U.S. Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+        "PBS"
+      ],
+      [
+        "Noon Sunday deadline set in Iowa Army blast challenge; Fort Madison says detonation could come Monday or Tuesday",
+        "WQAD"
+      ],
+      [
+        "Army plans to invoke emergency provisions to detonate bomb-making chemicals in Iowa",
+        "NBC News"
+      ],
+      [
+        "The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa",
+        "The New York Times"
+      ],
+      [
+        "Johnson County not expected to be affected by Middletown detonation, health officials say",
+        "KCRG"
+      ]
+    ],
+    "event_key": "iowa_army_chemical_detonation_emergency"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미 육군, 아이오와주서 긴급 [[폭발물]]\n화학물질 파괴 작전 추진",
+      "sub": "비상 조치를 발동하여 폭발물 제조 화학물질을 처리할 계획입니다",
+      "chips": [],
+      "alt": "미 육군, 아이오와주서 긴급 폭발물 화학물질 파괴 작전 추진",
+      "map": {
+        "lat": 41.9216734,
+        "lon": -93.3122705,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n아이오와",
+      "video_only": true,
+      "map": {
+        "lat": 41.9216734,
+        "lon": -93.3122705,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아이오와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "비상 조치 발동",
+          "d": "미 육군이 비상 규정을 적용해 폭발물 관련 화학물질을 처리할 예정이라고 NBC 등이 보도했습니다."
+        },
+        {
+          "t": "처리 시기",
+          "d": "일요일 마감 시한을 거쳐 월요일이나 화요일 중에 폭파 작업이 진행될 수 있다고 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 육군 화학물질 폭파 처리 (NBC)",
+        "아이오와주 대상 비상 규정 적용 (PBS)"
+      ],
+      "unconfirmed": [
+        "정확한 폭파 시점 및 주변 지역 영향 범위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KCRG",
+        "NBC News",
+        "PBS",
+        "The New York Times",
+        "WQAD",
+        "2026.11.23 09:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미 육군, 아이오와주서 긴급 폭발물 화학물질 파괴 작전 추진\n\n· 미 육군이 비상 규정을 발동해 아이오와주에서 폭발물 제조 관련 화학물질을 폭파 처리할 계획이라고 NBC와 PBS 등이 보도했습니다.\n· 일요일 마감 시한에 이어 월요일이나 화요일 중 작업이 진행될 수 있습니다.\n\n출처: NBC·PBS·New York Times 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 육군이 아이오와주에서 비상 조치를 발동해 폭발물 관련 화학물질을 처리할 계획입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC 등 외신은 군 당국이 긴급 규정을 적용해 화학물질을 파괴할 것이라고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폭파 작업은 월요일이나 화요일 중에 진행될 수 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "주변 지역에 미칠 구체적인 영향과 정확한 폭파 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 아이오와주에서\n무슨 일이?",
+  "broll": [
+    "military base sign",
+    "industrial chemical facility"
+  ],
+  "place_en": "Iowa, USA"
+}
