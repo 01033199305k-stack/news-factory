@@ -150,5 +150,24 @@
       "속보",
       "해외뉴스"
     ]
+  },
+  {
+    "slug": "2026-11-23-usgs-us6000ucvm",
+    "event_ms": 1795401657933,
+    "images": [
+      "01_cover.png",
+      "02_map.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] Vanuatu region 인근 규모 6.5 지진\n\n한국 시각 11월 23일 11시 40분, Vanuatu region. 깊이 601km.\n\n• 현지 피해 집계는 아직 없음\n\n출처: USGS us6000ucvm",
+    "topic_tag": "지진",
+    "hashtags": [
+      "지진",
+      "Vanuaturegion",
+      "세계뉴스",
+      "속보",
+      "해외뉴스"
+    ]
   }
 ]
