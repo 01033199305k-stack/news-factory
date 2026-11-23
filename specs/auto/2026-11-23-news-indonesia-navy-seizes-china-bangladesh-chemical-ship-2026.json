@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-23-news-indonesia-navy-seizes-china-bangladesh-chemical-ship-2026",
+  "topic": "인도네시아 해군 중국 화물선 적발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 16:46 KST",
+  "source": "India Today·NDTV·Firstpost 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxNVHMteDZVWnlBb3hIOE5DbGRDN3FNVmg4Q1QtakRmTzNsYUxGbm8xOV9ZWFFadFZicTZfSVExMHlNYkt0b2dfQlpuM1JBc1dPV2hCRWxQb05QaVdfRENXdWljY3VGXzhLMkwzRjVWTWxmM3Q2QnVhNWNoSEYtbXlZenRuUnB4cVg0S1AtaWlYSHhVQmVKME1kR2RfdkNWS0I2bmRUMDYzWkpWNG42eUl2dlM4a2hjUdIBvgFBVV95cUxQT0pKTEhyNG1jVnF0S2hpUjZYS2U3RlZQVUdsM1c2TjNrUnA2ZnRqY3ZPNWJaVG1WODRwbmZFYnJmcUlLY25kOU1fLTM0czA0QV9VRWF4ZlR4Y28wclVnQ3VfLWprbkVfSU1OSWktbWhmU3JFczkxX3VPdFlOSEM3bnRCU3J0N21JWkZUcGFybkFlbVdVNHlQbDVOZ0c2UF8xNW1oaEhWMGdkTEI0MlpGR0NZb0VvaFlBLWJVYmV3",
+    "related": [
+      [
+        "Did China Smuggle Chemical For 100 Missiles To Bangladesh? Secret Cargo Seized",
+        "NDTV"
+      ],
+      [
+        "China shipped missile material to Bangladesh? Indonesia intercepts secret cargo",
+        "India Today"
+      ],
+      [
+        "Indonesian navy detains Bangladesh-bound ship carrying 405 tonnes of sodium perchlorate",
+        "National Herald"
+      ],
+      [
+        "Indonesia seizes explosives-laden cargo China shipped to Bangladesh: An attempted repeat of 2004?",
+        "Firstpost"
+      ],
+      [
+        "Millions Of SIMs, 405 Tonnes Chemical, No Buyer: The Mystery Behind China's Bangladesh-Bound Ship | Exclusive",
+        "News18"
+      ]
+    ],
+    "event_key": "indonesia_navy_seizes_china_bangladesh_chemical_ship_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인도네시아 해군\n[[중국 화물선]] 적발",
+      "sub": "방글라데시행 배서 화학물질 405톤 압류",
+      "chips": [
+        {
+          "k": "화학물질",
+          "v": "405톤 (내셔널 헤럴드·뉴스18)"
+        }
+      ],
+      "alt": "인도네시아 해군 중국 화물선 적발",
+      "map": {
+        "lat": -6.1754049,
+        "lon": 106.827168,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "인도네시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "인도네시아\n자카르타",
+      "video_only": true,
+      "map": {
+        "lat": -6.1754049,
+        "lon": 106.827168,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "자카르타"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "화학물질 적재",
+          "d": "인도네시아 해군이 방글라데시로 향하던 중국발 화물선에서 과염소산나트륨 405톤을 적발해 나포했다고 내셔널 헤럴드가 보도했습니다."
+        },
+        {
+          "t": "미사일 원료 추정",
+          "d": "압류된 화학물질은 미사일 100발 분량의 원료로 사용될 수 있다고 NDTV가 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인도네시아 해군 화물선 적발",
+        "과염소산나트륨 405톤 압류 (내셔널 헤럴드·뉴스18)"
+      ],
+      "unconfirmed": [
+        "최종 목적지 및 선적 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Firstpost",
+        "India Today",
+        "NDTV",
+        "National Herald",
+        "News18",
+        "2026.11.23 18:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도네시아 해군이 방글라데시행 중국 화물선을 나포해 화학물질 405톤을 압류했습니다.\n\n· 화물선에서 과염소산나트륨 405톤이 적발됐음 (내셔널 헤럴드·뉴스18)\n· 압류된 화물은 미사일 원료로 쓰일 수 있는 물질로 알려졌음 (NDTV)\n\n여러분은 이번 해상 단속 사건을 어떻게 보십니까?\n\n출처: NDTV·내셔널 헤럴드·뉴스18 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도네시아 해군이 방글라데시로 가던 중국발 화물선을 나포했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인도네시아 해군에 수송선이 적발됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "내셔널 헤럴드는 과염소산나트륨 405톤이 화물선에 실려 있었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해당 화학물질의 실제 선적 경위와 목적은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "국제 해상 안보에 미칠 영향, 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "비밀 [[화물선]]이\n적발된 이유",
+  "broll": [
+    "cargo ship sea",
+    "navy patrol vessel"
+  ],
+  "place_en": "Jakarta, Indonesia"
+}

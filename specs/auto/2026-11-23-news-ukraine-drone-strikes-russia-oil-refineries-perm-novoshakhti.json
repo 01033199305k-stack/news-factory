@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-23-news-ukraine-drone-strikes-russia-oil-refineries-perm-novoshakhti",
+  "topic": "우크라 드론 공격 러 석유 시설 피격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 15:49 KST",
+  "source": "Kyiv Post·The Kyiv Independent·Ukrinform 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiS0FVX3lxTE5HbjljbWplWThFbmROc0VZV3BiYXZqQTYxM25sMV9lbFY0RENNU09OYTZhay11UGExTks0S084Z2xVUVduWTAxeUNlNA",
+    "related": [
+      [
+        "Ukrainian Drones Set Russian Oil Infrastructure Ablaze in Twin Strikes Deep Inside Russia",
+        "Kyiv Post"
+      ],
+      [
+        "Industrial facility damaged in drone attack on Russia's Perm Krai, fire at oil refinery reported – photo, video",
+        "Українська правда"
+      ],
+      [
+        "Novoshakhtinsk oil refinery, Tatarstan pumping station burning after Ukrainian drone attack",
+        "The Kyiv Independent"
+      ],
+      [
+        "Ukraine's Defence Forces strike eight Russian oil infrastructure facilities in one week",
+        "Ukrinform"
+      ],
+      [
+        "Ukraine strike damages industrial site in Russia's Perm province, governor says",
+        "marketscreener.com"
+      ]
+    ],
+    "event_key": "ukraine_drone_strikes_russia_oil_refineries_perm_novoshakhtinsk_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라 드론 공격\n러 [[석유 시설]] 피격",
+      "sub": "페름주와 노보샤흐틴스크 정유공장 등에 불",
+      "chips": [
+        {
+          "k": "피격 대상",
+          "v": "석유 시설"
+        }
+      ],
+      "alt": "우크라 드론 공격 러 석유 시설 피격",
+      "map": {
+        "lat": 58.5951603,
+        "lon": 56.3159546,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n페름주",
+      "video_only": true,
+      "map": {
+        "lat": 58.5951603,
+        "lon": 56.3159546,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "페름주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "페름주 정유공장",
+          "d": "러시아 페름주의 산업 시설이 우크라이나 드론 공격을 받아 정유공장에 불이 났다고 우크라인스카 프라우다가 전했습니다."
+        },
+        {
+          "t": "노보샤흐틴스크 피격",
+          "d": "노보샤흐틴스크 정유공장과 타타르스탄 펌프장도 드론 공격으로 불이 났다고 키이우 인디펜던트가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 드론 공격",
+        "러시아 정유 시설 화재"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "The Kyiv Independent",
+        "Ukrinform",
+        "marketscreener.com",
+        "Українська правда",
+        "2026.11.23 18:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 드론이 러시아 내부 석유 시설을 공격해 화재가 발생했습니다.\n\n· 러시아 페름주의 정유공장 등 산업 시설이 피격돼 불이 났음 (우크라인스카 프라우다)\n· 노보샤흐틴스크 정유공장과 타타르스탄 펌프장도 드론 공격을 받았음 (키이우 인디펜던트)\n\n여러분은 이번 공습 양상을 어떻게 보십니까?\n\n출처: 우크라인스카 프라우다·키이우 인디펜던트·마켓스크리너 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 드론이 러시아 내 석유 시설을 공격해 불이 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아 페름주와 노보샤흐틴스크의 정유공장이 피격 대상에 포함됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "우크라인스카 프라우다는 페름주 산업 시설과 정유공장에서 화재가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 공습이 전쟁 양상에 어떤 영향을 줄 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "러시아 [[정유공장]]에\n무슨 일이?",
+  "broll": [
+    "oil refinery night",
+    "smoke industrial facility"
+  ],
+  "place_en": "Perm Krai, Russia"
+}

@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "pennsylvania_measles_outbreak_2026",
-    "topic": "미국 펜실베이니아주서 홍역 확산 사망자 5명 발생",
-    "slug": "2026-11-02-news-pennsylvania-measles-outbreak-2026",
-    "cluster": "CBMiiwFBVV95cUxPZ2dwNUwwVmVRS0NLODVpMHY4WlNIVVBEOFA1aEtuN29tZHZXcEtGdTNvVmRDOEpheUFQc3dDb0REOFBOcFVpdW5SMUZPNXl6SkF6RmhHSUJlYkx6TmR5RTM1ZVl1T2poNGxXYW9ubmxuOXp0cjIwRnMtUlJiRFRDZzJ5eXZiSjVvd3BJ",
-    "badge": "breaking",
-    "at": 1793628440.209968,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
-    "event_key": "us_halloween_weekend_shootings_2026",
-    "topic": "미국 할로윈 주말 총격으로 수십 명 사망",
-    "slug": "2026-11-02-news-us-halloween-weekend-shootings-2026",
-    "cluster": "CBMilgFBVV95cUxPUlVpWVB4clVmcXBEY3pYdFp2RUtrRkozVDR4WFMzd21UdXQtYnhJSmJycWQwc09hd0FTVHQtaUhEY1JRQU81R0JxVEN5dGZSaUhhVDZyWkZDbTFXNko2MkJqcVZuVk5FN3FOd3Rnb3lOaGV6Y0l3ejFQYU5vZWFNdk1mckxnRElGRUpSeTFjUFpzZ21lV1E",
-    "badge": "breaking",
-    "at": 1793635871.1272154,
-    "country": "미국",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "israel_election_results_2026",
     "topic": "이스라엘 총선서 네타냐후 블록 53석",
     "slug": "2026-11-03-news-israel-election-results-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795421589.3275712,
     "country": "미국",
     "category": "총격·테러"
+  },
+  {
+    "event_key": "ukraine_drone_strikes_russia_oil_refineries_perm_novoshakhtinsk_2026",
+    "topic": "우크라 드론 공격 러 석유 시설 피격",
+    "slug": "2026-11-23-news-ukraine-drone-strikes-russia-oil-refineries-perm-novoshakhti",
+    "cluster": "CBMiS0FVX3lxTE5HbjljbWplWThFbmROc0VZV3BiYXZqQTYxM25sMV9lbFY0RENNU09OYTZhay11UGExTks0S084Z2xVUVduWTAxeUNlNA",
+    "badge": "breaking",
+    "at": 1795425082.6908443,
+    "country": "러시아",
+    "category": "국제"
+  },
+  {
+    "event_key": "indonesia_navy_seizes_china_bangladesh_chemical_ship_2026",
+    "topic": "인도네시아 해군 중국 화물선 적발",
+    "slug": "2026-11-23-news-indonesia-navy-seizes-china-bangladesh-chemical-ship-2026",
+    "cluster": "CBMitgFBVV95cUxNVHMteDZVWnlBb3hIOE5DbGRDN3FNVmg4Q1QtakRmTzNsYUxGbm8xOV9ZWFFadFZicTZfSVExMHlNYkt0b2dfQlpuM1JBc1dPV2hCRWxQb05QaVdfRENXdWljY3VGXzhLMkwzRjVWTWxmM3Q2QnVhNWNoSEYtbXlZenRuUnB4cVg0S1AtaWlYSHhVQmVKME1kR2RfdkNWS0I2bmRUMDYzWkpWNG42eUl2dlM4a2hjUdIBvgFBVV95cUxQT0pKTEhyNG1jVnF0S2hpUjZYS2U3RlZQVUdsM1c2TjNrUnA2ZnRqY3ZPNWJaVG1WODRwbmZFYnJmcUlLY25kOU1fLTM0czA0QV9VRWF4ZlR4Y28wclVnQ3VfLWprbkVfSU1OSWktbWhmU3JFczkxX3VPdFlOSEM3bnRCU3J0N21JWkZUcGFybkFlbVdVNHlQbDVOZ0c2UF8xNW1oaEhWMGdkTEI0MlpGR0NZb0VvaFlBLWJVYmV3",
+    "badge": "breaking",
+    "at": 1795425275.6609461,
+    "country": "인도네시아",
+    "category": "국제"
   }
 ]
