@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "bulgaria_presidential_election_2026",
-    "topic": "불가리아 대통령 선거 일리아나 요토바 당선",
-    "slug": "2026-11-02-news-bulgaria-presidential-election-2026",
-    "cluster": "CBMirAFBVV95cUxOQU5tTzU2UGJGUDFlWmFJWG1TWUpGWHRldjAtbkJoRGpKcTlMQUNkQlkyRWxfRUZUZVFLXy1oeUMzWkhITXpQTlhkWWk2X3V5bmJzVzZScVVnVTBWN25IUFZYWjlpTlBscU1EemtzckdFemRJTVpBNEFzc3hRTzBhalNWODBGTkVkaHhHZF91VnVXVkVLOHRvWWFxb2QydlJ3b282bnhMX213MnZJ",
-    "badge": "breaking",
-    "at": 1793621509.8753474,
-    "country": "불가리아",
-    "category": "국제"
-  },
-  {
     "event_key": "europe_supermarket_freezer_cyberattack_2026",
     "topic": "유럽 슈퍼마켓 냉장고 연쇄 마비 사이버 공격 받아",
     "slug": "2026-11-02-news-europe-supermarket-freezer-cyberattack-2026",
@@ -2996,6 +2986,16 @@
     "cluster": "CBMiYEFVX3lxTE1mLTNZNmxKOFRBUUlzdzRJRFlRX0p4UGJLMXU3dHdjVFhaX2RUSTlIWEpibXV0TTVUNFBDQlNzS2EtZmxkUjJ5ZHJNOTQ5aDVMQWk4SWlITWh4bE0xTVlWMQ",
     "badge": "breaking",
     "at": 1795405503.689059,
+    "country": "대한민국",
+    "category": "사고"
+  },
+  {
+    "event_key": "gangwon_icy_road_chain_collisions_2026",
+    "topic": "강원 도로 결빙 사고 40여 명 중경상 발생",
+    "slug": "2026-11-23-news-gangwon-icy-road-chain-collisions-2026",
+    "cluster": "CBMiZkFVX3lxTFB0VkNWZFVTTnVvMUJjLUZnMllwTGxDb3NGYi1XSmVYaWpXNmxVSko5SFhiRjBmT3AtY1N1UzJsVWtodXpFLWp5Um9ITGlSak85NHpfWldrR1F3WU1laFBTRjdkNGYxdw",
+    "badge": "breaking",
+    "at": 1795410552.768336,
     "country": "대한민국",
     "category": "사고"
   }
