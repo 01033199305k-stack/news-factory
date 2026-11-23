@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_washington_bird_flu_death_2026",
-    "topic": "미국 워싱턴주서 올해 첫 조류인플루엔자 사망",
-    "slug": "2026-11-02-news-us-washington-bird-flu-death-2026",
-    "cluster": "CBMiaEFVX3lxTE9VaENkNHpqVUYzUnRGcDU3UWw0SS1vR3NzTmJ3VWxOenhrOFN6UWx0N3hPSEtKUEg5WFNDVGw5Z0R0X1ZMb3ZUaTF4OUxvUEJhaGlfTVpTbDMtdGRSaEx5UkJ0SWR0Wnli",
-    "badge": "breaking",
-    "at": 1793639390.081353,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "oil_prices_plunge_us_iran_peace_hopes_2026",
     "topic": "유가 7% 폭락하고 증시 반등 미-이란 평화 기대감",
     "slug": "2026-11-03-news-oil-prices-plunge-us-iran-peace-hopes-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795432248.3238516,
     "country": "수단",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_sinks_russian_warship_libya_2026",
+    "topic": "우크라 드론, 리비아 항구서 러시아 군함 격침",
+    "slug": "2026-11-23-news-ukraine-sinks-russian-warship-libya-2026",
+    "cluster": "CBMieEFVX3lxTFAxeHBZeVU0VUJqbTZMY3JYZlVwcFVqak05aURsLTZOYU5uUEMzc2VvX2djLUhhWFJ5YlBUQ1pHX1laYzViNFRreFd2VEdiX1B2TnZrcEFaenhCdl90RWkyb0JobUtoUm5BLThhclo1YXptenlrWTVhaw",
+    "badge": "brief",
+    "at": 1795439771.8214002,
+    "country": "리비아",
     "category": "국제"
   }
 ]

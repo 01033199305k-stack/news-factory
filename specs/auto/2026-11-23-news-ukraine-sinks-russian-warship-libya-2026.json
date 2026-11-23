@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-23-news-ukraine-sinks-russian-warship-libya-2026",
+  "topic": "우크라 드론, 리비아 항구서 러시아 군함 격침",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 21:34 KST",
+  "source": "Al Jazeera·CBS News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMieEFVX3lxTFAxeHBZeVU0VUJqbTZMY3JYZlVwcFVqak05aURsLTZOYU5uUEMzc2VvX2djLUhhWFJ5YlBUQ1pHX1laYzViNFRreFd2VEdiX1B2TnZrcEFaenhCdl90RWkyb0JobUtoUm5BLThhclo1YXptenlrWTVhaw",
+    "related": [
+      [
+        "Ukraine sinks Russian warship Merkury off Libya, damages sanctioned Russian cargo ship",
+        "CBS News"
+      ],
+      [
+        "Ukraine Sinks Russian Warship, Hits Cargo Vessels Far From Warzone",
+        "WSJ"
+      ],
+      [
+        "Zelenskyy praises ‘exemplary’ drone operation that sank Russian warship in a Libyan port",
+        "CNBC"
+      ],
+      [
+        "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
+        "Al Jazeera"
+      ],
+      [
+        "Albania denies Ukrainian drones that sank Russian ships were launched from its territory – Europe live",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "ukraine_sinks_russian_warship_libya_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라 드론, 리비아 항구서\n러시아 [[군함]] 격침",
+      "sub": "젤렌스키 대통령이 이번 작전을 '모범적'이라고 평가했습니다.",
+      "chips": [
+        {
+          "k": "군함",
+          "v": "격침"
+        }
+      ],
+      "alt": "우크라 드론, 리비아 항구서 러시아 군함 격침",
+      "map": {
+        "lat": 32.1200168,
+        "lon": 20.0812174,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "리비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "리비아\n벵가지",
+      "video_only": true,
+      "map": {
+        "lat": 32.1200168,
+        "lon": 20.0812174,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "벵가지"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "작전 성공 평가",
+          "d": "젤렌스키 대통령은 이번 드론 작전을 모범적인 성과라고 직접 치하했습니다 (CNBC)."
+        },
+        {
+          "t": "알바니아 개입설 부인",
+          "d": "일부에서 제기된 알바니아 영토 내 드론 발사 의혹에 대해 알바니아 당국은 공식 부인했습니다 (The Guardian)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "리비아 항구 내 러시아 군함 피격",
+        "우크라이나 드론 작전 수행 공식 확인"
+      ],
+      "unconfirmed": [
+        "정확한 인명 피해 규모",
+        "격침된 군함의 구체적 제원"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CBS News",
+        "CNBC",
+        "The Guardian",
+        "WSJ",
+        "2026.11.23 22:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 우크라이나군이 리비아 항구에서 러시아 군함을 격침했습니다.\n\n· 젤렌스키 대통령은 이번 드론 작전을 매우 성공적인 모범 사례라고 평가했습니다 (CNBC·WSJ).\n· 러시아 측은 아직 이번 사건에 대해 공식적인 입장을 밝히지 않은 상태입니다 (Al Jazeera).\n· 알바니아는 자국 영토가 드론 발사 기지로 이용됐다는 주장을 강하게 반박했습니다 (The Guardian).\n\n출처: CBS News·WSJ·CNBC·Al Jazeera·The Guardian 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "리비아 항구에서 러시아 군함이 우크라이나의 드론 공격을 받아 격침됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "젤렌스키 대통령은 이번 드론 작전이 매우 모범적인 성과를 거뒀다고 평가했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "일각에서 제기된 알바니아 영토 내 드론 발사 의혹에 대해 알바니아 당국은 사실이 아니라고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 공격으로 인한 정확한 인명 피해 규모나 군함의 제원은 아직 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "피해 규모 확인 중"
+    },
+    {
+      "text": "리비아에서 벌어진 이번 충돌, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분의 생각은?"
+    }
+  ],
+  "hook": "리비아 항구서\n[[러시아 군함]]이?",
+  "broll": [
+    "naval port",
+    "drone surveillance"
+  ],
+  "place_en": "Benghazi, Libya"
+}
