@@ -48000,5 +48000,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795400258
+  },
+  {
+    "slug": "2026-11-23-news-taean-haegwangho-sinking-search-2026",
+    "event_ms": 1795396123000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 태안 침몰 어선 해광호 발견, 실종 7명 수중 수색 돌입\n\n· 5일 만에 해저에서 선체가 발견됐습니다 (경향신문)\n· 잠수수색서 실종자를 못 찾아 25일 재시도합니다 (연합뉴스)\n· 기상악화 우려돼 해경이 신속 투입됐습니다 (국제신문)\n\n출처: 뉴스1·연합뉴스·YTN·경향신문·국제신문 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18170402692492681",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgEciaGkVis",
+        "kind": "carousel",
+        "at": 1795405546
+      },
+      "instagram": {
+        "id": "18108730694526466",
+        "permalink": "https://www.instagram.com/reel/DgEc5qnoSWp/",
+        "kind": "reel",
+        "at": 1795405755
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1795405765
+      },
+      "tiktok": {
+        "id": "7711209078965488917",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7711209078965488917",
+        "kind": "video",
+        "at": 1795405886
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795405896
   }
 ]
