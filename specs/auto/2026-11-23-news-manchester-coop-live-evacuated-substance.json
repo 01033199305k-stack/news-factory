@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-23-news-manchester-coop-live-evacuated-substance",
+  "topic": "영국 맨체스터 공연장, '미확인 물질'로 대피",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 13:21 KST",
+  "source": "BBC·CNN·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE1HNGpOUU9EdzBOejBScHFVcXFvR3I0a21LNUtUQW9aa08tU01yd1llUFh4LXR5Q0FqWHU2eG44b2ZRTmdWcGNLNi1rQjlmLWFWX0hlNFVpOXBmYVU",
+    "related": [
+      [
+        "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+        "BBC"
+      ],
+      [
+        "Manchester Co-Op Live: Thousands evacuated as ‘unknown substance’ fills UK arena during US rapper’s show",
+        "CNN"
+      ],
+      [
+        "Thousands evacuated from Manchester Co-op Live after major incident declared at Don Toliver show",
+        "Sky News"
+      ],
+      [
+        "Manchester Co-op Live arena evacuated after ‘tear gas let off’ during US rapper’s show as police declare major incident",
+        "The Independent"
+      ],
+      [
+        "Manchester’s Co-op Live arena evacuated after ‘unknown substance’ released in crowd at Don Toliver concert",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "manchester_coop_live_evacuated_substance"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "영국 맨체스터 공연장,\n'미확인 물질'로 대피",
+      "sub": "미국 래퍼 공연 중 수천 명 긴급 대피",
+      "chips": [],
+      "alt": "영국 맨체스터 공연장, '미확인 물질'로 대피",
+      "map": {
+        "lat": 53.4424618,
+        "lon": -2.2324547,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "영국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "영국\n맨체스터",
+      "video_only": true,
+      "map": {
+        "lat": 53.4424618,
+        "lon": -2.2324547,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "맨체스터"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공연장 대피",
+          "d": "미국 래퍼 돈 톨리버의 공연 도중 관중석에서 미확인 물질이 살포돼 수천 명이 대피했습니다 (BBC·CNN)"
+        },
+        {
+          "t": "경찰 대응",
+          "d": "경찰은 이번 사건을 주요 사건으로 선언하고 조사에 나섰습니다 (스카이뉴스·인디펜던트)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "맨체스터 코옵 라이브 아레나 대피",
+        "미확인 물질 살포",
+        "경찰의 주요 사건 선언"
+      ],
+      "unconfirmed": [
+        "살포된 물질의 정확한 성분",
+        "부상자 발생 여부 및 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Sky News",
+        "The Guardian",
+        "The Independent",
+        "2026.11.23 16:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 영국 맨체스터 공연장서 미확인 물질 살포로 수천 명 긴급 대피\n\n· 미국 래퍼 공연 중 관중석에서 정체불명의 물질이 퍼졌습니다 (BBC·CNN)\n· 경찰은 주요 사건을 선언하고 대응에 나섰습니다 (스카이뉴스·인디펜던트)\n\n출처: BBC·CNN·스카이뉴스·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "영국 맨체스터의 한 대형 공연장에서 미확인 물질이 살포돼 수천 명이 긴급 대피했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC와 CNN은 미국 래퍼의 공연 중 관중석에서 정체불명의 물질이 퍼졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 경찰은 이번 사태를 주요 사건으로 선언하고 조사에 착수했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "살포된 물질의 정확한 성분과 인명 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "맨체스터 [[공연장]]에서\n무슨 일이?",
+  "broll": [
+    "concert arena exterior",
+    "police lights night"
+  ],
+  "place_en": "Manchester, UK"
+}

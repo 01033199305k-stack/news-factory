@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "europe_supermarket_freezer_cyberattack_2026",
-    "topic": "유럽 슈퍼마켓 냉장고 연쇄 마비 사이버 공격 받아",
-    "slug": "2026-11-02-news-europe-supermarket-freezer-cyberattack-2026",
-    "cluster": "CBMiXkFVX3lxTE1qQUt3Z1M4Rl9EemptZWhoT2t1QmVldjhGbFdJZmxsM1BoYVI0ZFY5UFRKWFBYOTNEdlo1M0NFU0xYOVFqQzFGTWdMRDEzbU5kRUJkQThlVlZDWS1RUXc",
-    "badge": "breaking",
-    "at": 1793624996.470805,
-    "country": "유럽",
-    "category": "사고"
-  },
-  {
     "event_key": "saudi_led_coalition_yemen_missile_interception_2026",
     "topic": "사우디 주도 연합군 예멘서 미사일 요격",
     "slug": "2026-11-02-news-saudi-led-coalition-yemen-missile-interception-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795410552.768336,
     "country": "대한민국",
+    "category": "사고"
+  },
+  {
+    "event_key": "manchester_coop_live_evacuated_substance",
+    "topic": "영국 맨체스터 공연장, '미확인 물질'로 대피",
+    "slug": "2026-11-23-news-manchester-coop-live-evacuated-substance",
+    "cluster": "CBMiW0FVX3lxTE1HNGpOUU9EdzBOejBScHFVcXFvR3I0a21LNUtUQW9aa08tU01yd1llUFh4LXR5Q0FqWHU2eG44b2ZRTmdWcGNLNi1rQjlmLWFWX0hlNFVpOXBmYVU",
+    "badge": "breaking",
+    "at": 1795417598.3367763,
+    "country": "영국",
     "category": "사고"
   }
 ]
