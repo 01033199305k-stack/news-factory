@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia_ukraine_aid_centre_bombing_24_dead",
-    "topic": "우크라이나 남부 구호센터 공습 사망 24명 발생",
-    "slug": "2026-11-03-news-russia-ukraine-aid-centre-bombing-24-dead",
-    "cluster": "CBMiXkFVX3lxTE9QOHlsd3Z6cjJUeENVUXpQM3ozbFYzRnBMQmhWcWxTV2VmUm4tWUNJRUQ5STVmOW01VC1qRXFNN1praFpQOUM0c3Eyc1VLb0d6SnpxS0dlSHdqMmVtSmc",
-    "badge": "breaking",
-    "at": 1793650293.2339098,
-    "country": "우크라이나",
-    "category": "사고"
-  },
-  {
     "event_key": "somali_pirates_hijack_iranian_vessel_indian_navy_rescue_2026",
     "topic": "소말리아 해역서 피랍 이란 어선 선원 구조",
     "slug": "2026-11-03-news-somali-pirates-hijack-iranian-vessel-indian-navy-rescue-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795453634.776357,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "israel_settler_attacks_west_bank_2026",
+    "topic": "요르단강 서안서 정착촌 주민 공격 팔레스타인 마을 잇따라 방화",
+    "slug": "2026-11-24-news-israel-settler-attacks-west-bank-2026",
+    "cluster": "CBMiyAFBVV95cUxNNFlTbjNvZEpEcnVqdlJpYjVoYWluSkVVS09RS2RTeUF1a0FlOVlvWTkwdlNLVi1xYVgxSFhLTkRIdjB5LWN0ekFnVzdiNzRCLW56aWhfWFhjWldJRGpKNDlqRlU1cGVWOGpZMjNSMjE4R0syYXFCQ3A1N3VIMElGWmtRVnFQanY3bmk1VE5IUlV0UFdBTHJWalB0TXdHdWxGc0dsczhIYkR0TFNycWt6YmRyTVItamd6a1lXZ1VYWjJTalJRQlBpMg",
+    "badge": "breaking",
+    "at": 1795456945.3607404,
+    "country": "이스라엘",
+    "category": "기타 사건"
   }
 ]

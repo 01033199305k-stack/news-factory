@@ -48485,5 +48485,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795454092
+  },
+  {
+    "slug": "2026-11-24-news-israel-settler-attacks-west-bank-2026",
+    "event_ms": 1795454100000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘 정착촌 주민들이 요르단강 서안지구의 팔레스타인 마을들을 공격했습니다.\n\n· 이스라엘 정계 주요 인사들은 이번 사태를 '유대인 테러'라고 규정하며 방화 행위를 강하게 비판했습니다 (뉴욕타임스·CNN·로이터·가디언·알자지라).\n· 정착촌 주민들은 서안지구 내 여러 팔레스타인 마을을 상대로 공격을 감행했습니다 (알자지라).\n\n출처: 뉴욕타임스·CNN·로이터·가디언·알자지라 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "이스라엘"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18122656334073418",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgF-rkTo7Dm",
+        "kind": "carousel",
+        "at": 1795457007
+      },
+      "instagram": {
+        "id": "17920355292262591",
+        "permalink": "https://www.instagram.com/reel/DgF_EorFXms/",
+        "kind": "reel",
+        "at": 1795457232
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1795457243
+      },
+      "tiktok": {
+        "id": "6b0480de768ab8d8e402d331",
+        "permalink": "",
+        "kind": "video",
+        "at": 1795457446
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795457456
   }
 ]

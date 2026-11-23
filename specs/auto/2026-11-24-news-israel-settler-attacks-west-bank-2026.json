@@ -1,0 +1,130 @@
+{
+  "slug": "2026-11-24-news-israel-settler-attacks-west-bank-2026",
+  "topic": "요르단강 서안서 정착촌 주민 공격 팔레스타인 마을 잇따라 방화",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.24 02:15 KST",
+  "source": "Al Jazeera·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiyAFBVV95cUxNNFlTbjNvZEpEcnVqdlJpYjVoYWluSkVVS09RS2RTeUF1a0FlOVlvWTkwdlNLVi1xYVgxSFhLTkRIdjB5LWN0ekFnVzdiNzRCLW56aWhfWFhjWldJRGpKNDlqRlU1cGVWOGpZMjNSMjE4R0syYXFCQ3A1N3VIMElGWmtRVnFQanY3bmk1VE5IUlV0UFdBTHJWalB0TXdHdWxGc0dsczhIYkR0TFNycWt6YmRyTVItamd6a1lXZ1VYWjJTalJRQlBpMg",
+    "related": [
+      [
+        "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+        "The New York Times"
+      ],
+      [
+        "Israeli settlers launch attacks across West Bank as Netanyahu rival decries ‘Jewish terrorism’",
+        "CNN"
+      ],
+      [
+        "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
+        "Reuters"
+      ],
+      [
+        "Netanyahu rival condemns ‘Jewish terrorism’ after settler attacks on Palestinian villages",
+        "The Guardian"
+      ],
+      [
+        "Israeli settlers attack several Palestinian villages in occupied West Bank",
+        "Al Jazeera"
+      ]
+    ],
+    "event_key": "israel_settler_attacks_west_bank_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "요르단강 서안서 [[정착촌 주민]] 공격\n팔레스타인 마을 잇따라 방화",
+      "sub": "이스라엘 정치권에서도 '유대인 테러'라며 비판 목소리 커져",
+      "chips": [],
+      "alt": "요르단강 서안서 정착촌 주민 공격 팔레스타인 마을 잇따라 방화",
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "이스라엘"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이스라엘\n요르단강 서안지구",
+      "video_only": true,
+      "map": {
+        "lat": 44.9719278,
+        "lon": -93.2463486,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "요르단강 서안지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이스라엘 정계 비판",
+          "d": "이스라엘 정치권 인사들은 이번 정착촌 주민들의 공격을 '유대인 테러'로 규정하고 강하게 비판했습니다 (뉴욕타임스·CNN·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "정착촌 주민의 마을 방화",
+        "이스라엘 정치권의 규탄"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNN",
+        "Reuters",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.24 03:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 정착촌 주민들이 요르단강 서안지구의 팔레스타인 마을들을 공격했습니다.\n\n· 이스라엘 정계 주요 인사들은 이번 사태를 '유대인 테러'라고 규정하며 방화 행위를 강하게 비판했습니다 (뉴욕타임스·CNN·로이터·가디언·알자지라).\n· 정착촌 주민들은 서안지구 내 여러 팔레스타인 마을을 상대로 공격을 감행했습니다 (알자지라).\n\n출처: 뉴욕타임스·CNN·로이터·가디언·알자지라 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "요르단강 서안지구에서 이스라엘 정착촌 주민들이 팔레스타인 마을을 공격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이들은 팔레스타인 마을 곳곳에 방화를 저질렀습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이스라엘 정치권에서는 이번 사태를 '유대인 테러'라고 부르며 강하게 규탄했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현재 한국인 피해 여부는 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "한국인 피해 여부"
+    }
+  ],
+  "hook": "요르단강 서안서\n[[정착촌 주민]] 공격",
+  "broll": [
+    "west bank landscape"
+  ],
+  "place_en": "West Bank"
+}
