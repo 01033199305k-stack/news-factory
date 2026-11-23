@@ -48430,5 +48430,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795440162
+  },
+  {
+    "slug": "2026-11-24-news-nvidia-jensen-huang-reinstated-ceo-2026",
+    "event_ms": 1795452429000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 젠슨 황이 엔비디아 CEO로 복귀했습니다.\n\n· 엔비디아 이사회는 젠슨 황을 사장 겸 CEO로 다시 임명했습니다 (Nvidia Newsroom)\n· 복귀 발표 후 뉴욕 증시 선물과 엔비디아 주가가 상승했습니다 (Yahoo Finance·NYT)\n\n이번 젠슨 황의 복귀 소식, 어떻게 생각하십니까?\n출처: BBC·Yahoo Finance·NYT 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18102144803108375",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgF4V_BFNjJ",
+        "kind": "carousel",
+        "at": 1795453682
+      },
+      "instagram": {
+        "id": "17964310332255836",
+        "permalink": "https://www.instagram.com/reel/DgF4lzEivcV/",
+        "kind": "reel",
+        "at": 1795453833
+      },
+      "youtube": {
+        "id": "cLelYep6aG8",
+        "permalink": "https://youtube.com/shorts/cLelYep6aG8",
+        "kind": "shorts",
+        "at": 1795453869
+      },
+      "tiktok": {
+        "id": "6b0473b9827feee79c0fe4ed",
+        "permalink": "",
+        "kind": "video",
+        "at": 1795454082
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795454092
   }
 ]

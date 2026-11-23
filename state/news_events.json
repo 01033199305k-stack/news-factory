@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "oil_prices_plunge_us_iran_peace_hopes_2026",
-    "topic": "유가 7% 폭락하고 증시 반등 미-이란 평화 기대감",
-    "slug": "2026-11-03-news-oil-prices-plunge-us-iran-peace-hopes-2026",
-    "cluster": "CBMid0FVX3lxTFBrbkQzMEJlOVN5RDBtcEZuU2VQSkZydW01ejJqY2hObWJXOUl0dUhUMWVoVXRwZWhsU3BIRkVGR0lhc3JmM0w4ak5ybUpCVElXOWxKMm1tQ3ByOE5TNzNJQm5YUDFaa2hRNENZNDJacnlMci1tZmU00gF8QVVfeXFMUHRLQWRCRkw3cUdsOVZINFdPc1VsLVN4UzJKT1BmX2ZaMlBrcDM2WER5cXY1LTdZQjZXMy1FVUU3RFhFcHVxcXA5eEx0a041Vlo2Y3BlVXN2S0hpTG9tVVV3SndoWVRMU2JweGZKUVNpVWxJeXk4Sno4a2hmZQ",
-    "badge": "breaking",
-    "at": 1793642948.1221495,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "russia_ukraine_aid_centre_bombing_24_dead",
     "topic": "우크라이나 남부 구호센터 공습 사망 24명 발생",
     "slug": "2026-11-03-news-russia-ukraine-aid-centre-bombing-24-dead",
@@ -2998,5 +2988,15 @@
     "at": 1795439771.8214002,
     "country": "리비아",
     "category": "국제"
+  },
+  {
+    "event_key": "nvidia_jensen_huang_reinstated_ceo_2026",
+    "topic": "젠슨 황 엔비디아 CEO 복귀 공식 발표",
+    "slug": "2026-11-24-news-nvidia-jensen-huang-reinstated-ceo-2026",
+    "cluster": "CBMiVkFVX3lxTE5SeXJDYXotaGotTjIxUGJLUUtpcWFwbkhISVpNQ0MxYzFmRmF3ZDVfSFdtWW1XVjI3QUtjeC1qVnhhRmFmU2NmVDlhcmNURjR0VVVPcEp3",
+    "badge": "breaking",
+    "at": 1795453634.776357,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

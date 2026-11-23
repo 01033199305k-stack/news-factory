@@ -1,0 +1,133 @@
+{
+  "slug": "2026-11-24-news-nvidia-jensen-huang-reinstated-ceo-2026",
+  "topic": "젠슨 황 엔비디아 CEO 복귀 공식 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.24 01:47 KST",
+  "source": "BBC·The New York Times·NVIDIA Newsroom 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTE5SeXJDYXotaGotTjIxUGJLUUtpcWFwbkhISVpNQ0MxYzFmRmF3ZDVfSFdtWW1XVjI3QUtjeC1qVnhhRmFmU2NmVDlhcmNURjR0VVVPcEp3",
+    "related": [
+      [
+        "Jensen Huang reinstated as Nvidia CEO, board says",
+        "BBC"
+      ],
+      [
+        "Stock market today: Nvidia stock soars after company reinstates Jensen Huang as CEO; Dow, S&P 500, Nasdaq futures surge",
+        "Yahoo Finance"
+      ],
+      [
+        "Donald Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+        "BBC"
+      ],
+      [
+        "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+        "NVIDIA Newsroom"
+      ],
+      [
+        "Wall Street Surges After Jensen Huang’s Return to Nvidia",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "nvidia_jensen_huang_reinstated_ceo_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "젠슨 황 [[엔비디아]] CEO\n복귀 공식 발표",
+      "sub": "이사회 재임명 의결 후 증시 선물 급등",
+      "chips": [],
+      "alt": "젠슨 황 엔비디아 CEO 복귀 공식 발표",
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n산타클라라",
+      "video_only": true,
+      "map": {
+        "lat": 37.2333253,
+        "lon": -121.6846349,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "산타클라라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이사회 재임명 의결",
+          "d": "엔비디아 이사회는 젠슨 황을 사장 겸 CEO로 다시 임명했습니다 (Nvidia Newsroom)."
+        },
+        {
+          "t": "증시 선물 급등",
+          "d": "복귀 발표 후 뉴욕 증시 선물과 엔비디아 주가가 상승했습니다 (Yahoo Finance·NYT)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "젠슨 황 엔비디아 CEO 복귀 발표",
+        "엔비디아 이사회 공식 재임명"
+      ],
+      "unconfirmed": [
+        "구체적 복귀 배경 및 인선 과정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "NVIDIA Newsroom",
+        "The New York Times",
+        "Yahoo Finance",
+        "2026.11.24 02:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 젠슨 황이 엔비디아 CEO로 복귀했습니다.\n\n· 엔비디아 이사회는 젠슨 황을 사장 겸 CEO로 다시 임명했습니다 (Nvidia Newsroom)\n· 복귀 발표 후 뉴욕 증시 선물과 엔비디아 주가가 상승했습니다 (Yahoo Finance·NYT)\n\n이번 젠슨 황의 복귀 소식, 어떻게 생각하십니까?\n출처: BBC·Yahoo Finance·NYT 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "젠슨 황이 엔비디아 CEO로 복귀했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "복귀 소식이 전해지자 뉴욕 증시 선물과 엔비디아 주가가 급등했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 복귀 배경과 조건은 알려지지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 CEO 복귀 소식, 어떻게 생각하시나요?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[젠슨 황]] CEO\n복귀 발표",
+  "broll": [
+    "stock exchange screen"
+  ],
+  "place_en": "Santa Clara, California"
+}
