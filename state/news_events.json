@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_push_russian_gas_europe_ukraine_2026",
-    "topic": "미국, 우크라 거쳐 러 가스 공급 추진",
-    "slug": "2026-11-02-news-us-push-russian-gas-europe-ukraine-2026",
-    "cluster": "CBMi5gFBVV95cUxOdzB0cVVzUjBIcExFQTUtbjhMMzktdWExQVItUUVaOUNxenp5S1cyZW1VaEYySDROQ1o5M0VzeDRfZ0doMkpsb0ppU3NZMjl5RWFJMlhDMldZUkhsalUyYXlBLXppUk1QMVdDeTdVRTlJVld5dVoxTUloM2Q3SG81NThlS19fTEJsdjM4THh4LTVNQmVzYjhkcmIzZWZiaTIyYUNtUDNkTUdkOW9rdlNZVzI3cjNkQWFPOElOS054cUFOSHRSZzFETG9wZExGQWpsSmlLajdnUzRFT3Rla1lKZzZaZmlrdw",
-    "badge": "brief",
-    "at": 1793605725.4614127,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "iran_hormuz_reopening_proposal_2026",
     "topic": "이란 \"미국 합의 시 호르무즈 이틀 내 재개방\"",
     "slug": "2026-11-02-news-iran-hormuz-reopening-proposal-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795396006.3039095,
     "country": "사우디아라비아",
     "category": "국제"
+  },
+  {
+    "event_key": "us_stock_futures_rebound_202611",
+    "topic": "미 증시 선물 급반등 나스닥 3%·다우 700p↑",
+    "slug": "2026-11-23-news-us-stock-futures-rebound-202611",
+    "cluster": "CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB",
+    "badge": "breaking",
+    "at": 1795399707.383882,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]

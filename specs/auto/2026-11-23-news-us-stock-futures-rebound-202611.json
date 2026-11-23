@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-23-news-us-stock-futures-rebound-202611",
+  "topic": "미 증시 선물 급반등 나스닥 3%·다우 700p↑",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.23 10:04 KST",
+  "source": "Bloomberg.com·Reuters·Barron's 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB",
+    "related": [
+      [
+        "US Stock Futures Open Higher After Tech Selloff: Markets Wrap",
+        "Bloomberg.com"
+      ],
+      [
+        "Stock futures rebound to start shortened week after tech rout: Live updates",
+        "CNBC"
+      ],
+      [
+        "US futures bounce while Asia markets brace for AI wipeout",
+        "Reuters"
+      ],
+      [
+        "Stock market today: Dow futures jump 700 points and Nasdaq soars 3% after entering correction",
+        "Fortune"
+      ],
+      [
+        "Stock Futures Are Rebounding After Last Week’s Bloodbath",
+        "Barron's"
+      ]
+    ],
+    "event_key": "us_stock_futures_rebound_202611"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[미 증시 선물]] 급반등\n나스닥 3%·다우 700p↑",
+      "sub": "기술주 급락세 거친 후 주초 거래 시작하며 급등세",
+      "chips": [
+        {
+          "k": "나스닥 선물",
+          "v": "3% 상승"
+        },
+        {
+          "k": "다우 선물",
+          "v": "700p 상승"
+        }
+      ],
+      "alt": "미 증시 선물 급반등 나스닥 3%·다우 700p↑",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기술주 급락 후 반등",
+          "d": "지난주 기술주 폭락 사태 이후 주초 장 시작과 함께 증시 선물이 급등했습니다 (블룸버그·CNBC)."
+        },
+        {
+          "t": "나스닥 3% 급등",
+          "d": "나스닥 선물 지수가 3% 급등하고 다우 선물은 700포인트 상승했습니다 (포춘)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 증시 선물 급반등 (블룸버그·CNBC)",
+        "나스닥 선물 3% 상승 (포춘)",
+        "다우 선물 700p 상승 (포춘)"
+      ],
+      "unconfirmed": [
+        "정규장 개장 후 상승세 유지 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Barron's",
+        "Bloomberg.com",
+        "CNBC",
+        "Fortune",
+        "Reuters",
+        "2026.11.23 11:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 증시 선물이 기술주 폭락을 딛고 반등해 나스닥 선물이 3% 급등했습니다.\n\n· 다우 선물 지수는 700포인트 상승했습니다 (포춘)\n· 지난주 급락세를 보였던 기술주가 주초 반등 흐름을 끌어올렸습니다 (블룸버그·CNBC)\n\n이번 증시 반등 흐름, 어떻게 보십니까?\n\n출처: 블룸버그·CNBC·로이터·포춘·배런스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "기술주 폭락 사태 이후 미국 증시 선물이 3% 급등하며 반등했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "포춘은 다우 선물 지수가 700포인트 오르고 나스닥 선물도 3% 올랐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정규장 개장 이후에도 이러한 상승 흐름이 유지될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 증시 반등 흐름, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "기술주 폭락 후\n[[증시 선물]] 반등?",
+  "broll": [
+    "stock exchange screen",
+    "wall street building"
+  ],
+  "place_en": "New York, USA"
+}

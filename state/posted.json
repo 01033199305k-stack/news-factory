@@ -47945,5 +47945,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795396438
+  },
+  {
+    "slug": "2026-11-23-news-us-stock-futures-rebound-202611",
+    "event_ms": 1795395840000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 증시 선물이 기술주 폭락을 딛고 반등해 나스닥 선물이 3% 급등했습니다.\n\n· 다우 선물 지수는 700포인트 상승했습니다 (포춘)\n· 지난주 급락세를 보였던 기술주가 주초 반등 흐름을 끌어올렸습니다 (블룸버그·CNBC)\n\n이번 증시 반등 흐름, 어떻게 보십니까?\n\n출처: 블룸버그·CNBC·로이터·포춘·배런스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18031260137696566",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgERfHEDupV",
+        "kind": "carousel",
+        "at": 1795399755
+      },
+      "instagram": {
+        "id": "17927820027449579",
+        "permalink": "https://www.instagram.com/reel/DgERxM5jyOD/",
+        "kind": "reel",
+        "at": 1795399928
+      },
+      "youtube": {
+        "id": "05Ysp0fggTI",
+        "permalink": "https://youtube.com/shorts/05Ysp0fggTI",
+        "kind": "shorts",
+        "at": 1795400037
+      },
+      "tiktok": {
+        "id": "6b03a170d864a0110512f2b9",
+        "permalink": "",
+        "kind": "video",
+        "at": 1795400248
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795400258
   }
 ]
