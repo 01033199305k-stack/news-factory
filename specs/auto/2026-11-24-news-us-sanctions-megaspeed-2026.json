@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-24-news-us-sanctions-megaspeed-2026",
+  "topic": "미국 정부, 메가스피드 등 2개사 제재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.24 14:39 KST",
+  "source": "Financial Times·Reuters·The New York Times 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw",
+    "related": [
+      [
+        "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
+        "The New York Times"
+      ],
+      [
+        "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair",
+        "The New York Times"
+      ],
+      [
+        "Exclusive / Commerce adds Megaspeed to trade blacklist",
+        "Semafor"
+      ],
+      [
+        "Singapore is no backdoor for US chips, PM says",
+        "Financial Times"
+      ],
+      [
+        "US blacklists Alibaba subsidiary and Megaspeed linked to Nvidia scandal",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us_sanctions_megaspeed_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 정부, [[메가스피드]] 등 2개사 제재",
+      "sub": "엔비디아 관련 스캔들 연루 혐의로 블랙리스트 추가",
+      "chips": [
+        {
+          "k": "제재",
+          "v": "2개사"
+        }
+      ],
+      "alt": "미국 정부, 메가스피드 등 2개사 제재",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "제재 배경",
+          "d": "엔비디아 관련 스캔들과 중국 정보기관 접촉 의혹이 포함됐습니다 (뉴욕타임스·로이터)."
+        },
+        {
+          "t": "추가 대상",
+          "d": "알리바바 자회사도 함께 무역 블랙리스트에 올랐습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "메가스피드 등 2개사 제재",
+        "알리바바 자회사 블랙리스트 추가"
+      ],
+      "unconfirmed": [
+        "추가 연루 기업 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Financial Times",
+        "Reuters",
+        "Semafor",
+        "The New York Times",
+        "2026.11.24 16:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 정부가 엔비디아 관련 스캔들에 연루된 메가스피드 등 2개사를 제재했습니다.\n\n· 이번 제재는 해당 기업들이 중국 정보기관과 접촉했다는 의혹에 따른 것입니다 (뉴욕타임스·로이터)\n· 알리바바 자회사 또한 무역 블랙리스트에 포함되었습니다 (로이터)\n\n이번 미 정부의 제재 조치, 어떻게 보십니까?\n\n출처: 뉴욕타임스·로이터·세마포어 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 엔비디아 관련 스캔들에 연루된 메가스피드 등 2개사를 제재했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "뉴욕타임스와 로이터는 이들 기업이 중국 정보기관과 접촉한 정황이 포착됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "알리바바 자회사 또한 함께 무역 블랙리스트에 추가됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 이번 미국의 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 [[메가스피드]] 등\n제재한 이유",
+  "broll": [
+    "stock exchange screen",
+    "microchip silicon"
+  ],
+  "place_en": "Washington D.C., USA"
+}

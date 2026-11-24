@@ -48862,5 +48862,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795501092
+  },
+  {
+    "slug": "2026-11-24-news-us-sanctions-megaspeed-2026",
+    "event_ms": 1795498740000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미국 정부가 엔비디아 관련 스캔들에 연루된 메가스피드 등 2개사를 제재했습니다.\n\n· 이번 제재는 해당 기업들이 중국 정보기관과 접촉했다는 의혹에 따른 것입니다 (뉴욕타임스·로이터)\n· 알리바바 자회사 또한 무역 블랙리스트에 포함되었습니다 (로이터)\n\n이번 미 정부의 제재 조치, 어떻게 보십니까?\n\n출처: 뉴욕타임스·로이터·세마포어 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18100408988657256",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgHZRDMEW9J",
+        "kind": "carousel",
+        "at": 1795504498
+      },
+      "instagram": {
+        "id": "17953996419299790",
+        "permalink": "https://www.instagram.com/reel/DgHZhj8AZ2d/",
+        "kind": "reel",
+        "at": 1795504651
+      },
+      "youtube": {
+        "id": "JWrK9dcYKwU",
+        "permalink": "https://youtube.com/shorts/JWrK9dcYKwU",
+        "kind": "shorts",
+        "at": 1795504764
+      },
+      "tiktok": {
+        "id": "7711634308175236373",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7711634308175236373",
+        "kind": "video",
+        "at": 1795504896
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795504906
   }
 ]

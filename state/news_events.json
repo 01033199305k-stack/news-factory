@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "nepal_everest_helicopter_collision_2026",
-    "topic": "네팔 에베레스트 인근서 헬기 2대 공중 충돌",
-    "slug": "2026-11-03-news-nepal-everest-helicopter-collision-2026",
-    "cluster": "CBMi1gFBVV95cUxPWkRRaE1BM3l6QnJteHNTUHFQRmVHMm5ob0NMSHlYRDJrcVZ3QXhZTzlOY09udFE1RWZxdW9kYVV3NHNTUnI5T0ZkQkZ3Sk5BazJYVnlVdm5NZmlwZEtRMXlVVWFrdTJidkdtZmRNa0xoUlBvUFJJRTdLMHFHdW5JWW9SWWpKZ3pjb0djZWRvYk1uRGJnSjFESEdjRkxFd3dhVTI5a3ZYWnB1VnZ3SFd4OFM0WjJZTmtha0o5dXhXNVNKaXl4MVdNY3BtN0RKcHZpeDZzY1JB0gHbAUFVX3lxTE5jS3FMXzV2UURCN0hfdzZ3RXdPbWRHTTZBV1FrSmpYTVV3dEpkSXUtbXlKOG51Qmp0aVZWRWpQN3VlZVYyUFhlc2lVWFVyc3JqTV93WEg4NmxRaVpBVjNMc25IekpmUTlHTkNfS0dsakdXZkR6VUNGa0RjREgzR2JLMkVuM0hwWkFVcG43enNGNV9RUnhLbzZYMjJWSUI3UFhjM0lPTE80aGJ4aEhxNGR1VHJDeHJkNG1FNko1SWRWTEFfU1ljRVgxaTF0b1JMYXhOeDhGTjBMb2Q0SQ",
-    "badge": "breaking",
-    "at": 1793686070.5148177,
-    "country": "네팔",
-    "category": "사고"
-  },
-  {
     "event_key": "greece_embraer_kc390_deal_2026",
     "topic": "그리스, 다목적 수송기 최대 6대 도입 계약",
     "slug": "2026-11-03-news-greece-embraer-kc390-deal-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795500744.0456836,
     "country": "벨기에",
     "category": "국제"
+  },
+  {
+    "event_key": "us_sanctions_megaspeed_2026",
+    "topic": "미국 정부, 메가스피드 등 2개사 제재",
+    "slug": "2026-11-24-news-us-sanctions-megaspeed-2026",
+    "cluster": "CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw",
+    "badge": "breaking",
+    "at": 1795504451.2055676,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
