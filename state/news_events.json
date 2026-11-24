@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_florida_space_coast_flash_floods_2026",
-    "topic": "미국 플로리다주에 반년치 폭우 쏟아져",
-    "slug": "2026-11-03-news-us-florida-space-coast-flash-floods-2026",
-    "cluster": "CBMilAFBVV95cUxOdURXNVJaOUpGT1BoVG03d1cxMGZZYnY4YTZwaHZOSXY2YkFGcE9iOU9vSndiVjVBNmMzOG1JaDZHU1oxWUJKM0RaZW9XWF9sOVNoRG1tMHdlTGN3dFRKdk9lREdQQUl2RGZGRnhoc01kaVRBb1p6cW0xZ3ZUQXdtVGFVeUZGQlEtYnE4UnpHVVNKcndE",
-    "badge": "breaking",
-    "at": 1793718242.8530781,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "nasa_swift_telescope_reenter_earth",
     "topic": "수명 다한 나사 우주망원경 지구 대기 진입해 추락 중",
     "slug": "2026-11-03-news-nasa-swift-telescope-reenter-earth",
@@ -2998,5 +2988,15 @@
     "at": 1795561670.8805254,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "huawei_us_trial_conviction_trade_secrets_2026",
+    "topic": "미 법원, 화웨이에 영업비밀 침해 등 유죄 선고",
+    "slug": "2026-11-25-news-huawei-us-trial-conviction-trade-secrets-2026",
+    "cluster": "CBMiXkFVX3lxTE56TkdNQ3lERDFNUGZVY3R3Y0tJNXg4d3pRd29oYUFRRmFYc0FwTTMxUlowSnZrS0M5SkUwUnhFU01JVXRYTDB4MXZreEk0YUZkUHY1QnFyakdjVDRFMUE",
+    "badge": "breaking",
+    "at": 1795563147.199926,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
