@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_strikes_iran_qeshm_island_2026",
-    "topic": "미국, 이란 퀘섬섬 공습 호르무즈 인근 표적 타격",
-    "slug": "2026-11-03-news-us-strikes-iran-qeshm-island-2026",
-    "cluster": "CBMiogFBVV95cUxQbWdibC16VWNfLUFoa1NNRmFoMWcwUUdRN09UcHZfb2FURlJIQUE3bWhpbWFheUV2aUZIV3U3ZmNFYnpzOEx2UG1mZlhJNVRLVUoxaS1JT2JVNjJWTl94WTEwb1U1XzRsZUI1QTQ5dVJNODRodlNxcUY2TXFid1hXZklLR0xURldNaUx2NnNiUTNvSkJGeU13ZG9ZNjN1ZnVkNlHSAagBQVVfeXFMUGswSHcyUGJ0Mkc5cFlOWjJ5M0YzQ1puMTE1Yi1yRHlXZEVnNmd3eHMxb0NqUXMySk03QU9MelBnVkl3eXFHU3lHYkVudFkzNGk5R3FOVHVzR3M2aTR0ek1fXzMtcWQtQTRmbVIxT1dZS0pteEpyeXdYdURNVjJteVgxWnpxM2JqeXZOYUNwT2xJWE1Lc3ZJVGF0OUdaQkR4dFI5Ql91RjEx",
-    "badge": "breaking",
-    "at": 1793675423.9221141,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "australia_rba_interest_rate_hike_4_85_2026",
     "topic": "호주중앙은행, 기준금리 4.85%로 인상 18년 만에 최고치 기록",
     "slug": "2026-11-03-news-australia-rba-interest-rate-hike-4-85-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795486151.2955444,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "seoul_yangcheon_motel_fire_2026",
+    "topic": "서울 목동 모텔 화재 50대 남성 1명 사망",
+    "slug": "2026-11-24-news-seoul-yangcheon-motel-fire-2026",
+    "cluster": "CBMickFVX3lxTE51WjU1TTdzSXVkWm5HWWpsNzVZN0VhZWpuUWZIWmpwZEV1TkY5RzBoLTI5c2NMVjZYbWV0Q21iMEVFTDZ4MzloVzF4VDdlUVNQQkhxeDVhdDNIXzBYdGpIeGFiekQ4dkJLcnBwRWZBSWswdw",
+    "badge": "breaking",
+    "at": 1795493600.911137,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]
