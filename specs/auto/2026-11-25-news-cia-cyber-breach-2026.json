@@ -1,0 +1,127 @@
+{
+  "slug": "2026-11-25-news-cia-cyber-breach-2026",
+  "topic": "미 CIA 정보기관망 사이버 공격 당해",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 07:55 KST",
+  "source": "AP News·CNN·Fox News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ",
+    "related": [
+      [
+        "US CIA, ODNI suffer cybersecurity breach of some unclassified information, NYT reports",
+        "Reuters"
+      ],
+      [
+        "U.S. Spy Agencies Suffer Breach of Some Unclassified Information",
+        "The New York Times"
+      ],
+      [
+        "CIA hit by hack impacting unclassified information",
+        "CNN"
+      ],
+      [
+        "An unclassified CIA system was breached in a cyberattack, AP source says",
+        "AP News"
+      ],
+      [
+        "CIA hit by cyber breach that exposed unclassified data on intelligence analysis network: sources",
+        "Fox News"
+      ]
+    ],
+    "event_key": "cia_cyber_breach_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 CIA 정보기관망\n[[사이버 공격]] 당해",
+      "sub": "기밀이 아닌 정보 일부가 노출된 것으로 알려졌습니다.",
+      "chips": [],
+      "alt": "미 CIA 정보기관망 사이버 공격 당해",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공격 대상과 영향",
+          "d": "CIA와 국가정보국장실(ODNI)의 비기밀 정보 시스템이 해킹 피해를 입었습니다 (로이터·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "비기밀 정보 시스템 해킹",
+        "CIA 및 ODNI 피해"
+      ],
+      "unconfirmed": [
+        "정확한 유출 정보의 범위",
+        "해킹 배후"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "CNN",
+        "Fox News",
+        "Reuters",
+        "The New York Times",
+        "2026.11.25 08:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 CIA 등 정보기관 시스템이 사이버 공격을 받았습니다.\n\n· 비기밀 정보가 저장된 네트워크가 이번 해킹으로 영향을 받았다고 외신들이 보도했습니다 (AP·로이터).\n· 미 정보 당국은 유출된 데이터의 정확한 규모를 파악 중입니다 (CNN·폭스뉴스).\n\n출처: 로이터·NYT·CNN·AP·폭스뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미 중앙정보국 CIA와 국가정보국장실의 비기밀 시스템이 사이버 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신들은 이번 해킹으로 보안이 걸려 있지 않은 정보 일부가 유출됐다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해킹의 정확한 배후나 구체적인 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미 [[CIA]] 시스템에\n무슨 일이?",
+  "broll": [
+    "cyber security digital",
+    "server room"
+  ],
+  "place_en": "Washington D.C., USA"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "abu_dhabi_trilateral_peace_talks_2026",
-    "topic": "미·우크라·러시아 아부다비 평화 협상",
-    "slug": "2026-11-03-news-abu-dhabi-trilateral-peace-talks-2026",
-    "cluster": "CBMi2wFBVV95cUxPXzVEeFJxc0VZdlI2WG5FRWVweTBJOHlVVU9WNjdLc3NMb1pnd2ZjdmFzOW1TS2NGZUh0WHQtQkw3WDh6SU9COHJfRUZrOVRCMzNuV2FqRTZBakVjWWZEN1llYm9nc1loNUZabktaa1ZmS1BMVFdxODNlWFgwRl9xa0F5U1VGVml1V2l6ckR5anV5TGlFUHFKVE5VTVVrQThwTndRVEZkMzdRMUg3cHpBVjNEQzZqX1RuVmwwaW1Xc0FmaExhNXJoU3Z2QS1TUGRVcTgzS3RBSVFPTW8",
-    "badge": "breaking",
-    "at": 1793711263.64135,
-    "country": "아랍에미리트",
-    "category": "국제"
-  },
-  {
     "event_key": "us_florida_space_coast_flash_floods_2026",
     "topic": "미국 플로리다주에 반년치 폭우 쏟아져",
     "slug": "2026-11-03-news-us-florida-space-coast-flash-floods-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795551331.4740098,
     "country": "핀란드만",
     "category": "국제"
+  },
+  {
+    "event_key": "cia_cyber_breach_2026",
+    "topic": "미 CIA 정보기관망 사이버 공격 당해",
+    "slug": "2026-11-25-news-cia-cyber-breach-2026",
+    "cluster": "CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ",
+    "badge": "breaking",
+    "at": 1795561670.8805254,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

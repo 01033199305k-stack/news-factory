@@ -49082,5 +49082,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795554851
+  },
+  {
+    "slug": "2026-11-25-news-cia-cyber-breach-2026",
+    "event_ms": 1795560943000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 미 CIA 등 정보기관 시스템이 사이버 공격을 받았습니다.\n\n· 비기밀 정보가 저장된 네트워크가 이번 해킹으로 영향을 받았다고 외신들이 보도했습니다 (AP·로이터).\n· 미 정보 당국은 유출된 데이터의 정확한 규모를 파악 중입니다 (CNN·폭스뉴스).\n\n출처: 로이터·NYT·CNN·AP·폭스뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18080570357448223",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgJGacADsB4",
+        "kind": "carousel",
+        "at": 1795561723
+      },
+      "instagram": {
+        "id": "18199320382347890",
+        "permalink": "https://www.instagram.com/reel/DgJGqB9EUMB/",
+        "kind": "reel",
+        "at": 1795561876
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1795561886
+      },
+      "tiktok": {
+        "id": "6b0619a0a97afa2452084933",
+        "permalink": "",
+        "kind": "video",
+        "at": 1795562089
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795562099
   }
 ]
