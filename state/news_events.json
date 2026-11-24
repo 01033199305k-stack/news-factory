@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "european_troops_ukraine_deployment_rehearsal_2026",
-    "topic": "유럽 군대, 우크라 배치 대비 대규모 훈련 실시",
-    "slug": "2026-11-03-news-european-troops-ukraine-deployment-rehearsal-2026",
-    "cluster": "CBMiXkFVX3lxTE51c3pfSDJ1enRJX1FiTURXMGtUQ3B3VDA4MVVYOHBZMjN1eVVxSXhiak5GZWs2eUtNWGdfRERWUkhlSkZMZDh3OFp6MjRQc2pyaGs0bzFoNV9EM3J1S2c",
-    "badge": "breaking",
-    "at": 1793671655.5546,
-    "country": "영국",
-    "category": "국제"
-  },
-  {
     "event_key": "us_strikes_iran_qeshm_island_2026",
     "topic": "미국, 이란 퀘섬섬 공습 호르무즈 인근 표적 타격",
     "slug": "2026-11-03-news-us-strikes-iran-qeshm-island-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795478953.0148199,
     "country": "대한민국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "california_extreme_tides_storm_flooding_2026",
+    "topic": "미 캘리포니아 폭풍우 기록적 해수면 침수 비상",
+    "slug": "2026-11-24-news-california-extreme-tides-storm-flooding-2026",
+    "cluster": "CBMigAFBVV95cUxOeGVxQjBhSFZySWJLdFVPQVpiNmx1UDZwempXRWVPVlhoQnJLXzNOSWlhaDhtWjRFY3MzbmQyYWNfUGhqcWpja0FoTzl5cEFZNGpsdUZoblFfenVGNmpLZVBkOUVKM0Q1clkycjVuWjItbHlBLVZNbzJ2S0NBaFdjTg",
+    "badge": "brief",
+    "at": 1795486151.2955444,
+    "country": "미국",
+    "category": "재난"
   }
 ]

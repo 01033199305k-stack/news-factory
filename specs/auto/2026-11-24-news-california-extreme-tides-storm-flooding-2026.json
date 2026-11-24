@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-24-news-california-extreme-tides-storm-flooding-2026",
+  "topic": "미 캘리포니아 폭풍우 기록적 해수면 침수 비상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.24 06:09 KST",
+  "source": "CNN·The New York Times·Yahoo News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigAFBVV95cUxOeGVxQjBhSFZySWJLdFVPQVpiNmx1UDZwempXRWVPVlhoQnJLXzNOSWlhaDhtWjRFY3MzbmQyYWNfUGhqcWpja0FoTzl5cEFZNGpsdUZoblFfenVGNmpLZVBkOUVKM0Q1clkycjVuWjItbHlBLVZNbzJ2S0NBaFdjTg",
+    "related": [
+      [
+        "As Tides Near Record Levels in California, a Storm Threatens to Make Things Worse",
+        "The New York Times"
+      ],
+      [
+        "SFO gears up to face potential flooding during high tides, heavy rain",
+        "NBC Bay Area"
+      ],
+      [
+        "California coast faces extreme flood threat on holiday; water could inundate Bay Area airports",
+        "Yahoo"
+      ],
+      [
+        "SFO airline to allow flight changes ahead of heavy storm, flooding",
+        "SFGATE"
+      ],
+      [
+        "San Francisco braces for near-record tides as a storm collides with Thanksgiving travel‌",
+        "CNN"
+      ]
+    ],
+    "event_key": "california_extreme_tides_storm_flooding_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미 캘리포니아 폭풍우\n[[기록적 해수면]] 침수 비상",
+      "sub": "만조와 폭풍우 겹치며 공항 침수 우려",
+      "chips": [],
+      "alt": "미 캘리포니아 폭풍우 기록적 해수면 침수 비상",
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아주",
+      "video_only": true,
+      "map": {
+        "lat": 37.7879363,
+        "lon": -122.4075201,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "만조와 폭풍우 충돌",
+          "d": "기록적인 만조 수위에 강한 폭풍우가 더해지며 캘리포니아 해안 지역의 침수 위험이 커졌습니다 (NYT·CNN)."
+        },
+        {
+          "t": "항공편 차질 우려",
+          "d": "샌프란시스코 국제공항 침수 가능성으로 항공권 변경 조치가 허용됐습니다 (SFGATE)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "캘리포니아 해안 침수 위험",
+        "샌프란시스코 공항 침수 위험 대비"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "NBC Bay Area",
+        "SFGATE",
+        "The New York Times",
+        "Yahoo",
+        "2026.11.24 11:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미 캘리포니아 해안에 기록적 만조와 폭풍우가 겹치며 대규모 침수 비상이 걸렸습니다.\n\n· 샌프란시스코 공항 침수 우려로 항공권 변경 조치가 허용됐습니다 (SFGATE).\n· 추수감사절 연휴 이동과 맞물려 비상이 걸렸습니다 (CNN).\n\n출처: NYT·CNN·NBC·SFGATE·Yahoo 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아 해안에 기록적인 만조와 폭풍우가 겹쳐 대규모 침수 비상이 걸렸습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "샌프란시스코가 기록적인 만조와 추수감사절 연휴 이동에 대비하고 있다고 CNN이 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "항공사는 침수 우려에 맞춰 항공편 변경 조치를 허용했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[샌프란시스코]] 공항이\n잠길 수 있는 이유",
+  "broll": [
+    "flooded highway storm",
+    "coastal storm waves"
+  ],
+  "place_en": "San Francisco, California"
+}

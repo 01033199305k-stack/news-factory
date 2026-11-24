@@ -48703,5 +48703,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795479374
+  },
+  {
+    "slug": "2026-11-24-news-california-extreme-tides-storm-flooding-2026",
+    "event_ms": 1795486151295,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미 캘리포니아 해안에 기록적 만조와 폭풍우가 겹치며 대규모 침수 비상이 걸렸습니다.\n\n· 샌프란시스코 공항 침수 우려로 항공권 변경 조치가 허용됐습니다 (SFGATE).\n· 추수감사절 연휴 이동과 맞물려 비상이 걸렸습니다 (CNN).\n\n출처: NYT·CNN·NBC·SFGATE·Yahoo 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18163535335496674",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgG2XO7gFtX",
+        "kind": "carousel",
+        "at": 1795486193
+      },
+      "instagram": {
+        "id": "17981012370140000",
+        "permalink": "https://www.instagram.com/reel/DgG2rRFFHcU/",
+        "kind": "reel",
+        "at": 1795486378
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1795486388
+      },
+      "tiktok": {
+        "id": "7711555352386489621",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7711555352386489621",
+        "kind": "video",
+        "at": 1795486511
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795486521
   }
 ]
