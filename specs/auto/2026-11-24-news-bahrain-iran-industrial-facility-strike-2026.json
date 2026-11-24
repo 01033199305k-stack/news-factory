@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-24-news-bahrain-iran-industrial-facility-strike-2026",
+  "topic": "바레인, 이란 공습 받아 산업시설 피해 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.24 19:12 KST",
+  "source": "Al Jazeera·Reuters·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxNVl9nLTI2ZUtCcjBueDBua1BINVJka0dWTWFBeWlxcmpodlpBYkZmTXppNjhySnczOG5XNEVjSXRvcW1NX1ZIY29feWNmR1dIeFRpZXhPaEpzUlR0cC1OU1dwUVVKVHI0cnROY0FNdWtPbTlLTkR3UWFCNmhuYW5wVzI3M3hqQ2hOZFJlb09NZnJ3UDlZZlg2UTZ5T0pVOWxFRlZyLV9nT1k",
+    "related": [
+      [
+        "Tiny Bahrain Is Paying a Big Price for Its Ties to the U.S.",
+        "WSJ"
+      ],
+      [
+        "What’s behind Iran’s escalation of attacks in the Gulf?",
+        "Al Jazeera"
+      ],
+      [
+        "Bahrain says Iran strikes industrial facility as air defences intercept attacks",
+        "Reuters"
+      ],
+      [
+        "What Is Trump Up To Bombing Iran's Qeshm Island",
+        "Crude Oil Prices Today | OilPrice.com"
+      ],
+      [
+        "Security Alert: U.S. Embassy Manama – November 22, 2026",
+        "U.S. Embassy in Bahrain (.gov)"
+      ]
+    ],
+    "event_key": "bahrain_iran_industrial_facility_strike_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "바레인, [[이란 공습]] 받아\n산업시설 피해 발생",
+      "sub": "바레인 정부가 이란의 산업시설 공습 사실을 확인했습니다.",
+      "chips": [],
+      "alt": "바레인, 이란 공습 받아 산업시설 피해 발생",
+      "map": {
+        "lat": 26.2235041,
+        "lon": 50.5822436,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "바레인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "바레인\n마나마",
+      "video_only": true,
+      "map": {
+        "lat": 26.2235041,
+        "lon": 50.5822436,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "마나마"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "방공망 요격",
+          "d": "바레인 당국은 방공망이 공격을 요격했다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "바레인 산업시설 이란 공습",
+        "방공망 요격 작전"
+      ],
+      "unconfirmed": [
+        "정확한 인명 및 물적 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Crude Oil Prices Today | OilPrice.com",
+        "Reuters",
+        "U.S. Embassy in Bahrain (.gov)",
+        "WSJ",
+        "2026.11.24 21:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 바레인, 이란 공습 받아 산업시설 피해 발생\n\n· 바레인 당국은 이란이 산업시설을 공습했다고 밝혔습니다 (로이터)\n· 방공망이 공격을 요격했다고 전했습니다 (로이터)\n\n출처: WSJ·알자지라·로이터·OilPrice.com·미 대사관 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "바레인 산업시설이 이란의 공습을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 바레인 당국이 이 같은 사실을 확인했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "현지 방공망이 공격을 요격한 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중동 사태 확전 우려를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "중동 사태, 어떻게 보십니까?"
+    }
+  ],
+  "hook": "바레인 [[산업시설]]이\n공격받은 이유는?",
+  "broll": [
+    "factory building smoke",
+    "military defense radar"
+  ],
+  "place_en": "Manama, Bahrain"
+}

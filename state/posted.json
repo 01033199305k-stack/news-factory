@@ -48917,5 +48917,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795504906
+  },
+  {
+    "slug": "2026-11-24-news-bahrain-iran-industrial-facility-strike-2026",
+    "event_ms": 1795515120000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 바레인, 이란 공습 받아 산업시설 피해 발생\n\n· 바레인 당국은 이란이 산업시설을 공습했다고 밝혔습니다 (로이터)\n· 방공망이 공격을 요격했다고 전했습니다 (로이터)\n\n출처: WSJ·알자지라·로이터·OilPrice.com·미 대사관 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "바레인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18120837113080439",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgH7GEElWSh",
+        "kind": "carousel",
+        "at": 1795522233
+      },
+      "instagram": {
+        "id": "18645424636061281",
+        "permalink": "https://www.instagram.com/reel/DgH7YAqDdjG/",
+        "kind": "reel",
+        "at": 1795522393
+      },
+      "youtube": {
+        "id": "TjkpkyRfuxg",
+        "permalink": "https://youtube.com/shorts/TjkpkyRfuxg",
+        "kind": "shorts",
+        "at": 1795522438
+      },
+      "tiktok": {
+        "id": "7711710218043903253",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7711710218043903253",
+        "kind": "video",
+        "at": 1795522569
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795522579
   }
 ]
