@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-25-news-ukraine-strike-russian-ship-gulf-of-finland-2026",
+  "topic": "우크라, 핀란드만서 러 선박 드론 공격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 03:25 KST",
+  "source": "BBC·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwwFBVV95cUxQM2ZZQnd0c3JtbHl5NFozeGhRRUotLUVZODlvQTVHT2ZmdVBoQ2lnanJyNVFkM0RaSXdCT3BncnMtRVdLdjM4UTVpS2JZeHNwbWlKSnhoZ0NQcmd3N1Mtd2hZaGxkZDBoUW80TXpVMHVtS0ctNmlWTE5nYlZXZXpqb2kxcW85VzRCTlFEWGprbTlhYnFpUFhiN3RzYW5MQU9GcTR2NVd6SHhSRTN3VWV2bjktWHRkdnY0djdRdlJXRG5VUEU",
+    "related": [
+      [
+        "Zelenskiy confirms Ukraine hit Russian ship in Gulf of Finland, ally Norway urges caution",
+        "Reuters"
+      ],
+      [
+        "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+        "BBC"
+      ],
+      [
+        "Sanctioned Russian ship attacked by drones near Finland",
+        "Financial Times"
+      ],
+      [
+        "Russian Offensive Campaign Assessment, November 21, 2026",
+        "Institute for the Study of War"
+      ],
+      [
+        "Estonian PM Says Baltic Countries Must Get Used to Ukrainian Strikes on Russian Ships",
+        "UNITED24 Media"
+      ]
+    ],
+    "event_key": "ukraine_strike_russian_ship_gulf_of_finland_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라, 핀란드만서\n러 [[선박]] 드론 공격",
+      "sub": "젤렌스키 대통령 공격 사실 공식 확인",
+      "chips": [],
+      "alt": "우크라, 핀란드만서 러 선박 드론 공격",
+      "map": {
+        "lat": 59.8737114,
+        "lon": 26.3229884,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "핀란드만"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "핀란드만",
+      "video_only": true,
+      "map": {
+        "lat": 59.8737114,
+        "lon": 26.3229884,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "핀란드만"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "핀란드만 수역 타격",
+          "d": "우크라이나군이 핀란드만에서 러시아행 제재 대상 선박을 공격했습니다."
+        },
+        {
+          "t": "젤렌스키 공식 확인",
+          "d": "젤렌스키 우크라이나 대통령이 핀란드만 내 러시아 선박 피격 사실을 밝혔습니다."
+        },
+        {
+          "t": "피격 선박 예인",
+          "d": "공격을 받은 선박은 예인되었습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나군 핀란드만 선박 공격",
+        "젤렌스키 대통령 피격 확인"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "선박 정확한 손상 정도"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Financial Times",
+        "Institute for the Study of War",
+        "Reuters",
+        "UNITED24 Media",
+        "2026.11.25 05:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나가 핀란드만 수역에서 러시아행 선박을 드론으로 공격했습니다.\n\n· 젤렌스키 우크라이나 대통령은 핀란드만에서 러시아 관련 선박을 타격했다고 공식 확인했습니다 (로이터)\n· 피격된 러시아행 선박은 공격 이후 예인되었습니다 (BBC)\n\n출처: 로이터·BBC·파이낸셜타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나군이 핀란드만 수역에서 러시아행 선박을 공격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "젤렌스키 우크라이나 대통령은 이번 선박 공격 사실을 공식 확인했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "피격된 선박은 공격을 받은 뒤 예인됐다고 BBC가 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "선박의 정확한 손상 정도와 인명 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[핀란드만]]에서\n무슨 일이?",
+  "broll": [
+    "cargo ship sea",
+    "ocean vessel drone"
+  ],
+  "place_en": "Gulf of Finland"
+}

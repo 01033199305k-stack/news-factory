@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-25-news-houthis-strike-riyadh-tower-2026",
+  "topic": "후티, 리야드 빌딩 공격 11명 부상 발생",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 03:49 KST",
+  "source": "Al Jazeera·Financial Times·WSJ 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV",
+    "related": [
+      [
+        "11 injured in Houthi attack on Riyadh tower, Saudi civil defence says",
+        "Al Jazeera"
+      ],
+      [
+        "Iran war live: Houthi attack on Riyadh tower injures 11 – Saudi authorities",
+        "Al Jazeera"
+      ],
+      [
+        "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital",
+        "WSJ"
+      ],
+      [
+        "Houthi attack on Riyadh’s PIF Tower injures 11",
+        "Financial Times"
+      ],
+      [
+        "Fighting a Radical Militia Was Not Part of the Plan",
+        "The Atlantic"
+      ]
+    ],
+    "event_key": "houthis_strike_riyadh_tower_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "후티, 리야드 [[빌딩]] 공격\n11명 부상 발생",
+      "sub": "사우디 수도 리야드의 초고층 건물 피격",
+      "chips": [
+        {
+          "k": "부상",
+          "v": "11명"
+        }
+      ],
+      "alt": "후티, 리야드 빌딩 공격 11명 부상 발생",
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "사우디아라비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "사우디아라비아\n리야드",
+      "video_only": true,
+      "map": {
+        "lat": 24.638916,
+        "lon": 46.7160104,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리야드"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사우디 수도 타격",
+          "d": "예멘 후티 반군이 사우디아라비아 수도 리야드의 PIF 타워를 공격했습니다."
+        },
+        {
+          "t": "당국 부상자 발표",
+          "d": "사우디 민방위 당국은 이번 공격으로 11명이 다쳤다고 발표했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사우디 리야드 건물 피격",
+        "11명 부상 (알자지라·FT)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "추가 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Financial Times",
+        "The Atlantic",
+        "WSJ",
+        "2026.11.25 05:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 예멘 후티 반군이 사우디 리야드 초고층 건물을 공격해 11명이 다쳤습니다.\n\n· 사우디 민방위 당국은 리야드의 PIF 타워가 피격돼 11명이 부상당했다고 밝혔습니다 (알자지라·FT)\n· 예멘 후티 반군이 사우디 수도 최고층 타워를 다시 공격했습니다 (WSJ)\n\n출처: 알자지라·파이낸셜타임스·월스트리트저널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "사우디아라비아 수도 리야드의 초고층 빌딩이 예멘 후티 반군의 공격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사우디 민방위 당국과 알자지라는 이번 공격으로 11명이 다쳤다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "공격받은 건물은 리야드의 주요 마천루인 PIF 타워로 확인됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "정확한 공격 수단과 추가 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "사우디 [[수도]]에\n무슨 일이?",
+  "broll": [
+    "skyscraper night fire",
+    "city skyline night"
+  ],
+  "place_en": "Riyadh, Saudi Arabia"
+}
