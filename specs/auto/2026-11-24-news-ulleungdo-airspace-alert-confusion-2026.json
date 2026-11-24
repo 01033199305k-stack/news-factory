@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-24-news-ulleungdo-airspace-alert-confusion-2026",
+  "topic": "울릉도 전역에 경계경보 한때 발령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.24 08:11 KST",
+  "source": "KBS 뉴스·MBC 뉴스·경향신문 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMieEFVX3lxTE5lRmlHbEF0clcxOXpTQm9IdnJpckVReXFtNlA2MDhBMUt5TUxZMGxncV9BbklmRktNTjIzQ2NveEkyenRRQy1STThzd2R5V2dBTzVTZlYxQVNXdDBhdHZ2bXoxM2QwR2JlNUJZR18yYmFweHpoUHJzVtIBeEFVX3lxTE5zYUlnUHRCXzFWbXVRTGNyY3BOeWpMS285NXFyMjFqUWhZNldPaEwwR3FFdUozMEtXTTd6U0RGOENabkFibDZKTFdZcGE1Tlo1UkNtNU9aMEVZS0FDaFRPSWtqdGJKWmcyMDRRVVVxRGlwVnc2anlCNQ",
+    "related": [
+      [
+        "[속보] 경북 울릉군 지역에 '비행체 영공 침범'‥한때 경계경보",
+        "MBC 뉴스"
+      ],
+      [
+        "북한 항공기 추정 비행체 영공 침범..울릉군 지역에 위급 문자(1보)",
+        "연합뉴스"
+      ],
+      [
+        "러 군용기 카디즈 침범… 울릉도에 주민 대피령",
+        "조선일보"
+      ],
+      [
+        "[속보] 7시 56분, 민방공 경보 해제…울릉군",
+        "KBS 뉴스"
+      ],
+      [
+        "울릉군 민방공 경계경보 3분 만에 해제됐지만···행안부 “러시아 항공기”, 경북도 “북한 항공기 추정” 안내 혼선",
+        "경향신문"
+      ]
+    ],
+    "event_key": "ulleungdo_airspace_alert_confusion_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "울릉도 전역에\n[[경계경보]] 한때 발령",
+      "sub": "비행체 침범 여파로 울릉 주민 대피령… 3분 만에 해제",
+      "chips": [
+        {
+          "k": "경보 해제",
+          "v": "3분 만"
+        }
+      ],
+      "alt": "울릉도 전역에 경계경보 한때 발령",
+      "map": {
+        "lat": 37.5011143,
+        "lon": 130.8586064,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n울릉도",
+      "video_only": true,
+      "map": {
+        "lat": 37.5011143,
+        "lon": 130.8586064,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "울릉도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "3분 만에 경보 해제",
+          "d": "울릉군 일대에 발령됐던 민방공 경계경보는 오전 7시 56분에 공식 해제됐습니다 (KBS)."
+        },
+        {
+          "t": "기종 안내 혼선",
+          "d": "행정안전부는 러시아 항공기로, 경상북도는 북한 추정 비행체로 안내해 혼선이 빚어졌습니다 (경향신문)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "울릉군 지역 경계경보 발령 및 3분 만에 해제",
+        "주민 대상 위급 안내 문자 발송"
+      ],
+      "unconfirmed": [
+        "침범 비행체의 정확한 소속국과 기종",
+        "영공 및 방공식별구역(KADIZ) 진입 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "경향신문",
+        "연합뉴스",
+        "조선일보",
+        "2026.11.24 09:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 울릉군 지역에 비행체 침범으로 민방공 경계경보가 발령됐다가 3분 만에 해제됐습니다.\n\n· 오전 7시 56분 울릉군 일대 민방공 경보가 공식 해제됐습니다 (KBS)\n· 행안부는 러시아 항공기로, 경북도는 북한 추정 항공기로 안내해 혼선이 발생했습니다 (경향신문)\n· 러 군용기의 카디즈 침범 및 비행체의 영공 침범으로 주민 대피령과 경계경보가 내려졌습니다 (조선일보·MBC)\n\n출처: KBS·경향신문·조선일보·MBC·연합뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경북 울릉군 일대에 비행체 침범으로 한때 민방공 경계경보가 내려졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "울릉도 전역에 울린 경보는 발령 3분 만인 오전 7시 56분에 해제됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "행안부는 러시아기, 경북도는 북한 비행체로 각각 안내해 혼선이 빚어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해당 비행체의 정확한 기종과 침범 경위는 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[울릉도]] 상공에\n무슨 일이?",
+  "broll": [
+    "military radar screen",
+    "emergency siren light"
+  ],
+  "place_en": "Ulleungdo, South Korea"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "el_salvador_troops_haiti_gang_clashes_2026",
-    "topic": "엘살바도르, 하이티에 군대 파견 병력 2,000명 투입",
-    "slug": "2026-11-03-news-el-salvador-troops-haiti-gang-clashes-2026",
-    "cluster": "CBMirgFBVV95cUxQeFFIaW1Ya0Q0cVFzUkVrYWNQRzBZYktPQlpOVm1yeEVZYzhNT0RJNVdKVGMwbXUtZ1dtZHZBUXI2emF0d0tFSGU5NEoxd1diLUdJSERoNEw0d2twVHpNejI2ZXNzeC0zMGRlcC1BdkQ4MUk1WkNQQklReXF6bml3aGVOOEpmOG40MC1XV3FnLXp1d1JCVXNZRHFlYzVndGlxMFlDaElfU2lzYXRKZ1E",
-    "badge": "breaking",
-    "at": 1793671635.0164087,
-    "country": "아이티",
-    "category": "국제"
-  },
-  {
     "event_key": "european_troops_ukraine_deployment_rehearsal_2026",
     "topic": "유럽 군대, 우크라 배치 대비 대규모 훈련 실시",
     "slug": "2026-11-03-news-european-troops-ukraine-deployment-rehearsal-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795468088.677837,
     "country": "폴란드",
     "category": "국제"
+  },
+  {
+    "event_key": "ulleungdo_airspace_alert_confusion_2026",
+    "topic": "울릉도 전역에 경계경보 한때 발령",
+    "slug": "2026-11-24-news-ulleungdo-airspace-alert-confusion-2026",
+    "cluster": "CBMieEFVX3lxTE5lRmlHbEF0clcxOXpTQm9IdnJpckVReXFtNlA2MDhBMUt5TUxZMGxncV9BbklmRktNTjIzQ2NveEkyenRRQy1STThzd2R5V2dBTzVTZlYxQVNXdDBhdHZ2bXoxM2QwR2JlNUJZR18yYmFweHpoUHJzVtIBeEFVX3lxTE5zYUlnUHRCXzFWbXVRTGNyY3BOeWpMS285NXFyMjFqUWhZNldPaEwwR3FFdUozMEtXTTd6U0RGOENabkFibDZKTFdZcGE1Tlo1UkNtNU9aMEVZS0FDaFRPSWtqdGJKWmcyMDRRVVVxRGlwVnc2anlCNQ",
+    "badge": "breaking",
+    "at": 1795478953.0148199,
+    "country": "대한민국",
+    "category": "기타 사건"
   }
 ]

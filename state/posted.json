@@ -48648,5 +48648,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795469829
+  },
+  {
+    "slug": "2026-11-24-news-ulleungdo-airspace-alert-confusion-2026",
+    "event_ms": 1795475495000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 울릉군 지역에 비행체 침범으로 민방공 경계경보가 발령됐다가 3분 만에 해제됐습니다.\n\n· 오전 7시 56분 울릉군 일대 민방공 경보가 공식 해제됐습니다 (KBS)\n· 행안부는 러시아 항공기로, 경북도는 북한 추정 항공기로 안내해 혼선이 발생했습니다 (경향신문)\n· 러 군용기의 카디즈 침범 및 비행체의 영공 침범으로 주민 대피령과 경계경보가 내려졌습니다 (조선일보·MBC)\n\n출처: KBS·경향신문·조선일보·MBC·연합뉴스 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "기타 사건",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18143702314714604",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgGookKgJnl",
+        "kind": "carousel",
+        "at": 1795478998
+      },
+      "instagram": {
+        "id": "17917159011286130",
+        "permalink": "https://www.instagram.com/reel/DgGo_hyEeBI/",
+        "kind": "reel",
+        "at": 1795479208
+      },
+      "youtube": {
+        "id": "OIRzJzsykA4",
+        "permalink": "https://youtube.com/shorts/OIRzJzsykA4",
+        "kind": "shorts",
+        "at": 1795479231
+      },
+      "tiktok": {
+        "id": "7711524601494277383",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7711524601494277383",
+        "kind": "video",
+        "at": 1795479364
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795479374
   }
 ]
