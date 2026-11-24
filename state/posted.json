@@ -48809,5 +48809,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795493929
+  },
+  {
+    "slug": "2026-11-24-news-russia-nuclear-space-weapon-nato-response-2026",
+    "event_ms": 1795500744045,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 러시아가 우주에 핵무기를 배치할 가능성이 제기되자 나토가 우주 방어 공약을 강조했습니다.\n\n· 미 정보 보고서는 러시아가 우주 핵무기를 개발 중이며 이르면 다음 달 발사할 수 있다고 전했습니다 (Space·Ars Technica)\n· 독일 정부도 러시아의 우주 핵무기 배치 계획 보고를 심각하게 보고 있다고 밝혔습니다 (가디언)\n· 나토 사무총장은 우주 영역에서의 위협 대응 역시 방어 공약에 포함된다고 강조했습니다 (BBC·아나돌루 통신)\n\n러시아의 우주 핵무기 추진과 나토의 대응, 여러분은 어떻게 보십니까?\n\n출처: BBC·가디언·아나돌루 통신·Space·Ars Technica 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "벨기에"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18158735428534565",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgHSM1AEaWt",
+        "kind": "carousel",
+        "at": 1795500793
+      },
+      "instagram": {
+        "id": "18128713391310996",
+        "permalink": "https://www.instagram.com/reel/DgHSdaMlLBR/",
+        "kind": "reel",
+        "at": 1795500950
+      },
+      "youtube": {
+        "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
+        "at": 1795500960
+      },
+      "tiktok": {
+        "id": "7711617957696163092",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7711617957696163092",
+        "kind": "video",
+        "at": 1795501082
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795501092
   }
 ]

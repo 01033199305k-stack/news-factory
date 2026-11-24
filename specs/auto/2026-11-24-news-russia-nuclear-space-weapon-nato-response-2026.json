@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-24-news-russia-nuclear-space-weapon-nato-response-2026",
+  "topic": "러시아 우주 핵무기 추진 나토",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.24 11:15 KST",
+  "source": "BBC·The Guardian·Anadolu Ajansı 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9xampkdUlKOThsOWVKdzRnQWVORURqT1VYb2ZkMlBkUkFBNldUWGNWcXd0bU1rZE82MktIMUhITWVCcU9kakplb2NQcUlDaEg0X0pTQ054a0JkeGc",
+    "related": [
+      [
+        "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+        "BBC"
+      ],
+      [
+        "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
+        "The Guardian"
+      ],
+      [
+        "NATO chief says 'space' part of defense pledge as Russia reportedly readies nuclear satellite",
+        "Anadolu Ajansı"
+      ],
+      [
+        "Russia is developing a nuclear space weapon, US intelligence report finds",
+        "Space"
+      ],
+      [
+        "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
+        "Ars Technica"
+      ]
+    ],
+    "event_key": "russia_nuclear_space_weapon_nato_response_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아 [[우주 핵무기]] 추진\n나토",
+      "sub": "미 정보 보고서·독일 경고에 나토 사무총장 우주 방어 공약 밝혀",
+      "chips": [],
+      "alt": "러시아 우주 핵무기 추진 나토",
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "벨기에"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "벨기에\n브뤼셀",
+      "video_only": true,
+      "map": {
+        "lat": 50.8467372,
+        "lon": 4.352493,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "브뤼셀"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "러 우주 핵무기 개발",
+          "d": "미 정보 보고서는 러시아가 우주 핵무기를 개발 중이며 이르면 다음 달 궤도에 발사할 수 있다고 전했습니다 (Space·Ars Technica)."
+        },
+        {
+          "t": "독일 정부의 경고",
+          "d": "독일 정부는 러시아가 우주에 핵무기를 배치하려는 계획 관련 보고를 심각하게 받아들이고 있다고 밝혔습니다 (가디언)."
+        },
+        {
+          "t": "나토의 대응 선언",
+          "d": "나토 사무총장은 우주 영역에서의 위협에 대한 방어 역시 나토의 방어 공약에 포함된다고 강조했습니다 (BBC·아나돌루 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러 우주 핵무기 개발 정황",
+        "나토 우주 방어 공약 강조"
+      ],
+      "unconfirmed": [
+        "러시아의 실제 우주 핵무기 발사 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Anadolu Ajansı",
+        "Ars Technica",
+        "BBC",
+        "Space",
+        "The Guardian",
+        "2026.11.24 15:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 러시아가 우주에 핵무기를 배치할 가능성이 제기되자 나토가 우주 방어 공약을 강조했습니다.\n\n· 미 정보 보고서는 러시아가 우주 핵무기를 개발 중이며 이르면 다음 달 발사할 수 있다고 전했습니다 (Space·Ars Technica)\n· 독일 정부도 러시아의 우주 핵무기 배치 계획 보고를 심각하게 보고 있다고 밝혔습니다 (가디언)\n· 나토 사무총장은 우주 영역에서의 위협 대응 역시 방어 공약에 포함된다고 강조했습니다 (BBC·아나돌루 통신)\n\n러시아의 우주 핵무기 추진과 나토의 대응, 여러분은 어떻게 보십니까?\n\n출처: BBC·가디언·아나돌루 통신·Space·Ars Technica 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아가 우주에 핵무기를 추진한다는 보도가 나와 나토가 방어 공약을 강조했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미 정보 당국 보고서에 따르면 러시아는 우주 핵무기를 개발 중이며 이르면 다음 달 발사할 가능성이 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "독일 정부 역시 관련 보고를 심각하게 주시하고 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아의 실제 우주 핵무기 발사 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "러시아의 우주 무기화 추진과 나토의 대응, 여러분은 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[우주]]에 핵무기를?\n나토의 긴급 경고",
+  "broll": [
+    "outer space satellite",
+    "nato headquarters flag"
+  ],
+  "place_en": "Brussels, Belgium"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "australia_rba_interest_rate_hike_4_85_2026",
-    "topic": "호주중앙은행, 기준금리 4.85%로 인상 18년 만에 최고치 기록",
-    "slug": "2026-11-03-news-australia-rba-interest-rate-hike-4-85-2026",
-    "cluster": "CBMiigFBVV95cUxQOVF0RkNGUTNUYmFYajhocUI2NlZIREUwR0NIMWZkQUZKX0JDUzlmVUF5MjVHSXBkRFdTN2ZfNEhFNWZPTlVwOGhsVVdQVXFLWlFucll1eERYV1U1RFAxbDB4TWdSZXluajhFak1Va3RONnhfMlFpTWNXSDc3dUJTYlNITENPQUM3OVHSAY8BQVVfeXFMUGxxTzhhSzZVajEwWVM0VXpjb0ZySmFoS2oyRmtXWl9GcHVsdm0tVXNYQkNVQkdxeU93a2JEQjZ4aHYyeWhMVHdXdHJSR3h5cmZLbnRreHlyUGdwNi0tbDFNdk0yYnoyekJIaVgtSl9kbkdCU2s0VHJIalVvcW5RcWpqdzhwVEVMUVFhRks1OTA",
-    "badge": "breaking",
-    "at": 1793686033.3127341,
-    "country": "호주",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "nepal_everest_helicopter_collision_2026",
     "topic": "네팔 에베레스트 인근서 헬기 2대 공중 충돌",
     "slug": "2026-11-03-news-nepal-everest-helicopter-collision-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795493600.911137,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "russia_nuclear_space_weapon_nato_response_2026",
+    "topic": "러시아 우주 핵무기 추진 나토",
+    "slug": "2026-11-24-news-russia-nuclear-space-weapon-nato-response-2026",
+    "cluster": "CBMiW0FVX3lxTE9xampkdUlKOThsOWVKdzRnQWVORURqT1VYb2ZkMlBkUkFBNldUWGNWcXd0bU1rZE82MktIMUhITWVCcU9kakplb2NQcUlDaEg0X0pTQ054a0JkeGc",
+    "badge": "brief",
+    "at": 1795500744.0456836,
+    "country": "벨기에",
+    "category": "국제"
   }
 ]
