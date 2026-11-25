@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "zelensky_melania_trump_award_2026",
-    "topic": "우크라이나 젤렌스키 대통령 멜라니아 트럼프에 최고훈장 수여",
-    "slug": "2026-11-05-news-zelensky-melania-trump-award-2026",
-    "cluster": "CBMiXkFVX3lxTE52Zk5KbmktYXNrNnVQell0YzlwM0lJRkxUV21mZEUwaG1oa3RDZ0JvS3hpYWIwMERCOUhZenhCOHBEQzd0dUc3OFpuaHU0aENJbmItU2JaWU1meWU3amc",
-    "badge": "breaking",
-    "at": 1793808559.4086802,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "javits_frimpong_bronx_shooting_2026",
     "topic": "뉴욕 브롱크스 등교 길에 15세 소년 총에 맞아 사망",
     "slug": "2026-11-04-news-javits-frimpong-bronx-shooting-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1795601572.2066128,
     "country": "솔로몬제도",
+    "category": "국제"
+  },
+  {
+    "event_key": "north_korea_expels_swiss_diplomat_2026",
+    "topic": "스위스 외교관 추방 사무소 폐쇄 요구",
+    "slug": "2026-11-25-news-north-korea-expels-swiss-diplomat-2026",
+    "cluster": "CBMivwFBVV95cUxNand3aElHTXMxXzh1MHlQcDJCQ0hSdWZVS0tJMkVNVUtmcUNZNDdjMHJPeFo0azFZX1lTTzRUT2p3enFab2JEMzREb0YtaWJ5M1kzZnRrNVY5ZUFSX0RYbmlsaHY5OHVEN3dDckRLekNoMmhDNk96QjdtVUR2U1gzNEIxMXV3d0Fmc2xNMVBHVm1adHBBYk5JTDJLZ0VvUVhQODlzN0dfeW9veWtQZVFxeVdwYUFRM1lnVVBHdG5DOA",
+    "badge": "breaking",
+    "at": 1795604952.3918116,
+    "country": "북한",
     "category": "국제"
   }
 ]

@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-25-news-north-korea-expels-swiss-diplomat-2026",
+  "topic": "스위스 외교관 추방 사무소 폐쇄 요구",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 19:10 KST",
+  "source": "AP News·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMivwFBVV95cUxNand3aElHTXMxXzh1MHlQcDJCQ0hSdWZVS0tJMkVNVUtmcUNZNDdjMHJPeFo0azFZX1lTTzRUT2p3enFab2JEMzREb0YtaWJ5M1kzZnRrNVY5ZUFSX0RYbmlsaHY5OHVEN3dDckRLekNoMmhDNk96QjdtVUR2U1gzNEIxMXV3d0Fmc2xNMVBHVm1adHBBYk5JTDJLZ0VvUVhQODlzN0dfeW9veWtQZVFxeVdwYUFRM1lnVVBHdG5DOA",
+    "related": [
+      [
+        "North Korea demands closure of Switzerland’s new diplomatic office and orders diplomat to leave",
+        "The Seattle Times"
+      ],
+      [
+        "North Korea demands closure of Switzerland's new diplomatic office and orders diplomat to leave",
+        "AP News"
+      ],
+      [
+        "North Korea expels Swiss diplomat over sanctions weeks after office reopening",
+        "Reuters"
+      ],
+      [
+        "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+        "The New York Times"
+      ],
+      [
+        "North Korea expels Swiss diplomat weeks after Bern reopened office",
+        "Euronews.com"
+      ]
+    ],
+    "event_key": "north_korea_expels_swiss_diplomat_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[스위스 외교관]] 추방\n사무소 폐쇄 요구",
+      "sub": "스위스 사무소 재개소 몇 주 만의 조치 단행",
+      "chips": [
+        {
+          "k": "외교 조치",
+          "v": "외교관 추방"
+        }
+      ],
+      "alt": "스위스 외교관 추방 사무소 폐쇄 요구",
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "북한"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "북한\n평양",
+      "video_only": true,
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "평양"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사무소 재개 직후",
+          "d": "스위스가 사무소를 다시 연 지 불과 몇 주 만에 출국 명령이 내려졌습니다 (AP·로이터)."
+        },
+        {
+          "t": "대북 제재 갈등",
+          "d": "대북 제재를 비롯한 정세 갈등이 이번 추방의 원인으로 파악되고 있습니다 (로이터·NYT)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "스위스 외교관 추방 명령",
+        "스위스 외교 사무소 폐쇄 요구"
+      ],
+      "unconfirmed": [
+        "추방 대상자의 정확한 출국 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Euronews.com",
+        "Reuters",
+        "The New York Times",
+        "The Seattle Times",
+        "2026.11.25 20:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 북한이 스위스 외교관을 추방하고 사무소 폐쇄를 요구했습니다.\n\n· 스위스가 사무소를 재개소한 지 몇 주 만에 외교관 추방을 명령했습니다 (AP·로이터)\n· 이번 조치는 대북 제재와 관련된 국제 갈등이 배경인 것으로 알려졌습니다 (로이터·NYT)\n\n🇰🇷 북한은 스위스 측에 외교관 철수와 사무소 폐쇄를 통보했습니다 (AP)\n\n북한의 이번 외교관 추방 조치에 대해 어떻게 생각하십니까?\n\n출처: AP·로이터·NYT·유로뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "북한이 스위스 외교관을 추방했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "스위스가 사무소를 재개한 지 불과 몇 주 만입니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 대북 제재 갈등이 이번 조치의 원인이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "추방된 외교관의 정확한 출국 시점은 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "북한은 스위스 측에 사무소 폐쇄까지 요구한 상태입니다.",
+      "card": "korea",
+      "screen": "북한, 폐쇄 요구"
+    }
+  ],
+  "hook": "[[외교관]]을 추방하며\n사무소 닫으라 한 이유",
+  "broll": [
+    "diplomatic building flag"
+  ],
+  "place_en": "Pyongyang, North Korea"
+}
