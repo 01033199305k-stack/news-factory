@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-11-25-news-wisconsin-measles-outbreak-third-death-2026",
+    "event_ms": 1795561374000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 위스콘신주 홍역 확산으로 3명째 사망자 발생\n\n· 위스콘신주에서 홍역으로 인한 세 번째 사망자가 나왔으며 누적 환자는 920명에 달했습니다 (NBC 뉴스·WBAY)\n· 감염이 일반 주민들 사이로 확산하고 있으며 연휴 여행을 앞두고 추가 확진 사례가 보고됐습니다 (NBC 뉴스·WEAU)\n\n출처: NBC 뉴스·WBAY·WMTV 15 NEWS·Channel 3000·WEAU 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18119389253111624",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgJXQVmjdR8",
+        "kind": "carousel",
+        "at": 1795570551
+      },
+      "instagram": {
+        "id": "18439312543150789",
+        "permalink": "https://www.instagram.com/reel/DgJXjXREW-Z/",
+        "kind": "reel",
+        "at": 1795570727
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1795570737
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]
