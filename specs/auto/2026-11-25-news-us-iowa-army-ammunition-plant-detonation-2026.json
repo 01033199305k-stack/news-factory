@@ -1,0 +1,138 @@
+{
+  "slug": "2026-11-25-news-us-iowa-army-ammunition-plant-detonation-2026",
+  "topic": "미 육군 폭발물 제어 폭파 주민 대피 및 유독 먼지 경고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 06:45 KST",
+  "source": "The Guardian·The Washington Post·Army.mil 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc",
+    "related": [
+      [
+        "Lead azide must be detonated in Iowa, Army says; some residents urged to evacuate",
+        "The Washington Post"
+      ],
+      [
+        "Latest maps provided by US Army show potential locations of lead exposure during Wednesday's controlled detonation",
+        "WQAD"
+      ],
+      [
+        "Warning signs at Iowa plant emerged months before Army says it knew, emails show",
+        "The Washington Post"
+      ],
+      [
+        "US army maps show projected path of toxic dust from Iowa detonation",
+        "The Guardian"
+      ],
+      [
+        "Army announces controlled detonation of degraded explosive material at Iowa Army Ammunition Plant",
+        "Army.mil"
+      ]
+    ],
+    "event_key": "us_iowa_army_ammunition_plant_detonation_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 육군 폭발물 [[제어 폭파]]\n주민 대피 및 유독 먼지 경고",
+      "sub": "아이오와 탄약공장의 노후 폭발물 처리를 앞두고",
+      "chips": [
+        {
+          "k": "조치",
+          "v": "주민 대피 권고"
+        }
+      ],
+      "alt": "미 육군 폭발물 제어 폭파 주민 대피 및 유독 먼지 경고",
+      "map": {
+        "lat": 41.9216734,
+        "lon": -93.3122705,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n아이오와",
+      "video_only": true,
+      "map": {
+        "lat": 41.9216734,
+        "lon": -93.3122705,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아이오와"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "아지화연 폭파 예정",
+          "d": "미 육군은 아이오와 탄약공장에 남아있는 아지화연 폭발물을 통제 폭파할 계획이라고 밝혔습니다 (워싱턴포스트·가디언)."
+        },
+        {
+          "t": "유독성 먼지 지도 공개",
+          "d": "미 육군이 공개한 지도에 따르면 폭파 과정에서 독성 먼지가 확산할 수 있는 것으로 나타났습니다 (WQAD·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 육군 탄약공장 노후 폭발물 제어 폭파 방침 (WP·가디언)",
+        "인근 주민 대피 권고 및 유독성 먼지 확산 경고 (WP·WQAD)"
+      ],
+      "unconfirmed": [
+        "정확한 대피 대상 주민 수"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Army.mil",
+        "The Guardian",
+        "The Washington Post",
+        "WQAD",
+        "2026.11.25 09:26 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미 육군이 아이오와 탄약공장의 노후 폭발물을 제어 폭파하기로 하면서 인근 주민 대피를 권고했습니다 (WP·가디언).\n\n· 처리 대상은 품질이 저하된 아지화연 폭발물로 확인됐습니다 (워싱턴포스트).\n· 미 육군이 공개한 지도에 따르면 폭파 시 유독성 먼지가 확산할 가능성이 있습니다 (WQAD·가디언).\n\n출처: 워싱턴포스트·가디언·WQAD·Army.mil 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 아이오와주 미 육군 탄약공장에서 노후 폭발물 제어 폭파가 결정됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 아이오와주 탄약공장 인근 주민들에게 대피 권고가 내려졌습니다.",
+      "card": "map"
+    },
+    {
+      "text": "가디언은 미 육군이 폭발물 처리 과정에서 유독성 먼지가 확산할 위험이 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 대피 인원은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[폭발물]] 제어 폭파\n주민 대피령 내려진 이유",
+  "broll": [
+    "military base facility",
+    "warning sign road"
+  ],
+  "place_en": "Iowa, United States"
+}

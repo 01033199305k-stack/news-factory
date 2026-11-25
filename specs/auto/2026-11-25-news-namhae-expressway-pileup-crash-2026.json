@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-25-news-namhae-expressway-pileup-crash-2026",
+  "topic": "남해고속도로 6중 추돌 트레일러 넘어져 6명 사상",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 07:33 KST",
+  "source": "MBC 뉴스·경향신문·국제뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE1tUTFRenlWUUdOZ3ZIejJOQVZVdHZ5Mlp2TlRnbHUzdk5qdEM5Nk9pRzZlV1ZWYjZzR2F2WDZoeUZQSVNIWWQwUXJGNjZVQzBoMmRHNm1EdDFYTFkxeng3bEh2c1k0U292anZVQ2htODVJU0ptWTVz0gF3QVVfeXFMTmwtTzhqTHdGRU9oeDIwVk9GcVdxUXBmbGNCYkR0azMxVExMME1CZkZNMTRCQ1JxNUF0M3hWTWd2LVpIZFVKYXJDVEhzdzZPQndkc01idGJ0ZWs2M2pYWDNTMmk0RTJHaDJpOUlMcFUxOUlEbHh0VVE",
+    "related": [
+      [
+        "남해고속도로서 트레일러 넘어져 6중 추돌‥6명 사상",
+        "MBC 뉴스"
+      ],
+      [
+        "[속보]남해고속도서 트레일러 넘어져 6중 추돌···1명 사망·2명 심정지·3명 중경상",
+        "경향신문"
+      ],
+      [
+        "김해 남해고속道서 트레일러 전도…3명 심정지",
+        "동아일보"
+      ],
+      [
+        "남해고속도서 트레일러 넘어져 6중 추돌…3명 심정지·1명 중상(종합)",
+        "연합뉴스"
+      ],
+      [
+        "남해고속도로 진례분기점 순천방향 교통사고 발생… 일대 극심한 정체",
+        "국제뉴스"
+      ]
+    ],
+    "event_key": "namhae_expressway_pileup_crash_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "남해고속도로 [[6중 추돌]]\n트레일러 넘어져 6명 사상",
+      "sub": "진례분기점 인근서 사고… 1명 사망·2명 심정지",
+      "chips": [
+        {
+          "k": "사상",
+          "v": "6명 (MBC)"
+        }
+      ],
+      "alt": "남해고속도로 6중 추돌 트레일러 넘어져 6명 사상",
+      "map": {
+        "lat": 35.2279109,
+        "lon": 128.8895378,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n김해",
+      "video_only": true,
+      "map": {
+        "lat": 35.2279109,
+        "lon": 128.8895378,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "김해"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "트레일러 전도 사고",
+          "d": "트레일러가 넘어져 6중 추돌 사고로 이어졌습니다 (MBC·연합뉴스)."
+        },
+        {
+          "t": "극심한 교통 정체",
+          "d": "진례분기점 순천 방향 일대에 극심한 정체가 발생했습니다 (국제뉴스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "남해고속도로 트레일러 전도 및 6중 추돌 (MBC·연합뉴스)",
+        "6명 사상자 발생 (MBC·경향신문)"
+      ],
+      "unconfirmed": [
+        "사망자 및 심정지 인원 수 매체별 집계 차이 있음",
+        "사고 발생 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "경향신문",
+        "국제뉴스",
+        "동아일보",
+        "연합뉴스",
+        "2026.11.25 09:27 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 남해고속도로에서 트레일러가 넘어져 6중 추돌 사고가 발생해 6명의 사상자가 나왔습니다 (MBC·경향신문).\n\n· 진례분기점 순천 방향에서 트레일러 전도로 6중 추돌 사고가 일어났습니다 (연합뉴스·국제뉴스).\n· 1명이 숨지고 2명이 심정지 상태입니다 (경향신문).\n· 사고 여파로 고속도로 순천 방향 일대가 극심한 정체를 겪었습니다 (국제뉴스).\n\n출처: MBC·경향신문·동아일보·연합뉴스·국제뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "남해고속도로에서 트레일러가 넘어지며 6중 추돌 사고가 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사고는 김해 진례분기점 인근 도로에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "MBC는 트레일러 전도 여파로 차량 6대가 추돌해 6명의 사상자가 나왔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[남해고속도로]]\n6중 추돌 사고 현장",
+  "broll": [
+    "highway traffic night",
+    "emergency truck road"
+  ],
+  "place_en": "Gimhae, South Korea"
+}

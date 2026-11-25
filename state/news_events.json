@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "nasa_swift_telescope_reenter_earth",
-    "topic": "수명 다한 나사 우주망원경 지구 대기 진입해 추락 중",
-    "slug": "2026-11-03-news-nasa-swift-telescope-reenter-earth",
-    "cluster": "CBMisAFBVV95cUxPcS1kX3RpVldFQko5Yk9yTEFuRlVzWjFsS1ZfaXNhMDJlOFJNVWMzNGlVaDBTZ2pvU0VQQzdndzBrdWZ4eEEtellqUEVEWUF0RkZENjdtZDQ4TXdBNVkwZWJMQmc0OXhtLVE4VUFDNnY2U0xCUUpoYVFNU3ljZmtac0JZNFJ4MlpXclNGcFNCdXhHNTlwZ2I5aHFMMXRUYVUtRHhSODJoVlozbUtRZ3JMMQ",
-    "badge": "breaking",
-    "at": 1793719141.7383192,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
-    "event_key": "europe_multiple_flight_bomb_threats",
-    "topic": "유럽 전역 항공편 폭탄 위협 여객기 잇따라 비상 착륙",
-    "slug": "2026-11-04-news-europe-multiple-flight-bomb-threats",
-    "cluster": "CBMiWEFVX3lxTE5abnlJYXppZ0FzU2dfa0V2SFVSQnNDUDFhNC1IN19VOEtCdVptTTg4NXEtSk5TTG50VHZtX0hDT2dqdVVGVHFOV0JhUFFXajJDZlhWY0NsbGk",
-    "badge": "breaking",
-    "at": 1793720780.1179125,
-    "country": "유럽",
-    "category": "사고"
-  },
-  {
     "event_key": "kiribati_pacific_drift_rescue_2026",
     "topic": "태평양 표류 5명 구조 어린이 2명 포함",
     "slug": "2026-11-04-news-kiribati-pacific-drift-rescue-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795563147.199926,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_iowa_army_ammunition_plant_detonation_2026",
+    "topic": "미 육군 폭발물 제어 폭파 주민 대피 및 유독 먼지 경고",
+    "slug": "2026-11-25-news-us-iowa-army-ammunition-plant-detonation-2026",
+    "cluster": "CBMi0gFBVV95cUxOMk9hWGY4bXNvTUVpWWNkZHU2S3I1b0U5RUV4a3M1RVBHLVBPX2ZiSmpBSkk0Znd5Qjh3SzBPX1l2dzFFdVJNYmZPZk9CNFRkYmpEempxZlkyWlhQSGVybnpVVmR6bmg0cUJKbmt5TDZaQWlxMDlGMW8zS3pndXJXbENwWlZUSExtMG9OeUlpQmZGUGgxcDJFUlZncXRvMFB6U0ppeDBnWC01Q3BSd2tSeW1UMGRVWFR3ellKTWpTeWFjV3c4QVIzZ1NHY3Fzbl9QNmc",
+    "badge": "breaking",
+    "at": 1795566430.6860979,
+    "country": "미국",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "namhae_expressway_pileup_crash_2026",
+    "topic": "남해고속도로 6중 추돌 트레일러 넘어져 6명 사상",
+    "slug": "2026-11-25-news-namhae-expressway-pileup-crash-2026",
+    "cluster": "CBMid0FVX3lxTE1tUTFRenlWUUdOZ3ZIejJOQVZVdHZ5Mlp2TlRnbHUzdk5qdEM5Nk9pRzZlV1ZWYjZzR2F2WDZoeUZQSVNIWWQwUXJGNjZVQzBoMmRHNm1EdDFYTFkxeng3bEh2c1k0U292anZVQ2htODVJU0ptWTVz0gF3QVVfeXFMTmwtTzhqTHdGRU9oeDIwVk9GcVdxUXBmbGNCYkR0azMxVExMME1CZkZNMTRCQ1JxNUF0M3hWTWd2LVpIZFVKYXJDVEhzdzZPQndkc01idGJ0ZWs2M2pYWDNTMmk0RTJHaDJpOUlMcFUxOUlEbHh0VVE",
+    "badge": "breaking",
+    "at": 1795566470.3332558,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]
