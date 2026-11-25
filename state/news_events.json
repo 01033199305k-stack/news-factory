@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france_blood_bank_cyberattack_2026",
-    "topic": "프랑스 혈액 은행 사이버 공격 냉동고 온도 조작 시도",
-    "slug": "2026-11-04-news-france-blood-bank-cyberattack-2026",
-    "cluster": "CBMihwFBVV95cUxPODlielNtX0luay1MTkpUamljcGhXNGZiZjNOTzItSkl0dkNneE0zQUt3cXFGQ0hzbTE3aFRwYktUNURxbWNBZTVSNV9NeUdvR1dKbTFHNWVoV2p5SE5qeFNHNTNRT0ZsdnNzV3dnZWdvOVpuV05nVC1IbUwxRWk3dXFKQkVaR0U",
-    "badge": "breaking",
-    "at": 1793797928.6118398,
-    "country": "프랑스",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "zelensky_melania_trump_award_2026",
     "topic": "우크라이나 젤렌스키 대통령 멜라니아 트럼프에 최고훈장 수여",
     "slug": "2026-11-05-news-zelensky-melania-trump-award-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795586844.677167,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "solomon_islands_australia_security_pact_2026",
+    "topic": "솔로몬제도, 호주와 안보 협정 체결",
+    "slug": "2026-11-25-news-solomon-islands-australia-security-pact-2026",
+    "cluster": "CBMinwFBVV95cUxNQXZmR1VhNVFzQmU5ZjRDcDhURTFoeTgxWGVmZ2NyWEJLcTNhVVgtTGszRUJ6S3J6N084SVIxS0U4clJ6UWdaX2h2R3JDVnpTamJaakdKZUZoWXNhZFVDWXdtQ0pxd2ZiRk9BWHFrbnNveXFCYVdaR3gwUUpNQnFhMkcyck4zVGwzVFRBUWVDZzkySklQSEp0cHQwZ0dsR1k",
+    "badge": "brief",
+    "at": 1795601572.2066128,
+    "country": "솔로몬제도",
+    "category": "국제"
   }
 ]

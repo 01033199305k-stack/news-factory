@@ -1,0 +1,130 @@
+{
+  "slug": "2026-11-25-news-solomon-islands-australia-security-pact-2026",
+  "topic": "솔로몬제도, 호주와 안보 협정 체결",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 14:24 KST",
+  "source": "BBC·CNN·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinwFBVV95cUxNQXZmR1VhNVFzQmU5ZjRDcDhURTFoeTgxWGVmZ2NyWEJLcTNhVVgtTGszRUJ6S3J6N084SVIxS0U4clJ6UWdaX2h2R3JDVnpTamJaakdKZUZoWXNhZFVDWXdtQ0pxd2ZiRk9BWHFrbnNveXFCYVdaR3gwUUpNQnFhMkcyck4zVGwzVFRBUWVDZzkySklQSEp0cHQwZ0dsR1k",
+    "related": [
+      [
+        "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
+        "The New York Times"
+      ],
+      [
+        "Australia, Solomon Islands sign security pact in blow to China",
+        "Reuters"
+      ],
+      [
+        "China’s Military Ambitions in the Pacific Suffer Setback",
+        "WSJ"
+      ],
+      [
+        "Solomon Islands ends controversial security pact with China for Australian treaty",
+        "BBC"
+      ],
+      [
+        "This nation had a security pact with China. It’s just signed a deal with a US ally instead",
+        "CNN"
+      ]
+    ],
+    "event_key": "solomon_islands_australia_security_pact_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "솔로몬제도, 호주와\n[[안보 협정]] 체결",
+      "sub": "중국과의 기존 안보 협정을 종료하고 호주와 새 협정을 맺었습니다.",
+      "chips": [],
+      "alt": "솔로몬제도, 호주와 안보 협정 체결",
+      "map": {
+        "lat": -8.7053941,
+        "lon": 159.1070694,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "솔로몬제도"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "솔로몬제도",
+      "video_only": true,
+      "map": {
+        "lat": -8.7053941,
+        "lon": 159.1070694,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "솔로몬제도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "중국 안보 협정 파기",
+          "d": "솔로몬제도가 중국과 맺었던 기존 안보 협정을 종료했습니다 (BBC·CNN)."
+        },
+        {
+          "t": "호주와 새 협정 서명",
+          "d": "미국 우방국인 호주와 새로 안보 협정을 맺었습니다 (NYT·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "솔로몬제도·호주 안보 협정 체결 (NYT·로이터)",
+        "중국과의 기존 안보 협정 종료 (BBC·CNN)"
+      ],
+      "unconfirmed": [
+        "협정 세부 이행 일정"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "CNN",
+        "Reuters",
+        "The New York Times",
+        "WSJ",
+        "2026.11.25 19:12 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 솔로몬제도가 호주와 새로운 안보 협정을 체결했습니다.\n\n· 중국과의 기존 안보 협정을 종료했습니다 (BBC·CNN).\n· 미국 우방국인 호주와 협정을 맺으며 중국에 타격을 주었습니다 (NYT·CNN).\n\n이번 안보 협정 체결에 대해 어떻게 생각하십니까?\n\n출처: NYT·로이터·WSJ·BBC·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "솔로몬제도가 호주와 새 안보 협정을 체결했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "미국 우방국인 호주와 협정을 맺으며 중국에 타격을 준 것으로 알려졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 협정 이행 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "중국 대신 [[호주]]를\n선택한 이유는?",
+  "broll": [
+    "Solomon Islands ocean",
+    "Australia government building"
+  ],
+  "place_en": "Solomon Islands"
+}
