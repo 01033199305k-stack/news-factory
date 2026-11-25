@@ -49677,5 +49677,111 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795590745
+  },
+  {
+    "slug": "2026-11-25-news-colombia-supermarket-hostage-2026",
+    "event_ms": 1795584009000,
+    "category": "총격·테러",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 콜롬비아 슈퍼마켓서 인질극\n최소 20명 붙잡혀\n\n· 무장 괴한들이 슈퍼마켓에서 인질극을 벌이고 있습니다 (스카이뉴스·로이터)\n· 대치 과정에서 인질 10명이 풀려났습니다 (알자지라)\n· 콜롬비아 대통령이 직접 현장에 도착했습니다 (가디언)\n\n출처: 스카이뉴스·가디언·로이터·알자지라·텔레그래프 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "총격테러",
+      "콜롬비아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg"
+    ],
+    "done": {
+      "threads": {
+        "id": "18075466421789147",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgJ2bfrHAdF",
+        "kind": "carousel",
+        "at": 1795586897
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
+        "at": 1795587197
+      },
+      "instagram": {
+        "failed": "container 18131213686876789: ERROR ERROR",
+        "at": 1795594312
+      },
+      "tiktok": {
+        "failed": "createPost: Invalid post: Video could not be read from its URL.",
+        "at": 1795597899
+      }
+    },
+    "attempts": {
+      "instagram": 3,
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795597899
+  },
+  {
+    "slug": "2026-11-25-news-taean-haegwangho-sinking-2026",
+    "event_ms": 1795582041000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 태안 침몰 어선 해광호\n수중 수색 본격 돌입\n\n· 실종된 7명을 찾기 위해 잠수대원들이 교대 투입됐습니다 (MBC·연합뉴스TV)\n· 충남도가 수색 민간구조대에 예비비를 긴급 지원했습니다 (KBS)\n· 태안군은 수색에 집중하기 위해 음악회를 취소했습니다 (연합뉴스)\n\n출처: MBC·KBS·연합뉴스TV·대한민국 정책브리핑·연합뉴스 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18289548130293611",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgJ2fj5nF6G",
+        "kind": "carousel",
+        "at": 1795586929
+      },
+      "instagram": {
+        "id": "18013837799774485",
+        "permalink": "https://www.instagram.com/reel/DgJ2895hp4M/",
+        "kind": "reel",
+        "at": 1795587187
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1795587197
+      },
+      "tiktok": {
+        "id": "7712033268408880390",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712033268408880390",
+        "kind": "video",
+        "at": 1795598021
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795598031
   }
 ]
