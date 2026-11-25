@@ -49948,5 +49948,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795623025
+  },
+  {
+    "slug": "2026-11-25-news-israeli-strike-gaza-hamas-security-chief-2026",
+    "event_ms": 1795618466000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 이스라엘 가자지구 공습 단행… 하마스 고위 관리 사망\n\n· 이스라엘군, 가자지구 공습으로 하마스 내부 안보 수장 타격 (로이터·BBC·타임즈오브이스라엘)\n· 사망자 중에는 해당 고위 관리의 아내와 자녀들도 포함된 것으로 알려짐 (알자지라·타임즈오브이스라엘)\n\n출처: 알자지라·로이터·BBC·타임즈오브이스라엘 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "팔레스타인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18355135099280827",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgLFXXfCac7",
+        "kind": "carousel",
+        "at": 1795628282
+      },
+      "instagram": {
+        "id": "18122181200054886",
+        "permalink": "https://www.instagram.com/reel/DgLFlkwi7IE/",
+        "kind": "reel",
+        "at": 1795628421
+      },
+      "youtube": {
+        "id": "Zc5ZIZYWzGM",
+        "permalink": "https://youtube.com/shorts/Zc5ZIZYWzGM",
+        "kind": "shorts",
+        "at": 1795628534
+      },
+      "tiktok": {
+        "failed": "틱톡 게시 실패 (Buffer 6b0724105e4da1697fd76903): TikTok has detected a large number of posts published through the API for this channel. Wait 24 hours before trying to publish again.",
+        "at": 1795630214
+      }
+    },
+    "attempts": {
+      "tiktok": 3
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795630214
   }
 ]
