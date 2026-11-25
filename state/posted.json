@@ -49836,5 +49836,62 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795608607
+  },
+  {
+    "slug": "2026-11-25-news-north-korea-expels-swiss-diplomat-2026",
+    "event_ms": 1795601416000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 북한이 스위스 외교관을 추방하고 사무소 폐쇄를 요구했습니다.\n\n· 스위스가 사무소를 재개소한 지 몇 주 만에 외교관 추방을 명령했습니다 (AP·로이터)\n· 이번 조치는 대북 제재와 관련된 국제 갈등이 배경인 것으로 알려졌습니다 (로이터·NYT)\n\n🇰🇷 북한은 스위스 측에 외교관 철수와 사무소 폐쇄를 통보했습니다 (AP)\n\n북한의 이번 외교관 추방 조치에 대해 어떻게 생각하십니까?\n\n출처: AP·로이터·NYT·유로뉴스 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "북한"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18120889955018685",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgKY8-vFgib",
+        "kind": "carousel",
+        "at": 1795604997
+      },
+      "instagram": {
+        "id": "18105312638355363",
+        "permalink": "https://www.instagram.com/reel/DgKZPBMonX2/",
+        "kind": "reel",
+        "at": 1795605165
+      },
+      "youtube": {
+        "id": "JC8amQb7fvU",
+        "permalink": "https://youtube.com/shorts/JC8amQb7fvU",
+        "kind": "shorts",
+        "at": 1795605198
+      },
+      "tiktok": {
+        "id": "6b06dd975f4bdd9b86bb68e5",
+        "permalink": "",
+        "kind": "video",
+        "at": 1795612256
+      }
+    },
+    "attempts": {
+      "tiktok": 2
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795612266
   }
 ]
