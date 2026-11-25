@@ -32,10 +32,14 @@
       "youtube": {
         "skipped": "유튜브는 국제·경제 소식만 (총격·테러)",
         "at": 1795587197
+      },
+      "instagram": {
+        "failed": "container 18131213686876789: ERROR ERROR",
+        "at": 1795594312
       }
     },
     "attempts": {
-      "instagram": 2,
+      "instagram": 3,
       "tiktok": 2
     },
     "video": "video.mp4"
