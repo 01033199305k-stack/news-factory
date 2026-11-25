@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-25-news-china-investigates-shanghai-boss-chen-jining",
+  "topic": "중국, 상하이 당서기 조사 착수 권력 핵심부 숙청 확대",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 10:31 KST",
+  "source": "Bloomberg.com·CNN·The Economist 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxNOVFaWUFIS0JNSnpQQmcxM1pWcGJpc19iaklqek5GQlFKV2pLX0plWV9QS0d2Ml9KbnNsWkM0Qk1wc2E2cTdpbmo3U0M4QzlIM0xXN3p6N0VzamQxaUhwd201WVZaNzYyVm8tb25kQ280a19XeFlna1hjenR1WXE0TENqMndlalRmMGJUQlRaNEJWcjA1ZEIyU0dKSzlZWVJ1OTFFaWxn",
+    "related": [
+      [
+        "China investigates politburo star in Xi Jinping’s latest purge",
+        "The Guardian"
+      ],
+      [
+        "Shanghai’s boss is purged from Xi Jinping’s top team",
+        "The Economist"
+      ],
+      [
+        "Key Chinese Communist Party figure placed under corruption probe as Xi’s purge escalates",
+        "CNN"
+      ],
+      [
+        "Xi Probes Shanghai Boss, Widening Biggest Shakeup in Decades",
+        "Bloomberg.com"
+      ],
+      [
+        "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "china_investigates_shanghai_boss_chen_jining"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "중국, [[상하이]] 당서기 조사 착수\n권력 핵심부 숙청 확대",
+      "sub": "중국 공산당 최고 지도부 인사이더가 부패 혐의로 조사를 받고 있습니다.",
+      "chips": [],
+      "alt": "중국, 상하이 당서기 조사 착수 권력 핵심부 숙청 확대",
+      "map": {
+        "lat": 31.2312707,
+        "lon": 121.4700152,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n상하이",
+      "video_only": true,
+      "map": {
+        "lat": 31.2312707,
+        "lon": 121.4700152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "상하이"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "조사 대상",
+          "d": "천지닝 상하이 당서기가 부패 조사 대상에 올랐습니다 (블룸버그·뉴욕타임스)."
+        },
+        {
+          "t": "정치적 파장",
+          "d": "이번 조사는 최근 수십 년 내 최대 규모로 평가되는 중국 지도부 물갈이의 일환으로 진행되고 있습니다 (가디언·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "상하이 당서기 천지닝 조사 착수",
+        "부패 혐의 조사 진행",
+        "중국 지도부 물갈이 확대"
+      ],
+      "unconfirmed": [
+        "구체적인 혐의 내용 및 추가 처벌 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "CNN",
+        "The Economist",
+        "The Guardian",
+        "The New York Times",
+        "2026.11.25 13:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 중국, 상하이 당서기 조사 착수 및 권력 핵심부 숙청 확대\n\n· 천지닝 상하이 당서기가 부패 조사 대상에 올랐습니다 (블룸버그·뉴욕타임스)\n· 이번 조사는 최근 수십 년 내 최대 규모로 평가되는 중국 지도부 물갈이의 일환으로 진행되고 있습니다 (가디언·CNN)\n\n여러분은 중국 지도부의 대규모 사정 정국, 어떻게 보십니까?\n\n출처: 가디언·이코노미스트·CNN·블룸버그·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국 지도부가 상하이 당서기에 대한 부패 조사에 착수했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "블룸버그 통신은 천지닝 상하이 당서기가 조사 대상에 올랐다고 보도했습니다.",
+      "card": "points",
+      "screen": "천지닝 상하이 당서기"
+    },
+    {
+      "text": "이번 조사는 최근 수십 년 내 최대 규모로 꼽히는 정치국 개편의 연장선입니다.",
+      "card": "points",
+      "screen": "대규모 지도부 개편"
+    },
+    {
+      "text": "구체적인 부패 혐의의 세부 내용은 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 중국의 사정 정국, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "중국 [[상하이]]서\n무슨 일이?",
+  "broll": [
+    "government building china",
+    "city skyline night"
+  ],
+  "place_en": "Shanghai, China"
+}
