@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-26-news-sudan-drone-strike-civilian-deaths-2026",
+  "topic": "수단 남동부서 드론 공습 민간인 19명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 00:33 KST",
+  "source": "Al Jazeera·Reuters·Arab News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijwFBVV95cUxNNzVfZXlPNmZ0RVVON0VDVWNlQlB5MlBJZXFOSWYxQl9sWGhkcTFKRWV0UTZyQ3NWMl91TElqci0zQmwwcndrVzRjeTNBaU8wdG40SVFpZ3kxZ3JnSGFMVXl6SnUwb3BlU1h6SXpHZ2pDM1NqaTRhcGdDTHAtcVN0d1FmaGFaWk9TRG1ieWxVY9IBlAFBVV95cUxPWGJUMDNxeDdvVzN1VW5wSjdra1NRb3pIZ3J0MG9NLWdFWlFrb0EycGpscmxNTHBzU1g0bXRlbWI4NTdOVlBUMXQtcHVLX0l0VFF3dHJodE4wRzJHQzFPV2Z4N3E1Q1FGRF9Zd2w1MnBYZDRrTTNQV1kxejJiZ1VNdVd5bGxQYmtIel9UNWxNMTA5N09Q",
+    "related": [
+      [
+        "Overnight RSF drone attacks kill 19 in Sudan",
+        "Al Jazeera"
+      ],
+      [
+        "Sudan: Drone strike kills 10-year-old pupil attending NRC-supported school in attack on family home",
+        "Norwegian Refugee Council"
+      ],
+      [
+        "Drone attack in southeast Sudan kills 14: medical source",
+        "Arab News"
+      ],
+      [
+        "UAE strongly condemns drone attacks on UN building and residential buildings in Khartoum",
+        "Emirates 24|7"
+      ],
+      [
+        "Drone strikes kill 19 civilians in southeastern Sudan, says rights group",
+        "Reuters"
+      ]
+    ],
+    "event_key": "sudan_drone_strike_civilian_deaths_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "수단 남동부서 [[드론 공습]]\n민간인 19명 사망",
+      "sub": "가족 거주지와 UN 건물 등 타격",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "19명"
+        }
+      ],
+      "alt": "수단 남동부서 드론 공습 민간인 19명 사망",
+      "map": {
+        "lat": 15.5635972,
+        "lon": 32.5349123,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "수단"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "수단",
+      "video_only": true,
+      "map": {
+        "lat": 15.5635972,
+        "lon": 32.5349123,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "수단"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "피해 발생 상황",
+          "d": "수단 남동부 지역에 대한 드론 공습으로 민간인 19명이 사망했습니다(알자지라·로이터)."
+        },
+        {
+          "t": "공격 대상",
+          "d": "공습은 가족 거주지와 UN 건물을 타격했습니다(에미리트 24|7)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "민간인 19명 사망",
+        "수단 남동부 드론 공습 발생",
+        "민간 시설 타격 확인"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "공격 주체"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Arab News",
+        "Emirates 24|7",
+        "Norwegian Refugee Council",
+        "Reuters",
+        "2026.11.26 02:47 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 수단 남동부에서 발생한 드론 공습으로 민간인 19명이 사망했습니다. (알자지라·로이터)\n\n· 이번 공습으로 가족 거주지와 UN 건물이 타격받았으며, 사망자 중에는 어린이가 포함된 것으로 알려졌습니다. (Norwegian Refugee Council·에미리트 24|7)\n· 아랍뉴스는 의료 소식통을 인용해 사상자 규모가 더 늘어날 가능성을 전했습니다. (Arab News)\n\n출처: 알자지라·로이터·Norwegian Refugee Council·에미리트 24|7·Arab News 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "수단 남동부에서 발생한 드론 공습으로 민간인 19명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라와 로이터 통신은 이번 공격이 가족 거주지와 UN 건물을 타격했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사망자 중 어린이도 포함됐으며 의료 소식통은 추가 사상자 가능성을 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 공격의 정확한 주체와 피해 상황은 계속 확인 중입니다.",
+      "card": "check",
+      "screen": "피해 상황 확인 중"
+    }
+  ],
+  "hook": "수단 남동부서\n[[드론 공습]]",
+  "broll": [
+    "smoke city",
+    "ruins"
+  ],
+  "place_en": "Khartoum, Sudan"
+}
