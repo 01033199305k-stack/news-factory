@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-25-news-mississippi-coast-plane-crash-six-missing-2026",
+  "topic": "미시시피 해안서 비행기 추락 성인 4명·어린이 2명 실종",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 09:57 KST",
+  "source": "CNN·NBC News·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxOV1pMNDBQT2hmMklqSk1NS1dWUjNrU21HV0FsTC1LWF9kRkVaN1Q3V0lMX3lQVVJTckd2dTRMLXJud21XdkpSMXlqbW1UQ29GWE1PdVVPdmM3aXVaZUZIUkF5aXhrazhnUEFCWTRkMHg0U2lZWGhxSHZhS2M4RmtWLWNUaV9LTzFCMldHeDhuSjRfREtrWVF2VS1JeTJQQ1VvVjRyaUIxZ3ZRdnM",
+    "related": [
+      [
+        "4 adults and 2 kids are missing after plane crashes off Mississippi coast",
+        "NBC News"
+      ],
+      [
+        "Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island",
+        "CNN"
+      ],
+      [
+        "Rescue crews search for six people after plane crash off Mississippi coast",
+        "The Guardian"
+      ],
+      [
+        "Plane leaving New Orleans crashes near Horn Island; 4 adults, 2 children aboard: report",
+        "WWLTV.com"
+      ],
+      [
+        "Search underway in water near Horn Island for four adults, two kids involved in plane crash",
+        "WDSU"
+      ]
+    ],
+    "event_key": "mississippi_coast_plane_crash_six_missing_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미시시피 해안서 비행기 추락\n성인 4명·어린이 2명 [[실종]]",
+      "sub": "뉴올리언스를 출발한 항공기 혼 아일랜드 인근 바다로 추락",
+      "chips": [
+        {
+          "k": "실종",
+          "v": "6명"
+        }
+      ],
+      "alt": "미시시피 해안서 비행기 추락 성인 4명·어린이 2명 실종",
+      "map": {
+        "lat": 30.2369736,
+        "lon": -88.6804295,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n미시시피주",
+      "video_only": true,
+      "map": {
+        "lat": 30.2369736,
+        "lon": -88.6804295,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "미시시피주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "추락 지점",
+          "d": "미시시피 혼 아일랜드 인근 해상에서 발생했습니다 (NBC 뉴스·CNN)."
+        },
+        {
+          "t": "구조 작업",
+          "d": "구조 당국이 바다에서 수색 작업을 벌이고 있습니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "성인 4명 및 어린이 2명 탑승 (NBC 뉴스·CNN)",
+        "미시시피 해안 추락 (NBC 뉴스·가디언)"
+      ],
+      "unconfirmed": [
+        "사고 원인",
+        "탑승자 생사 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "NBC News",
+        "The Guardian",
+        "WDSU",
+        "WWLTV.com",
+        "2026.11.25 11:35 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미시시피 해안서 비행기 추락 성인 4명·어린이 2명 실종\n\n· 뉴올리언스를 출발한 항공기가 혼 아일랜드 인근 해상에서 추락했습니다 (NBC 뉴스·WWLTV)\n· 구조 당국이 인근 바다에서 수색 작업을 벌이고 있습니다 (CNN·가디언)\n\n출처: NBC 뉴스·CNN·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미시시피 해안 인근 바다에서 비행기가 추락해 6명이 실종됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "NBC 뉴스는 성인 4명과 어린이 2명이 탑승하고 있었다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구조 당국은 사고 해역에서 수색 작업을 벌이고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미시시피 바다에\n추락한 [[비행기]], 무슨 일이?",
+  "broll": [
+    "airplane sea rescue",
+    "coast guard helicopter"
+  ],
+  "place_en": "Horn Island, Mississippi"
+}

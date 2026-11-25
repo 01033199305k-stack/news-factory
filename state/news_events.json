@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_georgia_governor_first_black_female_2026",
-    "topic": "조지아 주지사에 바텀스 첫 흑인 여성 주지사",
-    "slug": "2026-11-04-news-us-georgia-governor-first-black-female-2026",
-    "cluster": "CBMivwFBVV95cUxNQ2NWd1NDclRwUHdBVF9Xd2F0WGpQRGw0NC1PYXdXa2VtX3pScEFTRXBOdWl6VUNnTHdiREZZZDBJQ0ctcUVjbzRaWkNYMDVqYldDdmdWY3FmekVpYWY1bE5NMmtEN01EVkVMV0V2OXBzX25SaVo4eXFBM1U4VlpyZklvTldoMWNrcm9Yb0NMel9zaUg5aC1Ea3Z2YzVBMVpsZkRRWHNQdjNBUHg3SDRNQm04OHdwVjVMeTkxdzM2UQ",
-    "badge": "breaking",
-    "at": 1793761897.2845805,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "strait_of_hormuz_tankers_mine_attack_2026",
     "topic": "호르무즈해협서 유조선 피격 해군 기뢰 폭발로 유조선 4척 파괴",
     "slug": "2026-11-04-news-strait-of-hormuz-tankers-mine-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795570916.0046368,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "mississippi_coast_plane_crash_six_missing_2026",
+    "topic": "미시시피 해안서 비행기 추락 성인 4명·어린이 2명 실종",
+    "slug": "2026-11-25-news-mississippi-coast-plane-crash-six-missing-2026",
+    "cluster": "CBMiqwFBVV95cUxOV1pMNDBQT2hmMklqSk1NS1dWUjNrU21HV0FsTC1LWF9kRkVaN1Q3V0lMX3lQVVJTckd2dTRMLXJud21XdkpSMXlqbW1UQ29GWE1PdVVPdmM3aXVaZUZIUkF5aXhrazhnUEFCWTRkMHg0U2lZWGhxSHZhS2M4RmtWLWNUaV9LTzFCMldHeDhuSjRfREtrWVF2VS1JeTJQQ1VvVjRyaUIxZ3ZRdnM",
+    "badge": "breaking",
+    "at": 1795574142.0435262,
+    "country": "미국",
+    "category": "사고"
   }
 ]
