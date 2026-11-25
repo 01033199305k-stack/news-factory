@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-25-news-ukraine-drone-strike-russian-ship-libya-2026",
+  "topic": "리비아서 러 군함 드론 타격 현지 장교 2명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 20:49 KST",
+  "source": "CBS News·The New York Times·Business Insider 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxPVkpQRElXWjRfb0hUMDRUUmJEYnQxT2hLZ0RZdEhDajBFOVE1Z2s1czNKU0l1XzE2NzRrdmpiWndxRmxSRFoyMHBQZGVoVlBTb2t4VnZrQWQyQTBEWk9jMmxZdGwwRHIxb015TUNKLXptRFN4SDVtNG83S2hmZTJLaWpDdzRGRWJNZzhtcS1HTS1Vd1k3RGRJeS1kRG9CWlE5YmVB",
+    "related": [
+      [
+        "Ukraine’s raid in Libya damaged more than a Russian warship",
+        "POLITICO.eu"
+      ],
+      [
+        "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+        "The New York Times"
+      ],
+      [
+        "As Ukraine sinks Russian ships, some NATO nations voice anxiety over war's spread to new regions",
+        "CBS News"
+      ],
+      [
+        "Satellite images capture Ukrainian naval drone strike on a Russian warship in Libya, over 1,000 miles away from the war",
+        "Business Insider"
+      ],
+      [
+        "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack",
+        "The Hill"
+      ]
+    ],
+    "event_key": "ukraine_drone_strike_russian_ship_libya_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "[[리비아]]서 러 군함 드론 타격\n현지 장교 2명 사망",
+      "sub": "우크라이나가 1000마일 이상 떨어진 리비아 내 러시아 군함을 공격했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        }
+      ],
+      "alt": "리비아서 러 군함 드론 타격 현지 장교 2명 사망",
+      "map": {
+        "lat": 26.8234472,
+        "lon": 18.1236723,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "리비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "리비아",
+      "video_only": true,
+      "map": {
+        "lat": 26.8234472,
+        "lon": 18.1236723,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리비아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "우크라 드론 타격",
+          "d": "우크라이나 해군 드론이 리비아에 있던 러시아 군함을 공격했습니다 (비즈니스 인사이더)."
+        },
+        {
+          "t": "현지 장교 사망",
+          "d": "공격으로 부상을 입었던 리비아 해군 장교 2명이 숨졌습니다 (더 힐)."
+        },
+        {
+          "t": "리비아 보복 경고",
+          "d": "리비아 군 당국은 우크라이나의 공격에 보복을 예고했습니다 (뉴욕 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나의 리비아 내 러 군함 타격",
+        "리비아 해군 장교 2명 사망 (더 힐)"
+      ],
+      "unconfirmed": [
+        "러시아 군함 정확한 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Business Insider",
+        "CBS News",
+        "POLITICO.eu",
+        "The Hill",
+        "The New York Times",
+        "2026.11.25 23:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나가 리비아 내 러시아 군함을 드론으로 공격해 2명이 숨졌습니다.\n\n· 우크라이나 드론이 1000마일 이상 떨어진 리비아의 러시아 군함을 타격했습니다 (비즈니스 인사이더)\n· 이 공격으로 부상을 입었던 리비아 해군 장교 2명이 사망했습니다 (더 힐)\n· 리비아 군 당국은 이번 공격에 대해 보복을 경고했습니다 (뉴욕 타임스)\n\n이번 공격으로 인한 전쟁 확산 우려, 어떻게 보십니까?\n\n출처: 폴리티코·뉴욕 타임스·CBS·비즈니스 인사이더·더 힐 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나가 리비아에 있던 러시아 군함을 드론으로 공격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 공격은 1000마일 이상 떨어진 리비아에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "더 힐은 부상을 입었던 리비아 해군 장교 2명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아 군함의 정확한 손상 정도는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "전선이 새로운 지역으로 확대되는 이번 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[리비아]] 내 러 군함이\n타격받은 이유",
+  "broll": [
+    "warship sea",
+    "military harbor"
+  ],
+  "place_en": "Libya"
+}

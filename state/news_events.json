@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "javits_frimpong_bronx_shooting_2026",
-    "topic": "뉴욕 브롱크스 등교 길에 15세 소년 총에 맞아 사망",
-    "slug": "2026-11-04-news-javits-frimpong-bronx-shooting-2026",
-    "cluster": "CBMiXkFVX3lxTE1RWDlTM0dEY2x5dlFSMGFlbl9mNDhyT0lHNDBIUXB2WjlNTTBZZGxhamt5SW81WEM2bDNabldROGRQY1BKbWFod29PSjBVV1J4Z3R4Y19qdG42cHM5WlE",
-    "badge": "breaking",
-    "at": 1793808585.5721326,
-    "country": "미국",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "us_house_speaker_johnson_resign_2026",
     "topic": "미국 하원의장, 선거 패배로 사퇴",
     "slug": "2026-11-05-news-us-house-speaker-johnson-resign-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795604952.3918116,
     "country": "북한",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_drone_strike_russian_ship_libya_2026",
+    "topic": "리비아서 러 군함 드론 타격 현지 장교 2명 사망",
+    "slug": "2026-11-25-news-ukraine-drone-strike-russian-ship-libya-2026",
+    "cluster": "CBMiowFBVV95cUxPVkpQRElXWjRfb0hUMDRUUmJEYnQxT2hLZ0RZdEhDajBFOVE1Z2s1czNKU0l1XzE2NzRrdmpiWndxRmxSRFoyMHBQZGVoVlBTb2t4VnZrQWQyQTBEWk9jMmxZdGwwRHIxb015TUNKLXptRFN4SDVtNG83S2hmZTJLaWpDdzRGRWJNZzhtcS1HTS1Vd1k3RGRJeS1kRG9CWlE5YmVB",
+    "badge": "breaking",
+    "at": 1795615724.3679829,
+    "country": "리비아",
     "category": "국제"
   }
 ]
