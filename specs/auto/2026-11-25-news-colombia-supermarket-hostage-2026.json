@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-25-news-colombia-supermarket-hostage-2026",
+  "topic": "콜롬비아 슈퍼마켓서 인질극 최소 20명 붙잡혀",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 14:20 KST",
+  "source": "Al Jazeera·Reuters·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxPUXk2MmFURDEwYmxvTFItajUwUC1YQWVXMDNYSXh5MTBDV1A5Y1ROb1FRajhCTVZQMkh6SnRXNmJENElGOWVnLXFqSWFqLXZleTRwc2RieDFvYzRGWDRHd2ZmclFVSzk3NFN0bmI3ZkJtbHJfNV81dWtoeWEzNmVvN3dpZ0Q4dF8zVjV3WU1xOXpPMHRUVnNzMjd1REx0ZHloZ29ZWjlNajVwSS1LeTBHek9WSmE",
+    "related": [
+      [
+        "Armed men take at least 20 hostages in supermarket in Colombia tourist hotspot",
+        "Sky News"
+      ],
+      [
+        "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+        "The Guardian"
+      ],
+      [
+        "20 hostages held in Colombian supermarket after failed armored car hijack",
+        "Reuters"
+      ],
+      [
+        "Ten hostages released in standoff with gunmen at Colombia supermarket",
+        "Al Jazeera"
+      ],
+      [
+        "Gunmen hold 25 people hostage at Colombian supermarket",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "colombia_supermarket_hostage_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "콜롬비아 [[슈퍼마켓]]서 인질극\n최소 20명 붙잡혀",
+      "sub": "무장 괴한들이 인질을 잡고 대치 중입니다",
+      "chips": [
+        {
+          "k": "인질",
+          "v": "20명 이상"
+        }
+      ],
+      "alt": "콜롬비아 슈퍼마켓서 인질극 최소 20명 붙잡혀",
+      "map": {
+        "lat": 4.099917,
+        "lon": -72.9088133,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "콜롬비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "콜롬비아",
+      "video_only": true,
+      "map": {
+        "lat": 4.099917,
+        "lon": -72.9088133,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "콜롬비아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "일부 석방",
+          "d": "대치 과정에서 인질 10명이 풀려났습니다 (알자지라)"
+        },
+        {
+          "t": "대통령 현장 방문",
+          "d": "콜롬비아 대통령이 직접 현장에 도착했습니다 (가디언)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인질 20명 이상 발생 (스카이뉴스·로이터)",
+        "인질 10명 석방 (알자지라)",
+        "대통령 현장 방문 (가디언)"
+      ],
+      "unconfirmed": [
+        "정확한 범행 동기",
+        "남은 인질의 안전 상태",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "Sky News",
+        "The Guardian",
+        "The Telegraph",
+        "2026.11.25 15:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 콜롬비아 슈퍼마켓서 인질극\n최소 20명 붙잡혀\n\n· 무장 괴한들이 슈퍼마켓에서 인질극을 벌이고 있습니다 (스카이뉴스·로이터)\n· 대치 과정에서 인질 10명이 풀려났습니다 (알자지라)\n· 콜롬비아 대통령이 직접 현장에 도착했습니다 (가디언)\n\n출처: 스카이뉴스·가디언·로이터·알자지라·텔레그래프 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "콜롬비아의 한 슈퍼마켓에서 무장 괴한들이 인질극을 벌였습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "스카이뉴스는 최소 20명이 붙잡혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "대치 과정에서 인질 10명이 풀려났습니다.",
+      "card": "points"
+    },
+    {
+      "text": "대통령이 직접 현장에 도착했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "콜롬비아 [[슈퍼마켓]]에서\n벌어진 인질극",
+  "broll": [
+    "supermarket exterior street",
+    "police tape street"
+  ],
+  "place_en": "Colombia"
+}

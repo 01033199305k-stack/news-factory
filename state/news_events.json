@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "gwangju_high_school_science_lab_explosion",
-    "topic": "고등학교 과학실서 화학 실험 중 폭발",
-    "slug": "2026-11-04-news-gwangju-high-school-science-lab-explosion",
-    "cluster": "CBMiYkFVX3lxTFBjMjloRkNTVjhqLVpvbGZhVkw4MU9peHl4MXpabnI3M25nbXR5aXAwcE8tRnBEazFFenI0X0F2RmVYRkRZNlBJR0NGeHZ3QnZCMktacEVQN0RrMXhOc2M0RER3",
-    "badge": "breaking",
-    "at": 1793790596.3616378,
-    "country": "대한민국",
-    "category": "폭발·화재"
-  },
-  {
-    "event_key": "israel_election_results_certified_2026",
-    "topic": "이스라엘 총선 결과 공식 확정 네타냐후의 부정 선거 주장 일축",
-    "slug": "2026-11-04-news-israel-election-results-certified-2026",
-    "cluster": "CBMiugFBVV95cUxNV21MWjhQNFltc0NQaE1BNlhDenNma1JNU0xmNHBoRkZ2Z0l0YVlUZUgyeE0tVFd1QmhzX3Y0X1hzNWF1cV8wRjd6VDdEZzZWYkd0dEZBNTlUOWlqdWFlX1N4djBxTGlMRFU5YlI5R3JTN1JxdVozZkF6NUdmLXlPbmR4TFp1Q3FfVmNSdjZBandIS2dzelZmTE01MzhVWFo3ZFd0aXlXbWpHWmZxWWZ1WVFyV2VjWDhaR2c",
-    "badge": "breaking",
-    "at": 1793797796.581558,
-    "country": "이스라엘",
-    "category": "국제"
-  },
-  {
     "event_key": "france_blood_bank_cyberattack_2026",
     "topic": "프랑스 혈액 은행 사이버 공격 냉동고 온도 조작 시도",
     "slug": "2026-11-04-news-france-blood-bank-cyberattack-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795584530.2085972,
     "country": "아시아",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "colombia_supermarket_hostage_2026",
+    "topic": "콜롬비아 슈퍼마켓서 인질극 최소 20명 붙잡혀",
+    "slug": "2026-11-25-news-colombia-supermarket-hostage-2026",
+    "cluster": "CBMitAFBVV95cUxPUXk2MmFURDEwYmxvTFItajUwUC1YQWVXMDNYSXh5MTBDV1A5Y1ROb1FRajhCTVZQMkh6SnRXNmJENElGOWVnLXFqSWFqLXZleTRwc2RieDFvYzRGWDRHd2ZmclFVSzk3NFN0bmI3ZkJtbHJfNV81dWtoeWEzNmVvN3dpZ0Q4dF8zVjV3WU1xOXpPMHRUVnNzMjd1REx0ZHloZ29ZWjlNajVwSS1LeTBHek9WSmE",
+    "badge": "breaking",
+    "at": 1795586833.6996036,
+    "country": "콜롬비아",
+    "category": "총격·테러"
+  },
+  {
+    "event_key": "taean_haegwangho_sinking_2026",
+    "topic": "태안 침몰 어선 해광호 수중 수색 본격 돌입",
+    "slug": "2026-11-25-news-taean-haegwangho-sinking-2026",
+    "cluster": "CBMid0FVX3lxTE1hY3hmNzhpaWVhMnNRSjVFcnptaWlYUWozMWdGSU1QWUJKMy1BZDhvNGEyZEk1V2I1WE5yZC1OeTVtZmFFT0VjXzctemo5Q2w1Uy15dXBiVWo0aUhGS09mdkdjTEJ4SGtqX2s0M2xVeGxXSXhzT0VB0gF3QVVfeXFMTzhiTk9EM2VPTG1RcU5qWUtuLWRqVXg1X2JsR0l0OXUzSEtralowNHAxcGNFQUhXNmNMZWI0MExzUTZELWtfVjFvQjN3OFV4TV9jcVg5UXI2M3k0Vmk4clBqeGlST1JvRVgyQ1JPWnVQMGMtdHQ2blE",
+    "badge": "breaking",
+    "at": 1795586844.677167,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]
