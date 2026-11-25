@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-25-news-china-shenzhou-24-launch-2026",
+  "topic": "중국, 선주 24호 발사 성공 파키스탄 우주인 최초 탑승",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 08:38 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB",
+    "related": [
+      [
+        "Shenzhou 24: China launches space mission with Pakistani astronaut on historic journey",
+        "BBC"
+      ],
+      [
+        "Shenzhou-24 live: China launches crew including Pakistani to its space station",
+        "Reuters"
+      ],
+      [
+        "Pakistan’s Zeeshan Ali set for historic flight to China’s space station",
+        "Al Jazeera"
+      ],
+      [
+        "China launches Shenzhou 24 spacecraft carrying 2 Chinese and a Pakistani astronaut",
+        "WRAL"
+      ],
+      [
+        "Trump administration preparing new tariffs on China, EU, others to replace duties Supreme Court blocked, AP sources say",
+        "WTOP News"
+      ]
+    ],
+    "event_key": "china_shenzhou_24_launch_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "중국, [[선주 24호]] 발사 성공\n파키스탄 우주인 최초 탑승",
+      "sub": "중국 우주정거장을 향한 역사적인 비행이 시작됐습니다.",
+      "chips": [
+        {
+          "k": "우주인",
+          "v": "파키스탄 최초"
+        },
+        {
+          "k": "탑승",
+          "v": "중국인 2명·파키스탄인 1명"
+        }
+      ],
+      "alt": "중국, 선주 24호 발사 성공 파키스탄 우주인 최초 탑승",
+      "map": {
+        "lat": 40.2773513,
+        "lon": 96.4560478,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n주취안",
+      "video_only": true,
+      "map": {
+        "lat": 40.2773513,
+        "lon": 96.4560478,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "주취안"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "역사적 첫 비행",
+          "d": "파키스탄 국적의 지샨 알리가 중국 우주정거장으로 향하는 임무에 최초로 합류했습니다 (BBC·알자지라)."
+        },
+        {
+          "t": "승무원 구성",
+          "d": "선주 24호는 중국인 우주인 2명과 파키스탄 우주인 1명을 태우고 발사됐습니다 (WRAL)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "선주 24호 발사 성공",
+        "중국인 2명과 파키스탄인 1명 탑승"
+      ],
+      "unconfirmed": [
+        "임무 완료 일정 및 귀환 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Reuters",
+        "WRAL",
+        "WTOP News",
+        "2026.11.25 10:21 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 중국, 선주 24호 발사 성공… 파키스탄 우주인 최초 탑승 (BBC·로이터)\n\n· 파키스탄 국적의 지샨 알리가 중국 우주정거장으로 향하는 임무에 최초로 합류했습니다 (BBC·알자지라)\n· 선주 24호는 중국인 우주인 2명과 파키스탄 우주인 1명을 태우고 발사됐습니다 (WRAL)\n\n여러분은 이번 우주 협력 행보, 어떻게 보십니까?\n\n출처: BBC·로이터·알자지라·WRAL 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국이 선주 24호 우주선의 발사에 성공했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이번 비행에는 파키스탄 우주인이 최초로 탑승했습니다.",
+      "card": "points",
+      "screen": "파키스탄 우주인 최초"
+    },
+    {
+      "text": "중국인 우주인 2명과 파키스탄인 1명이 함께 우주정거장으로 향했다고 매체들은 전했습니다.",
+      "card": "points",
+      "screen": "우주인 3명 탑승"
+    },
+    {
+      "text": "이번 임무의 구체적인 세부 일정은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 우주 협력 행보, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "중국 [[선주 24호]] 발사,\n누가 탔나?",
+  "broll": [
+    "space rocket launch",
+    "space station model"
+  ],
+  "place_en": "Jiuquan, China"
+}

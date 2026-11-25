@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "kiribati_pacific_drift_rescue_2026",
-    "topic": "태평양 표류 5명 구조 어린이 2명 포함",
-    "slug": "2026-11-04-news-kiribati-pacific-drift-rescue-2026",
-    "cluster": "CBMifkFVX3lxTE5WMlktTlVSbXltR3ZrNEVkcGZiX0M5X2h5X0IxYmlfR3k5UmZ3dVozdUhVOUtzc2tPN1pKY0hVUXoyanRtdmpYMjNaOTJpdnJHMUdPcVJwTWhTQmYtbTJXUjJWS2FwQkpuLVZSWjZ4MTlXbGJSUG5sUldlM0FWdw",
-    "badge": "breaking",
-    "at": 1793725856.250948,
-    "country": "키리바시",
-    "category": "사고"
-  },
-  {
-    "event_key": "us_midterm_elections_2026",
-    "topic": "미국 중간선거 시작 상하원 통제권 결정",
-    "slug": "2026-11-04-news-us-midterm-elections-2026",
-    "cluster": "CBMickFVX3lxTFBmeUkyaWFmdkRxSjlFMlFtY3BBTFN0dFFfN1p0S1g1MWRHem9RYWtuT28xenRmenNxSS10LVVvVFhCYmwzVTZIdDEyR0FQOG14Y3ZOWXBXUTBPb3VDb0ZnMGN4anAydVRkTTVkSUhuSnllUQ",
-    "badge": "brief",
-    "at": 1793732967.274012,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "amd_q3_earnings_stock_jump_2026",
     "topic": "AMD 실적 발표 주가 7% 급등",
     "slug": "2026-11-04-news-amd-q3-earnings-stock-jump-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795566470.3332558,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "china_shenzhou_24_launch_2026",
+    "topic": "중국, 선주 24호 발사 성공 파키스탄 우주인 최초 탑승",
+    "slug": "2026-11-25-news-china-shenzhou-24-launch-2026",
+    "cluster": "CBMiVkFVX3lxTE5waThhbmJqRWF3ZGt6anVBb3I2WUNiams4QmFhbkUzbU5KSkNxd2lyUm56RVdjb3NXMU8wQVkyTVl6NVZuN2tyVTNfcU5MLXBKWHItR1ZB",
+    "badge": "breaking",
+    "at": 1795569706.0389457,
+    "country": "중국",
+    "category": "경제·과학"
+  },
+  {
+    "event_key": "fort_hood_shooter_execution_halt_2026",
+    "topic": "포트 후드 총기 난동범, 사형 집행 정지 신청",
+    "slug": "2026-11-25-news-fort-hood-shooter-execution-halt-2026",
+    "cluster": "CBMiowFBVV95cUxQS0FKNHlHNndoa1p1a08zekt3aUZXNkJ3SkF2ckQtYy1NTVFoVHRXdHliYThvNzk2M2E1RlhxOUZ3MEVnR2JvR3phc2JERXRBWXlEQkZ0djM1bnlxb2g2blJ6MWtvYjlmNzhPQUE3TU9pNEkyajFhLThzT053d25Oby1BRFhRTlA1cHhNVS0zdEdBM3FwMzZTb0pPTDcwWklkTFdB",
+    "badge": "breaking",
+    "at": 1795569726.9881124,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]
