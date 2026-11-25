@@ -1,0 +1,148 @@
+{
+  "slug": "2026-11-26-news-japan-icc-funding-2026",
+  "topic": "일본, 국제형사재판소 지원 앞당겨 미국 제재 맞서 ICC 지지",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 02:41 KST",
+  "source": "AP News·Reuters·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiogFBVV95cUxPX2pwdGlHY05MZ1FBb2gxNGt6TlI2ZGpjX2tnX0ozSlMzUDZBWkNEbDVRMmZjX1lQZVlweG5nR01fN0FkNTJIUFNoQ2NQT3VxRjNKMURObTlCcktfX3hQRmQtT2R0bW1pejFjTHd4VHR3ZGMydUJBTWlfTWdzcUwwNmM5YVdGc1U4bjlyMHZPT0pvd0lrcHBuNDhmM3BkWEJtWHc",
+    "related": [
+      [
+        "Japan’s Leader, in Break With U.S., Defends International Criminal Court",
+        "The New York Times"
+      ],
+      [
+        "Japan accelerates ICC funding as US sanctions threaten court",
+        "Reuters"
+      ],
+      [
+        "ICC president thanks Japan for early 2027 payment as US sanctions squeeze the court",
+        "AP News"
+      ],
+      [
+        "Takaichi moves up ICC financial support in first meeting with court chief since U.S. sanctions",
+        "The Japan Times"
+      ],
+      [
+        "Kyodo News Digest: Nov. 25",
+        "Japan Wire by Kyodo News"
+      ]
+    ],
+    "event_key": "japan_icc_funding_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "일본, 국제형사재판소 지원 앞당겨\n미국 제재 맞서 [[ICC]] 지지",
+      "sub": "미국의 제재 위협 속 일본 정부가 ICC에 자금을 조기 납부했습니다.",
+      "chips": [
+        {
+          "k": "지원",
+          "v": "조기 납부"
+        },
+        {
+          "k": "대상",
+          "v": "ICC"
+        }
+      ],
+      "alt": "일본, 국제형사재판소 지원 앞당겨 미국 제재 맞서 ICC 지지",
+      "map": {
+        "lat": 52.0799838,
+        "lon": 4.3113461,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "일본"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "일본\n도쿄",
+      "video_only": true,
+      "map": {
+        "lat": 52.0799838,
+        "lon": 4.3113461,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "도쿄"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "자금 조기 집행",
+          "d": "일본 정부는 미국이 국제형사재판소를 제재하는 가운데 2027년 예산을 앞당겨 지급하기로 했습니다 (AP통신·로이터)."
+        },
+        {
+          "t": "재판소 입장",
+          "d": "국제형사재판소장은 미국의 압박 속에서 이뤄진 일본의 빠른 재정 지원에 감사를 표했습니다 (AP통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "일본의 ICC 자금 조기 납부",
+        "미국의 국제형사재판소 제재 상황"
+      ],
+      "unconfirmed": [
+        "미국의 추가 제재 조치 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Japan Wire by Kyodo News",
+        "Reuters",
+        "The Japan Times",
+        "The New York Times",
+        "2026.11.26 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 일본, 미국 제재 속 국제형사재판소 지원 조기 집행 (AP·로이터)\n\n· 일본 정부는 미국의 제재 위협을 받는 ICC에 2027년 예산을 앞당겨 지급했습니다 (AP·로이터)\n· 국제형사재판소장은 미국의 압박 속 이뤄진 일본의 빠른 재정 지원에 감사를 표했습니다 (AP)\n\n여러분은 미국의 국제형사재판소 제재와 이에 대응하는 국가들의 움직임을 어떻게 보십니까?\n\n출처: AP통신·로이터·뉴욕타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국의 제재 위협 속에서 일본이 국제형사재판소 지원을 앞당겼습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 일본이 2027년 예산을 조기 납부하기로 했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "재판소장은 미국의 압박 속에서 이뤄진 빠른 재정 지원에 감사를 표했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "미국의 추가적인 제재 조치는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 결정, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국의 제재 속\n[[일본]]의 선택은?",
+  "broll": [
+    "courthouse building flag",
+    "international court sign"
+  ],
+  "place_en": "The Hague, Netherlands"
+}

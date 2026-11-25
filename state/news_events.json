@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "canada_grizzly_bear_attack_2026",
-    "topic": "캐나다서 회색곰 습격으로 엄마와 딸 사망",
-    "slug": "2026-11-05-news-canada-grizzly-bear-attack-2026",
-    "cluster": "CBMikAFBVV95cUxOTXJVb3lFbG9abXNsM2xJVnRjM1N2MlZObHpwU0x3SjhIaWpsMlFiVXdIRjN1enRLd25QdUE4R1Zjd2szRXpTR2RfSUdJTjdlSlhRaFlZYkNsWTZUQk5HQk5sUzlLa3RvdG9STHYzRHdVc19WZmlSTGFmZ1g4WEVEZEJlTzdCUGRXOEZKWnFrWTQ",
-    "badge": "breaking",
-    "at": 1793826624.24588,
-    "country": "캐나다",
-    "category": "기타 사건"
-  },
-  {
-    "event_key": "nfl_ravens_acquire_qb_brissett_2026",
-    "topic": "볼티모어 레이븐스, 쿼터백 제이코비 브리셋 영입",
-    "slug": "2026-11-05-news-nfl-ravens-acquire-qb-brissett-2026",
-    "cluster": "CBMikgFBVV95cUxPLUk4el9DRjZnYTFIWnozdXY3YkpFZWhacFM2ZWJQRXRBUkxpb2JLUjRBLVFvOWJiTTlKMmI0SUJBQ2lrOTdEaFJhRWdpYzU4cTFQRWJiazF2OGduV0M5NjhlLVdnVmhjaTl2eWVGMklOQ3BwVG5odkt3ODFNZUxCeDJLMjMyRG8wYTB5MElHWjBYQQ",
-    "badge": "breaking",
-    "at": 1793826635.624506,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "global_oil_prices_drop_below_100_2026",
     "topic": "국제 유가 배럴당 100달러 아래 하락",
     "slug": "2026-11-05-news-global-oil-prices-drop-below-100-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795633831.404188,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "japan_icc_funding_2026",
+    "topic": "일본, 국제형사재판소 지원 앞당겨 미국 제재 맞서 ICC 지지",
+    "slug": "2026-11-26-news-japan-icc-funding-2026",
+    "cluster": "CBMiogFBVV95cUxPX2pwdGlHY05MZ1FBb2gxNGt6TlI2ZGpjX2tnX0ozSlMzUDZBWkNEbDVRMmZjX1lQZVlweG5nR01fN0FkNTJIUFNoQ2NQT3VxRjNKMURObTlCcktfX3hQRmQtT2R0bW1pejFjTHd4VHR3ZGMydUJBTWlfTWdzcUwwNmM5YVdGc1U4bjlyMHZPT0pvd0lrcHBuNDhmM3BkWEJtWHc",
+    "badge": "breaking",
+    "at": 1795637249.016613,
+    "country": "일본",
+    "category": "국제"
+  },
+  {
+    "event_key": "canary_islands_migrant_record_2026",
+    "topic": "스페인 카나리아제도에 하루 동안 2,000명 넘어",
+    "slug": "2026-11-26-news-canary-islands-migrant-record-2026",
+    "cluster": "CBMilAFBVV95cUxPa3Jzb2VHSk9lV2k4UlRIWXRJdHBSUzE5a2JjYjc0dWVIRlpmY0dmVjNCSGk5MktVREE1UnNXaHZEb2c2bUFBeV9Oa0tuR2JwYU1rYzdJYXNSVEt3dEJ3cHhnNzZxaFE2YjRJM1FISE0zQlNzWHhQMHRmaW10cGNxamJabUExME9sSFpqMHJpc19kTm9X",
+    "badge": "breaking",
+    "at": 1795637290.7962556,
+    "country": "스페인",
+    "category": "기타 사건"
   }
 ]

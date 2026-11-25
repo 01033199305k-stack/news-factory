@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-26-news-canary-islands-migrant-record-2026",
+  "topic": "스페인 카나리아제도에 하루 동안 2,000명 넘어",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 03:04 KST",
+  "source": "AP News·Reuters·The Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMilAFBVV95cUxPa3Jzb2VHSk9lV2k4UlRIWXRJdHBSUzE5a2JjYjc0dWVIRlpmY0dmVjNCSGk5MktVREE1UnNXaHZEb2c2bUFBeV9Oa0tuR2JwYU1rYzdJYXNSVEt3dEJ3cHhnNzZxaFE2YjRJM1FISE0zQlNzWHhQMHRmaW10cGNxamJabUExME9sSFpqMHJpc19kTm9X",
+    "related": [
+      [
+        "Almost 2,000 migrants arrive on Spain’s Canary Islands in a single day, breaking a record",
+        "AP News"
+      ],
+      [
+        "Migrant arrivals in Spain's Canary Islands break single-day record",
+        "Reuters"
+      ],
+      [
+        "Record number of migrants land on Canaries tourist island",
+        "The Telegraph"
+      ],
+      [
+        "Migrants rescued off Spain's El Hierro as Atlantic crossings continue",
+        "Yahoo"
+      ],
+      [
+        "Record 2,100 migrants land on Canaries in single day",
+        "The Times"
+      ]
+    ],
+    "event_key": "canary_islands_migrant_record_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페인 카나리아제도에\n하루 동안 [[2,000명]] 넘어",
+      "sub": "단 하루 만에 기록적인 수의 이주민이 도착해 역대 최다 기록을 경신했습니다.",
+      "chips": [
+        {
+          "k": "규모",
+          "v": "2,000명 이상"
+        },
+        {
+          "k": "시기",
+          "v": "하루 동안"
+        }
+      ],
+      "alt": "스페인 카나리아제도에 하루 동안 2,000명 넘어",
+      "map": {
+        "lat": 28.2935785,
+        "lon": -16.6214471,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n카나리아제도",
+      "video_only": true,
+      "map": {
+        "lat": 28.2935785,
+        "lon": -16.6214471,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카나리아제도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기록 경신",
+          "d": "스페인 카나리아제도에 하루 동안 약 2,000명이 넘는 이주민이 도착해 단일 기준 역대 최다 기록을 세웠습니다 (AP통신·타임스)."
+        },
+        {
+          "t": "구조 활동",
+          "d": "대서양 횡단이 이어지는 가운데 이주민 구조 작업이 계속 진행되고 있습니다 (야후)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "카나리아제도 하루 이주민 2,000명 이상 도착",
+        "단일 기준 역대 최다 기록 경신"
+      ],
+      "unconfirmed": [
+        "정확한 총 이주민 인원",
+        "추가 유입 규모 및 대책"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Reuters",
+        "The Telegraph",
+        "The Times",
+        "Yahoo",
+        "2026.11.26 05:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페인 카나리아제도, 하루 동안 이주민 2,000명 넘어 역대 최다 (AP·타임스)\n\n· 스페인 카나리아제도에 하루 동안 2,000명이 넘는 이주민이 도착해 단일 기준 최고 기록을 경신했습니다 (AP·타임스)\n· 대서양 횡단 경로를 통한 이주민들의 유입과 구조 작업이 계속 이어지고 있습니다 (야후)\n\n출처: AP통신·로이터·더 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인 카나리아제도에 하루 동안 2천 명이 넘는 이주민이 도착했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 단일 기준 역대 최다 기록을 경신했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "대서양을 건너는 이주민들의 구조 작업이 계속 이어지고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 추가 유입 규모와 정부의 대책은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "스페인 [[카나리아제도]]에서\n하루 동안 벌어진 일",
+  "broll": [
+    "ocean waves coast",
+    "rescue boat sea"
+  ],
+  "place_en": "Canary Islands, Spain"
+}
