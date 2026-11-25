@@ -1,20 +1,20 @@
 [
   {
-    "slug": "2026-11-26-news-sudan-drone-strike-civilian-deaths-2026",
-    "event_ms": 1795620817000,
-    "category": "사고",
+    "slug": "2026-11-26-news-us-nasdaq-tumbles-ai-tech-selloff-2026",
+    "event_ms": 1795627560000,
+    "category": "경제·과학",
     "images": [
       "01_cover.png",
       "02_points.png",
       "03_check.png",
       "04_outro.png"
     ],
-    "text": "[속보] 수단 남동부에서 발생한 드론 공습으로 민간인 19명이 사망했습니다. (알자지라·로이터)\n\n· 이번 공습으로 가족 거주지와 UN 건물이 타격받았으며, 사망자 중에는 어린이가 포함된 것으로 알려졌습니다. (Norwegian Refugee Council·에미리트 24|7)\n· 아랍뉴스는 의료 소식통을 인용해 사상자 규모가 더 늘어날 가능성을 전했습니다. (Arab News)\n\n출처: 알자지라·로이터·Norwegian Refugee Council·에미리트 24|7·Arab News 보도 종합",
+    "text": "[속보] 미국 나스닥 지수가 AI 회의론과 관세 우려로 최대 4% 급락했습니다.\n\n· 엔비디아를 비롯한 주요 기술주가 매도세를 주도했습니다 (CNBC·야후 파이낸스).\n· 인플레이션 우려와 무역 관세 악재가 함께 시장을 눌렀습니다 (NYT·블룸버그).\n\n이번 증시 하락세가 계속될 것으로 보십니까?\n\n출처: WSJ·CNBC·NYT·블룸버그·야후 파이낸스 보도 종합",
     "topic_tag": "해외사건사고",
     "hashtags": [
       "해외사건사고",
-      "사고",
-      "수단"
+      "경제과학",
+      "미국"
     ],
     "uploaded": [
       "01_cover.jpg",
@@ -25,24 +25,26 @@
     ],
     "done": {
       "threads": {
-        "id": "18116358662130181",
-        "permalink": "https://www.threads.com/@jigeum.segye/post/DgLGmuhG7bI",
+        "id": "18158334574490796",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgLQDKqGbEZ",
         "kind": "carousel",
-        "at": 1795628932
+        "at": 1795633887
       },
       "instagram": {
-        "id": "18121389299061100",
-        "permalink": "https://www.instagram.com/reel/DgLHN6CQuWK/",
+        "id": "18106960094455069",
+        "permalink": "https://www.instagram.com/reel/DgLQZ5KP4gt/",
         "kind": "reel",
-        "at": 1795629268
+        "at": 1795634100
       },
       "youtube": {
-        "skipped": "유튜브는 국제·경제 소식만 (사고)",
-        "at": 1795629278
+        "id": "MLTnvxjmAb8",
+        "permalink": "https://youtube.com/shorts/MLTnvxjmAb8",
+        "kind": "shorts",
+        "at": 1795634125
       }
     },
     "attempts": {
-      "tiktok": 2
+      "tiktok": 1
     },
     "video": "video.mp4"
   }

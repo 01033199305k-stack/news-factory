@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ukraine_aid_center_bombing_toll_2026",
-    "topic": "러시아의 우크라이나 구호센터 공습으로 40명 사망",
-    "slug": "2026-11-05-news-ukraine-aid-center-bombing-toll-2026",
-    "cluster": "CBMiwgFBVV95cUxNTnJMX1lSSDlPU0otVy01QlBuQzZyUm5LWlpyMDM3QVlGcU5BczEyYUh6LWlJakluTEtTSVdLZFhfUERZQ3JPbEdGc1cyR2dlWlp4dC1wbDdvdXdMbWJjRUdmSDl2Y2VNNkxPS1U1TDB6WjJMZTlRdV9hSy05OWVPTVlfTWRQVC1RbExnWUV1eWl1bmpvVWR6QXgtcHhSbHRoUWNXUjhIb1FpM1RuRm00OFVKLVgtZ1hIS2g2dmdlbl8zdw",
-    "badge": "breaking",
-    "at": 1793815658.3049254,
-    "country": "우크라이나",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "canada_grizzly_bear_attack_2026",
     "topic": "캐나다서 회색곰 습격으로 엄마와 딸 사망",
     "slug": "2026-11-05-news-canada-grizzly-bear-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795628885.9830887,
     "country": "수단",
     "category": "사고"
+  },
+  {
+    "event_key": "us_nasdaq_tumbles_ai_tech_selloff_2026",
+    "topic": "미국 나스닥 급락 AI 우려에 기술주 폭락",
+    "slug": "2026-11-26-news-us-nasdaq-tumbles-ai-tech-selloff-2026",
+    "cluster": "CBMihwFBVV95cUxPcW5ERm5pbnptVU1RblpiQ2MtMGtWX3B2TUZ1QTd0b2VvaTBiYjJxdEQwandFLU1pT09HOGFqdkFTNDYyQ1NEcWZFdXNETDFOZjVfYUh1ZDBvUWZqNWxsaXhLbjFRc1BzblVwNFRINnEtQkRIamVENzdSV3JuMXVtZS1wb1ozMjg",
+    "badge": "breaking",
+    "at": 1795633831.404188,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
