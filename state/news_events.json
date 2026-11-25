@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_house_speaker_johnson_resign_2026",
-    "topic": "미국 하원의장, 선거 패배로 사퇴",
-    "slug": "2026-11-05-news-us-house-speaker-johnson-resign-2026",
-    "cluster": "CBMigwFBVV95cUxNXzJwMmxhRVJBQ3lHd1NQbWFlSmJaZ0RtY2g5dm1OcWF2VmpBWGRkeDNsb2dNUnRndXVtVkRhYURGdjlBN1NBVmhCT3NCaVdSZG5uTWxPNV9ybXF5OHQ4cnV5ZkN4Vnd3aXU1ZHo2S0FERENRd1VOMGZrTzZaeU8xeDlfQQ",
-    "badge": "breaking",
-    "at": 1793812716.9522336,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "trump_stop_military_aid_israel_2026",
     "topic": "트럼프, 이스라엘에 군사 지원 중단 선언",
     "slug": "2026-11-04-news-trump-stop-military-aid-israel-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795615724.3679829,
     "country": "리비아",
+    "category": "국제"
+  },
+  {
+    "event_key": "israeli_strike_gaza_hamas_security_chief_2026",
+    "topic": "이스라엘 가자지구 공습 단행 하마스 고위 관리 사망",
+    "slug": "2026-11-25-news-israeli-strike-gaza-hamas-security-chief-2026",
+    "cluster": "CBMioAFBVV95cUxPcjhScXl6TmVkaUZxMzJLaW1XOTN1dEpRY1d2b3llSkdpSU14VWlNekt3dFlac2c2TDUxdngzdy1Mek5xWjdZaWJEZ3BCanhQS2lZT2VjajRibmxkYk5LOHVvV1JMX3NpVEpWOXZRUV9mT1piZWotanZlaUYxSTdiQllJdnZ6cm5XRGtHWGRSV1QtZ1JieS1PYzlXQUVZOG4y0gGmAUFVX3lxTE41SFVvaGJDZThRdmdkWTluZFdUVC1lX19tUldWTW52Z0ZncUZJRnA5akdXbnpvbGJGTW5CR21GM09BUUJTaW5GY0NFZEhsMmJtME1jZ18wNnpMSlhQRGp4WjBZWkdtYlNDUHpRYXVHaXB5UFdFRzFWbDdhaGRfSG1GT1FlVDFENUdkWFZueFFjRkNvanFFcWJRNy1BVjFPNkxnSFU5R2c",
+    "badge": "breaking",
+    "at": 1795628231.3820467,
+    "country": "팔레스타인",
     "category": "국제"
   }
 ]

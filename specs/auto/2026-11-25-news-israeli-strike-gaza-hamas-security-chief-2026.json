@@ -1,0 +1,138 @@
+{
+  "slug": "2026-11-25-news-israeli-strike-gaza-hamas-security-chief-2026",
+  "topic": "이스라엘 가자지구 공습 단행 하마스 고위 관리 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 23:54 KST",
+  "source": "Al Jazeera·BBC·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMioAFBVV95cUxPcjhScXl6TmVkaUZxMzJLaW1XOTN1dEpRY1d2b3llSkdpSU14VWlNekt3dFlac2c2TDUxdngzdy1Mek5xWjdZaWJEZ3BCanhQS2lZT2VjajRibmxkYk5LOHVvV1JMX3NpVEpWOXZRUV9mT1piZWotanZlaUYxSTdiQllJdnZ6cm5XRGtHWGRSV1QtZ1JieS1PYzlXQUVZOG4y0gGmAUFVX3lxTE41SFVvaGJDZThRdmdkWTluZFdUVC1lX19tUldWTW52Z0ZncUZJRnA5akdXbnpvbGJGTW5CR21GM09BUUJTaW5GY0NFZEhsMmJtME1jZ18wNnpMSlhQRGp4WjBZWkdtYlNDUHpRYXVHaXB5UFdFRzFWbDdhaGRfSG1GT1FlVDFENUdkWFZueFFjRkNvanFFcWJRNy1BVjFPNkxnSFU5R2c",
+    "related": [
+      [
+        "Israeli strike in Gaza kills senior Hamas official, his wife and children",
+        "Al Jazeera"
+      ],
+      [
+        "Israeli strike kills Hamas official, his wife and children",
+        "The Hindu"
+      ],
+      [
+        "Israel kills senior Hamas security official in airstrike on Gaza",
+        "Reuters"
+      ],
+      [
+        "Hamas says top commander in internal security apparatus killed in overnight IDF strike, along with wife and daughters",
+        "The Times of Israel"
+      ],
+      [
+        "Israeli air strike kills Hamas internal security chief in Gaza",
+        "BBC"
+      ]
+    ],
+    "event_key": "israeli_strike_gaza_hamas_security_chief_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 가자지구 공습 단행\n[[하마스 고위 관리]] 사망",
+      "sub": "내부 안보 수장 및 가족 등 일가족 숨져",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "고위 관리 등"
+        }
+      ],
+      "alt": "이스라엘 가자지구 공습 단행 하마스 고위 관리 사망",
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사망자 신원",
+          "d": "하마스 내부 안보 기구 고위 간부와 그의 아내, 자녀들이 함께 숨졌습니다."
+        },
+        {
+          "t": "언론 보도",
+          "d": "알자지라와 로이터 등은 이스라엘군의 공습으로 가자지구에서 하마스 고위 관리가 사망했다고 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이스라엘군 가자지구 공습 (로이터·알자지라)",
+        "하마스 내부 안보 고위 관리 사망 (타임즈오브이스라엘·BBC)",
+        "아내와 자녀 등 일가족 사망 (알자지라·타임즈오브이스라엘)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "공습으로 인한 추가 민간인 사상자 규모",
+        "후속 군사 작전 계획"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "Reuters",
+        "The Hindu",
+        "The Times of Israel",
+        "2026.11.26 02:37 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 가자지구 공습 단행… 하마스 고위 관리 사망\n\n· 이스라엘군, 가자지구 공습으로 하마스 내부 안보 수장 타격 (로이터·BBC·타임즈오브이스라엘)\n· 사망자 중에는 해당 고위 관리의 아내와 자녀들도 포함된 것으로 알려짐 (알자지라·타임즈오브이스라엘)\n\n출처: 알자지라·로이터·BBC·타임즈오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군의 가자지구 공습으로 하마스 고위 안보 관리가 사망했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신 보도에 따르면 공습 과정에서 하마스 내부 안보 수장과 그의 아내 및 자녀들이 숨진 것으로 전해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 공습으로 인한 추가 민간인 사상자 규모는 아직 정확히 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이스라엘의 가자지구 공습,\n[[고위 관리]] 사망",
+  "broll": [
+    "smoke over city skyline",
+    "destroyed buildings rubble"
+  ],
+  "place_en": "Gaza Strip"
+}
