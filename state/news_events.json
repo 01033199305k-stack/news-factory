@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "global_oil_prices_drop_below_100_2026",
-    "topic": "국제 유가 배럴당 100달러 아래 하락",
-    "slug": "2026-11-05-news-global-oil-prices-drop-below-100-2026",
-    "cluster": "CBMihgFBVV95cUxPSGJKNnFMbzBpa0NfandzTGhDY0N4ZHZZMjBRbkRkbGJiUWZyeUR6aXo1b3FRSVhCVDZjdzY3N1BLQkw1VGtHZVBBYjJ6NEVHS1A4cUluRkt3eFJuNkxoeDVvY2s1R3NvY2FlNXRkZTdfblhMM09FaGNpOVh1cnljczg3bnhvZw",
-    "badge": "breaking",
-    "at": 1793830204.193252,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "pennsylvania_measles_outbreak_deaths",
     "topic": "미국 펜실베이니아주서 홍역 사망 6명 발생",
     "slug": "2026-11-05-news-pennsylvania-measles-outbreak-deaths",
@@ -2998,5 +2988,15 @@
     "at": 1795637290.7962556,
     "country": "스페인",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "egypt_cairo_fuel_tanker_fire_2026",
+    "topic": "이집트 카이로 고속도로에서 연료 탱크로리 전복 화재",
+    "slug": "2026-11-26-news-egypt-cairo-fuel-tanker-fire-2026",
+    "cluster": "CBMipgFBVV95cUxQTlU0RXBRWWJMUXd0Z01rcmhMeTI0V1hJLVdXUUY3eEhwb2w2R0pza2RxSnZyd044elUxX3UyemhQTG5wN1VadlphRjE2SGJvMmlRQ0N0TGRScDlwYUVWejFyX0FDMWpQZGJkZWZTSmxia2tTUkZQSFZ1XzBzNVU1ZVB5cFBGblBxWGtfb2ZXZGxTNGRzWlNBdkJaTm9tdWVlQTJfNnJB0gGrAUFVX3lxTFBxMmtCU1JWQ2xhSXBTMEczWEc0MGpvSExWY2xIcEl4VFZCOGdNRWg0ZFJxSzZZek52aV9pdUVFcFdUSEh1YmlVSmRQUU53RzE1dVhkZzc4RWZxSzEtNUZZbUNvbkFJU1hRdDljX21MY0xIZ2NmbGRKZXc3NkFkRTVhdTJZdExmYVJObVNNWk1Hd2EtdHJSb0lCRmplNC1XcXVfd3pnVS03MHkxaw",
+    "badge": "breaking",
+    "at": 1795640840.3364625,
+    "country": "이집트",
+    "category": "폭발·화재"
   }
 ]

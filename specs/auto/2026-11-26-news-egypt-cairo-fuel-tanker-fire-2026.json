@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-26-news-egypt-cairo-fuel-tanker-fire-2026",
+  "topic": "이집트 카이로 고속도로에서 연료 탱크로리 전복 화재",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 03:56 KST",
+  "source": "Al Jazeera·CNN·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMipgFBVV95cUxQTlU0RXBRWWJMUXd0Z01rcmhMeTI0V1hJLVdXUUY3eEhwb2w2R0pza2RxSnZyd044elUxX3UyemhQTG5wN1VadlphRjE2SGJvMmlRQ0N0TGRScDlwYUVWejFyX0FDMWpQZGJkZWZTSmxia2tTUkZQSFZ1XzBzNVU1ZVB5cFBGblBxWGtfb2ZXZGxTNGRzWlNBdkJaTm9tdWVlQTJfNnJB0gGrAUFVX3lxTFBxMmtCU1JWQ2xhSXBTMEczWEc0MGpvSExWY2xIcEl4VFZCOGdNRWg0ZFJxSzZZek52aV9pdUVFcFdUSEh1YmlVSmRQUU53RzE1dVhkZzc4RWZxSzEtNUZZbUNvbkFJU1hRdDljX21MY0xIZ2NmbGRKZXc3NkFkRTVhdTJZdExmYVJObVNNWk1Hd2EtdHJSb0lCRmplNC1XcXVfd3pnVS03MHkxaw",
+    "related": [
+      [
+        "At least 30 killed in Egypt vehicle fire, health ministry says",
+        "Al Jazeera"
+      ],
+      [
+        "At least 30 dead in Egypt blaze after vehicle carrying petrol products flips",
+        "The Independent"
+      ],
+      [
+        "Fire on a major highway surrounding Cairo kills at least 30 | ITV News",
+        "ITVX"
+      ],
+      [
+        "Dozens killed or injured in fuel tanker fire near Cairo, Egypt’s Health Ministry says",
+        "CNN"
+      ],
+      [
+        "Thirty killed in Cairo fire after fuel tanker overturns",
+        "The Telegraph"
+      ]
+    ],
+    "event_key": "egypt_cairo_fuel_tanker_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이집트 카이로 고속도로에서\n[[연료 탱크로리]] 전복 화재",
+      "sub": "보건부 발표 최소 30명 사망",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "30명 이상"
+        }
+      ],
+      "alt": "이집트 카이로 고속도로에서 연료 탱크로리 전복 화재",
+      "map": {
+        "lat": 30.0443879,
+        "lon": 31.2357257,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "이집트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "이집트\n카이로",
+      "video_only": true,
+      "map": {
+        "lat": 30.0443879,
+        "lon": 31.2357257,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카이로"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 장소",
+          "d": "카이로를 둘러싼 주요 고속도로에서 발생했습니다 (Al Jazeera·The Telegraph)."
+        },
+        {
+          "t": "사고 원인",
+          "d": "석유제품을 운송하던 차량이 전복되면서 불이 붙었습니다 (The Independent·CNN)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "최소 30명 사망 (Al Jazeera·CNN)",
+        "연료 운송 차량 전복 (The Independent·CNN)"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "CNN",
+        "ITVX",
+        "The Independent",
+        "The Telegraph",
+        "2026.11.26 06:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이집트 카이로 고속도로서 연료 탱크로리 전복 화재로 최소 30명 사망\n\n· 석유제품을 실은 차량이 전복되면서 불이 시작됐습니다 (The Independent·CNN)\n· 카이로 인근 주요 고속도로에서 사고가 발생했습니다 (Al Jazeera·The Telegraph)\n\n출처: Al Jazeera·The Independent·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이집트 카이로 고속도로에서 연료 탱크로리가 전복돼 불이 났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "알자지라 통신은 이번 화재로 적어도 30명이 숨졌다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "석유제품을 운송하던 차량이 도로에서 뒤집히면서 화재가 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "이집트 [[카이로]] 고속도로에서\n무슨 일이?",
+  "broll": [
+    "highway night",
+    "fire accident"
+  ],
+  "place_en": "Cairo, Egypt"
+}
