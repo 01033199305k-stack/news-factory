@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_senate_first_muslim_abdul_elsayed",
-    "topic": "미국 상원에 첫 무슬림 의원 탄생",
-    "slug": "2026-11-04-news-us-senate-first-muslim-abdul-elsayed",
-    "cluster": "CBMi0wFBVV95cUxPYXNLTnQ0TERBQzFabloyZFBDTUtKUVJHOWZlRURxZ2NGLU8waTNMWXExanpHeHVHU3B5RWZ2ekpuRjllWlZKcTFWVW13V2xEak9qRkp3ZkNEUjdoSVNoR0tnbjRnMjBETGZ6QVBsYTlwcnJuMm1xQjZGS0xHWGRnNmFFQlo2eUpkdFpoLW1zcnRZWWdKM0FqS2gxUmNZMGkycFpyODFuWHB5emRDaUlrOWt3OE9xaTBUUHlNeEZZaV9Pc3ZwMmpjZ29DalR0d0ZyOUJz",
-    "badge": "breaking",
-    "at": 1793790558.3766851,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "gwangju_high_school_science_lab_explosion",
     "topic": "고등학교 과학실서 화학 실험 중 폭발",
     "slug": "2026-11-04-news-gwangju-high-school-science-lab-explosion",
@@ -2998,5 +2988,15 @@
     "at": 1795579639.4323564,
     "country": "중국",
     "category": "국제"
+  },
+  {
+    "event_key": "asian_stocks_slide_ai_doubts_tariffs",
+    "topic": "아시아 증시, AI 거품론과 관세 우려에 하락세",
+    "slug": "2026-11-25-news-asian-stocks-slide-ai-doubts-tariffs",
+    "cluster": "CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk",
+    "badge": "breaking",
+    "at": 1795584530.2085972,
+    "country": "아시아",
+    "category": "경제·과학"
   }
 ]

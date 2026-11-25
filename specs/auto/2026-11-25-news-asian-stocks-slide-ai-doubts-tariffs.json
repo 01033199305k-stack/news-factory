@@ -1,0 +1,150 @@
+{
+  "slug": "2026-11-25-news-asian-stocks-slide-ai-doubts-tariffs",
+  "topic": "아시아 증시, AI 거품론과 관세 우려에 하락세",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 12:42 KST",
+  "source": "Al Jazeera·Bloomberg.com·Financial Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk",
+    "related": [
+      [
+        "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap",
+        "Bloomberg.com"
+      ],
+      [
+        "Stocks retreat as AI rebound stumbles, tariff threats loom",
+        "Reuters"
+      ],
+      [
+        "Asian markets lose ground as AI fears return",
+        "Financial Times"
+      ],
+      [
+        "Asia’s stock markets dive as doubts to swirl over AI boom",
+        "Al Jazeera"
+      ],
+      [
+        "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
+        "WSJ"
+      ]
+    ],
+    "event_key": "asian_stocks_slide_ai_doubts_tariffs"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "아시아 증시, [[AI 거품론]]과 관세 우려에 [[하락세]]",
+      "sub": "아시아 주요 증시가 AI 거품론과 관세 우려로 하락했습니다.",
+      "chips": [
+        {
+          "k": "주가",
+          "v": "하락"
+        },
+        {
+          "k": "우려",
+          "v": "AI 및 관세"
+        }
+      ],
+      "alt": "아시아 증시, AI 거품론과 관세 우려에 하락세",
+      "map": {
+        "lat": 51.2086975,
+        "lon": 89.2343748,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "아시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아시아",
+      "video_only": true,
+      "map": {
+        "lat": 51.2086975,
+        "lon": 89.2343748,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아시아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "AI 회의론",
+          "d": "AI에 대한 의구심이 재부각되면서 주가 하락을 이끌었다고 외신이 보도했습니다."
+        },
+        {
+          "t": "관세 갈등",
+          "d": "관세 우려가 증시 하락에 영향을 미쳤다고 외신이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "아시아 주요 증시 하락",
+        "AI 거품론 재부각",
+        "관세 조치 우려"
+      ],
+      "unconfirmed": [
+        "증시 하락세의 지속 기간",
+        "추가 관세의 구체적인 타격 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg.com",
+        "Financial Times",
+        "Reuters",
+        "WSJ",
+        "2026.11.25 14:28 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 아시아 증시, AI 거품론과 관세 우려에 하락세\n\n· AI에 대한 의구심이 재부각되며 주가 하락을 이끌었다고 블룸버그 등 외신이 보도했습니다 (블룸버그)\n· 관세 우려가 증시 하락에 영향을 미쳤다고 로이터 등이 전했습니다 (로이터·월스트리트저널)\n\n이번 증시 하락세가 글로벌 시장으로 확산할 것으로 보십니까?\n\n출처: 블룸버그·로이터·파이낸셜타임스·알자지라·월스트리트저널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아시아 주요 증시가 AI 거품론과 관세 우려로 하락했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "블룸버그 등 외신은 AI에 대한 의구심이 시장에 다시 확산했다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "관세 조치에 대한 경계감도 주가 하락에 영향을 미쳤습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 하락세가 글로벌 시장 전체로 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 증시 변동, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "아시아 증시가\n[[하락한]] 이유는?",
+  "broll": [
+    "stock exchange screen",
+    "financial market trading"
+  ],
+  "place_en": "Asia"
+}
