@@ -1,0 +1,137 @@
+{
+  "slug": "2026-11-25-news-us-new-tariffs-global-trading-partners-2026",
+  "topic": "미국 정부, 중국·인도 등 새로운 관세 부과 준비",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.25 08:03 KST",
+  "source": "BBC·Reuters·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMi8wFBVV95cUxPZHNaT0gwbVVEN0tGTVN1ZlBjRzF6WjhqZTktajRDdTNDenZYN25EUjAyQ3V0NXBjQUxvYTk4MlJNZkNnYVFXdk4tbFdINDM3SEtMUTl4UV9SZFdPaHdOVEpRMFEzWGd3c3JaWkFNdXgzOGFYYXhVQ0tMQURVbWlTbmFfa1YydGdtQUgweVZtelhRQ0JjSlB3SWpvUzdpQkx5Zkl4M1VOSTZjc2JhN0lGMXpfeTktT3BjZnlMTU9UX0FGNk1VYTU4OHJTdVN1LXdXTDdlM0dydVQ0VVVRLVV1M3NoY3UyWUVCdkhvMVlNNEJaNmfSAfgBQVVfeXFMTk1SNHFzdEZDSHBvRjdiYVNMT3NBbHFrQTEydXI3V1o4eFJiaWtkSWZFbE5xQkxvUGFHclB3WEJyMUtTNkFDUExyaEZyR0hqNDhLUG13c0I1ZFhNUFhETmdUdVQ1SlAwRk5nV1M4akZ3cTVzVWxmTmVpeE92emFaNGNUaVJ5UjZya2w4RE5oUEF5VnJFWGk0Q2NzSlc3Nm9mV2dOVnFWTm9MZHFOd1hOZ2tuN2xSRDB4a1hBcWprb1JuekZWampLNV93bmNiN1NoWnpBc0FDNUY4Y05CaGRqME1GZzR6ZWJpdHg2cGtUdW9Kc3dubUZRTEg",
+    "related": [
+      [
+        "Trump set to hit India, China, 14 others with new tariffs after probe",
+        "The Times of India"
+      ],
+      [
+        "US preparing to unveil new tariffs on global trading partners",
+        "BBC"
+      ],
+      [
+        "Exclusive | U.S. Prepares to Raise Tariffs on China and Other Countries",
+        "WSJ"
+      ],
+      [
+        "Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
+        "Reuters"
+      ],
+      [
+        "India in US tariff crosshairs as Trump targets 16 trading partners in fresh industrial probe",
+        "Telegraph India"
+      ]
+    ],
+    "event_key": "us_new_tariffs_global_trading_partners_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 정부, 중국·인도 등\n[[새로운 관세]] 부과 준비",
+      "sub": "과잉 설비 조사 마친 뒤 글로벌 교역 상대국 타깃",
+      "chips": [
+        {
+          "k": "대상 국가",
+          "v": "16개국"
+        }
+      ],
+      "alt": "미국 정부, 중국·인도 등 새로운 관세 부과 준비",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "조사 결과",
+          "d": "초과 공장 설비에 대한 조사를 마친 후 관세가 발표될 예정입니다 (로이터·월스트리트저널)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "중국·인도 등 16개국 대상 관세 부과 준비 (로이터·BBC·WSJ·타임스오브인디아)",
+        "공장 과잉 설비 조사 완료 (로이터)"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "구체적인 관세율 및 적용 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "Telegraph India",
+        "The Times of India",
+        "WSJ",
+        "2026.11.25 10:41 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 정부, 중국·인도 등 새로운 관세 부과 준비에 나섰습니다\n\n· 미국 행정부가 공장 과잉 설비에 대한 조사를 마친 뒤 글로벌 교역 상대국을 대상으로 관세를 발표할 예정입니다 (로이터·WSJ)\n· 인도와 중국을 포함해 16개국이 관세 타깃에 올랐습니다 (타임스오브인디아)\n\n출처: 로이터·BBC·월스트리트저널·타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 정부가 중국과 인도를 포함한 16개국에 새로운 관세 부과를 준비하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 공장 과잉 설비에 대한 조사를 마친 뒤 관세가 발표될 예정이라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 관세율과 적용 시기는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 이번 관세 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 [[중국·인도]] 등\n관세 폭탄을 준비한 이유는?",
+  "broll": [
+    "shipping containers port",
+    "stock exchange screen"
+  ],
+  "place_en": "Washington, D.C., United States"
+}

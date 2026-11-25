@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "spain_football_player_collision_death_2026",
-    "topic": "스페인 프로축구 선수 골키퍼와 충돌해 숨져",
-    "slug": "2026-11-04-news-spain-football-player-collision-death-2026",
-    "cluster": "CBMiZ0FVX3lxTFA2SHhuTTZrUGhadHU5N3ZndWtLQW9ZdF9kMVlhSXFzRjFWZTg2cWdJLWZfQ0VrSjRvWHI0cHpnVkowX1F3Z2pXS0MzSEloSEVVQjdpeGRIQkY0cjk3cXc2djMtSnFYd28",
-    "badge": "breaking",
-    "at": 1793754519.5829823,
-    "country": "스페인",
-    "category": "사고"
-  },
-  {
     "event_key": "us_georgia_governor_first_black_female_2026",
     "topic": "조지아 주지사에 바텀스 첫 흑인 여성 주지사",
     "slug": "2026-11-04-news-us-georgia-governor-first-black-female-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795570507.3873444,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "us_new_tariffs_global_trading_partners_2026",
+    "topic": "미국 정부, 중국·인도 등 새로운 관세 부과 준비",
+    "slug": "2026-11-25-news-us-new-tariffs-global-trading-partners-2026",
+    "cluster": "CBMi8wFBVV95cUxPZHNaT0gwbVVEN0tGTVN1ZlBjRzF6WjhqZTktajRDdTNDenZYN25EUjAyQ3V0NXBjQUxvYTk4MlJNZkNnYVFXdk4tbFdINDM3SEtMUTl4UV9SZFdPaHdOVEpRMFEzWGd3c3JaWkFNdXgzOGFYYXhVQ0tMQURVbWlTbmFfa1YydGdtQUgweVZtelhRQ0JjSlB3SWpvUzdpQkx5Zkl4M1VOSTZjc2JhN0lGMXpfeTktT3BjZnlMTU9UX0FGNk1VYTU4OHJTdVN1LXdXTDdlM0dydVQ0VVVRLVV1M3NoY3UyWUVCdkhvMVlNNEJaNmfSAfgBQVVfeXFMTk1SNHFzdEZDSHBvRjdiYVNMT3NBbHFrQTEydXI3V1o4eFJiaWtkSWZFbE5xQkxvUGFHclB3WEJyMUtTNkFDUExyaEZyR0hqNDhLUG13c0I1ZFhNUFhETmdUdVQ1SlAwRk5nV1M4akZ3cTVzVWxmTmVpeE92emFaNGNUaVJ5UjZya2w4RE5oUEF5VnJFWGk0Q2NzSlc3Nm9mV2dOVnFWTm9MZHFOd1hOZ2tuN2xSRDB4a1hBcWprb1JuekZWampLNV93bmNiN1NoWnpBc0FDNUY4Y05CaGRqME1GZzR6ZWJpdHg2cGtUdW9Kc3dubUZRTEg",
+    "badge": "breaking",
+    "at": 1795570916.0046368,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
