@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "turkey_mass_shooting_2026",
-    "topic": "튀르키예 총격 사건 8명 사망",
-    "slug": "2026-11-06-news-turkey-mass-shooting-2026",
-    "cluster": "CBMiXkFVX3lxTE1HVnJzZ0xLNVBtN1RLQ0ctZGQ1XzNWTG0wTlA3NktPOFJuV2FZM2w1UTVLbzBGNVk5RHlQRE52OGh5LWpfUVE1ZFBXbGFVRl9IVVNTcFl1ZC1PTk9HZGc",
-    "badge": "breaking",
-    "at": 1793909291.7809677,
-    "country": "튀르키예",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "europe_flight_hoax_bomb_threats_2026",
     "topic": "유럽 항공기 25편 이상 폭탄 위협에 회항",
     "slug": "2026-11-06-news-europe-flight-hoax-bomb-threats-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795709290.86639,
     "country": "콩고민주공화국",
     "category": "재난"
+  },
+  {
+    "event_key": "spain_pablo_hernandez_de_cos_ecb_president_2026",
+    "topic": "유럽중앙은행 차기 총재에 파블로 에르난데스 데 코스 지명",
+    "slug": "2026-11-26-news-spain-pablo-hernandez-de-cos-ecb-president-2026",
+    "cluster": "CBMifkFVX3lxTE0wbFZhU2RTR2lzYXhWdFpyZmFnSmJ4TW1DYXJiVmJaaE9NVGROMEhEajM2TzNlTjRrbTZFSlpxQ0gxa2FXbk9CV3ZMTTl0SVdOZHNDa3hPMEp2SkRYTzZobGxmOG0wX0tVa3drckwwV29xUUs1bWRIVlhFVXVlQdIBgwFBVV95cUxNYzRrZDU0VWpsdFBpTEt6b1dnd2paU1pSOG5hdTljQi1yZkZBdU5SVTgzeGQxNVFPS3pLUWw0SXUzVEJVSFBzZVZnc09mcEhYbVQ5ZWMzX3NwajRnMERfSTBGR2pkX2s5MzNHdGZXd3VZbTI0MlNieUMwZmd6OEdRSURlTQ",
+    "badge": "breaking",
+    "at": 1795713024.4660714,
+    "country": "독일",
+    "category": "경제·과학"
   }
 ]

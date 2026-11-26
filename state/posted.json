@@ -50812,5 +50812,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795709901
+  },
+  {
+    "slug": "2026-11-26-news-spain-pablo-hernandez-de-cos-ecb-president-2026",
+    "event_ms": 1795702844000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 유럽중앙은행 차기 총재에 파블로 에르난데스 데 코스 지명\n\n· 유럽중앙은행 사상 최초로 스페인 출신 인물이 수장 자리에 오르게 됐습니다 (블룸버그·CNBC)\n· 크리스틴 라가르드 총재의 뒤를 이어 유럽 경제를 이끌 새로운 팀이 꾸려지고 있습니다 (뉴욕타임스·로이터)\n\n이번 유럽중앙은행 수장 교체가 글로벌 경제에 어떤 영향을 미칠 것으로 보십니까?\n\n출처: 블룸버그·CNBC·로이터·뉴욕타임스·CNN 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "독일"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18250090468312976",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgNnGNXoBLG",
+        "kind": "carousel",
+        "at": 1795713078
+      },
+      "instagram": {
+        "id": "18147652933611969",
+        "permalink": "https://www.instagram.com/reel/DgNnWxnB2S7/",
+        "kind": "reel",
+        "at": 1795713232
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1795713243
+      },
+      "tiktok": {
+        "id": "7712529676375198997",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712529676375198997",
+        "kind": "video",
+        "at": 1795713365
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795713375
   }
 ]
