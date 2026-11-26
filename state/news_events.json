@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "severance_hospital_doctor_attack_2026",
-    "topic": "세브란스 진료실서 흉기 난동 의사 피습 사건 발생",
-    "slug": "2026-11-05-news-severance-hospital-doctor-attack-2026",
-    "cluster": "CBMid0FVX3lxTFBWLVA4TllpOVdYd19LaUJGbFRSTXZUaHpXNy10WFFLdWMxM3hIck1xdGMwc2FiTXRqMzItWFZhUjg0VlpjcHhKQldRV0E3ZndVQ3FGYXFmcnFSWE12UEV2Y3AzdnlLRFppUlpPYzVfLXZnRHdKWUNz0gF3QVVfeXFMUGZfUThwTVBGWmdMOWZGZmRub3hJb2JXNXR1djBvUHAxWkx5dUNVb3ExZHhvR1NEeWdtSTRuNWxsamlyZFg4OGhBZkJjYzVHT2Iwd1lvYXdmbUlZM1dnUFVmc3F2TjNTZEF6Rm40d04wSlhvLWRweU0",
-    "badge": "breaking",
-    "at": 1793862405.3944206,
-    "country": "대한민국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "germany_bavaria_deputy_premier_found_dead_2026",
     "topic": "독일 바이에른 부총리 호텔서 숨진 채 발견",
     "slug": "2026-11-05-news-germany-bavaria-deputy-premier-found-dead-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795666144.2834435,
     "country": "북한",
     "category": "국제"
+  },
+  {
+    "event_key": "incheon_namdong_factory_fire_2026",
+    "topic": "인천 남동산단 공장에서 화재 소방관 104명 투입 진압 중",
+    "slug": "2026-11-26-news-incheon-namdong-factory-fire-2026",
+    "cluster": "CBMid0FVX3lxTE1zNHZYV3IyXzgyaFZJZDBJa21DZWlJRXVGUk1JVll6TzFHN0laUzdIaWgwQlVDVWJ6a0V1RDFWUENMc2VsZHNsYnZYMFB0b2toN3lUbTQwdXVYY3VPSGUxc3dlSFdndFhWQWw1ZVVvWkt0MGt6d09j0gF3QVVfeXFMTThBT3hXV2ZkRVFBQXJfb1NwWUxUcUcyRzRsVlV6MUdZMFg2aFJ0ZHZEVENyWmo3T0VFanlqVnc1Y05kY0EzallBZTAtdVNRUHBQbHJMTUVzMU5OQ1k5OUp4LWdtQmVQaElyN3hOMVZrN1lReUJISGc",
+    "badge": "breaking",
+    "at": 1795669671.5462666,
+    "country": "대한민국",
+    "category": "폭발·화재"
   }
 ]

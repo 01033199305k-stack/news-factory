@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-26-news-incheon-namdong-factory-fire-2026",
+  "topic": "인천 남동산단 공장에서 화재 소방관 104명 투입 진압 중",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 13:35 KST",
+  "source": "Chosunbiz·KBS 뉴스·MBC 뉴스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE1zNHZYV3IyXzgyaFZJZDBJa21DZWlJRXVGUk1JVll6TzFHN0laUzdIaWgwQlVDVWJ6a0V1RDFWUENMc2VsZHNsYnZYMFB0b2toN3lUbTQwdXVYY3VPSGUxc3dlSFdndFhWQWw1ZVVvWkt0MGt6d09j0gF3QVVfeXFMTThBT3hXV2ZkRVFBQXJfb1NwWUxUcUcyRzRsVlV6MUdZMFg2aFJ0ZHZEVENyWmo3T0VFanlqVnc1Y05kY0EzallBZTAtdVNRUHBQbHJMTUVzMU5OQ1k5OUp4LWdtQmVQaElyN3hOMVZrN1lReUJISGc",
+    "related": [
+      [
+        "인천 남동구 공장서 불‥소방 진화 중",
+        "MBC 뉴스"
+      ],
+      [
+        "인천 남동구 공장서 불…소방당국 진화 중",
+        "KBS 뉴스"
+      ],
+      [
+        "[속보] 인천 남동공단 공장 화재··· 남동구, 주민 대피·차량 우회 안내",
+        "인천투데이"
+      ],
+      [
+        "인천 남동산단 공장서 불…“소방관 104명·장비 50대 투입해 진압 중”",
+        "경기일보"
+      ],
+      [
+        "인천 남동산단서 불…소방당국 진화 중",
+        "Chosunbiz"
+      ]
+    ],
+    "event_key": "incheon_namdong_factory_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인천 남동산단 공장에서 화재\n소방관 [[104명]] 투입 진압 중",
+      "sub": "남동구청, 주민 대피 및 차량 우회 안내 문자 발송",
+      "chips": [
+        {
+          "k": "소방대응",
+          "v": "인력 104명"
+        },
+        {
+          "k": "대응장비",
+          "v": "50대"
+        }
+      ],
+      "alt": "인천 남동산단 공장에서 화재 소방관 104명 투입 진압 중",
+      "map": {
+        "lat": 37.456,
+        "lon": 126.7052,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n인천 남동구",
+      "video_only": true,
+      "map": {
+        "lat": 37.456,
+        "lon": 126.7052,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "인천 남동구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "대피령 발령",
+          "d": "인천 남동구는 인근 주민 대피와 차량 우회를 안내하는 문자를 발송했습니다 (인천투데이)."
+        },
+        {
+          "t": "진화 작업",
+          "d": "소방당국은 소방관 104명과 장비 50대를 투입해 진압 중입니다 (경기일보)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인천 남동구 공장 화재 발생",
+        "소방관 104명 및 장비 50대 투입",
+        "주민 대피 및 차량 우회 안내"
+      ],
+      "unconfirmed": [
+        "화재 원인",
+        "정확한 재산 및 인명 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Chosunbiz",
+        "KBS 뉴스",
+        "MBC 뉴스",
+        "경기일보",
+        "인천투데이",
+        "2026.11.26 14:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인천 남동산단 공장에서 불이 나 소방당국이 진화 중입니다.\n\n· 인천 남동구, 주민 대피 및 차량 우회 안내 (인천투데이)\n· 소방관 104명과 장비 50대 투입 진압 중 (경기일보)\n\n출처: MBC 뉴스·KBS 뉴스·인천투데이·경기일보·Chosunbiz 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인천 남동구 공장에서 불이 나서 소방당국이 진화 중입니다.",
+      "card": "cover"
+    },
+    {
+      "text": "경기일보는 소방관 104명과 장비 50대가 투입됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "남동구청은 주민 대피와 차량 우회를 안내했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인과 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "인천 남동구 [[공장]]에서\n무슨 일이?",
+  "broll": [
+    "factory fire smoke",
+    "firefighters hose water"
+  ],
+  "place_en": "Incheon, South Korea"
+}
