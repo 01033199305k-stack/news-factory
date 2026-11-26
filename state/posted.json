@@ -50704,5 +50704,113 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795702548
+  },
+  {
+    "slug": "2026-11-26-news-iranian-drone-attack-kuwait-italians-2026",
+    "event_ms": 1795702465000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 쿠웨이트서 이란 공격으로 이탈리아인 2명 숨져\n\n· 쿠웨이트에서 이탈리아 라인메탈 소속 근로자 2명이 사망했다고 블룸버그 등이 전했습니다 (블룸버그)\n· 쿠웨이트 당국은 이란의 드론을 요격하는 과정에서 발생했다고 밝혔습니다 (알자지라)\n\n출처: CNN·Al Jazeera·WSJ·Reuters·Bloomberg 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "쿠웨이트"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17976816630179008",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgNf9qcFTRu",
+        "kind": "carousel",
+        "at": 1795709334
+      },
+      "instagram": {
+        "id": "17922826137533114",
+        "permalink": "https://www.instagram.com/reel/DgNgV4rM1KX/",
+        "kind": "reel",
+        "at": 1795709553
+      },
+      "youtube": {
+        "id": "DjkAUqHMexg",
+        "permalink": "https://youtube.com/shorts/DjkAUqHMexg",
+        "kind": "shorts",
+        "at": 1795709627
+      },
+      "tiktok": {
+        "id": "7712514174538026247",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712514174538026247",
+        "kind": "video",
+        "at": 1795709759
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795709769
+  },
+  {
+    "slug": "2026-11-26-news-congo-ebola-cases-exceed-12000-2026",
+    "event_ms": 1795700072000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 콩고 에볼라 확진 1만 2천 건…의료진 대피로 대응 비상\n\n· 콩고의 에볼라 누적 확진 사례가 1만 2천 건을 넘어섰습니다 (ABC뉴스·로이터)\n· 동부 지역의 폭력 사태로 대응 인력이 대피하면서 대응에 차질을 빚고 있습니다 (ABC뉴스·AP통신)\n\n출처: ABC News·AP News·Reuters 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "콩고민주공화국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18147834118610190",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgNgBjDlbS_",
+        "kind": "carousel",
+        "at": 1795709367
+      },
+      "instagram": {
+        "id": "18100733909658165",
+        "permalink": "https://www.instagram.com/reel/DgNgcI3BRbN/",
+        "kind": "reel",
+        "at": 1795709601
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1795709637
+      },
+      "tiktok": {
+        "id": "7712514702563364097",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712514702563364097",
+        "kind": "video",
+        "at": 1795709891
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795709901
   }
 ]

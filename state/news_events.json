@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "paraguay_president_resign_bank_collapse_2026",
-    "topic": "파라과이 대통령,  은행 붕괴로 사임",
-    "slug": "2026-11-06-news-paraguay-president-resign-bank-collapse-2026",
-    "cluster": "CBMigwFBVV95cUxOaVlqaXBtVmt2RkVpYU9PY3VtbTlEeWd0RWw1S3ZZQmp6MVV4TWNraGlMd3dqVHBrdWFWLTU2ZGFxcS1UR0VEQmNkcmVlSmFicm1aZkZCV29mNHgySUI2b2o1dElzb0hBckhLeDJFRlpLLXRKTkpIVmNGQ2xLSFgzb2hYVQ",
-    "badge": "breaking",
-    "at": 1793900750.940117,
-    "country": "파라과이",
-    "category": "국제"
-  },
-  {
-    "event_key": "california_death_penalty_commutation_2026",
-    "topic": "캘리포니아 주지사, 사형수 548명 감형",
-    "slug": "2026-11-06-news-california-death-penalty-commutation-2026",
-    "cluster": "CBMinAFBVV95cUxOaGNya1ZEYWJfUmVFNWs5Zk5laXk1TkluS1ZnQ3lrbUtZZWg0TGxpaVdPNUdxTjNJbkdNcWZFSXRiRWVQWGphVk8yQTNGWFlIR0M5VTU0STRqWE4wM1VCSXNhOFNOMmdpeXFkODBDdHpXWk83Z2xBS2ZxUnZvMzdhM3dKQmlkVjZWTTU0ZTN4ZmZqNW8ya0t5S21Va3Q",
-    "badge": "breaking",
-    "at": 1793909256.9482784,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "turkey_mass_shooting_2026",
     "topic": "튀르키예 총격 사건 8명 사망",
     "slug": "2026-11-06-news-turkey-mass-shooting-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795702184.8571775,
     "country": "노르웨이",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "iranian_drone_attack_kuwait_italians_2026",
+    "topic": "쿠웨이트서 이란 공격으로 이탈리아인 2명 숨져",
+    "slug": "2026-11-26-news-iranian-drone-attack-kuwait-italians-2026",
+    "cluster": "CBMijAFBVV95cUxQNUdlenhjamNKTzFaUG9EMVdzb0wwbmlNd1dYLU15Q2xDWDVuYVN6cWtrZlUyRTMxeGdKbVMzaXh0SXNRS1RGUUd1bnhIS3dtYXpLTi1BQkJjSm5SaUhWcENBTlRyZ2dlNEFnbUFOWkdxYlBYUC1sN2NUR0pDc2hDNjR3SF91ODVpOHRCUw",
+    "badge": "breaking",
+    "at": 1795709278.6180186,
+    "country": "쿠웨이트",
+    "category": "국제"
+  },
+  {
+    "event_key": "congo_ebola_cases_exceed_12000_2026",
+    "topic": "콩고 에볼라 확진 1만 2천 건 의료진 대피로 대응 비상",
+    "slug": "2026-11-26-news-congo-ebola-cases-exceed-12000-2026",
+    "cluster": "CBMipgFBVV95cUxNY3NZTFdoSVNxWWdjdmJZOXhZUVNOYVpPa3RaeEt3dm1pRWJPR1JOWGs2S0NYOEI4MWQwelIxZElqcVVPQ1A1UC14X0NnWmhaVEVYb2VkZ1BwSGVocHpEZ0ZCUjBpREtodXBQcmlYQXFnRTRremdnSHFCd09YWHNZajNSMWpPQ3FVNzlaN1JpNDluRDJyWTNqQWc4NFh5RWlxbEV1N0dB0gGrAUFVX3lxTE1NMzhhbVFkcTE5S3VBVFJLYXZKNGJYMzQ1OXZ6di00Y1ZQVHc2WVVkMWFBOG05cjMtTlFILUZTMDNhQ3pVY2RHT3lpaGhrTXNpSVV5a1Y3azNRQ1J5WjdlZ2liNEY4aGdYZkh3Q0xxcU9IVnY3S0dmUnR5V3VUbFF1LWc5M25wVHRUNVFvT1ZuVmlnY2JLd3J3TVNDYWc3dUpUd3dIdUhXZjQwNA",
+    "badge": "breaking",
+    "at": 1795709290.86639,
+    "country": "콩고민주공화국",
+    "category": "재난"
   }
 ]

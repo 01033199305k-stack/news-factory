@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-26-news-iranian-drone-attack-kuwait-italians-2026",
+  "topic": "쿠웨이트서 이란 공격으로 이탈리아인 2명 숨져",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 23:14 KST",
+  "source": "Al Jazeera·Bloomberg·CNN 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijAFBVV95cUxQNUdlenhjamNKTzFaUG9EMVdzb0wwbmlNd1dYLU15Q2xDWDVuYVN6cWtrZlUyRTMxeGdKbVMzaXh0SXNRS1RGUUd1bnhIS3dtYXpLTi1BQkJjSm5SaUhWcENBTlRyZ2dlNEFnbUFOWkdxYlBYUC1sN2NUR0pDc2hDNjR3SF91ODVpOHRCUw",
+    "related": [
+      [
+        "Iranian attack on Kuwait kills two Italians, Italy’s foreign minister says",
+        "CNN"
+      ],
+      [
+        "Iran war live: Kuwait says 2 killed as it intercepted Iranian drone",
+        "Al Jazeera"
+      ],
+      [
+        "Iranian Drone Attack Kills Two Italians in Kuwait",
+        "WSJ"
+      ],
+      [
+        "Two Italian workers killed in Iranian strike in Kuwait, source says",
+        "Reuters"
+      ],
+      [
+        "Iran Attack on Kuwait Kills Two Italian Rheinmetall Workers",
+        "Bloomberg"
+      ]
+    ],
+    "event_key": "iranian_drone_attack_kuwait_italians_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "쿠웨이트서 이란 공격으로\n[[이탈리아인 2명]] 숨져",
+      "sub": "이탈리아 외무장관이 쿠웨이트 피격 사실을 확인했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        },
+        {
+          "k": "국적",
+          "v": "이탈리아"
+        }
+      ],
+      "alt": "쿠웨이트서 이란 공격으로 이탈리아인 2명 숨져",
+      "map": {
+        "lat": 29.2733964,
+        "lon": 47.4979476,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "쿠웨이트"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "쿠웨이트",
+      "video_only": true,
+      "map": {
+        "lat": 29.2733964,
+        "lon": 47.4979476,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "쿠웨이트"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이탈리아인 사망",
+          "d": "쿠웨이트에서 이탈리아 라인메탈 소속 근로자 2명이 숨졌다고 블룸버그 등이 전했습니다."
+        },
+        {
+          "t": "이란 드론 요격",
+          "d": "쿠웨이트 당국은 이란의 드론을 요격하는 과정에서 발생했다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망자 2명 (CNN·Al Jazeera·WSJ·Reuters·Bloomberg)",
+        "이탈리아인 근로자 (CNN·WSJ·Bloomberg)",
+        "이란의 공격 (CNN·Al Jazeera·WSJ·Reuters·Bloomberg)"
+      ],
+      "unconfirmed": [
+        "정확한 피해 발생 경위",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg",
+        "CNN",
+        "Reuters",
+        "WSJ",
+        "2026.11.27 01:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 쿠웨이트서 이란 공격으로 이탈리아인 2명 숨져\n\n· 쿠웨이트에서 이탈리아 라인메탈 소속 근로자 2명이 사망했다고 블룸버그 등이 전했습니다 (블룸버그)\n· 쿠웨이트 당국은 이란의 드론을 요격하는 과정에서 발생했다고 밝혔습니다 (알자지라)\n\n출처: CNN·Al Jazeera·WSJ·Reuters·Bloomberg 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "쿠웨이트에서 이란의 공격으로 이탈리아인 2명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "블룸버그 통신은 라인메탈 소속 근로자들이 사망했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "쿠웨이트 당국은 이란의 드론을 요격하는 과정이었다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 발생 경위는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "쿠웨이트에서 일어난\n[[이탈리아인]] 피격",
+  "broll": [
+    "drone missile smoke",
+    "military radar screen"
+  ],
+  "place_en": "Kuwait"
+}
