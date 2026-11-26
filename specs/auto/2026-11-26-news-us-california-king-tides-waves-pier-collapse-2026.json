@@ -1,0 +1,134 @@
+{
+  "slug": "2026-11-26-news-us-california-king-tides-waves-pier-collapse-2026",
+  "topic": "미 캘리포니아 덮친 거대 파도 부두 무너지고 주택 침수",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 12:16 KST",
+  "source": "Yahoo News·KCRA·Los Angeles Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMioAFBVV95cUxPSVA4MkUxTmlMa3ZhR19JWkVoTWNyVGg1dFItbEpxUjczN09BZXN1ZlhZaVRvY0dMWmhURTlMamRlWkJ0bXJuRjRtX3B4cE1PYk9UQTRNMnQ0c2NJeEFfOVRuWXVvdkNxSUxneVF6OXRXbF9yWklwaDY5VTFWSFloR240bG5ia2djMzBwY2xzOEM1WllVZV9FTmVWaW5Xbzdv0gGoAUFVX3lxTE91ZTE1RXpDQ3g2Sm5wNnZUN2NnT3NISjl0QTFSbTlHajRHN205YlFNOTYtUHBVTVlISldWMDFtUlRzT1g3TU5hYWJsc2ExSjVyRTVFUUQ4NjZwZ3lSTlBfamlNcnhBazVFbDZOQ3JCd1ZVdmlySDlhZFp5WjNmZGl3dGNVblF5VVJsX1FUeV90cERGLVFUa3JtWWxsT2lfbjRmOHBCbkJDMA",
+    "related": [
+      [
+        "Bay Area weather recap: Flood cleanup underway after waves slam Pacifica",
+        "NBC Bay Area"
+      ],
+      [
+        "Pier collapses, seawalls breached, homes flooded as big waves, historic high tides hit California",
+        "Los Angeles Times"
+      ],
+      [
+        "Beach hazards statement for Northern California for Thursday and Friday – waves of 13 to 19 feet anticipated",
+        "The Mercury News"
+      ],
+      [
+        "King Tides Break Records in San Francisco Bay",
+        "Yahoo"
+      ],
+      [
+        "Watch: Part of Pacifica pier collapses during king tides",
+        "KCRA"
+      ]
+    ],
+    "event_key": "us_california_king_tides_waves_pier_collapse_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미 캘리포니아 덮친 [[거대 파도]]\n부두 무너지고 주택 침수",
+      "sub": "기록적인 고조 현상으로 방파제가 파손되며 주택이 침수됐습니다.",
+      "chips": [],
+      "alt": "미 캘리포니아 덮친 거대 파도 부두 무너지고 주택 침수",
+      "map": {
+        "lat": 37.5980374,
+        "lon": -122.4995234,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n캘리포니아",
+      "video_only": true,
+      "map": {
+        "lat": 37.5980374,
+        "lon": -122.4995234,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "캘리포니아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "퍼시피카 부두 일부 붕괴",
+          "d": "퍼시피카 해안에서는 거대한 파도의 충격으로 부두 일부가 무너졌습니다 (LA 타임스)."
+        },
+        {
+          "t": "방파제 뚫려 주택 침수",
+          "d": "고조 현상이 겹치면서 방파제가 파손돼 주택들이 침수됐습니다 (LA 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "퍼시피카 부두 일부 붕괴",
+        "방파제 파손 및 주택 침수"
+      ],
+      "unconfirmed": [
+        "정확한 재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KCRA",
+        "Los Angeles Times",
+        "NBC Bay Area",
+        "The Mercury News",
+        "Yahoo",
+        "2026.11.26 18:23 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 캘리포니아 해안에 대형 파도가 덮쳐 부두 일부가 무너졌습니다.\n\n· 퍼시피카 부두 일부가 거대한 파도 충격으로 붕괴됐습니다 (LA 타임스).\n· 고조 현상으로 방파제가 파손되며 주택 침수 피해가 발생했습니다 (LA 타임스).\n· 북부 캘리포니아에 대형 파도 관련 경보가 발령됐습니다 (머큐리 뉴스).\n\n출처: LA 타임스·NBC·머큐리 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 캘리포니아 해안에 대형 파도가 덮쳐 부두가 무너졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "캘리포니아 퍼시피카 해안에서는 높은 파도로 부두 일부가 붕괴됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "방파제까지 파손되면서 주택 침수 피해가 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 재산 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[미 캘리포니아]] 해안서\n무슨 일이?",
+  "broll": [
+    "ocean waves coast",
+    "storm ocean pier"
+  ],
+  "place_en": "Pacifica, California"
+}

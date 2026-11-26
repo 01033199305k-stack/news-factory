@@ -50492,5 +50492,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795673587
+  },
+  {
+    "slug": "2026-11-26-news-us-california-king-tides-waves-pier-collapse-2026",
+    "event_ms": 1795685046012,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 미국 캘리포니아 해안에 대형 파도가 덮쳐 부두 일부가 무너졌습니다.\n\n· 퍼시피카 부두 일부가 거대한 파도 충격으로 붕괴됐습니다 (LA 타임스).\n· 고조 현상으로 방파제가 파손되며 주택 침수 피해가 발생했습니다 (LA 타임스).\n· 북부 캘리포니아에 대형 파도 관련 경보가 발령됐습니다 (머큐리 뉴스).\n\n출처: LA 타임스·NBC·머큐리 뉴스 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "재난",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18080445842448364",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgMxun9EXNz",
+        "kind": "carousel",
+        "at": 1795685095
+      },
+      "instagram": {
+        "id": "18080918912425982",
+        "permalink": "https://www.instagram.com/reel/DgMyAIXysDE/",
+        "kind": "reel",
+        "at": 1795685255
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1795685265
+      },
+      "tiktok": {
+        "id": "7712409522295311637",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712409522295311637",
+        "kind": "video",
+        "at": 1795685387
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795685397
   }
 ]

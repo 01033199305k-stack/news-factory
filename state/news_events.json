@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "hong_kong_activist_joshua_wong_jailed",
-    "topic": "홍콩 민주화 운동가 조슈아 웡, 10년형 선고받아",
-    "slug": "2026-11-05-news-hong-kong-activist-joshua-wong-jailed",
-    "cluster": "CBMiswFBVV95cUxOSUxuQWNOcG0tQnFvb0tQTDlNWnNsMTdENkdOWkVaREYzOEpvSXZaRVBPcE9scFppY285WXJud1F1REg0dnhpYjlCWTV3MjVjOUdSV2JjOVYtRmFfTktJMjJBdHNiaFZkUU5OTFFPYVBsODF2ZjhjYUhRbC03R0RtTGdfMjE2MVQ4amYxQWVKaWFJbWtEd3FTWGJFWURQd3pUM2plLTIzZ21wejU3VF9vRFhfOA",
-    "badge": "brief",
-    "at": 1793891399.2653975,
-    "country": "중국",
-    "category": "국제"
-  },
-  {
     "event_key": "brooklyn_sunset_park_fire_six_dead_2026",
     "topic": "브루클린 화재 주민 6명 숨져",
     "slug": "2026-11-06-news-brooklyn-sunset-park-fire-six-dead-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795673236.2033358,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_california_king_tides_waves_pier_collapse_2026",
+    "topic": "미 캘리포니아 덮친 거대 파도 부두 무너지고 주택 침수",
+    "slug": "2026-11-26-news-us-california-king-tides-waves-pier-collapse-2026",
+    "cluster": "CBMioAFBVV95cUxPSVA4MkUxTmlMa3ZhR19JWkVoTWNyVGg1dFItbEpxUjczN09BZXN1ZlhZaVRvY0dMWmhURTlMamRlWkJ0bXJuRjRtX3B4cE1PYk9UQTRNMnQ0c2NJeEFfOVRuWXVvdkNxSUxneVF6OXRXbF9yWklwaDY5VTFWSFloR240bG5ia2djMzBwY2xzOEM1WllVZV9FTmVWaW5Xbzdv0gGoAUFVX3lxTE91ZTE1RXpDQ3g2Sm5wNnZUN2NnT3NISjl0QTFSbTlHajRHN205YlFNOTYtUHBVTVlISldWMDFtUlRzT1g3TU5hYWJsc2ExSjVyRTVFUUQ4NjZwZ3lSTlBfamlNcnhBazVFbDZOQ3JCd1ZVdmlySDlhZFp5WjNmZGl3dGNVblF5VVJsX1FUeV90cERGLVFUa3JtWWxsT2lfbjRmOHBCbkJDMA",
+    "badge": "brief",
+    "at": 1795685046.0121033,
+    "country": "미국",
+    "category": "재난"
   }
 ]
