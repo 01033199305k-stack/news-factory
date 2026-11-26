@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "korea_highway_soundproof_accident_2026",
-    "topic": "고속도로 방음벽 덮쳐, 6명 부상",
-    "slug": "2026-11-06-news-korea-highway-soundproof-accident-2026",
-    "cluster": "CBMiZkFVX3lxTE5XTjFHTlB6d3RaVzQtajdsR1E5bGZzOE9yNXV1X2RkdWhCZERrQ2plYmJYT0lRUDFGcl9waElwTG9uR29kMnk3ZVowZjZaOUw3NVQybG92d1gtbWJtSm9RYU9LVVpiZw",
-    "badge": "breaking",
-    "at": 1793918691.4797502,
-    "country": "대한민국",
-    "category": "사고"
-  },
-  {
     "event_key": "us_senate_election_results_2026",
     "topic": "미 상원 선거서 민주당 승리",
     "slug": "2026-11-06-news-us-senate-election-results-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795723692.3468843,
     "country": "북한",
     "category": "국제"
+  },
+  {
+    "event_key": "saudi_oil_facility_strike_2026",
+    "topic": "사우디 정유시설 피격으로 1명 사망 원유 공급 불안에 유가 급등",
+    "slug": "2026-11-27-news-saudi-oil-facility-strike-2026",
+    "cluster": "CBMiZ0FVX3lxTE1tS2FXVG02amdWMURQN1g3eV9WVDA3UFg5R2F2UWd1ZmZoWGVLZFRyRFA0MXNRbTFjMU8xb08zNTF6MHh2TVRIdUR0QThsT3ZtZHIyc2g2cVVNZ3BpR1dyR3JZQWRFMWM",
+    "badge": "breaking",
+    "at": 1795730798.959505,
+    "country": "사우디아라비아",
+    "category": "경제·과학"
   }
 ]
