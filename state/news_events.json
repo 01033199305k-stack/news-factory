@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "europe_flight_hoax_bomb_threats_2026",
-    "topic": "유럽 항공기 25편 이상 폭탄 위협에 회항",
-    "slug": "2026-11-06-news-europe-flight-hoax-bomb-threats-2026",
-    "cluster": "CBMiXkFVX3lxTE1vSzJhcEUwc0IxejBWV3kzYkRTNXlfN0tOM0NaLW82YmhGazB6YVhOZnZhRmZiRXhOb1RGSGFJbEVISUlYY0dpNUJrZkRNMEh4QXhzaU02TWVCcmVDU1E",
-    "badge": "breaking",
-    "at": 1793916605.0844936,
-    "country": "유럽",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "korea_highway_soundproof_accident_2026",
     "topic": "고속도로 방음벽 덮쳐, 6명 부상",
     "slug": "2026-11-06-news-korea-highway-soundproof-accident-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795713024.4660714,
     "country": "독일",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "north_korea_halts_missile_shipments_russia_2026",
+    "topic": "우크라이나 정보당국 발표 북한, 러시아행 미사일 일시 중단",
+    "slug": "2026-11-27-news-north-korea-halts-missile-shipments-russia-2026",
+    "cluster": "CBMigwFBVV95cUxQUEM2R0dja3hJVDdrQzVtTk1iWmtXUU9rNlRkSldEcXlIWERsMDZBMGNNYkY2ZkdyN0xZWWpyU01GQWFIMVl6OUR2Z3drdTBucEJRLXQ5MWo0TUpMQXRTOGJqXzMwNVNaOUFRTWl3WkdOLUtmMEtZRlJiQkZfYm9WY3dsOA",
+    "badge": "breaking",
+    "at": 1795723692.3468843,
+    "country": "북한",
+    "category": "국제"
   }
 ]

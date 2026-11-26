@@ -1,0 +1,136 @@
+{
+  "slug": "2026-11-27-news-north-korea-halts-missile-shipments-russia-2026",
+  "topic": "우크라이나 정보당국 발표 북한, 러시아행 미사일 일시 중단",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.27 02:16 KST",
+  "source": "Reuters·The Daily Beast·The Kyiv Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMigwFBVV95cUxQUEM2R0dja3hJVDdrQzVtTk1iWmtXUU9rNlRkSldEcXlIWERsMDZBMGNNYkY2ZkdyN0xZWWpyU01GQWFIMVl6OUR2Z3drdTBucEJRLXQ5MWo0TUpMQXRTOGJqXzMwNVNaOUFRTWl3WkdOLUtmMEtZRlJiQkZfYm9WY3dsOA",
+    "related": [
+      [
+        "Humiliated Putin Gets Abandoned by His Evil BFF",
+        "The Daily Beast"
+      ],
+      [
+        "Ukraine says North Korea temporarily halted missile shipments to ally Russia",
+        "Reuters"
+      ],
+      [
+        "North Korea pauses deliveries of ballistic missiles and artillery ammunition to Russia",
+        "Українська правда"
+      ],
+      [
+        "North Korea pauses military aid to Russia, Ukrainian intelligence says",
+        "The Kyiv Independent"
+      ],
+      [
+        "Moscow Offers to Mediate Korean Tensions—Kim Jong Un Responds by Freezing KN-23 Ballistic Missile Deliveries",
+        "UNITED24 Media"
+      ]
+    ],
+    "event_key": "north_korea_halts_missile_shipments_russia_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나 정보당국 발표\n북한, 러시아행 [[미사일]] 일시 중단",
+      "sub": "탄도미사일과 포탄 전달 멈춰",
+      "chips": [],
+      "alt": "우크라이나 정보당국 발표 북한, 러시아행 미사일 일시 중단",
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "북한"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "북한\n평양",
+      "video_only": true,
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "평양"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "지원 일시 중단",
+          "d": "우크라이나 정보당국은 북한이 러시아에 대한 탄도미사일과 포탄 선적을 일시 중단했다고 밝혔습니다 (로이터·키이우 인디펜던트)."
+        },
+        {
+          "t": "러시아의 중재 제안",
+          "d": "모스크바 측은 한국 긴장 상황의 중재를 제안했습니다 (유나이티드24 미디어)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "북한의 미사일·포탄 선적 일시 중단",
+        "우크라이나 정보당국 발표"
+      ],
+      "unconfirmed": [
+        "중단 배경과 향후 재개 여부",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Reuters",
+        "The Daily Beast",
+        "The Kyiv Independent",
+        "UNITED24 Media",
+        "Українська правда",
+        "2026.11.27 05:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나 정보당국 발표 북한, 러시아행 미사일 일시 중단\n\n· 우크라이나 정보당국은 북한이 러시아에 대한 탄도미사일과 포탄 선적을 일시 중단했다고 밝혔습니다 (로이터·키이우 인디펜던트)\n· 모스크바 측은 한국 긴장 상황의 중재를 제안했습니다 (유나이티드24 미디어)\n\n여러분은 이번 북한의 움직임, 어떻게 보십니까?\n\n출처: 로이터·키이우 인디펜던트·유나이티드24 미디어 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 정보당국은 북한이 러시아에 대한 미사일과 포탄 선적을 일시 중단했다고 밝혔습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "모스크바 측은 한국 긴장 상황의 중재를 제안했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "중단 배경과 향후 재개 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 북한의 움직임, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "북한이 러시아로 보내던\n[[무기]]를 멈춘 이유는?",
+  "broll": [
+    "military missile warehouse",
+    "snowy landscape road"
+  ],
+  "place_en": "Pyongyang, North Korea"
+}
