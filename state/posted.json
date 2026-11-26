@@ -50545,5 +50545,111 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795685397
+  },
+  {
+    "slug": "2026-11-26-news-bangkok-oil-facility-explosion-2026",
+    "event_ms": 1795685145000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 태국 방콕 내 주요 석유 저장 시설에서 대규모 폭발과 화재 발생 (Al Jazeera·The Hindu 보도 종합)\n\n· 폭발 이후 검은 연기가 치솟으며 인근 주민들에게 대피 명령이 내려졌습니다 (NDTV·Indian Express)\n· 운영사인 방착 코퍼레이션은 모든 생산 시설의 가동을 중단했다고 밝혔습니다 (The Hindu)\n· 이번 사고로 여러 명의 부상자가 발생했습니다 (The Hindu)\n\n출처: Al Jazeera·The Hindu·NDTV·Indian Express·Times of India 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "태국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18155520766556248",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgM3u08ETRR",
+        "kind": "carousel",
+        "at": 1795688242
+      },
+      "instagram": {
+        "id": "18183150574445058",
+        "permalink": "https://www.instagram.com/reel/DgM4VwAKCzd/",
+        "kind": "reel",
+        "at": 1795688585
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1795688638
+      },
+      "tiktok": {
+        "id": "7712423991398419732",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712423991398419732",
+        "kind": "video",
+        "at": 1795688761
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795688771
+  },
+  {
+    "slug": "2026-11-26-news-indonesia-mine-flood-2026",
+    "event_ms": 1795678284000,
+    "category": "재난",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 인도네시아 서부 자바 불법 금광서 침수 사고로 최소 9명 사망 (BBC·Xinhua 보도 종합)\n\n· 침수 사고가 발생하면서 작업자 수십 명이 고립되었습니다 (Al Jazeera·The Hindu)\n· 구조 당국은 현재 수색 작업을 이어가고 있습니다 (BBC)\n\n출처: BBC·Al Jazeera·Xinhua·The Hindu 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "재난",
+      "인도네시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18006080454043053",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgM3y_AkWym",
+        "kind": "carousel",
+        "at": 1795688278
+      },
+      "instagram": {
+        "id": "17894616177457697",
+        "permalink": "https://www.instagram.com/reel/DgM4bpxheZY/",
+        "kind": "reel",
+        "at": 1795688628
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (재난)",
+        "at": 1795688638
+      },
+      "tiktok": {
+        "id": "7712424567217671445",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712424567217671445",
+        "kind": "video",
+        "at": 1795688893
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795688903
   }
 ]

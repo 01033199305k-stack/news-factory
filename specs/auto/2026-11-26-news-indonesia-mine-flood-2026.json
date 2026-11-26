@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-26-news-indonesia-mine-flood-2026",
+  "topic": "인니 불법 금광서 침수 사고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 16:31 KST",
+  "source": "Al Jazeera·BBC·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTFBaQkl0UXBneHNlcGtoQlJLdjM4T3VYQUxxbFJXWERXeWJHZHgzNWc2VXkzQzFwb3JxQ1JvN0pjVlB0MUlJNEtTc2xMX2dzd2J5SVlrOHhPemlGXzA",
+    "related": [
+      [
+        "Indonesia: Deadly mine disaster highlights illegal hunt for gold",
+        "BBC"
+      ],
+      [
+        "Indonesian rescuers searching for possibly ‘dozens’ trapped in mine",
+        "The Hindu"
+      ],
+      [
+        "Rescuers search for dozens trapped in flooded Indonesia gold mine",
+        "Al Jazeera"
+      ],
+      [
+        "9 found dead in mine in Indonesia's West Java, 17 still missing",
+        "Xinhua"
+      ],
+      [
+        "3 dead, 23 trapped after flood hits illegal gold mine in Indonesia",
+        "The Times of India"
+      ]
+    ],
+    "event_key": "indonesia_mine_flood_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인니 불법 금광서\n[[침수]] 사고",
+      "sub": "서부 자바주 광산 침수로 최소 9명 사망, 수십 명 고립 추정",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "9명"
+        }
+      ],
+      "alt": "인니 불법 금광서 침수 사고",
+      "map": {
+        "lat": -6.8891904,
+        "lon": 107.6404716,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "인도네시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "인도네시아\n서부 자바",
+      "video_only": true,
+      "map": {
+        "lat": -6.8891904,
+        "lon": 107.6404716,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "서부 자바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 상황",
+          "d": "인도네시아 서부 자바의 불법 금광에서 침수 사고가 발생했습니다(BBC·Al Jazeera)."
+        },
+        {
+          "t": "인명 피해",
+          "d": "현재까지 9명이 숨진 채 발견되었으며, 수십 명이 고립된 것으로 보입니다(Xinhua·The Hindu)."
+        },
+        {
+          "t": "구조 작업",
+          "d": "구조대가 실종자를 수색 중입니다(The Hindu)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망자 9명",
+        "서부 자바 불법 금광 침수",
+        "수색 작업 진행 중"
+      ],
+      "unconfirmed": [
+        "정확한 고립 인원"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "BBC",
+        "The Hindu",
+        "The Times of India",
+        "Xinhua",
+        "2026.11.26 19:16 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인도네시아 서부 자바 불법 금광서 침수 사고로 최소 9명 사망 (BBC·Xinhua 보도 종합)\n\n· 침수 사고가 발생하면서 작업자 수십 명이 고립되었습니다 (Al Jazeera·The Hindu)\n· 구조 당국은 현재 수색 작업을 이어가고 있습니다 (BBC)\n\n출처: BBC·Al Jazeera·Xinhua·The Hindu 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인도네시아 서부 자바주의 금광에서 침수 사고가 발생해 9명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "BBC는 불법으로 운영되던 해당 광산에 침수가 발생하며 작업자 수십 명이 고립됐다고 보도했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "현재 구조대가 투입돼 실종자를 찾고 있습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 고립 인원은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "인니 [[금광]]서\n무슨 일이?",
+  "broll": [
+    "mine cave",
+    "flood rescue"
+  ],
+  "place_en": "West Java, Indonesia"
+}

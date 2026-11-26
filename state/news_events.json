@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "brooklyn_sunset_park_fire_six_dead_2026",
-    "topic": "브루클린 화재 주민 6명 숨져",
-    "slug": "2026-11-06-news-brooklyn-sunset-park-fire-six-dead-2026",
-    "cluster": "CBMiW0FVX3lxTFBham1aLUc0bkx5SGJRcnNkek83WFFTV2kzOUI0ZDA3aWRxZHNDUE1veHpYRmpmbkV6eVlDaGRKZzE5Ty01VHBnTklGWklMU0tEU1lyX0hUamFOcFk",
-    "badge": "breaking",
-    "at": 1793894853.3103697,
-    "country": "미국",
-    "category": "폭발·화재"
-  },
-  {
-    "event_key": "us_nasdaq_falls_three_percent_correction_2026",
-    "topic": "미 나스닥 3% 급락 AI주 우려",
-    "slug": "2026-11-05-news-us-nasdaq-falls-three-percent-correction-2026",
-    "cluster": "CBMizAFBVV95cUxNN1BQQmJLMC1jZnlVQi1QcVV2ZUdzZFVCU0lrdnRvMWl2b2FySnNrZWt0WFpnNS1CYjdkTGNvbzc5Z2JqMGlxN3NQS01RTnJzWjlxUW8tc2RBLUFRZzdfUUJGbkFWNGdobEM1MWlWcENPWlQycUhMWUhWbG45SUFVcFpTcWlVb0VTeGN0VnZianFmeUZJYmhEdU5NazYzWjBtVVJGTndUazFlMkVfbmtFUXYybkxSc0NsYUFfYTkyem5PLXlRQXRyblAyT1k",
-    "badge": "breaking",
-    "at": 1793895033.8859348,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "indonesia_president_wiretap_scandal_2026",
     "topic": "인도네시아 도청 파문 대통령 도청 혐의 참모장 해임",
     "slug": "2026-11-06-news-indonesia-president-wiretap-scandal-2026",
@@ -2997,6 +2977,26 @@
     "badge": "brief",
     "at": 1795685046.0121033,
     "country": "미국",
+    "category": "재난"
+  },
+  {
+    "event_key": "bangkok_oil_facility_explosion_2026",
+    "topic": "방콕 석유 시설서 거대한 폭발",
+    "slug": "2026-11-26-news-bangkok-oil-facility-explosion-2026",
+    "cluster": "CBMizgFBVV95cUxNZEhBX0lVWUVDeERWSUl3RW1pVTlGM3BubXJ3ZzhYU0RLUEZ0NEdLb0ZuQWExZ1ZNZ2lPdHVMMFgtNGdvazY4LUxwWkNoMXhST0VXaDMtaVlsenRrbnpabGN1a0JMdnFGZjZiaXp2d1BTMUxuV0NwcWk1cjZrX2JUamxuWDJkSy1ITG5oUldmakdhajNyeG5vVWJJaktKMmVsc1BWQjMyTEV0dVlMNjF5Sk44YmhUd3FKTHRDYktlYm9vaXNUX0hhc3pYU1lpd9IB1AFBVV95cUxPdkpRdV9oNTZScjdwYW1RZ2JOR2UyWWtmYTlMZmQ4MjVXVVlhb3NiWlpsNEZZRVl2cjRlejR0cVpvMGs2ZUpSWU1tTEZxbDZ5Q184RWs0Q2RsSU1lcG9xc0M0ODlKeFprLWFhTFEtZXJmLTg3dUxzUjZNSmpYWGpwZDk1QnVWNlUzelNSZTlfdURQdGt0ODVFSzl5MU5FeDlEYlUzaHQtNDJoSnVrdnJOUFUzdTV6RnBONmRoTlFTcG90R1dHYXQzNUNqdzB5cGU2YmFvUQ",
+    "badge": "breaking",
+    "at": 1795688087.001479,
+    "country": "태국",
+    "category": "폭발·화재"
+  },
+  {
+    "event_key": "indonesia_mine_flood_2026",
+    "topic": "인니 불법 금광서 침수 사고",
+    "slug": "2026-11-26-news-indonesia-mine-flood-2026",
+    "cluster": "CBMiW0FVX3lxTFBaQkl0UXBneHNlcGtoQlJLdjM4T3VYQUxxbFJXWERXeWJHZHgzNWc2VXkzQzFwb3JxQ1JvN0pjVlB0MUlJNEtTc2xMX2dzd2J5SVlrOHhPemlGXzA",
+    "badge": "breaking",
+    "at": 1795688193.058031,
+    "country": "인도네시아",
     "category": "재난"
   }
 ]
