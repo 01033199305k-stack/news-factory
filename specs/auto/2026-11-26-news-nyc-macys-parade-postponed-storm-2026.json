@@ -1,0 +1,135 @@
+{
+  "slug": "2026-11-26-news-nyc-macys-parade-postponed-storm-2026",
+  "topic": "뉴욕시 폭풍우 예보로 메이시스 퍼레이드 연기",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 10:23 KST",
+  "source": "CNN·The New York Times·USA Today 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMijAFBVV95cUxNaVZHYnZSbkwwSnZWekxkalE1algzbkVPTlY1bWF2dkd6dzcwRDdwUDNSZGtsa3hLQ2t3STV1RHVKdXgyNEFhckthRDkzdnl2amZZZk93NmVfVXhVSTJXN2xLYkQzZWRYYnEyM1psQ2pzSC1mWm9LZml1dENlZlVibW8wUHloVlloTEctcQ",
+    "related": [
+      [
+        "Live Updates: Macy’s Thanksgiving Day Parade Postponed as NYC Faces Storm",
+        "The New York Times"
+      ],
+      [
+        "Macy's Thanksgiving Day Parade postponed to Saturday as severe storm nears NYC",
+        "ABC7 New York"
+      ],
+      [
+        "'Help the band stay': Macy’s parade hopefuls scramble to stay afloat in NYC",
+        "USA Today"
+      ],
+      [
+        "Thanksgiving weather live updates: Travel disruption expected as storms and flooding forecast",
+        "CNN"
+      ],
+      [
+        "Macy's 100th annual Thanksgiving Day Parade postponed due to weather forecast",
+        "KOMO"
+      ]
+    ],
+    "event_key": "nyc_macys_parade_postponed_storm_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "뉴욕시 폭풍우 예보로\n[[메이시스 퍼레이드]] 연기",
+      "sub": "100주년 행사가 토요일로 밀려났습니다",
+      "chips": [
+        {
+          "k": "일정",
+          "v": "토요일"
+        }
+      ],
+      "alt": "뉴욕시 폭풍우 예보로 메이시스 퍼레이드 연기",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "행사 연기",
+          "d": "미국 뉴욕시는 심각한 폭풍우 예보에 따라 100주년 메이시스 추수감사절 퍼레이드를 토요일로 연기했다고 뉴욕타임스 등이 보도했습니다."
+        },
+        {
+          "t": "여행 차질",
+          "d": "교통편과 여행 일정에 차질이 빚어질 것으로 전망됐습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "행사 토요일 연기 (뉴욕타임스·ABC7)",
+        "폭풍우 예보 원인"
+      ],
+      "unconfirmed": [
+        "정확한 기상 악화 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ABC7 New York",
+        "CNN",
+        "KOMO",
+        "The New York Times",
+        "USA Today",
+        "2026.11.26 10:48 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 뉴욕시 폭풍우 예보로 메이시스 퍼레이드 연기\n\n· 100주년 추수감사절 행사가 토요일로 밀려났습니다 (뉴욕타임스·ABC7)\n· 기상 악화로 교통과 여행 일정에 차질이 예상됩니다 (CNN)\n\n출처: 뉴욕타임스·ABC7·CNN 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 뉴욕시가 폭풍우 예보로 메이시스 추수감사절 퍼레이드를 연기했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "100주년 행사가 토요일로 밀려났습니다.",
+      "card": "points"
+    },
+    {
+      "text": "교통과 여행 일정에 차질이 빚어질 것으로 보입니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "뉴욕시 [[추수감사절 퍼레이드]]\n왜 연기됐을까?",
+  "broll": [
+    "storm weather street",
+    "parade float rain"
+  ],
+  "place_en": "New York, USA"
+}

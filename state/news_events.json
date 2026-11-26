@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "pennsylvania_measles_outbreak_deaths",
-    "topic": "미국 펜실베이니아주서 홍역 사망 6명 발생",
-    "slug": "2026-11-05-news-pennsylvania-measles-outbreak-deaths",
-    "cluster": "CBMiowFBVV95cUxPZEhZX3ZuWmNXeGhaeHpwdXM3OGxSdkQ2SFdMd19IMFpCaTc3R1dpNHk1OUx2RG1fTlU0SkJQUFpBSi1jVWhXVk5zclRZRnQ5U3J5Z25JWms4RDMyd3pOSGpJSVZONXhNNzJIenEyWFpQX2hDaFdndHByV2lpamxwLTdwNlJRWFpuQTNwdjVDTmFDaGVQUndJcmplcGhXR1h1dEFJ0gGoAUFVX3lxTE8wekVGRHZQamtmeTVKZE1vdnotREdIeGk1b0NwMk9aX3RvVE5mZkczWkROellPMldiMWF0UU5OanZXVEF1QURQdUlTQnFENi1xQ1I3NXItN1VWc21Za2pSQnp2WmRmcXJFNEk4RGdrWDlDSGdyblAwM2h1dEM1Y1N2R25ETnp3Y2Z3OFBJSWVKU2VRV2x3RVBIMlpUd3lSbTVyY1VxbmRELQ",
-    "badge": "breaking",
-    "at": 1793837233.6599607,
-    "country": "미국",
-    "category": "재난"
-  },
-  {
     "event_key": "china_canada_tariff_relief_extension_2026",
     "topic": "중국, 캐나다산 품목 관세 감면 2년 연장",
     "slug": "2026-11-05-news-china-canada-tariff-relief-extension-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795640840.3364625,
     "country": "이집트",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "nyc_macys_parade_postponed_storm_2026",
+    "topic": "뉴욕시 폭풍우 예보로 메이시스 퍼레이드 연기",
+    "slug": "2026-11-26-news-nyc-macys-parade-postponed-storm-2026",
+    "cluster": "CBMijAFBVV95cUxNaVZHYnZSbkwwSnZWekxkalE1algzbkVPTlY1bWF2dkd6dzcwRDdwUDNSZGtsa3hLQ2t3STV1RHVKdXgyNEFhckthRDkzdnl2amZZZk93NmVfVXhVSTJXN2xLYkQzZWRYYnEyM1psQ2pzSC1mWm9LZml1dENlZlVibW8wUHloVlloTEctcQ",
+    "badge": "breaking",
+    "at": 1795657749.1541302,
+    "country": "미국",
+    "category": "재난"
   }
 ]
