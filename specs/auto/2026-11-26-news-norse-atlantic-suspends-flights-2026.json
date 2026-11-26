@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-26-news-norse-atlantic-suspends-flights-2026",
+  "topic": "노스 아틀란틱 항공 전편 운항 중단",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 20:38 KST",
+  "source": "BBC·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE9kcUhxMWplRk1tNm1GLW1Ca0tRRkJpUU94d0MtS0o1bGl6UHNoV3RxZEk5VHFYMGVBcmlzMnFDYzFJcmJUdEhkQ2xyeWg4eVdkemVCcEpsZ1NqbWs",
+    "related": [
+      [
+        "Norse Atlantic suspends all flights as it faces potential collapse",
+        "BBC"
+      ],
+      [
+        "Airline Norse Atlantic flags bankruptcy risk as flights suspended",
+        "Reuters"
+      ],
+      [
+        "The Five-Year-Old Budget Airliner That Halted Operations on Thanksgiving",
+        "WSJ"
+      ],
+      [
+        "Norse Atlantic Airways suspends all flights as it makes urgent funding plea",
+        "The Guardian"
+      ],
+      [
+        "Norse Atlantic faces liquidity crisis, loses PIA wet lease",
+        "ch-aviation"
+      ]
+    ],
+    "event_key": "norse_atlantic_suspends_flights_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "노스 아틀란틱 항공\n전편 [[운항 중단]]",
+      "sub": "파산 위기 직면하며 긴급 자금 조달 호소",
+      "chips": [
+        {
+          "k": "조치",
+          "v": "전편 운항 중단"
+        },
+        {
+          "k": "원인",
+          "v": "유동성 위기"
+        }
+      ],
+      "alt": "노스 아틀란틱 항공 전편 운항 중단",
+      "map": {
+        "lat": 59.9133301,
+        "lon": 10.7389701,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "노르웨이"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "노르웨이\n오슬로",
+      "video_only": true,
+      "map": {
+        "lat": 59.9133301,
+        "lon": 10.7389701,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오슬로"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "운항 전면 중단",
+          "d": "노스 아틀란틱 항공이 파산 가능성에 직면해 모든 항공편 운항을 중단했습니다 (BBC)."
+        },
+        {
+          "t": "자금난",
+          "d": "회사는 긴급 자금 조달을 호소하고 있습니다 (The Guardian)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "노스 아틀란틱 항공 운항 중단",
+        "파산 위기 및 유동성 위기 발생"
+      ],
+      "unconfirmed": [
+        "구조조정 계획 여부",
+        "한국인 승객 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "The Guardian",
+        "WSJ",
+        "ch-aviation",
+        "2026.11.26 23:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 노스 아틀란틱 항공, 파산 위기 직면하며 전편 운항 중단\n\n· 회사는 긴급 자금 조달을 호소하며 운영을 멈췄습니다 (The Guardian)\n· 5년 차 저가 항공사인 이 업체는 유동성 위기에 빠졌습니다 (ch-aviation)\n\n출처: BBC·Reuters·WSJ·The Guardian·ch-aviation 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "노스 아틀란틱 항공이 파산 위기에 직면해 모든 항공편 운항을 중단했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "가디언은 회사가 긴급 자금 조달을 호소하며 심각한 유동성 위기를 겪고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "한국인 승객의 구체적인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check",
+      "screen": "한국인 피해 확인 중"
+    },
+    {
+      "text": "여러분은 이번 항공사 운항 중단 사태, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "파산 위기 맞은\n[[항공사]]의 선택은?",
+  "broll": [
+    "airplane grounded",
+    "airline terminal"
+  ],
+  "place_en": "Oslo, Norway"
+}

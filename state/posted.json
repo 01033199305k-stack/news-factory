@@ -50651,5 +50651,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795688903
+  },
+  {
+    "slug": "2026-11-26-news-norse-atlantic-suspends-flights-2026",
+    "event_ms": 1795693125000,
+    "category": "경제·과학",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 노스 아틀란틱 항공, 파산 위기 직면하며 전편 운항 중단\n\n· 회사는 긴급 자금 조달을 호소하며 운영을 멈췄습니다 (The Guardian)\n· 5년 차 저가 항공사인 이 업체는 유동성 위기에 빠졌습니다 (ch-aviation)\n\n출처: BBC·Reuters·WSJ·The Guardian·ch-aviation 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "경제과학",
+      "노르웨이"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17918517537490045",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgNSaltoBGK",
+        "kind": "carousel",
+        "at": 1795702243
+      },
+      "instagram": {
+        "id": "17995190706026005",
+        "permalink": "https://www.instagram.com/reel/DgNStDIi6km/",
+        "kind": "reel",
+        "at": 1795702406
+      },
+      "youtube": {
+        "skipped": "유튜브는 한국·주요국 관련 소식만",
+        "at": 1795702416
+      },
+      "tiktok": {
+        "id": "7712483194213240084",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712483194213240084",
+        "kind": "video",
+        "at": 1795702538
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795702548
   }
 ]

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "indonesia_president_wiretap_scandal_2026",
-    "topic": "인도네시아 도청 파문 대통령 도청 혐의 참모장 해임",
-    "slug": "2026-11-06-news-indonesia-president-wiretap-scandal-2026",
-    "cluster": "CBMirAFBVV95cUxOX2Z6S2RHWk5UUnUwWXQtV0VPZ2RpTm9hNjR3d2RKM0ZtdzMwdGNOcEhsSk1sUEI3TGlTdkJMcEJFQ0FkZ0pDYnVjLXdhd0dweWVUcDdxVkV4cUNsUE9nTGk4QUZtZ2l2WXktZmZPemFKU0J1WHJYTGoyRDlKRnQyc2hNaEoyWTFMeTBUTUlpcnRCWW9VTnA2MllDdjZ3QUVBRGxRVlRUYmpRWFFh",
-    "badge": "breaking",
-    "at": 1793898624.4156034,
-    "country": "인도네시아",
-    "category": "국제"
-  },
-  {
     "event_key": "paraguay_president_resign_bank_collapse_2026",
     "topic": "파라과이 대통령,  은행 붕괴로 사임",
     "slug": "2026-11-06-news-paraguay-president-resign-bank-collapse-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795688193.058031,
     "country": "인도네시아",
     "category": "재난"
+  },
+  {
+    "event_key": "norse_atlantic_suspends_flights_2026",
+    "topic": "노스 아틀란틱 항공 전편 운항 중단",
+    "slug": "2026-11-26-news-norse-atlantic-suspends-flights-2026",
+    "cluster": "CBMiW0FVX3lxTE9kcUhxMWplRk1tNm1GLW1Ca0tRRkJpUU94d0MtS0o1bGl6UHNoV3RxZEk5VHFYMGVBcmlzMnFDYzFJcmJUdEhkQ2xyeWg4eVdkemVCcEpsZ1NqbWs",
+    "badge": "breaking",
+    "at": 1795702184.8571775,
+    "country": "노르웨이",
+    "category": "경제·과학"
   }
 ]
