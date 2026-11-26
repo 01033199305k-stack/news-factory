@@ -1,0 +1,130 @@
+{
+  "slug": "2026-11-26-news-north-korea-tactical-nuclear-deployment-2026",
+  "topic": "북한 김정은, 전술핵무기 확대 배치 촉구",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 11:08 KST",
+  "source": "Al Jazeera·Bloomberg·NDTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxPUEplVGpNTHVnOUo4YmJlaWtCRkNjckFyVVRXck9nTUNqblZvdlNtTXc5a3BEWFRqNU5TNTNJRmxZeGNJVGZXbU1NWkY5d3pnT09teGtCOTlJVmZlQk9RMkJBQVlTRzJKVDNvdmZiVVZqNGpzNkdla3dzbGZDODYzYXRuLWVmbG0xV0VhWkNXSm5xSE1MdW1HTjhveW1CalktZWdCUlJaMDNqb3NTOVpIMVB30gG3AUFVX3lxTE1uM0ZmQ2E0U1p0U3ZMaVZON1UtRG9aMGhZNmd6ejN3b2ttOEhjcWZZN2ZOZXU1UmMzaW9aeTc2WVZ2ZFNOZHF4dFhDUFJvdXU1SHF4WWJHencyWnViZFpPOWFNaWVrbXlZU2hvYVhWSmpBUEo4c21BQkk5bFhIei03VnljTE1UNTZtejVFeTZ0RFZMTlBpQ2pWT2lEX2VmOVI3MmZmVXhOWVVqNHNnTFF6dzJLSGNXMA",
+    "related": [
+      [
+        "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+        "Al Jazeera"
+      ],
+      [
+        "Kim Jong Un Calls For Diversified Use Of Tactical Nuclear Weapons",
+        "NDTV"
+      ],
+      [
+        "‘Irreversible reality’: Kim lays out North Korea's nuclear expansion plans after ignoring Trump's offer to meet",
+        "The Times of India"
+      ],
+      [
+        "Kim Jong Un Makes Rare Show of Nuclear Warheads After Snubbing Trump Talks",
+        "Bloomberg"
+      ],
+      [
+        "North Korea’s Kim calls for wider tactical nuclear deployment | Daily Sabah",
+        "Daily Sabah"
+      ]
+    ],
+    "event_key": "north_korea_tactical_nuclear_deployment_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "북한 김정은, [[전술핵무기]]\n확대 배치 촉구",
+      "sub": "핵무력 고도화 방침을 거듭 밝혔습니다",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "전술핵무기"
+        }
+      ],
+      "alt": "북한 김정은, 전술핵무기 확대 배치 촉구",
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "북한"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "북한\n평양",
+      "video_only": true,
+      "map": {
+        "lat": 39.0196585,
+        "lon": 125.7526222,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "평양"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "핵 확장",
+          "d": "북한은 핵무기 배치를 더 넓혀야 한다고 주장했습니다 (알자지라·블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "전술핵무기 배치 확대 (알자지라·블룸버그)"
+      ],
+      "unconfirmed": [
+        "구체적인 실현 시기와 대상 지역"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bloomberg",
+        "Daily Sabah",
+        "NDTV",
+        "The Times of India",
+        "2026.11.26 13:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 북한 김정은, 전술핵무기 확대 배치 촉구\n\n· 북한은 전술핵무기 배치를 더 넓혀야 한다고 주장했습니다 (알자지라·블룸버그)\n· 핵무력 고도화 방침을 거듭 밝혔습니다 (타임스오브인디아)\n\n출처: 알자지라·블룸버그·타임스오브인디아 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "북한 김정은이 전술핵무기 배치를 더 넓혀야 한다고 촉구했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "외신은 북한이 핵무력 고도화 방침을 거듭 밝혔다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 실현 시기와 대상 지역은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "북한 김정은이\n[[전술핵무기]]를?",
+  "broll": [
+    "missile launch facility",
+    "military parade night"
+  ],
+  "place_en": "Pyongyang, North Korea"
+}

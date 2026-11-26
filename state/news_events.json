@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "china_canada_tariff_relief_extension_2026",
-    "topic": "중국, 캐나다산 품목 관세 감면 2년 연장",
-    "slug": "2026-11-05-news-china-canada-tariff-relief-extension-2026",
-    "cluster": "CBMisgFBVV95cUxNVW9jSTEyNEUzdGFzNXppcElseDVIRE5hN0t5c0NhMVRjZEVjT0YxWXBXamFiWlFXRHliYmVYRE9Hb3ZrWUhHODU2U3VwSnE1YWJnSWFialRWa3NvLXlaYnhYVTJ6S0V2dERBOGY2NF80Tml2MlRNZkRGQWY5eEdMcExvU29Ea2ItcktDU1lUby1uV0c3c1dBQTZGeEthRW9nM1RSNDk0YmxVbjhSU29XUDRn",
-    "badge": "breaking",
-    "at": 1793844586.7798777,
-    "country": "중국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "severance_hospital_doctor_attack_2026",
     "topic": "세브란스 진료실서 흉기 난동 의사 피습 사건 발생",
     "slug": "2026-11-05-news-severance-hospital-doctor-attack-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795657749.1541302,
     "country": "미국",
     "category": "재난"
+  },
+  {
+    "event_key": "north_korea_tactical_nuclear_deployment_2026",
+    "topic": "북한 김정은, 전술핵무기 확대 배치 촉구",
+    "slug": "2026-11-26-news-north-korea-tactical-nuclear-deployment-2026",
+    "cluster": "CBMisgFBVV95cUxPUEplVGpNTHVnOUo4YmJlaWtCRkNjckFyVVRXck9nTUNqblZvdlNtTXc5a3BEWFRqNU5TNTNJRmxZeGNJVGZXbU1NWkY5d3pnT09teGtCOTlJVmZlQk9RMkJBQVlTRzJKVDNvdmZiVVZqNGpzNkdla3dzbGZDODYzYXRuLWVmbG0xV0VhWkNXSm5xSE1MdW1HTjhveW1CalktZWdCUlJaMDNqb3NTOVpIMVB30gG3AUFVX3lxTE1uM0ZmQ2E0U1p0U3ZMaVZON1UtRG9aMGhZNmd6ejN3b2ttOEhjcWZZN2ZOZXU1UmMzaW9aeTc2WVZ2ZFNOZHF4dFhDUFJvdXU1SHF4WWJHencyWnViZFpPOWFNaWVrbXlZU2hvYVhWSmpBUEo4c21BQkk5bFhIei03VnljTE1UNTZtejVFeTZ0RFZMTlBpQ2pWT2lEX2VmOVI3MmZmVXhOWVVqNHNnTFF6dzJLSGNXMA",
+    "badge": "breaking",
+    "at": 1795666144.2834435,
+    "country": "북한",
+    "category": "국제"
   }
 ]
