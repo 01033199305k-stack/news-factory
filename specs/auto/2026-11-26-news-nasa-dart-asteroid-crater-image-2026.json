@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-26-news-nasa-dart-asteroid-crater-image-2026",
+  "topic": "나사 우주선 충돌로 소행성에 대형 분화구 생겨",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.26 13:46 KST",
+  "source": "CNN·The Independent·The New York Times 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiowFBVV95cUxPeXRsSGxleUZ6Ykg1RUU0Q0hfVld5RmFTUmRjZU1sZlRzZ3pNdC1QTzItYUk2eTNya0tmR24zNm4zNERtQkI1UDZwRVpOek16T2JRdWQ3V2g4UHlhc3duUzZKTW1JUkJycWM4RTRDSDYzV216Z0JDSnNDV19FQ28xYU50cFQ5WWVjeVoySndRdmlyMFREV3NRdGo1Yjh1UGhhSG5J",
+    "related": [
+      [
+        "Images reveal stadium-sized crater after Nasa collision with asteroid to test Earth’s defences",
+        "The Independent"
+      ],
+      [
+        "Europe’s Hera Mission Releases Close-Up Images of the Asteroid Hit by a NASA Spacecraft",
+        "The New York Times"
+      ],
+      [
+        "ESA mission reveals stadium-size crater left by first planetary defense test",
+        "CNN"
+      ],
+      [
+        "NASA hit an asteroid to test planetary defense. Here’s what happened.",
+        "The Washington Post"
+      ],
+      [
+        "Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission",
+        "Space"
+      ]
+    ],
+    "event_key": "nasa_dart_asteroid_crater_image_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "나사 우주선 충돌로\n[[소행성]]에 대형 분화구 생겨",
+      "sub": "유럽우주국 헤라 임무 팀이 근접 촬영한 사진 공개",
+      "chips": [
+        {
+          "k": "임무",
+          "v": "헤라"
+        }
+      ],
+      "alt": "나사 우주선 충돌로 소행성에 대형 분화구 생겨",
+      "map": {
+        "lat": 48.848139,
+        "lon": 2.3043031,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n우주",
+      "video_only": true,
+      "map": {
+        "lat": 48.848139,
+        "lon": 2.3043031,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "우주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "근접 촬영",
+          "d": "유럽우주국 헤라 임무가 소행성 충돌 부위를 근접 촬영했습니다 (New York Times·CNN)."
+        },
+        {
+          "t": "경기장 크기",
+          "d": "나사 우주선이 충돌한 자리에 경기장만 한 크기의 구멍이 확인됐습니다 (Independent·Space)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "소행성 충돌 분화구 확인 (New York Times)",
+        "경기장 크기 구멍 (CNN)"
+      ],
+      "unconfirmed": [
+        "후속 공식 발표"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CNN",
+        "Space",
+        "The Independent",
+        "The New York Times",
+        "The Washington Post",
+        "2026.11.26 15:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 나사 우주선 충돌로 소행성에 대형 분화구 생겨\n\n· 유럽우주국 헤라 임무가 소행성 충돌 부위를 근접 촬영했습니다 (New York Times·CNN)\n· 나사 우주선이 충돌한 자리에 경기장만 한 크기의 구멍이 확인됐습니다 (Independent·Space)\n\n여러분은 우주 방어 실험의 이번 결과에 대해 어떻게 생각하십니까?\n\n출처: New York Times·CNN·Independent·Space·Washington Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "나사 우주선이 충돌한 소행성에 경기장만 한 크기의 분화구가 생겼습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "유럽우주국 헤라 임무 팀은 충돌 부위를 담은 근접 촬영 사진을 공개했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이번 관측은 지구 방어 임무의 성능을 검증하기 위한 것입니다.",
+      "card": "points"
+    },
+    {
+      "text": "여러분은 우주 방어 실험의 이번 결과에 대해 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "우주 방어 실험 결과"
+    }
+  ],
+  "hook": "나사 우주선이 때린\n[[소행성]]의 모습은?",
+  "broll": [
+    "asteroid space deep",
+    "spacecraft satellite orbit"
+  ],
+  "place_en": "Space"
+}

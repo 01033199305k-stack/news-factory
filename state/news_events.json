@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "germany_bavaria_deputy_premier_found_dead_2026",
-    "topic": "독일 바이에른 부총리 호텔서 숨진 채 발견",
-    "slug": "2026-11-05-news-germany-bavaria-deputy-premier-found-dead-2026",
-    "cluster": "CBMimwFBVV95cUxOLXFlX2RWNDhlTkxZYUgzcklaYU5Ccl9ZdDYzeWZTZXV4czBnZ2lWUE01dHBRdkowa1NNR1o3RFZrRElXUE9iOGZvT2JPdEp3UGNTRDNWUkZSSTAtejN0a3BFd0xwa2x5YXVrOHB5TkxIb3h0RzhBaWZFLXUySGhRVjhfdGlfMVJLWlNJODRKZ0o5OGlBbFpnSlZMSdIBmwFBVV95cUxNeHA2RGZ2U1dfTjBOU01zUzY0bWtpdXFyMGR1Y0FsbjZRLWpUTnIzLWVaMjhnMzdZV0FOdWVUT3JlMnE4WVAxZW9iWkhydXRJamdQd3o1Z2lpZVZ6WmlWVGRsTGlNNklHd3l5aHlMUC0zN2U4VWZvMnZFVzZyNXdwQ2k1UmpoOFFmWEwxcUI0eXoyb2dteEJwTHhNNA",
-    "badge": "brief",
-    "at": 1793873494.494153,
-    "country": "독일",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "hong_kong_activist_joshua_wong_jailed",
     "topic": "홍콩 민주화 운동가 조슈아 웡, 10년형 선고받아",
     "slug": "2026-11-05-news-hong-kong-activist-joshua-wong-jailed",
@@ -2998,5 +2988,15 @@
     "at": 1795669671.5462666,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "nasa_dart_asteroid_crater_image_2026",
+    "topic": "나사 우주선 충돌로 소행성에 대형 분화구 생겨",
+    "slug": "2026-11-26-news-nasa-dart-asteroid-crater-image-2026",
+    "cluster": "CBMiowFBVV95cUxPeXRsSGxleUZ6Ykg1RUU0Q0hfVld5RmFTUmRjZU1sZlRzZ3pNdC1QTzItYUk2eTNya0tmR24zNm4zNERtQkI1UDZwRVpOek16T2JRdWQ3V2g4UHlhc3duUzZKTW1JUkJycWM4RTRDSDYzV216Z0JDSnNDV19FQ28xYU50cFQ5WWVjeVoySndRdmlyMFREV3NRdGo1Yjh1UGhhSG5J",
+    "badge": "breaking",
+    "at": 1795673236.2033358,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
