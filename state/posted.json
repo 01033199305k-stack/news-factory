@@ -50975,5 +50975,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795731163
+  },
+  {
+    "slug": "2026-11-27-news-spain-ibiza-diesel-tanker-sinking-2026",
+    "event_ms": 1795730482000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스페인 이비사 해상서 유조선 침몰로 1명 사망\n\n· 디젤을 싣고 항해하던 터키 선적 유조선이 이비사 해상에서 침몰했습니다 (로이터·DW)\n· 승선원 17명 중 선원 1명이 숨졌으며 현재까지 오염은 없습니다 (로이터)\n\n출처: 로이터·DW·BBC 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "스페인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18036031811682144",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgOWv8SoKa5",
+        "kind": "carousel",
+        "at": 1795738060
+      },
+      "instagram": {
+        "id": "18110024582207973",
+        "permalink": "https://www.instagram.com/reel/DgOW_SZNcjx/",
+        "kind": "reel",
+        "at": 1795738204
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1795738215
+      },
+      "tiktok": {
+        "id": "7712636919733046534",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712636919733046534",
+        "kind": "video",
+        "at": 1795738337
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795738347
   }
 ]

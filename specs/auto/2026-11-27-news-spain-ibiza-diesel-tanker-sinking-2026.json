@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-27-news-spain-ibiza-diesel-tanker-sinking-2026",
+  "topic": "스페인 이비사 해상서 유조선 침몰로 1명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.27 07:01 KST",
+  "source": "BBC·Reuters·DW.com 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiW0FVX3lxTE5WRTRreUNYeDBMMXhrMHE0ejhDOS1iN2hnTlk3SGRMNGhEbjVvZ3JVQnhTRUFqNGdUS3ZaajBmdUpUWDY3MjdrdFFWUzRqUDFESzVMaHFVQ2RNakk",
+    "related": [
+      [
+        "Med Emre: Diesel tanker carrying tonnes capsizes near Ibiza, killing one",
+        "BBC"
+      ],
+      [
+        "Crew member dies after diesel tanker capsizes off Ibiza, no pollution so far",
+        "Reuters"
+      ],
+      [
+        "Crew member dies after diesel tanker with 17 on board sinks off Ibiza, triggering pollution concerns",
+        "DW.com"
+      ],
+      [
+        "Seafarer dies after Turkish product tanker sinks off Spain",
+        "TradeWinds News"
+      ],
+      [
+        "President Llorca offers Carlos Cuerpo and the Balearic Islands all the Generalitat's resources to respond to the shipwreck of the Med Emre off Ibiza",
+        "El Constitucional"
+      ]
+    ],
+    "event_key": "spain_ibiza_diesel_tanker_sinking_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "스페인 이비사 해상서\n유조선 침몰로 [[1명]] 사망",
+      "sub": "승선원 17명이 탑승한 터키 선적 유조선이 침몰했습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "1명"
+        },
+        {
+          "k": "승선원",
+          "v": "17명"
+        }
+      ],
+      "alt": "스페인 이비사 해상서 유조선 침몰로 1명 사망",
+      "map": {
+        "lat": 38.9743901,
+        "lon": 1.4197463,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "스페인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "스페인\n이비사",
+      "video_only": true,
+      "map": {
+        "lat": 38.9743901,
+        "lon": 1.4197463,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "이비사"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "사고 발생",
+          "d": "디젤을 싣고 항해하던 유조선이 스페인 이비사 해상에서 침몰했다고 로이터와 DW 등이 보도했습니다."
+        },
+        {
+          "t": "구조 및 피해",
+          "d": "선원 1명이 숨졌으며, 현재까지 해양 오염은 보고되지 않았다고 매체들은 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 1명 (로이터·DW)",
+        "승선원 17명 탑승 (DW)",
+        "터키 선적 유조선 (트레이드윈즈)"
+      ],
+      "unconfirmed": [
+        "침몰 원인",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "DW.com",
+        "El Constitucional",
+        "Reuters",
+        "TradeWinds News",
+        "2026.11.27 09:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 스페인 이비사 해상서 유조선 침몰로 1명 사망\n\n· 디젤을 싣고 항해하던 터키 선적 유조선이 이비사 해상에서 침몰했습니다 (로이터·DW)\n· 승선원 17명 중 선원 1명이 숨졌으며 현재까지 오염은 없습니다 (로이터)\n\n출처: 로이터·DW·BBC 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "스페인 이비사 해상에서 유조선이 침몰해 1명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 승선원 17명이 탄 터키 선적 유조선이 가라앉았다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "다행히 현재까지 해양 오염은 발생하지 않은 것으로 확인됐습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사고 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "스페인 이비사 해상서\n[[유조선]] 침몰",
+  "broll": [
+    "diesel tanker sea",
+    "ship wreck ocean"
+  ],
+  "place_en": "Ibiza, Spain"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_senate_election_results_2026",
-    "topic": "미 상원 선거서 민주당 승리",
-    "slug": "2026-11-06-news-us-senate-election-results-2026",
-    "cluster": "CBMimwFBVV95cUxQSEdwb0h0UEZsZG1iUzdOWmU5UnlmNTIxUXZSQ3JQemE1bUd6ZTRCVko0RkpVd201d0xYNHNrMG4xc3B3TnUtN1dGVWtMX09oUERDQWNGY19GRFpHNzhmMFJMVlVxdDRJWXdmSkJXbmxTYlZOank1X2dFVWppbEw1WlVLclhRdG8tWVhwb0RCd0x5NHhNVjJzZUF4WQ",
-    "badge": "breaking",
-    "at": 1793920922.6709743,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "linux_openssh_vulnerability_patch_2026",
     "topic": "알파인 리눅스 기기서 비밀번호 우회 취약점 발견",
     "slug": "2026-11-06-news-linux-openssh-vulnerability-patch-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795730798.959505,
     "country": "사우디아라비아",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "spain_ibiza_diesel_tanker_sinking_2026",
+    "topic": "스페인 이비사 해상서 유조선 침몰로 1명 사망",
+    "slug": "2026-11-27-news-spain-ibiza-diesel-tanker-sinking-2026",
+    "cluster": "CBMiW0FVX3lxTE5WRTRreUNYeDBMMXhrMHE0ejhDOS1iN2hnTlk3SGRMNGhEbjVvZ3JVQnhTRUFqNGdUS3ZaajBmdUpUWDY3MjdrdFFWUzRqUDFESzVMaHFVQ2RNakk",
+    "badge": "breaking",
+    "at": 1795738010.2384968,
+    "country": "스페인",
+    "category": "사고"
   }
 ]
