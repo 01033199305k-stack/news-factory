@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-27-news-china-stocks-surge-beijing-support-2026",
+  "topic": "중국 증시 급등 시장 지원책 발표",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.27 15:24 KST",
+  "source": "Bloomberg.com·Financial Times·Reuters 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMioAFBVV95cUxPLWxqTUV2X2RZam8zVGVSY2ZFTzRLQkxKYjdBUVJvR1dIOVlaczllTWRmay1FM3pMOHk5SlBjYkhxaDZ4YmJXbWM3NFpSRDBuWWs3T05QS2hZU2FoVzluTzJTMVFjQmhVS3B3a3ZQSXlOc0JKLV92RHZiNFZoNUlXUW5MMk1ncnpDXzVsMnhpTGx4OWpOVnpCNjlWRlJCa1Bp",
+    "related": [
+      [
+        "China stocks surge most in two years as Beijing vows stronger market support",
+        "Reuters"
+      ],
+      [
+        "China Surprises Investors With Statement of Support for Markets",
+        "Bloomberg.com"
+      ],
+      [
+        "Chinese shares soar after Beijing signals more support",
+        "Financial Times"
+      ],
+      [
+        "China’s State Council considering more measures to bolster flagging stocks",
+        "South China Morning Post"
+      ],
+      [
+        "Chinese Shares Lifted as Beijing Signals More Market Support",
+        "WSJ"
+      ]
+    ],
+    "event_key": "china_stocks_surge_beijing_support_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "중국 [[증시 급등]]\n시장 지원책 발표",
+      "sub": "베이징 당국의 부양책 시그널에 2년 만에 최대 상승 폭을 기록했습니다",
+      "chips": [],
+      "alt": "중국 증시 급등 시장 지원책 발표",
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n베이징",
+      "video_only": true,
+      "map": {
+        "lat": 39.9057136,
+        "lon": 116.3912972,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "베이징"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "중국 국무원 지원 검토",
+          "d": "중국 정부가 침체된 주식 시장을 지원하기 위한 추가 조치를 검토하고 있습니다 (사우스차이나모닝포스트)."
+        },
+        {
+          "t": "2년 만에 최대 상승",
+          "d": "당국의 시장 지원 의지가 전해지자 중국 증시는 2년 만에 가장 큰 폭으로 급등했습니다 (로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "중국 정부의 증시 지원책 발표",
+        "중국 증시 2년 만에 최대 폭 상승"
+      ],
+      "unconfirmed": [
+        "구체적인 세부 지원책 내용",
+        "추가 부양책 발표 시점"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Bloomberg.com",
+        "Financial Times",
+        "Reuters",
+        "South China Morning Post",
+        "WSJ",
+        "2026.11.27 19:14 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 중국 정부의 시장 부양책 발표 시그널로 증시가 2년 만에 가장 큰 폭으로 급등했습니다.\n\n· 중국 국무원이 주식 시장을 지원하기 위한 추가 조치를 검토 중입니다 (사우스차이나모닝포스트)\n· 당국의 강력한 부양 의지에 중국 지수는 2년 만에 최대 상승 폭을 기록했습니다 (로이터)\n· 베이징 당국의 지원 시그널에 중국 증시가 큰 폭으로 상승했습니다 (파이낸셜타임스·월스트리트저널)\n\n이번 중국 정부의 증시 부양책, 효과가 계속될 것으로 보십니까?\n\n출처: 로이터·블룸버그·파이낸셜타임스·사우스차이나모닝포스트·월스트리트저널 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국 증시가 당국의 시장 지원 방침 발표에 2년 만에 가장 큰 폭으로 상승했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "베이징 당국은 침체된 주식 시장을 살리기 위해 추가 지원 조치를 검토하고 있다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 정부의 부양 시그널에 지수가 2년 만에 가장 큰 폭으로 상승했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 세부 지원 조치와 발표 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 중국 정부의 증시 부양책, 지속될 것으로 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "중국 [[증시 급등]]\n갑자기 왜?",
+  "broll": [
+    "stock exchange screen",
+    "financial district skyline"
+  ],
+  "place_en": "Beijing, China"
+}

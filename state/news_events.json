@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "putin_iran_security_chief_meeting_2026",
-    "topic": "푸틴 러시아 대통령 이란 안보 수장과 회동",
-    "slug": "2026-11-06-news-putin-iran-security-chief-meeting-2026",
-    "cluster": "CBMipwFBVV95cUxOQnVkOVN5OTNTeXZHZ0FUWE5halRMcHMySFhaS3plM2h6Ykt3WGI4NjkwRVFxSmg2aHo0MGVTb25YOXFucjJEcjFJXzYyOFlxdDV6QjJSbE5lNHNwWENhZWpDZ1VSR2RqQlRVZFRLbktJdXUyTVBGQk1vTXVnTjVkdDYyZ2FmQkhlc28tdTJmbTZJNlpXSzFzd25zWllERWVROFFoemtKONIBrAFBVV95cUxNTXpROFF4dEJtRkR5ZE5sN05admFlZEpxS3VPb3VveE5SWndjMG9ZYk1QZXdUdERYaVlyTThkZl9nQXgxRUxJZENQWEIxc3AzcXBKcWx2clkxcjlGUThrQm9LWEtRenlaeHloMmVjSC0ycDNWMDlXRGZoajlRZVZpT0N3a2lDWWsxMm1LcUIySmlXTHd3azc5S0lIUkV2c2dvZUpLaFdMSy15TEN4",
-    "badge": "breaking",
-    "at": 1793935866.820936,
-    "country": "러시아",
-    "category": "국제"
-  },
-  {
     "event_key": "trump_russia_ukraine_deal_meeting_2026",
     "topic": "트럼프 “러시아와 협상 임박” 푸틴 특사와 회동 후 밝혀",
     "slug": "2026-11-06-news-trump-russia-ukraine-deal-meeting-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795767247.0575607,
     "country": "중국",
     "category": "국제"
+  },
+  {
+    "event_key": "china_stocks_surge_beijing_support_2026",
+    "topic": "중국 증시 급등 시장 지원책 발표",
+    "slug": "2026-11-27-news-china-stocks-surge-beijing-support-2026",
+    "cluster": "CBMioAFBVV95cUxPLWxqTUV2X2RZam8zVGVSY2ZFTzRLQkxKYjdBUVJvR1dIOVlaczllTWRmay1FM3pMOHk5SlBjYkhxaDZ4YmJXbWM3NFpSRDBuWWs3T05QS2hZU2FoVzluTzJTMVFjQmhVS3B3a3ZQSXlOc0JKLV92RHZiNFZoNUlXUW5MMk1ncnpDXzVsMnhpTGx4OWpOVnpCNjlWRlJCa1Bp",
+    "badge": "brief",
+    "at": 1795774499.2049909,
+    "country": "중국",
+    "category": "경제·과학"
   }
 ]
