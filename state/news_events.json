@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "washington_state_bird_flu_death_2026",
-    "topic": "미국 워싱턴주서 조류인플루엔자 사망자 발생",
-    "slug": "2026-11-06-news-washington-state-bird-flu-death-2026",
-    "cluster": "CBMickFVX3lxTE44cjdWNzNadlY3Q1E3UTRtYkh1WUxiY1JGbUJGYmd4czVidHRubWVuV1NLTzJFbXlxUng5NXpZMXM2VHdnSHhlTF9zejJyeHVZdkdadG93aXgwVXM0bE5Hc0FuV1NBYnVpZHdDajVrdGdCUQ",
-    "badge": "breaking",
-    "at": 1793928759.8660638,
-    "country": "미국",
-    "category": "사고"
-  },
-  {
     "event_key": "us_stock_rout_ai_meltdown_2026",
     "topic": "미 뉴욕증시 폭락 다우 1800포인트 뚝",
     "slug": "2026-11-06-news-us-stock-rout-ai-meltdown-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1795745501.7662845,
     "country": "뉴질랜드",
+    "category": "국제"
+  },
+  {
+    "event_key": "ukraine_russia_attack_2026",
+    "topic": "우크라이나 전력망 겨냥해 러시아 대규모 공습 임박",
+    "slug": "2026-11-27-news-ukraine-russia-attack-2026",
+    "cluster": "CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj",
+    "badge": "brief",
+    "at": 1795752427.9312506,
+    "country": "우크라이나",
     "category": "국제"
   }
 ]

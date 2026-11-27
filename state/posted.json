@@ -51081,5 +51081,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795745849
+  },
+  {
+    "slug": "2026-11-27-news-ukraine-russia-attack-2026",
+    "event_ms": 1795752427931,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 우크라이나 전력망 겨냥해 러시아 대규모 공습 임박\n\n· 러시아가 에너지 기반 시설을 향한 새로운 대규모 공격을 준비하고 있다고 우크라이나 측은 밝혔습니다 (AP 통신·키이우 독립신문)\n· 우크라이나 정부는 기반 시설을 보호하기 위해 파트너 국가들에 추가 무기 지원을 요청했습니다 (우크린폼)\n\n여러분은 이번 우크라이나 전력 상황과 관련해 어떻게 보십니까?\n\n출처: AP 통신·키이우 독립신문·우크린폼 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18110390786206145",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgOyPtbGxPp",
+        "kind": "carousel",
+        "at": 1795752475
+      },
+      "instagram": {
+        "id": "18029732471933183",
+        "permalink": "https://www.instagram.com/reel/DgOyi5MhAW7/",
+        "kind": "reel",
+        "at": 1795752650
+      },
+      "youtube": {
+        "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
+        "at": 1795752660
+      },
+      "tiktok": {
+        "id": "7712698959071825173",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712698959071825173",
+        "kind": "video",
+        "at": 1795752782
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795752792
   }
 ]

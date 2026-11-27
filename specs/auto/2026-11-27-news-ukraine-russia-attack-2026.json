@@ -1,0 +1,149 @@
+{
+  "slug": "2026-11-27-news-ukraine-russia-attack-2026",
+  "topic": "우크라이나 전력망 겨냥해 러시아 대규모 공습 임박",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.27 11:20 KST",
+  "source": "AP News·Al Jazeera·NDTV 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitgFBVV95cUxNUWhTZEtvSHh2TnVxc2VyZHdvaTFta0F0WGI4TTc3aHhIZzk0dV9iZXJSSGk0VEFDd3JQZ2puU3dERnlzc0h2TEdFcVVSaXhOZXVrTlN3MDBmZmZXUlFrQno0MDNWQ1dCU1hsTnVWYzBFOUlXRjQzd21CX3ExWmR1T1JDNEkyTm9yU2JZeW8waFFCTDI1cHB3cmFWXzNuemkyR3NRZ1hnMDdUZHVTOGpjN3U3MDA1QdIBuwFBVV95cUxOd242M2lqRVpQSGdGdEEyMk4wQWZzZjFPTnJBWXoxaURLaFdhUnZHQUpubzlVVTJzYWp2SUtRTVNKS1FhWG5TMGNLSlltVmdFZXNNdUEyUmx0THZ5aTdhQ1ZzTlFQaFJ1TThZY1B0MHpObS1YeGFxeFk4czg3aVZpRElDcVVnYTJjRDB4SjRXYlY4QzkxZ0V1SWNQZ3hnOXRaNWRLam5HdkxZRTF0NzFkWmxicmNEbWNodkxj",
+    "related": [
+      [
+        "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+        "Al Jazeera"
+      ],
+      [
+        "Zelensky Warns Of New Russian Mass Strike In \"Coming Days\"",
+        "NDTV"
+      ],
+      [
+        "Zelenskyy warns of imminent major Russian attack on Ukraine’s power grid",
+        "AP News"
+      ],
+      [
+        "Russia prepares new mass attack on Ukraine's energy infrastructure, Zelensky says",
+        "The Kyiv Independent"
+      ],
+      [
+        "Ukraine seeks additional weapons from partners to protect infrastructure, Zelensky says",
+        "Ukrinform"
+      ]
+    ],
+    "event_key": "ukraine_russia_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "우크라이나 전력망 겨냥해\n러시아 [[대규모 공습]] 임박",
+      "sub": "젤렌스키 대통령이 추가 무기 지원을 요청했습니다.",
+      "chips": [
+        {
+          "k": "대상",
+          "v": "전력망"
+        },
+        {
+          "k": "경고",
+          "v": "젤렌스키"
+        }
+      ],
+      "alt": "우크라이나 전력망 겨냥해 러시아 대규모 공습 임박",
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n키이우",
+      "video_only": true,
+      "map": {
+        "lat": 50.4500336,
+        "lon": 30.5241361,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "키이우"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "러시아 움직임",
+          "d": "러시아가 에너지 기반 시설을 향한 새로운 대규모 공격을 준비하고 있다고 우크라이나 측은 밝혔습니다 (AP 통신·키이우 독립신문)."
+        },
+        {
+          "t": "우크라이나 대응",
+          "d": "우크라이나 정부는 기반 시설을 보호하기 위해 파트너 국가들에 추가 무기 지원을 요청했습니다 (우크린폼)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "에너지 인프라 겨냥",
+        "젤렌스키 대통령 경고"
+      ],
+      "unconfirmed": [
+        "정확한 공격 시점",
+        "피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "AP News",
+        "Al Jazeera",
+        "NDTV",
+        "The Kyiv Independent",
+        "Ukrinform",
+        "2026.11.27 13:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 우크라이나 전력망 겨냥해 러시아 대규모 공습 임박\n\n· 러시아가 에너지 기반 시설을 향한 새로운 대규모 공격을 준비하고 있다고 우크라이나 측은 밝혔습니다 (AP 통신·키이우 독립신문)\n· 우크라이나 정부는 기반 시설을 보호하기 위해 파트너 국가들에 추가 무기 지원을 요청했습니다 (우크린폼)\n\n여러분은 이번 우크라이나 전력 상황과 관련해 어떻게 보십니까?\n\n출처: AP 통신·키이우 독립신문·우크린폼 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나 전력망을 겨냥한 러시아의 대규모 공습이 임박했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "AP 통신은 러시아가 에너지 기반 시설을 향한 공격을 준비하고 있다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나 측은 기반 시설을 보호하기 위해 추가 무기 지원을 요청했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 공격 시점은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 상황, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "우크라이나 [[전력망]] 겨냥한\n러시아의 공습?",
+  "broll": [
+    "power grid station",
+    "city skyline night"
+  ],
+  "place_en": "Kyiv, Ukraine"
+}
