@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-27-news-china-taiwan-landing-drill-civilian-ships-2026",
+  "topic": "중국군 대만 겨냥 상륙 훈련 단행",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.27 13:36 KST",
+  "source": "Reuters·Indo-Pacific Defense FORUM·Mezha.net 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxQRHU2ODhzTFRNUi1YM1VpRVZEZlg4MXFpaGxIZU5SZ2xxNVZFTWlFWHlITkJLNXhSendCb3RYckhpQkhqcDRVeDdRdVJWRl9WWnJWYlZvV2tMM1VaalU2SlRQQTRYNVZzc0Y2SVp0WmJKai1kN3NtSEU1MkxLSkhGN0M2TW9JOHFianYwZEtrNTE2NW81aGlLTWRpc18xd2hwUmI1XzdQVGxON0dJREhldE5R",
+    "related": [
+      [
+        "Chinese military tests new Taiwan landing tactics in coastal drills",
+        "Reuters"
+      ],
+      [
+        "Monumental Gamble",
+        "Indo-Pacific Defense FORUM"
+      ],
+      [
+        "Reuters: PLA holds amphibious landing drills in Fujian to test floating bridges built with civilian ships",
+        "联合早报"
+      ],
+      [
+        "China tests civilian-vessel bridge in Taiwan-facing landing drill",
+        "Mezha.net"
+      ],
+      [
+        "Chinese satellite likely to fly over Taiwan’s ADIZ on Thursday",
+        "Taipei Times"
+      ]
+    ],
+    "event_key": "china_taiwan_landing_drill_civilian_ships_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "중국군 [[대만 겨냥]]\n상륙 훈련 단행",
+      "sub": "민간 선박을 동원해 해상 부교를 설치하는 신전술을 시험했습니다",
+      "chips": [],
+      "alt": "중국군 대만 겨냥 상륙 훈련 단행",
+      "map": {
+        "lat": 26.193218,
+        "lon": 118.2208721,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "중국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "중국\n푸젠성",
+      "video_only": true,
+      "map": {
+        "lat": 26.193218,
+        "lon": 118.2208721,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "푸젠성"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "민간 선박 동원",
+          "d": "중국군은 민간 선박을 이어 붙여 해상 부교를 만드는 상륙 훈련을 진행했다고 로이터 통신이 전했습니다."
+        },
+        {
+          "t": "푸젠성 해안서 실시",
+          "d": "이번 군사 훈련은 대만을 마주 본 푸젠성 연안에서 펼쳐졌다고 연합자보가 보도했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "중국군 대만 겨냥 상륙 훈련",
+        "민간 선박 활용 부교 구축"
+      ],
+      "unconfirmed": [
+        "훈련의 전체 규모 및 기간"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Indo-Pacific Defense FORUM",
+        "Mezha.net",
+        "Reuters",
+        "Taipei Times",
+        "联合早报",
+        "2026.11.27 17:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 중국군이 대만을 겨냥해 민간 선박을 동원한 상륙 훈련을 단행했습니다.\n\n· 중국군은 민간 선박을 연결해 해상 부교를 설치하는 신전술을 시험했습니다 (로이터)\n· 훈련은 대만과 인접한 푸젠성 연안에서 진행됐습니다 (연합자보)\n\n대만 해협을 둘러싼 군사적 긴장에 대해 어떻게 생각하십니까?\n\n출처: 로이터·연합자보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "중국군이 대만을 겨냥해 민간 선박을 동원한 상륙 훈련을 단행했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "훈련은 대만을 마주 보고 있는 푸젠성 연안에서 진행됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "로이터 통신은 중국군이 민간 선박을 연결해 해상 부교를 만드는 신전술을 시험했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "훈련의 정확한 전체 규모나 기간은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "대만 해협을 둘러싼 중국의 군사 행동, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[대만]] 겨냥한\n중국의 새 전술",
+  "broll": [
+    "navy ship sea",
+    "military exercise coast"
+  ],
+  "place_en": "Fujian, China"
+}

@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_rubio_hegseth_resignation_rumors_2026",
-    "topic": "트럼프 행정부 마코 루비오 사임설 부인",
-    "slug": "2026-11-06-news-us-rubio-hegseth-resignation-rumors-2026",
-    "cluster": "CBMiXkFVX3lxTFBpeGFjRlF0Y0VjVElIdnRPb1o3QTROeG9oUFBTbnVFbjBoN3hjaTFWZUdHMUo1OF9RSnlUUDBXQ1YzQ29tTW44UlJjV0xRazZRUmFiR0xVc0duUU8wZ2c",
-    "badge": "breaking",
-    "at": 1793935855.14681,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "putin_iran_security_chief_meeting_2026",
     "topic": "푸틴 러시아 대통령 이란 안보 수장과 회동",
     "slug": "2026-11-06-news-putin-iran-security-chief-meeting-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1795759800.6198494,
     "country": "미국",
+    "category": "국제"
+  },
+  {
+    "event_key": "china_taiwan_landing_drill_civilian_ships_2026",
+    "topic": "중국군 대만 겨냥 상륙 훈련 단행",
+    "slug": "2026-11-27-news-china-taiwan-landing-drill-civilian-ships-2026",
+    "cluster": "CBMisgFBVV95cUxQRHU2ODhzTFRNUi1YM1VpRVZEZlg4MXFpaGxIZU5SZ2xxNVZFTWlFWHlITkJLNXhSendCb3RYckhpQkhqcDRVeDdRdVJWRl9WWnJWYlZvV2tMM1VaalU2SlRQQTRYNVZzc0Y2SVp0WmJKai1kN3NtSEU1MkxLSkhGN0M2TW9JOHFianYwZEtrNTE2NW81aGlLTWRpc18xd2hwUmI1XzdQVGxON0dJREhldE5R",
+    "badge": "brief",
+    "at": 1795767247.0575607,
+    "country": "중국",
     "category": "국제"
   }
 ]

@@ -51187,5 +51187,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795760160
+  },
+  {
+    "slug": "2026-11-27-news-china-taiwan-landing-drill-civilian-ships-2026",
+    "event_ms": 1795767247057,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 중국군이 대만을 겨냥해 민간 선박을 동원한 상륙 훈련을 단행했습니다.\n\n· 중국군은 민간 선박을 연결해 해상 부교를 설치하는 신전술을 시험했습니다 (로이터)\n· 훈련은 대만과 인접한 푸젠성 연안에서 진행됐습니다 (연합자보)\n\n대만 해협을 둘러싼 군사적 긴장에 대해 어떻게 생각하십니까?\n\n출처: 로이터·연합자보 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "중국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18120620306031998",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgPOgbflUYr",
+        "kind": "carousel",
+        "at": 1795767293
+      },
+      "instagram": {
+        "id": "18248382133314400",
+        "permalink": "https://www.instagram.com/reel/DgPO0QJygP8/",
+        "kind": "reel",
+        "at": 1795767470
+      },
+      "youtube": {
+        "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
+        "at": 1795767480
+      },
+      "tiktok": {
+        "id": "7712762030024854790",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712762030024854790",
+        "kind": "video",
+        "at": 1795767603
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795767613
   }
 ]
