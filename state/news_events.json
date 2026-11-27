@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "linux_openssh_vulnerability_patch_2026",
-    "topic": "알파인 리눅스 기기서 비밀번호 우회 취약점 발견",
-    "slug": "2026-11-06-news-linux-openssh-vulnerability-patch-2026",
-    "cluster": "CBMiuAFBVV95cUxQYmRJaTFLMTV3OGd1QzlWOEhnNmE2alpWUkZfXzNBSEpNNjJCdWRfTm00VW93OWNZcjdULWZqMzVDZnFtdll0YjRMMkREdFhMVkN6TnMzLXVxU1hIZzhDTGNnUl9WWDFVWW5xZ1pRc3VDOGNlUmhwUzFDOGg1aHJFZUtiOE5rSm5GWWo4RmFqeXU3RUFxRnhaX1Y5YnQ0d2Fuc0JtMlBEaHJRX0stazBzWXBqZW13N3dR",
-    "badge": "breaking",
-    "at": 1793927159.2817628,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "washington_state_bird_flu_death_2026",
     "topic": "미국 워싱턴주서 조류인플루엔자 사망자 발생",
     "slug": "2026-11-06-news-washington-state-bird-flu-death-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795738010.2384968,
     "country": "스페인",
     "category": "사고"
+  },
+  {
+    "event_key": "new_zealand_election_final_count",
+    "topic": "뉴질랜드 최종 개표 결과 여당 과반 의석 상실",
+    "slug": "2026-11-27-news-new-zealand-election-final-count",
+    "cluster": "CBMiuwFBVV95cUxPcFJqbEVQNWVCSWlBVEdnUXJlWHgwV3pmUjRGZ254NjNIcGgtSHU0NkVsemlWUnFjZWlJa3BLY01sTDN3djdCS0ZYU2dvcGV0U0I5NUh4MDV2NU5ya0V1WS1BUkJRSGRtNnIxUlRqc3ZFOXBycWJITFh5cnB3WEtsa1B1REFtMDlkMmFYdlBLTEFKSjNvWGZ4SmtEMl9RMzRNbFdCS25kbHF4eVhGeGs5OW1Rb2FGcUhWcVJV",
+    "badge": "brief",
+    "at": 1795745501.7662845,
+    "country": "뉴질랜드",
+    "category": "국제"
   }
 ]

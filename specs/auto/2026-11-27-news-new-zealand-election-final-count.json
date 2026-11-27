@@ -1,0 +1,153 @@
+{
+  "slug": "2026-11-27-news-new-zealand-election-final-count",
+  "topic": "뉴질랜드 최종 개표 결과 여당 과반 의석 상실",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.27 07:34 KST",
+  "source": "BBC·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiuwFBVV95cUxPcFJqbEVQNWVCSWlBVEdnUXJlWHgwV3pmUjRGZ254NjNIcGgtSHU0NkVsemlWUnFjZWlJa3BLY01sTDN3djdCS0ZYU2dvcGV0U0I5NUh4MDV2NU5ya0V1WS1BUkJRSGRtNnIxUlRqc3ZFOXBycWJITFh5cnB3WEtsa1B1REFtMDlkMmFYdlBLTEFKSjNvWGZ4SmtEMl9RMzRNbFdCS25kbHF4eVhGeGs5OW1Rb2FGcUhWcVJV",
+    "related": [
+      [
+        "Final New Zealand election vote count to confirm parliament make up",
+        "Reuters"
+      ],
+      [
+        "New Zealand: Ruling coalition loses parliamentary majority",
+        "BBC"
+      ],
+      [
+        "Deal or deadlock: Three ways today's final count could land",
+        "RNZ"
+      ],
+      [
+        "Labour flips two electorates on specials, loses one",
+        "NZ Herald"
+      ],
+      [
+        "New Zealand election: final results show ruling coalition needs minor party to govern",
+        "The Guardian"
+      ]
+    ],
+    "event_key": "new_zealand_election_final_count"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "뉴질랜드 최종 개표 결과\n여당 [[과반 의석]] 상실",
+      "sub": "정부 운영 위해 군소정당 협력 불가피해져",
+      "chips": [
+        {
+          "k": "결과",
+          "v": "과반 상실"
+        },
+        {
+          "k": "국가",
+          "v": "뉴질랜드"
+        }
+      ],
+      "alt": "뉴질랜드 최종 개표 결과 여당 과반 의석 상실",
+      "map": {
+        "lat": -41.2887953,
+        "lon": 174.7772114,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "뉴질랜드"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "뉴질랜드\n웰링턴",
+      "video_only": true,
+      "map": {
+        "lat": -41.2887953,
+        "lon": 174.7772114,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "웰링턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "최종 개표",
+          "d": "최종 선거 개표 결과 의회 구성이 확정됐습니다 (로이터)."
+        },
+        {
+          "t": "의석 변화",
+          "d": "집권 연정이 의회 과반 의석을 잃은 것으로 나타났습니다 (BBC)."
+        },
+        {
+          "t": "향후 전망",
+          "d": "원활한 국정 운영을 위해 군소정당의 지지가 필요한 상황입니다 (가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "집권 연정 과반 의석 상실",
+        "뉴질랜드 최종 선거 결과 확정"
+      ],
+      "unconfirmed": [
+        "군소정당과의 구체적 연대 협상 결과",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "NZ Herald",
+        "RNZ",
+        "Reuters",
+        "The Guardian",
+        "2026.11.27 11:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 뉴질랜드 최종 개표 결과 여당 과반 의석 상실\n\n· 최종 선거 개표 결과 의회 구성이 확정됐습니다 (로이터)\n· 집권 연정이 의회 과반 의석을 잃은 것으로 나타났습니다 (BBC)\n· 원활한 국정 운영을 위해 군소정당의 지지가 필요한 상황입니다 (가디언)\n\n의회 권력이 재편된 이번 결과에 대해 어떻게 생각하십니까?\n출처: 로이터·BBC·가디언 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "뉴질랜드 최종 선거 개표 결과 집권 연정이 과반 의석을 잃었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 최종 개표로 의회 구성이 공식 확정됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "이에 따라 정부는 향후 국정 운영을 위해 군소정당의 협력이 불가피해졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "군소정당과의 구체적인 연대 협상 향방은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 뉴질랜드의 정권 구도 변화를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "정권 구도 변화"
+    }
+  ],
+  "hook": "뉴질랜드 총선 최종 결과,\n[[여당]]의 운명은?",
+  "broll": [
+    "parliament building exterior",
+    "voting ballot box"
+  ],
+  "place_en": "Wellington, New Zealand"
+}
