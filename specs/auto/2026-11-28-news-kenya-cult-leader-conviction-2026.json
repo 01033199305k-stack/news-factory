@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-28-news-kenya-cult-leader-conviction-2026",
+  "topic": "케냐 사이비 종교 지도자 추가 사망자 123명 관련 유죄 선고",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 01:05 KST",
+  "source": "BBC·Reuters·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMisgFBVV95cUxPNV9xSXN2bGFKNC1zQ3BFWG5UTlJKSlFpRTRaR3U5akZUNFk4VVNLTlVlRmpibVc4UlJVS2MzMkp0Q3pGdm1oN1R1UFZMSkEzWldUQldVU0VLRThFNWlPUUYyOTBfMEhQMEs5ZWZnWUJxdFRFNVpVN3otUGRidXc5alJ1OTE4YmZpcUlzUDl3T1NXNDdFTE1TUU1PSjc4MmVzVU9sWFZNeHl6OXZyVVpncnVn",
+    "related": [
+      [
+        "Kenyan cult leader in jail for 191 murders convicted over another 123 deaths",
+        "Sky News"
+      ],
+      [
+        "Paul Mackenzie: Kenyan doomsday cult leader convicted over further 123 deaths",
+        "BBC"
+      ],
+      [
+        "Kenyan cult leader convicted of new charges after killing almost 200 children",
+        "The Independent"
+      ],
+      [
+        "Kenyan cult leader serving 200 years for murder convicted of terrorism-related charges",
+        "Reuters"
+      ],
+      [
+        "Court convicts Mackenzie and 38 others on radicalisation charges in Shakahola terrorism case",
+        "The Eastleigh Voice"
+      ]
+    ],
+    "event_key": "kenya_cult_leader_conviction_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "케냐 사이비 종교 지도자\n추가 사망자 123명 관련 [[유죄]] 선고",
+      "sub": "테러 및 급진화 혐의로 추가 유죄 판결",
+      "chips": [
+        {
+          "k": "추가 사망",
+          "v": "123명"
+        },
+        {
+          "k": "공범",
+          "v": "38명"
+        }
+      ],
+      "alt": "케냐 사이비 종교 지도자 추가 사망자 123명 관련 유죄 선고",
+      "map": {
+        "lat": -3.1983918,
+        "lon": 40.1142573,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "케냐"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "케냐\n샤카홀라",
+      "video_only": true,
+      "map": {
+        "lat": -3.1983918,
+        "lon": 40.1142573,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "샤카홀라"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "테러 혐의",
+          "d": "케냐 법원은 사이비 종교 지도자 매켄지와 공범 38명에게 테러 관련 혐의로 유죄를 선고했습니다 (로이터·The Eastleigh Voice)."
+        },
+        {
+          "t": "추가 희생",
+          "d": "이번 재판으로 추가 사망자 123명에 대한 혐의가 유죄로 인정됐습니다 (스카이뉴스·BBC)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사이비 종교 지도자 매켄지 유죄 선고",
+        "추가 사망자 123명 관련 혐의 인정",
+        "공범 38명 함께 유죄 판결"
+      ],
+      "unconfirmed": [
+        "정확한 총 사망자 수 최종 집계",
+        "추가 공범 여부에 대한 수사 진행 상황"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "BBC",
+        "Reuters",
+        "Sky News",
+        "The Eastleigh Voice",
+        "The Independent",
+        "2026.11.28 02:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 케냐 사이비 종교 지도자 추가 사망자 123명 관련 유죄 선고\n\n· 케냐 법원은 사이비 종교 지도자 매켄지와 공범 38명에게 테러 관련 혐의로 유죄를 선고했습니다 (로이터·The Eastleigh Voice)\n· 이번 재판으로 추가 사망자 123명에 대한 혐의가 유죄로 인정됐습니다 (스카이뉴스·BBC)\n\n출처: 스카이뉴스·BBC·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "케냐에서 사이비 종교 지도자 매켄지가 추가 사망자 123명과 관련해 유죄를 선고받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 법원이 테러 관련 혐의로 공범 38명과 함께 유죄를 선고했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 총 사망자 수는 아직 최종 집계되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "케냐 사이비 종교\n지도자에게 [[유죄]] 선고",
+  "broll": [
+    "court room building",
+    "police officers outside"
+  ],
+  "place_en": "Shakahola, Kenya"
+}

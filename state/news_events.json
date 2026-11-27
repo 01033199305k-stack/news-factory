@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "france_school_bus_crash_deaths_2026",
-    "topic": "프랑스 스쿨버스 추락 어린이 등 2명 사망",
-    "slug": "2026-11-06-news-france-school-bus-crash-deaths-2026",
-    "cluster": "CBMif0FVX3lxTFBTWnprNTBSVWdqMmY5b0lDbHJ3X0tJd2tEcnZYN3Fmd0hnUE1sQlZ1OVM2ZS1GR0RyajVUMjF6UHVraGtxOTdWR0FicFZXQkcybVdXZWhjVFIxR2paS2pYTXl2dkdoWmdqeWxMYTA3OEg5UlgyeGk0Zk5PSUxWVE0",
-    "badge": "breaking",
-    "at": 1793962965.6123605,
-    "country": "프랑스",
-    "category": "사고"
-  },
-  {
     "event_key": "ireland_media_bomb_threats_2026",
     "topic": "아일랜드 공영방송 등 언론사 폭탄 위협 대피",
     "slug": "2026-11-06-news-ireland-media-bomb-threats-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795795898.7439635,
     "country": "미국",
     "category": "사고"
+  },
+  {
+    "event_key": "kenya_cult_leader_conviction_2026",
+    "topic": "케냐 사이비 종교 지도자 추가 사망자 123명 관련 유죄 선고",
+    "slug": "2026-11-28-news-kenya-cult-leader-conviction-2026",
+    "cluster": "CBMisgFBVV95cUxPNV9xSXN2bGFKNC1zQ3BFWG5UTlJKSlFpRTRaR3U5akZUNFk4VVNLTlVlRmpibVc4UlJVS2MzMkp0Q3pGdm1oN1R1UFZMSkEzWldUQldVU0VLRThFNWlPUUYyOTBfMEhQMEs5ZWZnWUJxdFRFNVpVN3otUGRidXc5alJ1OTE4YmZpcUlzUDl3T1NXNDdFTE1TUU1PSjc4MmVzVU9sWFZNeHl6OXZyVVpncnVn",
+    "badge": "breaking",
+    "at": 1795799289.3356826,
+    "country": "케냐",
+    "category": "기타 사건"
   }
 ]
