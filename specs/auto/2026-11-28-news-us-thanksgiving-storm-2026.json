@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-28-news-us-thanksgiving-storm-2026",
+  "topic": "미국 추수감사절 강타한 폭풍 90만 곳 정전 및 교통대란",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 00:34 KST",
+  "source": "KBS 뉴스·YTN 사이언스·뉴시스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMingFBVV95cUxQbUh0VTF0dWZxVUd5OVdTa1lndXlxU0g0WU9CSFk2YXlZWVVza3BvRDRZQ1VNcklVSFFPVG5sQlRERFl4dHNYdEllamsweWRGRkdZMTU4SXFJalM1SkxYaDkwVmRBVzI5Uk51NDdnQ0pyWGNXQkZVMWoyZHZuekFKazVzbUthNkVsR2k2U1hYY2MtZ2c5X05MMngxOFMwUQ",
+    "related": [
+      [
+        "비 쏟아지고 강풍 불 땐 ‘뉴욕 스타일’",
+        "조선일보"
+      ],
+      [
+        "거대 파도 '킹타이드'의 습격...다리 무너지고 추수감사절 퍼레이드 100년 만에 연기",
+        "YTN 사이언스"
+      ],
+      [
+        "트럼프, 폭우 피해 플로리다에 재난 선포…1억달러 긴급 지원",
+        "연합뉴스"
+      ],
+      [
+        "추수감사절 美 덮친 폭풍·폭설…90만곳 정전·육해공 '교통대란'",
+        "뉴시스"
+      ],
+      [
+        "[월드 플러스] 경고 무시하고 접근하더니…파도 휩쓸린 남성과 반려견",
+        "KBS 뉴스"
+      ]
+    ],
+    "event_key": "us_thanksgiving_storm_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미국 추수감사절 강타한 폭풍\n[[90만 곳]] 정전 및 교통대란",
+      "sub": "플로리다에 재난 선포와 함께 1억 달러 긴급 지원",
+      "chips": [
+        {
+          "k": "정전",
+          "v": "90만 곳"
+        }
+      ],
+      "alt": "미국 추수감사절 강타한 폭풍 90만 곳 정전 및 교통대란",
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n플로리다",
+      "video_only": true,
+      "map": {
+        "lat": 27.7567667,
+        "lon": -81.4639835,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "플로리다"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "재난 선포",
+          "d": "트럼프는 폭우 피해 플로리다에 재난을 선포하고 1억달러를 긴급 지원했습니다 (연합뉴스)."
+        },
+        {
+          "t": "교통 마비",
+          "d": "추수감사절 美 덮친 폭풍·폭설로 육해공 교통대란이 발생했습니다 (뉴시스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "90만 곳 정전 발생",
+        "플로리다주 재난 선포",
+        "1억 달러 긴급 지원"
+      ],
+      "unconfirmed": [
+        "정확한 피해 규모 추가 집계"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "KBS 뉴스",
+        "YTN 사이언스",
+        "뉴시스",
+        "연합뉴스",
+        "조선일보",
+        "2026.11.28 01:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 추수감사절 강타한 폭풍으로 90만 곳 정전 및 교통대란 발생\n\n· 트럼프는 폭우 피해 플로리다에 재난 선포와 함께 1억달러를 긴급 지원했습니다 (연합뉴스)\n· 추수감사절 美 덮친 폭풍·폭설로 육해공 교통대란이 발생했습니다 (뉴시스)\n\n출처: 조선일보·YTN 사이언스·연합뉴스·뉴시스·KBS 뉴스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "추수감사절 미국을 덮친 폭풍으로 90만 곳에 정전이 발생했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "플로리다에 재난이 선포됐으며 1억달러가 긴급 지원됐습니다.",
+      "card": "map"
+    },
+    {
+      "text": "폭풍과 폭설로 육해공 교통대란이 발생했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 피해 규모는 아직 알려지지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "미국 [[추수감사절]]을\n덮친 폭풍의 정체는?",
+  "broll": [
+    "severe storm rain",
+    "power outage night"
+  ],
+  "place_en": "Florida, USA"
+}

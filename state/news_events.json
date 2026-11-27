@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_midterm_democrats_house_majority_2026",
-    "topic": "미 민주당 하원 과반 250석 넘겨 승리",
-    "slug": "2026-11-06-news-us-midterm-democrats-house-majority-2026",
-    "cluster": "CBMiggFBVV95cUxNOGJwajJTMnQ4VlgzdDdtOXY4ZmZDWHE1a1JoWG5ZRk1yNU43d29mdl9HUUw4TnJVVWFjQ3lfaGZlSFQwRWcwNmtFWklNR1RtZnlQc3lKMkVOWTl2d0pDNjM1UEk0ZVBKMzNlY3AtQXBweEF2TnhXckFDRmFQYWdYcElB",
-    "badge": "breaking",
-    "at": 1793962815.9148743,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "france_school_bus_crash_deaths_2026",
     "topic": "프랑스 스쿨버스 추락 어린이 등 2명 사망",
     "slug": "2026-11-06-news-france-school-bus-crash-deaths-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795792065.6477506,
     "country": "미국",
     "category": "경제·과학"
+  },
+  {
+    "event_key": "us_thanksgiving_storm_2026",
+    "topic": "미국 추수감사절 강타한 폭풍 90만 곳 정전 및 교통대란",
+    "slug": "2026-11-28-news-us-thanksgiving-storm-2026",
+    "cluster": "CBMingFBVV95cUxQbUh0VTF0dWZxVUd5OVdTa1lndXlxU0g0WU9CSFk2YXlZWVVza3BvRDRZQ1VNcklVSFFPVG5sQlRERFl4dHNYdEllamsweWRGRkdZMTU4SXFJalM1SkxYaDkwVmRBVzI5Uk51NDdnQ0pyWGNXQkZVMWoyZHZuekFKazVzbUthNkVsR2k2U1hYY2MtZ2c5X05MMngxOFMwUQ",
+    "badge": "breaking",
+    "at": 1795795898.7439635,
+    "country": "미국",
+    "category": "사고"
   }
 ]
