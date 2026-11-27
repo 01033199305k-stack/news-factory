@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-27-news-us-russia-trump-putin-europe-2026",
+  "topic": "도널드 트럼프 미국 대통령은 푸틴 러시아 대통령에게 유럽 내 군사 공격을 철회하라고 요구했습니다.",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.27 13:23 KST",
+  "source": "Reuters·The Guardian·The Independent 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwwFBVV95cUxPeWl2OWpLLXZ2LUxGcWdadEtpeGJLQm5qeDFSUjFoYVBtdEFOTlBjRm1ILUVGS3RmblZCa0pMOFNHMzFSMy1aX2c0QmZNR1JGUjNqLWVxYjZRLWNWVzRKWVNoLXgySTlqV2J4Wk53Sko4RnR4b2I4WVMzZ01FZzQxSklYZmhkS0RrLUdrTXVnd2lxeEJ4THFiZkZwTEU5eFdHSmJ6T0RhY01YZXFZNmJ1QnhFbGJIeUVmc3p1Q2pSc1g1bUU",
+    "related": [
+      [
+        "Ukraine-Russia war latest: Trump says Putin can attend G20 despite urging him to ‘stop the bloodbath’ in Europe",
+        "The Independent"
+      ],
+      [
+        "Trump says he wants Putin to ‘pull back all military aggression’ in Europe – as it happened",
+        "The Guardian"
+      ],
+      [
+        "Trump tells Putin to ‘pull back all military aggression’ in Europe",
+        "The Telegraph"
+      ],
+      [
+        "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
+        "Reuters"
+      ],
+      [
+        "Trump Says He Told Putin To ‘Pull Back’ All Military Aggression Against Europe",
+        "Forbes"
+      ]
+    ],
+    "event_key": "us_russia_trump_putin_europe_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "도널드 트럼프 미국 대통령은 푸틴 러시아 대통령에게\n[[유럽 내 군사 공격]]을 철회하라고 요구했습니다.",
+      "sub": "푸틴이 G20 회의에 참석할 수 있다고 언급했습니다",
+      "chips": [],
+      "alt": "도널드 트럼프 미국 대통령은 푸틴 러시아 대통령에게 유럽 내 군사 공격을 철회하라고 요구했습니다.",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "G20 참석 가능성",
+          "d": "트럼프 대통령은 푸틴 대통령이 G20 회의에 참석할 수 있다고 밝혔습니다 (로이터·가디언)."
+        },
+        {
+          "t": "유럽 유혈 사태",
+          "d": "유럽의 유혈 사태를 멈추라고 촉구했다고 외신들이 전했습니다 (디 인디펜던트·로이터)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "유럽 내 군사 공격 철회 요구",
+        "푸틴 G20 참석 가능성 언급"
+      ],
+      "unconfirmed": [
+        "러시아 측의 공식 답변 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Forbes",
+        "Reuters",
+        "The Guardian",
+        "The Independent",
+        "The Telegraph",
+        "2026.11.27 15:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 트럼프 미국 대통령은 푸틴 러시아 대통령에게 유럽 내 군사 공격을 철회하라고 요구했습니다.\n\n· 트럼프 대통령은 유럽의 유혈 사태를 멈추라고 촉구했습니다 (디 인디펜던트·로이터)\n· 푸틴 대통령이 G20 회의에 참석할 수 있다고 언급했습니다 (로이터·가디언)\n\n여러분은 이번 트럼프 대통령의 대러시아 발언, 어떻게 보십니까?\n\n출처: 로이터·가디언·디 인디펜던트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "트럼프 미국 대통령은 푸틴 러시아 대통령에게 유럽 내 군사 공격을 철회하라고 요구했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 트럼프 대통령이 유럽의 유혈 사태를 멈추라고 촉구했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "푸틴 대통령이 G20 회의에 참석할 수 있다는 입장도 함께 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "러시아 측의 구체적인 답변은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 트럼프 대통령의 대러시아 발언, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "트럼프가 푸틴에게\n[[한 말]]은?",
+  "broll": [
+    "white house exterior",
+    "map of europe"
+  ],
+  "place_en": "Washington, D.C."
+}

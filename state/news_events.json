@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_stock_rout_ai_meltdown_2026",
-    "topic": "미 뉴욕증시 폭락 다우 1800포인트 뚝",
-    "slug": "2026-11-06-news-us-stock-rout-ai-meltdown-2026",
-    "cluster": "CBMi1gFBVV95cUxOZTZIZ0tKbklnYWJvNVFoSXUtcEFER2lUNXBpaUpWeW0zMVgxakZfODVnb0NwdG0tUDFVcGFoakZPbWhNRUlBcHFSM2dlN2RmQ256c19feE1PNjFNclZwQl9aSXFSRi10eGNoc1JjQUxpRGhEa05JT0dJdzBXLXI1LXNoa3pQZEJ4ZjAyNjBLSkF3VGhMckwzVFl4SnJLSlBtTEJXLUc4S2x4NFk3S1lsUGxDc3BKZ3dkeEZ5TmRNbVptdjFxOGFXMUFsQy1UR2l1UklaMUd3",
-    "badge": "breaking",
-    "at": 1793931118.6559808,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "us_rubio_hegseth_resignation_rumors_2026",
     "topic": "트럼프 행정부 마코 루비오 사임설 부인",
     "slug": "2026-11-06-news-us-rubio-hegseth-resignation-rumors-2026",
@@ -2997,6 +2987,16 @@
     "badge": "brief",
     "at": 1795752427.9312506,
     "country": "우크라이나",
+    "category": "국제"
+  },
+  {
+    "event_key": "us_russia_trump_putin_europe_2026",
+    "topic": "도널드 트럼프 미국 대통령은 푸틴 러시아 대통령에게 유럽 내 군사 공격을 철회하라고 요구했습니다.",
+    "slug": "2026-11-27-news-us-russia-trump-putin-europe-2026",
+    "cluster": "CBMiwwFBVV95cUxPeWl2OWpLLXZ2LUxGcWdadEtpeGJLQm5qeDFSUjFoYVBtdEFOTlBjRm1ILUVGS3RmblZCa0pMOFNHMzFSMy1aX2c0QmZNR1JGUjNqLWVxYjZRLWNWVzRKWVNoLXgySTlqV2J4Wk53Sko4RnR4b2I4WVMzZ01FZzQxSklYZmhkS0RrLUdrTXVnd2lxeEJ4THFiZkZwTEU5eFdHSmJ6T0RhY01YZXFZNmJ1QnhFbGJIeUVmc3p1Q2pSc1g1bUU",
+    "badge": "brief",
+    "at": 1795759800.6198494,
+    "country": "미국",
     "category": "국제"
   }
 ]
