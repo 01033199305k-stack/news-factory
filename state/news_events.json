@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "us_iran_nuclear_proposal_talks_2026",
-    "topic": "이란, 미국에 핵 제안 전달 평화 협상 움직임",
-    "slug": "2026-11-06-news-us-iran-nuclear-proposal-talks-2026",
-    "cluster": "CBMixwFBVV95cUxNUjUxQzJHS2FHTGFjdVJVU2lIM3FjdWhFRTNmNUhJaFZSdDRVa2JsMWZabkJSam94VzVtcmxhTmpodmJvb2QzY0NJdmxZVEgxT19TY092RnJHN2hnSmRCWGFYV25kRi1lU3ZjQ3VjVVRveFAzT0haRHhkcFlvbG1EdjZEb3J4NmIzdzJOYVVXYlhwRUJHN19SckxLMFhZSUlLM1AzLWlES0pNdHlhcUdkQmJSY25sSmZXSFkyajZmTmV3a1Z2SENr0gHMAUFVX3lxTE8tMFpMdkJBUDZaZE9UZXh0MHE3dnZrLVpUcFhwNXk0TGlWNnlFbTRwMmFuN2pYeEw1ZDFJa29kUEYwY2VoeHpfTjYwb2hTS3NZeklXQ0NpX2otUHhXZ1Y1OGJVRGN5X0tnZkNqWk05VTc1LU1uR3ZDSlM3c09pLVpZckNyd2lqR3NyQlpKcl84eE01MDlVMzNQY0J4dGNWdndHcExyQmNJQmlhODRFWGJHNnN2ZW9EM1B2M0s2MmZPR09INzZfQUpOUVJ5Zg",
-    "badge": "breaking",
-    "at": 1793977648.2013676,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "thomas_markle_arrest",
     "topic": "메건 마클 부친, 미국 플로리다서 체포돼",
     "slug": "2026-11-06-news-thomas-markle-arrest",
@@ -2998,5 +2988,15 @@
     "at": 1795802935.0429757,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "us_air_force_cloud_one_hack_2026",
+    "topic": "미 공군 클라우드망 해킹 침입당해",
+    "slug": "2026-11-28-news-us-air-force-cloud-one-hack-2026",
+    "cluster": "CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0",
+    "badge": "breaking",
+    "at": 1795810125.503309,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

@@ -1,0 +1,134 @@
+{
+  "slug": "2026-11-28-news-us-air-force-cloud-one-hack-2026",
+  "topic": "미 공군 클라우드망 해킹 침입당해",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 04:49 KST",
+  "source": "NBC News·Reuters·The Guardian 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0",
+    "related": [
+      [
+        "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform",
+        "Reuters"
+      ],
+      [
+        "Hackers break into US Air Force cloud computing platform: Report",
+        "The Hill"
+      ],
+      [
+        "Hackers attack and penetrate Air Force’s computing platform",
+        "NBC News"
+      ],
+      [
+        "Hackers reportedly breach US air force’s flagship cloud computing platform",
+        "The Guardian"
+      ],
+      [
+        "US air force’s computer system hit by cyberattack",
+        "The Times"
+      ]
+    ],
+    "event_key": "us_air_force_cloud_one_hack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "미 공군 클라우드망\n[[해킹]] 침입당해",
+      "sub": "핵심 컴퓨팅 플랫폼 '클라우드 원' 해킹 피해 보도",
+      "chips": [],
+      "alt": "미 공군 클라우드망 해킹 침입당해",
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n워싱턴 D.C.",
+      "video_only": true,
+      "map": {
+        "lat": 38.8950982,
+        "lon": -77.0363849,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "워싱턴 D.C."
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해킹 대상",
+          "d": "미국 공군 전용 클라우드 시스템인 '클라우드 원'이 해킹 침투를 당했습니다 (로이터)."
+        },
+        {
+          "t": "외신 보도",
+          "d": "해커들이 공군 주요 플랫폼에 침입했다고 보도했습니다 (NBC·가디언)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미 공군 클라우드 원 해킹 침입 (로이터·가디언)"
+      ],
+      "unconfirmed": [
+        "해킹 배후 세력 및 구체적 피해 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "NBC News",
+        "Reuters",
+        "The Guardian",
+        "The Hill",
+        "The Times",
+        "2026.11.28 05:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 미국 공군의 핵심 클라우드 시스템이 해킹 침입을 당했습니다.\n\n· 미 공군 전용 컴퓨팅 플랫폼 '클라우드 원'이 해킹 피해를 입었습니다 (로이터·가디언)\n· 주요 외신은 해커 세력이 공군 컴퓨팅 플랫폼에 침투했다고 전했습니다 (가디언·더힐)\n\n출처: 로이터·NBC·가디언·더힐·더타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 공군의 핵심 클라우드 시스템이 해킹 침입을 당했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "해커들이 공군 전용 컴퓨팅 플랫폼인 '클라우드 원'에 침투했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "로이터 통신 등 주요 외신이 이 같은 해킹 피해를 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "해킹의 배후 세력과 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "[[미 공군]] 클라우드망\n해킹 침입당했나",
+  "broll": [
+    "computer server room",
+    "cloud data center"
+  ],
+  "place_en": "Washington D.C., United States"
+}
