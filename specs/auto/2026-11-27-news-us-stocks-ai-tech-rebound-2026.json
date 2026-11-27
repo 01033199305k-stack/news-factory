@@ -1,0 +1,144 @@
+{
+  "slug": "2026-11-27-news-us-stocks-ai-tech-rebound-2026",
+  "topic": "미국 증시 반등 기술주 상승세",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.27 21:07 KST",
+  "source": "Bloomberg.com·Reuters·Barron's 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA",
+    "related": [
+      [
+        "Nasdaq futures surge as investors pile back into battered AI stocks",
+        "Yahoo Finance"
+      ],
+      [
+        "Dow rallies 500 points as benchmark heads for best week since April 2025: Live updates",
+        "CNBC"
+      ],
+      [
+        "Stocks Rally as AI Fears Fade. Call It a Black Friday Bounce.",
+        "Barron's"
+      ],
+      [
+        "US Futures Rally as Tech Rebound Gains Momentum: Markets Wrap",
+        "Bloomberg.com"
+      ],
+      [
+        "US stocks set for higher open as battered AI shares claw back losses",
+        "Reuters"
+      ]
+    ],
+    "event_key": "us_stocks_ai_tech_rebound_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미국 증시 반등\n[[기술주]] 상승세",
+      "sub": "AI 우려 완화에 다우·나스닥 선물 상승 (CNBC·블룸버그)",
+      "chips": [
+        {
+          "k": "다우 상승",
+          "v": "500포인트 (CNBC)"
+        }
+      ],
+      "alt": "미국 증시 반등 기술주 상승세",
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n뉴욕",
+      "video_only": true,
+      "map": {
+        "lat": 40.7127281,
+        "lon": -74.0060152,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "뉴욕"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "기술주 반등",
+          "d": "폭락했던 인공지능 관련 주식이 반등을 이끌었습니다 (배런스·로이터)."
+        },
+        {
+          "t": "나스닥 선물 급등",
+          "d": "투자자들이 다시 기술주로 몰리면서 나스닥 선물이 크게 올랐습니다 (야후 파이낸스·블룸버그)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "다우지수 500포인트 상승 (CNBC)",
+        "AI 주가 반등세 (배런스·로이터)"
+      ],
+      "unconfirmed": [
+        "주가 상승세의 장기 유지 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Barron's",
+        "Bloomberg.com",
+        "CNBC",
+        "Reuters",
+        "Yahoo Finance",
+        "2026.11.28 00:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미국 증시가 기술주 반등에 힘입어 크게 올랐습니다.\n\n· 다우 지수는 500포인트 넘게 상승했습니다 (CNBC).\n· 폭락했던 인공지능 관련 주식에 다시 투자금이 몰렸습니다 (배런스·로이터).\n· 나스닥 선물도 급등하며 상승세를 전했습니다 (야후 파이낸스·블룸버그).\n\n미국 증시의 반등세, 앞으로 지속될 수 있을까요?\n\n출처: 야후 파이낸스·CNBC·배런스·블룸버그·로이터 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미국 증시가 기술주 반등에 힘입어 상승세로 돌아섰습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "다우 지수는 500포인트 올랐고 나스닥 선물도 급등했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인공지능 관련 주식에 다시 투자금이 몰리면서 주가를 끌어올렸습니다.",
+      "card": "points"
+    },
+    {
+      "text": "주가 상승세가 계속 이어질지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 증시 반등, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "기술주 반등\n[[증시]]의 향방은?",
+  "broll": [
+    "stock exchange screen",
+    "wall street board"
+  ],
+  "place_en": "New York, USA"
+}

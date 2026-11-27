@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia_ukraine_abu_dhabi_talks_2026",
-    "topic": "다음 주 아부다비서 우크라 3자 평화회담",
-    "slug": "2026-11-06-news-russia-ukraine-abu-dhabi-talks-2026",
-    "cluster": "CBMiS0FVX3lxTE5GRl9LVFhmU2NMSUtOOWp5ejZSeVhEUFhON2U3N3FyUDBBcHFza1VocWN2OXF4cm5wLUxWLTM4dlJPTG51NjJxUXRWVQ",
-    "badge": "brief",
-    "at": 1793959924.6600175,
-    "country": "아랍에미리트",
-    "category": "국제"
-  },
-  {
     "event_key": "us_midterm_democrats_house_majority_2026",
     "topic": "미 민주당 하원 과반 250석 넘겨 승리",
     "slug": "2026-11-06-news-us-midterm-democrats-house-majority-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795777783.4124444,
     "country": "코스타리카",
     "category": "국제"
+  },
+  {
+    "event_key": "us_stocks_ai_tech_rebound_2026",
+    "topic": "미국 증시 반등 기술주 상승세",
+    "slug": "2026-11-27-news-us-stocks-ai-tech-rebound-2026",
+    "cluster": "CBMinAFBVV95cUxNUWJJc3ROZk0wcEN4cGlsTjNfUmVCcmh6bnZrNXkzVjAwdVMwOC1ZQUM2bUVUMHBSbGVSdEFqNTFIUC1XM3lfYTdaUFNUNWhUdlhVVjNCMEJmaG1LaEEwRDF2TndBbk9fTkRucTJPYkhza0hEMk5tWmV1MHI4YUZ2Z3lIOW01dFJ2SGJHSFJSSUR1ZU9wMThUbDlhNXA",
+    "badge": "brief",
+    "at": 1795792065.6477506,
+    "country": "미국",
+    "category": "경제·과학"
   }
 ]
