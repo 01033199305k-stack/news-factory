@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ireland_media_bomb_threats_2026",
-    "topic": "아일랜드 공영방송 등 언론사 폭탄 위협 대피",
-    "slug": "2026-11-06-news-ireland-media-bomb-threats-2026",
-    "cluster": "CBMiXkFVX3lxTE1Zcl9HMlhFRi1QVWtfeklja2hoekM4OG1UQVZsVkNlTDdyVlVvVGVEUnhnVGg3cVdhcWhlczF6UTJsWGFDVTg3dWF5Z3dxNXpncmNka0dnSXp4a096ZlE",
-    "badge": "breaking",
-    "at": 1793966785.2366917,
-    "country": "아일랜드",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "us_iran_nuclear_proposal_talks_2026",
     "topic": "이란, 미국에 핵 제안 전달 평화 협상 움직임",
     "slug": "2026-11-06-news-us-iran-nuclear-proposal-talks-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795799289.3356826,
     "country": "케냐",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "russia_criminalize_ukraine_strike_info",
+    "topic": "러시아, 우크라이나 공격 정보 공유 시 처벌하는 법안 추진",
+    "slug": "2026-11-28-news-russia-criminalize-ukraine-strike-info",
+    "cluster": "CBMihAFBVV95cUxOcmxpeWpWRnlFOE5Bc2RKdTlsNkpPY1daeUViRU9WTjVWM1FueFV3SFdtRjh6SHYyRTlsWG9teTZjOE80UUdubE5PTm1OY1dUdTk3Q0I0dWFwTDY4UzNuZjdFQmdadWVfWVdkLVBuYlZqeWJUbFRfaEpYaFhhYXlzMmhlVzg",
+    "badge": "breaking",
+    "at": 1795802935.0429757,
+    "country": "러시아",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-28-news-russia-criminalize-ukraine-strike-info",
+  "topic": "러시아, 우크라이나 공격 정보 공유 시 처벌하는 법안 추진",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 00:16 KST",
+  "source": "Financial Times·1News.az·EADaily 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMihAFBVV95cUxOcmxpeWpWRnlFOE5Bc2RKdTlsNkpPY1daeUViRU9WTjVWM1FueFV3SFdtRjh6SHYyRTlsWG9teTZjOE80UUdubE5PTm1OY1dUdTk3Q0I0dWFwTDY4UzNuZjdFQmdadWVfWVdkLVBuYlZqeWJUbFRfaEpYaFhhYXlzMmhlVzg",
+    "related": [
+      [
+        "Russia set to criminalise sharing information about Ukrainian strikes",
+        "Financial Times"
+      ],
+      [
+        "‘No reports, no strikes’: Russia’s pro-war bloggers slam proposed prison sentences for sharing photos and videos of Ukrainian attacks",
+        "Meduza"
+      ],
+      [
+        "Z-bloggers are outraged by the initiative of the State Duma: people will start reading information washes from Ukraine",
+        "EADaily"
+      ],
+      [
+        "Russia Wants to Impose Prison Sentences for Publishing Footage of Ukrainian Attacks",
+        "UA.NEWS"
+      ],
+      [
+        "A bill on punishment for spreading information about strikes on Russia has been submitted to the State Duma",
+        "1News.az"
+      ]
+    ],
+    "event_key": "russia_criminalize_ukraine_strike_info"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "러시아, [[우크라이나]] 공격 정보 공유 시\n처벌하는 법안 추진",
+      "sub": "우크라이나 타격 관련 사진과 영상 배포에 징역형 검토",
+      "chips": [
+        {
+          "k": "처벌 법안",
+          "v": "러시아 국가두마"
+        }
+      ],
+      "alt": "러시아, 우크라이나 공격 정보 공유 시 처벌하는 법안 추진",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "법안 제출",
+          "d": "러시아 국가두마에 우크라이나의 공격 관련 정보 전파를 처벌하는 법안이 제출됐습니다 (1News.az)."
+        },
+        {
+          "t": "반발",
+          "d": "러시아의 친전쟁 블로거들은 공격 사진과 영상 공유에 징역형을 부과하려는 방침에 반발하고 있습니다 (메두사)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 공격 정보 공유 처벌 법안 제출",
+        "친전쟁 블로거들의 반발"
+      ],
+      "unconfirmed": [
+        "법안 최종 통과 및 시행 시기",
+        "구체적인 형량 기준"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "1News.az",
+        "EADaily",
+        "Financial Times",
+        "Meduza",
+        "UA.NEWS",
+        "2026.11.28 03:08 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 러시아, 우크라이나 공격 정보 공유 시 처벌하는 법안 추진\n\n· 러시아 국가두마에 우크라이나의 공격 관련 정보 전파를 처벌하는 법안이 제출됐습니다 (1News.az)\n· 러시아의 친전쟁 블로거들은 공격 사진과 영상 공유에 징역형을 부과하려는 방침에 반발하고 있습니다 (메두사)\n\n❓ 러시아의 전쟁 정보 통제 강화 조치, 여러분은 어떻게 보십니까?\n\n출처: 파이낸셜타임스·메두사·1News.az 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "러시아가 우크라이나의 공격과 관련된 정보 공유를 범죄화하는 법안을 추진하고 있습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "파이낸셜타임스는 우크라이나 타격 관련 사진과 영상을 배포하는 행위에 징역형을 부과하는 법안이 제출됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "메두사는 러시아의 친전쟁 블로거들이 이러한 처벌 방침에 반발하고 있다고 보도했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "법안의 최종 통과 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 정보 통제 강화 조치, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻게 보십니까?"
+    }
+  ],
+  "hook": "러시아가 [[우크라이나]] 공격\n영상을 막으려는 이유",
+  "broll": [
+    "moscow street winter",
+    "government building exterior"
+  ],
+  "place_en": "Moscow, Russia"
+}

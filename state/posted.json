@@ -51507,5 +51507,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795799657
+  },
+  {
+    "slug": "2026-11-28-news-russia-criminalize-ukraine-strike-info",
+    "event_ms": 1795792567000,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 러시아, 우크라이나 공격 정보 공유 시 처벌하는 법안 추진\n\n· 러시아 국가두마에 우크라이나의 공격 관련 정보 전파를 처벌하는 법안이 제출됐습니다 (1News.az)\n· 러시아의 친전쟁 블로거들은 공격 사진과 영상 공유에 징역형을 부과하려는 방침에 반발하고 있습니다 (메두사)\n\n❓ 러시아의 전쟁 정보 통제 강화 조치, 여러분은 어떻게 보십니까?\n\n출처: 파이낸셜타임스·메두사·1News.az 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "국제",
+      "러시아"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18662996020019547",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgQSlmro_x6",
+        "kind": "carousel",
+        "at": 1795802987
+      },
+      "instagram": {
+        "id": "17914654359604256",
+        "permalink": "https://www.instagram.com/reel/DgQS5D6K06R/",
+        "kind": "reel",
+        "at": 1795803168
+      },
+      "youtube": {
+        "id": "mBpgixELUKY",
+        "permalink": "https://youtube.com/shorts/mBpgixELUKY",
+        "kind": "shorts",
+        "at": 1795803235
+      },
+      "tiktok": {
+        "id": "7712916229090069781",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7712916229090069781",
+        "kind": "video",
+        "at": 1795803368
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795803378
   }
 ]
