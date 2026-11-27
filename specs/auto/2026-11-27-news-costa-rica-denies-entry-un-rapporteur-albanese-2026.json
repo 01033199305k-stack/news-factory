@@ -1,0 +1,146 @@
+{
+  "slug": "2026-11-27-news-costa-rica-denies-entry-un-rapporteur-albanese-2026",
+  "topic": "코스타리카, UN 보고관 입국 거부 조치",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.27 17:43 KST",
+  "source": "Al Jazeera·Le Monde.fr·The Times of Israel 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqAFBVV95cUxQTXRtMlhBcE1DRG5OSVFiSXhsV2hYQ19renNXVnQ0M3J1ZU5EbUNoREdVRXFENWQwLUFlUTNUSktNNDY4c0lFd3dXTmNPdFpOTDViQjhKdUgteS1ua3FzRHpoQXNrVUt1aDY2d0RXZkl4dFJrbEFBeVg3N1ZhbkdwYlJrUDdUUWExVVl4ZFY0RFlOT09hakJYNzBtQTVyck1JUXUzWUJNQ0_SAa4BQVVfeXFMTkNlajI4bEhnY0dxbHdBbndzd1d4NURoT2dIanJiOVZzamFwVFExRUhmZ0Z1WWY2d3pYWEhMYVlKeTdqdjlJYmgxYVZ6eFV4UG9WcjBuT3g5VHoySzl3Yk45NnhwUzAzUjl5NmpMNUdWcVhkZ2oyRE5yWS1FZ0xxaTI4ai16SWp1ZUQ2Q0lWQ1ZIQlVIVFFoMEpweDVVNDhsOVhsbFpsTUNBUkJKWldn",
+    "related": [
+      [
+        "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
+        "Al Jazeera"
+      ],
+      [
+        "Costa Rica Detains Francesca Albanese On “Links to Terrorist Acts”",
+        "www.ahmedshihabeldin.com"
+      ],
+      [
+        "UN special rapporteur on the Palestinian territories barred entry to Costa Rica over 'links to terrorist acts'",
+        "Le Monde.fr"
+      ],
+      [
+        "Costa Rica denies entry to UN rapporteur Francesca Albanese, citing alleged terror links",
+        "Ynetnews"
+      ],
+      [
+        "Costa Rica bars visit by UN rapporteur Albanese over ‘links to terrorist acts’",
+        "The Times of Israel"
+      ]
+    ],
+    "event_key": "costa_rica_denies_entry_un_rapporteur_albanese_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "코스타리카, [[UN 보고관]]\n입국 거부 조치",
+      "sub": "테러 행위 연루 혐의로 프란체스카 알바네세 보고관 입국 금지",
+      "chips": [
+        {
+          "k": "조치",
+          "v": "입국 거부"
+        }
+      ],
+      "alt": "코스타리카, UN 보고관 입국 거부 조치",
+      "map": {
+        "lat": 9.9327373,
+        "lon": -84.0796683,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "코스타리카"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "코스타리카\n산호세",
+      "video_only": true,
+      "map": {
+        "lat": 9.9327373,
+        "lon": -84.0796683,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "산호세"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "입국 거부 조치",
+          "d": "코스타리카 당국이 테러 행위 연루 혐의를 이유로 프란체스카 알바네세 유엔 팔레스타인 인권 특별보고관의 입국을 거부했습니다. (알자지라·르몽드·이넷뉴스·타임스오브이스라엘)"
+        },
+        {
+          "t": "억류 보도",
+          "d": "알바네세 보고관이 억류되었다는 보도도 나왔습니다. (www.ahmedshihabeldin.com)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "UN 보고관 입국 거부",
+        "테러 연루 혐의 적용"
+      ],
+      "unconfirmed": [
+        "구체적 혐의 내용",
+        "UN 공식 입장",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Le Monde.fr",
+        "The Times of Israel",
+        "Ynetnews",
+        "www.ahmedshihabeldin.com",
+        "2026.11.27 20:09 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 코스타리카가 UN 특별보고관의 입국을 거부했습니다.\n\n· 테러 행위 연루 혐의로 프란체스카 알바네세 UN 보고관 입국 금지 (알자지라·르몽드·이넷뉴스·타임스오브이스라엘)\n· 알바네세 보고관 억류 보도도 나와 (www.ahmedshihabeldin.com)\n\n코스타리카 정부의 이번 조치, 어떻게 보십니까?\n\n출처: 알자지라·르몽드·이넷뉴스·타임스오브이스라엘·www.ahmedshihabeldin.com 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "코스타리카가 테러 연루 혐의를 이유로 유엔 특별보고관의 입국을 거부했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "대상은 프란체스카 알바네세 유엔 팔레스타인 인권 특별보고관으로 르몽드 등이 관련 사실을 전했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알바네세 보고관이 억류됐다는 보도도 나왔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "구체적인 테러 연루 혐의 내용과 유엔 측의 공식 입장은 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "유엔 보고관에 대한 이번 입국 거부 조치, 여러분은 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "[[UN 보고관]]을\n막아선 이유",
+  "broll": [
+    "airport border control",
+    "passport stamp control"
+  ],
+  "place_en": "San Jose, Costa Rica"
+}
