@@ -1,0 +1,154 @@
+{
+  "slug": "2026-11-28-news-libya-russian-ship-attack-2026",
+  "topic": "우크라이나의 리비아 해역 러시아 함정 공격에 국제 사회 반발",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 04:17 KST",
+  "source": "Al Jazeera·Reuters·The Economist 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8",
+    "related": [
+      [
+        "EXCLUSIVE: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say",
+        "Reuters"
+      ],
+      [
+        "Zelenskyy confirms that attack on Russian ship in Libya was not coordinated with Ukraine’s partners",
+        "Українська правда"
+      ],
+      [
+        "Politics | Nov 28th 2026 Edition",
+        "The Economist"
+      ],
+      [
+        "Why is Italy angry with Ukraine for striking Russian ships off Libya?",
+        "Al Jazeera"
+      ],
+      [
+        "Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships",
+        "The New York Times"
+      ]
+    ],
+    "event_key": "libya_russian_ship_attack_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "우크라이나의 [[리비아]] 해역 러시아 함정 공격에\n국제 사회 반발",
+      "sub": "침몰 여파로 러시아 군함 편대 회항",
+      "chips": [
+        {
+          "k": "관련국",
+          "v": "우크라이나·러시아·리비아·이탈리아"
+        }
+      ],
+      "alt": "우크라이나의 리비아 해역 러시아 함정 공격에 국제 사회 반발",
+      "map": {
+        "lat": 26.8234472,
+        "lon": 18.1236723,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "리비아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "리비아",
+      "video_only": true,
+      "map": {
+        "lat": 26.8234472,
+        "lon": 18.1236723,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "리비아"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "함정 회항",
+          "d": "리비아로 향하던 러시아 군함 편대가 군함 침몰 이후 회항했습니다 (로이터)."
+        },
+        {
+          "t": "우크라이나 입장",
+          "d": "젤렌스키 대통령은 리비아 내 러시아 선박 공격이 파트너들과 조율되지 않았다고 확인했습니다 (우크라인스카 프라우다)."
+        },
+        {
+          "t": "리비아 반발",
+          "d": "리비아 군부는 우크라이나의 러시아 선박 공격에 대해 보복을 경고했습니다 (뉴욕 타임스)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "러시아 군함 편대 회항",
+        "우크라이나의 리비아 해역 러시아 선박 공격",
+        "리비아 군부 보복 경고"
+      ],
+      "unconfirmed": [
+        "공격에 따른 구체적 피해 규모",
+        "향후 군사적 충돌 확산 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Reuters",
+        "The Economist",
+        "The New York Times",
+        "Українська правда",
+        "2026.11.28 07:03 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 우크라이나의 리비아 해역 러시아 함정 공격에 국제 사회 반발\n\n· 리비아로 향하던 러시아 군함 편대가 군함 침몰 이후 회항했습니다 (로이터)\n· 젤렌스키 대통령은 리비아 내 러시아 선박 공격이 파트너들과 조율되지 않았다고 확인했습니다 (우크라인스카 프라우다)\n· 리비아 군부는 우크라이나의 러시아 선박 공격에 대해 보복을 경고했습니다 (뉴욕 타임스)\n\n이번 공격과 관련해 국제 사회의 대응을 어떻게 보십니까?\n\n출처: 로이터·우크라인스카 프라우다·뉴욕 타임스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "리비아 해역에서 러시아 군함이 공격받아 침몰했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "로이터 통신은 러시아 군함 편대가 침몰 이후 회항했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나 측은 이번 공격이 파트너들과 조율되지 않았다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "리비아 군부는 이에 대해 보복을 경고했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "향후 군사적 충돌이 확산될지는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 이번 사태의 전개 과정을 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "어떻 보십니까?"
+    }
+  ],
+  "hook": "리비아 해역서\n[[러시아]] 함정 피격",
+  "broll": [
+    "warship sea",
+    "ocean waves"
+  ],
+  "place_en": "Libya"
+}

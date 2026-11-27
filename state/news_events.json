@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "thomas_markle_arrest",
-    "topic": "메건 마클 부친, 미국 플로리다서 체포돼",
-    "slug": "2026-11-06-news-thomas-markle-arrest",
-    "cluster": "CBMiggFBVV95cUxPMG9vYkdlWWh1QkpBODdHMEppWUtjMk0wMmcxNGd3QU95alpjZ3UxVTl0MTY1TDZlYmlsNzFqNDE0d1ZCeVVaWU9zQmlNNFRNQkNXX1g5azl2X3dyazE0djVOYlZOOUMwSG95SzlTdmZLd2sxeU9jUHFvd3VOV25CbndR",
-    "badge": "breaking",
-    "at": 1793982675.4218922,
-    "country": "미국",
-    "category": "기타 사건"
-  },
-  {
     "event_key": "yemen_hamdan_airstrikes_saudi_2026",
     "topic": "예멘 수도 함단 공습 일가족 9명 사망 보도",
     "slug": "2026-11-07-news-yemen-hamdan-airstrikes-saudi-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795810125.503309,
     "country": "미국",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "libya_russian_ship_attack_2026",
+    "topic": "우크라이나의 리비아 해역 러시아 함정 공격에 국제 사회 반발",
+    "slug": "2026-11-28-news-libya-russian-ship-attack-2026",
+    "cluster": "CBMiwwFBVV95cUxOYmlHdGhKd3RFRUNYajhTdlVqdUdrckt5RmtIZEltNjE0OTVPMDhaSS1DTFlGQTU5Z19LRFpLRmpXdVJkcVpRY19iLU40eXpEWUhYdDNjMXhfRkJqckxleW8tY25rOVJFTzlGeGVaUTlwb1M1NVBXSzQwSG9hX2VQR1JiMVhXYk1mdG01ei1nR1ZmOFY5RWpnejVHRkJSa2RVTHRLeURHS3hCSHJMcGluWG1fQWNjS19wTy1RejVTWE5BMW8",
+    "badge": "breaking",
+    "at": 1795817065.9834366,
+    "country": "리비아",
+    "category": "국제"
   }
 ]
