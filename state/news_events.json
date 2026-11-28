@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "poland_krakow_shooting_2026",
-    "topic": "폴란드 크라쿠프서 총격 발생 5명 숨지고 10여 명 부상",
-    "slug": "2026-11-08-news-poland-krakow-shooting-2026",
-    "cluster": "CBMimAFBVV95cUxQMjVjMS1hRzNkazY0TXRRbzF3YVQ1SnJZR0VIZV9Tak1NV0pQRk84TlpHekpzRWEtTlRFbk1LR08zZXNMVTBxYnNCY25kVTNHSWtrXzRBcEpIVVItc1VOVnMwT0xBODJLT1NwX3pzb0hyeWZQNGZOX3RrbWpEZGJMRVpkdWVCWmVMYmtiWGhqbk5TZUNSZFNHbNIBngFBVV95cUxPOVBoT0tkYk1ja0FRdjRITVpVZnNTVDRfWFgxTk1XUUpGWUtlZG5OLWd2LWJ3WVRzUmJ1MGhiYzUxM2JlaFZ0UlM3VHU3NjBYMHA3VGs4RWpJNFhsODhwMUpGZjhpOFlNQndBbFB6eFFFMi1RRVJRZlY0azZkY0lTdFRybTBEWHRVTkVHMnNVWk54TW1nUGZCaTdDVFRtQQ",
-    "badge": "breaking",
-    "at": 1794067753.8153505,
-    "country": "폴란드",
-    "category": "총격·테러"
-  },
-  {
     "event_key": "saudi_houthi_attack_riyadh_2026",
     "topic": "후티 반군, 사우디 공격 리야드 공항·석유시설 겨냥",
     "slug": "2026-11-08-news-saudi-houthi-attack-riyadh-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795853787.0739968,
     "country": "러시아",
     "category": "국제"
+  },
+  {
+    "event_key": "afghanistan_kunar_school_blast_2026",
+    "topic": "아프간 학교 인근 폭발 학생 6명 이상 사망",
+    "slug": "2026-11-28-news-afghanistan-kunar-school-blast-2026",
+    "cluster": "CBMitAFBVV95cUxNMUlFZXdrQ045NjNWMjFEZnEzQTVmcjBfTHBkc1ZfX21JdE1EWmE2WXpGRFJ4c1l6TjFMakxmcFZMa3EwT3NONlZrWXhNLWRFcFFhUl9NY3Mtb1hsUTBRSjM1dFFPYmViSEIxbVNJdlUxeUdoWEhPUUh0SEh5MW1jTmVtNGtObW5FTk0ydE9NSTBFdTdEZm1xMkJreGlKMkRieVY3SmN5RWRYQU9xLTZrZkVRVkHSAboBQVVfeXFMT2xkaW9oSWY5NEpmRTU5NlBXem9RTUd1RTlURm9aVDNZQ2VCMnBzZ09vajd0cHB1YU5IalZ3SGpnWlp6LURkdWh1THBTUHNYZm5yNWdnMHJrc1NsYXlTck1lUmctUVBFa1BnTXU0dTd6dGg5cHFkRFF2aUZxWnRwWk16czFmT3NSa2ltVlc0RTYydENGNHVGWW9rTlZPRnU1NnRTX21sMUZBcGdvQmdnZEhlNUUtZnBfeWRB",
+    "badge": "breaking",
+    "at": 1795860829.7242017,
+    "country": "아프가니스탄",
+    "category": "폭발·화재"
   }
 ]

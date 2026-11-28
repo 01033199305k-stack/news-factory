@@ -1,0 +1,140 @@
+{
+  "slug": "2026-11-28-news-afghanistan-kunar-school-blast-2026",
+  "topic": "아프간 학교 인근 폭발 학생 6명 이상 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 16:50 KST",
+  "source": "Al Jazeera·NDTV·The Hindu 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxNMUlFZXdrQ045NjNWMjFEZnEzQTVmcjBfTHBkc1ZfX21JdE1EWmE2WXpGRFJ4c1l6TjFMakxmcFZMa3EwT3NONlZrWXhNLWRFcFFhUl9NY3Mtb1hsUTBRSjM1dFFPYmViSEIxbVNJdlUxeUdoWEhPUUh0SEh5MW1jTmVtNGtObW5FTk0ydE9NSTBFdTdEZm1xMkJreGlKMkRieVY3SmN5RWRYQU9xLTZrZkVRVkHSAboBQVVfeXFMT2xkaW9oSWY5NEpmRTU5NlBXem9RTUd1RTlURm9aVDNZQ2VCMnBzZ09vajd0cHB1YU5IalZ3SGpnWlp6LURkdWh1THBTUHNYZm5yNWdnMHJrc1NsYXlTck1lUmctUVBFa1BnTXU0dTd6dGg5cHFkRFF2aUZxWnRwWk16czFmT3NSa2ltVlc0RTYydENGNHVGWW9rTlZPRnU1NnRTX21sMUZBcGdvQmdnZEhlNUUtZnBfeWRB",
+    "related": [
+      [
+        "At least six students killed in blast beside school in Afghanistan’s Kunar",
+        "Al Jazeera"
+      ],
+      [
+        "Several Students Feared Dead In Blast At School In Afghanistan",
+        "NDTV"
+      ],
+      [
+        "Breaking News Live November 28: Blast at Afghan school kills, injures several students",
+        "The Times of India"
+      ],
+      [
+        "Several students reportedly killed, wounded in explosion at a middle school in eastern Afghanistan",
+        "The Hindu"
+      ],
+      [
+        "Explosion reported at school in Afghanistan, official says",
+        "ThePrint"
+      ]
+    ],
+    "event_key": "afghanistan_kunar_school_blast_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "아프간 학교 인근 [[폭발]]\n학생 6명 이상 사망",
+      "sub": "쿠나르주 중학교 부근서 발생… 여러 명 부상",
+      "chips": [
+        {
+          "k": "피해",
+          "v": "사상자 발생"
+        }
+      ],
+      "alt": "아프간 학교 인근 폭발 학생 6명 이상 사망",
+      "map": {
+        "lat": 34.95,
+        "lon": 71.133333,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "아프가니스탄"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "아프가니스탄\n쿠나르주",
+      "video_only": true,
+      "map": {
+        "lat": 34.95,
+        "lon": 71.133333,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "쿠나르주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "중학교 부근 폭발",
+          "d": "아프가니스탄 동부 쿠나르주의 한 중학교 부근에서 폭발이 일어났습니다 (알자지라·더힌두)."
+        },
+        {
+          "t": "인명 피해 발생",
+          "d": "최소 6명의 학생이 숨지고 여러 명이 다친 것으로 전해졌습니다 (알자지라·더힌두)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "아프가니스탄 쿠나르주 학교 인근 폭발"
+      ],
+      "unconfirmed": [
+        "정확한 사망자 및 부상자 수",
+        "폭발 원인 및 배후",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "NDTV",
+        "The Hindu",
+        "The Times of India",
+        "ThePrint",
+        "2026.11.28 19:13 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 아프가니스탄 학교 인근서 폭발로 학생 6명 이상 사망\n\n· 아프가니스탄 동부 쿠나르주의 한 중학교 부근에서 폭발이 발생했습니다 (알자지라·더힌두)\n· 이번 폭발로 최소 6명의 학생이 숨지고 여러 명이 다쳤습니다 (알자지라·더힌두)\n· 아프가니스탄 당국자는 학교에서 폭발이 보고됐다고 밝혔습니다 (더프린트)\n\n출처: 알자지라·NDTV·더힌두 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "아프가니스탄의 한 학교 부근에서 폭발이 일어났습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "사건은 동부 쿠나르주의 중학교 근처에서 발생했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라는 이번 폭발로 학생 최소 6명이 숨졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "폭발 원인과 정확한 피해 규모는 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "아프간 [[학교]] 근처\n무슨 일이?",
+  "broll": [
+    "school building street",
+    "ambulance night"
+  ],
+  "place_en": "Kunar, Afghanistan"
+}
