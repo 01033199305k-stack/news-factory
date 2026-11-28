@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-28-news-us-military-disables-ship-iran-blockade-2026",
+  "topic": "미군, 이란 항구 해상 봉쇄 시도 상선 무력화 조치",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 06:10 KST",
+  "source": "CBS News·The Washington Post·WSJ 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiygFBVV95cUxQR1B2RFZaTUhIUVFpQm5Vb3pOS2l5cW1XcU5STXJma1VfQWpYcno2bGNWN1dWakY4Ym9HbTFZQkVPNGk2R011SFppOXNnMFhlM0NhTVY5NUJGRDlCM3dtUkI1T0Q0bzZObGdpYjB4ODdKc3QxTW0wR29mcDZHY3JwTFZKTTlaZ2l2R2VJMklsb2h0M2ExTkFBQjNTbGJnR2hUMDdNdHloeHk4ZjFTUkI2ZFVaUkNqVUdrcmtFTzlvY3ZybUpVS0NXbFhn0gHPAUFVX3lxTE9UUEY1bWZtMVVXSXY5d2pRdHBYcnR1amgxZ3Jkc1I4R0owMThFbzltRzU0NWlMS0JBNUtlRlg4YmNrRml3cjZUaFoxQjJUdktYSkt3RWctVFdCWC1EanVLc2Q0REZSS20zMFRodV9OQkstNmItZl9YajA0OE9KeGM4NlF5QUhPbE5IMnh6ampFY01sQm1rYkFQcjh4anZzdkhjZkVJTl9OcjBaRjZ0VjNtZUJUaGtIbEQ0bVdOWFNDOHA4MXd0cjZvS0pEY1hySQ",
+    "related": [
+      [
+        "U.S. military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+        "PBS"
+      ],
+      [
+        "U.S. Strikes Vessel Attempting Blockade Run Near Iran",
+        "WSJ"
+      ],
+      [
+        "US military says it disabled another ship that tried to breach naval blockade on Iranian ports",
+        "Yahoo"
+      ],
+      [
+        "Iran War Updates: U.S. forces disable commercial ship that allegedly tried to breach blockade on Iranian ports",
+        "CBS News"
+      ],
+      [
+        "U.S. military jet disables commercial vessel in Gulf of Oman",
+        "The Washington Post"
+      ]
+    ],
+    "event_key": "us_military_disables_ship_iran_blockade_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "미군, 이란 항구 해상 봉쇄 시도\n상선 [[무력화]] 조치",
+      "sub": "오만만 인근 해역에서 작전이 수행됐습니다.",
+      "chips": [
+        {
+          "k": "지역",
+          "v": "오만만"
+        }
+      ],
+      "alt": "미군, 이란 항구 해상 봉쇄 시도 상선 무력화 조치",
+      "map": {
+        "lat": 24.2138029,
+        "lon": 58.9845823,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n오만만",
+      "video_only": true,
+      "map": {
+        "lat": 24.2138029,
+        "lon": 58.9845823,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "오만만"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "해상 봉쇄",
+          "d": "미국 군경이 이란 항구의 해상 봉쇄를 뚫으려던 상선을 무력화했다고 밝혔습니다 (PBS·WSJ·CBS 뉴스)."
+        },
+        {
+          "t": "오만만 작전",
+          "d": "미국 군용기가 오만만 인근에서 해당 상선을 대상으로 조치를 취했습니다 (The Washington Post)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "미국 군경의 상선 무력화",
+        "오만만 인근 해역 발생"
+      ],
+      "unconfirmed": [
+        "선박의 정확한 국적 및 피해 상황",
+        "향후 군사적 충돌 확대 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "CBS News",
+        "PBS",
+        "The Washington Post",
+        "WSJ",
+        "Yahoo",
+        "2026.11.28 09:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 미군이 이란 항구 해상 봉쇄를 뚫으려던 상선을 무력화했습니다.\n\n· 미국 군경은 오만만 인근 해역에서 이란 항구 봉쇄를 시도한 선박을 무력화했다고 밝혔습니다 (PBS·WSJ·CBS 뉴스)\n· 미군 군용기가 해당 상선에 작전을 수행했다고 전해졌습니다 (The Washington Post)\n\n과연 이번 미군의 조치가 중동 정세에 어떤 영향을 미칠까요?\n출처: PBS·WSJ·CBS 뉴스·The Washington Post 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "미군이 이란 항구의 해상 봉쇄를 뚫으려던 상선을 무력화했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "PBS와 월스트리트저널 등은 오만만 인근 해역에서 미군이 이 같은 작전을 수행했다고 보도했습니다.",
+      "card": "map"
+    },
+    {
+      "text": "미국 군용기가 직접 개입해 선박의 이동을 막았습니다.",
+      "card": "points"
+    },
+    {
+      "text": "상선의 정확한 국적과 구체적인 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "여러분은 미국의 이번 해상 봉쇄 조치를 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "미국이 오만만에서\n[[상선]]을 멈춘 이유는?",
+  "broll": [
+    "oil tanker sea",
+    "military ship ocean"
+  ],
+  "place_en": "Gulf of Oman"
+}

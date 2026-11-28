@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "yemen_hamdan_airstrikes_saudi_2026",
-    "topic": "예멘 수도 함단 공습 일가족 9명 사망 보도",
-    "slug": "2026-11-07-news-yemen-hamdan-airstrikes-saudi-2026",
-    "cluster": "CBMipwFBVV95cUxOTUltTW8zc3dCR2ZIbnN5NVZsU3BUTFh4TGFBRnJvbU5iMGI3M2t3Q3RudnZZTEpqR2RJTXpaYzhmUk5pX3JXbFV2cFBPNWI3b2x0OTlubE80MWMtZ1dEbWNBZ3VqT3VJdTR4Vmt2ckt6RnNxekpOdjdNYngyb3JvZnJEemdIcUNUZXlkRWxqRUlrWGJ1MEZ4ZHdPeGdOaWlDdUxRZHl0OA",
-    "badge": "breaking",
-    "at": 1793984856.749102,
-    "country": "예멘",
-    "category": "국제"
-  },
-  {
     "event_key": "us_doj_national_security_officials_resign_2026",
     "topic": "미 법무부 국가안보국장 등 고위 관료들 잇따라 사임",
     "slug": "2026-11-07-news-us-doj-national-security-officials-resign-2026",
@@ -2997,6 +2987,16 @@
     "badge": "breaking",
     "at": 1795817065.9834366,
     "country": "리비아",
+    "category": "국제"
+  },
+  {
+    "event_key": "us_military_disables_ship_iran_blockade_2026",
+    "topic": "미군, 이란 항구 해상 봉쇄 시도 상선 무력화 조치",
+    "slug": "2026-11-28-news-us-military-disables-ship-iran-blockade-2026",
+    "cluster": "CBMiygFBVV95cUxQR1B2RFZaTUhIUVFpQm5Vb3pOS2l5cW1XcU5STXJma1VfQWpYcno2bGNWN1dWakY4Ym9HbTFZQkVPNGk2R011SFppOXNnMFhlM0NhTVY5NUJGRDlCM3dtUkI1T0Q0bzZObGdpYjB4ODdKc3QxTW0wR29mcDZHY3JwTFZKTTlaZ2l2R2VJMklsb2h0M2ExTkFBQjNTbGJnR2hUMDdNdHloeHk4ZjFTUkI2ZFVaUkNqVUdrcmtFTzlvY3ZybUpVS0NXbFhn0gHPAUFVX3lxTE9UUEY1bWZtMVVXSXY5d2pRdHBYcnR1amgxZ3Jkc1I4R0owMThFbzltRzU0NWlMS0JBNUtlRlg4YmNrRml3cjZUaFoxQjJUdktYSkt3RWctVFdCWC1EanVLc2Q0REZSS20zMFRodV9OQkstNmItZl9YajA0OE9KeGM4NlF5QUhPbE5IMnh6ampFY01sQm1rYkFQcjh4anZzdkhjZkVJTl9OcjBaRjZ0VjNtZUJUaGtIbEQ0bVdOWFNDOHA4MXd0cjZvS0pEY1hySQ",
+    "badge": "brief",
+    "at": 1795824425.1703298,
+    "country": "미국",
     "category": "국제"
   }
 ]
