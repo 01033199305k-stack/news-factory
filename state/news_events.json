@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "russia_ukraine_airstrike_kyiv_relief_center_2026",
-    "topic": "종전 협상 앞두고 대규모 공습 발생",
-    "slug": "2026-11-07-news-russia-ukraine-airstrike-kyiv-relief-center-2026",
-    "cluster": "CBMiW0FVX3lxTE10eFBnYlVyZnVvZnhQeExSNU40U0RhMi1Ua0paRVZuNzljekFic1VDbGNiU3pzOV9GWHRuSDFDalphLS1LSGhaUEI0ZWlsYndIaWtqbGdZZFR0d1XSAWBBVV95cUxOV1BxeE1vdnhib0dZc1BVUWgzQjR3YXFVazBnTTg4UmRwVHU0STVyRXgwUzc4aXllQXYzLUhwYUxnRXZ6Qk9pWTY4amE4TWR5Tjc5WXYzeXRkZllNQnRIakE",
-    "badge": "breaking",
-    "at": 1794057071.9741275,
-    "country": "우크라이나",
-    "category": "국제"
-  },
-  {
     "event_key": "poland_krakow_shooting_2026",
     "topic": "폴란드 크라쿠프서 총격 발생 5명 숨지고 10여 명 부상",
     "slug": "2026-11-08-news-poland-krakow-shooting-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795845990.8018703,
     "country": "대한민국",
     "category": "사고"
+  },
+  {
+    "event_key": "russia_putin_unveils_new_nuclear_submarine_2026",
+    "topic": "푸틴, 극초음속 무기 탑재 신형 핵잠수함 공개",
+    "slug": "2026-11-28-news-russia-putin-unveils-new-nuclear-submarine-2026",
+    "cluster": "CBMinAJBVV95cUxPWXB4OURCekR2X0IxMWdDTGc0VWJRNG93bDB1aVZ1WHZFbkY2TWh6YXFtdEE0LVVVSU9XcTB2eUFMU0dQaFZ4REpjYXY4UVBsMUtGYnJwbzZLVjJHeUM1T3ZNcDZvLW1RcWhaOTBuSTNVWWxSRzFNTk9EZVBzVkg3SUs2NHppX1BZV2M2YkpOcjY5RFdGR05CSHhXUzc4bWM2bVZRdTVXaTZpZ2NxanVUOHpadWVpUVJXci11dGNwZlpQZjh1VWFOQVhMdEh5SlRyeE9rVERiTm5fd0lxUURJZWNaN2E3cmRkSHNpTUZEN3JlbERZNFdyeEc4cWZQNzNJS0JSRi1UM0NRTDNnNkFzRmF0eGUyYVJRd3otSNIBogJBVV95cUxNYlNqV1loU3R1VHpWa2w0VU9uVEhQX1lOallxOXh6RXpMcXo1anNyTVhWWDdDcE5tVTloemVkWlVWNThlLTdfTDJ2ekNaUEZGaVZ4M2YzOXN3ZUFmQU9qWFFCUkNVVGR5VmFIVW14SnVyb3ZBT3YwenFlSEQ5MExGODFRYW9FMkw1M2dLQlVHT21ocXV4akFid2RYYlJ1cTZ3NWZ3Q25IZGtScTZTSTZyc1dCWlhiWVlwUC1qdWNtQnpYd2otT3lMS0RlUFFzWm5nek1TdXJGaDhqWENacFh2TEFKcU9zdHcySm0wMzZKd0lKRHVuc3lCWGRlMzIwY00yNTdPN0RpZ3prVlRoZTJ0V2Q3cGxhOWxEelZKaGtEYVdxQQ",
+    "badge": "brief",
+    "at": 1795853787.0739968,
+    "country": "러시아",
+    "category": "국제"
   }
 ]

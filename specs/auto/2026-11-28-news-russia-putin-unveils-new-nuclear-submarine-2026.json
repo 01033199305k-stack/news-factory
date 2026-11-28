@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-28-news-russia-putin-unveils-new-nuclear-submarine-2026",
+  "topic": "푸틴, 극초음속 무기 탑재 신형 핵잠수함 공개",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 14:03 KST",
+  "source": "Al Jazeera·The Hindu·The Times of India 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMinAJBVV95cUxPWXB4OURCekR2X0IxMWdDTGc0VWJRNG93bDB1aVZ1WHZFbkY2TWh6YXFtdEE0LVVVSU9XcTB2eUFMU0dQaFZ4REpjYXY4UVBsMUtGYnJwbzZLVjJHeUM1T3ZNcDZvLW1RcWhaOTBuSTNVWWxSRzFNTk9EZVBzVkg3SUs2NHppX1BZV2M2YkpOcjY5RFdGR05CSHhXUzc4bWM2bVZRdTVXaTZpZ2NxanVUOHpadWVpUVJXci11dGNwZlpQZjh1VWFOQVhMdEh5SlRyeE9rVERiTm5fd0lxUURJZWNaN2E3cmRkSHNpTUZEN3JlbERZNFdyeEc4cWZQNzNJS0JSRi1UM0NRTDNnNkFzRmF0eGUyYVJRd3otSNIBogJBVV95cUxNYlNqV1loU3R1VHpWa2w0VU9uVEhQX1lOallxOXh6RXpMcXo1anNyTVhWWDdDcE5tVTloemVkWlVWNThlLTdfTDJ2ekNaUEZGaVZ4M2YzOXN3ZUFmQU9qWFFCUkNVVGR5VmFIVW14SnVyb3ZBT3YwenFlSEQ5MExGODFRYW9FMkw1M2dLQlVHT21ocXV4akFid2RYYlJ1cTZ3NWZ3Q25IZGtScTZTSTZyc1dCWlhiWVlwUC1qdWNtQnpYd2otT3lMS0RlUFFzWm5nek1TdXJGaDhqWENacFh2TEFKcU9zdHcySm0wMzZKd0lKRHVuc3lCWGRlMzIwY00yNTdPN0RpZ3prVlRoZTJ0V2Q3cGxhOWxEelZKaGtEYVdxQQ",
+    "related": [
+      [
+        "'Russia capable of building powerful nuclear submarines': Putin unveils new weapon carrying hypersonic mi",
+        "The Times of India"
+      ],
+      [
+        "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+        "Al Jazeera"
+      ],
+      [
+        "Putin unveils new nuclear submarine",
+        "The Hindu"
+      ],
+      [
+        "Putin says Russia will continue strengthening submarine fleet's combat capabilities",
+        "Anadolu Ajansı"
+      ],
+      [
+        "The Kremlin has once again started talking about nuclear weapons and claimed that Russia has found itself surrounded by enemies",
+        "Українські Національні Новини (УНН)"
+      ]
+    ],
+    "event_key": "russia_putin_unveils_new_nuclear_submarine_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "푸틴, 극초음속 무기 탑재\n신형 [[핵잠수함]] 공개",
+      "sub": "러시아 해군의 잠수함 전력 전투 능력을 지속 강화하겠다고 밝혔습니다",
+      "chips": [],
+      "alt": "푸틴, 극초음속 무기 탑재 신형 핵잠수함 공개",
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "러시아"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "러시아\n모스크바",
+      "video_only": true,
+      "map": {
+        "lat": 55.625578,
+        "lon": 37.6063916,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "모스크바"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "강력한 잠수함 건조",
+          "d": "푸틴 대통령은 러시아가 강력한 핵잠수함을 건조할 능력이 있다고 강조했습니다 (타임스 오브 인디아)."
+        },
+        {
+          "t": "전투 능력 지속 강화",
+          "d": "푸틴 대통령은 해군 잠수함 전력의 전투 능력을 계속 강화할 방침이라고 밝혔습니다 (아나돌루 통신)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "극초음속 무기 탑재 신형 핵잠수함 공개 (알자지라·타임스 오브 인디아)",
+        "해군 잠수함 전력 강화 발표 (아나돌루 통신)"
+      ],
+      "unconfirmed": [
+        "신형 핵잠수함의 구체적 제원 및 실전 배치 시기"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Anadolu Ajansı",
+        "The Hindu",
+        "The Times of India",
+        "Українські Національні Новини (УНН)",
+        "2026.11.28 17:16 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 푸틴, 극초음속 무기 탑재 신형 핵잠수함 공개\n\n· 푸틴 러시아 대통령은 강력한 핵잠수함 건조 능력을 갖추고 있다며 해군 전력을 강화하겠다고 밝혔습니다 (타임스 오브 인디아·아나돌루 통신).\n· 알자지라 등은 극초음속 미사일을 탑재할 수 있는 신형 핵잠수함이 공개됐다고 전했습니다 (알자지라).\n\n러시아의 신형 핵잠수함 공개와 전력 강화 발표를 어떻게 보십니까?\n\n출처: 알자지라·타임스 오브 인디아·더 힌두·아나돌루 통신 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "푸틴이 극초음속 무기 탑재 신형 핵잠수함을 공개했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "러시아는 해군 잠수함 전력의 전투 능력을 계속 강화하겠다고 밝혔습니다.",
+      "card": "map"
+    },
+    {
+      "text": "알자지라는 러시아가 극초음속 미사일을 운용할 신무기를 선보였다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "신형 잠수함의 구체적인 제원과 배치 시기는 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 러시아의 전력 강화 발표, 어떻게 생각하십니까?",
+      "card": "ask",
+      "screen": "여러분의 생각은?"
+    }
+  ],
+  "hook": "푸틴이 공개한\n신형 [[핵잠수함]]",
+  "broll": [
+    "submarine sea",
+    "military vessel"
+  ],
+  "place_en": "Moscow, Russia"
+}
