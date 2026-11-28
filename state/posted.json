@@ -52202,5 +52202,60 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795854154
+  },
+  {
+    "slug": "2026-11-28-news-afghanistan-kunar-school-blast-2026",
+    "event_ms": 1795852205000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 아프가니스탄 학교 인근서 폭발로 학생 6명 이상 사망\n\n· 아프가니스탄 동부 쿠나르주의 한 중학교 부근에서 폭발이 발생했습니다 (알자지라·더힌두)\n· 이번 폭발로 최소 6명의 학생이 숨지고 여러 명이 다쳤습니다 (알자지라·더힌두)\n· 아프가니스탄 당국자는 학교에서 폭발이 보고됐다고 밝혔습니다 (더프린트)\n\n출처: 알자지라·NDTV·더힌두 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "폭발화재",
+      "아프가니스탄"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18122436851054728",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgSBAQ2kUFm",
+        "kind": "carousel",
+        "at": 1795860876
+      },
+      "instagram": {
+        "id": "17897202489435070",
+        "permalink": "https://www.instagram.com/reel/DgSBQRfs0T8/",
+        "kind": "reel",
+        "at": 1795861024
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1795861034
+      },
+      "tiktok": {
+        "id": "7713177186504641799",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7713177186504641799",
+        "kind": "video",
+        "at": 1795864125
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795864135
   }
 ]
