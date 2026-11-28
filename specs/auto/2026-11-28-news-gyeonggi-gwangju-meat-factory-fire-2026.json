@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-28-news-gyeonggi-gwangju-meat-factory-fire-2026",
+  "topic": "경기 광주 육가공 공장서 불 한때 대응 1단계 발령",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 12:05 KST",
+  "source": "MBC 뉴스·경기일보·뉴시스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE1tWVRFYnZhVmZKbi1ZQTBLYkI5LTZ6TVoxOW1CNEp5bUd0cVVUbmZ0VHliRlBxOGhWR2FBWlVhSzJrLXhNS1BfQUx6bmhSVDJmQl9yb0pFV3Q1aGJ0aW9sMldxZW51QnR5aktzSU9tX0c0YlBad1dJ0gF3QVVfeXFMUEFYSEZtRkFXaFBzSUlKWUtmRjZyMDdjaGtoRHp4U2pINjhPM1pnWmhWekI1VzBINDNjajUtakcyZ3V1QmI2UWNrZWhvVWRrSzVyQ0tSb2NvZkRjU2RZcVYyYWhINTlYcFpybWNIVE9Db2VVWnBXSW8",
+    "related": [
+      [
+        "경기 광주 목현동 공장 화재‥대응 1단계 발령",
+        "MBC 뉴스"
+      ],
+      [
+        "경기 광주 육가공 공장서 불… 한때 대응 1단계",
+        "경기일보"
+      ],
+      [
+        "경기광주 육가공 공장 화재 초진…한때 대응 1단계 발령(종합)",
+        "연합뉴스"
+      ],
+      [
+        "광주 육가공 공장서 불…인명피해 없어",
+        "인천일보"
+      ],
+      [
+        "경기 광주 육가공 공장 화재…대응 1단계 발령",
+        "뉴시스"
+      ]
+    ],
+    "event_key": "gyeonggi_gwangju_meat_factory_fire_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "경기 광주 육가공 공장서 불\n한때 [[대응 1단계]] 발령",
+      "sub": "소방당국이 진화 작업을 벌인 가운데 인명피해는 없는 것으로 확인됐습니다.",
+      "chips": [
+        {
+          "k": "대응",
+          "v": "1단계"
+        }
+      ],
+      "alt": "경기 광주 육가공 공장서 불 한때 대응 1단계 발령",
+      "map": {
+        "lat": 37.4290844,
+        "lon": 127.255189,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n경기 광주",
+      "video_only": true,
+      "map": {
+        "lat": 37.4290844,
+        "lon": 127.255189,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "경기 광주"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공장 화재 발생",
+          "d": "경기도 광주시 목현동의 육가공 공장에서 불이 났습니다 (MBC 뉴스·연합뉴스)."
+        },
+        {
+          "t": "인명피해 없음",
+          "d": "이번 화재로 인한 인명피해는 아직 없는 것으로 파악됐습니다 (인천일보)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "경기 광주 육가공 공장 화재",
+        "한때 대응 1단계 발령",
+        "인명피해 없음"
+      ],
+      "unconfirmed": [
+        "정확한 화재 원인",
+        "재산 피해 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "경기일보",
+        "뉴시스",
+        "연합뉴스",
+        "인천일보",
+        "2026.11.28 14:15 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 경기 광주 육가공 공장서 불… 한때 대응 1단계 발령\n\n· 경기도 광주시 목현동 소재 육가공 공장에서 화재 발생 (MBC 뉴스·연합뉴스)\n· 소방당국 한때 대응 1단계 발령 후 진화 작업 진행 (연합뉴스·경기일보)\n· 현재까지 파악된 인명피해는 없는 것으로 확인 (인천일보)\n\n출처: 연합뉴스·MBC 뉴스·경기일보 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "경기도 광주의 한 육가공 공장에서 불이 나서 소방당국이 한때 대응 1단계를 발령했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "MBC 뉴스와 연합뉴스 등은 목현동의 육가공 공장 건물에서 화재가 발생했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "인천일보는 현재까지 확인된 인명피해는 없다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 화재 원인과 재산 피해 규모는 아직 조사 중입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "경기 광주 육가공 공장서 불\n한때 [[대응 1단계]] 발령",
+  "broll": [
+    "factory fire smoke",
+    "firefighters truck"
+  ],
+  "place_en": "Gwangju, Gyeonggi-do, South Korea"
+}

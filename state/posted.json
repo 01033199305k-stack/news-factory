@@ -51935,5 +51935,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795842502
+  },
+  {
+    "slug": "2026-11-28-news-gyeonggi-gwangju-meat-factory-fire-2026",
+    "event_ms": 1795835125000,
+    "category": "폭발·화재",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 경기 광주 육가공 공장서 불… 한때 대응 1단계 발령\n\n· 경기도 광주시 목현동 소재 육가공 공장에서 화재 발생 (MBC 뉴스·연합뉴스)\n· 소방당국 한때 대응 1단계 발령 후 진화 작업 진행 (연합뉴스·경기일보)\n· 현재까지 파악된 인명피해는 없는 것으로 확인 (인천일보)\n\n출처: 연합뉴스·MBC 뉴스·경기일보 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "폭발화재",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17959055838321075",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgRe7DYDj3_",
+        "kind": "carousel",
+        "at": 1795843006
+      },
+      "instagram": {
+        "id": "18139227472675908",
+        "permalink": "https://www.instagram.com/reel/DgRfLI2tp_5/",
+        "kind": "reel",
+        "at": 1795843156
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (폭발·화재)",
+        "at": 1795843166
+      },
+      "tiktok": {
+        "id": "7713087130544688436",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7713087130544688436",
+        "kind": "video",
+        "at": 1795843288
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795843298
   }
 ]
