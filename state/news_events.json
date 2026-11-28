@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "tesla_cybertruck_production_end_2026",
-    "topic": "테슬라 사이버트럭 생산 중단 결정",
-    "slug": "2026-11-07-news-tesla-cybertruck-production-end-2026",
-    "cluster": "CBMiggFBVV95cUxOT3BET3ZQajVOVnRXaEdyMTZydUZQYTNWN2Z5TG5GczZ2SzdPYkRTcDFPWURnN3RfM21KZGNlMl9odXVBNlVGamxianpvTGZXa25jZ05uc3M0bTR3VkJBbFp0c1ZQUEY5b2l2MHFFV3hsSXRkb3dNQ1Q3WEEyMVRadnBR",
-    "badge": "breaking",
-    "at": 1793995661.433972,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
     "event_key": "ireland_waterford_arson_child_death_2026",
     "topic": "아일랜드 방화 참사로 6세 어린이 숨져",
     "slug": "2026-11-07-news-ireland-waterford-arson-child-death-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795835922.6988084,
     "country": "스페인",
     "category": "사고"
+  },
+  {
+    "event_key": "israel_gaza_airstrike_hamas_leader_son_2026",
+    "topic": "이스라엘 가자 공습 하마스 수장 아들 표적",
+    "slug": "2026-11-28-news-israel-gaza-airstrike-hamas-leader-son-2026",
+    "cluster": "CBMiqgFBVV95cUxPalcySG5PbUR1bkhhNjFMd3FadXRiRzQzLXk3dzhqYkxaeTBOSXR2cUE2M3hMTXE4dG5lYmxKSFRSSGVLanNjLVZ2dWV3VnR4LWVJVjJmbHNicGlNaTFNbEVtRV9RRE4teW1EdXlsZ0Y5VXZhcmdoaE9KZXVuajdrclQ3Z05GcXlONDF1R25LWjFJTS11bEFGblpQbThJM0R6SEhDMjRBZHJBQQ",
+    "badge": "breaking",
+    "at": 1795838387.5074444,
+    "country": "팔레스타인",
+    "category": "국제"
   }
 ]

@@ -1,0 +1,145 @@
+{
+  "slug": "2026-11-28-news-israel-gaza-airstrike-hamas-leader-son-2026",
+  "topic": "이스라엘 가자 공습 하마스 수장 아들 표적",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 10:25 KST",
+  "source": "Al Jazeera·Reuters·Sky News 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiqgFBVV95cUxPalcySG5PbUR1bkhhNjFMd3FadXRiRzQzLXk3dzhqYkxaeTBOSXR2cUE2M3hMTXE4dG5lYmxKSFRSSGVLanNjLVZ2dWV3VnR4LWVJVjJmbHNicGlNaTFNbEVtRV9RRE4teW1EdXlsZ0Y5VXZhcmdoaE9KZXVuajdrclQ3Z05GcXlONDF1R25LWjFJTS11bEFGblpQbThJM0R6SEhDMjRBZHJBQQ",
+    "related": [
+      [
+        "Son of Hamas chief and his family survive Israeli airstrike, group says",
+        "Sky News"
+      ],
+      [
+        "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+        "Al Jazeera"
+      ],
+      [
+        "Son of Hamas chief survives Israeli strike, Hamas says",
+        "Reuters"
+      ],
+      [
+        "Hamas says attempted assassination of its leader’s son is continuation of ‘criminal policy’",
+        "The Times of Israel"
+      ],
+      [
+        "Israel Attempts to Assassinate Hamas Leader's Last Surviving Son as Gaza Attacks Escalate",
+        "ASHARQ AL-AWSAT English"
+      ]
+    ],
+    "event_key": "israel_gaza_airstrike_hamas_leader_son_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘 [[가자 공습]]\n하마스 수장 아들 표적",
+      "sub": "공습으로 4명 사망했으나 하마스 수장 아들은 생존했습니다",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "4명"
+        }
+      ],
+      "alt": "이스라엘 가자 공습 하마스 수장 아들 표적",
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -37.7137478,
+        "lon": 145.0748898,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "공습 대상",
+          "d": "이스라엘군이 하마스 수장 칼릴 알하야의 아들을 표적으로 공습을 감행했습니다 (스카이뉴스)."
+        },
+        {
+          "t": "생존 발표",
+          "d": "하마스 측은 수장의 아들과 그의 가족이 공습에서 생존했다고 밝혔습니다 (로이터·스카이뉴스)."
+        },
+        {
+          "t": "사망자 발생",
+          "d": "이번 공습으로 가자지구에서 4명이 숨졌습니다 (알자지라)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "이스라엘군 가자지구 공습",
+        "사망 4명 (알자지라)",
+        "하마스 수장 아들 표적 공격"
+      ],
+      "unconfirmed": [
+        "정확한 부상자 규모",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ASHARQ AL-AWSAT English",
+        "Al Jazeera",
+        "Reuters",
+        "Sky News",
+        "The Times of Israel",
+        "2026.11.28 12:59 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘 가자 공습으로 4명 사망…하마스 수장 아들 표적\n\n· 이스라엘군이 가자지구를 공습해 4명이 숨졌습니다 (알자지라)\n· 공습 대상이었던 하마스 수장 칼릴 알하야의 아들과 가족은 생존했습니다 (로이터·스카이뉴스)\n· 하마스 측은 이번 공격을 암살 시도라며 강하게 비난했습니다 (타임스오브이스라엘)\n\n출처: 스카이뉴스·알자지라·로이터·타임스오브이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군이 가자지구를 공습해 4명이 숨졌다고 알자지라가 전했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "공습은 가자지구에서 일어났습니다.",
+      "card": "map"
+    },
+    {
+      "text": "하마스 측은 수장 칼릴 알하야의 아들을 표적으로 한 공격이었으나 아들과 가족 모두 생존했다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 부상자 규모와 한국인 피해 여부는 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "하마스 [[수장 아들]]\n표적 공습 전말",
+  "broll": [
+    "gaza strip sky",
+    "military airstrike horizon"
+  ],
+  "place_en": "Gaza Strip"
+}
