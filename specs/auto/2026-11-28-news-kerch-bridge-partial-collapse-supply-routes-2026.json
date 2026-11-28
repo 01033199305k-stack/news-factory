@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-28-news-kerch-bridge-partial-collapse-supply-routes-2026",
+  "topic": "러시아 크림대교 붕괴 군 보급 우회로 찾아",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 10:37 KST",
+  "source": "The Guardian·Kyiv Post·UNITED24 Media 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMiTkFVX3lxTFBZb1hwVTdadng4eVRVVWFDQ3l2ZWxURE0tbF9UcW1KRjBEaWg5OENDUjlneDBiaURQMmJLc3Jmb3drNllCeDVWUDRIVm5UZw",
+    "related": [
+      [
+        "Putin’s $3.7 Billion Bridge Is Down. Here’s How It Happened",
+        "Kyiv Post"
+      ],
+      [
+        "‘Trucks on fire and drones overhead’: the Russians risking the long road to Crimea",
+        "The Guardian"
+      ],
+      [
+        "Kerch Bridge Destruction: Politically Embarrassing, Logistically Contained",
+        "Royal United Services Institute (RUSI)"
+      ],
+      [
+        "Russia’s Transport Ministry Quietly Erases Destroyed Crimean Bridge Arch From Graphics",
+        "UNITED24 Media"
+      ],
+      [
+        "Spox Pletenchuk: Russia seeks alternative supply routes for troops after partial collapse of Kerch Bridge",
+        "Ukrinform"
+      ]
+    ],
+    "event_key": "kerch_bridge_partial_collapse_supply_routes_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "러시아 [[크림대교]] 붕괴\n군 보급 우회로 찾아",
+      "sub": "교량 파괴로 병력 보급 차질 빚자 러시아 대체 수송로 모색",
+      "chips": [],
+      "alt": "러시아 크림대교 붕괴 군 보급 우회로 찾아",
+      "map": {
+        "lat": 45.2810409,
+        "lon": 36.5492396,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나\n크림반도 케르치 해협",
+      "video_only": true,
+      "map": {
+        "lat": 45.2810409,
+        "lon": 36.5492396,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "크림반도 케르치 해협"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "크림대교 파괴 확인",
+          "d": "우크라이나 매체와 영국 연구소는 케르치 대교가 파괴돼 일부가 붕괴됐다고 전했습니다 (키이우 포스트·RUSI)."
+        },
+        {
+          "t": "군 대체 보급로 모색",
+          "d": "우크라이나 대변인은 러시아군이 교량 붕괴 후 병력 지원을 위한 대체 보급로를 찾고 있다고 밝혔습니다 (우크린폼)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "케르치 대교(크림대교) 파괴 및 일부 붕괴",
+        "러시아군의 대체 군사 수송로 탐색"
+      ],
+      "unconfirmed": [
+        "구체적인 파괴 경위 및 정밀 피해 규모",
+        "교량 통행 재개 가능 시점",
+        "한국인 피해 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Kyiv Post",
+        "Royal United Services Institute (RUSI)",
+        "The Guardian",
+        "UNITED24 Media",
+        "Ukrinform",
+        "2026.11.28 12:11 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 케르치 대교가 파괴됐습니다.\n\n· 외신들은 크림대교 일부가 무너졌다고 전했습니다 (키이우 포스트·우크린폼).\n· 우크라이나 대변인은 러시아군이 교량 파괴 후 병력 공급을 위한 대체 경로를 모색 중이라고 밝혔습니다 (우크린폼).\n· 크림반도로 향하는 우회 육로에는 화재와 드론 위협이 이어지고 있습니다 (가디언).\n\n이번 교량 파괴가 향후 전황에 어떤 영향을 미칠 것으로 보십니까?\n출처: 키이우 포스트·가디언·우크린폼·RUSI 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "크림대교가 파괴됐습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "키이우 포스트와 우크린폼은 교량 일부가 무너졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "우크라이나 대변인은 러시아가 군 대체 보급로를 찾고 있다고 밝혔습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 파괴 경위와 피해 규모는 아직 확인되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "이번 교량 파괴가 전황에 미칠 영향, 어떻게 보십니까?",
+      "card": "ask",
+      "screen": "여러분 생각은?"
+    }
+  ],
+  "hook": "러시아 [[크림대교]]\n결국 무너졌나",
+  "broll": [
+    "bridge water sea",
+    "military truck road"
+  ],
+  "place_en": "Kerch Strait, Crimea"
+}
