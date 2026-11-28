@@ -1,0 +1,142 @@
+{
+  "slug": "2026-11-28-news-peru-highway-ambush-gold-theft-2026",
+  "topic": "페루 고속도로서 총격 보석 가방 빼앗겨",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 11:57 KST",
+  "source": "India Today·NewsBytes·Sunday World 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMi4gFBVV95cUxOX3VlOHNCdmxyWjB3bFN1UlMwbkp5Tk5YVGRTeGNlLXpNeHVCRDFLNHNBbVE3bmYzMlp4YXJ1SWRueFI0YVh5MXBiWVd3dkJkcjRsY1RTZUhpTnkxcy1vWFVqUGtRUFpab090WDFJZE5OUE4ySGxYcVZ3XzRDNUhuR3pUcWNnX2VfSVl5MGJaVVFhSEc4Y2E5eThKX1did0NwV1ZtZ0t3YkU5SzY3WDZHNVR5clVWcEVIbXozb0dmR2FPa1hHdThDS2JDUG9xNDlWT2JIYXFjaFczOGhUOGRBSk530gHnAUFVX3lxTE5lczFLc004OUdzVE5wWmlsNG1lUllqMzdiWWJPYXZWYmc5UFlsdHVrWTIxUER2S1BoU1J1TERIS1RMOE5RV1dhTXowMGlFTzNQSWt4U05wQWxZRmFScHlQZzBjODJ2b290ZGZCVkNFbHRrSERfUWtvZUdNTmdxdUFqUWJ1WWd6ckdDdlE0bGNDVEk2UDF2RGhiNzRyZDYyMVNnVFNCekc4Q0owMDJ1OEE4UlBzRFJYZkR4UjRTVUNVRmZxVk9SaUFRWm5FX3g1R2NmOHlNSEtMZGY1aDBtNHI3LVk1WUtjQQ",
+    "related": [
+      [
+        "Video: Robbers ambush Indian man in Peru, spray bullets at car, flee with jewellery",
+        "India Today"
+      ],
+      [
+        "Watch: Indian man carrying gold jewellery in car shot at 30 times on Peru highway",
+        "شبكة تواصل الإخبارية"
+      ],
+      [
+        "Gunmen ambush airport-bound car in Callao, injure 2, steal jewelry",
+        "NewsBytes"
+      ],
+      [
+        "Armed attackers shoot up car in daring plot to steal suitcase full of gold in Peru",
+        "Sunday World"
+      ],
+      [
+        "Indian Man Shot In Peru Highway Ambush As Masked Gunmen Fire 30+ Rounds, Steal Gold Jewellery",
+        "شبكة تواصل الإخبارية"
+      ]
+    ],
+    "event_key": "peru_highway_ambush_gold_theft_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "페루 고속도로서 [[총격]]\n보석 가방 빼앗겨",
+      "sub": "인도 국적 남성 탑승 차량 피습",
+      "chips": [
+        {
+          "k": "발사",
+          "v": "30발 이상"
+        },
+        {
+          "k": "부상",
+          "v": "2명"
+        }
+      ],
+      "alt": "페루 고속도로서 총격 보석 가방 빼앗겨",
+      "map": {
+        "lat": -12.0864633,
+        "lon": -77.2234463,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "페루"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "페루\n카야오",
+      "video_only": true,
+      "map": {
+        "lat": -12.0864633,
+        "lon": -77.2234463,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "카야오"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "차량 피습",
+          "d": "공항으로 향하던 차량을 향해 괴한들이 총격을 가했습니다 (뉴스바이트)"
+        },
+        {
+          "t": "금품 탈취",
+          "d": "금 보석이 든 가방을 탈취해 달아났습니다 (인디아 투데이)"
+        },
+        {
+          "t": "부상 발생",
+          "d": "이 사건으로 2명이 다쳤습니다 (뉴스바이트)"
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "총격 30발 이상 발사 (인디아 투데이)",
+        "부상 2명 (뉴스바이트)"
+      ],
+      "unconfirmed": [
+        "용의자 신원 및 검거 여부"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "India Today",
+        "NewsBytes",
+        "Sunday World",
+        "شبكة تواصل الإخبارية",
+        "2026.11.28 14:50 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 페루 고속도로서 총격 30발 이상 발사, 금품 탈취 (인디아 투데이)\n\n· 공항으로 향하던 차량을 향해 괴한들이 총격을 가함 (뉴스바이트)\n· 금 보석이 든 가방을 탈취해 달아남 (인디아 투데이)\n· 부상 2명 발생 (뉴스바이트)\n\n출처: 인디아 투데이·뉴스바이트 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "페루의 한 고속도로에서 인도 국적 남성이 탄 차량이 괴한들의 습격을 받았습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "인디아 투데이는 차량을 향해 30발 이상의 총격이 가해졌다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "괴한들은 금과 보석이 든 가방을 탈취해 달아났으며 이 과정에서 2명이 다쳤습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "페루 고속도로서\n[[총격]] 30발",
+  "broll": [
+    "highway road police",
+    "car bullet holes"
+  ],
+  "place_en": "Callao, Peru"
+}

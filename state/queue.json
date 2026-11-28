@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "2026-11-28-news-peru-highway-ambush-gold-theft-2026",
+    "event_ms": 1795834631000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 페루 고속도로서 총격 30발 이상 발사, 금품 탈취 (인디아 투데이)\n\n· 공항으로 향하던 차량을 향해 괴한들이 총격을 가함 (뉴스바이트)\n· 금 보석이 든 가방을 탈취해 달아남 (인디아 투데이)\n· 부상 2명 발생 (뉴스바이트)\n\n출처: 인디아 투데이·뉴스바이트 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "페루"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18111962507459804",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgRi8Ngm9WF",
+        "kind": "carousel",
+        "at": 1795845115
+      },
+      "instagram": {
+        "id": "17965719684000105",
+        "permalink": "https://www.instagram.com/reel/DgRjMTtoK3p/",
+        "kind": "reel",
+        "at": 1795845268
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1795845278
+      }
+    },
+    "attempts": {
+      "tiktok": 1
+    },
+    "video": "video.mp4"
+  }
+]

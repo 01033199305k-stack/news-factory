@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "paraguay_president_impeached_arrested_2026",
-    "topic": "파라과이 대통령 탄핵 및 체포 신임 대통령 취임",
-    "slug": "2026-11-07-news-paraguay-president-impeached-arrested-2026",
-    "cluster": "CBMiW0FVX3lxTE13U2tMV01VSGd5ekZEWjNpRFh6SWhYMlFrNUNwa3Z2dkFrcmcxa29WcFNCUkNIbzZSS1NfVEtuWDJyZ1BwNV85ZW1oT2VBaUNVemNvUEdiVEJuTVE",
-    "badge": "breaking",
-    "at": 1794031681.4778247,
-    "country": "파라과이",
-    "category": "국제"
-  },
-  {
     "event_key": "us_sanctions_iran_related_firms_2026",
     "topic": "미국 정부, 이란 연루 캐나다·인도·튀르키예 기업과 개인에 제재 단행",
     "slug": "2026-11-07-news-us-sanctions-iran-related-firms-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795842962.3315315,
     "country": "대한민국",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "peru_highway_ambush_gold_theft_2026",
+    "topic": "페루 고속도로서 총격 보석 가방 빼앗겨",
+    "slug": "2026-11-28-news-peru-highway-ambush-gold-theft-2026",
+    "cluster": "CBMi4gFBVV95cUxOX3VlOHNCdmxyWjB3bFN1UlMwbkp5Tk5YVGRTeGNlLXpNeHVCRDFLNHNBbVE3bmYzMlp4YXJ1SWRueFI0YVh5MXBiWVd3dkJkcjRsY1RTZUhpTnkxcy1vWFVqUGtRUFpab090WDFJZE5OUE4ySGxYcVZ3XzRDNUhuR3pUcWNnX2VfSVl5MGJaVVFhSEc4Y2E5eThKX1did0NwV1ZtZ0t3YkU5SzY3WDZHNVR5clVWcEVIbXozb0dmR2FPa1hHdThDS2JDUG9xNDlWT2JIYXFjaFczOGhUOGRBSk530gHnAUFVX3lxTE5lczFLc004OUdzVE5wWmlsNG1lUllqMzdiWWJPYXZWYmc5UFlsdHVrWTIxUER2S1BoU1J1TERIS1RMOE5RV1dhTXowMGlFTzNQSWt4U05wQWxZRmFScHlQZzBjODJ2b290ZGZCVkNFbHRrSERfUWtvZUdNTmdxdUFqUWJ1WWd6ckdDdlE0bGNDVEk2UDF2RGhiNzRyZDYyMVNnVFNCekc4Q0owMDJ1OEE4UlBzRFJYZkR4UjRTVUNVRmZxVk9SaUFRWm5FX3g1R2NmOHlNSEtMZGY1aDBtNHI3LVk1WUtjQQ",
+    "badge": "breaking",
+    "at": 1795845065.3230762,
+    "country": "페루",
+    "category": "기타 사건"
   }
 ]
