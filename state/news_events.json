@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "jay_rockefeller_dies_at_89",
-    "topic": "미국 가문의 상징이자 전직 상원의원 별세",
-    "slug": "2026-11-07-news-jay-rockefeller-dies-at-89",
-    "cluster": "CBMirwFBVV95cUxPZDBJMDRPNVh2YlpfUHRFLTNnNG9YSWJwQ0lEYWpIc1M3Q2c2WW1aLUZKVm9xaGVEMHNkUVpHbXRYLWp0NzB3WlN0VlMxVWxQWFRaSUtJamtqelJoQkdNMGZ4TWpaR1Rya0FKZlRPM2NYRkZMSm9DN1VtNlZNZlc4eXdyT0hVdzR2VHNVbWs0emtkRjdwRVlFQmhSbzhGMFBlVUZhTzdJamRhTDlmdVRB",
-    "badge": "breaking",
-    "at": 1793988467.7928298,
-    "country": "미국",
-    "category": "국제"
-  },
-  {
     "event_key": "tesla_cybertruck_production_end_2026",
     "topic": "테슬라 사이버트럭 생산 중단 결정",
     "slug": "2026-11-07-news-tesla-cybertruck-production-end-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795835494.3352242,
     "country": "우크라이나",
     "category": "국제"
+  },
+  {
+    "event_key": "spain_canary_islands_migrant_boat_tragedy_2026",
+    "topic": "스페인 카나리아제도 해상서 이주민 배 사고",
+    "slug": "2026-11-28-news-spain-canary-islands-migrant-boat-tragedy-2026",
+    "cluster": "CBMimwJBVV95cUxNRkxRdWxxRDhhOWFmdlpRZTdDeTBiYUVXeUtjdDhjQlpsaFNENHhDQ1p3TEx3WEtSd1dKcmNYbHdESjY4UnhaR3ZlU0ZIZV8zMlpuNEl5U25QTFdvdWFidXI1VTB0T3J3c3Z4NndGLWt3SDROSEpZUTExVUpGdC1HVUtZUGRjeU4zV183SENpUlRjZUVXeVUwMVlaYUFUQUh3V3pRX3Nra0JiWjRoNC05RXZXWnhfUVVfRGFjdUpRV2FyVmFsZDg3aFNFRUJ3cmloS2pFWjhRVG1jQXA5TU40eGo3SFJMdWgtdmhDYVM1Q0VEN3h2b0ZXb0xHNkFnMnZ5RnphZXkxdDRSS3Z6TXdBWDA2X2hmeUx0UlJn",
+    "badge": "breaking",
+    "at": 1795835922.6988084,
+    "country": "스페인",
+    "category": "사고"
   }
 ]

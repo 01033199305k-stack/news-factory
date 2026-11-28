@@ -51774,5 +51774,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795835882
+  },
+  {
+    "slug": "2026-11-28-news-spain-canary-islands-migrant-boat-tragedy-2026",
+    "event_ms": 1795825440000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 스페인 카나리아제도 해상서 이주민 배 사고로 최소 8명 숨져\n\n· 사망자 수 매체별 집계 차이 있음 (8~10명) (더타임스오브인디아·머니컨트롤)\n· 생존자 6명 병원 이송 (더타임스오브인디아)\n\n출처: 더타임스오브인디아·머니컨트롤 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "사고",
+      "스페인"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18121142081587782",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgRRfwRDtl3",
+        "kind": "carousel",
+        "at": 1795835968
+      },
+      "instagram": {
+        "id": "18111062714283230",
+        "permalink": "https://www.instagram.com/reel/DgRRsfKOFyC/",
+        "kind": "reel",
+        "at": 1795836090
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1795836101
+      },
+      "tiktok": {
+        "id": "7713057327804452116",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7713057327804452116",
+        "kind": "video",
+        "at": 1795836222
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795836232
   }
 ]
