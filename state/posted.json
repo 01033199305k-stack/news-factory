@@ -51988,5 +51988,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795843298
+  },
+  {
+    "slug": "2026-11-28-news-incheon-yeongjongdo-kayak-accident",
+    "event_ms": 1795843713000,
+    "category": "사고",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 인천 영종도 바다서 카약 전복…초등학생·아버지 극적 구조\n\n· 뒤집힌 카약에 매달려 버틴 초등학생과 아버지가 저체온증으로 이송됐습니다 (MBC·연합뉴스)\n· 사고 당시 함께 있던 반려견은 실종된 것으로 전해졌습니다 (경기일보)\n\n출처: MBC·연합뉴스·뉴시스 보도 종합",
+    "topic_tag": "사건사고",
+    "hashtags": [
+      "사건사고",
+      "사고",
+      "대한민국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "17959125546030860",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgRkwvfFg_a",
+        "kind": "carousel",
+        "at": 1795846067
+      },
+      "instagram": {
+        "id": "18110590022459105",
+        "permalink": "https://www.instagram.com/reel/DgRlGXJOK8O/",
+        "kind": "reel",
+        "at": 1795846262
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (사고)",
+        "at": 1795846296
+      },
+      "tiktok": {
+        "id": "7713102024841252103",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7713102024841252103",
+        "kind": "video",
+        "at": 1795846642
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795846652
   }
 ]

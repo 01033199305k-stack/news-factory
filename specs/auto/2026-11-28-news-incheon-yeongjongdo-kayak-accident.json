@@ -1,0 +1,139 @@
+{
+  "slug": "2026-11-28-news-incheon-yeongjongdo-kayak-accident",
+  "topic": "인천 영종도 바다서 카약 전복… 초등학생·아버지 극적 구조",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 14:28 KST",
+  "source": "MBC 뉴스·경기일보·뉴시스 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMid0FVX3lxTE9jWS13Tmo1elpJeHhZbXBhbmRpODB0bi1hZWNSdEtNRUg2V0FReVhEZlBUX2ZWS2JEVkxHMnBiYVo0c05UZHFrenJCa3otSERtMkVNU2hJM2xjOTVURmd4NDhvVjFUQWNydkNNUUpIUHdSY2tOZEIw0gF3QVVfeXFMT2lyUmM4WUpneGE4dlljQkF3SXUyVE56ejhGMzVoSzJtVG5uTUk0TFpOaU5XVVprRDlHR3NwQWt5UUVGUE4ySE9uVmQ4dFlEVFpxd1NWWV9udnA3Rk5PYmpzSndWQjZJeFJCNXZMWDBadzhIdEhHb2s",
+    "related": [
+      [
+        "인천 영종도 바다서 카약 뒤집혀‥저체온증 초등학생·아버지 구조",
+        "MBC 뉴스"
+      ],
+      [
+        "[속보] 인천 앞바다 뒤집힌 카약에 매달려 버틴 부자 ‘극적구조’...반려견은 실종",
+        "경기일보"
+      ],
+      [
+        "인천 왕산해수욕장 인근 해상서 카약 전복…2명 구조",
+        "뉴시스"
+      ],
+      [
+        "영종도 바다서 카약 뒤집혀…저체온증 초등생·아버지 이송",
+        "연합뉴스TV"
+      ],
+      [
+        "인천 영종도 바다서 카약 뒤집혀…저체온증 10대 이송",
+        "연합뉴스"
+      ]
+    ],
+    "event_key": "incheon_yeongjongdo_kayak_accident"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "인천 영종도 바다서 [[카약]] 전복…\n초등학생·아버지 극적 구조",
+      "sub": "뒤집힌 카약에 매달려 버틴 부자는 저체온증으로 이송됐으며 반려견은 실종됐습니다 (경기일보).",
+      "chips": [
+        {
+          "k": "구조",
+          "v": "2명"
+        },
+        {
+          "k": "장소",
+          "v": "인천 영종도 바다"
+        }
+      ],
+      "alt": "인천 영종도 바다서 카약 전복… 초등학생·아버지 극적 구조",
+      "map": {
+        "lat": 37.456,
+        "lon": 126.7052,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "대한민국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "대한민국\n인천 영종도",
+      "video_only": true,
+      "map": {
+        "lat": 37.456,
+        "lon": 126.7052,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "인천 영종도"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "부자 구조",
+          "d": "카약이 뒤집히면서 바다에 빠진 초등학생과 아버지는 전복된 카약에 매달려 버티다 구조됐습니다 (MBC·연합뉴스)."
+        },
+        {
+          "t": "반려견 실종",
+          "d": "함께 있던 반려견은 실종 상태로 전해졌습니다 (경기일보)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "인천 영종도 해상 카약 전복 사고 (MBC·연합뉴스)",
+        "초등학생과 아버지 구조 후 이송 (연합뉴스·뉴시스)"
+      ],
+      "unconfirmed": [
+        "정확한 사고 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "MBC 뉴스",
+        "경기일보",
+        "뉴시스",
+        "연합뉴스",
+        "연합뉴스TV",
+        "2026.11.28 15:06 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 인천 영종도 바다서 카약 전복…초등학생·아버지 극적 구조\n\n· 뒤집힌 카약에 매달려 버틴 초등학생과 아버지가 저체온증으로 이송됐습니다 (MBC·연합뉴스)\n· 사고 당시 함께 있던 반려견은 실종된 것으로 전해졌습니다 (경기일보)\n\n출처: MBC·연합뉴스·뉴시스 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "인천 영종도 앞바다에서 카약이 뒤집혀 초등학생과 아버지가 극적으로 구조되었습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "연합뉴스는 두 사람이 뒤집힌 카약에 매달려 버티다 저체온증으로 병원에 이송됐다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "함께 있던 반려견은 실종된 상태입니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "영종도 바다서 [[카약]] 전복,\n부자 극적 구조",
+  "broll": [
+    "ocean waves coast",
+    "rescue boat sea"
+  ],
+  "place_en": "Incheon, South Korea"
+}

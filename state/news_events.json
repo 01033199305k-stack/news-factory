@@ -1,25 +1,5 @@
 [
   {
-    "event_key": "us_sanctions_iran_related_firms_2026",
-    "topic": "미국 정부, 이란 연루 캐나다·인도·튀르키예 기업과 개인에 제재 단행",
-    "slug": "2026-11-07-news-us-sanctions-iran-related-firms-2026",
-    "cluster": "CBMitwFBVV95cUxOUkZpaVVfVFZ3Y2VIY3pzZkJSckJyNnZBMjRGT1lTUXV0bUZ1elBKd3JQVWlFYjZ1NTFMU0xabll1dk1ZRTJzQnVyQ29JaEhmeXZXLWU4TWpJQm9uVUl3SkV5bmgwVFVNaDZRNTJQLVZ3SnJsSTJtNDBpSm05cmVFTW9lb2VuWGZya2FkVnNfWGlxczI2TGxGTGN1VUlHZktzbjBuUUN1U081QkhTN0xUdUkweV9vNUnSAbwBQVVfeXFMUDhaaEt0Y1Jnb1BVQ2VSMEZhd25XZ1FyM05KVTExa2I3eFZOV1F0Q3VMOVBIaTl4V1NOTHloLW9DclN5b2VjY0dveDhXc0s2NUxHMmxNR2o1V2R6SEt2UGlTTlFocFFMeXJpeC1wTzA1d0wzOGhCb1d6X29qZXotVlkwOVMxbjA3X0owMFE3SlByUmQ1X0F0Wm9VOXZvbFNjMWhBTmxtMkN6Q0phYVhRa3pRMHJjOGFiV1ZUeVg",
-    "badge": "breaking",
-    "at": 1794035204.607414,
-    "country": "미국",
-    "category": "경제·과학"
-  },
-  {
-    "event_key": "iran_bushehr_iodine_tablets_distribution_2026",
-    "topic": "이란 원전 인근에 요오드 알약 배포",
-    "slug": "2026-11-07-news-iran-bushehr-iodine-tablets-distribution-2026",
-    "cluster": "CBMi-AFBVV95cUxPSGkyakRUcU1RVFhQMzRBYV9JRUw0ckpMRjY4QUQ3Q0xWUnNzY3FPN0E0SlplNU9zcWs3S3lSWm5xRHprVVBiamF0ODlEMVh6bGFFakF6Y1hPMnNZS1UwaDZQSzg0LXQ1NU9OM1FiRkZfcHlEdnhoR2RWdWkzRk5vNGZ0LUhhVXlEYjNwTUtSMU9iV1d3MzFmRVRLeG5aRUtjWkpBVENtcVhPYjZkcTZ1TG5nb0thdHljc1FteTFLcVhkUVZPSWhGYUQ1Q3FTQ01RWXdDTlVUSHNGcU5qekVON2hRMnI2SEVwSjRkVWN6d3dObjVWYjQ3Yg",
-    "badge": "breaking",
-    "at": 1794057032.0629747,
-    "country": "이란",
-    "category": "국제"
-  },
-  {
     "event_key": "russia_ukraine_airstrike_kyiv_relief_center_2026",
     "topic": "종전 협상 앞두고 대규모 공습 발생",
     "slug": "2026-11-07-news-russia-ukraine-airstrike-kyiv-relief-center-2026",
@@ -2998,5 +2978,25 @@
     "at": 1795845065.3230762,
     "country": "페루",
     "category": "기타 사건"
+  },
+  {
+    "event_key": "israel_gaza_strike_msf_clinic",
+    "topic": "이스라엘군 가자 병원 공습으로 국경없는의사회 직원 2명 사망",
+    "slug": "2026-11-28-news-israel-gaza-strike-msf-clinic",
+    "cluster": "CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB",
+    "badge": "breaking",
+    "at": 1795845958.9089892,
+    "country": "팔레스타인",
+    "category": "국제"
+  },
+  {
+    "event_key": "incheon_yeongjongdo_kayak_accident",
+    "topic": "인천 영종도 바다서 카약 전복… 초등학생·아버지 극적 구조",
+    "slug": "2026-11-28-news-incheon-yeongjongdo-kayak-accident",
+    "cluster": "CBMid0FVX3lxTE9jWS13Tmo1elpJeHhZbXBhbmRpODB0bi1hZWNSdEtNRUg2V0FReVhEZlBUX2ZWS2JEVkxHMnBiYVo0c05UZHFrenJCa3otSERtMkVNU2hJM2xjOTVURmd4NDhvVjFUQWNydkNNUUpIUHdSY2tOZEIw0gF3QVVfeXFMT2lyUmM4WUpneGE4dlljQkF3SXUyVE56ejhGMzVoSzJtVG5uTUk0TFpOaU5XVVprRDlHR3NwQWt5UUVGUE4ySE9uVmQ4dFlEVFpxd1NWWV9udnA3Rk5PYmpzSndWQjZJeFJCNXZMWDBadzhIdEhHb2s",
+    "badge": "breaking",
+    "at": 1795845990.8018703,
+    "country": "대한민국",
+    "category": "사고"
   }
 ]

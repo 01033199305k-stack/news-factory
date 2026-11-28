@@ -1,0 +1,131 @@
+{
+  "slug": "2026-11-28-news-israel-gaza-strike-msf-clinic",
+  "topic": "이스라엘군 가자 병원 공습으로 국경없는의사회 직원 2명 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 12:56 KST",
+  "source": "Al Jazeera·Bangkok Post·The Jerusalem Post 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMitAFBVV95cUxNdW1RQnZRUXJic0tMdzhnSUhnRE43YWk3SWhDRkQ4OXdWd1IwcHN6eGNELXNnUGtSaXdjclBCV3pEYThHTVNNcFMxTVFOMlpCb3dOVXp1ZVlGOE9nNGZoV3ZQcVgyeU1hZjgxVEJzSE1Hd3lJMGJzMElwejd5NzZuclptaU5SbE95cmY0Q3BsbngyWjFCNFEwcEF2MUR4dG51cFZDQ2VUZFE1YW0tVEhIN0RCbkTSAboBQVVfeXFMT1RFX1hHdGdmWThISG94RHcxSFJnaWJjcjdYcEtVbDVYVVJpV1VOOFZKd3Q0NUVTNTJ6anpuV0JIanMyV0puR2lrUlVfbVNQTFFRLXVBQ0VWQk1BR2x6aTFTTmFsZE9VTHowdm5INGNEMjhuZElIa29hcVZUMFBlZ09JOTdVNFdyMkhnaEVnbWhmV1JrQ2VSdi1XOGFSTGluSmFuNE9Ycm96SE5WT1pta2tfY1A1QmZPS3JB",
+    "related": [
+      [
+        "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+        "Al Jazeera"
+      ],
+      [
+        "IDF kills two Hamas terrorists who also worked for Doctors Without Borders, military says",
+        "The Jerusalem Post"
+      ],
+      [
+        "IDF says Gaza strike killed two terror operatives working for Doctors Without Borders",
+        "The Times of Israel"
+      ],
+      [
+        "IDF eliminates two Hamas terrorists working for Doctors Without Borders in Gaza, military says",
+        "Ynetnews"
+      ],
+      [
+        "Israel says it killed two ‘terrorists’ working at clinic",
+        "Bangkok Post"
+      ]
+    ],
+    "event_key": "israel_gaza_strike_msf_clinic"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "이스라엘군 가자 병원 공습으로\n[[국경없는의사회]] 직원 2명 사망",
+      "sub": "이스라엘 군 당국은 사망한 직원들이 하마스 테러 조직원들이었다고 밝혔습니다.",
+      "chips": [
+        {
+          "k": "사망",
+          "v": "2명"
+        },
+        {
+          "k": "기관",
+          "v": "국경없는의사회"
+        }
+      ],
+      "alt": "이스라엘군 가자 병원 공습으로 국경없는의사회 직원 2명 사망",
+      "map": {
+        "lat": -23.328398,
+        "lon": 32.8066057,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "팔레스타인"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "팔레스타인\n가자지구",
+      "video_only": true,
+      "map": {
+        "lat": -23.328398,
+        "lon": 32.8066057,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "가자지구"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "이스라엘군 발표",
+          "d": "이스라엘 군 당국은 공습으로 사망한 이들이 하마스 테러 조직원으로 활동했다고 밝혔습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "국경없는의사회 직원 2명 사망",
+        "이스라엘군 가자 병원 공습"
+      ],
+      "unconfirmed": [
+        "정확한 공습 경위"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Al Jazeera",
+        "Bangkok Post",
+        "The Jerusalem Post",
+        "The Times of Israel",
+        "Ynetnews",
+        "2026.11.28 15:05 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 이스라엘군 가자 병원 공습으로 국경없는의사회 직원 2명 사망\n\n· 이스라엘 군 당국은 사망한 직원들이 하마스 테러 조직원이었다고 밝혔습니다\n\n출처: 알자지라·예루살렘 포스트·타임스 오브 이스라엘 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "이스라엘군의 가자지구 병원 공습으로 국경없는의사회 직원 2명이 숨졌습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "이스라엘 군 당국은 사망자들이 하마스 테러 조직원이었다고 밝혔습니다.",
+      "card": "points"
+    }
+  ],
+  "hook": "가자지구 병원 공습,\n[[국경없는의사회]] 직원 사망",
+  "broll": [
+    "hospital building exterior",
+    "smoke over city"
+  ],
+  "place_en": "Gaza"
+}
