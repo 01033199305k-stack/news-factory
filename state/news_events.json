@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "ireland_waterford_arson_child_death_2026",
-    "topic": "아일랜드 방화 참사로 6세 어린이 숨져",
-    "slug": "2026-11-07-news-ireland-waterford-arson-child-death-2026",
-    "cluster": "CBMiXkFVX3lxTE1XaWtQLTNVTGFQWXZnV0t3bFFNNXU4enFMT3d6REg3LVpzM2I4cGt3S3pYTmtSZEFMWFJjRzIxLWxHS1RLXzM5alhxWUY2djJiQkpWUDJlWmxsVVBHUnc",
-    "badge": "breaking",
-    "at": 1794010662.7646186,
-    "country": "아일랜드",
-    "category": "사고"
-  },
-  {
     "event_key": "iran_qeshm_island_missile_strike_2026",
     "topic": "이란 케슘섬에 미사일 2발 피격",
     "slug": "2026-11-07-news-iran-qeshm-island-missile-strike-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795838387.5074444,
     "country": "팔레스타인",
     "category": "국제"
+  },
+  {
+    "event_key": "wwe_star_bronson_reed_dies_at_38",
+    "topic": "프로레슬러 브론슨 리드 38세의 나이로 사망",
+    "slug": "2026-11-28-news-wwe-star-bronson-reed-dies-at-38",
+    "cluster": "CBMi0AFBVV95cUxOTzVBN2xLZDRHNWVJSWNSenQzVnc3UDVvOXYtTFhEeE9rbVF3LThvUGV0Sk1WVmwxUEQtWU1UNXk3ZE4tV0JmQkxvc1kxQjBNUVdYa3I1a1ZMdzhnTTNHVjBzQlQ2ZktOUWxWekR0UDhidDczQkRiNEtUOVpsc0J1dFZJYnFGaDFsa0J2ODdWem5MSmRLNTZzZ2p3VUF3Q3hKOUNDRC14NmpWbVdfd294QnRzUVlyRF9FZGNNRGpYQ2d4T1JWZTVqQmd6NDBVV2NH",
+    "badge": "breaking",
+    "at": 1795842169.2460043,
+    "country": "미국",
+    "category": "기타 사건"
   }
 ]

@@ -1,0 +1,143 @@
+{
+  "slug": "2026-11-28-news-wwe-star-bronson-reed-dies-at-38",
+  "topic": "프로레슬러 브론슨 리드 38세의 나이로 사망",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 11:12 KST",
+  "source": "ESPN·TheWrap·WFAA 등 4개 매체 보도 종합",
+  "news": {
+    "id": "CBMi0AFBVV95cUxOTzVBN2xLZDRHNWVJSWNSenQzVnc3UDVvOXYtTFhEeE9rbVF3LThvUGV0Sk1WVmwxUEQtWU1UNXk3ZE4tV0JmQkxvc1kxQjBNUVdYa3I1a1ZMdzhnTTNHVjBzQlQ2ZktOUWxWekR0UDhidDczQkRiNEtUOVpsc0J1dFZJYnFGaDFsa0J2ODdWem5MSmRLNTZzZ2p3VUF3Q3hKOUNDRC14NmpWbVdfd294QnRzUVlyRF9FZGNNRGpYQ2d4T1JWZTVqQmd6NDBVV2NH",
+    "related": [
+      [
+        "'At a loss for words': Wrestling world mourns Bronson Reed's shocking death at 38",
+        "Yahoo Sports"
+      ],
+      [
+        "WWE star Jermaine Haley, known in ring as Bronson Reed, dies at 38",
+        "ESPN"
+      ],
+      [
+        "Bronson Reed, WWE Star, Dead at 38",
+        "TheWrap"
+      ],
+      [
+        "Watch Kevin Owens honor Bronson Reed with in-ring tribute, speech at WWE Athens",
+        "Yahoo Sports"
+      ],
+      [
+        "Australian pro wrestler Bronson Reed dies at 38, WWE confirms",
+        "WFAA"
+      ]
+    ],
+    "event_key": "wwe_star_bronson_reed_dies_at_38"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "breaking",
+      "title": "프로레슬러 [[브론슨 리드]]\n38세의 나이로 사망",
+      "sub": "호주 출신 WWE 스타 선수로 활동해 왔습니다",
+      "chips": [
+        {
+          "k": "나이",
+          "v": "38세"
+        },
+        {
+          "k": "고인",
+          "v": "브론슨 리드"
+        }
+      ],
+      "alt": "프로레슬러 브론슨 리드 38세의 나이로 사망",
+      "map": {
+        "lat": 33.9597677,
+        "lon": -83.376398,
+        "zoom": 2.2,
+        "h": 400,
+        "label": "미국"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "미국\n아테네",
+      "video_only": true,
+      "map": {
+        "lat": 33.9597677,
+        "lon": -83.376398,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "아테네"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "WWE 확인",
+          "d": "호주 출신 프로레슬러 브론슨 리드의 사망 소식을 WWE 측이 공식 확인했습니다 (WFAA)."
+        },
+        {
+          "t": "추모 행렬",
+          "d": "링 위에서 동료 선수 케빈 오웬스가 추모 연설을 진행하며 애도를 표했습니다 (Yahoo Sports)."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "사망 나이 38세",
+        "WWE 스타 선수 브론슨 리드 사망"
+      ],
+      "unconfirmed": [
+        "한국인 피해 여부",
+        "정확한 사망 원인"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "ESPN",
+        "TheWrap",
+        "WFAA",
+        "Yahoo Sports",
+        "2026.11.28 14:02 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[속보] 프로레슬러 브론슨 리드 38세의 나이로 사망\n\n· 호주 출신 프로레슬러의 사망 소식을 WWE 측이 공식 확인했습니다 (WFAA)\n· 동료 선수 케빈 오웬스가 링 위에서 추모 연설을 진행하며 애도를 표했습니다 (Yahoo Sports)\n\n출처: Yahoo Sports·ESPN·TheWrap·WFAA 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "호주 출신 프로레슬러 브론슨 리드가 38세의 나이로 사망했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "WFAA 등 외신은 WWE 측이 이 같은 소식을 공식 확인했다고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "링 위에서 동료 선수들의 추모 연설이 이어졌습니다.",
+      "card": "points"
+    },
+    {
+      "text": "정확한 사망 원인은 아직 확인되지 않았습니다.",
+      "card": "check"
+    }
+  ],
+  "hook": "프로레슬러 [[브론슨 리드]]\n갑작스러운 사망",
+  "broll": [
+    "wrestling ring arena",
+    "sports stadium lights"
+  ],
+  "place_en": "Athens, United States"
+}

@@ -51882,5 +51882,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795838776
+  },
+  {
+    "slug": "2026-11-28-news-wwe-star-bronson-reed-dies-at-38",
+    "event_ms": 1795831920000,
+    "category": "기타 사건",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[속보] 프로레슬러 브론슨 리드 38세의 나이로 사망\n\n· 호주 출신 프로레슬러의 사망 소식을 WWE 측이 공식 확인했습니다 (WFAA)\n· 동료 선수 케빈 오웬스가 링 위에서 추모 연설을 진행하며 애도를 표했습니다 (Yahoo Sports)\n\n출처: Yahoo Sports·ESPN·TheWrap·WFAA 보도 종합",
+    "topic_tag": "해외사건사고",
+    "hashtags": [
+      "해외사건사고",
+      "기타 사건",
+      "미국"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18459394318126629",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgRdagdDcZt",
+        "kind": "carousel",
+        "at": 1795842216
+      },
+      "instagram": {
+        "id": "18156482821547828",
+        "permalink": "https://www.instagram.com/reel/DgRdpu1PIAf/",
+        "kind": "reel",
+        "at": 1795842360
+      },
+      "youtube": {
+        "skipped": "유튜브는 국제·경제 소식만 (기타 사건)",
+        "at": 1795842370
+      },
+      "tiktok": {
+        "id": "7713084247594061077",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7713084247594061077",
+        "kind": "video",
+        "at": 1795842492
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795842502
   }
 ]
