@@ -1,0 +1,141 @@
+{
+  "slug": "2026-11-28-news-ukraine-laser-weapon-downs-russian-drone-2026",
+  "topic": "레이저 무기로 러시아 드론 첫 요격",
+  "brand": "지금 세계",
+  "theme": "night",
+  "time": "2026.11.28 16:35 KST",
+  "source": "France 24·The Independent·The Telegraph 등 5개 매체 보도 종합",
+  "news": {
+    "id": "CBMixAFBVV95cUxPaWpCbWJkWEZhQXY2d2RLYmFJcXoyUWQxbGF1LTk3dThibG5OemRqRktFVm1vVDFtNUl0Tk45Tko4RENWMGJKU2FEUjF4NFdBdUFUS0dWcl9ZSk5aQ1B5d2g3b0VMUElzWnRwOC1lQlhGOXhWYWVhTUhYdzVESVFaSEg2cmpDMGh1QXR1UEk1dUtfd3N6Y0hLNjRvbE0xVlZVWS1YNGI3NnJEcXVWZG5tN3l3VlpkZm9VUUVTY0lkZmY4V2JP",
+    "related": [
+      [
+        "Russia downs drones as Kyiv reports first jet drone shot down by laser",
+        "Euronews.com"
+      ],
+      [
+        "Ukraine downs Russian drone with laser in combat first",
+        "The Times"
+      ],
+      [
+        "Ukraine uses lasers to shoot down Russian drone for first time",
+        "The Telegraph"
+      ],
+      [
+        "Ukraine-Russia war latest: Kyiv uses laser to shoot down Russian drone after Zelensky hits out at Trump",
+        "The Independent"
+      ],
+      [
+        "Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault",
+        "France 24"
+      ]
+    ],
+    "event_key": "ukraine_laser_weapon_downs_russian_drone_2026"
+  },
+  "cards": [
+    {
+      "type": "cover",
+      "badge": "brief",
+      "title": "[[레이저 무기]]로\n러시아 드론 첫 요격",
+      "sub": "우크라이나군 실전 첫 격추 성공",
+      "chips": [
+        {
+          "k": "격추 대상",
+          "v": "러시아 드론"
+        }
+      ],
+      "alt": "레이저 무기로 러시아 드론 첫 요격",
+      "map": {
+        "lat": 49.4871968,
+        "lon": 31.2718321,
+        "zoom": 1.0,
+        "h": 400,
+        "label": "우크라이나"
+      }
+    },
+    {
+      "type": "map",
+      "eyebrow": "어디서",
+      "title": "우크라이나",
+      "video_only": true,
+      "map": {
+        "lat": 49.4871968,
+        "lon": 31.2718321,
+        "zoom": 0.6,
+        "h": 700,
+        "ring": 18,
+        "label": "우크라이나"
+      },
+      "alt": "발생 위치 지도"
+    },
+    {
+      "type": "points",
+      "title": "핵심 정리",
+      "items": [
+        {
+          "t": "실전 첫 요격 성공",
+          "d": "우크라이나군이 레이저 무기를 활용해 러시아 드론을 실전에서 처음으로 요격했습니다."
+        },
+        {
+          "t": "레이저 기술 활용",
+          "d": "레이저 기술을 활용해 러시아 드론 격추에 성공했다고 외신들이 전했습니다."
+        }
+      ],
+      "alt": "핵심 정리"
+    },
+    {
+      "type": "check",
+      "confirmed": [
+        "우크라이나 군의 레이저 무기 사용",
+        "러시아 드론 실전 요격 성공"
+      ],
+      "unconfirmed": [
+        "사용된 레이저 무기의 세부 사양",
+        "추가 배치 규모"
+      ],
+      "alt": "확인된 사실과 아직 확인되지 않은 사항"
+    },
+    {
+      "type": "outro",
+      "sources": [
+        "Euronews.com",
+        "France 24",
+        "The Independent",
+        "The Telegraph",
+        "The Times",
+        "2026.11.28 21:07 KST 기준"
+      ],
+      "cta": "세계 사건·사고,\n확인된 것만 가장 빠르게",
+      "cta_sub": "팔로우하고 먼저 받아보세요",
+      "alt": "출처와 팔로우 안내"
+    }
+  ],
+  "caption": {
+    "threads": "[정리] 우크라이나군이 레이저 무기로 러시아 드론을 처음 요격했습니다.\n\n· 우크라이나군이 실전에서 레이저 무기로 러시아 드론을 격추했습니다 (더 타임스·더 텔레그래프)\n· 외신들은 우크라이나가 레이저 기술로 드론을 요격한 첫 사례라고 전했습니다 (유로뉴스·프랑스24)\n\n이번 레이저 무기 활용이 향후 전황에 어떤 영향을 줄 것이라 보습니까?\n\n출처: 더 타임스·더 텔레그래프·유로뉴스·프랑스24 보도 종합",
+    "hashtags": []
+  },
+  "narration": [
+    {
+      "text": "우크라이나군이 레이저 무기로 러시아 드론을 처음 요격했습니다.",
+      "card": "cover"
+    },
+    {
+      "text": "더 타임스 등 외신은 우크라이나가 레이저 무기로 드론을 격추한 첫 사례라고 전했습니다.",
+      "card": "points"
+    },
+    {
+      "text": "사용된 레이저 무기의 세부 사양과 추가 배치 규모는 아직 공개되지 않았습니다.",
+      "card": "check"
+    },
+    {
+      "text": "레이저 무기의 실전 활용, 앞으로의 전황에 어떤 영향을 미칠까요?",
+      "card": "ask",
+      "screen": "전황 영향은?"
+    }
+  ],
+  "hook": "[[레이저]]로 드론을\n떨어뜨린 순간",
+  "broll": [
+    "military laser radar",
+    "drone night sky"
+  ],
+  "place_en": "Ukraine"
+}

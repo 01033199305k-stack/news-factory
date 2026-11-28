@@ -1,15 +1,5 @@
 [
   {
-    "event_key": "saudi_houthi_attack_riyadh_2026",
-    "topic": "후티 반군, 사우디 공격 리야드 공항·석유시설 겨냥",
-    "slug": "2026-11-08-news-saudi-houthi-attack-riyadh-2026",
-    "cluster": "CBMi8AFBVV95cUxOaU9McDk3d1hQR0YxeXd4X3hsUmlEU2VWWkQ4UUR5QXBQamlBR3pNU3lCZV92dWh0T0hOYXdQNzdDcWlITkZuTHZUMkE5UjlCdFVQUTVZUGN5VElnTU04YTA5YXRjbm1IV3M0dVF4cWE3bmJtRUgtVGJKcW9aUl9SR3ZOZnNxY0tobVplVWJKX29PWTBaZGE1RTRfWm80aFNvT1ZsVUxnM1BSYUNPbHZCd0VmOVA1TzduRUVhcEJBOGViRmhwdXZadUE5NkFyRHFxdkJ1eVF5a29RVndnTmljc1dZV0oxWXNVdE43anhSdFA",
-    "badge": "breaking",
-    "at": 1794074838.5118046,
-    "country": "사우디아라비아",
-    "category": "국제"
-  },
-  {
     "event_key": "gaza_flooding_displaced_tents_2026",
     "topic": "가자지구 폭우 텐트 수만 채 침수",
     "slug": "2026-11-08-news-gaza-flooding-displaced-tents-2026",
@@ -2998,5 +2988,15 @@
     "at": 1795860829.7242017,
     "country": "아프가니스탄",
     "category": "폭발·화재"
+  },
+  {
+    "event_key": "ukraine_laser_weapon_downs_russian_drone_2026",
+    "topic": "레이저 무기로 러시아 드론 첫 요격",
+    "slug": "2026-11-28-news-ukraine-laser-weapon-downs-russian-drone-2026",
+    "cluster": "CBMixAFBVV95cUxPaWpCbWJkWEZhQXY2d2RLYmFJcXoyUWQxbGF1LTk3dThibG5OemRqRktFVm1vVDFtNUl0Tk45Tko4RENWMGJKU2FEUjF4NFdBdUFUS0dWcl9ZSk5aQ1B5d2g3b0VMUElzWnRwOC1lQlhGOXhWYWVhTUhYdzVESVFaSEg2cmpDMGh1QXR1UEk1dUtfd3N6Y0hLNjRvbE0xVlZVWS1YNGI3NnJEcXVWZG5tN3l3VlpkZm9VUUVTY0lkZmY4V2JP",
+    "badge": "brief",
+    "at": 1795867649.7616594,
+    "country": "우크라이나",
+    "category": "국제"
   }
 ]

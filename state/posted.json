@@ -52257,5 +52257,58 @@
     "video": "video.mp4",
     "status": "done",
     "at": 1795864135
+  },
+  {
+    "slug": "2026-11-28-news-ukraine-laser-weapon-downs-russian-drone-2026",
+    "event_ms": 1795867649761,
+    "category": "국제",
+    "images": [
+      "01_cover.png",
+      "02_points.png",
+      "03_check.png",
+      "04_outro.png"
+    ],
+    "text": "[정리] 우크라이나군이 레이저 무기로 러시아 드론을 처음 요격했습니다.\n\n· 우크라이나군이 실전에서 레이저 무기로 러시아 드론을 격추했습니다 (더 타임스·더 텔레그래프)\n· 외신들은 우크라이나가 레이저 기술로 드론을 요격한 첫 사례라고 전했습니다 (유로뉴스·프랑스24)\n\n이번 레이저 무기 활용이 향후 전황에 어떤 영향을 줄 것이라 보습니까?\n\n출처: 더 타임스·더 텔레그래프·유로뉴스·프랑스24 보도 종합",
+    "topic_tag": "세계뉴스",
+    "hashtags": [
+      "세계뉴스",
+      "국제",
+      "우크라이나"
+    ],
+    "uploaded": [
+      "01_cover.jpg",
+      "02_points.jpg",
+      "03_check.jpg",
+      "04_outro.jpg",
+      "video.mp4"
+    ],
+    "done": {
+      "threads": {
+        "id": "18128875555907891",
+        "permalink": "https://www.threads.com/@jigeum.segye/post/DgSOBHpoOYL",
+        "kind": "carousel",
+        "at": 1795867701
+      },
+      "instagram": {
+        "id": "17917650072559304",
+        "permalink": "https://www.instagram.com/reel/DgSOYlZJXn_/",
+        "kind": "reel",
+        "at": 1795867910
+      },
+      "youtube": {
+        "skipped": "유튜브는 [속보]만 ([정리]는 스레드·인스타·틱톡)",
+        "at": 1795867920
+      },
+      "tiktok": {
+        "id": "7713193092328836358",
+        "permalink": "https://tiktok.com/@jigeum.segye/video/7713193092328836358",
+        "kind": "video",
+        "at": 1795868043
+      }
+    },
+    "attempts": {},
+    "video": "video.mp4",
+    "status": "done",
+    "at": 1795868053
   }
 ]
